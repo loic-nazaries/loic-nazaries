@@ -1,18 +1,21 @@
-# ![header](./images/arcachon.jpg)
+![header](https://github.com/loic-nazaries/loic-nazaries/blob/main/images/arcachon.jpg)
+Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tanja Cotoaga</a> on <a href="https://unsplash.com/s/photos/arcachon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 
 # Hello World! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ## My name is Loïc Nazaries
 
+[<img src="./images/logo-dark.png" align="right" width="200">](https://loic-nazaries.github.io/loic-nazaries-website/)
+
 ### I am a **Data Mining** & **Business Intelligence** Specialist
 
 <details>
-<summary>
-  More stuff about me
-</summary>
+  <summary>
+    More stuff about me
+  </summary>
 
 > I am a **Data Specialist** with over 10 years of experience in the fields of biostatistics, data exploration (**Data Mining**) and **Machine Learning**. I am passionate of the whole **data life cycle**, from modelling a database to its use in the field of **Business Intelligence** through the creation of simple and impactful visuals such as **dashboards**. Thus, **exploratory data analysis** has the potential to strengthen a faster and more clever decision-making process.
-
 </details>
 
 &nbsp;
