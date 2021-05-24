@@ -9,7 +9,7 @@
   More stuff about me
 </summary>
 
-> I am a **Data Specialist** with over 10 years experience in the fields of biostatistics, data exploration (**Data Mining**) and **Machine Learning**. I am passionate of the whole **data life cycle**, from modelling a database to its use in the field of **Business Intelligence** through the creation of simple and impactful visuals such as **dashboards**. Thus, **exploratory data analysis** has the potential to strengthen a faster and more clever decision-making process.
+> I am a **Data Specialist** with over 10 years of experience in the fields of biostatistics, data exploration (**Data Mining**) and **Machine Learning**. I am passionate of the whole **data life cycle**, from modelling a database to its use in the field of **Business Intelligence** through the creation of simple and impactful visuals such as **dashboards**. Thus, **exploratory data analysis** has the potential to strengthen a faster and more clever decision-making process.
 
 </details>
 
