@@ -1,3 +1,5 @@
+# ![header](./images/arcachon.jpg)
+
 # Hello World! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ## My name is Loïc Nazaries
@@ -32,6 +34,8 @@
 [GitHub Badge]: https://github.com/loic-nazaries "GitHub"
 [GitHub Gist Badge]: https://gist.github.com/loic-nazaries "GitHub Gist"
 
+---
+
 ### Technologies
 
 <!-- TODO: Make technologies links takes you to repositories or tutorials -->
@@ -61,11 +65,15 @@
 ![Markdown Badge](https://img.shields.io/badge/-markdown-white?style=for-the-badge&labelColor=black&logo=markdown&logoColor=white)
 ![Microsoft Office Badge](https://img.shields.io/badge/-microsoft_office-red?style=for-the-badge&labelColor=white&logo=microsoft-office&logoColor=red)
 
+---
+
 ### My *Résumé*
 
 :paperclip: In [English](./CV/CV_Nazaries.L_consultant_data_eng.pdf "English CV").
 
 :paperclip: En [Français](./CV/CV_Nazaries.L_consultant_data_fr.pdf "CV en français").
+
+---
 
 ### Profile Stats
 
