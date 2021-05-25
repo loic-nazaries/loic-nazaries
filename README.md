@@ -99,9 +99,20 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ### :newspaper: Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [Getting Started with the Customer Segmentation Using RFM Model](https://codeburst.io/getting-started-with-the-customer-segmentation-using-rfm-model-22610a747051?source=rss-140ffe7d74ee------2)
+- [Various Types of Cross-Validation Techniques for Machine Learning and Statistical Modeling](https://towardsdatascience.com/various-types-of-cross-validation-techniques-for-machine-learning-and-statistical-modeling-d75c9a9f76ec?source=rss-140ffe7d74ee------2)
+- [The Optimization of Fuzzy String Matching Using TF-IDF and KNN](https://towardsdatascience.com/fuzzy-string-matching-optimization-using-tf-idf-and-knn-b07fce69b58f?source=rss-140ffe7d74ee------2)
+- [Introduction to Biplot Analysis: Get Insights based on Indonesia Poverty Data](https://towardsdatascience.com/take-a-decision-based-on-biplot-analysis-on-indonesian-poverty-data-679c28d4ad46?source=rss-140ffe7d74ee------2)
+- [The k-prototype as Clustering Algorithm for Mixed Data Type (Categorical and Numerical)](https://towardsdatascience.com/the-k-prototype-as-clustering-algorithm-for-mixed-data-type-categorical-and-numerical-fe7c50538ebb?source=rss-140ffe7d74ee------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
+- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
+- [An Introduction to NumPy](https://dev.to/gautamkrishnar/an-introduction-to-numpy)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
