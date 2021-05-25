@@ -12,7 +12,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 <details>
   <summary>
-    :briefcase: More stuff about me 
+    :briefcase: More stuff about me
   </summary>
 
 > I am a **Data Specialist** with over 10 years of experience in the fields of biostatistics, data exploration (**Data Mining**) and **Machine Learning**. I am passionate of the whole **data life cycle**, from modelling a database to its use in the field of **Business Intelligence** through the creation of simple and impactful visuals such as **dashboards**. Thus, **exploratory data analysis** has the potential to strengthen a faster and more clever decision-making process.
@@ -68,7 +68,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 <img alt="Visual Studio Code" align="left" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="Tableau" align="left" width="26" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
-<img alt="Google" align="left" width="26" src="https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/images/google.svg" />
+<img alt="Google" align="left" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
 &nbsp;
 
 ---
@@ -103,3 +103,10 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 [linkedin]: https://www.linkedin.com/in/loic-nazaries "LinkedIn"
 [github]: https://github.com/loic-nazaries "GitHub"
 [github_gist]: https://gist.github.com/loic-nazaries "GitHub Gist"
+
+---
+
+### 📚 Latest Medium Story
+<!-- MEDIUM-STORY-LIST:START -->
+
+<!-- MEDIUM-STORY-LIST:END -->
