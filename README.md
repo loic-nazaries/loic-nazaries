@@ -99,11 +99,11 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ### :newspaper: Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
-- [Getting Started with the Customer Segmentation Using RFM Model](https://codeburst.io/getting-started-with-the-customer-segmentation-using-rfm-model-22610a747051?source=rss-140ffe7d74ee------2)
-- [Various Types of Cross-Validation Techniques for Machine Learning and Statistical Modeling](https://towardsdatascience.com/various-types-of-cross-validation-techniques-for-machine-learning-and-statistical-modeling-d75c9a9f76ec?source=rss-140ffe7d74ee------2)
-- [The Optimization of Fuzzy String Matching Using TF-IDF and KNN](https://towardsdatascience.com/fuzzy-string-matching-optimization-using-tf-idf-and-knn-b07fce69b58f?source=rss-140ffe7d74ee------2)
-- [Introduction to Biplot Analysis: Get Insights based on Indonesia Poverty Data](https://towardsdatascience.com/take-a-decision-based-on-biplot-analysis-on-indonesian-poverty-data-679c28d4ad46?source=rss-140ffe7d74ee------2)
-- [The k-prototype as Clustering Algorithm for Mixed Data Type (Categorical and Numerical)](https://towardsdatascience.com/the-k-prototype-as-clustering-algorithm-for-mixed-data-type-categorical-and-numerical-fe7c50538ebb?source=rss-140ffe7d74ee------2)
+- [JavaScript for Data Analysis](https://towardsdatascience.com/javascript-for-data-analysis-2e8e7dbf63a7?source=rss-------8-----------------data_science)
+- [Causal Impact applied to the mobile games industry](https://medium.com/tech-at-wildlife-studios/causal-impact-applied-to-the-mobile-games-industry-2056b31d9ac?source=rss-------8-----------------data_science)
+- [“The last will be first, and the first last”… Insights from the M5-competition](https://johann-robette.medium.com/the-last-will-be-first-and-the-first-last-insights-from-the-m5-competition-f0b9290dc45?source=rss-------8-----------------data_science)
+- [Data Analytics with Power BI](https://mahedihasanjisan.medium.com/data-analytics-with-power-bi-89a208b7c126?source=rss-------8-----------------data_science)
+- [3 Challenges for Aspiring Data Scientists](https://towardsdatascience.com/3-challenges-for-aspiring-data-scientists-ae0c479f31b7?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!-- BLOG-POST-LIST:START -->
