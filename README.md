@@ -75,7 +75,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ### My *Résumé*
 
-:paperclip: In [English](./CV/CV_Nazaries.L_consultant_data_eng.pdf "English CV")
+:paperclip: In [English](https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/CV/CV_Nazaries.L_consultant_data_eng.pdf "English CV")
 &nbsp;
 :paperclip: En [Français](https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/CV/CV_Nazaries.L_consultant_data_fr.pdf "CV en français")
 
@@ -97,6 +97,14 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 :heavy_check_mark: [Create a **Virtual Environment** for Python with the **Conda Package Manager**](https://gist.github.com/loic-nazaries/b18a908473935243fc23586f35d4bacc)
 
+:red_circle: Create a Project GitHub Repository (**coming soon!**)
+
+:red_circle: Deploy a Web App with Heroku (**coming soon!**)
+
+:red_circle: Data Science Project Pipeline (**coming soon!**)
+
+:red_circle: Prepare a Dashboard with Google BigQuery and Google Data Studio (**coming soon!**)
+
 <!-- links to social media accounts -->
 [website]: https://loic-nazaries.github.io/loic-nazaries-website "Loic's Data Science Portfolio"
 [email]: mailto:loicnazaries@yahoo.fr "Yahoo! Mail"
@@ -106,7 +114,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ---
 
-### 📚 Latest Medium Story
+### :newspaper: Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
 
 <!-- MEDIUM-STORY-LIST:END -->
