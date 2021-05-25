@@ -27,7 +27,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 :mailbox: Contact me here&nbsp;
 [![email](https://img.shields.io/badge/-Loïc_Nazaries-purple?style=plastic&labelColor=purple&logo=yahoomail&logoColor=white)][email]
 &nbsp;or here&nbsp;
-[<img alt="Loic's Data Science Portfolio" width="26" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img alt="Loic's Data Science Portfolio" width="26" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][contact_website]
 &nbsp;or find me on&nbsp;
 [<img alt="LinkedIn" width="26" src="https://i.imgur.com/OQUXwNp.jpeg" />][linkedin]
 &nbsp;
@@ -129,6 +129,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 <!-- links to social media accounts -->
 [website]: https://loic-nazaries.github.io/loic-nazaries-website "Loic's Data Science Portfolio"
 [email]: mailto:loicnazaries@yahoo.fr "Yahoo! Mail"
+[contact_website]: https://loic-nazaries.github.io/loic-nazaries-website/#contact "Contact Me"
 [linkedin]: https://www.linkedin.com/in/loic-nazaries "LinkedIn"
 [github]: https://github.com/loic-nazaries "GitHub"
 [github_gist]: https://gist.github.com/loic-nazaries "GitHub Gist"
