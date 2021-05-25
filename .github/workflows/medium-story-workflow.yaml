@@ -1,8 +1,10 @@
 name: Latest Medium story workflow
 on:
+  # Run workflow automatically
   schedule:
-    # Runs every hour
+    # Runs every hour, on the hour
     - cron: "0 * * * *"
+  # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
 
 jobs:
@@ -14,4 +16,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "MEDIUM-STORY-LIST"
-          feed_list: "https://medium.com/feed/@loicnazaries"
+          feed_list: "https://medium.com/feed/@loicnazaries,https://medium.com/feed/@audhiaprilliant,https://medium.com/feed/@khaosdoctor"
