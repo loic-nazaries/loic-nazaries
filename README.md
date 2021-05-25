@@ -1,14 +1,12 @@
-# ![Bassin d'Arcachon, France](https://github.com/loic-nazaries/loic-nazaries/blob/main/images/arcachon.jpg "Bassin d'Arcachon, France")
+# ![Bassin d'Arcachon, France](https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/images/arcachon.jpg "Bassin d'Arcachon, France")
 
 Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tanja Cotoaga</a> on <a href="https://unsplash.com/s/photos/arcachon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-## ![Bassin d'Arcachon, France](https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/images/arcachon.jpg "Bassin d'Arcachon, France")
-
-## Hello Everyone! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi" />
+## Hello Everyone! <img alt="hi" width="26px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
 
 ## My name is Loïc Nazaries :blush:
 
-[<img alt="logo loic" src="https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/images/logo-dark.png" align="right" width="200" />][website]
+[<img alt="logo loic" align="right" width="200" src="https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/images/logo-dark.png" />][website]
 
 ### I am a **Data Mining** & **Business Intelligence** Specialist
 
@@ -26,13 +24,15 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 &nbsp;
 
-:mailbox: Contact me here
+:mailbox: Contact me here&nbsp;
 [![email](https://img.shields.io/badge/-Loïc_Nazaries-purple?style=plastic&labelColor=purple&logo=yahoomail&logoColor=white)][email]
-or here
-[<img alt="Loic's Data Science Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-or find me on
-[<img alt="LinkedIn" src="https://i.imgur.com/OQUXwNp.jpeg" width="26" />][linkedin]
-[<img alt="GitHub" src="https://i.imgur.com/J6LeoUb.png" width="30" />][github]
+&nbsp;or here&nbsp;
+[<img alt="Loic's Data Science Portfolio" width="26" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+&nbsp;or find me on&nbsp;
+[<img alt="LinkedIn" width="26" src="https://i.imgur.com/OQUXwNp.jpeg" />][linkedin]
+&nbsp;
+[<img alt="GitHub" width="30" src="https://i.imgur.com/J6LeoUb.png" />][github]
+&nbsp;
 [![GitHub Gist Badge](https://img.shields.io/badge/-Gist-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white)][github_gist]
 
 ---
@@ -44,8 +44,7 @@ or find me on
 ![Python Badge](https://img.shields.io/badge/-python-yellow?style=for-the-badge&labelColor=yellow&logo=python&logoColor=blue)
 ![SAS Badge](https://img.shields.io/badge/-sas-blue?style=for-the-badge&labelColor=black&logo=sas&logoColor=blue)
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />&nbsp;
-![SQL Badge](https://img.shields.io/badge/-sql-blue?style=for-the-badge)
+<img alt="SQL" align="left" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />![SQL Badge](https://img.shields.io/badge/-sql-blue?style=for-the-badge)
 ![PostgreSQL Badge](https://img.shields.io/badge/-postgresql-blue?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)
 ![Snowflake Badge](https://img.shields.io/badge/-snowflake-66ccf4?style=for-the-badge&labelColor=white&logo=snowflake&logoColor=66ccf4)
 ![Google BigQuery Badge](https://img.shields.io/badge/-google_bigquery-yellow?style=for-the-badge&labelColor=blue&logo=google-big-query&logoColor=blue)
@@ -67,10 +66,10 @@ or find me on
 ![Markdown Badge](https://img.shields.io/badge/-markdown-white?style=for-the-badge&labelColor=black&logo=markdown&logoColor=white)
 ![Microsoft Office Badge](https://img.shields.io/badge/-microsoft_office-red?style=for-the-badge&labelColor=white&logo=microsoft-office&logoColor=red)
 
-<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" align="left" />
-<img alt="Tableau" width="26px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" align="left" />&nbsp;
-
-<img alt="Google" src="https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/images/google.svg">
+<img alt="Visual Studio Code" align="left" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img alt="Tableau" align="left" width="26" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
+<img alt="Google" align="left" width="26" src="https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/images/google.svg" />
+&nbsp;
 
 ---
 
@@ -94,17 +93,9 @@ or find me on
 
 ### :books: My Gists 
 
-#### Create a Virtual Environment with Python :snake:
+:heavy_check_mark: [Create a **Virtual Environment** with Python using the **'venv' Module**](https://gist.github.com/loic-nazaries/c25ce9f7b01b107573796b026522a3ad) :snake:
 
-:heavy_check_mark: How to create a **virtual environment** with Python using the **'venv' module**.
-
-<script src="https://gist.github.com/loic-nazaries/c25ce9f7b01b107573796b026522a3ad.js"></script>
-
-#### Create a Virtual Environment in Python with Conda
-
-:heavy_check_mark: How to create a **virtual environment** for Python with the **package manager Conda**.
-
-<script src="https://gist.github.com/loic-nazaries/b18a908473935243fc23586f35d4bacc.js"></script>
+:heavy_check_mark: [Create a **Virtual Environment** for Python with the **Conda Package Manager**](https://gist.github.com/loic-nazaries/b18a908473935243fc23586f35d4bacc)
 
 <!-- links to social media accounts -->
 [website]: https://loic-nazaries.github.io/loic-nazaries-website "Loic's Data Science Portfolio"
