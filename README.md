@@ -115,6 +115,4 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ---
 
 ### :newspaper: Latest Medium Story
-<!-- MEDIUM-STORY-LIST:START -->
-
-<!-- MEDIUM-STORY-LIST:END -->
+<!-- MEDIUM-STORY-LIST:START --><!-- MEDIUM-STORY-LIST:END -->
