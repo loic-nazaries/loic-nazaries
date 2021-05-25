@@ -81,16 +81,6 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ---
 
-### Profile Stats :chart_with_upwards_trend:
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=loic-nazaries.loic-nazaries)
-
-| Github Stats                                                                                                                                                        | Top Languages                                                                                                                                                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Loïc Nazaries' GitHub Stats](https://github-readme-stats.vercel.app/api?username=loic-nazaries&count_private=true&theme=dracula&show_icons=true&hide_title=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loic-nazaries&exclude_repo=starter_repo,streamlit_heroku_example,awesome-markdown,jupyterlab-git,binder_test,my-first-binder,ipenywis,github-readme-stats&langs_count=10&layout=compact) |
-
----
-
 ### :books: My Gists 
 
 :heavy_check_mark: [Create a **Virtual Environment** with Python using the **'venv' Module**](https://gist.github.com/loic-nazaries/c25ce9f7b01b107573796b026522a3ad) :snake:
@@ -105,22 +95,29 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 :red_circle: Prepare a Dashboard with Google BigQuery and Google Data Studio (**coming soon!**)
 
+---
+
+### :newspaper: Latest Medium Story
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
+
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
+---
+
+### Profile Stats :chart_with_upwards_trend:
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=loic-nazaries.loic-nazaries)
+
+| Github Stats                                                                                                                                                        | Top Languages                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![Loïc Nazaries' GitHub Stats](https://github-readme-stats.vercel.app/api?username=loic-nazaries&count_private=true&theme=dracula&show_icons=true&hide_title=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loic-nazaries&exclude_repo=starter_repo,streamlit_heroku_example,awesome-markdown,jupyterlab-git,binder_test,my-first-binder,ipenywis,github-readme-stats&langs_count=10&layout=compact) |
+
+---
+
 <!-- links to social media accounts -->
 [website]: https://loic-nazaries.github.io/loic-nazaries-website "Loic's Data Science Portfolio"
 [email]: mailto:loicnazaries@yahoo.fr "Yahoo! Mail"
 [linkedin]: https://www.linkedin.com/in/loic-nazaries "LinkedIn"
 [github]: https://github.com/loic-nazaries "GitHub"
 [github_gist]: https://gist.github.com/loic-nazaries "GitHub Gist"
-
----
-
-### :newspaper: Latest Medium Story
-<!-- MEDIUM-STORY-LIST:START -->
-- [Getting Started with the Customer Segmentation Using RFM Model](https://codeburst.io/getting-started-with-the-customer-segmentation-using-rfm-model-22610a747051?source=rss-140ffe7d74ee------2)
-- [Various Types of Cross-Validation Techniques for Machine Learning and Statistical Modeling](https://towardsdatascience.com/various-types-of-cross-validation-techniques-for-machine-learning-and-statistical-modeling-d75c9a9f76ec?source=rss-140ffe7d74ee------2)
-- [The Optimization of Fuzzy String Matching Using TF-IDF and KNN](https://towardsdatascience.com/fuzzy-string-matching-optimization-using-tf-idf-and-knn-b07fce69b58f?source=rss-140ffe7d74ee------2)
-- [Introduction to Biplot Analysis: Get Insights based on Indonesia Poverty Data](https://towardsdatascience.com/take-a-decision-based-on-biplot-analysis-on-indonesian-poverty-data-679c28d4ad46?source=rss-140ffe7d74ee------2)
-- [The k-prototype as Clustering Algorithm for Mixed Data Type (Categorical and Numerical)](https://towardsdatascience.com/the-k-prototype-as-clustering-algorithm-for-mixed-data-type-categorical-and-numerical-fe7c50538ebb?source=rss-140ffe7d74ee------2)
-<!-- MEDIUM-STORY-LIST:END -->
-
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
