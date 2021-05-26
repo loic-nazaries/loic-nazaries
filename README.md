@@ -100,7 +100,18 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ### :newspaper: Latest Medium Stories in **Data Science**
 
-<!-- MEDIUM-STORY-LIST:START --><!-- MEDIUM-STORY-LIST:END -->
+<!-- MEDIUM-STORY-LIST:START -->
+- [What is a Data Lake? It is not a Data Swamp](https://towardsdatascience.com/what-is-a-data-lake-it-is-not-a-data-swamp-376430d6c15e?source=rss-------8-----------------data_science)
+- [Using Flyte to Power MLOps at Striveworks](https://towardsdatascience.com/using-flyte-to-power-mlops-at-striveworks-821c20c0cb2d?source=rss-------8-----------------data_science)
+- [The intuition behind Reinforcement Learning](https://towardsdatascience.com/the-intuition-behind-reinforcement-learning-d88fccbb145b?source=rss-------8-----------------data_science)
+- [How to Deal with Imbalanced Multiclass Datasets in Python](https://towardsdatascience.com/how-to-deal-with-imbalanced-multiclass-datasets-in-python-fe0bb3f2b669?source=rss-------8-----------------data_science)
+- [Exploratory Data Analysis in R: Data Visualization, Summarising, and Machine Learning Model](https://towardsdatascience.com/exploratory-data-analysis-in-r-data-visualization-summarising-and-machine-learning-model-da79439b3952?source=rss-------8-----------------data_science)
+- [Intro to Data Science & Analytics at Nextdoor](https://engblog.nextdoor.com/intro-to-data-science-analytics-at-nextdoor-a7fc8fec30d8?source=rss-------8-----------------data_science)
+- [Quantra — a Python coding platform to learn quantitative finance](https://towardsdatascience.com/quantra-a-python-coding-platform-to-learn-quantitative-finance-8e5e88c89120?source=rss-------8-----------------data_science)
+- [Your Cross Validation Error Confidence Intervals are Wrong — here’s how to Fix Them](https://towardsdatascience.com/your-cross-validation-error-confidence-intervals-are-wrong-heres-how-to-fix-them-abbfe28d390?source=rss-------8-----------------data_science)
+- [Optimal Control, a Preamble](https://towardsdatascience.com/optimal-control-a-preamble-6c0bc2b12ed6?source=rss-------8-----------------data_science)
+- [Three ways to speed up developing your data science solutions](https://towardsdatascience.com/three-ways-to-speed-up-developing-your-data-science-solutions-6bedc7e72a4e?source=rss-------8-----------------data_science)
+<!-- MEDIUM-STORY-LIST:END -->
 
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
