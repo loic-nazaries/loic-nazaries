@@ -6,7 +6,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ### My name is Loïc Nazaries :blush:
 
-[<img alt="Loic's logo" align="right" width="200" src="https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/images/logo-dark.png" />][website]
+[<img alt="Loic's logo" align="right" width="300" src="https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/images/logo-dark.png" />][website]
 
 #### I am a **Data Mining** & **Business Intelligence** Specialist
 
@@ -15,7 +15,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
     :briefcase: More stuff about me
   </summary>
 
-> I am a **Data Specialist** with over 10 years of experience in the fields of biostatistics, data exploration (**Data Mining**) and **Machine Learning**. I am passionate of the whole **data life cycle**, from modelling a database to its use in the field of **Business Intelligence** through the creation of simple and impactful visuals such as **dashboards**. Thus, **exploratory data analysis** has the potential to strengthen a faster and more clever decision-making process.
+> I am a **Data Specialist** with over 10 years of experience in the fields of biostatistics, data exploration (**Data Mining**) and **Machine Learning**. I am passionate about the whole **data life cycle**, from modelling a database to its use in the field of **Business Intelligence** through the creation of simple and impactful visuals such as **dashboards**. Thus, **exploratory data analysis** has the potential to strengthen a faster and more clever decision-making process.
 
 </details>
 
