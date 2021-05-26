@@ -6,7 +6,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ### My name is Loïc Nazaries :blush:
 
-[<img alt="logo loic" align="right" width="200" src="https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/images/logo-dark.png" />][website]
+[<img alt="Loic's logo" align="right" width="200" src="https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/images/logo-dark.png" />][website]
 
 #### I am a **Data Mining** & **Business Intelligence** Specialist
 
@@ -84,7 +84,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ---
 
-### :books: My Gists 
+### :books: My Gists
 
 :heavy_check_mark: [Create a **Virtual Environment** with Python using the **'venv' Module**](https://gist.github.com/loic-nazaries/c25ce9f7b01b107573796b026522a3ad) :snake:
 
@@ -113,7 +113,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ---
 
-### Profile Stats :chart_with_upwards_trend:
+### :chart_with_upwards_trend: Profile Stats
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=loic-nazaries.loic-nazaries)
 

@@ -19,14 +19,14 @@ jobs:
           commit_message: "Updated readme with the latest Medium posts"
           feed_list: "https://medium.com/feed/topic/data-science"
           max_post_count: "10"
-          $date: "ddd dd mmm yyyy HH:MM:ss"
+          # $date: "ddd dd mmm yyyy HH:MM:ss"
           $description: ""
-          template: "<tr><td>$title</td><td>$url</td><td>$date</td></tr>"
+          template: "<tr><td>$title</td><td>$url</td></tr>"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "MEDIUM-STORY-LIST-SONERY"
           commit_message: "Updated readme with the latest Medium posts from Sonery"
           feed_list: "https://sonery.medium.com/feed"
           max_post_count: "5"
-          $date: "yyyy-mm-dd"
+          # $date: "yyyy-mm-dd"
           $description: "New posts from '@sonery'"
