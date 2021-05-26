@@ -20,7 +20,7 @@ jobs:
           feed_list: "https://medium.com/feed/topic/data-science"
           max_post_count: "10"
           date_format: "ddd dd mmm yyyy HH:MM:ss"
-          template: "<tr><td>$title</td><td>$description</td><td>$date</td></tr>"
+          template: "<tr><td>[$title]($url)</td><td>$description</td><td>$date</td></tr>"
           # description_max_length: ""
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
