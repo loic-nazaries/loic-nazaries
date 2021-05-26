@@ -4,11 +4,11 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ## Hello Everyone! <img alt="hi" width="26" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
 
-## My name is Loïc Nazaries :blush:
+### My name is Loïc Nazaries :blush:
 
 [<img alt="logo loic" align="right" width="200" src="https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/images/logo-dark.png" />][website]
 
-### I am a **Data Mining** & **Business Intelligence** Specialist
+#### I am a **Data Mining** & **Business Intelligence** Specialist
 
 <details>
   <summary>
@@ -107,7 +107,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 - [Make Your Dashboard Stand Out — Sankey Diagram](https://pub.towardsai.net/make-your-dashboard-stand-out-sankey-diagram-c2ead0201aa6?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
-### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com)
+### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
 <!-- MEDIUM-STORY-LIST-SONERY:END -->

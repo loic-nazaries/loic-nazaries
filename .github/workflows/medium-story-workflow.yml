@@ -21,7 +21,7 @@ jobs:
           max_post_count: "10"
           $date: "ddd dd mmm yyyy HH:MM:ss"
           $description: ""
-          template: "<tr><td>$title</td><td>$url</td></tr>"
+          template: "<tr><td>$title</td><td>$url</td><td>$date</td></tr>"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "MEDIUM-STORY-LIST-SONERY"
