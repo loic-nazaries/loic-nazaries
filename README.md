@@ -98,6 +98,8 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 :red_circle: Prepare a Dashboard with Google BigQuery and Google Data Studio (**coming soon!**)
 
+&nbsp;
+
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
@@ -112,6 +114,8 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 - [Optimal Control, a Preamble](https://towardsdatascience.com/optimal-control-a-preamble-6c0bc2b12ed6?source=rss-------8-----------------data_science)
 - [Three ways to speed up developing your data science solutions](https://towardsdatascience.com/three-ways-to-speed-up-developing-your-data-science-solutions-6bedc7e72a4e?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
+
+&nbsp;
 
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
