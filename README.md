@@ -99,11 +99,11 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ### :newspaper: Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [Approximating KL Divergence](https://towardsdatascience.com/approximating-kl-divergence-4151c8c85ddd?source=rss-------8-----------------data_science)
 - [Creating Multipage applications using Streamlit (efficiently!)](https://towardsdatascience.com/creating-multipage-applications-using-streamlit-efficiently-b58a58134030?source=rss-------8-----------------data_science)
 - [Automatic Hyperparameter Search and Optimization using Optuna](https://towardsdatascience.com/automatic-hyperparameter-search-and-optimization-using-optuna-392d77917ede?source=rss-------8-----------------data_science)
 - [3 Top Python Package to Learn Math for Data Scientist](https://towardsdatascience.com/3-top-python-package-to-learn-math-for-data-scientist-8e3482e7e79d?source=rss-------8-----------------data_science)
 - [Make Your Dashboard Stand Out — Sankey Diagram](https://pub.towardsai.net/make-your-dashboard-stand-out-sankey-diagram-c2ead0201aa6?source=rss-------8-----------------data_science)
-- [The push for fairness, equity, and safeguards in the data economy](https://medium.com/omidyar-network/the-push-for-fairness-equity-and-safeguards-in-the-data-economy-2dfa58dc0e48?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!-- BLOG-POST-LIST:START -->
