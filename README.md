@@ -99,11 +99,11 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ### :newspaper: Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [Neural Network Based Gender Recognition for Voice Commands](https://betterprogramming.pub/neural-network-based-gender-recognition-for-voice-commands-c6c80c30c8d1?source=rss-------8-----------------data_science)
+- [How to Build Data Trust — and Ownership — at Scale](https://towardsdatascience.com/how-to-build-data-trust-and-ownership-at-scale-bf84ceab41c1?source=rss-------8-----------------data_science)
+- [Build a Machine Learning Model to a Practical Use-Case From Scratch](https://towardsdatascience.com/build-a-machine-learning-model-to-a-practical-use-case-from-scratch-3a8dc65ab6f1?source=rss-------8-----------------data_science)
 - [Pythons inspect module — How to save time and effort in your next python project!](https://towardsdatascience.com/pythons-inspect-module-how-to-save-time-and-effort-in-your-next-python-project-8f2d269b8ed?source=rss-------8-----------------data_science)
 - [Python’s Most Confusing Operator](https://towardsdatascience.com/pythons-most-confusing-operator-96c67d6e661a?source=rss-------8-----------------data_science)
-- [If You Need to Get Unstuck, Try a Different Angle](https://towardsdatascience.com/if-you-need-to-get-unstuck-try-a-different-angle-f45904cfc4f6?source=rss-------8-----------------data_science)
-- [Graph Representation Learning — The Encoder-Decoder Model (Part 2)](https://towardsdatascience.com/graph-representation-learning-the-encoder-decoder-model-part-2-ed8b505af447?source=rss-------8-----------------data_science)
-- [C++ Basics: Understanding Object Model](https://towardsdatascience.com/c-basics-understanding-object-model-b8152c8a4bcf?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!-- BLOG-POST-LIST:START -->
