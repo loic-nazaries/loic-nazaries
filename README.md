@@ -99,11 +99,11 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ### :newspaper: Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [How to ensure data quality in the era of Big Data](https://medium.com/validio/how-to-ensure-data-quality-in-the-era-of-big-data-320ee8a28afd?source=rss-------8-----------------data_science)
+- [If data is petrol…](https://arthur-s-moreau.medium.com/if-data-is-petrol-a4358b3f2038?source=rss-------8-----------------data_science)
 - [Telco Customer ChurnRate Analysis](https://towardsdatascience.com/telco-customer-churnrate-analysis-d412f208cbbf?source=rss-------8-----------------data_science)
 - [Predicting purchases with Market Basket Analysis](https://singhshashank.medium.com/predicting-purchases-with-market-basket-analysis-d6ad2152bf6e?source=rss-------8-----------------data_science)
 - [Linearly Optimising Teams for PL Fantasy League](https://singhshashank.medium.com/linearly-optimising-teams-for-pl-fantasy-league-11931aed18b7?source=rss-------8-----------------data_science)
-- [Group your data for the better insight](https://medium.datadriveninvestor.com/group-your-data-for-the-better-insight-89ab7eae2aff?source=rss-------8-----------------data_science)
-- [Multimodal Automated Content Moderation](https://sharechattech.medium.com/multimodal-automated-content-moderation-69876e6a9d85?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!-- BLOG-POST-LIST:START -->
