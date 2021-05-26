@@ -99,11 +99,11 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ### :newspaper: Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [Finding an apartment in Sydney — data scraping and Google distance API](https://anurag-sodhi.medium.com/finding-an-apartment-in-sydney-data-scraping-and-google-distance-api-d0ce21bcf3ea?source=rss-------8-----------------data_science)
+- [Market Timing & Pattern Recognition Continued. Coding & Back-testing the Waldo Pattern in Python.](https://kaabar-sofien.medium.com/market-timing-pattern-recognition-continued-coding-back-testing-the-waldo-pattern-in-python-6cba44a6c9aa?source=rss-------8-----------------data_science)
+- [Battle of Visualization Tools: PowerBI vs Tableau](https://intelfortng.medium.com/battle-of-visualization-tools-powerbi-vs-tableau-823deaad5592?source=rss-------8-----------------data_science)
 - [How to ensure data quality in the era of Big Data](https://medium.com/validio/how-to-ensure-data-quality-in-the-era-of-big-data-320ee8a28afd?source=rss-------8-----------------data_science)
 - [If data is petrol…](https://arthur-s-moreau.medium.com/if-data-is-petrol-a4358b3f2038?source=rss-------8-----------------data_science)
-- [Telco Customer ChurnRate Analysis](https://towardsdatascience.com/telco-customer-churnrate-analysis-d412f208cbbf?source=rss-------8-----------------data_science)
-- [Predicting purchases with Market Basket Analysis](https://singhshashank.medium.com/predicting-purchases-with-market-basket-analysis-d6ad2152bf6e?source=rss-------8-----------------data_science)
-- [Linearly Optimising Teams for PL Fantasy League](https://singhshashank.medium.com/linearly-optimising-teams-for-pl-fantasy-league-11931aed18b7?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!-- BLOG-POST-LIST:START -->
