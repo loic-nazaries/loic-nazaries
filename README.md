@@ -104,6 +104,11 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [3 Challenges for Aspiring Data Scientists](https://towardsdatascience.com/3-challenges-for-aspiring-data-scientists-ae0c479f31b7?source=rss-2cf6b549448------2)
+- [3 Key Differences Between Random Forests and GBDT](https://towardsdatascience.com/3-key-differences-between-random-forests-and-gbdt-cfc48093200b?source=rss-2cf6b549448------2)
+- [17 Quick Examples to Learn Python Lists](https://towardsdatascience.com/17-quick-examples-to-learn-python-lists-196070a055c3?source=rss-2cf6b549448------2)
+- [4 Must-Know Features of Python Dictionaries](https://towardsdatascience.com/4-must-know-features-of-python-dictionaries-d62af8c22fd2?source=rss-2cf6b549448------2)
+- [Do Not Let the High Number of Data Scientists Make You Feel Late for the Party](https://towardsdatascience.com/do-not-let-the-high-number-of-data-scientists-make-you-feel-late-for-the-party-c5409d2445ac?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
