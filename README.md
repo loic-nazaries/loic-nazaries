@@ -101,9 +101,9 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 <!-- MEDIUM-STORY-LIST:START -->
 - [Telco Customer ChurnRate Analysis](https://towardsdatascience.com/telco-customer-churnrate-analysis-d412f208cbbf?source=rss-------8-----------------data_science)
 - [Predicting purchases with Market Basket Analysis](https://singhshashank.medium.com/predicting-purchases-with-market-basket-analysis-d6ad2152bf6e?source=rss-------8-----------------data_science)
+- [Linearly Optimising Teams for PL Fantasy League](https://singhshashank.medium.com/linearly-optimising-teams-for-pl-fantasy-league-11931aed18b7?source=rss-------8-----------------data_science)
+- [Group your data for the better insight](https://medium.datadriveninvestor.com/group-your-data-for-the-better-insight-89ab7eae2aff?source=rss-------8-----------------data_science)
 - [Multimodal Automated Content Moderation](https://sharechattech.medium.com/multimodal-automated-content-moderation-69876e6a9d85?source=rss-------8-----------------data_science)
-- [Post #2 — Valid Cross Validation Confidence Intervals](https://medium.com/before-data-science/post-2-valid-cross-validation-confidence-intervals-5fba0ec84c8f?source=rss-------8-----------------data_science)
-- [Guide to Word Clouds](https://ai.plainenglish.io/guide-to-word-clouds-3753e8da393e?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!-- BLOG-POST-LIST:START -->
