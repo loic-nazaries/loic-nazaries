@@ -99,11 +99,11 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ### :newspaper: Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [Post #2 — Valid Cross Validation Confidence Intervals](https://medium.com/before-data-science/post-2-valid-cross-validation-confidence-intervals-5fba0ec84c8f?source=rss-------8-----------------data_science)
 - [What a Master’s in Data Science Can (and Cannot) Do for You](https://towardsdatascience.com/what-a-masters-in-data-science-can-and-cannot-do-for-you-82f9327e523d?source=rss-------8-----------------data_science)
-- [Assessing the Approval of President Bolsonaro among Brazilian Congresspeople through Machine…](https://mattpedro9699.medium.com/assessing-the-approval-of-president-bolsonaro-among-brazilian-congresspeople-through-machine-70893853e7b6?source=rss-------8-----------------data_science)
+- [Using Open Policy Analysis to Fight Alternative Facts](https://medium.com/center-for-effective-global-action/using-open-policy-analysis-to-fight-alternative-facts-3aea59a19b62?source=rss-------8-----------------data_science)
+- [An Introduction to Data Lobbying](https://jarussingh.medium.com/an-introduction-to-data-lobbying-20a7517325d5?source=rss-------8-----------------data_science)
 - [JavaScript for Data Analysis](https://towardsdatascience.com/javascript-for-data-analysis-2e8e7dbf63a7?source=rss-------8-----------------data_science)
-- [Reimagining the Future of Disaster Preparedness and Response: A Conceptual Framework](https://medium.com/rs21/reimagining-the-future-of-disaster-preparedness-and-response-a-conceptual-framework-93aea8f8227e?source=rss-------8-----------------data_science)
-- [Causal Impact applied to the mobile games industry](https://medium.com/tech-at-wildlife-studios/causal-impact-applied-to-the-mobile-games-industry-2056b31d9ac?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!-- BLOG-POST-LIST:START -->
