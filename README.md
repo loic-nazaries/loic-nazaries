@@ -100,11 +100,11 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ### :newspaper: Latest Medium Stories in **Data Science**
 <!-- MEDIUM-STORY-LIST:START -->
-- [JavaScript for Data Analysis](https://towardsdatascience.com/javascript-for-data-analysis-2e8e7dbf63a7?source=rss-------8-----------------data_science)
-- [Causal Impact applied to the mobile games industry](https://medium.com/tech-at-wildlife-studios/causal-impact-applied-to-the-mobile-games-industry-2056b31d9ac?source=rss-------8-----------------data_science)
-- [“The last will be first, and the first last”… Insights from the M5-competition](https://johann-robette.medium.com/the-last-will-be-first-and-the-first-last-insights-from-the-m5-competition-f0b9290dc45?source=rss-------8-----------------data_science)
-- [Data Analytics with Power BI](https://mahedihasanjisan.medium.com/data-analytics-with-power-bi-89a208b7c126?source=rss-------8-----------------data_science)
-- [3 Challenges for Aspiring Data Scientists](https://towardsdatascience.com/3-challenges-for-aspiring-data-scientists-ae0c479f31b7?source=rss-2cf6b549448------2)
+- [Approximating KL Divergence](https://towardsdatascience.com/approximating-kl-divergence-4151c8c85ddd?source=rss-------8-----------------data_science)
+- [Creating Multipage applications using Streamlit (efficiently!)](https://towardsdatascience.com/creating-multipage-applications-using-streamlit-efficiently-b58a58134030?source=rss-------8-----------------data_science)
+- [Automatic Hyperparameter Search and Optimization using Optuna](https://towardsdatascience.com/automatic-hyperparameter-search-and-optimization-using-optuna-392d77917ede?source=rss-------8-----------------data_science)
+- [3 Top Python Package to Learn Math for Data Scientist](https://towardsdatascience.com/3-top-python-package-to-learn-math-for-data-scientist-8e3482e7e79d?source=rss-------8-----------------data_science)
+- [Make Your Dashboard Stand Out — Sankey Diagram](https://pub.towardsai.net/make-your-dashboard-stand-out-sankey-diagram-c2ead0201aa6?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com)
