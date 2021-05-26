@@ -99,11 +99,11 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ### :newspaper: Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [Telco Customer ChurnRate Analysis](https://towardsdatascience.com/telco-customer-churnrate-analysis-d412f208cbbf?source=rss-------8-----------------data_science)
+- [Predicting purchases with Market Basket Analysis](https://singhshashank.medium.com/predicting-purchases-with-market-basket-analysis-d6ad2152bf6e?source=rss-------8-----------------data_science)
+- [Multimodal Automated Content Moderation](https://sharechattech.medium.com/multimodal-automated-content-moderation-69876e6a9d85?source=rss-------8-----------------data_science)
 - [Post #2 — Valid Cross Validation Confidence Intervals](https://medium.com/before-data-science/post-2-valid-cross-validation-confidence-intervals-5fba0ec84c8f?source=rss-------8-----------------data_science)
 - [Guide to Word Clouds](https://ai.plainenglish.io/guide-to-word-clouds-3753e8da393e?source=rss-------8-----------------data_science)
-- [Using Open Policy Analysis to Fight Alternative Facts](https://medium.com/center-for-effective-global-action/using-open-policy-analysis-to-fight-alternative-facts-3aea59a19b62?source=rss-------8-----------------data_science)
-- [An Introduction to Data Lobbying](https://jarussingh.medium.com/an-introduction-to-data-lobbying-20a7517325d5?source=rss-------8-----------------data_science)
-- [JavaScript for Data Analysis](https://towardsdatascience.com/javascript-for-data-analysis-2e8e7dbf63a7?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!-- BLOG-POST-LIST:START -->
