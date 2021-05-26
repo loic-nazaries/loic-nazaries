@@ -99,17 +99,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 :red_circle: Prepare a Dashboard with Google BigQuery and Google Data Studio (**coming soon!**)
 
 ### :newspaper: Latest Medium Stories in **Data Science**
-<!-- MEDIUM-STORY-LIST:START -->
-- [Approximating KL Divergence](https://towardsdatascience.com/approximating-kl-divergence-4151c8c85ddd?source=rss-------8-----------------data_science)
-- [Creating Multipage applications using Streamlit (efficiently!)](https://towardsdatascience.com/creating-multipage-applications-using-streamlit-efficiently-b58a58134030?source=rss-------8-----------------data_science)
-- [Automatic Hyperparameter Search and Optimization using Optuna](https://towardsdatascience.com/automatic-hyperparameter-search-and-optimization-using-optuna-392d77917ede?source=rss-------8-----------------data_science)
-- [3 Top Python Package to Learn Math for Data Scientist](https://towardsdatascience.com/3-top-python-package-to-learn-math-for-data-scientist-8e3482e7e79d?source=rss-------8-----------------data_science)
-- [Make Your Dashboard Stand Out — Sankey Diagram](https://pub.towardsai.net/make-your-dashboard-stand-out-sankey-diagram-c2ead0201aa6?source=rss-------8-----------------data_science)
-<!-- MEDIUM-STORY-LIST:END -->
+<!-- MEDIUM-STORY-LIST:START --><tr><td>Approximating KL Divergence</td><td>https://towardsdatascience.com/approximating-kl-divergence-4151c8c85ddd?source=rss-------8-----------------data_science</td></tr><tr><td>Creating Multipage applications using Streamlit (efficiently!)</td><td>https://towardsdatascience.com/creating-multipage-applications-using-streamlit-efficiently-b58a58134030?source=rss-------8-----------------data_science</td></tr><tr><td>Automatic Hyperparameter Search and Optimization using Optuna</td><td>https://towardsdatascience.com/automatic-hyperparameter-search-and-optimization-using-optuna-392d77917ede?source=rss-------8-----------------data_science</td></tr><tr><td>3 Top Python Package to Learn Math for Data Scientist</td><td>https://towardsdatascience.com/3-top-python-package-to-learn-math-for-data-scientist-8e3482e7e79d?source=rss-------8-----------------data_science</td></tr><tr><td>The Case for Distance-Bounded Spatial Approximations</td><td>https://medium.com/the-research-behind-agora/the-case-for-distance-bounded-spatial-approximations-36459e84b0e?source=rss-------8-----------------data_science</td></tr><tr><td>Make Your Dashboard Stand Out — Sankey Diagram</td><td>https://pub.towardsai.net/make-your-dashboard-stand-out-sankey-diagram-c2ead0201aa6?source=rss-------8-----------------data_science</td></tr><tr><td>The push for fairness, equity, and safeguards in the data economy</td><td>https://medium.com/omidyar-network/the-push-for-fairness-equity-and-safeguards-in-the-data-economy-2dfa58dc0e48?source=rss-------8-----------------data_science</td></tr><tr><td>Gentle Intro to Vaex for Big Data</td><td>https://joshnjuny.medium.com/gentle-intro-to-vaex-for-big-data-35efef914853?source=rss-------8-----------------data_science</td></tr><tr><td>Rotten Ballots</td><td>https://tasmn.medium.com/rotten-ballots-ebf4109e7d28?source=rss-------8-----------------data_science</td></tr><tr><td>Using PostgreSQL as a Data Warehouse</td><td>https://towardsdatascience.com/using-postgresql-as-a-data-warehouse-23fb50fb2bb0?source=rss-------8-----------------data_science</td></tr><!-- MEDIUM-STORY-LIST:END -->
 
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [3 Challenges for Aspiring Data Scientists](https://towardsdatascience.com/3-challenges-for-aspiring-data-scientists-ae0c479f31b7?source=rss-2cf6b549448------2)
+- [3 Key Differences Between Random Forests and GBDT](https://towardsdatascience.com/3-key-differences-between-random-forests-and-gbdt-cfc48093200b?source=rss-2cf6b549448------2)
+- [17 Quick Examples to Learn Python Lists](https://towardsdatascience.com/17-quick-examples-to-learn-python-lists-196070a055c3?source=rss-2cf6b549448------2)
+- [4 Must-Know Features of Python Dictionaries](https://towardsdatascience.com/4-must-know-features-of-python-dictionaries-d62af8c22fd2?source=rss-2cf6b549448------2)
+- [Do Not Let the High Number of Data Scientists Make You Feel Late for the Party](https://towardsdatascience.com/do-not-let-the-high-number-of-data-scientists-make-you-feel-late-for-the-party-c5409d2445ac?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
