@@ -101,9 +101,9 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 <!-- MEDIUM-STORY-LIST:START -->
 - [Neural Network Based Gender Recognition for Voice Commands](https://betterprogramming.pub/neural-network-based-gender-recognition-for-voice-commands-c6c80c30c8d1?source=rss-------8-----------------data_science)
 - [How to Build Data Trust — and Ownership — at Scale](https://towardsdatascience.com/how-to-build-data-trust-and-ownership-at-scale-bf84ceab41c1?source=rss-------8-----------------data_science)
-- [Build a Machine Learning Model to a Practical Use-Case From Scratch](https://towardsdatascience.com/build-a-machine-learning-model-to-a-practical-use-case-from-scratch-3a8dc65ab6f1?source=rss-------8-----------------data_science)
-- [Pythons inspect module — How to save time and effort in your next python project!](https://towardsdatascience.com/pythons-inspect-module-how-to-save-time-and-effort-in-your-next-python-project-8f2d269b8ed?source=rss-------8-----------------data_science)
-- [Python’s Most Confusing Operator](https://towardsdatascience.com/pythons-most-confusing-operator-96c67d6e661a?source=rss-------8-----------------data_science)
+- [How to Easily Convert a Python Script to an Executable File (.exe)](https://towardsdatascience.com/how-to-easily-convert-a-python-script-to-an-executable-file-exe-4966e253c7e9?source=rss-------8-----------------data_science)
+- [Installing TensorFlow on the M1 Mac](https://towardsdatascience.com/installing-tensorflow-on-the-m1-mac-410bb36b776?source=rss-------8-----------------data_science)
+- [The push for fairness, equity, and safeguards in the data economy](https://omidyarnetwork.medium.com/the-push-for-fairness-equity-and-safeguards-in-the-data-economy-d0da0570f91a?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!-- BLOG-POST-LIST:START -->
