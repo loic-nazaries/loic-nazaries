@@ -9,11 +9,24 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest Medium post
+    name: Update this repo's README with latest Medium posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "MEDIUM-STORY-LIST"
-          feed_list: "https://medium.com/feed/topic/data-science,https://sonery.medium.com/feed"
+          commit_message: "Updated readme with the latest Medium posts"
+          feed_list: "https://medium.com/feed/topic/data-science"
+          max_post_count: "10"
+          $date: "ddd dd mmm yyyy HH:MM:ss"
+          $description: ""
+          template: "<tr><td>$title</td><td>$url</td></tr>"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "MEDIUM-STORY-LIST-SONERY"
+          commit_message: "Updated readme with the latest Medium posts from Sonery"
+          feed_list: "https://sonery.medium.com/feed"
+          max_post_count: "5"
+          $date: "yyyy-mm-dd"
+          $description: "New posts from '@sonery'"

@@ -2,7 +2,7 @@
 
 Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tanja Cotoaga</a> on <a href="https://unsplash.com/s/photos/arcachon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-## Hello Everyone! <img alt="hi" width="26px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
+## Hello Everyone! <img alt="hi" width="26" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
 
 ## My name is Loïc Nazaries :blush:
 
@@ -16,19 +16,22 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
   </summary>
 
 > I am a **Data Specialist** with over 10 years of experience in the fields of biostatistics, data exploration (**Data Mining**) and **Machine Learning**. I am passionate of the whole **data life cycle**, from modelling a database to its use in the field of **Business Intelligence** through the creation of simple and impactful visuals such as **dashboards**. Thus, **exploratory data analysis** has the potential to strengthen a faster and more clever decision-making process.
+
 </details>
 
 &nbsp;
 
-> ⚡ Fun fact: I spent a New Year's Eve on a desert island, alone.
+⚡ Fun Fact #1: In one of my previous life, I was a microbiologist and biostatistician.
+
+⚡ Fun fact #2: I spent a New Year's Eve on an Australian desert island, alone.
 
 &nbsp;
 
-:mailbox: Contact me here&nbsp;
+:mailbox: Contact me by email here&nbsp;
 [![email](https://img.shields.io/badge/-Loïc_Nazaries-purple?style=plastic&labelColor=purple&logo=yahoomail&logoColor=white)][email]
-&nbsp;or here&nbsp;
+&nbsp;or via my personal website&nbsp;
 [<img alt="Loic's Data Science Portfolio" width="26" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][contact_website]
-&nbsp;or find me on&nbsp;
+&nbsp;or find me on the 'Usual Suspects'&nbsp;
 [<img alt="LinkedIn" width="26" src="https://i.imgur.com/OQUXwNp.jpeg" />][linkedin]
 &nbsp;
 [<img alt="GitHub" width="30" src="https://i.imgur.com/J6LeoUb.png" />][github]
@@ -95,9 +98,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 :red_circle: Prepare a Dashboard with Google BigQuery and Google Data Studio (**coming soon!**)
 
----
-
-### :newspaper: Latest Medium Story
+### :newspaper: Latest Medium Stories in **Data Science**
 <!-- MEDIUM-STORY-LIST:START -->
 - [JavaScript for Data Analysis](https://towardsdatascience.com/javascript-for-data-analysis-2e8e7dbf63a7?source=rss-------8-----------------data_science)
 - [Causal Impact applied to the mobile games industry](https://medium.com/tech-at-wildlife-studios/causal-impact-applied-to-the-mobile-games-industry-2056b31d9ac?source=rss-------8-----------------data_science)
@@ -106,13 +107,10 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 - [3 Challenges for Aspiring Data Scientists](https://towardsdatascience.com/3-challenges-for-aspiring-data-scientists-ae0c479f31b7?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
-<!-- BLOG-POST-LIST:START -->
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
-- [An Introduction to NumPy](https://dev.to/gautamkrishnar/an-introduction-to-numpy)
-<!-- BLOG-POST-LIST:END -->
+### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com)
+
+<!-- MEDIUM-STORY-LIST-SONERY:START -->
+<!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
 
