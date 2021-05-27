@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [3 Data Engineering Experts Share Their Thoughts on Where Data Is Headed](https://betterprogramming.pub/3-data-engineering-experts-share-their-thoughts-on-where-data-is-headed-a9582aa2e7b2?source=rss-------8-----------------data_science)
-- [Residual Networks in Computer Vision](https://towardsdatascience.com/residual-networks-in-computer-vision-ee118d3be68f?source=rss-------8-----------------data_science)
-- [Exploratory Data Analysis (EDA)](https://towardsdatascience.com/exploratory-data-analysis-eda-72ba03480417?source=rss-------8-----------------data_science)
-- [How to Scale Creative Qual for Rich Consumer Understanding](https://flexmr.medium.com/how-to-scale-creative-qual-for-rich-consumer-understanding-dd266c3f1f87?source=rss-------8-----------------data_science)
-- [Grouping Data with K-Means Clustering](https://medium.com/pragmatic-programmers/grouping-data-with-k-means-clustering-1ba84685ed4?source=rss-------8-----------------data_science)
-- [Fitting a Linear Regression](https://medium.com/pragmatic-programmers/fitting-a-linear-regression-10df0993c5e?source=rss-------8-----------------data_science)
-- [Designing a Predictive Experiment](https://medium.com/pragmatic-programmers/designing-a-predictive-experiment-d19a9e60b3b0?source=rss-------8-----------------data_science)
-- [Doing Stats the Python WayYour Turn](https://medium.com/pragmatic-programmers/doing-stats-the-python-wayyour-turn-912c7806307a?source=rss-------8-----------------data_science)
-- [Recollecting Statistical Measures](https://medium.com/pragmatic-programmers/recollecting-statistical-measures-2fa4697a1da3?source=rss-------8-----------------data_science)
-- [Reviewing Probability Distributions](https://medium.com/pragmatic-programmers/reviewing-probability-distributions-6ea1053286be?source=rss-------8-----------------data_science)
+- [How to Fine-Tune BERT With NSP](https://towardsdatascience.com/how-to-fine-tune-bert-with-nsp-8b5615468e12?source=rss-------8-----------------data_science)
+- [What is ML Observability?](https://towardsdatascience.com/what-is-ml-observability-29e85e701688?source=rss-------8-----------------data_science)
+- [T-profile in Power BI](https://towardsdatascience.com/t-profile-in-power-bi-58d46b7ebed4?source=rss-------8-----------------data_science)
+- [Pitching your analytics idea](https://workingwithdata.medium.com/pitching-your-analytics-idea-e373d6176578?source=rss-------8-----------------data_science)
+- [Creating Toyplots in Python](https://medium.com/geekculture/creating-toyplots-in-python-49de0bb27ec1?source=rss-------8-----------------data_science)
+- [The 5 Reasons Why A Chief Data Officer Fails](https://medium.com/valuing-data/the-5-reasons-why-a-chief-data-officer-fails-d8e226dfa3f?source=rss-------8-----------------data_science)
+- [Introduction to B-trees](https://medium.com/swlh/introduction-to-b-trees-655036db1cc7?source=rss-------8-----------------data_science)
+- [Machine Learning Modeling Data with Python](https://pub.towardsai.net/machine-learning-modeling-data-with-python-92bfebfe4052?source=rss-------8-----------------data_science)
+- [Batch Norm Explained Visually — Why does it work](https://towardsdatascience.com/batch-norm-explained-visually-why-does-it-work-90b98bcc58a0?source=rss-------8-----------------data_science)
+- [Normal Distribution](https://pranavgarg97.medium.com/normal-distribution-a86790e86406?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
