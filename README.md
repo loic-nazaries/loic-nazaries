@@ -103,15 +103,15 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Interpretable or Accurate? Why Not Both?](https://towardsdatascience.com/interpretable-or-accurate-why-not-both-4d9c73512192?source=rss-------8-----------------data_science)
+- [Making Decisions with Data Science](https://towardsdatascience.com/making-decisions-with-data-science-36fae52ccfab?source=rss-------8-----------------data_science)
+- [Car rental prices at record highs: Explore the trends with data from QL2 and Snowflake](https://hoffa.medium.com/car-rental-prices-at-record-highs-explore-the-trends-with-data-from-ql2-and-snowflake-ba0f3a946782?source=rss-------8-----------------data_science)
 - [Analyzing English Premier League VAR Football Decisions](https://towardsdatascience.com/analyzing-english-premier-league-var-football-decisions-c6d280061ebf?source=rss-------8-----------------data_science)
 - [Why it’s Not Enough to Just Run Modules to be a Good Data Scientist](https://medium.com/analytics-vidhya/why-its-not-enough-to-just-run-modules-to-be-a-good-data-scientist-b395a757251f?source=rss-------8-----------------data_science)
 - [AWS Quicksight: Overview and Benefits](https://medium.com/analytics-vidhya/aws-quicksight-overview-and-benefits-7fa5f18a661e?source=rss-------8-----------------data_science)
 - [Sports Analytics: Build your own winning IPL dream team](https://medium.com/analytics-vidhya/sports-analytics-build-your-own-winning-ipl-dream-team-be42132df7ab?source=rss-------8-----------------data_science)
 - [Learning Machine Learning with Kaggle](https://medium.com/analytics-vidhya/learning-machine-learning-with-kaggle-4a55feeacda1?source=rss-------8-----------------data_science)
+- [How can we quantify similarity between time series?](https://medium.com/gorillatech/how-can-we-quantify-similarity-between-time-series-ed1d0b633ca0?source=rss-------8-----------------data_science)
 - [Customer Segmentation with K-Mean Clustering](https://rise-nattarach.medium.com/customer-segmentation-with-k-mean-clustering-852203e18ab7?source=rss-------8-----------------data_science)
-- [Multivariate Autoregressive models and Impulse Response analysis](https://towardsdatascience.com/multivariate-autoregressive-models-and-impulse-response-analysis-cb5ead9b2b68?source=rss-------8-----------------data_science)
-- [I Suddenly Lost The Trending Section. Here Are 4 Instructive Insights.](https://kylegulau.medium.com/i-suddenly-lost-the-trending-section-here-are-4-instructive-insights-35c55224e2c?source=rss-------8-----------------data_science)
 - [Neural Networks Part 1: Terminology, Motivation, and Intuition](https://medium.com/geekculture/neural-networks-part-1-terminology-motivation-and-intuition-73675fc43947?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
