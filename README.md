@@ -103,15 +103,15 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Ethereum Price Prediction with Python](https://medium.com/bitgrit-data-science-publication/ethereum-price-prediction-with-python-3b3805e6e512?source=rss-------8-----------------data_science)
 - [Working for a Data-Driven Startup Whose Value Surged 700% In Less Than One Year](https://towardsdatascience.com/working-for-a-data-driven-startup-whose-value-surged-700-in-less-than-one-year-168e8c43565a?source=rss-------8-----------------data_science)
-- [Is AI Coming for Your Job?](https://towardsdatascience.com/is-ai-coming-for-your-job-2f593ab72b55?source=rss-------8-----------------data_science)
-- [Training AlphaZero in Google Colab](https://towardsdatascience.com/training-alphazero-in-google-colab-cc2f1d6bd0ba?source=rss-------8-----------------data_science)
+- [Visualising Data For Organisations](https://doski-codes.medium.com/visualising-data-for-organisations-279e68a3204?source=rss-------8-----------------data_science)
 - [7 Best Techniques To Improve The Accuracy of CNN W/O Overfitting](https://medium.com/mlearning-ai/7-best-techniques-to-improve-the-accuracy-of-cnn-w-o-overfitting-6db06467182f?source=rss-------8-----------------data_science)
 - [The Data Engineering Megatrend: A Brief History](https://rudderstack.medium.com/the-data-engineering-megatrend-a-brief-history-ab986544d1d?source=rss-------8-----------------data_science)
 - [Bayesian Optimization](https://mark-youngson5.medium.com/bayesian-optimization-9cbbb03e4c22?source=rss-------8-----------------data_science)
 - [Analyzing Baseball’s Spin Rate Revolution](https://etsc9287.medium.com/analyzing-baseballs-spin-rate-revolution-901e022ba60d?source=rss-------8-----------------data_science)
-- [Build an Excel Dashboard…](https://peter-easter-do.medium.com/build-an-excel-dashboard-eae4342b53d6?source=rss-------8-----------------data_science)
-- [Why I’m constantly fascinated by Graph Theory!](https://joelvzach.medium.com/why-im-constantly-fascinated-by-graph-theory-a479690487fa?source=rss-------8-----------------data_science)
+- [Is it time to rethink ‘Data is the new oil’?](https://david-cox-31887.medium.com/is-it-time-to-rethink-data-is-the-new-oil-6a7aa32dbeb9?source=rss-------8-----------------data_science)
+- [Time Series Analysis: Arrival Times of NYC Essential Agencies.](https://daniel-llupercio.medium.com/time-series-analysis-arrival-times-of-nyc-essential-agencies-3679e72cea2a?source=rss-------8-----------------data_science)
 - [Barbells, Fractals & Memelords: Scaling Strategies for Ethical Action](https://dnlmc.medium.com/barbells-fractals-memelords-scaling-strategies-for-ethical-action-cca9a868b8a1?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
