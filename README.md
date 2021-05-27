@@ -109,10 +109,10 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 - [7 Best Techniques To Improve The Accuracy of CNN W/O Overfitting](https://medium.com/mlearning-ai/7-best-techniques-to-improve-the-accuracy-of-cnn-w-o-overfitting-6db06467182f?source=rss-------8-----------------data_science)
 - [The Data Engineering Megatrend: A Brief History](https://rudderstack.medium.com/the-data-engineering-megatrend-a-brief-history-ab986544d1d?source=rss-------8-----------------data_science)
 - [Bayesian Optimization](https://mark-youngson5.medium.com/bayesian-optimization-9cbbb03e4c22?source=rss-------8-----------------data_science)
-- [How to Become an Amazing Data Analytics Hire](https://towardsdatascience.com/how-to-become-an-amazing-data-analytics-hire-6d7a1f8be766?source=rss-------8-----------------data_science)
 - [Analyzing Baseball’s Spin Rate Revolution](https://etsc9287.medium.com/analyzing-baseballs-spin-rate-revolution-901e022ba60d?source=rss-------8-----------------data_science)
 - [Build an Excel Dashboard…](https://peter-easter-do.medium.com/build-an-excel-dashboard-eae4342b53d6?source=rss-------8-----------------data_science)
 - [Why I’m constantly fascinated by Graph Theory!](https://joelvzach.medium.com/why-im-constantly-fascinated-by-graph-theory-a479690487fa?source=rss-------8-----------------data_science)
+- [Barbells, Fractals & Memelords: Scaling Strategies for Ethical Action](https://dnlmc.medium.com/barbells-fractals-memelords-scaling-strategies-for-ethical-action-cca9a868b8a1?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
