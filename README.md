@@ -103,14 +103,14 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Doing almost as much with much less: A Case Study in Biomedical Named Entity Recognition](https://towardsdatascience.com/doing-almost-as-much-with-much-less-a-case-study-in-biomedical-named-entity-recognition-efa4abe18ed?source=rss-------8-----------------data_science)
+- [Slowly Changing Dimension Type 2 in Spark](https://towardsdatascience.com/slowly-changing-dimension-type-2-in-spark-7d5865ac915b?source=rss-------8-----------------data_science)
 - [BigQuery Cost Efficiency](https://datadice.medium.com/bigquery-cost-efficiency-a6223b46376c?source=rss-------8-----------------data_science)
+- [Exploratory Data Analysis and Prediction of Heart Disease using Python](https://medium.com/codex/exploratory-data-analysis-and-prediction-of-heart-disease-using-python-890d3e4e6a37?source=rss-------8-----------------data_science)
 - [The Birthday Problem](https://anthonybmasters.medium.com/the-birthday-problem-cb7cc78cb85e?source=rss-------8-----------------data_science)
 - [Trading the Alternate Bat Pattern — The Full Guide.](https://medium.com/geekculture/trading-the-alternate-bat-pattern-the-full-guide-27ff3a125e2f?source=rss-------8-----------------data_science)
 - [Detecting knee- / elbow points in a graph](https://dkleine.medium.com/detecting-knee-elbow-points-in-a-graph-d13fc517a63c?source=rss-------8-----------------data_science)
-- [Visualising Data For Organisations](https://doski-codes.medium.com/visualising-data-for-organisations-279e68a3204?source=rss-------8-----------------data_science)
 - [The Best Resources for Data Science Educators](https://deepnotepublishing.medium.com/the-best-resources-for-data-science-educators-2ed118618ebe?source=rss-------8-----------------data_science)
-- [Time Series Analysis: Arrival Times of NYC Essential Agencies.](https://daniel-llupercio.medium.com/time-series-analysis-arrival-times-of-nyc-essential-agencies-3679e72cea2a?source=rss-------8-----------------data_science)
-- [Why “AI/ML” Will Land Me in Jail, and My Other Pet Peeves | DataDrivenInvestor](https://medium.datadriveninvestor.com/why-ai-ml-will-land-me-in-jail-and-my-other-pet-peeves-datadriveninvestor-32f46238713f?source=rss-------8-----------------data_science)
 - [How do amateurs and pro players play PUBG differently ?](https://medium.com/analytics-vidhya/how-do-amateurs-and-pro-players-play-pubg-differently-5a9984fdd188?source=rss-------8-----------------data_science)
 - [Excel tips and tricks Part I](https://medium.com/analytics-vidhya/excel-tips-and-tricks-part-i-12dd13d564de?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
