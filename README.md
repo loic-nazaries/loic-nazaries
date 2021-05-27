@@ -104,15 +104,15 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 <!-- MEDIUM-STORY-LIST:START -->
 - [Making Decisions with Data Science](https://towardsdatascience.com/making-decisions-with-data-science-36fae52ccfab?source=rss-------8-----------------data_science)
+- [Why I chose Flatiron School](https://adinasteinman.medium.com/why-i-chose-flatiron-school-f953932016e?source=rss-------8-----------------data_science)
 - [Car rental prices at record highs: Explore the trends with data from QL2 and Snowflake](https://hoffa.medium.com/car-rental-prices-at-record-highs-explore-the-trends-with-data-from-ql2-and-snowflake-ba0f3a946782?source=rss-------8-----------------data_science)
-- [Analyzing English Premier League VAR Football Decisions](https://towardsdatascience.com/analyzing-english-premier-league-var-football-decisions-c6d280061ebf?source=rss-------8-----------------data_science)
+- [Predict Data with Linear Regression Analysis](https://nishshankacj.medium.com/predict-data-with-linear-regression-analysis-1f5569dbe856?source=rss-------8-----------------data_science)
+- [Derivatives in Data Science](https://imswapnilb.medium.com/derivatives-in-data-science-c5d7bd916f17?source=rss-------8-----------------data_science)
 - [Why it’s Not Enough to Just Run Modules to be a Good Data Scientist](https://medium.com/analytics-vidhya/why-its-not-enough-to-just-run-modules-to-be-a-good-data-scientist-b395a757251f?source=rss-------8-----------------data_science)
-- [AWS Quicksight: Overview and Benefits](https://medium.com/analytics-vidhya/aws-quicksight-overview-and-benefits-7fa5f18a661e?source=rss-------8-----------------data_science)
 - [Sports Analytics: Build your own winning IPL dream team](https://medium.com/analytics-vidhya/sports-analytics-build-your-own-winning-ipl-dream-team-be42132df7ab?source=rss-------8-----------------data_science)
-- [Learning Machine Learning with Kaggle](https://medium.com/analytics-vidhya/learning-machine-learning-with-kaggle-4a55feeacda1?source=rss-------8-----------------data_science)
 - [How can we quantify similarity between time series?](https://medium.com/gorillatech/how-can-we-quantify-similarity-between-time-series-ed1d0b633ca0?source=rss-------8-----------------data_science)
+- [Data Studio: We can do much more than it seems](https://medium.com/spikelab/data-studio-we-can-do-much-more-than-it-seems-46b0aa083bf6?source=rss-------8-----------------data_science)
 - [Customer Segmentation with K-Mean Clustering](https://rise-nattarach.medium.com/customer-segmentation-with-k-mean-clustering-852203e18ab7?source=rss-------8-----------------data_science)
-- [Neural Networks Part 1: Terminology, Motivation, and Intuition](https://medium.com/geekculture/neural-networks-part-1-terminology-motivation-and-intuition-73675fc43947?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
