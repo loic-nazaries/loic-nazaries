@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Trading the Alternate Bat Pattern — The Full Guide.](https://kaabar-sofien.medium.com/trading-the-alternate-bat-pattern-the-full-guide-27ff3a125e2f?source=rss-------8-----------------data_science)
 - [Ethereum Price Prediction with Python](https://medium.com/bitgrit-data-science-publication/ethereum-price-prediction-with-python-3b3805e6e512?source=rss-------8-----------------data_science)
-- [Working for a Data-Driven Startup Whose Value Surged 700% In Less Than One Year](https://towardsdatascience.com/working-for-a-data-driven-startup-whose-value-surged-700-in-less-than-one-year-168e8c43565a?source=rss-------8-----------------data_science)
+- [Detecting knee- / elbow points in a graph](https://dkleine.medium.com/detecting-knee-elbow-points-in-a-graph-d13fc517a63c?source=rss-------8-----------------data_science)
 - [Visualising Data For Organisations](https://doski-codes.medium.com/visualising-data-for-organisations-279e68a3204?source=rss-------8-----------------data_science)
-- [7 Best Techniques To Improve The Accuracy of CNN W/O Overfitting](https://medium.com/mlearning-ai/7-best-techniques-to-improve-the-accuracy-of-cnn-w-o-overfitting-6db06467182f?source=rss-------8-----------------data_science)
-- [The Data Engineering Megatrend: A Brief History](https://rudderstack.medium.com/the-data-engineering-megatrend-a-brief-history-ab986544d1d?source=rss-------8-----------------data_science)
-- [Bayesian Optimization](https://mark-youngson5.medium.com/bayesian-optimization-9cbbb03e4c22?source=rss-------8-----------------data_science)
-- [Analyzing Baseball’s Spin Rate Revolution](https://etsc9287.medium.com/analyzing-baseballs-spin-rate-revolution-901e022ba60d?source=rss-------8-----------------data_science)
+- [The Best Resources for Data Science Educators](https://deepnotepublishing.medium.com/the-best-resources-for-data-science-educators-2ed118618ebe?source=rss-------8-----------------data_science)
 - [Is it time to rethink ‘Data is the new oil’?](https://david-cox-31887.medium.com/is-it-time-to-rethink-data-is-the-new-oil-6a7aa32dbeb9?source=rss-------8-----------------data_science)
 - [Time Series Analysis: Arrival Times of NYC Essential Agencies.](https://daniel-llupercio.medium.com/time-series-analysis-arrival-times-of-nyc-essential-agencies-3679e72cea2a?source=rss-------8-----------------data_science)
-- [Barbells, Fractals & Memelords: Scaling Strategies for Ethical Action](https://dnlmc.medium.com/barbells-fractals-memelords-scaling-strategies-for-ethical-action-cca9a868b8a1?source=rss-------8-----------------data_science)
+- [Why “AI/ML” Will Land Me in Jail, and My Other Pet Peeves | DataDrivenInvestor](https://medium.datadriveninvestor.com/why-ai-ml-will-land-me-in-jail-and-my-other-pet-peeves-datadriveninvestor-32f46238713f?source=rss-------8-----------------data_science)
+- [How do amateurs and pro players play PUBG differently ?](https://medium.com/analytics-vidhya/how-do-amateurs-and-pro-players-play-pubg-differently-5a9984fdd188?source=rss-------8-----------------data_science)
+- [Excel tips and tricks Part I](https://medium.com/analytics-vidhya/excel-tips-and-tricks-part-i-12dd13d564de?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
