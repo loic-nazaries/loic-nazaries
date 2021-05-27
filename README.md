@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [How to Snap Out of a Data Science Slump](https://towardsdatascience.com/how-to-snap-out-of-a-data-science-slump-82314a9e4644?source=rss-------8-----------------data_science)
+- [5 Lessons McKinsey Taught Me That Will Make You a Better Data Scientist](https://towardsdatascience.com/5-lessons-mckinsey-taught-me-that-will-make-you-a-better-data-scientist-66cd9cc16aba?source=rss-------8-----------------data_science)
 - [Doing almost as much with much less: A Case Study in Biomedical Named Entity Recognition](https://towardsdatascience.com/doing-almost-as-much-with-much-less-a-case-study-in-biomedical-named-entity-recognition-efa4abe18ed?source=rss-------8-----------------data_science)
+- [5 Data Science Podcasts you Should be Listening Right Now](https://towardsdatascience.com/5-data-science-podcasts-you-should-be-listening-right-now-178f0af8ebce?source=rss-------8-----------------data_science)
 - [Slowly Changing Dimension Type 2 in Spark](https://towardsdatascience.com/slowly-changing-dimension-type-2-in-spark-7d5865ac915b?source=rss-------8-----------------data_science)
+- [Transforming Geometric Features into BigQuery’s Polygon Format with Simple Python Script](https://medium.com/analytics-vidhya/transforming-geometric-features-into-bigquerys-polygon-format-with-simple-python-script-bfd6d44dfc3f?source=rss-------8-----------------data_science)
 - [BigQuery Cost Efficiency](https://datadice.medium.com/bigquery-cost-efficiency-a6223b46376c?source=rss-------8-----------------data_science)
 - [Exploratory Data Analysis and Prediction of Heart Disease using Python](https://medium.com/codex/exploratory-data-analysis-and-prediction-of-heart-disease-using-python-890d3e4e6a37?source=rss-------8-----------------data_science)
-- [The Birthday Problem](https://anthonybmasters.medium.com/the-birthday-problem-cb7cc78cb85e?source=rss-------8-----------------data_science)
-- [Trading the Alternate Bat Pattern — The Full Guide.](https://medium.com/geekculture/trading-the-alternate-bat-pattern-the-full-guide-27ff3a125e2f?source=rss-------8-----------------data_science)
-- [Detecting knee- / elbow points in a graph](https://dkleine.medium.com/detecting-knee-elbow-points-in-a-graph-d13fc517a63c?source=rss-------8-----------------data_science)
-- [The Best Resources for Data Science Educators](https://deepnotepublishing.medium.com/the-best-resources-for-data-science-educators-2ed118618ebe?source=rss-------8-----------------data_science)
-- [How do amateurs and pro players play PUBG differently ?](https://medium.com/analytics-vidhya/how-do-amateurs-and-pro-players-play-pubg-differently-5a9984fdd188?source=rss-------8-----------------data_science)
-- [Excel tips and tricks Part I](https://medium.com/analytics-vidhya/excel-tips-and-tricks-part-i-12dd13d564de?source=rss-------8-----------------data_science)
+- [How to Work (and Play) with Imperfect Sleep Data](https://medium.com/the-slice-blog/how-to-work-and-play-with-imperfect-sleep-data-3135bf562f31?source=rss-------8-----------------data_science)
+- [Aesthetic Epistemology: A Review of Erna Fiorentini’s“Inducing Visibilities…”](https://towardsdatascience.com/aesthetic-epistemology-a-review-of-erna-fiorentinis-inducing-visibilities-3d61919593c3?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
