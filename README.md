@@ -103,15 +103,15 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Working for a Data-Driven Startup Whose Value Surged 700% In Less Than One Year](https://towardsdatascience.com/working-for-a-data-driven-startup-whose-value-surged-700-in-less-than-one-year-168e8c43565a?source=rss-------8-----------------data_science)
+- [Is AI Coming for Your Job?](https://towardsdatascience.com/is-ai-coming-for-your-job-2f593ab72b55?source=rss-------8-----------------data_science)
+- [Training AlphaZero in Google Colab](https://towardsdatascience.com/training-alphazero-in-google-colab-cc2f1d6bd0ba?source=rss-------8-----------------data_science)
+- [The Data Engineering Megatrend: A Brief History](https://rudderstack.medium.com/the-data-engineering-megatrend-a-brief-history-ab986544d1d?source=rss-------8-----------------data_science)
 - [How to Become an Amazing Data Analytics Hire](https://towardsdatascience.com/how-to-become-an-amazing-data-analytics-hire-6d7a1f8be766?source=rss-------8-----------------data_science)
+- [Build an Excel Dashboard…](https://peter-easter-do.medium.com/build-an-excel-dashboard-eae4342b53d6?source=rss-------8-----------------data_science)
+- [Why I’m constantly fascinated by Graph Theory!](https://joelvzach.medium.com/why-im-constantly-fascinated-by-graph-theory-a479690487fa?source=rss-------8-----------------data_science)
 - [Using Ensemble Methods To Predict Housing prices and Building Type](https://gabenosek.medium.com/using-ensemble-methods-to-predict-housing-prices-and-building-type-8ad17e40503f?source=rss-------8-----------------data_science)
 - [Picking a Realtor — with DATA. Part 2: Analysis](https://michelfloyd.medium.com/picking-a-realtor-with-data-part-2-analysis-d7f4ddea6530?source=rss-------8-----------------data_science)
-- [Understanding common Performance Issues in Apache Spark - Deep Dive: Data Skew](https://michaelheil.medium.com/understanding-common-performance-issues-in-apache-spark-deep-dive-data-skew-e962909f3d07?source=rss-------8-----------------data_science)
-- [Best Python cheat sheets for data science](https://preettheman.medium.com/best-python-cheat-sheets-for-data-science-c6ad7563bf5?source=rss-------8-----------------data_science)
-- [Learning Notes on Designing Data-Intensive Applications (ii)](https://elfi-y.medium.com/learning-notes-on-designing-data-intensive-applications-ii-89f28e32f303?source=rss-------8-----------------data_science)
-- [PyNetlogo Tutorial](https://youngjoonoh.medium.com/pynetlogo-tutorial-ea3146188561?source=rss-------8-----------------data_science)
-- [How to break into data science](https://towardsdatascience.com/how-to-break-into-data-science-7f3051ef9d95?source=rss-------8-----------------data_science)
-- [The Joyful Conspiracy and New Opportunities to Modernize Math](https://medium.com/age-of-awareness/the-joyful-conspiracy-and-new-opportunities-to-modernize-math-e793a9aac0f?source=rss-------8-----------------data_science)
 - [Data Preprocessing and Exploratory Data Analysis for Machine Learning.](https://medium.com/analytics-vidhya/data-preprocessing-and-exploratory-data-analysis-for-machine-learning-75b8a6468b72?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
