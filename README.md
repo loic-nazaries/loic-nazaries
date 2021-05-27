@@ -109,9 +109,9 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 - [AWS Quicksight: Overview and Benefits](https://medium.com/analytics-vidhya/aws-quicksight-overview-and-benefits-7fa5f18a661e?source=rss-------8-----------------data_science)
 - [Sports Analytics: Build your own winning IPL dream team](https://medium.com/analytics-vidhya/sports-analytics-build-your-own-winning-ipl-dream-team-be42132df7ab?source=rss-------8-----------------data_science)
 - [Learning Machine Learning with Kaggle](https://medium.com/analytics-vidhya/learning-machine-learning-with-kaggle-4a55feeacda1?source=rss-------8-----------------data_science)
+- [Customer Segmentation with K-Mean Clustering](https://rise-nattarach.medium.com/customer-segmentation-with-k-mean-clustering-852203e18ab7?source=rss-------8-----------------data_science)
 - [Multivariate Autoregressive models and Impulse Response analysis](https://towardsdatascience.com/multivariate-autoregressive-models-and-impulse-response-analysis-cb5ead9b2b68?source=rss-------8-----------------data_science)
 - [I Suddenly Lost The Trending Section. Here Are 4 Instructive Insights.](https://kylegulau.medium.com/i-suddenly-lost-the-trending-section-here-are-4-instructive-insights-35c55224e2c?source=rss-------8-----------------data_science)
-- [AI for Good: Anticipating disasters with better data.](https://abelj.medium.com/ai-for-good-anticipating-disasters-with-better-data-59b55d8c6a7?source=rss-------8-----------------data_science)
 - [Neural Networks Part 1: Terminology, Motivation, and Intuition](https://medium.com/geekculture/neural-networks-part-1-terminology-motivation-and-intuition-73675fc43947?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
