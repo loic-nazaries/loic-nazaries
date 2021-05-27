@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Snap Out of a Data Science Slump](https://towardsdatascience.com/how-to-snap-out-of-a-data-science-slump-82314a9e4644?source=rss-------8-----------------data_science)
+- [How to Build a Machine Learning App](https://towardsdatascience.com/how-to-build-a-machine-learning-app-a9dfed2616fb?source=rss-------8-----------------data_science)
+- [Extracting and Predicting Linked Social Media Accounts](https://jrmlhermitte.medium.com/extracting-and-predicting-linked-social-media-accounts-8bdd25ef5b7d?source=rss-------8-----------------data_science)
 - [5 Lessons McKinsey Taught Me That Will Make You a Better Data Scientist](https://towardsdatascience.com/5-lessons-mckinsey-taught-me-that-will-make-you-a-better-data-scientist-66cd9cc16aba?source=rss-------8-----------------data_science)
 - [Doing almost as much with much less: A Case Study in Biomedical Named Entity Recognition](https://towardsdatascience.com/doing-almost-as-much-with-much-less-a-case-study-in-biomedical-named-entity-recognition-efa4abe18ed?source=rss-------8-----------------data_science)
 - [5 Data Science Podcasts you Should be Listening Right Now](https://towardsdatascience.com/5-data-science-podcasts-you-should-be-listening-right-now-178f0af8ebce?source=rss-------8-----------------data_science)
+- [You Love Cloud-Native Tech but Do You Know What it Advocates?](https://towardsdatascience.com/you-love-cloud-native-tech-but-do-you-know-what-it-advocates-8d0ea9f59727?source=rss-------8-----------------data_science)
 - [Slowly Changing Dimension Type 2 in Spark](https://towardsdatascience.com/slowly-changing-dimension-type-2-in-spark-7d5865ac915b?source=rss-------8-----------------data_science)
-- [Transforming Geometric Features into BigQuery’s Polygon Format with Simple Python Script](https://medium.com/analytics-vidhya/transforming-geometric-features-into-bigquerys-polygon-format-with-simple-python-script-bfd6d44dfc3f?source=rss-------8-----------------data_science)
-- [BigQuery Cost Efficiency](https://datadice.medium.com/bigquery-cost-efficiency-a6223b46376c?source=rss-------8-----------------data_science)
-- [Exploratory Data Analysis and Prediction of Heart Disease using Python](https://medium.com/codex/exploratory-data-analysis-and-prediction-of-heart-disease-using-python-890d3e4e6a37?source=rss-------8-----------------data_science)
-- [How to Work (and Play) with Imperfect Sleep Data](https://medium.com/the-slice-blog/how-to-work-and-play-with-imperfect-sleep-data-3135bf562f31?source=rss-------8-----------------data_science)
-- [Aesthetic Epistemology: A Review of Erna Fiorentini’s“Inducing Visibilities…”](https://towardsdatascience.com/aesthetic-epistemology-a-review-of-erna-fiorentinis-inducing-visibilities-3d61919593c3?source=rss-------8-----------------data_science)
+- [AvatarGAN — Generate Cartoon Images using GAN](https://towardsdatascience.com/avatargan-generate-cartoon-images-using-gan-1ffe7d33cfbb?source=rss-------8-----------------data_science)
+- [“The last will be first, and the first last”… Insights from the M5-competition](https://towardsdatascience.com/the-last-will-be-first-and-the-first-last-insights-from-the-m5-competition-f0b9290dc45?source=rss-------8-----------------data_science)
+- [What’s missing in the AI bias debate](https://towardsdatascience.com/whats-missing-in-the-ai-bias-debate-a5d654809a3c?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
