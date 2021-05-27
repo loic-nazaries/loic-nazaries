@@ -103,12 +103,12 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Trading the Alternate Bat Pattern — The Full Guide.](https://kaabar-sofien.medium.com/trading-the-alternate-bat-pattern-the-full-guide-27ff3a125e2f?source=rss-------8-----------------data_science)
-- [Ethereum Price Prediction with Python](https://medium.com/bitgrit-data-science-publication/ethereum-price-prediction-with-python-3b3805e6e512?source=rss-------8-----------------data_science)
+- [BigQuery Cost Efficiency](https://datadice.medium.com/bigquery-cost-efficiency-a6223b46376c?source=rss-------8-----------------data_science)
+- [The Birthday Problem](https://anthonybmasters.medium.com/the-birthday-problem-cb7cc78cb85e?source=rss-------8-----------------data_science)
+- [Trading the Alternate Bat Pattern — The Full Guide.](https://medium.com/geekculture/trading-the-alternate-bat-pattern-the-full-guide-27ff3a125e2f?source=rss-------8-----------------data_science)
 - [Detecting knee- / elbow points in a graph](https://dkleine.medium.com/detecting-knee-elbow-points-in-a-graph-d13fc517a63c?source=rss-------8-----------------data_science)
 - [Visualising Data For Organisations](https://doski-codes.medium.com/visualising-data-for-organisations-279e68a3204?source=rss-------8-----------------data_science)
 - [The Best Resources for Data Science Educators](https://deepnotepublishing.medium.com/the-best-resources-for-data-science-educators-2ed118618ebe?source=rss-------8-----------------data_science)
-- [Is it time to rethink ‘Data is the new oil’?](https://david-cox-31887.medium.com/is-it-time-to-rethink-data-is-the-new-oil-6a7aa32dbeb9?source=rss-------8-----------------data_science)
 - [Time Series Analysis: Arrival Times of NYC Essential Agencies.](https://daniel-llupercio.medium.com/time-series-analysis-arrival-times-of-nyc-essential-agencies-3679e72cea2a?source=rss-------8-----------------data_science)
 - [Why “AI/ML” Will Land Me in Jail, and My Other Pet Peeves | DataDrivenInvestor](https://medium.datadriveninvestor.com/why-ai-ml-will-land-me-in-jail-and-my-other-pet-peeves-datadriveninvestor-32f46238713f?source=rss-------8-----------------data_science)
 - [How do amateurs and pro players play PUBG differently ?](https://medium.com/analytics-vidhya/how-do-amateurs-and-pro-players-play-pubg-differently-5a9984fdd188?source=rss-------8-----------------data_science)
