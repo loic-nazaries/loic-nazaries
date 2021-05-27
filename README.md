@@ -104,15 +104,15 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 <!-- MEDIUM-STORY-LIST:START -->
 - [Interpretable or Accurate? Why Not Both?](https://towardsdatascience.com/interpretable-or-accurate-why-not-both-4d9c73512192?source=rss-------8-----------------data_science)
+- [Analyzing English Premier League VAR Football Decisions](https://towardsdatascience.com/analyzing-english-premier-league-var-football-decisions-c6d280061ebf?source=rss-------8-----------------data_science)
+- [Why it’s Not Enough to Just Run Modules to be a Good Data Scientist](https://medium.com/analytics-vidhya/why-its-not-enough-to-just-run-modules-to-be-a-good-data-scientist-b395a757251f?source=rss-------8-----------------data_science)
+- [AWS Quicksight: Overview and Benefits](https://medium.com/analytics-vidhya/aws-quicksight-overview-and-benefits-7fa5f18a661e?source=rss-------8-----------------data_science)
+- [Sports Analytics: Build your own winning IPL dream team](https://medium.com/analytics-vidhya/sports-analytics-build-your-own-winning-ipl-dream-team-be42132df7ab?source=rss-------8-----------------data_science)
 - [Learning Machine Learning with Kaggle](https://medium.com/analytics-vidhya/learning-machine-learning-with-kaggle-4a55feeacda1?source=rss-------8-----------------data_science)
-- [T-profile in Power BI](https://towardsdatascience.com/t-profile-in-power-bi-58d46b7ebed4?source=rss-------8-----------------data_science)
-- [Multivariate Autoregressive models and Impulse Response analysis](https://haaya-naushan.medium.com/multivariate-autoregressive-models-and-impulse-response-analysis-cb5ead9b2b68?source=rss-------8-----------------data_science)
+- [Multivariate Autoregressive models and Impulse Response analysis](https://towardsdatascience.com/multivariate-autoregressive-models-and-impulse-response-analysis-cb5ead9b2b68?source=rss-------8-----------------data_science)
 - [I Suddenly Lost The Trending Section. Here Are 4 Instructive Insights.](https://kylegulau.medium.com/i-suddenly-lost-the-trending-section-here-are-4-instructive-insights-35c55224e2c?source=rss-------8-----------------data_science)
-- [Pitching your analytics idea](https://workingwithdata.medium.com/pitching-your-analytics-idea-e373d6176578?source=rss-------8-----------------data_science)
-- [The 5 Reasons Why A Chief Data Officer Fails](https://medium.com/valuing-data/the-5-reasons-why-a-chief-data-officer-fails-d8e226dfa3f?source=rss-------8-----------------data_science)
-- [Introduction to B-trees](https://medium.com/swlh/introduction-to-b-trees-655036db1cc7?source=rss-------8-----------------data_science)
 - [AI for Good: Anticipating disasters with better data.](https://abelj.medium.com/ai-for-good-anticipating-disasters-with-better-data-59b55d8c6a7?source=rss-------8-----------------data_science)
-- [Batch Norm Explained Visually — Why does it work](https://towardsdatascience.com/batch-norm-explained-visually-why-does-it-work-90b98bcc58a0?source=rss-------8-----------------data_science)
+- [Neural Networks Part 1: Terminology, Motivation, and Intuition](https://medium.com/geekculture/neural-networks-part-1-terminology-motivation-and-intuition-73675fc43947?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
