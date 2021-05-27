@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Build a Machine Learning App](https://towardsdatascience.com/how-to-build-a-machine-learning-app-a9dfed2616fb?source=rss-------8-----------------data_science)
-- [Extracting and Predicting Linked Social Media Accounts](https://jrmlhermitte.medium.com/extracting-and-predicting-linked-social-media-accounts-8bdd25ef5b7d?source=rss-------8-----------------data_science)
-- [5 Lessons McKinsey Taught Me That Will Make You a Better Data Scientist](https://towardsdatascience.com/5-lessons-mckinsey-taught-me-that-will-make-you-a-better-data-scientist-66cd9cc16aba?source=rss-------8-----------------data_science)
-- [Doing almost as much with much less: A Case Study in Biomedical Named Entity Recognition](https://towardsdatascience.com/doing-almost-as-much-with-much-less-a-case-study-in-biomedical-named-entity-recognition-efa4abe18ed?source=rss-------8-----------------data_science)
-- [5 Data Science Podcasts you Should be Listening Right Now](https://towardsdatascience.com/5-data-science-podcasts-you-should-be-listening-right-now-178f0af8ebce?source=rss-------8-----------------data_science)
-- [You Love Cloud-Native Tech but Do You Know What it Advocates?](https://towardsdatascience.com/you-love-cloud-native-tech-but-do-you-know-what-it-advocates-8d0ea9f59727?source=rss-------8-----------------data_science)
-- [Slowly Changing Dimension Type 2 in Spark](https://towardsdatascience.com/slowly-changing-dimension-type-2-in-spark-7d5865ac915b?source=rss-------8-----------------data_science)
-- [AvatarGAN — Generate Cartoon Images using GAN](https://towardsdatascience.com/avatargan-generate-cartoon-images-using-gan-1ffe7d33cfbb?source=rss-------8-----------------data_science)
-- [“The last will be first, and the first last”… Insights from the M5-competition](https://towardsdatascience.com/the-last-will-be-first-and-the-first-last-insights-from-the-m5-competition-f0b9290dc45?source=rss-------8-----------------data_science)
-- [What’s missing in the AI bias debate](https://towardsdatascience.com/whats-missing-in-the-ai-bias-debate-a5d654809a3c?source=rss-------8-----------------data_science)
+- [3 Data Engineering Experts Share Their Thoughts on Where Data Is Headed](https://betterprogramming.pub/3-data-engineering-experts-share-their-thoughts-on-where-data-is-headed-a9582aa2e7b2?source=rss-------8-----------------data_science)
+- [Residual Networks in Computer Vision](https://towardsdatascience.com/residual-networks-in-computer-vision-ee118d3be68f?source=rss-------8-----------------data_science)
+- [Exploratory Data Analysis (EDA)](https://towardsdatascience.com/exploratory-data-analysis-eda-72ba03480417?source=rss-------8-----------------data_science)
+- [How to Scale Creative Qual for Rich Consumer Understanding](https://flexmr.medium.com/how-to-scale-creative-qual-for-rich-consumer-understanding-dd266c3f1f87?source=rss-------8-----------------data_science)
+- [Grouping Data with K-Means Clustering](https://medium.com/pragmatic-programmers/grouping-data-with-k-means-clustering-1ba84685ed4?source=rss-------8-----------------data_science)
+- [Fitting a Linear Regression](https://medium.com/pragmatic-programmers/fitting-a-linear-regression-10df0993c5e?source=rss-------8-----------------data_science)
+- [Designing a Predictive Experiment](https://medium.com/pragmatic-programmers/designing-a-predictive-experiment-d19a9e60b3b0?source=rss-------8-----------------data_science)
+- [Doing Stats the Python WayYour Turn](https://medium.com/pragmatic-programmers/doing-stats-the-python-wayyour-turn-912c7806307a?source=rss-------8-----------------data_science)
+- [Recollecting Statistical Measures](https://medium.com/pragmatic-programmers/recollecting-statistical-measures-2fa4697a1da3?source=rss-------8-----------------data_science)
+- [Reviewing Probability Distributions](https://medium.com/pragmatic-programmers/reviewing-probability-distributions-6ea1053286be?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
