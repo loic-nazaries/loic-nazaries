@@ -110,9 +110,9 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 - [The Data Engineering Megatrend: A Brief History](https://rudderstack.medium.com/the-data-engineering-megatrend-a-brief-history-ab986544d1d?source=rss-------8-----------------data_science)
 - [Bayesian Optimization](https://mark-youngson5.medium.com/bayesian-optimization-9cbbb03e4c22?source=rss-------8-----------------data_science)
 - [How to Become an Amazing Data Analytics Hire](https://towardsdatascience.com/how-to-become-an-amazing-data-analytics-hire-6d7a1f8be766?source=rss-------8-----------------data_science)
+- [Analyzing Baseball’s Spin Rate Revolution](https://etsc9287.medium.com/analyzing-baseballs-spin-rate-revolution-901e022ba60d?source=rss-------8-----------------data_science)
 - [Build an Excel Dashboard…](https://peter-easter-do.medium.com/build-an-excel-dashboard-eae4342b53d6?source=rss-------8-----------------data_science)
 - [Why I’m constantly fascinated by Graph Theory!](https://joelvzach.medium.com/why-im-constantly-fascinated-by-graph-theory-a479690487fa?source=rss-------8-----------------data_science)
-- [Using Ensemble Methods To Predict Housing prices and Building Type](https://gabenosek.medium.com/using-ensemble-methods-to-predict-housing-prices-and-building-type-8ad17e40503f?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
