@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [How to Become an Amazing Data Analytics Hire](https://towardsdatascience.com/how-to-become-an-amazing-data-analytics-hire-6d7a1f8be766?source=rss-------8-----------------data_science)
+- [Using Ensemble Methods To Predict Housing prices and Building Type](https://gabenosek.medium.com/using-ensemble-methods-to-predict-housing-prices-and-building-type-8ad17e40503f?source=rss-------8-----------------data_science)
 - [Picking a Realtor — with DATA. Part 2: Analysis](https://michelfloyd.medium.com/picking-a-realtor-with-data-part-2-analysis-d7f4ddea6530?source=rss-------8-----------------data_science)
 - [Understanding common Performance Issues in Apache Spark - Deep Dive: Data Skew](https://michaelheil.medium.com/understanding-common-performance-issues-in-apache-spark-deep-dive-data-skew-e962909f3d07?source=rss-------8-----------------data_science)
 - [Best Python cheat sheets for data science](https://preettheman.medium.com/best-python-cheat-sheets-for-data-science-c6ad7563bf5?source=rss-------8-----------------data_science)
 - [Learning Notes on Designing Data-Intensive Applications (ii)](https://elfi-y.medium.com/learning-notes-on-designing-data-intensive-applications-ii-89f28e32f303?source=rss-------8-----------------data_science)
 - [PyNetlogo Tutorial](https://youngjoonoh.medium.com/pynetlogo-tutorial-ea3146188561?source=rss-------8-----------------data_science)
-- [What is a Data Lake? It is not a Data Swamp](https://towardsdatascience.com/what-is-a-data-lake-it-is-not-a-data-swamp-376430d6c15e?source=rss-------8-----------------data_science)
 - [How to break into data science](https://towardsdatascience.com/how-to-break-into-data-science-7f3051ef9d95?source=rss-------8-----------------data_science)
 - [The Joyful Conspiracy and New Opportunities to Modernize Math](https://medium.com/age-of-awareness/the-joyful-conspiracy-and-new-opportunities-to-modernize-math-e793a9aac0f?source=rss-------8-----------------data_science)
-- [Your Cross Validation Error Confidence Intervals are Wrong — here’s how to Fix Them](https://towardsdatascience.com/your-cross-validation-error-confidence-intervals-are-wrong-heres-how-to-fix-them-abbfe28d390?source=rss-------8-----------------data_science)
-- [Optimal Control, a Preamble](https://towardsdatascience.com/optimal-control-a-preamble-6c0bc2b12ed6?source=rss-------8-----------------data_science)
+- [Data Preprocessing and Exploratory Data Analysis for Machine Learning.](https://medium.com/analytics-vidhya/data-preprocessing-and-exploratory-data-analysis-for-machine-learning-75b8a6468b72?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
