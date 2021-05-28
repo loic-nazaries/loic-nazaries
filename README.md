@@ -103,15 +103,15 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [My (Seemingly) Random Walk to Netflix](https://netflixtechblog.com/my-seemingly-random-walk-to-netflix-293d952953fa?source=rss-------8-----------------data_science)
 - [How Does an ASR System Handle Never-Before-Seen Words?](https://towardsdatascience.com/how-does-an-asr-system-handle-never-before-seen-words-55a27bc40a4c?source=rss-------8-----------------data_science)
 - [4 Use Cases Every Data Scientist Should Know](https://towardsdatascience.com/4-use-cases-every-data-scientist-should-know-49dccd4d533f?source=rss-------8-----------------data_science)
+- [Managing Billions of Data Points: Evolution of Workflow Management at Groupon](https://medium.com/groupon-eng/managing-billions-of-data-points-evolution-of-workflow-management-at-groupon-dab000a3440d?source=rss-------8-----------------data_science)
 - [Statistical Testing using Python](https://vaneeza-ahmad.medium.com/statistical-testing-using-python-a692e307ff2?source=rss-------8-----------------data_science)
 - [Testing the Assumptions of Linear Regression](https://weisharon88.medium.com/testing-the-assumptions-of-linear-regression-f38857abc08a?source=rss-------8-----------------data_science)
 - [Machine Learning Approach for Apparent Temperature Prediction](https://kalpanileo1996.medium.com/machine-learning-approach-for-apparent-temperature-prediction-6751e750f9d5?source=rss-------8-----------------data_science)
 - [Predicting Loan Approval Status — Practice Problem on Analytics Vidhya](https://poddaraayush.medium.com/predicting-loan-approval-status-practice-problem-on-analytics-vidhya-e15ae8b6b0d2?source=rss-------8-----------------data_science)
-- [A Powerful Tool for Election Analysis](https://medium.com/mit-election-lab/a-powerful-tool-for-election-analysis-c5fb78ab6396?source=rss-------8-----------------data_science)
-- [The white rhinos of linguistics](https://wmjlwuh.medium.com/the-white-rhinos-of-linguistics-c8072b390212?source=rss-------8-----------------data_science)
-- [Climate change: interactive Plotly Dash to discover our future prospective](https://francescotontarelli.medium.com/climate-change-interactive-plotly-dash-to-discover-our-future-prospective-d3d60d62cb86?source=rss-------8-----------------data_science)
+- [Where eBay Went Right — and Wrong — With AI: What You Measure Matters](https://towardsdatascience.com/where-ebay-went-right-and-wrong-with-ai-what-you-measure-matters-2322dacc9320?source=rss-------8-----------------data_science)
 - [Juniors Data Scientist’s Guide to A Better Life](https://sibmike.medium.com/juniors-data-scientists-guide-to-a-better-life-4d2d5c19a5fc?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
