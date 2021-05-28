@@ -103,15 +103,15 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [6 SQL Window Functions Coding Problems On Ranking — Interview Countdown P1](https://towardsdatascience.com/6-sql-window-functions-coding-problems-on-ranking-interview-countdown-p1-9be0ccf66453?source=rss-------8-----------------data_science)
 - [Create a Surfing Web App](https://towardsdatascience.com/create-a-surfing-web-app-34da6201f57e?source=rss-------8-----------------data_science)
 - [Automatically track all your EDA using Sweetviz and Comet.ml](https://towardsdatascience.com/automatically-track-all-your-eda-using-sweetviz-and-comet-ml-9cb7545b0fab?source=rss-------8-----------------data_science)
 - [Use MLflow and DVC for open-source reproducible Machine Learning](https://towardsdatascience.com/use-mlflow-and-dvc-for-open-source-reproducible-machine-learning-2ab8c0678a94?source=rss-------8-----------------data_science)
 - [Alzheimer Diagnosis with Deep Learning: Model Implementation](https://towardsdatascience.com/alzheimer-diagnosis-with-deep-learning-model-implementation-5a0fd31f148f?source=rss-------8-----------------data_science)
-- [The Ultimate 4 Step Guide to Clean Data](https://towardsdatascience.com/the-ultimate-4-step-guide-to-clean-data-bd25f2f57956?source=rss-------8-----------------data_science)
 - [How to Build Your Data Learning Projects In 2021](https://towardsdatascience.com/how-to-build-your-data-learning-projects-in-2021-eabf74d72479?source=rss-------8-----------------data_science)
+- [Visualizing Vaccinations: Web Scraping and a Live Tableau Dashboard](https://urban-institute.medium.com/visualizing-vaccinations-web-scraping-github-actions-and-a-live-tableau-dashboard-39d412820823?source=rss-------8-----------------data_science)
 - [Tableau Tutorial — Learn Data Visualization Using Tableau](https://medium.com/edureka/tableau-tutorial-71ef4c122e55?source=rss-------8-----------------data_science)
 - [8 Tips for Object-Oriented Programming in Python](https://towardsdatascience.com/8-tips-for-object-oriented-programming-in-python-3e98b767ae79?source=rss-------8-----------------data_science)
-- [Basic Text Summarization in Python](https://towardsdatascience.com/basic-text-summarization-in-python-d87df82497b3?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
