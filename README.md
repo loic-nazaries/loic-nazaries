@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [How Does an ASR System Handle Never-Before-Seen Words?](https://towardsdatascience.com/how-does-an-asr-system-handle-never-before-seen-words-55a27bc40a4c?source=rss-------8-----------------data_science)
+- [4 Use Cases Every Data Scientist Should Know](https://towardsdatascience.com/4-use-cases-every-data-scientist-should-know-49dccd4d533f?source=rss-------8-----------------data_science)
+- [Statistical Testing using Python](https://vaneeza-ahmad.medium.com/statistical-testing-using-python-a692e307ff2?source=rss-------8-----------------data_science)
 - [Testing the Assumptions of Linear Regression](https://weisharon88.medium.com/testing-the-assumptions-of-linear-regression-f38857abc08a?source=rss-------8-----------------data_science)
-- [Can You Build a Machine Learning Model to Monitor Another Model?](https://towardsdatascience.com/can-you-build-a-machine-learning-model-to-monitor-another-model-15ad561d26df?source=rss-------8-----------------data_science)
-- [Tips for the Data Science Job Search](https://towardsdatascience.com/tips-for-the-data-science-job-search-2252a8268056?source=rss-------8-----------------data_science)
+- [Machine Learning Approach for Apparent Temperature Prediction](https://kalpanileo1996.medium.com/machine-learning-approach-for-apparent-temperature-prediction-6751e750f9d5?source=rss-------8-----------------data_science)
 - [Predicting Loan Approval Status — Practice Problem on Analytics Vidhya](https://poddaraayush.medium.com/predicting-loan-approval-status-practice-problem-on-analytics-vidhya-e15ae8b6b0d2?source=rss-------8-----------------data_science)
 - [A Powerful Tool for Election Analysis](https://medium.com/mit-election-lab/a-powerful-tool-for-election-analysis-c5fb78ab6396?source=rss-------8-----------------data_science)
-- [Cracking the Zed Run Code Part 4 (Does the bookmakers know best?)](https://medium.com/zedcoderun/cracking-the-zed-run-code-part-4-does-the-bookmakers-know-best-815079554827?source=rss-------8-----------------data_science)
 - [The white rhinos of linguistics](https://wmjlwuh.medium.com/the-white-rhinos-of-linguistics-c8072b390212?source=rss-------8-----------------data_science)
-- [Linear Regression for Data Science — With Python](https://medium.com/analytics-vidhya/linear-regression-for-data-science-with-python-eeb3407abf9d?source=rss-------8-----------------data_science)
-- [Build a Machine Learning Model for a Weather dataset](https://sachinmamoru.medium.com/build-a-machine-learning-model-for-a-weather-dataset-66b95e525052?source=rss-------8-----------------data_science)
 - [Climate change: interactive Plotly Dash to discover our future prospective](https://francescotontarelli.medium.com/climate-change-interactive-plotly-dash-to-discover-our-future-prospective-d3d60d62cb86?source=rss-------8-----------------data_science)
+- [Juniors Data Scientist’s Guide to A Better Life](https://sibmike.medium.com/juniors-data-scientists-guide-to-a-better-life-4d2d5c19a5fc?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
