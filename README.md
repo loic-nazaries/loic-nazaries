@@ -103,14 +103,14 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [How to Build Your Data Learning Projects In 2021](https://towardsdatascience.com/how-to-build-your-data-learning-projects-in-2021-eabf74d72479?source=rss-------8-----------------data_science)
+- [Dask DataFrames — How to Run Pandas in Parallel With Ease](https://towardsdatascience.com/dask-dataframes-how-to-run-pandas-in-parallel-with-ease-b8b1f6b2646b?source=rss-------8-----------------data_science)
+- [Training Question Answering Models from Synthetic Data (Research Paper Summary)](https://towardsdatascience.com/training-question-answering-models-from-synthetic-data-research-paper-summary-2220186703f?source=rss-------8-----------------data_science)
+- [Particle Distribution Per Coffee Bean](https://rmckeon.medium.com/particle-distribution-per-coffee-bean-4fefb3d7f4e8?source=rss-------8-----------------data_science)
+- [9 Efficient Ways for Describing and Summarizing a Pandas DataFrame](https://rukshanpramoditha.medium.com/9-efficient-ways-for-describing-and-summarizing-a-pandas-dataframe-316234f46e6?source=rss-------8-----------------data_science)
+- [Health data analysis needs causality (Cancer Treatment and Vaccination effect)](https://diplodoc.medium.com/health-data-analysis-needs-causality-cancer-treatment-and-vaccination-effect-7d0ec8db7ab8?source=rss-------8-----------------data_science)
 - [Keeping Up With Data — Week 21 Reading List](https://adamvotava.medium.com/keeping-up-with-data-week-21-reading-list-2199e0802c8b?source=rss-------8-----------------data_science)
-- [Using Data Science For Law Enforcement](https://mrdatascience.medium.com/using-data-science-for-law-enforcement-bae7092689c5?source=rss-------8-----------------data_science)
 - [Basic Text Summarization in Python](https://towardsdatascience.com/basic-text-summarization-in-python-d87df82497b3?source=rss-------8-----------------data_science)
-- [What is skewness in data? How to fix skewed data in python?](https://yashowardhanshinde.medium.com/what-is-skewness-in-data-how-to-fix-skewed-data-in-python-a8dccea27463?source=rss-------8-----------------data_science)
-- [Working with data frames in R and python: basics](https://gabrielcp.medium.com/working-with-data-frames-in-r-and-python-basics-cba71a71161d?source=rss-------8-----------------data_science)
-- [How to Create a Rating Visual in Power BI using DAX](https://towardsdatascience.com/how-to-create-a-rating-visual-in-power-bi-using-dax-55b3d955d39b?source=rss-------8-----------------data_science)
-- [Python Map, Filter, and Reduce](https://towardsdatascience.com/python-map-filter-and-reduce-9a888545e9fc?source=rss-------8-----------------data_science)
-- [Sentiment Analysis for Depression](https://abookishwolf.medium.com/sentiment-analysis-for-depression-a4568916a884?source=rss-------8-----------------data_science)
 - [Student Emotions and Relational Databases](https://loustevenshere.medium.com/student-emotions-and-relational-databases-334fe2cc3b3?source=rss-------8-----------------data_science)
 - [Analysis paralysis or static models: The power of ontologies and machine learning for sustainable…](https://medium.com/field33/analysis-paralysis-or-static-models-the-power-of-ontologies-and-machine-learning-for-sustainable-3e11b6b87d20?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
