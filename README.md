@@ -103,10 +103,10 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Build a Simple Portfolio Website for FREE](https://towardsdatascience.com/how-to-build-a-simple-portfolio-website-for-free-f49327675fd9?source=rss-------8-----------------data_science)
 - [Introduction to Object Detection Model Evaluation](https://towardsdatascience.com/introduction-to-object-detection-model-evaluation-3a789220a9bf?source=rss-------8-----------------data_science)
 - [5 Must-Know Operations on Python Sets](https://towardsdatascience.com/5-must-know-operations-on-python-sets-827d5b81465a?source=rss-------8-----------------data_science)
 - [Five Tips for Overcoming Imposter Syndrome in the Data Science World](https://towardsdatascience.com/five-tips-for-overcoming-imposter-syndrome-in-the-data-science-world-c4425b0f51b9?source=rss-------8-----------------data_science)
+- [I Don’t Like Data Science Competitions](https://gabegm.medium.com/i-dont-like-data-science-competitions-714a83dc4612?source=rss-------8-----------------data_science)
 - [Fully Explained Hierarchical Clustering with Python](https://pub.towardsai.net/fully-explained-hierarchical-clustering-with-python-ebb256317b50?source=rss-------8-----------------data_science)
 - [The Super-Secret Data Analysis Trick You Probably Never Knew About](https://brad-bartram.medium.com/the-super-secret-data-analysis-trick-you-probably-never-knew-about-a00aa10ef310?source=rss-------8-----------------data_science)
 - [All public transport leads to Utrecht, not Rome](https://towardsdatascience.com/all-public-transport-leads-to-utrecht-not-rome-bb9674600e81?source=rss-------8-----------------data_science)
