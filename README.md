@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Python Map, Filter, and Reduce](https://towardsdatascience.com/python-map-filter-and-reduce-9a888545e9fc?source=rss-------8-----------------data_science)
+- [Power BI Modelling](https://towardsdatascience.com/power-bi-modelling-8f1e4246c84e?source=rss-------8-----------------data_science)
+- [A Deep Dive Into Spark Datasets and DataFrames Using Scala](https://betterprogramming.pub/a-deep-dive-into-spark-datasets-and-dataframes-using-scala-a268b4af7491?source=rss-------8-----------------data_science)
+- [How We Automated Our NPS Program in Five Steps](https://towardsdatascience.com/how-we-automated-our-nps-program-in-five-steps-221484f02b9f?source=rss-------8-----------------data_science)
+- [Custom made plots in Python with PySimpleGUI](https://k3no.medium.com/custom-made-plots-in-python-with-pysimplegui-9f7618fab8d5?source=rss-------8-----------------data_science)
 - [Predict Lead Score (the right way) using PyCaret](https://towardsdatascience.com/predict-lead-score-the-right-way-using-pycaret-332faa780cfc?source=rss-------8-----------------data_science)
 - [A Beginner Guide to Complete Data Wrangling with Dplyr in R](https://abutareqrony.medium.com/a-beginner-guide-to-complete-data-wrangling-with-dplyr-in-r-73ca7163553?source=rss-------8-----------------data_science)
 - [Sklearn dataset loading utilities](https://felixvidalgu.medium.com/sklearn-dataset-loading-utilities-78ee309de56b?source=rss-------8-----------------data_science)
 - [Descriptive and Inferential Statistics](https://luminousmen.medium.com/descriptive-and-inferential-statistics-a5912ff6421e?source=rss-------8-----------------data_science)
 - [SVM — Cupcakes or Muffins? — Start To Finished](https://medium.com/jungletronics/svm-cupcakes-or-muffins-start-to-finished-cbaac61debbb?source=rss-------8-----------------data_science)
-- [Why I chose Flatiron School](https://adinasteinman.medium.com/why-i-chose-flatiron-school-f953932016e?source=rss-------8-----------------data_science)
-- [Car rental prices at record highs: Explore the trends with data from QL2 and Snowflake](https://medium.com/snowflake/car-rental-prices-at-record-highs-explore-the-trends-with-data-from-ql2-and-snowflake-ba0f3a946782?source=rss-------8-----------------data_science)
-- [Predict Data with Linear Regression Analysis](https://nishshankacj.medium.com/predict-data-with-linear-regression-analysis-1f5569dbe856?source=rss-------8-----------------data_science)
-- [Derivatives in Data Science](https://imswapnilb.medium.com/derivatives-in-data-science-c5d7bd916f17?source=rss-------8-----------------data_science)
-- [Data Studio: We can do much more than it seems](https://medium.com/spikelab/data-studio-we-can-do-much-more-than-it-seems-46b0aa083bf6?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
