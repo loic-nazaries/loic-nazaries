@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Testing the Assumptions of Linear Regression](https://weisharon88.medium.com/testing-the-assumptions-of-linear-regression-f38857abc08a?source=rss-------8-----------------data_science)
+- [Can You Build a Machine Learning Model to Monitor Another Model?](https://towardsdatascience.com/can-you-build-a-machine-learning-model-to-monitor-another-model-15ad561d26df?source=rss-------8-----------------data_science)
+- [Tips for the Data Science Job Search](https://towardsdatascience.com/tips-for-the-data-science-job-search-2252a8268056?source=rss-------8-----------------data_science)
+- [Predicting Loan Approval Status — Practice Problem on Analytics Vidhya](https://poddaraayush.medium.com/predicting-loan-approval-status-practice-problem-on-analytics-vidhya-e15ae8b6b0d2?source=rss-------8-----------------data_science)
+- [A Powerful Tool for Election Analysis](https://medium.com/mit-election-lab/a-powerful-tool-for-election-analysis-c5fb78ab6396?source=rss-------8-----------------data_science)
 - [Cracking the Zed Run Code Part 4 (Does the bookmakers know best?)](https://medium.com/zedcoderun/cracking-the-zed-run-code-part-4-does-the-bookmakers-know-best-815079554827?source=rss-------8-----------------data_science)
-- [Predict Your Future Medium Stats Using Deep Learning](https://betterprogramming.pub/predict-your-future-medium-stats-using-deep-learning-ce49bb3361ea?source=rss-------8-----------------data_science)
-- [Build a Music Recommendation System Based on Social Media Behavior](https://betterprogramming.pub/build-a-music-recommendation-system-based-on-social-media-behavior-df7e1e26c67?source=rss-------8-----------------data_science)
-- [Scraping Data from Nested HTML Pages with Python Selenium](https://towardsdatascience.com/scraping-data-from-nested-html-pages-with-python-selenium-c5f23065841f?source=rss-------8-----------------data_science)
+- [The white rhinos of linguistics](https://wmjlwuh.medium.com/the-white-rhinos-of-linguistics-c8072b390212?source=rss-------8-----------------data_science)
+- [Linear Regression for Data Science — With Python](https://medium.com/analytics-vidhya/linear-regression-for-data-science-with-python-eeb3407abf9d?source=rss-------8-----------------data_science)
 - [Build a Machine Learning Model for a Weather dataset](https://sachinmamoru.medium.com/build-a-machine-learning-model-for-a-weather-dataset-66b95e525052?source=rss-------8-----------------data_science)
-- [Introduction to ARIMA for Time Series Forecasting](https://towardsdatascience.com/introduction-to-arima-for-time-series-forecasting-ee0bc285807a?source=rss-------8-----------------data_science)
-- [Streamlit Tips, Tricks, and Hacks for Data Scientists](https://medium.com/ssense-tech/streamlit-tips-tricks-and-hacks-for-data-scientists-d928414e0c16?source=rss-------8-----------------data_science)
-- [How is YouTube using AI to recommend videos?](https://pub.towardsai.net/how-is-youtube-using-ai-to-recommend-videos-38a142c2d06d?source=rss-------8-----------------data_science)
-- [Understand Decision Tree Classifier](https://towardsdatascience.com/understand-decision-tree-classifier-8a7497d4c5b3?source=rss-------8-----------------data_science)
-- [Exploring Structural Pattern Matching in Python 3.10](https://betterprogramming.pub/exploring-structural-pattern-matching-in-python-3-10-507e33a28a85?source=rss-------8-----------------data_science)
+- [Climate change: interactive Plotly Dash to discover our future prospective](https://francescotontarelli.medium.com/climate-change-interactive-plotly-dash-to-discover-our-future-prospective-d3d60d62cb86?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
