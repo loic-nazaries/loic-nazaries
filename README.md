@@ -103,15 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Build a Music Recommendation System Based on Social Media Behavior](https://betterprogramming.pub/build-a-music-recommendation-system-based-on-social-media-behavior-df7e1e26c67?source=rss-------8-----------------data_science)
+- [Scraping Data from Nested HTML Pages with Python Selenium](https://towardsdatascience.com/scraping-data-from-nested-html-pages-with-python-selenium-c5f23065841f?source=rss-------8-----------------data_science)
+- [4 Things GPT-4 Will Improve From GPT-3](https://towardsdatascience.com/4-things-gpt-4-will-improve-from-gpt-3-2b1e7a6da49f?source=rss-------8-----------------data_science)
+- [All public transport leads to Utrecht, not Rome](https://towardsdatascience.com/all-public-transport-leads-to-utrecht-not-rome-bb9674600e81?source=rss-------8-----------------data_science)
+- [10 Fabulous Python Decorators](https://towardsdatascience.com/10-fabulous-python-decorators-ab674a732871?source=rss-------8-----------------data_science)
+- [Introduction to ARIMA for Time Series Forecasting](https://towardsdatascience.com/introduction-to-arima-for-time-series-forecasting-ee0bc285807a?source=rss-------8-----------------data_science)
 - [6 SQL Window Functions Coding Problems On Ranking — Interview Countdown P1](https://towardsdatascience.com/6-sql-window-functions-coding-problems-on-ranking-interview-countdown-p1-9be0ccf66453?source=rss-------8-----------------data_science)
-- [Create a Surfing Web App](https://towardsdatascience.com/create-a-surfing-web-app-34da6201f57e?source=rss-------8-----------------data_science)
-- [Automatically track all your EDA using Sweetviz and Comet.ml](https://towardsdatascience.com/automatically-track-all-your-eda-using-sweetviz-and-comet-ml-9cb7545b0fab?source=rss-------8-----------------data_science)
-- [Use MLflow and DVC for open-source reproducible Machine Learning](https://towardsdatascience.com/use-mlflow-and-dvc-for-open-source-reproducible-machine-learning-2ab8c0678a94?source=rss-------8-----------------data_science)
-- [Alzheimer Diagnosis with Deep Learning: Model Implementation](https://towardsdatascience.com/alzheimer-diagnosis-with-deep-learning-model-implementation-5a0fd31f148f?source=rss-------8-----------------data_science)
-- [How to Build Your Data Learning Projects In 2021](https://towardsdatascience.com/how-to-build-your-data-learning-projects-in-2021-eabf74d72479?source=rss-------8-----------------data_science)
 - [Visualizing Vaccinations: Web Scraping and a Live Tableau Dashboard](https://urban-institute.medium.com/visualizing-vaccinations-web-scraping-github-actions-and-a-live-tableau-dashboard-39d412820823?source=rss-------8-----------------data_science)
-- [Tableau Tutorial — Learn Data Visualization Using Tableau](https://medium.com/edureka/tableau-tutorial-71ef4c122e55?source=rss-------8-----------------data_science)
-- [8 Tips for Object-Oriented Programming in Python](https://towardsdatascience.com/8-tips-for-object-oriented-programming-in-python-3e98b767ae79?source=rss-------8-----------------data_science)
+- [How is YouTube using AI to recommend videos?](https://pub.towardsai.net/how-is-youtube-using-ai-to-recommend-videos-38a142c2d06d?source=rss-------8-----------------data_science)
+- [Exploring Structural Pattern Matching in Python 3.10](https://betterprogramming.pub/exploring-structural-pattern-matching-in-python-3-10-507e33a28a85?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
