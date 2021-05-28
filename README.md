@@ -103,16 +103,15 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Create a Surfing Web App](https://towardsdatascience.com/create-a-surfing-web-app-34da6201f57e?source=rss-------8-----------------data_science)
+- [Automatically track all your EDA using Sweetviz and Comet.ml](https://towardsdatascience.com/automatically-track-all-your-eda-using-sweetviz-and-comet-ml-9cb7545b0fab?source=rss-------8-----------------data_science)
+- [Use MLflow and DVC for open-source reproducible Machine Learning](https://towardsdatascience.com/use-mlflow-and-dvc-for-open-source-reproducible-machine-learning-2ab8c0678a94?source=rss-------8-----------------data_science)
+- [Alzheimer Diagnosis with Deep Learning: Model Implementation](https://towardsdatascience.com/alzheimer-diagnosis-with-deep-learning-model-implementation-5a0fd31f148f?source=rss-------8-----------------data_science)
+- [The Ultimate 4 Step Guide to Clean Data](https://towardsdatascience.com/the-ultimate-4-step-guide-to-clean-data-bd25f2f57956?source=rss-------8-----------------data_science)
 - [How to Build Your Data Learning Projects In 2021](https://towardsdatascience.com/how-to-build-your-data-learning-projects-in-2021-eabf74d72479?source=rss-------8-----------------data_science)
-- [Dask DataFrames — How to Run Pandas in Parallel With Ease](https://towardsdatascience.com/dask-dataframes-how-to-run-pandas-in-parallel-with-ease-b8b1f6b2646b?source=rss-------8-----------------data_science)
-- [Training Question Answering Models from Synthetic Data (Research Paper Summary)](https://towardsdatascience.com/training-question-answering-models-from-synthetic-data-research-paper-summary-2220186703f?source=rss-------8-----------------data_science)
-- [Particle Distribution Per Coffee Bean](https://rmckeon.medium.com/particle-distribution-per-coffee-bean-4fefb3d7f4e8?source=rss-------8-----------------data_science)
-- [9 Efficient Ways for Describing and Summarizing a Pandas DataFrame](https://rukshanpramoditha.medium.com/9-efficient-ways-for-describing-and-summarizing-a-pandas-dataframe-316234f46e6?source=rss-------8-----------------data_science)
-- [Health data analysis needs causality (Cancer Treatment and Vaccination effect)](https://diplodoc.medium.com/health-data-analysis-needs-causality-cancer-treatment-and-vaccination-effect-7d0ec8db7ab8?source=rss-------8-----------------data_science)
-- [Keeping Up With Data — Week 21 Reading List](https://adamvotava.medium.com/keeping-up-with-data-week-21-reading-list-2199e0802c8b?source=rss-------8-----------------data_science)
+- [Tableau Tutorial — Learn Data Visualization Using Tableau](https://medium.com/edureka/tableau-tutorial-71ef4c122e55?source=rss-------8-----------------data_science)
+- [8 Tips for Object-Oriented Programming in Python](https://towardsdatascience.com/8-tips-for-object-oriented-programming-in-python-3e98b767ae79?source=rss-------8-----------------data_science)
 - [Basic Text Summarization in Python](https://towardsdatascience.com/basic-text-summarization-in-python-d87df82497b3?source=rss-------8-----------------data_science)
-- [Student Emotions and Relational Databases](https://loustevenshere.medium.com/student-emotions-and-relational-databases-334fe2cc3b3?source=rss-------8-----------------data_science)
-- [Analysis paralysis or static models: The power of ontologies and machine learning for sustainable…](https://medium.com/field33/analysis-paralysis-or-static-models-the-power-of-ontologies-and-machine-learning-for-sustainable-3e11b6b87d20?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
