@@ -103,13 +103,13 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Working with data frames in R and python: basics](https://gabrielcp.medium.com/working-with-data-frames-in-r-and-python-basics-cba71a71161d?source=rss-------8-----------------data_science)
 - [How to Create a Rating Visual in Power BI using DAX](https://towardsdatascience.com/how-to-create-a-rating-visual-in-power-bi-using-dax-55b3d955d39b?source=rss-------8-----------------data_science)
 - [Python Map, Filter, and Reduce](https://towardsdatascience.com/python-map-filter-and-reduce-9a888545e9fc?source=rss-------8-----------------data_science)
 - [Power BI Modelling](https://towardsdatascience.com/power-bi-modelling-8f1e4246c84e?source=rss-------8-----------------data_science)
 - [A Deep Dive Into Spark Datasets and DataFrames Using Scala](https://betterprogramming.pub/a-deep-dive-into-spark-datasets-and-dataframes-using-scala-a268b4af7491?source=rss-------8-----------------data_science)
 - [How We Automated Our NPS Program in Five Steps](https://towardsdatascience.com/how-we-automated-our-nps-program-in-five-steps-221484f02b9f?source=rss-------8-----------------data_science)
 - [Custom made plots in Python with PySimpleGUI](https://k3no.medium.com/custom-made-plots-in-python-with-pysimplegui-9f7618fab8d5?source=rss-------8-----------------data_science)
-- [Predict Lead Score (the right way) using PyCaret](https://towardsdatascience.com/predict-lead-score-the-right-way-using-pycaret-332faa780cfc?source=rss-------8-----------------data_science)
 - [A Beginner Guide to Complete Data Wrangling with Dplyr in R](https://abutareqrony.medium.com/a-beginner-guide-to-complete-data-wrangling-with-dplyr-in-r-73ca7163553?source=rss-------8-----------------data_science)
 - [Sklearn dataset loading utilities](https://felixvidalgu.medium.com/sklearn-dataset-loading-utilities-78ee309de56b?source=rss-------8-----------------data_science)
 - [Descriptive and Inferential Statistics](https://luminousmen.medium.com/descriptive-and-inferential-statistics-a5912ff6421e?source=rss-------8-----------------data_science)
