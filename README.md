@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [My (Seemingly) Random Walk to Netflix](https://netflixtechblog.com/my-seemingly-random-walk-to-netflix-293d952953fa?source=rss-------8-----------------data_science)
-- [How Does an ASR System Handle Never-Before-Seen Words?](https://towardsdatascience.com/how-does-an-asr-system-handle-never-before-seen-words-55a27bc40a4c?source=rss-------8-----------------data_science)
-- [4 Use Cases Every Data Scientist Should Know](https://towardsdatascience.com/4-use-cases-every-data-scientist-should-know-49dccd4d533f?source=rss-------8-----------------data_science)
-- [Managing Billions of Data Points: Evolution of Workflow Management at Groupon](https://medium.com/groupon-eng/managing-billions-of-data-points-evolution-of-workflow-management-at-groupon-dab000a3440d?source=rss-------8-----------------data_science)
-- [Statistical Testing using Python](https://vaneeza-ahmad.medium.com/statistical-testing-using-python-a692e307ff2?source=rss-------8-----------------data_science)
-- [Testing the Assumptions of Linear Regression](https://weisharon88.medium.com/testing-the-assumptions-of-linear-regression-f38857abc08a?source=rss-------8-----------------data_science)
-- [Machine Learning Approach for Apparent Temperature Prediction](https://kalpanileo1996.medium.com/machine-learning-approach-for-apparent-temperature-prediction-6751e750f9d5?source=rss-------8-----------------data_science)
-- [Predicting Loan Approval Status — Practice Problem on Analytics Vidhya](https://poddaraayush.medium.com/predicting-loan-approval-status-practice-problem-on-analytics-vidhya-e15ae8b6b0d2?source=rss-------8-----------------data_science)
-- [Where eBay Went Right — and Wrong — With AI: What You Measure Matters](https://towardsdatascience.com/where-ebay-went-right-and-wrong-with-ai-what-you-measure-matters-2322dacc9320?source=rss-------8-----------------data_science)
-- [Juniors Data Scientist’s Guide to A Better Life](https://sibmike.medium.com/juniors-data-scientists-guide-to-a-better-life-4d2d5c19a5fc?source=rss-------8-----------------data_science)
+- [How to Build a Simple Portfolio Website for FREE](https://towardsdatascience.com/how-to-build-a-simple-portfolio-website-for-free-f49327675fd9?source=rss-------8-----------------data_science)
+- [Introduction to Object Detection Model Evaluation](https://towardsdatascience.com/introduction-to-object-detection-model-evaluation-3a789220a9bf?source=rss-------8-----------------data_science)
+- [5 Must-Know Operations on Python Sets](https://towardsdatascience.com/5-must-know-operations-on-python-sets-827d5b81465a?source=rss-------8-----------------data_science)
+- [Five Tips for Overcoming Imposter Syndrome in the Data Science World](https://towardsdatascience.com/five-tips-for-overcoming-imposter-syndrome-in-the-data-science-world-c4425b0f51b9?source=rss-------8-----------------data_science)
+- [Fully Explained Hierarchical Clustering with Python](https://pub.towardsai.net/fully-explained-hierarchical-clustering-with-python-ebb256317b50?source=rss-------8-----------------data_science)
+- [The Super-Secret Data Analysis Trick You Probably Never Knew About](https://brad-bartram.medium.com/the-super-secret-data-analysis-trick-you-probably-never-knew-about-a00aa10ef310?source=rss-------8-----------------data_science)
+- [All public transport leads to Utrecht, not Rome](https://towardsdatascience.com/all-public-transport-leads-to-utrecht-not-rome-bb9674600e81?source=rss-------8-----------------data_science)
+- [What’s the Maximum ROC You Can Achieve? (No, the Answer Is Not 1)](https://towardsdatascience.com/whats-the-maximum-roc-you-can-achieve-no-the-answer-is-not-1-da11b66c0f28?source=rss-------8-----------------data_science)
+- [Power BI Modelling](https://towardsdatascience.com/power-bi-modelling-8f1e4246c84e?source=rss-------8-----------------data_science)
+- [Frankenstein Bias](https://towardsdatascience.com/frankenstein-bias-6e2c906df595?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
