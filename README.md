@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Keeping Up With Data — Week 21 Reading List](https://adamvotava.medium.com/keeping-up-with-data-week-21-reading-list-2199e0802c8b?source=rss-------8-----------------data_science)
+- [Using Data Science For Law Enforcement](https://mrdatascience.medium.com/using-data-science-for-law-enforcement-bae7092689c5?source=rss-------8-----------------data_science)
+- [Basic Text Summarization in Python](https://towardsdatascience.com/basic-text-summarization-in-python-d87df82497b3?source=rss-------8-----------------data_science)
 - [What is skewness in data? How to fix skewed data in python?](https://yashowardhanshinde.medium.com/what-is-skewness-in-data-how-to-fix-skewed-data-in-python-a8dccea27463?source=rss-------8-----------------data_science)
 - [Working with data frames in R and python: basics](https://gabrielcp.medium.com/working-with-data-frames-in-r-and-python-basics-cba71a71161d?source=rss-------8-----------------data_science)
 - [How to Create a Rating Visual in Power BI using DAX](https://towardsdatascience.com/how-to-create-a-rating-visual-in-power-bi-using-dax-55b3d955d39b?source=rss-------8-----------------data_science)
 - [Python Map, Filter, and Reduce](https://towardsdatascience.com/python-map-filter-and-reduce-9a888545e9fc?source=rss-------8-----------------data_science)
-- [Power BI Modelling](https://towardsdatascience.com/power-bi-modelling-8f1e4246c84e?source=rss-------8-----------------data_science)
-- [A Deep Dive Into Spark Datasets and DataFrames Using Scala](https://betterprogramming.pub/a-deep-dive-into-spark-datasets-and-dataframes-using-scala-a268b4af7491?source=rss-------8-----------------data_science)
-- [How We Automated Our NPS Program in Five Steps](https://towardsdatascience.com/how-we-automated-our-nps-program-in-five-steps-221484f02b9f?source=rss-------8-----------------data_science)
-- [Custom made plots in Python with PySimpleGUI](https://k3no.medium.com/custom-made-plots-in-python-with-pysimplegui-9f7618fab8d5?source=rss-------8-----------------data_science)
 - [Sentiment Analysis for Depression](https://abookishwolf.medium.com/sentiment-analysis-for-depression-a4568916a884?source=rss-------8-----------------data_science)
-- [A Beginner Guide to Complete Data Wrangling with Dplyr in R](https://abutareqrony.medium.com/a-beginner-guide-to-complete-data-wrangling-with-dplyr-in-r-73ca7163553?source=rss-------8-----------------data_science)
+- [Student Emotions and Relational Databases](https://loustevenshere.medium.com/student-emotions-and-relational-databases-334fe2cc3b3?source=rss-------8-----------------data_science)
+- [Analysis paralysis or static models: The power of ontologies and machine learning for sustainable…](https://medium.com/field33/analysis-paralysis-or-static-models-the-power-of-ontologies-and-machine-learning-for-sustainable-3e11b6b87d20?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
