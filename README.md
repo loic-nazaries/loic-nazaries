@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Making Decisions with Data Science](https://towardsdatascience.com/making-decisions-with-data-science-36fae52ccfab?source=rss-------8-----------------data_science)
+- [Predict Lead Score (the right way) using PyCaret](https://towardsdatascience.com/predict-lead-score-the-right-way-using-pycaret-332faa780cfc?source=rss-------8-----------------data_science)
+- [A Beginner Guide to Complete Data Wrangling with Dplyr in R](https://abutareqrony.medium.com/a-beginner-guide-to-complete-data-wrangling-with-dplyr-in-r-73ca7163553?source=rss-------8-----------------data_science)
+- [Sklearn dataset loading utilities](https://felixvidalgu.medium.com/sklearn-dataset-loading-utilities-78ee309de56b?source=rss-------8-----------------data_science)
+- [Descriptive and Inferential Statistics](https://luminousmen.medium.com/descriptive-and-inferential-statistics-a5912ff6421e?source=rss-------8-----------------data_science)
 - [SVM — Cupcakes or Muffins? — Start To Finished](https://medium.com/jungletronics/svm-cupcakes-or-muffins-start-to-finished-cbaac61debbb?source=rss-------8-----------------data_science)
 - [Why I chose Flatiron School](https://adinasteinman.medium.com/why-i-chose-flatiron-school-f953932016e?source=rss-------8-----------------data_science)
 - [Car rental prices at record highs: Explore the trends with data from QL2 and Snowflake](https://medium.com/snowflake/car-rental-prices-at-record-highs-explore-the-trends-with-data-from-ql2-and-snowflake-ba0f3a946782?source=rss-------8-----------------data_science)
 - [Predict Data with Linear Regression Analysis](https://nishshankacj.medium.com/predict-data-with-linear-regression-analysis-1f5569dbe856?source=rss-------8-----------------data_science)
 - [Derivatives in Data Science](https://imswapnilb.medium.com/derivatives-in-data-science-c5d7bd916f17?source=rss-------8-----------------data_science)
-- [Sports Analytics: Build your own winning IPL dream team](https://medium.com/analytics-vidhya/sports-analytics-build-your-own-winning-ipl-dream-team-be42132df7ab?source=rss-------8-----------------data_science)
-- [How can we quantify similarity between time series?](https://medium.com/gorillatech/how-can-we-quantify-similarity-between-time-series-ed1d0b633ca0?source=rss-------8-----------------data_science)
 - [Data Studio: We can do much more than it seems](https://medium.com/spikelab/data-studio-we-can-do-much-more-than-it-seems-46b0aa083bf6?source=rss-------8-----------------data_science)
-- [Customer Segmentation with K-Mean Clustering](https://rise-nattarach.medium.com/customer-segmentation-with-k-mean-clustering-852203e18ab7?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
