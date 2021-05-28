@@ -103,6 +103,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [How to Create a Rating Visual in Power BI using DAX](https://towardsdatascience.com/how-to-create-a-rating-visual-in-power-bi-using-dax-55b3d955d39b?source=rss-------8-----------------data_science)
 - [Python Map, Filter, and Reduce](https://towardsdatascience.com/python-map-filter-and-reduce-9a888545e9fc?source=rss-------8-----------------data_science)
 - [Power BI Modelling](https://towardsdatascience.com/power-bi-modelling-8f1e4246c84e?source=rss-------8-----------------data_science)
 - [A Deep Dive Into Spark Datasets and DataFrames Using Scala](https://betterprogramming.pub/a-deep-dive-into-spark-datasets-and-dataframes-using-scala-a268b4af7491?source=rss-------8-----------------data_science)
@@ -112,7 +113,6 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 - [A Beginner Guide to Complete Data Wrangling with Dplyr in R](https://abutareqrony.medium.com/a-beginner-guide-to-complete-data-wrangling-with-dplyr-in-r-73ca7163553?source=rss-------8-----------------data_science)
 - [Sklearn dataset loading utilities](https://felixvidalgu.medium.com/sklearn-dataset-loading-utilities-78ee309de56b?source=rss-------8-----------------data_science)
 - [Descriptive and Inferential Statistics](https://luminousmen.medium.com/descriptive-and-inferential-statistics-a5912ff6421e?source=rss-------8-----------------data_science)
-- [SVM — Cupcakes or Muffins? — Start To Finished](https://medium.com/jungletronics/svm-cupcakes-or-muffins-start-to-finished-cbaac61debbb?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
