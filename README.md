@@ -103,13 +103,13 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [6 Steps to Optimize and Tailor Your Resume For A Specific Job Description](https://towardsdatascience.com/6-steps-to-optimize-and-tailor-your-resume-for-a-specific-job-description-77dd535f321f?source=rss-------8-----------------data_science)
 - [5 Common Misconceptions about Linear Regressions](https://towardsdatascience.com/5-common-misconceptions-about-linear-regressions-7fe5b64ecedf?source=rss-------8-----------------data_science)
 - [How To Get A Sentiment Score For Words with Naive Bayes](https://medium.com/geekculture/how-to-get-a-sentiment-score-for-words-with-naive-bayes-4ece5df638a6?source=rss-------8-----------------data_science)
 - [Hypothesis Testing Simplified](https://dindisn.medium.com/hypothesis-testing-simplified-5264f490a578?source=rss-------8-----------------data_science)
 - [Putting ABC in Phylogenetic Comparative Methods](https://mohaksharda.medium.com/putting-abc-in-phylogenetic-comparative-methods-6d93a8e63a91?source=rss-------8-----------------data_science)
 - [Most popular R packages in 2021](https://preettheman.medium.com/most-popular-r-packages-in-2021-a14ea6fdd761?source=rss-------8-----------------data_science)
 - [Pandas — DATAFRAMES](https://medium.com/jungletronics/pandas-dataframes-377cc20dd119?source=rss-------8-----------------data_science)
-- [5 Must-Know Operations on Python Sets](https://towardsdatascience.com/5-must-know-operations-on-python-sets-827d5b81465a?source=rss-------8-----------------data_science)
 - [I Don’t Like Data Science Competitions](https://gabegm.medium.com/i-dont-like-data-science-competitions-714a83dc4612?source=rss-------8-----------------data_science)
 - [Fully Explained Hierarchical Clustering with Python](https://pub.towardsai.net/fully-explained-hierarchical-clustering-with-python-ebb256317b50?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
