@@ -103,6 +103,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Sentiment Analysis — Comparing 3 Common Approaches: Naive Bayes, LSTM, and VADER](https://towardsdatascience.com/sentiment-analysis-comparing-3-common-approaches-naive-bayes-lstm-and-vader-ab561f834f89?source=rss-------8-----------------data_science)
 - [How to Build an EDA App in Python](https://towardsdatascience.com/how-to-build-an-eda-app-in-python-af7ec4b51528?source=rss-------8-----------------data_science)
 - [3 Mistakes to Avoid While Learning Data Science](https://towardsdatascience.com/3-mistakes-to-avoid-while-learning-data-science-2f5fe2b45809?source=rss-------8-----------------data_science)
 - [Variables, data types, and print statements oh my!](https://towardsdatascience.com/variables-data-types-and-print-statements-oh-my-13d92d4249ae?source=rss-------8-----------------data_science)
@@ -110,7 +111,6 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 - [Music Genre Classification using Random Forest](https://medium.com/hackerdawn/music-genre-classification-using-random-forest-219fc2446666?source=rss-------8-----------------data_science)
 - [Antipatterns and obsolete mindset in corporations](https://towardsdatascience.com/antipatterns-and-obsolete-mindset-in-corporations-74540f128bc0?source=rss-------8-----------------data_science)
 - [Interview Preparation For Data Science](https://towardsdatascience.com/interview-preparation-for-data-science-6aa3d3900d55?source=rss-------8-----------------data_science)
-- [6 Steps to Optimize and Tailor Your Resume For A Specific Job Description](https://towardsdatascience.com/6-steps-to-optimize-and-tailor-your-resume-for-a-specific-job-description-77dd535f321f?source=rss-------8-----------------data_science)
 - [Analyzing freeCodeCamp.org Video Transcripts and Metadata](https://gulacsy.medium.com/analyzing-freecodecamp-org-video-transcripts-and-metadata-66034767f078?source=rss-------8-----------------data_science)
 - [Data science in cities: a story](https://deabardhoshi.medium.com/urbanism-for-developing-cities-a-data-science-perspective-d53d0fb824b7?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
