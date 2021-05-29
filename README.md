@@ -103,6 +103,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Tuning XGBoost with XGBoost: Writing your own Hyper Parameters Optimization engine](https://towardsdatascience.com/tuning-xgboost-with-xgboost-writing-your-own-hyper-parameters-optimization-engine-a593498b5fba?source=rss-------8-----------------data_science)
 - [Under the Hood of Modern Machine and Deep Learning](https://towardsdatascience.com/under-the-hood-of-modern-machine-and-deep-learning-d76fc1249467?source=rss-------8-----------------data_science)
 - [How to make the most of low-code/no-code development platform?](https://towardsdatascience.com/how-to-make-the-most-of-low-code-no-code-development-platform-1d1bd3768765?source=rss-------8-----------------data_science)
 - [Sentiment Analysis — Comparing 3 Common Approaches: Naive Bayes, LSTM, and VADER](https://towardsdatascience.com/sentiment-analysis-comparing-3-common-approaches-naive-bayes-lstm-and-vader-ab561f834f89?source=rss-------8-----------------data_science)
@@ -112,7 +113,6 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 - [Variables, data types, and print statements oh my!](https://towardsdatascience.com/variables-data-types-and-print-statements-oh-my-13d92d4249ae?source=rss-------8-----------------data_science)
 - [Full Deployment of Jupyter Notebooks on a Server including TLS/SSL with Let’s Encrypt](https://towardsdatascience.com/full-deployment-of-jupyter-notebooks-on-a-server-including-tls-ssl-with-lets-encrypt-b30cc758881e?source=rss-------8-----------------data_science)
 - [Clustering on numerical and categorical features.](https://towardsdatascience.com/clustering-on-numerical-and-categorical-features-6e0ebcf1cbad?source=rss-------8-----------------data_science)
-- [Music Genre Classification using Random Forest](https://medium.com/hackerdawn/music-genre-classification-using-random-forest-219fc2446666?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
