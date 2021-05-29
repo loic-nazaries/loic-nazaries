@@ -103,7 +103,6 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Introduction to Object Detection Model Evaluation](https://towardsdatascience.com/introduction-to-object-detection-model-evaluation-3a789220a9bf?source=rss-------8-----------------data_science)
 - [5 Must-Know Operations on Python Sets](https://towardsdatascience.com/5-must-know-operations-on-python-sets-827d5b81465a?source=rss-------8-----------------data_science)
 - [Five Tips for Overcoming Imposter Syndrome in the Data Science World](https://towardsdatascience.com/five-tips-for-overcoming-imposter-syndrome-in-the-data-science-world-c4425b0f51b9?source=rss-------8-----------------data_science)
 - [I Don’t Like Data Science Competitions](https://gabegm.medium.com/i-dont-like-data-science-competitions-714a83dc4612?source=rss-------8-----------------data_science)
