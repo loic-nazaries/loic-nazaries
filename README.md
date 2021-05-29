@@ -103,11 +103,11 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Most popular R packages in 2021](https://preettheman.medium.com/most-popular-r-packages-in-2021-a14ea6fdd761?source=rss-------8-----------------data_science)
+- [Pandas — DATAFRAMES](https://medium.com/jungletronics/pandas-dataframes-377cc20dd119?source=rss-------8-----------------data_science)
 - [5 Must-Know Operations on Python Sets](https://towardsdatascience.com/5-must-know-operations-on-python-sets-827d5b81465a?source=rss-------8-----------------data_science)
-- [Five Tips for Overcoming Imposter Syndrome in the Data Science World](https://towardsdatascience.com/five-tips-for-overcoming-imposter-syndrome-in-the-data-science-world-c4425b0f51b9?source=rss-------8-----------------data_science)
 - [I Don’t Like Data Science Competitions](https://gabegm.medium.com/i-dont-like-data-science-competitions-714a83dc4612?source=rss-------8-----------------data_science)
 - [Fully Explained Hierarchical Clustering with Python](https://pub.towardsai.net/fully-explained-hierarchical-clustering-with-python-ebb256317b50?source=rss-------8-----------------data_science)
-- [The Super-Secret Data Analysis Trick You Probably Never Knew About](https://brad-bartram.medium.com/the-super-secret-data-analysis-trick-you-probably-never-knew-about-a00aa10ef310?source=rss-------8-----------------data_science)
 - [All public transport leads to Utrecht, not Rome](https://towardsdatascience.com/all-public-transport-leads-to-utrecht-not-rome-bb9674600e81?source=rss-------8-----------------data_science)
 - [What’s the Maximum ROC You Can Achieve? (No, the Answer Is Not 1)](https://towardsdatascience.com/whats-the-maximum-roc-you-can-achieve-no-the-answer-is-not-1-da11b66c0f28?source=rss-------8-----------------data_science)
 - [Power BI Modelling](https://towardsdatascience.com/power-bi-modelling-8f1e4246c84e?source=rss-------8-----------------data_science)
