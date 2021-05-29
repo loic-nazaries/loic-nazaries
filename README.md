@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Under the Hood of Modern Machine and Deep Learning](https://towardsdatascience.com/under-the-hood-of-modern-machine-and-deep-learning-d76fc1249467?source=rss-------8-----------------data_science)
 - [How to make the most of low-code/no-code development platform?](https://towardsdatascience.com/how-to-make-the-most-of-low-code-no-code-development-platform-1d1bd3768765?source=rss-------8-----------------data_science)
 - [Sentiment Analysis — Comparing 3 Common Approaches: Naive Bayes, LSTM, and VADER](https://towardsdatascience.com/sentiment-analysis-comparing-3-common-approaches-naive-bayes-lstm-and-vader-ab561f834f89?source=rss-------8-----------------data_science)
 - [How to Build an EDA App in Python](https://towardsdatascience.com/how-to-build-an-eda-app-in-python-af7ec4b51528?source=rss-------8-----------------data_science)
+- [Thinking Statistically](https://shubham-dhingra.medium.com/thinking-statistically-17332ab00e?source=rss-------8-----------------data_science)
 - [3 Mistakes to Avoid While Learning Data Science](https://towardsdatascience.com/3-mistakes-to-avoid-while-learning-data-science-2f5fe2b45809?source=rss-------8-----------------data_science)
 - [Variables, data types, and print statements oh my!](https://towardsdatascience.com/variables-data-types-and-print-statements-oh-my-13d92d4249ae?source=rss-------8-----------------data_science)
 - [Full Deployment of Jupyter Notebooks on a Server including TLS/SSL with Let’s Encrypt](https://towardsdatascience.com/full-deployment-of-jupyter-notebooks-on-a-server-including-tls-ssl-with-lets-encrypt-b30cc758881e?source=rss-------8-----------------data_science)
 - [Clustering on numerical and categorical features.](https://towardsdatascience.com/clustering-on-numerical-and-categorical-features-6e0ebcf1cbad?source=rss-------8-----------------data_science)
 - [Music Genre Classification using Random Forest](https://medium.com/hackerdawn/music-genre-classification-using-random-forest-219fc2446666?source=rss-------8-----------------data_science)
-- [Antipatterns and obsolete mindset in corporations](https://towardsdatascience.com/antipatterns-and-obsolete-mindset-in-corporations-74540f128bc0?source=rss-------8-----------------data_science)
-- [Interview Preparation For Data Science](https://towardsdatascience.com/interview-preparation-for-data-science-6aa3d3900d55?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
