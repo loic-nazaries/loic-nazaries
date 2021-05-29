@@ -103,15 +103,15 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [How to Build an EDA App in Python](https://towardsdatascience.com/how-to-build-an-eda-app-in-python-af7ec4b51528?source=rss-------8-----------------data_science)
+- [3 Mistakes to Avoid While Learning Data Science](https://towardsdatascience.com/3-mistakes-to-avoid-while-learning-data-science-2f5fe2b45809?source=rss-------8-----------------data_science)
+- [Variables, data types, and print statements oh my!](https://towardsdatascience.com/variables-data-types-and-print-statements-oh-my-13d92d4249ae?source=rss-------8-----------------data_science)
+- [Full Deployment of Jupyter Notebooks on a Server including TLS/SSL with Let’s Encrypt](https://towardsdatascience.com/full-deployment-of-jupyter-notebooks-on-a-server-including-tls-ssl-with-lets-encrypt-b30cc758881e?source=rss-------8-----------------data_science)
+- [Music Genre Classification using Random Forest](https://medium.com/hackerdawn/music-genre-classification-using-random-forest-219fc2446666?source=rss-------8-----------------data_science)
 - [Antipatterns and obsolete mindset in corporations](https://towardsdatascience.com/antipatterns-and-obsolete-mindset-in-corporations-74540f128bc0?source=rss-------8-----------------data_science)
+- [Interview Preparation For Data Science](https://towardsdatascience.com/interview-preparation-for-data-science-6aa3d3900d55?source=rss-------8-----------------data_science)
 - [6 Steps to Optimize and Tailor Your Resume For A Specific Job Description](https://towardsdatascience.com/6-steps-to-optimize-and-tailor-your-resume-for-a-specific-job-description-77dd535f321f?source=rss-------8-----------------data_science)
-- [5 Common Misconceptions about Linear Regressions](https://towardsdatascience.com/5-common-misconceptions-about-linear-regressions-7fe5b64ecedf?source=rss-------8-----------------data_science)
-- [How To Get A Sentiment Score For Words with Naive Bayes](https://medium.com/geekculture/how-to-get-a-sentiment-score-for-words-with-naive-bayes-4ece5df638a6?source=rss-------8-----------------data_science)
 - [Analyzing freeCodeCamp.org Video Transcripts and Metadata](https://gulacsy.medium.com/analyzing-freecodecamp-org-video-transcripts-and-metadata-66034767f078?source=rss-------8-----------------data_science)
-- [Hypothesis Testing Simplified](https://dindisn.medium.com/hypothesis-testing-simplified-5264f490a578?source=rss-------8-----------------data_science)
-- [Putting ABC in Phylogenetic Comparative Methods](https://mohaksharda.medium.com/putting-abc-in-phylogenetic-comparative-methods-6d93a8e63a91?source=rss-------8-----------------data_science)
-- [Most popular R packages in 2021](https://preettheman.medium.com/most-popular-r-packages-in-2021-a14ea6fdd761?source=rss-------8-----------------data_science)
-- [Pandas — DATAFRAMES](https://medium.com/jungletronics/pandas-dataframes-377cc20dd119?source=rss-------8-----------------data_science)
 - [Data science in cities: a story](https://deabardhoshi.medium.com/urbanism-for-developing-cities-a-data-science-perspective-d53d0fb824b7?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
