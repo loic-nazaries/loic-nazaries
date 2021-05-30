@@ -105,7 +105,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 <!-- MEDIUM-STORY-LIST:START -->
 - [Data Wrangling — Data Cleanup: Investigation, Matching, and Formatting](https://medium.com/nerd-for-tech/data-wrangling-data-cleanup-investigation-matching-and-formatting-1d5958a9bce9?source=rss-------8-----------------data_science)
 - [Gaussian Smoothing in Time Series Data](https://towardsdatascience.com/gaussian-smoothing-in-time-series-data-c6801f8a4dc3?source=rss-------8-----------------data_science)
-- [Machine Learning — Data Preprocessing #5](https://ufukcolak.medium.com/machine-learning-data-preprocessing-5-ed0b222a43e6?source=rss-------8-----------------data_science)
+- [Machine Learning — Data Preprocessing #5](https://medium.com/nerd-for-tech/machine-learning-data-preprocessing-5-ed0b222a43e6?source=rss-------8-----------------data_science)
 - [An Introduction to Hash Tables](https://medium.com/geekculture/an-introduction-to-hash-tables-5f79bc517be2?source=rss-------8-----------------data_science)
 - [T3xt AnaLyt1cs and ƃuᴉuᴉɯ ʇxǝʇ](https://medium.com/mlearning-ai/t3xt-analyt1cs-and-%C6%83u%E1%B4%89u%E1%B4%89%C9%AF-%CA%87x%C7%9D%CA%87-2f9241bd7b0b?source=rss-------8-----------------data_science)
 - [Smartphone for Activity Recognition](https://towardsdatascience.com/smartphone-for-activity-recognition-228b9e75c306?source=rss-------8-----------------data_science)
