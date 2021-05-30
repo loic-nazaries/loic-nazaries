@@ -105,13 +105,13 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 <!-- MEDIUM-STORY-LIST:START -->
 - [Point-in-Time Correctness in Real-Time Machine Learning](https://towardsdatascience.com/point-in-time-correctness-in-real-time-machine-learning-32770f322fb1?source=rss-------8-----------------data_science)
 - [How to Build your First Machine Learning Model in Python](https://towardsdatascience.com/how-to-build-your-first-machine-learning-model-in-python-e70fd1907cdd?source=rss-------8-----------------data_science)
+- [D4S Sunday Briefing #104](https://medium.data4sci.com/d4s-sunday-briefing-104-45eb60b2e659?source=rss-------8-----------------data_science)
+- [D4S Sunday Briefing #103](https://medium.data4sci.com/d4s-sunday-briefing-103-9f3a7fa86c7a?source=rss-------8-----------------data_science)
+- [D4S Sunday Briefing #102](https://medium.data4sci.com/d4s-sunday-briefing-102-3e8596b955d0?source=rss-------8-----------------data_science)
 - [The Nice Way To Use Docker With VSCode](https://towardsdatascience.com/the-nice-way-to-use-docker-with-vscode-f475c49aab1b?source=rss-------8-----------------data_science)
 - [The Machine Learning Workflow Explained (and How You Can Practice It Now)](https://towardsdatascience.com/the-machine-learning-workflow-explained-557abf882079?source=rss-------8-----------------data_science)
-- [Python Dictionary Can Be Improved](https://towardsdatascience.com/python-dictionary-can-be-improved-f5dce4f5d0af?source=rss-------8-----------------data_science)
-- [What to study before a Data Science interview](https://towardsdatascience.com/what-to-study-before-a-data-science-interview-3a971a1ce78d?source=rss-------8-----------------data_science)
 - [Create Stunning Visualizations with Altair](https://towardsdatascience.com/create-stunning-visualizations-with-altair-f9af7ad5e9b?source=rss-------8-----------------data_science)
 - [Top 70 Interview Questions on Machine Learning, Programming and Banking](https://medium.com/analytics-vidhya/top-70-interview-questions-on-machine-learning-programming-and-banking-1b86212636fc?source=rss-------8-----------------data_science)
-- [Improve the Item-Item Collaborative Filtering](https://medium.com/geekculture/improve-the-item-item-collaborative-filtering-bf74e18fd7d1?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
