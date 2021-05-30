@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Smartphone for Activity Recognition](https://towardsdatascience.com/smartphone-for-activity-recognition-228b9e75c306?source=rss-------8-----------------data_science)
+- [An Introduction To Linear Algebra In Julia](https://towardsdatascience.com/an-introduction-to-linear-algebra-in-julia-1d6f8764c910?source=rss-------8-----------------data_science)
+- [How To Change A Company’s Culture…](https://medium.com/be-data-driven/how-to-change-a-companys-culture-77639cdfd31c?source=rss-------8-----------------data_science)
+- [Interpretation of Isolation Forest with SHAP](https://pub.towardsai.net/interpretation-of-isolation-forest-with-shap-d1b6af93ae71?source=rss-------8-----------------data_science)
+- [About Spark](https://kunal14053.medium.com/about-spark-6f3653c843f6?source=rss-------8-----------------data_science)
 - [Tuning XGBoost with XGBoost: Writing your own Hyper Parameters Optimization engine](https://towardsdatascience.com/tuning-xgboost-with-xgboost-writing-your-own-hyper-parameters-optimization-engine-a593498b5fba?source=rss-------8-----------------data_science)
 - [Under the Hood of Modern Machine and Deep Learning](https://towardsdatascience.com/under-the-hood-of-modern-machine-and-deep-learning-d76fc1249467?source=rss-------8-----------------data_science)
-- [How to make the most of low-code/no-code development platform?](https://towardsdatascience.com/how-to-make-the-most-of-low-code-no-code-development-platform-1d1bd3768765?source=rss-------8-----------------data_science)
-- [Sentiment Analysis — Comparing 3 Common Approaches: Naive Bayes, LSTM, and VADER](https://towardsdatascience.com/sentiment-analysis-comparing-3-common-approaches-naive-bayes-lstm-and-vader-ab561f834f89?source=rss-------8-----------------data_science)
-- [How to Build an EDA App in Python](https://towardsdatascience.com/how-to-build-an-eda-app-in-python-af7ec4b51528?source=rss-------8-----------------data_science)
-- [Thinking Statistically](https://shubham-dhingra.medium.com/thinking-statistically-17332ab00e?source=rss-------8-----------------data_science)
-- [3 Mistakes to Avoid While Learning Data Science](https://towardsdatascience.com/3-mistakes-to-avoid-while-learning-data-science-2f5fe2b45809?source=rss-------8-----------------data_science)
-- [Clustering on numerical and categorical features.](https://towardsdatascience.com/clustering-on-numerical-and-categorical-features-6e0ebcf1cbad?source=rss-------8-----------------data_science)
 - [Tableau + Salesforce — A Perfect Match(?)](https://towardsdatascience.com/tableau-salesforce-a-perfect-match-761895a430f0?source=rss-------8-----------------data_science)
 - [ELO: a new rating system for wine](https://towardsdatascience.com/elo-a-new-rating-system-for-wine-386e4bee56c0?source=rss-------8-----------------data_science)
+- [Tips for a Bridge Building Contest](https://aryaperuma.medium.com/tips-for-a-bridge-building-contest-f49fc8b6bba?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
