@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [The Nice Way To Use Docker With VSCode](https://towardsdatascience.com/the-nice-way-to-use-docker-with-vscode-f475c49aab1b?source=rss-------8-----------------data_science)
+- [Python Dictionary Can Be Improved](https://towardsdatascience.com/python-dictionary-can-be-improved-f5dce4f5d0af?source=rss-------8-----------------data_science)
+- [What to study before a Data Science interview](https://towardsdatascience.com/what-to-study-before-a-data-science-interview-3a971a1ce78d?source=rss-------8-----------------data_science)
+- [Create Stunning Visualizations with Altair](https://towardsdatascience.com/create-stunning-visualizations-with-altair-f9af7ad5e9b?source=rss-------8-----------------data_science)
+- [Improve the Item-Item Collaborative Filtering](https://medium.com/geekculture/improve-the-item-item-collaborative-filtering-bf74e18fd7d1?source=rss-------8-----------------data_science)
 - [COVID-19 Status Map in May 2021: Summary of Key Trends a Year Later](https://hopadero.medium.com/covid-19-status-map-in-may-2021-summary-of-key-trends-a-year-later-59edd2614b41?source=rss-------8-----------------data_science)
+- [Linear Dimensionality Reduction — PCA](https://haneulkim.medium.com/linear-dimensionality-reduction-pca-7128e6e437ca?source=rss-------8-----------------data_science)
 - [How to Fish the Bitcoin Whales](https://medium.datadriveninvestor.com/how-to-fish-the-bitcoin-whales-9808f326d8b8?source=rss-------8-----------------data_science)
-- [Data Wrangling — Data Cleanup: Investigation, Matching, and Formatting](https://medium.com/nerd-for-tech/data-wrangling-data-cleanup-investigation-matching-and-formatting-1d5958a9bce9?source=rss-------8-----------------data_science)
-- [Gaussian Smoothing in Time Series Data](https://towardsdatascience.com/gaussian-smoothing-in-time-series-data-c6801f8a4dc3?source=rss-------8-----------------data_science)
-- [Machine Learning — Data Preprocessing #5](https://medium.com/nerd-for-tech/machine-learning-data-preprocessing-5-ed0b222a43e6?source=rss-------8-----------------data_science)
-- [An Introduction to Hash Tables](https://medium.com/geekculture/an-introduction-to-hash-tables-5f79bc517be2?source=rss-------8-----------------data_science)
-- [T3xt AnaLyt1cs and ƃuᴉuᴉɯ ʇxǝʇ](https://medium.com/mlearning-ai/t3xt-analyt1cs-and-%C6%83u%E1%B4%89u%E1%B4%89%C9%AF-%CA%87x%C7%9D%CA%87-2f9241bd7b0b?source=rss-------8-----------------data_science)
-- [Multiclass Email Classification real-time Project from scratch](https://vwake2017iitkgp.medium.com/multiclass-email-classification-from-scratch-4bc0f0c6c64d?source=rss-------8-----------------data_science)
-- [Synthetic data -The panacea for Data Preserving AI?](https://towardsdatascience.com/synthetic-data-the-panacea-for-data-preserving-ai-298b48ec3189?source=rss-------8-----------------data_science)
-- [Basics of Probability for Data Science](https://generalzl1.medium.com/basics-of-probability-for-data-science-fe6632cdb392?source=rss-------8-----------------data_science)
+- [A Step-by-step coding guide to Pandas library](https://prashantojha.medium.com/introduction-to-pandas-data-wrangling-series-1-a6b1862eb2fb?source=rss-------8-----------------data_science)
+- [Gentle introduction to genetic algorithms](https://colin-broderick.medium.com/a-genetic-algorithm-for-line-fitting-f20862853734?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
