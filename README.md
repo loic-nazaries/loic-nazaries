@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [An Introduction to Hash Tables](https://medium.com/geekculture/an-introduction-to-hash-tables-5f79bc517be2?source=rss-------8-----------------data_science)
+- [T3xt AnaLyt1cs and ƃuᴉuᴉɯ ʇxǝʇ](https://medium.com/mlearning-ai/t3xt-analyt1cs-and-%C6%83u%E1%B4%89u%E1%B4%89%C9%AF-%CA%87x%C7%9D%CA%87-2f9241bd7b0b?source=rss-------8-----------------data_science)
 - [Smartphone for Activity Recognition](https://towardsdatascience.com/smartphone-for-activity-recognition-228b9e75c306?source=rss-------8-----------------data_science)
 - [An Introduction To Linear Algebra In Julia](https://towardsdatascience.com/an-introduction-to-linear-algebra-in-julia-1d6f8764c910?source=rss-------8-----------------data_science)
 - [How To Change A Company’s Culture…](https://medium.com/be-data-driven/how-to-change-a-companys-culture-77639cdfd31c?source=rss-------8-----------------data_science)
 - [Interpretation of Isolation Forest with SHAP](https://pub.towardsai.net/interpretation-of-isolation-forest-with-shap-d1b6af93ae71?source=rss-------8-----------------data_science)
 - [About Spark](https://kunal14053.medium.com/about-spark-6f3653c843f6?source=rss-------8-----------------data_science)
-- [Tuning XGBoost with XGBoost: Writing your own Hyper Parameters Optimization engine](https://towardsdatascience.com/tuning-xgboost-with-xgboost-writing-your-own-hyper-parameters-optimization-engine-a593498b5fba?source=rss-------8-----------------data_science)
-- [Under the Hood of Modern Machine and Deep Learning](https://towardsdatascience.com/under-the-hood-of-modern-machine-and-deep-learning-d76fc1249467?source=rss-------8-----------------data_science)
 - [Tableau + Salesforce — A Perfect Match(?)](https://towardsdatascience.com/tableau-salesforce-a-perfect-match-761895a430f0?source=rss-------8-----------------data_science)
-- [ELO: a new rating system for wine](https://towardsdatascience.com/elo-a-new-rating-system-for-wine-386e4bee56c0?source=rss-------8-----------------data_science)
 - [Tips for a Bridge Building Contest](https://aryaperuma.medium.com/tips-for-a-bridge-building-contest-f49fc8b6bba?source=rss-------8-----------------data_science)
+- [Basics of Probability for Data Science](https://generalzl1.medium.com/basics-of-probability-for-data-science-fe6632cdb392?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
