@@ -103,15 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Bayesian A/B Testing in PyMC3](https://towardsdatascience.com/bayesian-a-b-testing-in-pymc3-54dceb87af74?source=rss-------8-----------------data_science)
+- [Imbalanced Classification in Python: SMOTE-ENN Method](https://towardsdatascience.com/imbalanced-classification-in-python-smote-enn-method-db5db06b8d50?source=rss-------8-----------------data_science)
+- [The Effect of Monitoring Frequency on Prescription Opioids Overdose Death Rate](https://medium.com/geekculture/the-effect-of-monitoring-frequency-on-prescription-opioids-overdose-death-rate-ccb4c9c741dd?source=rss-------8-----------------data_science)
+- [A comparison of India and Malaysia’s Coronavirus statistics](https://medium.com/codex/a-comparison-of-india-and-malaysias-coronavirus-statistics-2a75e88ca9ed?source=rss-------8-----------------data_science)
+- [Best data science projects to finish in a weekend](https://preettheman.medium.com/best-data-science-projects-to-finish-in-a-weekend-ac36ef3cf544?source=rss-------8-----------------data_science)
 - [Point-in-Time Correctness in Real-Time Machine Learning](https://towardsdatascience.com/point-in-time-correctness-in-real-time-machine-learning-32770f322fb1?source=rss-------8-----------------data_science)
-- [How to Build your First Machine Learning Model in Python](https://towardsdatascience.com/how-to-build-your-first-machine-learning-model-in-python-e70fd1907cdd?source=rss-------8-----------------data_science)
 - [D4S Sunday Briefing #104](https://medium.data4sci.com/d4s-sunday-briefing-104-45eb60b2e659?source=rss-------8-----------------data_science)
 - [D4S Sunday Briefing #103](https://medium.data4sci.com/d4s-sunday-briefing-103-9f3a7fa86c7a?source=rss-------8-----------------data_science)
 - [D4S Sunday Briefing #102](https://medium.data4sci.com/d4s-sunday-briefing-102-3e8596b955d0?source=rss-------8-----------------data_science)
-- [The Nice Way To Use Docker With VSCode](https://towardsdatascience.com/the-nice-way-to-use-docker-with-vscode-f475c49aab1b?source=rss-------8-----------------data_science)
 - [The Machine Learning Workflow Explained (and How You Can Practice It Now)](https://towardsdatascience.com/the-machine-learning-workflow-explained-557abf882079?source=rss-------8-----------------data_science)
-- [Create Stunning Visualizations with Altair](https://towardsdatascience.com/create-stunning-visualizations-with-altair-f9af7ad5e9b?source=rss-------8-----------------data_science)
-- [Top 70 Interview Questions on Machine Learning, Programming and Banking](https://medium.com/analytics-vidhya/top-70-interview-questions-on-machine-learning-programming-and-banking-1b86212636fc?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
