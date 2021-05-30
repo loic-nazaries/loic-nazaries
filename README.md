@@ -110,9 +110,9 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 - [How to Build an EDA App in Python](https://towardsdatascience.com/how-to-build-an-eda-app-in-python-af7ec4b51528?source=rss-------8-----------------data_science)
 - [Thinking Statistically](https://shubham-dhingra.medium.com/thinking-statistically-17332ab00e?source=rss-------8-----------------data_science)
 - [3 Mistakes to Avoid While Learning Data Science](https://towardsdatascience.com/3-mistakes-to-avoid-while-learning-data-science-2f5fe2b45809?source=rss-------8-----------------data_science)
-- [Variables, data types, and print statements oh my!](https://towardsdatascience.com/variables-data-types-and-print-statements-oh-my-13d92d4249ae?source=rss-------8-----------------data_science)
-- [Full Deployment of Jupyter Notebooks on a Server including TLS/SSL with Let’s Encrypt](https://towardsdatascience.com/full-deployment-of-jupyter-notebooks-on-a-server-including-tls-ssl-with-lets-encrypt-b30cc758881e?source=rss-------8-----------------data_science)
 - [Clustering on numerical and categorical features.](https://towardsdatascience.com/clustering-on-numerical-and-categorical-features-6e0ebcf1cbad?source=rss-------8-----------------data_science)
+- [Tableau + Salesforce — A Perfect Match(?)](https://towardsdatascience.com/tableau-salesforce-a-perfect-match-761895a430f0?source=rss-------8-----------------data_science)
+- [ELO: a new rating system for wine](https://towardsdatascience.com/elo-a-new-rating-system-for-wine-386e4bee56c0?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
