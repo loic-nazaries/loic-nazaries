@@ -103,15 +103,15 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Data Science Trends 2016–2021](https://towardsdatascience.com/data-science-trends-2016-2021-d141024eeb8d?source=rss-------8-----------------data_science)
+- [Loading Data in chunks in Apache NiFi(pagination)](https://benyaakobi.medium.com/loading-data-in-chunks-in-apache-nifi-pagination-eca642dc8a53?source=rss-------8-----------------data_science)
+- [Is Confusion Matrix really Confusing?](https://kirankamath7.medium.com/is-confusion-matrix-really-confusing-1a92388bae35?source=rss-------8-----------------data_science)
 - [How to Get Your Data Normally Distributed in Under 5 Minutes](https://john-paul-hernandez-alcala.medium.com/how-to-get-your-data-normally-distributed-4de7f2770542?source=rss-------8-----------------data_science)
 - [Python Libraries That Every Data Science Newbies Should Learn](https://pranjalai.medium.com/python-libraries-that-every-data-science-newbies-should-learn-bbeba2304e10?source=rss-------8-----------------data_science)
+- [An Introduction to Recommendation Engines](https://ameliareneeelton.medium.com/an-introduction-to-recommendation-engines-752e31bf60d0?source=rss-------8-----------------data_science)
 - [Understanding Localization in Self-Driving Cars — and its Technology](https://medium.com/self-driving-cars/understanding-localization-in-self-driving-cars-and-its-technology-ad3b96caa466?source=rss-------8-----------------data_science)
 - [Interpretable time series similarity with Hidden Markov Models](https://haniel-alcantara.medium.com/interpretable-time-series-similarity-with-hidden-markov-models-88fdf7ee4962?source=rss-------8-----------------data_science)
 - [Using permutations in a biological example](https://rea-kal.medium.com/using-permutations-in-a-biological-example-29844d97b0cf?source=rss-------8-----------------data_science)
-- [Bayesian A/B Testing in PyMC3](https://towardsdatascience.com/bayesian-a-b-testing-in-pymc3-54dceb87af74?source=rss-------8-----------------data_science)
-- [Your 7 references to master Data Science](https://towardsdatascience.com/if-you-are-starting-your-career-in-data-science-chances-are-you-are-feeling-lost-in-all-of-the-61fdf313c95d?source=rss-------8-----------------data_science)
-- [Companies with the highest Data Science salaries](https://preettheman.medium.com/companies-with-the-highest-data-science-salaries-f9ebc2afd39f?source=rss-------8-----------------data_science)
-- [Importing “.csv” Files Using Google Colaboratory/Colab](https://leerowe.medium.com/data-science-importing-csv-files-using-google-colaboratory-colab-20a28e60d805?source=rss-------8-----------------data_science)
 - [Performing Analysis of Meteorological Data](https://19euec177.medium.com/performing-analysis-of-meteorological-data-f9975af822?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
