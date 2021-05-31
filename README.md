@@ -34,7 +34,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 &nbsp;or find me on the 'Usual Suspects'&nbsp;
 [<img alt="LinkedIn" width="26" src="https://i.imgur.com/OQUXwNp.jpeg" />][linkedin]
 &nbsp;
-[<img alt="GitHub" width="30" src="https://i.imgur.com/J6LeoUb.png" />][github]
+[<img alt="GitHub" width="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 &nbsp;
 [![GitHub Gist Badge](https://img.shields.io/badge/-Gist-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white)][github_gist]
 
@@ -69,10 +69,10 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ![Markdown Badge](https://img.shields.io/badge/-markdown-white?style=for-the-badge&labelColor=black&logo=markdown&logoColor=white)
 ![Microsoft Office Badge](https://img.shields.io/badge/-microsoft_office-red?style=for-the-badge&labelColor=white&logo=microsoft-office&logoColor=red)
 
-<img alt="Visual Studio Code" align="left" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<!-- <img alt="Visual Studio Code" align="left" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="Tableau" align="left" width="26" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
 <img alt="Google" align="left" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
-&nbsp;
+&nbsp; -->
 
 ---
 
