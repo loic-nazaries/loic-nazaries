@@ -111,8 +111,8 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 - [Bayesian A/B Testing in PyMC3](https://towardsdatascience.com/bayesian-a-b-testing-in-pymc3-54dceb87af74?source=rss-------8-----------------data_science)
 - [Your 7 references to master Data Science](https://towardsdatascience.com/if-you-are-starting-your-career-in-data-science-chances-are-you-are-feeling-lost-in-all-of-the-61fdf313c95d?source=rss-------8-----------------data_science)
 - [Companies with the highest Data Science salaries](https://preettheman.medium.com/companies-with-the-highest-data-science-salaries-f9ebc2afd39f?source=rss-------8-----------------data_science)
-- [Arima Forecasting of Tesla Stock and Inflation Rates in R](https://slowandsteadybrain.medium.com/um-ask-not-what-forecasting-can-do-for-you-but-what-you-can-do-for-forecasting-uh-haha-c633d392c221?source=rss-------8-----------------data_science)
 - [Importing “.csv” Files Using Google Colaboratory/Colab](https://leerowe.medium.com/data-science-importing-csv-files-using-google-colaboratory-colab-20a28e60d805?source=rss-------8-----------------data_science)
+- [Performing Analysis of Meteorological Data](https://19euec177.medium.com/performing-analysis-of-meteorological-data-f9975af822?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
