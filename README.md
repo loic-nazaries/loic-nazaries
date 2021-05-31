@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Diagnose your Linear Regression Model — With Python](https://medium.com/analytics-vidhya/diagnose-your-linear-regression-model-with-python-428b7334f81c?source=rss-------8-----------------data_science)
+- [Central Limit Theorem made easy!](https://medium.com/analytics-vidhya/central-limit-theorem-made-easy-a61319d6ee1f?source=rss-------8-----------------data_science)
 - [Data Science Trends 2016–2021](https://towardsdatascience.com/data-science-trends-2016-2021-d141024eeb8d?source=rss-------8-----------------data_science)
 - [Loading Data in chunks in Apache NiFi(pagination)](https://benyaakobi.medium.com/loading-data-in-chunks-in-apache-nifi-pagination-eca642dc8a53?source=rss-------8-----------------data_science)
 - [What can data do for decision-making?](https://blog.thedecisionschool.com/what-can-data-do-for-decision-making-ac8f568edf51?source=rss-------8-----------------data_science)
+- [Vald. A highly scalable distributed fast approximate nearest neighbour dense vector search engine.](https://vdaas-vald.medium.com/vald-a-highly-scalable-distributed-fast-approximate-nearest-neighbour-dense-vector-search-engine-af1946a4a37?source=rss-------8-----------------data_science)
 - [Is Confusion Matrix really Confusing?](https://kirankamath7.medium.com/is-confusion-matrix-really-confusing-1a92388bae35?source=rss-------8-----------------data_science)
-- [How to Get Your Data Normally Distributed in Under 5 Minutes](https://john-paul-hernandez-alcala.medium.com/how-to-get-your-data-normally-distributed-4de7f2770542?source=rss-------8-----------------data_science)
-- [Python Libraries That Every Data Science Newbies Should Learn](https://pranjalai.medium.com/python-libraries-that-every-data-science-newbies-should-learn-bbeba2304e10?source=rss-------8-----------------data_science)
 - [An Introduction to Recommendation Engines](https://ameliareneeelton.medium.com/an-introduction-to-recommendation-engines-752e31bf60d0?source=rss-------8-----------------data_science)
-- [Understanding Localization in Self-Driving Cars — and its Technology](https://medium.com/self-driving-cars/understanding-localization-in-self-driving-cars-and-its-technology-ad3b96caa466?source=rss-------8-----------------data_science)
-- [Interpretable time series similarity with Hidden Markov Models](https://haniel-alcantara.medium.com/interpretable-time-series-similarity-with-hidden-markov-models-88fdf7ee4962?source=rss-------8-----------------data_science)
-- [Performing Analysis of Meteorological Data](https://19euec177.medium.com/performing-analysis-of-meteorological-data-f9975af822?source=rss-------8-----------------data_science)
+- [Is NPS Helpful?](https://duncanschouten.medium.com/is-nps-helpful-10b910422e84?source=rss-------8-----------------data_science)
+- [Understanding the Process of Building a Machine Learning Model for a Real World Scenario](https://manushapriyanjalee.medium.com/understanding-the-process-of-building-a-machine-learning-model-for-a-real-world-scenario-30a50fc12f7f?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
