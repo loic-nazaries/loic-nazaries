@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What is a Data Lake? It is not a Data Swamp](https://towardsdatascience.com/what-is-a-data-lake-it-is-not-a-data-swamp-376430d6c15e?source=rss-------8-----------------data_science)
-- [Using Flyte to Power MLOps at Striveworks](https://towardsdatascience.com/using-flyte-to-power-mlops-at-striveworks-821c20c0cb2d?source=rss-------8-----------------data_science)
-- [The intuition behind Reinforcement Learning](https://towardsdatascience.com/the-intuition-behind-reinforcement-learning-d88fccbb145b?source=rss-------8-----------------data_science)
-- [How to Deal with Imbalanced Multiclass Datasets in Python](https://towardsdatascience.com/how-to-deal-with-imbalanced-multiclass-datasets-in-python-fe0bb3f2b669?source=rss-------8-----------------data_science)
-- [Exploratory Data Analysis in R: Data Visualization, Summarising, and Machine Learning Model](https://towardsdatascience.com/exploratory-data-analysis-in-r-data-visualization-summarising-and-machine-learning-model-da79439b3952?source=rss-------8-----------------data_science)
-- [Intro to Data Science & Analytics at Nextdoor](https://engblog.nextdoor.com/intro-to-data-science-analytics-at-nextdoor-a7fc8fec30d8?source=rss-------8-----------------data_science)
-- [Quantra — a Python coding platform to learn quantitative finance](https://towardsdatascience.com/quantra-a-python-coding-platform-to-learn-quantitative-finance-8e5e88c89120?source=rss-------8-----------------data_science)
-- [Your Cross Validation Error Confidence Intervals are Wrong — here’s how to Fix Them](https://towardsdatascience.com/your-cross-validation-error-confidence-intervals-are-wrong-heres-how-to-fix-them-abbfe28d390?source=rss-------8-----------------data_science)
-- [Optimal Control, a Preamble](https://towardsdatascience.com/optimal-control-a-preamble-6c0bc2b12ed6?source=rss-------8-----------------data_science)
-- [Three ways to speed up developing your data science solutions](https://towardsdatascience.com/three-ways-to-speed-up-developing-your-data-science-solutions-6bedc7e72a4e?source=rss-------8-----------------data_science)
+- [Top 3 Alternative Python Packages for Pandas](https://towardsdatascience.com/top-3-alternative-python-packages-for-pandas-d125627ce349?source=rss-------8-----------------data_science)
+- [6 Tips To Make Python Code Run Incredibly Faster](https://betterprogramming.pub/6-tips-to-make-python-code-run-incredibly-faster-932db815c3a8?source=rss-------8-----------------data_science)
+- [Most business managers don’t care about fancy algorithms you might have discovered](https://towardsdatascience.com/most-business-managers-dont-care-about-fancy-algorithms-you-might-have-discovered-6ef7761310fa?source=rss-------8-----------------data_science)
+- [What Are Post-Decision States and What Do They Want From Us?](https://towardsdatascience.com/what-are-post-decision-states-and-what-do-they-want-from-us-9e02105b7f40?source=rss-------8-----------------data_science)
+- [Magic 8 Ball: An app to maximize wins in competitive pool matches (Part 2)](https://towardsdatascience.com/magic-8-ball-an-app-to-maximize-wins-in-competitive-pool-matches-part-2-eb9d4793f98f?source=rss-------8-----------------data_science)
+- [Single Image Super-Resolution Challenge](https://towardsdatascience.com/single-image-super-resolution-challenge-6f4835e5a156?source=rss-------8-----------------data_science)
+- [Getting Started with Breakpoints Analysis in Python](https://towardsdatascience.com/getting-started-with-breakpoints-analysis-in-python-124471708d38?source=rss-------8-----------------data_science)
+- [Best Practices for R with Docker](https://medium.com/analythium/best-practices-for-r-with-docker-3e2710f09a00?source=rss-------8-----------------data_science)
+- [The Impact of the Fans  on Premier League Teams](https://towardsdatascience.com/the-impact-of-the-fans-on-premier-league-teams-3423f8d8ebae?source=rss-------8-----------------data_science)
+- [How to Measure the performance of a Model ?](https://medium.com/analytics-vidhya/how-to-measure-the-performance-of-a-model-f3e1c52d78b0?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
@@ -120,11 +120,11 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [3 Mistakes to Avoid While Learning Data Science](https://towardsdatascience.com/3-mistakes-to-avoid-while-learning-data-science-2f5fe2b45809?source=rss-2cf6b549448------2)
+- [5 Must-Know Operations on Python Sets](https://towardsdatascience.com/5-must-know-operations-on-python-sets-827d5b81465a?source=rss-2cf6b549448------2)
 - [3 Challenges for Aspiring Data Scientists](https://towardsdatascience.com/3-challenges-for-aspiring-data-scientists-ae0c479f31b7?source=rss-2cf6b549448------2)
 - [3 Key Differences Between Random Forests and GBDT](https://towardsdatascience.com/3-key-differences-between-random-forests-and-gbdt-cfc48093200b?source=rss-2cf6b549448------2)
 - [17 Quick Examples to Learn Python Lists](https://towardsdatascience.com/17-quick-examples-to-learn-python-lists-196070a055c3?source=rss-2cf6b549448------2)
-- [4 Must-Know Features of Python Dictionaries](https://towardsdatascience.com/4-must-know-features-of-python-dictionaries-d62af8c22fd2?source=rss-2cf6b549448------2)
-- [Do Not Let the High Number of Data Scientists Make You Feel Late for the Party](https://towardsdatascience.com/do-not-let-the-high-number-of-data-scientists-make-you-feel-late-for-the-party-c5409d2445ac?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
