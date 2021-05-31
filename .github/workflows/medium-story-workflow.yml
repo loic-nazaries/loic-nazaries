@@ -2,8 +2,10 @@ name: Latest Medium Stories Workflow
 on:
   # Run workflow automatically
   schedule:
-    # Runs every hour, on the hour
-    - cron: "0 * * * *"
+    # # Runs every hour, on the hour
+    # - cron: "0 * * * *"
+    # Runs everyday
+    - cron: "0 0 0 * * *"
   # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
 
