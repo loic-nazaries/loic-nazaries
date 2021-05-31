@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Diagnose your Linear Regression Model — With Python](https://medium.com/analytics-vidhya/diagnose-your-linear-regression-model-with-python-428b7334f81c?source=rss-------8-----------------data_science)
-- [Central Limit Theorem made easy!](https://medium.com/analytics-vidhya/central-limit-theorem-made-easy-a61319d6ee1f?source=rss-------8-----------------data_science)
-- [Data Science Trends 2016–2021](https://towardsdatascience.com/data-science-trends-2016-2021-d141024eeb8d?source=rss-------8-----------------data_science)
-- [Loading Data in chunks in Apache NiFi(pagination)](https://benyaakobi.medium.com/loading-data-in-chunks-in-apache-nifi-pagination-eca642dc8a53?source=rss-------8-----------------data_science)
-- [What can data do for decision-making?](https://blog.thedecisionschool.com/what-can-data-do-for-decision-making-ac8f568edf51?source=rss-------8-----------------data_science)
-- [Vald. A highly scalable distributed fast approximate nearest neighbour dense vector search engine.](https://vdaas-vald.medium.com/vald-a-highly-scalable-distributed-fast-approximate-nearest-neighbour-dense-vector-search-engine-af1946a4a37?source=rss-------8-----------------data_science)
-- [Is Confusion Matrix really Confusing?](https://kirankamath7.medium.com/is-confusion-matrix-really-confusing-1a92388bae35?source=rss-------8-----------------data_science)
-- [An Introduction to Recommendation Engines](https://ameliareneeelton.medium.com/an-introduction-to-recommendation-engines-752e31bf60d0?source=rss-------8-----------------data_science)
-- [Is NPS Helpful?](https://duncanschouten.medium.com/is-nps-helpful-10b910422e84?source=rss-------8-----------------data_science)
-- [Understanding the Process of Building a Machine Learning Model for a Real World Scenario](https://manushapriyanjalee.medium.com/understanding-the-process-of-building-a-machine-learning-model-for-a-real-world-scenario-30a50fc12f7f?source=rss-------8-----------------data_science)
+- [Working with OpenStreetMap Data](https://towardsdatascience.com/working-with-openstreetmap-data-37da18d55822?source=rss-------8-----------------data_science)
+- [Network Graph of ETF | Ark Funds](https://towardsdatascience.com/network-graph-of-etf-ark-funds-4f9242f19702?source=rss-------8-----------------data_science)
+- [Effortless Exploratory Data Analysis (EDA)](https://towardsdatascience.com/effortless-exploratory-data-analysis-eda-201c99324857?source=rss-------8-----------------data_science)
+- [BEAM (Batch + strEAM) your Data Pipelines on Google Dataflow](https://towardsdatascience.com/beam-batch-stream-your-data-pipelines-on-google-dataflow-2e3230bcdc21?source=rss-------8-----------------data_science)
+- [The Correct Way to Overload Functions in Python](https://towardsdatascience.com/the-correct-way-to-overload-functions-in-python-b11b50ca7336?source=rss-------8-----------------data_science)
+- [pandas-to-sql — Moving code from SQL to Python and Pandas](https://towardsdatascience.com/pandas-to-sql-moving-code-from-sql-to-python-and-pandas-afc4c62a644c?source=rss-------8-----------------data_science)
+- [Elegant Web Development With Emmett In Python](https://towardsdatascience.com/elegant-web-development-with-emmett-in-python-612ed898a71e?source=rss-------8-----------------data_science)
+- [Writing Validation Metrics From Scratch](https://towardsdatascience.com/writing-validation-metrics-from-scratch-e7d10af59f98?source=rss-------8-----------------data_science)
+- [An Introduction to Focal Loss](https://medium.com/elucidate-ai/an-introduction-to-focal-loss-b49d18cb3ded?source=rss-------8-----------------data_science)
+- [How to Set-up a cost-effective AWS EMR cluster and Jupyter Notebooks for SparkSQL](https://towardsdatascience.com/how-to-set-up-a-cost-effective-aws-emr-cluster-and-jupyter-notebooks-for-sparksql-552360ffd4bc?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
