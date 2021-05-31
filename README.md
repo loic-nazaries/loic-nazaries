@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Working with OpenStreetMap Data](https://towardsdatascience.com/working-with-openstreetmap-data-37da18d55822?source=rss-------8-----------------data_science)
-- [Network Graph of ETF | Ark Funds](https://towardsdatascience.com/network-graph-of-etf-ark-funds-4f9242f19702?source=rss-------8-----------------data_science)
-- [Effortless Exploratory Data Analysis (EDA)](https://towardsdatascience.com/effortless-exploratory-data-analysis-eda-201c99324857?source=rss-------8-----------------data_science)
-- [BEAM (Batch + strEAM) your Data Pipelines on Google Dataflow](https://towardsdatascience.com/beam-batch-stream-your-data-pipelines-on-google-dataflow-2e3230bcdc21?source=rss-------8-----------------data_science)
-- [The Correct Way to Overload Functions in Python](https://towardsdatascience.com/the-correct-way-to-overload-functions-in-python-b11b50ca7336?source=rss-------8-----------------data_science)
-- [pandas-to-sql — Moving code from SQL to Python and Pandas](https://towardsdatascience.com/pandas-to-sql-moving-code-from-sql-to-python-and-pandas-afc4c62a644c?source=rss-------8-----------------data_science)
-- [Elegant Web Development With Emmett In Python](https://towardsdatascience.com/elegant-web-development-with-emmett-in-python-612ed898a71e?source=rss-------8-----------------data_science)
-- [Writing Validation Metrics From Scratch](https://towardsdatascience.com/writing-validation-metrics-from-scratch-e7d10af59f98?source=rss-------8-----------------data_science)
-- [An Introduction to Focal Loss](https://medium.com/elucidate-ai/an-introduction-to-focal-loss-b49d18cb3ded?source=rss-------8-----------------data_science)
-- [How to Set-up a cost-effective AWS EMR cluster and Jupyter Notebooks for SparkSQL](https://towardsdatascience.com/how-to-set-up-a-cost-effective-aws-emr-cluster-and-jupyter-notebooks-for-sparksql-552360ffd4bc?source=rss-------8-----------------data_science)
+- [Magic 8 Ball: An app to maximize wins in competitive pool matches (Part 2)](https://towardsdatascience.com/magic-8-ball-an-app-to-maximize-wins-in-competitive-pool-matches-part-2-eb9d4793f98f?source=rss-------8-----------------data_science)
+- [How to test multiple machine learning pipelines with just a few lines of Python](https://towardsdatascience.com/how-to-test-multiple-machine-learning-pipelines-with-just-a-few-lines-of-python-1a16cb4686d?source=rss-------8-----------------data_science)
+- [Single Image Super-Resolution Challenge](https://towardsdatascience.com/single-image-super-resolution-challenge-6f4835e5a156?source=rss-------8-----------------data_science)
+- [Getting Started with Breakpoints Analysis in Python](https://towardsdatascience.com/getting-started-with-breakpoints-analysis-in-python-124471708d38?source=rss-------8-----------------data_science)
+- [On the value of reproducibility](https://towardsdatascience.com/on-the-value-of-reproducibility-ea6907aaa9a3?source=rss-------8-----------------data_science)
+- [How to Effectively Set Your Data Projects for Success](https://towardsdatascience.com/how-to-effectively-set-your-data-projects-for-success-c0927c24d7aa?source=rss-------8-----------------data_science)
+- [Answering the Data Science Metric Change Interview Question — The Ultimate Guide](https://towardsdatascience.com/answering-the-data-science-metric-change-interview-question-the-ultimate-guide-5e18d62d0dc6?source=rss-------8-----------------data_science)
+- [HOW TO PRE­VENT SHIP­WRECKS IN BUSINESS WITH THE HELP OF BIG DATA?](https://helendarmi-hd.medium.com/how-to-pre-vent-ship-wrecks-in-business-with-the-help-of-big-data-7dce7e4900e7?source=rss-------8-----------------data_science)
+- [How accurate is your accuracy?](https://towardsdatascience.com/how-accurate-is-your-accuracy-d420f903bbae?source=rss-------8-----------------data_science)
+- [So you want to code a data story?](https://medium.com/kontinentalist/so-you-want-to-code-a-data-story-42c73443fa3?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
