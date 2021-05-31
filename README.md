@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Using permutations in a biological example](https://rea-kal.medium.com/using-permutations-in-a-biological-example-29844d97b0cf?source=rss-------8-----------------data_science)
 - [3 Data-Backed Ways To Significantly Speed Up Your MySQL Bulk Inserts](https://towardsdatascience.com/3-data-backed-ways-to-significantly-speed-up-your-mysql-bulk-inserts-28e20b42d51e?source=rss-------8-----------------data_science)
 - [Bayesian A/B Testing in PyMC3](https://towardsdatascience.com/bayesian-a-b-testing-in-pymc3-54dceb87af74?source=rss-------8-----------------data_science)
 - [Your 7 references to master Data Science](https://towardsdatascience.com/if-you-are-starting-your-career-in-data-science-chances-are-you-are-feeling-lost-in-all-of-the-61fdf313c95d?source=rss-------8-----------------data_science)
-- [Imbalanced Classification in Python: SMOTE-ENN Method](https://towardsdatascience.com/imbalanced-classification-in-python-smote-enn-method-db5db06b8d50?source=rss-------8-----------------data_science)
 - [Companies with the highest Data Science salaries](https://preettheman.medium.com/companies-with-the-highest-data-science-salaries-f9ebc2afd39f?source=rss-------8-----------------data_science)
 - [The Effect of Monitoring Frequency on Prescription Opioids Overdose Death Rate](https://medium.com/geekculture/the-effect-of-monitoring-frequency-on-prescription-opioids-overdose-death-rate-ccb4c9c741dd?source=rss-------8-----------------data_science)
 - [A comparison of India and Malaysia’s Coronavirus statistics](https://medium.com/codex/a-comparison-of-india-and-malaysias-coronavirus-statistics-2a75e88ca9ed?source=rss-------8-----------------data_science)
 - [Best data science projects to finish in a weekend](https://preettheman.medium.com/best-data-science-projects-to-finish-in-a-weekend-ac36ef3cf544?source=rss-------8-----------------data_science)
-- [D4S Sunday Briefing #103](https://medium.data4sci.com/d4s-sunday-briefing-103-9f3a7fa86c7a?source=rss-------8-----------------data_science)
 - [“Um, ask not what forecasting can do for you, but what you can do for forecasting…uh haha”](https://slowandsteadybrain.medium.com/um-ask-not-what-forecasting-can-do-for-you-but-what-you-can-do-for-forecasting-uh-haha-c633d392c221?source=rss-------8-----------------data_science)
+- [Importing “.csv” Files Using Google Colaboratory/Colab](https://leerowe.medium.com/data-science-importing-csv-files-using-google-colaboratory-colab-20a28e60d805?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
