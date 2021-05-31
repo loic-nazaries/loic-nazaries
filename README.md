@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [Top 3 Alternative Python Packages for Pandas](https://towardsdatascience.com/top-3-alternative-python-packages-for-pandas-d125627ce349?source=rss-------8-----------------data_science)
+- [6 Tips To Make Python Code Run Incredibly Faster](https://betterprogramming.pub/6-tips-to-make-python-code-run-incredibly-faster-932db815c3a8?source=rss-------8-----------------data_science)
+- [Most business managers don’t care about fancy algorithms you might have discovered](https://towardsdatascience.com/most-business-managers-dont-care-about-fancy-algorithms-you-might-have-discovered-6ef7761310fa?source=rss-------8-----------------data_science)
+- [What Are Post-Decision States and What Do They Want From Us?](https://towardsdatascience.com/what-are-post-decision-states-and-what-do-they-want-from-us-9e02105b7f40?source=rss-------8-----------------data_science)
 - [Magic 8 Ball: An app to maximize wins in competitive pool matches (Part 2)](https://towardsdatascience.com/magic-8-ball-an-app-to-maximize-wins-in-competitive-pool-matches-part-2-eb9d4793f98f?source=rss-------8-----------------data_science)
-- [How to test multiple machine learning pipelines with just a few lines of Python](https://towardsdatascience.com/how-to-test-multiple-machine-learning-pipelines-with-just-a-few-lines-of-python-1a16cb4686d?source=rss-------8-----------------data_science)
 - [Single Image Super-Resolution Challenge](https://towardsdatascience.com/single-image-super-resolution-challenge-6f4835e5a156?source=rss-------8-----------------data_science)
 - [Getting Started with Breakpoints Analysis in Python](https://towardsdatascience.com/getting-started-with-breakpoints-analysis-in-python-124471708d38?source=rss-------8-----------------data_science)
-- [On the value of reproducibility](https://towardsdatascience.com/on-the-value-of-reproducibility-ea6907aaa9a3?source=rss-------8-----------------data_science)
-- [How to Effectively Set Your Data Projects for Success](https://towardsdatascience.com/how-to-effectively-set-your-data-projects-for-success-c0927c24d7aa?source=rss-------8-----------------data_science)
-- [Answering the Data Science Metric Change Interview Question — The Ultimate Guide](https://towardsdatascience.com/answering-the-data-science-metric-change-interview-question-the-ultimate-guide-5e18d62d0dc6?source=rss-------8-----------------data_science)
-- [HOW TO PRE­VENT SHIP­WRECKS IN BUSINESS WITH THE HELP OF BIG DATA?](https://helendarmi-hd.medium.com/how-to-pre-vent-ship-wrecks-in-business-with-the-help-of-big-data-7dce7e4900e7?source=rss-------8-----------------data_science)
-- [How accurate is your accuracy?](https://towardsdatascience.com/how-accurate-is-your-accuracy-d420f903bbae?source=rss-------8-----------------data_science)
-- [So you want to code a data story?](https://medium.com/kontinentalist/so-you-want-to-code-a-data-story-42c73443fa3?source=rss-------8-----------------data_science)
+- [Best Practices for R with Docker](https://medium.com/analythium/best-practices-for-r-with-docker-3e2710f09a00?source=rss-------8-----------------data_science)
+- [The Impact of the Fans  on Premier League Teams](https://towardsdatascience.com/the-impact-of-the-fans-on-premier-league-teams-3423f8d8ebae?source=rss-------8-----------------data_science)
+- [How to Measure the performance of a Model ?](https://medium.com/analytics-vidhya/how-to-measure-the-performance-of-a-model-f3e1c52d78b0?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
