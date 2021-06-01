@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Top 3 Alternative Python Packages for Pandas](https://towardsdatascience.com/top-3-alternative-python-packages-for-pandas-d125627ce349?source=rss-------8-----------------data_science)
-- [6 Tips To Make Python Code Run Incredibly Faster](https://betterprogramming.pub/6-tips-to-make-python-code-run-incredibly-faster-932db815c3a8?source=rss-------8-----------------data_science)
-- [Most business managers don’t care about fancy algorithms you might have discovered](https://towardsdatascience.com/most-business-managers-dont-care-about-fancy-algorithms-you-might-have-discovered-6ef7761310fa?source=rss-------8-----------------data_science)
-- [What Are Post-Decision States and What Do They Want From Us?](https://towardsdatascience.com/what-are-post-decision-states-and-what-do-they-want-from-us-9e02105b7f40?source=rss-------8-----------------data_science)
-- [Magic 8 Ball: An app to maximize wins in competitive pool matches (Part 2)](https://towardsdatascience.com/magic-8-ball-an-app-to-maximize-wins-in-competitive-pool-matches-part-2-eb9d4793f98f?source=rss-------8-----------------data_science)
-- [Single Image Super-Resolution Challenge](https://towardsdatascience.com/single-image-super-resolution-challenge-6f4835e5a156?source=rss-------8-----------------data_science)
-- [Getting Started with Breakpoints Analysis in Python](https://towardsdatascience.com/getting-started-with-breakpoints-analysis-in-python-124471708d38?source=rss-------8-----------------data_science)
-- [Best Practices for R with Docker](https://medium.com/analythium/best-practices-for-r-with-docker-3e2710f09a00?source=rss-------8-----------------data_science)
-- [The Impact of the Fans  on Premier League Teams](https://towardsdatascience.com/the-impact-of-the-fans-on-premier-league-teams-3423f8d8ebae?source=rss-------8-----------------data_science)
-- [How to Measure the performance of a Model ?](https://medium.com/analytics-vidhya/how-to-measure-the-performance-of-a-model-f3e1c52d78b0?source=rss-------8-----------------data_science)
+- [TinyDB](https://python.plainenglish.io/tinydb-b646e3270fd7?source=rss-------8-----------------data_science)
+- [Analyze Causal Effect using Diff-in-Diff Model](https://towardsdatascience.com/analyze-causal-effect-using-diff-in-diff-model-85e07b17e7b7?source=rss-------8-----------------data_science)
+- [My workflow for open and reproducible science as an academic researcher in biomedicine](https://towardsdatascience.com/my-workflow-for-open-and-reproducible-science-as-an-academic-researcher-in-biomedicine-b41eaabcd420?source=rss-------8-----------------data_science)
+- [Data Science is Not Becoming Extinct in 10 Years, Your Skills Might](https://towardsdatascience.com/data-science-is-not-becoming-extinct-in-10-years-your-skills-might-aed618dd0c91?source=rss-------8-----------------data_science)
+- [Active Learning using Detectron2](https://towardsdatascience.com/active-learning-using-detectron2-922a13982564?source=rss-------8-----------------data_science)
+- [19 helpful Python syntax patterns for coding interviews](https://towardsdatascience.com/19-helpful-python-syntax-patterns-for-coding-interviews-3704c15b758f?source=rss-------8-----------------data_science)
+- [Mermaid: Create diagrams quickly and effortlessly](https://towardsdatascience.com/mermaid-create-diagrams-quickly-and-effortlessly-d236e23d6d58?source=rss-------8-----------------data_science)
+- [10 Most Useful String functions in pandas](https://towardsdatascience.com/10-most-useful-string-functions-in-pandas-a8c35b92d9a5?source=rss-------8-----------------data_science)
+- [3 Techniques to avoid Overfitting of Decision Trees](https://towardsdatascience.com/3-techniques-to-avoid-overfitting-of-decision-trees-1e7d3d985a09?source=rss-------8-----------------data_science)
+- [Training NLP models on counterfactual text](https://towardsdatascience.com/training-nlp-models-on-counterfactual-text-ff1b2a4fffbc?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
