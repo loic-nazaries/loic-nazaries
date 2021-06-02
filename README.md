@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [TinyDB](https://python.plainenglish.io/tinydb-b646e3270fd7?source=rss-------8-----------------data_science)
-- [Analyze Causal Effect using Diff-in-Diff Model](https://towardsdatascience.com/analyze-causal-effect-using-diff-in-diff-model-85e07b17e7b7?source=rss-------8-----------------data_science)
-- [My workflow for open and reproducible science as an academic researcher in biomedicine](https://towardsdatascience.com/my-workflow-for-open-and-reproducible-science-as-an-academic-researcher-in-biomedicine-b41eaabcd420?source=rss-------8-----------------data_science)
-- [Data Science is Not Becoming Extinct in 10 Years, Your Skills Might](https://towardsdatascience.com/data-science-is-not-becoming-extinct-in-10-years-your-skills-might-aed618dd0c91?source=rss-------8-----------------data_science)
-- [Active Learning using Detectron2](https://towardsdatascience.com/active-learning-using-detectron2-922a13982564?source=rss-------8-----------------data_science)
-- [19 helpful Python syntax patterns for coding interviews](https://towardsdatascience.com/19-helpful-python-syntax-patterns-for-coding-interviews-3704c15b758f?source=rss-------8-----------------data_science)
-- [Mermaid: Create diagrams quickly and effortlessly](https://towardsdatascience.com/mermaid-create-diagrams-quickly-and-effortlessly-d236e23d6d58?source=rss-------8-----------------data_science)
-- [10 Most Useful String functions in pandas](https://towardsdatascience.com/10-most-useful-string-functions-in-pandas-a8c35b92d9a5?source=rss-------8-----------------data_science)
-- [3 Techniques to avoid Overfitting of Decision Trees](https://towardsdatascience.com/3-techniques-to-avoid-overfitting-of-decision-trees-1e7d3d985a09?source=rss-------8-----------------data_science)
-- [Training NLP models on counterfactual text](https://towardsdatascience.com/training-nlp-models-on-counterfactual-text-ff1b2a4fffbc?source=rss-------8-----------------data_science)
+- [Paper Explained — Towards Real-time Customer Experience Prediction for Telecommunication Operators](https://medium.com/nerd-for-tech/paper-explained-towards-real-time-customer-experience-prediction-for-telecommunication-operators-b2796b8bd82e?source=rss-------8-----------------data_science)
+- [Apple Data Science Interview Questions](https://preettheman.medium.com/apple-data-science-interview-questions-f918bab3ace7?source=rss-------8-----------------data_science)
+- [Documenting Events](https://news.docnow.io/documenting-events-13369d471608?source=rss-------8-----------------data_science)
+- [Principal Components: Kristen Werner on Streamlining the Data Supply Chain](https://towardsdatascience.com/principal-components-kristen-werner-on-streamlining-the-data-supply-chain-c10eca9dc601?source=rss-------8-----------------data_science)
+- [Visualizing U.S. Petroleum Pipeline Networks](https://towardsdatascience.com/visualizing-u-s-petroleum-pipeline-networks-f46833e08dad?source=rss-------8-----------------data_science)
+- [Introducing Prequel.ai, the all-in-one workspace for data analysts](https://medium.com/df-foundation/introducing-prequel-ai-the-all-in-one-workspace-for-data-analysts-823d176264f5?source=rss-------8-----------------data_science)
+- [Using Wikipedia as an Impromptu RottenTomatoes API](https://zverok.medium.com/using-wikipedia-as-an-impromptu-rottentomatoes-api-79719f39ce17?source=rss-------8-----------------data_science)
+- [Dora the Data Explorer](https://edwardtoth.medium.com/dora-the-data-explorer-2e3c85b18654?source=rss-------8-----------------data_science)
+- [5 tips to make your data science projects more impactful](https://sunnyswetank.medium.com/5-tips-for-making-your-data-science-projects-more-impactful-9d7b9d027b51?source=rss-------8-----------------data_science)
+- [The Death of Data Analytics Tools ️☠](https://medium.com/df-foundation/the-death-of-data-analytics-tools-%EF%B8%8F-ae28c7fbda53?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
