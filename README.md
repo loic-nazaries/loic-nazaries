@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Paper Explained — Towards Real-time Customer Experience Prediction for Telecommunication Operators](https://medium.com/nerd-for-tech/paper-explained-towards-real-time-customer-experience-prediction-for-telecommunication-operators-b2796b8bd82e?source=rss-------8-----------------data_science)
-- [Apple Data Science Interview Questions](https://preettheman.medium.com/apple-data-science-interview-questions-f918bab3ace7?source=rss-------8-----------------data_science)
-- [Documenting Events](https://news.docnow.io/documenting-events-13369d471608?source=rss-------8-----------------data_science)
-- [Principal Components: Kristen Werner on Streamlining the Data Supply Chain](https://towardsdatascience.com/principal-components-kristen-werner-on-streamlining-the-data-supply-chain-c10eca9dc601?source=rss-------8-----------------data_science)
-- [Visualizing U.S. Petroleum Pipeline Networks](https://towardsdatascience.com/visualizing-u-s-petroleum-pipeline-networks-f46833e08dad?source=rss-------8-----------------data_science)
-- [Introducing Prequel.ai, the all-in-one workspace for data analysts](https://medium.com/df-foundation/introducing-prequel-ai-the-all-in-one-workspace-for-data-analysts-823d176264f5?source=rss-------8-----------------data_science)
-- [Using Wikipedia as an Impromptu RottenTomatoes API](https://zverok.medium.com/using-wikipedia-as-an-impromptu-rottentomatoes-api-79719f39ce17?source=rss-------8-----------------data_science)
-- [Dora the Data Explorer](https://edwardtoth.medium.com/dora-the-data-explorer-2e3c85b18654?source=rss-------8-----------------data_science)
-- [5 tips to make your data science projects more impactful](https://sunnyswetank.medium.com/5-tips-for-making-your-data-science-projects-more-impactful-9d7b9d027b51?source=rss-------8-----------------data_science)
-- [The Death of Data Analytics Tools ️☠](https://medium.com/df-foundation/the-death-of-data-analytics-tools-%EF%B8%8F-ae28c7fbda53?source=rss-------8-----------------data_science)
+- [How to make our TestNG Selenium Framework Data-Driven](https://medium.com/test-automation-hub/how-to-make-our-testng-selenium-framework-data-driven-446e1ec5b35c?source=rss-------8-----------------data_science)
+- [Containerize Your Application With Docker](https://towardsdatascience.com/containerize-your-application-with-docker-b0608557441f?source=rss-------8-----------------data_science)
+- [3 Methods to Reduce Overfitting of Machine Learning Models](https://towardsdatascience.com/3-methods-to-reduce-overfitting-of-machine-learning-models-4a7e2c1da9ef?source=rss-------8-----------------data_science)
+- [Data Science From Scratch](https://towardsdatascience.com/data-science-from-scratch-95bcda8d4897?source=rss-------8-----------------data_science)
+- [ML From Scratch: Linear, Polynomial, and Regularized Regression Models](https://towardsdatascience.com/ml-from-scratch-linear-polynomial-and-regularized-regression-models-725672336076?source=rss-------8-----------------data_science)
+- [How to build a Hypothesis Test?](https://anello92.medium.com/how-to-build-a-hypothesis-test-512843225440?source=rss-------8-----------------data_science)
+- [Power of Pandas and Numpy](https://collinskibet.medium.com/power-of-pandas-and-numpy-94fe71a27fc9?source=rss-------8-----------------data_science)
+- [Optimize Pandas memory usage for large datasets](https://towardsdatascience.com/optimize-pandas-memory-usage-while-reading-large-datasets-1b047c762c9b?source=rss-------8-----------------data_science)
+- [Attention in computer vision](https://towardsdatascience.com/attention-in-computer-vision-fd289a5bd7ad?source=rss-------8-----------------data_science)
+- [Object Detection with Street View Images for Demographic Analysis](https://alarahergun.medium.com/object-detection-with-street-view-images-for-demographic-analysis-e6230cac1af9?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
