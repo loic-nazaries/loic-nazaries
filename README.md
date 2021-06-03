@@ -120,11 +120,11 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [3 Methods to Reduce Overfitting of Machine Learning Models](https://towardsdatascience.com/3-methods-to-reduce-overfitting-of-machine-learning-models-4a7e2c1da9ef?source=rss-2cf6b549448------2)
 - [4 Tricks for Making Python Pandas More Efficient](https://towardsdatascience.com/4-tricks-for-making-python-pandas-more-efficient-20237a045f09?source=rss-2cf6b549448------2)
 - [3 Mistakes to Avoid While Learning Data Science](https://towardsdatascience.com/3-mistakes-to-avoid-while-learning-data-science-2f5fe2b45809?source=rss-2cf6b549448------2)
 - [5 Must-Know Operations on Python Sets](https://towardsdatascience.com/5-must-know-operations-on-python-sets-827d5b81465a?source=rss-2cf6b549448------2)
 - [3 Challenges for Aspiring Data Scientists](https://towardsdatascience.com/3-challenges-for-aspiring-data-scientists-ae0c479f31b7?source=rss-2cf6b549448------2)
-- [3 Key Differences Between Random Forests and GBDT](https://towardsdatascience.com/3-key-differences-between-random-forests-and-gbdt-cfc48093200b?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
