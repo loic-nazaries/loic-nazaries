@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to make our TestNG Selenium Framework Data-Driven](https://medium.com/test-automation-hub/how-to-make-our-testng-selenium-framework-data-driven-446e1ec5b35c?source=rss-------8-----------------data_science)
-- [Containerize Your Application With Docker](https://towardsdatascience.com/containerize-your-application-with-docker-b0608557441f?source=rss-------8-----------------data_science)
-- [3 Methods to Reduce Overfitting of Machine Learning Models](https://towardsdatascience.com/3-methods-to-reduce-overfitting-of-machine-learning-models-4a7e2c1da9ef?source=rss-------8-----------------data_science)
-- [Data Science From Scratch](https://towardsdatascience.com/data-science-from-scratch-95bcda8d4897?source=rss-------8-----------------data_science)
-- [ML From Scratch: Linear, Polynomial, and Regularized Regression Models](https://towardsdatascience.com/ml-from-scratch-linear-polynomial-and-regularized-regression-models-725672336076?source=rss-------8-----------------data_science)
-- [How to build a Hypothesis Test?](https://anello92.medium.com/how-to-build-a-hypothesis-test-512843225440?source=rss-------8-----------------data_science)
-- [Power of Pandas and Numpy](https://collinskibet.medium.com/power-of-pandas-and-numpy-94fe71a27fc9?source=rss-------8-----------------data_science)
-- [Optimize Pandas memory usage for large datasets](https://towardsdatascience.com/optimize-pandas-memory-usage-while-reading-large-datasets-1b047c762c9b?source=rss-------8-----------------data_science)
-- [Attention in computer vision](https://towardsdatascience.com/attention-in-computer-vision-fd289a5bd7ad?source=rss-------8-----------------data_science)
-- [Object Detection with Street View Images for Demographic Analysis](https://alarahergun.medium.com/object-detection-with-street-view-images-for-demographic-analysis-e6230cac1af9?source=rss-------8-----------------data_science)
+- [How TechStyle Used Agile Sprints to Roll Out a Modern Data Platform](https://towardsdatascience.com/how-techstyle-used-agile-sprints-to-roll-out-a-modern-data-platform-c0fc92cc397c?source=rss-------8-----------------data_science)
+- [Working as a data engineer](https://towardsdatascience.com/working-as-a-data-engineer-1f53b04aff83?source=rss-------8-----------------data_science)
+- [Introducing the CDS Academic Showcase](https://nyudatascience.medium.com/introducing-the-cds-academic-showcase-e19e4d923f71?source=rss-------8-----------------data_science)
+- [How to clear the Data analyst Interview: Round 1](https://medium.com/nerd-for-tech/how-to-clear-the-data-analyst-interview-round-1-99010a1f93fd?source=rss-------8-----------------data_science)
+- [5 Pandas Presentation Tips You Should Know About](https://towardsdatascience.com/5-pandas-presentation-tips-you-should-know-about-d9e484c97f2a?source=rss-------8-----------------data_science)
+- [Creating a Powerful COVID-19 Mask Detection Tool with PyTorch](https://towardsdatascience.com/creating-a-powerful-covid-19-mask-detection-tool-with-pytorch-d961b31dcd45?source=rss-------8-----------------data_science)
+- [Building a Data Story with Python and Dash](https://towardsdatascience.com/building-a-data-story-with-python-and-dash-98ee4933e700?source=rss-------8-----------------data_science)
+- [NYPD shooting database analysis with R : What is the most dangerous neighborhood in NYC?](https://sacharouaud.medium.com/nypd-shooting-database-analysis-with-r-what-is-the-most-dangerous-neighborhood-in-nyc-e69278190902?source=rss-------8-----------------data_science)
+- [Signal processing (time series analysis) for scientific data analysis with Python: Part 4](https://medium.com/analytics-vidhya/signal-processing-time-series-analysis-for-scientific-data-analysis-with-python-part-4-3abe9bc222d2?source=rss-------8-----------------data_science)
+- [On the Gap between Adoption and Understanding](https://towardsdatascience.com/on-the-gap-between-adoption-and-understanding-971c3d63f524?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
