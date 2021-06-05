@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How TechStyle Used Agile Sprints to Roll Out a Modern Data Platform](https://towardsdatascience.com/how-techstyle-used-agile-sprints-to-roll-out-a-modern-data-platform-c0fc92cc397c?source=rss-------8-----------------data_science)
-- [Working as a data engineer](https://towardsdatascience.com/working-as-a-data-engineer-1f53b04aff83?source=rss-------8-----------------data_science)
-- [Introducing the CDS Academic Showcase](https://nyudatascience.medium.com/introducing-the-cds-academic-showcase-e19e4d923f71?source=rss-------8-----------------data_science)
-- [How to clear the Data analyst Interview: Round 1](https://medium.com/nerd-for-tech/how-to-clear-the-data-analyst-interview-round-1-99010a1f93fd?source=rss-------8-----------------data_science)
-- [5 Pandas Presentation Tips You Should Know About](https://towardsdatascience.com/5-pandas-presentation-tips-you-should-know-about-d9e484c97f2a?source=rss-------8-----------------data_science)
-- [Creating a Powerful COVID-19 Mask Detection Tool with PyTorch](https://towardsdatascience.com/creating-a-powerful-covid-19-mask-detection-tool-with-pytorch-d961b31dcd45?source=rss-------8-----------------data_science)
-- [Building a Data Story with Python and Dash](https://towardsdatascience.com/building-a-data-story-with-python-and-dash-98ee4933e700?source=rss-------8-----------------data_science)
-- [NYPD shooting database analysis with R : What is the most dangerous neighborhood in NYC?](https://sacharouaud.medium.com/nypd-shooting-database-analysis-with-r-what-is-the-most-dangerous-neighborhood-in-nyc-e69278190902?source=rss-------8-----------------data_science)
-- [Signal processing (time series analysis) for scientific data analysis with Python: Part 4](https://medium.com/analytics-vidhya/signal-processing-time-series-analysis-for-scientific-data-analysis-with-python-part-4-3abe9bc222d2?source=rss-------8-----------------data_science)
-- [On the Gap between Adoption and Understanding](https://towardsdatascience.com/on-the-gap-between-adoption-and-understanding-971c3d63f524?source=rss-------8-----------------data_science)
+- [3 Reasons Why Data Scientists Should Learn Statistics Well](https://towardsdatascience.com/3-reasons-why-data-scientists-should-learn-statistics-well-90e80ae6c68f?source=rss-------8-----------------data_science)
+- [5 Python Libraries That You Don’t Know, But You Should!](https://towardsdatascience.com/5-python-libraries-that-you-dont-know-but-you-should-fd6f810773a7?source=rss-------8-----------------data_science)
+- [Statistics: Are you Bayesian or Frequentist?](https://towardsdatascience.com/statistics-are-you-bayesian-or-frequentist-4943f953f21b?source=rss-------8-----------------data_science)
+- [The Next Level of Pandas read_csv( )](https://gustavorsantos.medium.com/go-next-level-with-pandas-read-csv-29e3c207a66d?source=rss-------8-----------------data_science)
+- [Principal Component Analysis(PCA) — How it works Mathematically…](https://hussain-iqbal.medium.com/principal-component-analysis-pca-how-it-works-mathematically-d5de4c7138e6?source=rss-------8-----------------data_science)
+- [Visualizing Brain Waves with Python](https://medium.com/new-health/visualizing-brain-waves-with-python-24847de94266?source=rss-------8-----------------data_science)
+- [Fundamentals of BIG DATA with PySpark](https://datasciencelogs.medium.com/big-data-fundamentals-with-pyspark-939112ef2281?source=rss-------8-----------------data_science)
+- [The Journey to Data Science is a Marathon, not a Sprint](https://benjaminobi.medium.com/the-journey-to-data-science-is-a-marathon-not-a-sprint-c82ec7a102e?source=rss-------8-----------------data_science)
+- [Why You Shouldn’t Take a Data Science Masters Degree](https://towardsdatascience.com/why-you-shouldnt-take-a-data-science-masters-degree-c40c2f02f1e1?source=rss-------8-----------------data_science)
+- [Neural Machine Translation with TRANSFORMERS](https://team-39940.medium.com/neural-machine-translation-with-transformers-b6f5204ebdcd?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
