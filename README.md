@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [3 Reasons Why Data Scientists Should Learn Statistics Well](https://towardsdatascience.com/3-reasons-why-data-scientists-should-learn-statistics-well-90e80ae6c68f?source=rss-------8-----------------data_science)
-- [5 Python Libraries That You Don’t Know, But You Should!](https://towardsdatascience.com/5-python-libraries-that-you-dont-know-but-you-should-fd6f810773a7?source=rss-------8-----------------data_science)
-- [Statistics: Are you Bayesian or Frequentist?](https://towardsdatascience.com/statistics-are-you-bayesian-or-frequentist-4943f953f21b?source=rss-------8-----------------data_science)
-- [The Next Level of Pandas read_csv( )](https://gustavorsantos.medium.com/go-next-level-with-pandas-read-csv-29e3c207a66d?source=rss-------8-----------------data_science)
-- [Principal Component Analysis(PCA) — How it works Mathematically…](https://hussain-iqbal.medium.com/principal-component-analysis-pca-how-it-works-mathematically-d5de4c7138e6?source=rss-------8-----------------data_science)
-- [Visualizing Brain Waves with Python](https://medium.com/new-health/visualizing-brain-waves-with-python-24847de94266?source=rss-------8-----------------data_science)
-- [Fundamentals of BIG DATA with PySpark](https://datasciencelogs.medium.com/big-data-fundamentals-with-pyspark-939112ef2281?source=rss-------8-----------------data_science)
-- [The Journey to Data Science is a Marathon, not a Sprint](https://benjaminobi.medium.com/the-journey-to-data-science-is-a-marathon-not-a-sprint-c82ec7a102e?source=rss-------8-----------------data_science)
-- [Why You Shouldn’t Take a Data Science Masters Degree](https://towardsdatascience.com/why-you-shouldnt-take-a-data-science-masters-degree-c40c2f02f1e1?source=rss-------8-----------------data_science)
-- [Neural Machine Translation with TRANSFORMERS](https://team-39940.medium.com/neural-machine-translation-with-transformers-b6f5204ebdcd?source=rss-------8-----------------data_science)
+- [Saving XML content to a pandas dataframe using xmltodict](https://python.plainenglish.io/saving-xml-content-to-a-pandas-dataframe-using-xmltodict-b6fab32a5100?source=rss-------8-----------------data_science)
+- [NeuralProphet For Time-Series Forecasting: Predicting Stock Prices Using Facebook’s New Model](https://seralouk.medium.com/neuralprophet-for-time-series-forecasting-predicting-stock-prices-using-facebooks-new-model-a88ca146261c?source=rss-------8-----------------data_science)
+- [Support Vector Machines in Python](https://linguisticmaz.medium.com/support-vector-machines-in-python-7f4352026e88?source=rss-------8-----------------data_science)
+- [Let’s talk about Bar Charts](https://priyankadobhal.medium.com/lets-talk-about-bar-charts-f9a394d8052e?source=rss-------8-----------------data_science)
+- [Coffee Shops Analysis in Manhattan — Segmenting and Clustering Neighborhoods](https://lopamudra-nayakcda.medium.com/coffee-shops-analysis-in-manhattan-segmenting-and-clustering-neighborhoods-dba71fee3429?source=rss-------8-----------------data_science)
+- [20 Necessary Requirements of a Perfect Laptop for Data Science and Machine Learning Tasks](https://towardsdatascience.com/20-necessary-requirements-of-a-perfect-laptop-for-data-science-and-machine-learning-tasks-7d0c59c3cb63?source=rss-------8-----------------data_science)
+- [Don’t Crack Your Egg Before You Boil It!…and Other Data Thoughts](https://josephburton06.medium.com/dont-crack-your-egg-before-you-boil-it-and-other-data-thoughts-a7fc8dd3b520?source=rss-------8-----------------data_science)
+- [Feature Selection Using Filter Method: Python Implementation from Scratch](https://garg-shelvi.medium.com/feature-selection-using-filter-method-python-implementation-from-scratch-375d86389003?source=rss-------8-----------------data_science)
+- [Mumbai house Rent price: Analysis](https://anmolcrazy2.medium.com/mumbai-house-rent-price-analysis-c8813b0d9e2f?source=rss-------8-----------------data_science)
+- [Looker vs Tableau vs Knowi — Battle of the B.I. Tools](https://medium.com/geekculture/looker-vs-tableau-vs-knowi-battle-of-the-b-i-tools-76b981da52ef?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
