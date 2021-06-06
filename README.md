@@ -44,19 +44,19 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 <!-- TODO: Make technologies links takes you to repositories or tutorials -->
 
-![Python Badge](https://img.shields.io/badge/-python-yellow?style=for-the-badge&labelColor=yellow&logo=python&logoColor=blue)
+![Python Badge](https://img.shields.io/badge/-python-yellow?style=for-the-badge&labelColor=blue&logo=python&logoColor=white)
 ![SAS Badge](https://img.shields.io/badge/-sas-blue?style=for-the-badge&labelColor=black&logo=sas&logoColor=blue)
 
-<img alt="SQL" align="left" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />![SQL Badge](https://img.shields.io/badge/-sql-blue?style=for-the-badge)
-![PostgreSQL Badge](https://img.shields.io/badge/-postgresql-blue?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)
+<img alt="SQL" align="left" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />![SQL Badge](https://img.shields.io/badge/-sql-blue?style=for-the-badge)
+![PostgreSQL Badge](https://img.shields.io/badge/-postgresql-blue?style=for-the-badge&labelColor=white&logo=postgresql&logoColor=blue)
 ![Snowflake Badge](https://img.shields.io/badge/-snowflake-66ccf4?style=for-the-badge&labelColor=white&logo=snowflake&logoColor=66ccf4)
-![Google BigQuery Badge](https://img.shields.io/badge/-google_bigquery-yellow?style=for-the-badge&labelColor=blue&logo=google-big-query&logoColor=blue)
-![Google Data Studio Badge](https://img.shields.io/badge/-google_data_studio-green?style=for-the-badge&labelColor=red&logo=google-data-studio&logoColor=red)
+&nbsp;<img alt="Google BigQuery" width="20" src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" />&nbsp;&nbsp;![Google BigQuery Badge](https://img.shields.io/badge/-google_bigquery-blue?style=for-the-badge&labelColor=blue&logo=google-big-query&logoColor=blue)
+&nbsp;<img alt="Google Data Studio" width="20" src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" />&nbsp;&nbsp;![Google Data Studio Badge](https://img.shields.io/badge/-google_data_studio-blue?style=for-the-badge&labelColor=red&logo=google-data-studio&logoColor=red)
 
 ![Tableau Badge](https://img.shields.io/badge/-tableau-grey?style=for-the-badge&labelColor=white&logo=tableau&logoColor=grey)
 ![Jupyter Badge](https://img.shields.io/badge/-jupyter-orange?style=for-the-badge&labelColor=white&logo=jupyter&logoColor=orange)
 ![Alteryx Designer Badge](https://img.shields.io/badge/-alteryx_designer-69aeea?style=for-the-badge&labelColor=black&logo=altery-designerx&logoColor=69aeea)
-![Talend Badge](https://img.shields.io/badge/-talend-blue?style=for-the-badge&labelColor=blue&logo=talend&logoColor=green)
+![Talend Badge](https://img.shields.io/badge/-talend-blue?style=for-the-badge&labelColor=black&logo=talend&logoColor=green)
 
 ![Heroku Badge](https://img.shields.io/badge/-heroku-purple?style=for-the-badge&labelColor=white&logo=heroku&logoColor=purple)
 ![Streamlit Badge](https://img.shields.io/badge/-streamlit-red?style=for-the-badge&labelColor=white&logo=streamlit&logoColor=red)
@@ -66,7 +66,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ![Git Badge](https://img.shields.io/badge/-git-red?style=for-the-badge&labelColor=black&logo=git&logoColor=red)
 ![Visual Studio Code Badge](https://img.shields.io/badge/-visual_studio_code-blue?style=for-the-badge&labelColor=white&logo=visual-studio-code&logoColor=blue)
 
-![Markdown Badge](https://img.shields.io/badge/-markdown-white?style=for-the-badge&labelColor=black&logo=markdown&logoColor=white)
+![Markdown Badge](https://img.shields.io/badge/-markdown-black?style=for-the-badge&labelColor=white&logo=markdown&logoColor=black)
 ![Microsoft Office Badge](https://img.shields.io/badge/-microsoft_office-red?style=for-the-badge&labelColor=white&logo=microsoft-office&logoColor=red)
 
 <!-- <img alt="Visual Studio Code" align="left" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
