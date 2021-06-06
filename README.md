@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Top 3 Alternative Python Packages for Pandas](https://towardsdatascience.com/top-3-alternative-python-packages-for-pandas-d125627ce349?source=rss-------8-----------------data_science)
-- [6 Tips To Make Python Code Run Incredibly Faster](https://betterprogramming.pub/6-tips-to-make-python-code-run-incredibly-faster-932db815c3a8?source=rss-------8-----------------data_science)
-- [Most business managers don’t care about fancy algorithms you might have discovered](https://towardsdatascience.com/most-business-managers-dont-care-about-fancy-algorithms-you-might-have-discovered-6ef7761310fa?source=rss-------8-----------------data_science)
-- [What Are Post-Decision States and What Do They Want From Us?](https://towardsdatascience.com/what-are-post-decision-states-and-what-do-they-want-from-us-9e02105b7f40?source=rss-------8-----------------data_science)
-- [Magic 8 Ball: An app to maximize wins in competitive pool matches (Part 2)](https://towardsdatascience.com/magic-8-ball-an-app-to-maximize-wins-in-competitive-pool-matches-part-2-eb9d4793f98f?source=rss-------8-----------------data_science)
-- [Single Image Super-Resolution Challenge](https://towardsdatascience.com/single-image-super-resolution-challenge-6f4835e5a156?source=rss-------8-----------------data_science)
-- [Getting Started with Breakpoints Analysis in Python](https://towardsdatascience.com/getting-started-with-breakpoints-analysis-in-python-124471708d38?source=rss-------8-----------------data_science)
-- [Best Practices for R with Docker](https://medium.com/analythium/best-practices-for-r-with-docker-3e2710f09a00?source=rss-------8-----------------data_science)
-- [The Impact of the Fans  on Premier League Teams](https://towardsdatascience.com/the-impact-of-the-fans-on-premier-league-teams-3423f8d8ebae?source=rss-------8-----------------data_science)
-- [How to Measure the performance of a Model ?](https://medium.com/analytics-vidhya/how-to-measure-the-performance-of-a-model-f3e1c52d78b0?source=rss-------8-----------------data_science)
+- [Saving XML content to a pandas dataframe using xmltodict](https://python.plainenglish.io/saving-xml-content-to-a-pandas-dataframe-using-xmltodict-b6fab32a5100?source=rss-------8-----------------data_science)
+- [NeuralProphet For Time-Series Forecasting: Predicting Stock Prices Using Facebook’s New Model](https://seralouk.medium.com/neuralprophet-for-time-series-forecasting-predicting-stock-prices-using-facebooks-new-model-a88ca146261c?source=rss-------8-----------------data_science)
+- [Support Vector Machines in Python](https://linguisticmaz.medium.com/support-vector-machines-in-python-7f4352026e88?source=rss-------8-----------------data_science)
+- [Let’s talk about Bar Charts](https://priyankadobhal.medium.com/lets-talk-about-bar-charts-f9a394d8052e?source=rss-------8-----------------data_science)
+- [Coffee Shops Analysis in Manhattan — Segmenting and Clustering Neighborhoods](https://lopamudra-nayakcda.medium.com/coffee-shops-analysis-in-manhattan-segmenting-and-clustering-neighborhoods-dba71fee3429?source=rss-------8-----------------data_science)
+- [20 Necessary Requirements of a Perfect Laptop for Data Science and Machine Learning Tasks](https://towardsdatascience.com/20-necessary-requirements-of-a-perfect-laptop-for-data-science-and-machine-learning-tasks-7d0c59c3cb63?source=rss-------8-----------------data_science)
+- [Don’t Crack Your Egg Before You Boil It!…and Other Data Thoughts](https://josephburton06.medium.com/dont-crack-your-egg-before-you-boil-it-and-other-data-thoughts-a7fc8dd3b520?source=rss-------8-----------------data_science)
+- [Feature Selection Using Filter Method: Python Implementation from Scratch](https://garg-shelvi.medium.com/feature-selection-using-filter-method-python-implementation-from-scratch-375d86389003?source=rss-------8-----------------data_science)
+- [Mumbai house Rent price: Analysis](https://anmolcrazy2.medium.com/mumbai-house-rent-price-analysis-c8813b0d9e2f?source=rss-------8-----------------data_science)
+- [Looker vs Tableau vs Knowi — Battle of the B.I. Tools](https://medium.com/geekculture/looker-vs-tableau-vs-knowi-battle-of-the-b-i-tools-76b981da52ef?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
@@ -120,11 +120,11 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
-- [3 Mistakes to Avoid While Learning Data Science](https://towardsdatascience.com/3-mistakes-to-avoid-while-learning-data-science-2f5fe2b45809?source=rss-2cf6b549448------2)
-- [5 Must-Know Operations on Python Sets](https://towardsdatascience.com/5-must-know-operations-on-python-sets-827d5b81465a?source=rss-2cf6b549448------2)
-- [3 Challenges for Aspiring Data Scientists](https://towardsdatascience.com/3-challenges-for-aspiring-data-scientists-ae0c479f31b7?source=rss-2cf6b549448------2)
-- [3 Key Differences Between Random Forests and GBDT](https://towardsdatascience.com/3-key-differences-between-random-forests-and-gbdt-cfc48093200b?source=rss-2cf6b549448------2)
-- [17 Quick Examples to Learn Python Lists](https://towardsdatascience.com/17-quick-examples-to-learn-python-lists-196070a055c3?source=rss-2cf6b549448------2)
+- [3 Must-Know SQL Functions For Efficient Data Analysis](https://towardsdatascience.com/3-must-know-sql-functions-for-efficient-data-analysis-b7e4ee820faf?source=rss-2cf6b549448------2)
+- [3 Examples That Show The Unlimited Flexibility of PySpark](https://towardsdatascience.com/3-examples-that-show-the-unlimited-flexibility-of-pyspark-319ab22d5a?source=rss-2cf6b549448------2)
+- [3 Reasons Why Data Scientists Should Learn Statistics Well](https://towardsdatascience.com/3-reasons-why-data-scientists-should-learn-statistics-well-90e80ae6c68f?source=rss-2cf6b549448------2)
+- [3 Methods to Reduce Overfitting of Machine Learning Models](https://towardsdatascience.com/3-methods-to-reduce-overfitting-of-machine-learning-models-4a7e2c1da9ef?source=rss-2cf6b549448------2)
+- [4 Tricks for Making Python Pandas More Efficient](https://towardsdatascience.com/4-tricks-for-making-python-pandas-more-efficient-20237a045f09?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
