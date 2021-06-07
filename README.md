@@ -103,16 +103,15 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Saving XML content to a pandas dataframe using xmltodict](https://python.plainenglish.io/saving-xml-content-to-a-pandas-dataframe-using-xmltodict-b6fab32a5100?source=rss-------8-----------------data_science)
-- [NeuralProphet For Time-Series Forecasting: Predicting Stock Prices Using Facebook’s New Model](https://seralouk.medium.com/neuralprophet-for-time-series-forecasting-predicting-stock-prices-using-facebooks-new-model-a88ca146261c?source=rss-------8-----------------data_science)
-- [Support Vector Machines in Python](https://linguisticmaz.medium.com/support-vector-machines-in-python-7f4352026e88?source=rss-------8-----------------data_science)
-- [Let’s talk about Bar Charts](https://priyankadobhal.medium.com/lets-talk-about-bar-charts-f9a394d8052e?source=rss-------8-----------------data_science)
-- [Coffee Shops Analysis in Manhattan — Segmenting and Clustering Neighborhoods](https://lopamudra-nayakcda.medium.com/coffee-shops-analysis-in-manhattan-segmenting-and-clustering-neighborhoods-dba71fee3429?source=rss-------8-----------------data_science)
-- [20 Necessary Requirements of a Perfect Laptop for Data Science and Machine Learning Tasks](https://towardsdatascience.com/20-necessary-requirements-of-a-perfect-laptop-for-data-science-and-machine-learning-tasks-7d0c59c3cb63?source=rss-------8-----------------data_science)
-- [Don’t Crack Your Egg Before You Boil It!…and Other Data Thoughts](https://josephburton06.medium.com/dont-crack-your-egg-before-you-boil-it-and-other-data-thoughts-a7fc8dd3b520?source=rss-------8-----------------data_science)
-- [Feature Selection Using Filter Method: Python Implementation from Scratch](https://garg-shelvi.medium.com/feature-selection-using-filter-method-python-implementation-from-scratch-375d86389003?source=rss-------8-----------------data_science)
-- [Mumbai house Rent price: Analysis](https://anmolcrazy2.medium.com/mumbai-house-rent-price-analysis-c8813b0d9e2f?source=rss-------8-----------------data_science)
-- [Looker vs Tableau vs Knowi — Battle of the B.I. Tools](https://medium.com/geekculture/looker-vs-tableau-vs-knowi-battle-of-the-b-i-tools-76b981da52ef?source=rss-------8-----------------data_science)
+- [Three systems thinking tools for exploring the Distrust Doom Loop](https://towardsdatascience.com/three-systems-thinking-tools-for-exploring-the-distrust-doom-loop-51ded8f35ced?source=rss-------8-----------------data_science)
+- [The Most Efficient if-elif-else in Pandas](https://towardsdatascience.com/the-most-efficient-if-elif-else-in-pandas-d4a7d4502d50?source=rss-------8-----------------data_science)
+- [Jovian — 2020 Year in Review](https://blog.jovian.ai/jovian-2020-year-in-review-63da650937e1?source=rss-------8-----------------data_science)
+- [Statistics for Data Science](https://medium.com/swlh/statistics-for-data-science-729c2fab1c15?source=rss-------8-----------------data_science)
+- [Data Warehouse : Design Data Model for Ride Sharing or Taxi Service](https://sowmyamupparaju.medium.com/data-warehouse-design-data-model-for-ride-sharing-or-taxi-service-5fc20d8eb424?source=rss-------8-----------------data_science)
+- [Some tips to make your visualizations in R more insightful](https://medium.com/analytics-vidhya/some-tips-to-make-your-visualizations-in-r-more-insightful-d8576ea4631?source=rss-------8-----------------data_science)
+- [IronViz Is Here! Don’t miss out](https://priyankadobhal.medium.com/ironviz-is-here-dont-miss-out-93db1731bd15?source=rss-------8-----------------data_science)
+- [A primer for…Random Forests](https://medium.com/analytics-vidhya/a-primer-for-random-forests-8c4c0b87d498?source=rss-------8-----------------data_science)
+- [Confusion Matrix in CyberSecurity](https://jainshubhangini.medium.com/confusion-matrix-in-cybersecurity-29660bd41954?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
