@@ -103,15 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Three systems thinking tools for exploring the Distrust Doom Loop](https://towardsdatascience.com/three-systems-thinking-tools-for-exploring-the-distrust-doom-loop-51ded8f35ced?source=rss-------8-----------------data_science)
-- [The Most Efficient if-elif-else in Pandas](https://towardsdatascience.com/the-most-efficient-if-elif-else-in-pandas-d4a7d4502d50?source=rss-------8-----------------data_science)
-- [Jovian — 2020 Year in Review](https://blog.jovian.ai/jovian-2020-year-in-review-63da650937e1?source=rss-------8-----------------data_science)
-- [Statistics for Data Science](https://medium.com/swlh/statistics-for-data-science-729c2fab1c15?source=rss-------8-----------------data_science)
-- [Data Warehouse : Design Data Model for Ride Sharing or Taxi Service](https://sowmyamupparaju.medium.com/data-warehouse-design-data-model-for-ride-sharing-or-taxi-service-5fc20d8eb424?source=rss-------8-----------------data_science)
-- [Some tips to make your visualizations in R more insightful](https://medium.com/analytics-vidhya/some-tips-to-make-your-visualizations-in-r-more-insightful-d8576ea4631?source=rss-------8-----------------data_science)
-- [IronViz Is Here! Don’t miss out](https://priyankadobhal.medium.com/ironviz-is-here-dont-miss-out-93db1731bd15?source=rss-------8-----------------data_science)
-- [A primer for…Random Forests](https://medium.com/analytics-vidhya/a-primer-for-random-forests-8c4c0b87d498?source=rss-------8-----------------data_science)
-- [Confusion Matrix in CyberSecurity](https://jainshubhangini.medium.com/confusion-matrix-in-cybersecurity-29660bd41954?source=rss-------8-----------------data_science)
+- [Turn Neo4j into a Genome Browser](https://dgg32.medium.com/turn-neo4j-into-a-genome-browser-e94c7311dfab?source=rss-------8-----------------data_science)
+- [An ELO-based simulation of the UEFA Euro 2020 group stage](https://towardsdatascience.com/an-elo-based-simulation-of-the-uefa-euro-2020-group-stage-876a6b8a2408?source=rss-------8-----------------data_science)
+- [Group By in Python, Not SQL](https://towardsdatascience.com/group-by-in-python-not-sql-dfdc31db77b4?source=rss-------8-----------------data_science)
+- [Lasso (l1) and Ridge (l2) Regularization Techniques](https://pub.towardsai.net/lasso-l1-and-ridge-l2-regularization-techniques-33b7f12ac0b?source=rss-------8-----------------data_science)
+- [4 Machine Learning System Architectures](https://towardsdatascience.com/4-machine-learning-system-architectures-e65e33481970?source=rss-------8-----------------data_science)
+- [Picture Perfect: Inside Image Processing](https://towardsdatascience.com/picture-perfect-inside-image-processing-3d15c04049a1?source=rss-------8-----------------data_science)
+- [Combining Different Indicators to Create a Complete Trading System.](https://medium.com/geekculture/combining-different-indicators-to-create-a-complete-trading-system-4eec6de6ef6d?source=rss-------8-----------------data_science)
+- [How to transition to Data Science from a business background — Interview with Scott Czepiel](https://thuytranio.medium.com/how-to-transition-to-data-science-from-a-business-background-interview-with-scott-czepiel-319054099525?source=rss-------8-----------------data_science)
+- [A Quick Guide to Cross-Entropy Loss Function](https://towardsdatascience.com/a-quick-guide-to-cross-entropy-loss-function-8f3410ec6ab1?source=rss-------8-----------------data_science)
+- [What’s Like a Data Scientist in Silicon Valley?](https://towardsdatascience.com/whats-like-a-data-scientist-in-silicon-valley-d500b338c6e2?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
