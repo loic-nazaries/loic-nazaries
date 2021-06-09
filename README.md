@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Turn Neo4j into a Genome Browser](https://dgg32.medium.com/turn-neo4j-into-a-genome-browser-e94c7311dfab?source=rss-------8-----------------data_science)
-- [An ELO-based simulation of the UEFA Euro 2020 group stage](https://towardsdatascience.com/an-elo-based-simulation-of-the-uefa-euro-2020-group-stage-876a6b8a2408?source=rss-------8-----------------data_science)
-- [Group By in Python, Not SQL](https://towardsdatascience.com/group-by-in-python-not-sql-dfdc31db77b4?source=rss-------8-----------------data_science)
-- [Lasso (l1) and Ridge (l2) Regularization Techniques](https://pub.towardsai.net/lasso-l1-and-ridge-l2-regularization-techniques-33b7f12ac0b?source=rss-------8-----------------data_science)
-- [4 Machine Learning System Architectures](https://towardsdatascience.com/4-machine-learning-system-architectures-e65e33481970?source=rss-------8-----------------data_science)
-- [Picture Perfect: Inside Image Processing](https://towardsdatascience.com/picture-perfect-inside-image-processing-3d15c04049a1?source=rss-------8-----------------data_science)
-- [Combining Different Indicators to Create a Complete Trading System.](https://medium.com/geekculture/combining-different-indicators-to-create-a-complete-trading-system-4eec6de6ef6d?source=rss-------8-----------------data_science)
-- [How to transition to Data Science from a business background — Interview with Scott Czepiel](https://thuytranio.medium.com/how-to-transition-to-data-science-from-a-business-background-interview-with-scott-czepiel-319054099525?source=rss-------8-----------------data_science)
-- [A Quick Guide to Cross-Entropy Loss Function](https://towardsdatascience.com/a-quick-guide-to-cross-entropy-loss-function-8f3410ec6ab1?source=rss-------8-----------------data_science)
-- [What’s Like a Data Scientist in Silicon Valley?](https://towardsdatascience.com/whats-like-a-data-scientist-in-silicon-valley-d500b338c6e2?source=rss-------8-----------------data_science)
+- [Dealing with Imbalanced Data in TensorFlow: Class Weights](https://towardsdatascience.com/dealing-with-imbalanced-data-in-tensorflow-class-weights-60f876911f99?source=rss-------8-----------------data_science)
+- [Interactive choropleth map to show fire incidents and population in the state of NSW, Australia](https://jabirjamal.medium.com/interactive-choropleth-map-to-show-fire-incidents-and-population-in-the-state-of-nsw-australia-cb0e007a3dc6?source=rss-------8-----------------data_science)
+- [How to Model Time Between Events Using the Exponential, Gamma, and Poisson Distributions](https://medium.com/analytics-vidhya/how-to-model-time-between-events-using-the-exponential-gamma-and-poisson-distributions-4b058a357a55?source=rss-------8-----------------data_science)
+- [Topic Modelling on NYT articles using Gensim, LDA](https://towardsdatascience.com/topic-modelling-on-nyt-articles-using-gensim-lda-37caa2796cd9?source=rss-------8-----------------data_science)
+- [Towards a fully automated active learning pipeline](https://towardsdatascience.com/towards-a-fully-automated-active-learning-pipeline-29b8f4eb7d73?source=rss-------8-----------------data_science)
+- [Predicting car accidents in my neighborhood: A data-driven approach.](https://petrosdemetrakopoulos.medium.com/predicting-car-accidents-in-my-neighborhood-a-data-driven-approach-22816abca0e1?source=rss-------8-----------------data_science)
+- [The NFL Combine in Two Dimensions](https://innerjoin.bit.io/the-nfl-combine-in-two-dimensions-95ba79e3470d?source=rss-------8-----------------data_science)
+- [Finding Seasonal Trends in Time-Series Data with Python](https://towardsdatascience.com/finding-seasonal-trends-in-time-series-data-with-python-ce10c37aa861?source=rss-------8-----------------data_science)
+- [Analyzing Your Own Mobility Dataset — The Basics [Part 2]](https://medium.com/99p-labs/analyzing-your-own-mobility-dataset-the-basics-part-2-2b55e023ef74?source=rss-------8-----------------data_science)
+- [Holos — Day 2](https://holos-roman.medium.com/holos-day-2-a5e93dd9bd76?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
