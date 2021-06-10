@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Dealing with Imbalanced Data in TensorFlow: Class Weights](https://towardsdatascience.com/dealing-with-imbalanced-data-in-tensorflow-class-weights-60f876911f99?source=rss-------8-----------------data_science)
-- [Interactive choropleth map to show fire incidents and population in the state of NSW, Australia](https://jabirjamal.medium.com/interactive-choropleth-map-to-show-fire-incidents-and-population-in-the-state-of-nsw-australia-cb0e007a3dc6?source=rss-------8-----------------data_science)
-- [How to Model Time Between Events Using the Exponential, Gamma, and Poisson Distributions](https://medium.com/analytics-vidhya/how-to-model-time-between-events-using-the-exponential-gamma-and-poisson-distributions-4b058a357a55?source=rss-------8-----------------data_science)
-- [Topic Modelling on NYT articles using Gensim, LDA](https://towardsdatascience.com/topic-modelling-on-nyt-articles-using-gensim-lda-37caa2796cd9?source=rss-------8-----------------data_science)
-- [Towards a fully automated active learning pipeline](https://towardsdatascience.com/towards-a-fully-automated-active-learning-pipeline-29b8f4eb7d73?source=rss-------8-----------------data_science)
-- [Predicting car accidents in my neighborhood: A data-driven approach.](https://petrosdemetrakopoulos.medium.com/predicting-car-accidents-in-my-neighborhood-a-data-driven-approach-22816abca0e1?source=rss-------8-----------------data_science)
-- [The NFL Combine in Two Dimensions](https://innerjoin.bit.io/the-nfl-combine-in-two-dimensions-95ba79e3470d?source=rss-------8-----------------data_science)
-- [Finding Seasonal Trends in Time-Series Data with Python](https://towardsdatascience.com/finding-seasonal-trends-in-time-series-data-with-python-ce10c37aa861?source=rss-------8-----------------data_science)
-- [Analyzing Your Own Mobility Dataset — The Basics [Part 2]](https://medium.com/99p-labs/analyzing-your-own-mobility-dataset-the-basics-part-2-2b55e023ef74?source=rss-------8-----------------data_science)
-- [Holos — Day 2](https://holos-roman.medium.com/holos-day-2-a5e93dd9bd76?source=rss-------8-----------------data_science)
+- [A No-Code approach to Linear Regression](https://towardsdatascience.com/a-no-code-approach-to-linear-regression-c66566d0d845?source=rss-------8-----------------data_science)
+- [Extract & Load, Transform, Learn, and Serve — Getting Value from Data](https://towardsdatascience.com/extract-load-transform-learn-and-serve-getting-value-from-data-4f08d70bf343?source=rss-------8-----------------data_science)
+- [IBM Cloud Functions with R](https://medium.com/ibm-data-ai/ibm-cloud-functions-with-r-e92deec355e2?source=rss-------8-----------------data_science)
+- [How AI Can Help Us Recycle](https://towardsdatascience.com/how-ai-can-help-us-recycle-c2f82d0d50de?source=rss-------8-----------------data_science)
+- [Using the missingno Python library to Identify and Visualise Missing Data Prior to Machine Learning](https://towardsdatascience.com/using-the-missingno-python-library-to-identify-and-visualise-missing-data-prior-to-machine-learning-34c8c5b5f009?source=rss-------8-----------------data_science)
+- [10 Examples to Master Distribution Plots with Python Seaborn](https://towardsdatascience.com/10-examples-to-master-distribution-plots-with-python-seaborn-4ea2ceea906a?source=rss-------8-----------------data_science)
+- [A quick note on domain-specific evaluation of predictive models](https://medium.com/wwblog/a-quick-note-on-domain-specific-evaluation-of-predictive-models-370bddceafb3?source=rss-------8-----------------data_science)
+- [8 Types of Sampling Techniques](https://towardsdatascience.com/8-types-of-sampling-techniques-b21adcdd2124?source=rss-------8-----------------data_science)
+- [R-squared statistic : basic intuition](https://dhrubjun.medium.com/r-squared-statistic-basic-intuition-c8620412b196?source=rss-------8-----------------data_science)
+- [The Messages We Send: The Case Against “Deploying” Machine Learning](https://towardsdatascience.com/the-messages-we-send-the-case-against-deploying-machine-learning-3d123a18f13d?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
