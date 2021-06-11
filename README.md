@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A No-Code approach to Linear Regression](https://towardsdatascience.com/a-no-code-approach-to-linear-regression-c66566d0d845?source=rss-------8-----------------data_science)
-- [Extract & Load, Transform, Learn, and Serve — Getting Value from Data](https://towardsdatascience.com/extract-load-transform-learn-and-serve-getting-value-from-data-4f08d70bf343?source=rss-------8-----------------data_science)
-- [IBM Cloud Functions with R](https://medium.com/ibm-data-ai/ibm-cloud-functions-with-r-e92deec355e2?source=rss-------8-----------------data_science)
-- [How AI Can Help Us Recycle](https://towardsdatascience.com/how-ai-can-help-us-recycle-c2f82d0d50de?source=rss-------8-----------------data_science)
-- [Using the missingno Python library to Identify and Visualise Missing Data Prior to Machine Learning](https://towardsdatascience.com/using-the-missingno-python-library-to-identify-and-visualise-missing-data-prior-to-machine-learning-34c8c5b5f009?source=rss-------8-----------------data_science)
-- [10 Examples to Master Distribution Plots with Python Seaborn](https://towardsdatascience.com/10-examples-to-master-distribution-plots-with-python-seaborn-4ea2ceea906a?source=rss-------8-----------------data_science)
-- [A quick note on domain-specific evaluation of predictive models](https://medium.com/wwblog/a-quick-note-on-domain-specific-evaluation-of-predictive-models-370bddceafb3?source=rss-------8-----------------data_science)
-- [8 Types of Sampling Techniques](https://towardsdatascience.com/8-types-of-sampling-techniques-b21adcdd2124?source=rss-------8-----------------data_science)
-- [R-squared statistic : basic intuition](https://dhrubjun.medium.com/r-squared-statistic-basic-intuition-c8620412b196?source=rss-------8-----------------data_science)
-- [The Messages We Send: The Case Against “Deploying” Machine Learning](https://towardsdatascience.com/the-messages-we-send-the-case-against-deploying-machine-learning-3d123a18f13d?source=rss-------8-----------------data_science)
+- [Advanced SQL for Data Analysis and BI](https://mahedihasanjisan.medium.com/advanced-sql-for-data-analysis-and-bi-eadaaa2396d8?source=rss-------8-----------------data_science)
+- [Principal Components: Alan Jacobson on Building Data Science Tools](https://towardsdatascience.com/principal-components-alan-jacobson-on-building-data-science-tools-16cae3681aff?source=rss-------8-----------------data_science)
+- [How Vicious Do You Think Your Social Media Comments Are?](https://towardsdatascience.com/how-vicious-do-you-think-your-social-media-comments-are-204128141eab?source=rss-------8-----------------data_science)
+- [Fully Explained P-Distribution with Python example](https://pub.towardsai.net/fully-explained-p-distribution-with-python-example-6f6b4e689e97?source=rss-------8-----------------data_science)
+- [A Practical Web Scraping Guide](https://medium.com/@eortizrecalde/a-practical-web-scraping-guide-62073b69b003?source=rss-------8-----------------data_science)
+- [This is why you are not iterating fast enough your ML project](https://medium.com/mercadolibre-tech/this-is-why-you-are-not-iterating-fast-enough-your-ml-project-1b1b79a82b56?source=rss-------8-----------------data_science)
+- [Risk-taking data scientists communicate better](https://gr33ndata.medium.com/risk-taking-data-scientists-communicate-better-fa47ae9d62d8?source=rss-------8-----------------data_science)
+- [The Hype of Data Science?](https://karthigainathan.medium.com/the-hype-of-data-science-1cfd2a0e42c9?source=rss-------8-----------------data_science)
+- [Line Chart in Machine Learning](https://medium.com/machine-learning-concepts/line-chart-in-machine-learning-38858860010?source=rss-------8-----------------data_science)
+- [Finding the Best Locality to Open a Restaurant in Bangalore](https://faisalkhan-mys.medium.com/finding-the-best-locality-to-open-a-restaurant-in-bangalore-b393e4878a2?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
