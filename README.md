@@ -120,11 +120,11 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [How My Learning Path Changed After Becoming a Data Scientist](https://towardsdatascience.com/how-my-learning-path-changed-after-becoming-a-data-scientist-13afba909aff?source=rss-2cf6b549448------2)
 - [10 Examples to Master Distribution Plots with Python Seaborn](https://towardsdatascience.com/10-examples-to-master-distribution-plots-with-python-seaborn-4ea2ceea906a?source=rss-2cf6b549448------2)
 - [5 Examples to Explain SQL Versions of Pandas Operations](https://towardsdatascience.com/5-examples-to-explain-sql-versions-of-pandas-operations-113f7afde249?source=rss-2cf6b549448------2)
 - [3 Must-Know SQL Functions For Efficient Data Analysis](https://towardsdatascience.com/3-must-know-sql-functions-for-efficient-data-analysis-b7e4ee820faf?source=rss-2cf6b549448------2)
 - [3 Examples That Show The Unlimited Flexibility of PySpark](https://towardsdatascience.com/3-examples-that-show-the-unlimited-flexibility-of-pyspark-319ab22d5a?source=rss-2cf6b549448------2)
-- [3 Reasons Why Data Scientists Should Learn Statistics Well](https://towardsdatascience.com/3-reasons-why-data-scientists-should-learn-statistics-well-90e80ae6c68f?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
