@@ -103,16 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Advanced SQL for Data Analysis and BI](https://mahedihasanjisan.medium.com/advanced-sql-for-data-analysis-and-bi-eadaaa2396d8?source=rss-------8-----------------data_science)
-- [Principal Components: Alan Jacobson on Building Data Science Tools](https://towardsdatascience.com/principal-components-alan-jacobson-on-building-data-science-tools-16cae3681aff?source=rss-------8-----------------data_science)
-- [How Vicious Do You Think Your Social Media Comments Are?](https://towardsdatascience.com/how-vicious-do-you-think-your-social-media-comments-are-204128141eab?source=rss-------8-----------------data_science)
-- [Fully Explained P-Distribution with Python example](https://pub.towardsai.net/fully-explained-p-distribution-with-python-example-6f6b4e689e97?source=rss-------8-----------------data_science)
-- [A Practical Web Scraping Guide](https://medium.com/@eortizrecalde/a-practical-web-scraping-guide-62073b69b003?source=rss-------8-----------------data_science)
-- [This is why you are not iterating fast enough your ML project](https://medium.com/mercadolibre-tech/this-is-why-you-are-not-iterating-fast-enough-your-ml-project-1b1b79a82b56?source=rss-------8-----------------data_science)
-- [Risk-taking data scientists communicate better](https://gr33ndata.medium.com/risk-taking-data-scientists-communicate-better-fa47ae9d62d8?source=rss-------8-----------------data_science)
-- [The Hype of Data Science?](https://karthigainathan.medium.com/the-hype-of-data-science-1cfd2a0e42c9?source=rss-------8-----------------data_science)
-- [Line Chart in Machine Learning](https://medium.com/machine-learning-concepts/line-chart-in-machine-learning-38858860010?source=rss-------8-----------------data_science)
-- [Finding the Best Locality to Open a Restaurant in Bangalore](https://faisalkhan-mys.medium.com/finding-the-best-locality-to-open-a-restaurant-in-bangalore-b393e4878a2?source=rss-------8-----------------data_science)
+- [How My Learning Path Changed After Becoming a Data Scientist](https://towardsdatascience.com/how-my-learning-path-changed-after-becoming-a-data-scientist-13afba909aff?source=rss-------8-----------------data_science)
+- [Predictions Using Advanced Statistical Functions in Adobe Analytics](https://medium.com/adobetech/predictions-using-advanced-statistical-functions-in-adobe-analytics-5f7029ba2cc2?source=rss-------8-----------------data_science)
+- [Array Analytics Is Combining Health Data With Geo-Mapping to Open Up Access to Care](https://healthtransformer.co/array-analytics-is-combining-health-data-with-geo-mapping-to-open-up-access-to-care-a5ff8c79a98d?source=rss-------8-----------------data_science)
+- [Air Piano using OpenCV and Python](https://towardsdatascience.com/air-piano-using-opencv-and-python-298cb22097d9?source=rss-------8-----------------data_science)
+- [Implementing an End-to-End Machine Learning Workflow with Azure Data Factory](https://towardsdatascience.com/implementing-an-end-to-end-machine-learning-workflow-with-azure-data-factory-f16cbeeffd94?source=rss-------8-----------------data_science)
+- [Pattern Matching in Python 3.10](https://towardsdatascience.com/pattern-matching-in-python-3-10-6124ff2079f0?source=rss-------8-----------------data_science)
+- [3 easy ways to reshape pandas DataFrame](https://towardsdatascience.com/3-easy-ways-to-reshape-pandas-dataframe-5b2cbe73d60e?source=rss-------8-----------------data_science)
+- [Actionable Agile — The New Wave of Fortune Telling in Project Management](https://arp3np.medium.com/actionable-agile-the-new-wave-of-fortune-telling-in-project-management-4e6559aaa6f8?source=rss-------8-----------------data_science)
+- [In defense of statistical modeling](https://towardsdatascience.com/in-defense-of-statistical-modeling-e73d889b475d?source=rss-------8-----------------data_science)
+- [Using Machine Learning to Understand League of Legends](https://towardsdatascience.com/the-path-to-a-victorious-league-of-legends-match-40d51a1a089e?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
