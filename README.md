@@ -103,16 +103,15 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How My Learning Path Changed After Becoming a Data Scientist](https://towardsdatascience.com/how-my-learning-path-changed-after-becoming-a-data-scientist-13afba909aff?source=rss-------8-----------------data_science)
-- [Predictions Using Advanced Statistical Functions in Adobe Analytics](https://medium.com/adobetech/predictions-using-advanced-statistical-functions-in-adobe-analytics-5f7029ba2cc2?source=rss-------8-----------------data_science)
-- [Array Analytics Is Combining Health Data With Geo-Mapping to Open Up Access to Care](https://healthtransformer.co/array-analytics-is-combining-health-data-with-geo-mapping-to-open-up-access-to-care-a5ff8c79a98d?source=rss-------8-----------------data_science)
-- [Air Piano using OpenCV and Python](https://towardsdatascience.com/air-piano-using-opencv-and-python-298cb22097d9?source=rss-------8-----------------data_science)
-- [Implementing an End-to-End Machine Learning Workflow with Azure Data Factory](https://towardsdatascience.com/implementing-an-end-to-end-machine-learning-workflow-with-azure-data-factory-f16cbeeffd94?source=rss-------8-----------------data_science)
-- [Pattern Matching in Python 3.10](https://towardsdatascience.com/pattern-matching-in-python-3-10-6124ff2079f0?source=rss-------8-----------------data_science)
-- [3 easy ways to reshape pandas DataFrame](https://towardsdatascience.com/3-easy-ways-to-reshape-pandas-dataframe-5b2cbe73d60e?source=rss-------8-----------------data_science)
-- [Actionable Agile — The New Wave of Fortune Telling in Project Management](https://arp3np.medium.com/actionable-agile-the-new-wave-of-fortune-telling-in-project-management-4e6559aaa6f8?source=rss-------8-----------------data_science)
-- [In defense of statistical modeling](https://towardsdatascience.com/in-defense-of-statistical-modeling-e73d889b475d?source=rss-------8-----------------data_science)
-- [Using Machine Learning to Understand League of Legends](https://towardsdatascience.com/the-path-to-a-victorious-league-of-legends-match-40d51a1a089e?source=rss-------8-----------------data_science)
+- [Can We Study Snowpack with Satellites?](https://towardsdatascience.com/can-we-study-snowpack-with-satellites-e83d1f7720aa?source=rss-------8-----------------data_science)
+- [6 Python Projects You Can Finish in a Weekend](https://towardsdatascience.com/6-python-projects-you-can-finish-in-a-weekend-f53552279cc?source=rss-------8-----------------data_science)
+- [3 Awesome Python Libraries That You Should Know About](https://towardsdatascience.com/3-awesome-python-libraries-that-you-should-know-about-e2485e6e1cbe?source=rss-------8-----------------data_science)
+- [How to Remove Multicollinearity Using Python](https://towardsdatascience.com/how-to-remove-multicollinearity-using-python-4da8d9d8abb2?source=rss-------8-----------------data_science)
+- [Pyvis: Visualize Interactive Network Graphs in Python](https://towardsdatascience.com/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01?source=rss-------8-----------------data_science)
+- [Correlation Explained Visually](https://towardsdatascience.com/correlation-explained-visually-4875448e8e56?source=rss-------8-----------------data_science)
+- [Seaborn can do the job, then why Matplotlib?](https://towardsdatascience.com/seaborn-can-do-the-job-then-why-matplotlib-dac8d2d24a5f?source=rss-------8-----------------data_science)
+- [Efficient Cardinality Estimation using HLL with Spark and Postgres](https://towardsdatascience.com/efficient-cardinality-estimation-using-hll-with-spark-and-postgres-dcf1cd66ede9?source=rss-------8-----------------data_science)
+- [10 Best African Language Datasets for Data Science Projects](https://towardsdatascience.com/10-best-african-language-datasets-for-data-science-projects-5d4c5075d8b4?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
