@@ -17,6 +17,9 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 > I am a **Data Specialist** with over 10 years of experience in the fields of biostatistics, data exploration (**Data Mining**) and **Machine Learning**. I am passionate about the whole **data life cycle**, from modelling a database to its use in the field of **Business Intelligence** through the creation of simple and impactful visuals such as **dashboards**. Thus, **exploratory data analysis** has the potential to strengthen a faster and more clever decision-making process.
 
+Click on the logo to go to my website where you can interact with my Chatbot! :smile:
+Alternatively, you can also visit my portfolio [here](https://loic-nazaries.github.io/loic-nazaries-portfolio "Loïc Nazaries’ Data Science Portfolio").
+
 </details>
 
 &nbsp;
@@ -140,7 +143,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ---
 
 <!-- links to social media accounts -->
-[website]: https://loic-nazaries.github.io/loic-nazaries-website "Loïc's Data Science"
+[website]: https://loic-nazaries.github.io/github-pages-website "Loïc's Data Science"
 [email]: mailto:loicnazaries@yahoo.fr "Yahoo! Mail"
 [contact_website]: https://loic-nazaries.github.io/loic-nazaries-website/#contact "Contact Me"
 [linkedin]: https://www.linkedin.com/in/loic-nazaries "LinkedIn"
