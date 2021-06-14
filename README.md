@@ -6,7 +6,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ### My name is Loïc Nazaries :blush:
 
-[<img alt="Loic's logo" align="right" width="300" src="https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/images/logo-dark.png" />][website]
+[<img alt="Loic's logo" align="right" width="200" src="https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/images/logo-dark.png" />][website]
 
 #### I am a **Data Mining** & **Business Intelligence** Specialist
 
@@ -30,7 +30,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 :mailbox: Contact me by email here&nbsp;
 [![email](https://img.shields.io/badge/-Loïc_Nazaries-purple?style=plastic&labelColor=purple&logo=yahoomail&logoColor=white)][email]
 &nbsp;or via my personal website&nbsp;
-[<img alt="Loic's Data Science Portfolio" width="26" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][contact_website]
+[<img alt="Loic's Data Science" width="26" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][contact_website]
 &nbsp;or find me on the 'Usual Suspects'&nbsp;
 [<img alt="LinkedIn" width="26" src="https://i.imgur.com/OQUXwNp.jpeg" />][linkedin]
 &nbsp;
