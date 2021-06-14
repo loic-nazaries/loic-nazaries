@@ -103,15 +103,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Can We Study Snowpack with Satellites?](https://towardsdatascience.com/can-we-study-snowpack-with-satellites-e83d1f7720aa?source=rss-------8-----------------data_science)
-- [6 Python Projects You Can Finish in a Weekend](https://towardsdatascience.com/6-python-projects-you-can-finish-in-a-weekend-f53552279cc?source=rss-------8-----------------data_science)
-- [3 Awesome Python Libraries That You Should Know About](https://towardsdatascience.com/3-awesome-python-libraries-that-you-should-know-about-e2485e6e1cbe?source=rss-------8-----------------data_science)
-- [How to Remove Multicollinearity Using Python](https://towardsdatascience.com/how-to-remove-multicollinearity-using-python-4da8d9d8abb2?source=rss-------8-----------------data_science)
-- [Pyvis: Visualize Interactive Network Graphs in Python](https://towardsdatascience.com/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01?source=rss-------8-----------------data_science)
-- [Correlation Explained Visually](https://towardsdatascience.com/correlation-explained-visually-4875448e8e56?source=rss-------8-----------------data_science)
-- [Seaborn can do the job, then why Matplotlib?](https://towardsdatascience.com/seaborn-can-do-the-job-then-why-matplotlib-dac8d2d24a5f?source=rss-------8-----------------data_science)
-- [Efficient Cardinality Estimation using HLL with Spark and Postgres](https://towardsdatascience.com/efficient-cardinality-estimation-using-hll-with-spark-and-postgres-dcf1cd66ede9?source=rss-------8-----------------data_science)
-- [10 Best African Language Datasets for Data Science Projects](https://towardsdatascience.com/10-best-african-language-datasets-for-data-science-projects-5d4c5075d8b4?source=rss-------8-----------------data_science)
+- [Learn How To Use Spark ML and Spark Streaming](https://towardsdatascience.com/learn-how-to-use-spark-ml-and-spark-streaming-3a731485d052?source=rss-------8-----------------data_science)
+- [Does Dollar Cost Averaging work?](https://towardsdatascience.com/does-dollar-cost-averaging-work-dcb74f293098?source=rss-------8-----------------data_science)
+- [Refinement of Semi-Additive Measures in DAX](https://towardsdatascience.com/refinement-of-semi-additive-measures-in-dax-4e148fa83f56?source=rss-------8-----------------data_science)
+- [Mastering SQL Window Functions](https://towardsdatascience.com/mastering-sql-window-functions-6cd17004dfe0?source=rss-------8-----------------data_science)
+- [2 Tricky SQL Questions You Might Be Asked at Data Scientist Interviews](https://towardsdatascience.com/2-tricky-sql-questions-you-might-be-asked-at-data-scientist-interviews-168f5226c023?source=rss-------8-----------------data_science)
+- [Mathematical background of Lasso and Ridge Regression](https://ganesh-doosa.medium.com/mathematical-background-of-lasso-and-ridge-regression-23b74737c817?source=rss-------8-----------------data_science)
+- [6 Characteristics that Every Aspiring Data Scientist Should Know About](https://towardsdatascience.com/6-characteristics-that-every-aspiring-data-scientist-should-know-about-4c34873bc89?source=rss-------8-----------------data_science)
+- [The Quick Guide To Using Environment Variables in Python](https://towardsdatascience.com/the-quick-guide-to-using-environment-variables-in-python-d4ec9291619e?source=rss-------8-----------------data_science)
+- [Top 10 python tips to make our life easy in Data Analysis](https://kashishrastogi2000.medium.com/top-10-python-tips-to-make-our-life-easy-in-data-analysis-1cdf62d58efd?source=rss-------8-----------------data_science)
+- [Infographics Vs. Business Dashboards](https://adammico.medium.com/infographics-vs-business-dashboards-e004dc523ae6?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
