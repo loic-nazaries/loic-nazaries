@@ -19,6 +19,8 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 </details>
 
+Click on the logo to go to my [**website**](https://loicnazaries.com "Website"). :smile:
+
 &nbsp;
 
 ⚡ Fun Fact #1: In one of my previous life, I was a microbiologist and biostatistician.
@@ -28,14 +30,14 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 &nbsp;
 
 :mailbox: Contact me by email here&nbsp;
-[![email](https://img.shields.io/badge/-loicnazaries.datascience-red?style=plastic&labelColor=red&logo=gmail&logoColor=white)][email]
-&nbsp;or via my personal website&nbsp;
-[<img alt="Loïc's Data Science" width="20" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][contact_website]
-&nbsp; where you can interact with my <u>**Chatbot**</u>. And of course, you may find me on the 'Usual Suspects', that are &nbsp;
-[<img alt="LinkedIn" width="20" src="https://i.imgur.com/OQUXwNp.jpeg" />][linkedin]
-&nbsp;
-[<img alt="GitHub" width="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-&nbsp;
+[![email](https://img.shields.io/badge/-loicnazaries.datascience-red?style=plastic&labelColor=red&logo=gmail&logoColor=white)][email]&nbsp;
+or via my personal website&nbsp;
+[<img alt="Loïc's Data Science" width="20" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][contact_website]&nbsp;
+where you can interact with my <u>**Chatbot**</u>!!
+Alternatively, you can also visit my portfolio [**here**](https://loic-nazaries.github.io/loic-nazaries-portfolio "Loïc Nazaries’ Data Science Portfolio").
+And of course, you may find me on the 'Usual Suspects', that are &nbsp;
+[<img alt="LinkedIn" width="20" src="https://i.imgur.com/OQUXwNp.jpeg" />][linkedin]&nbsp;
+[<img alt="GitHub" width="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]&nbsp;
 [<img alt="GitHub Gist" width="60" src="https://img.shields.io/badge/-Gist-black?style=plastic&labelColor=black&logo=github&logoColor=white" />][github_gist]
 
 ---
@@ -103,16 +105,16 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Saving XML content to a pandas dataframe using xmltodict](https://python.plainenglish.io/saving-xml-content-to-a-pandas-dataframe-using-xmltodict-b6fab32a5100?source=rss-------8-----------------data_science)
-- [NeuralProphet For Time-Series Forecasting: Predicting Stock Prices Using Facebook’s New Model](https://seralouk.medium.com/neuralprophet-for-time-series-forecasting-predicting-stock-prices-using-facebooks-new-model-a88ca146261c?source=rss-------8-----------------data_science)
-- [Support Vector Machines in Python](https://linguisticmaz.medium.com/support-vector-machines-in-python-7f4352026e88?source=rss-------8-----------------data_science)
-- [Let’s talk about Bar Charts](https://priyankadobhal.medium.com/lets-talk-about-bar-charts-f9a394d8052e?source=rss-------8-----------------data_science)
-- [Coffee Shops Analysis in Manhattan — Segmenting and Clustering Neighborhoods](https://lopamudra-nayakcda.medium.com/coffee-shops-analysis-in-manhattan-segmenting-and-clustering-neighborhoods-dba71fee3429?source=rss-------8-----------------data_science)
-- [20 Necessary Requirements of a Perfect Laptop for Data Science and Machine Learning Tasks](https://towardsdatascience.com/20-necessary-requirements-of-a-perfect-laptop-for-data-science-and-machine-learning-tasks-7d0c59c3cb63?source=rss-------8-----------------data_science)
-- [Don’t Crack Your Egg Before You Boil It!…and Other Data Thoughts](https://josephburton06.medium.com/dont-crack-your-egg-before-you-boil-it-and-other-data-thoughts-a7fc8dd3b520?source=rss-------8-----------------data_science)
-- [Feature Selection Using Filter Method: Python Implementation from Scratch](https://garg-shelvi.medium.com/feature-selection-using-filter-method-python-implementation-from-scratch-375d86389003?source=rss-------8-----------------data_science)
-- [Mumbai house Rent price: Analysis](https://anmolcrazy2.medium.com/mumbai-house-rent-price-analysis-c8813b0d9e2f?source=rss-------8-----------------data_science)
-- [Looker vs Tableau vs Knowi — Battle of the B.I. Tools](https://medium.com/geekculture/looker-vs-tableau-vs-knowi-battle-of-the-b-i-tools-76b981da52ef?source=rss-------8-----------------data_science)
+- [Learn How To Use Spark ML and Spark Streaming](https://towardsdatascience.com/learn-how-to-use-spark-ml-and-spark-streaming-3a731485d052?source=rss-------8-----------------data_science)
+- [Does Dollar Cost Averaging work?](https://towardsdatascience.com/does-dollar-cost-averaging-work-dcb74f293098?source=rss-------8-----------------data_science)
+- [Refinement of Semi-Additive Measures in DAX](https://towardsdatascience.com/refinement-of-semi-additive-measures-in-dax-4e148fa83f56?source=rss-------8-----------------data_science)
+- [Mastering SQL Window Functions](https://towardsdatascience.com/mastering-sql-window-functions-6cd17004dfe0?source=rss-------8-----------------data_science)
+- [2 Tricky SQL Questions You Might Be Asked at Data Scientist Interviews](https://towardsdatascience.com/2-tricky-sql-questions-you-might-be-asked-at-data-scientist-interviews-168f5226c023?source=rss-------8-----------------data_science)
+- [Mathematical background of Lasso and Ridge Regression](https://ganesh-doosa.medium.com/mathematical-background-of-lasso-and-ridge-regression-23b74737c817?source=rss-------8-----------------data_science)
+- [6 Characteristics that Every Aspiring Data Scientist Should Know About](https://towardsdatascience.com/6-characteristics-that-every-aspiring-data-scientist-should-know-about-4c34873bc89?source=rss-------8-----------------data_science)
+- [The Quick Guide To Using Environment Variables in Python](https://towardsdatascience.com/the-quick-guide-to-using-environment-variables-in-python-d4ec9291619e?source=rss-------8-----------------data_science)
+- [Top 10 python tips to make our life easy in Data Analysis](https://kashishrastogi2000.medium.com/top-10-python-tips-to-make-our-life-easy-in-data-analysis-1cdf62d58efd?source=rss-------8-----------------data_science)
+- [Infographics Vs. Business Dashboards](https://adammico.medium.com/infographics-vs-business-dashboards-e004dc523ae6?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
@@ -120,11 +122,11 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [2 Tricky SQL Questions You Might Be Asked at Data Scientist Interviews](https://towardsdatascience.com/2-tricky-sql-questions-you-might-be-asked-at-data-scientist-interviews-168f5226c023?source=rss-2cf6b549448------2)
+- [How My Learning Path Changed After Becoming a Data Scientist](https://towardsdatascience.com/how-my-learning-path-changed-after-becoming-a-data-scientist-13afba909aff?source=rss-2cf6b549448------2)
+- [10 Examples to Master Distribution Plots with Python Seaborn](https://towardsdatascience.com/10-examples-to-master-distribution-plots-with-python-seaborn-4ea2ceea906a?source=rss-2cf6b549448------2)
+- [5 Examples to Explain SQL Versions of Pandas Operations](https://towardsdatascience.com/5-examples-to-explain-sql-versions-of-pandas-operations-113f7afde249?source=rss-2cf6b549448------2)
 - [3 Must-Know SQL Functions For Efficient Data Analysis](https://towardsdatascience.com/3-must-know-sql-functions-for-efficient-data-analysis-b7e4ee820faf?source=rss-2cf6b549448------2)
-- [3 Examples That Show The Unlimited Flexibility of PySpark](https://towardsdatascience.com/3-examples-that-show-the-unlimited-flexibility-of-pyspark-319ab22d5a?source=rss-2cf6b549448------2)
-- [3 Reasons Why Data Scientists Should Learn Statistics Well](https://towardsdatascience.com/3-reasons-why-data-scientists-should-learn-statistics-well-90e80ae6c68f?source=rss-2cf6b549448------2)
-- [3 Methods to Reduce Overfitting of Machine Learning Models](https://towardsdatascience.com/3-methods-to-reduce-overfitting-of-machine-learning-models-4a7e2c1da9ef?source=rss-2cf6b549448------2)
-- [4 Tricks for Making Python Pandas More Efficient](https://towardsdatascience.com/4-tricks-for-making-python-pandas-more-efficient-20237a045f09?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
