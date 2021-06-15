@@ -6,7 +6,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ### My name is Loïc Nazaries :blush:
 
-[<img alt="Loic's logo" align="right" width="300" src="https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/images/logo-dark.png" />][website]
+[<img alt="Loïc's Data Science Logo" align="right" width="300" src="https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/images/logo-dark.png" />][website]
 
 #### I am a **Data Mining** & **Business Intelligence** Specialist
 
@@ -28,15 +28,15 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 &nbsp;
 
 :mailbox: Contact me by email here&nbsp;
-[![email](https://img.shields.io/badge/-Loïc_Nazaries-purple?style=plastic&labelColor=purple&logo=yahoomail&logoColor=white)][email]
+[![email](https://img.shields.io/badge/-loicnazaries.datascience-red?style=plastic&labelColor=red&logo=gmail&logoColor=white)][email]
 &nbsp;or via my personal website&nbsp;
-[<img alt="Loic's Data Science Portfolio" width="26" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][contact_website]
-&nbsp;or find me on the 'Usual Suspects'&nbsp;
-[<img alt="LinkedIn" width="26" src="https://i.imgur.com/OQUXwNp.jpeg" />][linkedin]
+[<img alt="Loïc's Data Science" width="20" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][contact_website]
+&nbsp; where you can interact with my <u>**Chatbot**</u>. And of course, you may find me on the 'Usual Suspects', that are &nbsp;
+[<img alt="LinkedIn" width="20" src="https://i.imgur.com/OQUXwNp.jpeg" />][linkedin]
 &nbsp;
-[<img alt="GitHub" width="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img alt="GitHub" width="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 &nbsp;
-[![GitHub Gist Badge](https://img.shields.io/badge/-Gist-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white)][github_gist]
+[<img alt="GitHub Gist" width="60" src="https://img.shields.io/badge/-Gist-black?style=plastic&labelColor=black&logo=github&logoColor=white" />][github_gist]
 
 ---
 
@@ -140,9 +140,9 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 ---
 
 <!-- links to social media accounts -->
-[website]: https://loic-nazaries.github.io/loic-nazaries-website "Loic's Data Science Portfolio"
-[email]: mailto:loicnazaries@yahoo.fr "Yahoo! Mail"
-[contact_website]: https://loic-nazaries.github.io/loic-nazaries-website/#contact "Contact Me"
+[website]: http://www.loicnazaries.com "Loïc's Data Science"
+[email]: mailto:loicnazaries.datascience@gmail.com "Google Mail"
+[contact_website]: http://www.loicnazaries.com/#contact "Contact Me"
 [linkedin]: https://www.linkedin.com/in/loic-nazaries "LinkedIn"
 [github]: https://github.com/loic-nazaries "GitHub"
 [github_gist]: https://gist.github.com/loic-nazaries "GitHub Gist"
