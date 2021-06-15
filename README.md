@@ -105,16 +105,14 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Learn How To Use Spark ML and Spark Streaming](https://towardsdatascience.com/learn-how-to-use-spark-ml-and-spark-streaming-3a731485d052?source=rss-------8-----------------data_science)
-- [Does Dollar Cost Averaging work?](https://towardsdatascience.com/does-dollar-cost-averaging-work-dcb74f293098?source=rss-------8-----------------data_science)
-- [Refinement of Semi-Additive Measures in DAX](https://towardsdatascience.com/refinement-of-semi-additive-measures-in-dax-4e148fa83f56?source=rss-------8-----------------data_science)
-- [Mastering SQL Window Functions](https://towardsdatascience.com/mastering-sql-window-functions-6cd17004dfe0?source=rss-------8-----------------data_science)
-- [2 Tricky SQL Questions You Might Be Asked at Data Scientist Interviews](https://towardsdatascience.com/2-tricky-sql-questions-you-might-be-asked-at-data-scientist-interviews-168f5226c023?source=rss-------8-----------------data_science)
-- [Mathematical background of Lasso and Ridge Regression](https://ganesh-doosa.medium.com/mathematical-background-of-lasso-and-ridge-regression-23b74737c817?source=rss-------8-----------------data_science)
-- [6 Characteristics that Every Aspiring Data Scientist Should Know About](https://towardsdatascience.com/6-characteristics-that-every-aspiring-data-scientist-should-know-about-4c34873bc89?source=rss-------8-----------------data_science)
-- [The Quick Guide To Using Environment Variables in Python](https://towardsdatascience.com/the-quick-guide-to-using-environment-variables-in-python-d4ec9291619e?source=rss-------8-----------------data_science)
-- [Top 10 python tips to make our life easy in Data Analysis](https://kashishrastogi2000.medium.com/top-10-python-tips-to-make-our-life-easy-in-data-analysis-1cdf62d58efd?source=rss-------8-----------------data_science)
-- [Infographics Vs. Business Dashboards](https://adammico.medium.com/infographics-vs-business-dashboards-e004dc523ae6?source=rss-------8-----------------data_science)
+- [Data Scientists Without Data Engineering Skills Will Face The Harsh Truth](https://towardsdatascience.com/data-scientists-without-data-engineering-skills-will-face-the-harsh-truth-ff482a223ddc?source=rss-------8-----------------data_science)
+- [What No One Is Thinking — AGI Will Take Everyone By Surprise](https://towardsdatascience.com/what-no-one-is-thinking-agi-will-take-everyone-by-surprise-a76903474c79?source=rss-------8-----------------data_science)
+- [Overview of Recommender Systems And Implementations](https://burakdogrul.medium.com/overview-of-recommender-systems-and-implementations-cae13088369?source=rss-------8-----------------data_science)
+- [Basic Concepts needed for Data Science work — Part 2](https://medium.com/geekculture/basic-concepts-needed-for-data-science-work-part-2-6a9ebcdf27a4?source=rss-------8-----------------data_science)
+- [No memory can last forever](https://medium.com/geekculture/no-memory-can-last-forever-5d703a0a1431?source=rss-------8-----------------data_science)
+- [A Short Discussion on Bias in Machine Learning](https://medium.com/daitan-tech/a-short-discussion-on-bias-in-machine-learning-5bb2066afabc?source=rss-------8-----------------data_science)
+- [Playing with Logistic Regression](https://acumurcu.medium.com/playing-with-logistic-regression-edcfc953c174?source=rss-------8-----------------data_science)
+- [From Liberal Arts to NLP: A Confession of A Kaggle BIPOC Grantee](https://nicolewarinn.medium.com/from-liberal-arts-to-nlp-a-confession-of-a-kaggle-bipoc-grantee-5bb876ee641a?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
@@ -122,11 +120,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [Data Scientists Without Data Engineering Skills Will Face The Harsh Truth](https://towardsdatascience.com/data-scientists-without-data-engineering-skills-will-face-the-harsh-truth-ff482a223ddc?source=rss-2cf6b549448------2)
 - [2 Tricky SQL Questions You Might Be Asked at Data Scientist Interviews](https://towardsdatascience.com/2-tricky-sql-questions-you-might-be-asked-at-data-scientist-interviews-168f5226c023?source=rss-2cf6b549448------2)
 - [How My Learning Path Changed After Becoming a Data Scientist](https://towardsdatascience.com/how-my-learning-path-changed-after-becoming-a-data-scientist-13afba909aff?source=rss-2cf6b549448------2)
 - [10 Examples to Master Distribution Plots with Python Seaborn](https://towardsdatascience.com/10-examples-to-master-distribution-plots-with-python-seaborn-4ea2ceea906a?source=rss-2cf6b549448------2)
 - [5 Examples to Explain SQL Versions of Pandas Operations](https://towardsdatascience.com/5-examples-to-explain-sql-versions-of-pandas-operations-113f7afde249?source=rss-2cf6b549448------2)
-- [3 Must-Know SQL Functions For Efficient Data Analysis](https://towardsdatascience.com/3-must-know-sql-functions-for-efficient-data-analysis-b7e4ee820faf?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
