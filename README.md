@@ -6,7 +6,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 ### My name is Loïc Nazaries :blush:
 
-[<img alt="Loïc's Data Science Logo" align="right" width="300" src="https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/images/logo-dark.png" />][website]
+[<img alt="Loïc's Data Science Logo" align="right" width="200" src="https://raw.githubusercontent.com/loic-nazaries/loic-nazaries/main/images/logo-dark.png" />][website]
 
 #### I am a **Data Mining** & **Business Intelligence** Specialist
 
