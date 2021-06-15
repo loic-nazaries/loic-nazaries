@@ -19,7 +19,7 @@ Photo by <a href="https://unsplash.com/@tarafuco?utm_source=unsplash&utm_medium=
 
 </details>
 
-Click on the logo to go to my [**website**](https://loicnazaries.com "Website"). :smile:
+Click the logo to the right to go to my [**website**](https://loicnazaries.com "Website"). :smile:
 
 &nbsp;
 
