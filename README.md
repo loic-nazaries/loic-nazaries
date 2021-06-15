@@ -140,9 +140,9 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ---
 
 <!-- links to social media accounts -->
-[website]: http://www.loicnazaries.com "Loïc's Data Science"
+[website]: https://www.loicnazaries.com "Loïc's Data Science"
 [email]: mailto:loicnazaries.datascience@gmail.com "Google Mail"
-[contact_website]: http://www.loicnazaries.com/#contact "Contact Me"
+[contact_website]: https://www.loicnazaries.com/#contact "Contact Me"
 [linkedin]: https://www.linkedin.com/in/loic-nazaries "LinkedIn"
 [github]: https://github.com/loic-nazaries "GitHub"
 [github_gist]: https://gist.github.com/loic-nazaries "GitHub Gist"
