@@ -105,14 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Scientists Without Data Engineering Skills Will Face The Harsh Truth](https://towardsdatascience.com/data-scientists-without-data-engineering-skills-will-face-the-harsh-truth-ff482a223ddc?source=rss-------8-----------------data_science)
-- [What No One Is Thinking — AGI Will Take Everyone By Surprise](https://towardsdatascience.com/what-no-one-is-thinking-agi-will-take-everyone-by-surprise-a76903474c79?source=rss-------8-----------------data_science)
-- [Overview of Recommender Systems And Implementations](https://burakdogrul.medium.com/overview-of-recommender-systems-and-implementations-cae13088369?source=rss-------8-----------------data_science)
-- [Basic Concepts needed for Data Science work — Part 2](https://medium.com/geekculture/basic-concepts-needed-for-data-science-work-part-2-6a9ebcdf27a4?source=rss-------8-----------------data_science)
-- [No memory can last forever](https://medium.com/geekculture/no-memory-can-last-forever-5d703a0a1431?source=rss-------8-----------------data_science)
-- [A Short Discussion on Bias in Machine Learning](https://medium.com/daitan-tech/a-short-discussion-on-bias-in-machine-learning-5bb2066afabc?source=rss-------8-----------------data_science)
-- [Playing with Logistic Regression](https://acumurcu.medium.com/playing-with-logistic-regression-edcfc953c174?source=rss-------8-----------------data_science)
-- [From Liberal Arts to NLP: A Confession of A Kaggle BIPOC Grantee](https://nicolewarinn.medium.com/from-liberal-arts-to-nlp-a-confession-of-a-kaggle-bipoc-grantee-5bb876ee641a?source=rss-------8-----------------data_science)
+- [Prepare Behavioral Questions for Data Science Interviews](https://towardsdatascience.com/prepare-behavioral-questions-for-data-science-interviews-96e97f13be15?source=rss-------8-----------------data_science)
+- [Should Machine Learning Experts respond to Climate Change call to action?](https://towardsdatascience.com/should-machine-learning-experts-respond-to-climate-change-call-to-action-1ffeb4ba008b?source=rss-------8-----------------data_science)
+- [Top YouTube Channels for Data Interview Prep](https://towardsdatascience.com/top-youtube-channels-for-data-interview-prep-b9485f297f30?source=rss-------8-----------------data_science)
+- [How to Create Time Features for Data Science Models](https://towardsdatascience.com/how-to-create-time-features-for-data-science-models-22b902df5115?source=rss-------8-----------------data_science)
+- [Binarized Neural Networks: An Overview](https://towardsdatascience.com/binarized-neural-networks-an-overview-d065dc3c94ca?source=rss-------8-----------------data_science)
+- [Must-Know 4 Quant Finance Concepts For Data Scientists](https://medium.com/fintechexplained/must-know-4-quant-finance-concepts-for-data-scientists-98da41b38b50?source=rss-------8-----------------data_science)
+- [Exploratory Data Analysis : A roadmap for cleaning](https://yashvahi1.medium.com/exploratory-data-analysis-a-roadmap-for-cleaning-3e01a0d694?source=rss-------8-----------------data_science)
+- [P-Value: Keep Calm Before You Stress](https://medium.com/@acoustic_bandage/p-value-keep-calm-before-you-stress-94e5cd8023ba?source=rss-------8-----------------data_science)
+- [Apple Mail Now Prevents Email Tracking In iOS 15](https://medium.com/macoclock/apple-mail-now-prevents-email-tracking-in-ios-15-9f4f124011e4?source=rss-------8-----------------data_science)
+- [How close is GPT-3 to Artificial General Intelligence?](https://towardsdatascience.com/how-close-is-gpt-3-to-artificial-general-intelligence-cb057a8c503d?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
