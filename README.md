@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Prepare Behavioral Questions for Data Science Interviews](https://towardsdatascience.com/prepare-behavioral-questions-for-data-science-interviews-96e97f13be15?source=rss-------8-----------------data_science)
-- [Should Machine Learning Experts respond to Climate Change call to action?](https://towardsdatascience.com/should-machine-learning-experts-respond-to-climate-change-call-to-action-1ffeb4ba008b?source=rss-------8-----------------data_science)
-- [Top YouTube Channels for Data Interview Prep](https://towardsdatascience.com/top-youtube-channels-for-data-interview-prep-b9485f297f30?source=rss-------8-----------------data_science)
-- [How to Create Time Features for Data Science Models](https://towardsdatascience.com/how-to-create-time-features-for-data-science-models-22b902df5115?source=rss-------8-----------------data_science)
-- [Binarized Neural Networks: An Overview](https://towardsdatascience.com/binarized-neural-networks-an-overview-d065dc3c94ca?source=rss-------8-----------------data_science)
-- [Must-Know 4 Quant Finance Concepts For Data Scientists](https://medium.com/fintechexplained/must-know-4-quant-finance-concepts-for-data-scientists-98da41b38b50?source=rss-------8-----------------data_science)
-- [Exploratory Data Analysis : A roadmap for cleaning](https://yashvahi1.medium.com/exploratory-data-analysis-a-roadmap-for-cleaning-3e01a0d694?source=rss-------8-----------------data_science)
-- [P-Value: Keep Calm Before You Stress](https://medium.com/@acoustic_bandage/p-value-keep-calm-before-you-stress-94e5cd8023ba?source=rss-------8-----------------data_science)
-- [Apple Mail Now Prevents Email Tracking In iOS 15](https://medium.com/macoclock/apple-mail-now-prevents-email-tracking-in-ios-15-9f4f124011e4?source=rss-------8-----------------data_science)
-- [How close is GPT-3 to Artificial General Intelligence?](https://towardsdatascience.com/how-close-is-gpt-3-to-artificial-general-intelligence-cb057a8c503d?source=rss-------8-----------------data_science)
+- [Machine Learning vs Deep Learning](https://towardsdatascience.com/machine-learning-vs-deep-learning-6b206bb5504?source=rss-------8-----------------data_science)
+- [Contextualizing Metrics with Contribution](https://blog.falkon.ai/contextualizing-metrics-with-contribution-8e4e0087901?source=rss-------8-----------------data_science)
+- [Pattern recognition vs pattern succession: let’s talk about model bias in venture capital](https://medium.com/vcdium/pattern-recognition-vs-pattern-succession-lets-talk-about-model-bias-in-venture-capital-46cbd4fd8072?source=rss-------8-----------------data_science)
+- [All You Need to Know About Pandas Cut and Qcut Functions](https://towardsdatascience.com/all-you-need-to-know-about-pandas-cut-and-qcut-functions-4a0c1001c38b?source=rss-------8-----------------data_science)
+- [Do Covid-19 vaccines really flatten the curve?](https://medium.com/geekculture/do-covid-19-vaccines-really-flatten-the-curve-cb27cd699d14?source=rss-------8-----------------data_science)
+- [A/B Tests for Lyft Hardware](https://eng.lyft.com/a-b-tests-for-lyft-hardware-570330b488d4?source=rss-------8-----------------data_science)
+- [Practical Evaluation Metrics for a Semantic Search Bot](https://towardsdatascience.com/practical-evaluation-metrics-for-a-semantic-search-bot-334f6c2f9c7e?source=rss-------8-----------------data_science)
+- [How a Temporary Position Taught Me Data Entry is Doomed to be Replaced by ETL](https://hainesdata.medium.com/how-a-temporary-position-taught-me-data-entry-is-doomed-to-be-replaced-by-etl-f33ce5a8833e?source=rss-------8-----------------data_science)
+- [Why Entropy used for making decisions in Decision Tree??](https://desikpolamarasetty.medium.com/why-entropy-used-for-making-decisions-in-decision-tree-4501f06af812?source=rss-------8-----------------data_science)
+- [3 data-driven ways to design better customer experiences](https://uxdesign.cc/3-data-driven-ways-to-design-better-customer-experiences-71289aa1a28?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
