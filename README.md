@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Machine Learning vs Deep Learning](https://towardsdatascience.com/machine-learning-vs-deep-learning-6b206bb5504?source=rss-------8-----------------data_science)
-- [Contextualizing Metrics with Contribution](https://blog.falkon.ai/contextualizing-metrics-with-contribution-8e4e0087901?source=rss-------8-----------------data_science)
-- [Pattern recognition vs pattern succession: let’s talk about model bias in venture capital](https://medium.com/vcdium/pattern-recognition-vs-pattern-succession-lets-talk-about-model-bias-in-venture-capital-46cbd4fd8072?source=rss-------8-----------------data_science)
-- [All You Need to Know About Pandas Cut and Qcut Functions](https://towardsdatascience.com/all-you-need-to-know-about-pandas-cut-and-qcut-functions-4a0c1001c38b?source=rss-------8-----------------data_science)
-- [Do Covid-19 vaccines really flatten the curve?](https://medium.com/geekculture/do-covid-19-vaccines-really-flatten-the-curve-cb27cd699d14?source=rss-------8-----------------data_science)
-- [A/B Tests for Lyft Hardware](https://eng.lyft.com/a-b-tests-for-lyft-hardware-570330b488d4?source=rss-------8-----------------data_science)
-- [Practical Evaluation Metrics for a Semantic Search Bot](https://towardsdatascience.com/practical-evaluation-metrics-for-a-semantic-search-bot-334f6c2f9c7e?source=rss-------8-----------------data_science)
-- [How a Temporary Position Taught Me Data Entry is Doomed to be Replaced by ETL](https://hainesdata.medium.com/how-a-temporary-position-taught-me-data-entry-is-doomed-to-be-replaced-by-etl-f33ce5a8833e?source=rss-------8-----------------data_science)
-- [Why Entropy used for making decisions in Decision Tree??](https://desikpolamarasetty.medium.com/why-entropy-used-for-making-decisions-in-decision-tree-4501f06af812?source=rss-------8-----------------data_science)
-- [3 data-driven ways to design better customer experiences](https://uxdesign.cc/3-data-driven-ways-to-design-better-customer-experiences-71289aa1a28?source=rss-------8-----------------data_science)
+- [R packages that Google uses!](https://preettheman.medium.com/r-packages-that-google-uses-787234c523ae?source=rss-------8-----------------data_science)
+- [A data scientist has a look at Japan’s Coronavirus analytics](https://medium.com/mlearning-ai/a-data-scientist-has-a-look-at-japans-coronavirus-analytics-4f3a1dbfd5e8?source=rss-------8-----------------data_science)
+- [7 Common File System Operations You Can Do With Python](https://towardsdatascience.com/7-common-file-system-operations-you-can-do-with-python-e4670c0d92f2?source=rss-------8-----------------data_science)
+- [Generate Simulated Dataset for Linear Model in R](https://towardsdatascience.com/generate-simulated-dataset-for-linear-model-in-r-469a5e2f4c2e?source=rss-------8-----------------data_science)
+- [Crowds, Super Crunchers, and Predictions](https://toddmoses.medium.com/crowds-super-crunchers-and-predictions-e3503a610de2?source=rss-------8-----------------data_science)
+- [How to delete your saved workspace in R](https://towardsdatascience.com/how-to-delete-your-saved-workspace-in-r-699c45c3304a?source=rss-------8-----------------data_science)
+- [Data Acquisition: All High Schools in Belgium](https://mateuszwiza.medium.com/data-acquisition-all-high-schools-in-belgium-568be85504b3?source=rss-------8-----------------data_science)
+- [Experts Debunk (Even More!) Data Science Myths](https://towardsdatascience.com/experts-debunk-even-more-data-science-myths-7a6b8c32f717?source=rss-------8-----------------data_science)
+- [Transfer Learning with VGG16 and Keras](https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4?source=rss-------8-----------------data_science)
+- [GDP Life Expentancy Exploration](https://erkike.medium.com/gdp-life-expentancy-exploration-67bd7b639db7?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
