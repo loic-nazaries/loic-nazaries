@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [R packages that Google uses!](https://preettheman.medium.com/r-packages-that-google-uses-787234c523ae?source=rss-------8-----------------data_science)
-- [A data scientist has a look at Japan’s Coronavirus analytics](https://medium.com/mlearning-ai/a-data-scientist-has-a-look-at-japans-coronavirus-analytics-4f3a1dbfd5e8?source=rss-------8-----------------data_science)
-- [7 Common File System Operations You Can Do With Python](https://towardsdatascience.com/7-common-file-system-operations-you-can-do-with-python-e4670c0d92f2?source=rss-------8-----------------data_science)
-- [Generate Simulated Dataset for Linear Model in R](https://towardsdatascience.com/generate-simulated-dataset-for-linear-model-in-r-469a5e2f4c2e?source=rss-------8-----------------data_science)
-- [Crowds, Super Crunchers, and Predictions](https://toddmoses.medium.com/crowds-super-crunchers-and-predictions-e3503a610de2?source=rss-------8-----------------data_science)
-- [How to delete your saved workspace in R](https://towardsdatascience.com/how-to-delete-your-saved-workspace-in-r-699c45c3304a?source=rss-------8-----------------data_science)
-- [Data Acquisition: All High Schools in Belgium](https://mateuszwiza.medium.com/data-acquisition-all-high-schools-in-belgium-568be85504b3?source=rss-------8-----------------data_science)
-- [Experts Debunk (Even More!) Data Science Myths](https://towardsdatascience.com/experts-debunk-even-more-data-science-myths-7a6b8c32f717?source=rss-------8-----------------data_science)
-- [Transfer Learning with VGG16 and Keras](https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4?source=rss-------8-----------------data_science)
-- [GDP Life Expentancy Exploration](https://erkike.medium.com/gdp-life-expentancy-exploration-67bd7b639db7?source=rss-------8-----------------data_science)
+- [3 Amazing Low-Code Machine Learning Libraries That You Should Know About](https://towardsdatascience.com/3-amazing-low-code-machine-learning-libraries-that-you-should-know-about-a66895c0cc08?source=rss-------8-----------------data_science)
+- [Everything you need to know about iterating lists in Python](https://towardsdatascience.com/everything-you-need-to-know-about-iterating-lists-in-python-78009ff593d5?source=rss-------8-----------------data_science)
+- [One way to combine data science and language learning](https://towardsdatascience.com/one-way-to-combine-data-science-and-language-learning-d0ccc455ac6b?source=rss-------8-----------------data_science)
+- [Building An NHL Game Prediction Model, Part 1](https://gsstats.medium.com/building-an-nhl-game-prediction-model-part-1-1ee7596ff91b?source=rss-------8-----------------data_science)
+- [Data Science is F*cking Hard — Stop Complaining](https://zmsmith22.medium.com/data-science-is-f-cking-hard-stop-complaining-40eeb39ef4d1?source=rss-------8-----------------data_science)
+- [Automatic Video Editing Using Python](https://kunalbharadkar.medium.com/automatic-video-editing-using-python-b964395ab026?source=rss-------8-----------------data_science)
+- [A comparison of cosine similarity vs Euclidean distance in ALS recommendation engine](https://z-cheng.medium.com/a-comparison-of-cosine-similarity-vs-euclidean-distance-in-als-recommendation-engine-51898f9025e7?source=rss-------8-----------------data_science)
+- [Time Series Forecasting 101](https://medium.com/analytics-vidhya/time-series-forecasting-101-9353f9e30c20?source=rss-------8-----------------data_science)
+- [Further analysis on movie recommendation result: what happened to my ALS model?](https://z-cheng.medium.com/further-analysis-on-movie-recommendation-result-what-happened-to-my-als-model-30bc234081c4?source=rss-------8-----------------data_science)
+- [Galerkin Transformer: A One-Shot Experiment at NeurIPS 2021](https://towardsdatascience.com/galerkin-transformer-a-one-shot-experiment-at-neurips-2021-96efcbaefd3e?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
