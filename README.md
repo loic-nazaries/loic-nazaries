@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [3 Amazing Low-Code Machine Learning Libraries That You Should Know About](https://towardsdatascience.com/3-amazing-low-code-machine-learning-libraries-that-you-should-know-about-a66895c0cc08?source=rss-------8-----------------data_science)
-- [Everything you need to know about iterating lists in Python](https://towardsdatascience.com/everything-you-need-to-know-about-iterating-lists-in-python-78009ff593d5?source=rss-------8-----------------data_science)
-- [One way to combine data science and language learning](https://towardsdatascience.com/one-way-to-combine-data-science-and-language-learning-d0ccc455ac6b?source=rss-------8-----------------data_science)
-- [Building An NHL Game Prediction Model, Part 1](https://gsstats.medium.com/building-an-nhl-game-prediction-model-part-1-1ee7596ff91b?source=rss-------8-----------------data_science)
-- [Data Science is F*cking Hard — Stop Complaining](https://zmsmith22.medium.com/data-science-is-f-cking-hard-stop-complaining-40eeb39ef4d1?source=rss-------8-----------------data_science)
-- [Automatic Video Editing Using Python](https://kunalbharadkar.medium.com/automatic-video-editing-using-python-b964395ab026?source=rss-------8-----------------data_science)
-- [A comparison of cosine similarity vs Euclidean distance in ALS recommendation engine](https://z-cheng.medium.com/a-comparison-of-cosine-similarity-vs-euclidean-distance-in-als-recommendation-engine-51898f9025e7?source=rss-------8-----------------data_science)
-- [Time Series Forecasting 101](https://medium.com/analytics-vidhya/time-series-forecasting-101-9353f9e30c20?source=rss-------8-----------------data_science)
-- [Further analysis on movie recommendation result: what happened to my ALS model?](https://z-cheng.medium.com/further-analysis-on-movie-recommendation-result-what-happened-to-my-als-model-30bc234081c4?source=rss-------8-----------------data_science)
-- [Galerkin Transformer: A One-Shot Experiment at NeurIPS 2021](https://towardsdatascience.com/galerkin-transformer-a-one-shot-experiment-at-neurips-2021-96efcbaefd3e?source=rss-------8-----------------data_science)
+- [7 Data Wrangling Python Functions in under 5 Minutes](https://towardsdatascience.com/7-data-wrangling-python-functions-in-under-5-minutes-a8d9ec7cf34b?source=rss-------8-----------------data_science)
+- [Export Datastores from multiple projects to BigQuery](https://towardsdatascience.com/export-datastores-from-multiple-projects-to-bigquery-3da9c92a4b8f?source=rss-------8-----------------data_science)
+- [How to Find Best Locations for your Restaurants with Python](https://towardsdatascience.com/how-to-find-best-locations-for-your-restaurants-with-python-b2fadc91c4dd?source=rss-------8-----------------data_science)
+- [Building Data+AI Products](https://modern-cdo.medium.com/building-data-ai-products-dff8c83d4e21?source=rss-------8-----------------data_science)
+- [A Blueprint for Time Series Forecasting](https://towardsdatascience.com/a-blueprint-for-time-series-9f865609bfa2?source=rss-------8-----------------data_science)
+- [7 Effective Tips for Studying Data Science](https://towardsdatascience.com/7-effective-tips-for-studying-data-science-f7adbc1fbf6?source=rss-------8-----------------data_science)
+- [Structured thinking for story-telling with advanced EDA](https://towardsdatascience.com/structured-thinking-for-story-telling-with-advanced-eda-77c14853a525?source=rss-------8-----------------data_science)
+- [MLOps 101: Aiming For The Convergence Between AI And DevOps](https://towardsdatascience.com/mlops-101-aiming-for-the-convergence-between-ai-and-devops-598685e4f76e?source=rss-------8-----------------data_science)
+- [Google Data Analytics Professional Certificate Review](https://sahar-tj.medium.com/google-data-analytics-professional-certificate-review-d46011e06134?source=rss-------8-----------------data_science)
+- [How to make side income with data science](https://preettheman.medium.com/how-to-make-side-income-with-data-science-b05e8d1d1c5c?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
