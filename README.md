@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [7 Data Wrangling Python Functions in under 5 Minutes](https://towardsdatascience.com/7-data-wrangling-python-functions-in-under-5-minutes-a8d9ec7cf34b?source=rss-------8-----------------data_science)
-- [Export Datastores from multiple projects to BigQuery](https://towardsdatascience.com/export-datastores-from-multiple-projects-to-bigquery-3da9c92a4b8f?source=rss-------8-----------------data_science)
-- [How to Find Best Locations for your Restaurants with Python](https://towardsdatascience.com/how-to-find-best-locations-for-your-restaurants-with-python-b2fadc91c4dd?source=rss-------8-----------------data_science)
-- [Building Data+AI Products](https://modern-cdo.medium.com/building-data-ai-products-dff8c83d4e21?source=rss-------8-----------------data_science)
-- [A Blueprint for Time Series Forecasting](https://towardsdatascience.com/a-blueprint-for-time-series-9f865609bfa2?source=rss-------8-----------------data_science)
-- [7 Effective Tips for Studying Data Science](https://towardsdatascience.com/7-effective-tips-for-studying-data-science-f7adbc1fbf6?source=rss-------8-----------------data_science)
-- [Structured thinking for story-telling with advanced EDA](https://towardsdatascience.com/structured-thinking-for-story-telling-with-advanced-eda-77c14853a525?source=rss-------8-----------------data_science)
-- [MLOps 101: Aiming For The Convergence Between AI And DevOps](https://towardsdatascience.com/mlops-101-aiming-for-the-convergence-between-ai-and-devops-598685e4f76e?source=rss-------8-----------------data_science)
-- [Google Data Analytics Professional Certificate Review](https://sahar-tj.medium.com/google-data-analytics-professional-certificate-review-d46011e06134?source=rss-------8-----------------data_science)
-- [How to make side income with data science](https://preettheman.medium.com/how-to-make-side-income-with-data-science-b05e8d1d1c5c?source=rss-------8-----------------data_science)
+- [Visualize your Investment Portfolio with Sunburst Plots using Google Colab](https://towardsdatascience.com/visualize-your-investment-portfolio-with-sunburst-plots-using-google-colab-b8c1cdef25cf?source=rss-------8-----------------data_science)
+- [RFM Analysis and Customer Segmentation using Looker, dbt and Google BigQuery](https://blog.rittmananalytics.com/rfm-analysis-and-customer-segmentation-using-looker-dbt-and-google-bigquery-6f8f97f32ed1?source=rss-------8-----------------data_science)
+- [Is gender easy to determine?](https://taras-baranyuk.medium.com/is-gender-easy-to-determine-44ff0647d3f6?source=rss-------8-----------------data_science)
+- [How to Use the BEAM Approach in Data Analytic Projects](https://towardsdatascience.com/how-to-use-the-beam-approach-in-data-analytic-projects-8a1604015cfd?source=rss-------8-----------------data_science)
+- [Everything you need to know about Dictionaries in Python](https://towardsdatascience.com/everything-you-need-to-know-about-dictionaries-in-python-de57480ac101?source=rss-------8-----------------data_science)
+- [Stop saving your Data frame in CSV format](https://towardsdatascience.com/stop-saving-your-data-frame-in-csv-format-7823d3873ba2?source=rss-------8-----------------data_science)
+- [Serverless Model Hosting with Docker, AWS Lambda and API Gateway](https://towardsdatascience.com/serverless-model-hosting-with-docker-aws-lambda-and-api-gateway-2d79382ecb45?source=rss-------8-----------------data_science)
+- [How to Extract Structured Information from a Text through Python SpaCy](https://towardsdatascience.com/how-to-extract-structured-information-from-a-text-through-python-spacy-749b311161e?source=rss-------8-----------------data_science)
+- [Understanding Support Vector Machine with Kernels](https://manushapriyanjalee.medium.com/understanding-support-vector-machine-with-kernels-6b9dc5de1ec5?source=rss-------8-----------------data_science)
+- [Benefits of the highly scaled Data Center](https://medium.com/nerd-for-tech/benefits-of-the-highly-scaled-data-center-c858882b8991?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
