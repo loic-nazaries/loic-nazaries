@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [5 Must-Know SQL Functions for String Manipulation](https://towardsdatascience.com/5-must-know-sql-functions-for-string-manipulation-8b22526e6144?source=rss-2cf6b549448------2)
 - [Know the Data Like the Palm of Your Hand Before Taking Any Further Steps](https://towardsdatascience.com/know-the-data-like-the-palm-of-your-hand-before-taking-any-further-steps-ad77e357432b?source=rss-2cf6b549448------2)
 - [All You Need to Know About Pandas Cut and Qcut Functions](https://towardsdatascience.com/all-you-need-to-know-about-pandas-cut-and-qcut-functions-4a0c1001c38b?source=rss-2cf6b549448------2)
 - [Data Scientists Without Data Engineering Skills Will Face the Harsh Truth](https://towardsdatascience.com/data-scientists-without-data-engineering-skills-will-face-the-harsh-truth-ff482a223ddc?source=rss-2cf6b549448------2)
 - [2 Tricky SQL Questions You Might Be Asked at Data Scientist Interviews](https://towardsdatascience.com/2-tricky-sql-questions-you-might-be-asked-at-data-scientist-interviews-168f5226c023?source=rss-2cf6b549448------2)
-- [How My Learning Path Changed After Becoming a Data Scientist](https://towardsdatascience.com/how-my-learning-path-changed-after-becoming-a-data-scientist-13afba909aff?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
