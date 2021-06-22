@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Visualize your Investment Portfolio with Sunburst Plots using Google Colab](https://towardsdatascience.com/visualize-your-investment-portfolio-with-sunburst-plots-using-google-colab-b8c1cdef25cf?source=rss-------8-----------------data_science)
-- [RFM Analysis and Customer Segmentation using Looker, dbt and Google BigQuery](https://blog.rittmananalytics.com/rfm-analysis-and-customer-segmentation-using-looker-dbt-and-google-bigquery-6f8f97f32ed1?source=rss-------8-----------------data_science)
-- [Is gender easy to determine?](https://taras-baranyuk.medium.com/is-gender-easy-to-determine-44ff0647d3f6?source=rss-------8-----------------data_science)
-- [How to Use the BEAM Approach in Data Analytic Projects](https://towardsdatascience.com/how-to-use-the-beam-approach-in-data-analytic-projects-8a1604015cfd?source=rss-------8-----------------data_science)
-- [Everything you need to know about Dictionaries in Python](https://towardsdatascience.com/everything-you-need-to-know-about-dictionaries-in-python-de57480ac101?source=rss-------8-----------------data_science)
-- [Stop saving your Data frame in CSV format](https://towardsdatascience.com/stop-saving-your-data-frame-in-csv-format-7823d3873ba2?source=rss-------8-----------------data_science)
-- [Serverless Model Hosting with Docker, AWS Lambda and API Gateway](https://towardsdatascience.com/serverless-model-hosting-with-docker-aws-lambda-and-api-gateway-2d79382ecb45?source=rss-------8-----------------data_science)
-- [How to Extract Structured Information from a Text through Python SpaCy](https://towardsdatascience.com/how-to-extract-structured-information-from-a-text-through-python-spacy-749b311161e?source=rss-------8-----------------data_science)
-- [Understanding Support Vector Machine with Kernels](https://manushapriyanjalee.medium.com/understanding-support-vector-machine-with-kernels-6b9dc5de1ec5?source=rss-------8-----------------data_science)
-- [Benefits of the highly scaled Data Center](https://medium.com/nerd-for-tech/benefits-of-the-highly-scaled-data-center-c858882b8991?source=rss-------8-----------------data_science)
+- [Tonal Quality of Vibrations: Why are drums not rectangular in shape?](https://anirudhgupta12.medium.com/tonal-quality-of-vibrations-why-are-drums-not-rectangular-in-shape-b6fc10bf563b?source=rss-------8-----------------data_science)
+- [Logistic Regression : Classification if you use Python, Regression if you use R !!](https://venksaiyan.medium.com/logistic-regression-classification-if-you-use-python-regression-if-you-use-r-9686aecd23ba?source=rss-------8-----------------data_science)
+- [Don’t play trivia games with your audience](https://medium.datadriveninvestor.com/dont-play-trivia-games-with-your-audience-a9bfd5e5a82?source=rss-------8-----------------data_science)
+- [Developer Experience — The Role of “Data Quality”](https://medium.com/99p-labs/developer-experience-the-role-of-data-quality-a5b2ec6dc073?source=rss-------8-----------------data_science)
+- [Drug-Target interaction prediction through Python](https://byeungchun.medium.com/drug-target-interaction-prediction-through-python-4af9e76fc90?source=rss-------8-----------------data_science)
+- [Mumbai University, Everyone Cheated](https://18alan.medium.com/mumbai-university-everyone-cheated-83320b8c351a?source=rss-------8-----------------data_science)
+- [5 Things YOU Can Do Right Now to Make YOUR Listing Stand Out](https://olha-maslova.medium.com/5-things-that-distinguish-highly-rated-airbnb-listings-40ecf1bbfdfb?source=rss-------8-----------------data_science)
+- [How To Suppress SettingWithCopyWarning in Pandas](https://towardsdatascience.com/how-to-suppress-settingwithcopywarning-in-pandas-c0c759bd0f10?source=rss-------8-----------------data_science)
+- [Assumptions of linear regression](https://towardsdatascience.com/assumptions-of-linear-regression-fdb71ebeaa8b?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
