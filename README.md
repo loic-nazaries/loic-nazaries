@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Tonal Quality of Vibrations: Why are drums not rectangular in shape?](https://anirudhgupta12.medium.com/tonal-quality-of-vibrations-why-are-drums-not-rectangular-in-shape-b6fc10bf563b?source=rss-------8-----------------data_science)
-- [Logistic Regression : Classification if you use Python, Regression if you use R !!](https://venksaiyan.medium.com/logistic-regression-classification-if-you-use-python-regression-if-you-use-r-9686aecd23ba?source=rss-------8-----------------data_science)
-- [Don’t play trivia games with your audience](https://medium.datadriveninvestor.com/dont-play-trivia-games-with-your-audience-a9bfd5e5a82?source=rss-------8-----------------data_science)
-- [Developer Experience — The Role of “Data Quality”](https://medium.com/99p-labs/developer-experience-the-role-of-data-quality-a5b2ec6dc073?source=rss-------8-----------------data_science)
-- [Drug-Target interaction prediction through Python](https://byeungchun.medium.com/drug-target-interaction-prediction-through-python-4af9e76fc90?source=rss-------8-----------------data_science)
-- [Mumbai University, Everyone Cheated](https://18alan.medium.com/mumbai-university-everyone-cheated-83320b8c351a?source=rss-------8-----------------data_science)
-- [5 Things YOU Can Do Right Now to Make YOUR Listing Stand Out](https://olha-maslova.medium.com/5-things-that-distinguish-highly-rated-airbnb-listings-40ecf1bbfdfb?source=rss-------8-----------------data_science)
-- [How To Suppress SettingWithCopyWarning in Pandas](https://towardsdatascience.com/how-to-suppress-settingwithcopywarning-in-pandas-c0c759bd0f10?source=rss-------8-----------------data_science)
-- [Assumptions of linear regression](https://towardsdatascience.com/assumptions-of-linear-regression-fdb71ebeaa8b?source=rss-------8-----------------data_science)
+- [3 Soft Skills Every Data Scientist Should Know](https://towardsdatascience.com/3-soft-skills-every-data-scientist-should-know-f6f44a6bd2e4?source=rss-------8-----------------data_science)
+- [Error-in-Variables Models: Deming Regression](https://towardsdatascience.com/error-in-variables-models-deming-regression-11ca93b6e138?source=rss-------8-----------------data_science)
+- [A Technical & Psychological Trading Strategy.](https://medium.com/geekculture/a-technical-psychological-trading-strategy-8911a200377c?source=rss-------8-----------------data_science)
+- [Polynomial Interpolation](https://towardsdatascience.com/polynomial-interpolation-3463ea4b63dd?source=rss-------8-----------------data_science)
+- [Interactive Choropleth Map for Geospatial Data Visualization](https://towardsdatascience.com/interactive-choropleth-map-for-geospatial-data-visualization-a53688c8ef21?source=rss-------8-----------------data_science)
+- [How to Run R scripts in Jupyter](https://towardsdatascience.com/how-to-run-r-scripts-in-jupyter-15527148d2a?source=rss-------8-----------------data_science)
+- [Fair and Explainable Machine Learning](https://towardsdatascience.com/fair-and-explainable-machine-learning-25b802b00bec?source=rss-------8-----------------data_science)
+- [Instacart market basket analysis: Feature engineering and analysis](https://sachukr.medium.com/instacart-market-basket-analysis-feature-engineering-and-analysis-9d82249bfe04?source=rss-------8-----------------data_science)
+- [Every data set has a setting — a workshop](https://uxdesign.cc/every-data-set-has-a-setting-a-workshop-55d0afd2aefc?source=rss-------8-----------------data_science)
+- [Software Engineering vs Machine Learning](https://towardsdatascience.com/software-engineering-vs-machine-learning-916fd393bf74?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
