@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [3 Soft Skills Every Data Scientist Should Know](https://towardsdatascience.com/3-soft-skills-every-data-scientist-should-know-f6f44a6bd2e4?source=rss-------8-----------------data_science)
-- [Error-in-Variables Models: Deming Regression](https://towardsdatascience.com/error-in-variables-models-deming-regression-11ca93b6e138?source=rss-------8-----------------data_science)
-- [A Technical & Psychological Trading Strategy.](https://medium.com/geekculture/a-technical-psychological-trading-strategy-8911a200377c?source=rss-------8-----------------data_science)
-- [Polynomial Interpolation](https://towardsdatascience.com/polynomial-interpolation-3463ea4b63dd?source=rss-------8-----------------data_science)
-- [Interactive Choropleth Map for Geospatial Data Visualization](https://towardsdatascience.com/interactive-choropleth-map-for-geospatial-data-visualization-a53688c8ef21?source=rss-------8-----------------data_science)
-- [How to Run R scripts in Jupyter](https://towardsdatascience.com/how-to-run-r-scripts-in-jupyter-15527148d2a?source=rss-------8-----------------data_science)
-- [Fair and Explainable Machine Learning](https://towardsdatascience.com/fair-and-explainable-machine-learning-25b802b00bec?source=rss-------8-----------------data_science)
-- [Instacart market basket analysis: Feature engineering and analysis](https://sachukr.medium.com/instacart-market-basket-analysis-feature-engineering-and-analysis-9d82249bfe04?source=rss-------8-----------------data_science)
-- [Every data set has a setting — a workshop](https://uxdesign.cc/every-data-set-has-a-setting-a-workshop-55d0afd2aefc?source=rss-------8-----------------data_science)
-- [Software Engineering vs Machine Learning](https://towardsdatascience.com/software-engineering-vs-machine-learning-916fd393bf74?source=rss-------8-----------------data_science)
+- [The lost Art of Data Modeling](https://medium.com/analytics-and-data/the-lost-art-of-data-modeling-1118e88d9d7a?source=rss-------8-----------------data_science)
+- [How Long Should the Forecast Horizon Be?](https://towardsdatascience.com/how-long-should-the-forecast-horizon-be-2f24a6005b89?source=rss-------8-----------------data_science)
+- [Dawn chorus, Morepork owls, and predator control](https://towardsdatascience.com/dawn-chorus-morepork-owls-and-predator-control-107e5ca38fd?source=rss-------8-----------------data_science)
+- [ML Classifier Performance Comparison for Spam Emails Detection](https://towardsdatascience.com/ml-classifier-performance-comparison-for-spam-emails-detection-77749926d508?source=rss-------8-----------------data_science)
+- [How to Explore Drilling Down and Drill-Through in Power BI — AI and Power BI — Chapter 4](https://medium.com/analytics-vidhya/how-to-explore-drilling-down-and-drill-through-in-power-bi-ai-and-power-bi-chapter-4-389ced4ce070?source=rss-------8-----------------data_science)
+- [Sports Analytics — NBA API — Facundo Campazzo](https://ndominutti.medium.com/sports-analytics-nba-api-facundo-campazzo-e3f9309fdf50?source=rss-------8-----------------data_science)
+- [Will You Accept This Hypothesis?](https://cecelacey.medium.com/will-you-accept-this-hypothesis-1adc2087fed?source=rss-------8-----------------data_science)
+- [10 Promising Synthesis Papers from CVPR 2021](https://towardsdatascience.com/10-promising-synthesis-papers-from-cvpr-2021-5dc670981872?source=rss-------8-----------------data_science)
+- [A/B Testing using MS Excel](https://akankshapaliwal.medium.com/a-b-testing-analysing-doorcrash-training-program-experiment-across-countys-9bf8767de4a6?source=rss-------8-----------------data_science)
+- [Nearest neighbour with SQL and Python](https://towardsdatascience.com/nearest-neighbour-with-sql-and-python-78a1937d15b8?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
