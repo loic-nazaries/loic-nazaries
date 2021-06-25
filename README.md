@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The lost Art of Data Modeling](https://medium.com/analytics-and-data/the-lost-art-of-data-modeling-1118e88d9d7a?source=rss-------8-----------------data_science)
-- [How Long Should the Forecast Horizon Be?](https://towardsdatascience.com/how-long-should-the-forecast-horizon-be-2f24a6005b89?source=rss-------8-----------------data_science)
-- [Dawn chorus, Morepork owls, and predator control](https://towardsdatascience.com/dawn-chorus-morepork-owls-and-predator-control-107e5ca38fd?source=rss-------8-----------------data_science)
-- [ML Classifier Performance Comparison for Spam Emails Detection](https://towardsdatascience.com/ml-classifier-performance-comparison-for-spam-emails-detection-77749926d508?source=rss-------8-----------------data_science)
-- [How to Explore Drilling Down and Drill-Through in Power BI — AI and Power BI — Chapter 4](https://medium.com/analytics-vidhya/how-to-explore-drilling-down-and-drill-through-in-power-bi-ai-and-power-bi-chapter-4-389ced4ce070?source=rss-------8-----------------data_science)
-- [Sports Analytics — NBA API — Facundo Campazzo](https://ndominutti.medium.com/sports-analytics-nba-api-facundo-campazzo-e3f9309fdf50?source=rss-------8-----------------data_science)
-- [Will You Accept This Hypothesis?](https://cecelacey.medium.com/will-you-accept-this-hypothesis-1adc2087fed?source=rss-------8-----------------data_science)
-- [10 Promising Synthesis Papers from CVPR 2021](https://towardsdatascience.com/10-promising-synthesis-papers-from-cvpr-2021-5dc670981872?source=rss-------8-----------------data_science)
-- [A/B Testing using MS Excel](https://akankshapaliwal.medium.com/a-b-testing-analysing-doorcrash-training-program-experiment-across-countys-9bf8767de4a6?source=rss-------8-----------------data_science)
-- [Nearest neighbour with SQL and Python](https://towardsdatascience.com/nearest-neighbour-with-sql-and-python-78a1937d15b8?source=rss-------8-----------------data_science)
+- [Wins Above Replacement 1.1 and Expected Goals 1.1: Model Updates and Validation](https://topdownhockey.medium.com/wins-above-replacement-1-1-and-expected-goals-1-1-model-updates-and-validation-c05855b59f12?source=rss-------8-----------------data_science)
+- [Leveraging DBT as a Data Modeling tool](https://medium.com/analytics-and-data/leveraging-dbt-as-a-data-modeling-tool-b3caf78f4a3a?source=rss-------8-----------------data_science)
+- [Analyzing unemployment rates in Barcelona with interactive visualizations](https://towardsdatascience.com/analyzing-unemployment-rates-in-barcelona-with-interactive-visualizations-f69f70c03caf?source=rss-------8-----------------data_science)
+- [Business 101 for Data Scientists](https://medium.com/swlh/business-101-for-data-scientists-4fc823770c52?source=rss-------8-----------------data_science)
+- [My Golf Data — Storage and Entry](https://christopher-bryan-johnson.medium.com/my-golf-data-storage-and-entry-d816546bae68?source=rss-------8-----------------data_science)
+- [10 Strategies to Boost your Impact as a Data Scientist](https://towardsdatascience.com/10-strategies-to-boost-your-impact-as-a-data-scientist-590f1398ed37?source=rss-------8-----------------data_science)
+- [Data Cleaning: Inconsistent Data Entry](https://medium.com/@nindyais/data-cleaning-inconsistent-data-entry-7731ac3c52c7?source=rss-------8-----------------data_science)
+- [Understanding Zero-Shot Learning — Making ML More Human](https://towardsdatascience.com/understanding-zero-shot-learning-making-ml-more-human-4653ac35ccab?source=rss-------8-----------------data_science)
+- [Applying AI Transformation Playbook](https://francomanca93.medium.com/applying-ai-transformation-playbook-cfeaf206572d?source=rss-------8-----------------data_science)
+- [Python for Art — Fast Neural Style Transfer using TensorFlow 2](https://towardsdatascience.com/python-for-art-fast-neural-style-transfer-using-tensorflow-2-d5e7662061be?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
