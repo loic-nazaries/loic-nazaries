@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Wins Above Replacement 1.1 and Expected Goals 1.1: Model Updates and Validation](https://topdownhockey.medium.com/wins-above-replacement-1-1-and-expected-goals-1-1-model-updates-and-validation-c05855b59f12?source=rss-------8-----------------data_science)
-- [Leveraging DBT as a Data Modeling tool](https://medium.com/analytics-and-data/leveraging-dbt-as-a-data-modeling-tool-b3caf78f4a3a?source=rss-------8-----------------data_science)
-- [Analyzing unemployment rates in Barcelona with interactive visualizations](https://towardsdatascience.com/analyzing-unemployment-rates-in-barcelona-with-interactive-visualizations-f69f70c03caf?source=rss-------8-----------------data_science)
-- [Business 101 for Data Scientists](https://medium.com/swlh/business-101-for-data-scientists-4fc823770c52?source=rss-------8-----------------data_science)
-- [My Golf Data — Storage and Entry](https://christopher-bryan-johnson.medium.com/my-golf-data-storage-and-entry-d816546bae68?source=rss-------8-----------------data_science)
-- [10 Strategies to Boost your Impact as a Data Scientist](https://towardsdatascience.com/10-strategies-to-boost-your-impact-as-a-data-scientist-590f1398ed37?source=rss-------8-----------------data_science)
-- [Data Cleaning: Inconsistent Data Entry](https://medium.com/@nindyais/data-cleaning-inconsistent-data-entry-7731ac3c52c7?source=rss-------8-----------------data_science)
-- [Understanding Zero-Shot Learning — Making ML More Human](https://towardsdatascience.com/understanding-zero-shot-learning-making-ml-more-human-4653ac35ccab?source=rss-------8-----------------data_science)
-- [Applying AI Transformation Playbook](https://francomanca93.medium.com/applying-ai-transformation-playbook-cfeaf206572d?source=rss-------8-----------------data_science)
-- [Python for Art — Fast Neural Style Transfer using TensorFlow 2](https://towardsdatascience.com/python-for-art-fast-neural-style-transfer-using-tensorflow-2-d5e7662061be?source=rss-------8-----------------data_science)
+- [Scrapping Amazon Website for Book Information](https://alexandrerossetolemos.medium.com/scrapping-amazon-website-for-book-information-7ed494197acd?source=rss-------8-----------------data_science)
+- [From Zero to Dijkstra — The Shortest Path to the Shortest Path Algorithm](https://max-beneke.medium.com/from-zero-to-dijkstra-the-shortest-path-to-the-shortest-path-algorithm-f070e224f99e?source=rss-------8-----------------data_science)
+- [Speed Up your Command-Line Navigation with These 3 Tools](https://towardsdatascience.com/speed-up-your-command-line-navigation-with-these-3-tools-f90105c9aa2b?source=rss-------8-----------------data_science)
+- [Visualizing Satellite Data Using Matplotlib and Cartopy](https://towardsdatascience.com/visualizing-satellite-data-using-matplotlib-and-cartopy-8274acb07b84?source=rss-------8-----------------data_science)
+- [Crack Data Science Interviews: Five SQL Skills for Data Scientists](https://towardsdatascience.com/crack-data-science-interviews-five-sql-skills-for-data-scientists-cc6b32df1987?source=rss-------8-----------------data_science)
+- [The 3 Must-Read Data Science Books for Absolute Beginners](https://towardsdatascience.com/the-3-must-read-data-science-books-for-absolute-beginners-9391d05ab3f5?source=rss-------8-----------------data_science)
+- [5 Super Productive Things To Do While Training Machine Learning Models](https://towardsdatascience.com/5-short-but-super-productive-things-to-do-during-model-training-b02e2d7f0d06?source=rss-------8-----------------data_science)
+- [Innovative Pattern Recognition Using Python —  Application on Financial Markets.](https://medium.com/the-investors-handbook/innovative-pattern-recognition-using-python-application-on-financial-markets-77e363bd2788?source=rss-------8-----------------data_science)
+- [Text Classification: Predicting ‘Good’ or ‘Bad’ Statements using Natural Language Processing](https://towardsdatascience.com/text-classification-predicting-good-or-bad-statements-using-natural-language-processing-e3a4edb07118?source=rss-------8-----------------data_science)
+- [Web Scraping in Python using the all-new PyScrappy](https://vedaantsingh706.medium.com/web-scraping-in-python-using-the-all-new-pyscrappy-5c136ed6906b?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
