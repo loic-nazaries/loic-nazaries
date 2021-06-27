@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Scrapping Amazon Website for Book Information](https://alexandrerossetolemos.medium.com/scrapping-amazon-website-for-book-information-7ed494197acd?source=rss-------8-----------------data_science)
-- [From Zero to Dijkstra — The Shortest Path to the Shortest Path Algorithm](https://max-beneke.medium.com/from-zero-to-dijkstra-the-shortest-path-to-the-shortest-path-algorithm-f070e224f99e?source=rss-------8-----------------data_science)
-- [Speed Up your Command-Line Navigation with These 3 Tools](https://towardsdatascience.com/speed-up-your-command-line-navigation-with-these-3-tools-f90105c9aa2b?source=rss-------8-----------------data_science)
-- [Visualizing Satellite Data Using Matplotlib and Cartopy](https://towardsdatascience.com/visualizing-satellite-data-using-matplotlib-and-cartopy-8274acb07b84?source=rss-------8-----------------data_science)
-- [Crack Data Science Interviews: Five SQL Skills for Data Scientists](https://towardsdatascience.com/crack-data-science-interviews-five-sql-skills-for-data-scientists-cc6b32df1987?source=rss-------8-----------------data_science)
-- [The 3 Must-Read Data Science Books for Absolute Beginners](https://towardsdatascience.com/the-3-must-read-data-science-books-for-absolute-beginners-9391d05ab3f5?source=rss-------8-----------------data_science)
-- [5 Super Productive Things To Do While Training Machine Learning Models](https://towardsdatascience.com/5-short-but-super-productive-things-to-do-during-model-training-b02e2d7f0d06?source=rss-------8-----------------data_science)
-- [Innovative Pattern Recognition Using Python —  Application on Financial Markets.](https://medium.com/the-investors-handbook/innovative-pattern-recognition-using-python-application-on-financial-markets-77e363bd2788?source=rss-------8-----------------data_science)
-- [Text Classification: Predicting ‘Good’ or ‘Bad’ Statements using Natural Language Processing](https://towardsdatascience.com/text-classification-predicting-good-or-bad-statements-using-natural-language-processing-e3a4edb07118?source=rss-------8-----------------data_science)
-- [Web Scraping in Python using the all-new PyScrappy](https://vedaantsingh706.medium.com/web-scraping-in-python-using-the-all-new-pyscrappy-5c136ed6906b?source=rss-------8-----------------data_science)
+- [How to Upload and Embed Interactive Plotly Visualizations](https://towardsdatascience.com/how-to-upload-and-embed-interactive-plotly-visualizations-f819d4ffecfb?source=rss-------8-----------------data_science)
+- [Airbnb Data Analysis — Seattle and Boston](https://alexandrerossetolemos.medium.com/airbnb-data-analysis-seattle-and-boston-c9fca3e06707?source=rss-------8-----------------data_science)
+- [Quantiles are key to understanding probability distributions](https://towardsdatascience.com/quantiles-key-to-probability-distributions-ce1786d479a9?source=rss-------8-----------------data_science)
+- [Building An NHL Game Prediction Model, Part 2](https://gsstats.medium.com/building-an-nhl-game-prediction-model-part-2-9932bf914ed?source=rss-------8-----------------data_science)
+- [3 Simple Side Hustles to Make Extra Income per Month as a Data Scientist](https://medium.com/@saedhussain/3-simple-side-hustles-to-make-extra-income-per-month-as-a-data-scientist-7470030fbf43?source=rss-------8-----------------data_science)
+- [Visualizing Cohort Retention Rates with pycohort Package](https://towardsdatascience.com/visualizing-cohort-retention-rates-with-pycohort-package-95e7f29052b3?source=rss-------8-----------------data_science)
+- [Find a location for opening a restaurant](https://shokhrukh-yakubjanov.medium.com/find-a-location-for-opening-a-restaurant-fc7790e30d1?source=rss-------8-----------------data_science)
+- [Non-Graphical Analysis; the underdog of EDA](https://python.plainenglish.io/non-graphical-analysis-the-underdog-of-eda-30b54d457036?source=rss-------8-----------------data_science)
+- [Meme — Dank or Not?](https://niksaurabh.medium.com/meme-dank-or-not-cec4895adfb2?source=rss-------8-----------------data_science)
+- [Predict the Sales Volume of the Google Stock Price](https://medium.com/analytics-vidhya/predict-the-sales-volume-of-the-google-stock-price-6d44da3ecb02?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
