@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Upload and Embed Interactive Plotly Visualizations](https://towardsdatascience.com/how-to-upload-and-embed-interactive-plotly-visualizations-f819d4ffecfb?source=rss-------8-----------------data_science)
-- [Airbnb Data Analysis — Seattle and Boston](https://alexandrerossetolemos.medium.com/airbnb-data-analysis-seattle-and-boston-c9fca3e06707?source=rss-------8-----------------data_science)
-- [Quantiles are key to understanding probability distributions](https://towardsdatascience.com/quantiles-key-to-probability-distributions-ce1786d479a9?source=rss-------8-----------------data_science)
-- [Building An NHL Game Prediction Model, Part 2](https://gsstats.medium.com/building-an-nhl-game-prediction-model-part-2-9932bf914ed?source=rss-------8-----------------data_science)
-- [3 Simple Side Hustles to Make Extra Income per Month as a Data Scientist](https://medium.com/@saedhussain/3-simple-side-hustles-to-make-extra-income-per-month-as-a-data-scientist-7470030fbf43?source=rss-------8-----------------data_science)
-- [Visualizing Cohort Retention Rates with pycohort Package](https://towardsdatascience.com/visualizing-cohort-retention-rates-with-pycohort-package-95e7f29052b3?source=rss-------8-----------------data_science)
-- [Find a location for opening a restaurant](https://shokhrukh-yakubjanov.medium.com/find-a-location-for-opening-a-restaurant-fc7790e30d1?source=rss-------8-----------------data_science)
-- [Non-Graphical Analysis; the underdog of EDA](https://python.plainenglish.io/non-graphical-analysis-the-underdog-of-eda-30b54d457036?source=rss-------8-----------------data_science)
-- [Meme — Dank or Not?](https://niksaurabh.medium.com/meme-dank-or-not-cec4895adfb2?source=rss-------8-----------------data_science)
-- [Predict the Sales Volume of the Google Stock Price](https://medium.com/analytics-vidhya/predict-the-sales-volume-of-the-google-stock-price-6d44da3ecb02?source=rss-------8-----------------data_science)
+- [About Sort in Spark 3.x](https://towardsdatascience.com/about-sort-in-spark-3-x-f3699cc31008?source=rss-------8-----------------data_science)
+- [An Overview Of Text Mining Software Options](https://towardsdatascience.com/an-overview-of-text-mining-software-options-e799382c7dc5?source=rss-------8-----------------data_science)
+- [Highlights from DATA+AI Summit 2021](https://towardsdatascience.com/highlights-from-data-ai-summit-2021-3abfd9aaccaa?source=rss-------8-----------------data_science)
+- [My Top Data Science Reads & Resources, June 2021 Edition.](https://towardsdatascience.com/my-top-data-science-reads-resources-june-2021-edition-2c2f3a1e7643?source=rss-------8-----------------data_science)
+- [You Don’t Need Math For Machine Learning](https://towardsdatascience.com/you-dont-need-math-for-machine-learning-e168b7d973d4?source=rss-------8-----------------data_science)
+- [How to Ensure Reproducibility Easily in Data Science Through Version Control](https://medium.com/geekculture/how-to-ensure-reproducibility-easily-in-data-science-through-version-control-1777ae3b15a?source=rss-------8-----------------data_science)
+- [How Data Science is Used in Sports](https://mrdatascience.medium.com/how-data-science-is-used-in-sports-7d0bb0eacc2b?source=rss-------8-----------------data_science)
+- [Unleash the Spark from your Data](https://medium.com/geekculture/unleash-the-spark-from-your-data-ba3227755e?source=rss-------8-----------------data_science)
+- [The Pacific Northwest heat wave has lows that are just as shocking as the highs](https://sabolch-horvat.medium.com/the-pacific-northwest-heat-wave-has-lows-that-are-just-as-shocking-as-the-highs-efab4500790f?source=rss-------8-----------------data_science)
+- [Step-by-Step Deployment of a Free PostgreSQL Database and Data Ingestion](https://towardsdatascience.com/deploy-free-postgresql-database-in-heroku-and-ingest-data-8002c574a57d?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
