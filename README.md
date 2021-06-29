@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [About Sort in Spark 3.x](https://towardsdatascience.com/about-sort-in-spark-3-x-f3699cc31008?source=rss-------8-----------------data_science)
-- [An Overview Of Text Mining Software Options](https://towardsdatascience.com/an-overview-of-text-mining-software-options-e799382c7dc5?source=rss-------8-----------------data_science)
-- [Highlights from DATA+AI Summit 2021](https://towardsdatascience.com/highlights-from-data-ai-summit-2021-3abfd9aaccaa?source=rss-------8-----------------data_science)
-- [My Top Data Science Reads & Resources, June 2021 Edition.](https://towardsdatascience.com/my-top-data-science-reads-resources-june-2021-edition-2c2f3a1e7643?source=rss-------8-----------------data_science)
-- [You Don’t Need Math For Machine Learning](https://towardsdatascience.com/you-dont-need-math-for-machine-learning-e168b7d973d4?source=rss-------8-----------------data_science)
-- [How to Ensure Reproducibility Easily in Data Science Through Version Control](https://medium.com/geekculture/how-to-ensure-reproducibility-easily-in-data-science-through-version-control-1777ae3b15a?source=rss-------8-----------------data_science)
-- [How Data Science is Used in Sports](https://mrdatascience.medium.com/how-data-science-is-used-in-sports-7d0bb0eacc2b?source=rss-------8-----------------data_science)
-- [Unleash the Spark from your Data](https://medium.com/geekculture/unleash-the-spark-from-your-data-ba3227755e?source=rss-------8-----------------data_science)
-- [The Pacific Northwest heat wave has lows that are just as shocking as the highs](https://sabolch-horvat.medium.com/the-pacific-northwest-heat-wave-has-lows-that-are-just-as-shocking-as-the-highs-efab4500790f?source=rss-------8-----------------data_science)
-- [Step-by-Step Deployment of a Free PostgreSQL Database and Data Ingestion](https://towardsdatascience.com/deploy-free-postgresql-database-in-heroku-and-ingest-data-8002c574a57d?source=rss-------8-----------------data_science)
+- [How to Make Your Data Catalog Successful](https://towardsdatascience.com/how-to-make-your-data-catalog-successful-3df6894f1975?source=rss-------8-----------------data_science)
+- [Multi-task learning with Multi-gate Mixture-of-experts](https://towardsdatascience.com/multi-task-learning-with-multi-gate-mixture-of-experts-b46efac3268?source=rss-------8-----------------data_science)
+- [The case for using spatial SQL](https://towardsdatascience.com/the-case-for-using-spatial-sql-1bf25b3b800d?source=rss-------8-----------------data_science)
+- [The Role of Data Science in Improving Customer Satisfaction](https://rww.medium.com/the-role-of-data-science-in-improving-customer-satisfaction-564e0ed7ed70?source=rss-------8-----------------data_science)
+- [How to avoid frustration and stay happy in your data science job](https://towardsdatascience.com/how-to-avoid-frustration-and-stay-happy-in-your-data-science-job-d4c70c6a0ee9?source=rss-------8-----------------data_science)
+- [Delivery time data exploration with Python](https://nataliapecio.medium.com/delivery-time-data-exploration-with-python-a85beda23a6a?source=rss-------8-----------------data_science)
+- [Data Science With Raspberry Pi and Smart Sensors](https://medium.com/mlearning-ai/data-science-with-raspberry-pi-and-smart-sensors-1c32c34e5ee1?source=rss-------8-----------------data_science)
+- [Killing Two Birds with One Stone: How I learned to use Shiny to Make Working Out at Home Suck Less](https://michael-hoang17.medium.com/killing-two-birds-with-one-stone-how-i-learned-to-use-shiny-to-make-working-out-at-home-suck-less-85ef84733371?source=rss-------8-----------------data_science)
+- [Spark MLlib on AWS Glue](https://towardsdatascience.com/spark-mllib-in-aws-glue-1416b3b5ffe6?source=rss-------8-----------------data_science)
+- [ML Checklist — Best Practices for a successful model deployment](https://mudittiwari255.medium.com/ml-checklist-best-practices-for-a-successful-model-deployment-2cff5495efed?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
