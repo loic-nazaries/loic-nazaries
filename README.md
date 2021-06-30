@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Make Your Data Catalog Successful](https://towardsdatascience.com/how-to-make-your-data-catalog-successful-3df6894f1975?source=rss-------8-----------------data_science)
-- [Multi-task learning with Multi-gate Mixture-of-experts](https://towardsdatascience.com/multi-task-learning-with-multi-gate-mixture-of-experts-b46efac3268?source=rss-------8-----------------data_science)
-- [The case for using spatial SQL](https://towardsdatascience.com/the-case-for-using-spatial-sql-1bf25b3b800d?source=rss-------8-----------------data_science)
-- [The Role of Data Science in Improving Customer Satisfaction](https://rww.medium.com/the-role-of-data-science-in-improving-customer-satisfaction-564e0ed7ed70?source=rss-------8-----------------data_science)
-- [How to avoid frustration and stay happy in your data science job](https://towardsdatascience.com/how-to-avoid-frustration-and-stay-happy-in-your-data-science-job-d4c70c6a0ee9?source=rss-------8-----------------data_science)
-- [Delivery time data exploration with Python](https://nataliapecio.medium.com/delivery-time-data-exploration-with-python-a85beda23a6a?source=rss-------8-----------------data_science)
-- [Data Science With Raspberry Pi and Smart Sensors](https://medium.com/mlearning-ai/data-science-with-raspberry-pi-and-smart-sensors-1c32c34e5ee1?source=rss-------8-----------------data_science)
-- [Killing Two Birds with One Stone: How I learned to use Shiny to Make Working Out at Home Suck Less](https://michael-hoang17.medium.com/killing-two-birds-with-one-stone-how-i-learned-to-use-shiny-to-make-working-out-at-home-suck-less-85ef84733371?source=rss-------8-----------------data_science)
-- [Spark MLlib on AWS Glue](https://towardsdatascience.com/spark-mllib-in-aws-glue-1416b3b5ffe6?source=rss-------8-----------------data_science)
-- [ML Checklist — Best Practices for a successful model deployment](https://mudittiwari255.medium.com/ml-checklist-best-practices-for-a-successful-model-deployment-2cff5495efed?source=rss-------8-----------------data_science)
+- [Spark SQL 102 — Aggregations and Window Functions](https://towardsdatascience.com/spark-sql-102-aggregations-and-window-functions-9f829eaa7549?source=rss-------8-----------------data_science)
+- [Synthetic data generation: test your proof of concept, without the data!](https://medium.com/atoti/synthetic-data-generation-test-your-proof-of-concept-without-the-data-c76e6b65523?source=rss-------8-----------------data_science)
+- [My Best Way to Learn a New Data Science Tool](https://towardsdatascience.com/my-best-way-to-learn-a-new-data-science-tool-b55dc0e36767?source=rss-------8-----------------data_science)
+- [The Elements of Statistical Learning: Introduction](https://leoyuanluo.medium.com/the-elements-of-statistical-learning-introduction-82c4c8295967?source=rss-------8-----------------data_science)
+- [Probability and Descriptive Statistics](https://me-smishra27.medium.com/probability-and-descriptive-statistics-202f933e6d4a?source=rss-------8-----------------data_science)
+- [Data scientists and enterprise machine learning: Part 1](https://towardsdatascience.com/data-scientists-and-enterprise-machine-learning-part-1-79fde66d8461?source=rss-------8-----------------data_science)
+- [Don’t be afraid to spice up your rankings](https://medium.datadriveninvestor.com/dont-be-afraid-to-spice-up-your-rankings-e40b4e1f20d8?source=rss-------8-----------------data_science)
+- [A Data Scientist Is Just A Software Engineer](https://towardsdatascience.com/a-data-scientist-is-just-a-software-engineer-f13fcaf8730f?source=rss-------8-----------------data_science)
+- [Gender Bias in Admission Statistics?](https://www.cantorsparadise.com/gender-bias-in-admission-statistics-eaabca650810?source=rss-------8-----------------data_science)
+- [Python for Airbnb hosts exploration : Boston VS Seattle](https://k-benaggoune.medium.com/python-for-airbnb-hosts-exploration-boston-vs-seattle-cf9ca2126954?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
