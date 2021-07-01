@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Spark SQL 102 — Aggregations and Window Functions](https://towardsdatascience.com/spark-sql-102-aggregations-and-window-functions-9f829eaa7549?source=rss-------8-----------------data_science)
-- [Synthetic data generation: test your proof of concept, without the data!](https://medium.com/atoti/synthetic-data-generation-test-your-proof-of-concept-without-the-data-c76e6b65523?source=rss-------8-----------------data_science)
-- [My Best Way to Learn a New Data Science Tool](https://towardsdatascience.com/my-best-way-to-learn-a-new-data-science-tool-b55dc0e36767?source=rss-------8-----------------data_science)
-- [The Elements of Statistical Learning: Introduction](https://leoyuanluo.medium.com/the-elements-of-statistical-learning-introduction-82c4c8295967?source=rss-------8-----------------data_science)
-- [Probability and Descriptive Statistics](https://me-smishra27.medium.com/probability-and-descriptive-statistics-202f933e6d4a?source=rss-------8-----------------data_science)
-- [Data scientists and enterprise machine learning: Part 1](https://towardsdatascience.com/data-scientists-and-enterprise-machine-learning-part-1-79fde66d8461?source=rss-------8-----------------data_science)
-- [Don’t be afraid to spice up your rankings](https://medium.datadriveninvestor.com/dont-be-afraid-to-spice-up-your-rankings-e40b4e1f20d8?source=rss-------8-----------------data_science)
-- [A Data Scientist Is Just A Software Engineer](https://towardsdatascience.com/a-data-scientist-is-just-a-software-engineer-f13fcaf8730f?source=rss-------8-----------------data_science)
-- [Gender Bias in Admission Statistics?](https://www.cantorsparadise.com/gender-bias-in-admission-statistics-eaabca650810?source=rss-------8-----------------data_science)
-- [Python for Airbnb hosts exploration : Boston VS Seattle](https://k-benaggoune.medium.com/python-for-airbnb-hosts-exploration-boston-vs-seattle-cf9ca2126954?source=rss-------8-----------------data_science)
+- [How to Analyze Continuous Data from Two Groups](https://towardsdatascience.com/how-to-analyze-continuous-data-from-two-groups-8d101510790f?source=rss-------8-----------------data_science)
+- [An Overview of Performance Evaluation Metrics of Machine Learning(Classification) Algorithms](https://towardsdatascience.com/an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f?source=rss-------8-----------------data_science)
+- [Topic Modelling: A Deep Dive into LDA, hybrid-LDA, and non-LDA Approaches](https://towardsdatascience.com/topic-modelling-a-deep-dive-into-lda-hybrid-lda-and-non-lda-approaches-d17d45ddaaaf?source=rss-------8-----------------data_science)
+- [Big Data in Healthcare](https://fintelics.medium.com/big-data-in-healthcare-a991047c2ae?source=rss-------8-----------------data_science)
+- [Getting started with PyTorch](https://andrefsr.medium.com/getting-started-with-pytorch-2819d7aeb87c?source=rss-------8-----------------data_science)
+- [Lessons from Scottsdale, AZ: Sending mailing inserts to help residents switch to paperless billing](https://medium.com/replication-guides-for-city-led-evaluations/lessons-from-scottsdale-az-sending-mailing-inserts-to-help-residents-switch-to-paperless-billing-158077e8971d?source=rss-------8-----------------data_science)
+- [Using Oracle Cloud to create an “always free” Online Development Environment](https://medium.com/geekculture/using-oracle-cloud-to-create-an-always-free-online-development-environment-af00e5bc2a05?source=rss-------8-----------------data_science)
+- [Role of Decision Tree Classifier in Your Hiring Process](https://zainulebadd.medium.com/role-of-decision-tree-classifier-in-your-hiring-process-35929d9d3e21?source=rss-------8-----------------data_science)
+- [Analyzing web scraped records to create a data frame](https://tavoglc.medium.com/analyzing-web-scraped-records-to-create-a-data-frame-60e65d6d18b5?source=rss-------8-----------------data_science)
+- [NHL Deep Dive: Effectiveness](https://brandon-elford.medium.com/nhl-deep-dive-effectiveness-cf8642859d5b?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
