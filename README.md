@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [3 Methods to Create Conditional Columns with Python Pandas and Numpy](https://towardsdatascience.com/3-methods-to-create-conditional-columns-with-python-pandas-and-numpy-a6cd4be9da53?source=rss-2cf6b549448------2)
 - [My Best Way to Learn a New Data Science Tool](https://towardsdatascience.com/my-best-way-to-learn-a-new-data-science-tool-b55dc0e36767?source=rss-2cf6b549448------2)
 - [2 Mistakes to Avoid When Training Your Machine Learning Model](https://towardsdatascience.com/2-mistakes-to-avoid-when-training-your-machine-learning-model-8af1e855f30a?source=rss-2cf6b549448------2)
 - [4 Tricks to Use Python F-strings More Efficiently](https://towardsdatascience.com/4-tricks-to-use-python-f-strings-more-efficiently-4f389e890514?source=rss-2cf6b549448------2)
 - [5 Must-Know SQL Functions for String Manipulation](https://towardsdatascience.com/5-must-know-sql-functions-for-string-manipulation-8b22526e6144?source=rss-2cf6b549448------2)
-- [Know the Data Like the Palm of Your Hand Before Taking Any Further Steps](https://towardsdatascience.com/know-the-data-like-the-palm-of-your-hand-before-taking-any-further-steps-ad77e357432b?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
