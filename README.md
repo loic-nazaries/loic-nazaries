@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Analyze Continuous Data from Two Groups](https://towardsdatascience.com/how-to-analyze-continuous-data-from-two-groups-8d101510790f?source=rss-------8-----------------data_science)
-- [An Overview of Performance Evaluation Metrics of Machine Learning(Classification) Algorithms](https://towardsdatascience.com/an-overview-of-performance-evaluation-metrics-of-machine-learning-classification-algorithms-7a95783a762f?source=rss-------8-----------------data_science)
-- [Topic Modelling: A Deep Dive into LDA, hybrid-LDA, and non-LDA Approaches](https://towardsdatascience.com/topic-modelling-a-deep-dive-into-lda-hybrid-lda-and-non-lda-approaches-d17d45ddaaaf?source=rss-------8-----------------data_science)
-- [Big Data in Healthcare](https://fintelics.medium.com/big-data-in-healthcare-a991047c2ae?source=rss-------8-----------------data_science)
-- [Getting started with PyTorch](https://andrefsr.medium.com/getting-started-with-pytorch-2819d7aeb87c?source=rss-------8-----------------data_science)
-- [Lessons from Scottsdale, AZ: Sending mailing inserts to help residents switch to paperless billing](https://medium.com/replication-guides-for-city-led-evaluations/lessons-from-scottsdale-az-sending-mailing-inserts-to-help-residents-switch-to-paperless-billing-158077e8971d?source=rss-------8-----------------data_science)
-- [Using Oracle Cloud to create an “always free” Online Development Environment](https://medium.com/geekculture/using-oracle-cloud-to-create-an-always-free-online-development-environment-af00e5bc2a05?source=rss-------8-----------------data_science)
-- [Role of Decision Tree Classifier in Your Hiring Process](https://zainulebadd.medium.com/role-of-decision-tree-classifier-in-your-hiring-process-35929d9d3e21?source=rss-------8-----------------data_science)
-- [Analyzing web scraped records to create a data frame](https://tavoglc.medium.com/analyzing-web-scraped-records-to-create-a-data-frame-60e65d6d18b5?source=rss-------8-----------------data_science)
-- [NHL Deep Dive: Effectiveness](https://brandon-elford.medium.com/nhl-deep-dive-effectiveness-cf8642859d5b?source=rss-------8-----------------data_science)
+- [All Pandas qcut() you should know for binning numerical data based on sample quantiles](https://towardsdatascience.com/all-pandas-qcut-you-should-know-for-binning-numerical-data-based-on-sample-quantiles-c8b13a8ed844?source=rss-------8-----------------data_science)
+- [Labeling a Shared Dataset of r/wallstreetbets Comments](https://innerjoin.bit.io/labeling-a-shared-dataset-of-r-wallstreetbets-comments-b147202789d7?source=rss-------8-----------------data_science)
+- [OpenAI Launches GitHub Copilot: AI Focused On Code Generation. Should We Be Worried Now?](https://towardsdatascience.com/should-we-be-worried-now-that-github-copilot-is-out-12f59551cd95?source=rss-------8-----------------data_science)
+- [I tripled my income with data science. Here’s how.](https://towardsdatascience.com/i-tripled-my-income-with-data-science-heres-how-2c32ceb782cf?source=rss-------8-----------------data_science)
+- [Why You Failed Your Machine Learning Interview](https://towardsdatascience.com/why-you-failed-your-machine-learning-interview-5ebb02b9f69c?source=rss-------8-----------------data_science)
+- [Build Robust Google BigQuery Pipelines with Python: Part II](https://towardsdatascience.com/build-robust-google-bigquery-pipelines-with-python-part-ii-2883423a1c8a?source=rss-------8-----------------data_science)
+- [Not All Mistakes Are Created Equal: Cost-sensitive Learning](https://towardsdatascience.com/not-all-mistakes-are-created-equal-cost-sensitive-learning-96bbc92bab88?source=rss-------8-----------------data_science)
+- [Logistics regression to classify customers — one vs all (4/4)](https://medium.com/geekculture/classifying-customers-with-logistics-regression-one-vs-all-f34ed2e5f042?source=rss-------8-----------------data_science)
+- [2021 Knowledge Graph Conference Recap](https://medium.com/knowledge-technologies/2021-knowledge-graph-conference-recap-16a28bdd7c6?source=rss-------8-----------------data_science)
+- [CASEI: A Discovery Catalog of NASA Airborne and Field Campaigns](https://impactunofficial.medium.com/casei-a-discovery-catalog-of-nasa-airborne-and-field-campaigns-6dc7691e8363?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
