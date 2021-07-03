@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [All Pandas qcut() you should know for binning numerical data based on sample quantiles](https://towardsdatascience.com/all-pandas-qcut-you-should-know-for-binning-numerical-data-based-on-sample-quantiles-c8b13a8ed844?source=rss-------8-----------------data_science)
-- [Labeling a Shared Dataset of r/wallstreetbets Comments](https://innerjoin.bit.io/labeling-a-shared-dataset-of-r-wallstreetbets-comments-b147202789d7?source=rss-------8-----------------data_science)
-- [OpenAI Launches GitHub Copilot: AI Focused On Code Generation. Should We Be Worried Now?](https://towardsdatascience.com/should-we-be-worried-now-that-github-copilot-is-out-12f59551cd95?source=rss-------8-----------------data_science)
-- [I tripled my income with data science. Here’s how.](https://towardsdatascience.com/i-tripled-my-income-with-data-science-heres-how-2c32ceb782cf?source=rss-------8-----------------data_science)
-- [Why You Failed Your Machine Learning Interview](https://towardsdatascience.com/why-you-failed-your-machine-learning-interview-5ebb02b9f69c?source=rss-------8-----------------data_science)
-- [Build Robust Google BigQuery Pipelines with Python: Part II](https://towardsdatascience.com/build-robust-google-bigquery-pipelines-with-python-part-ii-2883423a1c8a?source=rss-------8-----------------data_science)
-- [Not All Mistakes Are Created Equal: Cost-sensitive Learning](https://towardsdatascience.com/not-all-mistakes-are-created-equal-cost-sensitive-learning-96bbc92bab88?source=rss-------8-----------------data_science)
-- [Logistics regression to classify customers — one vs all (4/4)](https://medium.com/geekculture/classifying-customers-with-logistics-regression-one-vs-all-f34ed2e5f042?source=rss-------8-----------------data_science)
-- [2021 Knowledge Graph Conference Recap](https://medium.com/knowledge-technologies/2021-knowledge-graph-conference-recap-16a28bdd7c6?source=rss-------8-----------------data_science)
-- [CASEI: A Discovery Catalog of NASA Airborne and Field Campaigns](https://impactunofficial.medium.com/casei-a-discovery-catalog-of-nasa-airborne-and-field-campaigns-6dc7691e8363?source=rss-------8-----------------data_science)
+- [Allan Variance in Python](https://towardsdatascience.com/allan-variance-in-python-d1175e5aeee2?source=rss-------8-----------------data_science)
+- [A New Approach to Film Making](https://anastasiaulianova.medium.com/a-new-approach-to-film-making-80cec94284f0?source=rss-------8-----------------data_science)
+- [Predicting Unpredictable Probabilities](https://jasondeden.medium.com/predicting-unpredictable-probabilities-2b82f90733ae?source=rss-------8-----------------data_science)
+- [Technical Writing for Data Scientists](https://nancyorgan.medium.com/technical-writing-for-data-scientists-1cc44e9949fc?source=rss-------8-----------------data_science)
+- [Why Bayesian optimization picks candidates that aren’t predicted to perform well](https://medium.com/uncountable-engineering/why-bayesian-optimization-picks-candidates-that-arent-predicted-to-perform-well-cf6bffa127a1?source=rss-------8-----------------data_science)
+- [TensorFlow Demand Prediction With London Bike Sharing Dataset](https://medium.com/@nutanbhogendrasharma/tensorflow-demand-prediction-with-london-bike-sharing-dataset-3436ac12f230?source=rss-------8-----------------data_science)
+- [Clustering in Geospatial Applications — which model should you use?](https://towardsdatascience.com/clustering-in-geospatial-applications-which-model-should-you-use-59a039332c45?source=rss-------8-----------------data_science)
+- [Levering Pulp to Make Automated Decisions](https://rich-gaogle.medium.com/levering-pulp-to-make-automated-decisions-b40cc55b946b?source=rss-------8-----------------data_science)
+- [Here’s how I used Azure ML studio to build a regression model using an e-commerce dataset](https://vijayendra-dwari.medium.com/heres-how-i-used-azure-ml-studio-to-build-a-regression-model-using-an-e-commerce-dataset-c8ad1b2807ba?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
