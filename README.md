@@ -105,15 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Allan Variance in Python](https://towardsdatascience.com/allan-variance-in-python-d1175e5aeee2?source=rss-------8-----------------data_science)
-- [A New Approach to Film Making](https://anastasiaulianova.medium.com/a-new-approach-to-film-making-80cec94284f0?source=rss-------8-----------------data_science)
-- [Predicting Unpredictable Probabilities](https://jasondeden.medium.com/predicting-unpredictable-probabilities-2b82f90733ae?source=rss-------8-----------------data_science)
-- [Technical Writing for Data Scientists](https://nancyorgan.medium.com/technical-writing-for-data-scientists-1cc44e9949fc?source=rss-------8-----------------data_science)
-- [Why Bayesian optimization picks candidates that aren’t predicted to perform well](https://medium.com/uncountable-engineering/why-bayesian-optimization-picks-candidates-that-arent-predicted-to-perform-well-cf6bffa127a1?source=rss-------8-----------------data_science)
-- [TensorFlow Demand Prediction With London Bike Sharing Dataset](https://medium.com/@nutanbhogendrasharma/tensorflow-demand-prediction-with-london-bike-sharing-dataset-3436ac12f230?source=rss-------8-----------------data_science)
-- [Clustering in Geospatial Applications — which model should you use?](https://towardsdatascience.com/clustering-in-geospatial-applications-which-model-should-you-use-59a039332c45?source=rss-------8-----------------data_science)
-- [Levering Pulp to Make Automated Decisions](https://rich-gaogle.medium.com/levering-pulp-to-make-automated-decisions-b40cc55b946b?source=rss-------8-----------------data_science)
-- [Here’s how I used Azure ML studio to build a regression model using an e-commerce dataset](https://vijayendra-dwari.medium.com/heres-how-i-used-azure-ml-studio-to-build-a-regression-model-using-an-e-commerce-dataset-c8ad1b2807ba?source=rss-------8-----------------data_science)
+- [Matplotlib vs. Plotly Express: Which One is the Best Library for Data Visualization?](https://towardsdatascience.com/matplotlib-vs-plotly-express-which-one-is-the-best-library-for-data-visualization-7a96dbe3ff09?source=rss-------8-----------------data_science)
+- [4 Methods for Changing the Column Order of a Pandas Data Frame](https://towardsdatascience.com/4-methods-for-changing-the-column-order-of-a-pandas-data-frame-a16cf0b58943?source=rss-------8-----------------data_science)
+- [A Summary of My June Articles…in Case you Have Missed Them](https://alod83.medium.com/june-articles-a-summary-of-my-june-articles-in-case-you-have-missed-them-8bc370375419?source=rss-------8-----------------data_science)
+- [Hands-on Survival Analysis with Python](https://towardsdatascience.com/hands-on-survival-analysis-with-python-270fa1e6fb41?source=rss-------8-----------------data_science)
+- [Memory and longing in “This is Us”](https://wmjlwuh.medium.com/memory-and-longing-in-this-is-us-37dbf81b4b7e?source=rss-------8-----------------data_science)
+- [How to check whether some of the data already exists in the database before uploading a new large…](https://medium.com/geekculture/how-to-check-whether-some-of-the-data-already-exists-in-the-database-before-uploading-a-new-large-fa9c580afa99?source=rss-------8-----------------data_science)
+- [3 Tools Data Scientists Use Every Day](https://medium.com/geekculture/3-tools-data-scientists-use-every-day-e02dc5a0d664?source=rss-------8-----------------data_science)
+- [Getting Covid data into Jupyter from Fidap](https://medium.com/fidap-data/getting-covid-data-into-jupyter-from-fidap-8b27a304f5e2?source=rss-------8-----------------data_science)
+- [An explainer on Tree Ensemble Layer](https://towardsdatascience.com/an-explainer-on-tree-ensemble-layer-b7e445621a3f?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
