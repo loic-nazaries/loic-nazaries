@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Matplotlib vs. Plotly Express: Which One is the Best Library for Data Visualization?](https://towardsdatascience.com/matplotlib-vs-plotly-express-which-one-is-the-best-library-for-data-visualization-7a96dbe3ff09?source=rss-------8-----------------data_science)
-- [4 Methods for Changing the Column Order of a Pandas Data Frame](https://towardsdatascience.com/4-methods-for-changing-the-column-order-of-a-pandas-data-frame-a16cf0b58943?source=rss-------8-----------------data_science)
-- [A Summary of My June Articles…in Case you Have Missed Them](https://alod83.medium.com/june-articles-a-summary-of-my-june-articles-in-case-you-have-missed-them-8bc370375419?source=rss-------8-----------------data_science)
-- [Hands-on Survival Analysis with Python](https://towardsdatascience.com/hands-on-survival-analysis-with-python-270fa1e6fb41?source=rss-------8-----------------data_science)
-- [Memory and longing in “This is Us”](https://wmjlwuh.medium.com/memory-and-longing-in-this-is-us-37dbf81b4b7e?source=rss-------8-----------------data_science)
-- [How to check whether some of the data already exists in the database before uploading a new large…](https://medium.com/geekculture/how-to-check-whether-some-of-the-data-already-exists-in-the-database-before-uploading-a-new-large-fa9c580afa99?source=rss-------8-----------------data_science)
-- [3 Tools Data Scientists Use Every Day](https://medium.com/geekculture/3-tools-data-scientists-use-every-day-e02dc5a0d664?source=rss-------8-----------------data_science)
-- [Getting Covid data into Jupyter from Fidap](https://medium.com/fidap-data/getting-covid-data-into-jupyter-from-fidap-8b27a304f5e2?source=rss-------8-----------------data_science)
-- [An explainer on Tree Ensemble Layer](https://towardsdatascience.com/an-explainer-on-tree-ensemble-layer-b7e445621a3f?source=rss-------8-----------------data_science)
+- [“Isolation Forest”: The Anomaly Detection Algorithm Any Data Scientist Should Know](https://towardsdatascience.com/isolation-forest-the-anomaly-detection-algorithm-any-data-scientist-should-know-1a99622eec2d?source=rss-------8-----------------data_science)
+- [Publishing Open-Source Python Packages to PyPI](https://towardsdatascience.com/publishing-open-source-python-packages-to-pypi-4a1458416572?source=rss-------8-----------------data_science)
+- [The Three Types of Missing Data Every Data Professional Should Know](https://towardsdatascience.com/the-three-types-of-missing-data-every-data-professional-should-know-d988e17d6ace?source=rss-------8-----------------data_science)
+- [A Data Science Interpretation On E-Commerce Revenue And Customer Experience](https://leonardo-yamaguishi.medium.com/a-data-science-view-on-e-commerce-revenue-and-customer-experience-c416f15d3587?source=rss-------8-----------------data_science)
+- [Math for Data Science Beginners: Plotting and Data Visualization](https://benjaminobi.medium.com/math-for-data-science-beginners-plotting-and-data-visualization-bd5a762cf3a0?source=rss-------8-----------------data_science)
+- [The perception of objectivity in data](https://towardsdatascience.com/the-perception-of-objectivity-in-data-1abacf195b29?source=rss-------8-----------------data_science)
+- [Data Preprocessing in Python: All important steps explained](https://medium.com/nerd-for-tech/data-preprocessing-and-cleaning-in-python-all-important-steps-explained-6093b8cb0864?source=rss-------8-----------------data_science)
+- [Time Series Analysis of Covid-19 Data Using Dask](https://medium.com/geekculture/time-series-analysis-of-covid-19-data-using-dask-adc5f46adc8?source=rss-------8-----------------data_science)
+- [Wildfire spreading modeling : a trial with a ConvLSTM model purely data-driven](https://towardsdatascience.com/wildfire-spreading-modeling-a-trial-with-a-convlstm-model-purely-data-driven-455acd072244?source=rss-------8-----------------data_science)
+- [An Introduction to Machine Learning Engineering for Production — Part 1](https://towardsdatascience.com/an-introduction-to-machine-learning-engineering-for-production-part-1-2247bbca8a61?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
