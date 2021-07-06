@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [“Isolation Forest”: The Anomaly Detection Algorithm Any Data Scientist Should Know](https://towardsdatascience.com/isolation-forest-the-anomaly-detection-algorithm-any-data-scientist-should-know-1a99622eec2d?source=rss-------8-----------------data_science)
-- [Publishing Open-Source Python Packages to PyPI](https://towardsdatascience.com/publishing-open-source-python-packages-to-pypi-4a1458416572?source=rss-------8-----------------data_science)
-- [The Three Types of Missing Data Every Data Professional Should Know](https://towardsdatascience.com/the-three-types-of-missing-data-every-data-professional-should-know-d988e17d6ace?source=rss-------8-----------------data_science)
-- [A Data Science Interpretation On E-Commerce Revenue And Customer Experience](https://leonardo-yamaguishi.medium.com/a-data-science-view-on-e-commerce-revenue-and-customer-experience-c416f15d3587?source=rss-------8-----------------data_science)
-- [Math for Data Science Beginners: Plotting and Data Visualization](https://benjaminobi.medium.com/math-for-data-science-beginners-plotting-and-data-visualization-bd5a762cf3a0?source=rss-------8-----------------data_science)
-- [The perception of objectivity in data](https://towardsdatascience.com/the-perception-of-objectivity-in-data-1abacf195b29?source=rss-------8-----------------data_science)
-- [Data Preprocessing in Python: All important steps explained](https://medium.com/nerd-for-tech/data-preprocessing-and-cleaning-in-python-all-important-steps-explained-6093b8cb0864?source=rss-------8-----------------data_science)
-- [Time Series Analysis of Covid-19 Data Using Dask](https://medium.com/geekculture/time-series-analysis-of-covid-19-data-using-dask-adc5f46adc8?source=rss-------8-----------------data_science)
-- [Wildfire spreading modeling : a trial with a ConvLSTM model purely data-driven](https://towardsdatascience.com/wildfire-spreading-modeling-a-trial-with-a-convlstm-model-purely-data-driven-455acd072244?source=rss-------8-----------------data_science)
-- [An Introduction to Machine Learning Engineering for Production — Part 1](https://towardsdatascience.com/an-introduction-to-machine-learning-engineering-for-production-part-1-2247bbca8a61?source=rss-------8-----------------data_science)
+- [How to Use Elastic Net Regularization with any GLM](https://towardsdatascience.com/how-to-use-elastic-net-regularization-with-any-glm-6eab524bbcc6?source=rss-------8-----------------data_science)
+- [Research: a tool for multiple ML experiments](https://medium.com/data-analysis-center/research-a-tool-for-multiple-ml-experiments-fae6206c5d2b?source=rss-------8-----------------data_science)
+- [Apache Airflow for Scheduling ML Models](https://python.plainenglish.io/apache-airflow-for-scheduling-ml-models-e854271f5216?source=rss-------8-----------------data_science)
+- [How Hacking and AI Research are Related](https://towardsdatascience.com/how-hacking-and-ai-research-are-related-55427bab6543?source=rss-------8-----------------data_science)
+- [How To Ace Your Next Data Science Interview with “Something Old, Something New, Something Borrowed”](https://towardsdatascience.com/how-to-ace-your-next-data-science-interview-with-something-old-something-new-something-borrowed-ba1e84d2cf22?source=rss-------8-----------------data_science)
+- [How to detect constant, quasi-constant features in your dataset](https://towardsdatascience.com/how-to-detect-constant-quasi-constant-features-in-your-dataset-a1ab7aea34b4?source=rss-------8-----------------data_science)
+- [Playing with Functions using PL/PGSQL is just a Fun](https://medium.com/nerd-for-tech/playing-with-functions-using-pl-pgsql-is-just-a-fun-e38889ddf382?source=rss-------8-----------------data_science)
+- [What’s AI Governance & Why Now?!](https://medium.com/be-data-driven/whats-ai-governance-why-now-c33768e60363?source=rss-------8-----------------data_science)
+- [Data Analysis using SQL: A Look Behind COVID-19 India Cases](https://medium.com/analytics-vidhya/data-analysis-using-sql-a-look-behind-covid-19-india-cases-1dfbad1dc82a?source=rss-------8-----------------data_science)
+- [What makes us happier?](https://medium.com/analytics-vidhya/what-makes-us-happier-53761e8a6d36?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
