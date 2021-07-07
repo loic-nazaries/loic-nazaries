@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Use Elastic Net Regularization with any GLM](https://towardsdatascience.com/how-to-use-elastic-net-regularization-with-any-glm-6eab524bbcc6?source=rss-------8-----------------data_science)
-- [Research: a tool for multiple ML experiments](https://medium.com/data-analysis-center/research-a-tool-for-multiple-ml-experiments-fae6206c5d2b?source=rss-------8-----------------data_science)
-- [Apache Airflow for Scheduling ML Models](https://python.plainenglish.io/apache-airflow-for-scheduling-ml-models-e854271f5216?source=rss-------8-----------------data_science)
-- [How Hacking and AI Research are Related](https://towardsdatascience.com/how-hacking-and-ai-research-are-related-55427bab6543?source=rss-------8-----------------data_science)
-- [How To Ace Your Next Data Science Interview with “Something Old, Something New, Something Borrowed”](https://towardsdatascience.com/how-to-ace-your-next-data-science-interview-with-something-old-something-new-something-borrowed-ba1e84d2cf22?source=rss-------8-----------------data_science)
-- [How to detect constant, quasi-constant features in your dataset](https://towardsdatascience.com/how-to-detect-constant-quasi-constant-features-in-your-dataset-a1ab7aea34b4?source=rss-------8-----------------data_science)
-- [Playing with Functions using PL/PGSQL is just a Fun](https://medium.com/nerd-for-tech/playing-with-functions-using-pl-pgsql-is-just-a-fun-e38889ddf382?source=rss-------8-----------------data_science)
-- [What’s AI Governance & Why Now?!](https://medium.com/be-data-driven/whats-ai-governance-why-now-c33768e60363?source=rss-------8-----------------data_science)
-- [Data Analysis using SQL: A Look Behind COVID-19 India Cases](https://medium.com/analytics-vidhya/data-analysis-using-sql-a-look-behind-covid-19-india-cases-1dfbad1dc82a?source=rss-------8-----------------data_science)
-- [What makes us happier?](https://medium.com/analytics-vidhya/what-makes-us-happier-53761e8a6d36?source=rss-------8-----------------data_science)
+- [Why the CLI is Essential for Data Scientists](https://towardsdatascience.com/why-the-cli-is-essential-for-data-scientists-cd7016f86d49?source=rss-------8-----------------data_science)
+- [Detecting fiducial markers from a PCB with pattern matching](https://towardsdatascience.com/detecting-fiducial-markers-from-a-pcb-with-pattern-matching-4ed7f3bfb644?source=rss-------8-----------------data_science)
+- [The Only Book You Need to Ace Advanced Machine Learning Strategy](https://towardsdatascience.com/the-only-book-you-need-to-ace-advanced-machine-learning-strategy-8d48ddbbe73d?source=rss-------8-----------------data_science)
+- [Use Case: Air Conditioner Piston Check](https://towardsdatascience.com/use-case-air-conditioner-piston-check-6007b9be40cf?source=rss-------8-----------------data_science)
+- [Artificiality Bites  Issue #47](https://medium.com/yottabytes/artificiality-bites-issue-47-d5a2a14af110?source=rss-------8-----------------data_science)
+- [Multi-step Time Series Forecasting with ARIMA, LightGBM, and Prophet](https://towardsdatascience.com/multi-step-time-series-forecasting-with-arima-lightgbm-and-prophet-cc9e3f95dfb0?source=rss-------8-----------------data_science)
+- [Two-sample Inference for the Difference Between Groups with Python](https://towardsdatascience.com/two-sample-inference-for-the-difference-between-groups-with-python-de91fbee32f9?source=rss-------8-----------------data_science)
+- [Creating Ternary Visualizations](https://towardsdatascience.com/creating-ternary-visualizations-9b4e5edfd0ff?source=rss-------8-----------------data_science)
+- [How to organize data for the decision trees algorithm](https://medium.com/nerd-for-tech/how-to-organize-data-for-the-decision-trees-algorithm-a57ffea7ac9d?source=rss-------8-----------------data_science)
+- [Implementing Boost Stat — Shot Quality](https://riczh106.medium.com/implementing-boost-stat-shot-quality-8c7495eaf1eb?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
