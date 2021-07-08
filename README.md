@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [15 Examples for Data Analysis with R](https://towardsdatascience.com/15-examples-for-data-analysis-with-r-8e4f77fa4416?source=rss-2cf6b549448------2)
 - [4 Methods for Changing the Column Order of a Pandas Data Frame](https://towardsdatascience.com/4-methods-for-changing-the-column-order-of-a-pandas-data-frame-a16cf0b58943?source=rss-2cf6b549448------2)
 - [3 Methods to Create Conditional Columns with Python Pandas and Numpy](https://towardsdatascience.com/3-methods-to-create-conditional-columns-with-python-pandas-and-numpy-a6cd4be9da53?source=rss-2cf6b549448------2)
 - [My Best Way to Learn a New Data Science Tool](https://towardsdatascience.com/my-best-way-to-learn-a-new-data-science-tool-b55dc0e36767?source=rss-2cf6b549448------2)
 - [2 Mistakes to Avoid When Training Your Machine Learning Model](https://towardsdatascience.com/2-mistakes-to-avoid-when-training-your-machine-learning-model-8af1e855f30a?source=rss-2cf6b549448------2)
-- [4 Tricks to Use Python F-strings More Efficiently](https://towardsdatascience.com/4-tricks-to-use-python-f-strings-more-efficiently-4f389e890514?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
