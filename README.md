@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why the CLI is Essential for Data Scientists](https://towardsdatascience.com/why-the-cli-is-essential-for-data-scientists-cd7016f86d49?source=rss-------8-----------------data_science)
-- [Detecting fiducial markers from a PCB with pattern matching](https://towardsdatascience.com/detecting-fiducial-markers-from-a-pcb-with-pattern-matching-4ed7f3bfb644?source=rss-------8-----------------data_science)
-- [The Only Book You Need to Ace Advanced Machine Learning Strategy](https://towardsdatascience.com/the-only-book-you-need-to-ace-advanced-machine-learning-strategy-8d48ddbbe73d?source=rss-------8-----------------data_science)
-- [Use Case: Air Conditioner Piston Check](https://towardsdatascience.com/use-case-air-conditioner-piston-check-6007b9be40cf?source=rss-------8-----------------data_science)
-- [Artificiality Bites  Issue #47](https://medium.com/yottabytes/artificiality-bites-issue-47-d5a2a14af110?source=rss-------8-----------------data_science)
-- [Multi-step Time Series Forecasting with ARIMA, LightGBM, and Prophet](https://towardsdatascience.com/multi-step-time-series-forecasting-with-arima-lightgbm-and-prophet-cc9e3f95dfb0?source=rss-------8-----------------data_science)
-- [Two-sample Inference for the Difference Between Groups with Python](https://towardsdatascience.com/two-sample-inference-for-the-difference-between-groups-with-python-de91fbee32f9?source=rss-------8-----------------data_science)
-- [Creating Ternary Visualizations](https://towardsdatascience.com/creating-ternary-visualizations-9b4e5edfd0ff?source=rss-------8-----------------data_science)
-- [How to organize data for the decision trees algorithm](https://medium.com/nerd-for-tech/how-to-organize-data-for-the-decision-trees-algorithm-a57ffea7ac9d?source=rss-------8-----------------data_science)
-- [Implementing Boost Stat — Shot Quality](https://riczh106.medium.com/implementing-boost-stat-shot-quality-8c7495eaf1eb?source=rss-------8-----------------data_science)
+- [Introducing Packed BERT for 2x faster Training in Natural Language Processing](https://towardsdatascience.com/introducing-packed-bert-for-2x-faster-training-in-natural-language-processing-eadb749962b1?source=rss-------8-----------------data_science)
+- [15 Examples for Data Analysis with R](https://towardsdatascience.com/15-examples-for-data-analysis-with-r-8e4f77fa4416?source=rss-------8-----------------data_science)
+- [Which Enterprise Data Warehouse performs better for your workloads?](https://griddynamics.medium.com/which-enterprise-data-warehouse-performs-better-for-your-workloads-fe4ecb018760?source=rss-------8-----------------data_science)
+- [How to Schedule Flights in Python](https://towardsdatascience.com/how-to-schedule-flights-in-python-3357b200db9e?source=rss-------8-----------------data_science)
+- [Top Five SQL Window Functions You Should Know For Data Science Interviews](https://towardsdatascience.com/top-five-sql-window-functions-you-should-know-for-data-science-interviews-b8b334af437?source=rss-------8-----------------data_science)
+- [Machine Learning Classifiers Python Code Generator App](https://robertosalazarr.medium.com/machine-learning-classifiers-python-code-generator-app-2fe2db7b653e?source=rss-------8-----------------data_science)
+- [Are You Still Not Processing Data Streams with Flink?](https://towardsdatascience.com/are-you-still-not-processing-data-streams-with-flink-dbe4dac85b4e?source=rss-------8-----------------data_science)
+- [Making pandas.DataFrame.apply faster with Bodo](https://medium.com/bodo-ai/making-pandas-dataframe-apply-faster-with-bodo-bbae1c485bdf?source=rss-------8-----------------data_science)
+- [The Post-Bubble Effects on NBA Players’ Healths](https://jaiagrawal.medium.com/the-post-bubble-effects-on-nba-players-healths-a5917faa27de?source=rss-------8-----------------data_science)
+- [All About Decision Trees Part 2](https://gaurav-kumar.medium.com/all-about-decision-trees-part-2-99fa9bc23cf5?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
