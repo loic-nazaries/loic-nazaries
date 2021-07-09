@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Introducing Packed BERT for 2x faster Training in Natural Language Processing](https://towardsdatascience.com/introducing-packed-bert-for-2x-faster-training-in-natural-language-processing-eadb749962b1?source=rss-------8-----------------data_science)
-- [15 Examples for Data Analysis with R](https://towardsdatascience.com/15-examples-for-data-analysis-with-r-8e4f77fa4416?source=rss-------8-----------------data_science)
-- [Which Enterprise Data Warehouse performs better for your workloads?](https://griddynamics.medium.com/which-enterprise-data-warehouse-performs-better-for-your-workloads-fe4ecb018760?source=rss-------8-----------------data_science)
-- [How to Schedule Flights in Python](https://towardsdatascience.com/how-to-schedule-flights-in-python-3357b200db9e?source=rss-------8-----------------data_science)
-- [Top Five SQL Window Functions You Should Know For Data Science Interviews](https://towardsdatascience.com/top-five-sql-window-functions-you-should-know-for-data-science-interviews-b8b334af437?source=rss-------8-----------------data_science)
-- [Machine Learning Classifiers Python Code Generator App](https://robertosalazarr.medium.com/machine-learning-classifiers-python-code-generator-app-2fe2db7b653e?source=rss-------8-----------------data_science)
-- [Are You Still Not Processing Data Streams with Flink?](https://towardsdatascience.com/are-you-still-not-processing-data-streams-with-flink-dbe4dac85b4e?source=rss-------8-----------------data_science)
-- [Making pandas.DataFrame.apply faster with Bodo](https://medium.com/bodo-ai/making-pandas-dataframe-apply-faster-with-bodo-bbae1c485bdf?source=rss-------8-----------------data_science)
-- [The Post-Bubble Effects on NBA Players’ Healths](https://jaiagrawal.medium.com/the-post-bubble-effects-on-nba-players-healths-a5917faa27de?source=rss-------8-----------------data_science)
-- [All About Decision Trees Part 2](https://gaurav-kumar.medium.com/all-about-decision-trees-part-2-99fa9bc23cf5?source=rss-------8-----------------data_science)
+- [Principal Components: Tessa Jones on the Data Science Ecosystem](https://susansivek.medium.com/principal-components-tessa-jones-on-the-data-science-ecosystem-654aef41e707?source=rss-------8-----------------data_science)
+- [Be a Proteomic Detective with Python](https://towardsdatascience.com/be-a-proteomic-detective-with-python-6ea18ef3f8f3?source=rss-------8-----------------data_science)
+- [Data Virtualization and Its Benefits for Business Users](https://fintelics.medium.com/data-virtualization-and-its-benefits-for-business-users-dc10c1486525?source=rss-------8-----------------data_science)
+- [SQL Simplified — 10 advanced practice problems and solutions covering most SQL concepts](https://duncan-kg-anderson.medium.com/sql-simplified-10-advanced-practice-problems-and-solutions-covering-most-sql-concepts-61fb96e7ec5a?source=rss-------8-----------------data_science)
+- [Natural Language Processing: From one-hot vectors to billion parameter models](https://towardsdatascience.com/natural-language-processing-from-one-hot-vectors-to-billion-parameter-models-302c7d9058c6?source=rss-------8-----------------data_science)
+- [July 2021: ML News and Code](https://towardsdatascience.com/july-2021-ml-news-and-code-367f7d09a77e?source=rss-------8-----------------data_science)
+- [All You Need to Know to Secure Apps with CloudFront Functions And S3](https://towardsdatascience.com/all-you-need-to-know-to-secure-apps-with-cloudfront-functions-and-s3-d9f5c966d8a9?source=rss-------8-----------------data_science)
+- [Multiple Bayesian Tests in Row](https://towardsdatascience.com/multiple-bayesian-tests-in-row-2e4ad8fb5055?source=rss-------8-----------------data_science)
+- [Fast & Easy Python APIs Using FastAPI](https://towardsdatascience.com/fast-easy-python-apis-using-fastapi-83c3115d1045?source=rss-------8-----------------data_science)
+- [Choosing Between Python and Tableau For Your Data Visualization](https://medium.com/analytics-vidhya/choosing-between-python-and-tableau-for-your-data-visualization-156a7a6bafc9?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
