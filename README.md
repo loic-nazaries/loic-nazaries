@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Principal Components: Tessa Jones on the Data Science Ecosystem](https://susansivek.medium.com/principal-components-tessa-jones-on-the-data-science-ecosystem-654aef41e707?source=rss-------8-----------------data_science)
-- [Be a Proteomic Detective with Python](https://towardsdatascience.com/be-a-proteomic-detective-with-python-6ea18ef3f8f3?source=rss-------8-----------------data_science)
-- [Data Virtualization and Its Benefits for Business Users](https://fintelics.medium.com/data-virtualization-and-its-benefits-for-business-users-dc10c1486525?source=rss-------8-----------------data_science)
-- [SQL Simplified — 10 advanced practice problems and solutions covering most SQL concepts](https://duncan-kg-anderson.medium.com/sql-simplified-10-advanced-practice-problems-and-solutions-covering-most-sql-concepts-61fb96e7ec5a?source=rss-------8-----------------data_science)
-- [Natural Language Processing: From one-hot vectors to billion parameter models](https://towardsdatascience.com/natural-language-processing-from-one-hot-vectors-to-billion-parameter-models-302c7d9058c6?source=rss-------8-----------------data_science)
-- [July 2021: ML News and Code](https://towardsdatascience.com/july-2021-ml-news-and-code-367f7d09a77e?source=rss-------8-----------------data_science)
-- [All You Need to Know to Secure Apps with CloudFront Functions And S3](https://towardsdatascience.com/all-you-need-to-know-to-secure-apps-with-cloudfront-functions-and-s3-d9f5c966d8a9?source=rss-------8-----------------data_science)
-- [Multiple Bayesian Tests in Row](https://towardsdatascience.com/multiple-bayesian-tests-in-row-2e4ad8fb5055?source=rss-------8-----------------data_science)
-- [Fast & Easy Python APIs Using FastAPI](https://towardsdatascience.com/fast-easy-python-apis-using-fastapi-83c3115d1045?source=rss-------8-----------------data_science)
-- [Choosing Between Python and Tableau For Your Data Visualization](https://medium.com/analytics-vidhya/choosing-between-python-and-tableau-for-your-data-visualization-156a7a6bafc9?source=rss-------8-----------------data_science)
+- [Loan Status Predictor using Neural Networks and Random Forest Classifier](https://dhruvtuteja.medium.com/loan-status-predictor-using-neural-networks-and-random-forest-classifier-2065d1b4fa4d?source=rss-------8-----------------data_science)
+- [An Introduction to Regression Discontinuity Design](https://towardsdatascience.com/an-introduction-to-regression-discontinuity-design-f55075079def?source=rss-------8-----------------data_science)
+- [Understanding Skills Scarcity in An External Market — Part 2](https://medium.com/ibm-data-ai/understanding-skills-scarcity-in-an-external-market-part-2-d7060d27f057?source=rss-------8-----------------data_science)
+- [Handling “Missing Data” Like a Pro — Part 2— Imputation Methods](https://towardsdatascience.com/handling-missing-data-like-a-pro-part-2-imputation-methods-eabbf10b9ce4?source=rss-------8-----------------data_science)
+- [Point clouds in the cloud](https://towardsdatascience.com/point-clouds-in-the-cloud-b7266da4ff25?source=rss-------8-----------------data_science)
+- [Graph Convolutional Neural Networks to Analyze Complex Carbohydrates](https://towardsdatascience.com/graph-convolutional-neural-networks-to-analyze-complex-carbohydrates-91f6bae297de?source=rss-------8-----------------data_science)
+- [5 Free Resources for Generating Realistic Fake Data](https://towardsdatascience.com/free-resources-for-generating-realistic-fake-data-da63836be1a8?source=rss-------8-----------------data_science)
+- [Principal Components: Tessa Jones on the Data Science Ecosystem](https://towardsdatascience.com/principal-components-tessa-jones-on-the-data-science-ecosystem-654aef41e707?source=rss-------8-----------------data_science)
+- [Including ModelOps in your AI strategy](https://towardsdatascience.com/including-modelops-in-your-ai-strategy-f3a7bb4831dd?source=rss-------8-----------------data_science)
+- [Beyond Anomaly Detection](https://towardsdatascience.com/beyond-anomaly-detection-2000e77dd383?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
