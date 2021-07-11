@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Loan Status Predictor using Neural Networks and Random Forest Classifier](https://dhruvtuteja.medium.com/loan-status-predictor-using-neural-networks-and-random-forest-classifier-2065d1b4fa4d?source=rss-------8-----------------data_science)
-- [An Introduction to Regression Discontinuity Design](https://towardsdatascience.com/an-introduction-to-regression-discontinuity-design-f55075079def?source=rss-------8-----------------data_science)
-- [Understanding Skills Scarcity in An External Market — Part 2](https://medium.com/ibm-data-ai/understanding-skills-scarcity-in-an-external-market-part-2-d7060d27f057?source=rss-------8-----------------data_science)
-- [Handling “Missing Data” Like a Pro — Part 2— Imputation Methods](https://towardsdatascience.com/handling-missing-data-like-a-pro-part-2-imputation-methods-eabbf10b9ce4?source=rss-------8-----------------data_science)
-- [Point clouds in the cloud](https://towardsdatascience.com/point-clouds-in-the-cloud-b7266da4ff25?source=rss-------8-----------------data_science)
-- [Graph Convolutional Neural Networks to Analyze Complex Carbohydrates](https://towardsdatascience.com/graph-convolutional-neural-networks-to-analyze-complex-carbohydrates-91f6bae297de?source=rss-------8-----------------data_science)
-- [5 Free Resources for Generating Realistic Fake Data](https://towardsdatascience.com/free-resources-for-generating-realistic-fake-data-da63836be1a8?source=rss-------8-----------------data_science)
-- [Principal Components: Tessa Jones on the Data Science Ecosystem](https://towardsdatascience.com/principal-components-tessa-jones-on-the-data-science-ecosystem-654aef41e707?source=rss-------8-----------------data_science)
-- [Including ModelOps in your AI strategy](https://towardsdatascience.com/including-modelops-in-your-ai-strategy-f3a7bb4831dd?source=rss-------8-----------------data_science)
-- [Beyond Anomaly Detection](https://towardsdatascience.com/beyond-anomaly-detection-2000e77dd383?source=rss-------8-----------------data_science)
+- [5 Must-Know Pandas Functions for Data Science](https://towardsdatascience.com/5-must-know-pandas-functions-for-data-science-d29d04653190?source=rss-------8-----------------data_science)
+- [5 Solved end-to-end Data Science Projects in Python](https://towardsdatascience.com/5-solved-end-to-end-data-science-projects-in-python-acdc347f36d0?source=rss-------8-----------------data_science)
+- [An Introduction to Machine Learning Competitions](https://towardsdatascience.com/an-introduction-to-machine-learning-competitions-133cce76e219?source=rss-------8-----------------data_science)
+- [Defining Product Metrics— The Ultimate Guide [Part 1 of 2]](https://towardsdatascience.com/defining-product-metrics-the-ultimate-guide-part-1-of-2-585b8c63fcef?source=rss-------8-----------------data_science)
+- [5 Examples Where Data Scientists Can’t Be Automated](https://towardsdatascience.com/5-examples-where-data-scientists-cant-be-automated-c3d82c518d37?source=rss-------8-----------------data_science)
+- [Download the Entire SNP500 For Free Using Python](https://whynance.medium.com/download-the-snp500-for-free-using-python-bb28e2cb8fe0?source=rss-------8-----------------data_science)
+- [Why we do log transformation of variables and interpretation of Logloss](https://paulrohan.medium.com/why-we-do-log-transformation-of-variables-and-interpretation-of-logloss-ec7b895fdf62?source=rss-------8-----------------data_science)
+- [How to use machine learning to make predictions on a very small dataset](https://medium.com/mlearning-ai/how-to-use-machine-learning-to-make-predictions-on-a-very-small-dataset-cc8c6f7f7575?source=rss-------8-----------------data_science)
+- [Back-Testing Mean Reversion Trading Strategy with Threshold Value-Energy Series](https://sarit-maitra.medium.com/back-testing-mean-reversion-with-threshold-trading-strategy-47b9e00fe6d6?source=rss-------8-----------------data_science)
+- [Building a GAN with PyTorch](https://towardsdatascience.com/building-a-gan-with-pytorch-237b4b07ca9a?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
