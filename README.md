@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [5 Must-Know Pandas Functions for Data Science](https://towardsdatascience.com/5-must-know-pandas-functions-for-data-science-d29d04653190?source=rss-------8-----------------data_science)
-- [5 Solved end-to-end Data Science Projects in Python](https://towardsdatascience.com/5-solved-end-to-end-data-science-projects-in-python-acdc347f36d0?source=rss-------8-----------------data_science)
-- [An Introduction to Machine Learning Competitions](https://towardsdatascience.com/an-introduction-to-machine-learning-competitions-133cce76e219?source=rss-------8-----------------data_science)
-- [Defining Product Metrics— The Ultimate Guide [Part 1 of 2]](https://towardsdatascience.com/defining-product-metrics-the-ultimate-guide-part-1-of-2-585b8c63fcef?source=rss-------8-----------------data_science)
-- [5 Examples Where Data Scientists Can’t Be Automated](https://towardsdatascience.com/5-examples-where-data-scientists-cant-be-automated-c3d82c518d37?source=rss-------8-----------------data_science)
-- [Download the Entire SNP500 For Free Using Python](https://whynance.medium.com/download-the-snp500-for-free-using-python-bb28e2cb8fe0?source=rss-------8-----------------data_science)
-- [Why we do log transformation of variables and interpretation of Logloss](https://paulrohan.medium.com/why-we-do-log-transformation-of-variables-and-interpretation-of-logloss-ec7b895fdf62?source=rss-------8-----------------data_science)
-- [How to use machine learning to make predictions on a very small dataset](https://medium.com/mlearning-ai/how-to-use-machine-learning-to-make-predictions-on-a-very-small-dataset-cc8c6f7f7575?source=rss-------8-----------------data_science)
-- [Back-Testing Mean Reversion Trading Strategy with Threshold Value-Energy Series](https://sarit-maitra.medium.com/back-testing-mean-reversion-with-threshold-trading-strategy-47b9e00fe6d6?source=rss-------8-----------------data_science)
-- [Building a GAN with PyTorch](https://towardsdatascience.com/building-a-gan-with-pytorch-237b4b07ca9a?source=rss-------8-----------------data_science)
+- [Identity keyrings](https://towardsdatascience.com/identity-keyrings-201d17295954?source=rss-------8-----------------data_science)
+- [SHAP: Shapley Additive Explanations](https://towardsdatascience.com/shap-shapley-additive-explanations-5a2a271ed9c3?source=rss-------8-----------------data_science)
+- [The “Frequently Bought Together” Recommendation System](https://benbogart.medium.com/the-frequently-bought-together-recommendation-system-5c82f316b40?source=rss-------8-----------------data_science)
+- [Stop chasing every shiny new technology and focus on what really matters](https://towardsdatascience.com/stop-chasing-every-shiny-new-technology-and-focus-on-what-really-matters-1d5cb4ef3410?source=rss-------8-----------------data_science)
+- [How to start a career as a data analyst from a background in the arts, and why](https://towardsdatascience.com/how-to-start-a-career-as-a-data-analyst-from-a-background-in-the-arts-and-why-913b3ac6710d?source=rss-------8-----------------data_science)
+- [Failure in Handling Missing data](https://dataakkadian.medium.com/failure-in-handling-missing-data-403652d26cff?source=rss-------8-----------------data_science)
+- [Data Visualization — How to Pick the Right Tool ?](https://felixvidalgu.medium.com/data-visualization-how-to-pick-the-right-tool-106a41525293?source=rss-------8-----------------data_science)
+- [Big Data Slowly Changing Dimension Type2 with Spark and Delta Lake](https://medium.com/@erkansirin/big-data-slowly-changing-dimension-type2-with-spark-and-delta-lake-79a89673f9f9?source=rss-------8-----------------data_science)
+- [Investigating Spotify’s Danceability Index & Other Song Attributes](https://dhruv-khurjekar.medium.com/investigating-spotifys-danceability-index-other-song-attributes-1983142f7dfd?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
