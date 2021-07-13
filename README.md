@@ -105,15 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Identity keyrings](https://towardsdatascience.com/identity-keyrings-201d17295954?source=rss-------8-----------------data_science)
-- [SHAP: Shapley Additive Explanations](https://towardsdatascience.com/shap-shapley-additive-explanations-5a2a271ed9c3?source=rss-------8-----------------data_science)
-- [The “Frequently Bought Together” Recommendation System](https://benbogart.medium.com/the-frequently-bought-together-recommendation-system-5c82f316b40?source=rss-------8-----------------data_science)
-- [Stop chasing every shiny new technology and focus on what really matters](https://towardsdatascience.com/stop-chasing-every-shiny-new-technology-and-focus-on-what-really-matters-1d5cb4ef3410?source=rss-------8-----------------data_science)
-- [How to start a career as a data analyst from a background in the arts, and why](https://towardsdatascience.com/how-to-start-a-career-as-a-data-analyst-from-a-background-in-the-arts-and-why-913b3ac6710d?source=rss-------8-----------------data_science)
-- [Failure in Handling Missing data](https://dataakkadian.medium.com/failure-in-handling-missing-data-403652d26cff?source=rss-------8-----------------data_science)
-- [Data Visualization — How to Pick the Right Tool ?](https://felixvidalgu.medium.com/data-visualization-how-to-pick-the-right-tool-106a41525293?source=rss-------8-----------------data_science)
-- [Big Data Slowly Changing Dimension Type2 with Spark and Delta Lake](https://medium.com/@erkansirin/big-data-slowly-changing-dimension-type2-with-spark-and-delta-lake-79a89673f9f9?source=rss-------8-----------------data_science)
-- [Investigating Spotify’s Danceability Index & Other Song Attributes](https://dhruv-khurjekar.medium.com/investigating-spotifys-danceability-index-other-song-attributes-1983142f7dfd?source=rss-------8-----------------data_science)
+- [Don’t Let Your Data Fail You](https://towardsdatascience.com/dont-let-your-data-fail-you-4666ed7911b3?source=rss-------8-----------------data_science)
+- [How to Create a Perfect Data Strategy](https://towardsdatascience.com/how-to-create-a-perfect-data-strategy-7e8fd9bbfad0?source=rss-------8-----------------data_science)
+- [Build Your Own Modular Audio Course on AI Ethics and Safety](https://towardsdatascience.com/build-your-own-modular-audio-course-on-ai-ethics-and-safety-5035a66eef55?source=rss-------8-----------------data_science)
+- [Scrape Data from PDF Files Using Python](https://aaron-zhu.medium.com/scrape-data-from-pdf-files-using-python-fe2dc96b1e68?source=rss-------8-----------------data_science)
+- [IntruQuantum Machine Learning](https://vddatarishi.medium.com/intruquantum-machine-learning-9056ef0773aa?source=rss-------8-----------------data_science)
+- [HOW SHOULD YOU START TO LEARN MACHINE LEARNING USING JAVA?](https://medium.com/magnidata/how-should-you-start-to-learn-machine-learning-using-java-543c119c1eb5?source=rss-------8-----------------data_science)
+- [Work, work, work… your table up!](https://medium.datadriveninvestor.com/work-work-work-your-table-up-28882dbf70a6?source=rss-------8-----------------data_science)
+- [From Data Lake to Analytical Data Platform](https://griddynamics.medium.com/from-data-lake-to-analytical-data-platform-3117f69cda55?source=rss-------8-----------------data_science)
+- [Arabic Text Diacritization Using Deep Neural Networks](https://theactivereader.medium.com/arabic-text-diacritization-using-deep-neural-networks-408f7afa2c33?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
