@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Don’t Let Your Data Fail You](https://towardsdatascience.com/dont-let-your-data-fail-you-4666ed7911b3?source=rss-------8-----------------data_science)
-- [How to Create a Perfect Data Strategy](https://towardsdatascience.com/how-to-create-a-perfect-data-strategy-7e8fd9bbfad0?source=rss-------8-----------------data_science)
-- [Build Your Own Modular Audio Course on AI Ethics and Safety](https://towardsdatascience.com/build-your-own-modular-audio-course-on-ai-ethics-and-safety-5035a66eef55?source=rss-------8-----------------data_science)
-- [Scrape Data from PDF Files Using Python](https://aaron-zhu.medium.com/scrape-data-from-pdf-files-using-python-fe2dc96b1e68?source=rss-------8-----------------data_science)
-- [IntruQuantum Machine Learning](https://vddatarishi.medium.com/intruquantum-machine-learning-9056ef0773aa?source=rss-------8-----------------data_science)
-- [HOW SHOULD YOU START TO LEARN MACHINE LEARNING USING JAVA?](https://medium.com/magnidata/how-should-you-start-to-learn-machine-learning-using-java-543c119c1eb5?source=rss-------8-----------------data_science)
-- [Work, work, work… your table up!](https://medium.datadriveninvestor.com/work-work-work-your-table-up-28882dbf70a6?source=rss-------8-----------------data_science)
-- [From Data Lake to Analytical Data Platform](https://griddynamics.medium.com/from-data-lake-to-analytical-data-platform-3117f69cda55?source=rss-------8-----------------data_science)
-- [Arabic Text Diacritization Using Deep Neural Networks](https://theactivereader.medium.com/arabic-text-diacritization-using-deep-neural-networks-408f7afa2c33?source=rss-------8-----------------data_science)
+- [Russian Bridges, Eulerian Circuits, and Genome Assembly?](https://hello-devpatel.medium.com/russian-bridges-eulerian-circuits-and-genome-assembly-9fd1d84832e9?source=rss-------8-----------------data_science)
+- [How data visualization is changing the world](https://bianca-dragomir.medium.com/how-data-visualization-is-changing-the-world-b1d19e49c139?source=rss-------8-----------------data_science)
+- [How to build a Digital Twin](https://towardsdatascience.com/how-to-build-a-digital-twin-b31058fd5d3e?source=rss-------8-----------------data_science)
+- [Ethical Data Work: Lessons on Technical Data Protection](https://towardsdatascience.com/ethical-data-work-lessons-on-technical-data-protection-e6ab2d0c6571?source=rss-------8-----------------data_science)
+- [Teaching AI to play Super Mario Land— Genetic Algorithm](https://towardsdatascience.com/teaching-ai-to-play-super-mario-land-genetic-algorithm-dde42c814e16?source=rss-------8-----------------data_science)
+- [Building Custom Datasets with Beautiful Soup](https://pevansimpson.medium.com/building-custom-datasets-with-beautiful-soup-d037f14c469d?source=rss-------8-----------------data_science)
+- [Predicting the Movements With Pattern-Based Technical Analysis](https://medium.com/yardcouch-com/predicting-the-movements-with-pattern-based-technical-analysis-c5cd6b584e0e?source=rss-------8-----------------data_science)
+- [Creating Joy Plots Using JoyPy](https://towardsdatascience.com/creating-joy-plots-using-joypy-67327a15eb50?source=rss-------8-----------------data_science)
+- [Free Data Science Degree From “Internet Academy”](https://medium.com/geekculture/free-data-science-degree-from-internet-academy-4297fa1ec33b?source=rss-------8-----------------data_science)
+- [How to Break Down Silos and Find Community as a Data Scientist](https://towardsdatascience.com/how-to-break-down-silos-and-find-community-as-a-data-scientist-c9c8c862f30e?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
