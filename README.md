@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Russian Bridges, Eulerian Circuits, and Genome Assembly?](https://hello-devpatel.medium.com/russian-bridges-eulerian-circuits-and-genome-assembly-9fd1d84832e9?source=rss-------8-----------------data_science)
-- [How data visualization is changing the world](https://bianca-dragomir.medium.com/how-data-visualization-is-changing-the-world-b1d19e49c139?source=rss-------8-----------------data_science)
-- [How to build a Digital Twin](https://towardsdatascience.com/how-to-build-a-digital-twin-b31058fd5d3e?source=rss-------8-----------------data_science)
-- [Ethical Data Work: Lessons on Technical Data Protection](https://towardsdatascience.com/ethical-data-work-lessons-on-technical-data-protection-e6ab2d0c6571?source=rss-------8-----------------data_science)
-- [Teaching AI to play Super Mario Land— Genetic Algorithm](https://towardsdatascience.com/teaching-ai-to-play-super-mario-land-genetic-algorithm-dde42c814e16?source=rss-------8-----------------data_science)
-- [Building Custom Datasets with Beautiful Soup](https://pevansimpson.medium.com/building-custom-datasets-with-beautiful-soup-d037f14c469d?source=rss-------8-----------------data_science)
-- [Predicting the Movements With Pattern-Based Technical Analysis](https://medium.com/yardcouch-com/predicting-the-movements-with-pattern-based-technical-analysis-c5cd6b584e0e?source=rss-------8-----------------data_science)
-- [Creating Joy Plots Using JoyPy](https://towardsdatascience.com/creating-joy-plots-using-joypy-67327a15eb50?source=rss-------8-----------------data_science)
-- [Free Data Science Degree From “Internet Academy”](https://medium.com/geekculture/free-data-science-degree-from-internet-academy-4297fa1ec33b?source=rss-------8-----------------data_science)
-- [How to Break Down Silos and Find Community as a Data Scientist](https://towardsdatascience.com/how-to-break-down-silos-and-find-community-as-a-data-scientist-c9c8c862f30e?source=rss-------8-----------------data_science)
+- [Using Cannabis Search Engines](https://medium.com/cannabis-explorations/using-cannabis-search-engines-48dc44dd66db?source=rss-------8-----------------data_science)
+- [Make Your Data Analysis Easy By Using Excel](https://medium.com/analytics-vidhya/make-your-data-analysis-easy-by-using-excel-836cf7c95aab?source=rss-------8-----------------data_science)
+- [Data Engineers of Netflix — Interview with Kevin Wylie](https://netflixtechblog.medium.com/data-engineers-of-netflix-interview-with-kevin-wylie-7fb9113a01ea?source=rss-------8-----------------data_science)
+- [Outlier detection techniques](https://lih-verma.medium.com/outlier-detection-techniques-a3489ee04036?source=rss-------8-----------------data_science)
+- [Modeling real-time PCR dynamics with r](https://tavoglc.medium.com/modeling-real-time-pcr-dynamics-with-r-2d6ab91ba9f2?source=rss-------8-----------------data_science)
+- [What “Statistically Significant” Really Means.](https://medium.com/nerd-for-tech/what-statistically-significant-really-means-cb209df63bc2?source=rss-------8-----------------data_science)
+- [Signal Detection Theory: Part 2](https://www.cantorsparadise.com/signal-detection-theory-part-2-e5882c985795?source=rss-------8-----------------data_science)
+- [How to Automate Operationalization of Machine Learning Apps — an Introduction to Metaflow](https://medium.com/swlh/how-to-automate-operationalization-of-machine-learning-apps-an-introduction-to-metaflow-436113c5e963?source=rss-------8-----------------data_science)
+- [Deep Air: the Smart Data Approach to Designing Healthier Cities](https://towardsdatascience.com/deep-air-the-smart-data-approach-to-designing-healthier-cities-8cef4bb2c33?source=rss-------8-----------------data_science)
+- [Using the 5-Stage Data Maturity Model for Organizational Impact](https://towardsdatascience.com/using-the-5-stage-data-maturity-model-for-organizational-impact-d398ddd07c4c?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
