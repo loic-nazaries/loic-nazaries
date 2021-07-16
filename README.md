@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Using Cannabis Search Engines](https://medium.com/cannabis-explorations/using-cannabis-search-engines-48dc44dd66db?source=rss-------8-----------------data_science)
-- [Make Your Data Analysis Easy By Using Excel](https://medium.com/analytics-vidhya/make-your-data-analysis-easy-by-using-excel-836cf7c95aab?source=rss-------8-----------------data_science)
-- [Data Engineers of Netflix — Interview with Kevin Wylie](https://netflixtechblog.medium.com/data-engineers-of-netflix-interview-with-kevin-wylie-7fb9113a01ea?source=rss-------8-----------------data_science)
-- [Outlier detection techniques](https://lih-verma.medium.com/outlier-detection-techniques-a3489ee04036?source=rss-------8-----------------data_science)
-- [Modeling real-time PCR dynamics with r](https://tavoglc.medium.com/modeling-real-time-pcr-dynamics-with-r-2d6ab91ba9f2?source=rss-------8-----------------data_science)
-- [What “Statistically Significant” Really Means.](https://medium.com/nerd-for-tech/what-statistically-significant-really-means-cb209df63bc2?source=rss-------8-----------------data_science)
-- [Signal Detection Theory: Part 2](https://www.cantorsparadise.com/signal-detection-theory-part-2-e5882c985795?source=rss-------8-----------------data_science)
-- [How to Automate Operationalization of Machine Learning Apps — an Introduction to Metaflow](https://medium.com/swlh/how-to-automate-operationalization-of-machine-learning-apps-an-introduction-to-metaflow-436113c5e963?source=rss-------8-----------------data_science)
-- [Deep Air: the Smart Data Approach to Designing Healthier Cities](https://towardsdatascience.com/deep-air-the-smart-data-approach-to-designing-healthier-cities-8cef4bb2c33?source=rss-------8-----------------data_science)
-- [Using the 5-Stage Data Maturity Model for Organizational Impact](https://towardsdatascience.com/using-the-5-stage-data-maturity-model-for-organizational-impact-d398ddd07c4c?source=rss-------8-----------------data_science)
+- [Following the Data Science Process](https://medium.com/dataman-in-ai/follow-the-data-science-modeling-process-7e39d428c01d?source=rss-------8-----------------data_science)
+- [Naive Bayes with Bag of Words on Kaggle Donor Choose Dataset](https://medium.com/analytics-vidhya/naive-bayes-with-bag-of-words-on-kaggle-donor-choose-dataset-117573335b6c?source=rss-------8-----------------data_science)
+- [Data-Driven through an Equity Lens](https://medium.com/dataclinic/data-driven-through-an-equity-lens-7cac00b2cc99?source=rss-------8-----------------data_science)
+- [Python is Perfect — Why Anti-Python Developers Won’t Give Up.](https://towardsdatascience.com/python-is-perfect-why-anti-python-developers-wont-give-up-326ae1a09e7f?source=rss-------8-----------------data_science)
+- [Deploy Your Model with Python Streamlit](https://medium.com/dataman-in-ai/deploying-your-model-with-python-streamlit-ccc71a3500bf?source=rss-------8-----------------data_science)
+- [5 Ways for Better visualization](https://medium.com/javarevisited/5-ways-for-better-visualization-4a549c63a551?source=rss-------8-----------------data_science)
+- [UX surveys: getting started](https://bootcamp.uxdesign.cc/ux-surveys-getting-started-b1a46693e99d?source=rss-------8-----------------data_science)
+- [The Lakehouse Architecture](https://lalverma.medium.com/the-lakehouse-architecture-843c84ba110f?source=rss-------8-----------------data_science)
+- [Open Science Storms the Cloud: A Transformation in Collaborative and Inclusive Data Science](https://impactunofficial.medium.com/open-science-storms-the-cloud-a-transformation-in-collaborative-and-inclusive-data-science-75c6bb822db9?source=rss-------8-----------------data_science)
+- [My Current Favorite Power BI Feature](https://towardsdatascience.com/my-current-favorite-power-bi-feature-d2dce14d007b?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
