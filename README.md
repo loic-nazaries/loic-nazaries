@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [Generating Mock Sales Data with Python Pandas](https://towardsdatascience.com/generating-mock-sales-data-with-python-pandas-c904035782fe?source=rss-2cf6b549448------2)
 - [10 Examples That Will Make You Use Pandas Query Function More Often](https://towardsdatascience.com/10-examples-that-will-make-you-use-pandas-query-function-more-often-a8fb3e9361cb?source=rss-2cf6b549448------2)
 - [3 Must-Have Soft Skills for Data Scientists](https://towardsdatascience.com/3-must-have-soft-skills-for-data-scientists-58ea2deedb45?source=rss-2cf6b549448------2)
 - [15 Examples for Data Analysis with R](https://sonery.medium.com/15-examples-for-data-analysis-with-r-8e4f77fa4416?source=rss-2cf6b549448------2)
 - [4 Methods for Changing the Column Order of a Pandas Data Frame](https://towardsdatascience.com/4-methods-for-changing-the-column-order-of-a-pandas-data-frame-a16cf0b58943?source=rss-2cf6b549448------2)
-- [3 Methods to Create Conditional Columns with Python Pandas and Numpy](https://towardsdatascience.com/3-methods-to-create-conditional-columns-with-python-pandas-and-numpy-a6cd4be9da53?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
