@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Following the Data Science Process](https://medium.com/dataman-in-ai/follow-the-data-science-modeling-process-7e39d428c01d?source=rss-------8-----------------data_science)
-- [Naive Bayes with Bag of Words on Kaggle Donor Choose Dataset](https://medium.com/analytics-vidhya/naive-bayes-with-bag-of-words-on-kaggle-donor-choose-dataset-117573335b6c?source=rss-------8-----------------data_science)
-- [Data-Driven through an Equity Lens](https://medium.com/dataclinic/data-driven-through-an-equity-lens-7cac00b2cc99?source=rss-------8-----------------data_science)
-- [Python is Perfect — Why Anti-Python Developers Won’t Give Up.](https://towardsdatascience.com/python-is-perfect-why-anti-python-developers-wont-give-up-326ae1a09e7f?source=rss-------8-----------------data_science)
-- [Deploy Your Model with Python Streamlit](https://medium.com/dataman-in-ai/deploying-your-model-with-python-streamlit-ccc71a3500bf?source=rss-------8-----------------data_science)
-- [5 Ways for Better visualization](https://medium.com/javarevisited/5-ways-for-better-visualization-4a549c63a551?source=rss-------8-----------------data_science)
-- [UX surveys: getting started](https://bootcamp.uxdesign.cc/ux-surveys-getting-started-b1a46693e99d?source=rss-------8-----------------data_science)
-- [The Lakehouse Architecture](https://lalverma.medium.com/the-lakehouse-architecture-843c84ba110f?source=rss-------8-----------------data_science)
-- [Open Science Storms the Cloud: A Transformation in Collaborative and Inclusive Data Science](https://impactunofficial.medium.com/open-science-storms-the-cloud-a-transformation-in-collaborative-and-inclusive-data-science-75c6bb822db9?source=rss-------8-----------------data_science)
-- [My Current Favorite Power BI Feature](https://towardsdatascience.com/my-current-favorite-power-bi-feature-d2dce14d007b?source=rss-------8-----------------data_science)
+- [5 Differences Between Data Scientists and Machine Learning Engineers](https://towardsdatascience.com/5-differences-between-data-scientists-and-machine-learning-engineers-a72e0cda7c33?source=rss-------8-----------------data_science)
+- [Kats: a Generalizable Framework to Analyze Time Series Data in Python](https://towardsdatascience.com/kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057?source=rss-------8-----------------data_science)
+- [Affimer Proteins: Next Generation Sequencing Data Analysis Part 1](https://towardsdatascience.com/affimer-proteins-next-generation-sequencing-data-analysis-part-1-ac6a252842be?source=rss-------8-----------------data_science)
+- [The Binary Multidimensional Knapsack Problem (MKP)](https://towardsdatascience.com/the-binary-multidimensional-knapsack-problem-mkp-2559745f5fde?source=rss-------8-----------------data_science)
+- [Monty Hall is Simpler Than You think!](https://medium.com/@tbarton_16336/monty-hall-is-simpler-than-you-think-b3cf11915439?source=rss-------8-----------------data_science)
+- [How to clean quantitative user data — a visual guide](https://uxdesign.cc/how-to-clean-quantitative-user-data-a-visual-guide-854ef1f5705d?source=rss-------8-----------------data_science)
+- [I Asked an AI to Write Absurd Fake News](https://towardsdatascience.com/i-asked-an-ai-to-write-absurd-fake-news-b97c07541152?source=rss-------8-----------------data_science)
+- [How to speed up your AB test: Outlier capping and CUPED](https://craft.faire.com/how-to-speed-up-your-a-b-test-outlier-capping-and-cuped-8c9df21c76b?source=rss-------8-----------------data_science)
+- [Matplotlib for Beginners Part 1](https://medium.com/swlh/matplotlib-for-beginners-part-1-740e81d2d217?source=rss-------8-----------------data_science)
+- [TensorFlow vs Keras: A Comparison](https://towardsdatascience.com/tensorflow-vs-keras-d51f2d68fdfc?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
