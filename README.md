@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [5 Differences Between Data Scientists and Machine Learning Engineers](https://towardsdatascience.com/5-differences-between-data-scientists-and-machine-learning-engineers-a72e0cda7c33?source=rss-------8-----------------data_science)
-- [Kats: a Generalizable Framework to Analyze Time Series Data in Python](https://towardsdatascience.com/kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057?source=rss-------8-----------------data_science)
-- [Affimer Proteins: Next Generation Sequencing Data Analysis Part 1](https://towardsdatascience.com/affimer-proteins-next-generation-sequencing-data-analysis-part-1-ac6a252842be?source=rss-------8-----------------data_science)
-- [The Binary Multidimensional Knapsack Problem (MKP)](https://towardsdatascience.com/the-binary-multidimensional-knapsack-problem-mkp-2559745f5fde?source=rss-------8-----------------data_science)
-- [Monty Hall is Simpler Than You think!](https://medium.com/@tbarton_16336/monty-hall-is-simpler-than-you-think-b3cf11915439?source=rss-------8-----------------data_science)
-- [How to clean quantitative user data — a visual guide](https://uxdesign.cc/how-to-clean-quantitative-user-data-a-visual-guide-854ef1f5705d?source=rss-------8-----------------data_science)
-- [I Asked an AI to Write Absurd Fake News](https://towardsdatascience.com/i-asked-an-ai-to-write-absurd-fake-news-b97c07541152?source=rss-------8-----------------data_science)
-- [How to speed up your AB test: Outlier capping and CUPED](https://craft.faire.com/how-to-speed-up-your-a-b-test-outlier-capping-and-cuped-8c9df21c76b?source=rss-------8-----------------data_science)
-- [Matplotlib for Beginners Part 1](https://medium.com/swlh/matplotlib-for-beginners-part-1-740e81d2d217?source=rss-------8-----------------data_science)
-- [TensorFlow vs Keras: A Comparison](https://towardsdatascience.com/tensorflow-vs-keras-d51f2d68fdfc?source=rss-------8-----------------data_science)
+- [Uber Data Scientist Interview Experience](https://towardsdatascience.com/uber-data-scientist-interview-experience-78305114540c?source=rss-------8-----------------data_science)
+- [Sentiment Analysis & Predictions](https://medium.com/@eric_luellen/sentiment-analysis-predictions-d28ad489c3d?source=rss-------8-----------------data_science)
+- [How to Select a Data Splitting Method](https://towardsdatascience.com/how-to-select-a-data-splitting-method-4cf6bc6991da?source=rss-------8-----------------data_science)
+- [How to Remove Non-Stationarity in Time Series Forecasting](https://towardsdatascience.com/how-to-remove-non-stationarity-in-time-series-forecasting-563c05c4bfc7?source=rss-------8-----------------data_science)
+- [Day 16 of the 66 Days of Data](https://medium.com/data-professor/day-16-of-the-66-days-of-data-c57a0c58455?source=rss-------8-----------------data_science)
+- [Great Books for Data Science 2](https://medium.com/@duncankmckinnon/great-books-for-data-science-2-e722c0c19b43?source=rss-------8-----------------data_science)
+- [Euro 2020 Final Twitter Analysis in Python — Part I](https://medium.com/@meetnandu996/euro-2020-final-twitter-analysis-in-python-part-i-3d84d667484?source=rss-------8-----------------data_science)
+- [MOST COMMON GIS TERMS](https://afumo.medium.com/most-common-gis-terms-6b50c82f7a22?source=rss-------8-----------------data_science)
+- [Applying PCA to Stocks](https://python.plainenglish.io/applying-pca-to-stocks-fbad2e51573f?source=rss-------8-----------------data_science)
+- [Causal Inference Using Instrumental Variables](https://robloxtechblog.com/causal-inference-using-instrumental-variables-580272d9ddbd?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
