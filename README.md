@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Uber Data Scientist Interview Experience](https://towardsdatascience.com/uber-data-scientist-interview-experience-78305114540c?source=rss-------8-----------------data_science)
-- [Sentiment Analysis & Predictions](https://medium.com/@eric_luellen/sentiment-analysis-predictions-d28ad489c3d?source=rss-------8-----------------data_science)
-- [How to Select a Data Splitting Method](https://towardsdatascience.com/how-to-select-a-data-splitting-method-4cf6bc6991da?source=rss-------8-----------------data_science)
-- [How to Remove Non-Stationarity in Time Series Forecasting](https://towardsdatascience.com/how-to-remove-non-stationarity-in-time-series-forecasting-563c05c4bfc7?source=rss-------8-----------------data_science)
-- [Day 16 of the 66 Days of Data](https://medium.com/data-professor/day-16-of-the-66-days-of-data-c57a0c58455?source=rss-------8-----------------data_science)
-- [Great Books for Data Science 2](https://medium.com/@duncankmckinnon/great-books-for-data-science-2-e722c0c19b43?source=rss-------8-----------------data_science)
-- [Euro 2020 Final Twitter Analysis in Python — Part I](https://medium.com/@meetnandu996/euro-2020-final-twitter-analysis-in-python-part-i-3d84d667484?source=rss-------8-----------------data_science)
-- [MOST COMMON GIS TERMS](https://afumo.medium.com/most-common-gis-terms-6b50c82f7a22?source=rss-------8-----------------data_science)
-- [Applying PCA to Stocks](https://python.plainenglish.io/applying-pca-to-stocks-fbad2e51573f?source=rss-------8-----------------data_science)
-- [Causal Inference Using Instrumental Variables](https://robloxtechblog.com/causal-inference-using-instrumental-variables-580272d9ddbd?source=rss-------8-----------------data_science)
+- [Intuitively Understand Maximum Likelihood](https://towardsdatascience.com/intuitively-understand-maximum-likelihood-121893bea5d0?source=rss-------8-----------------data_science)
+- [Automating Mundane Web-Based Tasks With Selenium and Heroku](https://towardsdatascience.com/automating-mundane-web-based-tasks-with-selenium-and-heroku-715a2f1ec35e?source=rss-------8-----------------data_science)
+- [WHAT ARE THE BENEFITS OF DEALING WITH DATA SCIENCE?](https://magnimind.medium.com/what-are-the-benefits-of-dealing-with-data-science-ce67b53a320d?source=rss-------8-----------------data_science)
+- [2 Hours of ML a Day — Day 1:  11:00 a.m. to 1:30 p.m.](https://medium.com/@ur.pratibha/2-hours-of-ml-a-day-day-1-11-00-a-m-to-1-30-p-m-e50b1bd8a1bf?source=rss-------8-----------------data_science)
+- [Human Resource analytics — Can we predict Employee Turnover with caret in R?](https://towardsdatascience.com/human-resource-analytics-can-we-predict-employee-turnover-with-caret-in-r-3d871217e708?source=rss-------8-----------------data_science)
+- [The Normal Distribution.](https://medium.com/almabetter/the-normal-distribution-5bdd5b479278?source=rss-------8-----------------data_science)
+- [Visualization of Bike Sharing System movements in Helsinki with an interactive flow-map](https://towardsdatascience.com/visualization-of-bike-sharing-system-movements-in-helsinki-with-an-interactive-flow-map-451d897104fe?source=rss-------8-----------------data_science)
+- [Trading the Spinning Top Pattern — The Full Guide.](https://medium.com/the-investors-handbook/trading-the-spinning-top-pattern-the-full-guide-9567697e0c28?source=rss-------8-----------------data_science)
+- [Is Trading Using Exponential Moving Averages (EMAs) Profitable?](https://jaiagrawal.medium.com/is-trading-using-exponential-moving-averages-emas-profitable-2482c4e8ba6e?source=rss-------8-----------------data_science)
+- [Spotify Music Data Analysis: Part 1](https://medium.com/analytics-vidhya/spotify-music-data-analysis-part-1-c8457bfc53a?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
