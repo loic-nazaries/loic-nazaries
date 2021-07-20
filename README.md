@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Intuitively Understand Maximum Likelihood](https://towardsdatascience.com/intuitively-understand-maximum-likelihood-121893bea5d0?source=rss-------8-----------------data_science)
-- [Automating Mundane Web-Based Tasks With Selenium and Heroku](https://towardsdatascience.com/automating-mundane-web-based-tasks-with-selenium-and-heroku-715a2f1ec35e?source=rss-------8-----------------data_science)
-- [WHAT ARE THE BENEFITS OF DEALING WITH DATA SCIENCE?](https://magnimind.medium.com/what-are-the-benefits-of-dealing-with-data-science-ce67b53a320d?source=rss-------8-----------------data_science)
-- [2 Hours of ML a Day — Day 1:  11:00 a.m. to 1:30 p.m.](https://medium.com/@ur.pratibha/2-hours-of-ml-a-day-day-1-11-00-a-m-to-1-30-p-m-e50b1bd8a1bf?source=rss-------8-----------------data_science)
-- [Human Resource analytics — Can we predict Employee Turnover with caret in R?](https://towardsdatascience.com/human-resource-analytics-can-we-predict-employee-turnover-with-caret-in-r-3d871217e708?source=rss-------8-----------------data_science)
-- [The Normal Distribution.](https://medium.com/almabetter/the-normal-distribution-5bdd5b479278?source=rss-------8-----------------data_science)
+- [Analyzing Financial Data in Python](https://towardsdatascience.com/analyzing-financial-data-in-python-ccf5c99f55e8?source=rss-------8-----------------data_science)
+- [Why Being a Data Scientist is More Painful than Stepping on a Lego?](https://valdezdata.medium.com/why-being-a-data-scientist-is-more-painful-than-stepping-on-a-lego-5f5957913ffb?source=rss-------8-----------------data_science)
+- [How to Visualize the Rest of Your Life](https://towardsdatascience.com/how-to-visualize-the-rest-of-your-life-28f943b1f70b?source=rss-------8-----------------data_science)
+- [4 Jupyter Notebook Alternative for Data Scientist](https://towardsdatascience.com/4-jupyter-notebook-alternative-for-data-scientist-da3d47ff40b0?source=rss-------8-----------------data_science)
+- [The 4 Kinds of “Data Moats” Your Company Can Build](https://towardsdatascience.com/the-4-kinds-of-data-moats-that-your-company-can-build-c68f691b435c?source=rss-------8-----------------data_science)
+- [Demystifying boto3: How to Use Any AWS Service with Python](https://towardsdatascience.com/demystifying-boto3-how-to-use-any-aws-service-with-python-b5c69593bcfa?source=rss-------8-----------------data_science)
+- [Sources of Bad Data And What to Do About It](https://towardsdatascience.com/sources-of-bad-data-and-what-to-do-about-it-ef06f3c10cc9?source=rss-------8-----------------data_science)
+- [Time Series From Scratch  — Autocorrelation and Partial Autocorrelation Explained](https://towardsdatascience.com/time-series-from-scratch-autocorrelation-and-partial-autocorrelation-explained-1dd641e3076f?source=rss-------8-----------------data_science)
 - [Visualization of Bike Sharing System movements in Helsinki with an interactive flow-map](https://towardsdatascience.com/visualization-of-bike-sharing-system-movements-in-helsinki-with-an-interactive-flow-map-451d897104fe?source=rss-------8-----------------data_science)
-- [Trading the Spinning Top Pattern — The Full Guide.](https://medium.com/the-investors-handbook/trading-the-spinning-top-pattern-the-full-guide-9567697e0c28?source=rss-------8-----------------data_science)
-- [Is Trading Using Exponential Moving Averages (EMAs) Profitable?](https://jaiagrawal.medium.com/is-trading-using-exponential-moving-averages-emas-profitable-2482c4e8ba6e?source=rss-------8-----------------data_science)
-- [Spotify Music Data Analysis: Part 1](https://medium.com/analytics-vidhya/spotify-music-data-analysis-part-1-c8457bfc53a?source=rss-------8-----------------data_science)
+- [Building RNN, LSTM, and GRU for time series using PyTorch](https://towardsdatascience.com/building-rnn-lstm-and-gru-for-time-series-using-pytorch-a46e5b094e7b?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
