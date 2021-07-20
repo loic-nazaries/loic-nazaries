@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [4 Must-Know Python Data Structures](https://towardsdatascience.com/4-must-know-python-data-structures-95bfc0844a06?source=rss-2cf6b549448------2)
 - [8 Must-Have Git Commands for Data Scientists](https://towardsdatascience.com/8-must-have-git-commands-for-data-scientists-ee6564e4631d?source=rss-2cf6b549448------2)
 - [4 Pandas Functions For Index Manipulation](https://towardsdatascience.com/4-pandas-functions-for-index-manipulation-5b8c7bd6ab12?source=rss-2cf6b549448------2)
 - [Generating Mock Sales Data with Python Pandas](https://towardsdatascience.com/generating-mock-sales-data-with-python-pandas-c904035782fe?source=rss-2cf6b549448------2)
 - [10 Examples That Will Make You Use Pandas Query Function More Often](https://towardsdatascience.com/10-examples-that-will-make-you-use-pandas-query-function-more-often-a8fb3e9361cb?source=rss-2cf6b549448------2)
-- [3 Must-Have Soft Skills for Data Scientists](https://towardsdatascience.com/3-must-have-soft-skills-for-data-scientists-58ea2deedb45?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
