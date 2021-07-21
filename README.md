@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Analyzing Financial Data in Python](https://towardsdatascience.com/analyzing-financial-data-in-python-ccf5c99f55e8?source=rss-------8-----------------data_science)
-- [Why Being a Data Scientist is More Painful than Stepping on a Lego?](https://valdezdata.medium.com/why-being-a-data-scientist-is-more-painful-than-stepping-on-a-lego-5f5957913ffb?source=rss-------8-----------------data_science)
-- [How to Visualize the Rest of Your Life](https://towardsdatascience.com/how-to-visualize-the-rest-of-your-life-28f943b1f70b?source=rss-------8-----------------data_science)
-- [4 Jupyter Notebook Alternative for Data Scientist](https://towardsdatascience.com/4-jupyter-notebook-alternative-for-data-scientist-da3d47ff40b0?source=rss-------8-----------------data_science)
-- [The 4 Kinds of “Data Moats” Your Company Can Build](https://towardsdatascience.com/the-4-kinds-of-data-moats-that-your-company-can-build-c68f691b435c?source=rss-------8-----------------data_science)
-- [Demystifying boto3: How to Use Any AWS Service with Python](https://towardsdatascience.com/demystifying-boto3-how-to-use-any-aws-service-with-python-b5c69593bcfa?source=rss-------8-----------------data_science)
-- [Sources of Bad Data And What to Do About It](https://towardsdatascience.com/sources-of-bad-data-and-what-to-do-about-it-ef06f3c10cc9?source=rss-------8-----------------data_science)
-- [Time Series From Scratch  — Autocorrelation and Partial Autocorrelation Explained](https://towardsdatascience.com/time-series-from-scratch-autocorrelation-and-partial-autocorrelation-explained-1dd641e3076f?source=rss-------8-----------------data_science)
-- [Visualization of Bike Sharing System movements in Helsinki with an interactive flow-map](https://towardsdatascience.com/visualization-of-bike-sharing-system-movements-in-helsinki-with-an-interactive-flow-map-451d897104fe?source=rss-------8-----------------data_science)
-- [Building RNN, LSTM, and GRU for time series using PyTorch](https://towardsdatascience.com/building-rnn-lstm-and-gru-for-time-series-using-pytorch-a46e5b094e7b?source=rss-------8-----------------data_science)
+- [Studying up for the Tokyo 2021 Olympics with SQL](https://towardsdatascience.com/studying-up-for-the-tokyo-2021-olympics-with-sql-719a0ae3779b?source=rss-------8-----------------data_science)
+- [PokeML Part 3: Topic Modeling](https://medium.com/@patrickmartinaz/pokeml-part-3-topic-modeling-fb5ea8c57d0f?source=rss-------8-----------------data_science)
+- [Biased Data and How to Deal with It](https://dmitryzinoviev.medium.com/biased-data-and-how-to-deal-with-it-fdaeb9da3b20?source=rss-------8-----------------data_science)
+- [Is Data Science a Humanities Field?](https://towardsdatascience.com/is-data-science-a-humanities-field-3a9c154d153f?source=rss-------8-----------------data_science)
+- [Build a data app for cohort analysis](https://towardsdatascience.com/build-a-data-app-for-cohort-analysis-5d4e3161a988?source=rss-------8-----------------data_science)
+- [How To make Interactive Plot Graph For Statistical Data Visualization Using Seaborn Python library](https://patelsandeep88.medium.com/python-seaborn-statistical-data-visualization-in-plot-graph-f149f7a27c6e?source=rss-------8-----------------data_science)
+- [Creating a Ridgeline Plot in Python](https://medium.com/course-hero-engineering/creating-a-ridgeline-plot-in-python-517e35382ab7?source=rss-------8-----------------data_science)
+- [Action Recognition Using Pytorch Geometric](https://medium.com/@nateshhariharan/action-recognition-using-pytorch-geometric-d50ca8de0f6e?source=rss-------8-----------------data_science)
+- [Real business insights by applying CRISP-DM and Text Mining](https://medium.com/@alexanderulloa7/real-business-insights-by-applying-crisp-dm-and-text-mining-1254048c78b4?source=rss-------8-----------------data_science)
+- [Using Word Embeddings to Identify Company Names and Stock Tickers](https://towardsdatascience.com/using-word-embeddings-to-identify-company-names-and-stock-tickers-f194e3648a66?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
