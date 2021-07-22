@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Studying up for the Tokyo 2021 Olympics with SQL](https://towardsdatascience.com/studying-up-for-the-tokyo-2021-olympics-with-sql-719a0ae3779b?source=rss-------8-----------------data_science)
-- [PokeML Part 3: Topic Modeling](https://medium.com/@patrickmartinaz/pokeml-part-3-topic-modeling-fb5ea8c57d0f?source=rss-------8-----------------data_science)
-- [Biased Data and How to Deal with It](https://dmitryzinoviev.medium.com/biased-data-and-how-to-deal-with-it-fdaeb9da3b20?source=rss-------8-----------------data_science)
-- [Is Data Science a Humanities Field?](https://towardsdatascience.com/is-data-science-a-humanities-field-3a9c154d153f?source=rss-------8-----------------data_science)
-- [Build a data app for cohort analysis](https://towardsdatascience.com/build-a-data-app-for-cohort-analysis-5d4e3161a988?source=rss-------8-----------------data_science)
-- [How To make Interactive Plot Graph For Statistical Data Visualization Using Seaborn Python library](https://patelsandeep88.medium.com/python-seaborn-statistical-data-visualization-in-plot-graph-f149f7a27c6e?source=rss-------8-----------------data_science)
-- [Creating a Ridgeline Plot in Python](https://medium.com/course-hero-engineering/creating-a-ridgeline-plot-in-python-517e35382ab7?source=rss-------8-----------------data_science)
-- [Action Recognition Using Pytorch Geometric](https://medium.com/@nateshhariharan/action-recognition-using-pytorch-geometric-d50ca8de0f6e?source=rss-------8-----------------data_science)
-- [Real business insights by applying CRISP-DM and Text Mining](https://medium.com/@alexanderulloa7/real-business-insights-by-applying-crisp-dm-and-text-mining-1254048c78b4?source=rss-------8-----------------data_science)
-- [Using Word Embeddings to Identify Company Names and Stock Tickers](https://towardsdatascience.com/using-word-embeddings-to-identify-company-names-and-stock-tickers-f194e3648a66?source=rss-------8-----------------data_science)
+- [Regression in NBA 2K](https://carveradvancestats.medium.com/regression-in-nba-2k-b1669d90d32a?source=rss-------8-----------------data_science)
+- [How to Get “Unstuck” In Data Analysis](https://towardsdatascience.com/how-to-get-unstuck-in-data-analysis-9d4f7ab32179?source=rss-------8-----------------data_science)
+- [Introduction to Pandas — Part 2: Quick Data Exploration](https://towardsdatascience.com/introduction-to-pandas-part-2-quick-data-exploration-582fc9b0de28?source=rss-------8-----------------data_science)
+- [One simple tip to make your READMEs stand out](https://towardsdatascience.com/one-simple-tip-to-make-your-readmes-stand-out-9f06ccdd76b?source=rss-------8-----------------data_science)
+- [From Prediction to Action — How to Learn Optimal Policies From Data (2/4)](https://towardsdatascience.com/from-making-predictions-to-optimizing-actions-an-introduction-to-policy-learning-2-4-9fc46ba8f3d0?source=rss-------8-----------------data_science)
+- [Real Data Scientists Don’t Exist](https://towardsdatascience.com/real-data-scientists-dont-exist-3434107a0892?source=rss-------8-----------------data_science)
+- [Understand your Algorithm with Grad-CAM](https://towardsdatascience.com/understand-your-algorithm-with-grad-cam-d3b62fce353?source=rss-------8-----------------data_science)
+- [Efficient Data Processing Using Spark DataFrames](https://tamaraqawasmeh.medium.com/efficient-data-processing-using-spark-dataframes-dcb7c3eb1fa5?source=rss-------8-----------------data_science)
+- [Introduction to Deep Learning](https://medium.com/geekculture/introduction-to-deep-learning-7f94dd03c1b9?source=rss-------8-----------------data_science)
+- [Clusering microservices using communities detection algorithm](https://medium.com/@enzo.mar/clusering-microservices-using-communities-detection-algorithm-77df13eb190?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
