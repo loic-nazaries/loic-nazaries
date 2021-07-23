@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Regression in NBA 2K](https://carveradvancestats.medium.com/regression-in-nba-2k-b1669d90d32a?source=rss-------8-----------------data_science)
-- [How to Get “Unstuck” In Data Analysis](https://towardsdatascience.com/how-to-get-unstuck-in-data-analysis-9d4f7ab32179?source=rss-------8-----------------data_science)
-- [Introduction to Pandas — Part 2: Quick Data Exploration](https://towardsdatascience.com/introduction-to-pandas-part-2-quick-data-exploration-582fc9b0de28?source=rss-------8-----------------data_science)
-- [One simple tip to make your READMEs stand out](https://towardsdatascience.com/one-simple-tip-to-make-your-readmes-stand-out-9f06ccdd76b?source=rss-------8-----------------data_science)
-- [From Prediction to Action — How to Learn Optimal Policies From Data (2/4)](https://towardsdatascience.com/from-making-predictions-to-optimizing-actions-an-introduction-to-policy-learning-2-4-9fc46ba8f3d0?source=rss-------8-----------------data_science)
-- [Real Data Scientists Don’t Exist](https://towardsdatascience.com/real-data-scientists-dont-exist-3434107a0892?source=rss-------8-----------------data_science)
-- [Understand your Algorithm with Grad-CAM](https://towardsdatascience.com/understand-your-algorithm-with-grad-cam-d3b62fce353?source=rss-------8-----------------data_science)
-- [Efficient Data Processing Using Spark DataFrames](https://tamaraqawasmeh.medium.com/efficient-data-processing-using-spark-dataframes-dcb7c3eb1fa5?source=rss-------8-----------------data_science)
-- [Introduction to Deep Learning](https://medium.com/geekculture/introduction-to-deep-learning-7f94dd03c1b9?source=rss-------8-----------------data_science)
-- [Clusering microservices using communities detection algorithm](https://medium.com/@enzo.mar/clusering-microservices-using-communities-detection-algorithm-77df13eb190?source=rss-------8-----------------data_science)
+- [A Natural Language Processing (NLP) Primer](https://towardsdatascience.com/a-natural-language-processing-nlp-primer-6a82667e9aa5?source=rss-------8-----------------data_science)
+- [The Difference Between Surrogate and Primary Keys](https://towardsdatascience.com/the-difference-between-surrogate-and-primary-keys-222cf31ddb57?source=rss-------8-----------------data_science)
+- [Outlier Detection in Regression Analysis](https://towardsdatascience.com/outlier-detection-in-regression-using-cooks-distance-f5e4954461a0?source=rss-------8-----------------data_science)
+- [How to Build SARIMA Model in Python](https://medium.com/mlearning-ai/how-to-build-sarima-model-in-python-7ae83b14c884?source=rss-------8-----------------data_science)
+- [How To Write a Perfect Data Science Cover Letter](https://betterprogramming.pub/how-to-write-a-perfect-data-science-cover-letter-e81be8cf4c91?source=rss-------8-----------------data_science)
+- [8 Dimensionality Reduction Techniques every Data Scientists should know](https://towardsdatascience.com/8-dimensionality-reduction-techniques-every-data-scientists-should-know-1c594f0aa7f2?source=rss-------8-----------------data_science)
+- [How to Simulate Stock Prices](https://whynance.medium.com/how-to-simulate-stock-prices-452042862989?source=rss-------8-----------------data_science)
+- [Biased Data and How to Deal with It](https://towardsdatascience.com/biased-data-and-how-to-deal-with-it-fdaeb9da3b20?source=rss-------8-----------------data_science)
+- [Applied Bayesian Inference pt. 1](https://towardsdatascience.com/applied-bayesian-inference-pt-1-322b25093f62?source=rss-------8-----------------data_science)
+- [Topic Modelling using LDA](https://ipshita.medium.com/topic-modelling-using-lda-aa11ec9bec13?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
