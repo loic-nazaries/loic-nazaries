@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Natural Language Processing (NLP) Primer](https://towardsdatascience.com/a-natural-language-processing-nlp-primer-6a82667e9aa5?source=rss-------8-----------------data_science)
-- [The Difference Between Surrogate and Primary Keys](https://towardsdatascience.com/the-difference-between-surrogate-and-primary-keys-222cf31ddb57?source=rss-------8-----------------data_science)
-- [Outlier Detection in Regression Analysis](https://towardsdatascience.com/outlier-detection-in-regression-using-cooks-distance-f5e4954461a0?source=rss-------8-----------------data_science)
-- [How to Build SARIMA Model in Python](https://medium.com/mlearning-ai/how-to-build-sarima-model-in-python-7ae83b14c884?source=rss-------8-----------------data_science)
-- [How To Write a Perfect Data Science Cover Letter](https://betterprogramming.pub/how-to-write-a-perfect-data-science-cover-letter-e81be8cf4c91?source=rss-------8-----------------data_science)
-- [8 Dimensionality Reduction Techniques every Data Scientists should know](https://towardsdatascience.com/8-dimensionality-reduction-techniques-every-data-scientists-should-know-1c594f0aa7f2?source=rss-------8-----------------data_science)
-- [How to Simulate Stock Prices](https://whynance.medium.com/how-to-simulate-stock-prices-452042862989?source=rss-------8-----------------data_science)
-- [Biased Data and How to Deal with It](https://towardsdatascience.com/biased-data-and-how-to-deal-with-it-fdaeb9da3b20?source=rss-------8-----------------data_science)
-- [Applied Bayesian Inference pt. 1](https://towardsdatascience.com/applied-bayesian-inference-pt-1-322b25093f62?source=rss-------8-----------------data_science)
-- [Topic Modelling using LDA](https://ipshita.medium.com/topic-modelling-using-lda-aa11ec9bec13?source=rss-------8-----------------data_science)
+- [Data Densification in Tableau](https://towardsdatascience.com/data-densification-in-tableau-93c0a6bfcc5f?source=rss-------8-----------------data_science)
+- [Which NBA Teams Are Best at Drafting?](https://towardsdatascience.com/which-nba-teams-are-best-at-drafting-20070ccd1702?source=rss-------8-----------------data_science)
+- [Summarizing Medical Documents With NLP](https://towardsdatascience.com/summarizing-medical-documents-with-nlp-85b14e4d9411?source=rss-------8-----------------data_science)
+- [Vision Transformers or Convolutional Neural Networks? Both!](https://towardsdatascience.com/vision-transformers-or-convolutional-neural-networks-both-de1a2c3c62e4?source=rss-------8-----------------data_science)
+- [Pair Programming for Assessing Coding Skills in the Interview](https://jorgepit-14189.medium.com/pair-programming-for-assessing-coding-skills-in-the-interview-5b9fc229dd6d?source=rss-------8-----------------data_science)
+- [7 Free Spatial Databases for Nature Conservation Projects](https://catia-matos.medium.com/7-free-spatial-databases-for-nature-conservation-projects-cca163eee8e6?source=rss-------8-----------------data_science)
+- [Using a Dataloader in Hugging Face](https://towardsdatascience.com/using-a-dataloader-in-hugging-face-52388f552259?source=rss-------8-----------------data_science)
+- [Support Vector Machines — the basics](https://towardsdatascience.com/support-vector-machines-the-basics-5a2acc0db450?source=rss-------8-----------------data_science)
+- [Analyzing Power Usage in Schools with Machine Learning](https://towardsdatascience.com/analyzing-power-usage-in-schools-with-machine-learning-ba07f089d547?source=rss-------8-----------------data_science)
+- [The one with Data : Friends TV Show analysis](https://ishagarg2010.medium.com/the-one-with-data-friends-tv-show-analysis-88e4f62f68f5?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
