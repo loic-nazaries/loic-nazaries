@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Densification in Tableau](https://towardsdatascience.com/data-densification-in-tableau-93c0a6bfcc5f?source=rss-------8-----------------data_science)
-- [Which NBA Teams Are Best at Drafting?](https://towardsdatascience.com/which-nba-teams-are-best-at-drafting-20070ccd1702?source=rss-------8-----------------data_science)
-- [Summarizing Medical Documents With NLP](https://towardsdatascience.com/summarizing-medical-documents-with-nlp-85b14e4d9411?source=rss-------8-----------------data_science)
-- [Vision Transformers or Convolutional Neural Networks? Both!](https://towardsdatascience.com/vision-transformers-or-convolutional-neural-networks-both-de1a2c3c62e4?source=rss-------8-----------------data_science)
-- [Pair Programming for Assessing Coding Skills in the Interview](https://jorgepit-14189.medium.com/pair-programming-for-assessing-coding-skills-in-the-interview-5b9fc229dd6d?source=rss-------8-----------------data_science)
-- [7 Free Spatial Databases for Nature Conservation Projects](https://catia-matos.medium.com/7-free-spatial-databases-for-nature-conservation-projects-cca163eee8e6?source=rss-------8-----------------data_science)
-- [Using a Dataloader in Hugging Face](https://towardsdatascience.com/using-a-dataloader-in-hugging-face-52388f552259?source=rss-------8-----------------data_science)
-- [Support Vector Machines — the basics](https://towardsdatascience.com/support-vector-machines-the-basics-5a2acc0db450?source=rss-------8-----------------data_science)
-- [Analyzing Power Usage in Schools with Machine Learning](https://towardsdatascience.com/analyzing-power-usage-in-schools-with-machine-learning-ba07f089d547?source=rss-------8-----------------data_science)
-- [The one with Data : Friends TV Show analysis](https://ishagarg2010.medium.com/the-one-with-data-friends-tv-show-analysis-88e4f62f68f5?source=rss-------8-----------------data_science)
+- [The Way to Deep Learning on AWS](https://towardsdatascience.com/the-way-to-deep-learning-on-aws-851fad7e5725?source=rss-------8-----------------data_science)
+- [The Consistent Estimator](https://towardsdatascience.com/the-consistent-estimator-913fab06f4f3?source=rss-------8-----------------data_science)
+- [A Beginner’s Dilemma in Exploratory Data Analysis](https://towardsdatascience.com/a-beginner-dilemma-in-exploratory-data-analysis-8919b4e737e8?source=rss-------8-----------------data_science)
+- [How to Implement Random Forest, SVM, and Gradient Boosted Models for Time-to-Event Analyses](https://towardsdatascience.com/how-to-implement-random-forest-svm-and-gradient-boosted-models-for-time-to-event-analyses-5d79d8153bcd?source=rss-------8-----------------data_science)
+- [10 Points to Make it Big in the  Data Industry](https://towardsdatascience.com/10-points-to-make-it-big-in-the-data-industry-db62dfdcd9f2?source=rss-------8-----------------data_science)
+- [All Data Science Careers Explained](https://medium.com/@vuthihienthu.ueb/all-data-science-careers-explained-602850169f2f?source=rss-------8-----------------data_science)
+- [How to Use the Google Places API for Location Analysis and More](https://towardsdatascience.com/how-to-use-the-google-places-api-for-location-analysis-and-more-17e48f8f25b1?source=rss-------8-----------------data_science)
+- [Day 23 of the 66 Days of Data](https://medium.com/data-professor/day-23-of-the-66-days-of-data-dda9038246f2?source=rss-------8-----------------data_science)
+- [Spotify Case Study: Is there a secret to producing hit songs?](https://medium.com/@Richard_Rivas/spotify-case-study-is-there-a-secret-to-producing-hit-songs-aab8c2dc64c1?source=rss-------8-----------------data_science)
+- [2. Where is Data & AI Today heading?](https://medium.com/@shiva.tomar/2-where-is-data-ai-today-heading-48c409c21910?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
