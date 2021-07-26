@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Way to Deep Learning on AWS](https://towardsdatascience.com/the-way-to-deep-learning-on-aws-851fad7e5725?source=rss-------8-----------------data_science)
-- [The Consistent Estimator](https://towardsdatascience.com/the-consistent-estimator-913fab06f4f3?source=rss-------8-----------------data_science)
-- [A Beginner’s Dilemma in Exploratory Data Analysis](https://towardsdatascience.com/a-beginner-dilemma-in-exploratory-data-analysis-8919b4e737e8?source=rss-------8-----------------data_science)
-- [How to Implement Random Forest, SVM, and Gradient Boosted Models for Time-to-Event Analyses](https://towardsdatascience.com/how-to-implement-random-forest-svm-and-gradient-boosted-models-for-time-to-event-analyses-5d79d8153bcd?source=rss-------8-----------------data_science)
-- [10 Points to Make it Big in the  Data Industry](https://towardsdatascience.com/10-points-to-make-it-big-in-the-data-industry-db62dfdcd9f2?source=rss-------8-----------------data_science)
-- [All Data Science Careers Explained](https://medium.com/@vuthihienthu.ueb/all-data-science-careers-explained-602850169f2f?source=rss-------8-----------------data_science)
-- [How to Use the Google Places API for Location Analysis and More](https://towardsdatascience.com/how-to-use-the-google-places-api-for-location-analysis-and-more-17e48f8f25b1?source=rss-------8-----------------data_science)
-- [Day 23 of the 66 Days of Data](https://medium.com/data-professor/day-23-of-the-66-days-of-data-dda9038246f2?source=rss-------8-----------------data_science)
-- [Spotify Case Study: Is there a secret to producing hit songs?](https://medium.com/@Richard_Rivas/spotify-case-study-is-there-a-secret-to-producing-hit-songs-aab8c2dc64c1?source=rss-------8-----------------data_science)
-- [2. Where is Data & AI Today heading?](https://medium.com/@shiva.tomar/2-where-is-data-ai-today-heading-48c409c21910?source=rss-------8-----------------data_science)
+- [How to Add Uncertainty Estimation to your Models with Conformal Prediction](https://towardsdatascience.com/how-to-add-uncertainty-estimation-to-your-models-with-conformal-prediction-a5acdb86ea05?source=rss-------8-----------------data_science)
+- [Applied Bayesian Inference with Python pt. 2](https://towardsdatascience.com/applied-bayesian-inference-with-python-pt-2-80bcd63b507e?source=rss-------8-----------------data_science)
+- [Using Z-Score in Trading — A Python Study.](https://medium.com/the-investors-handbook/using-z-score-in-trading-a-python-study-ae90e3fec6ac?source=rss-------8-----------------data_science)
+- [Training Text Embeddings using Siamese Network](https://towardsdatascience.com/training-text-embeddings-using-siamese-network-27bc30dec7b5?source=rss-------8-----------------data_science)
+- [An Easy Way to Replace Values in a Pandas DataFrame](https://towardsdatascience.com/an-easy-way-to-replace-values-in-a-pandas-dataframe-2826bd34e59a?source=rss-------8-----------------data_science)
+- [14 Pandas Operations That Every Data Scientist Must Know!](https://towardsdatascience.com/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee?source=rss-------8-----------------data_science)
+- [Gaps and Islands with MySQL](https://towardsdatascience.com/gaps-and-islands-with-mysql-b407040d133d?source=rss-------8-----------------data_science)
+- [Analyze World Data Using Julia](https://erik-engheim.medium.com/analyze-world-data-using-julia-8f9d16c6ac2a?source=rss-------8-----------------data_science)
+- [How Lasso regression is a valuable feature selection tool](https://medium.com/mlearning-ai/how-lasso-regression-is-a-valuable-feature-selection-tool-aac502819f99?source=rss-------8-----------------data_science)
+- [D4S Sunday Briefing #112](https://medium.data4sci.com/d4s-sunday-briefing-112-d47278975846?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
