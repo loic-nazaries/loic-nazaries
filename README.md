@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Add Uncertainty Estimation to your Models with Conformal Prediction](https://towardsdatascience.com/how-to-add-uncertainty-estimation-to-your-models-with-conformal-prediction-a5acdb86ea05?source=rss-------8-----------------data_science)
-- [Applied Bayesian Inference with Python pt. 2](https://towardsdatascience.com/applied-bayesian-inference-with-python-pt-2-80bcd63b507e?source=rss-------8-----------------data_science)
-- [Using Z-Score in Trading — A Python Study.](https://medium.com/the-investors-handbook/using-z-score-in-trading-a-python-study-ae90e3fec6ac?source=rss-------8-----------------data_science)
-- [Training Text Embeddings using Siamese Network](https://towardsdatascience.com/training-text-embeddings-using-siamese-network-27bc30dec7b5?source=rss-------8-----------------data_science)
-- [An Easy Way to Replace Values in a Pandas DataFrame](https://towardsdatascience.com/an-easy-way-to-replace-values-in-a-pandas-dataframe-2826bd34e59a?source=rss-------8-----------------data_science)
-- [14 Pandas Operations That Every Data Scientist Must Know!](https://towardsdatascience.com/14-pandas-operations-that-every-data-scientist-must-know-cc326dc4e6ee?source=rss-------8-----------------data_science)
-- [Gaps and Islands with MySQL](https://towardsdatascience.com/gaps-and-islands-with-mysql-b407040d133d?source=rss-------8-----------------data_science)
-- [Analyze World Data Using Julia](https://erik-engheim.medium.com/analyze-world-data-using-julia-8f9d16c6ac2a?source=rss-------8-----------------data_science)
-- [How Lasso regression is a valuable feature selection tool](https://medium.com/mlearning-ai/how-lasso-regression-is-a-valuable-feature-selection-tool-aac502819f99?source=rss-------8-----------------data_science)
-- [D4S Sunday Briefing #112](https://medium.data4sci.com/d4s-sunday-briefing-112-d47278975846?source=rss-------8-----------------data_science)
+- [Modeling The NBA Leap — Part II](https://rylewww.medium.com/modeling-the-nba-leap-part-ii-7675ae101796?source=rss-------8-----------------data_science)
+- [A tale of two models](https://towardsdatascience.com/a-tale-of-two-models-6c0c7a14d1c9?source=rss-------8-----------------data_science)
+- [What in the World is Going on with Data Catalogs?](https://towardsdatascience.com/what-in-the-world-is-going-on-with-data-catalogs-d926220306b5?source=rss-------8-----------------data_science)
+- [10 Best SQL Editor Tools in the Market](https://towardsdatascience.com/10-best-sql-editor-tools-in-the-market-126acd64ba06?source=rss-------8-----------------data_science)
+- [Most Starred & Forked GitHub Repos for Data Science and Python](https://towardsdatascience.com/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96?source=rss-------8-----------------data_science)
+- [Introducing 2 Tools to Speed up Your Power BI 10x](https://towardsdatascience.com/introducing-2-tools-to-speed-up-your-power-bi-10x-e354cce355ae?source=rss-------8-----------------data_science)
+- [Time Series From Scratch — Train/Test Splits and Evaluation Metrics](https://towardsdatascience.com/time-series-from-scratch-train-test-splits-and-evaluation-metrics-4fd654de1b37?source=rss-------8-----------------data_science)
+- [Introduction to Pandas — Part 2: Quick Data Exploration](https://towardsdatascience.com/introduction-to-pandas-part-2-quick-data-exploration-582fc9b0de28?source=rss-------8-----------------data_science)
+- [The Confusing Pathway Of Machine Learning And Data Science](https://rajtuladhar.medium.com/the-confusing-pathway-of-machine-learning-and-data-science-c1bbdd71afeb?source=rss-------8-----------------data_science)
+- [Pandas I: read_csv(), head(), tail(), info(), and describe()](https://towardsdatascience.com/pandas-i-read-csv-head-tail-info-and-describe-43b9b2736490?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
