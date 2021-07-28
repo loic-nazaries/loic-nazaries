@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Modeling The NBA Leap — Part II](https://rylewww.medium.com/modeling-the-nba-leap-part-ii-7675ae101796?source=rss-------8-----------------data_science)
-- [A tale of two models](https://towardsdatascience.com/a-tale-of-two-models-6c0c7a14d1c9?source=rss-------8-----------------data_science)
-- [What in the World is Going on with Data Catalogs?](https://towardsdatascience.com/what-in-the-world-is-going-on-with-data-catalogs-d926220306b5?source=rss-------8-----------------data_science)
-- [10 Best SQL Editor Tools in the Market](https://towardsdatascience.com/10-best-sql-editor-tools-in-the-market-126acd64ba06?source=rss-------8-----------------data_science)
-- [Most Starred & Forked GitHub Repos for Data Science and Python](https://towardsdatascience.com/the-most-starred-forked-github-repos-for-python-and-data-science-f8bb3de47e96?source=rss-------8-----------------data_science)
-- [Introducing 2 Tools to Speed up Your Power BI 10x](https://towardsdatascience.com/introducing-2-tools-to-speed-up-your-power-bi-10x-e354cce355ae?source=rss-------8-----------------data_science)
-- [Time Series From Scratch — Train/Test Splits and Evaluation Metrics](https://towardsdatascience.com/time-series-from-scratch-train-test-splits-and-evaluation-metrics-4fd654de1b37?source=rss-------8-----------------data_science)
-- [Introduction to Pandas — Part 2: Quick Data Exploration](https://towardsdatascience.com/introduction-to-pandas-part-2-quick-data-exploration-582fc9b0de28?source=rss-------8-----------------data_science)
-- [The Confusing Pathway Of Machine Learning And Data Science](https://rajtuladhar.medium.com/the-confusing-pathway-of-machine-learning-and-data-science-c1bbdd71afeb?source=rss-------8-----------------data_science)
-- [Pandas I: read_csv(), head(), tail(), info(), and describe()](https://towardsdatascience.com/pandas-i-read-csv-head-tail-info-and-describe-43b9b2736490?source=rss-------8-----------------data_science)
+- [What Is Snowflake And Why You Should Use It For Your Cloud Data Warehouse](https://medium.com/coriers/what-is-snowflake-and-why-you-should-use-it-for-your-cloud-data-warehouse-199c62b0a09e?source=rss-------8-----------------data_science)
+- [Add a Customized Rasa Chatbot for Your Facebook Page](https://towardsdatascience.com/add-a-customized-rasa-chatbot-for-your-facebook-page-9313687fbdcb?source=rss-------8-----------------data_science)
+- [Make measurable: what Galileo didn’t say about the subjectivity of algorithms](https://towardsdatascience.com/make-measurable-what-galileo-didnt-say-about-the-subjectivity-of-algorithms-8d1d324253da?source=rss-------8-----------------data_science)
+- [Systems mapping excellence](https://philippevandenbroeck.medium.com/systems-mapping-excellence-de8ba0d991fb?source=rss-------8-----------------data_science)
+- [House Price Forecasting using Zillow Economics dataset](https://towardsdatascience.com/house-price-forecasting-using-zillow-economics-dataset-2b58e6cd1c03?source=rss-------8-----------------data_science)
+- [Data Preprocessing — A key to success!](https://kdagiit.medium.com/data-preprocessing-a-key-to-success-a3907a06ef24?source=rss-------8-----------------data_science)
+- [Workflow in Data Analysis](https://medium.com/geekculture/workflow-in-data-analysis-45ed5b8d804a?source=rss-------8-----------------data_science)
+- [Backpropagation in Neural Networks](https://towardsdatascience.com/backpropagation-in-neural-networks-6561e1268da8?source=rss-------8-----------------data_science)
+- [Applied Text Analysis with Python: Chapter 1 — Language and Computation](https://medium.com/@me.anna.winkler/atap-chapter-1-language-and-computation-c7bdcfe1f6fb?source=rss-------8-----------------data_science)
+- [Spotify Case Study: Is there a secret to producing hit songs?](https://towardsdatascience.com/spotify-case-study-is-there-a-secret-to-producing-hit-songs-aab8c2dc64c1?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
