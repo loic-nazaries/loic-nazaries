@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What Is Snowflake And Why You Should Use It For Your Cloud Data Warehouse](https://medium.com/coriers/what-is-snowflake-and-why-you-should-use-it-for-your-cloud-data-warehouse-199c62b0a09e?source=rss-------8-----------------data_science)
-- [Add a Customized Rasa Chatbot for Your Facebook Page](https://towardsdatascience.com/add-a-customized-rasa-chatbot-for-your-facebook-page-9313687fbdcb?source=rss-------8-----------------data_science)
-- [Make measurable: what Galileo didn’t say about the subjectivity of algorithms](https://towardsdatascience.com/make-measurable-what-galileo-didnt-say-about-the-subjectivity-of-algorithms-8d1d324253da?source=rss-------8-----------------data_science)
-- [Systems mapping excellence](https://philippevandenbroeck.medium.com/systems-mapping-excellence-de8ba0d991fb?source=rss-------8-----------------data_science)
-- [House Price Forecasting using Zillow Economics dataset](https://towardsdatascience.com/house-price-forecasting-using-zillow-economics-dataset-2b58e6cd1c03?source=rss-------8-----------------data_science)
-- [Data Preprocessing — A key to success!](https://kdagiit.medium.com/data-preprocessing-a-key-to-success-a3907a06ef24?source=rss-------8-----------------data_science)
-- [Workflow in Data Analysis](https://medium.com/geekculture/workflow-in-data-analysis-45ed5b8d804a?source=rss-------8-----------------data_science)
-- [Backpropagation in Neural Networks](https://towardsdatascience.com/backpropagation-in-neural-networks-6561e1268da8?source=rss-------8-----------------data_science)
-- [Applied Text Analysis with Python: Chapter 1 — Language and Computation](https://medium.com/@me.anna.winkler/atap-chapter-1-language-and-computation-c7bdcfe1f6fb?source=rss-------8-----------------data_science)
-- [Spotify Case Study: Is there a secret to producing hit songs?](https://towardsdatascience.com/spotify-case-study-is-there-a-secret-to-producing-hit-songs-aab8c2dc64c1?source=rss-------8-----------------data_science)
+- [How to Create Decision Tree in Power BI — AI and Power BI — Chapter 6](https://arpita-ghosh.medium.com/how-to-create-decision-tree-in-power-bi-ai-and-power-bi-chapter-6-ee2662dfe7a1?source=rss-------8-----------------data_science)
+- [How Many People REALLY Had COVID?](https://methodsmanmd.medium.com/how-many-people-really-had-covid-6adb292f15b0?source=rss-------8-----------------data_science)
+- [Making choropleth maps with blender.](https://tavoglc.medium.com/making-choropleth-maps-with-blender-4f8d2ada1321?source=rss-------8-----------------data_science)
+- [My Quarantine Project: Untangling a SIR Epidemic Model](https://agreenjay.medium.com/my-quarantine-project-untangling-a-sir-epidemic-model-dc94268d80db?source=rss-------8-----------------data_science)
+- [Pandas Melt: a shortcut to tidy data](https://medium.com/gustavorsantos/pandas-melt-a-shortcut-to-tidy-data-ff975570e0c?source=rss-------8-----------------data_science)
+- [What is Apache Spark and distributed computing?](https://pub.towardsai.net/what-are-apache-spark-and-distributed-computing-53ac52760182?source=rss-------8-----------------data_science)
+- [Scaling Satellite Imagery Analysis for Site Viability on Google Cloud](https://medium.com/contino-engineering/scaling-satellite-imagery-analysis-for-site-viability-on-google-cloud-4d9c5a6d854a?source=rss-------8-----------------data_science)
+- [A Gentle Introduction to Kaggle Competition: Step by Step Approach](https://medium.com/@thomaszyang/a-gentle-introduction-to-kaggle-competition-step-by-step-approach-3a8fefda7a70?source=rss-------8-----------------data_science)
+- [Stop Obsessing over data: Deliver and Measure real Value in Software](https://naveennegi.medium.com/stop-obsessing-over-data-deliver-and-measure-real-value-in-software-8a712980536d?source=rss-------8-----------------data_science)
+- [Building a Streamlit app to visualise Covid-19 using Plotly](https://towardsdatascience.com/interactive-dashboard-in-streamlit-to-analyse-owid-covid-19-data-180b1c3372e4?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
