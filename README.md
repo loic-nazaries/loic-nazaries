@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Create Decision Tree in Power BI — AI and Power BI — Chapter 6](https://arpita-ghosh.medium.com/how-to-create-decision-tree-in-power-bi-ai-and-power-bi-chapter-6-ee2662dfe7a1?source=rss-------8-----------------data_science)
-- [How Many People REALLY Had COVID?](https://methodsmanmd.medium.com/how-many-people-really-had-covid-6adb292f15b0?source=rss-------8-----------------data_science)
-- [Making choropleth maps with blender.](https://tavoglc.medium.com/making-choropleth-maps-with-blender-4f8d2ada1321?source=rss-------8-----------------data_science)
-- [My Quarantine Project: Untangling a SIR Epidemic Model](https://agreenjay.medium.com/my-quarantine-project-untangling-a-sir-epidemic-model-dc94268d80db?source=rss-------8-----------------data_science)
-- [Pandas Melt: a shortcut to tidy data](https://medium.com/gustavorsantos/pandas-melt-a-shortcut-to-tidy-data-ff975570e0c?source=rss-------8-----------------data_science)
-- [What is Apache Spark and distributed computing?](https://pub.towardsai.net/what-are-apache-spark-and-distributed-computing-53ac52760182?source=rss-------8-----------------data_science)
-- [Scaling Satellite Imagery Analysis for Site Viability on Google Cloud](https://medium.com/contino-engineering/scaling-satellite-imagery-analysis-for-site-viability-on-google-cloud-4d9c5a6d854a?source=rss-------8-----------------data_science)
-- [A Gentle Introduction to Kaggle Competition: Step by Step Approach](https://medium.com/@thomaszyang/a-gentle-introduction-to-kaggle-competition-step-by-step-approach-3a8fefda7a70?source=rss-------8-----------------data_science)
-- [Stop Obsessing over data: Deliver and Measure real Value in Software](https://naveennegi.medium.com/stop-obsessing-over-data-deliver-and-measure-real-value-in-software-8a712980536d?source=rss-------8-----------------data_science)
-- [Building a Streamlit app to visualise Covid-19 using Plotly](https://towardsdatascience.com/interactive-dashboard-in-streamlit-to-analyse-owid-covid-19-data-180b1c3372e4?source=rss-------8-----------------data_science)
+- [Halo 5 — Building a Streamlit App to Get More Info on Your Competitors — Part 1](https://johnnydryman.medium.com/halo-5-building-a-streamlit-app-to-get-more-info-on-your-competitors-part-1-407bb05aeb4?source=rss-------8-----------------data_science)
+- [The Spread of Misinformation: Using Data to Improve Semantic, Social, and Conversational Network…](https://nyudatascience.medium.com/the-spread-of-misinformation-using-data-to-improve-semantic-social-and-conversational-network-c2d650498425?source=rss-------8-----------------data_science)
+- [How to Run Animations in Altair and Streamlit](https://towardsdatascience.com/how-to-run-animations-in-altair-and-streamlit-2a0624789ad?source=rss-------8-----------------data_science)
+- [Building a Tableau Dashboard](https://adinasteinman.medium.com/building-a-tableau-dashboard-91ab9bc8b51f?source=rss-------8-----------------data_science)
+- [Pre-Pruning or Post-Pruning](https://towardsdatascience.com/pre-pruning-or-post-pruning-1dbc8be5cb14?source=rss-------8-----------------data_science)
+- [A thorough guide to Time Series Analysis](https://medium.com/@fangyiyu/a-thorough-guide-to-time-series-analysis-5439c63bc9c5?source=rss-------8-----------------data_science)
+- [Trust and Collaboration Kept Cities Afloat During the Pandemic](https://medium.com/what-works-cities-certification/trust-and-collaboration-kept-cities-afloat-during-the-pandemic-836b3980e931?source=rss-------8-----------------data_science)
+- [Open MLOps: Open Source Production Machine Learning](https://towardsdatascience.com/open-mlops-open-source-production-machine-learning-f4080f02e9f0?source=rss-------8-----------------data_science)
+- [20 Machine Learning Projects That Will Get You Hired in 2021](https://medium.com/projectpro/20-machine-learning-projects-that-will-get-you-hired-in-2021-a89473f2d2c7?source=rss-------8-----------------data_science)
+- [Train Neural Network on Cloud with One Line of Code](https://towardsdatascience.com/train-neural-network-on-cloud-with-one-line-of-code-8ae2e378bc98?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
