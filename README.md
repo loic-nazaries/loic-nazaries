@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Halo 5 — Building a Streamlit App to Get More Info on Your Competitors — Part 1](https://johnnydryman.medium.com/halo-5-building-a-streamlit-app-to-get-more-info-on-your-competitors-part-1-407bb05aeb4?source=rss-------8-----------------data_science)
-- [The Spread of Misinformation: Using Data to Improve Semantic, Social, and Conversational Network…](https://nyudatascience.medium.com/the-spread-of-misinformation-using-data-to-improve-semantic-social-and-conversational-network-c2d650498425?source=rss-------8-----------------data_science)
-- [How to Run Animations in Altair and Streamlit](https://towardsdatascience.com/how-to-run-animations-in-altair-and-streamlit-2a0624789ad?source=rss-------8-----------------data_science)
-- [Building a Tableau Dashboard](https://adinasteinman.medium.com/building-a-tableau-dashboard-91ab9bc8b51f?source=rss-------8-----------------data_science)
-- [Pre-Pruning or Post-Pruning](https://towardsdatascience.com/pre-pruning-or-post-pruning-1dbc8be5cb14?source=rss-------8-----------------data_science)
-- [A thorough guide to Time Series Analysis](https://medium.com/@fangyiyu/a-thorough-guide-to-time-series-analysis-5439c63bc9c5?source=rss-------8-----------------data_science)
-- [Trust and Collaboration Kept Cities Afloat During the Pandemic](https://medium.com/what-works-cities-certification/trust-and-collaboration-kept-cities-afloat-during-the-pandemic-836b3980e931?source=rss-------8-----------------data_science)
-- [Open MLOps: Open Source Production Machine Learning](https://towardsdatascience.com/open-mlops-open-source-production-machine-learning-f4080f02e9f0?source=rss-------8-----------------data_science)
-- [20 Machine Learning Projects That Will Get You Hired in 2021](https://medium.com/projectpro/20-machine-learning-projects-that-will-get-you-hired-in-2021-a89473f2d2c7?source=rss-------8-----------------data_science)
-- [Train Neural Network on Cloud with One Line of Code](https://towardsdatascience.com/train-neural-network-on-cloud-with-one-line-of-code-8ae2e378bc98?source=rss-------8-----------------data_science)
+- [Faster iteration in Pandas](https://medium.com/productive-data-science/faster-iteration-in-pandas-15cac58d8226?source=rss-------8-----------------data_science)
+- [Intelligent Portfolio Construction: Prediction of Stock Direction](https://medium.com/@ri99al/intelligent-portfolio-construction-prediction-of-stock-direction-e1c71f4a725a?source=rss-------8-----------------data_science)
+- [Nine lessons for Data Science intrapreneurs](https://medium.com/@carivera/nine-lessons-for-data-science-intrapreneurs-ce10caa940c?source=rss-------8-----------------data_science)
+- [From NetsBlox to Spark…and Back Again](https://medium.com/the-faculty/from-netsblox-to-spark-and-back-again-b6da21bd79b6?source=rss-------8-----------------data_science)
+- [Top Free Data Science Learning Platforms](https://pub.towardsai.net/top-free-data-science-learning-platforms-42eef434fd?source=rss-------8-----------------data_science)
+- [This is One of the Best Websites To Get High-Quality Datasets](https://towardsdatascience.com/this-is-one-of-the-best-websites-to-get-high-quality-datasets-7b32c2d86991?source=rss-------8-----------------data_science)
+- [London Convenience Store Classification Using K-Means Clustering](https://towardsdatascience.com/london-convenience-store-classification-using-k-means-clustering-70c82899c61f?source=rss-------8-----------------data_science)
+- [Using Anomaly Detection to Validate Data Quality](https://bentson-brian.medium.com/using-anomaly-detection-to-validate-data-quality-856944c5e6cd?source=rss-------8-----------------data_science)
+- [A Quick Start To Data Quality Monitoring For Machine Learning](https://towardsdatascience.com/a-quickstart-guideto-high-quality-data-4112ee8c498b?source=rss-------8-----------------data_science)
+- [Legal Rules Structure the Reasoning in Legal Documents](https://towardsdatascience.com/legal-rules-structure-the-reasoning-in-legal-documents-fbd59c67a17b?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
