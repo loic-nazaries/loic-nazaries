@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Faster iteration in Pandas](https://medium.com/productive-data-science/faster-iteration-in-pandas-15cac58d8226?source=rss-------8-----------------data_science)
-- [Intelligent Portfolio Construction: Prediction of Stock Direction](https://medium.com/@ri99al/intelligent-portfolio-construction-prediction-of-stock-direction-e1c71f4a725a?source=rss-------8-----------------data_science)
-- [Nine lessons for Data Science intrapreneurs](https://medium.com/@carivera/nine-lessons-for-data-science-intrapreneurs-ce10caa940c?source=rss-------8-----------------data_science)
-- [From NetsBlox to Spark…and Back Again](https://medium.com/the-faculty/from-netsblox-to-spark-and-back-again-b6da21bd79b6?source=rss-------8-----------------data_science)
-- [Top Free Data Science Learning Platforms](https://pub.towardsai.net/top-free-data-science-learning-platforms-42eef434fd?source=rss-------8-----------------data_science)
-- [This is One of the Best Websites To Get High-Quality Datasets](https://towardsdatascience.com/this-is-one-of-the-best-websites-to-get-high-quality-datasets-7b32c2d86991?source=rss-------8-----------------data_science)
-- [London Convenience Store Classification Using K-Means Clustering](https://towardsdatascience.com/london-convenience-store-classification-using-k-means-clustering-70c82899c61f?source=rss-------8-----------------data_science)
-- [Using Anomaly Detection to Validate Data Quality](https://bentson-brian.medium.com/using-anomaly-detection-to-validate-data-quality-856944c5e6cd?source=rss-------8-----------------data_science)
-- [A Quick Start To Data Quality Monitoring For Machine Learning](https://towardsdatascience.com/a-quickstart-guideto-high-quality-data-4112ee8c498b?source=rss-------8-----------------data_science)
-- [Legal Rules Structure the Reasoning in Legal Documents](https://towardsdatascience.com/legal-rules-structure-the-reasoning-in-legal-documents-fbd59c67a17b?source=rss-------8-----------------data_science)
+- [The Current Issue with Climate Change: Data Vi](https://studentsxstudents.com/the-current-issue-with-climate-change-data-vi-c3d6e176235c?source=rss-------8-----------------data_science)
+- [10 Best Practices to Write Readable and Maintainable SQL Code](https://towardsdatascience.com/10-best-practices-to-write-readable-and-maintainable-sql-code-427f6bb98208?source=rss-------8-----------------data_science)
+- [How to create a multilabel classification dataset and predict on it in Python](https://medium.com/mlearning-ai/how-to-create-a-multilabel-classification-dataset-and-predict-on-it-in-python-cfec9a5082a2?source=rss-------8-----------------data_science)
+- [Getting familiar with Rmarkdown Stargazer](https://towardsdatascience.com/getting-familiar-with-rmarkdown-stargazer-3853831a3918?source=rss-------8-----------------data_science)
+- [Reading and interpreting summary statistics](https://towardsdatascience.com/reading-and-interpreting-summary-statistics-df34f4e69ba6?source=rss-------8-----------------data_science)
+- [Top 2 Reasons Why Data Catalogs Fail](https://towardsdatascience.com/top-2-reasons-why-data-catalogs-fail-615edacec1c0?source=rss-------8-----------------data_science)
+- [The “Bias-Variance Trade-Off” Explained Practically (In Python)](https://towardsdatascience.com/the-bias-variance-trade-off-explained-practically-in-python-48cf29d9e900?source=rss-------8-----------------data_science)
+- [Econometrics and statistics from scratch in Python 3.8 (linear regression, mean squared error…)](https://louisbrulenaudet.medium.com/econometrics-and-statistics-from-scratch-in-python-3-8-linear-regression-mean-squared-error-9b81b8b84754?source=rss-------8-----------------data_science)
+- [The way I learned the gradient descent](https://medium.com/@sumanthdonapati/the-way-i-learned-the-gradient-descent-cb408e6149e4?source=rss-------8-----------------data_science)
+- [Covid-19 — anatomy of a methodology crisis. It all starts with data collection](https://towardsdatascience.com/covid-19-anatomy-of-a-methodology-crisis-it-all-starts-with-data-collection-e23fcbcba54a?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
