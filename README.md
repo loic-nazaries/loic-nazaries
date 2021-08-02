@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Current Issue with Climate Change: Data Vi](https://studentsxstudents.com/the-current-issue-with-climate-change-data-vi-c3d6e176235c?source=rss-------8-----------------data_science)
-- [10 Best Practices to Write Readable and Maintainable SQL Code](https://towardsdatascience.com/10-best-practices-to-write-readable-and-maintainable-sql-code-427f6bb98208?source=rss-------8-----------------data_science)
-- [How to create a multilabel classification dataset and predict on it in Python](https://medium.com/mlearning-ai/how-to-create-a-multilabel-classification-dataset-and-predict-on-it-in-python-cfec9a5082a2?source=rss-------8-----------------data_science)
-- [Getting familiar with Rmarkdown Stargazer](https://towardsdatascience.com/getting-familiar-with-rmarkdown-stargazer-3853831a3918?source=rss-------8-----------------data_science)
-- [Reading and interpreting summary statistics](https://towardsdatascience.com/reading-and-interpreting-summary-statistics-df34f4e69ba6?source=rss-------8-----------------data_science)
-- [Top 2 Reasons Why Data Catalogs Fail](https://towardsdatascience.com/top-2-reasons-why-data-catalogs-fail-615edacec1c0?source=rss-------8-----------------data_science)
-- [The “Bias-Variance Trade-Off” Explained Practically (In Python)](https://towardsdatascience.com/the-bias-variance-trade-off-explained-practically-in-python-48cf29d9e900?source=rss-------8-----------------data_science)
-- [Econometrics and statistics from scratch in Python 3.8 (linear regression, mean squared error…)](https://louisbrulenaudet.medium.com/econometrics-and-statistics-from-scratch-in-python-3-8-linear-regression-mean-squared-error-9b81b8b84754?source=rss-------8-----------------data_science)
-- [The way I learned the gradient descent](https://medium.com/@sumanthdonapati/the-way-i-learned-the-gradient-descent-cb408e6149e4?source=rss-------8-----------------data_science)
-- [Covid-19 — anatomy of a methodology crisis. It all starts with data collection](https://towardsdatascience.com/covid-19-anatomy-of-a-methodology-crisis-it-all-starts-with-data-collection-e23fcbcba54a?source=rss-------8-----------------data_science)
+- [6 To-Do Tips When Waiting for Models to Train](https://towardsdatascience.com/6-to-do-tips-when-waiting-for-models-to-train-cced7b79a0df?source=rss-------8-----------------data_science)
+- [An Unconventional Yet Convenient Matplotlib Broken_Barh Function And When It Is Particularly…](https://towardsdatascience.com/an-unconventional-yet-convenient-matplotlib-broken-barh-function-and-when-it-is-particularly-88887b76c127?source=rss-------8-----------------data_science)
+- [Using Artificial Intelligence to predict the spread of wildfires, with Python](https://towardsdatascience.com/using-artificial-intelligence-to-predict-the-spread-of-wildfires-with-python-30386e28162f?source=rss-------8-----------------data_science)
+- [Why Aren’t we Better Prepared to Deal With Asymmetric Data?](https://towardsdatascience.com/why-arent-we-better-prepared-to-deal-with-asymmetric-data-1bca9b4c186b?source=rss-------8-----------------data_science)
+- [Visualizing Local Electric Grid Pollution with a $7 Smart Lightbulb.](https://towardsdatascience.com/visualizing-local-electric-grid-pollution-with-a-7-smart-lightbulb-2cf16abe5f4e?source=rss-------8-----------------data_science)
+- [8.06e+67](https://medium.com/geekculture/8-06e-67-e2fe062217e1?source=rss-------8-----------------data_science)
+- [A Summary of My July Articles: from Python/R Tutorials to Discussions](https://alod83.medium.com/a-summary-of-my-july-articles-from-python-r-tutorials-to-discussions-cc83df6ec266?source=rss-------8-----------------data_science)
+- [Make Your Dashboard Stand Out — Radar Chart](https://pub.towardsai.net/make-your-dashboard-stand-out-radar-chart-34d0497eddb8?source=rss-------8-----------------data_science)
+- [Everything you Need to Know to About matplotlib Subplots](https://python.plainenglish.io/everything-you-need-to-know-to-about-matplotlibs-subplots-510975c66fed?source=rss-------8-----------------data_science)
+- [Customize Matplotlib With Stylesheets](https://medium.com/geekculture/customize-matplotlib-with-stylesheets-8f4a4d5b4182?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
