@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [6 To-Do Tips When Waiting for Models to Train](https://towardsdatascience.com/6-to-do-tips-when-waiting-for-models-to-train-cced7b79a0df?source=rss-------8-----------------data_science)
-- [An Unconventional Yet Convenient Matplotlib Broken_Barh Function And When It Is Particularly…](https://towardsdatascience.com/an-unconventional-yet-convenient-matplotlib-broken-barh-function-and-when-it-is-particularly-88887b76c127?source=rss-------8-----------------data_science)
-- [Using Artificial Intelligence to predict the spread of wildfires, with Python](https://towardsdatascience.com/using-artificial-intelligence-to-predict-the-spread-of-wildfires-with-python-30386e28162f?source=rss-------8-----------------data_science)
-- [Why Aren’t we Better Prepared to Deal With Asymmetric Data?](https://towardsdatascience.com/why-arent-we-better-prepared-to-deal-with-asymmetric-data-1bca9b4c186b?source=rss-------8-----------------data_science)
-- [Visualizing Local Electric Grid Pollution with a $7 Smart Lightbulb.](https://towardsdatascience.com/visualizing-local-electric-grid-pollution-with-a-7-smart-lightbulb-2cf16abe5f4e?source=rss-------8-----------------data_science)
-- [8.06e+67](https://medium.com/geekculture/8-06e-67-e2fe062217e1?source=rss-------8-----------------data_science)
-- [A Summary of My July Articles: from Python/R Tutorials to Discussions](https://alod83.medium.com/a-summary-of-my-july-articles-from-python-r-tutorials-to-discussions-cc83df6ec266?source=rss-------8-----------------data_science)
-- [Make Your Dashboard Stand Out — Radar Chart](https://pub.towardsai.net/make-your-dashboard-stand-out-radar-chart-34d0497eddb8?source=rss-------8-----------------data_science)
-- [Everything you Need to Know to About matplotlib Subplots](https://python.plainenglish.io/everything-you-need-to-know-to-about-matplotlibs-subplots-510975c66fed?source=rss-------8-----------------data_science)
-- [Customize Matplotlib With Stylesheets](https://medium.com/geekculture/customize-matplotlib-with-stylesheets-8f4a4d5b4182?source=rss-------8-----------------data_science)
+- [Modeling The NBA Leap — Part III](https://medium.com/geekculture/modeling-the-nba-leap-part-iii-74e31f55ee92?source=rss-------8-----------------data_science)
+- [Mapping the Computer-Aided Governance Process](https://medium.com/block-science/mapping-the-computer-aided-governance-process-2e47eaf70889?source=rss-------8-----------------data_science)
+- [All you need to know about Outliers](https://techfitlab.medium.com/all-you-need-to-know-about-outliers-ed6085b5d683?source=rss-------8-----------------data_science)
+- [How I calculated my heart rate zones for running](https://medium.com/@ruixuanq/how-i-calculated-my-heart-rate-zones-for-running-c121e872be8e?source=rss-------8-----------------data_science)
+- [Simple Machine Translation: Yorùbá to English](https://towardsdatascience.com/simple-machine-translation-yor%C3%B9b%C3%A1-to-english-1b958ccdc8a1?source=rss-------8-----------------data_science)
+- [A Day in the Life of a Part-time Writer (and a Full-time Data Scientist)](https://towardsdatascience.com/a-day-in-the-life-of-a-part-time-writer-and-a-full-time-data-scientist-4697086c622b?source=rss-------8-----------------data_science)
+- [Intelligent Hypothesis Generating](https://zachcolinwolpe.medium.com/intelligent-hypothesis-generating-46e0d249f185?source=rss-------8-----------------data_science)
+- [How to Train YOLOX On a Custom Dataset](https://towardsdatascience.com/how-to-train-yolox-on-a-custom-dataset-bb2f94cdb038?source=rss-------8-----------------data_science)
+- [Data Augmentation with Copy-Paste Technique](https://towardsdatascience.com/data-augmentation-reducing-model-confusion-with-copy-paste-8f41884ca9d1?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
