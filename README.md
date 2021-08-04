@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Modeling The NBA Leap — Part III](https://medium.com/geekculture/modeling-the-nba-leap-part-iii-74e31f55ee92?source=rss-------8-----------------data_science)
-- [Mapping the Computer-Aided Governance Process](https://medium.com/block-science/mapping-the-computer-aided-governance-process-2e47eaf70889?source=rss-------8-----------------data_science)
-- [All you need to know about Outliers](https://techfitlab.medium.com/all-you-need-to-know-about-outliers-ed6085b5d683?source=rss-------8-----------------data_science)
-- [How I calculated my heart rate zones for running](https://medium.com/@ruixuanq/how-i-calculated-my-heart-rate-zones-for-running-c121e872be8e?source=rss-------8-----------------data_science)
-- [Simple Machine Translation: Yorùbá to English](https://towardsdatascience.com/simple-machine-translation-yor%C3%B9b%C3%A1-to-english-1b958ccdc8a1?source=rss-------8-----------------data_science)
-- [A Day in the Life of a Part-time Writer (and a Full-time Data Scientist)](https://towardsdatascience.com/a-day-in-the-life-of-a-part-time-writer-and-a-full-time-data-scientist-4697086c622b?source=rss-------8-----------------data_science)
-- [Intelligent Hypothesis Generating](https://zachcolinwolpe.medium.com/intelligent-hypothesis-generating-46e0d249f185?source=rss-------8-----------------data_science)
-- [How to Train YOLOX On a Custom Dataset](https://towardsdatascience.com/how-to-train-yolox-on-a-custom-dataset-bb2f94cdb038?source=rss-------8-----------------data_science)
-- [Data Augmentation with Copy-Paste Technique](https://towardsdatascience.com/data-augmentation-reducing-model-confusion-with-copy-paste-8f41884ca9d1?source=rss-------8-----------------data_science)
+- [Excel, Meet PivotTables](https://medium.com/analytics-vidhya/excel-meet-pivottables-547b78faaa20?source=rss-------8-----------------data_science)
+- [Creating a Stunning Interactive Dashboard with Plotly Express and Dash](https://pub.towardsai.net/creating-a-stunning-interactive-dashboard-with-plotly-express-and-dash-7e3dddcb955?source=rss-------8-----------------data_science)
+- [5 Unexplored Python Libraries for Time Series Analysis](https://towardsdatascience.com/5-unexplored-python-libraries-for-time-series-analysis-e9375962fbb2?source=rss-------8-----------------data_science)
+- [How I transitioned into Data Science & got the attention of the NY Times, Capital One, Linkedin…](https://towardsdatascience.com/how-i-transitioned-into-data-science-got-the-attention-of-the-ny-times-capital-one-linkedin-912d58aafec3?source=rss-------8-----------------data_science)
+- [Building a Fully Deployed Solar Calculator App to Simulate Cost Savings For Your Home Over the…](https://towardsdatascience.com/building-a-fully-deployed-solar-calculator-app-to-simulate-cost-savings-for-your-home-over-the-3d5f464824c0?source=rss-------8-----------------data_science)
+- [Building Data Visualization Webapps Using Python](https://towardsdatascience.com/building-data-visualization-webapps-using-python-769bc13fe12?source=rss-------8-----------------data_science)
+- [“The Mismeasure of Man” and broken data science of prejudice](https://towardsdatascience.com/the-mismeasure-of-man-and-broken-data-science-of-prejudice-3aacff214321?source=rss-------8-----------------data_science)
+- [Understanding Data Visualization](https://nonkuleko.medium.com/understanding-data-visualization-9ac007fd284c?source=rss-------8-----------------data_science)
+- [The complete guide to Polynomials](https://towardsdatascience.com/the-complete-guide-to-polynomials-6a221f360357?source=rss-------8-----------------data_science)
+- [Introduction to Churn](https://medium.com/plytrix-analytics/introduction-to-churn-734058d020b5?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
