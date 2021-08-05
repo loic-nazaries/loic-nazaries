@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Excel, Meet PivotTables](https://medium.com/analytics-vidhya/excel-meet-pivottables-547b78faaa20?source=rss-------8-----------------data_science)
-- [Creating a Stunning Interactive Dashboard with Plotly Express and Dash](https://pub.towardsai.net/creating-a-stunning-interactive-dashboard-with-plotly-express-and-dash-7e3dddcb955?source=rss-------8-----------------data_science)
-- [5 Unexplored Python Libraries for Time Series Analysis](https://towardsdatascience.com/5-unexplored-python-libraries-for-time-series-analysis-e9375962fbb2?source=rss-------8-----------------data_science)
-- [How I transitioned into Data Science & got the attention of the NY Times, Capital One, Linkedin…](https://towardsdatascience.com/how-i-transitioned-into-data-science-got-the-attention-of-the-ny-times-capital-one-linkedin-912d58aafec3?source=rss-------8-----------------data_science)
-- [Building a Fully Deployed Solar Calculator App to Simulate Cost Savings For Your Home Over the…](https://towardsdatascience.com/building-a-fully-deployed-solar-calculator-app-to-simulate-cost-savings-for-your-home-over-the-3d5f464824c0?source=rss-------8-----------------data_science)
-- [Building Data Visualization Webapps Using Python](https://towardsdatascience.com/building-data-visualization-webapps-using-python-769bc13fe12?source=rss-------8-----------------data_science)
-- [“The Mismeasure of Man” and broken data science of prejudice](https://towardsdatascience.com/the-mismeasure-of-man-and-broken-data-science-of-prejudice-3aacff214321?source=rss-------8-----------------data_science)
-- [Understanding Data Visualization](https://nonkuleko.medium.com/understanding-data-visualization-9ac007fd284c?source=rss-------8-----------------data_science)
-- [The complete guide to Polynomials](https://towardsdatascience.com/the-complete-guide-to-polynomials-6a221f360357?source=rss-------8-----------------data_science)
-- [Introduction to Churn](https://medium.com/plytrix-analytics/introduction-to-churn-734058d020b5?source=rss-------8-----------------data_science)
+- [Forecasting S&P500 Volatility](https://ethanskinner94.medium.com/forecasting-s-p500-volatility-using-a-novel-data-driven-exponentially-weighted-moving-average-and-de11330e9bab?source=rss-------8-----------------data_science)
+- [How to Deliver an AI Pipeline](https://towardsdatascience.com/how-to-deliver-an-ai-pipeline-9c6fbfc29d3b?source=rss-------8-----------------data_science)
+- [How I Monitor Active SSH Sessions With Prometheus And Grafana](https://towardsdatascience.com/how-i-monitor-active-ssh-sessions-with-prometheus-and-grafana-f4811da0a8cc?source=rss-------8-----------------data_science)
+- [Introduction to AI for Social Good](https://towardsdatascience.com/introduction-to-ai-for-social-good-875a8260c60f?source=rss-------8-----------------data_science)
+- [Quantum Computing — how it could be used](https://towardsdatascience.com/quantum-computing-how-it-could-be-used-6f873dfb7cea?source=rss-------8-----------------data_science)
+- [How to use the STAPLE algorithm to combine multiple image segmentations](https://towardsdatascience.com/how-to-use-the-staple-algorithm-to-combine-multiple-image-segmentations-ce91ebeb451e?source=rss-------8-----------------data_science)
+- [Principal Components: Danielle Lyles on Data Science in Higher Ed](https://towardsdatascience.com/principal-components-danielle-lyles-on-data-science-in-higher-ed-2eab154dc779?source=rss-------8-----------------data_science)
+- [Why Time in the Market works?](https://medium.com/@rohanjoseph_91119/why-time-in-the-market-works-e325e15e438d?source=rss-------8-----------------data_science)
+- [R Equivalent of 7 Common Pandas Operations](https://towardsdatascience.com/r-equivalent-of-7-common-pandas-operations-76b632fc801b?source=rss-------8-----------------data_science)
+- [The Great Data Reckoning](https://medium.com/@josephcarterbrown/the-great-data-reckoning-1f6e7ce69da8?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
