@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Forecasting S&P500 Volatility](https://ethanskinner94.medium.com/forecasting-s-p500-volatility-using-a-novel-data-driven-exponentially-weighted-moving-average-and-de11330e9bab?source=rss-------8-----------------data_science)
-- [How to Deliver an AI Pipeline](https://towardsdatascience.com/how-to-deliver-an-ai-pipeline-9c6fbfc29d3b?source=rss-------8-----------------data_science)
-- [How I Monitor Active SSH Sessions With Prometheus And Grafana](https://towardsdatascience.com/how-i-monitor-active-ssh-sessions-with-prometheus-and-grafana-f4811da0a8cc?source=rss-------8-----------------data_science)
-- [Introduction to AI for Social Good](https://towardsdatascience.com/introduction-to-ai-for-social-good-875a8260c60f?source=rss-------8-----------------data_science)
-- [Quantum Computing — how it could be used](https://towardsdatascience.com/quantum-computing-how-it-could-be-used-6f873dfb7cea?source=rss-------8-----------------data_science)
-- [How to use the STAPLE algorithm to combine multiple image segmentations](https://towardsdatascience.com/how-to-use-the-staple-algorithm-to-combine-multiple-image-segmentations-ce91ebeb451e?source=rss-------8-----------------data_science)
-- [Principal Components: Danielle Lyles on Data Science in Higher Ed](https://towardsdatascience.com/principal-components-danielle-lyles-on-data-science-in-higher-ed-2eab154dc779?source=rss-------8-----------------data_science)
-- [Why Time in the Market works?](https://medium.com/@rohanjoseph_91119/why-time-in-the-market-works-e325e15e438d?source=rss-------8-----------------data_science)
-- [R Equivalent of 7 Common Pandas Operations](https://towardsdatascience.com/r-equivalent-of-7-common-pandas-operations-76b632fc801b?source=rss-------8-----------------data_science)
-- [The Great Data Reckoning](https://medium.com/@josephcarterbrown/the-great-data-reckoning-1f6e7ce69da8?source=rss-------8-----------------data_science)
+- [Data science for Personalized learning](https://towardsdatascience.com/data-science-for-personalized-learning-bad7385bc7c4?source=rss-------8-----------------data_science)
+- [How PagerDuty Applies DevOps Best Practices to Achieve More Reliable Data at Scale](https://towardsdatascience.com/how-pagerduty-applies-devops-best-practices-to-achieve-more-reliable-data-at-scale-67fa6ba75242?source=rss-------8-----------------data_science)
+- [Data Science in Climate Change](https://medium.com/analytics-vidhya/data-science-in-climate-change-7ba2dd948aa7?source=rss-------8-----------------data_science)
+- [What Data Relationship are You In?](https://heatherkrause.medium.com/what-data-relationship-are-you-in-91633161ac2f?source=rss-------8-----------------data_science)
+- [Graph Thinking](https://medium.com/knowledge-technologies/graph-thinking-5e9c85134ab0?source=rss-------8-----------------data_science)
+- [Jupyter Notebooks Versus Dataiku DSS for Data Science](https://towardsdatascience.com/jupyter-notebooks-versus-dataiku-dss-for-data-science-e02264a753ca?source=rss-------8-----------------data_science)
+- [Data Validation — Measuring Completeness, Consistency, and Accuracy Using Great Expectations with…](https://medium.com/99p-labs/data-validation-measuring-completeness-consistency-and-accuracy-using-great-expectations-with-c0ad2924e425?source=rss-------8-----------------data_science)
+- [Zomato Data Analysis with Jupyter Notebook](https://ninza7.medium.com/zomato-data-analysis-with-jupyter-notebook-6116ea03bd9d?source=rss-------8-----------------data_science)
+- [A COMPARATIVE ANALYSIS OF VARIOUS MACHINE LEARNING MODELS](https://gopikasr245.medium.com/a-comparative-analysis-of-various-machine-learning-models-3d8e08aa4df4?source=rss-------8-----------------data_science)
+- [Control Charts For Anomaly Detection](https://unhypedai.medium.com/control-charts-for-anomaly-detection-75b615ab8f9b?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
