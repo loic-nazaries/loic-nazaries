@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data science for Personalized learning](https://towardsdatascience.com/data-science-for-personalized-learning-bad7385bc7c4?source=rss-------8-----------------data_science)
-- [How PagerDuty Applies DevOps Best Practices to Achieve More Reliable Data at Scale](https://towardsdatascience.com/how-pagerduty-applies-devops-best-practices-to-achieve-more-reliable-data-at-scale-67fa6ba75242?source=rss-------8-----------------data_science)
-- [Data Science in Climate Change](https://medium.com/analytics-vidhya/data-science-in-climate-change-7ba2dd948aa7?source=rss-------8-----------------data_science)
-- [What Data Relationship are You In?](https://heatherkrause.medium.com/what-data-relationship-are-you-in-91633161ac2f?source=rss-------8-----------------data_science)
-- [Graph Thinking](https://medium.com/knowledge-technologies/graph-thinking-5e9c85134ab0?source=rss-------8-----------------data_science)
-- [Jupyter Notebooks Versus Dataiku DSS for Data Science](https://towardsdatascience.com/jupyter-notebooks-versus-dataiku-dss-for-data-science-e02264a753ca?source=rss-------8-----------------data_science)
-- [Data Validation — Measuring Completeness, Consistency, and Accuracy Using Great Expectations with…](https://medium.com/99p-labs/data-validation-measuring-completeness-consistency-and-accuracy-using-great-expectations-with-c0ad2924e425?source=rss-------8-----------------data_science)
-- [Zomato Data Analysis with Jupyter Notebook](https://ninza7.medium.com/zomato-data-analysis-with-jupyter-notebook-6116ea03bd9d?source=rss-------8-----------------data_science)
-- [A COMPARATIVE ANALYSIS OF VARIOUS MACHINE LEARNING MODELS](https://gopikasr245.medium.com/a-comparative-analysis-of-various-machine-learning-models-3d8e08aa4df4?source=rss-------8-----------------data_science)
-- [Control Charts For Anomaly Detection](https://unhypedai.medium.com/control-charts-for-anomaly-detection-75b615ab8f9b?source=rss-------8-----------------data_science)
+- [International Travel Advisory and Restriction Data — Part I](https://towardsdatascience.com/international-travel-advisory-and-restriction-data-part-i-509e7bc9f2b1?source=rss-------8-----------------data_science)
+- [Crunching big data for good healthcare policy](https://medium.com/purdue-engineering/crunching-big-data-for-good-healthcare-policy-2905643eeaf9?source=rss-------8-----------------data_science)
+- [How the science of data is transforming life](https://medium.com/purdue-engineering/how-the-science-of-data-is-transforming-life-45902a63475f?source=rss-------8-----------------data_science)
+- [A New Take on Analytical Workflow Management](https://towardsdatascience.com/a-new-take-on-analytical-workflow-management-e14b8588cdfe?source=rss-------8-----------------data_science)
+- [The Difference Between Classification and Regression in Machine Learning](https://towardsdatascience.com/the-difference-between-classification-and-regression-in-machine-learning-4ccdb5b18fd3?source=rss-------8-----------------data_science)
+- [Deploy FastAPI on Azure with Github Actions](https://towardsdatascience.com/deploy-fastapi-on-azure-with-github-actions-32c5ab248ce3?source=rss-------8-----------------data_science)
+- [Node customization for stunning networks](https://towardsdatascience.com/node-customization-for-stunning-networks-d1f74cf2e46d?source=rss-------8-----------------data_science)
+- [Analyzing ML Model using Dashboard](https://towardsdatascience.com/analyzing-ml-model-using-dashboard-f69e17a942f9?source=rss-------8-----------------data_science)
+- [7 Cool Python Packages Kagglers Are Using Without Telling You](https://towardsdatascience.com/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4?source=rss-------8-----------------data_science)
+- [Mask Detection using YOLOv5](https://towardsdatascience.com/mask-detection-using-yolov5-ae40979227a6?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
