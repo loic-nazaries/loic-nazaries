@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [International Travel Advisory and Restriction Data — Part I](https://towardsdatascience.com/international-travel-advisory-and-restriction-data-part-i-509e7bc9f2b1?source=rss-------8-----------------data_science)
-- [Crunching big data for good healthcare policy](https://medium.com/purdue-engineering/crunching-big-data-for-good-healthcare-policy-2905643eeaf9?source=rss-------8-----------------data_science)
-- [How the science of data is transforming life](https://medium.com/purdue-engineering/how-the-science-of-data-is-transforming-life-45902a63475f?source=rss-------8-----------------data_science)
-- [A New Take on Analytical Workflow Management](https://towardsdatascience.com/a-new-take-on-analytical-workflow-management-e14b8588cdfe?source=rss-------8-----------------data_science)
-- [The Difference Between Classification and Regression in Machine Learning](https://towardsdatascience.com/the-difference-between-classification-and-regression-in-machine-learning-4ccdb5b18fd3?source=rss-------8-----------------data_science)
-- [Deploy FastAPI on Azure with Github Actions](https://towardsdatascience.com/deploy-fastapi-on-azure-with-github-actions-32c5ab248ce3?source=rss-------8-----------------data_science)
-- [Node customization for stunning networks](https://towardsdatascience.com/node-customization-for-stunning-networks-d1f74cf2e46d?source=rss-------8-----------------data_science)
-- [Analyzing ML Model using Dashboard](https://towardsdatascience.com/analyzing-ml-model-using-dashboard-f69e17a942f9?source=rss-------8-----------------data_science)
-- [7 Cool Python Packages Kagglers Are Using Without Telling You](https://towardsdatascience.com/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4?source=rss-------8-----------------data_science)
-- [Mask Detection using YOLOv5](https://towardsdatascience.com/mask-detection-using-yolov5-ae40979227a6?source=rss-------8-----------------data_science)
+- [Kubernetes Practical Intro for Data Scientists](https://towardsdatascience.com/kubernetes-practical-intro-for-data-scientists-739c263efa06?source=rss-------8-----------------data_science)
+- [How to model the effects of vaccination](https://medium.data4sci.com/how-to-model-the-effects-of-vaccination-b328768ba2df?source=rss-------8-----------------data_science)
+- [Data Management Architectures — Monolithic Data Architectures and Distributed Data Mesh](https://towardsdatascience.com/data-management-architectures-monolithic-data-architectures-and-distributed-data-mesh-63743794966c?source=rss-------8-----------------data_science)
+- [Sidetable: An Efficient tool to Summarize Pandas Dataframe](https://satyam-kumar.medium.com/sidetable-a-efficient-tool-to-summarize-pandas-dataframe-f338e3c84f6d?source=rss-------8-----------------data_science)
+- [Self-Talk: Obtain Knowledge From Text Generation Transformer Models](https://towardsdatascience.com/self-talk-obtain-knowledge-from-text-generation-transformer-models-918277dbfc8b?source=rss-------8-----------------data_science)
+- [Working with Geospatial Data in Python — PART 1](https://towardsdatascience.com/working-with-geospatial-data-in-python-part-1-453c97daebc5?source=rss-------8-----------------data_science)
+- [How to Detect Seasonality, Outliers, and Changepoints in Your Time Series](https://towardsdatascience.com/how-to-detect-seasonality-outliers-and-changepoints-in-your-time-series-5d0901498cff?source=rss-------8-----------------data_science)
+- [Can We Use Mobility To Predict Income Tax and Sales Tax Revenue?](https://medium.com/@YOUNGCELTIC_49346/can-we-use-mobility-to-predict-income-tax-and-sales-tax-revenue-b253213c1b21?source=rss-------8-----------------data_science)
+- [3 Python Packages that make Data Science Simple](https://medium.com/analytics-vidhya/3-python-packages-that-make-data-science-simple-40744de22592?source=rss-------8-----------------data_science)
+- [Drive to thrive: What Government and Aston Martin Formula One racing have in common](https://digileaders.medium.com/drive-to-thrive-what-government-and-aston-martin-formula-one-racing-have-in-common-2a5f3d5e0054?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
