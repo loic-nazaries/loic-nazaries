@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Kubernetes Practical Intro for Data Scientists](https://towardsdatascience.com/kubernetes-practical-intro-for-data-scientists-739c263efa06?source=rss-------8-----------------data_science)
-- [How to model the effects of vaccination](https://medium.data4sci.com/how-to-model-the-effects-of-vaccination-b328768ba2df?source=rss-------8-----------------data_science)
-- [Data Management Architectures — Monolithic Data Architectures and Distributed Data Mesh](https://towardsdatascience.com/data-management-architectures-monolithic-data-architectures-and-distributed-data-mesh-63743794966c?source=rss-------8-----------------data_science)
-- [Sidetable: An Efficient tool to Summarize Pandas Dataframe](https://satyam-kumar.medium.com/sidetable-a-efficient-tool-to-summarize-pandas-dataframe-f338e3c84f6d?source=rss-------8-----------------data_science)
-- [Self-Talk: Obtain Knowledge From Text Generation Transformer Models](https://towardsdatascience.com/self-talk-obtain-knowledge-from-text-generation-transformer-models-918277dbfc8b?source=rss-------8-----------------data_science)
-- [Working with Geospatial Data in Python — PART 1](https://towardsdatascience.com/working-with-geospatial-data-in-python-part-1-453c97daebc5?source=rss-------8-----------------data_science)
-- [How to Detect Seasonality, Outliers, and Changepoints in Your Time Series](https://towardsdatascience.com/how-to-detect-seasonality-outliers-and-changepoints-in-your-time-series-5d0901498cff?source=rss-------8-----------------data_science)
-- [Can We Use Mobility To Predict Income Tax and Sales Tax Revenue?](https://medium.com/@YOUNGCELTIC_49346/can-we-use-mobility-to-predict-income-tax-and-sales-tax-revenue-b253213c1b21?source=rss-------8-----------------data_science)
-- [3 Python Packages that make Data Science Simple](https://medium.com/analytics-vidhya/3-python-packages-that-make-data-science-simple-40744de22592?source=rss-------8-----------------data_science)
-- [Drive to thrive: What Government and Aston Martin Formula One racing have in common](https://digileaders.medium.com/drive-to-thrive-what-government-and-aston-martin-formula-one-racing-have-in-common-2a5f3d5e0054?source=rss-------8-----------------data_science)
+- [Phik (k) — get familiar with the latest correlation coefficient](https://towardsdatascience.com/phik-k-get-familiar-with-the-latest-correlation-coefficient-9ba0032b37e7?source=rss-------8-----------------data_science)
+- [I Simulated the Next 50 Years of Baseball](https://towardsdatascience.com/i-simulated-the-next-50-years-of-baseball-acaffb970a48?source=rss-------8-----------------data_science)
+- [Sidetable: An Efficient tool to Summarize Pandas Dataframe](https://levelup.gitconnected.com/sidetable-an-efficient-tool-to-summarize-pandas-dataframe-330958528a82?source=rss-------8-----------------data_science)
+- [Stream Your Cosmos DB Changes To Databricks with Spark 3](https://towardsdatascience.com/stream-your-cosmos-db-changes-to-databricks-with-spark-3-8044b237b853?source=rss-------8-----------------data_science)
+- [A Complete Guide to twitter Sentiment Analysis — Part II](https://medium.com/analytics-vidhya/a-complete-guide-to-twitter-sentiment-analysis-part-two-7349550bdea9?source=rss-------8-----------------data_science)
+- [A Complete Guide to Twitter Sentiment Analysis — Part I](https://medium.com/analytics-vidhya/a-complete-guide-to-twitter-sentiment-analysis-part-one-8dd6d82118b3?source=rss-------8-----------------data_science)
+- [Automating EDA Using DataPrep](https://towardsdatascience.com/automating-eda-using-dataprep-2b541b6a3149?source=rss-------8-----------------data_science)
+- [1/2 - Is it the Probability of passing a test?](https://medium.datadriveninvestor.com/1-2-is-it-the-probability-of-passing-a-test-a559cabb5cf9?source=rss-------8-----------------data_science)
+- [How Much Knowledge Can You Pack Into the Parameters of a Language Model? — A Summary](https://towardsdatascience.com/how-much-knowledge-can-you-pack-into-the-parameters-of-a-language-model-a-summary-fed633a092b6?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
