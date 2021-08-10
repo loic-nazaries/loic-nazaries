@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Phik (k) — get familiar with the latest correlation coefficient](https://towardsdatascience.com/phik-k-get-familiar-with-the-latest-correlation-coefficient-9ba0032b37e7?source=rss-------8-----------------data_science)
-- [I Simulated the Next 50 Years of Baseball](https://towardsdatascience.com/i-simulated-the-next-50-years-of-baseball-acaffb970a48?source=rss-------8-----------------data_science)
-- [Sidetable: An Efficient tool to Summarize Pandas Dataframe](https://levelup.gitconnected.com/sidetable-an-efficient-tool-to-summarize-pandas-dataframe-330958528a82?source=rss-------8-----------------data_science)
-- [Stream Your Cosmos DB Changes To Databricks with Spark 3](https://towardsdatascience.com/stream-your-cosmos-db-changes-to-databricks-with-spark-3-8044b237b853?source=rss-------8-----------------data_science)
-- [A Complete Guide to twitter Sentiment Analysis — Part II](https://medium.com/analytics-vidhya/a-complete-guide-to-twitter-sentiment-analysis-part-two-7349550bdea9?source=rss-------8-----------------data_science)
-- [A Complete Guide to Twitter Sentiment Analysis — Part I](https://medium.com/analytics-vidhya/a-complete-guide-to-twitter-sentiment-analysis-part-one-8dd6d82118b3?source=rss-------8-----------------data_science)
-- [Automating EDA Using DataPrep](https://towardsdatascience.com/automating-eda-using-dataprep-2b541b6a3149?source=rss-------8-----------------data_science)
-- [1/2 - Is it the Probability of passing a test?](https://medium.datadriveninvestor.com/1-2-is-it-the-probability-of-passing-a-test-a559cabb5cf9?source=rss-------8-----------------data_science)
-- [How Much Knowledge Can You Pack Into the Parameters of a Language Model? — A Summary](https://towardsdatascience.com/how-much-knowledge-can-you-pack-into-the-parameters-of-a-language-model-a-summary-fed633a092b6?source=rss-------8-----------------data_science)
+- [Analyzing Data in Pandas](https://rylewww.medium.com/analyzing-data-in-pandas-7b7d500f6aed?source=rss-------8-----------------data_science)
+- [3 Another Jupyter Notebook Alternative For Data Scientist](https://medium.datadriveninvestor.com/3-another-jupyter-notebook-alternative-for-data-scientist-4047b78c1976?source=rss-------8-----------------data_science)
+- [You Down With CTE?](https://medium.com/geekculture/you-down-with-cte-1326bc5a62a3?source=rss-------8-----------------data_science)
+- [The Tao of Data](https://faitheday.medium.com/the-tao-of-data-7f6f3f7ecf41?source=rss-------8-----------------data_science)
+- [Entry-Level Data Scientist Job Description: Roles and Duties](https://medium.com/business-startup-development-and-more/entry-level-data-scientist-job-description-roles-and-duties-9a5fcade973f?source=rss-------8-----------------data_science)
+- [NLP on Disaster Tweets](https://medium.com/@tomwp123/nlp-on-disaster-tweets-98614256e5df?source=rss-------8-----------------data_science)
+- [Data Visualization](https://pub.towardsai.net/data-visualization-71a54e8bd038?source=rss-------8-----------------data_science)
+- [Is your organization’s data mature enough?](https://umvel.medium.com/where-the-rubber-meets-the-road-is-your-data-mature-enough-to-start-being-data-driven-da95f8d96d00?source=rss-------8-----------------data_science)
+- [Topic Modelling for Amazon Review](https://kole-audu.medium.com/topic-modelling-for-amazon-review-9a06327f105a?source=rss-------8-----------------data_science)
+- [Life Expectancy and GDP — Is there a correlation?](https://medium.com/@kirillwolkow/life-expectancy-and-gdp-is-there-a-correlation-3b53be6b0fd6?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
