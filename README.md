@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Analyzing Data in Pandas](https://rylewww.medium.com/analyzing-data-in-pandas-7b7d500f6aed?source=rss-------8-----------------data_science)
-- [3 Another Jupyter Notebook Alternative For Data Scientist](https://medium.datadriveninvestor.com/3-another-jupyter-notebook-alternative-for-data-scientist-4047b78c1976?source=rss-------8-----------------data_science)
-- [You Down With CTE?](https://medium.com/geekculture/you-down-with-cte-1326bc5a62a3?source=rss-------8-----------------data_science)
-- [The Tao of Data](https://faitheday.medium.com/the-tao-of-data-7f6f3f7ecf41?source=rss-------8-----------------data_science)
-- [Entry-Level Data Scientist Job Description: Roles and Duties](https://medium.com/business-startup-development-and-more/entry-level-data-scientist-job-description-roles-and-duties-9a5fcade973f?source=rss-------8-----------------data_science)
-- [NLP on Disaster Tweets](https://medium.com/@tomwp123/nlp-on-disaster-tweets-98614256e5df?source=rss-------8-----------------data_science)
-- [Data Visualization](https://pub.towardsai.net/data-visualization-71a54e8bd038?source=rss-------8-----------------data_science)
-- [Is your organization’s data mature enough?](https://umvel.medium.com/where-the-rubber-meets-the-road-is-your-data-mature-enough-to-start-being-data-driven-da95f8d96d00?source=rss-------8-----------------data_science)
-- [Topic Modelling for Amazon Review](https://kole-audu.medium.com/topic-modelling-for-amazon-review-9a06327f105a?source=rss-------8-----------------data_science)
-- [Life Expectancy and GDP — Is there a correlation?](https://medium.com/@kirillwolkow/life-expectancy-and-gdp-is-there-a-correlation-3b53be6b0fd6?source=rss-------8-----------------data_science)
+- [Codex by OpenAI, in Action](https://towardsdatascience.com/codex-by-openai-in-action-83529c0076cc?source=rss-------8-----------------data_science)
+- [From Outdated to Updated](https://towardsdatascience.com/from-outdated-to-updated-2df4b43fcc38?source=rss-------8-----------------data_science)
+- [Analyzing The Olympic Games](https://pub.towardsai.net/analyzing-the-olympic-games-13b6e96cb3fe?source=rss-------8-----------------data_science)
+- [Don’t Over-Invest: How to efficiently stand up ML capabilities](https://towardsdatascience.com/dont-over-invest-be-efficient-when-standing-up-ml-capabilities-e7f0ac11e58e?source=rss-------8-----------------data_science)
+- [Kaggle is Not a Base Source](https://threnjen.medium.com/kaggle-is-not-a-base-source-36e177671b17?source=rss-------8-----------------data_science)
+- [An Ultimate Guide to Time Series Analysis in Pandas](https://towardsdatascience.com/an-ultimate-guide-to-time-series-analysis-in-pandas-d511b8e80e81?source=rss-------8-----------------data_science)
+- [Uncommon Strategies that Maximized my Job Search](https://towardsdatascience.com/uncommon-strategies-that-maximized-my-job-search-107c6f7107a1?source=rss-------8-----------------data_science)
+- [Taking on Algorithmic Trading](https://medium.com/@rw.adisaputro/taking-on-algorithmic-trading-e7ea52d95620?source=rss-------8-----------------data_science)
+- [Ensuring Privacy, One Data Point at a Time](https://medium.com/whole-communities-whole-health/ensuring-privacy-one-data-point-at-a-time-efa3d382d23b?source=rss-------8-----------------data_science)
+- [Machine Learning Fundamentals — Data Cleaning](https://medium.com/@HashanEranga/machine-learning-fundamentals-data-cleaning-93f4275b2c1c?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
