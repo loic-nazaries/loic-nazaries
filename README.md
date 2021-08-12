@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Codex by OpenAI, in Action](https://towardsdatascience.com/codex-by-openai-in-action-83529c0076cc?source=rss-------8-----------------data_science)
-- [From Outdated to Updated](https://towardsdatascience.com/from-outdated-to-updated-2df4b43fcc38?source=rss-------8-----------------data_science)
-- [Analyzing The Olympic Games](https://pub.towardsai.net/analyzing-the-olympic-games-13b6e96cb3fe?source=rss-------8-----------------data_science)
-- [Don’t Over-Invest: How to efficiently stand up ML capabilities](https://towardsdatascience.com/dont-over-invest-be-efficient-when-standing-up-ml-capabilities-e7f0ac11e58e?source=rss-------8-----------------data_science)
-- [Kaggle is Not a Base Source](https://threnjen.medium.com/kaggle-is-not-a-base-source-36e177671b17?source=rss-------8-----------------data_science)
-- [An Ultimate Guide to Time Series Analysis in Pandas](https://towardsdatascience.com/an-ultimate-guide-to-time-series-analysis-in-pandas-d511b8e80e81?source=rss-------8-----------------data_science)
-- [Uncommon Strategies that Maximized my Job Search](https://towardsdatascience.com/uncommon-strategies-that-maximized-my-job-search-107c6f7107a1?source=rss-------8-----------------data_science)
-- [Taking on Algorithmic Trading](https://medium.com/@rw.adisaputro/taking-on-algorithmic-trading-e7ea52d95620?source=rss-------8-----------------data_science)
-- [Ensuring Privacy, One Data Point at a Time](https://medium.com/whole-communities-whole-health/ensuring-privacy-one-data-point-at-a-time-efa3d382d23b?source=rss-------8-----------------data_science)
-- [Machine Learning Fundamentals — Data Cleaning](https://medium.com/@HashanEranga/machine-learning-fundamentals-data-cleaning-93f4275b2c1c?source=rss-------8-----------------data_science)
+- [How Data Science Pinpointed the Creepiest Word in “Macbeth”](https://clivethompson.medium.com/how-data-science-pinpointed-the-creepiest-word-in-macbeth-3150995d3808?source=rss-------8-----------------data_science)
+- [Stop using Pandas get_dummies() for Feature Encoding](https://towardsdatascience.com/stop-using-pandas-get-dummies-for-feature-encoding-5d2cd07cb4fc?source=rss-------8-----------------data_science)
+- [The Life and Times of an ML Organization](https://medium.com/@jordan_volz/the-life-and-times-of-an-ml-organization-eb503c584e30?source=rss-------8-----------------data_science)
+- [Pfizer Gave Me Duck Lips](https://rblamb.medium.com/pfizer-gave-me-duck-lips-7577ed80763b?source=rss-------8-----------------data_science)
+- [Building an Automatic NBA Stat Scraper with BeautifulSoup in Python](https://medium.com/@jleuschen17/building-an-automatic-nba-stat-scraper-with-beautifulsoup-in-python-45fddd29fa70?source=rss-------8-----------------data_science)
+- [Redis: Unsafe At Any Speed](https://towardsdatascience.com/redis-unsafe-at-any-speed-f2731f738a25?source=rss-------8-----------------data_science)
+- [Why FHIR Terminologies Don’t Work for Analytics](https://towardsdatascience.com/why-fhir-terminologies-dont-work-for-analytics-d462103204c1?source=rss-------8-----------------data_science)
+- [How To Break Into Data Engineering And Why It’s So Hard](https://towardsdatascience.com/how-to-break-into-data-engineering-and-why-its-so-hard-afe023922ef6?source=rss-------8-----------------data_science)
+- [You Are Not My Data Type](https://towardsdatascience.com/you-are-not-my-data-type-3ba3d3dec258?source=rss-------8-----------------data_science)
+- [Here’s How OpenAI Codex Will Revolutionize Programming (and the World)](https://towardsdatascience.com/heres-how-openai-codex-will-revolutionize-programming-and-the-world-e8432aafc5f7?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
