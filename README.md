@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How Data Science Pinpointed the Creepiest Word in “Macbeth”](https://clivethompson.medium.com/how-data-science-pinpointed-the-creepiest-word-in-macbeth-3150995d3808?source=rss-------8-----------------data_science)
-- [Stop using Pandas get_dummies() for Feature Encoding](https://towardsdatascience.com/stop-using-pandas-get-dummies-for-feature-encoding-5d2cd07cb4fc?source=rss-------8-----------------data_science)
-- [The Life and Times of an ML Organization](https://medium.com/@jordan_volz/the-life-and-times-of-an-ml-organization-eb503c584e30?source=rss-------8-----------------data_science)
-- [Pfizer Gave Me Duck Lips](https://rblamb.medium.com/pfizer-gave-me-duck-lips-7577ed80763b?source=rss-------8-----------------data_science)
-- [Building an Automatic NBA Stat Scraper with BeautifulSoup in Python](https://medium.com/@jleuschen17/building-an-automatic-nba-stat-scraper-with-beautifulsoup-in-python-45fddd29fa70?source=rss-------8-----------------data_science)
-- [Redis: Unsafe At Any Speed](https://towardsdatascience.com/redis-unsafe-at-any-speed-f2731f738a25?source=rss-------8-----------------data_science)
-- [Why FHIR Terminologies Don’t Work for Analytics](https://towardsdatascience.com/why-fhir-terminologies-dont-work-for-analytics-d462103204c1?source=rss-------8-----------------data_science)
-- [How To Break Into Data Engineering And Why It’s So Hard](https://towardsdatascience.com/how-to-break-into-data-engineering-and-why-its-so-hard-afe023922ef6?source=rss-------8-----------------data_science)
-- [You Are Not My Data Type](https://towardsdatascience.com/you-are-not-my-data-type-3ba3d3dec258?source=rss-------8-----------------data_science)
-- [Here’s How OpenAI Codex Will Revolutionize Programming (and the World)](https://towardsdatascience.com/heres-how-openai-codex-will-revolutionize-programming-and-the-world-e8432aafc5f7?source=rss-------8-----------------data_science)
+- [Here’s how to decipher which UX metric to pay attention to](https://uxdesign.cc/heres-how-to-decipher-which-ux-metric-to-pay-attention-to-e663e5953e40?source=rss-------8-----------------data_science)
+- [Causal Artificial Intelligence: A new way to turn data into effective health interventions](https://towardsdatascience.com/causal-artificial-intelligence-a-new-way-to-turn-data-into-effective-health-interventions-babf6c54cdbe?source=rss-------8-----------------data_science)
+- [Simulating Common (Censored) Outcome Variables as Dependent Variables in R [part 1]](https://laure-17161.medium.com/simulating-common-censored-outcome-variables-as-dependent-variables-in-r-part-1-4ff2a2594c34?source=rss-------8-----------------data_science)
+- [A More Accessible and Replicable Method for Satellite-Based Mapping of Hand-Harvested Crops in…](https://towardsdatascience.com/a-more-accessible-and-replicable-method-for-satellite-based-mapping-of-hand-harvested-crops-in-6243b8fb82dc?source=rss-------8-----------------data_science)
+- [Defining Learnability with the PAC Framework](https://towardsdatascience.com/what-it-means-for-something-to-be-learnable-pac-learnability-c84de9c061ad?source=rss-------8-----------------data_science)
+- [The Responsibility of a Data Engineer](https://ajhenaor.medium.com/the-responsibility-of-a-data-engineer-b5173b785ffa?source=rss-------8-----------------data_science)
+- [The Anatomy of an Active Metadata Platform](https://towardsdatascience.com/the-anatomy-of-an-active-metadata-platform-13473091ad0d?source=rss-------8-----------------data_science)
+- [Build Robust Google BigQuery Pipelines with Python: Part III](https://towardsdatascience.com/build-robust-google-bigquery-pipelines-with-python-part-iii-e19c6da566f3?source=rss-------8-----------------data_science)
+- [Decoding the Data Mesh](https://towardsdatascience.com/decoding-the-data-mesh-594b44b4b26f?source=rss-------8-----------------data_science)
+- [Comparing Selected Categories in Power BI](https://towardsdatascience.com/comparing-selected-categories-in-power-bi-b2ceedf78bfd?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
