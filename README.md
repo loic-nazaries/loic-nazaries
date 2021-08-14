@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Here’s how to decipher which UX metric to pay attention to](https://uxdesign.cc/heres-how-to-decipher-which-ux-metric-to-pay-attention-to-e663e5953e40?source=rss-------8-----------------data_science)
-- [Causal Artificial Intelligence: A new way to turn data into effective health interventions](https://towardsdatascience.com/causal-artificial-intelligence-a-new-way-to-turn-data-into-effective-health-interventions-babf6c54cdbe?source=rss-------8-----------------data_science)
-- [Simulating Common (Censored) Outcome Variables as Dependent Variables in R [part 1]](https://laure-17161.medium.com/simulating-common-censored-outcome-variables-as-dependent-variables-in-r-part-1-4ff2a2594c34?source=rss-------8-----------------data_science)
-- [A More Accessible and Replicable Method for Satellite-Based Mapping of Hand-Harvested Crops in…](https://towardsdatascience.com/a-more-accessible-and-replicable-method-for-satellite-based-mapping-of-hand-harvested-crops-in-6243b8fb82dc?source=rss-------8-----------------data_science)
-- [Defining Learnability with the PAC Framework](https://towardsdatascience.com/what-it-means-for-something-to-be-learnable-pac-learnability-c84de9c061ad?source=rss-------8-----------------data_science)
-- [The Responsibility of a Data Engineer](https://ajhenaor.medium.com/the-responsibility-of-a-data-engineer-b5173b785ffa?source=rss-------8-----------------data_science)
-- [The Anatomy of an Active Metadata Platform](https://towardsdatascience.com/the-anatomy-of-an-active-metadata-platform-13473091ad0d?source=rss-------8-----------------data_science)
-- [Build Robust Google BigQuery Pipelines with Python: Part III](https://towardsdatascience.com/build-robust-google-bigquery-pipelines-with-python-part-iii-e19c6da566f3?source=rss-------8-----------------data_science)
-- [Decoding the Data Mesh](https://towardsdatascience.com/decoding-the-data-mesh-594b44b4b26f?source=rss-------8-----------------data_science)
-- [Comparing Selected Categories in Power BI](https://towardsdatascience.com/comparing-selected-categories-in-power-bi-b2ceedf78bfd?source=rss-------8-----------------data_science)
+- [The Best Resource For Learning Data Science](https://towardsdatascience.com/the-best-resource-for-learning-data-science-51c47d4acad6?source=rss-------8-----------------data_science)
+- [How to make artificial intelligence articulate doubt](https://towardsdatascience.com/how-to-make-artificial-intelligence-articulate-doubt-9c2885a9e541?source=rss-------8-----------------data_science)
+- [Mindful Machines: Neuroscience & Critical Theory for Ethical AI](https://towardsdatascience.com/mindful-machines-neuroscience-critical-theory-for-ethical-ai-4162ebdcc334?source=rss-------8-----------------data_science)
+- [Understanding Bias: Neuroscience & Critical Theory for Ethical AI](https://towardsdatascience.com/understanding-bias-neuroscience-critical-theory-for-ethical-ai-de7a31db6c05?source=rss-------8-----------------data_science)
+- [Effects of Multiple Visual Channels on Outlier Detection](https://vialab.medium.com/effects-of-multiple-visual-channels-on-outlier-detection-897b0d28fe1e?source=rss-------8-----------------data_science)
+- [Credit Card Fraud Detection Using Machine Learning & Python](https://towardsdatascience.com/credit-card-fraud-detection-using-machine-learning-python-5b098d4a8edc?source=rss-------8-----------------data_science)
+- [Predicting and modeling COVID-19 Disease spread using Rstudio](https://ethanskinner94.medium.com/predicting-and-modeling-covid-19-disease-spread-using-rstudio-6bac9cb71b32?source=rss-------8-----------------data_science)
+- [Essential guide to Impute Missing Values in a single line of Python code](https://towardsdatascience.com/essential-guide-to-impute-missing-values-in-a-single-line-of-python-code-d495d40d0c84?source=rss-------8-----------------data_science)
+- [Azure Data Factory CI-CD made simple: Building and deploying ARM templates with Azure DevOps YAML…](https://towardsdatascience.com/azure-data-factory-ci-cd-made-simple-building-and-deploying-your-arm-templates-with-azure-devops-30c30595afa5?source=rss-------8-----------------data_science)
+- [Why it’s time to stop processing satellite imagery on your laptop](https://medium.com/sentinel-hub/tk-why-its-time-to-stop-processing-satellite-imagery-on-your-laptop-a09dbf8c72c0?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
