@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Best Resource For Learning Data Science](https://towardsdatascience.com/the-best-resource-for-learning-data-science-51c47d4acad6?source=rss-------8-----------------data_science)
-- [How to make artificial intelligence articulate doubt](https://towardsdatascience.com/how-to-make-artificial-intelligence-articulate-doubt-9c2885a9e541?source=rss-------8-----------------data_science)
-- [Mindful Machines: Neuroscience & Critical Theory for Ethical AI](https://towardsdatascience.com/mindful-machines-neuroscience-critical-theory-for-ethical-ai-4162ebdcc334?source=rss-------8-----------------data_science)
-- [Understanding Bias: Neuroscience & Critical Theory for Ethical AI](https://towardsdatascience.com/understanding-bias-neuroscience-critical-theory-for-ethical-ai-de7a31db6c05?source=rss-------8-----------------data_science)
-- [Effects of Multiple Visual Channels on Outlier Detection](https://vialab.medium.com/effects-of-multiple-visual-channels-on-outlier-detection-897b0d28fe1e?source=rss-------8-----------------data_science)
-- [Credit Card Fraud Detection Using Machine Learning & Python](https://towardsdatascience.com/credit-card-fraud-detection-using-machine-learning-python-5b098d4a8edc?source=rss-------8-----------------data_science)
-- [Predicting and modeling COVID-19 Disease spread using Rstudio](https://ethanskinner94.medium.com/predicting-and-modeling-covid-19-disease-spread-using-rstudio-6bac9cb71b32?source=rss-------8-----------------data_science)
-- [Essential guide to Impute Missing Values in a single line of Python code](https://towardsdatascience.com/essential-guide-to-impute-missing-values-in-a-single-line-of-python-code-d495d40d0c84?source=rss-------8-----------------data_science)
-- [Azure Data Factory CI-CD made simple: Building and deploying ARM templates with Azure DevOps YAML…](https://towardsdatascience.com/azure-data-factory-ci-cd-made-simple-building-and-deploying-your-arm-templates-with-azure-devops-30c30595afa5?source=rss-------8-----------------data_science)
-- [Why it’s time to stop processing satellite imagery on your laptop](https://medium.com/sentinel-hub/tk-why-its-time-to-stop-processing-satellite-imagery-on-your-laptop-a09dbf8c72c0?source=rss-------8-----------------data_science)
+- [Trading & Back-testing the Hikkake Candlestick Pattern — The Full Guide.](https://medium.com/geekculture/trading-back-testing-the-hikkake-candlestick-pattern-the-full-guide-2e00873e96b2?source=rss-------8-----------------data_science)
+- [*ahem* “Shush!”](https://wmjlwuh.medium.com/ahem-shush-212fc185ae60?source=rss-------8-----------------data_science)
+- [My Data Science Internship at Eka.care](https://medium.com/@vasanirushabh24/my-data-science-internship-at-eka-care-6f729bed6a5e?source=rss-------8-----------------data_science)
+- [WHY DO PEOPLE SEE DATA SCIENCE AS PART OF THE FUTURE?](https://medium.com/magnidata/why-do-people-see-data-science-as-part-of-the-future-911254444b3d?source=rss-------8-----------------data_science)
+- [How to Master Scikit-learn for Data Science](https://towardsdatascience.com/how-to-master-scikit-learn-for-data-science-c29214ec25b0?source=rss-------8-----------------data_science)
+- [5 Questions Data Science Answers](https://rkakodker.medium.com/5-questions-data-science-answers-8f7650d46d41?source=rss-------8-----------------data_science)
+- [Part II-V : Shipping Process Analysis](https://medium.com/@williamong1400/part-ii-v-shipping-process-analysis-88b679a8927a?source=rss-------8-----------------data_science)
+- [Multi-Objective Optimization Model Solved using R — Part2](https://pub.towardsai.net/multi-objective-optimization-model-solved-using-r-part2-958a9a6f1bf0?source=rss-------8-----------------data_science)
+- [Part II-IV : Location & Order Traffic Analysis (T](https://medium.com/@williamong1400/part-ii-iv-location-order-traffic-analysis-t-7e8fa23ec1a5?source=rss-------8-----------------data_science)
+- [Data Scientists might become a commodity — High time to mend ways……](https://pub.towardsai.net/data-scientists-might-become-a-commodity-high-time-to-mend-ways-19d711de3e45?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
