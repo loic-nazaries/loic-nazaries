@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Trading & Back-testing the Hikkake Candlestick Pattern — The Full Guide.](https://medium.com/geekculture/trading-back-testing-the-hikkake-candlestick-pattern-the-full-guide-2e00873e96b2?source=rss-------8-----------------data_science)
-- [*ahem* “Shush!”](https://wmjlwuh.medium.com/ahem-shush-212fc185ae60?source=rss-------8-----------------data_science)
-- [My Data Science Internship at Eka.care](https://medium.com/@vasanirushabh24/my-data-science-internship-at-eka-care-6f729bed6a5e?source=rss-------8-----------------data_science)
-- [WHY DO PEOPLE SEE DATA SCIENCE AS PART OF THE FUTURE?](https://medium.com/magnidata/why-do-people-see-data-science-as-part-of-the-future-911254444b3d?source=rss-------8-----------------data_science)
-- [How to Master Scikit-learn for Data Science](https://towardsdatascience.com/how-to-master-scikit-learn-for-data-science-c29214ec25b0?source=rss-------8-----------------data_science)
-- [5 Questions Data Science Answers](https://rkakodker.medium.com/5-questions-data-science-answers-8f7650d46d41?source=rss-------8-----------------data_science)
-- [Part II-V : Shipping Process Analysis](https://medium.com/@williamong1400/part-ii-v-shipping-process-analysis-88b679a8927a?source=rss-------8-----------------data_science)
-- [Multi-Objective Optimization Model Solved using R — Part2](https://pub.towardsai.net/multi-objective-optimization-model-solved-using-r-part2-958a9a6f1bf0?source=rss-------8-----------------data_science)
-- [Part II-IV : Location & Order Traffic Analysis (T](https://medium.com/@williamong1400/part-ii-iv-location-order-traffic-analysis-t-7e8fa23ec1a5?source=rss-------8-----------------data_science)
-- [Data Scientists might become a commodity — High time to mend ways……](https://pub.towardsai.net/data-scientists-might-become-a-commodity-high-time-to-mend-ways-19d711de3e45?source=rss-------8-----------------data_science)
+- [How to Do a Ton of Analysis in the Blink of An Eye.](https://towardsdatascience.com/how-to-do-a-ton-of-analysis-in-the-blink-of-an-eye-16fa9affce06?source=rss-------8-----------------data_science)
+- [How To Change The Order Of DataFrame Columns In Pandas](https://towardsdatascience.com/how-to-change-the-order-of-dataframe-columns-in-pandas-c91370326053?source=rss-------8-----------------data_science)
+- [Image Processing: Image Scaling Algorithms](https://towardsdatascience.com/image-processing-image-scaling-algorithms-ae29aaa6b36c?source=rss-------8-----------------data_science)
+- [Some lesser-known Data Science libraries](https://towardsdatascience.com/some-lesser-known-data-science-libraries-18314b1ea43d?source=rss-------8-----------------data_science)
+- [How AutoML could drive the future of Data Science Jobs](https://towardsdatascience.com/how-automl-could-drive-the-future-of-data-science-jobs-173c5b48dc5c?source=rss-------8-----------------data_science)
+- [Enriching Data Visualizations with Annotations in Plotly using Python](https://medium.com/@reshamas/enriching-data-visualizations-with-annotations-in-plotly-using-python-6127ff6e0f80?source=rss-------8-----------------data_science)
+- [Create trading datasets in Python](https://medium.com/coinmonks/create-trading-datasets-in-python-8263cfda8849?source=rss-------8-----------------data_science)
+- [Meta Analysis In R](https://medium.com/geekculture/meta-analysis-in-r-f75715f30162?source=rss-------8-----------------data_science)
+- [Use Multi-variate time-series on stock prediction using Kats](https://medium.com/code-sprout/use-multi-variate-time-series-on-stock-prediction-using-kats-d7e21295dc5b?source=rss-------8-----------------data_science)
+- [Performing Analysis of Meteorological Data Using Python](https://medium.com/mlearning-ai/performing-analysis-of-meteorological-data-using-python-57767e9f23b0?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
