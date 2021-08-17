@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Do a Ton of Analysis in the Blink of An Eye.](https://towardsdatascience.com/how-to-do-a-ton-of-analysis-in-the-blink-of-an-eye-16fa9affce06?source=rss-------8-----------------data_science)
-- [How To Change The Order Of DataFrame Columns In Pandas](https://towardsdatascience.com/how-to-change-the-order-of-dataframe-columns-in-pandas-c91370326053?source=rss-------8-----------------data_science)
-- [Image Processing: Image Scaling Algorithms](https://towardsdatascience.com/image-processing-image-scaling-algorithms-ae29aaa6b36c?source=rss-------8-----------------data_science)
-- [Some lesser-known Data Science libraries](https://towardsdatascience.com/some-lesser-known-data-science-libraries-18314b1ea43d?source=rss-------8-----------------data_science)
-- [How AutoML could drive the future of Data Science Jobs](https://towardsdatascience.com/how-automl-could-drive-the-future-of-data-science-jobs-173c5b48dc5c?source=rss-------8-----------------data_science)
-- [Enriching Data Visualizations with Annotations in Plotly using Python](https://medium.com/@reshamas/enriching-data-visualizations-with-annotations-in-plotly-using-python-6127ff6e0f80?source=rss-------8-----------------data_science)
-- [Create trading datasets in Python](https://medium.com/coinmonks/create-trading-datasets-in-python-8263cfda8849?source=rss-------8-----------------data_science)
-- [Meta Analysis In R](https://medium.com/geekculture/meta-analysis-in-r-f75715f30162?source=rss-------8-----------------data_science)
-- [Use Multi-variate time-series on stock prediction using Kats](https://medium.com/code-sprout/use-multi-variate-time-series-on-stock-prediction-using-kats-d7e21295dc5b?source=rss-------8-----------------data_science)
-- [Performing Analysis of Meteorological Data Using Python](https://medium.com/mlearning-ai/performing-analysis-of-meteorological-data-using-python-57767e9f23b0?source=rss-------8-----------------data_science)
+- [A Case for Intuition in Data Science](https://towardsdatascience.com/a-case-for-intuition-in-data-science-e1241e968a1e?source=rss-------8-----------------data_science)
+- [Using Python to Get and Store Federal Economic Data](https://towardsdatascience.com/using-python-to-get-and-store-federal-economic-data-11444317ecfb?source=rss-------8-----------------data_science)
+- [Shame on you, if you don’t know these Machine Learning tools!](https://towardsdatascience.com/shame-on-you-if-you-dont-know-these-machine-learning-tools-2c0f6cb09524?source=rss-------8-----------------data_science)
+- [Using Generators in Python: The Why, The What, and The When](https://betterprogramming.pub/using-generators-in-python-the-why-the-what-and-the-when-e7d33c0b606?source=rss-------8-----------------data_science)
+- [How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-b557c9e82fa0?source=rss-------8-----------------data_science)
+- [4 Full Practice Tests To Prepare Databricks Associate Certification (PySpark | 2021)](https://medium.com/analytics-vidhya/4-full-practice-tests-to-prepare-databricks-associate-certification-pyspark-2021-eab289b1ea0c?source=rss-------8-----------------data_science)
+- [A Tour of 10 Useful Github Features](https://towardsdatascience.com/a-tour-of-10-useful-github-features-d92dde0bf412?source=rss-------8-----------------data_science)
+- [Custom Transformations with Automunge](https://medium.com/automunge/custom-transformations-with-automunge-ae694c635a7e?source=rss-------8-----------------data_science)
+- [Streaming Data with PostgreSQL + Kafka + Debezium: Part 1](https://databasedive.com/streaming-data-with-postgresql-kafka-debezium-part-1-fc285d6550f9?source=rss-------8-----------------data_science)
+- [Visualising daily COVID-19 case stats for NSW, Australia using pandas and matplotlib](https://max-coding.medium.com/visualising-daily-covid-19-case-stats-for-nsw-australia-using-pandas-and-matplotlib-afe7f8584266?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
