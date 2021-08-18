@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Case for Intuition in Data Science](https://towardsdatascience.com/a-case-for-intuition-in-data-science-e1241e968a1e?source=rss-------8-----------------data_science)
-- [Using Python to Get and Store Federal Economic Data](https://towardsdatascience.com/using-python-to-get-and-store-federal-economic-data-11444317ecfb?source=rss-------8-----------------data_science)
-- [Shame on you, if you don’t know these Machine Learning tools!](https://towardsdatascience.com/shame-on-you-if-you-dont-know-these-machine-learning-tools-2c0f6cb09524?source=rss-------8-----------------data_science)
-- [Using Generators in Python: The Why, The What, and The When](https://betterprogramming.pub/using-generators-in-python-the-why-the-what-and-the-when-e7d33c0b606?source=rss-------8-----------------data_science)
-- [How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-b557c9e82fa0?source=rss-------8-----------------data_science)
-- [4 Full Practice Tests To Prepare Databricks Associate Certification (PySpark | 2021)](https://medium.com/analytics-vidhya/4-full-practice-tests-to-prepare-databricks-associate-certification-pyspark-2021-eab289b1ea0c?source=rss-------8-----------------data_science)
-- [A Tour of 10 Useful Github Features](https://towardsdatascience.com/a-tour-of-10-useful-github-features-d92dde0bf412?source=rss-------8-----------------data_science)
-- [Custom Transformations with Automunge](https://medium.com/automunge/custom-transformations-with-automunge-ae694c635a7e?source=rss-------8-----------------data_science)
-- [Streaming Data with PostgreSQL + Kafka + Debezium: Part 1](https://databasedive.com/streaming-data-with-postgresql-kafka-debezium-part-1-fc285d6550f9?source=rss-------8-----------------data_science)
-- [Visualising daily COVID-19 case stats for NSW, Australia using pandas and matplotlib](https://max-coding.medium.com/visualising-daily-covid-19-case-stats-for-nsw-australia-using-pandas-and-matplotlib-afe7f8584266?source=rss-------8-----------------data_science)
+- [Need to harness disparate yet invaluable feedback? Build a data lake](https://uxdesign.cc/need-to-harness-disparate-yet-invaluable-feedback-build-a-data-lake-c9f9061dd357?source=rss-------8-----------------data_science)
+- [Can Planetary Position’s Effect On lives May Be Handled Using Existing Birth Data aka Janma Kundali?](https://shikhasaxena-82230.medium.com/can-planetary-positions-effect-on-lives-may-be-handled-using-existing-birth-data-aka-janma-kundali-fbb094451241?source=rss-------8-----------------data_science)
+- [Multi-label Emotion Classification with PyTorch + HuggingFace’s Transformers and W&B for Tracking](https://towardsdatascience.com/multi-label-emotion-classification-with-pytorch-huggingfaces-transformers-and-w-b-for-tracking-a060d817923?source=rss-------8-----------------data_science)
+- [Getting Started with R](https://kennethreilly.medium.com/getting-started-with-r-d0da3cb72722?source=rss-------8-----------------data_science)
+- [Give wings to python, make it fly](https://towardsdatascience.com/give-wings-to-python-make-it-fly-6eb4d4859b89?source=rss-------8-----------------data_science)
+- [Creating a innovative custom Loss function in Python](https://ethanskinner94.medium.com/creating-a-innovative-custom-loss-function-in-python-using-tensorflow-and-fitting-a-lstm-model-ded222efbc89?source=rss-------8-----------------data_science)
+- [Trading Trends with Bollinger Bands](https://medium.datadriveninvestor.com/trading-trends-with-bollinger-bands-1c4cb0795d48?source=rss-------8-----------------data_science)
+- [How to win a Kaggle competitions](https://medium.com/product-ai/how-to-win-a-kaggle-competitions-12ae6226f709?source=rss-------8-----------------data_science)
+- [Automate “Integration package generation”​ in SQL Server using BIML](https://baranid.medium.com/automate-integration-package-generation-in-sql-server-using-biml-b7393c08ba6e?source=rss-------8-----------------data_science)
+- [Text processing and word stemming for classification models in master data management (MDM) context…](https://medium.com/@edvardoss/text-processing-and-word-stemming-for-classification-models-in-master-data-management-mdm-context-ab2e3bb9bae2?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
