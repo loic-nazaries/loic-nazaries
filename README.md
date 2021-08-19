@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Need to harness disparate yet invaluable feedback? Build a data lake](https://uxdesign.cc/need-to-harness-disparate-yet-invaluable-feedback-build-a-data-lake-c9f9061dd357?source=rss-------8-----------------data_science)
-- [Can Planetary Position’s Effect On lives May Be Handled Using Existing Birth Data aka Janma Kundali?](https://shikhasaxena-82230.medium.com/can-planetary-positions-effect-on-lives-may-be-handled-using-existing-birth-data-aka-janma-kundali-fbb094451241?source=rss-------8-----------------data_science)
-- [Multi-label Emotion Classification with PyTorch + HuggingFace’s Transformers and W&B for Tracking](https://towardsdatascience.com/multi-label-emotion-classification-with-pytorch-huggingfaces-transformers-and-w-b-for-tracking-a060d817923?source=rss-------8-----------------data_science)
-- [Getting Started with R](https://kennethreilly.medium.com/getting-started-with-r-d0da3cb72722?source=rss-------8-----------------data_science)
-- [Give wings to python, make it fly](https://towardsdatascience.com/give-wings-to-python-make-it-fly-6eb4d4859b89?source=rss-------8-----------------data_science)
-- [Creating a innovative custom Loss function in Python](https://ethanskinner94.medium.com/creating-a-innovative-custom-loss-function-in-python-using-tensorflow-and-fitting-a-lstm-model-ded222efbc89?source=rss-------8-----------------data_science)
-- [Trading Trends with Bollinger Bands](https://medium.datadriveninvestor.com/trading-trends-with-bollinger-bands-1c4cb0795d48?source=rss-------8-----------------data_science)
-- [How to win a Kaggle competitions](https://medium.com/product-ai/how-to-win-a-kaggle-competitions-12ae6226f709?source=rss-------8-----------------data_science)
-- [Automate “Integration package generation”​ in SQL Server using BIML](https://baranid.medium.com/automate-integration-package-generation-in-sql-server-using-biml-b7393c08ba6e?source=rss-------8-----------------data_science)
-- [Text processing and word stemming for classification models in master data management (MDM) context…](https://medium.com/@edvardoss/text-processing-and-word-stemming-for-classification-models-in-master-data-management-mdm-context-ab2e3bb9bae2?source=rss-------8-----------------data_science)
+- [Celebrating the New Pioneers of Data Reliability](https://barrmoses.medium.com/celebrating-the-new-pioneers-of-data-reliability-f0a631a90611?source=rss-------8-----------------data_science)
+- [How to Perform Bond Valuation with Python](https://towardsdatascience.com/how-to-perform-bond-valuation-with-python-bbd0cf77417?source=rss-------8-----------------data_science)
+- [The First Nine Primary Concepts and Code Examples For Using Kubernetes Productively](https://towardsdatascience.com/the-first-nine-primary-concepts-and-code-examples-for-using-kubernetes-productively-d2aabccc0380?source=rss-------8-----------------data_science)
+- [Network Visualizations with GRANDstack](https://towardsdatascience.com/network-visualizations-with-grandstack-a07deb0a0c3a?source=rss-------8-----------------data_science)
+- [Discretized Conical Emission in Multimode Optical Fibers](https://towardsdatascience.com/discretized-conical-emission-in-multimode-optical-fibers-fd3e15dae151?source=rss-------8-----------------data_science)
+- [Create a heatmap from the logs of your activity tracker](https://towardsdatascience.com/create-a-heatmap-from-the-logs-of-your-activity-tracker-c9fc7ace1657?source=rss-------8-----------------data_science)
+- [An Overview of Boosting Methods: CatBoost, XGBoost, AdaBoost, LightBoost, Histogram-Based Gradient…](https://towardsdatascience.com/an-overview-of-boosting-methods-catboost-xgboost-adaboost-lightboost-histogram-based-gradient-407447633ac1?source=rss-------8-----------------data_science)
+- [CSV Files for Storage? No Thanks. There’s a Better Option](https://towardsdatascience.com/csv-files-for-storage-no-thanks-theres-a-better-option-72c78a414d1d?source=rss-------8-----------------data_science)
+- [Still using the average?](https://towardsdatascience.com/still-using-the-average-24e759a78026?source=rss-------8-----------------data_science)
+- [AutoML Is Not Enough — The Best Analyses Still Need Humans](https://towardsdatascience.com/as-organizations-try-and-empower-democratized-analytics-they-must-consciously-recognize-where-3c73398a9065?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
