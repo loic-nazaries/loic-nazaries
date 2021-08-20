@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Celebrating the New Pioneers of Data Reliability](https://barrmoses.medium.com/celebrating-the-new-pioneers-of-data-reliability-f0a631a90611?source=rss-------8-----------------data_science)
-- [How to Perform Bond Valuation with Python](https://towardsdatascience.com/how-to-perform-bond-valuation-with-python-bbd0cf77417?source=rss-------8-----------------data_science)
-- [The First Nine Primary Concepts and Code Examples For Using Kubernetes Productively](https://towardsdatascience.com/the-first-nine-primary-concepts-and-code-examples-for-using-kubernetes-productively-d2aabccc0380?source=rss-------8-----------------data_science)
-- [Network Visualizations with GRANDstack](https://towardsdatascience.com/network-visualizations-with-grandstack-a07deb0a0c3a?source=rss-------8-----------------data_science)
-- [Discretized Conical Emission in Multimode Optical Fibers](https://towardsdatascience.com/discretized-conical-emission-in-multimode-optical-fibers-fd3e15dae151?source=rss-------8-----------------data_science)
-- [Create a heatmap from the logs of your activity tracker](https://towardsdatascience.com/create-a-heatmap-from-the-logs-of-your-activity-tracker-c9fc7ace1657?source=rss-------8-----------------data_science)
-- [An Overview of Boosting Methods: CatBoost, XGBoost, AdaBoost, LightBoost, Histogram-Based Gradient…](https://towardsdatascience.com/an-overview-of-boosting-methods-catboost-xgboost-adaboost-lightboost-histogram-based-gradient-407447633ac1?source=rss-------8-----------------data_science)
-- [CSV Files for Storage? No Thanks. There’s a Better Option](https://towardsdatascience.com/csv-files-for-storage-no-thanks-theres-a-better-option-72c78a414d1d?source=rss-------8-----------------data_science)
-- [Still using the average?](https://towardsdatascience.com/still-using-the-average-24e759a78026?source=rss-------8-----------------data_science)
-- [AutoML Is Not Enough — The Best Analyses Still Need Humans](https://towardsdatascience.com/as-organizations-try-and-empower-democratized-analytics-they-must-consciously-recognize-where-3c73398a9065?source=rss-------8-----------------data_science)
+- [Extracting Metadata from Medium Daily Digest Newsletters via Gmail API](https://towardsdatascience.com/extracting-metadata-from-medium-daily-digest-newsletters-via-gmail-api-97eee890a439?source=rss-------8-----------------data_science)
+- [Pandas Sidetable — How You Calculate Frequencies the Easy Way](https://towardsdatascience.com/pandas-sidetable-how-you-calculate-frequencies-the-easy-way-d56afa90973c?source=rss-------8-----------------data_science)
+- [Clustering Algorithms for Economic Policy Guidance](https://towardsdatascience.com/clustering-algorithms-for-economic-policy-guidance-45f469704815?source=rss-------8-----------------data_science)
+- [Behind the scenes on the Fast Random Projection algorithm for generating graph embeddings](https://towardsdatascience.com/behind-the-scenes-on-the-fast-random-projection-algorithm-for-generating-graph-embeddings-efb1db0895?source=rss-------8-----------------data_science)
+- [Are your microservices performing the way they should? Jaeger can help!](https://towardsdatascience.com/are-your-microservices-performing-the-way-they-should-jaeger-can-help-6e428f017cc?source=rss-------8-----------------data_science)
+- [GLMs Part III: Deep Neural Networks as Recursive Generalized Linear Models](https://towardsdatascience.com/glms-part-iii-deep-neural-networks-as-recursive-generalized-linear-models-ccb02817c9b5?source=rss-------8-----------------data_science)
+- [Fine-Tune a Transformer Model for Grammar Correction](https://towardsdatascience.com/fine-tune-a-transformer-model-for-grammar-correction-b5c8ca49cc26?source=rss-------8-----------------data_science)
+- [Multi-label Emotion Classification with PyTorch + HuggingFace’s Transformers and W&B for Tracking](https://towardsdatascience.com/multi-label-emotion-classification-with-pytorch-huggingfaces-transformers-and-w-b-for-tracking-a060d817923?source=rss-------8-----------------data_science)
+- [Distributed Deep Learning — Illustrated](https://towardsdatascience.com/distributed-deep-learning-illustrated-6256e07a0468?source=rss-------8-----------------data_science)
+- [Learn To Reproduce Papers: Beginner’s Guide](https://towardsdatascience.com/learn-to-reproduce-papers-beginners-guide-2b4bff8fcca0?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
