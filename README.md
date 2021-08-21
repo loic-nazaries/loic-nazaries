@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Extracting Metadata from Medium Daily Digest Newsletters via Gmail API](https://towardsdatascience.com/extracting-metadata-from-medium-daily-digest-newsletters-via-gmail-api-97eee890a439?source=rss-------8-----------------data_science)
-- [Pandas Sidetable — How You Calculate Frequencies the Easy Way](https://towardsdatascience.com/pandas-sidetable-how-you-calculate-frequencies-the-easy-way-d56afa90973c?source=rss-------8-----------------data_science)
-- [Clustering Algorithms for Economic Policy Guidance](https://towardsdatascience.com/clustering-algorithms-for-economic-policy-guidance-45f469704815?source=rss-------8-----------------data_science)
-- [Behind the scenes on the Fast Random Projection algorithm for generating graph embeddings](https://towardsdatascience.com/behind-the-scenes-on-the-fast-random-projection-algorithm-for-generating-graph-embeddings-efb1db0895?source=rss-------8-----------------data_science)
-- [Are your microservices performing the way they should? Jaeger can help!](https://towardsdatascience.com/are-your-microservices-performing-the-way-they-should-jaeger-can-help-6e428f017cc?source=rss-------8-----------------data_science)
-- [GLMs Part III: Deep Neural Networks as Recursive Generalized Linear Models](https://towardsdatascience.com/glms-part-iii-deep-neural-networks-as-recursive-generalized-linear-models-ccb02817c9b5?source=rss-------8-----------------data_science)
-- [Fine-Tune a Transformer Model for Grammar Correction](https://towardsdatascience.com/fine-tune-a-transformer-model-for-grammar-correction-b5c8ca49cc26?source=rss-------8-----------------data_science)
-- [Multi-label Emotion Classification with PyTorch + HuggingFace’s Transformers and W&B for Tracking](https://towardsdatascience.com/multi-label-emotion-classification-with-pytorch-huggingfaces-transformers-and-w-b-for-tracking-a060d817923?source=rss-------8-----------------data_science)
-- [Distributed Deep Learning — Illustrated](https://towardsdatascience.com/distributed-deep-learning-illustrated-6256e07a0468?source=rss-------8-----------------data_science)
-- [Learn To Reproduce Papers: Beginner’s Guide](https://towardsdatascience.com/learn-to-reproduce-papers-beginners-guide-2b4bff8fcca0?source=rss-------8-----------------data_science)
+- [Epidemic Prevention Measures With Optimal Cost-Benefit Strategies](https://medium.com/semantixbr/epidemic-prevention-measures-with-optimal-cost-benefit-strategies-c20306db47b?source=rss-------8-----------------data_science)
+- [Move Fast Without Breaking Things in ML](https://towardsdatascience.com/move-fast-without-breaking-things-in-ml-c070bfca2705?source=rss-------8-----------------data_science)
+- [First Steps to Learning Data Science or ML after the Roadmap](https://towardsdatascience.com/first-steps-to-learning-data-science-or-ml-after-the-roadmap-50d4b46b93e9?source=rss-------8-----------------data_science)
+- [XGBoost Regression: Explain It To Me Like I’m 10](https://medium.com/@shreya.rao/xgboost-regression-explain-it-to-me-like-im-10-601464d1d6e3?source=rss-------8-----------------data_science)
+- [The Future of Data Science is Increasingly Entrepreneurial](https://medium.com/geekculture/the-future-of-data-science-is-increasingly-entrepreneurial-18b03ab965ae?source=rss-------8-----------------data_science)
+- [MySQL vs Oracle SQL](https://towardsdatascience.com/mysql-vs-oracle-sql-a97a7659f992?source=rss-------8-----------------data_science)
+- [Pivot Tables in Python With Pandas](https://betterprogramming.pub/pivot-tables-in-python-with-pandas-d9b42b040bb3?source=rss-------8-----------------data_science)
+- [How AI Could Have Warned Us about the Florida Condo Collapse Before It Happened](https://towardsdatascience.com/how-a-i-can-prevent-future-building-collapses-before-they-happen-71c3bf3740b5?source=rss-------8-----------------data_science)
+- [Masking Geo-Spatial Level 3 satellite images using shapefiles: A Grid-based approach](https://towardsdatascience.com/masking-geo-spatial-level-3-satellite-images-using-shapefiles-a-grid-based-approach-c88d7a108f4a?source=rss-------8-----------------data_science)
+- [Take it to Twitter: Social Media Analysis of Members of Congress](https://towardsdatascience.com/take-it-to-twitter-sentiment-analysis-of-congressional-twitter-in-r-ee206a5b05bc?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
