@@ -121,11 +121,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [5 Python Tricks That Will Ease Your Life](https://towardsdatascience.com/5-python-tricks-that-will-ease-your-life-ed81987ec467?source=rss-2cf6b549448------2)
 - [When You Should Not Use Accuracy to Evaluate Your Machine Learning Model](https://towardsdatascience.com/when-you-should-not-use-accuracy-to-evaluate-your-machine-learning-model-4d58f16968e6?source=rss-2cf6b549448------2)
 - [Build Your First Machine Learning Model With Python in 7 minutes](https://towardsdatascience.com/build-your-first-machine-learning-model-with-python-in-7-minutes-30b9e1a3eafa?source=rss-2cf6b549448------2)
 - [The Difference Between Where and Select Functions of Python NumPy](https://towardsdatascience.com/the-difference-between-where-and-select-functions-of-python-numpy-9c81273ed5fb?source=rss-2cf6b549448------2)
 - [The Best Resource For Learning Data Science](https://towardsdatascience.com/the-best-resource-for-learning-data-science-51c47d4acad6?source=rss-2cf6b549448------2)
-- [5 Fundamental SQL Operations for Data Scientists](https://sonery.medium.com/5-fundamental-sql-operations-for-data-scientists-5d6bafb55d7d?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
