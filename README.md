@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Epidemic Prevention Measures With Optimal Cost-Benefit Strategies](https://medium.com/semantixbr/epidemic-prevention-measures-with-optimal-cost-benefit-strategies-c20306db47b?source=rss-------8-----------------data_science)
-- [Move Fast Without Breaking Things in ML](https://towardsdatascience.com/move-fast-without-breaking-things-in-ml-c070bfca2705?source=rss-------8-----------------data_science)
-- [First Steps to Learning Data Science or ML after the Roadmap](https://towardsdatascience.com/first-steps-to-learning-data-science-or-ml-after-the-roadmap-50d4b46b93e9?source=rss-------8-----------------data_science)
-- [XGBoost Regression: Explain It To Me Like I’m 10](https://medium.com/@shreya.rao/xgboost-regression-explain-it-to-me-like-im-10-601464d1d6e3?source=rss-------8-----------------data_science)
-- [The Future of Data Science is Increasingly Entrepreneurial](https://medium.com/geekculture/the-future-of-data-science-is-increasingly-entrepreneurial-18b03ab965ae?source=rss-------8-----------------data_science)
-- [MySQL vs Oracle SQL](https://towardsdatascience.com/mysql-vs-oracle-sql-a97a7659f992?source=rss-------8-----------------data_science)
-- [Pivot Tables in Python With Pandas](https://betterprogramming.pub/pivot-tables-in-python-with-pandas-d9b42b040bb3?source=rss-------8-----------------data_science)
-- [How AI Could Have Warned Us about the Florida Condo Collapse Before It Happened](https://towardsdatascience.com/how-a-i-can-prevent-future-building-collapses-before-they-happen-71c3bf3740b5?source=rss-------8-----------------data_science)
-- [Masking Geo-Spatial Level 3 satellite images using shapefiles: A Grid-based approach](https://towardsdatascience.com/masking-geo-spatial-level-3-satellite-images-using-shapefiles-a-grid-based-approach-c88d7a108f4a?source=rss-------8-----------------data_science)
-- [Take it to Twitter: Social Media Analysis of Members of Congress](https://towardsdatascience.com/take-it-to-twitter-sentiment-analysis-of-congressional-twitter-in-r-ee206a5b05bc?source=rss-------8-----------------data_science)
+- [Give Your Graphs Some (White) Space!](https://towardsdatascience.com/give-your-graphs-some-white-space-c3384167a187?source=rss-------8-----------------data_science)
+- [Building Custom Column Transformers in a Pipeline](https://towardsdatascience.com/building-custom-column-transformers-in-a-pipeline-9147a88d6b4?source=rss-------8-----------------data_science)
+- [Themes to spice up visualizations with ggplot2](https://abhinav-malasi.medium.com/themes-to-spice-up-visualizations-with-ggplot2-3e275038dafa?source=rss-------8-----------------data_science)
+- [Compare Multiple Frequency Distributions to Extract Valuable Information from a Dataset](https://towardsdatascience.com/compare-multiple-frequency-distributions-to-extract-valuable-information-from-a-dataset-10cba801f07b?source=rss-------8-----------------data_science)
+- [What can GitHub copilot do for a python programmer?](https://towardsdatascience.com/tips-for-using-github-copilot-in-everyday-python-programming-8ef9e91a9b47?source=rss-------8-----------------data_science)
+- [Managing Large Datasets at Scale](https://aryanshomray.medium.com/managing-large-datasets-at-scale-ebaef96a4ad8?source=rss-------8-----------------data_science)
+- [Stop One-Hot Encoding your Time-based Features](https://towardsdatascience.com/stop-one-hot-encoding-your-time-based-features-24c699face2f?source=rss-------8-----------------data_science)
+- [Sentiment Strategies For Equity Trading Part VI — The ISM PMI.](https://medium.com/geekculture/sentiment-strategies-for-equity-trading-part-vi-the-ism-pmi-620f27b7c62c?source=rss-------8-----------------data_science)
+- [Global Modular Interpretation of Credit Scoring Model Using Logistic Regression](https://medium.com/@victordagenius/global-modular-interpretation-of-credit-scoring-model-using-logistic-regression-422db15f0e8a?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
