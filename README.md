@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Give Your Graphs Some (White) Space!](https://towardsdatascience.com/give-your-graphs-some-white-space-c3384167a187?source=rss-------8-----------------data_science)
-- [Building Custom Column Transformers in a Pipeline](https://towardsdatascience.com/building-custom-column-transformers-in-a-pipeline-9147a88d6b4?source=rss-------8-----------------data_science)
-- [Themes to spice up visualizations with ggplot2](https://abhinav-malasi.medium.com/themes-to-spice-up-visualizations-with-ggplot2-3e275038dafa?source=rss-------8-----------------data_science)
-- [Compare Multiple Frequency Distributions to Extract Valuable Information from a Dataset](https://towardsdatascience.com/compare-multiple-frequency-distributions-to-extract-valuable-information-from-a-dataset-10cba801f07b?source=rss-------8-----------------data_science)
-- [What can GitHub copilot do for a python programmer?](https://towardsdatascience.com/tips-for-using-github-copilot-in-everyday-python-programming-8ef9e91a9b47?source=rss-------8-----------------data_science)
-- [Managing Large Datasets at Scale](https://aryanshomray.medium.com/managing-large-datasets-at-scale-ebaef96a4ad8?source=rss-------8-----------------data_science)
-- [Stop One-Hot Encoding your Time-based Features](https://towardsdatascience.com/stop-one-hot-encoding-your-time-based-features-24c699face2f?source=rss-------8-----------------data_science)
-- [Sentiment Strategies For Equity Trading Part VI — The ISM PMI.](https://medium.com/geekculture/sentiment-strategies-for-equity-trading-part-vi-the-ism-pmi-620f27b7c62c?source=rss-------8-----------------data_science)
-- [Global Modular Interpretation of Credit Scoring Model Using Logistic Regression](https://medium.com/@victordagenius/global-modular-interpretation-of-credit-scoring-model-using-logistic-regression-422db15f0e8a?source=rss-------8-----------------data_science)
+- [Data Engineering Technologies 2021](https://medium.com/technexthere/data-engineering-technologies-2021-8f46bb284474?source=rss-------8-----------------data_science)
+- [Writing your First Distributed Python Application with Ray](https://towardsdatascience.com/writing-your-first-distributed-python-application-with-ray-4248ebc07f41?source=rss-------8-----------------data_science)
+- [Jupyter Notebook can do that?](https://medium.com/@jess.markowitz/jupyter-notebook-can-do-that-b3185058fe76?source=rss-------8-----------------data_science)
+- [An Individual Review on Master of Data Science and Analytics at Universiti Sains Malaysia](https://kahemchu.medium.com/an-individual-review-on-master-of-data-science-and-analytics-at-universiti-sains-malaysia-5650d31f609?source=rss-------8-----------------data_science)
+- [Making of a Projector/Telescope Chart and its contrast with Bar Charts in Tableau](https://priya-yogendra.medium.com/making-of-a-projector-telescope-chart-and-its-contrast-with-bar-charts-in-tableau-a3c1ce69ca51?source=rss-------8-----------------data_science)
+- [A Quick Summary of Linear Regression.](https://nadeemm.medium.com/a-quick-summary-of-linear-regression-42d1dab85e3e?source=rss-------8-----------------data_science)
+- [Pricing Strategy Development: Airbnb Market Analysis with Python](https://bdmullen.medium.com/pricing-strategy-development-airbnb-market-analysis-with-python-f873be137346?source=rss-------8-----------------data_science)
+- [On the grid: Estimating population density for anywhere on earth](https://towardsdatascience.com/on-the-grid-estimating-population-density-for-anywhere-on-earth-a33008d723f8?source=rss-------8-----------------data_science)
+- [How to Predict Customer Churn using Machine Learning? A Telecom Case Study](https://schwarzwald-ai.medium.com/how-to-predict-customer-churn-a-telecom-case-study-60470bdd1376?source=rss-------8-----------------data_science)
+- [GSOC 2021 with ML4SCI | Deep Regression for Exploring Dark Matter](https://medium.com/@yuriihalyc/gsoc-2021-with-ml4sci-deep-regression-for-exploring-dark-matter-32691c46adfa?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
