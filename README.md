@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Engineering Technologies 2021](https://medium.com/technexthere/data-engineering-technologies-2021-8f46bb284474?source=rss-------8-----------------data_science)
-- [Writing your First Distributed Python Application with Ray](https://towardsdatascience.com/writing-your-first-distributed-python-application-with-ray-4248ebc07f41?source=rss-------8-----------------data_science)
-- [Jupyter Notebook can do that?](https://medium.com/@jess.markowitz/jupyter-notebook-can-do-that-b3185058fe76?source=rss-------8-----------------data_science)
-- [An Individual Review on Master of Data Science and Analytics at Universiti Sains Malaysia](https://kahemchu.medium.com/an-individual-review-on-master-of-data-science-and-analytics-at-universiti-sains-malaysia-5650d31f609?source=rss-------8-----------------data_science)
-- [Making of a Projector/Telescope Chart and its contrast with Bar Charts in Tableau](https://priya-yogendra.medium.com/making-of-a-projector-telescope-chart-and-its-contrast-with-bar-charts-in-tableau-a3c1ce69ca51?source=rss-------8-----------------data_science)
-- [A Quick Summary of Linear Regression.](https://nadeemm.medium.com/a-quick-summary-of-linear-regression-42d1dab85e3e?source=rss-------8-----------------data_science)
-- [Pricing Strategy Development: Airbnb Market Analysis with Python](https://bdmullen.medium.com/pricing-strategy-development-airbnb-market-analysis-with-python-f873be137346?source=rss-------8-----------------data_science)
-- [On the grid: Estimating population density for anywhere on earth](https://towardsdatascience.com/on-the-grid-estimating-population-density-for-anywhere-on-earth-a33008d723f8?source=rss-------8-----------------data_science)
-- [How to Predict Customer Churn using Machine Learning? A Telecom Case Study](https://schwarzwald-ai.medium.com/how-to-predict-customer-churn-a-telecom-case-study-60470bdd1376?source=rss-------8-----------------data_science)
-- [GSOC 2021 with ML4SCI | Deep Regression for Exploring Dark Matter](https://medium.com/@yuriihalyc/gsoc-2021-with-ml4sci-deep-regression-for-exploring-dark-matter-32691c46adfa?source=rss-------8-----------------data_science)
+- [The Danger of Random Seeds](https://towardsdatascience.com/the-danger-of-random-seeds-fa1c728c1121?source=rss-------8-----------------data_science)
+- [Data Science Job Market Analysis](https://medium.com/@aizhong.ds/data-science-job-market-analysis-9fecc7518230?source=rss-------8-----------------data_science)
+- [6 Strategic Process Considerations Beyond MLOps](https://towardsdatascience.com/6-strategic-process-considerations-beyond-mlops-fbe260aa099d?source=rss-------8-----------------data_science)
+- [How to solve Bayesian problems](https://pedrodelcarpio.medium.com/how-to-solve-bayesian-problems-c952831865f8?source=rss-------8-----------------data_science)
+- [Data Analysis of Netflix movies & IMDB rating using Jupyter Notebook](https://ninza7.medium.com/data-analysis-of-netflix-movies-imdb-rating-using-jupyter-notebook-d923186da6c7?source=rss-------8-----------------data_science)
+- [Bias and Variance — digging deeper](https://saptarsi007.medium.com/bias-and-variance-digging-deeper-1dc2486bb2e0?source=rss-------8-----------------data_science)
+- [Predicting Victory in League of Legends](https://medium.com/@rylandalexandergomez/predicting-victory-in-league-of-legends-a379a41c4256?source=rss-------8-----------------data_science)
+- [PyQt & Relational Databases](https://towardsdatascience.com/pyqt-relational-databases-e6bdbed7ebdf?source=rss-------8-----------------data_science)
+- [A Function That Makes Your Initial EDA a Breeze](https://towardsdatascience.com/a-function-that-makes-your-initial-eda-a-breeze-8e9549d69fb3?source=rss-------8-----------------data_science)
+- [Huffman Encoding & Python Implementation](https://towardsdatascience.com/huffman-encoding-python-implementation-8448c3654328?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
