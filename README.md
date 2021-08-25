@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Danger of Random Seeds](https://towardsdatascience.com/the-danger-of-random-seeds-fa1c728c1121?source=rss-------8-----------------data_science)
-- [Data Science Job Market Analysis](https://medium.com/@aizhong.ds/data-science-job-market-analysis-9fecc7518230?source=rss-------8-----------------data_science)
-- [6 Strategic Process Considerations Beyond MLOps](https://towardsdatascience.com/6-strategic-process-considerations-beyond-mlops-fbe260aa099d?source=rss-------8-----------------data_science)
-- [How to solve Bayesian problems](https://pedrodelcarpio.medium.com/how-to-solve-bayesian-problems-c952831865f8?source=rss-------8-----------------data_science)
-- [Data Analysis of Netflix movies & IMDB rating using Jupyter Notebook](https://ninza7.medium.com/data-analysis-of-netflix-movies-imdb-rating-using-jupyter-notebook-d923186da6c7?source=rss-------8-----------------data_science)
-- [Bias and Variance — digging deeper](https://saptarsi007.medium.com/bias-and-variance-digging-deeper-1dc2486bb2e0?source=rss-------8-----------------data_science)
-- [Predicting Victory in League of Legends](https://medium.com/@rylandalexandergomez/predicting-victory-in-league-of-legends-a379a41c4256?source=rss-------8-----------------data_science)
-- [PyQt & Relational Databases](https://towardsdatascience.com/pyqt-relational-databases-e6bdbed7ebdf?source=rss-------8-----------------data_science)
-- [A Function That Makes Your Initial EDA a Breeze](https://towardsdatascience.com/a-function-that-makes-your-initial-eda-a-breeze-8e9549d69fb3?source=rss-------8-----------------data_science)
-- [Huffman Encoding & Python Implementation](https://towardsdatascience.com/huffman-encoding-python-implementation-8448c3654328?source=rss-------8-----------------data_science)
+- [Yearly Recap: Taking a Look Back at Our Top Research Meetings](https://medium.com/@Numenta/yearly-recap-taking-a-look-back-at-our-top-research-meetings-206b61030bb3?source=rss-------8-----------------data_science)
+- [Data Scientist vs Data Analyst Salary](https://towardsdatascience.com/data-scientist-vs-data-analyst-salary-b0b3060e2529?source=rss-------8-----------------data_science)
+- [Are Topics Also Communities of Words?](https://towardsdatascience.com/are-topics-also-communities-of-words-9b390862ea64?source=rss-------8-----------------data_science)
+- [Bayesian Hierarchical Modeling in PyMC3](https://towardsdatascience.com/bayesian-hierarchical-modeling-in-pymc3-d113c97f5149?source=rss-------8-----------------data_science)
+- [Battle Royale — Metric Grudge Match: Which metrics you should target with AB experiments](https://bootcamp.uxdesign.cc/battle-royale-metric-grudge-match-which-metrics-you-should-target-with-ab-experiments-21b4014a460c?source=rss-------8-----------------data_science)
+- [Is It Worth Spending Two Years to Learn Data Science?](https://towardsdatascience.com/is-it-worth-spending-two-years-to-learn-data-science-290668d04a9f?source=rss-------8-----------------data_science)
+- [Hands-on for Data Science via Open Education](https://ramya-n.medium.com/hands-on-for-data-science-via-open-education-a89d825508f8?source=rss-------8-----------------data_science)
+- [M5-Forecasting-Accuracy](https://medium.com/@naveenraj3016/m5-forecasting-accuracy-3668d6103130?source=rss-------8-----------------data_science)
+- [Einstein index notation](https://towardsdatascience.com/einstein-index-notation-d62d48795378?source=rss-------8-----------------data_science)
+- [Heart Disease Prediction With TensorFlow Feature Columns](https://medium.com/@nutanbhogendrasharma/heart-disease-prediction-with-tensorflow-feature-columns-e3e7bb67b19b?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
