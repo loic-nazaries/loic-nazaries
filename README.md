@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Yearly Recap: Taking a Look Back at Our Top Research Meetings](https://medium.com/@Numenta/yearly-recap-taking-a-look-back-at-our-top-research-meetings-206b61030bb3?source=rss-------8-----------------data_science)
-- [Data Scientist vs Data Analyst Salary](https://towardsdatascience.com/data-scientist-vs-data-analyst-salary-b0b3060e2529?source=rss-------8-----------------data_science)
-- [Are Topics Also Communities of Words?](https://towardsdatascience.com/are-topics-also-communities-of-words-9b390862ea64?source=rss-------8-----------------data_science)
-- [Bayesian Hierarchical Modeling in PyMC3](https://towardsdatascience.com/bayesian-hierarchical-modeling-in-pymc3-d113c97f5149?source=rss-------8-----------------data_science)
-- [Battle Royale — Metric Grudge Match: Which metrics you should target with AB experiments](https://bootcamp.uxdesign.cc/battle-royale-metric-grudge-match-which-metrics-you-should-target-with-ab-experiments-21b4014a460c?source=rss-------8-----------------data_science)
-- [Is It Worth Spending Two Years to Learn Data Science?](https://towardsdatascience.com/is-it-worth-spending-two-years-to-learn-data-science-290668d04a9f?source=rss-------8-----------------data_science)
-- [Hands-on for Data Science via Open Education](https://ramya-n.medium.com/hands-on-for-data-science-via-open-education-a89d825508f8?source=rss-------8-----------------data_science)
-- [M5-Forecasting-Accuracy](https://medium.com/@naveenraj3016/m5-forecasting-accuracy-3668d6103130?source=rss-------8-----------------data_science)
-- [Einstein index notation](https://towardsdatascience.com/einstein-index-notation-d62d48795378?source=rss-------8-----------------data_science)
-- [Heart Disease Prediction With TensorFlow Feature Columns](https://medium.com/@nutanbhogendrasharma/heart-disease-prediction-with-tensorflow-feature-columns-e3e7bb67b19b?source=rss-------8-----------------data_science)
+- [How many Facebook friends will you have? Linear Regression has the answer.](https://schwarzwald-ai.medium.com/how-many-facebook-friends-will-you-have-ce1764a89779?source=rss-------8-----------------data_science)
+- [To make a decision, do you use your gut feeling, analytic skills or experience?](https://fspevak.medium.com/to-make-a-decision-do-you-use-your-gut-feeling-analytic-skills-or-experience-dd9fa9be54ea?source=rss-------8-----------------data_science)
+- [Dealing with variability uncertainty and scarce information with stochastic simulations](https://tavoglc.medium.com/dealing-with-variability-uncertainty-and-scarce-information-with-stochastic-simulations-59fd1e9ee8e5?source=rss-------8-----------------data_science)
+- [How to Prepare your Development Environment to Rank on Kaggle](https://towardsdatascience.com/how-to-prepare-your-development-environment-to-rank-on-kaggle-1a0fa1032b84?source=rss-------8-----------------data_science)
+- [Data Visualization In Excel Using Python](https://towardsdatascience.com/data-visualization-in-excel-using-python-94feeacda2fc?source=rss-------8-----------------data_science)
+- [Superscript and Subscript in Tableau — Why and How you can implement it](https://towardsdatascience.com/superscript-and-subscript-in-tableau-why-and-how-you-can-implement-it-764caf0cc932?source=rss-------8-----------------data_science)
+- [Moore’s Law revisited — How long can it keep going?](https://medium.com/science-and-critical-thinking/moores-law-revisited-how-long-can-it-keep-going-8421fb8cf026?source=rss-------8-----------------data_science)
+- [No, the Israeli numbers don’t disprove vaccine efficacy](https://medium.com/swlh/no-the-israeli-numbers-dont-disprove-vaccine-efficacy-a780099bab68?source=rss-------8-----------------data_science)
+- [How to Partner With Your Data Science Team](https://betterprogramming.pub/how-to-partner-with-your-data-science-team-96f35cbd3e4c?source=rss-------8-----------------data_science)
+- [Apple’s NeuralHash — How it works and ways to break it](https://towardsdatascience.com/apples-neuralhash-how-it-works-and-ways-to-break-it-577d1edc9838?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
