@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How many Facebook friends will you have? Linear Regression has the answer.](https://schwarzwald-ai.medium.com/how-many-facebook-friends-will-you-have-ce1764a89779?source=rss-------8-----------------data_science)
-- [To make a decision, do you use your gut feeling, analytic skills or experience?](https://fspevak.medium.com/to-make-a-decision-do-you-use-your-gut-feeling-analytic-skills-or-experience-dd9fa9be54ea?source=rss-------8-----------------data_science)
-- [Dealing with variability uncertainty and scarce information with stochastic simulations](https://tavoglc.medium.com/dealing-with-variability-uncertainty-and-scarce-information-with-stochastic-simulations-59fd1e9ee8e5?source=rss-------8-----------------data_science)
-- [How to Prepare your Development Environment to Rank on Kaggle](https://towardsdatascience.com/how-to-prepare-your-development-environment-to-rank-on-kaggle-1a0fa1032b84?source=rss-------8-----------------data_science)
-- [Data Visualization In Excel Using Python](https://towardsdatascience.com/data-visualization-in-excel-using-python-94feeacda2fc?source=rss-------8-----------------data_science)
-- [Superscript and Subscript in Tableau — Why and How you can implement it](https://towardsdatascience.com/superscript-and-subscript-in-tableau-why-and-how-you-can-implement-it-764caf0cc932?source=rss-------8-----------------data_science)
-- [Moore’s Law revisited — How long can it keep going?](https://medium.com/science-and-critical-thinking/moores-law-revisited-how-long-can-it-keep-going-8421fb8cf026?source=rss-------8-----------------data_science)
-- [No, the Israeli numbers don’t disprove vaccine efficacy](https://medium.com/swlh/no-the-israeli-numbers-dont-disprove-vaccine-efficacy-a780099bab68?source=rss-------8-----------------data_science)
-- [How to Partner With Your Data Science Team](https://betterprogramming.pub/how-to-partner-with-your-data-science-team-96f35cbd3e4c?source=rss-------8-----------------data_science)
-- [Apple’s NeuralHash — How it works and ways to break it](https://towardsdatascience.com/apples-neuralhash-how-it-works-and-ways-to-break-it-577d1edc9838?source=rss-------8-----------------data_science)
+- [A Deep Dive into the Language of Football](https://towardsdatascience.com/a-deep-dive-into-the-language-of-football-2a2984b6bd21?source=rss-------8-----------------data_science)
+- [Separate your Data in Bins with Pandas Cut](https://medium.com/gustavorsantos/separate-your-data-in-bins-with-pandas-cut-5fdaf3eada05?source=rss-------8-----------------data_science)
+- [Using K-Means Clustering to Categorize Text Data](https://rachaelfriedman.medium.com/using-k-means-clustering-to-categorize-text-data-418cdc89d7a7?source=rss-------8-----------------data_science)
+- [Maps and Recommendation Engines](https://medium.com/the-internet-music-mapping-project/maps-and-recommendation-engines-6c21eaab86ac?source=rss-------8-----------------data_science)
+- [Data visualization: Plot three-dimensional scatter plots using python](https://ninza7.medium.com/data-visualization-plot-three-dimensional-scatter-plots-using-python-3e759805b9b8?source=rss-------8-----------------data_science)
+- [Voyage of the Exploratory Data Analysis on Titanic Dataset Using RStudio](https://medium.com/@bowornpol.nuim/voyage-of-the-exploratory-data-analysis-on-titanic-dataset-using-rstudio-35333cc79b51?source=rss-------8-----------------data_science)
+- [My first time working in a cross-functional team as a Data Scientist](https://medium.com/@minh14496/my-first-time-working-in-a-cross-functional-team-as-data-scientist-e0b0d700abf1?source=rss-------8-----------------data_science)
+- [If You Can Write Functions, You Can Use Dask](https://towardsdatascience.com/if-you-can-write-functions-you-can-use-dask-bbb6d8b3a248?source=rss-------8-----------------data_science)
+- [Beginners Guide On Using Scikit-learn For Simple Regression Task](https://medium.com/@shittushitta/beginners-guide-on-using-scikit-learn-for-simple-regression-task-12b0311bada?source=rss-------8-----------------data_science)
+- [Which online courses are attracting most subscribers on Udemy?](https://medium.com/@ankur_kumar/which-online-courses-are-attracting-most-subscribers-on-udemy-a3ec16e1a9b4?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
