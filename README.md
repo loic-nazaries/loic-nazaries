@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Deep Dive into the Language of Football](https://towardsdatascience.com/a-deep-dive-into-the-language-of-football-2a2984b6bd21?source=rss-------8-----------------data_science)
-- [Separate your Data in Bins with Pandas Cut](https://medium.com/gustavorsantos/separate-your-data-in-bins-with-pandas-cut-5fdaf3eada05?source=rss-------8-----------------data_science)
-- [Using K-Means Clustering to Categorize Text Data](https://rachaelfriedman.medium.com/using-k-means-clustering-to-categorize-text-data-418cdc89d7a7?source=rss-------8-----------------data_science)
-- [Maps and Recommendation Engines](https://medium.com/the-internet-music-mapping-project/maps-and-recommendation-engines-6c21eaab86ac?source=rss-------8-----------------data_science)
-- [Data visualization: Plot three-dimensional scatter plots using python](https://ninza7.medium.com/data-visualization-plot-three-dimensional-scatter-plots-using-python-3e759805b9b8?source=rss-------8-----------------data_science)
-- [Voyage of the Exploratory Data Analysis on Titanic Dataset Using RStudio](https://medium.com/@bowornpol.nuim/voyage-of-the-exploratory-data-analysis-on-titanic-dataset-using-rstudio-35333cc79b51?source=rss-------8-----------------data_science)
-- [My first time working in a cross-functional team as a Data Scientist](https://medium.com/@minh14496/my-first-time-working-in-a-cross-functional-team-as-data-scientist-e0b0d700abf1?source=rss-------8-----------------data_science)
-- [If You Can Write Functions, You Can Use Dask](https://towardsdatascience.com/if-you-can-write-functions-you-can-use-dask-bbb6d8b3a248?source=rss-------8-----------------data_science)
-- [Beginners Guide On Using Scikit-learn For Simple Regression Task](https://medium.com/@shittushitta/beginners-guide-on-using-scikit-learn-for-simple-regression-task-12b0311bada?source=rss-------8-----------------data_science)
-- [Which online courses are attracting most subscribers on Udemy?](https://medium.com/@ankur_kumar/which-online-courses-are-attracting-most-subscribers-on-udemy-a3ec16e1a9b4?source=rss-------8-----------------data_science)
+- [What Does It Really Mean to Learn Data Science?](https://towardsdatascience.com/what-does-it-really-mean-to-learn-data-science-6a419cc3e699?source=rss-------8-----------------data_science)
+- [What aspect ratio to use when creating line plots?](https://abhinav-malasi.medium.com/should-you-care-about-the-aspect-ratio-when-creating-line-plots-ed423a5dceb3?source=rss-------8-----------------data_science)
+- [Getting insights from political violence and protests around the world — The geospatial ramp-up](https://medium.com/geospatial-intelligence/getting-insights-from-political-violence-and-protests-around-the-world-the-geospatial-ramp-up-5b35ba91d13?source=rss-------8-----------------data_science)
+- [The Fundamentals of Data Warehouse + Data Lake = Lake House](https://towardsdatascience.com/the-fundamentals-of-data-warehouse-data-lake-lake-house-ff640851c832?source=rss-------8-----------------data_science)
+- [Using Excel to Calculate Value-at-Risk for the Forex Markets](https://pub.towardsai.net/using-excel-to-calculate-value-at-risk-for-the-forex-markets-8596e2c5f583?source=rss-------8-----------------data_science)
+- [Data visualization: Create a Pie Chart using Python](https://ninza7.medium.com/data-visualization-create-a-pie-chart-using-python-f1a06653e095?source=rss-------8-----------------data_science)
+- [Lessons learned from dozens of performance dashboard projects— make it so easy your intern can do…](https://datastudio.medium.com/lessons-learned-from-dozens-of-performance-dashboard-projects-make-it-so-easy-your-intern-can-do-a44823bf1aa1?source=rss-------8-----------------data_science)
+- [Surprising Alternatives to Pandas](https://mdsohel-mahmood.medium.com/surprising-alternative-to-pandas-555e0fa3656b?source=rss-------8-----------------data_science)
+- [Demystifying R-Squared and Adjusted R-Squared](https://towardsdatascience.com/demystifying-r-squared-and-adjusted-r-squared-52903c006a60?source=rss-------8-----------------data_science)
+- [How I Taught Myself Tableau](https://towardsdatascience.com/how-i-taught-myself-tableau-f4aab862b695?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
