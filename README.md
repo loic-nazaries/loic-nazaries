@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What Does It Really Mean to Learn Data Science?](https://towardsdatascience.com/what-does-it-really-mean-to-learn-data-science-6a419cc3e699?source=rss-------8-----------------data_science)
-- [What aspect ratio to use when creating line plots?](https://abhinav-malasi.medium.com/should-you-care-about-the-aspect-ratio-when-creating-line-plots-ed423a5dceb3?source=rss-------8-----------------data_science)
-- [Getting insights from political violence and protests around the world — The geospatial ramp-up](https://medium.com/geospatial-intelligence/getting-insights-from-political-violence-and-protests-around-the-world-the-geospatial-ramp-up-5b35ba91d13?source=rss-------8-----------------data_science)
-- [The Fundamentals of Data Warehouse + Data Lake = Lake House](https://towardsdatascience.com/the-fundamentals-of-data-warehouse-data-lake-lake-house-ff640851c832?source=rss-------8-----------------data_science)
-- [Using Excel to Calculate Value-at-Risk for the Forex Markets](https://pub.towardsai.net/using-excel-to-calculate-value-at-risk-for-the-forex-markets-8596e2c5f583?source=rss-------8-----------------data_science)
-- [Data visualization: Create a Pie Chart using Python](https://ninza7.medium.com/data-visualization-create-a-pie-chart-using-python-f1a06653e095?source=rss-------8-----------------data_science)
-- [Lessons learned from dozens of performance dashboard projects— make it so easy your intern can do…](https://datastudio.medium.com/lessons-learned-from-dozens-of-performance-dashboard-projects-make-it-so-easy-your-intern-can-do-a44823bf1aa1?source=rss-------8-----------------data_science)
-- [Surprising Alternatives to Pandas](https://mdsohel-mahmood.medium.com/surprising-alternative-to-pandas-555e0fa3656b?source=rss-------8-----------------data_science)
-- [Demystifying R-Squared and Adjusted R-Squared](https://towardsdatascience.com/demystifying-r-squared-and-adjusted-r-squared-52903c006a60?source=rss-------8-----------------data_science)
-- [How I Taught Myself Tableau](https://towardsdatascience.com/how-i-taught-myself-tableau-f4aab862b695?source=rss-------8-----------------data_science)
+- [Data Scientist vs Data Engineer Salary](https://towardsdatascience.com/data-scientist-vs-data-engineer-salary-bbf147d1fa99?source=rss-------8-----------------data_science)
+- [Will You Survived the Titanic Disaster? (R-Exploratory Data Analysis)](https://medium.com/@guywichayapat/will-you-survived-the-titanic-disaster-r-exploratory-data-analysis-a637f695f3d2?source=rss-------8-----------------data_science)
+- [Trading & Back-testing the Blockade Candlestick Pattern — The Full Guide.](https://kaabar-sofien.medium.com/trading-back-testing-the-blockade-candlestick-pattern-the-full-guide-233dbaade245?source=rss-------8-----------------data_science)
+- [7 Reasons Why You Should Use the Streamlit AgGrid Component](https://towardsdatascience.com/7-reasons-why-you-should-use-the-streamlit-aggrid-component-2d9a2b6e32f0?source=rss-------8-----------------data_science)
+- [Supply Chain Design Using R: Unconstrained Warehouse/Customer Alignment](https://towardsdatascience.com/supply-chain-design-using-r-unconstrained-warehouse-customer-alignment-9ec11c1e4345?source=rss-------8-----------------data_science)
+- [Data Sciences in Real Estate — Part I](https://pspriyankasethi.medium.com/data-sciences-in-real-estate-part-i-47cb9d28cb66?source=rss-------8-----------------data_science)
+- [5 Myths of becoming a Data Scientist — The Sexiest Job of the 21st Century](https://suhas-maddali007.medium.com/5-myths-of-becoming-a-data-scientist-the-sexiest-job-of-the-21st-century-d064c724969b?source=rss-------8-----------------data_science)
+- [[Self-talk] CNN Error Analysis: Let the Errors Show You the Way](https://chibui191.medium.com/self-talk-cnn-error-analysis-let-the-errors-show-you-the-way-8bd60e5fd506?source=rss-------8-----------------data_science)
+- [Clustering Analysis of Mall Customer](https://medium.com/analytics-vidhya/clustering-analysis-of-mall-customer-bd785577f1b0?source=rss-------8-----------------data_science)
+- [Is your AI Professional-Grade?](https://statsrick.medium.com/is-your-ai-professional-grade-f402c6bc7213?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
