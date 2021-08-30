@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Scientist vs Data Engineer Salary](https://towardsdatascience.com/data-scientist-vs-data-engineer-salary-bbf147d1fa99?source=rss-------8-----------------data_science)
-- [Will You Survived the Titanic Disaster? (R-Exploratory Data Analysis)](https://medium.com/@guywichayapat/will-you-survived-the-titanic-disaster-r-exploratory-data-analysis-a637f695f3d2?source=rss-------8-----------------data_science)
-- [Trading & Back-testing the Blockade Candlestick Pattern — The Full Guide.](https://kaabar-sofien.medium.com/trading-back-testing-the-blockade-candlestick-pattern-the-full-guide-233dbaade245?source=rss-------8-----------------data_science)
-- [7 Reasons Why You Should Use the Streamlit AgGrid Component](https://towardsdatascience.com/7-reasons-why-you-should-use-the-streamlit-aggrid-component-2d9a2b6e32f0?source=rss-------8-----------------data_science)
-- [Supply Chain Design Using R: Unconstrained Warehouse/Customer Alignment](https://towardsdatascience.com/supply-chain-design-using-r-unconstrained-warehouse-customer-alignment-9ec11c1e4345?source=rss-------8-----------------data_science)
-- [Data Sciences in Real Estate — Part I](https://pspriyankasethi.medium.com/data-sciences-in-real-estate-part-i-47cb9d28cb66?source=rss-------8-----------------data_science)
-- [5 Myths of becoming a Data Scientist — The Sexiest Job of the 21st Century](https://suhas-maddali007.medium.com/5-myths-of-becoming-a-data-scientist-the-sexiest-job-of-the-21st-century-d064c724969b?source=rss-------8-----------------data_science)
-- [[Self-talk] CNN Error Analysis: Let the Errors Show You the Way](https://chibui191.medium.com/self-talk-cnn-error-analysis-let-the-errors-show-you-the-way-8bd60e5fd506?source=rss-------8-----------------data_science)
-- [Clustering Analysis of Mall Customer](https://medium.com/analytics-vidhya/clustering-analysis-of-mall-customer-bd785577f1b0?source=rss-------8-----------------data_science)
-- [Is your AI Professional-Grade?](https://statsrick.medium.com/is-your-ai-professional-grade-f402c6bc7213?source=rss-------8-----------------data_science)
+- [Make a mock “real-time” stream of data with Python and Kafka](https://towardsdatascience.com/make-a-mock-real-time-stream-of-data-with-python-and-kafka-7e5e23123582?source=rss-------8-----------------data_science)
+- [An Analysis of Depression-Related Preprints](https://towardsdatascience.com/an-analysis-of-depression-related-preprints-b64487f697ab?source=rss-------8-----------------data_science)
+- [Deep understanding of the ARIMA model](https://towardsdatascience.com/deep-understanding-of-the-arima-model-d3f0751fc709?source=rss-------8-----------------data_science)
+- [SMOTE](https://towardsdatascience.com/smote-fdce2f605729?source=rss-------8-----------------data_science)
+- [Create kick-ass data visualisations using these four steps (with examples)](https://medium.com/geekculture/create-kick-ass-data-visualisations-using-these-four-steps-with-examples-d41776ef11ed?source=rss-------8-----------------data_science)
+- [Analyze and Map Photo Locations with Python and Tableau](https://towardsdatascience.com/analyze-and-map-photo-locations-with-python-and-tableau-7b2a4af971eb?source=rss-------8-----------------data_science)
+- [Generate Interactive Plots in one line of Python Code](https://towardsdatascience.com/develop-interactive-plots-in-one-line-of-python-code-fde434f39ee8?source=rss-------8-----------------data_science)
+- [Prescriptive Data Science: Single Agent / Static Problem — Joint Price Optimization (1/2)](https://medium.com/codex/prescriptive-data-science-single-agent-static-problem-joint-price-optimization-1-2-7538ccd8b6ed?source=rss-------8-----------------data_science)
+- [Performance measures in Forecasting, when to use what](https://bijular.medium.com/performance-measures-in-forecasting-when-to-use-what-dd7055649c57?source=rss-------8-----------------data_science)
+- [Build Your Own Custom Dataset using Python](https://towardsdatascience.com/build-a-your-own-custom-dataset-using-python-9296540a0178?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
