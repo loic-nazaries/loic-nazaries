@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Make a mock “real-time” stream of data with Python and Kafka](https://towardsdatascience.com/make-a-mock-real-time-stream-of-data-with-python-and-kafka-7e5e23123582?source=rss-------8-----------------data_science)
-- [An Analysis of Depression-Related Preprints](https://towardsdatascience.com/an-analysis-of-depression-related-preprints-b64487f697ab?source=rss-------8-----------------data_science)
-- [Deep understanding of the ARIMA model](https://towardsdatascience.com/deep-understanding-of-the-arima-model-d3f0751fc709?source=rss-------8-----------------data_science)
-- [SMOTE](https://towardsdatascience.com/smote-fdce2f605729?source=rss-------8-----------------data_science)
-- [Create kick-ass data visualisations using these four steps (with examples)](https://medium.com/geekculture/create-kick-ass-data-visualisations-using-these-four-steps-with-examples-d41776ef11ed?source=rss-------8-----------------data_science)
-- [Analyze and Map Photo Locations with Python and Tableau](https://towardsdatascience.com/analyze-and-map-photo-locations-with-python-and-tableau-7b2a4af971eb?source=rss-------8-----------------data_science)
-- [Generate Interactive Plots in one line of Python Code](https://towardsdatascience.com/develop-interactive-plots-in-one-line-of-python-code-fde434f39ee8?source=rss-------8-----------------data_science)
-- [Prescriptive Data Science: Single Agent / Static Problem — Joint Price Optimization (1/2)](https://medium.com/codex/prescriptive-data-science-single-agent-static-problem-joint-price-optimization-1-2-7538ccd8b6ed?source=rss-------8-----------------data_science)
-- [Performance measures in Forecasting, when to use what](https://bijular.medium.com/performance-measures-in-forecasting-when-to-use-what-dd7055649c57?source=rss-------8-----------------data_science)
-- [Build Your Own Custom Dataset using Python](https://towardsdatascience.com/build-a-your-own-custom-dataset-using-python-9296540a0178?source=rss-------8-----------------data_science)
+- [An Introduction to Microsoft Azure Anomaly Detection Service](https://fintelics.medium.com/an-introduction-to-microsoft-azure-anomaly-detection-service-fc80a4da87d9?source=rss-------8-----------------data_science)
+- [A guide to the Knowledge Graphs](https://towardsdatascience.com/a-guide-to-the-knowledge-graphs-bfb5c40272f1?source=rss-------8-----------------data_science)
+- [Datacast Episode 70: Machine Learning Testing with Mohamed Elgendy](https://data-notes.co/datacast-episode-70-machine-learning-testing-with-mohamed-elgendy-3615f3a76098?source=rss-------8-----------------data_science)
+- [Spotify Data Visualization and Analysis using Python](https://ninza7.medium.com/spotify-data-visualization-and-analysis-using-python-4af81c5531a7?source=rss-------8-----------------data_science)
+- [Spatial Transformer Tutorial, Part 1 — Forward and Reverse Mapping](https://towardsdatascience.com/spatial-transformer-tutorial-part-1-forward-and-reverse-mapping-8d3f66375bf5?source=rss-------8-----------------data_science)
+- [Big Trouble in Little Data](https://towardsdatascience.com/big-trouble-in-little-data-7a1b02bfdc39?source=rss-------8-----------------data_science)
+- [Working with Multi-Index Pandas DataFrames](https://towardsdatascience.com/working-with-multi-index-pandas-dataframes-f64d2e2c3e02?source=rss-------8-----------------data_science)
+- [So, What Does Being A Data Scientist Mean?](https://towardsdatascience.com/so-what-does-being-a-data-scientist-mean-737e66c74e03?source=rss-------8-----------------data_science)
+- [CSV Files for Storage? Absolutely Not. Use Apache Avro Instead](https://towardsdatascience.com/csv-files-for-storage-absolutely-not-use-apache-avro-instead-7b7296149326?source=rss-------8-----------------data_science)
+- [Deploy multiple Flask Applications using Nginx and Gunicorn](https://towardsdatascience.com/deploy-multiple-flask-applications-using-nginx-and-gunicorn-16f8f7865497?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
