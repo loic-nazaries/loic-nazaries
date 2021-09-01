@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [An Introduction to Microsoft Azure Anomaly Detection Service](https://fintelics.medium.com/an-introduction-to-microsoft-azure-anomaly-detection-service-fc80a4da87d9?source=rss-------8-----------------data_science)
-- [A guide to the Knowledge Graphs](https://towardsdatascience.com/a-guide-to-the-knowledge-graphs-bfb5c40272f1?source=rss-------8-----------------data_science)
-- [Datacast Episode 70: Machine Learning Testing with Mohamed Elgendy](https://data-notes.co/datacast-episode-70-machine-learning-testing-with-mohamed-elgendy-3615f3a76098?source=rss-------8-----------------data_science)
-- [Spotify Data Visualization and Analysis using Python](https://ninza7.medium.com/spotify-data-visualization-and-analysis-using-python-4af81c5531a7?source=rss-------8-----------------data_science)
-- [Spatial Transformer Tutorial, Part 1 — Forward and Reverse Mapping](https://towardsdatascience.com/spatial-transformer-tutorial-part-1-forward-and-reverse-mapping-8d3f66375bf5?source=rss-------8-----------------data_science)
-- [Big Trouble in Little Data](https://towardsdatascience.com/big-trouble-in-little-data-7a1b02bfdc39?source=rss-------8-----------------data_science)
-- [Working with Multi-Index Pandas DataFrames](https://towardsdatascience.com/working-with-multi-index-pandas-dataframes-f64d2e2c3e02?source=rss-------8-----------------data_science)
-- [So, What Does Being A Data Scientist Mean?](https://towardsdatascience.com/so-what-does-being-a-data-scientist-mean-737e66c74e03?source=rss-------8-----------------data_science)
-- [CSV Files for Storage? Absolutely Not. Use Apache Avro Instead](https://towardsdatascience.com/csv-files-for-storage-absolutely-not-use-apache-avro-instead-7b7296149326?source=rss-------8-----------------data_science)
-- [Deploy multiple Flask Applications using Nginx and Gunicorn](https://towardsdatascience.com/deploy-multiple-flask-applications-using-nginx-and-gunicorn-16f8f7865497?source=rss-------8-----------------data_science)
+- [A Practical Summary of Matplotlib in 13 Python Snippets](https://towardsdatascience.com/a-practical-summary-of-matplotlib-in-13-python-snippets-4d07f0011bdf?source=rss-------8-----------------data_science)
+- [Mall Customer Segmentation and Forming Growth Strategies](https://towardsdatascience.com/mall-customer-segmentation-and-forming-growth-strategies-cc4130a0f4d7?source=rss-------8-----------------data_science)
+- [Turn your Python script into a web app using Streamlit and Altair](https://towardsdatascience.com/turn-your-python-script-into-a-web-app-using-streamlit-and-altair-627c70c56f4?source=rss-------8-----------------data_science)
+- [How to Set a Routine for Learning Data Science](https://towardsdatascience.com/how-to-set-a-routine-for-learning-data-science-b20c61f35db?source=rss-------8-----------------data_science)
+- [Building a data engineering project. Part 1 - from idea to design.](https://medium.com/@aLittleSparky/building-a-data-engineering-project-part-1-from-idea-to-design-67f398148a52?source=rss-------8-----------------data_science)
+- [The Custom Parser: A key to a good data harvest](https://medium.com/@yrodriguezmd/the-custom-parser-a-key-to-a-good-data-harvest-10e24d0d8a71?source=rss-------8-----------------data_science)
+- [Everything You Need to Know About Numenta Anomaly Benchmark (NAB)](https://fintelics.medium.com/everything-you-need-to-know-about-numenta-anomaly-benchmark-nab-b43ab7f014df?source=rss-------8-----------------data_science)
+- [Data Science in Finance](https://atif-blogs.medium.com/data-science-in-finance-7cf794a781df?source=rss-------8-----------------data_science)
+- [Uber’s data exploration platform](https://medium.com/acing-ai/ubers-data-exploration-platform-809e14c550?source=rss-------8-----------------data_science)
+- [Water Potability Test using Deep Neural Networks](https://medium.com/ai-techsystems/water-potability-test-using-deep-neural-networks-d4c7c9378f6b?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
