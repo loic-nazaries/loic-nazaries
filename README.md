@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Practical Summary of Matplotlib in 13 Python Snippets](https://towardsdatascience.com/a-practical-summary-of-matplotlib-in-13-python-snippets-4d07f0011bdf?source=rss-------8-----------------data_science)
-- [Mall Customer Segmentation and Forming Growth Strategies](https://towardsdatascience.com/mall-customer-segmentation-and-forming-growth-strategies-cc4130a0f4d7?source=rss-------8-----------------data_science)
-- [Turn your Python script into a web app using Streamlit and Altair](https://towardsdatascience.com/turn-your-python-script-into-a-web-app-using-streamlit-and-altair-627c70c56f4?source=rss-------8-----------------data_science)
-- [How to Set a Routine for Learning Data Science](https://towardsdatascience.com/how-to-set-a-routine-for-learning-data-science-b20c61f35db?source=rss-------8-----------------data_science)
-- [Building a data engineering project. Part 1 - from idea to design.](https://medium.com/@aLittleSparky/building-a-data-engineering-project-part-1-from-idea-to-design-67f398148a52?source=rss-------8-----------------data_science)
-- [The Custom Parser: A key to a good data harvest](https://medium.com/@yrodriguezmd/the-custom-parser-a-key-to-a-good-data-harvest-10e24d0d8a71?source=rss-------8-----------------data_science)
-- [Everything You Need to Know About Numenta Anomaly Benchmark (NAB)](https://fintelics.medium.com/everything-you-need-to-know-about-numenta-anomaly-benchmark-nab-b43ab7f014df?source=rss-------8-----------------data_science)
-- [Data Science in Finance](https://atif-blogs.medium.com/data-science-in-finance-7cf794a781df?source=rss-------8-----------------data_science)
-- [Uber’s data exploration platform](https://medium.com/acing-ai/ubers-data-exploration-platform-809e14c550?source=rss-------8-----------------data_science)
-- [Water Potability Test using Deep Neural Networks](https://medium.com/ai-techsystems/water-potability-test-using-deep-neural-networks-d4c7c9378f6b?source=rss-------8-----------------data_science)
+- [Got Skills, Need Cash? Why Not Try Consulting](https://towardsdatascience.com/got-skills-need-cash-why-not-try-consulting-6f4ac5d7b8d9?source=rss-------8-----------------data_science)
+- [Create Custom Investment Analytics Dashboards with Excel and Tableau](https://towardsdatascience.com/create-custom-investment-analytics-dashboards-with-excel-and-tableau-7d304eeebfc4?source=rss-------8-----------------data_science)
+- [Which Data Professional Roles Cannot Be Replaced By AI?](https://towardsdatascience.com/which-data-professional-roles-cannot-be-replaced-by-ai-c7abd6d10f54?source=rss-------8-----------------data_science)
+- [The use of graphs in data analysis](https://medium.com/geekculture/the-use-of-graphs-in-data-analysis-7ce3622dfec1?source=rss-------8-----------------data_science)
+- [Integrating Slack with Amundsen for Ease of Data Discovery](https://medium.com/convoy-tech/integrating-slack-with-amundsen-for-ease-of-data-discovery-ef3b54834da5?source=rss-------8-----------------data_science)
+- [Lp Norms, Grand Slams, and Olympic Medals](https://towardsdatascience.com/lp-norms-grand-slams-and-olympic-medals-f005e002ae8e?source=rss-------8-----------------data_science)
+- [Churn Prediction Project: Learn from user activities and don’t let them just go away!](https://kazuhirokomoda.medium.com/churn-prediction-project-learn-from-user-activities-and-dont-let-them-just-go-away-ea670e52cecc?source=rss-------8-----------------data_science)
+- [Build Better Regression Models With LASSO](https://towardsdatascience.com/build-better-regression-models-with-lasso-271ce0f22bd?source=rss-------8-----------------data_science)
+- [Boston Airbnb Price Prediction](https://medium.com/@chaure.v/boston-airbnb-price-prediction-67f65aa54768?source=rss-------8-----------------data_science)
+- [Introduction to Python for Machine Learning](https://medium.com/@yaminivijaywargiya2001/introduction-to-python-for-machine-learning-ffe08e7d34eb?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
