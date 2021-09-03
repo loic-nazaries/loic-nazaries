@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Got Skills, Need Cash? Why Not Try Consulting](https://towardsdatascience.com/got-skills-need-cash-why-not-try-consulting-6f4ac5d7b8d9?source=rss-------8-----------------data_science)
-- [Create Custom Investment Analytics Dashboards with Excel and Tableau](https://towardsdatascience.com/create-custom-investment-analytics-dashboards-with-excel-and-tableau-7d304eeebfc4?source=rss-------8-----------------data_science)
-- [Which Data Professional Roles Cannot Be Replaced By AI?](https://towardsdatascience.com/which-data-professional-roles-cannot-be-replaced-by-ai-c7abd6d10f54?source=rss-------8-----------------data_science)
-- [The use of graphs in data analysis](https://medium.com/geekculture/the-use-of-graphs-in-data-analysis-7ce3622dfec1?source=rss-------8-----------------data_science)
-- [Integrating Slack with Amundsen for Ease of Data Discovery](https://medium.com/convoy-tech/integrating-slack-with-amundsen-for-ease-of-data-discovery-ef3b54834da5?source=rss-------8-----------------data_science)
-- [Lp Norms, Grand Slams, and Olympic Medals](https://towardsdatascience.com/lp-norms-grand-slams-and-olympic-medals-f005e002ae8e?source=rss-------8-----------------data_science)
-- [Churn Prediction Project: Learn from user activities and don’t let them just go away!](https://kazuhirokomoda.medium.com/churn-prediction-project-learn-from-user-activities-and-dont-let-them-just-go-away-ea670e52cecc?source=rss-------8-----------------data_science)
-- [Build Better Regression Models With LASSO](https://towardsdatascience.com/build-better-regression-models-with-lasso-271ce0f22bd?source=rss-------8-----------------data_science)
-- [Boston Airbnb Price Prediction](https://medium.com/@chaure.v/boston-airbnb-price-prediction-67f65aa54768?source=rss-------8-----------------data_science)
-- [Introduction to Python for Machine Learning](https://medium.com/@yaminivijaywargiya2001/introduction-to-python-for-machine-learning-ffe08e7d34eb?source=rss-------8-----------------data_science)
+- [9 Pandas value_counts() tricks to improve your data analysis](https://towardsdatascience.com/9-pandas-value-counts-tricks-to-improve-your-data-analysis-7980a2b46536?source=rss-------8-----------------data_science)
+- [Dataset Biases: Institutionalized Discrimination or Adequate Transparency?](https://medium.com/@lsci/dataset-biases-institutionalized-discrimination-or-adequate-transparency-ae4119e2a65c?source=rss-------8-----------------data_science)
+- [Investigating Images and Customizing Colors in Visualizations with Python](https://towardsdatascience.com/investigating-images-and-customizing-colors-in-visualizations-with-python-5226c834cb65?source=rss-------8-----------------data_science)
+- [Essential Growth Frameworks](https://blog.statsig.com/essential-growth-frameworks-b7b8f52a8ba6?source=rss-------8-----------------data_science)
+- [GSDMM: Topic Modeling for Social Media Posts and Reviews](https://towardsdatascience.com/gsdmm-topic-modeling-for-social-media-posts-and-reviews-8726489dc52f?source=rss-------8-----------------data_science)
+- [Comprehensive guide for Principal Component Analysis](https://towardsdatascience.com/comprehensive-guide-for-principal-component-analysis-7bf2b4a048ae?source=rss-------8-----------------data_science)
+- [Deep lifelong learning — drawing inspiration from the human brain](https://towardsdatascience.com/deep-lifelong-learning-drawing-inspiration-from-the-human-brain-c4518a2f4fb9?source=rss-------8-----------------data_science)
+- [When a KPI Going Up Can Be a Bad Thing](https://towardsdatascience.com/when-a-kpi-going-up-can-be-a-bad-thing-7021e4d27fef?source=rss-------8-----------------data_science)
+- [OneDrive as Data Storage for Python Project](https://towardsdatascience.com/onedrive-as-data-storage-for-python-project-2ff8d2d3a0aa?source=rss-------8-----------------data_science)
+- [Data engineering failure — Why is it almost impossible to meet deadlines?](https://towardsdatascience.com/data-engineering-failure-why-is-it-almost-impossible-to-meet-deadlines-fc1b5b5aa90?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
