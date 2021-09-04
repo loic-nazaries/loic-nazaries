@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [9 Pandas value_counts() tricks to improve your data analysis](https://towardsdatascience.com/9-pandas-value-counts-tricks-to-improve-your-data-analysis-7980a2b46536?source=rss-------8-----------------data_science)
-- [Dataset Biases: Institutionalized Discrimination or Adequate Transparency?](https://medium.com/@lsci/dataset-biases-institutionalized-discrimination-or-adequate-transparency-ae4119e2a65c?source=rss-------8-----------------data_science)
-- [Investigating Images and Customizing Colors in Visualizations with Python](https://towardsdatascience.com/investigating-images-and-customizing-colors-in-visualizations-with-python-5226c834cb65?source=rss-------8-----------------data_science)
-- [Essential Growth Frameworks](https://blog.statsig.com/essential-growth-frameworks-b7b8f52a8ba6?source=rss-------8-----------------data_science)
-- [GSDMM: Topic Modeling for Social Media Posts and Reviews](https://towardsdatascience.com/gsdmm-topic-modeling-for-social-media-posts-and-reviews-8726489dc52f?source=rss-------8-----------------data_science)
-- [Comprehensive guide for Principal Component Analysis](https://towardsdatascience.com/comprehensive-guide-for-principal-component-analysis-7bf2b4a048ae?source=rss-------8-----------------data_science)
-- [Deep lifelong learning — drawing inspiration from the human brain](https://towardsdatascience.com/deep-lifelong-learning-drawing-inspiration-from-the-human-brain-c4518a2f4fb9?source=rss-------8-----------------data_science)
-- [When a KPI Going Up Can Be a Bad Thing](https://towardsdatascience.com/when-a-kpi-going-up-can-be-a-bad-thing-7021e4d27fef?source=rss-------8-----------------data_science)
-- [OneDrive as Data Storage for Python Project](https://towardsdatascience.com/onedrive-as-data-storage-for-python-project-2ff8d2d3a0aa?source=rss-------8-----------------data_science)
-- [Data engineering failure — Why is it almost impossible to meet deadlines?](https://towardsdatascience.com/data-engineering-failure-why-is-it-almost-impossible-to-meet-deadlines-fc1b5b5aa90?source=rss-------8-----------------data_science)
+- [Interview Questions — DAX in Power BI — Part 1](https://medium.com/analytics-vidhya/interview-questions-dax-in-power-bi-part-1-e97b5b6e3bd9?source=rss-------8-----------------data_science)
+- [Six Questions About Data Science Ethics](https://towardsdatascience.com/six-questions-about-data-science-ethics-4bae9be67cca?source=rss-------8-----------------data_science)
+- [Rfviz: An Interactive Visualization Package for Interpreting Random Forests in R](https://medium.com/@chrisbeckett8/rfviz-an-interactive-visualization-package-for-random-forests-in-r-8fb71709c8bf?source=rss-------8-----------------data_science)
+- [Transform your data into a product](https://medium.com/square-in-a-sphere/transform-your-data-into-a-product-7b50d95b7e8f?source=rss-------8-----------------data_science)
+- [Top 4 Python and Data Science IDEs for 2021 and Beyond](https://towardsdatascience.com/top-4-python-and-data-science-ides-for-2021-and-beyond-3bbcb7b9bc44?source=rss-------8-----------------data_science)
+- [Machine learning projects and scrum: A major mismatch](https://towardsdatascience.com/machine-learning-projects-and-scrum-a-major-mismatch-c155ad8e2eee?source=rss-------8-----------------data_science)
+- [Posts & Comments on Euro 2020 by the Redditors’](https://towardsdatascience.com/posts-comments-on-euro-2020-by-the-redditors-228af74cef9c?source=rss-------8-----------------data_science)
+- [Dataset Biases: Institutionalized Discrimination or Adequate Transparency?](https://towardsdatascience.com/dataset-biases-institutionalized-discrimination-or-adequate-transparency-ae4119e2a65c?source=rss-------8-----------------data_science)
+- [How to Filter Data in Python Pandas Dataframes using Conditional Statements](https://medium.com/@AIWatson/how-to-filter-data-in-python-pandas-dataframes-using-conditional-statements-69c4bb842de8?source=rss-------8-----------------data_science)
+- [Langevin Dynamics](https://towardsdatascience.com/langevin-dynamics-29bbb9407b47?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
