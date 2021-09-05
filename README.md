@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Interview Questions — DAX in Power BI — Part 1](https://medium.com/analytics-vidhya/interview-questions-dax-in-power-bi-part-1-e97b5b6e3bd9?source=rss-------8-----------------data_science)
-- [Six Questions About Data Science Ethics](https://towardsdatascience.com/six-questions-about-data-science-ethics-4bae9be67cca?source=rss-------8-----------------data_science)
-- [Rfviz: An Interactive Visualization Package for Interpreting Random Forests in R](https://medium.com/@chrisbeckett8/rfviz-an-interactive-visualization-package-for-random-forests-in-r-8fb71709c8bf?source=rss-------8-----------------data_science)
-- [Transform your data into a product](https://medium.com/square-in-a-sphere/transform-your-data-into-a-product-7b50d95b7e8f?source=rss-------8-----------------data_science)
-- [Top 4 Python and Data Science IDEs for 2021 and Beyond](https://towardsdatascience.com/top-4-python-and-data-science-ides-for-2021-and-beyond-3bbcb7b9bc44?source=rss-------8-----------------data_science)
-- [Machine learning projects and scrum: A major mismatch](https://towardsdatascience.com/machine-learning-projects-and-scrum-a-major-mismatch-c155ad8e2eee?source=rss-------8-----------------data_science)
-- [Posts & Comments on Euro 2020 by the Redditors’](https://towardsdatascience.com/posts-comments-on-euro-2020-by-the-redditors-228af74cef9c?source=rss-------8-----------------data_science)
-- [Dataset Biases: Institutionalized Discrimination or Adequate Transparency?](https://towardsdatascience.com/dataset-biases-institutionalized-discrimination-or-adequate-transparency-ae4119e2a65c?source=rss-------8-----------------data_science)
-- [How to Filter Data in Python Pandas Dataframes using Conditional Statements](https://medium.com/@AIWatson/how-to-filter-data-in-python-pandas-dataframes-using-conditional-statements-69c4bb842de8?source=rss-------8-----------------data_science)
-- [Langevin Dynamics](https://towardsdatascience.com/langevin-dynamics-29bbb9407b47?source=rss-------8-----------------data_science)
+- [What Makes a Great Data Analyst?](https://towardsdatascience.com/what-makes-a-great-data-analyst-f6577cef81a3?source=rss-------8-----------------data_science)
+- [3 Reasons Why Jupyter Notebook Is Steering Your Team the Wrong Way](https://towardsdatascience.com/3-reasons-why-jupyter-notebook-is-steering-your-team-the-wrong-way-abb53cc46823?source=rss-------8-----------------data_science)
+- [Exotic Trading Strategies on the S&P500 in Python.](https://kaabar-sofien.medium.com/exotic-trading-strategies-on-the-s-p500-in-python-7e93958ac082?source=rss-------8-----------------data_science)
+- [Avoid the analyst’s original sin, the table grid design](https://medium.com/@mariano.scandizzo/avoid-the-analysts-original-sin-the-table-grid-design-fb1ca73e2269?source=rss-------8-----------------data_science)
+- [4 Projects to Test Your Understanding of Basic Data Science Concepts](https://benjaminobi.medium.com/4-projects-to-test-your-understanding-of-basic-data-science-concepts-bbbd7f1b3cea?source=rss-------8-----------------data_science)
+- [How To: Accessing Live NBA Play-By-Play Data](https://jman4190.medium.com/how-to-accessing-live-nba-play-by-play-data-f24e02b0a976?source=rss-------8-----------------data_science)
+- [Tracking the Space Station Live with Python](https://medium.com/codex/tracking-the-space-station-live-with-python-155060d1df45?source=rss-------8-----------------data_science)
+- [Add Metadata to Your Dataset Using Apache Parquet](https://medium.com/analytics-vidhya/add-metadata-to-your-dataset-using-apache-parquet-75360d2073bd?source=rss-------8-----------------data_science)
+- [What if I tell you RDBMS can handle time-series data?](https://towardsdatascience.com/what-if-i-tell-you-rdbms-can-handle-time-series-data-77a5bb43da06?source=rss-------8-----------------data_science)
+- [DataOps Technologies — What is ModelOps and DataGovOps?](https://medium.com/technexthere/dataops-technologies-what-is-modelops-and-datagovops-334d75f7fdbf?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
