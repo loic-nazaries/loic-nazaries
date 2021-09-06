@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What Makes a Great Data Analyst?](https://towardsdatascience.com/what-makes-a-great-data-analyst-f6577cef81a3?source=rss-------8-----------------data_science)
-- [3 Reasons Why Jupyter Notebook Is Steering Your Team the Wrong Way](https://towardsdatascience.com/3-reasons-why-jupyter-notebook-is-steering-your-team-the-wrong-way-abb53cc46823?source=rss-------8-----------------data_science)
-- [Exotic Trading Strategies on the S&P500 in Python.](https://kaabar-sofien.medium.com/exotic-trading-strategies-on-the-s-p500-in-python-7e93958ac082?source=rss-------8-----------------data_science)
-- [Avoid the analyst’s original sin, the table grid design](https://medium.com/@mariano.scandizzo/avoid-the-analysts-original-sin-the-table-grid-design-fb1ca73e2269?source=rss-------8-----------------data_science)
-- [4 Projects to Test Your Understanding of Basic Data Science Concepts](https://benjaminobi.medium.com/4-projects-to-test-your-understanding-of-basic-data-science-concepts-bbbd7f1b3cea?source=rss-------8-----------------data_science)
-- [How To: Accessing Live NBA Play-By-Play Data](https://jman4190.medium.com/how-to-accessing-live-nba-play-by-play-data-f24e02b0a976?source=rss-------8-----------------data_science)
-- [Tracking the Space Station Live with Python](https://medium.com/codex/tracking-the-space-station-live-with-python-155060d1df45?source=rss-------8-----------------data_science)
-- [Add Metadata to Your Dataset Using Apache Parquet](https://medium.com/analytics-vidhya/add-metadata-to-your-dataset-using-apache-parquet-75360d2073bd?source=rss-------8-----------------data_science)
-- [What if I tell you RDBMS can handle time-series data?](https://towardsdatascience.com/what-if-i-tell-you-rdbms-can-handle-time-series-data-77a5bb43da06?source=rss-------8-----------------data_science)
-- [DataOps Technologies — What is ModelOps and DataGovOps?](https://medium.com/technexthere/dataops-technologies-what-is-modelops-and-datagovops-334d75f7fdbf?source=rss-------8-----------------data_science)
+- [The Difference between Kotlin’s Data Classes and Java 16 Records](https://oscarablinger.medium.com/the-difference-between-kotlins-data-classes-and-java-16-records-7e25fdbcb50d?source=rss-------8-----------------data_science)
+- [This is How I Create Dazzling Dashboards Purely in Python.](https://towardsdatascience.com/plotly-dashboards-in-python-28a3bb83702c?source=rss-------8-----------------data_science)
+- [The Casebook of NO-BALLs in Cricket — Data Science (PART 1)](https://medium.com/analytics-vidhya/the-casebook-of-no-balls-in-cricket-data-science-part-1-37e9c1a67653?source=rss-------8-----------------data_science)
+- [The Countdown Indicator in Python — Modern Technical Analysis.](https://kaabar-sofien.medium.com/the-countdown-indicator-in-python-modern-technical-analysis-cbbc0b06645e?source=rss-------8-----------------data_science)
+- [WHERE AND HOW CAN I USE THE CERTIFICATES I RECEIVED FROM MAGNIMIND ACADEMY?](https://magnimind.medium.com/where-and-how-can-i-use-the-certificates-i-received-from-magnimind-academy-2c6698146e6e?source=rss-------8-----------------data_science)
+- [Introduction to NLP Series: Why is it important to filter out for noise](https://eg-romano.medium.com/introduction-to-nlp-series-why-is-it-important-to-filter-out-for-noise-a780131cd89d?source=rss-------8-----------------data_science)
+- [AI Checklist #2: The Right Datasets](https://modern-cdo.medium.com/ai-checklist-2-the-right-datasets-a878d1e6cb08?source=rss-------8-----------------data_science)
+- [Why automation is a necessary part of e-commerce](https://medium.com/geekculture/why-automation-is-a-necessary-part-of-e-commerce-37841570c971?source=rss-------8-----------------data_science)
+- [Data Cleaning is an art..](https://akshaysvj.medium.com/data-cleaning-is-an-art-177398bec254?source=rss-------8-----------------data_science)
+- [Minimal Viable Developer: acing your first month in software](https://towardsdatascience.com/minimal-viable-developer-acing-your-first-month-in-software-8273663edb38?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
