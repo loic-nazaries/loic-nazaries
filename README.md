@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Difference between Kotlin’s Data Classes and Java 16 Records](https://oscarablinger.medium.com/the-difference-between-kotlins-data-classes-and-java-16-records-7e25fdbcb50d?source=rss-------8-----------------data_science)
-- [This is How I Create Dazzling Dashboards Purely in Python.](https://towardsdatascience.com/plotly-dashboards-in-python-28a3bb83702c?source=rss-------8-----------------data_science)
-- [The Casebook of NO-BALLs in Cricket — Data Science (PART 1)](https://medium.com/analytics-vidhya/the-casebook-of-no-balls-in-cricket-data-science-part-1-37e9c1a67653?source=rss-------8-----------------data_science)
-- [The Countdown Indicator in Python — Modern Technical Analysis.](https://kaabar-sofien.medium.com/the-countdown-indicator-in-python-modern-technical-analysis-cbbc0b06645e?source=rss-------8-----------------data_science)
-- [WHERE AND HOW CAN I USE THE CERTIFICATES I RECEIVED FROM MAGNIMIND ACADEMY?](https://magnimind.medium.com/where-and-how-can-i-use-the-certificates-i-received-from-magnimind-academy-2c6698146e6e?source=rss-------8-----------------data_science)
-- [Introduction to NLP Series: Why is it important to filter out for noise](https://eg-romano.medium.com/introduction-to-nlp-series-why-is-it-important-to-filter-out-for-noise-a780131cd89d?source=rss-------8-----------------data_science)
-- [AI Checklist #2: The Right Datasets](https://modern-cdo.medium.com/ai-checklist-2-the-right-datasets-a878d1e6cb08?source=rss-------8-----------------data_science)
-- [Why automation is a necessary part of e-commerce](https://medium.com/geekculture/why-automation-is-a-necessary-part-of-e-commerce-37841570c971?source=rss-------8-----------------data_science)
-- [Data Cleaning is an art..](https://akshaysvj.medium.com/data-cleaning-is-an-art-177398bec254?source=rss-------8-----------------data_science)
-- [Minimal Viable Developer: acing your first month in software](https://towardsdatascience.com/minimal-viable-developer-acing-your-first-month-in-software-8273663edb38?source=rss-------8-----------------data_science)
+- [Integrating Google Maps API using Python and JavaScript](https://towardsdatascience.com/integrating-google-maps-api-using-python-and-javascript-149fdba27b99?source=rss-------8-----------------data_science)
+- [Using Bollinger Bands to Trade Cryptocurrency with Python](https://towardsdatascience.com/using-bollinger-bands-to-trade-cryptocurrency-with-python-f9decfab8476?source=rss-------8-----------------data_science)
+- [Why Is Data Governance Broken?](https://towardsdatascience.com/why-is-data-governance-broken-5a9c0275120b?source=rss-------8-----------------data_science)
+- [Kaggle Competition — Finding Donors for a Charity with an AUC of 0.94](https://towardsdatascience.com/kaggle-competition-finding-donors-for-a-charity-with-an-auc-of-0-94-491202a77638?source=rss-------8-----------------data_science)
+- [A Practical Introduction to Grid Search, Random Search, and Bayes Search](https://towardsdatascience.com/a-practical-introduction-to-grid-search-random-search-and-bayes-search-d5580b1d941d?source=rss-------8-----------------data_science)
+- [Anatomy of Modern Data Platform](https://hnandrey.medium.com/anatomy-of-modern-data-platform-ce1a06f1eadd?source=rss-------8-----------------data_science)
+- [Course Review: Data Analysis with Python](https://tracyrenee61.medium.com/course-review-data-analysis-with-python-c2d02cb59ea5?source=rss-------8-----------------data_science)
+- [Factor Investing with Python #3 Single Period Factor Backtesting](https://medium.com/analytics-vidhya/factor-investing-with-python-3-single-period-factor-backtesting-bd428882ac69?source=rss-------8-----------------data_science)
+- [Topic Model Based Recommendation Systems](https://towardsdatascience.com/topic-model-based-recommendation-systems-a02d198408b7?source=rss-------8-----------------data_science)
+- [Hyperparameter Tuning Methods — Grid, Random or Bayesian Search?](https://towardsdatascience.com/bayesian-optimization-for-hyperparameter-tuning-how-and-why-655b0ee0b399?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
