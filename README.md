@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Integrating Google Maps API using Python and JavaScript](https://towardsdatascience.com/integrating-google-maps-api-using-python-and-javascript-149fdba27b99?source=rss-------8-----------------data_science)
-- [Using Bollinger Bands to Trade Cryptocurrency with Python](https://towardsdatascience.com/using-bollinger-bands-to-trade-cryptocurrency-with-python-f9decfab8476?source=rss-------8-----------------data_science)
-- [Why Is Data Governance Broken?](https://towardsdatascience.com/why-is-data-governance-broken-5a9c0275120b?source=rss-------8-----------------data_science)
-- [Kaggle Competition — Finding Donors for a Charity with an AUC of 0.94](https://towardsdatascience.com/kaggle-competition-finding-donors-for-a-charity-with-an-auc-of-0-94-491202a77638?source=rss-------8-----------------data_science)
-- [A Practical Introduction to Grid Search, Random Search, and Bayes Search](https://towardsdatascience.com/a-practical-introduction-to-grid-search-random-search-and-bayes-search-d5580b1d941d?source=rss-------8-----------------data_science)
-- [Anatomy of Modern Data Platform](https://hnandrey.medium.com/anatomy-of-modern-data-platform-ce1a06f1eadd?source=rss-------8-----------------data_science)
-- [Course Review: Data Analysis with Python](https://tracyrenee61.medium.com/course-review-data-analysis-with-python-c2d02cb59ea5?source=rss-------8-----------------data_science)
-- [Factor Investing with Python #3 Single Period Factor Backtesting](https://medium.com/analytics-vidhya/factor-investing-with-python-3-single-period-factor-backtesting-bd428882ac69?source=rss-------8-----------------data_science)
-- [Topic Model Based Recommendation Systems](https://towardsdatascience.com/topic-model-based-recommendation-systems-a02d198408b7?source=rss-------8-----------------data_science)
-- [Hyperparameter Tuning Methods — Grid, Random or Bayesian Search?](https://towardsdatascience.com/bayesian-optimization-for-hyperparameter-tuning-how-and-why-655b0ee0b399?source=rss-------8-----------------data_science)
+- [Interview Questions — DAX in Power BI — Part 2](https://medium.com/analytics-vidhya/interview-questions-dax-in-power-bi-part-2-b5e489e0dc5e?source=rss-------8-----------------data_science)
+- [SLOPE: Numerical Differentiation of Tabular Functions](https://medium.com/@excel1star/slope-numerical-differentiation-of-tabular-functions-dc5440f6d5d1?source=rss-------8-----------------data_science)
+- [Patterns of Men’s Wearhouse Foot Traffic During the COVID-19 Pandemic](https://medium.com/@mattdawidowicz/patterns-of-mens-wearhouse-foot-traffic-during-the-covid-19-pandemic-6da3f4ce64fd?source=rss-------8-----------------data_science)
+- [Leveraging Palantir Foundry to Monitor Genetic Mutations of COVID-19](https://blog.palantir.com/leveraging-palantir-foundry-to-monitor-genetic-mutations-of-covid-19-56a2392d26d2?source=rss-------8-----------------data_science)
+- [All About Big Data](https://miketechgame.medium.com/all-about-big-data-ae01afacc081?source=rss-------8-----------------data_science)
+- [DagsHub → Github for Data Science](https://pub.towardsai.net/dagshub-github-for-data-science-92e77adbc9a3?source=rss-------8-----------------data_science)
+- [X’s and O’s, Angles and Games: NFL Football Yardage Estimations Based on Camera Angle](https://medium.com/university-of-florida-college-of-journalism-and/xs-and-o-s-angles-and-games-nfl-football-yardage-estimations-based-on-camera-angle-f39984e01c1b?source=rss-------8-----------------data_science)
+- [Data Science Application Will Help Detect Cataracts in Rural Populations](https://medium.com/berkeleyischool/data-science-application-will-help-detect-cataracts-in-rural-populations-ccd3976d6a32?source=rss-------8-----------------data_science)
+- [Summer 2021 Remote Software Engineering Internship at Google — Google Cloud Platform](https://wjbjimmy.medium.com/summer-2021-remote-software-engineering-internship-at-google-google-cloud-platform-b291acface81?source=rss-------8-----------------data_science)
+- [Improving Data Science Processes to Speed Innovation at Realtor.com](https://medium.com/realtor-com-tech-blog/improving-data-science-processes-to-speed-innovation-at-realtor-com-b6b90fa530dc?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
