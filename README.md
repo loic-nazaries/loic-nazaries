@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [6 Lesser-Known Pandas Aggregate Functions](https://towardsdatascience.com/6-lesser-known-pandas-aggregate-functions-c9831b366f21?source=rss-2cf6b549448------2)
 - [15 Must-Know Python String Methods](https://towardsdatascience.com/15-must-know-python-string-methods-64a4f554941b?source=rss-2cf6b549448------2)
 - [Python Parse Library: Simple Way For Reversing F-strings](https://towardsdatascience.com/python-parse-library-simple-way-for-reversing-f-strings-72ad4d59e7c4?source=rss-2cf6b549448------2)
 - [10 Highly Probable Data Scientist Interview Questions](https://towardsdatascience.com/10-highly-probable-data-scientist-interview-questions-fd83f7414760?source=rss-2cf6b549448------2)
 - [SQL Views With PostgreSQL](https://towardsdatascience.com/sql-views-with-postgresql-493ba7aa0934?source=rss-2cf6b549448------2)
-- [What Does It Really Mean to Learn Data Science?](https://towardsdatascience.com/what-does-it-really-mean-to-learn-data-science-6a419cc3e699?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
