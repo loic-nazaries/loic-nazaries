@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Interview Questions — DAX in Power BI — Part 2](https://medium.com/analytics-vidhya/interview-questions-dax-in-power-bi-part-2-b5e489e0dc5e?source=rss-------8-----------------data_science)
-- [SLOPE: Numerical Differentiation of Tabular Functions](https://medium.com/@excel1star/slope-numerical-differentiation-of-tabular-functions-dc5440f6d5d1?source=rss-------8-----------------data_science)
-- [Patterns of Men’s Wearhouse Foot Traffic During the COVID-19 Pandemic](https://medium.com/@mattdawidowicz/patterns-of-mens-wearhouse-foot-traffic-during-the-covid-19-pandemic-6da3f4ce64fd?source=rss-------8-----------------data_science)
-- [Leveraging Palantir Foundry to Monitor Genetic Mutations of COVID-19](https://blog.palantir.com/leveraging-palantir-foundry-to-monitor-genetic-mutations-of-covid-19-56a2392d26d2?source=rss-------8-----------------data_science)
-- [All About Big Data](https://miketechgame.medium.com/all-about-big-data-ae01afacc081?source=rss-------8-----------------data_science)
-- [DagsHub → Github for Data Science](https://pub.towardsai.net/dagshub-github-for-data-science-92e77adbc9a3?source=rss-------8-----------------data_science)
-- [X’s and O’s, Angles and Games: NFL Football Yardage Estimations Based on Camera Angle](https://medium.com/university-of-florida-college-of-journalism-and/xs-and-o-s-angles-and-games-nfl-football-yardage-estimations-based-on-camera-angle-f39984e01c1b?source=rss-------8-----------------data_science)
-- [Data Science Application Will Help Detect Cataracts in Rural Populations](https://medium.com/berkeleyischool/data-science-application-will-help-detect-cataracts-in-rural-populations-ccd3976d6a32?source=rss-------8-----------------data_science)
-- [Summer 2021 Remote Software Engineering Internship at Google — Google Cloud Platform](https://wjbjimmy.medium.com/summer-2021-remote-software-engineering-internship-at-google-google-cloud-platform-b291acface81?source=rss-------8-----------------data_science)
-- [Improving Data Science Processes to Speed Innovation at Realtor.com](https://medium.com/realtor-com-tech-blog/improving-data-science-processes-to-speed-innovation-at-realtor-com-b6b90fa530dc?source=rss-------8-----------------data_science)
+- [How to Explore Data Science if You Are Currently Studying Something Else](https://towardsdatascience.com/how-to-explore-data-science-if-you-are-currently-studying-something-else-83b8a2db1482?source=rss-------8-----------------data_science)
+- [PixelCNN’s Blind Spot](https://towardsdatascience.com/pixelcnns-blind-spot-84e19a3797b9?source=rss-------8-----------------data_science)
+- [Reviewing the TensorFlow Decision Forests library](https://towardsdatascience.com/reviewing-the-tensorflow-decision-forests-library-1ecf50ae00c3?source=rss-------8-----------------data_science)
+- [6 Lesser-Known Pandas Aggregate Functions](https://towardsdatascience.com/6-lesser-known-pandas-aggregate-functions-c9831b366f21?source=rss-------8-----------------data_science)
+- [Histograms](https://k3no.medium.com/histograms-1c855159631f?source=rss-------8-----------------data_science)
+- [How to Work with Million-row Datasets Like a Pro](https://towardsdatascience.com/how-to-work-with-million-row-datasets-like-a-pro-76fb5c381cdd?source=rss-------8-----------------data_science)
+- [Kedro — A Python Framework for Reproducible Data Science Project](https://towardsdatascience.com/kedro-a-python-framework-for-reproducible-data-science-project-4d44977d4f04?source=rss-------8-----------------data_science)
+- [5 Awesome NumPy Functions That Can Save You in a Pinch](https://towardsdatascience.com/5-awesome-numpy-functions-that-can-save-you-in-a-pinch-ba349af5ac47?source=rss-------8-----------------data_science)
+- [V2: What Makes a Great Data Analyst?](https://towardsdatascience.com/v2-what-makes-a-great-data-analyst-bded5e71ec68?source=rss-------8-----------------data_science)
+- [The Beginner’s Guide to Acing SQL Interviews for Data Scientists](https://towardsdatascience.com/the-beginners-guide-to-acing-sql-interviews-for-data-scientists-30317d6692ec?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
