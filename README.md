@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Explore Data Science if You Are Currently Studying Something Else](https://towardsdatascience.com/how-to-explore-data-science-if-you-are-currently-studying-something-else-83b8a2db1482?source=rss-------8-----------------data_science)
-- [PixelCNN’s Blind Spot](https://towardsdatascience.com/pixelcnns-blind-spot-84e19a3797b9?source=rss-------8-----------------data_science)
-- [Reviewing the TensorFlow Decision Forests library](https://towardsdatascience.com/reviewing-the-tensorflow-decision-forests-library-1ecf50ae00c3?source=rss-------8-----------------data_science)
-- [6 Lesser-Known Pandas Aggregate Functions](https://towardsdatascience.com/6-lesser-known-pandas-aggregate-functions-c9831b366f21?source=rss-------8-----------------data_science)
-- [Histograms](https://k3no.medium.com/histograms-1c855159631f?source=rss-------8-----------------data_science)
-- [How to Work with Million-row Datasets Like a Pro](https://towardsdatascience.com/how-to-work-with-million-row-datasets-like-a-pro-76fb5c381cdd?source=rss-------8-----------------data_science)
-- [Kedro — A Python Framework for Reproducible Data Science Project](https://towardsdatascience.com/kedro-a-python-framework-for-reproducible-data-science-project-4d44977d4f04?source=rss-------8-----------------data_science)
-- [5 Awesome NumPy Functions That Can Save You in a Pinch](https://towardsdatascience.com/5-awesome-numpy-functions-that-can-save-you-in-a-pinch-ba349af5ac47?source=rss-------8-----------------data_science)
-- [V2: What Makes a Great Data Analyst?](https://towardsdatascience.com/v2-what-makes-a-great-data-analyst-bded5e71ec68?source=rss-------8-----------------data_science)
-- [The Beginner’s Guide to Acing SQL Interviews for Data Scientists](https://towardsdatascience.com/the-beginners-guide-to-acing-sql-interviews-for-data-scientists-30317d6692ec?source=rss-------8-----------------data_science)
+- [Datacast Episode 71: Trusted AI with Saishruthi Swaminathan](https://data-notes.co/datacast-episode-71-trusted-ai-with-saishruthi-swaminathan-b8093d745fb7?source=rss-------8-----------------data_science)
+- [Data Analysis](https://pub.towardsai.net/data-analysis-dba30ff5bd71?source=rss-------8-----------------data_science)
+- [On Distributed Data Science](https://towardsdatascience.com/on-distributed-data-science-65b5f2a3d37f?source=rss-------8-----------------data_science)
+- [Handling Plot Axis Spines in Python](https://towardsdatascience.com/handling-plot-axis-spines-in-python-f143b8554da2?source=rss-------8-----------------data_science)
+- [6 Common Metrics For Your Next Regression Project](https://towardsdatascience.com/6-common-metrics-for-your-next-regression-project-4667cbc534a7?source=rss-------8-----------------data_science)
+- [4 steps for building a data-driven organization](https://medium.com/codex/4-ways-to-build-a-data-driven-organization-84fde84f1821?source=rss-------8-----------------data_science)
+- [Different Ways To Count Unique Values In R](https://towardsdatascience.com/different-ways-to-count-unique-values-in-r-ec9fe521f4d5?source=rss-------8-----------------data_science)
+- [The Future of Decision-Making in AI](https://towardsdatascience.com/the-future-of-decision-making-in-ai-17576cdb6e66?source=rss-------8-----------------data_science)
+- [The Two Most Important Software That Top Data Scientists Must Know](https://towardsdatascience.com/the-two-most-important-software-that-top-data-scientists-must-know-37ba059c9aa1?source=rss-------8-----------------data_science)
+- [Atomic Neural Networks, the Future of Computing, Quantum Processes and Consciousness — an in-depth…](https://towardsdatascience.com/atomic-neural-networks-the-future-of-computing-quantum-processes-and-consciousness-an-in-depth-9d40be276376?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
