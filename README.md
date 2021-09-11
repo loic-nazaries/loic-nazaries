@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Datacast Episode 71: Trusted AI with Saishruthi Swaminathan](https://data-notes.co/datacast-episode-71-trusted-ai-with-saishruthi-swaminathan-b8093d745fb7?source=rss-------8-----------------data_science)
-- [Data Analysis](https://pub.towardsai.net/data-analysis-dba30ff5bd71?source=rss-------8-----------------data_science)
-- [On Distributed Data Science](https://towardsdatascience.com/on-distributed-data-science-65b5f2a3d37f?source=rss-------8-----------------data_science)
-- [Handling Plot Axis Spines in Python](https://towardsdatascience.com/handling-plot-axis-spines-in-python-f143b8554da2?source=rss-------8-----------------data_science)
-- [6 Common Metrics For Your Next Regression Project](https://towardsdatascience.com/6-common-metrics-for-your-next-regression-project-4667cbc534a7?source=rss-------8-----------------data_science)
-- [4 steps for building a data-driven organization](https://medium.com/codex/4-ways-to-build-a-data-driven-organization-84fde84f1821?source=rss-------8-----------------data_science)
-- [Different Ways To Count Unique Values In R](https://towardsdatascience.com/different-ways-to-count-unique-values-in-r-ec9fe521f4d5?source=rss-------8-----------------data_science)
-- [The Future of Decision-Making in AI](https://towardsdatascience.com/the-future-of-decision-making-in-ai-17576cdb6e66?source=rss-------8-----------------data_science)
-- [The Two Most Important Software That Top Data Scientists Must Know](https://towardsdatascience.com/the-two-most-important-software-that-top-data-scientists-must-know-37ba059c9aa1?source=rss-------8-----------------data_science)
-- [Atomic Neural Networks, the Future of Computing, Quantum Processes and Consciousness — an in-depth…](https://towardsdatascience.com/atomic-neural-networks-the-future-of-computing-quantum-processes-and-consciousness-an-in-depth-9d40be276376?source=rss-------8-----------------data_science)
+- [Why the C-Suite Needs to be Data Aware](https://sapientdigital.medium.com/why-the-c-suite-needs-to-be-data-aware-92f027376bb?source=rss-------8-----------------data_science)
+- [How to Interpret Models: PDP and ICE](https://towardsdatascience.com/how-to-interpret-models-pdp-and-ice-eabed0062e2c?source=rss-------8-----------------data_science)
+- [The ideal DataOps org structure](https://medium.com/databand-ai/the-ideal-dataops-org-structure-9b4b203834b4?source=rss-------8-----------------data_science)
+- [Create and Delete Dropdown Lists in Google Sheets using Data Validation](https://aryanirani123.medium.com/create-and-delete-dropdown-lists-in-google-sheets-using-data-validation-867fec5d7e96?source=rss-------8-----------------data_science)
+- [How to Create a Radar Chart in Python](https://towardsdatascience.com/how-to-create-a-radar-chart-in-python-36b9ebaa7a64?source=rss-------8-----------------data_science)
+- [Waterfall Charts with Plotly](https://towardsdatascience.com/waterfall-charts-with-plotly-43822918e9eb?source=rss-------8-----------------data_science)
+- [Start managing your models’ lifecycles better](https://towardsdatascience.com/start-managing-your-models-lifecycles-better-307729fe6fe5?source=rss-------8-----------------data_science)
+- [Stay updated with Neuroscience: August 2021 Must-Reads](https://towardsdatascience.com/stay-updated-with-neuroscience-august-2021-must-reads-3d0c3615a064?source=rss-------8-----------------data_science)
+- [Creating Python Virtual Environments](https://towardsdatascience.com/creating-python-virtual-environments-f7bc4cbbd328?source=rss-------8-----------------data_science)
+- [Are Ultra Beasts Legendary? Data Visualization using Seaborn](https://medium.com/@jsw.tan1991/are-ultra-beasts-legendary-data-visualization-using-seaborn-702f3c91d03f?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
