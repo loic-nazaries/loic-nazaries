@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why the C-Suite Needs to be Data Aware](https://sapientdigital.medium.com/why-the-c-suite-needs-to-be-data-aware-92f027376bb?source=rss-------8-----------------data_science)
-- [How to Interpret Models: PDP and ICE](https://towardsdatascience.com/how-to-interpret-models-pdp-and-ice-eabed0062e2c?source=rss-------8-----------------data_science)
-- [The ideal DataOps org structure](https://medium.com/databand-ai/the-ideal-dataops-org-structure-9b4b203834b4?source=rss-------8-----------------data_science)
-- [Create and Delete Dropdown Lists in Google Sheets using Data Validation](https://aryanirani123.medium.com/create-and-delete-dropdown-lists-in-google-sheets-using-data-validation-867fec5d7e96?source=rss-------8-----------------data_science)
-- [How to Create a Radar Chart in Python](https://towardsdatascience.com/how-to-create-a-radar-chart-in-python-36b9ebaa7a64?source=rss-------8-----------------data_science)
-- [Waterfall Charts with Plotly](https://towardsdatascience.com/waterfall-charts-with-plotly-43822918e9eb?source=rss-------8-----------------data_science)
-- [Start managing your models’ lifecycles better](https://towardsdatascience.com/start-managing-your-models-lifecycles-better-307729fe6fe5?source=rss-------8-----------------data_science)
-- [Stay updated with Neuroscience: August 2021 Must-Reads](https://towardsdatascience.com/stay-updated-with-neuroscience-august-2021-must-reads-3d0c3615a064?source=rss-------8-----------------data_science)
-- [Creating Python Virtual Environments](https://towardsdatascience.com/creating-python-virtual-environments-f7bc4cbbd328?source=rss-------8-----------------data_science)
-- [Are Ultra Beasts Legendary? Data Visualization using Seaborn](https://medium.com/@jsw.tan1991/are-ultra-beasts-legendary-data-visualization-using-seaborn-702f3c91d03f?source=rss-------8-----------------data_science)
+- [Data Science Meets Combinatorics](https://medium.com/@kirk.borne/data-science-meets-combinatorics-29738280342e?source=rss-------8-----------------data_science)
+- [The Future of Python Packages is Here](https://medium.com/trymito/the-future-of-python-packages-is-here-ea3769cff692?source=rss-------8-----------------data_science)
+- [7 Examples to Master Line Plots With Python Seaborn](https://towardsdatascience.com/7-examples-to-master-line-plots-with-python-seaborn-42d8aaa383a9?source=rss-------8-----------------data_science)
+- [Genetic Algorithm & Spatio-Temporal Networks: Optimization of Campus Shuttle Bus Schedule Part 1](https://medium.com/@AlisonYuhanYao/genetic-algorithm-spatio-temporal-networks-optimization-of-campus-shuttle-bus-schedule-part-1-e0dc3bcdb30c?source=rss-------8-----------------data_science)
+- [Top 15 Books Every Data Engineer Should Know 2021](https://medium.com/technexthere/top-15-books-every-data-engineer-should-know-d635e91fe3bc?source=rss-------8-----------------data_science)
+- [Feature Selection with Genetic Algorithms](https://towardsdatascience.com/feature-selection-with-genetic-algorithms-7dd7e02dd237?source=rss-------8-----------------data_science)
+- [Data Preprocessing Using Sklearn](https://medium.com/analytics-vidhya/data-preprocessing-using-sklearn-2c6fe013f594?source=rss-------8-----------------data_science)
+- [Data Analysis on Suicide Rates in India](https://medium.com/analytics-vidhya/data-analysis-on-suicide-rates-in-india-be92b0fd1566?source=rss-------8-----------------data_science)
+- [Data Science Series | Getting Started With Orange Tool](https://karanpatel20.medium.com/data-science-series-getting-started-with-orange-tool-1ba74daa41a?source=rss-------8-----------------data_science)
+- [The Coronavirus Visualization Team: Combatting the Infodemic](https://medium.com/coronavirus-visualization-team/the-coronavirus-visualization-team-combatting-the-infodemic-a456d2571592?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
