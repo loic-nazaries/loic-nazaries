@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Science Meets Combinatorics](https://medium.com/@kirk.borne/data-science-meets-combinatorics-29738280342e?source=rss-------8-----------------data_science)
-- [The Future of Python Packages is Here](https://medium.com/trymito/the-future-of-python-packages-is-here-ea3769cff692?source=rss-------8-----------------data_science)
-- [7 Examples to Master Line Plots With Python Seaborn](https://towardsdatascience.com/7-examples-to-master-line-plots-with-python-seaborn-42d8aaa383a9?source=rss-------8-----------------data_science)
-- [Genetic Algorithm & Spatio-Temporal Networks: Optimization of Campus Shuttle Bus Schedule Part 1](https://medium.com/@AlisonYuhanYao/genetic-algorithm-spatio-temporal-networks-optimization-of-campus-shuttle-bus-schedule-part-1-e0dc3bcdb30c?source=rss-------8-----------------data_science)
-- [Top 15 Books Every Data Engineer Should Know 2021](https://medium.com/technexthere/top-15-books-every-data-engineer-should-know-d635e91fe3bc?source=rss-------8-----------------data_science)
-- [Feature Selection with Genetic Algorithms](https://towardsdatascience.com/feature-selection-with-genetic-algorithms-7dd7e02dd237?source=rss-------8-----------------data_science)
-- [Data Preprocessing Using Sklearn](https://medium.com/analytics-vidhya/data-preprocessing-using-sklearn-2c6fe013f594?source=rss-------8-----------------data_science)
-- [Data Analysis on Suicide Rates in India](https://medium.com/analytics-vidhya/data-analysis-on-suicide-rates-in-india-be92b0fd1566?source=rss-------8-----------------data_science)
-- [Data Science Series | Getting Started With Orange Tool](https://karanpatel20.medium.com/data-science-series-getting-started-with-orange-tool-1ba74daa41a?source=rss-------8-----------------data_science)
-- [The Coronavirus Visualization Team: Combatting the Infodemic](https://medium.com/coronavirus-visualization-team/the-coronavirus-visualization-team-combatting-the-infodemic-a456d2571592?source=rss-------8-----------------data_science)
+- [From Graduate School To Becoming A Data Scientist](https://towardsdatascience.com/from-graduate-school-to-becoming-a-data-scientist-513fc15a05bb?source=rss------data_science-5)
+- [AI generated blog posts](https://medium.com/@Vincent.Mueller/ai-generated-blog-posts-3c9179736351?source=rss------data_science-5)
+- [Home Credit Default Risk](https://medium.com/@abdullahkbc/home-credit-default-risk-d88c6cfc7df1?source=rss------data_science-5)
+- [Create Impactive Charts in Simple Steps](https://data-pack.medium.com/create-impactive-charts-in-simple-steps-5f1a0eea9c07?source=rss------data_science-5)
+- [10 Event Marketing Strategies You Should Know About](https://medium.com/@Tech_Breaker/10-event-marketing-strategies-you-should-know-about-da1dc6dcc1a5?source=rss------data_science-5)
+- [Data Science Academy Camp 1: Beginning of the journey](https://medium.com/compfest/data-science-academy-camp-1-beginning-of-the-journey-c30857ae8aba?source=rss------data_science-5)
+- [Data Science Academy Camp 1: Awal Perjalanan Data](https://medium.com/compfest/data-science-academy-camp-1-awal-perjalanan-data-8cd0c9461c49?source=rss------data_science-5)
+- [Artificial Intelligence in Materials Science](https://materialdatascience.medium.com/artificial-intelligence-in-materials-science-4498262e8b17?source=rss------data_science-5)
+- [CHALLENGES](https://materialdatascience.medium.com/challenges-e319e70e70fa?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
