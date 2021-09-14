@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [From Graduate School To Becoming A Data Scientist](https://towardsdatascience.com/from-graduate-school-to-becoming-a-data-scientist-513fc15a05bb?source=rss------data_science-5)
-- [AI generated blog posts](https://medium.com/@Vincent.Mueller/ai-generated-blog-posts-3c9179736351?source=rss------data_science-5)
-- [Home Credit Default Risk](https://medium.com/@abdullahkbc/home-credit-default-risk-d88c6cfc7df1?source=rss------data_science-5)
-- [Create Impactive Charts in Simple Steps](https://data-pack.medium.com/create-impactive-charts-in-simple-steps-5f1a0eea9c07?source=rss------data_science-5)
-- [10 Event Marketing Strategies You Should Know About](https://medium.com/@Tech_Breaker/10-event-marketing-strategies-you-should-know-about-da1dc6dcc1a5?source=rss------data_science-5)
-- [Data Science Academy Camp 1: Beginning of the journey](https://medium.com/compfest/data-science-academy-camp-1-beginning-of-the-journey-c30857ae8aba?source=rss------data_science-5)
-- [Data Science Academy Camp 1: Awal Perjalanan Data](https://medium.com/compfest/data-science-academy-camp-1-awal-perjalanan-data-8cd0c9461c49?source=rss------data_science-5)
-- [Artificial Intelligence in Materials Science](https://materialdatascience.medium.com/artificial-intelligence-in-materials-science-4498262e8b17?source=rss------data_science-5)
-- [CHALLENGES](https://materialdatascience.medium.com/challenges-e319e70e70fa?source=rss------data_science-5)
+- [Qualitative Data Can Provide Context and Meaning to Your Quantitative Data](https://medium.com/@kirk.borne/qualitative-data-can-provide-context-and-meaning-to-your-quantitative-data-55d19b63647c?source=rss-------8-----------------data_science)
+- [Book 4: Everything](https://medium.com/from-the-diaries-of-john-henry/book-4-everything-725f236e3cdb?source=rss-------8-----------------data_science)
+- [Practical Method To Framing Machine Learning Solutions](https://towardsdatascience.com/practical-method-to-framing-machine-learning-solutions-8b36a9d40efb?source=rss-------8-----------------data_science)
+- [How I Created a Machine Learning Model and Deployed it with Streamlit](https://medium.com/gustavorsantos/how-i-created-a-machine-learning-model-and-deployed-it-with-streamlit-a9d887b98b25?source=rss-------8-----------------data_science)
+- [Data Science Project — Marketing Analytics & Data-Driven Solutions](https://towardsdatascience.com/data-science-project-marketing-analytics-data-driven-solutions-72d050084642?source=rss-------8-----------------data_science)
+- [How to carry out a simple time series analysis on financial data using pandas](https://medium.com/geekculture/how-to-carry-out-a-simple-time-series-analysis-on-financial-data-using-pandas-54b1efc339a?source=rss-------8-----------------data_science)
+- [Fibonacci Retracement Stock Trading Strategy Using MACD](https://randerson112358.medium.com/fibonacci-retracement-stock-trading-strategy-using-macd-1b8b20847bf5?source=rss-------8-----------------data_science)
+- [The first nationwide activity-based travel demand model](https://replicahq.medium.com/the-first-nationwide-activity-based-travel-demand-model-31603d29d04d?source=rss-------8-----------------data_science)
+- [What happens when finding the right color for data viz fails?](https://medium.com/counterarts/what-happens-when-finding-the-right-color-for-data-viz-fails-2141e07870e7?source=rss-------8-----------------data_science)
+- [Two Important Common Ways to Plot Maps in Python](https://medium.com/@andreluizcoelho/two-important-common-ways-to-plot-maps-in-python-358132e69b17?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
