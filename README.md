@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Qualitative Data Can Provide Context and Meaning to Your Quantitative Data](https://medium.com/@kirk.borne/qualitative-data-can-provide-context-and-meaning-to-your-quantitative-data-55d19b63647c?source=rss-------8-----------------data_science)
-- [Book 4: Everything](https://medium.com/from-the-diaries-of-john-henry/book-4-everything-725f236e3cdb?source=rss-------8-----------------data_science)
-- [Practical Method To Framing Machine Learning Solutions](https://towardsdatascience.com/practical-method-to-framing-machine-learning-solutions-8b36a9d40efb?source=rss-------8-----------------data_science)
-- [How I Created a Machine Learning Model and Deployed it with Streamlit](https://medium.com/gustavorsantos/how-i-created-a-machine-learning-model-and-deployed-it-with-streamlit-a9d887b98b25?source=rss-------8-----------------data_science)
-- [Data Science Project — Marketing Analytics & Data-Driven Solutions](https://towardsdatascience.com/data-science-project-marketing-analytics-data-driven-solutions-72d050084642?source=rss-------8-----------------data_science)
-- [How to carry out a simple time series analysis on financial data using pandas](https://medium.com/geekculture/how-to-carry-out-a-simple-time-series-analysis-on-financial-data-using-pandas-54b1efc339a?source=rss-------8-----------------data_science)
-- [Fibonacci Retracement Stock Trading Strategy Using MACD](https://randerson112358.medium.com/fibonacci-retracement-stock-trading-strategy-using-macd-1b8b20847bf5?source=rss-------8-----------------data_science)
-- [The first nationwide activity-based travel demand model](https://replicahq.medium.com/the-first-nationwide-activity-based-travel-demand-model-31603d29d04d?source=rss-------8-----------------data_science)
-- [What happens when finding the right color for data viz fails?](https://medium.com/counterarts/what-happens-when-finding-the-right-color-for-data-viz-fails-2141e07870e7?source=rss-------8-----------------data_science)
-- [Two Important Common Ways to Plot Maps in Python](https://medium.com/@andreluizcoelho/two-important-common-ways-to-plot-maps-in-python-358132e69b17?source=rss-------8-----------------data_science)
+- [Working with OpenStreetMap in Python](https://levelup.gitconnected.com/working-with-openstreetmap-in-python-c49396d98ad4?source=rss-------8-----------------data_science)
+- [The Power of Community and Analytics Engineering with Tristan Handy, Founder & CEO of dbt Labs](https://medium.com/hashmapinc/the-power-of-community-and-analytics-engineering-with-tristan-handy-co-founder-ceo-of-dbt-labs-580cbecd7eb1?source=rss-------8-----------------data_science)
+- [Somebody Will Be Last at Medical School: The Case for AI in Healthcare](https://towardsdatascience.com/somebody-will-be-last-at-medical-school-the-case-for-ai-in-healthcare-fe49f5ce6f8f?source=rss-------8-----------------data_science)
+- [Use Python to Stylize the Excel Formatting](https://towardsdatascience.com/use-python-to-stylize-the-excel-formatting-916e00e33302?source=rss-------8-----------------data_science)
+- [How to create fast and accurate scatter plots with lots of data in python](https://towardsdatascience.com/how-to-create-fast-and-accurate-scatter-plots-with-lots-of-data-in-python-a1d3f578e551?source=rss-------8-----------------data_science)
+- [Power BI and Synapse, Part 2: What Synapse brings to a table?](https://towardsdatascience.com/power-bi-and-synapse-part-1-the-art-of-the-im-possible-b561bb8f82ce?source=rss-------8-----------------data_science)
+- [Product Segmentation for Retail with Python](https://towardsdatascience.com/product-segmentation-for-retail-with-python-c85cc0930f9a?source=rss-------8-----------------data_science)
+- [How to Deal with NULL Values in Standard SQL](https://towardsdatascience.com/how-to-deal-with-null-values-in-standard-sql-1bffce0c55cd?source=rss-------8-----------------data_science)
+- [4 Python Libraries that Make It Easier to Work with Large Datasets](https://towardsdatascience.com/4-python-libraries-that-ease-working-with-large-dataset-8e91632b8791?source=rss-------8-----------------data_science)
+- [Migrating from AWS Glue to BigQuery for ETL](https://towardsdatascience.com/migrating-from-aws-glue-to-bigquery-for-etl-ac12980f2036?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
