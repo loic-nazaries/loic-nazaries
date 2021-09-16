@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Working with OpenStreetMap in Python](https://levelup.gitconnected.com/working-with-openstreetmap-in-python-c49396d98ad4?source=rss-------8-----------------data_science)
-- [The Power of Community and Analytics Engineering with Tristan Handy, Founder & CEO of dbt Labs](https://medium.com/hashmapinc/the-power-of-community-and-analytics-engineering-with-tristan-handy-co-founder-ceo-of-dbt-labs-580cbecd7eb1?source=rss-------8-----------------data_science)
-- [Somebody Will Be Last at Medical School: The Case for AI in Healthcare](https://towardsdatascience.com/somebody-will-be-last-at-medical-school-the-case-for-ai-in-healthcare-fe49f5ce6f8f?source=rss-------8-----------------data_science)
-- [Use Python to Stylize the Excel Formatting](https://towardsdatascience.com/use-python-to-stylize-the-excel-formatting-916e00e33302?source=rss-------8-----------------data_science)
-- [How to create fast and accurate scatter plots with lots of data in python](https://towardsdatascience.com/how-to-create-fast-and-accurate-scatter-plots-with-lots-of-data-in-python-a1d3f578e551?source=rss-------8-----------------data_science)
-- [Power BI and Synapse, Part 2: What Synapse brings to a table?](https://towardsdatascience.com/power-bi-and-synapse-part-1-the-art-of-the-im-possible-b561bb8f82ce?source=rss-------8-----------------data_science)
-- [Product Segmentation for Retail with Python](https://towardsdatascience.com/product-segmentation-for-retail-with-python-c85cc0930f9a?source=rss-------8-----------------data_science)
-- [How to Deal with NULL Values in Standard SQL](https://towardsdatascience.com/how-to-deal-with-null-values-in-standard-sql-1bffce0c55cd?source=rss-------8-----------------data_science)
-- [4 Python Libraries that Make It Easier to Work with Large Datasets](https://towardsdatascience.com/4-python-libraries-that-ease-working-with-large-dataset-8e91632b8791?source=rss-------8-----------------data_science)
-- [Migrating from AWS Glue to BigQuery for ETL](https://towardsdatascience.com/migrating-from-aws-glue-to-bigquery-for-etl-ac12980f2036?source=rss-------8-----------------data_science)
+- [Introduction to Monte Carlo Simulation in Python](https://hhundman.medium.com/monte-carlo-simulation-in-python-d3e21efbd7e6?source=rss------data_science-5)
+- [Exploring the Element of “Games Played” in Winning H2H Fantasy](https://medium.com/nerd-for-tech/exploring-the-element-of-games-played-in-winning-h2h-fantasy-295c34132580?source=rss------data_science-5)
+- [My Data Science Story So far.](https://medium.com/@zonikjj_19963/my-data-science-story-so-far-a9d380780496?source=rss------data_science-5)
+- [Color Choices for Small Rooms — Tips from Natural Born Painters](https://medium.com/@Tech_Breaker/color-choices-for-small-rooms-tips-from-natural-born-painters-84b1c0cd35bf?source=rss------data_science-5)
+- [My Data Science Journey.. the Story so Far](https://medium.com/@chadrichter1/my-data-science-journey-the-story-so-far-4f5ec64e49a9?source=rss------data_science-5)
+- [Q#48: Judging Smiles](https://medium.com/foundational-data-science-interview-questions/q-48-judging-smiles-db4337004b40?source=rss------data_science-5)
+- [Segna Newsletter — 16 September 2021](https://medium.com/@segna/segna-newsletter-16-september-2021-a49910bbe2d?source=rss------data_science-5)
+- [(Review & Summary) : Overview](https://youssef-ak.medium.com/review-summary-overview-6af246ec2eb?source=rss------data_science-5)
+- [When Big Data Goes Local, Small Data Gets Big](https://medium.com/@kirk.borne/when-big-data-goes-local-small-data-gets-big-c1b5095b6123?source=rss------data_science-5)
+- [Top 6 programming languages with the highest salaries](https://preettheman.medium.com/top-6-programming-languages-with-the-highest-salaries-1ba7edfeeaa9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
