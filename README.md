@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Introduction to Monte Carlo Simulation in Python](https://hhundman.medium.com/monte-carlo-simulation-in-python-d3e21efbd7e6?source=rss------data_science-5)
-- [Exploring the Element of “Games Played” in Winning H2H Fantasy](https://medium.com/nerd-for-tech/exploring-the-element-of-games-played-in-winning-h2h-fantasy-295c34132580?source=rss------data_science-5)
-- [My Data Science Story So far.](https://medium.com/@zonikjj_19963/my-data-science-story-so-far-a9d380780496?source=rss------data_science-5)
-- [Color Choices for Small Rooms — Tips from Natural Born Painters](https://medium.com/@Tech_Breaker/color-choices-for-small-rooms-tips-from-natural-born-painters-84b1c0cd35bf?source=rss------data_science-5)
-- [My Data Science Journey.. the Story so Far](https://medium.com/@chadrichter1/my-data-science-journey-the-story-so-far-4f5ec64e49a9?source=rss------data_science-5)
-- [Q#48: Judging Smiles](https://medium.com/foundational-data-science-interview-questions/q-48-judging-smiles-db4337004b40?source=rss------data_science-5)
-- [Segna Newsletter — 16 September 2021](https://medium.com/@segna/segna-newsletter-16-september-2021-a49910bbe2d?source=rss------data_science-5)
-- [(Review & Summary) : Overview](https://youssef-ak.medium.com/review-summary-overview-6af246ec2eb?source=rss------data_science-5)
-- [When Big Data Goes Local, Small Data Gets Big](https://medium.com/@kirk.borne/when-big-data-goes-local-small-data-gets-big-c1b5095b6123?source=rss------data_science-5)
-- [Top 6 programming languages with the highest salaries](https://preettheman.medium.com/top-6-programming-languages-with-the-highest-salaries-1ba7edfeeaa9?source=rss------data_science-5)
+- [Which evaluation metric should you choose for evaluating your Classification and Regression models?](https://medium.com/almabetter/which-evaluation-metric-should-you-choose-for-evaluating-your-classification-and-regression-models-1df8237f9a24?source=rss-------8-----------------data_science)
+- [Better Voting Results Through Markov Chains](https://medium.com/@tomasukkonen/better-voting-results-through-markov-chains-d8aa46c79870?source=rss-------8-----------------data_science)
+- [What we can learn from Facebook’s study on emotions](https://towardsdatascience.com/what-we-can-learn-from-facebooks-study-on-emotions-1ec866357c0?source=rss-------8-----------------data_science)
+- [Will You Switch From PyCharm to DataSpell — the Latest Data Science IDE from JetBrains?](https://towardsdatascience.com/will-you-switch-from-pycharm-to-dataspell-the-latest-data-science-ide-from-jetbrains-ab2a0ef70504?source=rss-------8-----------------data_science)
+- [Designing & Implementing An NFL Analytics Tool in R](https://towardsdatascience.com/designing-implementing-an-nfl-analytics-tool-in-r-3532034b7ff2?source=rss-------8-----------------data_science)
+- [Mnist handwritten digit classification using tensorflow](https://milindsoorya.medium.com/mnist-handwritten-digit-classification-using-tensorflow-3232c303443b?source=rss-------8-----------------data_science)
+- [What is Columns Ai?](https://medium.com/swlh/what-is-columns-ai-6222fd5a22cd?source=rss-------8-----------------data_science)
+- [The Confusing Matrix](https://towardsdatascience.com/the-confusing-matrix-71a43778b56a?source=rss-------8-----------------data_science)
+- [Do Paying Users Stay Longer?](https://medium.com/@eszterrr/do-paying-users-stay-longer-86737ead01b1?source=rss-------8-----------------data_science)
+- [Basic Molecular Representation for Machine Learning](https://towardsdatascience.com/basic-molecular-representation-for-machine-learning-b6be52e9ff76?source=rss-------8-----------------data_science)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
