@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Which evaluation metric should you choose for evaluating your Classification and Regression models?](https://medium.com/almabetter/which-evaluation-metric-should-you-choose-for-evaluating-your-classification-and-regression-models-1df8237f9a24?source=rss-------8-----------------data_science)
-- [Better Voting Results Through Markov Chains](https://medium.com/@tomasukkonen/better-voting-results-through-markov-chains-d8aa46c79870?source=rss-------8-----------------data_science)
-- [What we can learn from Facebook’s study on emotions](https://towardsdatascience.com/what-we-can-learn-from-facebooks-study-on-emotions-1ec866357c0?source=rss-------8-----------------data_science)
-- [Will You Switch From PyCharm to DataSpell — the Latest Data Science IDE from JetBrains?](https://towardsdatascience.com/will-you-switch-from-pycharm-to-dataspell-the-latest-data-science-ide-from-jetbrains-ab2a0ef70504?source=rss-------8-----------------data_science)
-- [Designing & Implementing An NFL Analytics Tool in R](https://towardsdatascience.com/designing-implementing-an-nfl-analytics-tool-in-r-3532034b7ff2?source=rss-------8-----------------data_science)
-- [Mnist handwritten digit classification using tensorflow](https://milindsoorya.medium.com/mnist-handwritten-digit-classification-using-tensorflow-3232c303443b?source=rss-------8-----------------data_science)
-- [What is Columns Ai?](https://medium.com/swlh/what-is-columns-ai-6222fd5a22cd?source=rss-------8-----------------data_science)
-- [The Confusing Matrix](https://towardsdatascience.com/the-confusing-matrix-71a43778b56a?source=rss-------8-----------------data_science)
-- [Do Paying Users Stay Longer?](https://medium.com/@eszterrr/do-paying-users-stay-longer-86737ead01b1?source=rss-------8-----------------data_science)
-- [Basic Molecular Representation for Machine Learning](https://towardsdatascience.com/basic-molecular-representation-for-machine-learning-b6be52e9ff76?source=rss-------8-----------------data_science)
+- [Azure Tips Weekly Issue #1 —Azure Security Monitoring Tools, Data Storage, Dynamic Data Masking…](https://jiadong-chen.medium.com/azure-tips-weekly-issue-1-azure-security-monitoring-tools-data-storage-dynamic-data-masking-252cb3951e4b?source=rss------data_science-5)
+- [Hypothesis Testing Simplified](https://medium.com/@swetaprabha/hypothesis-testing-simplified-76d87101a0cd?source=rss------data_science-5)
+- [Why Data Scientists should learn Software Engineering](https://preettheman.medium.com/why-data-scientists-should-learn-software-engineering-e72999356ab0?source=rss------data_science-5)
+- [My Journey to Data Science](https://wescodes.medium.com/my-journey-to-data-science-f67c49ba1f44?source=rss------data_science-5)
+- [Q#49: Replacing bad data with Pandas](https://medium.com/foundational-data-science-interview-questions/q-49-replacing-bad-data-with-pandas-9cdeb9736067?source=rss------data_science-5)
+- [如何在电商数据分析中做Customer Segmentation客户细分？](https://dataapplab.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8%E7%94%B5%E5%95%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%AD%E5%81%9Acustomer-segmentation%E5%AE%A2%E6%88%B7%E7%BB%86%E5%88%86-1dad876b58c6?source=rss------data_science-5)
+- [5 ways to make money while learning to code](https://preettheman.medium.com/5-ways-to-make-money-while-learning-to-code-f56e17bbc28b?source=rss------data_science-5)
+- [The Third Gender. The End of Civilation.](https://medium.com/@contactjones.s/the-third-gender-the-end-of-civilation-76018ee9e781?source=rss------data_science-5)
+- [Using Natural Language Processing to visualise Uncertainty in News Content](https://medium.com/@afiqhatta.ah/exploring-policy-uncertainty-in-malaysia-from-the-eyes-of-a-physicist-6bb09ed6399b?source=rss------data_science-5)
+- [Extracting Insights from Data — Starbucks Promotional Dataset](https://medium.com/@r.parekh90/extracting-insights-from-data-starbucks-promotional-dataset-6282ccad98ec?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
