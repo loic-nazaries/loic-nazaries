@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Azure Tips Weekly Issue #1 —Azure Security Monitoring Tools, Data Storage, Dynamic Data Masking…](https://jiadong-chen.medium.com/azure-tips-weekly-issue-1-azure-security-monitoring-tools-data-storage-dynamic-data-masking-252cb3951e4b?source=rss------data_science-5)
-- [Hypothesis Testing Simplified](https://medium.com/@swetaprabha/hypothesis-testing-simplified-76d87101a0cd?source=rss------data_science-5)
-- [Why Data Scientists should learn Software Engineering](https://preettheman.medium.com/why-data-scientists-should-learn-software-engineering-e72999356ab0?source=rss------data_science-5)
-- [My Journey to Data Science](https://wescodes.medium.com/my-journey-to-data-science-f67c49ba1f44?source=rss------data_science-5)
-- [Q#49: Replacing bad data with Pandas](https://medium.com/foundational-data-science-interview-questions/q-49-replacing-bad-data-with-pandas-9cdeb9736067?source=rss------data_science-5)
-- [如何在电商数据分析中做Customer Segmentation客户细分？](https://dataapplab.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8%E7%94%B5%E5%95%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%AD%E5%81%9Acustomer-segmentation%E5%AE%A2%E6%88%B7%E7%BB%86%E5%88%86-1dad876b58c6?source=rss------data_science-5)
-- [5 ways to make money while learning to code](https://preettheman.medium.com/5-ways-to-make-money-while-learning-to-code-f56e17bbc28b?source=rss------data_science-5)
-- [The Third Gender. The End of Civilation.](https://medium.com/@contactjones.s/the-third-gender-the-end-of-civilation-76018ee9e781?source=rss------data_science-5)
-- [Using Natural Language Processing to visualise Uncertainty in News Content](https://medium.com/@afiqhatta.ah/exploring-policy-uncertainty-in-malaysia-from-the-eyes-of-a-physicist-6bb09ed6399b?source=rss------data_science-5)
-- [Extracting Insights from Data — Starbucks Promotional Dataset](https://medium.com/@r.parekh90/extracting-insights-from-data-starbucks-promotional-dataset-6282ccad98ec?source=rss------data_science-5)
+- [Análise de Dados do Airbnb | Rio de Janeiro](https://medium.com/analytics-vidhya/an%C3%A1lise-de-dados-do-airbnb-rio-de-janeiro-7b050d3f21ec?source=rss------data_science-5)
+- [Introduction to MLOps for Data Science](https://pub.towardsai.net/introduction-to-mlops-for-data-science-e2ca5a759f68?source=rss------data_science-5)
+- [5 tips for getting your first Data Science job in the US](https://tipco.medium.com/5-tips-for-getting-your-first-data-science-job-in-the-us-2fbf4f22ae99?source=rss------data_science-5)
+- [EM Algorithm](https://genecompute.medium.com/em-algorithm-965286c54251?source=rss------data_science-5)
+- [How this Immigrant from Africa became a Data Scientist @  IBM with No Experience — 5 tips for…](https://tipco.medium.com/how-this-immigrant-from-africa-became-a-data-scientist-ibm-with-no-experience-5-tips-for-bf0c416c6dc7?source=rss------data_science-5)
+- [Writing Challenge 1 article biweekly. Inspiration Topics, Methods . Conclusions](https://omeradelez.medium.com/writing-challenge-1-article-biweekly-inspiration-topics-methods-conclusions-47c1ad954dc?source=rss------data_science-5)
+- [VLOOKUP implementation in Python in three simple steps](https://towardsdatascience.com/vlookup-implementation-in-python-in-three-simple-steps-93b5a290fd72?source=rss------data_science-5)
+- [10 Essential Tips to Avoid Programming Burnout](https://towardsdatascience.com/10-essential-tips-to-avoid-programming-burnout-2eb6cb3b38f?source=rss------data_science-5)
+- [5 Tips For Styling Airbnbs And Attracting Guests](https://medium.com/@Tech_Breaker/5-tips-for-styling-airbnbs-and-attracting-guests-380407319c27?source=rss------data_science-5)
+- [Data Scientist Toolkit — Introduction to SQL](https://towardsdatascience.com/data-scientist-toolkit-introduction-to-sql-f45521990493?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
