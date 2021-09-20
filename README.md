@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Análise de Dados do Airbnb | Rio de Janeiro](https://medium.com/analytics-vidhya/an%C3%A1lise-de-dados-do-airbnb-rio-de-janeiro-7b050d3f21ec?source=rss------data_science-5)
-- [Introduction to MLOps for Data Science](https://pub.towardsai.net/introduction-to-mlops-for-data-science-e2ca5a759f68?source=rss------data_science-5)
-- [5 tips for getting your first Data Science job in the US](https://tipco.medium.com/5-tips-for-getting-your-first-data-science-job-in-the-us-2fbf4f22ae99?source=rss------data_science-5)
-- [EM Algorithm](https://genecompute.medium.com/em-algorithm-965286c54251?source=rss------data_science-5)
-- [How this Immigrant from Africa became a Data Scientist @  IBM with No Experience — 5 tips for…](https://tipco.medium.com/how-this-immigrant-from-africa-became-a-data-scientist-ibm-with-no-experience-5-tips-for-bf0c416c6dc7?source=rss------data_science-5)
-- [Writing Challenge 1 article biweekly. Inspiration Topics, Methods . Conclusions](https://omeradelez.medium.com/writing-challenge-1-article-biweekly-inspiration-topics-methods-conclusions-47c1ad954dc?source=rss------data_science-5)
-- [VLOOKUP implementation in Python in three simple steps](https://towardsdatascience.com/vlookup-implementation-in-python-in-three-simple-steps-93b5a290fd72?source=rss------data_science-5)
-- [10 Essential Tips to Avoid Programming Burnout](https://towardsdatascience.com/10-essential-tips-to-avoid-programming-burnout-2eb6cb3b38f?source=rss------data_science-5)
-- [5 Tips For Styling Airbnbs And Attracting Guests](https://medium.com/@Tech_Breaker/5-tips-for-styling-airbnbs-and-attracting-guests-380407319c27?source=rss------data_science-5)
-- [Data Scientist Toolkit — Introduction to SQL](https://towardsdatascience.com/data-scientist-toolkit-introduction-to-sql-f45521990493?source=rss------data_science-5)
+- [So, You Want To Build A Pipeline?](https://medium.com/@jess.markowitz/so-you-want-to-build-a-pipeline-b16c69bc7902?source=rss------data_science-5)
+- [Amber Heard — Social Network Analysis Shows Thousands of Repeated Text by Bots & Multiple Platforms](https://rescuetech.medium.com/amber-heard-social-network-analysis-shows-thousands-of-repeated-text-by-bots-multiple-platforms-21850a46f06d?source=rss------data_science-5)
+- [Chi-Square Test Examples with R](https://pub.towardsai.net/chi-square-test-examples-with-r-da05dc90b76e?source=rss------data_science-5)
+- [Amber Heard — Social Network Analysis Shows Thousands of Repeated Text by Bots & Multiple Platforms](https://heromotivators.medium.com/amber-heard-social-network-analysis-shows-thousands-of-repeated-text-by-bots-multiple-platforms-859d73a8c1d7?source=rss------data_science-5)
+- [A City Is a City — Against the metaphorization of data](https://everestpipkin.medium.com/a-city-is-a-city-against-the-metaphorization-of-data-2139be087a71?source=rss------data_science-5)
+- [Choosing the Ideal Learning Rate](https://anya-iyer.medium.com/choosing-the-ideal-learning-rate-601cc0048497?source=rss------data_science-5)
+- [How to start programming to get into a data job](https://medium.com/@btl.phdcoaching/how-to-start-programming-to-get-into-a-data-job-d182092d9313?source=rss------data_science-5)
+- [Understanding decision trees (CART)](https://medium.com/@patrick.stewart/understanding-decision-trees-cart-84eb415e3f52?source=rss------data_science-5)
+- [Blast com Biopython e SQLite](https://medium.com/@lspalmeira/blast-com-biopython-e-sqlite-5e873092538b?source=rss------data_science-5)
+- [9 Reasons Why You Should Start Using Python Dataclasses](https://towardsdatascience.com/9-reasons-why-you-should-start-using-python-dataclasses-98271adadc66?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
