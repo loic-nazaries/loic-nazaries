@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [So, You Want To Build A Pipeline?](https://medium.com/@jess.markowitz/so-you-want-to-build-a-pipeline-b16c69bc7902?source=rss------data_science-5)
-- [Amber Heard — Social Network Analysis Shows Thousands of Repeated Text by Bots & Multiple Platforms](https://rescuetech.medium.com/amber-heard-social-network-analysis-shows-thousands-of-repeated-text-by-bots-multiple-platforms-21850a46f06d?source=rss------data_science-5)
-- [Chi-Square Test Examples with R](https://pub.towardsai.net/chi-square-test-examples-with-r-da05dc90b76e?source=rss------data_science-5)
-- [Amber Heard — Social Network Analysis Shows Thousands of Repeated Text by Bots & Multiple Platforms](https://heromotivators.medium.com/amber-heard-social-network-analysis-shows-thousands-of-repeated-text-by-bots-multiple-platforms-859d73a8c1d7?source=rss------data_science-5)
-- [A City Is a City — Against the metaphorization of data](https://everestpipkin.medium.com/a-city-is-a-city-against-the-metaphorization-of-data-2139be087a71?source=rss------data_science-5)
-- [Choosing the Ideal Learning Rate](https://anya-iyer.medium.com/choosing-the-ideal-learning-rate-601cc0048497?source=rss------data_science-5)
-- [How to start programming to get into a data job](https://medium.com/@btl.phdcoaching/how-to-start-programming-to-get-into-a-data-job-d182092d9313?source=rss------data_science-5)
-- [Understanding decision trees (CART)](https://medium.com/@patrick.stewart/understanding-decision-trees-cart-84eb415e3f52?source=rss------data_science-5)
-- [Blast com Biopython e SQLite](https://medium.com/@lspalmeira/blast-com-biopython-e-sqlite-5e873092538b?source=rss------data_science-5)
-- [9 Reasons Why You Should Start Using Python Dataclasses](https://towardsdatascience.com/9-reasons-why-you-should-start-using-python-dataclasses-98271adadc66?source=rss------data_science-5)
+- [Data Driven vs Gut Driven](https://mapoteca.medium.com/data-driven-vs-gut-driven-45574b7a22d7?source=rss------data_science-5)
+- [Top 25 Python Online coding exercise sites for beginner and advanced](https://medium.com/technexthere/top-25-python-online-coding-exercise-sites-for-beginner-and-advanced-7fd3963b9a03?source=rss------data_science-5)
+- [How To Build A Data Science Project From Scratch](https://medium.com/techfitlab/how-to-build-a-data-science-project-from-scratch-1f9900b2cc3a?source=rss------data_science-5)
+- [How I Used Python And Pandas To Clean Scrambled Data](https://medium.com/@austinwolff/how-i-used-python-and-pandas-to-clean-scrambled-data-ebfa289804ad?source=rss------data_science-5)
+- [Data science series](https://medium.com/@ichrak.7/data-science-series-ba081491fed4?source=rss------data_science-5)
+- [Best light-weight text editors for coders](https://preettheman.medium.com/best-light-weight-text-editors-for-coders-b59dc3e64787?source=rss------data_science-5)
+- [3 Tips for Starting and Maintaining Your Minecraft Server](https://medium.com/@Tech_Breaker/3-tips-for-starting-and-maintaining-your-minecraft-server-6a1fefd6d5e0?source=rss------data_science-5)
+- [Five Things to Consider for Reinforcement Learning in Business Environments](https://towardsdatascience.com/five-things-to-consider-for-reinforcement-learning-in-business-environments-23647a32f01f?source=rss------data_science-5)
+- [Data Analytics platform to track SaaS Usage & Billing —  Metered Billing](https://medium.com/@sunilskulkarni/data-analytics-platform-to-track-saas-usage-billing-metered-billing-e6f66d89e376?source=rss------data_science-5)
+- [Quick Python projects you can build](https://preettheman.medium.com/quick-python-projects-you-can-build-6a18fa5ced5b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
