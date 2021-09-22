@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Driven vs Gut Driven](https://mapoteca.medium.com/data-driven-vs-gut-driven-45574b7a22d7?source=rss------data_science-5)
-- [Top 25 Python Online coding exercise sites for beginner and advanced](https://medium.com/technexthere/top-25-python-online-coding-exercise-sites-for-beginner-and-advanced-7fd3963b9a03?source=rss------data_science-5)
-- [How To Build A Data Science Project From Scratch](https://medium.com/techfitlab/how-to-build-a-data-science-project-from-scratch-1f9900b2cc3a?source=rss------data_science-5)
-- [How I Used Python And Pandas To Clean Scrambled Data](https://medium.com/@austinwolff/how-i-used-python-and-pandas-to-clean-scrambled-data-ebfa289804ad?source=rss------data_science-5)
-- [Data science series](https://medium.com/@ichrak.7/data-science-series-ba081491fed4?source=rss------data_science-5)
-- [Best light-weight text editors for coders](https://preettheman.medium.com/best-light-weight-text-editors-for-coders-b59dc3e64787?source=rss------data_science-5)
-- [3 Tips for Starting and Maintaining Your Minecraft Server](https://medium.com/@Tech_Breaker/3-tips-for-starting-and-maintaining-your-minecraft-server-6a1fefd6d5e0?source=rss------data_science-5)
-- [Five Things to Consider for Reinforcement Learning in Business Environments](https://towardsdatascience.com/five-things-to-consider-for-reinforcement-learning-in-business-environments-23647a32f01f?source=rss------data_science-5)
-- [Data Analytics platform to track SaaS Usage & Billing —  Metered Billing](https://medium.com/@sunilskulkarni/data-analytics-platform-to-track-saas-usage-billing-metered-billing-e6f66d89e376?source=rss------data_science-5)
-- [Quick Python projects you can build](https://preettheman.medium.com/quick-python-projects-you-can-build-6a18fa5ced5b?source=rss------data_science-5)
+- [Should you do a Udacity Nanodegree?](https://medium.com/@r.parekh90/should-you-do-a-udacity-nanodegree-f4205e18a6b3?source=rss------data_science-5)
+- [How I Calculated the Confidence Interval for the School Bus Arrival](https://medium.com/gustavorsantos/how-i-calculated-the-confidence-interval-for-the-school-bus-arrival-b05c9f64693e?source=rss------data_science-5)
+- [Data Science: um Raio-X para os Gestores. Parte 2/10 — Compreensão do negócio](https://pauloreis-py.medium.com/data-science-um-raio-x-para-os-gestores-parte-2-10-compreens%C3%A3o-do-neg%C3%B3cio-bad16d2567a1?source=rss------data_science-5)
+- [What are Parallel Architectures in HPC?](https://clovertex.medium.com/what-are-parallel-architectures-in-hpc-7bedcc0d4d87?source=rss------data_science-5)
+- [How NASDAQ uses A.I. to detect stock market fraud](https://medium.com/predict/how-nasdaq-uses-a-i-to-detect-stock-market-fraud-12324f7a06e2?source=rss------data_science-5)
+- [Data Science: um Raio-X para os Gestores. Parte 1/10](https://pauloreis-py.medium.com/data-science-um-raio-x-para-os-gestores-parte-1-10-b593b5139460?source=rss------data_science-5)
+- [4 awesome Python cheat sheets](https://preettheman.medium.com/4-awesome-python-cheat-sheets-8c0644b19194?source=rss------data_science-5)
+- [Quantifying our Confidence in Statistical Models — The Confidence Interval](https://www.cantorsparadise.com/quantifying-our-confidence-in-statistical-models-the-confidence-interval-f6fbaf17ab6f?source=rss------data_science-5)
+- [10 Event Marketing Strategies You Should Know About](https://medium.com/@Tech_Breaker/10-event-marketing-strategies-you-should-know-about-281a696be49c?source=rss------data_science-5)
+- [How to use Permutation Tests](https://towardsdatascience.com/how-to-use-permutation-tests-bacc79f45749?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
