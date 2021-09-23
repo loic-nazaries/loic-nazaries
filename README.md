@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Should you do a Udacity Nanodegree?](https://medium.com/@r.parekh90/should-you-do-a-udacity-nanodegree-f4205e18a6b3?source=rss------data_science-5)
-- [How I Calculated the Confidence Interval for the School Bus Arrival](https://medium.com/gustavorsantos/how-i-calculated-the-confidence-interval-for-the-school-bus-arrival-b05c9f64693e?source=rss------data_science-5)
-- [Data Science: um Raio-X para os Gestores. Parte 2/10 — Compreensão do negócio](https://pauloreis-py.medium.com/data-science-um-raio-x-para-os-gestores-parte-2-10-compreens%C3%A3o-do-neg%C3%B3cio-bad16d2567a1?source=rss------data_science-5)
-- [What are Parallel Architectures in HPC?](https://clovertex.medium.com/what-are-parallel-architectures-in-hpc-7bedcc0d4d87?source=rss------data_science-5)
-- [How NASDAQ uses A.I. to detect stock market fraud](https://medium.com/predict/how-nasdaq-uses-a-i-to-detect-stock-market-fraud-12324f7a06e2?source=rss------data_science-5)
-- [Data Science: um Raio-X para os Gestores. Parte 1/10](https://pauloreis-py.medium.com/data-science-um-raio-x-para-os-gestores-parte-1-10-b593b5139460?source=rss------data_science-5)
-- [4 awesome Python cheat sheets](https://preettheman.medium.com/4-awesome-python-cheat-sheets-8c0644b19194?source=rss------data_science-5)
-- [Quantifying our Confidence in Statistical Models — The Confidence Interval](https://www.cantorsparadise.com/quantifying-our-confidence-in-statistical-models-the-confidence-interval-f6fbaf17ab6f?source=rss------data_science-5)
-- [10 Event Marketing Strategies You Should Know About](https://medium.com/@Tech_Breaker/10-event-marketing-strategies-you-should-know-about-281a696be49c?source=rss------data_science-5)
-- [How to use Permutation Tests](https://towardsdatascience.com/how-to-use-permutation-tests-bacc79f45749?source=rss------data_science-5)
+- [The Impact Remediation Framework: Discovering Optimal Intervention Policies to Improve Equity](https://nyudatascience.medium.com/the-impact-remediation-framework-discovering-optimal-intervention-policies-to-improve-equity-dfeea9d03cef?source=rss------data_science-5)
+- [Introduction to Polynomial Regression Analysis](https://ai.plainenglish.io/introduction-to-polynomial-regression-analysis-cd92b07d3891?source=rss------data_science-5)
+- [Web Scraping Movie Data with Beautiful Soup library in python](https://pub.towardsai.net/web-scraping-movie-data-with-beautiful-soup-library-in-python-b51ae9206ea8?source=rss------data_science-5)
+- [IBM advancing Data and AI at Open Source Summit North America](https://medium.com/ibm-data-ai/ibm-advancing-data-and-ai-at-open-source-summit-north-america-6591d2c3a459?source=rss------data_science-5)
+- [The MLOps Playbook: A Simple Set of Best Practices for Ensuring Reliability of ML Systems](https://medium.com/@messidi-mo/the-mlops-playbook-a-simple-set-of-best-practices-for-ensuring-reliability-of-ml-systems-bc53bc84ff07?source=rss------data_science-5)
+- [Formal problems in discursive intentionality](https://joohnchoe.medium.com/formal-problems-in-discursive-intentionality-8d97a5a411dd?source=rss------data_science-5)
+- [Algorithmic pricing, part II: AI and pricing strategy](https://griddynamics.medium.com/algorithmic-pricing-part-ii-ai-and-pricing-strategy-c46fc89af0cf?source=rss------data_science-5)
+- [Segna Newsletter — 23 September 2021](https://medium.com/@segna/segna-newsletter-23-september-2021-88d5e01b51fb?source=rss------data_science-5)
+- [An ML approach to Calculating Expected Value](https://engineering.udacity.com/calculating-expected-value-7f0a273707ea?source=rss------data_science-5)
+- [Customer Segmentation — K-Means clustering](https://medium.com/@Anirudh_Singh_Chauhan/customer-segmentation-k-means-clustering-dd6aadc69dcc?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
