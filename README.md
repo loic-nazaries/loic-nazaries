@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Financial Data is Non-Stationary. What does that mean and what can we do?](https://medium.com/adventures-in-data-science/financial-data-is-non-stationary-what-does-that-mean-and-what-can-we-do-e47860bc784e?source=rss------data_science-5)
-- [Lasso Regression and Elastic Net](https://kinder-chen.medium.com/lasso-regression-and-elastic-net-4367c24c69e4?source=rss------data_science-5)
-- [Does Cocaine Have Any Medical Uses?Medical Uses of Cocaine](https://medium.com/@etrttyre/does-cocaine-have-any-medical-uses-medical-uses-of-cocaine-81aa9e3d6602?source=rss------data_science-5)
-- [Ridge Regression](https://kinder-chen.medium.com/ridge-regression-62b67e773614?source=rss------data_science-5)
-- [How to Start 192 Nodes in Snowflake for just $10](https://medium.com/infostrux-solutions/how-to-start-192-nodes-in-snowflake-for-just-10-486ebe3bad27?source=rss------data_science-5)
-- [Viés e Variância: Como o Erro Impacta os Modelos de Machine Learning](https://medium.com/@tadeucbmad/vi%C3%A9s-e-vari%C3%A2ncia-como-o-erro-impacta-os-modelos-de-machine-learning-58c196244e32?source=rss------data_science-5)
-- [Awesome NumPy tricks every data scientist should know](https://preettheman.medium.com/awesome-numpy-tricks-every-data-scientist-should-know-13c5467190ba?source=rss------data_science-5)
-- [Montecarlo Method applied to approximate Pi with C program language](https://alejandrozamoraesquivel.medium.com/montecarlo-method-applied-to-calculate-pi-with-c-program-language-6a44c2664d1e?source=rss------data_science-5)
-- [If You’re a Data Scientist Trying to Level Up, Go Read Case Studies.](https://medium.com/@thisisanhle1/if-youre-a-data-scientist-trying-to-level-up-go-read-case-studies-61070a237ac5?source=rss------data_science-5)
-- [10 Different Types of a Data Scientist](https://medium.com/@thisisanhle1/10-different-types-of-a-data-scientist-6557a81bc8b4?source=rss------data_science-5)
+- [Best OpenSource AutoML frameworks in 2021](https://medium.com/technexthere/best-opensource-automl-frameworks-in-2021-c2cb58895bbe?source=rss------data_science-5)
+- [TN Guardrail is now on the map! ️](https://safe7y.medium.com/tn-guardrail-is-now-on-the-map-%EF%B8%8F-7e2b0b26f287?source=rss------data_science-5)
+- [Data Accuracy and Validation](https://medium.com/@reporsdetective/data-accuracy-and-validation-ebc0ae1627bf?source=rss------data_science-5)
+- [Can We Use Data To Answer Questions About Our Work Environment?](https://medium.com/@martinez.kaitlyn55/can-we-use-data-to-answer-questions-about-our-work-environment-b688e6303515?source=rss------data_science-5)
+- [4 tools every data scientist should know](https://preettheman.medium.com/4-tools-every-data-scientist-should-know-a9c1013deab1?source=rss------data_science-5)
+- [5 Things You Must Do Now About the Coming EU AI Regulation](https://medium.com/@loriaustex/5-things-you-must-do-now-about-the-coming-eu-ai-regulation-ea34b734851e?source=rss------data_science-5)
+- [The Top 25 Highest-Paying IT Certifications in 2021](https://medium.com/@Tech_Breaker/the-top-25-highest-paying-it-certifications-in-2021-9227a76d5bdc?source=rss------data_science-5)
+- [How to get a job in Data Science in under a year](https://medium.com/@thisisanhle1/how-to-get-a-job-in-data-science-in-under-a-year-d66847d03c6d?source=rss------data_science-5)
+- [Simple Linear Regression (R Tutorial for Data Science)](https://medium.com/@thisisanhle1/simple-linear-regression-r-tutorial-for-data-science-91c98b087a89?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
