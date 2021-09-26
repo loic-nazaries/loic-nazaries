@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Best OpenSource AutoML frameworks in 2021](https://medium.com/technexthere/best-opensource-automl-frameworks-in-2021-c2cb58895bbe?source=rss------data_science-5)
-- [TN Guardrail is now on the map! ️](https://safe7y.medium.com/tn-guardrail-is-now-on-the-map-%EF%B8%8F-7e2b0b26f287?source=rss------data_science-5)
-- [Data Accuracy and Validation](https://medium.com/@reporsdetective/data-accuracy-and-validation-ebc0ae1627bf?source=rss------data_science-5)
-- [Can We Use Data To Answer Questions About Our Work Environment?](https://medium.com/@martinez.kaitlyn55/can-we-use-data-to-answer-questions-about-our-work-environment-b688e6303515?source=rss------data_science-5)
-- [4 tools every data scientist should know](https://preettheman.medium.com/4-tools-every-data-scientist-should-know-a9c1013deab1?source=rss------data_science-5)
-- [5 Things You Must Do Now About the Coming EU AI Regulation](https://medium.com/@loriaustex/5-things-you-must-do-now-about-the-coming-eu-ai-regulation-ea34b734851e?source=rss------data_science-5)
-- [The Top 25 Highest-Paying IT Certifications in 2021](https://medium.com/@Tech_Breaker/the-top-25-highest-paying-it-certifications-in-2021-9227a76d5bdc?source=rss------data_science-5)
-- [How to get a job in Data Science in under a year](https://medium.com/@thisisanhle1/how-to-get-a-job-in-data-science-in-under-a-year-d66847d03c6d?source=rss------data_science-5)
-- [Simple Linear Regression (R Tutorial for Data Science)](https://medium.com/@thisisanhle1/simple-linear-regression-r-tutorial-for-data-science-91c98b087a89?source=rss------data_science-5)
+- [Why you shouldn’t use Julia](https://preettheman.medium.com/why-you-shouldnt-use-julia-46b5ee92a13f?source=rss------data_science-5)
+- [Discord Signal Bot : Automated Trading Signals Through Discord](https://medium.com/@craigmariani47/discord-signal-bot-automated-trading-signals-through-discord-ce501e49349f?source=rss------data_science-5)
+- [How To Choose The Career Path That Fits You](https://medium.com/@oluaganju/how-to-choose-the-career-path-that-fits-you-c66582a78d2?source=rss------data_science-5)
+- [Awesome tricks every R coder should know](https://preettheman.medium.com/awesome-tricks-every-r-coder-should-know-c4220cd2cfbc?source=rss------data_science-5)
+- [Why every data scientist should pay attention to crypto](https://towardsdatascience.com/why-every-data-scientist-should-pay-attention-to-crypto-39b4c25ff319?source=rss------data_science-5)
+- [Classification metrics in a nutshell](https://danilofelipeneto.medium.com/classification-metrics-in-a-nutshell-3b7315b41ea0?source=rss------data_science-5)
+- [5 Things To Learn As A Data Science Foundation In 2021](https://towardsdatascience.com/5-things-to-learn-as-a-data-science-foundation-in-2021-1b22c1098e2?source=rss------data_science-5)
+- [R Basics — Everything You Need to Know to Get Started with R](https://towardsdatascience.com/r-basics-everything-you-need-to-know-to-get-started-with-r-10c8e566d7b3?source=rss------data_science-5)
+- [Introduction to Sentiment Analysis](https://stefbrad15.medium.com/introduction-to-sentiment-analysis-a96724b433e3?source=rss------data_science-5)
+- [Beginner’s Guide to the Digital Health Data Repository (DHDR)](https://medium.com/digital-biomarker-discovery/beginners-guide-to-the-digital-health-data-repository-dhdr-f9d2022344ea?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
