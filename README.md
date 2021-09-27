@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why you shouldn’t use Julia](https://preettheman.medium.com/why-you-shouldnt-use-julia-46b5ee92a13f?source=rss------data_science-5)
-- [Discord Signal Bot : Automated Trading Signals Through Discord](https://medium.com/@craigmariani47/discord-signal-bot-automated-trading-signals-through-discord-ce501e49349f?source=rss------data_science-5)
-- [How To Choose The Career Path That Fits You](https://medium.com/@oluaganju/how-to-choose-the-career-path-that-fits-you-c66582a78d2?source=rss------data_science-5)
-- [Awesome tricks every R coder should know](https://preettheman.medium.com/awesome-tricks-every-r-coder-should-know-c4220cd2cfbc?source=rss------data_science-5)
-- [Why every data scientist should pay attention to crypto](https://towardsdatascience.com/why-every-data-scientist-should-pay-attention-to-crypto-39b4c25ff319?source=rss------data_science-5)
-- [Classification metrics in a nutshell](https://danilofelipeneto.medium.com/classification-metrics-in-a-nutshell-3b7315b41ea0?source=rss------data_science-5)
-- [5 Things To Learn As A Data Science Foundation In 2021](https://towardsdatascience.com/5-things-to-learn-as-a-data-science-foundation-in-2021-1b22c1098e2?source=rss------data_science-5)
-- [R Basics — Everything You Need to Know to Get Started with R](https://towardsdatascience.com/r-basics-everything-you-need-to-know-to-get-started-with-r-10c8e566d7b3?source=rss------data_science-5)
-- [Introduction to Sentiment Analysis](https://stefbrad15.medium.com/introduction-to-sentiment-analysis-a96724b433e3?source=rss------data_science-5)
-- [Beginner’s Guide to the Digital Health Data Repository (DHDR)](https://medium.com/digital-biomarker-discovery/beginners-guide-to-the-digital-health-data-repository-dhdr-f9d2022344ea?source=rss------data_science-5)
+- [SQL: Introduction to Subqueries](https://mkatzenbach8.medium.com/sql-introduction-to-subqueries-b1ce88cbb0d8?source=rss------data_science-5)
+- [Impact Project Spotlight: Generation180 Interactive Data Visualization Site](https://medium.com/joinforge/impact-project-spotlight-generation180-interactive-data-visualization-site-173fe8e05fda?source=rss------data_science-5)
+- [10 tips for surviving your first Data Science job after a transition](https://medium.com/@faraz.rahman41/10-tips-for-surviving-your-first-data-science-job-after-a-transition-8c6b5896ef12?source=rss------data_science-5)
+- [Create a Data Analytics Maturity Model](https://burtadvisor.medium.com/create-a-data-analytics-maturity-model-5b4b6817194f?source=rss------data_science-5)
+- [TECHNOLOGY](https://panspressui.medium.com/technology-8aa3f2acf454?source=rss------data_science-5)
+- [5 Spectacular Features From Julia I Wish Were In Python](https://towardsdatascience.com/5-spectacular-features-from-julia-i-wish-were-in-python-b55d66d25d7b?source=rss------data_science-5)
+- [Multi-Armed Bandits: Thompson Sampling Algorithm](https://towardsdatascience.com/multi-armed-bandits-thompson-sampling-algorithm-fea205cf31df?source=rss------data_science-5)
+- [Developing a Generalized Elo Rating System for Multiplayer Games](https://towardsdatascience.com/developing-a-generalized-elo-rating-system-for-multiplayer-games-b9b495e87802?source=rss------data_science-5)
+- [Extracting Beauty from the World of Data Science](https://medium.com/@tedbrandon/extracting-beauty-from-the-world-of-data-science-de3b985dabb3?source=rss------data_science-5)
+- [What is an Easement?](https://medium.com/@Tech_Breaker/what-is-an-easement-e2508d5e4deb?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
