@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [SQL: Introduction to Subqueries](https://mkatzenbach8.medium.com/sql-introduction-to-subqueries-b1ce88cbb0d8?source=rss------data_science-5)
-- [Impact Project Spotlight: Generation180 Interactive Data Visualization Site](https://medium.com/joinforge/impact-project-spotlight-generation180-interactive-data-visualization-site-173fe8e05fda?source=rss------data_science-5)
-- [10 tips for surviving your first Data Science job after a transition](https://medium.com/@faraz.rahman41/10-tips-for-surviving-your-first-data-science-job-after-a-transition-8c6b5896ef12?source=rss------data_science-5)
-- [Create a Data Analytics Maturity Model](https://burtadvisor.medium.com/create-a-data-analytics-maturity-model-5b4b6817194f?source=rss------data_science-5)
-- [TECHNOLOGY](https://panspressui.medium.com/technology-8aa3f2acf454?source=rss------data_science-5)
-- [5 Spectacular Features From Julia I Wish Were In Python](https://towardsdatascience.com/5-spectacular-features-from-julia-i-wish-were-in-python-b55d66d25d7b?source=rss------data_science-5)
-- [Multi-Armed Bandits: Thompson Sampling Algorithm](https://towardsdatascience.com/multi-armed-bandits-thompson-sampling-algorithm-fea205cf31df?source=rss------data_science-5)
-- [Developing a Generalized Elo Rating System for Multiplayer Games](https://towardsdatascience.com/developing-a-generalized-elo-rating-system-for-multiplayer-games-b9b495e87802?source=rss------data_science-5)
-- [Extracting Beauty from the World of Data Science](https://medium.com/@tedbrandon/extracting-beauty-from-the-world-of-data-science-de3b985dabb3?source=rss------data_science-5)
-- [What is an Easement?](https://medium.com/@Tech_Breaker/what-is-an-easement-e2508d5e4deb?source=rss------data_science-5)
+- [Deep diving statistical distributions with Python for Data Scientists](https://towardsdatascience.com/deep-diving-statistical-distributions-with-python-for-data-scientists-a0a4badc8d1a?source=rss------data_science-5)
+- [Red Fish Recipe](https://medium.com/@Tech_Breaker/red-fish-recipe-365b5efd63f3?source=rss------data_science-5)
+- [Data Visualization in 2021 | An Overview of Dashboarding Technology in the Age of Big Data](https://medium.com/@milan.leonard/data-visualization-in-2021-an-overview-of-dashboarding-technology-in-the-age-of-big-data-79d490beffcf?source=rss------data_science-5)
+- [Analysis of seasons of the main football leagues in Europe using SQL+ Python + Pandas](https://medium.com/@kristianpablo/analysis-of-seasons-of-the-main-football-leagues-in-europe-using-sql-python-pandas-a7870e2d77ce?source=rss------data_science-5)
+- [Save Time and Money Using Parquet and Feather in Python](https://medium.com/codex/save-time-and-money-using-parquet-and-feather-in-python-d5d6c0b93899?source=rss------data_science-5)
+- [Through DWCResources Transform Your Data in Gold mine.](https://medium.com/@sofiane.ali13/through-dwcresources-transform-your-data-in-gold-mine-2d92a31ba241?source=rss------data_science-5)
+- [Data Science Techniques: How to choose which model is better?](https://medium.com/@thisisanhle1/data-science-techniques-how-to-choose-which-model-is-better-29c5473fa1b3?source=rss------data_science-5)
+- [Data Science Techniques: Normal Distribution and Tests for Normality](https://medium.com/@thisisanhle1/data-science-techniques-normal-distribution-and-tests-for-normality-3d97a1aec6e6?source=rss------data_science-5)
+- [Data Science Techniques: What Is Correlation? Rstudio full walkthrough](https://medium.com/@thisisanhle1/data-science-techniques-what-is-correlation-rstudio-full-walkthrough-fa6dd6035261?source=rss------data_science-5)
+- [Bootstrapping — Data Science Technique](https://medium.com/@thisisanhle1/bootstrapping-data-science-technique-5d172c97a7c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
