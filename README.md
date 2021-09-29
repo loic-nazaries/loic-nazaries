@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Deep diving statistical distributions with Python for Data Scientists](https://towardsdatascience.com/deep-diving-statistical-distributions-with-python-for-data-scientists-a0a4badc8d1a?source=rss------data_science-5)
-- [Red Fish Recipe](https://medium.com/@Tech_Breaker/red-fish-recipe-365b5efd63f3?source=rss------data_science-5)
-- [Data Visualization in 2021 | An Overview of Dashboarding Technology in the Age of Big Data](https://medium.com/@milan.leonard/data-visualization-in-2021-an-overview-of-dashboarding-technology-in-the-age-of-big-data-79d490beffcf?source=rss------data_science-5)
-- [Analysis of seasons of the main football leagues in Europe using SQL+ Python + Pandas](https://medium.com/@kristianpablo/analysis-of-seasons-of-the-main-football-leagues-in-europe-using-sql-python-pandas-a7870e2d77ce?source=rss------data_science-5)
-- [Save Time and Money Using Parquet and Feather in Python](https://medium.com/codex/save-time-and-money-using-parquet-and-feather-in-python-d5d6c0b93899?source=rss------data_science-5)
-- [Through DWCResources Transform Your Data in Gold mine.](https://medium.com/@sofiane.ali13/through-dwcresources-transform-your-data-in-gold-mine-2d92a31ba241?source=rss------data_science-5)
-- [Data Science Techniques: How to choose which model is better?](https://medium.com/@thisisanhle1/data-science-techniques-how-to-choose-which-model-is-better-29c5473fa1b3?source=rss------data_science-5)
-- [Data Science Techniques: Normal Distribution and Tests for Normality](https://medium.com/@thisisanhle1/data-science-techniques-normal-distribution-and-tests-for-normality-3d97a1aec6e6?source=rss------data_science-5)
-- [Data Science Techniques: What Is Correlation? Rstudio full walkthrough](https://medium.com/@thisisanhle1/data-science-techniques-what-is-correlation-rstudio-full-walkthrough-fa6dd6035261?source=rss------data_science-5)
-- [Bootstrapping — Data Science Technique](https://medium.com/@thisisanhle1/bootstrapping-data-science-technique-5d172c97a7c?source=rss------data_science-5)
+- [Dimensionality Reduction cheatsheet](https://towardsdatascience.com/dimensionality-reduction-cheatsheet-15060fee3aa?source=rss------data_science-5)
+- [Principal Component Analysis Part 1: The Different Formulations.](https://towardsdatascience.com/principal-component-analysis-part-1-the-different-formulations-6508f63a5553?source=rss------data_science-5)
+- [Mean vs Median vs Mode](https://medium.com/@suryanarayanan035/mean-vs-median-vs-mode-7d0f8fd9e12?source=rss------data_science-5)
+- [Are you using Numpy to read text data files?](https://medium.com/productive-data-science/are-you-using-numpy-to-read-text-data-files-67c28bf1671f?source=rss------data_science-5)
+- [Data Pipeline vs ETL Pipeline: Which is best?](https://medium.com/@oluaganju/data-pipeline-vs-etl-pipeline-which-is-best-7f7f4b13d4a3?source=rss------data_science-5)
+- [Red Fish Recipe](https://medium.com/@Tech_Breaker/red-fish-recipe-af18a0cece01?source=rss------data_science-5)
+- [Learning to Rank — Another use of Machine Learning](https://kazumatsuda.medium.com/learning-to-rank-another-use-of-machine-learning-55fd8b124101?source=rss------data_science-5)
+- [Regresión lineal: haciendo predicciones con Scikit-Learn](https://medium.com/@axlyaguana11/regresi%C3%B3n-lineal-haciendo-predicciones-con-scikit-learn-230d40cea6ab?source=rss------data_science-5)
+- [Resumindo textos com NLP](https://medium.com/@marinaramalhete/resumindo-textos-com-nlp-f9fb50a0e027?source=rss------data_science-5)
+- [Los trabajos mejor pagados para el 2025](https://skillsforindustry.medium.com/los-trabajos-mejor-pagados-para-el-2025-a5114e8dd890?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
