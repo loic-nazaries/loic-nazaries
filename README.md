@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Dimensionality Reduction cheatsheet](https://towardsdatascience.com/dimensionality-reduction-cheatsheet-15060fee3aa?source=rss------data_science-5)
-- [Principal Component Analysis Part 1: The Different Formulations.](https://towardsdatascience.com/principal-component-analysis-part-1-the-different-formulations-6508f63a5553?source=rss------data_science-5)
-- [Mean vs Median vs Mode](https://medium.com/@suryanarayanan035/mean-vs-median-vs-mode-7d0f8fd9e12?source=rss------data_science-5)
-- [Are you using Numpy to read text data files?](https://medium.com/productive-data-science/are-you-using-numpy-to-read-text-data-files-67c28bf1671f?source=rss------data_science-5)
-- [Data Pipeline vs ETL Pipeline: Which is best?](https://medium.com/@oluaganju/data-pipeline-vs-etl-pipeline-which-is-best-7f7f4b13d4a3?source=rss------data_science-5)
-- [Red Fish Recipe](https://medium.com/@Tech_Breaker/red-fish-recipe-af18a0cece01?source=rss------data_science-5)
-- [Learning to Rank — Another use of Machine Learning](https://kazumatsuda.medium.com/learning-to-rank-another-use-of-machine-learning-55fd8b124101?source=rss------data_science-5)
-- [Regresión lineal: haciendo predicciones con Scikit-Learn](https://medium.com/@axlyaguana11/regresi%C3%B3n-lineal-haciendo-predicciones-con-scikit-learn-230d40cea6ab?source=rss------data_science-5)
-- [Resumindo textos com NLP](https://medium.com/@marinaramalhete/resumindo-textos-com-nlp-f9fb50a0e027?source=rss------data_science-5)
-- [Los trabajos mejor pagados para el 2025](https://skillsforindustry.medium.com/los-trabajos-mejor-pagados-para-el-2025-a5114e8dd890?source=rss------data_science-5)
+- [Học Google Analytics](https://medium.com/@hnguyen/h%E1%BB%8Dc-google-analytics-a903725060f7?source=rss------data_science-5)
+- [In-depth Introduction of Analysis of Variance (ANOVA) with R Examples](https://pub.towardsai.net/in-depth-introduction-of-analysis-of-variance-anova-with-r-examples-47c2805d9524?source=rss------data_science-5)
+- [SUMMER TRAVEL WITH LYCYD LYTE BLUETOOTH SUNGLASSES](https://medium.com/@Tech_Breaker/summer-travel-with-lycyd-lyte-bluetooth-sunglasses-1028be13dc28?source=rss------data_science-5)
+- [R Mistakes To Avoid](https://preettheman.medium.com/r-mistakes-to-avoid-8cf2a8b1fd92?source=rss------data_science-5)
+- [How I broke into Data Science from a Non-Traditional Background](https://medium.com/@thisisanhle1/how-i-broke-into-data-science-from-a-non-traditional-background-2fd779b74e09?source=rss------data_science-5)
+- [3 Things to Know Before You Start Using CatBoost](https://medium.com/@alper.engin/3-things-to-know-before-you-start-using-catboost-185624e39806?source=rss------data_science-5)
+- [A common mistake to avoid when working with time series data](https://towardsdatascience.com/a-common-mistake-to-avoid-when-working-with-time-series-data-eedf60a8b4c1?source=rss------data_science-5)
+- [Introduction to K-means](https://abhignya.medium.com/introduction-to-k-means-db886c366eee?source=rss------data_science-5)
+- [My Cybersecurity Machine Learning Research](https://urcuqui.medium.com/my-cybersecurity-machine-learning-research-5573ed203afd?source=rss------data_science-5)
+- [The SuperTrend RSI Confirmation Strategy in Python.](https://kaabar-sofien.medium.com/the-supertrend-rsi-confirmation-strategy-in-python-76dd4889494b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
