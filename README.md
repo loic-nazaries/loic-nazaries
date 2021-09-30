@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [3 Cool Features of Python Altair](https://towardsdatascience.com/3-cool-features-of-python-altair-deb3f432cc11?source=rss-2cf6b549448------2)
 - [4 Python Features that Cause You to Make a Mistake Without Noticing](https://towardsdatascience.com/4-python-features-that-cause-you-to-make-a-mistake-without-noticing-98ef46d873c8?source=rss-2cf6b549448------2)
 - [Analyzing 120 Years of Olympics History with SQL](https://towardsdatascience.com/analyzing-120-years-of-olympics-history-with-sql-11d4daace4d0?source=rss-2cf6b549448------2)
 - [2 Mistakes I Did at My First Job as a Data Scientist](https://towardsdatascience.com/2-mistakes-i-did-at-my-first-job-as-a-data-scientist-df02b03f833e?source=rss-2cf6b549448------2)
 - [3 Motivation Breakers That Aspiring Data Scientists Face](https://towardsdatascience.com/3-motivation-breakers-that-aspiring-data-scientists-face-96f4b97f89f5?source=rss-2cf6b549448------2)
-- [7 Examples to Master Line Plots With Python Seaborn](https://towardsdatascience.com/7-examples-to-master-line-plots-with-python-seaborn-42d8aaa383a9?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
