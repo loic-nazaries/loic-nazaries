@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Học Google Analytics](https://medium.com/@hnguyen/h%E1%BB%8Dc-google-analytics-a903725060f7?source=rss------data_science-5)
-- [In-depth Introduction of Analysis of Variance (ANOVA) with R Examples](https://pub.towardsai.net/in-depth-introduction-of-analysis-of-variance-anova-with-r-examples-47c2805d9524?source=rss------data_science-5)
-- [SUMMER TRAVEL WITH LYCYD LYTE BLUETOOTH SUNGLASSES](https://medium.com/@Tech_Breaker/summer-travel-with-lycyd-lyte-bluetooth-sunglasses-1028be13dc28?source=rss------data_science-5)
-- [R Mistakes To Avoid](https://preettheman.medium.com/r-mistakes-to-avoid-8cf2a8b1fd92?source=rss------data_science-5)
-- [How I broke into Data Science from a Non-Traditional Background](https://medium.com/@thisisanhle1/how-i-broke-into-data-science-from-a-non-traditional-background-2fd779b74e09?source=rss------data_science-5)
-- [3 Things to Know Before You Start Using CatBoost](https://medium.com/@alper.engin/3-things-to-know-before-you-start-using-catboost-185624e39806?source=rss------data_science-5)
-- [A common mistake to avoid when working with time series data](https://towardsdatascience.com/a-common-mistake-to-avoid-when-working-with-time-series-data-eedf60a8b4c1?source=rss------data_science-5)
-- [Introduction to K-means](https://abhignya.medium.com/introduction-to-k-means-db886c366eee?source=rss------data_science-5)
-- [My Cybersecurity Machine Learning Research](https://urcuqui.medium.com/my-cybersecurity-machine-learning-research-5573ed203afd?source=rss------data_science-5)
-- [The SuperTrend RSI Confirmation Strategy in Python.](https://kaabar-sofien.medium.com/the-supertrend-rsi-confirmation-strategy-in-python-76dd4889494b?source=rss------data_science-5)
+- [Fantasy EPL GW6 Recap and GW7 Algo Recommendations](https://medium.datadriveninvestor.com/fantasy-epl-gw6-recap-and-gw7-algo-recommendations-a4103496206a?source=rss------data_science-5)
+- [Fundamentos de la Inteligencia Analítica](https://andurmon.medium.com/fundamentos-de-la-inteligencia-anal%C3%ADtica-c64b2c8554d8?source=rss------data_science-5)
+- [DATASXCIENCE BOOTCAMP](https://medium.com/@dheayosa/datasxcience-bootcamp-befc1dcc1249?source=rss------data_science-5)
+- [Animated Word Cloud: A Novel Way for the Visualization of Word Frequencies](https://petrkorab.medium.com/animated-word-cloud-a-novel-way-for-the-visualization-of-word-frequencies-6505418acbb3?source=rss------data_science-5)
+- [Data Engineering Tutorial with Databricks: Part II](https://medium.com/@alanbernardopalacio/data-engineering-tutorial-with-databricks-part-ii-2f415e906f72?source=rss------data_science-5)
+- [Mengenal Lebih Jauh dengan Data](https://medium.com/@hamii/mengenal-lebih-jauh-dengan-data-4c1a6b2eb86?source=rss------data_science-5)
+- [AKSELERASI EKOSISTEM DIGITAL UNTUK PEMBANGUNAN YANG INKLUSIF](https://medium.com/@dheayosa/akselerasi-ekosistem-digital-untuk-pembangunan-yang-inklusif-6f5a445c2905?source=rss------data_science-5)
+- [Save The Date: Salary Comparison Research For Data Professionals](https://adamrossnelson.medium.com/save-the-date-salary-comparison-research-for-data-professionals-534a7c2aa7d2?source=rss------data_science-5)
+- [How to Spot the Signs of Cockroach Infestation](https://medium.com/@Tech_Breaker/how-to-spot-the-signs-of-cockroach-infestation-1ed8942a611e?source=rss------data_science-5)
+- [How I Got My Articles Featured on TDS](https://towardsdatascience.com/how-i-got-my-articles-featured-on-tds-1606ed7966e6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
