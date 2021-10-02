@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Fantasy EPL GW6 Recap and GW7 Algo Recommendations](https://medium.datadriveninvestor.com/fantasy-epl-gw6-recap-and-gw7-algo-recommendations-a4103496206a?source=rss------data_science-5)
-- [Fundamentos de la Inteligencia Analítica](https://andurmon.medium.com/fundamentos-de-la-inteligencia-anal%C3%ADtica-c64b2c8554d8?source=rss------data_science-5)
-- [DATASXCIENCE BOOTCAMP](https://medium.com/@dheayosa/datasxcience-bootcamp-befc1dcc1249?source=rss------data_science-5)
-- [Animated Word Cloud: A Novel Way for the Visualization of Word Frequencies](https://petrkorab.medium.com/animated-word-cloud-a-novel-way-for-the-visualization-of-word-frequencies-6505418acbb3?source=rss------data_science-5)
-- [Data Engineering Tutorial with Databricks: Part II](https://medium.com/@alanbernardopalacio/data-engineering-tutorial-with-databricks-part-ii-2f415e906f72?source=rss------data_science-5)
-- [Mengenal Lebih Jauh dengan Data](https://medium.com/@hamii/mengenal-lebih-jauh-dengan-data-4c1a6b2eb86?source=rss------data_science-5)
-- [AKSELERASI EKOSISTEM DIGITAL UNTUK PEMBANGUNAN YANG INKLUSIF](https://medium.com/@dheayosa/akselerasi-ekosistem-digital-untuk-pembangunan-yang-inklusif-6f5a445c2905?source=rss------data_science-5)
-- [Save The Date: Salary Comparison Research For Data Professionals](https://adamrossnelson.medium.com/save-the-date-salary-comparison-research-for-data-professionals-534a7c2aa7d2?source=rss------data_science-5)
-- [How to Spot the Signs of Cockroach Infestation](https://medium.com/@Tech_Breaker/how-to-spot-the-signs-of-cockroach-infestation-1ed8942a611e?source=rss------data_science-5)
-- [How I Got My Articles Featured on TDS](https://towardsdatascience.com/how-i-got-my-articles-featured-on-tds-1606ed7966e6?source=rss------data_science-5)
+- [Does Stress Cause Diarrhea? IBS, Stress, and Bowel Movement](https://medium.com/@Tech_Breaker/does-stress-cause-diarrhea-ibs-stress-and-bowel-movement-aaec738956f9?source=rss------data_science-5)
+- [Best Approach of Data Cleaning](https://bideen.medium.com/best-approach-of-data-cleansing-b0f12796a4dd?source=rss------data_science-5)
+- [Amazing Golang packages you need to know about](https://preettheman.medium.com/amazing-golang-packages-you-need-to-know-about-c89c6bccf64b?source=rss------data_science-5)
+- [My first live-coding interview, aka The Humbling](https://stattyspice.medium.com/my-first-live-coding-interview-aka-the-humbling-b3ebb3c56c64?source=rss------data_science-5)
+- [What is a short description of the University Mobile Application software process model?](https://medium.com/@hassanomran/what-is-a-short-description-of-the-university-mobile-application-software-process-model-b9b14220cc88?source=rss------data_science-5)
+- [Gradient Descent](https://medium.com/@ayti.hajiyeva02/gradient-descent-dc8edc1c537?source=rss------data_science-5)
+- [Exploring Ally Financial’s Innovative Data Strategy](https://nel7.medium.com/exploring-ally-financials-innovative-data-strategy-2e084a233033?source=rss------data_science-5)
+- [5 Things I’ve Learned as an Open Source Machine Learning Framework Creator](https://towardsdatascience.com/5-things-ive-learned-as-an-open-source-machine-learning-framework-creator-10ca2a577a55?source=rss------data_science-5)
+- [DataRobot — New Cloud AI offering at an affordable price](https://dawn-moyer.medium.com/datarobot-new-cloud-ai-offering-at-an-affordable-price-cfb8c9dfcfca?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
