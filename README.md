@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Does Stress Cause Diarrhea? IBS, Stress, and Bowel Movement](https://medium.com/@Tech_Breaker/does-stress-cause-diarrhea-ibs-stress-and-bowel-movement-aaec738956f9?source=rss------data_science-5)
-- [Best Approach of Data Cleaning](https://bideen.medium.com/best-approach-of-data-cleansing-b0f12796a4dd?source=rss------data_science-5)
-- [Amazing Golang packages you need to know about](https://preettheman.medium.com/amazing-golang-packages-you-need-to-know-about-c89c6bccf64b?source=rss------data_science-5)
-- [My first live-coding interview, aka The Humbling](https://stattyspice.medium.com/my-first-live-coding-interview-aka-the-humbling-b3ebb3c56c64?source=rss------data_science-5)
-- [What is a short description of the University Mobile Application software process model?](https://medium.com/@hassanomran/what-is-a-short-description-of-the-university-mobile-application-software-process-model-b9b14220cc88?source=rss------data_science-5)
-- [Gradient Descent](https://medium.com/@ayti.hajiyeva02/gradient-descent-dc8edc1c537?source=rss------data_science-5)
-- [Exploring Ally Financial’s Innovative Data Strategy](https://nel7.medium.com/exploring-ally-financials-innovative-data-strategy-2e084a233033?source=rss------data_science-5)
-- [5 Things I’ve Learned as an Open Source Machine Learning Framework Creator](https://towardsdatascience.com/5-things-ive-learned-as-an-open-source-machine-learning-framework-creator-10ca2a577a55?source=rss------data_science-5)
-- [DataRobot — New Cloud AI offering at an affordable price](https://dawn-moyer.medium.com/datarobot-new-cloud-ai-offering-at-an-affordable-price-cfb8c9dfcfca?source=rss------data_science-5)
+- [10 Best Day Trips from Miami, Florida](https://medium.com/@Tech_Breaker/10-best-day-trips-from-miami-florida-6ccfa5c0626f?source=rss------data_science-5)
+- [The Ultimate Pandas Cheat-Sheet](https://medium.com/analytics-vidhya/the-ultimate-pandas-cheat-sheet-73e3528bb870?source=rss------data_science-5)
+- [Class Separation cannot be overlooked in Logistic Regression](https://medium.com/geekculture/class-separation-cannot-be-overlooked-in-logistic-regression-f20e58b203eb?source=rss------data_science-5)
+- [How To Build a Scalable Data Collection System](https://medium.com/@dagmfekadu/how-to-build-a-scalable-data-collection-system-9703a2367735?source=rss------data_science-5)
+- [Build a serverless API with Amazon Lambda and API Gateway](https://towardsdatascience.com/build-a-serverless-api-with-amazon-lambda-and-api-gateway-dfd688510436?source=rss------data_science-5)
+- [5 Tips to Get Your First Data Scientist Job](https://towardsdatascience.com/5-tips-to-get-your-first-data-scientist-job-d8e5afd5a59b?source=rss------data_science-5)
+- [Understanding Variance and Why do we divide by n-1?](https://medium.com/@mohankrishnagupta/understanding-variance-and-why-do-we-divide-by-n-1-58950c0953a4?source=rss------data_science-5)
+- [The Casebook of NO-BALLs in Cricket — Data Science (PART 2)](https://raghuvansh.medium.com/the-casebook-of-no-balls-in-cricket-data-science-part-2-a880e53f5122?source=rss------data_science-5)
+- [Overview of Mathematics Skills for Machine Learning and Deep learning : What You Need to Know?](https://medium.com/@creatrohit9/overview-of-mathematics-skills-for-machine-learning-and-deep-learning-what-you-need-to-know-306623d379b?source=rss------data_science-5)
+- [Aprende ciencia de datos de forma gratuita 2021 4k 1 link mega](https://medium.com/@erwingforerocastro/aprende-ciencia-de-datos-de-forma-gratuita-2021-4k-1-link-mega-7648b34ebf59?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
