@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [10 Best Day Trips from Miami, Florida](https://medium.com/@Tech_Breaker/10-best-day-trips-from-miami-florida-6ccfa5c0626f?source=rss------data_science-5)
-- [The Ultimate Pandas Cheat-Sheet](https://medium.com/analytics-vidhya/the-ultimate-pandas-cheat-sheet-73e3528bb870?source=rss------data_science-5)
-- [Class Separation cannot be overlooked in Logistic Regression](https://medium.com/geekculture/class-separation-cannot-be-overlooked-in-logistic-regression-f20e58b203eb?source=rss------data_science-5)
-- [How To Build a Scalable Data Collection System](https://medium.com/@dagmfekadu/how-to-build-a-scalable-data-collection-system-9703a2367735?source=rss------data_science-5)
-- [Build a serverless API with Amazon Lambda and API Gateway](https://towardsdatascience.com/build-a-serverless-api-with-amazon-lambda-and-api-gateway-dfd688510436?source=rss------data_science-5)
-- [5 Tips to Get Your First Data Scientist Job](https://towardsdatascience.com/5-tips-to-get-your-first-data-scientist-job-d8e5afd5a59b?source=rss------data_science-5)
-- [Understanding Variance and Why do we divide by n-1?](https://medium.com/@mohankrishnagupta/understanding-variance-and-why-do-we-divide-by-n-1-58950c0953a4?source=rss------data_science-5)
-- [The Casebook of NO-BALLs in Cricket — Data Science (PART 2)](https://raghuvansh.medium.com/the-casebook-of-no-balls-in-cricket-data-science-part-2-a880e53f5122?source=rss------data_science-5)
-- [Overview of Mathematics Skills for Machine Learning and Deep learning : What You Need to Know?](https://medium.com/@creatrohit9/overview-of-mathematics-skills-for-machine-learning-and-deep-learning-what-you-need-to-know-306623d379b?source=rss------data_science-5)
-- [Aprende ciencia de datos de forma gratuita 2021 4k 1 link mega](https://medium.com/@erwingforerocastro/aprende-ciencia-de-datos-de-forma-gratuita-2021-4k-1-link-mega-7648b34ebf59?source=rss------data_science-5)
+- [Franchising 2021: Optimism Abounds](https://medium.com/@Tech_Breaker/franchising-2021-optimism-abounds-37d22e00f26e?source=rss------data_science-5)
+- [New York City Restaurant Inspections](https://medium.com/@evanpitigoi/new-york-city-restaurant-inspections-e1ea306da4be?source=rss------data_science-5)
+- [Running Python In Docker Container](https://medium.com/fintechexplained/running-python-in-docker-container-58cda726d574?source=rss------data_science-5)
+- [SQL: Installing MySQL Server and Workbench](https://mkatzenbach8.medium.com/sql-installing-mysql-server-and-workbench-8e73397f05ee?source=rss------data_science-5)
+- [followai — Telegram bot for your AI/data science needs](https://medium.com/swlh/followai-telegram-bot-for-your-ai-data-science-needs-f6fa2777fa82?source=rss------data_science-5)
+- [Exploratory Data Analysis Demystified with FIFA 21(Part 2).](https://pub.towardsai.net/exploratory-data-analysis-demystified-with-fifa-21-part-2-76209caa24d2?source=rss------data_science-5)
+- [Creating a Movie Rating Model Part 1: Data Gathering!](https://towardsdatascience.com/creating-a-movie-rating-model-part-1-data-gathering-944bee6167c0?source=rss------data_science-5)
+- [The NLP Cypher | 10.03.21](https://quantumstat.medium.com/the-nlp-cypher-10-03-21-a697a842a407?source=rss------data_science-5)
+- [Why Web Scraping is Important](https://medium.com/the-brainwave/why-web-scraping-is-important-78882bfd7056?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
