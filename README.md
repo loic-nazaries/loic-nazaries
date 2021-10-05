@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Franchising 2021: Optimism Abounds](https://medium.com/@Tech_Breaker/franchising-2021-optimism-abounds-37d22e00f26e?source=rss------data_science-5)
-- [New York City Restaurant Inspections](https://medium.com/@evanpitigoi/new-york-city-restaurant-inspections-e1ea306da4be?source=rss------data_science-5)
-- [Running Python In Docker Container](https://medium.com/fintechexplained/running-python-in-docker-container-58cda726d574?source=rss------data_science-5)
-- [SQL: Installing MySQL Server and Workbench](https://mkatzenbach8.medium.com/sql-installing-mysql-server-and-workbench-8e73397f05ee?source=rss------data_science-5)
-- [followai — Telegram bot for your AI/data science needs](https://medium.com/swlh/followai-telegram-bot-for-your-ai-data-science-needs-f6fa2777fa82?source=rss------data_science-5)
-- [Exploratory Data Analysis Demystified with FIFA 21(Part 2).](https://pub.towardsai.net/exploratory-data-analysis-demystified-with-fifa-21-part-2-76209caa24d2?source=rss------data_science-5)
-- [Creating a Movie Rating Model Part 1: Data Gathering!](https://towardsdatascience.com/creating-a-movie-rating-model-part-1-data-gathering-944bee6167c0?source=rss------data_science-5)
-- [The NLP Cypher | 10.03.21](https://quantumstat.medium.com/the-nlp-cypher-10-03-21-a697a842a407?source=rss------data_science-5)
-- [Why Web Scraping is Important](https://medium.com/the-brainwave/why-web-scraping-is-important-78882bfd7056?source=rss------data_science-5)
+- [Bank Term Deposit Marketing Strategy with Automatic Machine Learning H2O AutoML](https://baotramduong.medium.com/bank-term-deposit-marketing-strategy-with-automatic-machine-learning-h2o-automl-cfd06fc66e98?source=rss------data_science-5)
+- [Make Your Dashboard Stand Out — 3D Bar Chart](https://pub.towardsai.net/make-your-dashboard-stand-out-3d-bar-chart-e58cba848c0f?source=rss------data_science-5)
+- [Wellness for Data Professionals](https://madison-schott.medium.com/wellness-for-data-professionals-ce83380ce93d?source=rss------data_science-5)
+- [Texter: Introducing a new text analysis library in R](https://kafarusimileoluwa.medium.com/texter-introducing-a-new-text-analysis-library-in-r-482b789e0fdf?source=rss------data_science-5)
+- [Cómo seleccionar el mejor valor de K en K-means](https://medium.com/@nicolasarrioja/c%C3%B3mo-seleccionar-el-mejor-valor-de-k-en-k-means-21121b604365?source=rss------data_science-5)
+- [How Many Underwater Sports Are There?](https://medium.com/@Tech_Breaker/how-many-underwater-sports-are-there-699e4d15460?source=rss------data_science-5)
+- [A Practical Summary of Pandas in 30+ Python Snippets](https://lucas-soares.medium.com/a-practical-summary-of-pandas-in-30-python-snippets-c2d6ce84415e?source=rss------data_science-5)
+- [Understanding Random Forest’s hyperparameters with images](https://gustavorsantos.medium.com/understanding-random-forests-hyperparameters-with-images-9b53fce32cb3?source=rss------data_science-5)
+- [Python Lists Are Overrated](https://towardsdatascience.com/python-lists-are-overrated-776e87cda3e5?source=rss------data_science-5)
+- [The power of Spark in Churn prediction](https://chpolyzo.medium.com/the-power-of-spark-in-churn-prediction-8a83eeb65190?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
