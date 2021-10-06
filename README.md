@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [3 Tricks For Manipulating Pandas Dataframes](https://towardsdatascience.com/3-tricks-for-manipulating-pandas-dataframes-c7933a56b6e0?source=rss-2cf6b549448------2)
 - [Are You Too Late to Start Your Data Science Journey?](https://towardsdatascience.com/are-you-too-late-to-start-your-data-science-journey-acd228f17243?source=rss-2cf6b549448------2)
 - [3 Cool Features of Python Altair](https://towardsdatascience.com/3-cool-features-of-python-altair-deb3f432cc11?source=rss-2cf6b549448------2)
 - [4 Python Features that Cause You to Make a Mistake Without Noticing](https://towardsdatascience.com/4-python-features-that-cause-you-to-make-a-mistake-without-noticing-98ef46d873c8?source=rss-2cf6b549448------2)
 - [Analyzing 120 Years of Olympics History with SQL](https://towardsdatascience.com/analyzing-120-years-of-olympics-history-with-sql-11d4daace4d0?source=rss-2cf6b549448------2)
-- [2 Mistakes I Did at My First Job as a Data Scientist](https://towardsdatascience.com/2-mistakes-i-did-at-my-first-job-as-a-data-scientist-df02b03f833e?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
