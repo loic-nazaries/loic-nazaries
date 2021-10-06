@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Bank Term Deposit Marketing Strategy with Automatic Machine Learning H2O AutoML](https://baotramduong.medium.com/bank-term-deposit-marketing-strategy-with-automatic-machine-learning-h2o-automl-cfd06fc66e98?source=rss------data_science-5)
-- [Make Your Dashboard Stand Out — 3D Bar Chart](https://pub.towardsai.net/make-your-dashboard-stand-out-3d-bar-chart-e58cba848c0f?source=rss------data_science-5)
-- [Wellness for Data Professionals](https://madison-schott.medium.com/wellness-for-data-professionals-ce83380ce93d?source=rss------data_science-5)
-- [Texter: Introducing a new text analysis library in R](https://kafarusimileoluwa.medium.com/texter-introducing-a-new-text-analysis-library-in-r-482b789e0fdf?source=rss------data_science-5)
-- [Cómo seleccionar el mejor valor de K en K-means](https://medium.com/@nicolasarrioja/c%C3%B3mo-seleccionar-el-mejor-valor-de-k-en-k-means-21121b604365?source=rss------data_science-5)
-- [How Many Underwater Sports Are There?](https://medium.com/@Tech_Breaker/how-many-underwater-sports-are-there-699e4d15460?source=rss------data_science-5)
-- [A Practical Summary of Pandas in 30+ Python Snippets](https://lucas-soares.medium.com/a-practical-summary-of-pandas-in-30-python-snippets-c2d6ce84415e?source=rss------data_science-5)
-- [Understanding Random Forest’s hyperparameters with images](https://gustavorsantos.medium.com/understanding-random-forests-hyperparameters-with-images-9b53fce32cb3?source=rss------data_science-5)
-- [Python Lists Are Overrated](https://towardsdatascience.com/python-lists-are-overrated-776e87cda3e5?source=rss------data_science-5)
-- [The power of Spark in Churn prediction](https://chpolyzo.medium.com/the-power-of-spark-in-churn-prediction-8a83eeb65190?source=rss------data_science-5)
+- [Accelerating Our Electric Vehicle Future](https://medium.com/@ninasweeney18/accelerating-our-electric-vehicle-future-12e5dec437ec?source=rss------data_science-5)
+- [Homeowner’s Guide to San Diego ADUs](https://medium.com/@Tech_Breaker/homeowners-guide-to-san-diego-adus-dcfb4101bf9b?source=rss------data_science-5)
+- [Individuals and Businesses are greatly affected by the data-driven decisions.](https://medium.com/@ykatchy/individuals-and-businesses-are-greatly-affected-by-the-data-driven-decisions-862b8a299102?source=rss------data_science-5)
+- [Breast Cancer Gene Detection](https://medium.com/@elias.juliet2/breast-cancer-gene-detection-1b24f20a3483?source=rss------data_science-5)
+- [How to increase your data science income](https://preettheman.medium.com/how-to-increase-your-data-science-income-c2cd0b76bbdb?source=rss------data_science-5)
+- [Crie o seu Portfólio para Data Science](https://brayan-monserrah.medium.com/crie-o-seu-portf%C3%B3lio-para-data-science-8e6525051cb8?source=rss------data_science-5)
+- [DEVCON Global Tech Talks #2: Data Science & AI — Data For Good](https://medium.com/@devconph/devcon-global-tech-talks-2-data-science-ai-data-for-good-df3eeb3b9b38?source=rss------data_science-5)
+- [Adopting Data-centric Machine Learning Projects](https://towardsdatascience.com/adopting-data-centric-machine-learning-projects-75a8aaec8f53?source=rss------data_science-5)
+- [Comecei de fato como Data Scientist (sinto que ta indo, de verdade!)](https://medium.com/@paulo.rsilva8/comecei-de-fato-como-data-scientist-sinto-que-ta-indo-de-verdade-d7bc064a766e?source=rss------data_science-5)
+- [4 awesome features of Python 3.10!](https://preettheman.medium.com/4-awesome-features-of-python-3-10-37f60942b971?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
