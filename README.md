@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Accelerating Our Electric Vehicle Future](https://medium.com/@ninasweeney18/accelerating-our-electric-vehicle-future-12e5dec437ec?source=rss------data_science-5)
-- [Homeowner’s Guide to San Diego ADUs](https://medium.com/@Tech_Breaker/homeowners-guide-to-san-diego-adus-dcfb4101bf9b?source=rss------data_science-5)
-- [Individuals and Businesses are greatly affected by the data-driven decisions.](https://medium.com/@ykatchy/individuals-and-businesses-are-greatly-affected-by-the-data-driven-decisions-862b8a299102?source=rss------data_science-5)
-- [Breast Cancer Gene Detection](https://medium.com/@elias.juliet2/breast-cancer-gene-detection-1b24f20a3483?source=rss------data_science-5)
-- [How to increase your data science income](https://preettheman.medium.com/how-to-increase-your-data-science-income-c2cd0b76bbdb?source=rss------data_science-5)
-- [Crie o seu Portfólio para Data Science](https://brayan-monserrah.medium.com/crie-o-seu-portf%C3%B3lio-para-data-science-8e6525051cb8?source=rss------data_science-5)
-- [DEVCON Global Tech Talks #2: Data Science & AI — Data For Good](https://medium.com/@devconph/devcon-global-tech-talks-2-data-science-ai-data-for-good-df3eeb3b9b38?source=rss------data_science-5)
-- [Adopting Data-centric Machine Learning Projects](https://towardsdatascience.com/adopting-data-centric-machine-learning-projects-75a8aaec8f53?source=rss------data_science-5)
-- [Comecei de fato como Data Scientist (sinto que ta indo, de verdade!)](https://medium.com/@paulo.rsilva8/comecei-de-fato-como-data-scientist-sinto-que-ta-indo-de-verdade-d7bc064a766e?source=rss------data_science-5)
-- [4 awesome features of Python 3.10!](https://preettheman.medium.com/4-awesome-features-of-python-3-10-37f60942b971?source=rss------data_science-5)
+- [7 Reasons to Wear Gloves When Riding a Motorcycle](https://medium.com/@Tech_Breaker/7-reasons-to-wear-gloves-when-riding-a-motorcycle-dbecdffc39a3?source=rss------data_science-5)
+- [Part 2. The Transition Into Tech!](https://medium.com/@kowens117/part-2-the-transition-into-tech-f38e7319e2b0?source=rss------data_science-5)
+- [Filling the Post-Paris Gap](https://medium.com/climate-trace-the-source/filling-the-post-paris-gap-8cd9a1ee3eeb?source=rss------data_science-5)
+- [Generative Adversal Networks in Machine Learning](https://medium.com/appengine-ai/generative-adversal-networks-in-machine-learning-81878c922313?source=rss------data_science-5)
+- [Don’t install Python 3.10 until you read this](https://preettheman.medium.com/dont-install-python-3-10-until-you-read-this-1157fb536885?source=rss------data_science-5)
+- [Aave — Who is getting Aave Rewards?](https://cryptwizards.medium.com/aave-who-is-getting-aave-rewards-41f1f6df5761?source=rss------data_science-5)
+- [You need to see this machine learning project that Microsoft built](https://preettheman.medium.com/you-need-to-see-this-machine-learning-project-that-microsoft-built-3a5c3f09880?source=rss------data_science-5)
+- [Graph Representation Learning on Heterogeneous Graphs](https://towardsdatascience.com/graph-representation-learning-on-heterogeneous-graphs-31a4d8cdf085?source=rss------data_science-5)
+- [Regression Modeling 101: Predicting The Price Of A House At Sale](https://medium.com/@nathanmckinney16/regression-modeling-101-predicting-the-price-of-a-house-at-sale-a5412b59238a?source=rss------data_science-5)
+- [About Me!](https://medium.com/@sydneythtran/about-me-91a512173ac7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
