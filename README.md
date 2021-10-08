@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [7 Reasons to Wear Gloves When Riding a Motorcycle](https://medium.com/@Tech_Breaker/7-reasons-to-wear-gloves-when-riding-a-motorcycle-dbecdffc39a3?source=rss------data_science-5)
-- [Part 2. The Transition Into Tech!](https://medium.com/@kowens117/part-2-the-transition-into-tech-f38e7319e2b0?source=rss------data_science-5)
-- [Filling the Post-Paris Gap](https://medium.com/climate-trace-the-source/filling-the-post-paris-gap-8cd9a1ee3eeb?source=rss------data_science-5)
-- [Generative Adversal Networks in Machine Learning](https://medium.com/appengine-ai/generative-adversal-networks-in-machine-learning-81878c922313?source=rss------data_science-5)
-- [Don’t install Python 3.10 until you read this](https://preettheman.medium.com/dont-install-python-3-10-until-you-read-this-1157fb536885?source=rss------data_science-5)
-- [Aave — Who is getting Aave Rewards?](https://cryptwizards.medium.com/aave-who-is-getting-aave-rewards-41f1f6df5761?source=rss------data_science-5)
-- [You need to see this machine learning project that Microsoft built](https://preettheman.medium.com/you-need-to-see-this-machine-learning-project-that-microsoft-built-3a5c3f09880?source=rss------data_science-5)
-- [Graph Representation Learning on Heterogeneous Graphs](https://towardsdatascience.com/graph-representation-learning-on-heterogeneous-graphs-31a4d8cdf085?source=rss------data_science-5)
-- [Regression Modeling 101: Predicting The Price Of A House At Sale](https://medium.com/@nathanmckinney16/regression-modeling-101-predicting-the-price-of-a-house-at-sale-a5412b59238a?source=rss------data_science-5)
-- [About Me!](https://medium.com/@sydneythtran/about-me-91a512173ac7?source=rss------data_science-5)
+- [Data Science vs. Machine Learning: What’s the Difference?](https://ai.plainenglish.io/data-science-vs-machine-learning-whats-the-difference-955b259e0564?source=rss------data_science-5)
+- [Learning Hacks for Online Data Science Classes](https://pub.towardsai.net/learning-hacks-for-online-data-science-classes-224aa0617048?source=rss------data_science-5)
+- [Thorchain Results](https://pharo.medium.com/thorchain-results-a2cc8948c263?source=rss------data_science-5)
+- [Embracing Overlapping A/B Tests and the Dangers of Isolating Experiments](https://blog.statsig.com/embracing-overlapping-a-b-tests-and-the-danger-of-isolating-experiments-cb0a69e09d3?source=rss------data_science-5)
+- [The God of Israel is both Male and Female](https://medium.com/@Hellohim.nft/the-god-of-israel-is-both-male-and-female-99f13877bde1?source=rss------data_science-5)
+- [A Deep Dive into the Central Limit Theorem](https://medium.com/@holtan.chase/a-deep-dive-into-the-central-limit-theorem-aa25c8b50336?source=rss------data_science-5)
+- [Awesome Python packages you don’t know about](https://preettheman.medium.com/awesome-python-packages-you-dont-know-about-fac70b552e4f?source=rss------data_science-5)
+- [What is AutoML? And why should I use it?](https://towardsdatascience.com/what-is-automl-and-why-should-i-use-it-a635ba6162f5?source=rss------data_science-5)
+- [Common Mistakes That You’ll Want to Avoid When Buying a Piano](https://medium.com/@Tech_Breaker/common-mistakes-that-youll-want-to-avoid-when-buying-a-piano-8de67babd51c?source=rss------data_science-5)
+- [If You Live in Des Plaines and You Need a Fast-House Selling, ASAP Cash Home Buyers Got Your Back](https://medium.com/@Tech_Breaker/if-you-live-in-des-plaines-and-you-need-a-fast-house-selling-asap-cash-home-buyers-got-your-back-f2cd8ff85048?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
