@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Science vs. Machine Learning: What’s the Difference?](https://ai.plainenglish.io/data-science-vs-machine-learning-whats-the-difference-955b259e0564?source=rss------data_science-5)
-- [Learning Hacks for Online Data Science Classes](https://pub.towardsai.net/learning-hacks-for-online-data-science-classes-224aa0617048?source=rss------data_science-5)
-- [Thorchain Results](https://pharo.medium.com/thorchain-results-a2cc8948c263?source=rss------data_science-5)
-- [Embracing Overlapping A/B Tests and the Dangers of Isolating Experiments](https://blog.statsig.com/embracing-overlapping-a-b-tests-and-the-danger-of-isolating-experiments-cb0a69e09d3?source=rss------data_science-5)
-- [The God of Israel is both Male and Female](https://medium.com/@Hellohim.nft/the-god-of-israel-is-both-male-and-female-99f13877bde1?source=rss------data_science-5)
-- [A Deep Dive into the Central Limit Theorem](https://medium.com/@holtan.chase/a-deep-dive-into-the-central-limit-theorem-aa25c8b50336?source=rss------data_science-5)
-- [Awesome Python packages you don’t know about](https://preettheman.medium.com/awesome-python-packages-you-dont-know-about-fac70b552e4f?source=rss------data_science-5)
-- [What is AutoML? And why should I use it?](https://towardsdatascience.com/what-is-automl-and-why-should-i-use-it-a635ba6162f5?source=rss------data_science-5)
-- [Common Mistakes That You’ll Want to Avoid When Buying a Piano](https://medium.com/@Tech_Breaker/common-mistakes-that-youll-want-to-avoid-when-buying-a-piano-8de67babd51c?source=rss------data_science-5)
-- [If You Live in Des Plaines and You Need a Fast-House Selling, ASAP Cash Home Buyers Got Your Back](https://medium.com/@Tech_Breaker/if-you-live-in-des-plaines-and-you-need-a-fast-house-selling-asap-cash-home-buyers-got-your-back-f2cd8ff85048?source=rss------data_science-5)
+- [Top Free Machine Learning Online Courses](https://medium.com/@supiya2012/top-free-machine-learning-online-courses-c4dd67990cf7?source=rss------data_science-5)
+- [Quantum Supremacy vs Quantum Advantage](https://medium.com/@christine_ingenii/quantum-supremacy-vs-quantum-advantage-caf77c451975?source=rss------data_science-5)
+- [EXPLORE HERE- TYPES of DATA ANALYSIS](https://medium.com/@ankitsharma_63501/explore-here-types-of-data-analysis-5e47f120f56d?source=rss------data_science-5)
+- [6 Types of AI Bias Everyone Should Know](https://pub.towardsai.net/6-types-of-ai-bias-everyone-should-know-e72b2259cb1a?source=rss------data_science-5)
+- [D24_Youtube Analytics API 教學 — 多維度分析 A+B](https://medium.com/@juck30808/d24-youtube-analytics-api-%E6%95%99%E5%AD%B8-%E5%A4%9A%E7%B6%AD%E5%BA%A6%E5%88%86%E6%9E%90-a-b-52c00233c9?source=rss------data_science-5)
+- [Making a News Aggregator Using Natural Language Processing(NLP)](https://jordanbtansay.medium.com/making-a-news-aggregator-using-natural-language-processing-nlp-5b42f6dc7e1b?source=rss------data_science-5)
+- [What is Hardie Board Siding?](https://medium.com/@Tech_Breaker/what-is-hardie-board-siding-867e0786f43f?source=rss------data_science-5)
+- [SPOTTING FAKE EMPLOYEES ON PAYROLL](https://medium.com/@Tech_Breaker/spotting-fake-employees-on-payroll-f0f87ff1c2ae?source=rss------data_science-5)
+- [How to use Google Translator from Python](https://gustavorsantos.medium.com/how-to-use-google-translator-from-python-38ed831ceb0d?source=rss------data_science-5)
+- [Forward & Backward Propagation](https://kinder-chen.medium.com/forward-backward-propagation-69ee3d2f9271?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
