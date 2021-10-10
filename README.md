@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Top Free Machine Learning Online Courses](https://medium.com/@supiya2012/top-free-machine-learning-online-courses-c4dd67990cf7?source=rss------data_science-5)
-- [Quantum Supremacy vs Quantum Advantage](https://medium.com/@christine_ingenii/quantum-supremacy-vs-quantum-advantage-caf77c451975?source=rss------data_science-5)
-- [EXPLORE HERE- TYPES of DATA ANALYSIS](https://medium.com/@ankitsharma_63501/explore-here-types-of-data-analysis-5e47f120f56d?source=rss------data_science-5)
-- [6 Types of AI Bias Everyone Should Know](https://pub.towardsai.net/6-types-of-ai-bias-everyone-should-know-e72b2259cb1a?source=rss------data_science-5)
-- [D24_Youtube Analytics API 教學 — 多維度分析 A+B](https://medium.com/@juck30808/d24-youtube-analytics-api-%E6%95%99%E5%AD%B8-%E5%A4%9A%E7%B6%AD%E5%BA%A6%E5%88%86%E6%9E%90-a-b-52c00233c9?source=rss------data_science-5)
-- [Making a News Aggregator Using Natural Language Processing(NLP)](https://jordanbtansay.medium.com/making-a-news-aggregator-using-natural-language-processing-nlp-5b42f6dc7e1b?source=rss------data_science-5)
-- [What is Hardie Board Siding?](https://medium.com/@Tech_Breaker/what-is-hardie-board-siding-867e0786f43f?source=rss------data_science-5)
-- [SPOTTING FAKE EMPLOYEES ON PAYROLL](https://medium.com/@Tech_Breaker/spotting-fake-employees-on-payroll-f0f87ff1c2ae?source=rss------data_science-5)
-- [How to use Google Translator from Python](https://gustavorsantos.medium.com/how-to-use-google-translator-from-python-38ed831ceb0d?source=rss------data_science-5)
-- [Forward & Backward Propagation](https://kinder-chen.medium.com/forward-backward-propagation-69ee3d2f9271?source=rss------data_science-5)
+- [Girls chats](https://medium.com/@elaachabe/girls-chats-d89328d672c0?source=rss------data_science-5)
+- [Analysis of Bodyweight in Grower-Finisher Pigs using Mixed Models, Splines, and Bootstrapping in R](https://medium.com/@marc.jacobs012/analysis-of-bodyweight-in-grower-finisher-pigs-using-mixed-models-splines-and-bootstrapping-in-r-4a997a04f77d?source=rss------data_science-5)
+- [Capitalism is, like, extremely wasteful](https://jerome-li.medium.com/capitalism-is-like-extremely-wasteful-17044b12a039?source=rss------data_science-5)
+- [Capacity Optimization in Freight Trains with Real Data](https://towardsdatascience.com/capacity-optimization-in-freight-trains-with-real-data-d21296e2b56?source=rss------data_science-5)
+- [What actually “Statistically Significant” means and why it’s important for digital marketing?](https://medium.com/@Amirgiano/what-actually-statistically-significant-means-and-why-its-important-for-digital-marketing-707ea6266944?source=rss------data_science-5)
+- [Understanding the Role of an Electrical Contractor and When You Need One](https://medium.com/@Tech_Breaker/understanding-the-role-of-an-electrical-contractor-and-when-you-need-one-ec426c680d92?source=rss------data_science-5)
+- [5 Pitfalls To Avoid in Big Data Analysis](https://medium.com/@leinacast/5-pitfalls-to-avoid-in-big-data-analysis-b3db5e7f665a?source=rss------data_science-5)
+- [Project: Real estate market analysis](https://medium.com/@felipehuman/project-real-estate-market-analysis-f0dddbb604b9?source=rss------data_science-5)
+- [Easy data mapping using AirMap](https://towardsdatascience.com/easy-data-mapping-using-airmap-e9a1a5663b97?source=rss------data_science-5)
+- [Machine Learning Predicts How Much Exercise You Need](https://medium.com/limit-1/machine-learning-predicts-how-much-exercise-you-need-11721604ef4a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
