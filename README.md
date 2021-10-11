@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Girls chats](https://medium.com/@elaachabe/girls-chats-d89328d672c0?source=rss------data_science-5)
-- [Analysis of Bodyweight in Grower-Finisher Pigs using Mixed Models, Splines, and Bootstrapping in R](https://medium.com/@marc.jacobs012/analysis-of-bodyweight-in-grower-finisher-pigs-using-mixed-models-splines-and-bootstrapping-in-r-4a997a04f77d?source=rss------data_science-5)
-- [Capitalism is, like, extremely wasteful](https://jerome-li.medium.com/capitalism-is-like-extremely-wasteful-17044b12a039?source=rss------data_science-5)
-- [Capacity Optimization in Freight Trains with Real Data](https://towardsdatascience.com/capacity-optimization-in-freight-trains-with-real-data-d21296e2b56?source=rss------data_science-5)
-- [What actually “Statistically Significant” means and why it’s important for digital marketing?](https://medium.com/@Amirgiano/what-actually-statistically-significant-means-and-why-its-important-for-digital-marketing-707ea6266944?source=rss------data_science-5)
-- [Understanding the Role of an Electrical Contractor and When You Need One](https://medium.com/@Tech_Breaker/understanding-the-role-of-an-electrical-contractor-and-when-you-need-one-ec426c680d92?source=rss------data_science-5)
-- [5 Pitfalls To Avoid in Big Data Analysis](https://medium.com/@leinacast/5-pitfalls-to-avoid-in-big-data-analysis-b3db5e7f665a?source=rss------data_science-5)
-- [Project: Real estate market analysis](https://medium.com/@felipehuman/project-real-estate-market-analysis-f0dddbb604b9?source=rss------data_science-5)
-- [Easy data mapping using AirMap](https://towardsdatascience.com/easy-data-mapping-using-airmap-e9a1a5663b97?source=rss------data_science-5)
-- [Machine Learning Predicts How Much Exercise You Need](https://medium.com/limit-1/machine-learning-predicts-how-much-exercise-you-need-11721604ef4a?source=rss------data_science-5)
+- [Git for Beginners — part 1](https://omassoft123.medium.com/git-for-beginners-part-1-b00f6ba786c9?source=rss------data_science-5)
+- [Everybody wants to be the source of truth](https://medium.com/agileinsider/everybody-wants-to-be-the-source-of-truth-1d7f5d3bee?source=rss------data_science-5)
+- [WYLD Club London](https://medium.com/@Tech_Breaker/wyld-club-london-cdcf0b362704?source=rss------data_science-5)
+- [RNNs  for Natural Language Processing](https://medium.com/@matthewkramer_20144/rnns-for-natural-language-processing-d7242e6e0842?source=rss------data_science-5)
+- [Python Interview Guide](https://tecinterviewhlp.medium.com/python-interview-guide-ffe99a4ba6b1?source=rss------data_science-5)
+- [Design A Dynamic Data Dashboard with Tableau](https://towardsdatascience.com/design-a-dynamic-data-dashboard-with-tableau-e78cb91af212?source=rss------data_science-5)
+- [Most Popular YouTube Channels for Data Science and Deep Learning](https://amr-khalil.medium.com/most-popular-youtube-channels-for-data-science-and-deep-learning-d6af44141aa7?source=rss------data_science-5)
+- [The Dangers of Dumb AI](https://mattyberad.medium.com/the-dangers-of-dumb-ai-cb23bfe276ac?source=rss------data_science-5)
+- [Retrieving all request headers in Shiny web applications](https://marian-caikovski.medium.com/retrieving-all-request-headers-in-shiny-web-applications-dc07b79c4a7f?source=rss------data_science-5)
+- [These are all of the algorithms for Python](https://preettheman.medium.com/these-are-all-of-the-algorithms-for-python-9b8fb21394cb?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
