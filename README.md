@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Git for Beginners — part 1](https://omassoft123.medium.com/git-for-beginners-part-1-b00f6ba786c9?source=rss------data_science-5)
-- [Everybody wants to be the source of truth](https://medium.com/agileinsider/everybody-wants-to-be-the-source-of-truth-1d7f5d3bee?source=rss------data_science-5)
-- [WYLD Club London](https://medium.com/@Tech_Breaker/wyld-club-london-cdcf0b362704?source=rss------data_science-5)
-- [RNNs  for Natural Language Processing](https://medium.com/@matthewkramer_20144/rnns-for-natural-language-processing-d7242e6e0842?source=rss------data_science-5)
-- [Python Interview Guide](https://tecinterviewhlp.medium.com/python-interview-guide-ffe99a4ba6b1?source=rss------data_science-5)
-- [Design A Dynamic Data Dashboard with Tableau](https://towardsdatascience.com/design-a-dynamic-data-dashboard-with-tableau-e78cb91af212?source=rss------data_science-5)
-- [Most Popular YouTube Channels for Data Science and Deep Learning](https://amr-khalil.medium.com/most-popular-youtube-channels-for-data-science-and-deep-learning-d6af44141aa7?source=rss------data_science-5)
-- [The Dangers of Dumb AI](https://mattyberad.medium.com/the-dangers-of-dumb-ai-cb23bfe276ac?source=rss------data_science-5)
-- [Retrieving all request headers in Shiny web applications](https://marian-caikovski.medium.com/retrieving-all-request-headers-in-shiny-web-applications-dc07b79c4a7f?source=rss------data_science-5)
-- [These are all of the algorithms for Python](https://preettheman.medium.com/these-are-all-of-the-algorithms-for-python-9b8fb21394cb?source=rss------data_science-5)
+- [Supervised Machine Learning: Classification — Boosting and Stacking](https://medium.com/the-quant-journey/supervised-machine-learning-classification-boosting-and-stacking-e23e77963191?source=rss------data_science-5)
+- [Starbucks Rewards Analysis](https://nwosunneoma.medium.com/starbucks-rewards-analysis-651ca4f3c56?source=rss------data_science-5)
+- [Commercial Cleaning: 5 Reasons Your Business Needs Professional Cleaners](https://medium.com/@Tech_Breaker/commercial-cleaning-5-reasons-your-business-needs-professional-cleaners-1be2a1e30d4a?source=rss------data_science-5)
+- [Q#52: Largest elements in an array](https://medium.com/foundational-data-science-interview-questions/q-52-largest-elements-in-an-array-e49695044d29?source=rss------data_science-5)
+- [How to Choose a Professional for Fire Damage in West Virginia](https://medium.com/@Tech_Breaker/how-to-choose-a-professional-for-fire-damage-in-west-virginia-76ce1eeada5c?source=rss------data_science-5)
+- [How to edit videos with python](https://preettheman.medium.com/how-to-edit-videos-with-python-251178642beb?source=rss------data_science-5)
+- [Say Hello to my little tip #1](https://juniorfazzio.medium.com/say-hello-to-my-little-tip-1-33c293d901e5?source=rss------data_science-5)
+- [A look at sklearn’s new estimator, the SelfTrainingClassifier](https://medium.com/geekculture/a-look-at-sklearns-new-estimator-the-selftrainingclassifier-5a8628276abc?source=rss------data_science-5)
+- [I’m a Data Scientist at Facebook, and I keep people safe](https://medium.com/@yashokote/im-a-data-scientist-at-facebook-and-i-keep-people-safe-edd688710355?source=rss------data_science-5)
+- [How do you Optimize YouTube Videos for Top Rankings?](https://medium.com/@Tech_Breaker/how-do-you-optimize-youtube-videos-for-top-rankings-f64a5497fd39?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
