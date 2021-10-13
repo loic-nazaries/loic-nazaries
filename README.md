@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Supervised Machine Learning: Classification — Boosting and Stacking](https://medium.com/the-quant-journey/supervised-machine-learning-classification-boosting-and-stacking-e23e77963191?source=rss------data_science-5)
-- [Starbucks Rewards Analysis](https://nwosunneoma.medium.com/starbucks-rewards-analysis-651ca4f3c56?source=rss------data_science-5)
-- [Commercial Cleaning: 5 Reasons Your Business Needs Professional Cleaners](https://medium.com/@Tech_Breaker/commercial-cleaning-5-reasons-your-business-needs-professional-cleaners-1be2a1e30d4a?source=rss------data_science-5)
-- [Q#52: Largest elements in an array](https://medium.com/foundational-data-science-interview-questions/q-52-largest-elements-in-an-array-e49695044d29?source=rss------data_science-5)
-- [How to Choose a Professional for Fire Damage in West Virginia](https://medium.com/@Tech_Breaker/how-to-choose-a-professional-for-fire-damage-in-west-virginia-76ce1eeada5c?source=rss------data_science-5)
-- [How to edit videos with python](https://preettheman.medium.com/how-to-edit-videos-with-python-251178642beb?source=rss------data_science-5)
-- [Say Hello to my little tip #1](https://juniorfazzio.medium.com/say-hello-to-my-little-tip-1-33c293d901e5?source=rss------data_science-5)
-- [A look at sklearn’s new estimator, the SelfTrainingClassifier](https://medium.com/geekculture/a-look-at-sklearns-new-estimator-the-selftrainingclassifier-5a8628276abc?source=rss------data_science-5)
-- [I’m a Data Scientist at Facebook, and I keep people safe](https://medium.com/@yashokote/im-a-data-scientist-at-facebook-and-i-keep-people-safe-edd688710355?source=rss------data_science-5)
-- [How do you Optimize YouTube Videos for Top Rankings?](https://medium.com/@Tech_Breaker/how-do-you-optimize-youtube-videos-for-top-rankings-f64a5497fd39?source=rss------data_science-5)
+- [How Is Cardboard Made?](https://medium.com/@Tech_Breaker/how-is-cardboard-made-1c77950d5010?source=rss------data_science-5)
+- [Make Your Dashboard Stand Out — Dendrogam Chart](https://pub.towardsai.net/make-your-dashboard-stand-out-dendrogam-chart-13f4ca1cc39b?source=rss------data_science-5)
+- [MeetLocalChicks](https://medium.com/@elaachabe/meetlocalchicks-cd8f6460881d?source=rss------data_science-5)
+- [Decision Tree in Machine Learning](https://medium.com/@khalid.nazzar/decision-tree-in-machine-learning-1729cca767f7?source=rss------data_science-5)
+- [Women’s Fitness: Comfortable Clothes and Their Health Benefits](https://medium.com/@Tech_Breaker/womens-fitness-comfortable-clothes-and-their-health-benefits-10be1175b2d7?source=rss------data_science-5)
+- [Virtual Presentation Tips for Data Scientists](https://towardsdatascience.com/virtual-presentation-tips-for-data-scientists-d6ef4659024?source=rss------data_science-5)
+- [Pandas factorize: a fast track from text to numbers](https://towardsdatascience.com/pandas-factorize-a-fast-track-from-text-to-numbers-2a343d91b1f9?source=rss------data_science-5)
+- [ICF Homes: Antidote to Rising Lumber Prices](https://medium.com/@Tech_Breaker/icf-homes-antidote-to-rising-lumber-prices-557e3e59fcec?source=rss------data_science-5)
+- [Navigate through rising crime.](https://medium.com/@askscout/navigate-through-rising-crime-3efdf616beb?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
