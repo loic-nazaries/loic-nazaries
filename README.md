@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How Is Cardboard Made?](https://medium.com/@Tech_Breaker/how-is-cardboard-made-1c77950d5010?source=rss------data_science-5)
-- [Make Your Dashboard Stand Out — Dendrogam Chart](https://pub.towardsai.net/make-your-dashboard-stand-out-dendrogam-chart-13f4ca1cc39b?source=rss------data_science-5)
-- [MeetLocalChicks](https://medium.com/@elaachabe/meetlocalchicks-cd8f6460881d?source=rss------data_science-5)
-- [Decision Tree in Machine Learning](https://medium.com/@khalid.nazzar/decision-tree-in-machine-learning-1729cca767f7?source=rss------data_science-5)
-- [Women’s Fitness: Comfortable Clothes and Their Health Benefits](https://medium.com/@Tech_Breaker/womens-fitness-comfortable-clothes-and-their-health-benefits-10be1175b2d7?source=rss------data_science-5)
-- [Virtual Presentation Tips for Data Scientists](https://towardsdatascience.com/virtual-presentation-tips-for-data-scientists-d6ef4659024?source=rss------data_science-5)
-- [Pandas factorize: a fast track from text to numbers](https://towardsdatascience.com/pandas-factorize-a-fast-track-from-text-to-numbers-2a343d91b1f9?source=rss------data_science-5)
-- [ICF Homes: Antidote to Rising Lumber Prices](https://medium.com/@Tech_Breaker/icf-homes-antidote-to-rising-lumber-prices-557e3e59fcec?source=rss------data_science-5)
-- [Navigate through rising crime.](https://medium.com/@askscout/navigate-through-rising-crime-3efdf616beb?source=rss------data_science-5)
+- [The Story of John Snow](https://medium.com/@dniggl/the-story-of-john-snow-d2e55d23cc06?source=rss------data_science-5)
+- [Data Science Problem Formulation](https://dnyanesha10.medium.com/data-science-problem-formulation-338d58b4ecdc?source=rss------data_science-5)
+- [between SegWit and Legacy addresses](https://medium.com/@pbbnzsjs/between-segwit-and-legacy-addresses-68e8a61964cc?source=rss------data_science-5)
+- [Tips for making data reporting “sexy”](https://leventieva.medium.com/tips-for-making-data-reporting-sexy-acf9ea1e37a3?source=rss------data_science-5)
+- [between SegWit and Legacy addresses](https://medium.com/@pbbnzsjs/between-segwit-and-legacy-addresses-2d334d25678b?source=rss------data_science-5)
+- [On Starting Over](https://medium.com/@annelise.uhlig/on-starting-over-b1775f33a5cc?source=rss------data_science-5)
+- [LIDO — Free Square Analysis about the time series dashboard and the block analysis for the big…](https://cryptwizards.medium.com/lido-free-square-analysis-about-the-time-series-dashboard-and-the-block-analysis-for-the-big-987af2d34fdf?source=rss------data_science-5)
+- [Segna Newsletter — 14 October 2021](https://medium.com/@segna/segna-newsletter-14-october-2021-25d8bb08caff?source=rss------data_science-5)
+- [Hayatımın Dönüm Noktası…](https://medium.com/@oran.yasemin/hayat%C4%B1m%C4%B1n-d%C3%B6n%C3%BCm-noktas%C4%B1-838b1f334535?source=rss------data_science-5)
+- [What is Bicodev and its Domain?](https://medium.com/@info.bicodev/what-is-bicodev-and-its-domain-4b82b43c8cdc?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
