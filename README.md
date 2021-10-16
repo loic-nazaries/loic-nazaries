@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Pure Data Gold](https://medium.com/low-code-for-advanced-data-science/pure-data-gold-69ae0f1deed4?source=rss------data_science-5)
-- [Using Multiple Linear Regression To Examine What Variables Drive A Movie’s Box Office Success The…](https://medium.com/@austinwolff/using-multiple-linear-regression-to-examine-what-variables-drive-a-movies-box-office-success-the-93f5c8174078?source=rss------data_science-5)
-- [Move on from the Same Old Datasets](https://harsh-j.medium.com/move-on-from-the-same-old-datasets-a67f0de1b721?source=rss------data_science-5)
-- [How to Use W&B Sweeps with LightGBM for Hyperparameter Tuning](https://towardsdatascience.com/how-to-use-w-b-sweeps-with-lightgbm-for-hyperparameter-tuning-b67c3cac435c?source=rss------data_science-5)
-- [Árvores de Decisão e Florestas Aleatórias](https://medium.com/ufrj-analytica/%C3%A1rvores-de-decis%C3%A3o-e-florestas-aleat%C3%B3rias-9241fe8f235d?source=rss------data_science-5)
-- [Data Science in 2021](https://medium.com/ibm-data-ai/data-science-in-2021-c8b96c9e2fcd?source=rss------data_science-5)
-- [Things I wish I did when I became a data scientist](https://preettheman.medium.com/things-i-wish-i-did-when-i-became-a-data-scientist-83ef3950b6d9?source=rss------data_science-5)
-- [Aprendizado de Git / Github](https://medium.com/@victornatal94/aprendizado-de-git-github-4c07483397f6?source=rss------data_science-5)
-- [Support Http Data Source](https://shawncao.medium.com/support-http-data-source-c2244e605936?source=rss------data_science-5)
-- [This Python package checks the security of your project](https://preettheman.medium.com/this-python-package-checks-the-security-of-your-project-21e05d944d2f?source=rss------data_science-5)
+- [Introduction To Supervised Machine Learning — The Click Reader](https://medium.com/@theclickreader/introduction-to-supervised-machine-learning-the-click-reader-8b49cfc6c877?source=rss------data_science-5)
+- [A.I. Lagos: 7th Cohort and Many Lessons So Far.](https://medium.com/@chisomloius/a-i-lagos-7th-cohort-and-many-lessons-so-far-8f3bb0000f56?source=rss------data_science-5)
+- [With Apologies to My Neighbors](https://medium.com/@sethkaufman7/with-apologies-to-my-neighbors-766f384fb7da?source=rss------data_science-5)
+- [You Are Biased!](https://pub.towardsai.net/you-are-biased-8637cdc1fb38?source=rss------data_science-5)
+- [Input/Output Operations In NumPy — The Click Reader](https://medium.com/@theclickreader/input-output-operations-in-numpy-the-click-reader-fdb62463556d?source=rss------data_science-5)
+- [NumPy Array Operations — NumPy for Scientific Computing with Python](https://medium.com/@theclickreader/numpy-array-operations-numpy-for-scientific-computing-with-python-5800336c8385?source=rss------data_science-5)
+- [NumPy Array Indexing And Slicing — NumPy for Scientific Computing with Python](https://medium.com/@theclickreader/numpy-array-indexing-and-slicing-numpy-for-scientific-computing-with-python-8ff5e0faf98e?source=rss------data_science-5)
+- [Séries Temporais — Parte 2](https://renata-gabriela.medium.com/s%C3%A9ries-temporais-parte-2-43a70b300efd?source=rss------data_science-5)
+- [Creating NumPy Arrays — NumPy for Scientific Computing with Python](https://medium.com/@theclickreader/creating-numpy-arrays-numpy-for-scientific-computing-with-python-dff7cd6dd1cf?source=rss------data_science-5)
+- [Basics Of NumPy Arrays — NumPy for Scientific Computing with Python](https://medium.com/@theclickreader/basics-of-numpy-arrays-numpy-for-scientific-computing-with-python-6ee4b91917d8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
