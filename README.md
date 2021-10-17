@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Introduction To Supervised Machine Learning — The Click Reader](https://medium.com/@theclickreader/introduction-to-supervised-machine-learning-the-click-reader-8b49cfc6c877?source=rss------data_science-5)
-- [A.I. Lagos: 7th Cohort and Many Lessons So Far.](https://medium.com/@chisomloius/a-i-lagos-7th-cohort-and-many-lessons-so-far-8f3bb0000f56?source=rss------data_science-5)
-- [With Apologies to My Neighbors](https://medium.com/@sethkaufman7/with-apologies-to-my-neighbors-766f384fb7da?source=rss------data_science-5)
-- [You Are Biased!](https://pub.towardsai.net/you-are-biased-8637cdc1fb38?source=rss------data_science-5)
-- [Input/Output Operations In NumPy — The Click Reader](https://medium.com/@theclickreader/input-output-operations-in-numpy-the-click-reader-fdb62463556d?source=rss------data_science-5)
-- [NumPy Array Operations — NumPy for Scientific Computing with Python](https://medium.com/@theclickreader/numpy-array-operations-numpy-for-scientific-computing-with-python-5800336c8385?source=rss------data_science-5)
-- [NumPy Array Indexing And Slicing — NumPy for Scientific Computing with Python](https://medium.com/@theclickreader/numpy-array-indexing-and-slicing-numpy-for-scientific-computing-with-python-8ff5e0faf98e?source=rss------data_science-5)
-- [Séries Temporais — Parte 2](https://renata-gabriela.medium.com/s%C3%A9ries-temporais-parte-2-43a70b300efd?source=rss------data_science-5)
-- [Creating NumPy Arrays — NumPy for Scientific Computing with Python](https://medium.com/@theclickreader/creating-numpy-arrays-numpy-for-scientific-computing-with-python-dff7cd6dd1cf?source=rss------data_science-5)
-- [Basics Of NumPy Arrays — NumPy for Scientific Computing with Python](https://medium.com/@theclickreader/basics-of-numpy-arrays-numpy-for-scientific-computing-with-python-6ee4b91917d8?source=rss------data_science-5)
+- [2 Most Popular Statistics Concepts in Data Science](https://medium.com/geekculture/2-most-popular-statistics-concepts-in-data-science-b2b166b779da?source=rss------data_science-5)
+- [NOW IS THE TIME TO REFINANCE](https://medium.com/@TechBreaker/now-is-the-time-to-refinance-edd952647da?source=rss------data_science-5)
+- [How to Apply for the Employee Retention Credit](https://medium.com/@TechBreaker/how-to-apply-for-the-employee-retention-credit-40c6e2467402?source=rss------data_science-5)
+- [Trilhas Na Área De Dados](https://daniel-m-alves.medium.com/trilhas-na-%C3%A1rea-de-dados-48ef32b65793?source=rss------data_science-5)
+- [Beginner’s Guide to Using &amp; Protecting Your Digital Wallet](https://medium.com/@TechBreaker/beginners-guide-to-using-amp-protecting-your-digital-wallet-e4773a6e4a13?source=rss------data_science-5)
+- [Reduced-Rank Vector Autoregressive Model for High-Dimensional Time Series Forecasting](https://towardsdatascience.com/reduced-rank-vector-autoregressive-model-for-high-dimensional-time-series-forecasting-bdd17df6c5ab?source=rss------data_science-5)
+- [Meta-Regression on Published Results in R](https://medium.com/@marc.jacobs012/meta-regression-on-published-results-in-r-76d77ecba8b7?source=rss------data_science-5)
+- [What are the benefits of running?](https://medium.com/@TechBreaker/what-are-the-benefits-of-running-e4bae1d8b2d7?source=rss------data_science-5)
+- [How to Use Abstract Classes in Python](https://towardsdatascience.com/how-to-use-abstract-classes-in-python-d4d2ddc02e90?source=rss------data_science-5)
+- [How to be a Data Analytics in 2022 ???!](https://medium.com/@busnissyou77/how-to-be-a-data-analytics-in-2022-e93ea8c89fac?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
