@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [2 Most Popular Statistics Concepts in Data Science](https://medium.com/geekculture/2-most-popular-statistics-concepts-in-data-science-b2b166b779da?source=rss------data_science-5)
-- [NOW IS THE TIME TO REFINANCE](https://medium.com/@TechBreaker/now-is-the-time-to-refinance-edd952647da?source=rss------data_science-5)
-- [How to Apply for the Employee Retention Credit](https://medium.com/@TechBreaker/how-to-apply-for-the-employee-retention-credit-40c6e2467402?source=rss------data_science-5)
-- [Trilhas Na Área De Dados](https://daniel-m-alves.medium.com/trilhas-na-%C3%A1rea-de-dados-48ef32b65793?source=rss------data_science-5)
-- [Beginner’s Guide to Using &amp; Protecting Your Digital Wallet](https://medium.com/@TechBreaker/beginners-guide-to-using-amp-protecting-your-digital-wallet-e4773a6e4a13?source=rss------data_science-5)
-- [Reduced-Rank Vector Autoregressive Model for High-Dimensional Time Series Forecasting](https://towardsdatascience.com/reduced-rank-vector-autoregressive-model-for-high-dimensional-time-series-forecasting-bdd17df6c5ab?source=rss------data_science-5)
-- [Meta-Regression on Published Results in R](https://medium.com/@marc.jacobs012/meta-regression-on-published-results-in-r-76d77ecba8b7?source=rss------data_science-5)
-- [What are the benefits of running?](https://medium.com/@TechBreaker/what-are-the-benefits-of-running-e4bae1d8b2d7?source=rss------data_science-5)
-- [How to Use Abstract Classes in Python](https://towardsdatascience.com/how-to-use-abstract-classes-in-python-d4d2ddc02e90?source=rss------data_science-5)
-- [How to be a Data Analytics in 2022 ???!](https://medium.com/@busnissyou77/how-to-be-a-data-analytics-in-2022-e93ea8c89fac?source=rss------data_science-5)
+- [Using Unsupervised Machine Learning to Make Sense of Cryptocurrency Technical Indicators](https://towardsdatascience.com/using-unsupervised-machine-learning-to-make-sense-of-cryptocurrency-technical-indicators-dd8e0ed228f4?source=rss------data_science-5)
+- [A perfect digital society must have misinformation or no privacy](https://medium.com/@148124/a-perfect-digital-society-must-have-misinformation-or-no-privacy-a3d0d846f464?source=rss------data_science-5)
+- [英國遇害議員的家人形容感到心碎](https://frederickyeung-59743.medium.com/%E8%8B%B1%E5%9C%8B%E9%81%87%E5%AE%B3%E8%AD%B0%E5%93%A1%E7%9A%84%E5%AE%B6%E4%BA%BA%E5%BD%A2%E5%AE%B9%E6%84%9F%E5%88%B0%E5%BF%83%E7%A2%8E-207b837e2b99?source=rss------data_science-5)
+- [The NLP Cypher | 10.17.21](https://quantumstat.medium.com/the-nlp-cypher-10-17-21-da46d6cb11e8?source=rss------data_science-5)
+- [Thinking in bets — decision making under a uncertain world (part II)](https://medium.com/@jaglima/thinking-in-bets-decision-making-under-a-uncertain-world-part-ii-2e194af11a10?source=rss------data_science-5)
+- [Churn Prediction — Como saber quais clientes vão deixar sua empresa.](https://thalesferraz.medium.com/churn-prediction-como-saber-quais-clientes-v%C3%A3o-deixar-sua-empresa-a02f65c68167?source=rss------data_science-5)
+- [DECISION TREE : “GUIDED PORTO FOLIO PROJECT STEP BY STEP”](https://medium.com/@AnahattaSuputra/decision-tree-guided-porto-folio-project-step-by-step-e65ae9885847?source=rss------data_science-5)
+- [AI Technologies heading towards 2021](https://medium.com/appengine-ai/ai-technologies-heading-towards-2021-41a73df35c08?source=rss------data_science-5)
+- [,,,,,, Medication For Pain,,,,,,Pure Cocaine,,,,,, Mephedrone 4mmc,,,,Heroine,,,MDMA ,, ,,Molly…](https://medium.com/@nicefucs/medication-for-pain-pure-cocaine-mephedrone-4mmc-heroine-mdma-molly-dc9cf6a1f886?source=rss------data_science-5)
+- [Types of Data and File Formats](https://techguysfdc.medium.com/types-of-data-and-file-formats-7814fb196d4a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
