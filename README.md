@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Using Unsupervised Machine Learning to Make Sense of Cryptocurrency Technical Indicators](https://towardsdatascience.com/using-unsupervised-machine-learning-to-make-sense-of-cryptocurrency-technical-indicators-dd8e0ed228f4?source=rss------data_science-5)
-- [A perfect digital society must have misinformation or no privacy](https://medium.com/@148124/a-perfect-digital-society-must-have-misinformation-or-no-privacy-a3d0d846f464?source=rss------data_science-5)
-- [英國遇害議員的家人形容感到心碎](https://frederickyeung-59743.medium.com/%E8%8B%B1%E5%9C%8B%E9%81%87%E5%AE%B3%E8%AD%B0%E5%93%A1%E7%9A%84%E5%AE%B6%E4%BA%BA%E5%BD%A2%E5%AE%B9%E6%84%9F%E5%88%B0%E5%BF%83%E7%A2%8E-207b837e2b99?source=rss------data_science-5)
-- [The NLP Cypher | 10.17.21](https://quantumstat.medium.com/the-nlp-cypher-10-17-21-da46d6cb11e8?source=rss------data_science-5)
-- [Thinking in bets — decision making under a uncertain world (part II)](https://medium.com/@jaglima/thinking-in-bets-decision-making-under-a-uncertain-world-part-ii-2e194af11a10?source=rss------data_science-5)
-- [Churn Prediction — Como saber quais clientes vão deixar sua empresa.](https://thalesferraz.medium.com/churn-prediction-como-saber-quais-clientes-v%C3%A3o-deixar-sua-empresa-a02f65c68167?source=rss------data_science-5)
-- [DECISION TREE : “GUIDED PORTO FOLIO PROJECT STEP BY STEP”](https://medium.com/@AnahattaSuputra/decision-tree-guided-porto-folio-project-step-by-step-e65ae9885847?source=rss------data_science-5)
-- [AI Technologies heading towards 2021](https://medium.com/appengine-ai/ai-technologies-heading-towards-2021-41a73df35c08?source=rss------data_science-5)
-- [,,,,,, Medication For Pain,,,,,,Pure Cocaine,,,,,, Mephedrone 4mmc,,,,Heroine,,,MDMA ,, ,,Molly…](https://medium.com/@nicefucs/medication-for-pain-pure-cocaine-mephedrone-4mmc-heroine-mdma-molly-dc9cf6a1f886?source=rss------data_science-5)
-- [Types of Data and File Formats](https://techguysfdc.medium.com/types-of-data-and-file-formats-7814fb196d4a?source=rss------data_science-5)
+- [Por dentro do Índice de Sharpe](https://maicon-reis.medium.com/por-dentro-do-%C3%ADndice-de-sharpe-7d7a39733dd8?source=rss------data_science-5)
+- [Simple Linear Regression With Scikit-Learn](https://medium.com/@timothy.dpulliam/simple-linear-regression-with-scikit-learn-acefd3c8ac1c?source=rss------data_science-5)
+- [DevOps](https://pub.towardsai.net/devops-e2b28176724d?source=rss------data_science-5)
+- [My favorite Python projects on GitHub](https://preettheman.medium.com/my-favorite-python-projects-on-github-502101f87625?source=rss------data_science-5)
+- [Plotting Plots with Seaborn](https://medium.com/@jaredm9857/plotting-plots-with-seaborn-d461e87d8700?source=rss------data_science-5)
+- [Down the Rabbit Hole of Data Science:](https://medium.com/@joshua.dempsey90/down-the-rabbit-hole-of-data-science-a026f4cf74cc?source=rss------data_science-5)
+- [Os dados são o novo CAPEX?](https://allancasado.medium.com/os-dados-s%C3%A3o-o-novo-capex-1c4e69096123?source=rss------data_science-5)
+- [The impacts of carbon emissions on life](https://medium.com/@isaaczarspada/the-impacts-of-carbon-emissions-on-life-6fa7aa5339ba?source=rss------data_science-5)
+- [,,,,,, pain Relief,,Medication,,,,,,Pure Cocaine,,,,,, Mephedrone 4mmc,,,,Heroine,,,MDMA ,, ,,Molly…](https://medium.com/@ayukgucs/pain-relief-medication-pure-cocaine-mephedrone-4mmc-heroine-mdma-molly-f3f56223f443?source=rss------data_science-5)
+- [Detecting structural changes in blockchain transaction time series](https://towardsdatascience.com/detecting-structural-changes-in-blockchain-transaction-time-series-cf62bfea3e2a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
