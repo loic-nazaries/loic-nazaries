@@ -105,16 +105,14 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Por dentro do Índice de Sharpe](https://maicon-reis.medium.com/por-dentro-do-%C3%ADndice-de-sharpe-7d7a39733dd8?source=rss------data_science-5)
-- [Simple Linear Regression With Scikit-Learn](https://medium.com/@timothy.dpulliam/simple-linear-regression-with-scikit-learn-acefd3c8ac1c?source=rss------data_science-5)
-- [DevOps](https://pub.towardsai.net/devops-e2b28176724d?source=rss------data_science-5)
-- [My favorite Python projects on GitHub](https://preettheman.medium.com/my-favorite-python-projects-on-github-502101f87625?source=rss------data_science-5)
-- [Plotting Plots with Seaborn](https://medium.com/@jaredm9857/plotting-plots-with-seaborn-d461e87d8700?source=rss------data_science-5)
-- [Down the Rabbit Hole of Data Science:](https://medium.com/@joshua.dempsey90/down-the-rabbit-hole-of-data-science-a026f4cf74cc?source=rss------data_science-5)
-- [Os dados são o novo CAPEX?](https://allancasado.medium.com/os-dados-s%C3%A3o-o-novo-capex-1c4e69096123?source=rss------data_science-5)
-- [The impacts of carbon emissions on life](https://medium.com/@isaaczarspada/the-impacts-of-carbon-emissions-on-life-6fa7aa5339ba?source=rss------data_science-5)
-- [,,,,,, pain Relief,,Medication,,,,,,Pure Cocaine,,,,,, Mephedrone 4mmc,,,,Heroine,,,MDMA ,, ,,Molly…](https://medium.com/@ayukgucs/pain-relief-medication-pure-cocaine-mephedrone-4mmc-heroine-mdma-molly-f3f56223f443?source=rss------data_science-5)
-- [Detecting structural changes in blockchain transaction time series](https://towardsdatascience.com/detecting-structural-changes-in-blockchain-transaction-time-series-cf62bfea3e2a?source=rss------data_science-5)
+- [Punjab Gk](https://medium.com/@TechBreaker/punjab-gk-943f6b8762c1?source=rss------data_science-5)
+- [5 Roles in Data in 2021](https://medium.com/bitgrit-data-science-publication/5-roles-in-data-in-2021-7d9bc0a3083e?source=rss------data_science-5)
+- [Part 1 of Newcastle United Transfer Shortlist — Creative Midfielder](https://medium.com/@shreyansh273/part-1-of-newcastle-united-transfer-shortlist-creative-midfielder-c23f5570b683?source=rss------data_science-5)
+- [Unsupervised Machine Learning: Dimensionality Reduction and PCA](https://medium.com/the-quant-journey/unsupervised-machine-learning-dimensionality-reduction-and-pca-8ed5db205200?source=rss------data_science-5)
+- [Raven Protocol Listed on Spartan Protocol V2 Mainnet Pools](https://medium.com/ravenprotocol/raven-protocol-listed-on-spartan-protocol-v2-mainnet-pools-9a889be3ac04?source=rss------data_science-5)
+- [Spinning Around](https://medium.com/@miguelpmiralles/spinning-around-a0207065c2fd?source=rss------data_science-5)
+- [Drift Reporting with Automunge](https://medium.com/automunge/drift-reporting-with-automunge-6a83eecbb253?source=rss------data_science-5)
+- [Understanding Simpson’s Paradox](https://pallavi-solaiappan.medium.com/understanding-simpsons-paradox-4fee7392a671?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
