@@ -105,14 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Punjab Gk](https://medium.com/@TechBreaker/punjab-gk-943f6b8762c1?source=rss------data_science-5)
-- [5 Roles in Data in 2021](https://medium.com/bitgrit-data-science-publication/5-roles-in-data-in-2021-7d9bc0a3083e?source=rss------data_science-5)
-- [Part 1 of Newcastle United Transfer Shortlist — Creative Midfielder](https://medium.com/@shreyansh273/part-1-of-newcastle-united-transfer-shortlist-creative-midfielder-c23f5570b683?source=rss------data_science-5)
-- [Unsupervised Machine Learning: Dimensionality Reduction and PCA](https://medium.com/the-quant-journey/unsupervised-machine-learning-dimensionality-reduction-and-pca-8ed5db205200?source=rss------data_science-5)
-- [Raven Protocol Listed on Spartan Protocol V2 Mainnet Pools](https://medium.com/ravenprotocol/raven-protocol-listed-on-spartan-protocol-v2-mainnet-pools-9a889be3ac04?source=rss------data_science-5)
-- [Spinning Around](https://medium.com/@miguelpmiralles/spinning-around-a0207065c2fd?source=rss------data_science-5)
-- [Drift Reporting with Automunge](https://medium.com/automunge/drift-reporting-with-automunge-6a83eecbb253?source=rss------data_science-5)
-- [Understanding Simpson’s Paradox](https://pallavi-solaiappan.medium.com/understanding-simpsons-paradox-4fee7392a671?source=rss------data_science-5)
+- [An English learning success story](https://medium.com/@matt_74101/an-english-learning-success-story-bada3e8ebb50?source=rss------data_science-5)
+- [This Python package cleans your code!](https://preettheman.medium.com/this-python-package-cleans-your-code-f82784238883?source=rss------data_science-5)
+- [Review Machine Learning with Me: Overfitting vs. Underfitting](https://medium.com/@xiekassie/review-machine-learning-with-me-overfitting-vs-underfitting-809158f4e548?source=rss------data_science-5)
+- [VS Code just got a crazy update!](https://preettheman.medium.com/vs-code-just-got-a-crazy-update-34c298581c5f?source=rss------data_science-5)
+- [How to sort when M.L model behaves well on Training data but behaves poorly on training data](https://medium.com/@er.rohinkundal/how-to-sort-when-m-l-model-behaves-well-on-training-data-but-behaves-poorly-on-training-data-7deddb424862?source=rss------data_science-5)
+- [Stock forecasts dashboard with Streamlit — introduction to streamlit](https://medium.com/@hamzarabi303/stock-forecasts-dashboard-with-streamlit-introduction-to-streamlit-865901b352c3?source=rss------data_science-5)
+- [Customize Your Pandas Data Frame  For Effective Data Analysis](https://towardsdatascience.com/customize-your-pandas-data-frame-for-effective-data-analysis-ffa8b98630fb?source=rss------data_science-5)
+- [Do You Need the 2021 MacBook Pro for Data Science?](https://towardsdatascience.com/do-you-need-the-2021-macbook-pro-for-data-science-2cbc8f08e640?source=rss------data_science-5)
+- [Intro to Stemming](https://medium.com/@princeans.ansari2881/intro-to-stemming-509e956d7272?source=rss------data_science-5)
+- [Segna Newsletter — 21 October 2021](https://medium.com/@segna/segna-newsletter-21-october-2021-b84d22be5d22?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
