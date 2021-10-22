@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [An English learning success story](https://medium.com/@matt_74101/an-english-learning-success-story-bada3e8ebb50?source=rss------data_science-5)
-- [This Python package cleans your code!](https://preettheman.medium.com/this-python-package-cleans-your-code-f82784238883?source=rss------data_science-5)
-- [Review Machine Learning with Me: Overfitting vs. Underfitting](https://medium.com/@xiekassie/review-machine-learning-with-me-overfitting-vs-underfitting-809158f4e548?source=rss------data_science-5)
-- [VS Code just got a crazy update!](https://preettheman.medium.com/vs-code-just-got-a-crazy-update-34c298581c5f?source=rss------data_science-5)
-- [How to sort when M.L model behaves well on Training data but behaves poorly on training data](https://medium.com/@er.rohinkundal/how-to-sort-when-m-l-model-behaves-well-on-training-data-but-behaves-poorly-on-training-data-7deddb424862?source=rss------data_science-5)
-- [Stock forecasts dashboard with Streamlit — introduction to streamlit](https://medium.com/@hamzarabi303/stock-forecasts-dashboard-with-streamlit-introduction-to-streamlit-865901b352c3?source=rss------data_science-5)
-- [Customize Your Pandas Data Frame  For Effective Data Analysis](https://towardsdatascience.com/customize-your-pandas-data-frame-for-effective-data-analysis-ffa8b98630fb?source=rss------data_science-5)
-- [Do You Need the 2021 MacBook Pro for Data Science?](https://towardsdatascience.com/do-you-need-the-2021-macbook-pro-for-data-science-2cbc8f08e640?source=rss------data_science-5)
-- [Intro to Stemming](https://medium.com/@princeans.ansari2881/intro-to-stemming-509e956d7272?source=rss------data_science-5)
-- [Segna Newsletter — 21 October 2021](https://medium.com/@segna/segna-newsletter-21-october-2021-b84d22be5d22?source=rss------data_science-5)
+- [PCA Beyond the Dimensionality Reduction](https://towardsdatascience.com/pca-beyond-the-dimensionality-reduction-e352eb0bdf52?source=rss------data_science-5)
+- [Looking for our next managing editor… and more!](https://medium.com/data-science-at-microsoft/looking-for-our-next-managing-editor-and-more-316f82a19d0d?source=rss------data_science-5)
+- [The Hard Part of Data Science](https://towardsdatascience.com/the-hard-part-of-data-science-8da67a0a4d5f?source=rss------data_science-5)
+- [Data extraction using DML](https://medium.com/@prajualpillai/data-extraction-using-dml-fc13bc57cd9?source=rss------data_science-5)
+- [The Future of AI in Exploration](https://medium.com/studio-x/the-future-of-ai-in-exploration-149a4fc3ece6?source=rss------data_science-5)
+- [What is Machine Learning?](https://wescodes.medium.com/what-is-machine-learning-fe58c36656d8?source=rss------data_science-5)
+- [Tips for Data Science Competitions](https://medium.com/studio-x/tips-for-data-science-competitions-892894ddfe6c?source=rss------data_science-5)
+- [Digital Corporate Citizenship](https://medium.com/studio-x/digital-corporate-citizenship-25e9e1f37fd0?source=rss------data_science-5)
+- [How to Learn Data Science Skills](https://medium.com/studio-x/how-to-learn-data-science-skills-5e7062a836eb?source=rss------data_science-5)
+- [About Studio X](https://medium.com/studio-x/about-studio-x-cfc5bbb8c089?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
