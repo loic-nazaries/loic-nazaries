@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [PCA Beyond the Dimensionality Reduction](https://towardsdatascience.com/pca-beyond-the-dimensionality-reduction-e352eb0bdf52?source=rss------data_science-5)
-- [Looking for our next managing editor… and more!](https://medium.com/data-science-at-microsoft/looking-for-our-next-managing-editor-and-more-316f82a19d0d?source=rss------data_science-5)
-- [The Hard Part of Data Science](https://towardsdatascience.com/the-hard-part-of-data-science-8da67a0a4d5f?source=rss------data_science-5)
-- [Data extraction using DML](https://medium.com/@prajualpillai/data-extraction-using-dml-fc13bc57cd9?source=rss------data_science-5)
-- [The Future of AI in Exploration](https://medium.com/studio-x/the-future-of-ai-in-exploration-149a4fc3ece6?source=rss------data_science-5)
-- [What is Machine Learning?](https://wescodes.medium.com/what-is-machine-learning-fe58c36656d8?source=rss------data_science-5)
-- [Tips for Data Science Competitions](https://medium.com/studio-x/tips-for-data-science-competitions-892894ddfe6c?source=rss------data_science-5)
-- [Digital Corporate Citizenship](https://medium.com/studio-x/digital-corporate-citizenship-25e9e1f37fd0?source=rss------data_science-5)
-- [How to Learn Data Science Skills](https://medium.com/studio-x/how-to-learn-data-science-skills-5e7062a836eb?source=rss------data_science-5)
-- [About Studio X](https://medium.com/studio-x/about-studio-x-cfc5bbb8c089?source=rss------data_science-5)
+- [Plotting Basic Charts with Matplotlib (Part Two)](https://manuelinfosec.medium.com/plotting-basic-charts-with-matplotlib-part-two-93e7d5a472c1?source=rss------data_science-5)
+- [The Monty Hall Problem and The Bayes’ Theorem](https://medium.com/@judaikawa/the-monty-hall-problem-and-the-bayes-theorem-4415e50e233f?source=rss------data_science-5)
+- [Using a CNN to predict dog breeds](https://rafaelmata357.medium.com/using-a-cnn-to-predict-dog-breeds-ef664ece023d?source=rss------data_science-5)
+- [What are Differences Between Statistics and Data Science?](https://onurrhannaydinn.medium.com/what-are-differences-between-statistics-and-data-science-bc0ba3d1e984?source=rss------data_science-5)
+- [The best free certifications for coders!](https://preettheman.medium.com/the-best-free-certifications-for-coders-3ebf385eb092?source=rss------data_science-5)
+- [How to draw ROC curve for a multi-class dataset ?](https://medium.com/mlearning-ai/how-to-draw-roc-curve-for-a-multi-class-dataset-4e5cfe29fa24?source=rss------data_science-5)
+- [Universal Holdout Groups at Disney Streaming](https://medium.com/disney-streaming/universal-holdout-groups-at-disney-streaming-2043360def4f?source=rss------data_science-5)
+- [My General Assembly Data Science Immersive Bootcamp Experience](https://wescodes.medium.com/my-general-assembly-data-science-immersive-bootcamp-experience-c3569da9f88a?source=rss------data_science-5)
+- [Predicting the Stock Market](https://harrisongu.medium.com/predicting-the-stock-market-80ce3cf7e530?source=rss------data_science-5)
+- [Harnessing the Power of Data for Good](https://medium.com/mlearning-ai/harnessing-the-power-of-data-for-good-d508abf6c54d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
