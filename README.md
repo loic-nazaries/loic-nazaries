@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Plotting Basic Charts with Matplotlib (Part Two)](https://manuelinfosec.medium.com/plotting-basic-charts-with-matplotlib-part-two-93e7d5a472c1?source=rss------data_science-5)
-- [The Monty Hall Problem and The Bayes’ Theorem](https://medium.com/@judaikawa/the-monty-hall-problem-and-the-bayes-theorem-4415e50e233f?source=rss------data_science-5)
-- [Using a CNN to predict dog breeds](https://rafaelmata357.medium.com/using-a-cnn-to-predict-dog-breeds-ef664ece023d?source=rss------data_science-5)
-- [What are Differences Between Statistics and Data Science?](https://onurrhannaydinn.medium.com/what-are-differences-between-statistics-and-data-science-bc0ba3d1e984?source=rss------data_science-5)
-- [The best free certifications for coders!](https://preettheman.medium.com/the-best-free-certifications-for-coders-3ebf385eb092?source=rss------data_science-5)
-- [How to draw ROC curve for a multi-class dataset ?](https://medium.com/mlearning-ai/how-to-draw-roc-curve-for-a-multi-class-dataset-4e5cfe29fa24?source=rss------data_science-5)
-- [Universal Holdout Groups at Disney Streaming](https://medium.com/disney-streaming/universal-holdout-groups-at-disney-streaming-2043360def4f?source=rss------data_science-5)
-- [My General Assembly Data Science Immersive Bootcamp Experience](https://wescodes.medium.com/my-general-assembly-data-science-immersive-bootcamp-experience-c3569da9f88a?source=rss------data_science-5)
-- [Predicting the Stock Market](https://harrisongu.medium.com/predicting-the-stock-market-80ce3cf7e530?source=rss------data_science-5)
-- [Harnessing the Power of Data for Good](https://medium.com/mlearning-ai/harnessing-the-power-of-data-for-good-d508abf6c54d?source=rss------data_science-5)
+- [Most Important Matrix in Data Science](https://benjaminobi.medium.com/most-important-matrix-in-data-science-3667153d341a?source=rss------data_science-5)
+- [Amazing tool for your coding project!](https://preettheman.medium.com/amazing-tool-for-your-coding-project-4f76a2713137?source=rss------data_science-5)
+- [Why Bayes Theorem Matters? With a Visual Example (Oversimplified).](https://medium.com/@Amirgiano/why-bayes-theorem-matters-with-a-visual-example-oversimplified-53cba359c3d2?source=rss------data_science-5)
+- [$10K with Natural Language Processing not just Data Processing](https://medium.com/@dennisyd/10k-with-natural-language-processing-not-just-data-processing-7057642681d9?source=rss------data_science-5)
+- [Data Science in Crypto](https://medium.com/@PipeSupertramp1/data-science-in-crypto-8b749855be1b?source=rss------data_science-5)
+- [Understand Generalized Linear Models, and How It Relates to Linear, Logistic and Poisson Regression](https://towardsdatascience.com/understand-generalized-linear-models-and-how-it-relates-to-linear-logistic-and-poisson-regression-53f3aea8a9d?source=rss------data_science-5)
+- [Fuzzy Integral: A deep dive into data fusion](https://towardsdatascience.com/fuzzy-integral-a-deep-dive-into-data-fusion-b544e90e9c7b?source=rss------data_science-5)
+- [Linear Least Squares Regression](https://medium.com/@ahmedasadi.ai/linear-least-squares-regression-87d8b9e0ffa8?source=rss------data_science-5)
+- [Sentiment Analysis of Amazon’s deteriorated Product Ratings](https://medium.com/@swetaprabha/sentiment-analysis-of-amazons-deteriorated-product-ratings-f17bf38f85f?source=rss------data_science-5)
+- [Discovering the data landscape of electricity balancing](https://medium.com/dtime/discovering-the-data-landscape-of-electricity-balancing-4df83c8de73e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
