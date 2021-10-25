@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Most Important Matrix in Data Science](https://benjaminobi.medium.com/most-important-matrix-in-data-science-3667153d341a?source=rss------data_science-5)
-- [Amazing tool for your coding project!](https://preettheman.medium.com/amazing-tool-for-your-coding-project-4f76a2713137?source=rss------data_science-5)
-- [Why Bayes Theorem Matters? With a Visual Example (Oversimplified).](https://medium.com/@Amirgiano/why-bayes-theorem-matters-with-a-visual-example-oversimplified-53cba359c3d2?source=rss------data_science-5)
-- [$10K with Natural Language Processing not just Data Processing](https://medium.com/@dennisyd/10k-with-natural-language-processing-not-just-data-processing-7057642681d9?source=rss------data_science-5)
-- [Data Science in Crypto](https://medium.com/@PipeSupertramp1/data-science-in-crypto-8b749855be1b?source=rss------data_science-5)
-- [Understand Generalized Linear Models, and How It Relates to Linear, Logistic and Poisson Regression](https://towardsdatascience.com/understand-generalized-linear-models-and-how-it-relates-to-linear-logistic-and-poisson-regression-53f3aea8a9d?source=rss------data_science-5)
-- [Fuzzy Integral: A deep dive into data fusion](https://towardsdatascience.com/fuzzy-integral-a-deep-dive-into-data-fusion-b544e90e9c7b?source=rss------data_science-5)
-- [Linear Least Squares Regression](https://medium.com/@ahmedasadi.ai/linear-least-squares-regression-87d8b9e0ffa8?source=rss------data_science-5)
-- [Sentiment Analysis of Amazon’s deteriorated Product Ratings](https://medium.com/@swetaprabha/sentiment-analysis-of-amazons-deteriorated-product-ratings-f17bf38f85f?source=rss------data_science-5)
-- [Discovering the data landscape of electricity balancing](https://medium.com/dtime/discovering-the-data-landscape-of-electricity-balancing-4df83c8de73e?source=rss------data_science-5)
+- [9 Awesome Resources and Tools for Data Science and Machine Learning](https://towardsdatascience.com/9-awesome-resources-and-tools-for-data-science-and-machine-learning-f1219e3f8016?source=rss------data_science-5)
+- [Customer Churn for any Timeline](https://medium.com/@saitejapasula/customer-churn-for-any-timeline-fbea57c146a7?source=rss------data_science-5)
+- [Python data cleaning basics.](https://thecarlos.medium.com/python-data-cleaning-basics-4696251d8638?source=rss------data_science-5)
+- [Introduction to .LOC and .ILOC for Data Enthusiasts](https://medium.com/@fabianabarril/introduction-to-loc-and-iloc-for-data-enthusiasts-4468e8248a7b?source=rss------data_science-5)
+- [Introduction to Statistics I](https://marisakamoto.medium.com/introduction-to-statistics-i-18e46b9754ed?source=rss------data_science-5)
+- [New Evolution Digital — Developer Blog — Entry One](https://medium.com/new-evolution-digital-dev-blog/new-evolution-digital-developer-blog-entry-one-bee4969b528?source=rss------data_science-5)
+- [Internship Experience](https://medium.com/@upretivivek2001/internship-experience-e3fb7f536e38?source=rss------data_science-5)
+- [Importing tables from an Excel spreadsheet to PostgreSQL.](https://medium.com/@mbamacchisom/importing-tables-from-excel-sheet-to-postgresql-e773702376fd?source=rss------data_science-5)
+- [THE BLACK BOX OF DEEP LEARNING (FORWARD & BACKPROPAGATION)](https://ftchouanga.medium.com/the-black-box-of-deep-learning-forward-backpropagation-553598f55b8f?source=rss------data_science-5)
+- [How do you interpret the prediction from ML model outputs: Part 4 — Partial Dependence Plots](https://medium.com/geekculture/how-do-you-interpret-the-prediction-from-ml-model-outputs-part-4-partial-dependence-plots-62427d67d21e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
