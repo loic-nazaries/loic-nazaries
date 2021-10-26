@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [9 Awesome Resources and Tools for Data Science and Machine Learning](https://towardsdatascience.com/9-awesome-resources-and-tools-for-data-science-and-machine-learning-f1219e3f8016?source=rss------data_science-5)
-- [Customer Churn for any Timeline](https://medium.com/@saitejapasula/customer-churn-for-any-timeline-fbea57c146a7?source=rss------data_science-5)
-- [Python data cleaning basics.](https://thecarlos.medium.com/python-data-cleaning-basics-4696251d8638?source=rss------data_science-5)
-- [Introduction to .LOC and .ILOC for Data Enthusiasts](https://medium.com/@fabianabarril/introduction-to-loc-and-iloc-for-data-enthusiasts-4468e8248a7b?source=rss------data_science-5)
-- [Introduction to Statistics I](https://marisakamoto.medium.com/introduction-to-statistics-i-18e46b9754ed?source=rss------data_science-5)
-- [New Evolution Digital — Developer Blog — Entry One](https://medium.com/new-evolution-digital-dev-blog/new-evolution-digital-developer-blog-entry-one-bee4969b528?source=rss------data_science-5)
-- [Internship Experience](https://medium.com/@upretivivek2001/internship-experience-e3fb7f536e38?source=rss------data_science-5)
-- [Importing tables from an Excel spreadsheet to PostgreSQL.](https://medium.com/@mbamacchisom/importing-tables-from-excel-sheet-to-postgresql-e773702376fd?source=rss------data_science-5)
-- [THE BLACK BOX OF DEEP LEARNING (FORWARD & BACKPROPAGATION)](https://ftchouanga.medium.com/the-black-box-of-deep-learning-forward-backpropagation-553598f55b8f?source=rss------data_science-5)
-- [How do you interpret the prediction from ML model outputs: Part 4 — Partial Dependence Plots](https://medium.com/geekculture/how-do-you-interpret-the-prediction-from-ml-model-outputs-part-4-partial-dependence-plots-62427d67d21e?source=rss------data_science-5)
+- [Stock Prices Prediction Using Long Short-Term Memory (LSTM) Model in Python](https://medium.com/the-handbook-of-coding-in-finance/stock-prices-prediction-using-long-short-term-memory-lstm-model-in-python-734dd1ed6827?source=rss------data_science-5)
+- [Why Python Is Better Than Go](https://preettheman.medium.com/why-python-is-better-than-go-34bd62dc36ae?source=rss------data_science-5)
+- [An overview on gradient descent and its variants](https://brindapotluri.medium.com/an-overview-on-gradient-descent-and-its-variants-4d9168e1cab9?source=rss------data_science-5)
+- [SQL For Data Analytics — Selection Queries](https://dulana-hansisi97.medium.com/sql-for-data-analytics-selection-queries-19038ca0801a?source=rss------data_science-5)
+- [Support vector machines illustrated](https://towardsdatascience.com/support-vector-machines-illustrated-b48a32c56388?source=rss------data_science-5)
+- [Healthcare AI’s Equity Problem](https://angela-5391.medium.com/healthcare-ais-equity-problem-9625c2271be1?source=rss------data_science-5)
+- [Back Test Your Trading Strategies with Vectorization in Python](https://medium.com/@craigmariani47/back-test-your-trading-strategies-with-vectorization-in-python-c58209ff3b1b?source=rss------data_science-5)
+- [BD+ um datalake gratuito com dados já tratados](https://medium.com/@coutinholps/bd-um-datalake-gratuito-com-dados-j%C3%A1-tratados-f639243d476?source=rss------data_science-5)
+- [Free tools every data scientist should use](https://preettheman.medium.com/free-tools-every-data-scientist-should-use-258f3a5dc5bf?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
