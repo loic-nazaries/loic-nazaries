@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Stock Prices Prediction Using Long Short-Term Memory (LSTM) Model in Python](https://medium.com/the-handbook-of-coding-in-finance/stock-prices-prediction-using-long-short-term-memory-lstm-model-in-python-734dd1ed6827?source=rss------data_science-5)
-- [Why Python Is Better Than Go](https://preettheman.medium.com/why-python-is-better-than-go-34bd62dc36ae?source=rss------data_science-5)
-- [An overview on gradient descent and its variants](https://brindapotluri.medium.com/an-overview-on-gradient-descent-and-its-variants-4d9168e1cab9?source=rss------data_science-5)
-- [SQL For Data Analytics — Selection Queries](https://dulana-hansisi97.medium.com/sql-for-data-analytics-selection-queries-19038ca0801a?source=rss------data_science-5)
-- [Support vector machines illustrated](https://towardsdatascience.com/support-vector-machines-illustrated-b48a32c56388?source=rss------data_science-5)
-- [Healthcare AI’s Equity Problem](https://angela-5391.medium.com/healthcare-ais-equity-problem-9625c2271be1?source=rss------data_science-5)
-- [Back Test Your Trading Strategies with Vectorization in Python](https://medium.com/@craigmariani47/back-test-your-trading-strategies-with-vectorization-in-python-c58209ff3b1b?source=rss------data_science-5)
-- [BD+ um datalake gratuito com dados já tratados](https://medium.com/@coutinholps/bd-um-datalake-gratuito-com-dados-j%C3%A1-tratados-f639243d476?source=rss------data_science-5)
-- [Free tools every data scientist should use](https://preettheman.medium.com/free-tools-every-data-scientist-should-use-258f3a5dc5bf?source=rss------data_science-5)
+- [Calling Smart Contracts with `chifra state --call`](https://tjayrush.medium.com/calling-smart-contracts-with-chifra-state-call-ea03b8d35ea7?source=rss------data_science-5)
+- [Are You Thinking About Buying A Home? Do You Know The Housing Market Amid The Covid-19 Pandemic?](https://medium.com/@ccao519/are-you-thinking-about-buying-a-home-do-you-know-the-housing-market-amid-the-covid-19-pandemic-6a6f7fb87edd?source=rss------data_science-5)
+- [THORChain — total volume swapped by pool and over time](https://cryptwizards.medium.com/thorchain-total-volume-swapped-by-pool-and-over-time-5bb4cde3dee5?source=rss------data_science-5)
+- [THORChain — Number of Users of THORChain Bridges by Asset](https://cryptwizards.medium.com/thorchain-number-of-users-of-thorchain-bridges-by-asset-894a835495f4?source=rss------data_science-5)
+- [Machine Learning Is The Future Of Test Data Management](https://servian.dev/machine-learning-is-the-future-of-test-data-management-adb6cecc47d4?source=rss------data_science-5)
+- [Time Series Analysis Real world use-cases in python](https://medium.com/@admin_82765/time-series-analysis-real-world-use-cases-in-python-2b3a484741ee?source=rss------data_science-5)
+- [Bias, consistency and designing KPI’s for data-driven endeavors](https://towardsdatascience.com/bias-consistency-and-designing-kpis-for-data-driven-endeavors-e643e09a945d?source=rss------data_science-5)
+- [Vasant Dhar and Daniel Kahneman on Noise: The Undesirable Variability within Decision Making](https://nyudatascience.medium.com/vasant-dhar-and-daniel-kahneman-on-noise-the-undesirable-variability-within-decision-making-960184b4e9ff?source=rss------data_science-5)
+- [Building data products](https://towardsdatascience.com/building-data-products-32b30f3ebfe3?source=rss------data_science-5)
+- [Analysis: Divvy Bikes - COVID’s Impacts and its impressive recovery](https://laxmena.medium.com/analysis-divvy-bikes-covids-impacts-and-its-impressive-recovery-5b42f6dfff40?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
