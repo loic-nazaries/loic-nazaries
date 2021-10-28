@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Calling Smart Contracts with `chifra state --call`](https://tjayrush.medium.com/calling-smart-contracts-with-chifra-state-call-ea03b8d35ea7?source=rss------data_science-5)
-- [Are You Thinking About Buying A Home? Do You Know The Housing Market Amid The Covid-19 Pandemic?](https://medium.com/@ccao519/are-you-thinking-about-buying-a-home-do-you-know-the-housing-market-amid-the-covid-19-pandemic-6a6f7fb87edd?source=rss------data_science-5)
-- [THORChain — total volume swapped by pool and over time](https://cryptwizards.medium.com/thorchain-total-volume-swapped-by-pool-and-over-time-5bb4cde3dee5?source=rss------data_science-5)
-- [THORChain — Number of Users of THORChain Bridges by Asset](https://cryptwizards.medium.com/thorchain-number-of-users-of-thorchain-bridges-by-asset-894a835495f4?source=rss------data_science-5)
-- [Machine Learning Is The Future Of Test Data Management](https://servian.dev/machine-learning-is-the-future-of-test-data-management-adb6cecc47d4?source=rss------data_science-5)
-- [Time Series Analysis Real world use-cases in python](https://medium.com/@admin_82765/time-series-analysis-real-world-use-cases-in-python-2b3a484741ee?source=rss------data_science-5)
-- [Bias, consistency and designing KPI’s for data-driven endeavors](https://towardsdatascience.com/bias-consistency-and-designing-kpis-for-data-driven-endeavors-e643e09a945d?source=rss------data_science-5)
-- [Vasant Dhar and Daniel Kahneman on Noise: The Undesirable Variability within Decision Making](https://nyudatascience.medium.com/vasant-dhar-and-daniel-kahneman-on-noise-the-undesirable-variability-within-decision-making-960184b4e9ff?source=rss------data_science-5)
-- [Building data products](https://towardsdatascience.com/building-data-products-32b30f3ebfe3?source=rss------data_science-5)
-- [Analysis: Divvy Bikes - COVID’s Impacts and its impressive recovery](https://laxmena.medium.com/analysis-divvy-bikes-covids-impacts-and-its-impressive-recovery-5b42f6dfff40?source=rss------data_science-5)
+- [PyTorch For Deep Learning](https://medium.com/codex/pytorch-for-deep-learning-c3b105353072?source=rss------data_science-5)
+- [Método de Ensemble](https://renata-gabriela.medium.com/m%C3%A9todo-de-ensemble-929c28c29770?source=rss------data_science-5)
+- [Amazing list of free programming books!](https://preettheman.medium.com/amazing-list-of-free-programming-books-c227cbe70423?source=rss------data_science-5)
+- [How to create your own image dataset and load it in python!](https://medium.com/@saikiranvarmas/how-to-create-your-own-image-dataset-and-load-it-in-python-1e96f55a461c?source=rss------data_science-5)
+- [Sometimes data can surprise us.](https://medium.com/@askscout/sometimes-data-can-surprise-us-b7ad206ef844?source=rss------data_science-5)
+- [THORChain — Liquidity Providers addresses metrics](https://cryptwizards.medium.com/thorchain-liquidity-providers-addresses-metrics-a202b8638c40?source=rss------data_science-5)
+- [¿Cómo preparar una entrevista de Data Analysis/Science? Parte-1](https://medium.com/@tomas.ertola/como-preparar-una-entrevista-para-un-puesto-en-data-parte-1-9d7becc6c30d?source=rss------data_science-5)
+- [THORChain — Swapping metrics](https://cryptwizards.medium.com/thorchain-swapping-metrics-672004f863cf?source=rss------data_science-5)
+- [The best Tech Skill to have in Finance and Accounting: SQL](https://christianmartinezfinancialfox.medium.com/the-best-tech-skill-to-have-in-finance-and-accounting-sql-72b107762eb8?source=rss------data_science-5)
+- [Segna Newsletter — 28 October 2021](https://medium.com/@segna/segna-newsletter-28-october-2021-7c30d6ffc49e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
