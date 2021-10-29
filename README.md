@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [PyTorch For Deep Learning](https://medium.com/codex/pytorch-for-deep-learning-c3b105353072?source=rss------data_science-5)
-- [Método de Ensemble](https://renata-gabriela.medium.com/m%C3%A9todo-de-ensemble-929c28c29770?source=rss------data_science-5)
-- [Amazing list of free programming books!](https://preettheman.medium.com/amazing-list-of-free-programming-books-c227cbe70423?source=rss------data_science-5)
-- [How to create your own image dataset and load it in python!](https://medium.com/@saikiranvarmas/how-to-create-your-own-image-dataset-and-load-it-in-python-1e96f55a461c?source=rss------data_science-5)
-- [Sometimes data can surprise us.](https://medium.com/@askscout/sometimes-data-can-surprise-us-b7ad206ef844?source=rss------data_science-5)
-- [THORChain — Liquidity Providers addresses metrics](https://cryptwizards.medium.com/thorchain-liquidity-providers-addresses-metrics-a202b8638c40?source=rss------data_science-5)
-- [¿Cómo preparar una entrevista de Data Analysis/Science? Parte-1](https://medium.com/@tomas.ertola/como-preparar-una-entrevista-para-un-puesto-en-data-parte-1-9d7becc6c30d?source=rss------data_science-5)
-- [THORChain — Swapping metrics](https://cryptwizards.medium.com/thorchain-swapping-metrics-672004f863cf?source=rss------data_science-5)
-- [The best Tech Skill to have in Finance and Accounting: SQL](https://christianmartinezfinancialfox.medium.com/the-best-tech-skill-to-have-in-finance-and-accounting-sql-72b107762eb8?source=rss------data_science-5)
-- [Segna Newsletter — 28 October 2021](https://medium.com/@segna/segna-newsletter-28-october-2021-7c30d6ffc49e?source=rss------data_science-5)
+- [The best data science projects for your resume](https://preettheman.medium.com/the-best-data-science-projects-for-your-resume-230e9364d9ba?source=rss------data_science-5)
+- [Customer Life Time Value Analysis](https://medium.com/@oatesch/customer-life-time-value-analysis-ce7dd2982af8?source=rss------data_science-5)
+- [How to Accelerate the Benefits of Dynamic Pricing for Your Business](https://wallarooai.medium.com/how-to-accelerate-the-benefits-of-dynamic-pricing-for-your-business-dfe69c80088e?source=rss------data_science-5)
+- [Automate Multiple CSV to BigQuery Pipelines with Google Sheets & Apps Script](https://towardsdatascience.com/automate-multiple-csv-to-bigquery-pipelines-with-google-sheets-apps-script-3ff05f535a09?source=rss------data_science-5)
+- [Data Preparation in R using dplyr, with Cheat Sheet! — KDnuggets](https://swpugsley.medium.com/data-preparation-in-r-using-dplyr-with-cheat-sheet-kdnuggets-a96ecc2de5a?source=rss------data_science-5)
+- [¿Estamos solos en el universo? Análisis y visualización de datos de avistamientos de ovnis con R](https://cosmoduende.medium.com/estamos-solos-en-el-universo-an%C3%A1lisis-y-visualizaci%C3%B3n-de-datos-de-avistamientos-de-ovnis-con-r-e81852ed14b7?source=rss------data_science-5)
+- [Umbrella Network](https://medium.com/@piusnsikak/umbrella-network-80c52bd44fc9?source=rss------data_science-5)
+- [Introduction to Oracle Database Management -2](https://medium.com/@alisuat.usta/introduction-to-oracle-database-management-2-91b16c06a9e5?source=rss------data_science-5)
+- [Machine Learning at Monzo in 2021](https://medium.com/data-monzo/machine-learning-at-monzo-in-2021-6b3a825db233?source=rss------data_science-5)
+- [Meet the Fellow: Vincent Divol](https://nyudatascience.medium.com/meet-the-fellow-vincent-divol-36079857903c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
