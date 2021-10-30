@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [4 Different Methods for Changing the Font Size in Python Seaborn](https://towardsdatascience.com/4-different-methods-for-changing-the-font-size-in-python-seaborn-fd5600592242?source=rss-2cf6b549448------2)
 - [Understanding the Intuition Behind Logistic Regression](https://sonery.medium.com/understanding-the-intuition-behind-logistic-regression-e0dc46193ba8?source=rss-2cf6b549448------2)
 - [3 Examples For Using Python Pandas More Efficiently](https://towardsdatascience.com/3-examples-for-using-python-pandas-more-efficiently-8173873c0bc6?source=rss-2cf6b549448------2)
 - [3 Lessons I Learned From The Hard Way As A Data Scientist](https://towardsdatascience.com/3-lessons-i-learned-from-the-hard-way-as-a-data-scientist-a0e99fa78330?source=rss-2cf6b549448------2)
 - [3 Not So Common Yet Functional Python Libraries for Data Science](https://towardsdatascience.com/3-not-so-common-yet-functional-python-libraries-for-data-science-fa58bbf6b405?source=rss-2cf6b549448------2)
-- [3 NumPy Functions to Facilitate Data Analysis with Pandas](https://towardsdatascience.com/3-numpy-functions-to-facilitate-data-analysis-with-pandas-b1ad342a569?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
