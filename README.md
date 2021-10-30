@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The best data science projects for your resume](https://preettheman.medium.com/the-best-data-science-projects-for-your-resume-230e9364d9ba?source=rss------data_science-5)
-- [Customer Life Time Value Analysis](https://medium.com/@oatesch/customer-life-time-value-analysis-ce7dd2982af8?source=rss------data_science-5)
-- [How to Accelerate the Benefits of Dynamic Pricing for Your Business](https://wallarooai.medium.com/how-to-accelerate-the-benefits-of-dynamic-pricing-for-your-business-dfe69c80088e?source=rss------data_science-5)
-- [Automate Multiple CSV to BigQuery Pipelines with Google Sheets & Apps Script](https://towardsdatascience.com/automate-multiple-csv-to-bigquery-pipelines-with-google-sheets-apps-script-3ff05f535a09?source=rss------data_science-5)
-- [Data Preparation in R using dplyr, with Cheat Sheet! — KDnuggets](https://swpugsley.medium.com/data-preparation-in-r-using-dplyr-with-cheat-sheet-kdnuggets-a96ecc2de5a?source=rss------data_science-5)
-- [¿Estamos solos en el universo? Análisis y visualización de datos de avistamientos de ovnis con R](https://cosmoduende.medium.com/estamos-solos-en-el-universo-an%C3%A1lisis-y-visualizaci%C3%B3n-de-datos-de-avistamientos-de-ovnis-con-r-e81852ed14b7?source=rss------data_science-5)
-- [Umbrella Network](https://medium.com/@piusnsikak/umbrella-network-80c52bd44fc9?source=rss------data_science-5)
-- [Introduction to Oracle Database Management -2](https://medium.com/@alisuat.usta/introduction-to-oracle-database-management-2-91b16c06a9e5?source=rss------data_science-5)
-- [Machine Learning at Monzo in 2021](https://medium.com/data-monzo/machine-learning-at-monzo-in-2021-6b3a825db233?source=rss------data_science-5)
-- [Meet the Fellow: Vincent Divol](https://nyudatascience.medium.com/meet-the-fellow-vincent-divol-36079857903c?source=rss------data_science-5)
+- [7 Data Science Projects You Can Finish in a Weekend](https://medium.com/this-code/7-data-science-projects-you-can-finish-in-a-weekend-f4939d6cff42?source=rss------data_science-5)
+- [What Is Data Science?](https://soorajsknair.medium.com/what-is-data-science-a2aecf679c25?source=rss------data_science-5)
+- [Key Metrics for Data Science Team Success](https://towardsdatascience.com/key-metrics-for-data-science-team-success-822da77f509c?source=rss------data_science-5)
+- [Train-Test split and Cross-Validation you should know in Machine Learning](https://towardsdatascience.com/all-the-train-test-split-and-cross-validation-you-should-know-in-machine-learning-7155457ce680?source=rss------data_science-5)
+- [KMeans ile Kullanıcıların Segmentlere Ayrılması](https://bagataburak.medium.com/kmeans-ile-kullan%C4%B1c%C4%B1lar%C4%B1n-segmentlere-ayr%C4%B1lmas%C4%B1-969441f7bd09?source=rss------data_science-5)
+- [Identify the Dog’s breed using Neural Network](https://medium.com/@ankur_kumar/identify-the-dogs-breed-using-neural-network-d571cd7f1459?source=rss------data_science-5)
+- [SARS-CoV-2 Disease State Classification by Support Vector Machines and Raman Spectroscopy](https://medium.com/@sjfraser/sars-cov-2-disease-state-classification-by-support-vector-machines-and-raman-spectroscopy-690c307a01cd?source=rss------data_science-5)
+- [DERİN ÖĞRENMEYİ ANLAMAK](https://hilalgozutok.medium.com/deri%CC%87n-%C3%B6%C4%9Frenmeyi%CC%87-anlamak-1e923ea76245?source=rss------data_science-5)
+- [Yeah, yeah, data science is a science and an art: But what does that really mean and why does it…](https://nyudatascience.medium.com/yeah-yeah-data-science-is-a-science-and-an-art-but-what-does-that-really-mean-and-why-does-it-933ae6934a8f?source=rss------data_science-5)
+- [Status Report of the Data Mining Superalgos Project](https://medium.com/superalgos/status-report-of-the-data-mining-superalgos-project-e453434e8772?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
