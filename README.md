@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [7 Data Science Projects You Can Finish in a Weekend](https://medium.com/this-code/7-data-science-projects-you-can-finish-in-a-weekend-f4939d6cff42?source=rss------data_science-5)
-- [What Is Data Science?](https://soorajsknair.medium.com/what-is-data-science-a2aecf679c25?source=rss------data_science-5)
-- [Key Metrics for Data Science Team Success](https://towardsdatascience.com/key-metrics-for-data-science-team-success-822da77f509c?source=rss------data_science-5)
-- [Train-Test split and Cross-Validation you should know in Machine Learning](https://towardsdatascience.com/all-the-train-test-split-and-cross-validation-you-should-know-in-machine-learning-7155457ce680?source=rss------data_science-5)
-- [KMeans ile Kullanıcıların Segmentlere Ayrılması](https://bagataburak.medium.com/kmeans-ile-kullan%C4%B1c%C4%B1lar%C4%B1n-segmentlere-ayr%C4%B1lmas%C4%B1-969441f7bd09?source=rss------data_science-5)
-- [Identify the Dog’s breed using Neural Network](https://medium.com/@ankur_kumar/identify-the-dogs-breed-using-neural-network-d571cd7f1459?source=rss------data_science-5)
-- [SARS-CoV-2 Disease State Classification by Support Vector Machines and Raman Spectroscopy](https://medium.com/@sjfraser/sars-cov-2-disease-state-classification-by-support-vector-machines-and-raman-spectroscopy-690c307a01cd?source=rss------data_science-5)
-- [DERİN ÖĞRENMEYİ ANLAMAK](https://hilalgozutok.medium.com/deri%CC%87n-%C3%B6%C4%9Frenmeyi%CC%87-anlamak-1e923ea76245?source=rss------data_science-5)
-- [Yeah, yeah, data science is a science and an art: But what does that really mean and why does it…](https://nyudatascience.medium.com/yeah-yeah-data-science-is-a-science-and-an-art-but-what-does-that-really-mean-and-why-does-it-933ae6934a8f?source=rss------data_science-5)
-- [Status Report of the Data Mining Superalgos Project](https://medium.com/superalgos/status-report-of-the-data-mining-superalgos-project-e453434e8772?source=rss------data_science-5)
+- [Dream of Watching Dreams](https://medium.com/ds3ucsd/dream-of-watching-dreams-423eb24fe7c5?source=rss------data_science-5)
+- [Three Times the Leafs had a 3–4–1 Slow Start](https://medium.com/@ntboehm/three-times-the-leafs-had-a-3-4-1-slow-start-442e014da8c5?source=rss------data_science-5)
+- [Easily download any Python package for AWS Lambda Layers](https://towardsdatascience.com/easily-download-any-python-package-for-aws-lambda-layers-b8ffd43a26ee?source=rss------data_science-5)
+- [Favorite Places to Find Datasets](https://medium.com/analytics-vidhya/favorite-places-to-find-datasets-6cf4c98288c?source=rss------data_science-5)
+- [It depends on how you define “effective.”](https://matthew-brems.medium.com/it-depends-on-how-you-define-effective-742d703bf928?source=rss------data_science-5)
+- [Airbnb Seattle Dataset: Basic Exploratory-Data-Analysis](https://medium.com/@daazene/airbnb-seattle-dataset-basic-exploratory-data-analysis-b2615b2a44ef?source=rss------data_science-5)
+- [Course Review: Udacity’s Introduction to Data Analysis](https://tracyrenee61.medium.com/course-review-udacitys-introduction-to-data-analysis-e55e28f30a50?source=rss------data_science-5)
+- [Best Projects to Showcase in Machine Learning Portfolio](https://suhas-maddali007.medium.com/best-projects-to-showcase-in-machine-learning-portfolio-11fd5fa00bfc?source=rss------data_science-5)
+- [Awesome Python tricks you don’t know about!](https://preettheman.medium.com/awesome-python-tricks-you-dont-know-about-a4cd600d3c5d?source=rss------data_science-5)
+- [Binomial distributions in practice](https://towardsdatascience.com/binomial-distribution-ec76d74952c4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
