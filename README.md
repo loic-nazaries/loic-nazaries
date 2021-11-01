@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Dream of Watching Dreams](https://medium.com/ds3ucsd/dream-of-watching-dreams-423eb24fe7c5?source=rss------data_science-5)
-- [Three Times the Leafs had a 3–4–1 Slow Start](https://medium.com/@ntboehm/three-times-the-leafs-had-a-3-4-1-slow-start-442e014da8c5?source=rss------data_science-5)
-- [Easily download any Python package for AWS Lambda Layers](https://towardsdatascience.com/easily-download-any-python-package-for-aws-lambda-layers-b8ffd43a26ee?source=rss------data_science-5)
-- [Favorite Places to Find Datasets](https://medium.com/analytics-vidhya/favorite-places-to-find-datasets-6cf4c98288c?source=rss------data_science-5)
-- [It depends on how you define “effective.”](https://matthew-brems.medium.com/it-depends-on-how-you-define-effective-742d703bf928?source=rss------data_science-5)
-- [Airbnb Seattle Dataset: Basic Exploratory-Data-Analysis](https://medium.com/@daazene/airbnb-seattle-dataset-basic-exploratory-data-analysis-b2615b2a44ef?source=rss------data_science-5)
-- [Course Review: Udacity’s Introduction to Data Analysis](https://tracyrenee61.medium.com/course-review-udacitys-introduction-to-data-analysis-e55e28f30a50?source=rss------data_science-5)
-- [Best Projects to Showcase in Machine Learning Portfolio](https://suhas-maddali007.medium.com/best-projects-to-showcase-in-machine-learning-portfolio-11fd5fa00bfc?source=rss------data_science-5)
-- [Awesome Python tricks you don’t know about!](https://preettheman.medium.com/awesome-python-tricks-you-dont-know-about-a4cd600d3c5d?source=rss------data_science-5)
-- [Binomial distributions in practice](https://towardsdatascience.com/binomial-distribution-ec76d74952c4?source=rss------data_science-5)
+- [Apa itu Big Data ?](https://medium.com/@ryanandhika9bilb/apa-itu-big-data-6de2b3595934?source=rss------data_science-5)
+- [Proof of Steak: September 2021 Rewards Distributed](https://medium.com/ravenprotocol/proof-of-steak-september-2021-rewards-distributed-b76b67ea5551?source=rss------data_science-5)
+- [The NLP Cypher | 10.31.21](https://quantumstat.medium.com/the-nlp-cypher-10-31-21-b615ec29953b?source=rss------data_science-5)
+- [How can you upskill in Data Analytics to transform your FP&A Department?](https://christianmartinezfinancialfox.medium.com/how-can-you-upskill-in-data-analytics-to-transform-your-fp-a-department-c79383359bdf?source=rss------data_science-5)
+- [What is While-True-Break in Python?](https://medium.com/code-85/what-is-while-true-break-in-python-ac66abeef15c?source=rss------data_science-5)
+- [Veri Bilimi İçin Ralli Maratonu Etap_3](https://medium.com/@bekirondes/veri-bilimi-i%CC%87%C3%A7in-ralli-maratonu-etap-3-17bd7b87484?source=rss------data_science-5)
+- [What Is The Modern Data Stack And Why You Need to Migrate to the It](https://medium.com/coriers/what-is-the-modern-data-stack-and-why-you-need-to-migrate-to-the-it-cd41c0033944?source=rss------data_science-5)
+- [Querying Data in SQL vs NoSQL](https://pub.towardsai.net/querying-data-in-sql-vs-nosql-4464b37dc718?source=rss------data_science-5)
+- [How to Boost 10X Productivity with Tmux](https://towardsdatascience.com/how-to-boost-10x-productivity-with-tmux-ead3d3d452f9?source=rss------data_science-5)
+- [Humans of ACM@UCR — Justin Mazon](https://medium.com/acm-at-ucr/humans-of-acm-ucr-justin-mazon-b1d1adb0b5f1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
