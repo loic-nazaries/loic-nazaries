@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Apa itu Big Data ?](https://medium.com/@ryanandhika9bilb/apa-itu-big-data-6de2b3595934?source=rss------data_science-5)
-- [Proof of Steak: September 2021 Rewards Distributed](https://medium.com/ravenprotocol/proof-of-steak-september-2021-rewards-distributed-b76b67ea5551?source=rss------data_science-5)
-- [The NLP Cypher | 10.31.21](https://quantumstat.medium.com/the-nlp-cypher-10-31-21-b615ec29953b?source=rss------data_science-5)
-- [How can you upskill in Data Analytics to transform your FP&A Department?](https://christianmartinezfinancialfox.medium.com/how-can-you-upskill-in-data-analytics-to-transform-your-fp-a-department-c79383359bdf?source=rss------data_science-5)
-- [What is While-True-Break in Python?](https://medium.com/code-85/what-is-while-true-break-in-python-ac66abeef15c?source=rss------data_science-5)
-- [Veri Bilimi İçin Ralli Maratonu Etap_3](https://medium.com/@bekirondes/veri-bilimi-i%CC%87%C3%A7in-ralli-maratonu-etap-3-17bd7b87484?source=rss------data_science-5)
-- [What Is The Modern Data Stack And Why You Need to Migrate to the It](https://medium.com/coriers/what-is-the-modern-data-stack-and-why-you-need-to-migrate-to-the-it-cd41c0033944?source=rss------data_science-5)
-- [Querying Data in SQL vs NoSQL](https://pub.towardsai.net/querying-data-in-sql-vs-nosql-4464b37dc718?source=rss------data_science-5)
-- [How to Boost 10X Productivity with Tmux](https://towardsdatascience.com/how-to-boost-10x-productivity-with-tmux-ead3d3d452f9?source=rss------data_science-5)
-- [Humans of ACM@UCR — Justin Mazon](https://medium.com/acm-at-ucr/humans-of-acm-ucr-justin-mazon-b1d1adb0b5f1?source=rss------data_science-5)
+- [PENTINGNYA BIG DATA](https://medium.com/@amadea0912/pentingnya-big-data-5048818646cf?source=rss------data_science-5)
+- [Start somewhere: Data Scientist roadmap](https://lostconnectionhere.medium.com/start-somewhere-data-scientist-roadmap-5626abb4b5ac?source=rss------data_science-5)
+- [Automatically Change Desktop Wallpaper with Python](https://betterprogramming.pub/automatically-change-desktop-wallpaper-with-python-9ec65bc5571a?source=rss------data_science-5)
+- [An Improved Starter System for New Traders: Multiple Signals](https://medium.com/raposa-technologies/an-improved-starter-system-for-new-traders-multiple-signals-dded8c71d344?source=rss------data_science-5)
+- [Should People Still Be Concerned About COVID-19?](https://jmstipanowich.medium.com/should-people-still-be-concerned-about-covid-19-3f35d284e5cd?source=rss------data_science-5)
+- [Projeto de machine learning](https://br-cienciadedados.medium.com/projeto-de-machine-learning-e651480eff5c?source=rss------data_science-5)
+- [Como Fazer Processamento Paralelo com Python](https://medium.com/data-hackers/como-fazer-processamento-paralelo-com-python-586fe8f589aa?source=rss------data_science-5)
+- [A Response to the Responses to “Why is Zero Factorial 1?”](https://medium.com/math-simplified/a-response-to-the-responses-to-why-is-zero-factorial-1-db4d1a6b6fd8?source=rss------data_science-5)
+- [3 R tricks for data scientists](https://preettheman.medium.com/3-r-tricks-for-data-scientists-d214c5734f86?source=rss------data_science-5)
+- [How to connect to Twitter API using tweepy](https://medium.com/@robguilarr/how-to-connect-to-twitter-api-using-tweepy-31a884d331b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
