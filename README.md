@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [PENTINGNYA BIG DATA](https://medium.com/@amadea0912/pentingnya-big-data-5048818646cf?source=rss------data_science-5)
-- [Start somewhere: Data Scientist roadmap](https://lostconnectionhere.medium.com/start-somewhere-data-scientist-roadmap-5626abb4b5ac?source=rss------data_science-5)
-- [Automatically Change Desktop Wallpaper with Python](https://betterprogramming.pub/automatically-change-desktop-wallpaper-with-python-9ec65bc5571a?source=rss------data_science-5)
-- [An Improved Starter System for New Traders: Multiple Signals](https://medium.com/raposa-technologies/an-improved-starter-system-for-new-traders-multiple-signals-dded8c71d344?source=rss------data_science-5)
-- [Should People Still Be Concerned About COVID-19?](https://jmstipanowich.medium.com/should-people-still-be-concerned-about-covid-19-3f35d284e5cd?source=rss------data_science-5)
-- [Projeto de machine learning](https://br-cienciadedados.medium.com/projeto-de-machine-learning-e651480eff5c?source=rss------data_science-5)
-- [Como Fazer Processamento Paralelo com Python](https://medium.com/data-hackers/como-fazer-processamento-paralelo-com-python-586fe8f589aa?source=rss------data_science-5)
-- [A Response to the Responses to “Why is Zero Factorial 1?”](https://medium.com/math-simplified/a-response-to-the-responses-to-why-is-zero-factorial-1-db4d1a6b6fd8?source=rss------data_science-5)
-- [3 R tricks for data scientists](https://preettheman.medium.com/3-r-tricks-for-data-scientists-d214c5734f86?source=rss------data_science-5)
-- [How to connect to Twitter API using tweepy](https://medium.com/@robguilarr/how-to-connect-to-twitter-api-using-tweepy-31a884d331b?source=rss------data_science-5)
+- [Tableau: From Visualizations to a Dashboard](https://mkatzenbach8.medium.com/tableau-from-visualizations-to-a-dashboard-f799678ce023?source=rss------data_science-5)
+- [Data Quality & Measurement Process Assessment](https://medium.com/the-shortform/data-quality-measurement-process-assessment-4456fafa5594?source=rss------data_science-5)
+- [Insights from StackOverflow Developer Survey in 2017](https://mohammed-sadiq-alali.medium.com/insights-from-stackoverflow-developer-survey-in-2017-dfbb7520e1a5?source=rss------data_science-5)
+- [Run This](https://microprediction.medium.com/run-this-4c8ec95aae3f?source=rss------data_science-5)
+- [It’s the Principal of the Thing](https://jasondeden.medium.com/its-the-principal-of-the-thing-5ac0ac2c194e?source=rss------data_science-5)
+- [How to send a text message with Python](https://preettheman.medium.com/how-to-send-a-text-message-with-python-edc97140608f?source=rss------data_science-5)
+- [When Data Science Fails](https://medium.com/alpha-beta-blog/when-data-science-fails-4cc5e190f94d?source=rss------data_science-5)
+- [Learn These Programming Languages To Secure a Job](https://preettheman.medium.com/learn-these-programming-languages-to-secure-a-job-eabeeefed8c2?source=rss------data_science-5)
+- [Onboarding AI startups from Web2 to Web3](https://medium.com/@richardblythman/onboarding-ai-startups-from-web2-to-web3-923b3e0f744b?source=rss------data_science-5)
+- [Data Analysis Project Red Flags](https://megandibble.medium.com/data-analysis-project-red-flags-6485d401f1e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
