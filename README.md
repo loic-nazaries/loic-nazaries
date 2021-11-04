@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Tableau: From Visualizations to a Dashboard](https://mkatzenbach8.medium.com/tableau-from-visualizations-to-a-dashboard-f799678ce023?source=rss------data_science-5)
-- [Data Quality & Measurement Process Assessment](https://medium.com/the-shortform/data-quality-measurement-process-assessment-4456fafa5594?source=rss------data_science-5)
-- [Insights from StackOverflow Developer Survey in 2017](https://mohammed-sadiq-alali.medium.com/insights-from-stackoverflow-developer-survey-in-2017-dfbb7520e1a5?source=rss------data_science-5)
-- [Run This](https://microprediction.medium.com/run-this-4c8ec95aae3f?source=rss------data_science-5)
-- [It’s the Principal of the Thing](https://jasondeden.medium.com/its-the-principal-of-the-thing-5ac0ac2c194e?source=rss------data_science-5)
-- [How to send a text message with Python](https://preettheman.medium.com/how-to-send-a-text-message-with-python-edc97140608f?source=rss------data_science-5)
-- [When Data Science Fails](https://medium.com/alpha-beta-blog/when-data-science-fails-4cc5e190f94d?source=rss------data_science-5)
-- [Learn These Programming Languages To Secure a Job](https://preettheman.medium.com/learn-these-programming-languages-to-secure-a-job-eabeeefed8c2?source=rss------data_science-5)
-- [Onboarding AI startups from Web2 to Web3](https://medium.com/@richardblythman/onboarding-ai-startups-from-web2-to-web3-923b3e0f744b?source=rss------data_science-5)
-- [Data Analysis Project Red Flags](https://megandibble.medium.com/data-analysis-project-red-flags-6485d401f1e?source=rss------data_science-5)
+- [Eli5 : K-NN](https://medium.com/@funkysmilex/eli5-k-nn-946fd328069f?source=rss------data_science-5)
+- [3 Python Tools You Need to Try](https://medium.com/trymito/3-python-tools-you-need-to-try-72c3380974db?source=rss------data_science-5)
+- [Predicting Win Totals for the Second-Half of the NFL Season using Linear Regression](https://michaelblack-2306.medium.com/predicting-win-totals-for-the-second-half-of-the-nfl-season-using-linear-regression-a9dcb275f76c?source=rss------data_science-5)
+- [Why do Aggressive Defensemen Experience Sharp Declines at Young Ages?](https://topdownhockey.medium.com/why-do-aggressive-defensemen-experience-sharp-declines-at-young-ages-9ff82a579bdf?source=rss------data_science-5)
+- [Modelos de atribución en marketing. Modelos MMM (2/6)](https://tomasreneboldi.medium.com/modelos-de-atribucion-en-marketing-modelos-mmm-2-6-ba98e7b45079?source=rss------data_science-5)
+- [Modelos de atribución en marketing. ¿Qué es la atribución? (1/6)](https://tomasreneboldi.medium.com/modelos-de-atribucion-en-marketing-quo-es-la-atribucion-1-6-b8d419591c43?source=rss------data_science-5)
+- [Cohort 10 Student Spotlight: Meet Nestor Teodoro Chavez](https://medium.com/usf-msds/cohort-10-student-spotlight-meet-nestor-teodoro-chavez-ce4570b7f34e?source=rss------data_science-5)
+- [Let’s Data Podcast #015 — Gabriel Lages](https://medium.com/lets-data/lets-data-podcast-015-gabriel-lages-b0e96a05f0d8?source=rss------data_science-5)
+- [Launching Recsperts — the Recommender Systems Experts Podcast](https://towardsdatascience.com/launching-recsperts-the-recommender-systems-experts-podcast-e5b536ef742d?source=rss------data_science-5)
+- [SQL From Zero to Hero in 30 Days — Day 1 Introduction](https://towardsdatascience.com/sql-from-zero-to-hero-in-30-days-day-1-introduction-32d5305e9070?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
