@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Eli5 : K-NN](https://medium.com/@funkysmilex/eli5-k-nn-946fd328069f?source=rss------data_science-5)
-- [3 Python Tools You Need to Try](https://medium.com/trymito/3-python-tools-you-need-to-try-72c3380974db?source=rss------data_science-5)
-- [Predicting Win Totals for the Second-Half of the NFL Season using Linear Regression](https://michaelblack-2306.medium.com/predicting-win-totals-for-the-second-half-of-the-nfl-season-using-linear-regression-a9dcb275f76c?source=rss------data_science-5)
-- [Why do Aggressive Defensemen Experience Sharp Declines at Young Ages?](https://topdownhockey.medium.com/why-do-aggressive-defensemen-experience-sharp-declines-at-young-ages-9ff82a579bdf?source=rss------data_science-5)
-- [Modelos de atribución en marketing. Modelos MMM (2/6)](https://tomasreneboldi.medium.com/modelos-de-atribucion-en-marketing-modelos-mmm-2-6-ba98e7b45079?source=rss------data_science-5)
-- [Modelos de atribución en marketing. ¿Qué es la atribución? (1/6)](https://tomasreneboldi.medium.com/modelos-de-atribucion-en-marketing-quo-es-la-atribucion-1-6-b8d419591c43?source=rss------data_science-5)
-- [Cohort 10 Student Spotlight: Meet Nestor Teodoro Chavez](https://medium.com/usf-msds/cohort-10-student-spotlight-meet-nestor-teodoro-chavez-ce4570b7f34e?source=rss------data_science-5)
-- [Let’s Data Podcast #015 — Gabriel Lages](https://medium.com/lets-data/lets-data-podcast-015-gabriel-lages-b0e96a05f0d8?source=rss------data_science-5)
-- [Launching Recsperts — the Recommender Systems Experts Podcast](https://towardsdatascience.com/launching-recsperts-the-recommender-systems-experts-podcast-e5b536ef742d?source=rss------data_science-5)
-- [SQL From Zero to Hero in 30 Days — Day 1 Introduction](https://towardsdatascience.com/sql-from-zero-to-hero-in-30-days-day-1-introduction-32d5305e9070?source=rss------data_science-5)
+- [️SUPERMARKET SALES EXPLORATORY DATA ANALYSIS(EDA)️](https://medium.com/@jwadjas/%EF%B8%8Fsupermarket-sales-exploratory-data-analysis-eda-%EF%B8%8F-139a697ac3c3?source=rss------data_science-5)
+- [Fantasy EPL GW10 Recap and GW11 Algo Recommendations](https://medium.datadriveninvestor.com/fantasy-epl-gw10-recap-and-gw11-algo-recommendations-6bafe2aa7be8?source=rss------data_science-5)
+- [Students need to focus on studying in order to earn degree.](https://sultansaiful.medium.com/students-need-to-focus-on-studying-in-order-to-earn-degree-75c8eed844a3?source=rss------data_science-5)
+- [How I landed a UX/UI Interview without work experience](https://bootcamp.uxdesign.cc/how-i-landed-a-ux-ui-interview-without-experience-7858ae179ccf?source=rss------data_science-5)
+- [Types of graphs and their characteristics](https://medium.com/rappibank/types-of-graphs-and-their-characteristics-df964aee8bd7?source=rss------data_science-5)
+- [Share your data science application on AWS](https://medium.com/@leijun_song/share-your-data-science-application-on-aws-f1e5175a2d2e?source=rss------data_science-5)
+- [How we use the Economics’ Nobel Prize-winning work at Loggi](https://partiu.loggi.com/how-we-use-the-economics-nobel-prize-winning-work-at-loggi-8db0c9f3b7cf?source=rss------data_science-5)
+- [RL vs Optimal Control: LQR for Trajectory Tracking (With Python Code)](https://kowshikchilamkurthy.medium.com/rl-vs-optimal-control-lqr-for-trajectory-tracking-with-python-code-105ce44e1761?source=rss------data_science-5)
+- [Chicago Data Project Using SQL and Python](https://medium.com/@anusha.kuppahally/chicago-data-project-using-sql-and-python-dfc7b5129242?source=rss------data_science-5)
+- [Utilizando a Inteligência Artificial para calcular o valor do seguro de vida.](https://thalesferraz.medium.com/utilizando-a-intelig%C3%AAncia-artificial-para-calcular-o-valor-do-seguro-de-vida-134260a1e2cd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
