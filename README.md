@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [️SUPERMARKET SALES EXPLORATORY DATA ANALYSIS(EDA)️](https://medium.com/@jwadjas/%EF%B8%8Fsupermarket-sales-exploratory-data-analysis-eda-%EF%B8%8F-139a697ac3c3?source=rss------data_science-5)
-- [Fantasy EPL GW10 Recap and GW11 Algo Recommendations](https://medium.datadriveninvestor.com/fantasy-epl-gw10-recap-and-gw11-algo-recommendations-6bafe2aa7be8?source=rss------data_science-5)
-- [Students need to focus on studying in order to earn degree.](https://sultansaiful.medium.com/students-need-to-focus-on-studying-in-order-to-earn-degree-75c8eed844a3?source=rss------data_science-5)
-- [How I landed a UX/UI Interview without work experience](https://bootcamp.uxdesign.cc/how-i-landed-a-ux-ui-interview-without-experience-7858ae179ccf?source=rss------data_science-5)
-- [Types of graphs and their characteristics](https://medium.com/rappibank/types-of-graphs-and-their-characteristics-df964aee8bd7?source=rss------data_science-5)
-- [Share your data science application on AWS](https://medium.com/@leijun_song/share-your-data-science-application-on-aws-f1e5175a2d2e?source=rss------data_science-5)
-- [How we use the Economics’ Nobel Prize-winning work at Loggi](https://partiu.loggi.com/how-we-use-the-economics-nobel-prize-winning-work-at-loggi-8db0c9f3b7cf?source=rss------data_science-5)
-- [RL vs Optimal Control: LQR for Trajectory Tracking (With Python Code)](https://kowshikchilamkurthy.medium.com/rl-vs-optimal-control-lqr-for-trajectory-tracking-with-python-code-105ce44e1761?source=rss------data_science-5)
-- [Chicago Data Project Using SQL and Python](https://medium.com/@anusha.kuppahally/chicago-data-project-using-sql-and-python-dfc7b5129242?source=rss------data_science-5)
-- [Utilizando a Inteligência Artificial para calcular o valor do seguro de vida.](https://thalesferraz.medium.com/utilizando-a-intelig%C3%AAncia-artificial-para-calcular-o-valor-do-seguro-de-vida-134260a1e2cd?source=rss------data_science-5)
+- [All you need to know in Data Science with Airbnb Berlin Listings](https://medium.com/@mauricio.leao.hess/all-you-need-to-know-in-data-science-with-airbnb-berlin-listings-586a40d37c1e?source=rss------data_science-5)
+- [Biblioteconomia Orientada a Dados: questões éticas para um excelente profissional.](https://medium.com/@leonardomarcal/biblioteconomia-orientada-a-dados-quest%C3%B5es-%C3%A9ticas-para-um-excelente-profissional-135bdc2fe4a4?source=rss------data_science-5)
+- [A Better Way to Handle Missing Values in your Dataset: Using IterativeImputer on the Stock Market…](https://gifari.medium.com/a-better-way-to-handle-missing-values-in-your-dataset-using-iterativeimputer-on-the-stock-market-dbbb5d4ef458?source=rss------data_science-5)
+- [Ways to impress people with Python](https://preettheman.medium.com/ways-to-impress-people-with-python-2a5e7915b9ca?source=rss------data_science-5)
+- [Data Experience Diagnostic](https://medium.com/designinghumanservices/data-experience-diagnostic-46f6bc09b142?source=rss------data_science-5)
+- [Ponto de Vista como Conhecimento Baseado em Dados](https://medium.com/@edsonjosevp/ponto-de-vista-como-conhecimento-baseado-em-dados-e8e7f0b6f8ac?source=rss------data_science-5)
+- [Tough Love for Naïve Data Newbies](https://towardsdatascience.com/tough-love-for-na%C3%AFve-data-newbies-5dd376693eea?source=rss------data_science-5)
+- [Massive list of internships in 2022](https://preettheman.medium.com/massive-list-of-internships-in-2022-fa41613e8ccf?source=rss------data_science-5)
+- [6 Data Science Projects You Can Build Today](https://medium.com/@anton.franzen/6-data-science-projects-you-can-build-today-95afddd8b038?source=rss------data_science-5)
+- [¿Ser un ingeniero de datos en lugar de un científico de datos?](https://bootcampai.medium.com/ser-un-ingeniero-de-datos-en-lugar-de-un-cient%C3%ADfico-de-datos-f5ee912468fe?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
