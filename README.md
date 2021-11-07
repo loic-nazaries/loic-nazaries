@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [3 Tips For Making Better Use Of The Data Science Content on Medium](https://towardsdatascience.com/3-tips-for-making-better-use-of-the-data-science-content-on-medium-45c11fb10c11?source=rss-2cf6b549448------2)
+- [3 Features of Python Matplotlib That Make Data Visualizations More Appealing and Informative](https://towardsdatascience.com/3-features-of-python-matplotlib-that-make-data-visualizations-more-appealing-and-informative-e326762dea85?source=rss-2cf6b549448------2)
 - [SQL From Zero to Hero in 30 Days — Day 3 Filtering](https://sonery.medium.com/sql-from-zero-to-hero-in-30-days-day-3-filtering-e841d384fa21?source=rss-2cf6b549448------2)
 - [SQL From Zero to Hero in 30 Days — Day 2 The Select](https://sonery.medium.com/sql-from-zero-to-hero-in-30-days-day-2-the-select-3f227020caa?source=rss-2cf6b549448------2)
 - [SQL From Zero to Hero in 30 Days — Day 1 Introduction](https://sonery.medium.com/sql-from-zero-to-hero-in-30-days-day-1-introduction-32d5305e9070?source=rss-2cf6b549448------2)
-- [4 Different Methods for Changing the Font Size in Python Seaborn](https://towardsdatascience.com/4-different-methods-for-changing-the-font-size-in-python-seaborn-fd5600592242?source=rss-2cf6b549448------2)
-- [Understanding the Intuition Behind Logistic Regression](https://sonery.medium.com/understanding-the-intuition-behind-logistic-regression-e0dc46193ba8?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
