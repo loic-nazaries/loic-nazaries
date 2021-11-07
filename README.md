@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [All you need to know in Data Science with Airbnb Berlin Listings](https://medium.com/@mauricio.leao.hess/all-you-need-to-know-in-data-science-with-airbnb-berlin-listings-586a40d37c1e?source=rss------data_science-5)
-- [Biblioteconomia Orientada a Dados: questões éticas para um excelente profissional.](https://medium.com/@leonardomarcal/biblioteconomia-orientada-a-dados-quest%C3%B5es-%C3%A9ticas-para-um-excelente-profissional-135bdc2fe4a4?source=rss------data_science-5)
-- [A Better Way to Handle Missing Values in your Dataset: Using IterativeImputer on the Stock Market…](https://gifari.medium.com/a-better-way-to-handle-missing-values-in-your-dataset-using-iterativeimputer-on-the-stock-market-dbbb5d4ef458?source=rss------data_science-5)
-- [Ways to impress people with Python](https://preettheman.medium.com/ways-to-impress-people-with-python-2a5e7915b9ca?source=rss------data_science-5)
-- [Data Experience Diagnostic](https://medium.com/designinghumanservices/data-experience-diagnostic-46f6bc09b142?source=rss------data_science-5)
-- [Ponto de Vista como Conhecimento Baseado em Dados](https://medium.com/@edsonjosevp/ponto-de-vista-como-conhecimento-baseado-em-dados-e8e7f0b6f8ac?source=rss------data_science-5)
-- [Tough Love for Naïve Data Newbies](https://towardsdatascience.com/tough-love-for-na%C3%AFve-data-newbies-5dd376693eea?source=rss------data_science-5)
-- [Massive list of internships in 2022](https://preettheman.medium.com/massive-list-of-internships-in-2022-fa41613e8ccf?source=rss------data_science-5)
-- [6 Data Science Projects You Can Build Today](https://medium.com/@anton.franzen/6-data-science-projects-you-can-build-today-95afddd8b038?source=rss------data_science-5)
-- [¿Ser un ingeniero de datos en lugar de un científico de datos?](https://bootcampai.medium.com/ser-un-ingeniero-de-datos-en-lugar-de-un-cient%C3%ADfico-de-datos-f5ee912468fe?source=rss------data_science-5)
+- [10% Of Medium Writers Make 90% Of The Dollars That Medium Pays Out](https://medium.com/alpha-beta-blog/10-of-medium-writers-make-90-of-the-dollars-that-medium-pays-out-19ff84d41255?source=rss------data_science-5)
+- [In-Depth ETL in Machine Learning (Dr](https://viannaandresouza.medium.com/in-depth-etl-in-machine-learning-dr-8216316543ad?source=rss------data_science-5)
+- [How to implemente logistic regression algorithm in Machine learning](https://viannaandresouza.medium.com/how-to-implemente-logistic-regression-algorithm-in-machine-learning-dd9834e1c89b?source=rss------data_science-5)
+- [Turn a Shiny Dashboard into a Desktop App](https://jefferey-cave.medium.com/turn-a-shiny-dashboard-into-a-desktop-app-6f51287b7d6f?source=rss------data_science-5)
+- [Scikit-learn: Machine learning in Python](https://medium.com/@vallemellissa/scikit-learn-machine-learning-in-python-84a450cb4c7f?source=rss------data_science-5)
+- [Using Machine Learning To Predict The Futures of Cryptocurrencies](https://medium.com/@pratyushdutta29/using-machine-learning-to-predict-the-futures-of-cryptocurrencies-dafb3f823adb?source=rss------data_science-5)
+- [Serverless Free Webscraper on AWS Lambda using Chromedriver - PyChrome](https://medium.com/@aka54deep90/serverless-free-webscraper-on-aws-lambda-using-chromedriver-pychrome-2f3f4873bb57?source=rss------data_science-5)
+- [A powerful, easy, and enjoyable python profiler](https://towardsdatascience.com/a-powerful-easy-and-enjoyable-python-profiler-12b792bc91d6?source=rss------data_science-5)
+- [Statistics For Data-Science — Basics of Population and Sample](https://viannaandresouza.medium.com/statistics-for-data-science-basics-of-population-and-sample-3759093f140f?source=rss------data_science-5)
+- [Sector similarities in macro point 1 (Interactive Financial Analysis)](https://medium.com/interactive-financial-analysis/sector-similarities-in-macro-point-1-interactive-financial-analysis-4d1ff72c741d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
