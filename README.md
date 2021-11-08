@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [10% Of Medium Writers Make 90% Of The Dollars That Medium Pays Out](https://medium.com/alpha-beta-blog/10-of-medium-writers-make-90-of-the-dollars-that-medium-pays-out-19ff84d41255?source=rss------data_science-5)
-- [In-Depth ETL in Machine Learning (Dr](https://viannaandresouza.medium.com/in-depth-etl-in-machine-learning-dr-8216316543ad?source=rss------data_science-5)
-- [How to implemente logistic regression algorithm in Machine learning](https://viannaandresouza.medium.com/how-to-implemente-logistic-regression-algorithm-in-machine-learning-dd9834e1c89b?source=rss------data_science-5)
-- [Turn a Shiny Dashboard into a Desktop App](https://jefferey-cave.medium.com/turn-a-shiny-dashboard-into-a-desktop-app-6f51287b7d6f?source=rss------data_science-5)
-- [Scikit-learn: Machine learning in Python](https://medium.com/@vallemellissa/scikit-learn-machine-learning-in-python-84a450cb4c7f?source=rss------data_science-5)
-- [Using Machine Learning To Predict The Futures of Cryptocurrencies](https://medium.com/@pratyushdutta29/using-machine-learning-to-predict-the-futures-of-cryptocurrencies-dafb3f823adb?source=rss------data_science-5)
-- [Serverless Free Webscraper on AWS Lambda using Chromedriver - PyChrome](https://medium.com/@aka54deep90/serverless-free-webscraper-on-aws-lambda-using-chromedriver-pychrome-2f3f4873bb57?source=rss------data_science-5)
-- [A powerful, easy, and enjoyable python profiler](https://towardsdatascience.com/a-powerful-easy-and-enjoyable-python-profiler-12b792bc91d6?source=rss------data_science-5)
-- [Statistics For Data-Science — Basics of Population and Sample](https://viannaandresouza.medium.com/statistics-for-data-science-basics-of-population-and-sample-3759093f140f?source=rss------data_science-5)
-- [Sector similarities in macro point 1 (Interactive Financial Analysis)](https://medium.com/interactive-financial-analysis/sector-similarities-in-macro-point-1-interactive-financial-analysis-4d1ff72c741d?source=rss------data_science-5)
+- [My Medium Stats and Earnings from 2020 and 2021](https://lucas-soares.medium.com/my-medium-stats-and-earnings-from-2020-and-2021-e311dcff05c5?source=rss------data_science-5)
+- [Create An Awesome Streamlit App & Deploy it With Docker](https://towardsdatascience.com/create-an-awesome-streamlit-app-deploy-it-with-docker-a3d202a636e8?source=rss------data_science-5)
+- [A/B test rational](https://arnaud-pourchez.medium.com/a-b-test-rational-b4ee1d3bf826?source=rss------data_science-5)
+- [Statistics For Data Science with Python — Absolute & Relative Datas (3/10)(Draft)](https://andreviannabr.medium.com/statistics-for-data-science-with-python-absolute-relative-datas-3-10-draft-6a7aa2d9d476?source=rss------data_science-5)
+- [Creating the Swing Indicator in TradingView — The Full Guide.](https://kaabar-sofien.medium.com/creating-the-swing-indicator-in-tradingview-the-full-guide-b74b98c09eb6?source=rss------data_science-5)
+- [Machine learning projects you can build to impress people](https://preettheman.medium.com/machine-learning-projects-you-can-build-to-impress-people-46a6705880d6?source=rss------data_science-5)
+- [Our First Article! AVP Stats part 1.](https://beachvolleyballanalytics.medium.com/our-first-article-avp-stats-part-1-1e075b2acfe8?source=rss------data_science-5)
+- [A Gentle Introduction to Scraping a Table by Hand](https://hanif-watson.medium.com/a-gentle-introduction-to-scraping-a-table-by-hand-41442b449679?source=rss------data_science-5)
+- [Bias in Clinical Research, Data Science, Machine Learning & Deep Learning](https://jonathan-hui.medium.com/bias-in-clinical-research-data-science-machine-learning-deep-learning-40a8786a5046?source=rss------data_science-5)
+- [Amazing Python package for Pandas users](https://preettheman.medium.com/amazing-python-package-for-pandas-users-764ee6862652?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
