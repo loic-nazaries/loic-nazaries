@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [My Medium Stats and Earnings from 2020 and 2021](https://lucas-soares.medium.com/my-medium-stats-and-earnings-from-2020-and-2021-e311dcff05c5?source=rss------data_science-5)
-- [Create An Awesome Streamlit App & Deploy it With Docker](https://towardsdatascience.com/create-an-awesome-streamlit-app-deploy-it-with-docker-a3d202a636e8?source=rss------data_science-5)
-- [A/B test rational](https://arnaud-pourchez.medium.com/a-b-test-rational-b4ee1d3bf826?source=rss------data_science-5)
-- [Statistics For Data Science with Python — Absolute & Relative Datas (3/10)(Draft)](https://andreviannabr.medium.com/statistics-for-data-science-with-python-absolute-relative-datas-3-10-draft-6a7aa2d9d476?source=rss------data_science-5)
-- [Creating the Swing Indicator in TradingView — The Full Guide.](https://kaabar-sofien.medium.com/creating-the-swing-indicator-in-tradingview-the-full-guide-b74b98c09eb6?source=rss------data_science-5)
-- [Machine learning projects you can build to impress people](https://preettheman.medium.com/machine-learning-projects-you-can-build-to-impress-people-46a6705880d6?source=rss------data_science-5)
-- [Our First Article! AVP Stats part 1.](https://beachvolleyballanalytics.medium.com/our-first-article-avp-stats-part-1-1e075b2acfe8?source=rss------data_science-5)
-- [A Gentle Introduction to Scraping a Table by Hand](https://hanif-watson.medium.com/a-gentle-introduction-to-scraping-a-table-by-hand-41442b449679?source=rss------data_science-5)
-- [Bias in Clinical Research, Data Science, Machine Learning & Deep Learning](https://jonathan-hui.medium.com/bias-in-clinical-research-data-science-machine-learning-deep-learning-40a8786a5046?source=rss------data_science-5)
-- [Amazing Python package for Pandas users](https://preettheman.medium.com/amazing-python-package-for-pandas-users-764ee6862652?source=rss------data_science-5)
+- [Visual Studio is getting a big update!](https://preettheman.medium.com/visual-studio-is-getting-a-big-update-bd0d6b61b364?source=rss------data_science-5)
+- [Launch your Career in Finance &amp; Data Analytics](https://christianmartinezfinancialfox.medium.com/launch-your-career-in-finance-data-analytics-cbe3377b7353?source=rss------data_science-5)
+- [Projeto Querido Diário e a transparência de dados municipais](https://medium.com/@breudes/projeto-querido-di%C3%A1rio-e-a-transpar%C3%AAncia-de-dados-municipais-c69ed232d7b?source=rss------data_science-5)
+- [A Better Approach to Text Summarization](https://towardsdatascience.com/a-better-approach-to-text-summarization-d7139b571439?source=rss------data_science-5)
+- [Learning Disruptive Technologies](https://medium.com/@mohamedmartino/learning-disruptive-technologies-185d6aef5469?source=rss------data_science-5)
+- [Combating Money-Laundering Using Data Science](https://dmai287.medium.com/combating-money-laundering-using-data-science-47cf708cef7c?source=rss------data_science-5)
+- [2 Things to Check If Your Well-Trained Model Performs Bad on Test Data](https://medium.com/@alper.engin/2-things-to-check-if-your-well-trained-model-performs-bad-on-test-data-670b670e000?source=rss------data_science-5)
+- [Intro to Data Preprocessing in Python](https://medium.com/the-shortform/intro-to-data-preprocessing-in-python-68d3754cf7a2?source=rss------data_science-5)
+- [Building an AutoRegression model for Time Series analysis in Python](https://medium.com/@karen.mossoyan/building-an-autoregression-model-for-time-series-analysis-in-python-49402bdd6d08?source=rss------data_science-5)
+- [Distributed Computing 4 | AWS IAM Configurations, Amazon EMR and Spark Clusters](https://medium.com/adamedelwiess/distributed-computing-4-aws-iam-configurations-amazon-emr-and-spark-clusters-3a90cbf28e9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
