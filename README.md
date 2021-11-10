@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Visual Studio is getting a big update!](https://preettheman.medium.com/visual-studio-is-getting-a-big-update-bd0d6b61b364?source=rss------data_science-5)
-- [Launch your Career in Finance &amp; Data Analytics](https://christianmartinezfinancialfox.medium.com/launch-your-career-in-finance-data-analytics-cbe3377b7353?source=rss------data_science-5)
-- [Projeto Querido Diário e a transparência de dados municipais](https://medium.com/@breudes/projeto-querido-di%C3%A1rio-e-a-transpar%C3%AAncia-de-dados-municipais-c69ed232d7b?source=rss------data_science-5)
-- [A Better Approach to Text Summarization](https://towardsdatascience.com/a-better-approach-to-text-summarization-d7139b571439?source=rss------data_science-5)
-- [Learning Disruptive Technologies](https://medium.com/@mohamedmartino/learning-disruptive-technologies-185d6aef5469?source=rss------data_science-5)
-- [Combating Money-Laundering Using Data Science](https://dmai287.medium.com/combating-money-laundering-using-data-science-47cf708cef7c?source=rss------data_science-5)
-- [2 Things to Check If Your Well-Trained Model Performs Bad on Test Data](https://medium.com/@alper.engin/2-things-to-check-if-your-well-trained-model-performs-bad-on-test-data-670b670e000?source=rss------data_science-5)
-- [Intro to Data Preprocessing in Python](https://medium.com/the-shortform/intro-to-data-preprocessing-in-python-68d3754cf7a2?source=rss------data_science-5)
-- [Building an AutoRegression model for Time Series analysis in Python](https://medium.com/@karen.mossoyan/building-an-autoregression-model-for-time-series-analysis-in-python-49402bdd6d08?source=rss------data_science-5)
-- [Distributed Computing 4 | AWS IAM Configurations, Amazon EMR and Spark Clusters](https://medium.com/adamedelwiess/distributed-computing-4-aws-iam-configurations-amazon-emr-and-spark-clusters-3a90cbf28e9?source=rss------data_science-5)
+- [Why was Ethical AI Avatar born?](https://pub.towardsai.net/why-was-ethical-ai-avatar-born-699d6cc67072?source=rss------data_science-5)
+- [11 Tricks to Master Values Sorting in Pandas](https://towardsdatascience.com/11-tricks-to-master-values-sorting-in-pandas-7f2cfbf19730?source=rss------data_science-5)
+- [Statistics For Data Science with Python — Descritive Statistic &lpar;5/10&rpar; &lpar;Draft&rpar;](https://mydatasciencejourney.medium.com/statistics-for-data-science-with-python-descritive-statistic-5-10-draft-b2adc2350e75?source=rss------data_science-5)
+- [Connecting SQL to Tableau Public](https://mkatzenbach8.medium.com/connecting-sql-to-tableau-public-2eea4d415f93?source=rss------data_science-5)
+- [Stock Market Prediction using Machine Learning](https://medium.com/@dniggl/stock-market-prediction-using-machine-learning-dd064a7561f1?source=rss------data_science-5)
+- [When societies make decisions in the information age — is this a bit like video processing?](https://joelmitchelson.medium.com/when-societies-make-decisions-in-the-information-age-is-this-a-bit-like-video-processing-f93697625071?source=rss------data_science-5)
+- [Using a Dynamic Approach to analyse your Sport Activities let’s you working flexible](https://squeezer44.medium.com/using-a-dynamic-approach-to-analyse-your-sport-activities-lets-you-working-flexible-c123de3d39c9?source=rss------data_science-5)
+- [The Life of a Data Analyst — Part 4](https://towardsdatascience.com/the-life-of-a-data-analyst-part-4-1bba34e69737?source=rss------data_science-5)
+- [Amazing mini Python projects you can build out](https://preettheman.medium.com/amazing-mini-python-projects-you-can-build-out-56f258d2ca00?source=rss------data_science-5)
+- [Build a Flask-Heroku Mood Tracker Web App Using the Spotify API](https://towardsdatascience.com/build-a-flask-heroku-mood-tracker-web-app-using-the-spotify-api-14b3b5c92ac9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
