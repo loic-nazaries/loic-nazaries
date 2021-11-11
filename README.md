@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why was Ethical AI Avatar born?](https://pub.towardsai.net/why-was-ethical-ai-avatar-born-699d6cc67072?source=rss------data_science-5)
-- [11 Tricks to Master Values Sorting in Pandas](https://towardsdatascience.com/11-tricks-to-master-values-sorting-in-pandas-7f2cfbf19730?source=rss------data_science-5)
-- [Statistics For Data Science with Python — Descritive Statistic &lpar;5/10&rpar; &lpar;Draft&rpar;](https://mydatasciencejourney.medium.com/statistics-for-data-science-with-python-descritive-statistic-5-10-draft-b2adc2350e75?source=rss------data_science-5)
-- [Connecting SQL to Tableau Public](https://mkatzenbach8.medium.com/connecting-sql-to-tableau-public-2eea4d415f93?source=rss------data_science-5)
-- [Stock Market Prediction using Machine Learning](https://medium.com/@dniggl/stock-market-prediction-using-machine-learning-dd064a7561f1?source=rss------data_science-5)
-- [When societies make decisions in the information age — is this a bit like video processing?](https://joelmitchelson.medium.com/when-societies-make-decisions-in-the-information-age-is-this-a-bit-like-video-processing-f93697625071?source=rss------data_science-5)
-- [Using a Dynamic Approach to analyse your Sport Activities let’s you working flexible](https://squeezer44.medium.com/using-a-dynamic-approach-to-analyse-your-sport-activities-lets-you-working-flexible-c123de3d39c9?source=rss------data_science-5)
-- [The Life of a Data Analyst — Part 4](https://towardsdatascience.com/the-life-of-a-data-analyst-part-4-1bba34e69737?source=rss------data_science-5)
-- [Amazing mini Python projects you can build out](https://preettheman.medium.com/amazing-mini-python-projects-you-can-build-out-56f258d2ca00?source=rss------data_science-5)
-- [Build a Flask-Heroku Mood Tracker Web App Using the Spotify API](https://towardsdatascience.com/build-a-flask-heroku-mood-tracker-web-app-using-the-spotify-api-14b3b5c92ac9?source=rss------data_science-5)
+- [Displaying Vertical Data Point Lines in ggplot/R](https://dylan-hudson.medium.com/displaying-vertical-data-point-lines-in-ggplot-r-a58181a20e0c?source=rss------data_science-5)
+- [Even more ways to make side income with Python](https://preettheman.medium.com/even-more-ways-to-make-side-income-with-python-7e45e69ae9ca?source=rss------data_science-5)
+- [Why You Need a Data Observability Platform &lpar;Even If You’re Using APM&rpar;](https://acceldataio.medium.com/why-you-need-a-data-observability-platform-even-if-youre-using-apm-3ab1cad39c3b?source=rss------data_science-5)
+- [How Data is Driving a Tech Revolution in Trucking: Q&amp;A with Convoy CTO Dorothy Li](https://medium.com/convoy-tech/how-data-is-driving-a-tech-revolution-in-trucking-q-a-with-convoy-cto-dorothy-li-5bf85d7d67c6?source=rss------data_science-5)
+- [Oversampling: A PCA-KNN approach](https://towardsdatascience.com/oversampling-a-pca-knn-approach-f392ca232486?source=rss------data_science-5)
+- [Cohort 10 Student Spotlight: Meet Sunil Kumar J S](https://medium.com/usf-msds/cohort-10-student-spotlight-meet-sunil-kumar-j-s-1c6a5d272120?source=rss------data_science-5)
+- [Your data can tell you a story but it can’t always give you an answer](https://medium.com/@ron.maoz.1/your-business-data-can-tell-you-a-story-but-it-cant-always-give-you-an-answer-8d873ec05bb?source=rss------data_science-5)
+- [Fun Python projects you can build!](https://preettheman.medium.com/fun-python-projects-you-can-build-54750d7da366?source=rss------data_science-5)
+- [The Pilatinator, Part 3: Deployment](https://vardonir.medium.com/the-pilatinator-part-3-deployment-9090bde95f43?source=rss------data_science-5)
+- [The Pilatinator, Part 2: The Model](https://vardonir.medium.com/the-pilatinator-part-2-the-model-28b14c80c7eb?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
