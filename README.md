@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [8 Methods For Handling Missing Values With Python Pandas](https://towardsdatascience.com/8-methods-for-handling-missing-values-with-python-pandas-842544cdf891?source=rss-2cf6b549448------2)
+- [SQL From Zero to Hero in 30 Days — Day 5 Expanding the Group by](https://sonery.medium.com/sql-from-zero-to-hero-in-30-days-day-5-expanding-the-group-by-c7f6b37bc6b0?source=rss-2cf6b549448------2)
 - [3 Solutions for the Setting with Copy Warning of Python Pandas](https://towardsdatascience.com/3-solutions-for-the-setting-with-copy-warning-of-python-pandas-dfe15d62de08?source=rss-2cf6b549448------2)
 - [SQL From Zero to Hero in 30 Days — Day 4 The Group by](https://sonery.medium.com/sql-from-zero-to-hero-in-30-days-day-4-the-group-by-9aad213d1320?source=rss-2cf6b549448------2)
 - [High Number of Machine Learning Algorithms Will Cause You to Miss the Point](https://medium.com/geekculture/high-number-of-machine-learning-algorithms-will-cause-you-to-miss-the-point-a038520aeea2?source=rss-2cf6b549448------2)
-- [3 Tips For Making Better Use Of The Data Science Content on Medium](https://towardsdatascience.com/3-tips-for-making-better-use-of-the-data-science-content-on-medium-45c11fb10c11?source=rss-2cf6b549448------2)
-- [3 Features of Python Matplotlib That Make Data Visualizations More Appealing and Informative](https://towardsdatascience.com/3-features-of-python-matplotlib-that-make-data-visualizations-more-appealing-and-informative-e326762dea85?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
