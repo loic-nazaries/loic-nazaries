@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Displaying Vertical Data Point Lines in ggplot/R](https://dylan-hudson.medium.com/displaying-vertical-data-point-lines-in-ggplot-r-a58181a20e0c?source=rss------data_science-5)
-- [Even more ways to make side income with Python](https://preettheman.medium.com/even-more-ways-to-make-side-income-with-python-7e45e69ae9ca?source=rss------data_science-5)
-- [Why You Need a Data Observability Platform &lpar;Even If You’re Using APM&rpar;](https://acceldataio.medium.com/why-you-need-a-data-observability-platform-even-if-youre-using-apm-3ab1cad39c3b?source=rss------data_science-5)
-- [How Data is Driving a Tech Revolution in Trucking: Q&amp;A with Convoy CTO Dorothy Li](https://medium.com/convoy-tech/how-data-is-driving-a-tech-revolution-in-trucking-q-a-with-convoy-cto-dorothy-li-5bf85d7d67c6?source=rss------data_science-5)
-- [Oversampling: A PCA-KNN approach](https://towardsdatascience.com/oversampling-a-pca-knn-approach-f392ca232486?source=rss------data_science-5)
-- [Cohort 10 Student Spotlight: Meet Sunil Kumar J S](https://medium.com/usf-msds/cohort-10-student-spotlight-meet-sunil-kumar-j-s-1c6a5d272120?source=rss------data_science-5)
-- [Your data can tell you a story but it can’t always give you an answer](https://medium.com/@ron.maoz.1/your-business-data-can-tell-you-a-story-but-it-cant-always-give-you-an-answer-8d873ec05bb?source=rss------data_science-5)
-- [Fun Python projects you can build!](https://preettheman.medium.com/fun-python-projects-you-can-build-54750d7da366?source=rss------data_science-5)
-- [The Pilatinator, Part 3: Deployment](https://vardonir.medium.com/the-pilatinator-part-3-deployment-9090bde95f43?source=rss------data_science-5)
-- [The Pilatinator, Part 2: The Model](https://vardonir.medium.com/the-pilatinator-part-2-the-model-28b14c80c7eb?source=rss------data_science-5)
+- [Imposter Syndrome, Apache Spark, and the Value of Hacking](https://medium.com/@aibromaghin/imposter-syndrome-apache-spark-and-the-value-of-hacking-747d3b08a3b0?source=rss------data_science-5)
+- [The robots are already attacking is! There are invisible aliens already on the planet!](https://naturesuprise.medium.com/the-robots-are-already-attacking-is-there-are-invisible-aliens-already-on-the-planet-29a2b667c82e?source=rss------data_science-5)
+- [How machine learning is transforming healthcare, finance and agriculture](https://medium.datadriveninvestor.com/how-machine-learning-is-transforming-healthcare-finance-and-agriculture-4fe2ce2689da?source=rss------data_science-5)
+- [Welcome to the Tableau economy](https://digitizingpolaris.com/welcome-to-the-tableau-economy-2f7e85698626?source=rss------data_science-5)
+- [The Garden of Forking Paths — Data Science for Clinicians III](https://medium.com/@mdscahill/the-garden-of-forking-paths-data-science-for-clinicians-iii-d00629db2f6?source=rss------data_science-5)
+- [Car Accidents Analysis &amp; Severity Prediction](https://medium.com/@apoorvayg/car-accidents-analysis-severity-prediction-57e38ada1c3f?source=rss------data_science-5)
+- [Awesome PyCharm Extensions](https://preettheman.medium.com/awesome-pycharm-extensions-bf4cf0acb39?source=rss------data_science-5)
+- [Basic Implementation of Alternate Data Streams](https://yagmursahin.medium.com/basic-implementation-of-alternate-data-streams-700f94b7fa14?source=rss------data_science-5)
+- [Meet the Fellow: Jacopo Cirrone](https://nyudatascience.medium.com/meet-the-fellow-jacopo-cirrone-c8bbac8b2e23?source=rss------data_science-5)
+- [Building professional, powerful applications with Dash Pro components](https://medium.com/plotly/building-professional-powerful-applications-with-dash-pro-components-5695fed820d4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
