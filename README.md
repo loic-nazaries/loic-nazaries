@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Imposter Syndrome, Apache Spark, and the Value of Hacking](https://medium.com/@aibromaghin/imposter-syndrome-apache-spark-and-the-value-of-hacking-747d3b08a3b0?source=rss------data_science-5)
-- [The robots are already attacking is! There are invisible aliens already on the planet!](https://naturesuprise.medium.com/the-robots-are-already-attacking-is-there-are-invisible-aliens-already-on-the-planet-29a2b667c82e?source=rss------data_science-5)
-- [How machine learning is transforming healthcare, finance and agriculture](https://medium.datadriveninvestor.com/how-machine-learning-is-transforming-healthcare-finance-and-agriculture-4fe2ce2689da?source=rss------data_science-5)
-- [Welcome to the Tableau economy](https://digitizingpolaris.com/welcome-to-the-tableau-economy-2f7e85698626?source=rss------data_science-5)
-- [The Garden of Forking Paths — Data Science for Clinicians III](https://medium.com/@mdscahill/the-garden-of-forking-paths-data-science-for-clinicians-iii-d00629db2f6?source=rss------data_science-5)
-- [Car Accidents Analysis &amp; Severity Prediction](https://medium.com/@apoorvayg/car-accidents-analysis-severity-prediction-57e38ada1c3f?source=rss------data_science-5)
-- [Awesome PyCharm Extensions](https://preettheman.medium.com/awesome-pycharm-extensions-bf4cf0acb39?source=rss------data_science-5)
-- [Basic Implementation of Alternate Data Streams](https://yagmursahin.medium.com/basic-implementation-of-alternate-data-streams-700f94b7fa14?source=rss------data_science-5)
-- [Meet the Fellow: Jacopo Cirrone](https://nyudatascience.medium.com/meet-the-fellow-jacopo-cirrone-c8bbac8b2e23?source=rss------data_science-5)
-- [Building professional, powerful applications with Dash Pro components](https://medium.com/plotly/building-professional-powerful-applications-with-dash-pro-components-5695fed820d4?source=rss------data_science-5)
+- [This Python package tracks your eyes](https://preettheman.medium.com/this-python-package-tracks-your-eyes-ee9fb9e59c4f?source=rss------data_science-5)
+- [User Churn Alert based on pyspark](https://wenjingleaf.medium.com/user-churn-alert-based-on-pyspark-9bf164f97d47?source=rss------data_science-5)
+- [Deploy your AI engine   in any other machine using Docker &amp; Docker compose](https://towardsdatascience.com/deploy-your-ai-engine-in-any-other-machine-using-docker-docker-compose-1691e57cb866?source=rss------data_science-5)
+- [Finding the Needle in the Haystack: How To Use the Dense Passage Retriever](https://towardsdatascience.com/finding-the-needle-in-the-haystack-how-to-use-the-dense-passage-retriever-adc6a5527ff4?source=rss------data_science-5)
+- [Awesome built-in Python functions you need to see](https://preettheman.medium.com/awesome-built-in-python-functions-you-need-to-see-691ae84bb039?source=rss------data_science-5)
+- [Data Onboarding &amp; Migration 101](https://medium.com/dropbase/data-onboarding-migration-101-c5057e0a0505?source=rss------data_science-5)
+- [The 10 Most Useful Functions for Data Analytics](https://medium.com/dropbase/the-10-most-useful-functions-for-data-analytics-b013ecda9018?source=rss------data_science-5)
+- [Barriers to Working With Data for Business Users](https://medium.com/dropbase/barriers-to-working-with-data-for-business-users-3369fad8e734?source=rss------data_science-5)
+- [ETL vs ELT: What’s the Difference?](https://medium.com/dropbase/etl-vs-elt-whats-the-difference-d960538feb1c?source=rss------data_science-5)
+- [4 Modern Tools to Automate Manual Spreadsheet Work](https://medium.com/dropbase/4-modern-tools-to-automate-manual-spreadsheet-work-dc560527c8ea?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
