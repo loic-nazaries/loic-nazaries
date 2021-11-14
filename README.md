@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [This Python package tracks your eyes](https://preettheman.medium.com/this-python-package-tracks-your-eyes-ee9fb9e59c4f?source=rss------data_science-5)
-- [User Churn Alert based on pyspark](https://wenjingleaf.medium.com/user-churn-alert-based-on-pyspark-9bf164f97d47?source=rss------data_science-5)
-- [Deploy your AI engine   in any other machine using Docker &amp; Docker compose](https://towardsdatascience.com/deploy-your-ai-engine-in-any-other-machine-using-docker-docker-compose-1691e57cb866?source=rss------data_science-5)
-- [Finding the Needle in the Haystack: How To Use the Dense Passage Retriever](https://towardsdatascience.com/finding-the-needle-in-the-haystack-how-to-use-the-dense-passage-retriever-adc6a5527ff4?source=rss------data_science-5)
-- [Awesome built-in Python functions you need to see](https://preettheman.medium.com/awesome-built-in-python-functions-you-need-to-see-691ae84bb039?source=rss------data_science-5)
-- [Data Onboarding &amp; Migration 101](https://medium.com/dropbase/data-onboarding-migration-101-c5057e0a0505?source=rss------data_science-5)
-- [The 10 Most Useful Functions for Data Analytics](https://medium.com/dropbase/the-10-most-useful-functions-for-data-analytics-b013ecda9018?source=rss------data_science-5)
-- [Barriers to Working With Data for Business Users](https://medium.com/dropbase/barriers-to-working-with-data-for-business-users-3369fad8e734?source=rss------data_science-5)
-- [ETL vs ELT: What’s the Difference?](https://medium.com/dropbase/etl-vs-elt-whats-the-difference-d960538feb1c?source=rss------data_science-5)
-- [4 Modern Tools to Automate Manual Spreadsheet Work](https://medium.com/dropbase/4-modern-tools-to-automate-manual-spreadsheet-work-dc560527c8ea?source=rss------data_science-5)
+- [A Cartoon Guide to Language Models in NLP &lpar;Part 1: Intuition&rpar;](https://surge-ai.medium.com/a-cartoon-guide-to-language-models-in-nlp-part-1-intuition-4eb41202f3b5?source=rss------data_science-5)
+- [Have you still used the present Durbin-Watson test table?](https://medium.com/@my_lee/have-you-still-used-the-present-durbin-watson-test-table-a7f1bd3fd18a?source=rss------data_science-5)
+- [Køb ecstasy- og MDMA-piller i alle kategorier online, xanax, oxycontin, oxycodon, metadon…](https://medium.com/@waserose0/k%C3%B8b-ecstasy-og-mdma-piller-i-alle-kategorier-online-xanax-oxycontin-oxycodon-metadon-121460be6468?source=rss------data_science-5)
+- [Descriptive measures in Statistics? What is that?](https://medium.com/@macwanvaishali/descriptive-measures-in-statistics-what-is-that-c2caae7ab590?source=rss------data_science-5)
+- [Garbage in, garbage out](https://medium.com/@ronozmink/garbage-in-garbage-out-721b5b299bc1?source=rss------data_science-5)
+- [Apple’s Macbook M1 for Data Science?](https://dhavalthakur.medium.com/apples-macbook-m1-for-data-science-8e11ecca7fd1?source=rss------data_science-5)
+- [Understanding Batch Linear Regression](https://medium.com/the-shortform/understanding-batch-linear-regression-f547899337ee?source=rss------data_science-5)
+- [K’s Volatility Bands — Coding in Python.](https://kaabar-sofien.medium.com/ks-volatility-bands-coding-in-python-a86c2b4d9205?source=rss------data_science-5)
+- [Part 2: Does BERT Need Clean Data?](https://medium.com/@Alexander.Bricken/part-2-does-bert-need-clean-data-d7dc5907614d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
