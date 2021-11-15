@@ -105,15 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Cartoon Guide to Language Models in NLP &lpar;Part 1: Intuition&rpar;](https://surge-ai.medium.com/a-cartoon-guide-to-language-models-in-nlp-part-1-intuition-4eb41202f3b5?source=rss------data_science-5)
-- [Have you still used the present Durbin-Watson test table?](https://medium.com/@my_lee/have-you-still-used-the-present-durbin-watson-test-table-a7f1bd3fd18a?source=rss------data_science-5)
-- [Køb ecstasy- og MDMA-piller i alle kategorier online, xanax, oxycontin, oxycodon, metadon…](https://medium.com/@waserose0/k%C3%B8b-ecstasy-og-mdma-piller-i-alle-kategorier-online-xanax-oxycontin-oxycodon-metadon-121460be6468?source=rss------data_science-5)
-- [Descriptive measures in Statistics? What is that?](https://medium.com/@macwanvaishali/descriptive-measures-in-statistics-what-is-that-c2caae7ab590?source=rss------data_science-5)
-- [Garbage in, garbage out](https://medium.com/@ronozmink/garbage-in-garbage-out-721b5b299bc1?source=rss------data_science-5)
-- [Apple’s Macbook M1 for Data Science?](https://dhavalthakur.medium.com/apples-macbook-m1-for-data-science-8e11ecca7fd1?source=rss------data_science-5)
-- [Understanding Batch Linear Regression](https://medium.com/the-shortform/understanding-batch-linear-regression-f547899337ee?source=rss------data_science-5)
-- [K’s Volatility Bands — Coding in Python.](https://kaabar-sofien.medium.com/ks-volatility-bands-coding-in-python-a86c2b4d9205?source=rss------data_science-5)
-- [Part 2: Does BERT Need Clean Data?](https://medium.com/@Alexander.Bricken/part-2-does-bert-need-clean-data-d7dc5907614d?source=rss------data_science-5)
+- [Hyperparameter Tuning the Weighted Average Ensemble in Python](https://towardsdatascience.com/hyperparameter-tuning-the-weighted-average-ensemble-in-python-cff2100f0832?source=rss------data_science-5)
+- [Cogram.ai: A Coding Assistant for Data Science and Machine Learning](https://towardsdatascience.com/cogram-ai-a-coding-assistant-for-data-science-and-machine-learning-f236379b829e?source=rss------data_science-5)
+- [Category II Toxicity](https://medium.com/@kenneth.kuhn/category-ii-toxicity-9f6129ee4827?source=rss------data_science-5)
+- [Introduction](https://medium.com/political-mechanics/introduction-67ef31fa0704?source=rss------data_science-5)
+- [Making the Switch to Data Science](https://medium.com/@leahnagy/making-the-switch-to-data-science-7a61f017c16d?source=rss------data_science-5)
+- [https://vm.tiktok.com/ZM8qRfpXP/](https://rumami.medium.com/https-vm-tiktok-com-zm8qrfpxp-e0309d1cd093?source=rss------data_science-5)
+- [https://vm.tiktok.com/ZM8qRfpXP/](https://rumami.medium.com/https-vm-tiktok-com-zm8qrfpxp-24a73e3e05fb?source=rss------data_science-5)
+- [Detecting the most popular tourist attractions in Valencia using unsupervised learning techniques](https://towardsdatascience.com/detecting-the-most-popular-tourist-attractions-in-valencia-using-unsupervised-learning-techniques-de0b12fb1ca?source=rss------data_science-5)
+- [From Which Country Do Unsplash Images Come From?](https://medium.com/illumination/from-which-country-do-unsplash-images-come-from-6857c9f8b984?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
