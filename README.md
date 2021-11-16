@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [SQL From Zero to Hero in 30 Days — Day 6 Working With Text](https://sonery.medium.com/sql-from-zero-to-hero-in-30-days-day-6-working-with-text-e34b93c4bdaa?source=rss-2cf6b549448------2)
 - [Data Science Is Becoming More Tool-Oriented. Will It Kill The Science Behind?](https://towardsdatascience.com/data-science-is-becoming-more-tool-oriented-will-it-kill-the-science-behind-9026b451bd9b?source=rss-2cf6b549448------2)
 - [8 Methods For Handling Missing Values With Python Pandas](https://towardsdatascience.com/8-methods-for-handling-missing-values-with-python-pandas-842544cdf891?source=rss-2cf6b549448------2)
 - [SQL From Zero to Hero in 30 Days — Day 5 Expanding the Group by](https://sonery.medium.com/sql-from-zero-to-hero-in-30-days-day-5-expanding-the-group-by-c7f6b37bc6b0?source=rss-2cf6b549448------2)
 - [3 Solutions for the Setting with Copy Warning of Python Pandas](https://towardsdatascience.com/3-solutions-for-the-setting-with-copy-warning-of-python-pandas-dfe15d62de08?source=rss-2cf6b549448------2)
-- [SQL From Zero to Hero in 30 Days — Day 4 The Group by](https://sonery.medium.com/sql-from-zero-to-hero-in-30-days-day-4-the-group-by-9aad213d1320?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
