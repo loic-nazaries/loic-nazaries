@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What does Weights &amp; Biases do?](https://towardsdatascience.com/what-does-weights-biases-do-c060ce6b4b8e?source=rss------data_science-5)
-- [Top Data Science Business Metrics](https://towardsdatascience.com/top-data-science-business-metrics-c7ae905c076a?source=rss------data_science-5)
-- [Monitor ML features using Amazon SageMaker Feature Store and AWS Glue DataBrew](https://towardsdatascience.com/monitor-ml-features-using-amazon-sagemaker-feature-store-and-aws-glue-databrew-c530abcc479a?source=rss------data_science-5)
-- [Temporal Dynamics of Host Molecular Responses Differentiate Symptomatic and Asymptomatic Influenza…](https://medium.com/omics-diary/temporal-dynamics-of-host-molecular-responses-differentiate-symptomatic-and-asymptomatic-influenza-9b11033d54d1?source=rss------data_science-5)
-- [Python Exercises to Review and Enhance Computer Coding Skills &lpar;Part 1 of 2&rpar;](https://jmstipanowich.medium.com/python-exercises-to-review-and-enhance-computer-coding-skills-part-1-of-2-98aab6d44b33?source=rss------data_science-5)
-- [Awesome built-in Python functions you don’t know about](https://preettheman.medium.com/awesome-built-in-python-functions-you-dont-know-about-d79217ba8a0d?source=rss------data_science-5)
-- [Your phone can save your life.](https://michaelswiatek.medium.com/your-phone-can-safe-your-life-5fae56ab1049?source=rss------data_science-5)
-- [Metabolic phenotypes of response to vaccination in humans](https://medium.com/omics-diary/metabolic-phenotypes-of-response-to-vaccination-in-humans-1c628f23c411?source=rss------data_science-5)
-- [Systems biology of vaccination for seasonal influenza in humans](https://medium.com/omics-diary/systems-biology-of-vaccination-for-seasonal-influenza-in-humans-d89ad7dbff0b?source=rss------data_science-5)
-- [The temporal transcriptomic profile of the YF17D vaccine](https://medium.com/omics-diary/the-temporal-transcriptomic-profile-of-the-yf17d-vaccine-b385b36c2c94?source=rss------data_science-5)
+- [Matplotlib Subplot — Data Visualization Tutorial](https://medium.com/data-science-bootcamp/matplotlib-subplot-data-visualization-tutorial-f27df837df80?source=rss------data_science-5)
+- [Systems biology of immunity to MF59-adjuvanted versus nonadjuvanted trivalent seasonal influenza…](https://medium.com/omics-diary/systems-biology-of-immunity-to-mf59-adjuvanted-versus-nonadjuvanted-trivalent-seasonal-influenza-1dceec4fe03f?source=rss------data_science-5)
+- [Distilling the Essential Principles of Data Visualization — Part 1](https://murtaza5152-ali.medium.com/distilling-the-essential-principles-of-data-visualization-part-1-5df4302e401a?source=rss------data_science-5)
+- [There’s No Free Lunch in Data Science: Top 10 Quotes](https://adrianmnastase.medium.com/theres-no-free-lunch-in-data-science-top-10-quotes-179f89316130?source=rss------data_science-5)
+- [4 MatPlotLib tricks I wish I knew earlier](https://preettheman.medium.com/4-matplotlib-tricks-i-wish-i-knew-earlier-1d4fcdb3cb84?source=rss------data_science-5)
+- [It’s Harder To Predict Content Quality Than Whether It Will Go Viral](https://medium.com/alpha-beta-blog/its-harder-to-predict-content-quality-than-whether-it-will-go-viral-74cdf43fa01a?source=rss------data_science-5)
+- [Are you Correlating Correctly?](https://brianseko-31732.medium.com/are-you-correlating-correctly-2f660c4f6096?source=rss------data_science-5)
+- [Cohort 10 Student Spotlight: Meet Ka Yam](https://medium.com/usf-msds/cohort-10-student-spotlight-meet-ka-yam-28009fd2e67b?source=rss------data_science-5)
+- [Orchestrating ELT with Prefect and dbt — a Flow of Flows &lpar;Part 1&rpar;](https://medium.com/the-prefect-blog/orchestrating-elt-with-prefect-and-dbt-a-flow-of-flows-part-1-aac77126473?source=rss------data_science-5)
+- [Amazing cheat sheet for machine learning](https://preettheman.medium.com/amazing-cheat-sheet-for-machine-learning-c06991da423a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
