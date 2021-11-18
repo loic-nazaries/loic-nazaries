@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Matplotlib Subplot — Data Visualization Tutorial](https://medium.com/data-science-bootcamp/matplotlib-subplot-data-visualization-tutorial-f27df837df80?source=rss------data_science-5)
-- [Systems biology of immunity to MF59-adjuvanted versus nonadjuvanted trivalent seasonal influenza…](https://medium.com/omics-diary/systems-biology-of-immunity-to-mf59-adjuvanted-versus-nonadjuvanted-trivalent-seasonal-influenza-1dceec4fe03f?source=rss------data_science-5)
-- [Distilling the Essential Principles of Data Visualization — Part 1](https://murtaza5152-ali.medium.com/distilling-the-essential-principles-of-data-visualization-part-1-5df4302e401a?source=rss------data_science-5)
-- [There’s No Free Lunch in Data Science: Top 10 Quotes](https://adrianmnastase.medium.com/theres-no-free-lunch-in-data-science-top-10-quotes-179f89316130?source=rss------data_science-5)
-- [4 MatPlotLib tricks I wish I knew earlier](https://preettheman.medium.com/4-matplotlib-tricks-i-wish-i-knew-earlier-1d4fcdb3cb84?source=rss------data_science-5)
-- [It’s Harder To Predict Content Quality Than Whether It Will Go Viral](https://medium.com/alpha-beta-blog/its-harder-to-predict-content-quality-than-whether-it-will-go-viral-74cdf43fa01a?source=rss------data_science-5)
-- [Are you Correlating Correctly?](https://brianseko-31732.medium.com/are-you-correlating-correctly-2f660c4f6096?source=rss------data_science-5)
-- [Cohort 10 Student Spotlight: Meet Ka Yam](https://medium.com/usf-msds/cohort-10-student-spotlight-meet-ka-yam-28009fd2e67b?source=rss------data_science-5)
-- [Orchestrating ELT with Prefect and dbt — a Flow of Flows &lpar;Part 1&rpar;](https://medium.com/the-prefect-blog/orchestrating-elt-with-prefect-and-dbt-a-flow-of-flows-part-1-aac77126473?source=rss------data_science-5)
-- [Amazing cheat sheet for machine learning](https://preettheman.medium.com/amazing-cheat-sheet-for-machine-learning-c06991da423a?source=rss------data_science-5)
+- [How To Structure Your Machine Learning Project](https://medium.com/@theDrewDag/how-to-structure-your-machine-learning-project-62f8a1eef582?source=rss------data_science-5)
+- [Predicting your salary at a FAANG company.](https://medium.com/@sgtblack0ut82/predicting-your-salary-at-a-faang-company-10e759415522?source=rss------data_science-5)
+- [Best coding tips for data scientists](https://preettheman.medium.com/best-coding-tips-for-data-scientists-895105351c85?source=rss------data_science-5)
+- [Mid Thought](https://medium.com/@TexaSAngelEyes/mid-thought-7b5d8caab0e7?source=rss------data_science-5)
+- [A COVID-19 causou mudanças nos números de criminalidade em Vitória da Conquista - BA?](https://brunoras.medium.com/a-covid-19-causou-mudan%C3%A7as-nos-n%C3%BAmeros-de-criminalidade-em-vit%C3%B3ria-da-conquista-ba-f8c40236c680?source=rss------data_science-5)
+- [One-dimensional CNN for human behavior classification](https://towardsdatascience.com/one-dimensional-cnn-for-human-behavior-classification-fb4371d03633?source=rss------data_science-5)
+- [Building Candlestick Chart — Storytelling with Data &lpar;Part III&rpar;](https://aasavari-kaley.medium.com/building-candlestick-chart-storytelling-with-data-part-iii-7f3633b1095d?source=rss------data_science-5)
+- [Awesome PyTorch project you need to check out](https://preettheman.medium.com/awesome-pytorch-project-you-need-to-check-out-88af07bc47ff?source=rss------data_science-5)
+- [Métricas de distância e dissimilaridade](https://diegoinacio.medium.com/metricas-de-distancia-e-dissimilaridade-94f9d8d962d4?source=rss------data_science-5)
+- [Segna Newsletter — 18 November 2021](https://medium.com/@segna/segna-newsletter-18-november-2021-80700dbcb958?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
