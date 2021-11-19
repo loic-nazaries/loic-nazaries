@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How To Structure Your Machine Learning Project](https://medium.com/@theDrewDag/how-to-structure-your-machine-learning-project-62f8a1eef582?source=rss------data_science-5)
-- [Predicting your salary at a FAANG company.](https://medium.com/@sgtblack0ut82/predicting-your-salary-at-a-faang-company-10e759415522?source=rss------data_science-5)
-- [Best coding tips for data scientists](https://preettheman.medium.com/best-coding-tips-for-data-scientists-895105351c85?source=rss------data_science-5)
-- [Mid Thought](https://medium.com/@TexaSAngelEyes/mid-thought-7b5d8caab0e7?source=rss------data_science-5)
-- [A COVID-19 causou mudanças nos números de criminalidade em Vitória da Conquista - BA?](https://brunoras.medium.com/a-covid-19-causou-mudan%C3%A7as-nos-n%C3%BAmeros-de-criminalidade-em-vit%C3%B3ria-da-conquista-ba-f8c40236c680?source=rss------data_science-5)
-- [One-dimensional CNN for human behavior classification](https://towardsdatascience.com/one-dimensional-cnn-for-human-behavior-classification-fb4371d03633?source=rss------data_science-5)
-- [Building Candlestick Chart — Storytelling with Data &lpar;Part III&rpar;](https://aasavari-kaley.medium.com/building-candlestick-chart-storytelling-with-data-part-iii-7f3633b1095d?source=rss------data_science-5)
-- [Awesome PyTorch project you need to check out](https://preettheman.medium.com/awesome-pytorch-project-you-need-to-check-out-88af07bc47ff?source=rss------data_science-5)
-- [Métricas de distância e dissimilaridade](https://diegoinacio.medium.com/metricas-de-distancia-e-dissimilaridade-94f9d8d962d4?source=rss------data_science-5)
-- [Segna Newsletter — 18 November 2021](https://medium.com/@segna/segna-newsletter-18-november-2021-80700dbcb958?source=rss------data_science-5)
+- [Data Science](https://pub.towardsai.net/data-science-4126e13cf7fe?source=rss------data_science-5)
+- [Creating Sparse, Multitask Neural Networks](https://aisquared.medium.com/introduction-26a98a658080?source=rss------data_science-5)
+- [Analysing 10 Million Rows in Excel](https://medium.com/codex/analysing-10-million-rows-in-excel-b1d6e0f5d2ba?source=rss------data_science-5)
+- [6 Data Science Lessons Learned the Hard Way: A Blog about the process of learning about Data…](https://medium.com/geekculture/6-data-science-lessons-learned-the-hard-way-a-blog-about-the-process-of-learning-about-data-f03133c8baf7?source=rss------data_science-5)
+- [Operaciones con matrices in python](https://medium.com/@rubenmndez/operaciones-con-matrices-5ffad75865cb?source=rss------data_science-5)
+- [Top 5 Challenges of Cloud Computing](https://clovertex.medium.com/top-5-challenges-of-cloud-computing-950e1f3b37e7?source=rss------data_science-5)
+- [A True Line Will Smith Said That Could Help You Hit Publish More](https://medium.com/@AmeekarYadav/a-true-line-will-smith-said-that-could-help-you-hit-publish-more-4a018c51499b?source=rss------data_science-5)
+- [CDS Faculty Kyle Cranmer Elected as Fellow of the American Physical Society &lpar;APS&rpar;](https://nyudatascience.medium.com/cds-faculty-kyle-cranmer-elected-as-fellow-of-the-american-physical-society-aps-8167f8166022?source=rss------data_science-5)
+- [The Elements of Statistical Learning: 2.](https://leoyuanluo.medium.com/the-elements-of-statistical-learning-2-86c0e3960928?source=rss------data_science-5)
+- [“Data, data everywhere…”: Leveraging IBM Watson Studio for private data with Federated Learning](https://yairschiff.medium.com/data-data-everywhere-leveraging-ibm-watson-studio-for-private-data-with-federated-learning-80e4310f46f4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
