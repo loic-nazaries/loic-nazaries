@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Science](https://pub.towardsai.net/data-science-4126e13cf7fe?source=rss------data_science-5)
-- [Creating Sparse, Multitask Neural Networks](https://aisquared.medium.com/introduction-26a98a658080?source=rss------data_science-5)
-- [Analysing 10 Million Rows in Excel](https://medium.com/codex/analysing-10-million-rows-in-excel-b1d6e0f5d2ba?source=rss------data_science-5)
-- [6 Data Science Lessons Learned the Hard Way: A Blog about the process of learning about Data…](https://medium.com/geekculture/6-data-science-lessons-learned-the-hard-way-a-blog-about-the-process-of-learning-about-data-f03133c8baf7?source=rss------data_science-5)
-- [Operaciones con matrices in python](https://medium.com/@rubenmndez/operaciones-con-matrices-5ffad75865cb?source=rss------data_science-5)
-- [Top 5 Challenges of Cloud Computing](https://clovertex.medium.com/top-5-challenges-of-cloud-computing-950e1f3b37e7?source=rss------data_science-5)
-- [A True Line Will Smith Said That Could Help You Hit Publish More](https://medium.com/@AmeekarYadav/a-true-line-will-smith-said-that-could-help-you-hit-publish-more-4a018c51499b?source=rss------data_science-5)
-- [CDS Faculty Kyle Cranmer Elected as Fellow of the American Physical Society &lpar;APS&rpar;](https://nyudatascience.medium.com/cds-faculty-kyle-cranmer-elected-as-fellow-of-the-american-physical-society-aps-8167f8166022?source=rss------data_science-5)
-- [The Elements of Statistical Learning: 2.](https://leoyuanluo.medium.com/the-elements-of-statistical-learning-2-86c0e3960928?source=rss------data_science-5)
-- [“Data, data everywhere…”: Leveraging IBM Watson Studio for private data with Federated Learning](https://yairschiff.medium.com/data-data-everywhere-leveraging-ibm-watson-studio-for-private-data-with-federated-learning-80e4310f46f4?source=rss------data_science-5)
+- [What I Learned about Career in my 3 months ML Deep-dive](https://silviaz.medium.com/what-i-learned-about-career-in-my-3-months-ml-deep-dive-8e4faa253646?source=rss------data_science-5)
+- [Redfin Data Analyst Interview Case Study](https://dataleon.medium.com/redfin-data-analyst-interview-case-study-f0034c3ba66b?source=rss------data_science-5)
+- [No data, no artificial intelligence](https://ameenaltajer.medium.com/no-data-no-artificial-intelligence-ca353c8fd5b6?source=rss------data_science-5)
+- [How to be a better real estate agent for the new digital age](https://medium.com/@desaanalytics/how-to-be-a-better-real-estate-agent-for-the-new-digital-age-8ab7c1cecb0?source=rss------data_science-5)
+- [Understanding ARIMA Models using PyCaret’s Time Series Module — Part2](https://towardsdatascience.com/understanding-arima-models-using-pycarets-time-series-module-part2-308ea7bfecf6?source=rss------data_science-5)
+- [Hello Mauricio, thanks for this suggestion! I’ll try it.](https://alod83.medium.com/hello-mauricio-thanks-for-this-suggestion-ill-try-it-915f83c416c?source=rss------data_science-5)
+- [How AirBnB Fared in Seattle and Boston in 2016–2017](https://medium.com/@israeletu/how-airbnb-fared-in-seattle-and-boston-in-2016-2017-f40053d35db1?source=rss------data_science-5)
+- [Principal Components: Vukosi Marivate on Data Science and NLP in Africa](https://medium.com/codex/principal-components-vukosi-marivate-on-data-science-and-nlp-in-africa-1e1f92afe798?source=rss------data_science-5)
+- [Best Python Courses on Udemy](https://medium.com/@fahad.reda/best-python-courses-on-udemy-db8b2260f175?source=rss------data_science-5)
+- [Data Cleansing &lpar;Veri Temizleme&rpar;](https://medium.com/@dicleacet/data-cleansing-veri-temizleme-7a3bab81dfcc?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
