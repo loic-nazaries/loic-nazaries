@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What I Learned about Career in my 3 months ML Deep-dive](https://silviaz.medium.com/what-i-learned-about-career-in-my-3-months-ml-deep-dive-8e4faa253646?source=rss------data_science-5)
-- [Redfin Data Analyst Interview Case Study](https://dataleon.medium.com/redfin-data-analyst-interview-case-study-f0034c3ba66b?source=rss------data_science-5)
-- [No data, no artificial intelligence](https://ameenaltajer.medium.com/no-data-no-artificial-intelligence-ca353c8fd5b6?source=rss------data_science-5)
-- [How to be a better real estate agent for the new digital age](https://medium.com/@desaanalytics/how-to-be-a-better-real-estate-agent-for-the-new-digital-age-8ab7c1cecb0?source=rss------data_science-5)
-- [Understanding ARIMA Models using PyCaret’s Time Series Module — Part2](https://towardsdatascience.com/understanding-arima-models-using-pycarets-time-series-module-part2-308ea7bfecf6?source=rss------data_science-5)
-- [Hello Mauricio, thanks for this suggestion! I’ll try it.](https://alod83.medium.com/hello-mauricio-thanks-for-this-suggestion-ill-try-it-915f83c416c?source=rss------data_science-5)
-- [How AirBnB Fared in Seattle and Boston in 2016–2017](https://medium.com/@israeletu/how-airbnb-fared-in-seattle-and-boston-in-2016-2017-f40053d35db1?source=rss------data_science-5)
-- [Principal Components: Vukosi Marivate on Data Science and NLP in Africa](https://medium.com/codex/principal-components-vukosi-marivate-on-data-science-and-nlp-in-africa-1e1f92afe798?source=rss------data_science-5)
-- [Best Python Courses on Udemy](https://medium.com/@fahad.reda/best-python-courses-on-udemy-db8b2260f175?source=rss------data_science-5)
-- [Data Cleansing &lpar;Veri Temizleme&rpar;](https://medium.com/@dicleacet/data-cleansing-veri-temizleme-7a3bab81dfcc?source=rss------data_science-5)
+- [Listing of my article series in facial expressions, machine learning, and data science.](https://jinhyuncheong.medium.com/listing-of-my-article-series-in-facial-expressions-machine-learning-and-data-science-d5d4838bfbd5?source=rss------data_science-5)
+- [Generating a Graph with 0 correlation](https://medium.com/@hshahzad2005108277/generating-a-graph-with-0-correlation-564f34f0cfa?source=rss------data_science-5)
+- [Análise dos Dados do AirBnb: Vancouver, Canada](https://medium.com/@ygormoreiralima/an%C3%A1lise-dos-dados-do-airbnb-vancouver-canada-687d1e7ea6e?source=rss------data_science-5)
+- [Four More Questions You Might Get in a Data Science Interview](https://towardsdatascience.com/four-more-questions-you-might-get-in-a-data-science-interview-703efd741d1d?source=rss------data_science-5)
+- [Previsão de Demanda com Prophet](https://medium.com/@josesalesjdsj/previs%C3%A3o-de-demanda-com-prophet-a083eb1e80af?source=rss------data_science-5)
+- [Python Data Structures: Lists vs Tuples](https://tiaraoluwanimi.medium.com/python-lists-vs-tuples-17768491b155?source=rss------data_science-5)
+- [Calendar Heatmaps : A perfect way to display your time-series quantitative data](https://medium.com/analytics-vidhya/calendar-heatmaps-a-perfect-way-to-display-your-time-series-quantitative-data-ad36bf81a3ed?source=rss------data_science-5)
+- [How to do Frequentist A/B testing](https://towardsdatascience.com/how-to-do-frequentist-a-b-testing-f184e122e8f3?source=rss------data_science-5)
+- [Statistical Pitfalls When Running Concurrent Experiments](https://towardsdatascience.com/statistical-pitfalls-when-running-concurrent-experiments-171d3a28bd14?source=rss------data_science-5)
+- [5 programming languages you should learn first](https://preettheman.medium.com/5-programming-languages-you-should-learn-first-c78c3a37479c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
