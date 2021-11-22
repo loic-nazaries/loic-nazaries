@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Listing of my article series in facial expressions, machine learning, and data science.](https://jinhyuncheong.medium.com/listing-of-my-article-series-in-facial-expressions-machine-learning-and-data-science-d5d4838bfbd5?source=rss------data_science-5)
-- [Generating a Graph with 0 correlation](https://medium.com/@hshahzad2005108277/generating-a-graph-with-0-correlation-564f34f0cfa?source=rss------data_science-5)
-- [Análise dos Dados do AirBnb: Vancouver, Canada](https://medium.com/@ygormoreiralima/an%C3%A1lise-dos-dados-do-airbnb-vancouver-canada-687d1e7ea6e?source=rss------data_science-5)
-- [Four More Questions You Might Get in a Data Science Interview](https://towardsdatascience.com/four-more-questions-you-might-get-in-a-data-science-interview-703efd741d1d?source=rss------data_science-5)
-- [Previsão de Demanda com Prophet](https://medium.com/@josesalesjdsj/previs%C3%A3o-de-demanda-com-prophet-a083eb1e80af?source=rss------data_science-5)
-- [Python Data Structures: Lists vs Tuples](https://tiaraoluwanimi.medium.com/python-lists-vs-tuples-17768491b155?source=rss------data_science-5)
-- [Calendar Heatmaps : A perfect way to display your time-series quantitative data](https://medium.com/analytics-vidhya/calendar-heatmaps-a-perfect-way-to-display-your-time-series-quantitative-data-ad36bf81a3ed?source=rss------data_science-5)
-- [How to do Frequentist A/B testing](https://towardsdatascience.com/how-to-do-frequentist-a-b-testing-f184e122e8f3?source=rss------data_science-5)
-- [Statistical Pitfalls When Running Concurrent Experiments](https://towardsdatascience.com/statistical-pitfalls-when-running-concurrent-experiments-171d3a28bd14?source=rss------data_science-5)
-- [5 programming languages you should learn first](https://preettheman.medium.com/5-programming-languages-you-should-learn-first-c78c3a37479c?source=rss------data_science-5)
+- [Summary: “Survey of Face Manipulation and Fake Detection”](https://medium.com/@ashika.pobbathi/summary-survey-of-face-manipulation-and-fake-detection-589439b26ca6?source=rss------data_science-5)
+- [Prediction of Chronic Kidney Disease &lpar;CKD&rpar; with k-nearest Neighbor](https://medium.com/@jeffreygao_83082/prediction-of-chronic-kidney-disease-ckd-with-k-nearest-neighbor-e0923d798e4a?source=rss------data_science-5)
+- [How to create great Machine Learning solutions](https://machine-learning-made-simple.medium.com/how-to-create-great-machine-learning-solutions-b193c066fce?source=rss------data_science-5)
+- [Git Tips &amp; Tricks for Flatiron Students: How I Made Every Git Mistake to Become a Little Less Git…](https://medium.com/@alpacanonymous/git-tips-tricks-for-flatiron-students-how-i-made-every-git-mistake-to-become-a-little-less-git-52c016eae1d8?source=rss------data_science-5)
+- [Project: Predict Stock Prices Using Random Forest Regression Model in Python](https://medium.com/@maryamuzakariya/project-predict-stock-prices-using-random-forest-regression-model-in-python-fbe4edf01664?source=rss------data_science-5)
+- [Ve`R`i tabanları ile kısa konuşmalar](https://medium.com/@ozanevkaya/ve-r-i-tabanlar%C4%B1-ile-k%C4%B1sa-konu%C5%9Fmalar-33c2c890c939?source=rss------data_science-5)
+- [I Survived Week One of Bootcamp](https://medium.com/@leahnagy/i-survived-week-one-of-bootcamp-4f9841bd4c04?source=rss------data_science-5)
+- [Visualize your PDF Bank Statement with Python](https://medium.com/@phillipheita/visualize-your-pdf-bank-statement-with-python-cc3608d72a3?source=rss------data_science-5)
+- [Bike-Share Capstone Project — Data Analysis](https://medium.com/@patlichengine/bike-share-capstone-project-data-analysis-4284a698a518?source=rss------data_science-5)
+- [Transitioning to a Data career and the job searching roller coaster.](https://ricardormotta.medium.com/transitioning-to-a-data-career-and-the-job-searching-roller-coaster-50a6cf81e156?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
