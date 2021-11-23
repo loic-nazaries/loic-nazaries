@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Summary: “Survey of Face Manipulation and Fake Detection”](https://medium.com/@ashika.pobbathi/summary-survey-of-face-manipulation-and-fake-detection-589439b26ca6?source=rss------data_science-5)
-- [Prediction of Chronic Kidney Disease &lpar;CKD&rpar; with k-nearest Neighbor](https://medium.com/@jeffreygao_83082/prediction-of-chronic-kidney-disease-ckd-with-k-nearest-neighbor-e0923d798e4a?source=rss------data_science-5)
-- [How to create great Machine Learning solutions](https://machine-learning-made-simple.medium.com/how-to-create-great-machine-learning-solutions-b193c066fce?source=rss------data_science-5)
-- [Git Tips &amp; Tricks for Flatiron Students: How I Made Every Git Mistake to Become a Little Less Git…](https://medium.com/@alpacanonymous/git-tips-tricks-for-flatiron-students-how-i-made-every-git-mistake-to-become-a-little-less-git-52c016eae1d8?source=rss------data_science-5)
-- [Project: Predict Stock Prices Using Random Forest Regression Model in Python](https://medium.com/@maryamuzakariya/project-predict-stock-prices-using-random-forest-regression-model-in-python-fbe4edf01664?source=rss------data_science-5)
-- [Ve`R`i tabanları ile kısa konuşmalar](https://medium.com/@ozanevkaya/ve-r-i-tabanlar%C4%B1-ile-k%C4%B1sa-konu%C5%9Fmalar-33c2c890c939?source=rss------data_science-5)
-- [I Survived Week One of Bootcamp](https://medium.com/@leahnagy/i-survived-week-one-of-bootcamp-4f9841bd4c04?source=rss------data_science-5)
-- [Visualize your PDF Bank Statement with Python](https://medium.com/@phillipheita/visualize-your-pdf-bank-statement-with-python-cc3608d72a3?source=rss------data_science-5)
-- [Bike-Share Capstone Project — Data Analysis](https://medium.com/@patlichengine/bike-share-capstone-project-data-analysis-4284a698a518?source=rss------data_science-5)
-- [Transitioning to a Data career and the job searching roller coaster.](https://ricardormotta.medium.com/transitioning-to-a-data-career-and-the-job-searching-roller-coaster-50a6cf81e156?source=rss------data_science-5)
+- [Temporal Fusion Transformer: Google’s Model for Interpretable Time Series Forecasting](https://medium.com/@nikoskafritsas/temporal-fusion-transformer-googles-model-for-interpretable-time-series-forecasting-5aa17beb621?source=rss------data_science-5)
+- [My Data Analyst Journey— Day 1](https://medium.com/@dave.poortvliet/my-data-analyst-journey-day-1-9d437cbe31d9?source=rss------data_science-5)
+- [Do You Even [Feature] Scale?](https://pub.towardsai.net/do-you-even-feature-scale-d65c8e29e27a?source=rss------data_science-5)
+- [Collatz sequence lengths of the first 10 million integers in Apache Spark](https://medium.com/@chi-yan/collatz-sequence-lengths-of-the-first-10-million-integers-in-apache-spark-4c4eecd48484?source=rss------data_science-5)
+- [Start your journey of the Metaverse within this Free App](https://medium.com/@mrpeso82/start-your-journey-of-the-metaverse-within-this-free-app-de026e2b667a?source=rss------data_science-5)
+- [Recommender System using Collaborative Filtering in Pyspark](https://towardsdatascience.com/recommender-system-using-collaborative-filtering-in-pyspark-b98eab2aea75?source=rss------data_science-5)
+- [Good Luck, IBM](https://medium.com/away-from-towards-data-science/good-luck-ibm-e73729697e72?source=rss------data_science-5)
+- [Observational Causal Inference with Coarsened Exact Matching](https://towardsdatascience.com/observational-causal-inference-with-coarsened-exact-matching-2f252cfc6bf2?source=rss------data_science-5)
+- [Top Machine Learning Conferences for 2022](https://medium.com/@kelsey_93221/top-machine-learning-conferences-for-2022-23a024d66dad?source=rss------data_science-5)
+- [5 Ways Data Science Changed Finance](https://medium.com/@czmclaudiu/5-ways-data-science-changed-finance-c2c6886181a4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
