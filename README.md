@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Temporal Fusion Transformer: Google’s Model for Interpretable Time Series Forecasting](https://medium.com/@nikoskafritsas/temporal-fusion-transformer-googles-model-for-interpretable-time-series-forecasting-5aa17beb621?source=rss------data_science-5)
-- [My Data Analyst Journey— Day 1](https://medium.com/@dave.poortvliet/my-data-analyst-journey-day-1-9d437cbe31d9?source=rss------data_science-5)
-- [Do You Even [Feature] Scale?](https://pub.towardsai.net/do-you-even-feature-scale-d65c8e29e27a?source=rss------data_science-5)
-- [Collatz sequence lengths of the first 10 million integers in Apache Spark](https://medium.com/@chi-yan/collatz-sequence-lengths-of-the-first-10-million-integers-in-apache-spark-4c4eecd48484?source=rss------data_science-5)
-- [Start your journey of the Metaverse within this Free App](https://medium.com/@mrpeso82/start-your-journey-of-the-metaverse-within-this-free-app-de026e2b667a?source=rss------data_science-5)
-- [Recommender System using Collaborative Filtering in Pyspark](https://towardsdatascience.com/recommender-system-using-collaborative-filtering-in-pyspark-b98eab2aea75?source=rss------data_science-5)
-- [Good Luck, IBM](https://medium.com/away-from-towards-data-science/good-luck-ibm-e73729697e72?source=rss------data_science-5)
-- [Observational Causal Inference with Coarsened Exact Matching](https://towardsdatascience.com/observational-causal-inference-with-coarsened-exact-matching-2f252cfc6bf2?source=rss------data_science-5)
-- [Top Machine Learning Conferences for 2022](https://medium.com/@kelsey_93221/top-machine-learning-conferences-for-2022-23a024d66dad?source=rss------data_science-5)
-- [5 Ways Data Science Changed Finance](https://medium.com/@czmclaudiu/5-ways-data-science-changed-finance-c2c6886181a4?source=rss------data_science-5)
+- [Phishing Websites EDA &lpar;Exploratory Data Analysis&rpar;](https://medium.com/@ighadeer93_58983/phishing-websites-eda-exploratory-data-analysis-df80c9182d56?source=rss------data_science-5)
+- [Mental Health and Machine Learning in Companies](https://rajviishah.medium.com/mental-health-and-machine-learning-in-companies-53800724f281?source=rss------data_science-5)
+- [Foundations Of Data Science Part 3 — Coding — Learning Notes](https://medium.com/@reksiarsm/foundations-of-data-science-part-3-coding-learning-notes-832f1ab3767?source=rss------data_science-5)
+- [A Beginner’s Guide to Exploratory Data Analysis](https://medium.com/@siglimumuni/a-beginners-guide-to-exploratory-data-analysis-1dd9eaddeb5e?source=rss------data_science-5)
+- [Web-scrapping in Python for job hunting &lpar;part 2&rpar;](https://jfpalomeque-gonzalez.medium.com/web-scrapping-in-python-for-job-hunting-part-2-d9ff10d9293d?source=rss------data_science-5)
+- [Valorant impact value: giving credit where credit is due](https://medium.com/@matbessa12/valorant-impact-value-giving-credit-where-credit-is-due-d2b4ca66f03d?source=rss------data_science-5)
+- [The Easiest Way To Earn Free Bitcoins Sent Directly To Your Bitcoin Wallet](https://medium.com/@mrpeso82/the-easiest-way-to-earn-free-bitcoins-sent-directly-to-your-bitcoin-wallet-a8bc384efb43?source=rss------data_science-5)
+- [How to predict Customer Lifetime Value [CLV] in Python [BG-NBD and Gamma-Gamma method]](https://python.plainenglish.io/how-to-predict-customer-lifetime-value-clv-in-python-bg-nbd-and-gamma-gamma-method-154a590b5175?source=rss------data_science-5)
+- [Customer Science in Analytics](https://medium.com/analytics-vidhya/customer-science-in-analytics-be05c67c898b?source=rss------data_science-5)
+- [Customer Personality Analysis Segmentation &lpar;Clustering&rpar;](https://medium.com/@andhikaw.789/customer-personality-analysis-segmentation-clustering-1b68a62a61a2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
