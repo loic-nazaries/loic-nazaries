@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Phishing Websites EDA &lpar;Exploratory Data Analysis&rpar;](https://medium.com/@ighadeer93_58983/phishing-websites-eda-exploratory-data-analysis-df80c9182d56?source=rss------data_science-5)
-- [Mental Health and Machine Learning in Companies](https://rajviishah.medium.com/mental-health-and-machine-learning-in-companies-53800724f281?source=rss------data_science-5)
-- [Foundations Of Data Science Part 3 — Coding — Learning Notes](https://medium.com/@reksiarsm/foundations-of-data-science-part-3-coding-learning-notes-832f1ab3767?source=rss------data_science-5)
-- [A Beginner’s Guide to Exploratory Data Analysis](https://medium.com/@siglimumuni/a-beginners-guide-to-exploratory-data-analysis-1dd9eaddeb5e?source=rss------data_science-5)
-- [Web-scrapping in Python for job hunting &lpar;part 2&rpar;](https://jfpalomeque-gonzalez.medium.com/web-scrapping-in-python-for-job-hunting-part-2-d9ff10d9293d?source=rss------data_science-5)
-- [Valorant impact value: giving credit where credit is due](https://medium.com/@matbessa12/valorant-impact-value-giving-credit-where-credit-is-due-d2b4ca66f03d?source=rss------data_science-5)
-- [The Easiest Way To Earn Free Bitcoins Sent Directly To Your Bitcoin Wallet](https://medium.com/@mrpeso82/the-easiest-way-to-earn-free-bitcoins-sent-directly-to-your-bitcoin-wallet-a8bc384efb43?source=rss------data_science-5)
-- [How to predict Customer Lifetime Value [CLV] in Python [BG-NBD and Gamma-Gamma method]](https://python.plainenglish.io/how-to-predict-customer-lifetime-value-clv-in-python-bg-nbd-and-gamma-gamma-method-154a590b5175?source=rss------data_science-5)
-- [Customer Science in Analytics](https://medium.com/analytics-vidhya/customer-science-in-analytics-be05c67c898b?source=rss------data_science-5)
-- [Customer Personality Analysis Segmentation &lpar;Clustering&rpar;](https://medium.com/@andhikaw.789/customer-personality-analysis-segmentation-clustering-1b68a62a61a2?source=rss------data_science-5)
+- [Python: Build a Program to Retrieve and Graph Live Stock Market Data](https://medium.com/@jsteinb/python-build-a-program-to-retrieve-and-graph-live-stock-market-data-311d9ca1b7d3?source=rss------data_science-5)
+- [Sharpen Your Machine Learning Skills With This Real-world Housing Market Cluster Analysis](https://medium.com/@insightsbees/sharpen-your-machine-learning-skills-with-this-real-world-housing-market-cluster-analysis-f0e6b06f6ba0?source=rss------data_science-5)
+- [How to Analyze A/B Test Results](https://xinqilin.medium.com/how-to-analyze-a-b-test-results-c3e0c7dc9501?source=rss------data_science-5)
+- [Bayesian Sports Betting](https://medium.com/@nicspicks/bayesian-sports-betting-using-empirical-inference-and-bayes-theorem-to-crush-the-markets-b2140298a356?source=rss------data_science-5)
+- [Turn $600 into $50,000 with Python](https://python.plainenglish.io/turn-600-into-50-000-with-python-dfdab9b5e7f7?source=rss------data_science-5)
+- [Crawler livre do Zap imóveis](https://medium.com/@abelrapha/crawler-livre-do-zap-im%C3%B3veis-2ca31a5e9dde?source=rss------data_science-5)
+- [Data scientists ♥ Data… but there’s a twist](https://medium.com/@dhruv.sakalley/data-scientists-data-but-theres-a-twist-ef028e50a3dd?source=rss------data_science-5)
+- [PORTAL DISCORD AMA TRANSKRİPTİ](https://onursarayli.medium.com/portal-projesi-17-kas%C4%B1m-2021de-discord-toplulu%C4%9Fumuzla-ba%C5%9Far%C4%B1yla-tamamlanan-ama-oturumunun-bu-7d2bcd23bad8?source=rss------data_science-5)
+- [The SHAP Values with H2O Models](https://medium.com/dataman-in-ai/the-shap-values-with-h2o-models-773a203b75e3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
