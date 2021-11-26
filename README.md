@@ -105,15 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Python: Build a Program to Retrieve and Graph Live Stock Market Data](https://medium.com/@jsteinb/python-build-a-program-to-retrieve-and-graph-live-stock-market-data-311d9ca1b7d3?source=rss------data_science-5)
-- [Sharpen Your Machine Learning Skills With This Real-world Housing Market Cluster Analysis](https://medium.com/@insightsbees/sharpen-your-machine-learning-skills-with-this-real-world-housing-market-cluster-analysis-f0e6b06f6ba0?source=rss------data_science-5)
-- [How to Analyze A/B Test Results](https://xinqilin.medium.com/how-to-analyze-a-b-test-results-c3e0c7dc9501?source=rss------data_science-5)
-- [Bayesian Sports Betting](https://medium.com/@nicspicks/bayesian-sports-betting-using-empirical-inference-and-bayes-theorem-to-crush-the-markets-b2140298a356?source=rss------data_science-5)
-- [Turn $600 into $50,000 with Python](https://python.plainenglish.io/turn-600-into-50-000-with-python-dfdab9b5e7f7?source=rss------data_science-5)
-- [Crawler livre do Zap imóveis](https://medium.com/@abelrapha/crawler-livre-do-zap-im%C3%B3veis-2ca31a5e9dde?source=rss------data_science-5)
-- [Data scientists ♥ Data… but there’s a twist](https://medium.com/@dhruv.sakalley/data-scientists-data-but-theres-a-twist-ef028e50a3dd?source=rss------data_science-5)
-- [PORTAL DISCORD AMA TRANSKRİPTİ](https://onursarayli.medium.com/portal-projesi-17-kas%C4%B1m-2021de-discord-toplulu%C4%9Fumuzla-ba%C5%9Far%C4%B1yla-tamamlanan-ama-oturumunun-bu-7d2bcd23bad8?source=rss------data_science-5)
-- [The SHAP Values with H2O Models](https://medium.com/dataman-in-ai/the-shap-values-with-h2o-models-773a203b75e3?source=rss------data_science-5)
+- [The Dream of Open Data and the Ethics of APIs](https://medium.com/@lelwonger/the-dream-of-open-data-and-the-ethics-of-apis-c7d9e5f1ae05?source=rss------data_science-5)
+- [People Analytics for Better Corporate Results](https://medium.com/illumination-curated/people-analytics-for-better-corporate-results-5bf46accbcfc?source=rss------data_science-5)
+- [Buy 6cladba, 6cl-adbb-b, 5cladba, 5cl-adb, 5fadb, 4fadb, 2fdck, Jwh-018, 7a-19, 7add, 7abb
+BUY…](https://medium.com/@premiumchemlab/buy-6cladba-6cl-adbb-b-5cladba-5cl-adb-5fadb-4fadb-2fdck-jwh-018-7a-19-7add-7abb-buy-806eaed70f61?source=rss------data_science-5)
+- [Heart disease prediction](https://medium.com/@miasxyue/heart-disease-prediction-e0ea9438265?source=rss------data_science-5)
+- [A labelling tool to easily extract and label Wikipedia data](https://towardsdatascience.com/a-labelling-tool-to-easily-extract-and-label-wikipedia-data-63f58e2e76ae?source=rss------data_science-5)
+- [Bayesian Inference and Markov Chain Monte Carlo Sampling in Python](https://towardsdatascience.com/bayesian-inference-and-markov-chain-monte-carlo-sampling-in-python-bada1beabca7?source=rss------data_science-5)
+- [Center of excellence impact measuring](https://medium.com/rappibank/center-of-excellence-impact-measuring-aa68b04f1337?source=rss------data_science-5)
+- [On Addiction, Mental Health, and Illegal Drugs:](https://medium.com/@VinceKoehl/on-addiction-mental-health-and-illegal-drugs-49509b013b66?source=rss------data_science-5)
+- [Supervised, Semi-Supervised, Unsupervised, and Self-Supervised Learning](https://towardsdatascience.com/supervised-semi-supervised-unsupervised-and-self-supervised-learning-7fa79aa9247c?source=rss------data_science-5)
+- [Tidy Data with Java &amp; Jupyter](https://medium.com/@gmsharpe/tidy-data-with-java-jupyter-b1e131b37ab0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
