@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Dream of Open Data and the Ethics of APIs](https://medium.com/@lelwonger/the-dream-of-open-data-and-the-ethics-of-apis-c7d9e5f1ae05?source=rss------data_science-5)
-- [People Analytics for Better Corporate Results](https://medium.com/illumination-curated/people-analytics-for-better-corporate-results-5bf46accbcfc?source=rss------data_science-5)
-- [Buy 6cladba, 6cl-adbb-b, 5cladba, 5cl-adb, 5fadb, 4fadb, 2fdck, Jwh-018, 7a-19, 7add, 7abb
-BUY…](https://medium.com/@premiumchemlab/buy-6cladba-6cl-adbb-b-5cladba-5cl-adb-5fadb-4fadb-2fdck-jwh-018-7a-19-7add-7abb-buy-806eaed70f61?source=rss------data_science-5)
-- [Heart disease prediction](https://medium.com/@miasxyue/heart-disease-prediction-e0ea9438265?source=rss------data_science-5)
-- [A labelling tool to easily extract and label Wikipedia data](https://towardsdatascience.com/a-labelling-tool-to-easily-extract-and-label-wikipedia-data-63f58e2e76ae?source=rss------data_science-5)
-- [Bayesian Inference and Markov Chain Monte Carlo Sampling in Python](https://towardsdatascience.com/bayesian-inference-and-markov-chain-monte-carlo-sampling-in-python-bada1beabca7?source=rss------data_science-5)
-- [Center of excellence impact measuring](https://medium.com/rappibank/center-of-excellence-impact-measuring-aa68b04f1337?source=rss------data_science-5)
-- [On Addiction, Mental Health, and Illegal Drugs:](https://medium.com/@VinceKoehl/on-addiction-mental-health-and-illegal-drugs-49509b013b66?source=rss------data_science-5)
-- [Supervised, Semi-Supervised, Unsupervised, and Self-Supervised Learning](https://towardsdatascience.com/supervised-semi-supervised-unsupervised-and-self-supervised-learning-7fa79aa9247c?source=rss------data_science-5)
-- [Tidy Data with Java &amp; Jupyter](https://medium.com/@gmsharpe/tidy-data-with-java-jupyter-b1e131b37ab0?source=rss------data_science-5)
+- [The Best Ways To Mine Litecoin](https://medium.com/@mrpeso82/the-best-ways-to-mine-litecoin-490bb341658a?source=rss------data_science-5)
+- [Practical example on data science and aeronautics](https://fvvengineering.medium.com/practical-example-on-data-science-and-aeronautics-2eb16cdbd133?source=rss------data_science-5)
+- [Lambda Function in Python](https://medium.com/@Starlord8/lambda-function-in-python-b611fae231e0?source=rss------data_science-5)
+- [Veri Bilimi İçin Ralli Maratonu Etap_7](https://medium.com/@bekirondes/veri-bilimi-i%CC%87%C3%A7in-ralli-maratonu-etap-7-c935f4640190?source=rss------data_science-5)
+- [Pandemic Modeling with Python: The SIR Model](https://knawab.medium.com/pandemic-modeling-with-python-the-sir-model-16b5f8348e85?source=rss------data_science-5)
+- [Fun Holiday Gifts for Data Scientists &amp; Data Analysts](https://chiandhuang.medium.com/fun-holiday-gifts-for-data-scientists-data-analysts-8648402b9d76?source=rss------data_science-5)
+- [Fantasy EPL GW12 Recap and GW13 Algo Recommendations](https://medium.datadriveninvestor.com/fantasy-epl-gw12-recap-and-gw13-algo-recommendations-57135b430e64?source=rss------data_science-5)
+- [Pandas Built in Functions that Replace Missing Values](https://mgolferk.medium.com/pandas-built-in-functions-that-replace-missing-values-596aea70d104?source=rss------data_science-5)
+- [How To join my Deep Learning and Computer Vision Course for Free](https://richmondalake.medium.com/how-to-join-my-deep-learning-and-computer-vision-course-for-free-1dfc2838e74a?source=rss------data_science-5)
+- [Intro to Naive Bayes Classifier in Python](https://medium.com/the-shortform/intro-to-naive-bayes-classifier-in-python-e2b4c85002f9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
