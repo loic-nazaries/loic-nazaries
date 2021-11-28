@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Best Ways To Mine Litecoin](https://medium.com/@mrpeso82/the-best-ways-to-mine-litecoin-490bb341658a?source=rss------data_science-5)
-- [Practical example on data science and aeronautics](https://fvvengineering.medium.com/practical-example-on-data-science-and-aeronautics-2eb16cdbd133?source=rss------data_science-5)
-- [Lambda Function in Python](https://medium.com/@Starlord8/lambda-function-in-python-b611fae231e0?source=rss------data_science-5)
-- [Veri Bilimi İçin Ralli Maratonu Etap_7](https://medium.com/@bekirondes/veri-bilimi-i%CC%87%C3%A7in-ralli-maratonu-etap-7-c935f4640190?source=rss------data_science-5)
-- [Pandemic Modeling with Python: The SIR Model](https://knawab.medium.com/pandemic-modeling-with-python-the-sir-model-16b5f8348e85?source=rss------data_science-5)
-- [Fun Holiday Gifts for Data Scientists &amp; Data Analysts](https://chiandhuang.medium.com/fun-holiday-gifts-for-data-scientists-data-analysts-8648402b9d76?source=rss------data_science-5)
-- [Fantasy EPL GW12 Recap and GW13 Algo Recommendations](https://medium.datadriveninvestor.com/fantasy-epl-gw12-recap-and-gw13-algo-recommendations-57135b430e64?source=rss------data_science-5)
-- [Pandas Built in Functions that Replace Missing Values](https://mgolferk.medium.com/pandas-built-in-functions-that-replace-missing-values-596aea70d104?source=rss------data_science-5)
-- [How To join my Deep Learning and Computer Vision Course for Free](https://richmondalake.medium.com/how-to-join-my-deep-learning-and-computer-vision-course-for-free-1dfc2838e74a?source=rss------data_science-5)
-- [Intro to Naive Bayes Classifier in Python](https://medium.com/the-shortform/intro-to-naive-bayes-classifier-in-python-e2b4c85002f9?source=rss------data_science-5)
+- [Projeto de machine learning III](https://br-cienciadedados.medium.com/projeto-de-machine-learning-iii-7960c6e0a6dc?source=rss------data_science-5)
+- [Getting Better from Worse: Augmented Bagging and a Cautionary Tale of Variable Importance.](https://ishasharmax.medium.com/getting-better-from-worse-augmented-bagging-and-a-cautionary-tale-of-variable-importance-4a69dca202cb?source=rss------data_science-5)
+- [How to become a Data Scientist](https://medium.com/@oktaydabak54/how-to-become-a-data-scientist-8148d15c420d?source=rss------data_science-5)
+- [Two Sigma: Deep Learning for Sequences in Quant Finance](https://medium.com/@tzjy/two-sigma-deep-learning-for-sequences-in-quant-finance-ec82f2de2c02?source=rss------data_science-5)
+- [Python modules for data science you should know.](https://medium.com/@cmmbk/python-modules-for-data-science-you-should-know-ea81f4c50473?source=rss------data_science-5)
+- [The thorns and thrills of the tech world; My story.](https://medium.com/@oladepodaniel9/the-thorns-and-thrills-of-the-tech-world-my-story-a8c359ef42bc?source=rss------data_science-5)
+- [Meu primeiro grande projeto de Ciência de Dados — Parte 1](https://medium.com/@elisarm.antunes/meu-primeiro-grande-projeto-de-ci%C3%AAncia-de-dados-parte-1-bc85678577dc?source=rss------data_science-5)
+- [“Once You Become Fearless, Life Becomes Limitless.”](https://medium.com/@SamerTallauze/once-you-become-fearless-life-becomes-limitless-2de562e7e0c8?source=rss------data_science-5)
+- [Testes de hipótese básico em Python referente à eficácia da lei do Sistema Único de Segurança…](https://medium.com/@lemmg/testes-de-hip%C3%B3tese-b%C3%A1sico-em-python-referente-%C3%A0-efic%C3%A1cia-da-lei-do-sistema-%C3%BAnico-de-seguran%C3%A7a-e2557f64f04d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
