@@ -121,11 +121,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [4 Python Pandas Functions That Serve Better With Dictionaries](https://towardsdatascience.com/4-python-pandas-functions-that-serve-better-with-dictionaries-bbfcc6c39fa5?source=rss-2cf6b549448------2)
 - [4 Tricky Data Manipulation Operations With Python Pandas](https://towardsdatascience.com/4-tricky-data-manipulation-operations-with-python-pandas-7fd5e8bba624?source=rss-2cf6b549448------2)
 - [5 Must-Know Terms in Time Series Analysis](https://towardsdatascience.com/5-must-know-terms-in-time-series-analysis-bf2455b2a87?source=rss-2cf6b549448------2)
 - [SQL From Zero to Hero in 30 Days — Day 7 Working With Text 2](https://medium.com/geekculture/sql-from-zero-to-hero-in-30-days-day-7-working-with-text-2-6d8dc20500f7?source=rss-2cf6b549448------2)
 - [6 Questions to Understand A/B Testing](https://towardsdatascience.com/6-questions-to-understand-a-b-testing-8d0ed05e5cc4?source=rss-2cf6b549448------2)
-- [SQL From Zero to Hero in 30 Days — Day 6 Working With Text](https://sonery.medium.com/sql-from-zero-to-hero-in-30-days-day-6-working-with-text-e34b93c4bdaa?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
