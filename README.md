@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Projeto de machine learning III](https://br-cienciadedados.medium.com/projeto-de-machine-learning-iii-7960c6e0a6dc?source=rss------data_science-5)
-- [Getting Better from Worse: Augmented Bagging and a Cautionary Tale of Variable Importance.](https://ishasharmax.medium.com/getting-better-from-worse-augmented-bagging-and-a-cautionary-tale-of-variable-importance-4a69dca202cb?source=rss------data_science-5)
-- [How to become a Data Scientist](https://medium.com/@oktaydabak54/how-to-become-a-data-scientist-8148d15c420d?source=rss------data_science-5)
-- [Two Sigma: Deep Learning for Sequences in Quant Finance](https://medium.com/@tzjy/two-sigma-deep-learning-for-sequences-in-quant-finance-ec82f2de2c02?source=rss------data_science-5)
-- [Python modules for data science you should know.](https://medium.com/@cmmbk/python-modules-for-data-science-you-should-know-ea81f4c50473?source=rss------data_science-5)
-- [The thorns and thrills of the tech world; My story.](https://medium.com/@oladepodaniel9/the-thorns-and-thrills-of-the-tech-world-my-story-a8c359ef42bc?source=rss------data_science-5)
-- [Meu primeiro grande projeto de Ciência de Dados — Parte 1](https://medium.com/@elisarm.antunes/meu-primeiro-grande-projeto-de-ci%C3%AAncia-de-dados-parte-1-bc85678577dc?source=rss------data_science-5)
-- [“Once You Become Fearless, Life Becomes Limitless.”](https://medium.com/@SamerTallauze/once-you-become-fearless-life-becomes-limitless-2de562e7e0c8?source=rss------data_science-5)
-- [Testes de hipótese básico em Python referente à eficácia da lei do Sistema Único de Segurança…](https://medium.com/@lemmg/testes-de-hip%C3%B3tese-b%C3%A1sico-em-python-referente-%C3%A0-efic%C3%A1cia-da-lei-do-sistema-%C3%BAnico-de-seguran%C3%A7a-e2557f64f04d?source=rss------data_science-5)
+- [Time Series Analysis 10 | SARIMAX and VAR Models](https://medium.com/adamedelwiess/time-series-analysis-10-sarimax-and-var-models-a3cfaec3485e?source=rss------data_science-5)
+- [Boxplot com Matplotlib, Pandas e Seaborn: Vá além do básico](https://medium.com/@ygormoreiralima/boxplot-com-matplotlib-pandas-e-seaborn-v%C3%A1-al%C3%A9m-do-b%C3%A1sico-ae2aaab3523a?source=rss------data_science-5)
+- [NLP Article #1 : A word is worth a 1000 pictures](https://freefabian.medium.com/nlp-article-1-a-word-is-worth-a-1000-pictures-2a4d027e51fb?source=rss------data_science-5)
+- [Introduction to BanditPAM](https://medium.com/@valentincthrn/introduction-to-banditpam-83cc3fd992b2?source=rss------data_science-5)
+- [Os erros mais graves em ciência de dados](https://henrique-ajnbranco.medium.com/os-erros-mais-graves-em-ci%C3%AAncia-de-dados-5469bc6ca316?source=rss------data_science-5)
+- [How to Predict if Spotify Customer Will Save a Song?](https://medium.com/@jwadjas/how-to-predict-if-spotify-customer-will-save-a-song-779a44f31437?source=rss------data_science-5)
+- [Neural Networks play Chrome’s Dino Game with NEAT-Python](https://medium.com/@gregoryg323/neural-networks-play-chromes-dino-game-with-neat-python-defe7c46a7f8?source=rss------data_science-5)
+- [WomenTechWomenYes Annual Gala Exploratory Data Analysis](https://ugurselimozen.medium.com/womentechwomenyes-annual-gala-exploratory-data-analysis-5620c00acdd4?source=rss------data_science-5)
+- [What Makes Great Chocolate?](https://medium.com/@chengyi0220/what-makes-great-chocolate-b6f23f0396a1?source=rss------data_science-5)
+- [The Collection of Machine Learning Interview Questions](https://medium.com/@tzjy/the-collection-of-machine-learning-interview-questions-a0c7446df92d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
