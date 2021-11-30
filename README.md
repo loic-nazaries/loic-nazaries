@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Time Series Analysis 10 | SARIMAX and VAR Models](https://medium.com/adamedelwiess/time-series-analysis-10-sarimax-and-var-models-a3cfaec3485e?source=rss------data_science-5)
-- [Boxplot com Matplotlib, Pandas e Seaborn: Vá além do básico](https://medium.com/@ygormoreiralima/boxplot-com-matplotlib-pandas-e-seaborn-v%C3%A1-al%C3%A9m-do-b%C3%A1sico-ae2aaab3523a?source=rss------data_science-5)
-- [NLP Article #1 : A word is worth a 1000 pictures](https://freefabian.medium.com/nlp-article-1-a-word-is-worth-a-1000-pictures-2a4d027e51fb?source=rss------data_science-5)
-- [Introduction to BanditPAM](https://medium.com/@valentincthrn/introduction-to-banditpam-83cc3fd992b2?source=rss------data_science-5)
-- [Os erros mais graves em ciência de dados](https://henrique-ajnbranco.medium.com/os-erros-mais-graves-em-ci%C3%AAncia-de-dados-5469bc6ca316?source=rss------data_science-5)
-- [How to Predict if Spotify Customer Will Save a Song?](https://medium.com/@jwadjas/how-to-predict-if-spotify-customer-will-save-a-song-779a44f31437?source=rss------data_science-5)
-- [Neural Networks play Chrome’s Dino Game with NEAT-Python](https://medium.com/@gregoryg323/neural-networks-play-chromes-dino-game-with-neat-python-defe7c46a7f8?source=rss------data_science-5)
-- [WomenTechWomenYes Annual Gala Exploratory Data Analysis](https://ugurselimozen.medium.com/womentechwomenyes-annual-gala-exploratory-data-analysis-5620c00acdd4?source=rss------data_science-5)
-- [What Makes Great Chocolate?](https://medium.com/@chengyi0220/what-makes-great-chocolate-b6f23f0396a1?source=rss------data_science-5)
-- [The Collection of Machine Learning Interview Questions](https://medium.com/@tzjy/the-collection-of-machine-learning-interview-questions-a0c7446df92d?source=rss------data_science-5)
+- [Os Melhores Artigos de Análise Topológica de Dados que li em 2021](https://heage.medium.com/os-melhores-artigos-de-an%C3%A1lise-topol%C3%B3gica-de-dados-que-li-em-2021-156798a77e34?source=rss------data_science-5)
+- [Hacking eBooks Bundle — Think like a hacker!](https://medium.com/@Humble_Bundle_Partner_Blog/hacking-ebooks-bundle-think-like-a-hacker-c4f1a8329a88?source=rss------data_science-5)
+- [Desafio do Titanic](https://medium.com/@victornatal94/desafio-do-titanic-1734691bea92?source=rss------data_science-5)
+- [資料科學好朋友 ep.2 &lpar;上&rpar; ft. Joe Tsai](https://blog.infuseai.io/data-friends-ep2-tw-fe5e5519fb1f?source=rss------data_science-5)
+- [Mindful Experimentation: Evaluate Recommendation System Performance using A/B Testing at Headspace](https://medium.com/headspace-engineering/mindful-experimentation-evaluate-recommendation-system-performance-using-a-b-testing-at-headspace-3c8c05d0ae3b?source=rss------data_science-5)
+- [Hyperparameter Optimization: This is Almost All You Need](https://ayoubelhadine.medium.com/hyperparameter-optimization-this-is-almost-all-you-need-b76ef41cc36f?source=rss------data_science-5)
+- [FROM ACCOUNTANT TO DATA SCIENTIST AND EVERYTHING IN-BETWEEN: WHY I CHOSE THE FLATIRON SCHOOL…](https://medium.com/@abassdibrahim/from-accountant-to-data-scientist-and-everything-in-between-why-i-chose-the-flatiron-school-45659b6d73a8?source=rss------data_science-5)
+- [ACQUISTA DENARO CONTRAFFATTO FALSO NON RILEVATO IN TUTTE LE VALUTE E SSD CHIMICO WHATSAPP ME…](https://medium.com/@dosif25651/acquista-denaro-contraffatto-falso-non-rilevato-in-tutte-le-valute-e-ssd-chimico-whatsapp-me-64c4d93c36c6?source=rss------data_science-5)
+- [Amazing list of Data Science cheat sheets](https://preettheman.medium.com/amazing-list-of-data-science-cheat-sheets-c090bb28be0a?source=rss------data_science-5)
+- [Explainable AI: An illuminator in the field of black-box machine learning](https://towardsdatascience.com/explainable-ai-an-illuminator-in-the-field-of-black-box-machine-learning-62d805d54a7a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
