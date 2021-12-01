@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Os Melhores Artigos de Análise Topológica de Dados que li em 2021](https://heage.medium.com/os-melhores-artigos-de-an%C3%A1lise-topol%C3%B3gica-de-dados-que-li-em-2021-156798a77e34?source=rss------data_science-5)
-- [Hacking eBooks Bundle — Think like a hacker!](https://medium.com/@Humble_Bundle_Partner_Blog/hacking-ebooks-bundle-think-like-a-hacker-c4f1a8329a88?source=rss------data_science-5)
-- [Desafio do Titanic](https://medium.com/@victornatal94/desafio-do-titanic-1734691bea92?source=rss------data_science-5)
-- [資料科學好朋友 ep.2 &lpar;上&rpar; ft. Joe Tsai](https://blog.infuseai.io/data-friends-ep2-tw-fe5e5519fb1f?source=rss------data_science-5)
-- [Mindful Experimentation: Evaluate Recommendation System Performance using A/B Testing at Headspace](https://medium.com/headspace-engineering/mindful-experimentation-evaluate-recommendation-system-performance-using-a-b-testing-at-headspace-3c8c05d0ae3b?source=rss------data_science-5)
-- [Hyperparameter Optimization: This is Almost All You Need](https://ayoubelhadine.medium.com/hyperparameter-optimization-this-is-almost-all-you-need-b76ef41cc36f?source=rss------data_science-5)
-- [FROM ACCOUNTANT TO DATA SCIENTIST AND EVERYTHING IN-BETWEEN: WHY I CHOSE THE FLATIRON SCHOOL…](https://medium.com/@abassdibrahim/from-accountant-to-data-scientist-and-everything-in-between-why-i-chose-the-flatiron-school-45659b6d73a8?source=rss------data_science-5)
-- [ACQUISTA DENARO CONTRAFFATTO FALSO NON RILEVATO IN TUTTE LE VALUTE E SSD CHIMICO WHATSAPP ME…](https://medium.com/@dosif25651/acquista-denaro-contraffatto-falso-non-rilevato-in-tutte-le-valute-e-ssd-chimico-whatsapp-me-64c4d93c36c6?source=rss------data_science-5)
-- [Amazing list of Data Science cheat sheets](https://preettheman.medium.com/amazing-list-of-data-science-cheat-sheets-c090bb28be0a?source=rss------data_science-5)
-- [Explainable AI: An illuminator in the field of black-box machine learning](https://towardsdatascience.com/explainable-ai-an-illuminator-in-the-field-of-black-box-machine-learning-62d805d54a7a?source=rss------data_science-5)
+- [Julia is the best programming language](https://preettheman.medium.com/julia-is-the-best-programming-language-433f899b736f?source=rss------data_science-5)
+- [SQL and Data Science: Why is SQL important? — Part 1](https://medium.com/@manueldazaramirez/sql-and-data-science-why-is-sql-important-part-1-7927f1237a46?source=rss------data_science-5)
+- [You’re Missing Me in Your Sample](https://medium.com/@valeriavisfoss/youre-missing-me-in-your-sample-53153d2f965?source=rss------data_science-5)
+- [Two minutes NLP — Effective intents identification in short texts with unsupervised learning](https://medium.com/nlplanet/two-minutes-nlp-effective-intents-identification-in-short-texts-with-unsupervised-learning-61b7b670d3?source=rss------data_science-5)
+- [NYU-Moi Data Science for Social Determinants Training Program receives funding from the National…](https://nyudatascience.medium.com/nyu-moi-data-science-for-social-determinants-training-program-receives-funding-from-the-national-12bc00ce6dc9?source=rss------data_science-5)
+- [5 Lessons I learned in my first year of Data Science](https://medium.com/@mariaiirinco/5-lessons-i-learned-in-my-first-year-of-data-science-af2e0560d235?source=rss------data_science-5)
+- [AutoML and Cloud AI/ML APIs](https://jasondeden.medium.com/automl-and-cloud-ai-ml-apis-49b29f1f7e75?source=rss------data_science-5)
+- [The most important Python packages for Data Scientists](https://preettheman.medium.com/the-most-important-python-packages-for-data-scientists-b946b22b4f6d?source=rss------data_science-5)
+- [How Commodity Forecasting Can Pay for Your Sustainability Initiatives](https://medium.com/descarteslabs-team/how-commodity-forecasting-can-pay-for-your-sustainability-initiatives-13a133f2d999?source=rss------data_science-5)
+- [Using C# &amp; ML.NET to Predict Video Game Ratings](https://matteland.medium.com/using-c-ml-net-to-predict-video-game-ratings-fd8917203227?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
