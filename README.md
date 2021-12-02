@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Julia is the best programming language](https://preettheman.medium.com/julia-is-the-best-programming-language-433f899b736f?source=rss------data_science-5)
-- [SQL and Data Science: Why is SQL important? — Part 1](https://medium.com/@manueldazaramirez/sql-and-data-science-why-is-sql-important-part-1-7927f1237a46?source=rss------data_science-5)
-- [You’re Missing Me in Your Sample](https://medium.com/@valeriavisfoss/youre-missing-me-in-your-sample-53153d2f965?source=rss------data_science-5)
-- [Two minutes NLP — Effective intents identification in short texts with unsupervised learning](https://medium.com/nlplanet/two-minutes-nlp-effective-intents-identification-in-short-texts-with-unsupervised-learning-61b7b670d3?source=rss------data_science-5)
-- [NYU-Moi Data Science for Social Determinants Training Program receives funding from the National…](https://nyudatascience.medium.com/nyu-moi-data-science-for-social-determinants-training-program-receives-funding-from-the-national-12bc00ce6dc9?source=rss------data_science-5)
-- [5 Lessons I learned in my first year of Data Science](https://medium.com/@mariaiirinco/5-lessons-i-learned-in-my-first-year-of-data-science-af2e0560d235?source=rss------data_science-5)
-- [AutoML and Cloud AI/ML APIs](https://jasondeden.medium.com/automl-and-cloud-ai-ml-apis-49b29f1f7e75?source=rss------data_science-5)
-- [The most important Python packages for Data Scientists](https://preettheman.medium.com/the-most-important-python-packages-for-data-scientists-b946b22b4f6d?source=rss------data_science-5)
-- [How Commodity Forecasting Can Pay for Your Sustainability Initiatives](https://medium.com/descarteslabs-team/how-commodity-forecasting-can-pay-for-your-sustainability-initiatives-13a133f2d999?source=rss------data_science-5)
-- [Using C# &amp; ML.NET to Predict Video Game Ratings](https://matteland.medium.com/using-c-ml-net-to-predict-video-game-ratings-fd8917203227?source=rss------data_science-5)
+- [AI-Powered Predictive Maintenance — A Use Case](https://piexchange.medium.com/ai-powered-predictive-maintenance-a-use-case-3aa739484c76?source=rss------data_science-5)
+- [Awesome TidyVerse cheat sheet for R developers](https://preettheman.medium.com/awesome-tidyverse-cheat-sheet-for-r-developers-6523be4032f4?source=rss------data_science-5)
+- [NFT’S CHANGE THE WAY PEOPLE THINK ABOUT CRYPTOCURRENCY](https://medium.com/@mrpeso82/nfts-change-the-way-people-think-about-cryptocurrency-52a07abc5827?source=rss------data_science-5)
+- [smhindustries13@gmail.com](https://theurlybird.medium.com/smhindustries13-gmail-com-89dac5e2ad7f?source=rss------data_science-5)
+- [Julia just got another big update!](https://preettheman.medium.com/julia-just-got-another-big-update-74f84f35137e?source=rss------data_science-5)
+- [Approaching Basic Automation: Start Thinking Like A Computer](https://dylan-hudson.medium.com/approaching-basic-automation-start-thinking-like-a-computer-6e46729240cf?source=rss------data_science-5)
+- [Analisando a GooglePlayStore](https://medium.com/@natanximenes_28161/analisando-a-googleplaystore-b96ea356d67f?source=rss------data_science-5)
+- [Sex and Drugs and Organic Topic Modeling](https://towardsdatascience.com/sex-and-drugs-and-organic-topic-modeling-91a9776d32e6?source=rss------data_science-5)
+- [How to Easily Cluster Textual Data in Python](https://towardsdatascience.com/how-to-easily-cluster-textual-data-in-python-ab27040b07d8?source=rss------data_science-5)
+- [All You Need to Know About Python Dictionaries](https://towardsdatascience.com/all-you-need-to-know-about-python-dictionaries-ccd05e5c61dd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
