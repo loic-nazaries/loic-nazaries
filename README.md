@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [AI-Powered Predictive Maintenance — A Use Case](https://piexchange.medium.com/ai-powered-predictive-maintenance-a-use-case-3aa739484c76?source=rss------data_science-5)
-- [Awesome TidyVerse cheat sheet for R developers](https://preettheman.medium.com/awesome-tidyverse-cheat-sheet-for-r-developers-6523be4032f4?source=rss------data_science-5)
-- [NFT’S CHANGE THE WAY PEOPLE THINK ABOUT CRYPTOCURRENCY](https://medium.com/@mrpeso82/nfts-change-the-way-people-think-about-cryptocurrency-52a07abc5827?source=rss------data_science-5)
-- [smhindustries13@gmail.com](https://theurlybird.medium.com/smhindustries13-gmail-com-89dac5e2ad7f?source=rss------data_science-5)
-- [Julia just got another big update!](https://preettheman.medium.com/julia-just-got-another-big-update-74f84f35137e?source=rss------data_science-5)
-- [Approaching Basic Automation: Start Thinking Like A Computer](https://dylan-hudson.medium.com/approaching-basic-automation-start-thinking-like-a-computer-6e46729240cf?source=rss------data_science-5)
-- [Analisando a GooglePlayStore](https://medium.com/@natanximenes_28161/analisando-a-googleplaystore-b96ea356d67f?source=rss------data_science-5)
-- [Sex and Drugs and Organic Topic Modeling](https://towardsdatascience.com/sex-and-drugs-and-organic-topic-modeling-91a9776d32e6?source=rss------data_science-5)
-- [How to Easily Cluster Textual Data in Python](https://towardsdatascience.com/how-to-easily-cluster-textual-data-in-python-ab27040b07d8?source=rss------data_science-5)
-- [All You Need to Know About Python Dictionaries](https://towardsdatascience.com/all-you-need-to-know-about-python-dictionaries-ccd05e5c61dd?source=rss------data_science-5)
+- [How Data Engineers Can Use Python to Schedule BigQuery Queries](https://medium.com/pipeline-a-data-engineering-resource/how-data-engineers-can-use-python-to-schedule-bigquery-queries-14cac475e9ec?source=rss------data_science-5)
+- [Mathematics For Data Scientist](https://medium.com/@21070243032/mathematics-for-data-scientist-23031c33525a?source=rss------data_science-5)
+- [How Our Interests Changed During the Pandemic](https://innerjoin.bit.io/how-our-interests-changed-during-the-pandemic-1e873fde9857?source=rss------data_science-5)
+- [The World is Atomizing.](https://medium.com/@askscout/the-world-is-atomizing-42612271b48d?source=rss------data_science-5)
+- [How to effectively work with very large csv and excel files](https://medium.com/dropbase/how-to-effectively-work-with-very-large-csv-and-excel-files-de791dfb1930?source=rss------data_science-5)
+- [AI Transformation Series #1: New Organizational Structures for Training Data in 2022](https://anthony-sarkis.medium.com/ai-transformation-series-1-new-organizational-structures-for-training-data-in-2022-b7d4189545c5?source=rss------data_science-5)
+- [Google’s Next Big Thing](https://medium.com/codex/googles-next-big-thing-f38eb9bd98b9?source=rss------data_science-5)
+- [Data Product Trends That Will Rule in 2022](https://medium.com/@misrapratiksha/data-product-trends-that-will-rule-in-2022-8df4b324c39e?source=rss------data_science-5)
+- [How to create a dashboard from Shopify, excel, and csv data](https://medium.com/dropbase/how-to-create-a-dashboard-from-shopify-excel-and-csv-data-f5ef8f7b7fab?source=rss------data_science-5)
+- [Introduction on Self Organizing Maps &lpar;SOM&rpar; in an Artificial Neural Network](https://pub.towardsai.net/introduction-on-self-organizing-maps-som-in-an-artificial-neural-network-e63a91de58d9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
