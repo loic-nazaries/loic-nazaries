@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How Data Engineers Can Use Python to Schedule BigQuery Queries](https://medium.com/pipeline-a-data-engineering-resource/how-data-engineers-can-use-python-to-schedule-bigquery-queries-14cac475e9ec?source=rss------data_science-5)
-- [Mathematics For Data Scientist](https://medium.com/@21070243032/mathematics-for-data-scientist-23031c33525a?source=rss------data_science-5)
-- [How Our Interests Changed During the Pandemic](https://innerjoin.bit.io/how-our-interests-changed-during-the-pandemic-1e873fde9857?source=rss------data_science-5)
-- [The World is Atomizing.](https://medium.com/@askscout/the-world-is-atomizing-42612271b48d?source=rss------data_science-5)
-- [How to effectively work with very large csv and excel files](https://medium.com/dropbase/how-to-effectively-work-with-very-large-csv-and-excel-files-de791dfb1930?source=rss------data_science-5)
-- [AI Transformation Series #1: New Organizational Structures for Training Data in 2022](https://anthony-sarkis.medium.com/ai-transformation-series-1-new-organizational-structures-for-training-data-in-2022-b7d4189545c5?source=rss------data_science-5)
-- [Google’s Next Big Thing](https://medium.com/codex/googles-next-big-thing-f38eb9bd98b9?source=rss------data_science-5)
-- [Data Product Trends That Will Rule in 2022](https://medium.com/@misrapratiksha/data-product-trends-that-will-rule-in-2022-8df4b324c39e?source=rss------data_science-5)
-- [How to create a dashboard from Shopify, excel, and csv data](https://medium.com/dropbase/how-to-create-a-dashboard-from-shopify-excel-and-csv-data-f5ef8f7b7fab?source=rss------data_science-5)
-- [Introduction on Self Organizing Maps &lpar;SOM&rpar; in an Artificial Neural Network](https://pub.towardsai.net/introduction-on-self-organizing-maps-som-in-an-artificial-neural-network-e63a91de58d9?source=rss------data_science-5)
+- [Signal Separation with Python and Asteroid](https://justin-goheen.medium.com/signal-separation-with-python-and-asteroid-552732967021?source=rss------data_science-5)
+- [Data Quality : Why Preprocess the Data? Master different ways of Data Preprocessing.](https://dnyanesha10.medium.com/data-quality-why-preprocess-the-data-master-different-ways-of-data-preprocessing-ba6097aba23d?source=rss------data_science-5)
+- [Análise de Crédito com Data Science](https://medium.com/@valmirmoreirajunior/an%C3%A1lise-de-cr%C3%A9dito-com-data-science-969a7407ed6a?source=rss------data_science-5)
+- [High Fashion, Drugs and Cars: Here Are the Most Name-Dropped Brands In Hip-Hop](https://medium.com/@kishansripada/high-fashion-drugs-and-cars-here-are-the-most-name-dropped-brands-in-hip-hop-2b6a2e8757a2?source=rss------data_science-5)
+- [Making Python Packages Part 3: Designing Your Classes](https://medium.com/@skylar.kerzner/making-python-packages-part-3-designing-your-classes-82b3a5786e30?source=rss------data_science-5)
+- [Category Anomaly Detection in Clickstream Analytics](https://medium.com/@manuel.pardo_7203/category-anomaly-detection-in-clickstream-analytics-f221e28a862e?source=rss------data_science-5)
+- [Data Science in Agile: Is Your Data Analytics Problem Actually a Backlog Problem?](https://leadingagile.medium.com/data-science-in-agile-is-your-data-analytics-problem-actually-a-backlog-problem-c56a14ffd455?source=rss------data_science-5)
+- [How Data Engineers can Scrape Wikipedia Tables for use in a Christmas-Themed Pipeline](https://medium.com/pipeline-a-data-engineering-resource/how-data-engineers-can-scrape-wikipedia-tables-for-use-in-a-christmas-themed-pipeline-9e7f81f8eda3?source=rss------data_science-5)
+- [Normalization, Standardization and Normal Distribution](https://gustavorsantos.medium.com/normalization-standardization-and-normal-distribution-bfbe14e12df0?source=rss------data_science-5)
+- [Why would a company choose to recruit a junior, when with the crisis there will be many seniors on…](https://diawahad.medium.com/why-would-a-company-choose-to-recruit-a-junior-when-with-the-crisis-there-will-be-many-seniors-on-7206933f6352?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
