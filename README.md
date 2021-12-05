@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Signal Separation with Python and Asteroid](https://justin-goheen.medium.com/signal-separation-with-python-and-asteroid-552732967021?source=rss------data_science-5)
-- [Data Quality : Why Preprocess the Data? Master different ways of Data Preprocessing.](https://dnyanesha10.medium.com/data-quality-why-preprocess-the-data-master-different-ways-of-data-preprocessing-ba6097aba23d?source=rss------data_science-5)
-- [Análise de Crédito com Data Science](https://medium.com/@valmirmoreirajunior/an%C3%A1lise-de-cr%C3%A9dito-com-data-science-969a7407ed6a?source=rss------data_science-5)
-- [High Fashion, Drugs and Cars: Here Are the Most Name-Dropped Brands In Hip-Hop](https://medium.com/@kishansripada/high-fashion-drugs-and-cars-here-are-the-most-name-dropped-brands-in-hip-hop-2b6a2e8757a2?source=rss------data_science-5)
-- [Making Python Packages Part 3: Designing Your Classes](https://medium.com/@skylar.kerzner/making-python-packages-part-3-designing-your-classes-82b3a5786e30?source=rss------data_science-5)
-- [Category Anomaly Detection in Clickstream Analytics](https://medium.com/@manuel.pardo_7203/category-anomaly-detection-in-clickstream-analytics-f221e28a862e?source=rss------data_science-5)
-- [Data Science in Agile: Is Your Data Analytics Problem Actually a Backlog Problem?](https://leadingagile.medium.com/data-science-in-agile-is-your-data-analytics-problem-actually-a-backlog-problem-c56a14ffd455?source=rss------data_science-5)
-- [How Data Engineers can Scrape Wikipedia Tables for use in a Christmas-Themed Pipeline](https://medium.com/pipeline-a-data-engineering-resource/how-data-engineers-can-scrape-wikipedia-tables-for-use-in-a-christmas-themed-pipeline-9e7f81f8eda3?source=rss------data_science-5)
-- [Normalization, Standardization and Normal Distribution](https://gustavorsantos.medium.com/normalization-standardization-and-normal-distribution-bfbe14e12df0?source=rss------data_science-5)
-- [Why would a company choose to recruit a junior, when with the crisis there will be many seniors on…](https://diawahad.medium.com/why-would-a-company-choose-to-recruit-a-junior-when-with-the-crisis-there-will-be-many-seniors-on-7206933f6352?source=rss------data_science-5)
+- [Identifying NBA ‘Empty-Calorie’ Scorers based on PPG&lpar;Points Per Game&rpar; and VORP&lpar;Value Over…](https://medium.com/@shmir234/identifying-nba-empty-calorie-scorers-based-on-ppg-points-per-game-and-vorp-value-over-dbef38fcd702?source=rss------data_science-5)
+- [Fancy hyperparameter tuning with Kubernetes](https://medium.com/elemeno/fancy-hyperparameter-tuning-with-kubernetes-ed9541eda40a?source=rss------data_science-5)
+- [Interviewing Junior Data Scientists](https://medium.com/geekculture/interviewing-junior-data-scientists-ab6e5fdaf156?source=rss------data_science-5)
+- [Overfitting and underfitting of ML model](https://medium.com/@arobiu123/overfitting-and-underfitting-of-ml-model-db8904cb38c6?source=rss------data_science-5)
+- [How to Generate Realistic &lpar;Fake&rpar; Data for Your Projects Using Mockaroo](https://medium.com/pipeline-a-data-engineering-resource/how-to-generate-realistic-fake-data-for-your-projects-using-mockaroo-31573902eff1?source=rss------data_science-5)
+- [C:\DataSciencePath\.. First Topic: Virtual Environments](https://medium.com/@denizcan.oguz/c-datasciencepath-first-topic-virtual-environment-1e01d413c370?source=rss------data_science-5)
+- [Realtime Streaming Data Pipeline On Azure Cloud Platform](https://mozahidsufiyan222-96951.medium.com/realtime-streaming-data-pipeline-on-azure-cloud-platform-e959dc3eadc9?source=rss------data_science-5)
+- [Embedded Link Icons — Quick and Easy Streamlit Application](https://medium.com/@svdzndc/embedded-link-icons-quick-and-easy-streamlit-application-dd0321218b04?source=rss------data_science-5)
+- [The Gap Pull-Back Trading Strategy.](https://medium.datadriveninvestor.com/the-gap-pull-back-trading-strategy-d1c6b306b968?source=rss------data_science-5)
+- [K Nearest Neighbors — Explanation and Implementation](https://medium.com/@francesco.disalvo/k-nearest-neighbors-explanation-and-implementation-438f0ca5dbf4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
