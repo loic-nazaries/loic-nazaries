@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Identifying NBA ‘Empty-Calorie’ Scorers based on PPG&lpar;Points Per Game&rpar; and VORP&lpar;Value Over…](https://medium.com/@shmir234/identifying-nba-empty-calorie-scorers-based-on-ppg-points-per-game-and-vorp-value-over-dbef38fcd702?source=rss------data_science-5)
-- [Fancy hyperparameter tuning with Kubernetes](https://medium.com/elemeno/fancy-hyperparameter-tuning-with-kubernetes-ed9541eda40a?source=rss------data_science-5)
-- [Interviewing Junior Data Scientists](https://medium.com/geekculture/interviewing-junior-data-scientists-ab6e5fdaf156?source=rss------data_science-5)
-- [Overfitting and underfitting of ML model](https://medium.com/@arobiu123/overfitting-and-underfitting-of-ml-model-db8904cb38c6?source=rss------data_science-5)
-- [How to Generate Realistic &lpar;Fake&rpar; Data for Your Projects Using Mockaroo](https://medium.com/pipeline-a-data-engineering-resource/how-to-generate-realistic-fake-data-for-your-projects-using-mockaroo-31573902eff1?source=rss------data_science-5)
-- [C:\DataSciencePath\.. First Topic: Virtual Environments](https://medium.com/@denizcan.oguz/c-datasciencepath-first-topic-virtual-environment-1e01d413c370?source=rss------data_science-5)
-- [Realtime Streaming Data Pipeline On Azure Cloud Platform](https://mozahidsufiyan222-96951.medium.com/realtime-streaming-data-pipeline-on-azure-cloud-platform-e959dc3eadc9?source=rss------data_science-5)
-- [Embedded Link Icons — Quick and Easy Streamlit Application](https://medium.com/@svdzndc/embedded-link-icons-quick-and-easy-streamlit-application-dd0321218b04?source=rss------data_science-5)
-- [The Gap Pull-Back Trading Strategy.](https://medium.datadriveninvestor.com/the-gap-pull-back-trading-strategy-d1c6b306b968?source=rss------data_science-5)
-- [K Nearest Neighbors — Explanation and Implementation](https://medium.com/@francesco.disalvo/k-nearest-neighbors-explanation-and-implementation-438f0ca5dbf4?source=rss------data_science-5)
+- [Julia programming on the Google Colab &lpar;Data Science Series&rpar;](https://medium.com/@AI-Professionals/julia-programming-on-the-google-colab-data-science-series-52d87dcfefff?source=rss------data_science-5)
+- [Setting up a Text Summarisation Project &lpar;Part 2&rpar;](https://towardsdatascience.com/setting-up-a-text-summarisation-project-part-2-a2a8c49193e2?source=rss------data_science-5)
+- [Introducing QuickAI: Unlocking Data Science for Everybody](https://blog.ataeum.com/introducing-quickai-unlocking-data-science-for-everybody-b17ea55c608e?source=rss------data_science-5)
+- [Reading Files into and out of R](https://medium.com/@FrenchTrevor/reading-files-into-and-out-of-r-a5bc6fded44b?source=rss------data_science-5)
+- [We are building an open source AI algorithm marketplace](https://styvio.medium.com/we-are-building-an-open-source-ai-algorithm-marketplace-ae0c423718af?source=rss------data_science-5)
+- [Self-Training Classifier: How to Make Any Algorithm Behave Like a Semi-Supervised One](https://towardsdatascience.com/self-training-classifier-how-to-make-any-algorithm-behave-like-a-semi-supervised-one-2958e7b54ab7?source=rss------data_science-5)
+- [Classifying Cancer Using Machine Learning &amp; Data](https://medium.com/@irhan.iftikar/classifying-cancer-using-machine-learning-models-data-fae20cc97327?source=rss------data_science-5)
+- [Introduction to Applied Linear Algebra: Norms &amp; Distances](https://towardsdatascience.com/introduction-to-applied-linear-algebra-norms-distances-2451e6325925?source=rss------data_science-5)
+- [Is marketing really just advertising? An analysis of marketing job postings from Stepstone &lpar;Part 1&rpar;](https://medium.com/@linaoechsner/is-marketing-really-just-advertising-an-analysis-of-marketing-job-postings-from-stepstone-part-1-e5b261801353?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
