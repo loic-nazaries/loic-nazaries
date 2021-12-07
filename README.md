@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Julia programming on the Google Colab &lpar;Data Science Series&rpar;](https://medium.com/@AI-Professionals/julia-programming-on-the-google-colab-data-science-series-52d87dcfefff?source=rss------data_science-5)
-- [Setting up a Text Summarisation Project &lpar;Part 2&rpar;](https://towardsdatascience.com/setting-up-a-text-summarisation-project-part-2-a2a8c49193e2?source=rss------data_science-5)
-- [Introducing QuickAI: Unlocking Data Science for Everybody](https://blog.ataeum.com/introducing-quickai-unlocking-data-science-for-everybody-b17ea55c608e?source=rss------data_science-5)
-- [Reading Files into and out of R](https://medium.com/@FrenchTrevor/reading-files-into-and-out-of-r-a5bc6fded44b?source=rss------data_science-5)
-- [We are building an open source AI algorithm marketplace](https://styvio.medium.com/we-are-building-an-open-source-ai-algorithm-marketplace-ae0c423718af?source=rss------data_science-5)
-- [Self-Training Classifier: How to Make Any Algorithm Behave Like a Semi-Supervised One](https://towardsdatascience.com/self-training-classifier-how-to-make-any-algorithm-behave-like-a-semi-supervised-one-2958e7b54ab7?source=rss------data_science-5)
-- [Classifying Cancer Using Machine Learning &amp; Data](https://medium.com/@irhan.iftikar/classifying-cancer-using-machine-learning-models-data-fae20cc97327?source=rss------data_science-5)
-- [Introduction to Applied Linear Algebra: Norms &amp; Distances](https://towardsdatascience.com/introduction-to-applied-linear-algebra-norms-distances-2451e6325925?source=rss------data_science-5)
-- [Is marketing really just advertising? An analysis of marketing job postings from Stepstone &lpar;Part 1&rpar;](https://medium.com/@linaoechsner/is-marketing-really-just-advertising-an-analysis-of-marketing-job-postings-from-stepstone-part-1-e5b261801353?source=rss------data_science-5)
+- [Nepal Earthquake Damage Grade Modeling](https://medium.com/@dxzhang0921/nepal-earthquake-damage-grade-modeling-367b3c2d95e2?source=rss------data_science-5)
+- [Why you should blog as a Data Scientist](https://preettheman.medium.com/why-you-should-blog-as-a-data-scientist-5625427c8fb6?source=rss------data_science-5)
+- [Why Your Machine Learning Project Could Fail](https://medium.com/odscjournal/why-your-machine-learning-project-could-fail-8acab24fcff8?source=rss------data_science-5)
+- [How to Create a Successful Movie Based on Analyses of Movies on IMDb and Box Office Mojo Websites](https://jmstipanowich.medium.com/how-to-create-a-successful-movie-based-on-analyses-of-movies-on-imdb-and-box-office-mojo-websites-3773419853da?source=rss------data_science-5)
+- [3 secret R tricks you need to see](https://preettheman.medium.com/3-secret-r-tricks-you-need-to-see-1636ee8f00ba?source=rss------data_science-5)
+- [Newbie tackles Data Science problem: Customer churning](https://medium.com/@boshimbadoh/newbie-tackles-data-science-problem-customer-churning-6214d6f7ddf2?source=rss------data_science-5)
+- [My Journey to a Career in Data Science](https://medium.com/@McKennaDataScience/my-journey-to-a-career-in-data-science-9a396b95ffc3?source=rss------data_science-5)
+- [Best tips for writing clean Python code](https://preettheman.medium.com/best-tips-for-writing-clean-python-code-5a44b29661b?source=rss------data_science-5)
+- [My journey to Accuracy](https://medium.com/@chijindunwokolo/my-journey-to-accuracy-1c5f4057a9a2?source=rss------data_science-5)
+- [Python Course for Data Analysis: Numpy + Pandas + Matplotlib](https://medium.com/@admin_82765/python-course-for-data-analysis-numpy-pandas-matplotlib-fd05e81c7384?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
