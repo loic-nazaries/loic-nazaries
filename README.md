@@ -105,16 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Nepal Earthquake Damage Grade Modeling](https://medium.com/@dxzhang0921/nepal-earthquake-damage-grade-modeling-367b3c2d95e2?source=rss------data_science-5)
-- [Why you should blog as a Data Scientist](https://preettheman.medium.com/why-you-should-blog-as-a-data-scientist-5625427c8fb6?source=rss------data_science-5)
-- [Why Your Machine Learning Project Could Fail](https://medium.com/odscjournal/why-your-machine-learning-project-could-fail-8acab24fcff8?source=rss------data_science-5)
-- [How to Create a Successful Movie Based on Analyses of Movies on IMDb and Box Office Mojo Websites](https://jmstipanowich.medium.com/how-to-create-a-successful-movie-based-on-analyses-of-movies-on-imdb-and-box-office-mojo-websites-3773419853da?source=rss------data_science-5)
-- [3 secret R tricks you need to see](https://preettheman.medium.com/3-secret-r-tricks-you-need-to-see-1636ee8f00ba?source=rss------data_science-5)
-- [Newbie tackles Data Science problem: Customer churning](https://medium.com/@boshimbadoh/newbie-tackles-data-science-problem-customer-churning-6214d6f7ddf2?source=rss------data_science-5)
-- [My Journey to a Career in Data Science](https://medium.com/@McKennaDataScience/my-journey-to-a-career-in-data-science-9a396b95ffc3?source=rss------data_science-5)
-- [Best tips for writing clean Python code](https://preettheman.medium.com/best-tips-for-writing-clean-python-code-5a44b29661b?source=rss------data_science-5)
-- [My journey to Accuracy](https://medium.com/@chijindunwokolo/my-journey-to-accuracy-1c5f4057a9a2?source=rss------data_science-5)
-- [Python Course for Data Analysis: Numpy + Pandas + Matplotlib](https://medium.com/@admin_82765/python-course-for-data-analysis-numpy-pandas-matplotlib-fd05e81c7384?source=rss------data_science-5)
+- [Flash Loan Stats on Aave for 2021](https://medium.com/@dmitriy.kavyazin/flashloan-stats-on-aave-for-2021-e827dd232052?source=rss------data_science-5)
+- [My favorite keyboard for programming](https://preettheman.medium.com/my-favorite-keyboard-for-programming-f3c51a2becfc?source=rss------data_science-5)
+- [Not Sure What To Write About? Here’s How To Find Gold In Your Analytics](https://bettermarketing.pub/not-sure-what-to-write-about-heres-how-to-find-gold-in-your-analytics-48e82cc906cf?source=rss------data_science-5)
+- [These are the easiest programming languags to learn](https://preettheman.medium.com/these-are-the-easiest-programming-languags-to-learn-ac874039f3fa?source=rss------data_science-5)
+- [Visualizing 100M+ data points with Plotly](https://jvdd.medium.com/visualizing-100m-data-points-with-plotly-6e1adf2537c7?source=rss------data_science-5)
+- [7 financial lessons that I wish I had been told when I was younger](https://medium.com/@aka54deep90/7-financial-lessons-that-i-wish-i-had-been-told-when-i-was-younger-9c3227707ec6?source=rss------data_science-5)
+- [Ocean Protocol
+
+Modern toplum veri üzerine inşa edilmiştir.](https://medium.com/@cryptoturkey/ocean-protocol-modern-toplum-veri-%C3%BCzerine-in%C5%9Fa-edilmi%C5%9Ftir-ac1ae2b7a127?source=rss------data_science-5)
+- [Multiclass Image Classification — Hands-On with Keras and TensoFlow](https://pub.towardsai.net/multiclass-image-classification-hands-on-with-keras-and-tensoflow-e1cf434f3467?source=rss------data_science-5)
+- [Introduction to Causal Inference &lpar;part 1&rpar;](https://prosperous-silver-alpaca.medium.com/introduction-to-causal-inference-part-1-d65f2e1ab89?source=rss------data_science-5)
+- [An Alternative Introduction to Altair Plotting](https://aero-data-science.medium.com/an-alternative-introduction-to-altair-plotting-c7c5a7ee4bde?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
