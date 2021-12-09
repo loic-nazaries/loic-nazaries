@@ -105,18 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Flash Loan Stats on Aave for 2021](https://medium.com/@dmitriy.kavyazin/flashloan-stats-on-aave-for-2021-e827dd232052?source=rss------data_science-5)
-- [My favorite keyboard for programming](https://preettheman.medium.com/my-favorite-keyboard-for-programming-f3c51a2becfc?source=rss------data_science-5)
-- [Not Sure What To Write About? Here’s How To Find Gold In Your Analytics](https://bettermarketing.pub/not-sure-what-to-write-about-heres-how-to-find-gold-in-your-analytics-48e82cc906cf?source=rss------data_science-5)
-- [These are the easiest programming languags to learn](https://preettheman.medium.com/these-are-the-easiest-programming-languags-to-learn-ac874039f3fa?source=rss------data_science-5)
-- [Visualizing 100M+ data points with Plotly](https://jvdd.medium.com/visualizing-100m-data-points-with-plotly-6e1adf2537c7?source=rss------data_science-5)
-- [7 financial lessons that I wish I had been told when I was younger](https://medium.com/@aka54deep90/7-financial-lessons-that-i-wish-i-had-been-told-when-i-was-younger-9c3227707ec6?source=rss------data_science-5)
-- [Ocean Protocol
-
-Modern toplum veri üzerine inşa edilmiştir.](https://medium.com/@cryptoturkey/ocean-protocol-modern-toplum-veri-%C3%BCzerine-in%C5%9Fa-edilmi%C5%9Ftir-ac1ae2b7a127?source=rss------data_science-5)
-- [Multiclass Image Classification — Hands-On with Keras and TensoFlow](https://pub.towardsai.net/multiclass-image-classification-hands-on-with-keras-and-tensoflow-e1cf434f3467?source=rss------data_science-5)
-- [Introduction to Causal Inference &lpar;part 1&rpar;](https://prosperous-silver-alpaca.medium.com/introduction-to-causal-inference-part-1-d65f2e1ab89?source=rss------data_science-5)
-- [An Alternative Introduction to Altair Plotting](https://aero-data-science.medium.com/an-alternative-introduction-to-altair-plotting-c7c5a7ee4bde?source=rss------data_science-5)
+- [Regression A to Z : Choosing the Correct Type of Regression Analysis](https://dnyanesha10.medium.com/regression-a-to-z-choosing-the-correct-type-of-regression-analysis-7d09abef4c07?source=rss------data_science-5)
+- [Exploring the Emotions of Anti-Vaxxerrs](https://medium.com/@Matheus-Schmitz/exploring-the-emotions-of-anti-vaxxerrs-f6540c0d042f?source=rss------data_science-5)
+- [Descriptive Analytics about health and predict about heart disease by using logistic regression](https://medium.com/@boat30011/descriptive-analytics-about-health-and-predict-about-heart-disease-by-using-logistic-regression-a297853a3462?source=rss------data_science-5)
+- [EXPLORING IRIS DATASET WITH PYTHON AND STATISTICS.](https://medium.com/@anupdogrial/exploring-iris-dataset-with-python-and-statistics-eaf693ac0d55?source=rss------data_science-5)
+- [The Mathematical Relationship between the Survival Function and Hazard Function](https://towardsdatascience.com/the-mathematical-relationship-between-the-survival-function-and-hazard-function-74559bb6cc34?source=rss------data_science-5)
+- [How to make agile actually work for analytics](https://towardsdatascience.com/how-to-make-agile-actually-work-for-analytics-e8fb2290276e?source=rss------data_science-5)
+- [Bayesian Price Optimization with PyMC3](https://towardsdatascience.com/bayesian-price-optimization-with-pymc3-d1264beb38ee?source=rss------data_science-5)
+- [5 Python projects to build right now!](https://preettheman.medium.com/5-python-projects-to-build-right-now-418202f0afde?source=rss------data_science-5)
+- [¿Se puede utilizar a GPT-3 para corregir textos en español?](https://medium.com/@erebyel/se-puede-utilizar-a-gpt-3-para-corregir-textos-en-espa%C3%B1ol-2b871795bed4?source=rss------data_science-5)
+- [Introducing the CDS DeepMind Scholarship for Spring 2022](https://nyudatascience.medium.com/introducing-the-cds-deepmind-scholarship-for-spring-2022-8bd4ce3cfb?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
