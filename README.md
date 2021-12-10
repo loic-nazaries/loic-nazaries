@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Regression A to Z : Choosing the Correct Type of Regression Analysis](https://dnyanesha10.medium.com/regression-a-to-z-choosing-the-correct-type-of-regression-analysis-7d09abef4c07?source=rss------data_science-5)
-- [Exploring the Emotions of Anti-Vaxxerrs](https://medium.com/@Matheus-Schmitz/exploring-the-emotions-of-anti-vaxxerrs-f6540c0d042f?source=rss------data_science-5)
-- [Descriptive Analytics about health and predict about heart disease by using logistic regression](https://medium.com/@boat30011/descriptive-analytics-about-health-and-predict-about-heart-disease-by-using-logistic-regression-a297853a3462?source=rss------data_science-5)
-- [EXPLORING IRIS DATASET WITH PYTHON AND STATISTICS.](https://medium.com/@anupdogrial/exploring-iris-dataset-with-python-and-statistics-eaf693ac0d55?source=rss------data_science-5)
-- [The Mathematical Relationship between the Survival Function and Hazard Function](https://towardsdatascience.com/the-mathematical-relationship-between-the-survival-function-and-hazard-function-74559bb6cc34?source=rss------data_science-5)
-- [How to make agile actually work for analytics](https://towardsdatascience.com/how-to-make-agile-actually-work-for-analytics-e8fb2290276e?source=rss------data_science-5)
-- [Bayesian Price Optimization with PyMC3](https://towardsdatascience.com/bayesian-price-optimization-with-pymc3-d1264beb38ee?source=rss------data_science-5)
-- [5 Python projects to build right now!](https://preettheman.medium.com/5-python-projects-to-build-right-now-418202f0afde?source=rss------data_science-5)
-- [¿Se puede utilizar a GPT-3 para corregir textos en español?](https://medium.com/@erebyel/se-puede-utilizar-a-gpt-3-para-corregir-textos-en-espa%C3%B1ol-2b871795bed4?source=rss------data_science-5)
-- [Introducing the CDS DeepMind Scholarship for Spring 2022](https://nyudatascience.medium.com/introducing-the-cds-deepmind-scholarship-for-spring-2022-8bd4ce3cfb?source=rss------data_science-5)
+- [Poisson-binomial Stochastic Processes: Introduction, Simulations, Inference](https://vincentgranville.medium.com/poisson-binomial-stochastic-processes-introduction-simulations-inference-6c2b380700ce?source=rss------data_science-5)
+- [Am a professional mistress seeking for sissy slave and hookup dm me on kik sluntty and snap…](https://medium.com/@hookupbella7/am-a-professional-mistress-seeking-for-sissy-slave-and-hookup-dm-me-on-kik-sluntty-and-snap-71d366d8a630?source=rss------data_science-5)
+- [Exploring Computer Vision — Artificial Intelligence Service from AWS — Amazon Rekognition](https://towardsdatascience.com/exploring-computer-vision-artificial-intelligence-service-from-aws-amazon-rekognition-21abbeb8857c?source=rss------data_science-5)
+- [Data Helps Investors to Find the Optimal Business Location &lpar;Consulting Project in Berlin&rpar;](https://amr-khalil.medium.com/data-helps-investors-to-find-the-optimal-business-location-consulting-project-in-berlin-896fcc25fa2b?source=rss------data_science-5)
+- [How to determine the right data distribution of a table using dedicated SQL pool in Azure Synapse…](https://medium.com/@jaynab.jk/how-to-determine-the-right-data-distribution-of-a-table-using-dedicated-sql-pool-in-azure-synapse-8485dacb7605?source=rss------data_science-5)
+- [Projeto de machine learning IV](https://br-cienciadedados.medium.com/projeto-de-machine-learning-iv-6ef85889aea7?source=rss------data_science-5)
+- [This Library is 15 Times Faster Than Pandas](https://medium.com/@irfanalghani11/this-library-is-15-times-faster-than-pandas-7e49c0a17adc?source=rss------data_science-5)
+- [Scraping Excel Data with Python](https://medium.com/@tanyashapiro_72192/scraping-excel-data-with-python-41725308d9b0?source=rss------data_science-5)
+- [Creating the Awesome Oscillator in Python](https://kaabar-sofien.medium.com/creating-the-awesome-oscillator-in-python-ea59c277f9f5?source=rss------data_science-5)
+- [Veri Bilimi İçin Ralli Maratonu Etap_12](https://medium.com/@bekirondes/veri-bilimi-i%CC%87%C3%A7in-ralli-maratonu-etap-12-29075b2af238?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
