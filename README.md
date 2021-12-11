@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Poisson-binomial Stochastic Processes: Introduction, Simulations, Inference](https://vincentgranville.medium.com/poisson-binomial-stochastic-processes-introduction-simulations-inference-6c2b380700ce?source=rss------data_science-5)
-- [Am a professional mistress seeking for sissy slave and hookup dm me on kik sluntty and snap…](https://medium.com/@hookupbella7/am-a-professional-mistress-seeking-for-sissy-slave-and-hookup-dm-me-on-kik-sluntty-and-snap-71d366d8a630?source=rss------data_science-5)
-- [Exploring Computer Vision — Artificial Intelligence Service from AWS — Amazon Rekognition](https://towardsdatascience.com/exploring-computer-vision-artificial-intelligence-service-from-aws-amazon-rekognition-21abbeb8857c?source=rss------data_science-5)
-- [Data Helps Investors to Find the Optimal Business Location &lpar;Consulting Project in Berlin&rpar;](https://amr-khalil.medium.com/data-helps-investors-to-find-the-optimal-business-location-consulting-project-in-berlin-896fcc25fa2b?source=rss------data_science-5)
-- [How to determine the right data distribution of a table using dedicated SQL pool in Azure Synapse…](https://medium.com/@jaynab.jk/how-to-determine-the-right-data-distribution-of-a-table-using-dedicated-sql-pool-in-azure-synapse-8485dacb7605?source=rss------data_science-5)
-- [Projeto de machine learning IV](https://br-cienciadedados.medium.com/projeto-de-machine-learning-iv-6ef85889aea7?source=rss------data_science-5)
-- [This Library is 15 Times Faster Than Pandas](https://medium.com/@irfanalghani11/this-library-is-15-times-faster-than-pandas-7e49c0a17adc?source=rss------data_science-5)
-- [Scraping Excel Data with Python](https://medium.com/@tanyashapiro_72192/scraping-excel-data-with-python-41725308d9b0?source=rss------data_science-5)
-- [Creating the Awesome Oscillator in Python](https://kaabar-sofien.medium.com/creating-the-awesome-oscillator-in-python-ea59c277f9f5?source=rss------data_science-5)
-- [Veri Bilimi İçin Ralli Maratonu Etap_12](https://medium.com/@bekirondes/veri-bilimi-i%CC%87%C3%A7in-ralli-maratonu-etap-12-29075b2af238?source=rss------data_science-5)
+- [How Data Scientists and Data Engineers Can Collaborate Effectively](https://towardsdatascience.com/how-data-scientists-and-data-engineers-can-collaborate-effectively-4d33a23f211c?source=rss------data_science-5)
+- [Day 27 : 60 days of Data Science and Machine Learning Series](https://medium.datadriveninvestor.com/day-27-60-days-of-data-science-and-machine-learning-series-4c4b7fe6af7?source=rss------data_science-5)
+- [Day 26 : 60 days of Data Science and Machine Learning Series](https://medium.datadriveninvestor.com/day-26-60-days-of-data-science-and-machine-learning-series-5d317cea4cad?source=rss------data_science-5)
+- [Training a Machine to Learn Different Languages](https://medium.com/@hali_43082/training-a-machine-to-learn-different-languages-7ed8e0a01c9a?source=rss------data_science-5)
+- [My Journey into Data Science](https://medium.com/@asifur95/my-journey-into-data-science-1f81f84d8d61?source=rss------data_science-5)
+- [Statistical languages &lpar;mostly&rpar; don’t matter.](https://medium.com/@kornferryinstitute/statistical-languages-mostly-dont-matter-45035e2da663?source=rss------data_science-5)
+- [Why Pursue a Career in Data &amp; Analytics](https://towardsdatascience.com/why-pursue-a-career-in-data-analytics-4f2f76e825c8?source=rss------data_science-5)
+- [Introduction to Data Science](https://medium.com/@brockabigalke/introduction-to-data-science-69b55454b689?source=rss------data_science-5)
+- [Image Matching with Shopee](https://medium.com/@jacksonhassell/image-matching-with-shopee-3174a01648fd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
