@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How Data Scientists and Data Engineers Can Collaborate Effectively](https://towardsdatascience.com/how-data-scientists-and-data-engineers-can-collaborate-effectively-4d33a23f211c?source=rss------data_science-5)
-- [Day 27 : 60 days of Data Science and Machine Learning Series](https://medium.datadriveninvestor.com/day-27-60-days-of-data-science-and-machine-learning-series-4c4b7fe6af7?source=rss------data_science-5)
-- [Day 26 : 60 days of Data Science and Machine Learning Series](https://medium.datadriveninvestor.com/day-26-60-days-of-data-science-and-machine-learning-series-5d317cea4cad?source=rss------data_science-5)
-- [Training a Machine to Learn Different Languages](https://medium.com/@hali_43082/training-a-machine-to-learn-different-languages-7ed8e0a01c9a?source=rss------data_science-5)
-- [My Journey into Data Science](https://medium.com/@asifur95/my-journey-into-data-science-1f81f84d8d61?source=rss------data_science-5)
-- [Statistical languages &lpar;mostly&rpar; don’t matter.](https://medium.com/@kornferryinstitute/statistical-languages-mostly-dont-matter-45035e2da663?source=rss------data_science-5)
-- [Why Pursue a Career in Data &amp; Analytics](https://towardsdatascience.com/why-pursue-a-career-in-data-analytics-4f2f76e825c8?source=rss------data_science-5)
-- [Introduction to Data Science](https://medium.com/@brockabigalke/introduction-to-data-science-69b55454b689?source=rss------data_science-5)
-- [Image Matching with Shopee](https://medium.com/@jacksonhassell/image-matching-with-shopee-3174a01648fd?source=rss------data_science-5)
+- [BLOCKCHAIN TECHNOLOGY BREAKDOWN DIFFERENT TYPE OF LEDGERS](https://drippyab1.medium.com/blockchain-technology-breakdown-different-type-of-ledgers-ff0af01346ab?source=rss------data_science-5)
+- [A Step-by-Step Guide to Recommender System](https://towardsdatascience.com/a-beginner-friendly-guide-to-recommender-system-3f5fa2a57c02?source=rss------data_science-5)
+- [Market Timing &amp; Pattern Recognition Continued. Coding &amp; Back-testing the Waldo Pattern in Python.](https://kaabar-sofien.medium.com/market-timing-pattern-recognition-continued-coding-back-testing-the-waldo-pattern-in-python-4033aeedff16?source=rss------data_science-5)
+- [Importing Data](https://lucymuhonja.medium.com/importing-data-4c62ab59d576?source=rss------data_science-5)
+- [Graph Algorithm for Social Media Network Analysis](https://medium.com/socialpages/graph-algorithm-for-social-media-network-analysis-cbba87e28587?source=rss------data_science-5)
+- [INVESTIGASI PEMBUNUHAN SUBANG!](https://medium.com/@coerror/pinvestigasi-mr-error-dalam-kasus-subang-28cf091218be?source=rss------data_science-5)
+- [Повний цикл дослідження даних власноруч](https://oleghbond.medium.com/%D0%BF%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9-%D1%86%D0%B8%D0%BA%D0%BB-%D0%B4%D0%BE%D1%81%D0%BB%D1%96%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85-%D0%B2%D0%BB%D0%B0%D1%81%D0%BD%D0%BE%D1%80%D1%83%D1%87-d584b01d08e6?source=rss------data_science-5)
+- [Netflix e IMdb: Análise exploratória de dados &lpar;EDA&rpar; com Python!](https://medium.com/@jv.escorcio/netflix-e-imdb-an%C3%A1lise-explorat%C3%B3ria-de-dados-eda-com-python-edaf8b975668?source=rss------data_science-5)
+- [Math, Statistics &amp; CS — the foundations of Data Science](https://medium.com/@nickhass3/math-statistics-cs-the-foundations-of-data-science-24d8933d287c?source=rss------data_science-5)
+- [Paper Summary — torch.manual_seed&lpar;3407&rpar; is all you need](https://sahilchachra.medium.com/paper-summary-torch-manual-seed-3407-is-all-you-need-9ef0f7aa7d78?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
