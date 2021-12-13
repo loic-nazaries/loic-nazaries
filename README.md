@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [BLOCKCHAIN TECHNOLOGY BREAKDOWN DIFFERENT TYPE OF LEDGERS](https://drippyab1.medium.com/blockchain-technology-breakdown-different-type-of-ledgers-ff0af01346ab?source=rss------data_science-5)
-- [A Step-by-Step Guide to Recommender System](https://towardsdatascience.com/a-beginner-friendly-guide-to-recommender-system-3f5fa2a57c02?source=rss------data_science-5)
-- [Market Timing &amp; Pattern Recognition Continued. Coding &amp; Back-testing the Waldo Pattern in Python.](https://kaabar-sofien.medium.com/market-timing-pattern-recognition-continued-coding-back-testing-the-waldo-pattern-in-python-4033aeedff16?source=rss------data_science-5)
-- [Importing Data](https://lucymuhonja.medium.com/importing-data-4c62ab59d576?source=rss------data_science-5)
-- [Graph Algorithm for Social Media Network Analysis](https://medium.com/socialpages/graph-algorithm-for-social-media-network-analysis-cbba87e28587?source=rss------data_science-5)
-- [INVESTIGASI PEMBUNUHAN SUBANG!](https://medium.com/@coerror/pinvestigasi-mr-error-dalam-kasus-subang-28cf091218be?source=rss------data_science-5)
-- [Повний цикл дослідження даних власноруч](https://oleghbond.medium.com/%D0%BF%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9-%D1%86%D0%B8%D0%BA%D0%BB-%D0%B4%D0%BE%D1%81%D0%BB%D1%96%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85-%D0%B2%D0%BB%D0%B0%D1%81%D0%BD%D0%BE%D1%80%D1%83%D1%87-d584b01d08e6?source=rss------data_science-5)
-- [Netflix e IMdb: Análise exploratória de dados &lpar;EDA&rpar; com Python!](https://medium.com/@jv.escorcio/netflix-e-imdb-an%C3%A1lise-explorat%C3%B3ria-de-dados-eda-com-python-edaf8b975668?source=rss------data_science-5)
-- [Math, Statistics &amp; CS — the foundations of Data Science](https://medium.com/@nickhass3/math-statistics-cs-the-foundations-of-data-science-24d8933d287c?source=rss------data_science-5)
-- [Paper Summary — torch.manual_seed&lpar;3407&rpar; is all you need](https://sahilchachra.medium.com/paper-summary-torch-manual-seed-3407-is-all-you-need-9ef0f7aa7d78?source=rss------data_science-5)
+- [Interpreting AUROC in hypothesis testing](https://medium.com/@rohitpandey576/interpreting-auroc-in-hypothesis-testing-a45f6f757a62?source=rss------data_science-5)
+- [The Start.](https://medium.com/@faryalm/the-start-62c82f654506?source=rss------data_science-5)
+- [Prevendo números: Entendendo métricas de regressão.](https://medium.com/data-hackers/prevendo-n%C3%BAmeros-entendendo-m%C3%A9tricas-de-regress%C3%A3o-35545e011e70?source=rss------data_science-5)
+- [Missing Values In Pandas DataFrame](https://medium.com/@Starlord8/missing-values-in-pandas-dataframe-df5a80552ff3?source=rss------data_science-5)
+- [Chifi.dev: The Development Network For Software Enthusiasts](https://medium.com/chifi-media/chifi-dev-the-development-network-for-software-enthusiasts-4116fa5f8795?source=rss------data_science-5)
+- [The Most Effective Way to Learn Data Science!](https://prabakaranc.medium.com/the-most-effective-way-to-learn-data-science-karan-5be67d8302f9?source=rss------data_science-5)
+- [Exploratory Data Analysis &lpar;EDA&rpar; w/Market Sales Dataset](https://omeryasirkucuk.medium.com/exploratory-data-analysis-eda-w-market-sales-dataset-6f284269b195?source=rss------data_science-5)
+- [Path Toward Data Scientist — Week 8 — Week 12 &lpar;A detour&rpar;](https://medium.com/@Rosa2017/path-toward-data-scientist-week-8-week-12-a-detour-1f3efe23b0b1?source=rss------data_science-5)
+- [Minimal Flask Application using MVC design pattern](https://medium.com/@sarsalanamin/minimal-flask-application-using-mvc-design-pattern-842845cef703?source=rss------data_science-5)
+- [The NLP Cypher | 12.12.21](https://quantumstat.medium.com/the-nlp-cypher-12-12-21-68164482e633?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
