@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Interpreting AUROC in hypothesis testing](https://medium.com/@rohitpandey576/interpreting-auroc-in-hypothesis-testing-a45f6f757a62?source=rss------data_science-5)
-- [The Start.](https://medium.com/@faryalm/the-start-62c82f654506?source=rss------data_science-5)
-- [Prevendo números: Entendendo métricas de regressão.](https://medium.com/data-hackers/prevendo-n%C3%BAmeros-entendendo-m%C3%A9tricas-de-regress%C3%A3o-35545e011e70?source=rss------data_science-5)
-- [Missing Values In Pandas DataFrame](https://medium.com/@Starlord8/missing-values-in-pandas-dataframe-df5a80552ff3?source=rss------data_science-5)
-- [Chifi.dev: The Development Network For Software Enthusiasts](https://medium.com/chifi-media/chifi-dev-the-development-network-for-software-enthusiasts-4116fa5f8795?source=rss------data_science-5)
-- [The Most Effective Way to Learn Data Science!](https://prabakaranc.medium.com/the-most-effective-way-to-learn-data-science-karan-5be67d8302f9?source=rss------data_science-5)
-- [Exploratory Data Analysis &lpar;EDA&rpar; w/Market Sales Dataset](https://omeryasirkucuk.medium.com/exploratory-data-analysis-eda-w-market-sales-dataset-6f284269b195?source=rss------data_science-5)
-- [Path Toward Data Scientist — Week 8 — Week 12 &lpar;A detour&rpar;](https://medium.com/@Rosa2017/path-toward-data-scientist-week-8-week-12-a-detour-1f3efe23b0b1?source=rss------data_science-5)
-- [Minimal Flask Application using MVC design pattern](https://medium.com/@sarsalanamin/minimal-flask-application-using-mvc-design-pattern-842845cef703?source=rss------data_science-5)
-- [The NLP Cypher | 12.12.21](https://quantumstat.medium.com/the-nlp-cypher-12-12-21-68164482e633?source=rss------data_science-5)
+- [The Battle of Interactive Geographic Visualization Part 3- Plotly Graph Objects &lpar;Go&rpar;](https://francisadrianviernes.medium.com/the-battle-of-interactive-geographic-visualization-part-3-plotly-graph-objects-go-c3d3f2a00132?source=rss------data_science-5)
+- [Your MAR Data Technique Guide](https://towardsdatascience.com/your-mar-data-technique-guide-b74d2921325b?source=rss------data_science-5)
+- [Un estudio sobre la situación social de personajes políticos en Perú](https://medium.com/@jbadriana21/un-estudio-sobre-la-situaci%C3%B3n-social-de-personajes-pol%C3%ADticos-en-per%C3%BA-9737c6eb1a6?source=rss------data_science-5)
+- [Caption This — A Hosted Deep Learning-based Image Captioning Service for Increased Accessibility](https://medium.com/institute-for-applied-computational-science/caption-this-a-hosted-deep-learning-based-image-captioning-service-for-increased-accessibility-db3d9f8b75db?source=rss------data_science-5)
+- [Hello Mito — A Beginner Friendly Pandas Tool](https://medium.com/@brianfrubin/hello-mito-a-beginner-friendly-pandas-tool-9ab8077306a1?source=rss------data_science-5)
+- [5 VS Code extensions to improve your workflow](https://preettheman.medium.com/5-vs-code-extensions-to-improve-your-workflow-83b8decb0f31?source=rss------data_science-5)
+- [10 Great Ways To Use Less Conventional For Loops In Python](https://towardsdatascience.com/10-great-ways-to-use-less-conventional-for-loops-in-python-6994bb504ade?source=rss------data_science-5)
+- [One Data Scientist’s Assimilation of the Product Lexicon](https://medium.com/@eugene.geis/one-data-scientists-assimilation-of-the-product-lexicon-3dd0e7b05be1?source=rss------data_science-5)
+- [Customizing Sklearn Pipelines: TransformerMixin](https://towardsdatascience.com/customizing-sklearn-pipelines-transformermixin-a54341d8d624?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
