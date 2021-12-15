@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [Data Cleaning and EDA on Airbnb Dataset with Python Pandas and Seaborn](https://towardsdatascience.com/data-cleaning-and-eda-on-airbnb-dataset-with-python-pandas-and-seaborn-7c276116b650?source=rss-2cf6b549448------2)
 - [SQL From Zero to Hero in 30 Days — Day 8 — Date Manipulation](https://sonery.medium.com/sql-from-zero-to-hero-in-30-days-day-8-date-manipulation-fdecc18bed75?source=rss-2cf6b549448------2)
 - [4 Useful Functions of the More-Itertools Library for Python](https://towardsdatascience.com/4-useful-functions-of-the-more-itertools-library-for-python-6915a10781ce?source=rss-2cf6b549448------2)
 - [2 Years of Blogging, 1 Year of Working as a Data Scientist, and a Different Me](https://towardsdatascience.com/2-years-of-blogging-1-year-of-working-as-a-data-scientist-and-a-different-me-7c2ac8c8432b?source=rss-2cf6b549448------2)
 - [A Great Python Library: Great Expectations](https://towardsdatascience.com/a-great-python-library-great-expectations-6ac6d6fe822e?source=rss-2cf6b549448------2)
-- [4 Python Pandas Functions That Serve Better With Dictionaries](https://towardsdatascience.com/4-python-pandas-functions-that-serve-better-with-dictionaries-bbfcc6c39fa5?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
