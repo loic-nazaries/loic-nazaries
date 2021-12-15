@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Battle of Interactive Geographic Visualization Part 3- Plotly Graph Objects &lpar;Go&rpar;](https://francisadrianviernes.medium.com/the-battle-of-interactive-geographic-visualization-part-3-plotly-graph-objects-go-c3d3f2a00132?source=rss------data_science-5)
-- [Your MAR Data Technique Guide](https://towardsdatascience.com/your-mar-data-technique-guide-b74d2921325b?source=rss------data_science-5)
-- [Un estudio sobre la situación social de personajes políticos en Perú](https://medium.com/@jbadriana21/un-estudio-sobre-la-situaci%C3%B3n-social-de-personajes-pol%C3%ADticos-en-per%C3%BA-9737c6eb1a6?source=rss------data_science-5)
-- [Caption This — A Hosted Deep Learning-based Image Captioning Service for Increased Accessibility](https://medium.com/institute-for-applied-computational-science/caption-this-a-hosted-deep-learning-based-image-captioning-service-for-increased-accessibility-db3d9f8b75db?source=rss------data_science-5)
-- [Hello Mito — A Beginner Friendly Pandas Tool](https://medium.com/@brianfrubin/hello-mito-a-beginner-friendly-pandas-tool-9ab8077306a1?source=rss------data_science-5)
-- [5 VS Code extensions to improve your workflow](https://preettheman.medium.com/5-vs-code-extensions-to-improve-your-workflow-83b8decb0f31?source=rss------data_science-5)
-- [10 Great Ways To Use Less Conventional For Loops In Python](https://towardsdatascience.com/10-great-ways-to-use-less-conventional-for-loops-in-python-6994bb504ade?source=rss------data_science-5)
-- [One Data Scientist’s Assimilation of the Product Lexicon](https://medium.com/@eugene.geis/one-data-scientists-assimilation-of-the-product-lexicon-3dd0e7b05be1?source=rss------data_science-5)
-- [Customizing Sklearn Pipelines: TransformerMixin](https://towardsdatascience.com/customizing-sklearn-pipelines-transformermixin-a54341d8d624?source=rss------data_science-5)
+- [Data Leakage](https://aiqc.medium.com/data-leakage-5dfc2e0127d4?source=rss------data_science-5)
+- [Curve Fitting](https://medium.com/@rlrocha/curve-fitting-13feb098951d?source=rss------data_science-5)
+- [NEW 2021 | How To Beat Pokémon SQL Version | SQL Interview Practice Guide](https://medium.com/@jamesrhizon/new-2021-how-to-beat-pok%C3%A9mon-sql-version-sql-interview-practice-guide-326cfa50f1b8?source=rss------data_science-5)
+- [What governs Zika virus pathogenicity?](https://medium.com/omics-diary/what-governs-zika-virus-pathogenicity-68a4835f25f4?source=rss------data_science-5)
+- [Potential Customer Revenue Calculation with Rule Based Classification](https://medium.com/@denizcan.oguz/potential-customer-revenue-calculation-with-rule-based-classification-daaa6ecad574?source=rss------data_science-5)
+- [Neural Style Transfer Across Artistic Styles](https://medium.com/institute-for-applied-computational-science/neural-style-transfer-across-artistic-styles-19c065680cce?source=rss------data_science-5)
+- [Managing Machine Learning Lifecycles with MLflow](https://kedion.medium.com/managing-machine-learning-lifecycles-with-mlflow-d4ce3d91ee10?source=rss------data_science-5)
+- [Life Expectancy and GDP](https://medium.com/@vishalsanjeevuni/life-expectancy-and-gdp-efb34fa4583f?source=rss------data_science-5)
+- [Building An Information Retrieval System for Twitter Users](https://medium.com/@mkalmus/building-an-information-retrieval-system-for-twitter-users-a8fabd0d491e?source=rss------data_science-5)
+- [Como algoritmos sabem o que você irá gostar antes de você: Filtragem colaborativa e alternância de…](https://medium.com/@leonardo.m.valadao/como-m%C3%A1quinas-sabem-o-que-voc%C3%AA-ir%C3%A1-gostar-antes-de-voc%C3%AA-filtragem-colaborativa-e-altern%C3%A2ncia-de-b3ddd4c45cb1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
