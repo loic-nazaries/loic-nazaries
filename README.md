@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Leakage](https://aiqc.medium.com/data-leakage-5dfc2e0127d4?source=rss------data_science-5)
-- [Curve Fitting](https://medium.com/@rlrocha/curve-fitting-13feb098951d?source=rss------data_science-5)
-- [NEW 2021 | How To Beat Pokémon SQL Version | SQL Interview Practice Guide](https://medium.com/@jamesrhizon/new-2021-how-to-beat-pok%C3%A9mon-sql-version-sql-interview-practice-guide-326cfa50f1b8?source=rss------data_science-5)
-- [What governs Zika virus pathogenicity?](https://medium.com/omics-diary/what-governs-zika-virus-pathogenicity-68a4835f25f4?source=rss------data_science-5)
-- [Potential Customer Revenue Calculation with Rule Based Classification](https://medium.com/@denizcan.oguz/potential-customer-revenue-calculation-with-rule-based-classification-daaa6ecad574?source=rss------data_science-5)
-- [Neural Style Transfer Across Artistic Styles](https://medium.com/institute-for-applied-computational-science/neural-style-transfer-across-artistic-styles-19c065680cce?source=rss------data_science-5)
-- [Managing Machine Learning Lifecycles with MLflow](https://kedion.medium.com/managing-machine-learning-lifecycles-with-mlflow-d4ce3d91ee10?source=rss------data_science-5)
-- [Life Expectancy and GDP](https://medium.com/@vishalsanjeevuni/life-expectancy-and-gdp-efb34fa4583f?source=rss------data_science-5)
-- [Building An Information Retrieval System for Twitter Users](https://medium.com/@mkalmus/building-an-information-retrieval-system-for-twitter-users-a8fabd0d491e?source=rss------data_science-5)
-- [Como algoritmos sabem o que você irá gostar antes de você: Filtragem colaborativa e alternância de…](https://medium.com/@leonardo.m.valadao/como-m%C3%A1quinas-sabem-o-que-voc%C3%AA-ir%C3%A1-gostar-antes-de-voc%C3%AA-filtragem-colaborativa-e-altern%C3%A2ncia-de-b3ddd4c45cb1?source=rss------data_science-5)
+- [Convert texts into tensors for Deep Learning](https://medium.com/mlearning-ai/convert-texts-into-tensors-for-deep-learning-74b0cf48d416?source=rss------data_science-5)
+- [Exploring Load Balancing and High Availability Options for Amazon RDS](https://aws.plainenglish.io/exploring-load-balancing-and-high-availability-options-for-amazon-rds-165bce1b45d4?source=rss------data_science-5)
+- [Using Data Science To Improve Default Risk Models](https://medium.com/@khushbu.jagwani/using-data-science-to-improve-default-risk-models-8da6803649f1?source=rss------data_science-5)
+- [Considering Labelbox? Consider Diffgram Too.](https://anthony-sarkis.medium.com/considering-labelbox-consider-diffgram-too-fe7a7b8ee8d7?source=rss------data_science-5)
+- [Introduction to Anomaly Detection in Python with PyCaret](https://towardsdatascience.com/introduction-to-anomaly-detection-in-python-with-pycaret-2fecd7144f87?source=rss------data_science-5)
+- [Predictive Policing, deployed by citizens.](https://medium.com/@askscout/predictive-policing-deployed-by-citizens-d63ae2c5fc2c?source=rss------data_science-5)
+- [Demystifying the FIFA Algorithm](https://medium.com/@vishaalkumar_21306/demystifying-the-fifa-algorithm-e391bce93ec9?source=rss------data_science-5)
+- [A lightning fast code editor you need to see](https://preettheman.medium.com/a-lightning-fast-code-editor-you-need-to-see-3b8492b4cb3b?source=rss------data_science-5)
+- [Como funcionam as Redes Neurais Convolucionais &lpar;CNNs&rpar;](https://medium.com/@vinicius_trevisan/como-funcionam-as-redes-neurais-convolucionais-cnns-71978185c1?source=rss------data_science-5)
+- [An amazing tool for your coding projects](https://preettheman.medium.com/an-amazing-tool-for-your-coding-projects-753287374265?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
