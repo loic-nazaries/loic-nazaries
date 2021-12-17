@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Convert texts into tensors for Deep Learning](https://medium.com/mlearning-ai/convert-texts-into-tensors-for-deep-learning-74b0cf48d416?source=rss------data_science-5)
-- [Exploring Load Balancing and High Availability Options for Amazon RDS](https://aws.plainenglish.io/exploring-load-balancing-and-high-availability-options-for-amazon-rds-165bce1b45d4?source=rss------data_science-5)
-- [Using Data Science To Improve Default Risk Models](https://medium.com/@khushbu.jagwani/using-data-science-to-improve-default-risk-models-8da6803649f1?source=rss------data_science-5)
-- [Considering Labelbox? Consider Diffgram Too.](https://anthony-sarkis.medium.com/considering-labelbox-consider-diffgram-too-fe7a7b8ee8d7?source=rss------data_science-5)
-- [Introduction to Anomaly Detection in Python with PyCaret](https://towardsdatascience.com/introduction-to-anomaly-detection-in-python-with-pycaret-2fecd7144f87?source=rss------data_science-5)
-- [Predictive Policing, deployed by citizens.](https://medium.com/@askscout/predictive-policing-deployed-by-citizens-d63ae2c5fc2c?source=rss------data_science-5)
-- [Demystifying the FIFA Algorithm](https://medium.com/@vishaalkumar_21306/demystifying-the-fifa-algorithm-e391bce93ec9?source=rss------data_science-5)
-- [A lightning fast code editor you need to see](https://preettheman.medium.com/a-lightning-fast-code-editor-you-need-to-see-3b8492b4cb3b?source=rss------data_science-5)
-- [Como funcionam as Redes Neurais Convolucionais &lpar;CNNs&rpar;](https://medium.com/@vinicius_trevisan/como-funcionam-as-redes-neurais-convolucionais-cnns-71978185c1?source=rss------data_science-5)
-- [An amazing tool for your coding projects](https://preettheman.medium.com/an-amazing-tool-for-your-coding-projects-753287374265?source=rss------data_science-5)
+- [Data-Science Libraries](https://medium.com/@datamasteryio/data-science-libraries-3b4afc8b0125?source=rss------data_science-5)
+- [Enhanced Divergence Trading Algorithm.](https://kaabar-sofien.medium.com/enhanced-divergence-trading-algorithm-8e3af3fa9ff4?source=rss------data_science-5)
+- [Data Science Burnout](https://medium.com/@steven.mcfarland.barnard/data-science-burnout-f7cb8e62c72c?source=rss------data_science-5)
+- [Finding the Next Best Songs with Machine Learning](https://medium.com/@Alexander.Bricken/finding-the-next-best-songs-with-machine-learning-55ca9c1511a9?source=rss------data_science-5)
+- [Why Python for Data Science and Machine Learning?](https://medium.com/@datamasteryio/why-python-for-data-science-and-machine-learning-e3b422f31a10?source=rss------data_science-5)
+- [Iterators, Iteration and Iterables](https://medium.com/@Starlord8/iterators-iteration-and-iterables-6bd9f28f26b6?source=rss------data_science-5)
+- [Glad I’m not the only one!](https://ashjurberg.medium.com/glad-im-not-the-only-one-25fe0e995b7a?source=rss------data_science-5)
+- [Python+Prefectでゼロから始めるデータパイプライン構築](https://medium.com/finatext/prefect-run-pipeline-d40e32b57022?source=rss------data_science-5)
+- [Can Better Data Unlock A Brighter Future for Buses?](https://medium.com/bus-watching/can-better-data-unlock-a-brighter-future-for-buses-1f1bcea7092d?source=rss------data_science-5)
+- [Goal or No Goal? A Goal Scoring Prediction for Shots in Hockey.](https://rmnng.medium.com/goal-or-no-goal-a-goal-scoring-prediction-for-shots-in-hockey-6d0e3cf7e6ca?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
