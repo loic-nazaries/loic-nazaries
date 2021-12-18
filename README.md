@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data-Science Libraries](https://medium.com/@datamasteryio/data-science-libraries-3b4afc8b0125?source=rss------data_science-5)
-- [Enhanced Divergence Trading Algorithm.](https://kaabar-sofien.medium.com/enhanced-divergence-trading-algorithm-8e3af3fa9ff4?source=rss------data_science-5)
-- [Data Science Burnout](https://medium.com/@steven.mcfarland.barnard/data-science-burnout-f7cb8e62c72c?source=rss------data_science-5)
-- [Finding the Next Best Songs with Machine Learning](https://medium.com/@Alexander.Bricken/finding-the-next-best-songs-with-machine-learning-55ca9c1511a9?source=rss------data_science-5)
-- [Why Python for Data Science and Machine Learning?](https://medium.com/@datamasteryio/why-python-for-data-science-and-machine-learning-e3b422f31a10?source=rss------data_science-5)
-- [Iterators, Iteration and Iterables](https://medium.com/@Starlord8/iterators-iteration-and-iterables-6bd9f28f26b6?source=rss------data_science-5)
-- [Glad I’m not the only one!](https://ashjurberg.medium.com/glad-im-not-the-only-one-25fe0e995b7a?source=rss------data_science-5)
-- [Python+Prefectでゼロから始めるデータパイプライン構築](https://medium.com/finatext/prefect-run-pipeline-d40e32b57022?source=rss------data_science-5)
-- [Can Better Data Unlock A Brighter Future for Buses?](https://medium.com/bus-watching/can-better-data-unlock-a-brighter-future-for-buses-1f1bcea7092d?source=rss------data_science-5)
-- [Goal or No Goal? A Goal Scoring Prediction for Shots in Hockey.](https://rmnng.medium.com/goal-or-no-goal-a-goal-scoring-prediction-for-shots-in-hockey-6d0e3cf7e6ca?source=rss------data_science-5)
+- [Web Scraping and MySQL using Python](https://abhishekbhagat31.medium.com/web-scraping-and-mysql-using-python-a6f3a8a496ac?source=rss------data_science-5)
+- [Building a Robust Model with Partial Least Squares Regression &lpar;PLS&rpar;](https://ayoubelhadine.medium.com/building-a-robust-model-with-partial-least-squares-regression-pls-39fc5c47c843?source=rss------data_science-5)
+- [Level-Up Your Mouse Jiggling Game with Data Science](https://medium.com/geekculture/level-up-your-mouse-jiggling-game-with-data-science-792c1b967c59?source=rss------data_science-5)
+- [Building Data Products in the Snowflake Data Cloud with Jyoti Pathak from TD SYNNEX](https://medium.com/hashmapinc/building-data-products-snowflake-data-cloud-jyoti-pathak-td-synnex-2cfd1dfc0a82?source=rss------data_science-5)
+- [All the Statistical Tests You Must Do for a Good Linear Regression](https://towardsdatascience.com/all-the-statistical-tests-you-must-do-for-a-good-linear-regression-6ec1ac15e5d4?source=rss------data_science-5)
+- [Timing the Markets With Patterns and Momentum.](https://kaabar-sofien.medium.com/timing-the-markets-with-patterns-and-momentum-e68873b230e6?source=rss------data_science-5)
+- [AI is already killing humanity](https://medium.com/@aka54deep90/ai-is-already-killing-humanity-4c1bc6e37cbd?source=rss------data_science-5)
+- [Difference between integer and string](https://medium.com/@nkemakolamallen/difference-between-integer-and-string-f6fbf4af8657?source=rss------data_science-5)
+- [Thanks, Bobby. Glad you liked it.](https://ashjurberg.medium.com/thanks-bobby-glad-you-liked-it-5a86e5fed532?source=rss------data_science-5)
+- [5 things you need to know if you want to start a career path in Data Science or Data Analytics.](https://medium.com/@SanGaliber/5-things-you-need-to-know-if-you-want-to-start-a-career-path-in-data-science-or-data-analytics-b38a7dc62228?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
