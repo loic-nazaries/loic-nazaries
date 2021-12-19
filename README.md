@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Web Scraping and MySQL using Python](https://abhishekbhagat31.medium.com/web-scraping-and-mysql-using-python-a6f3a8a496ac?source=rss------data_science-5)
-- [Building a Robust Model with Partial Least Squares Regression &lpar;PLS&rpar;](https://ayoubelhadine.medium.com/building-a-robust-model-with-partial-least-squares-regression-pls-39fc5c47c843?source=rss------data_science-5)
-- [Level-Up Your Mouse Jiggling Game with Data Science](https://medium.com/geekculture/level-up-your-mouse-jiggling-game-with-data-science-792c1b967c59?source=rss------data_science-5)
-- [Building Data Products in the Snowflake Data Cloud with Jyoti Pathak from TD SYNNEX](https://medium.com/hashmapinc/building-data-products-snowflake-data-cloud-jyoti-pathak-td-synnex-2cfd1dfc0a82?source=rss------data_science-5)
-- [All the Statistical Tests You Must Do for a Good Linear Regression](https://towardsdatascience.com/all-the-statistical-tests-you-must-do-for-a-good-linear-regression-6ec1ac15e5d4?source=rss------data_science-5)
-- [Timing the Markets With Patterns and Momentum.](https://kaabar-sofien.medium.com/timing-the-markets-with-patterns-and-momentum-e68873b230e6?source=rss------data_science-5)
-- [AI is already killing humanity](https://medium.com/@aka54deep90/ai-is-already-killing-humanity-4c1bc6e37cbd?source=rss------data_science-5)
-- [Difference between integer and string](https://medium.com/@nkemakolamallen/difference-between-integer-and-string-f6fbf4af8657?source=rss------data_science-5)
-- [Thanks, Bobby. Glad you liked it.](https://ashjurberg.medium.com/thanks-bobby-glad-you-liked-it-5a86e5fed532?source=rss------data_science-5)
-- [5 things you need to know if you want to start a career path in Data Science or Data Analytics.](https://medium.com/@SanGaliber/5-things-you-need-to-know-if-you-want-to-start-a-career-path-in-data-science-or-data-analytics-b38a7dc62228?source=rss------data_science-5)
+- [Thanks, Amy. Glad you enjoyed it.](https://ashjurberg.medium.com/thanks-amy-glad-you-enjoyed-it-ac88429434af?source=rss------data_science-5)
+- [Thanks for reading.](https://ashjurberg.medium.com/thanks-for-reading-ac6cd56f0ade?source=rss------data_science-5)
+- [I think there are more amateur videos? Is that what you are referring to?](https://ashjurberg.medium.com/i-think-there-are-more-amateur-videos-is-that-what-you-are-referring-to-77e90b8e3c1a?source=rss------data_science-5)
+- [I agree the data is reliant on what the company willingly shares.](https://ashjurberg.medium.com/i-agree-the-data-is-reliant-on-what-the-company-willingly-shares-aa75fd596cf3?source=rss------data_science-5)
+- [The Future of Work: Can You Adapt Fast Enough Before Becoming Unemployed?](https://medium.com/@ramonbnuezjr/the-future-of-work-can-you-adapt-fast-enough-before-becoming-unemployed-30b0e30aa422?source=rss------data_science-5)
+- [It can be quite addictive, I agree.](https://ashjurberg.medium.com/it-can-be-quite-addictive-i-agree-b5c0a0ea5698?source=rss------data_science-5)
+- [Use Game Theory to pick the Right Career](https://medium.com/new-writers-welcome/use-game-theory-to-pick-the-right-career-48cb27cddf74?source=rss------data_science-5)
+- [Python is perfect](https://preettheman.medium.com/python-is-perfect-fa5e4488da1e?source=rss------data_science-5)
+- [The Time I Coded a Biased Algorithm](https://towardsdatascience.com/the-time-i-coded-a-biased-algorithm-4ae4fba62bf6?source=rss------data_science-5)
+- [Write your own Amazing Data Science Blogs](https://towardsdatascience.com/write-your-own-amazing-data-science-blogs-8b9c19a4255d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
