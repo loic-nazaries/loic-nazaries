@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Thanks, Amy. Glad you enjoyed it.](https://ashjurberg.medium.com/thanks-amy-glad-you-enjoyed-it-ac88429434af?source=rss------data_science-5)
-- [Thanks for reading.](https://ashjurberg.medium.com/thanks-for-reading-ac6cd56f0ade?source=rss------data_science-5)
-- [I think there are more amateur videos? Is that what you are referring to?](https://ashjurberg.medium.com/i-think-there-are-more-amateur-videos-is-that-what-you-are-referring-to-77e90b8e3c1a?source=rss------data_science-5)
-- [I agree the data is reliant on what the company willingly shares.](https://ashjurberg.medium.com/i-agree-the-data-is-reliant-on-what-the-company-willingly-shares-aa75fd596cf3?source=rss------data_science-5)
-- [The Future of Work: Can You Adapt Fast Enough Before Becoming Unemployed?](https://medium.com/@ramonbnuezjr/the-future-of-work-can-you-adapt-fast-enough-before-becoming-unemployed-30b0e30aa422?source=rss------data_science-5)
-- [It can be quite addictive, I agree.](https://ashjurberg.medium.com/it-can-be-quite-addictive-i-agree-b5c0a0ea5698?source=rss------data_science-5)
-- [Use Game Theory to pick the Right Career](https://medium.com/new-writers-welcome/use-game-theory-to-pick-the-right-career-48cb27cddf74?source=rss------data_science-5)
-- [Python is perfect](https://preettheman.medium.com/python-is-perfect-fa5e4488da1e?source=rss------data_science-5)
-- [The Time I Coded a Biased Algorithm](https://towardsdatascience.com/the-time-i-coded-a-biased-algorithm-4ae4fba62bf6?source=rss------data_science-5)
-- [Write your own Amazing Data Science Blogs](https://towardsdatascience.com/write-your-own-amazing-data-science-blogs-8b9c19a4255d?source=rss------data_science-5)
+- [Girvan–Newman — The Clustering Technique in Network Analysis Part 2](https://medium.com/analytics-vidhya/girvan-newman-the-clustering-technique-in-network-analysis-part-2-a62dfdde11e?source=rss------data_science-5)
+- [On Bayesian Geometry](https://towardsdatascience.com/on-bayesian-geometry-7755abf9f4d2?source=rss------data_science-5)
+- [CNN’s to Predict Process Failures](https://towardsdatascience.com/cnns-to-predict-process-failures-28c17e5fd6c2?source=rss------data_science-5)
+- [Are Entry Level jobs really Entry Level?](https://medium.com/@Arun_Gautham_Soundarrajan/are-entry-level-jobs-really-entry-level-12e69b1fa35e?source=rss------data_science-5)
+- [Apple Silicon Data Science Setup &lt; 1 min](https://medium.com/@robertmckee/apple-silicon-data-science-setup-1-min-3ccd8eaa2e4d?source=rss------data_science-5)
+- [Exploratory Data Analysis &lpar;EDA&rpar; on MyAnimeList data](https://medium.com/@aroman11/exploratory-data-analysis-eda-on-myanimelist-data-15134022dc7e?source=rss------data_science-5)
+- [The Momentum Accelerator Trading Strategy.](https://kaabar-sofien.medium.com/the-momentum-accelerator-trading-strategy-9913490db1b1?source=rss------data_science-5)
+- [K-Nearest Neighbors&lpar;KNN&rpar;-A Lazy Algorithm](https://medium.com/@saipavanyekula/k-nearest-neighbors-knn-a-lazy-algorithm-64b586ecd43e?source=rss------data_science-5)
+- [Prerequisites for Axiomatic Approach toProbability](https://tungondugi.medium.com/prerequisites-for-axiomatic-approach-toprobability-d9c6dffe9079?source=rss------data_science-5)
+- [Segna’s Reading List: 2021](https://medium.com/@segna/segnas-reading-list-2021-b713708a3910?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
