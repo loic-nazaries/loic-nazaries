@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Girvan–Newman — The Clustering Technique in Network Analysis Part 2](https://medium.com/analytics-vidhya/girvan-newman-the-clustering-technique-in-network-analysis-part-2-a62dfdde11e?source=rss------data_science-5)
-- [On Bayesian Geometry](https://towardsdatascience.com/on-bayesian-geometry-7755abf9f4d2?source=rss------data_science-5)
-- [CNN’s to Predict Process Failures](https://towardsdatascience.com/cnns-to-predict-process-failures-28c17e5fd6c2?source=rss------data_science-5)
-- [Are Entry Level jobs really Entry Level?](https://medium.com/@Arun_Gautham_Soundarrajan/are-entry-level-jobs-really-entry-level-12e69b1fa35e?source=rss------data_science-5)
-- [Apple Silicon Data Science Setup &lt; 1 min](https://medium.com/@robertmckee/apple-silicon-data-science-setup-1-min-3ccd8eaa2e4d?source=rss------data_science-5)
-- [Exploratory Data Analysis &lpar;EDA&rpar; on MyAnimeList data](https://medium.com/@aroman11/exploratory-data-analysis-eda-on-myanimelist-data-15134022dc7e?source=rss------data_science-5)
-- [The Momentum Accelerator Trading Strategy.](https://kaabar-sofien.medium.com/the-momentum-accelerator-trading-strategy-9913490db1b1?source=rss------data_science-5)
-- [K-Nearest Neighbors&lpar;KNN&rpar;-A Lazy Algorithm](https://medium.com/@saipavanyekula/k-nearest-neighbors-knn-a-lazy-algorithm-64b586ecd43e?source=rss------data_science-5)
-- [Prerequisites for Axiomatic Approach toProbability](https://tungondugi.medium.com/prerequisites-for-axiomatic-approach-toprobability-d9c6dffe9079?source=rss------data_science-5)
-- [Segna’s Reading List: 2021](https://medium.com/@segna/segnas-reading-list-2021-b713708a3910?source=rss------data_science-5)
+- [SQL Challenges for Modifying Databases](https://jmstipanowich.medium.com/sql-challenges-for-modifying-databases-91745293531b?source=rss------data_science-5)
+- [ML applications for data mining gene sequences](https://adityamahes.medium.com/ml-applications-for-data-mining-gene-sequences-76fa2f70c82d?source=rss------data_science-5)
+- [DIFFERENT BETWEEN OTC TRADE AND EXCHANGE TRADE.](https://medium.com/@aavestrategic/different-between-otc-trade-and-exchange-trade-a1deb68a90fe?source=rss------data_science-5)
+- [Feynman and Me](https://medium.com/@ashley_63724/feynman-and-me-da96face7c54?source=rss------data_science-5)
+- [The Art of Detecting Market Tops &amp; Bottoms.](https://kaabar-sofien.medium.com/the-art-of-detecting-market-tops-bottoms-2f9b50ab5bd4?source=rss------data_science-5)
+- [Types of Anomaly Detection!](https://medium.com/@jeremiascampos3/types-of-anomaly-detection-1965b41587a1?source=rss------data_science-5)
+- [The “Go With the Flow” Tool is Now Available in Beta](https://medium.com/studio-x/the-go-with-the-flow-tool-is-now-available-in-beta-61af6609506a?source=rss------data_science-5)
+- [Crowdsourcing: How Future AI Solutions Will Be Built](https://medium.com/studio-x/crowdsourcing-how-future-ai-solutions-will-be-built-f1064e8103cb?source=rss------data_science-5)
+- [How Xeek Contestants Learned Data Science](https://medium.com/studio-x/how-xeek-contestants-learned-data-science-9a7f010b1b7a?source=rss------data_science-5)
+- [Automating Data Pipelines — Types, Use Cases &amp; Best Practices](https://medium.com/@softkraft/automating-data-pipelines-types-use-cases-best-practices-939bcc046d3b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
