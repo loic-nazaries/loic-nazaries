@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [SQL Challenges for Modifying Databases](https://jmstipanowich.medium.com/sql-challenges-for-modifying-databases-91745293531b?source=rss------data_science-5)
-- [ML applications for data mining gene sequences](https://adityamahes.medium.com/ml-applications-for-data-mining-gene-sequences-76fa2f70c82d?source=rss------data_science-5)
-- [DIFFERENT BETWEEN OTC TRADE AND EXCHANGE TRADE.](https://medium.com/@aavestrategic/different-between-otc-trade-and-exchange-trade-a1deb68a90fe?source=rss------data_science-5)
-- [Feynman and Me](https://medium.com/@ashley_63724/feynman-and-me-da96face7c54?source=rss------data_science-5)
-- [The Art of Detecting Market Tops &amp; Bottoms.](https://kaabar-sofien.medium.com/the-art-of-detecting-market-tops-bottoms-2f9b50ab5bd4?source=rss------data_science-5)
-- [Types of Anomaly Detection!](https://medium.com/@jeremiascampos3/types-of-anomaly-detection-1965b41587a1?source=rss------data_science-5)
-- [The “Go With the Flow” Tool is Now Available in Beta](https://medium.com/studio-x/the-go-with-the-flow-tool-is-now-available-in-beta-61af6609506a?source=rss------data_science-5)
-- [Crowdsourcing: How Future AI Solutions Will Be Built](https://medium.com/studio-x/crowdsourcing-how-future-ai-solutions-will-be-built-f1064e8103cb?source=rss------data_science-5)
-- [How Xeek Contestants Learned Data Science](https://medium.com/studio-x/how-xeek-contestants-learned-data-science-9a7f010b1b7a?source=rss------data_science-5)
-- [Automating Data Pipelines — Types, Use Cases &amp; Best Practices](https://medium.com/@softkraft/automating-data-pipelines-types-use-cases-best-practices-939bcc046d3b?source=rss------data_science-5)
+- [How to Read Data Values Separated by Blanks Using the SAS infile Statement](https://ame48.medium.com/how-to-read-data-values-separated-by-blanks-using-the-sas-infile-statement-47c4e5cefd06?source=rss------data_science-5)
+- [Things Nobody Tells You About Being a Data Scientist](https://towardsdatascience.com/things-nobody-tells-you-about-being-a-data-scientist-cdb67b26e486?source=rss------data_science-5)
+- [Collaborative Filtering Similarity Calculations](https://nagendranukala.medium.com/collaborative-filtering-similarity-calculations-a974ae4650?source=rss------data_science-5)
+- [Create Panel Figure Layouts in Matplotlib with Gridspec](https://towardsdatascience.com/create-panel-figure-layouts-in-matplotlib-with-gridspec-7ec79c218df0?source=rss------data_science-5)
+- [How can one become a self-reliant Data Scientist?](https://towardsdatascience.com/how-can-one-become-a-self-reliant-data-scientist-f800ae0c4e0f?source=rss------data_science-5)
+- [How We Built a &lpar;Mostly&rpar; Automated System to Solve Credit Card Merchant Classification](https://medium.com/brexeng/how-we-built-a-mostly-automated-system-to-solve-credit-card-merchant-classification-f9108029e59b?source=rss------data_science-5)
+- [3 examples of radar graphs in the wild &lpar;that are actually good!&rpar;](https://medium.com/visual-analytics-field-notes/3-examples-of-radar-graphs-in-the-wild-that-are-actually-good-d149f914dbb9?source=rss------data_science-5)
+- [Research Preview: Predicting Performance Using Consumer Big Data from The Journal of Portfolio…](https://medium.com/@tzjy/research-preview-predicting-performance-using-consumer-big-data-from-the-journal-of-portfolio-18302fd823ae?source=rss------data_science-5)
+- [My 2021 Year in Review as a Data Scientist](https://towardsdatascience.com/my-2021-year-in-review-as-a-data-scientist-dd081343ccc7?source=rss------data_science-5)
+- [Google Colab Summary for November](https://medium.com/@gmsharpe/google-colab-summary-for-november-ff7c16442cfa?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
