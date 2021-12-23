@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Read Data Values Separated by Blanks Using the SAS infile Statement](https://ame48.medium.com/how-to-read-data-values-separated-by-blanks-using-the-sas-infile-statement-47c4e5cefd06?source=rss------data_science-5)
-- [Things Nobody Tells You About Being a Data Scientist](https://towardsdatascience.com/things-nobody-tells-you-about-being-a-data-scientist-cdb67b26e486?source=rss------data_science-5)
-- [Collaborative Filtering Similarity Calculations](https://nagendranukala.medium.com/collaborative-filtering-similarity-calculations-a974ae4650?source=rss------data_science-5)
-- [Create Panel Figure Layouts in Matplotlib with Gridspec](https://towardsdatascience.com/create-panel-figure-layouts-in-matplotlib-with-gridspec-7ec79c218df0?source=rss------data_science-5)
-- [How can one become a self-reliant Data Scientist?](https://towardsdatascience.com/how-can-one-become-a-self-reliant-data-scientist-f800ae0c4e0f?source=rss------data_science-5)
-- [How We Built a &lpar;Mostly&rpar; Automated System to Solve Credit Card Merchant Classification](https://medium.com/brexeng/how-we-built-a-mostly-automated-system-to-solve-credit-card-merchant-classification-f9108029e59b?source=rss------data_science-5)
-- [3 examples of radar graphs in the wild &lpar;that are actually good!&rpar;](https://medium.com/visual-analytics-field-notes/3-examples-of-radar-graphs-in-the-wild-that-are-actually-good-d149f914dbb9?source=rss------data_science-5)
-- [Research Preview: Predicting Performance Using Consumer Big Data from The Journal of Portfolio…](https://medium.com/@tzjy/research-preview-predicting-performance-using-consumer-big-data-from-the-journal-of-portfolio-18302fd823ae?source=rss------data_science-5)
-- [My 2021 Year in Review as a Data Scientist](https://towardsdatascience.com/my-2021-year-in-review-as-a-data-scientist-dd081343ccc7?source=rss------data_science-5)
-- [Google Colab Summary for November](https://medium.com/@gmsharpe/google-colab-summary-for-november-ff7c16442cfa?source=rss------data_science-5)
+- [I asked AI to describe the first AI boy and AI girl and the differences were bizarre and disturbing](https://keith-mcnulty.medium.com/i-asked-ai-to-describe-the-first-ai-boy-and-ai-girl-and-the-differences-were-bizarre-and-disturbing-502fccfe904c?source=rss------data_science-5)
+- [Why you should implement Evolutionary Algorithms in your Machine Learning Projects](https://machine-learning-made-simple.medium.com/why-you-should-implement-evolutionary-algorithms-in-your-machine-learning-projects-ee386edb4ecc?source=rss------data_science-5)
+- [StrangeR things: Añadiendo… ¿Gatos? a tus plots en R](https://cosmoduende.medium.com/stranger-things-on-r-a%C3%B1adiendo-gatos-a-tus-plots-92a962980f79?source=rss------data_science-5)
+- [Revisiting the Divergence Technique on the RSI](https://kaabar-sofien.medium.com/revisiting-the-divergence-technique-on-the-rsi-b0f1bf5e717b?source=rss------data_science-5)
+- [Astrato champions the next generation of cloud BI](https://jwarbington.medium.com/astrato-champions-the-next-generation-of-cloud-bi-ff8a4271c4b1?source=rss------data_science-5)
+- [What is “The Internet” anyway?](https://medium.com/the-capital/what-is-the-internet-anyway-ff7880f4d867?source=rss------data_science-5)
+- [Analyzing Drake’s and Other Rappers’ Lyrics](https://ucladatares.medium.com/analyzing-drakes-and-other-rappers-lyrics-b07b3a3d77fc?source=rss------data_science-5)
+- [Predicting the Difficulty of Texts Using Machine Learning and Getting a Visual Representation of…](https://suhas-maddali007.medium.com/predicting-the-difficulty-of-texts-using-machine-learning-and-getting-a-visual-representation-of-75f5a96b92e5?source=rss------data_science-5)
+- [Defining ‘Needs’ in your UX questions](https://evaschicker2012.medium.com/defining-needs-in-your-ux-questions-a4da42c40b61?source=rss------data_science-5)
+- [YouTube &amp; Medium as a Startup |  Content Analytics](https://medium.com/@jamesrhizon/youtube-medium-as-a-startup-content-analytics-d071f2034dbb?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
