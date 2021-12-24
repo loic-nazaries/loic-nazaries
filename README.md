@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I asked AI to describe the first AI boy and AI girl and the differences were bizarre and disturbing](https://keith-mcnulty.medium.com/i-asked-ai-to-describe-the-first-ai-boy-and-ai-girl-and-the-differences-were-bizarre-and-disturbing-502fccfe904c?source=rss------data_science-5)
-- [Why you should implement Evolutionary Algorithms in your Machine Learning Projects](https://machine-learning-made-simple.medium.com/why-you-should-implement-evolutionary-algorithms-in-your-machine-learning-projects-ee386edb4ecc?source=rss------data_science-5)
-- [StrangeR things: Añadiendo… ¿Gatos? a tus plots en R](https://cosmoduende.medium.com/stranger-things-on-r-a%C3%B1adiendo-gatos-a-tus-plots-92a962980f79?source=rss------data_science-5)
-- [Revisiting the Divergence Technique on the RSI](https://kaabar-sofien.medium.com/revisiting-the-divergence-technique-on-the-rsi-b0f1bf5e717b?source=rss------data_science-5)
-- [Astrato champions the next generation of cloud BI](https://jwarbington.medium.com/astrato-champions-the-next-generation-of-cloud-bi-ff8a4271c4b1?source=rss------data_science-5)
-- [What is “The Internet” anyway?](https://medium.com/the-capital/what-is-the-internet-anyway-ff7880f4d867?source=rss------data_science-5)
-- [Analyzing Drake’s and Other Rappers’ Lyrics](https://ucladatares.medium.com/analyzing-drakes-and-other-rappers-lyrics-b07b3a3d77fc?source=rss------data_science-5)
-- [Predicting the Difficulty of Texts Using Machine Learning and Getting a Visual Representation of…](https://suhas-maddali007.medium.com/predicting-the-difficulty-of-texts-using-machine-learning-and-getting-a-visual-representation-of-75f5a96b92e5?source=rss------data_science-5)
-- [Defining ‘Needs’ in your UX questions](https://evaschicker2012.medium.com/defining-needs-in-your-ux-questions-a4da42c40b61?source=rss------data_science-5)
-- [YouTube &amp; Medium as a Startup |  Content Analytics](https://medium.com/@jamesrhizon/youtube-medium-as-a-startup-content-analytics-d071f2034dbb?source=rss------data_science-5)
+- [Managing Portfolio Risk with Monte Carlo Simulation](https://patrickanastasio.medium.com/managing-portfolio-risk-with-monte-carlo-simulation-68b0d9e95a1c?source=rss------data_science-5)
+- [What can you expect from here?](https://medium.com/@runiorr/what-can-you-expect-from-here-802430aae364?source=rss------data_science-5)
+- [Using Contrarian Indicators in Trend-Following Systems.](https://kaabar-sofien.medium.com/using-contrarian-indicators-in-trend-following-systems-9e11d2ebc8e6?source=rss------data_science-5)
+- [Analyzing Airbnb data from Madrid](https://medium.com/@thalestmm/analyzing-airbnb-data-from-madrid-73051b123d01?source=rss------data_science-5)
+- [Using Data Science To Improve Loan Default Prediction](https://medium.com/@monishjain16/using-data-science-to-improve-loan-default-prediction-6099eb9c4670?source=rss------data_science-5)
+- [Word Cloud in 3 Basic Steps with Pythonb](https://towardsdatascience.com/word-cloud-in-3-basic-steps-with-pythonb-c5a97537b9d6?source=rss------data_science-5)
+- [Why Nonprofits Should Care About Synthetic Data](https://towardsdatascience.com/why-nonprofits-should-care-about-synthetic-data-ab1d327908dc?source=rss------data_science-5)
+- [Bellabeat — Data Analysis &lpar;case study&rpar;](https://medium.com/@marcelomizuno_14355/bellabeat-data-analysis-case-study-ae2c8b0b8e38?source=rss------data_science-5)
+- [On Intuition: The Neuroscience of Affect and the Economics of Artificial Intelligence](https://medium.com/swlh/on-intuition-the-neuroscience-of-affect-and-the-economics-of-artificial-intelligence-6fc525da21a0?source=rss------data_science-5)
+- [Bringing Google Slides to life](https://medium.com/deepnote/bringing-google-slides-to-life-f6741dd0a9f7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
