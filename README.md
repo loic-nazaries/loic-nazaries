@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Managing Portfolio Risk with Monte Carlo Simulation](https://patrickanastasio.medium.com/managing-portfolio-risk-with-monte-carlo-simulation-68b0d9e95a1c?source=rss------data_science-5)
-- [What can you expect from here?](https://medium.com/@runiorr/what-can-you-expect-from-here-802430aae364?source=rss------data_science-5)
-- [Using Contrarian Indicators in Trend-Following Systems.](https://kaabar-sofien.medium.com/using-contrarian-indicators-in-trend-following-systems-9e11d2ebc8e6?source=rss------data_science-5)
-- [Analyzing Airbnb data from Madrid](https://medium.com/@thalestmm/analyzing-airbnb-data-from-madrid-73051b123d01?source=rss------data_science-5)
-- [Using Data Science To Improve Loan Default Prediction](https://medium.com/@monishjain16/using-data-science-to-improve-loan-default-prediction-6099eb9c4670?source=rss------data_science-5)
-- [Word Cloud in 3 Basic Steps with Pythonb](https://towardsdatascience.com/word-cloud-in-3-basic-steps-with-pythonb-c5a97537b9d6?source=rss------data_science-5)
-- [Why Nonprofits Should Care About Synthetic Data](https://towardsdatascience.com/why-nonprofits-should-care-about-synthetic-data-ab1d327908dc?source=rss------data_science-5)
-- [Bellabeat — Data Analysis &lpar;case study&rpar;](https://medium.com/@marcelomizuno_14355/bellabeat-data-analysis-case-study-ae2c8b0b8e38?source=rss------data_science-5)
-- [On Intuition: The Neuroscience of Affect and the Economics of Artificial Intelligence](https://medium.com/swlh/on-intuition-the-neuroscience-of-affect-and-the-economics-of-artificial-intelligence-6fc525da21a0?source=rss------data_science-5)
-- [Bringing Google Slides to life](https://medium.com/deepnote/bringing-google-slides-to-life-f6741dd0a9f7?source=rss------data_science-5)
+- [Distributions In Statistics](https://medium.com/@tanav2202/distributions-in-statistics-e06c65bdad02?source=rss------data_science-5)
+- [OpenAI’s GLIDE Overtakes DALL-E](https://medium.com/@michaelkspencer2025/openais-glide-overtakes-dall-e-10747f757bea?source=rss------data_science-5)
+- [The Price Normalization Trading Strategy in Python.](https://kaabar-sofien.medium.com/the-price-normalization-trading-strategy-in-python-a3301d7f2116?source=rss------data_science-5)
+- [Use Python and NLP to Boost Your Resume](https://medium.com/data-marketing-philosophy/use-python-and-nlp-to-boost-your-resume-e4691a58bcc9?source=rss------data_science-5)
+- [Query Pandas DataFrame with SQL](https://towardsdatascience.com/query-pandas-dataframe-with-sql-2bb7a509793d?source=rss------data_science-5)
+- [10 Python One-Liners for Dictionaries](https://shenge86.medium.com/10-python-one-liners-for-dictionaries-d58754386a1d?source=rss------data_science-5)
+- [10 Open source Python libraries for Data Science projects](https://medium.com/@vedant1990/10-open-source-python-libraries-for-data-science-projects-8d798f863593?source=rss------data_science-5)
+- [Model Versioning Tools you need to know for your ML Experiments](https://medium.com/@oyelamifiyin/model-versioning-tools-you-need-to-know-for-your-ml-experiments-f3e3b4ec2090?source=rss------data_science-5)
+- [CNN to classify Brain MRI Images in Python](https://medium.com/@beepabose/cnn-to-classify-brain-mri-images-in-python-7e92e72aca73?source=rss------data_science-5)
+- [CRM Analitiği — RFM Analizi](https://medium.com/@zbkalafat/crm-analiti%C4%9Fi-rfm-analizi-122ad90f366b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
