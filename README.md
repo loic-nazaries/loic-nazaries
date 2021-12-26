@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [Creating Interactive Scatter Plots with Python Altair](https://towardsdatascience.com/creating-interactive-scatter-plots-with-python-altair-e4b47e0aa8eb?source=rss-2cf6b549448------2)
+- [6 Pandas Functions for a Quick Exploratory Data Analysis](https://sonery.medium.com/6-pandas-functions-for-a-quick-exploratory-data-analysis-ff9ece0867d7?source=rss-2cf6b549448------2)
 - [4 Different Ways of Creating a New Column with PySpark](https://towardsdatascience.com/4-different-ways-of-creating-a-new-column-with-pyspark-1a6782fe764e?source=rss-2cf6b549448------2)
 - [Data Cleaning and EDA on Airbnb Dataset with Python Pandas and Seaborn](https://towardsdatascience.com/data-cleaning-and-eda-on-airbnb-dataset-with-python-pandas-and-seaborn-7c276116b650?source=rss-2cf6b549448------2)
 - [SQL From Zero to Hero in 30 Days — Day 8 — Date Manipulation](https://sonery.medium.com/sql-from-zero-to-hero-in-30-days-day-8-date-manipulation-fdecc18bed75?source=rss-2cf6b549448------2)
-- [4 Useful Functions of the More-Itertools Library for Python](https://towardsdatascience.com/4-useful-functions-of-the-more-itertools-library-for-python-6915a10781ce?source=rss-2cf6b549448------2)
-- [2 Years of Blogging, 1 Year of Working as a Data Scientist, and a Different Me](https://towardsdatascience.com/2-years-of-blogging-1-year-of-working-as-a-data-scientist-and-a-different-me-7c2ac8c8432b?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
