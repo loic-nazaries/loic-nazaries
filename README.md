@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Distributions In Statistics](https://medium.com/@tanav2202/distributions-in-statistics-e06c65bdad02?source=rss------data_science-5)
-- [OpenAI’s GLIDE Overtakes DALL-E](https://medium.com/@michaelkspencer2025/openais-glide-overtakes-dall-e-10747f757bea?source=rss------data_science-5)
-- [The Price Normalization Trading Strategy in Python.](https://kaabar-sofien.medium.com/the-price-normalization-trading-strategy-in-python-a3301d7f2116?source=rss------data_science-5)
-- [Use Python and NLP to Boost Your Resume](https://medium.com/data-marketing-philosophy/use-python-and-nlp-to-boost-your-resume-e4691a58bcc9?source=rss------data_science-5)
-- [Query Pandas DataFrame with SQL](https://towardsdatascience.com/query-pandas-dataframe-with-sql-2bb7a509793d?source=rss------data_science-5)
-- [10 Python One-Liners for Dictionaries](https://shenge86.medium.com/10-python-one-liners-for-dictionaries-d58754386a1d?source=rss------data_science-5)
-- [10 Open source Python libraries for Data Science projects](https://medium.com/@vedant1990/10-open-source-python-libraries-for-data-science-projects-8d798f863593?source=rss------data_science-5)
-- [Model Versioning Tools you need to know for your ML Experiments](https://medium.com/@oyelamifiyin/model-versioning-tools-you-need-to-know-for-your-ml-experiments-f3e3b4ec2090?source=rss------data_science-5)
-- [CNN to classify Brain MRI Images in Python](https://medium.com/@beepabose/cnn-to-classify-brain-mri-images-in-python-7e92e72aca73?source=rss------data_science-5)
-- [CRM Analitiği — RFM Analizi](https://medium.com/@zbkalafat/crm-analiti%C4%9Fi-rfm-analizi-122ad90f366b?source=rss------data_science-5)
+- [Vectors the Pythonic Way](https://aldosari.medium.com/vectors-the-pythonic-way-841dae0f269?source=rss------data_science-5)
+- [The Ritual of Reading My Facebook Memories.](https://medium.com/@calaenowenburton/the-ritual-of-reading-my-facebook-memories-28c0c085c995?source=rss------data_science-5)
+- [Image Classification made easy](https://medium.com/@lucas.meneghesso.faria/image-classification-made-easy-856fb6c422e9?source=rss------data_science-5)
+- [End-to-End Machine Learning Workflow [Part 2]](https://medium.com/mlearning-ai/end-to-end-machine-learning-workflow-part-2-e7b6d3fb1d53?source=rss------data_science-5)
+- [Matrix Multiplication](https://jasondeden.medium.com/matrix-multiplication-e2cf007d0755?source=rss------data_science-5)
+- [R paketlerinde bugün: naniar](https://medium.com/@ozanevkaya/r-paketlerinde-bug%C3%BCn-naniar-3b81c8ff2952?source=rss------data_science-5)
+- [I left my studies to become a Data Scientist](https://medium.com/@nickuzmenkov/i-left-my-studies-to-become-a-data-scientist-769464e7bcc0?source=rss------data_science-5)
+- [How I Made A Racing Line Chart With Flourish?](https://medium.com/mlearning-ai/how-i-made-a-racing-line-chart-with-flourish-6ccd1a1976a5?source=rss------data_science-5)
+- [How to Write NumPy Arrays to CSV Files](https://towardsdatascience.com/how-to-write-numpy-arrays-to-csv-files-449a217ae7ee?source=rss------data_science-5)
+- [A Pending Monologue — From AI to Software Engineering &lpar;BE&rpar;](https://medium.com/@aisha.jv70/a-pending-monologue-from-ai-to-software-engineering-be-daa0f133a3d4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
