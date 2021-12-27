@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Vectors the Pythonic Way](https://aldosari.medium.com/vectors-the-pythonic-way-841dae0f269?source=rss------data_science-5)
-- [The Ritual of Reading My Facebook Memories.](https://medium.com/@calaenowenburton/the-ritual-of-reading-my-facebook-memories-28c0c085c995?source=rss------data_science-5)
-- [Image Classification made easy](https://medium.com/@lucas.meneghesso.faria/image-classification-made-easy-856fb6c422e9?source=rss------data_science-5)
-- [End-to-End Machine Learning Workflow [Part 2]](https://medium.com/mlearning-ai/end-to-end-machine-learning-workflow-part-2-e7b6d3fb1d53?source=rss------data_science-5)
-- [Matrix Multiplication](https://jasondeden.medium.com/matrix-multiplication-e2cf007d0755?source=rss------data_science-5)
-- [R paketlerinde bugün: naniar](https://medium.com/@ozanevkaya/r-paketlerinde-bug%C3%BCn-naniar-3b81c8ff2952?source=rss------data_science-5)
-- [I left my studies to become a Data Scientist](https://medium.com/@nickuzmenkov/i-left-my-studies-to-become-a-data-scientist-769464e7bcc0?source=rss------data_science-5)
-- [How I Made A Racing Line Chart With Flourish?](https://medium.com/mlearning-ai/how-i-made-a-racing-line-chart-with-flourish-6ccd1a1976a5?source=rss------data_science-5)
-- [How to Write NumPy Arrays to CSV Files](https://towardsdatascience.com/how-to-write-numpy-arrays-to-csv-files-449a217ae7ee?source=rss------data_science-5)
-- [A Pending Monologue — From AI to Software Engineering &lpar;BE&rpar;](https://medium.com/@aisha.jv70/a-pending-monologue-from-ai-to-software-engineering-be-daa0f133a3d4?source=rss------data_science-5)
+- [Most in Demand Programming Software Development Languages for 2022](https://medium.com/the-digital-ninja/most-in-demand-programming-software-development-languages-for-2022-305060559369?source=rss------data_science-5)
+- [Prevent the Overfitting through Regularization](https://medium.com/@rlrocha/prevent-the-overfitting-through-regularization-c50e3b490964?source=rss------data_science-5)
+- [Building an Image Classifier to Filter Out Unused Images From Your Photo Album with Python and…](https://towardsdatascience.com/building-an-image-classifier-to-filter-out-unused-images-from-your-photo-album-with-python-and-6bc574ae57de?source=rss------data_science-5)
+- [Robust Experiment Design](https://medium.com/@chrisckelly/robust-experiment-design-244f835c6874?source=rss------data_science-5)
+- [Measures of Variability — Range, IQR, Variance and Standard Deviation](https://ashington.medium.com/measures-of-variability-range-iqr-variance-and-standard-deviation-6736643eeefc?source=rss------data_science-5)
+- [Math Basics and Linear Algebra pt.1](https://medium.com/@ivann.marasco/math-basics-and-linear-algebra-pt-1-3cdeb1078bae?source=rss------data_science-5)
+- [Data Visualization Part 7: correlations, differentiation, and linear regression.](https://medium.com/upskilling/data-visualization-part-7-correlations-differentiation-and-linear-regression-d1474bd2f3f2?source=rss------data_science-5)
+- [I would point out that certain principles such as preserving wealth over pursuing gains and…](https://medium.com/@cleangreenprofit/i-would-point-out-that-certain-principles-such-as-preserving-wealth-over-pursuing-gains-and-94bf0d3152d9?source=rss------data_science-5)
+- [Fat Tail Distributions and Hunting Dirty Beta Plays](https://medium.com/@cleangreenprofit/fat-tail-distributions-and-hunting-dirty-beta-plays-3fe8eae602ae?source=rss------data_science-5)
+- [The NLP Cypher | 12.26.21](https://quantumstat.medium.com/the-nlp-cypher-12-26-21-5c91fa16fc85?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
