@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Basic Mathematics in Reinforcement Learning: Geometric Series](https://branwalker19.medium.com/basic-mathematics-in-reinforcement-learning-geometric-series-fa460911e074?source=rss------data_science-5)
-- [Space Science with Python #1 &amp; #2: Setup](https://medium.com/space-science-in-a-nutshell/space-science-with-python-1-2-setup-b9ad72da612f?source=rss------data_science-5)
-- [Intuition behind A/B Sample Sizing](https://medium.com/@uditg/intuition-behind-a-b-sample-sizing-cb7e9c4fb992?source=rss------data_science-5)
-- [You Probably Do Not Need that for loop](https://towardsdatascience.com/you-probably-do-not-need-that-for-loop-6de79dffbaf?source=rss------data_science-5)
-- [Hypothesis Testing](https://medium.com/@chitwanmanchanda_2k18me062/hypothesis-testing-4efae4cf5b6a?source=rss------data_science-5)
-- [There is a reason that this culture came up in the first place - because Young women loves their…](https://medium.com/@nwboldsen/there-is-a-reason-that-this-culture-came-up-in-the-first-place-because-young-women-loves-their-51586fdc2316?source=rss------data_science-5)
-- [Fusing Deep CNNs](https://medium.com/@bryce.murray/fusing-deep-cnns-59a304f6e61d?source=rss------data_science-5)
-- [Will there be a demand for data scientists in 2022?](https://medium.com/@marketing.technodysis/will-there-be-a-demand-for-data-scientists-in-2022-81c1719fd131?source=rss------data_science-5)
-- [Who Do You Trust? A Survey of Best](https://medium.com/@alexandercorrea814/who-do-you-trust-a-survey-of-best-41d0df6e5d08?source=rss------data_science-5)
-- [Advanced Analytics Centers of Excellence](https://chuckrussell.medium.com/advanced-analytics-centers-of-excellence-3bd3beddd3d8?source=rss------data_science-5)
+- [Machine Learning Complete Roadmap 2022](https://medium.com/@ashishyadav20140307017/machine-learning-complete-roadmap-2022-cb207446b02b?source=rss------data_science-5)
+- [Capital Asset Pricing Model and Security Market Line](https://medium.com/analytics-vidhya/capital-asset-pricing-model-and-security-market-line-9adc8cc39bfb?source=rss------data_science-5)
+- [Python Data Classes, will save you hours and bring back the joy of writing classes!](https://medium.com/dev-today/python-data-classes-will-save-you-hours-and-bring-back-the-joy-of-writing-classes-7559a1718318?source=rss------data_science-5)
+- [5 Advanced Tips on Python Functions](https://towardsdatascience.com/5-advanced-tips-on-python-functions-1a0918017965?source=rss------data_science-5)
+- [Average True Range Indicator — The Full Guide.](https://kaabar-sofien.medium.com/average-true-range-indicator-the-full-guide-33f69762a224?source=rss------data_science-5)
+- [Top Data Science Trends For 2022 — What Do CEOs Have To Say?](https://towardsdatascience.com/top-data-science-trends-for-2022-what-do-ceos-have-to-say-86d3d3ea6e9f?source=rss------data_science-5)
+- [Python packages I love](https://preettheman.medium.com/python-packages-i-love-b0bb01db160f?source=rss------data_science-5)
+- [Impress with your application](https://towardsdatascience.com/impress-with-your-application-c4674c026f5?source=rss------data_science-5)
+- [Applying for Data Science Masters in the UK?](https://medium.com/analytics-vidhya/applying-for-data-science-masters-in-the-uk-76f830bc941b?source=rss------data_science-5)
+- [An Introduction to Collaborative Filtering Recommendation Systems](https://medium.com/@felipepassarella/an-introduction-to-collaborative-filtering-recommendation-systems-557462cee69?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
