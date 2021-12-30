@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Machine Learning Complete Roadmap 2022](https://medium.com/@ashishyadav20140307017/machine-learning-complete-roadmap-2022-cb207446b02b?source=rss------data_science-5)
-- [Capital Asset Pricing Model and Security Market Line](https://medium.com/analytics-vidhya/capital-asset-pricing-model-and-security-market-line-9adc8cc39bfb?source=rss------data_science-5)
-- [Python Data Classes, will save you hours and bring back the joy of writing classes!](https://medium.com/dev-today/python-data-classes-will-save-you-hours-and-bring-back-the-joy-of-writing-classes-7559a1718318?source=rss------data_science-5)
-- [5 Advanced Tips on Python Functions](https://towardsdatascience.com/5-advanced-tips-on-python-functions-1a0918017965?source=rss------data_science-5)
-- [Average True Range Indicator — The Full Guide.](https://kaabar-sofien.medium.com/average-true-range-indicator-the-full-guide-33f69762a224?source=rss------data_science-5)
-- [Top Data Science Trends For 2022 — What Do CEOs Have To Say?](https://towardsdatascience.com/top-data-science-trends-for-2022-what-do-ceos-have-to-say-86d3d3ea6e9f?source=rss------data_science-5)
-- [Python packages I love](https://preettheman.medium.com/python-packages-i-love-b0bb01db160f?source=rss------data_science-5)
-- [Impress with your application](https://towardsdatascience.com/impress-with-your-application-c4674c026f5?source=rss------data_science-5)
-- [Applying for Data Science Masters in the UK?](https://medium.com/analytics-vidhya/applying-for-data-science-masters-in-the-uk-76f830bc941b?source=rss------data_science-5)
-- [An Introduction to Collaborative Filtering Recommendation Systems](https://medium.com/@felipepassarella/an-introduction-to-collaborative-filtering-recommendation-systems-557462cee69?source=rss------data_science-5)
+- [PySpark CheatSheet and More](https://medium.com/analytics-vidhya/pyspark-cheatsheet-and-more-a41b338c9d3e?source=rss------data_science-5)
+- [Python Complete Roadmap 2022](https://medium.com/@ashishyadav20140307017/python-complete-roadmap-2022-bd1e2452cba8?source=rss------data_science-5)
+- [Creating Semantic Segmentation Labels for Training Data.](https://medium.com/@eisenerz108/creating-semantic-segmentation-labels-for-training-data-f1f12271501d?source=rss------data_science-5)
+- [Extracting Philosophical Topics from Reddit Posts via Topic Modeling](https://medium.com/mlearning-ai/extracting-philosophical-topics-from-reddit-posts-via-topic-modeling-affbaaa8a0b9?source=rss------data_science-5)
+- [Work from Home, Earn Money Online, $ 3000 in a month, Job for Housewives,Earn from Mobile](https://medium.com/@pratibhamailzx/work-from-home-earn-money-online-3000-in-a-month-job-for-housewives-earn-from-mobile-bf950787fb26?source=rss------data_science-5)
+- [Innovative Data Investing](https://medium.com/swlh/innovative-data-investing-e7d8f5ece667?source=rss------data_science-5)
+- [DAWN OF THE ESOWOOD VILLAGER](https://theancienthardware.medium.com/dawn-of-the-esowood-villager-f6626c294477?source=rss------data_science-5)
+- [Why the Beta represents &lpar;a-1&rpar; heads, Gamma is &lpar;n-1&rpar;! and other paradoxes](https://medium.com/@rohitpandey576/why-the-beta-represents-a-1-heads-gamma-is-n-1-and-other-paradoxes-391f68df9dae?source=rss------data_science-5)
+- [Enter the Cyber Mercenaries](https://enigmaseries.medium.com/enter-the-cyber-mercenaries-15e02d7681f4?source=rss------data_science-5)
+- [CRISP-DM Metodolojisi nedir?](https://osmanhbaki.medium.com/crisp-dm-metodolojisi-nedir-2dacd880e83c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
