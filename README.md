@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [PySpark CheatSheet and More](https://medium.com/analytics-vidhya/pyspark-cheatsheet-and-more-a41b338c9d3e?source=rss------data_science-5)
-- [Python Complete Roadmap 2022](https://medium.com/@ashishyadav20140307017/python-complete-roadmap-2022-bd1e2452cba8?source=rss------data_science-5)
-- [Creating Semantic Segmentation Labels for Training Data.](https://medium.com/@eisenerz108/creating-semantic-segmentation-labels-for-training-data-f1f12271501d?source=rss------data_science-5)
-- [Extracting Philosophical Topics from Reddit Posts via Topic Modeling](https://medium.com/mlearning-ai/extracting-philosophical-topics-from-reddit-posts-via-topic-modeling-affbaaa8a0b9?source=rss------data_science-5)
-- [Work from Home, Earn Money Online, $ 3000 in a month, Job for Housewives,Earn from Mobile](https://medium.com/@pratibhamailzx/work-from-home-earn-money-online-3000-in-a-month-job-for-housewives-earn-from-mobile-bf950787fb26?source=rss------data_science-5)
-- [Innovative Data Investing](https://medium.com/swlh/innovative-data-investing-e7d8f5ece667?source=rss------data_science-5)
-- [DAWN OF THE ESOWOOD VILLAGER](https://theancienthardware.medium.com/dawn-of-the-esowood-villager-f6626c294477?source=rss------data_science-5)
-- [Why the Beta represents &lpar;a-1&rpar; heads, Gamma is &lpar;n-1&rpar;! and other paradoxes](https://medium.com/@rohitpandey576/why-the-beta-represents-a-1-heads-gamma-is-n-1-and-other-paradoxes-391f68df9dae?source=rss------data_science-5)
-- [Enter the Cyber Mercenaries](https://enigmaseries.medium.com/enter-the-cyber-mercenaries-15e02d7681f4?source=rss------data_science-5)
-- [CRISP-DM Metodolojisi nedir?](https://osmanhbaki.medium.com/crisp-dm-metodolojisi-nedir-2dacd880e83c?source=rss------data_science-5)
+- [Pedigree Inheritance Pattern Analysis](https://medium.com/@muhammad.e.k.arif/pedigree-inheritance-pattern-analysis-8649203f99b3?source=rss------data_science-5)
+- [Know your data - using Databricks Data Profile](https://medium.com/analytics-vidhya/know-your-data-using-databricks-data-profile-1c7b1fae4a4?source=rss------data_science-5)
+- [Seasons of Covid &lpar;in Charts&rpar;](https://rarelyread.medium.com/seasons-of-covid-in-charts-e0757ff4afb1?source=rss------data_science-5)
+- [raphaosshine shaves with gasoline, proof of burn security token technology is a time based token…](https://medium.com/@raphaosshine/raphaosshine-shaves-with-gasoline-proof-of-burn-security-token-technology-is-a-time-based-token-89df15335784?source=rss------data_science-5)
+- [ML model validating using Gaussian Theory](https://medium.com/@bobbykboseoffice/ml-model-validating-using-gaussian-theory-e66b14f7ed43?source=rss------data_science-5)
+- [Learning Data Structures &amp; Algorithms in Python from Scratch | Free Cou](https://online-courses-deals.medium.com/learning-data-structures-algorithms-in-python-from-scratch-free-cou-1f15cab38706?source=rss------data_science-5)
+- [Market Regime Detection Using the MACD.](https://kaabar-sofien.medium.com/market-regime-detection-using-the-macd-40ab615704d0?source=rss------data_science-5)
+- [Pivot to Data Science](https://ephraimhallford.medium.com/pivot-to-data-science-27418b9f784b?source=rss------data_science-5)
+- [Future of Customer Analytics &amp; How to Apply It as A Data Scientist](https://dmai287.medium.com/future-of-customer-analytics-how-to-apply-it-as-a-data-scientist-7895e7509fd5?source=rss------data_science-5)
+- [How to easily let users upload spreadsheets on your website](https://lovespreadsheets.medium.com/how-to-easily-let-users-upload-spreadsheets-on-your-website-edb9f9eb9bea?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
