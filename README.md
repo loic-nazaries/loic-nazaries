@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Pedigree Inheritance Pattern Analysis](https://medium.com/@muhammad.e.k.arif/pedigree-inheritance-pattern-analysis-8649203f99b3?source=rss------data_science-5)
-- [Know your data - using Databricks Data Profile](https://medium.com/analytics-vidhya/know-your-data-using-databricks-data-profile-1c7b1fae4a4?source=rss------data_science-5)
-- [Seasons of Covid &lpar;in Charts&rpar;](https://rarelyread.medium.com/seasons-of-covid-in-charts-e0757ff4afb1?source=rss------data_science-5)
-- [raphaosshine shaves with gasoline, proof of burn security token technology is a time based token…](https://medium.com/@raphaosshine/raphaosshine-shaves-with-gasoline-proof-of-burn-security-token-technology-is-a-time-based-token-89df15335784?source=rss------data_science-5)
-- [ML model validating using Gaussian Theory](https://medium.com/@bobbykboseoffice/ml-model-validating-using-gaussian-theory-e66b14f7ed43?source=rss------data_science-5)
-- [Learning Data Structures &amp; Algorithms in Python from Scratch | Free Cou](https://online-courses-deals.medium.com/learning-data-structures-algorithms-in-python-from-scratch-free-cou-1f15cab38706?source=rss------data_science-5)
-- [Market Regime Detection Using the MACD.](https://kaabar-sofien.medium.com/market-regime-detection-using-the-macd-40ab615704d0?source=rss------data_science-5)
-- [Pivot to Data Science](https://ephraimhallford.medium.com/pivot-to-data-science-27418b9f784b?source=rss------data_science-5)
-- [Future of Customer Analytics &amp; How to Apply It as A Data Scientist](https://dmai287.medium.com/future-of-customer-analytics-how-to-apply-it-as-a-data-scientist-7895e7509fd5?source=rss------data_science-5)
-- [How to easily let users upload spreadsheets on your website](https://lovespreadsheets.medium.com/how-to-easily-let-users-upload-spreadsheets-on-your-website-edb9f9eb9bea?source=rss------data_science-5)
+- [DataScienceKit](https://medium.com/developers-inc/datasciencekit-210e07c7d8ee?source=rss------data_science-5)
+- [What Factors Determine Digital Privacy Concerns?](https://medium.com/@keremtuberkapraz/what-factors-determine-digital-privacy-concerns-6f6d7211b7a0?source=rss------data_science-5)
+- [Fantasy EPL GW20 Recap and GW21 Algo Recommendations](https://medium.datadriveninvestor.com/fantasy-epl-gw20-recap-and-gw21-algo-recommendations-dbdc1171078e?source=rss------data_science-5)
+- [How I was able to turn a $200 dollar investment into $13000 for one of my clients using options to…](https://medium.com/@cleangreengrowth/how-i-was-able-to-turn-a-200-dollar-investment-into-13000-for-one-of-my-clients-using-options-to-e0bc9a0c77e7?source=rss------data_science-5)
+- [6 Helpful Tips for Acing Your Data Science Interview](https://towardsdatascience.com/6-helpful-tips-for-acing-your-data-science-interview-d6ec2a7a86ba?source=rss------data_science-5)
+- [The best data scientist in the world.](https://medium.com/@tarek.samaali.92/the-best-data-scientist-in-the-world-2d0c90f43019?source=rss------data_science-5)
+- [100%OFF | Python 3 Data Science: NumPy, Pandas, and Time Series](https://online-courses-deals.medium.com/100-off-python-3-data-science-numpy-pandas-and-time-series-9e240bdb97c7?source=rss------data_science-5)
+- [Reshaping a DataFrame using Pandas melt&lpar;&rpar;](https://towardsdatascience.com/reshaping-a-dataframe-using-pandas-melt-83a151ce1907?source=rss------data_science-5)
+- [Project: WomenTechWomenYes Gala](https://medium.com/@fatihgulturk/project-womentechwomenyes-gala-ca2822d9f21?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
