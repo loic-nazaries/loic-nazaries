@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [DataScienceKit](https://medium.com/developers-inc/datasciencekit-210e07c7d8ee?source=rss------data_science-5)
-- [What Factors Determine Digital Privacy Concerns?](https://medium.com/@keremtuberkapraz/what-factors-determine-digital-privacy-concerns-6f6d7211b7a0?source=rss------data_science-5)
-- [Fantasy EPL GW20 Recap and GW21 Algo Recommendations](https://medium.datadriveninvestor.com/fantasy-epl-gw20-recap-and-gw21-algo-recommendations-dbdc1171078e?source=rss------data_science-5)
-- [How I was able to turn a $200 dollar investment into $13000 for one of my clients using options to…](https://medium.com/@cleangreengrowth/how-i-was-able-to-turn-a-200-dollar-investment-into-13000-for-one-of-my-clients-using-options-to-e0bc9a0c77e7?source=rss------data_science-5)
-- [6 Helpful Tips for Acing Your Data Science Interview](https://towardsdatascience.com/6-helpful-tips-for-acing-your-data-science-interview-d6ec2a7a86ba?source=rss------data_science-5)
-- [The best data scientist in the world.](https://medium.com/@tarek.samaali.92/the-best-data-scientist-in-the-world-2d0c90f43019?source=rss------data_science-5)
-- [100%OFF | Python 3 Data Science: NumPy, Pandas, and Time Series](https://online-courses-deals.medium.com/100-off-python-3-data-science-numpy-pandas-and-time-series-9e240bdb97c7?source=rss------data_science-5)
-- [Reshaping a DataFrame using Pandas melt&lpar;&rpar;](https://towardsdatascience.com/reshaping-a-dataframe-using-pandas-melt-83a151ce1907?source=rss------data_science-5)
-- [Project: WomenTechWomenYes Gala](https://medium.com/@fatihgulturk/project-womentechwomenyes-gala-ca2822d9f21?source=rss------data_science-5)
+- [What is a Credit card](https://medium.com/@kapil.r.chhabra/what-is-a-credit-card-c02b3ff0b5b5?source=rss------data_science-5)
+- [Goodbye 2021, Hello 2022](https://medium.com/@joshevonyasyszczuk/goodbye-2021-hello-2022-fcf5872cfb64?source=rss------data_science-5)
+- [Veri Bilimi İçin Ralli Maratonu Etap_21](https://bekirondes.medium.com/veri-bilimi-i%CC%87%C3%A7in-ralli-maratonu-etap-21-5292416ce0e6?source=rss------data_science-5)
+- [Tom Demark’s Rate of Change Indicator for Trading.](https://kaabar-sofien.medium.com/tom-demarks-rate-of-change-indicator-for-trading-3aad4eb3cab6?source=rss------data_science-5)
+- [How I Monitor My 2021 Portfolio Performance Using Python](https://husseinahmed-79983.medium.com/how-i-monitor-my-2021-portfolio-performance-using-python-3ffb6d322266?source=rss------data_science-5)
+- [MSU MSBA 秋季就讀心得 完結篇](https://medium.com/labyrinth-%E6%95%B8%E6%93%9A%E8%BF%B7%E5%AE%AE/msu-msba-%E7%A7%8B%E5%AD%A3%E5%B0%B1%E8%AE%80%E5%BF%83%E5%BE%97-%E5%AE%8C%E7%B5%90%E7%AF%87-f5cd7b33b07f?source=rss------data_science-5)
+- [Lets Talk About Real Time Machine Learning](https://medium.com/@batuhankose/lets-talk-about-real-time-machine-learning-a6152f346ca3?source=rss------data_science-5)
+- [In Depth: Naive Bayes Classification](https://usernamejack.medium.com/in-depth-naive-bayes-classification-c6cd62d8ee59?source=rss------data_science-5)
+- [[Machine Learning Higgs 2/3] High-energy Physics Background and Results ⚛️](https://medium.com/@vsevolod.mineev/machine-learning-higgs-2-3-high-energy-physics-background-and-results-%EF%B8%8F-cdb2c704b9a2?source=rss------data_science-5)
+- [K-Nearest Algorithm In Python](https://usernamejack.medium.com/k-nearest-algorithm-in-python-9315b3cbd9e5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
