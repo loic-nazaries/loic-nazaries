@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What is a Credit card](https://medium.com/@kapil.r.chhabra/what-is-a-credit-card-c02b3ff0b5b5?source=rss------data_science-5)
-- [Goodbye 2021, Hello 2022](https://medium.com/@joshevonyasyszczuk/goodbye-2021-hello-2022-fcf5872cfb64?source=rss------data_science-5)
-- [Veri Bilimi İçin Ralli Maratonu Etap_21](https://bekirondes.medium.com/veri-bilimi-i%CC%87%C3%A7in-ralli-maratonu-etap-21-5292416ce0e6?source=rss------data_science-5)
-- [Tom Demark’s Rate of Change Indicator for Trading.](https://kaabar-sofien.medium.com/tom-demarks-rate-of-change-indicator-for-trading-3aad4eb3cab6?source=rss------data_science-5)
-- [How I Monitor My 2021 Portfolio Performance Using Python](https://husseinahmed-79983.medium.com/how-i-monitor-my-2021-portfolio-performance-using-python-3ffb6d322266?source=rss------data_science-5)
-- [MSU MSBA 秋季就讀心得 完結篇](https://medium.com/labyrinth-%E6%95%B8%E6%93%9A%E8%BF%B7%E5%AE%AE/msu-msba-%E7%A7%8B%E5%AD%A3%E5%B0%B1%E8%AE%80%E5%BF%83%E5%BE%97-%E5%AE%8C%E7%B5%90%E7%AF%87-f5cd7b33b07f?source=rss------data_science-5)
-- [Lets Talk About Real Time Machine Learning](https://medium.com/@batuhankose/lets-talk-about-real-time-machine-learning-a6152f346ca3?source=rss------data_science-5)
-- [In Depth: Naive Bayes Classification](https://usernamejack.medium.com/in-depth-naive-bayes-classification-c6cd62d8ee59?source=rss------data_science-5)
-- [[Machine Learning Higgs 2/3] High-energy Physics Background and Results ⚛️](https://medium.com/@vsevolod.mineev/machine-learning-higgs-2-3-high-energy-physics-background-and-results-%EF%B8%8F-cdb2c704b9a2?source=rss------data_science-5)
-- [K-Nearest Algorithm In Python](https://usernamejack.medium.com/k-nearest-algorithm-in-python-9315b3cbd9e5?source=rss------data_science-5)
+- [Definition of Data Visualization](https://medium.com/@quantumech3/definition-of-data-visualization-405ed8c957c?source=rss------data_science-5)
+- [TrueFoundry’s ML Monitoring &amp; Experiment Tracking Solution](https://medium.com/@nikunjbajaj/truefoundrys-ml-monitoring-experiment-tracking-solution-ba5ad9c6cbe6?source=rss------data_science-5)
+- [So You Want to Work with Data?](https://medium.com/@lizziemusa/so-you-want-to-work-with-data-c88f7fca7948?source=rss------data_science-5)
+- [Disproving the Myth of “Positionless Basketball” with K-Means Clustering](https://medium.com/@nic.hoffs/disproving-the-myth-of-positionless-basketball-with-k-means-clustering-60edd773327a?source=rss------data_science-5)
+- [6 Common Mistakes Machine Learning Beginners Make and How to Avoid Them](https://towardsdatascience.com/6-common-mistakes-machine-learning-beginners-make-and-how-to-avoid-them-b1f774d06838?source=rss------data_science-5)
+- [House Price Analysis With Python](https://hai-dang.medium.com/house-price-analysis-with-python-ef3a1ef3bbae?source=rss------data_science-5)
+- [ئایا Network-attached storage &lpar;#NAS&rpar; چییە؟!](https://medium.com/@TheXerr0r/%D8%A6%D8%A7%DB%8C%D8%A7-network-attached-storage-nas-%DA%86%DB%8C%DB%8C%DB%95-ebb3482f8b71?source=rss------data_science-5)
+- [3 Tricky Data Analysis Questions and How to Solve Them with Pandas](https://towardsdatascience.com/3-tricky-data-analysis-questions-and-how-to-solve-them-with-pandas-ceb53bbb9c9e?source=rss------data_science-5)
+- [5 Common Mistakes in Sports Analytics/Data Science](https://medium.com/@glantonandjudge/5-common-mistakes-in-sports-analytics-data-science-9492fee8c8c2?source=rss------data_science-5)
+- [5 Julia Projects for Beginners — Easy Ideas to Get Started Coding in Julia](https://towardsdatascience.com/5-julia-projects-for-beginners-easy-ideas-to-get-started-coding-in-julia-938b823a0a08?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
