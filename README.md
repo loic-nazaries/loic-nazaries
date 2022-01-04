@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Definition of Data Visualization](https://medium.com/@quantumech3/definition-of-data-visualization-405ed8c957c?source=rss------data_science-5)
-- [TrueFoundry’s ML Monitoring &amp; Experiment Tracking Solution](https://medium.com/@nikunjbajaj/truefoundrys-ml-monitoring-experiment-tracking-solution-ba5ad9c6cbe6?source=rss------data_science-5)
-- [So You Want to Work with Data?](https://medium.com/@lizziemusa/so-you-want-to-work-with-data-c88f7fca7948?source=rss------data_science-5)
-- [Disproving the Myth of “Positionless Basketball” with K-Means Clustering](https://medium.com/@nic.hoffs/disproving-the-myth-of-positionless-basketball-with-k-means-clustering-60edd773327a?source=rss------data_science-5)
-- [6 Common Mistakes Machine Learning Beginners Make and How to Avoid Them](https://towardsdatascience.com/6-common-mistakes-machine-learning-beginners-make-and-how-to-avoid-them-b1f774d06838?source=rss------data_science-5)
-- [House Price Analysis With Python](https://hai-dang.medium.com/house-price-analysis-with-python-ef3a1ef3bbae?source=rss------data_science-5)
-- [ئایا Network-attached storage &lpar;#NAS&rpar; چییە؟!](https://medium.com/@TheXerr0r/%D8%A6%D8%A7%DB%8C%D8%A7-network-attached-storage-nas-%DA%86%DB%8C%DB%8C%DB%95-ebb3482f8b71?source=rss------data_science-5)
-- [3 Tricky Data Analysis Questions and How to Solve Them with Pandas](https://towardsdatascience.com/3-tricky-data-analysis-questions-and-how-to-solve-them-with-pandas-ceb53bbb9c9e?source=rss------data_science-5)
-- [5 Common Mistakes in Sports Analytics/Data Science](https://medium.com/@glantonandjudge/5-common-mistakes-in-sports-analytics-data-science-9492fee8c8c2?source=rss------data_science-5)
-- [5 Julia Projects for Beginners — Easy Ideas to Get Started Coding in Julia](https://towardsdatascience.com/5-julia-projects-for-beginners-easy-ideas-to-get-started-coding-in-julia-938b823a0a08?source=rss------data_science-5)
+- [Sentiment Analysis of Shakespeare](https://ephraimhallford.medium.com/sentiment-analysis-of-shakespeare-24818d88c9b9?source=rss------data_science-5)
+- [Math for Artists: Data Storytellers and Graphic Designers](https://medium.com/upskilling/math-for-artists-data-storytellers-and-graphic-designers-f6709759abeb?source=rss------data_science-5)
+- [How Immigration Shapes People and Communities:](https://pablo31kci.medium.com/chilean-cherry-season-ae0fd8b80b5a?source=rss------data_science-5)
+- [An Advanced SQL Syntax That Saved Me From Using Python](https://medium.com/techtofreedom/an-advanced-sql-syntax-that-saved-me-from-using-python-47e4ed1ef9d6?source=rss------data_science-5)
+- [How to survive a full-time MSc in AI](https://medium.com/@kostas_skoularikis/how-to-survive-a-full-time-msc-in-ai-e51b7b7a82d5?source=rss------data_science-5)
+- [Outlier Detection : Data Mining Technique to detect Rebel Sample](https://dnyanesha10.medium.com/outlier-detection-data-mining-technique-to-detect-rebel-sample-6b82400a6758?source=rss------data_science-5)
+- [Attempting to Predict the Result of an NBA Game before you could Finish Watching the First Half](https://towardsdatascience.com/attempting-to-predict-the-result-of-an-nba-game-before-you-could-finish-watching-the-first-half-4a1a97cfa31b?source=rss------data_science-5)
+- [AI Bias &amp; Fairness Series](https://jonathan-hui.medium.com/ai-bias-fairness-series-ce21ebf7b2e9?source=rss------data_science-5)
+- [Put git to work for a Machine Learning projects](https://santiagof.medium.com/put-git-to-work-for-a-machine-learning-projects-8ab79939b88d?source=rss------data_science-5)
+- [BUSINESS INTELLIGENCE ADVENTURE](https://medium.com/@gizemdagdeviren/business-intelligence-adventure-a132bcffbcda?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
