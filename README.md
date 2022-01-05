@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Sentiment Analysis of Shakespeare](https://ephraimhallford.medium.com/sentiment-analysis-of-shakespeare-24818d88c9b9?source=rss------data_science-5)
-- [Math for Artists: Data Storytellers and Graphic Designers](https://medium.com/upskilling/math-for-artists-data-storytellers-and-graphic-designers-f6709759abeb?source=rss------data_science-5)
-- [How Immigration Shapes People and Communities:](https://pablo31kci.medium.com/chilean-cherry-season-ae0fd8b80b5a?source=rss------data_science-5)
-- [An Advanced SQL Syntax That Saved Me From Using Python](https://medium.com/techtofreedom/an-advanced-sql-syntax-that-saved-me-from-using-python-47e4ed1ef9d6?source=rss------data_science-5)
-- [How to survive a full-time MSc in AI](https://medium.com/@kostas_skoularikis/how-to-survive-a-full-time-msc-in-ai-e51b7b7a82d5?source=rss------data_science-5)
-- [Outlier Detection : Data Mining Technique to detect Rebel Sample](https://dnyanesha10.medium.com/outlier-detection-data-mining-technique-to-detect-rebel-sample-6b82400a6758?source=rss------data_science-5)
-- [Attempting to Predict the Result of an NBA Game before you could Finish Watching the First Half](https://towardsdatascience.com/attempting-to-predict-the-result-of-an-nba-game-before-you-could-finish-watching-the-first-half-4a1a97cfa31b?source=rss------data_science-5)
-- [AI Bias &amp; Fairness Series](https://jonathan-hui.medium.com/ai-bias-fairness-series-ce21ebf7b2e9?source=rss------data_science-5)
-- [Put git to work for a Machine Learning projects](https://santiagof.medium.com/put-git-to-work-for-a-machine-learning-projects-8ab79939b88d?source=rss------data_science-5)
-- [BUSINESS INTELLIGENCE ADVENTURE](https://medium.com/@gizemdagdeviren/business-intelligence-adventure-a132bcffbcda?source=rss------data_science-5)
+- [Replace Python Lists and Make Your Code Orders of Magnitude Faster!](https://towardsdatascience.com/replace-python-lists-and-make-your-code-orders-of-magnitude-faster-702c08fb397b?source=rss------data_science-5)
+- [Non-Technical Intro to Digital Twins](https://towardsdatascience.com/non-technical-intro-to-digital-twins-d7401b01486?source=rss------data_science-5)
+- [How to Use The 20-Hour Rule to Learn Computational Data Analysis for Graduate Students Conducting…](https://medium.com/modern-programmer/how-to-use-the-20-hour-rule-to-learn-computational-data-analysis-for-graduate-students-conducting-23d631c9bf13?source=rss------data_science-5)
+- [How to Explain Decision Trees’ Predictions](https://towardsdatascience.com/how-to-explain-decision-trees-predictions-7a10834fe54d?source=rss------data_science-5)
+- [30 Very Useful Pandas Functions for Everyday Data Analysis Tasks](https://towardsdatascience.com/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af?source=rss------data_science-5)
+- [PCA 102: Should you use PCA? How many components to use? How to interpret them?](https://towardsdatascience.com/pca-102-should-you-use-pca-how-many-components-to-use-how-to-interpret-them-da0c8e3b11f0?source=rss------data_science-5)
+- [Garbage Route  Optimization Using Computer Vision Object Detection](https://towardsdatascience.com/garbage-route-optimization-using-computer-vision-object-detection-17a217d5582d?source=rss------data_science-5)
+- [Evolving Past the Product-First Mentality](https://medium.com/@theartofdatascience/evolving-past-the-product-first-mentality-14da0c0f8f8d?source=rss------data_science-5)
+- [Difference between machine learning, deep learning, data science and artificial intelligence &lpar;AI&rpar;](https://medium.com/mlearning-ai/difference-between-machine-learning-deep-learning-data-science-and-artificial-intelligence-ai-6e6c8252909?source=rss------data_science-5)
+- [Machine Learning : Text Classification of News Articles](https://hedimanai.medium.com/machine-learning-text-classification-of-news-articles-bd5d70473037?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
