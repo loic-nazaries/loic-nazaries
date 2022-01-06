@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Replace Python Lists and Make Your Code Orders of Magnitude Faster!](https://towardsdatascience.com/replace-python-lists-and-make-your-code-orders-of-magnitude-faster-702c08fb397b?source=rss------data_science-5)
-- [Non-Technical Intro to Digital Twins](https://towardsdatascience.com/non-technical-intro-to-digital-twins-d7401b01486?source=rss------data_science-5)
-- [How to Use The 20-Hour Rule to Learn Computational Data Analysis for Graduate Students Conducting…](https://medium.com/modern-programmer/how-to-use-the-20-hour-rule-to-learn-computational-data-analysis-for-graduate-students-conducting-23d631c9bf13?source=rss------data_science-5)
-- [How to Explain Decision Trees’ Predictions](https://towardsdatascience.com/how-to-explain-decision-trees-predictions-7a10834fe54d?source=rss------data_science-5)
-- [30 Very Useful Pandas Functions for Everyday Data Analysis Tasks](https://towardsdatascience.com/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af?source=rss------data_science-5)
-- [PCA 102: Should you use PCA? How many components to use? How to interpret them?](https://towardsdatascience.com/pca-102-should-you-use-pca-how-many-components-to-use-how-to-interpret-them-da0c8e3b11f0?source=rss------data_science-5)
-- [Garbage Route  Optimization Using Computer Vision Object Detection](https://towardsdatascience.com/garbage-route-optimization-using-computer-vision-object-detection-17a217d5582d?source=rss------data_science-5)
-- [Evolving Past the Product-First Mentality](https://medium.com/@theartofdatascience/evolving-past-the-product-first-mentality-14da0c0f8f8d?source=rss------data_science-5)
-- [Difference between machine learning, deep learning, data science and artificial intelligence &lpar;AI&rpar;](https://medium.com/mlearning-ai/difference-between-machine-learning-deep-learning-data-science-and-artificial-intelligence-ai-6e6c8252909?source=rss------data_science-5)
-- [Machine Learning : Text Classification of News Articles](https://hedimanai.medium.com/machine-learning-text-classification-of-news-articles-bd5d70473037?source=rss------data_science-5)
+- [Salarycanyon- Ranked No 1 by Google hiring for 600+ successful placements](https://salarycanyon.medium.com/salarycanyon-ranked-no-1-by-google-hiring-for-600-successful-placements-df1c6476a67c?source=rss------data_science-5)
+- [Why Data Science with Salarycanyon? What are the benefits?](https://salarycanyon.medium.com/why-data-science-with-salarycanyon-what-are-the-benefits-a5fa09436d55?source=rss------data_science-5)
+- [Must-Have Skills for a Data Scientist](https://medium.com/illumination/must-have-skills-for-a-data-scientist-34eb608b077f?source=rss------data_science-5)
+- [Future of A.I.](https://medium.com/@bhavik.jadav89/future-of-a-i-8aee76438099?source=rss------data_science-5)
+- [Awesome way to build dashboards with Rust](https://preettheman.medium.com/awesome-way-to-build-dashboards-with-rust-3895de401d63?source=rss------data_science-5)
+- [What’s Machine Learning?](https://medium.com/@lizziemusa/whats-machine-learning-846ed7b8b29a?source=rss------data_science-5)
+- [Skip connections and adversarial examples](https://medium.com/aiguys/skip-connections-and-adversarial-examples-70b23d154167?source=rss------data_science-5)
+- [Primeiro post: velocidade é o que importa](https://medium.com/@dieljunior/primeiro-post-velocidade-%C3%A9-o-que-importa-2abc4648df69?source=rss------data_science-5)
+- [Space Science with Python #7: Gravitational Pull](https://medium.com/space-science-in-a-nutshell/space-science-with-python-7-gravitational-pull-da8591ece625?source=rss------data_science-5)
+- [What is Deepmind’s retrieval-based transformer &lpar;RETRO&rpar; &amp; how does it work?](https://pub.towardsai.net/what-is-deepminds-retrieval-based-transformer-retro-how-does-it-work-d155752ffd86?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
