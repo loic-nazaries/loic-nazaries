@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Salarycanyon- Ranked No 1 by Google hiring for 600+ successful placements](https://salarycanyon.medium.com/salarycanyon-ranked-no-1-by-google-hiring-for-600-successful-placements-df1c6476a67c?source=rss------data_science-5)
-- [Why Data Science with Salarycanyon? What are the benefits?](https://salarycanyon.medium.com/why-data-science-with-salarycanyon-what-are-the-benefits-a5fa09436d55?source=rss------data_science-5)
-- [Must-Have Skills for a Data Scientist](https://medium.com/illumination/must-have-skills-for-a-data-scientist-34eb608b077f?source=rss------data_science-5)
-- [Future of A.I.](https://medium.com/@bhavik.jadav89/future-of-a-i-8aee76438099?source=rss------data_science-5)
-- [Awesome way to build dashboards with Rust](https://preettheman.medium.com/awesome-way-to-build-dashboards-with-rust-3895de401d63?source=rss------data_science-5)
-- [What’s Machine Learning?](https://medium.com/@lizziemusa/whats-machine-learning-846ed7b8b29a?source=rss------data_science-5)
-- [Skip connections and adversarial examples](https://medium.com/aiguys/skip-connections-and-adversarial-examples-70b23d154167?source=rss------data_science-5)
-- [Primeiro post: velocidade é o que importa](https://medium.com/@dieljunior/primeiro-post-velocidade-%C3%A9-o-que-importa-2abc4648df69?source=rss------data_science-5)
-- [Space Science with Python #7: Gravitational Pull](https://medium.com/space-science-in-a-nutshell/space-science-with-python-7-gravitational-pull-da8591ece625?source=rss------data_science-5)
-- [What is Deepmind’s retrieval-based transformer &lpar;RETRO&rpar; &amp; how does it work?](https://pub.towardsai.net/what-is-deepminds-retrieval-based-transformer-retro-how-does-it-work-d155752ffd86?source=rss------data_science-5)
+- [2022 Starts With Notion — My Dashboard Template](https://limiao.medium.com/2022-starts-with-notion-my-dashboard-template-72c5014302ae?source=rss------data_science-5)
+- [Como coletar dados do League of Legends?](https://medium.com/@tarylljun/como-coletar-dados-de-league-of-legends-95352dfc9826?source=rss------data_science-5)
+- [Are We Ready for a Data Science Oath?](https://betterprogramming.pub/data-science-oath-c602f03a2166?source=rss------data_science-5)
+- [My First Blog Post!](https://medium.com/@jjghavami/my-first-blog-post-3cf527a9910b?source=rss------data_science-5)
+- [Target encoding function with R](https://medium.com/@darnelbolaos/target-encoding-function-with-r-8a037b219fb7?source=rss------data_science-5)
+- [Top 4 programming languages to learn in 2022](https://preettheman.medium.com/top-4-programming-languages-to-learn-in-2022-c8718b7180b3?source=rss------data_science-5)
+- [Amazing New Feature — Google BigQuery now supports JSON as a Data Type](https://medium.com/geekculture/amazing-new-feature-google-bigquery-now-supports-json-as-a-data-type-39e0464d4c43?source=rss------data_science-5)
+- [The Team That AI Built: The Finale](https://m-dendinger19.medium.com/the-team-that-ai-built-the-finale-1744e58be0c7?source=rss------data_science-5)
+- [The Biggest Data Science Trends In the year 2022](https://medium.com/@nullclasssocial/the-biggest-data-science-trends-in-the-year-2022-7a48b57f9c37?source=rss------data_science-5)
+- [The NYU AI School Returns](https://nyudatascience.medium.com/the-nyu-ai-school-returns-d5ee77c75ed3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
