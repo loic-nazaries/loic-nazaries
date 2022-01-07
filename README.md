@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [6 Python Matplotlib Features to Create Better Data Visualizations](https://towardsdatascience.com/6-python-matplotlib-features-to-create-better-data-visualizations-b9fc65b0430b?source=rss-2cf6b549448------2)
 - [3 Tricky Data Analysis Questions and How to Solve Them with Pandas](https://towardsdatascience.com/3-tricky-data-analysis-questions-and-how-to-solve-them-with-pandas-ceb53bbb9c9e?source=rss-2cf6b549448------2)
 - [5 Examples to Learn Date and Time Manipulation with Python Pandas](https://towardsdatascience.com/5-examples-to-learn-date-and-time-manipulation-with-python-pandas-9ab9cdeb032e?source=rss-2cf6b549448------2)
 - [Creating Interactive Scatter Plots with Python Altair](https://towardsdatascience.com/creating-interactive-scatter-plots-with-python-altair-e4b47e0aa8eb?source=rss-2cf6b549448------2)
 - [6 Pandas Functions for a Quick Exploratory Data Analysis](https://sonery.medium.com/6-pandas-functions-for-a-quick-exploratory-data-analysis-ff9ece0867d7?source=rss-2cf6b549448------2)
-- [4 Different Ways of Creating a New Column with PySpark](https://towardsdatascience.com/4-different-ways-of-creating-a-new-column-with-pyspark-1a6782fe764e?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
