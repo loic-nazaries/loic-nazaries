@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [2022 Starts With Notion — My Dashboard Template](https://limiao.medium.com/2022-starts-with-notion-my-dashboard-template-72c5014302ae?source=rss------data_science-5)
-- [Como coletar dados do League of Legends?](https://medium.com/@tarylljun/como-coletar-dados-de-league-of-legends-95352dfc9826?source=rss------data_science-5)
-- [Are We Ready for a Data Science Oath?](https://betterprogramming.pub/data-science-oath-c602f03a2166?source=rss------data_science-5)
-- [My First Blog Post!](https://medium.com/@jjghavami/my-first-blog-post-3cf527a9910b?source=rss------data_science-5)
-- [Target encoding function with R](https://medium.com/@darnelbolaos/target-encoding-function-with-r-8a037b219fb7?source=rss------data_science-5)
-- [Top 4 programming languages to learn in 2022](https://preettheman.medium.com/top-4-programming-languages-to-learn-in-2022-c8718b7180b3?source=rss------data_science-5)
-- [Amazing New Feature — Google BigQuery now supports JSON as a Data Type](https://medium.com/geekculture/amazing-new-feature-google-bigquery-now-supports-json-as-a-data-type-39e0464d4c43?source=rss------data_science-5)
-- [The Team That AI Built: The Finale](https://m-dendinger19.medium.com/the-team-that-ai-built-the-finale-1744e58be0c7?source=rss------data_science-5)
-- [The Biggest Data Science Trends In the year 2022](https://medium.com/@nullclasssocial/the-biggest-data-science-trends-in-the-year-2022-7a48b57f9c37?source=rss------data_science-5)
-- [The NYU AI School Returns](https://nyudatascience.medium.com/the-nyu-ai-school-returns-d5ee77c75ed3?source=rss------data_science-5)
+- [The Regularized Models](https://medium.com/@IwriteDSblog/the-regularized-models-9ed187c0bfc9?source=rss------data_science-5)
+- [Privacy-Preserving Deep Learning with Federated Learning and Federated Averaging Algorithm](https://towardsdatascience.com/privacy-preserving-deep-learning-with-federated-learning-and-federated-averaging-algorithm-221588478759?source=rss------data_science-5)
+- [This Would Be Easier if The Earth WAS Flat:](https://medium.com/@McKennaDataScience/this-would-be-easier-if-the-earth-was-flat-6670ab9e2345?source=rss------data_science-5)
+- [Veri Bilimi İçin Ralli Maratonu Etap_23](https://bekirondes.medium.com/veri-bilimi-i%CC%87%C3%A7in-ralli-maratonu-etap-23-9fe62f5723e5?source=rss------data_science-5)
+- [Assessing Model Performance for Regression](https://towardsdatascience.com/assessing-model-performance-for-regression-7568db6b2da0?source=rss------data_science-5)
+- [5 Steps to Get Yourself into Web Scraping with Python](https://medium.com/@otavios.s/5-steps-to-get-yourself-into-web-scraping-with-python-1084c32eb1ce?source=rss------data_science-5)
+- [SQL Cheat-Sheet for Data Science](https://medium.com/@srikanth_kb/sql-cheat-sheet-for-data-science-cf3005c0fb28?source=rss------data_science-5)
+- [Taming larger-than-RAM-data workflows: a Dask example](https://medium.com/@hrossetf/taming-larger-than-ram-data-workflows-a-dask-example-3479385822ec?source=rss------data_science-5)
+- [3 Reasons I’m Not Becoming a Data Scientist](https://medium.com/@anneliesabanafrit/3-reasons-im-not-becoming-a-data-scientist-81f553343c22?source=rss------data_science-5)
+- [5 Things I Did to Get My First Data Analyst Job — Without Much Technical Experience](https://medium.com/@rexxmoss/5-things-i-did-to-get-my-first-data-analyst-job-without-much-technical-experience-c00ca4f5205d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
