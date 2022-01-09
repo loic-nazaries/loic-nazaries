@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Regularized Models](https://medium.com/@IwriteDSblog/the-regularized-models-9ed187c0bfc9?source=rss------data_science-5)
-- [Privacy-Preserving Deep Learning with Federated Learning and Federated Averaging Algorithm](https://towardsdatascience.com/privacy-preserving-deep-learning-with-federated-learning-and-federated-averaging-algorithm-221588478759?source=rss------data_science-5)
-- [This Would Be Easier if The Earth WAS Flat:](https://medium.com/@McKennaDataScience/this-would-be-easier-if-the-earth-was-flat-6670ab9e2345?source=rss------data_science-5)
-- [Veri Bilimi İçin Ralli Maratonu Etap_23](https://bekirondes.medium.com/veri-bilimi-i%CC%87%C3%A7in-ralli-maratonu-etap-23-9fe62f5723e5?source=rss------data_science-5)
-- [Assessing Model Performance for Regression](https://towardsdatascience.com/assessing-model-performance-for-regression-7568db6b2da0?source=rss------data_science-5)
-- [5 Steps to Get Yourself into Web Scraping with Python](https://medium.com/@otavios.s/5-steps-to-get-yourself-into-web-scraping-with-python-1084c32eb1ce?source=rss------data_science-5)
-- [SQL Cheat-Sheet for Data Science](https://medium.com/@srikanth_kb/sql-cheat-sheet-for-data-science-cf3005c0fb28?source=rss------data_science-5)
-- [Taming larger-than-RAM-data workflows: a Dask example](https://medium.com/@hrossetf/taming-larger-than-ram-data-workflows-a-dask-example-3479385822ec?source=rss------data_science-5)
-- [3 Reasons I’m Not Becoming a Data Scientist](https://medium.com/@anneliesabanafrit/3-reasons-im-not-becoming-a-data-scientist-81f553343c22?source=rss------data_science-5)
-- [5 Things I Did to Get My First Data Analyst Job — Without Much Technical Experience](https://medium.com/@rexxmoss/5-things-i-did-to-get-my-first-data-analyst-job-without-much-technical-experience-c00ca4f5205d?source=rss------data_science-5)
+- [Python List Comprehentions](https://medium.com/@saundersMcLane/python-list-comprehentions-3bbf1db01ec1?source=rss------data_science-5)
+- [Great article — I wrote similar one on Covid — Youre welcome to take a peak here:](https://kusmat.medium.com/great-article-i-wrote-similar-one-on-covid-youre-welcome-to-take-a-peak-here-9c8e1d681828?source=rss------data_science-5)
+- [Data Leakage in Machine Learning: How it can be detected and minimize the risk](https://towardsdatascience.com/data-leakage-in-machine-learning-how-it-can-be-detected-and-minimize-the-risk-8ef4e3a97562?source=rss------data_science-5)
+- [unit tests with pandas](https://medium.com/analytics-vidhya/unit-tests-with-pandas-bf4c596baeda?source=rss------data_science-5)
+- [The 2022 Data Survey &amp; How To Scale Your Business in 4 Steps](https://medium.com/be-data-driven/the-2022-data-survey-how-to-scale-your-business-in-4-steps-90e960c1a43f?source=rss------data_science-5)
+- [Booming Data Science Libraries](https://medium.com/@draj0718/booming-data-science-libraries-593599ece33d?source=rss------data_science-5)
+- [Simplifying Machine Learning , Part-1 Linear Regression](https://medium.com/@avalos.christian7/simplifying-machine-learning-part-1-linear-regression-a49956250b25?source=rss------data_science-5)
+- [Análise exploratória de dados Airbnb&lpar;Sydney&rpar;](https://medium.com/@viniciusdaher/an%C3%A1lise-explorat%C3%B3ria-de-dados-airbnb-sydney-86e338ab5e96?source=rss------data_science-5)
+- [Platform products for Machine Learning](https://towardsdatascience.com/platform-products-for-machine-learning-3d3749443d2?source=rss------data_science-5)
+- [KerasBeats: An Easy Way to Use N-Beats in Keras](https://medium.com/@jonathanbechtel/kerasbeats-an-easy-way-to-use-n-beats-in-keras-395b24c5cc28?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
