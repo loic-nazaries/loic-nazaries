@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Python List Comprehentions](https://medium.com/@saundersMcLane/python-list-comprehentions-3bbf1db01ec1?source=rss------data_science-5)
-- [Great article — I wrote similar one on Covid — Youre welcome to take a peak here:](https://kusmat.medium.com/great-article-i-wrote-similar-one-on-covid-youre-welcome-to-take-a-peak-here-9c8e1d681828?source=rss------data_science-5)
-- [Data Leakage in Machine Learning: How it can be detected and minimize the risk](https://towardsdatascience.com/data-leakage-in-machine-learning-how-it-can-be-detected-and-minimize-the-risk-8ef4e3a97562?source=rss------data_science-5)
-- [unit tests with pandas](https://medium.com/analytics-vidhya/unit-tests-with-pandas-bf4c596baeda?source=rss------data_science-5)
-- [The 2022 Data Survey &amp; How To Scale Your Business in 4 Steps](https://medium.com/be-data-driven/the-2022-data-survey-how-to-scale-your-business-in-4-steps-90e960c1a43f?source=rss------data_science-5)
-- [Booming Data Science Libraries](https://medium.com/@draj0718/booming-data-science-libraries-593599ece33d?source=rss------data_science-5)
-- [Simplifying Machine Learning , Part-1 Linear Regression](https://medium.com/@avalos.christian7/simplifying-machine-learning-part-1-linear-regression-a49956250b25?source=rss------data_science-5)
-- [Análise exploratória de dados Airbnb&lpar;Sydney&rpar;](https://medium.com/@viniciusdaher/an%C3%A1lise-explorat%C3%B3ria-de-dados-airbnb-sydney-86e338ab5e96?source=rss------data_science-5)
-- [Platform products for Machine Learning](https://towardsdatascience.com/platform-products-for-machine-learning-3d3749443d2?source=rss------data_science-5)
-- [KerasBeats: An Easy Way to Use N-Beats in Keras](https://medium.com/@jonathanbechtel/kerasbeats-an-easy-way-to-use-n-beats-in-keras-395b24c5cc28?source=rss------data_science-5)
+- [“Since you liked this artist, you’ll also like their new album”](https://medium.com/mlearning-ai/since-you-liked-this-artist-youll-also-like-their-new-album-f9effebade7a?source=rss------data_science-5)
+- [Why do ML models fail in Production?](https://medium.com/@ggupta87/why-do-ml-models-fail-in-production-505d2cf58d5a?source=rss------data_science-5)
+- [But What do you Actually Want to Know?](https://medium.com/@andrea.tinof/but-what-do-you-actually-want-to-know-eed7bec03372?source=rss------data_science-5)
+- [Simple timeseries generation in Python with mockseries](https://medium.com/@cdecatheu/simple-timeseries-generation-in-python-with-mockseries-d6b214111814?source=rss------data_science-5)
+- [NLP Case Study: Tesla Versus Hamlet](https://trisxcjoseph.medium.com/nlp-case-study-tesla-versus-hamlet-d05044ec843e?source=rss------data_science-5)
+- [7 Jupyter notebooks practices to avoid right away](https://medium.com/@vedantd/7-jupyter-notebooks-practices-to-avoid-right-away-fd6e99f39d1a?source=rss------data_science-5)
+- [User Engagement Metrics in a nutshell](https://medium.com/@simba.sp18/user-engagement-metrics-in-a-nutshell-72031449d340?source=rss------data_science-5)
+- [Performance measures for the classification models](https://medium.com/@syang76/performance-measures-for-the-classification-models-c47a7b82b158?source=rss------data_science-5)
+- [Before You Become a Data Scientist](https://medium.com/@whenthedataaintpretty/before-you-become-a-data-scientist-3f763eb80608?source=rss------data_science-5)
+- [NYT Sentiment Analysis with TensorFlow](https://towardsdatascience.com/nyt-sentiment-analysis-with-tensorflow-7156d77e385e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
