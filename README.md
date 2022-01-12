@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [“Since you liked this artist, you’ll also like their new album”](https://medium.com/mlearning-ai/since-you-liked-this-artist-youll-also-like-their-new-album-f9effebade7a?source=rss------data_science-5)
-- [Why do ML models fail in Production?](https://medium.com/@ggupta87/why-do-ml-models-fail-in-production-505d2cf58d5a?source=rss------data_science-5)
-- [But What do you Actually Want to Know?](https://medium.com/@andrea.tinof/but-what-do-you-actually-want-to-know-eed7bec03372?source=rss------data_science-5)
-- [Simple timeseries generation in Python with mockseries](https://medium.com/@cdecatheu/simple-timeseries-generation-in-python-with-mockseries-d6b214111814?source=rss------data_science-5)
-- [NLP Case Study: Tesla Versus Hamlet](https://trisxcjoseph.medium.com/nlp-case-study-tesla-versus-hamlet-d05044ec843e?source=rss------data_science-5)
-- [7 Jupyter notebooks practices to avoid right away](https://medium.com/@vedantd/7-jupyter-notebooks-practices-to-avoid-right-away-fd6e99f39d1a?source=rss------data_science-5)
-- [User Engagement Metrics in a nutshell](https://medium.com/@simba.sp18/user-engagement-metrics-in-a-nutshell-72031449d340?source=rss------data_science-5)
-- [Performance measures for the classification models](https://medium.com/@syang76/performance-measures-for-the-classification-models-c47a7b82b158?source=rss------data_science-5)
-- [Before You Become a Data Scientist](https://medium.com/@whenthedataaintpretty/before-you-become-a-data-scientist-3f763eb80608?source=rss------data_science-5)
-- [NYT Sentiment Analysis with TensorFlow](https://towardsdatascience.com/nyt-sentiment-analysis-with-tensorflow-7156d77e385e?source=rss------data_science-5)
+- [I trained an AI to invent new cocktails. Here’s what it came up with…](https://medium.com/@haroog96/i-trained-an-ai-to-invent-new-cocktails-heres-what-it-came-up-with-fb9aafcacc53?source=rss------data_science-5)
+- [An Intro to Sentiment Analysis in R — How Does Twitter Feel about Baker Mayfield?](https://medium.com/@brianna-king/an-intro-to-sentiment-analysis-in-r-how-does-twitter-feel-about-baker-mayfield-cda513ed0b78?source=rss------data_science-5)
+- [5 Popular side hustles for programmers in 2022!](https://preettheman.medium.com/5-popular-side-hustles-for-programmers-in-2022-faaf63308e14?source=rss------data_science-5)
+- [Rate a single performance — League of Legends and other competitive games](https://medium.com/@benjamin.castet/rate-a-single-performance-league-of-legends-and-other-competitive-games-1e45fe7b9fdf?source=rss------data_science-5)
+- [Portfolio Project: Predicting Starbucks’ customers who respond to offers](https://medium.com/@dletoneiva/portfolio-project-predicting-starbucks-customers-who-respond-to-offers-bfaa4c0c4c11?source=rss------data_science-5)
+- [Statistics For DataScience PART-1](https://medium.com/@meetjain.ai/statistics-for-datascience-part-1-c2e77972165e?source=rss------data_science-5)
+- [Lessons Learned While Scraping Data From Dynamic Sites for my Regression ML Project](https://serdarcelebi.medium.com/lessons-learned-while-scraping-data-from-dynamic-sites-for-my-regression-ml-project-c7f52e5ef7ea?source=rss------data_science-5)
+- [Python projects you can build today](https://preettheman.medium.com/python-projects-you-can-build-today-db4b7e50bc4b?source=rss------data_science-5)
+- [Should I Learn R or Python?](https://datadrivenperspectives.com/should-i-learn-r-or-python-5ffae2c81646?source=rss------data_science-5)
+- [Anomaly Detection using AWK &amp; Bash](https://medium.com/@gokhan.tenekecioglu/anomaly-detection-using-bash-awk-29b1cf707010?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
