@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I trained an AI to invent new cocktails. Here’s what it came up with…](https://medium.com/@haroog96/i-trained-an-ai-to-invent-new-cocktails-heres-what-it-came-up-with-fb9aafcacc53?source=rss------data_science-5)
-- [An Intro to Sentiment Analysis in R — How Does Twitter Feel about Baker Mayfield?](https://medium.com/@brianna-king/an-intro-to-sentiment-analysis-in-r-how-does-twitter-feel-about-baker-mayfield-cda513ed0b78?source=rss------data_science-5)
-- [5 Popular side hustles for programmers in 2022!](https://preettheman.medium.com/5-popular-side-hustles-for-programmers-in-2022-faaf63308e14?source=rss------data_science-5)
-- [Rate a single performance — League of Legends and other competitive games](https://medium.com/@benjamin.castet/rate-a-single-performance-league-of-legends-and-other-competitive-games-1e45fe7b9fdf?source=rss------data_science-5)
-- [Portfolio Project: Predicting Starbucks’ customers who respond to offers](https://medium.com/@dletoneiva/portfolio-project-predicting-starbucks-customers-who-respond-to-offers-bfaa4c0c4c11?source=rss------data_science-5)
-- [Statistics For DataScience PART-1](https://medium.com/@meetjain.ai/statistics-for-datascience-part-1-c2e77972165e?source=rss------data_science-5)
-- [Lessons Learned While Scraping Data From Dynamic Sites for my Regression ML Project](https://serdarcelebi.medium.com/lessons-learned-while-scraping-data-from-dynamic-sites-for-my-regression-ml-project-c7f52e5ef7ea?source=rss------data_science-5)
-- [Python projects you can build today](https://preettheman.medium.com/python-projects-you-can-build-today-db4b7e50bc4b?source=rss------data_science-5)
-- [Should I Learn R or Python?](https://datadrivenperspectives.com/should-i-learn-r-or-python-5ffae2c81646?source=rss------data_science-5)
-- [Anomaly Detection using AWK &amp; Bash](https://medium.com/@gokhan.tenekecioglu/anomaly-detection-using-bash-awk-29b1cf707010?source=rss------data_science-5)
+- [Scraping Data Analyst Job Listings from Indeed](https://medium.com/@sharmapushpendra342/scraping-data-analyst-job-listings-from-indeed-52f1d24a09c0?source=rss------data_science-5)
+- [Estatística Descritiva de Boxplot em Pandas e Utilização na Preparação de Dados](https://medium.com/@pfsouza.ufop/estat%C3%ADstica-descritiva-de-boxplot-em-pandas-e-utiliza%C3%A7%C3%A3o-na-prepara%C3%A7%C3%A3o-de-dados-e11c256e1aff?source=rss------data_science-5)
+- [Investors are paying millions for virtual land in the metaverse](https://medium.com/@mrpeso82/investors-are-paying-millions-for-virtual-land-in-the-metaverse-7ee592d191b3?source=rss------data_science-5)
+- [Yes, You Can Learn SQL In Two Hours](https://datadrivenperspectives.com/yes-you-can-learn-sql-in-two-hours-fe76d101fa4f?source=rss------data_science-5)
+- [I Failed my Technical Interview, and That’s Alright](https://realdrewdata.medium.com/i-failed-my-technical-interview-and-thats-alright-c1bdc6f7c141?source=rss------data_science-5)
+- [Dopamine detoxing your brain to actually enjoy doing “hard” things.](https://medium.com/@kabirabdul08091/dopamine-detoxing-your-brain-to-actually-enjoy-doing-hard-things-84f7e4ec797e?source=rss------data_science-5)
+- [New Pedagogical Ideas and the virtual space.](https://dashboardk12.medium.com/new-pedagogical-ideas-and-the-virtual-space-6c9f7d23eec8?source=rss------data_science-5)
+- [What is Machine Learning](https://rdbadra.medium.com/what-is-machine-learning-23f32eb440fd?source=rss------data_science-5)
+- [The Prediction Economy](https://levelup.gitconnected.com/the-prediction-economy-2be58c37e62d?source=rss------data_science-5)
+- [Micro-Estimates of Wealth for All Low- and Middle-Income Countries](https://medium.com/center-for-effective-global-action/micro-estimates-of-wealth-for-all-low-and-middle-income-countries-6c1d224fded8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
