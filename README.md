@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Scraping Data Analyst Job Listings from Indeed](https://medium.com/@sharmapushpendra342/scraping-data-analyst-job-listings-from-indeed-52f1d24a09c0?source=rss------data_science-5)
-- [Estatística Descritiva de Boxplot em Pandas e Utilização na Preparação de Dados](https://medium.com/@pfsouza.ufop/estat%C3%ADstica-descritiva-de-boxplot-em-pandas-e-utiliza%C3%A7%C3%A3o-na-prepara%C3%A7%C3%A3o-de-dados-e11c256e1aff?source=rss------data_science-5)
-- [Investors are paying millions for virtual land in the metaverse](https://medium.com/@mrpeso82/investors-are-paying-millions-for-virtual-land-in-the-metaverse-7ee592d191b3?source=rss------data_science-5)
-- [Yes, You Can Learn SQL In Two Hours](https://datadrivenperspectives.com/yes-you-can-learn-sql-in-two-hours-fe76d101fa4f?source=rss------data_science-5)
-- [I Failed my Technical Interview, and That’s Alright](https://realdrewdata.medium.com/i-failed-my-technical-interview-and-thats-alright-c1bdc6f7c141?source=rss------data_science-5)
-- [Dopamine detoxing your brain to actually enjoy doing “hard” things.](https://medium.com/@kabirabdul08091/dopamine-detoxing-your-brain-to-actually-enjoy-doing-hard-things-84f7e4ec797e?source=rss------data_science-5)
-- [New Pedagogical Ideas and the virtual space.](https://dashboardk12.medium.com/new-pedagogical-ideas-and-the-virtual-space-6c9f7d23eec8?source=rss------data_science-5)
-- [What is Machine Learning](https://rdbadra.medium.com/what-is-machine-learning-23f32eb440fd?source=rss------data_science-5)
-- [The Prediction Economy](https://levelup.gitconnected.com/the-prediction-economy-2be58c37e62d?source=rss------data_science-5)
-- [Micro-Estimates of Wealth for All Low- and Middle-Income Countries](https://medium.com/center-for-effective-global-action/micro-estimates-of-wealth-for-all-low-and-middle-income-countries-6c1d224fded8?source=rss------data_science-5)
+- [Launching Logspace — Company Services, Principles &amp; Goals](https://medium.com/logspace/launching-logspace-company-services-principles-goals-e077fa8cad93?source=rss------data_science-5)
+- [Programming languages of the future to learn now!](https://preettheman.medium.com/programming-languages-of-the-future-to-learn-now-66c2084e2596?source=rss------data_science-5)
+- [DIABETES DATASET](https://medium.com/@esraemet/diabetes-dataset-fad887e463c1?source=rss------data_science-5)
+- [ML Platform User Experience: Research to Production](https://medium.com/@arpeetkale/ml-platform-user-experience-research-to-production-4f68c7b97be4?source=rss------data_science-5)
+- [Parsing Data with Just SQL](https://databasedive.com/parsing-data-with-just-sql-a813a4f43dc0?source=rss------data_science-5)
+- [Increasing model velocity for complex models by leveraging hybrid pipelines, parallelization and…](https://towardsdatascience.com/increasing-model-velocity-for-complex-models-by-leveraging-hybrid-pipelines-parallelization-and-3a0ca5e05049?source=rss------data_science-5)
+- [floWeaver — Turn Flow Data Into a Sankey Diagram In Python](https://towardsdatascience.com/floweaver-turn-flow-data-into-a-sankey-diagram-in-python-d166e87dbba?source=rss------data_science-5)
+- [9 Best Machine Learning Models for Beginners](https://towardsdatascience.com/9-best-machine-learning-models-for-beginners-2bcd8386774d?source=rss------data_science-5)
+- [Don’t just fit data, gain insights too](https://towardsdatascience.com/dont-just-fit-data-gain-insights-too-1dba73d3cf8e?source=rss------data_science-5)
+- [Review of Sequel Ace — My Favourite MySQL Client for M1 Mac](https://medium.com/techtofreedom/review-of-sequel-ace-my-favourite-mysql-client-for-m1-mac-72e59a9a74ea?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
