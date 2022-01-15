@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Launching Logspace — Company Services, Principles &amp; Goals](https://medium.com/logspace/launching-logspace-company-services-principles-goals-e077fa8cad93?source=rss------data_science-5)
-- [Programming languages of the future to learn now!](https://preettheman.medium.com/programming-languages-of-the-future-to-learn-now-66c2084e2596?source=rss------data_science-5)
-- [DIABETES DATASET](https://medium.com/@esraemet/diabetes-dataset-fad887e463c1?source=rss------data_science-5)
-- [ML Platform User Experience: Research to Production](https://medium.com/@arpeetkale/ml-platform-user-experience-research-to-production-4f68c7b97be4?source=rss------data_science-5)
-- [Parsing Data with Just SQL](https://databasedive.com/parsing-data-with-just-sql-a813a4f43dc0?source=rss------data_science-5)
-- [Increasing model velocity for complex models by leveraging hybrid pipelines, parallelization and…](https://towardsdatascience.com/increasing-model-velocity-for-complex-models-by-leveraging-hybrid-pipelines-parallelization-and-3a0ca5e05049?source=rss------data_science-5)
-- [floWeaver — Turn Flow Data Into a Sankey Diagram In Python](https://towardsdatascience.com/floweaver-turn-flow-data-into-a-sankey-diagram-in-python-d166e87dbba?source=rss------data_science-5)
-- [9 Best Machine Learning Models for Beginners](https://towardsdatascience.com/9-best-machine-learning-models-for-beginners-2bcd8386774d?source=rss------data_science-5)
-- [Don’t just fit data, gain insights too](https://towardsdatascience.com/dont-just-fit-data-gain-insights-too-1dba73d3cf8e?source=rss------data_science-5)
-- [Review of Sequel Ace — My Favourite MySQL Client for M1 Mac](https://medium.com/techtofreedom/review-of-sequel-ace-my-favourite-mysql-client-for-m1-mac-72e59a9a74ea?source=rss------data_science-5)
+- [Como encontrar o coeficiente beta de uma ação através da regressão linear com apenas 6 linhas de…](https://allanpassos.medium.com/como-encontrar-o-coeficiente-beta-de-uma-a%C3%A7%C3%A3o-atrav%C3%A9s-da-regress%C3%A3o-linear-com-apenas-6-linhas-de-cd7c32e648c9?source=rss------data_science-5)
+- [Data Science in The World, South America and Peru 
+ -Kaggle Survey 2019:2021-](https://medium.com/@carlos.figueroa.asencios/data-science-in-the-world-south-america-and-peru-kaggle-survey-2019-2021-28ab8992fbcc?source=rss------data_science-5)
+- [What Is Data Literacy?](https://towardsdatascience.com/what-is-data-literacy-9b5c3032216f?source=rss------data_science-5)
+- [Today I Learned Dia 8](https://pablohidalgojp.medium.com/today-i-learned-dia-8-145a24efc0cf?source=rss------data_science-5)
+- [[Project #1] Pembuatan Database untuk SaveFood — Online Shop untuk Imperfect Food](https://richardylobosapan.medium.com/project-1-pembuatan-database-untuk-savefood-online-shop-untuk-imperfect-food-8bfbe35c4cc1?source=rss------data_science-5)
+- [The Job Market for Medium Data® Skills](https://datadrivenperspectives.com/the-job-market-for-medium-data-skills-cd4aeca21718?source=rss------data_science-5)
+- [Customer Segmentation using K-Means Clustering](https://medium.com/@dniggl/customer-segmentation-using-k-means-clustering-c0c6307ec3f7?source=rss------data_science-5)
+- [How I built an algorithm that finds Patterns in Stock Prices &lpar;unsupervised learning&rpar;](https://medium.com/@denis.vivdenko.freelancer/how-i-built-an-algorithm-that-finds-patterns-in-stock-prices-unsupervised-learning-c5dbafdc4e26?source=rss------data_science-5)
+- [Data Visualization with React Google Charts](https://towardsdev.com/data-visualization-with-react-google-charts-82bc759d828f?source=rss------data_science-5)
+- [Logistic Regression- 3 Interpretations, same result.](https://medium.com/@akshat.thakur8/logistic-regression-3-interpretations-same-result-6ddf281161e5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
