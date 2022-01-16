@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [Python Pandas Gives You Full Control Over Timestamps](https://towardsdatascience.com/python-pandas-gives-you-full-control-over-timestamps-10fe26c96a9e?source=rss-2cf6b549448------2)
 - [5 Python Tips That You Don’t Want To Miss](https://towardsdatascience.com/5-python-tips-that-you-dont-want-to-miss-7696a9ec9df1?source=rss-2cf6b549448------2)
 - [2 Must-Know Time Series Models and Their Properties](https://towardsdatascience.com/2-must-know-time-series-models-and-their-properties-e92953bd8c5a?source=rss-2cf6b549448------2)
 - [6 Python Matplotlib Features to Create Better Data Visualizations](https://towardsdatascience.com/6-python-matplotlib-features-to-create-better-data-visualizations-b9fc65b0430b?source=rss-2cf6b549448------2)
 - [3 Tricky Data Analysis Questions and How to Solve Them with Pandas](https://towardsdatascience.com/3-tricky-data-analysis-questions-and-how-to-solve-them-with-pandas-ceb53bbb9c9e?source=rss-2cf6b549448------2)
-- [5 Examples to Learn Date and Time Manipulation with Python Pandas](https://towardsdatascience.com/5-examples-to-learn-date-and-time-manipulation-with-python-pandas-9ab9cdeb032e?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
