@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Como encontrar o coeficiente beta de uma ação através da regressão linear com apenas 6 linhas de…](https://allanpassos.medium.com/como-encontrar-o-coeficiente-beta-de-uma-a%C3%A7%C3%A3o-atrav%C3%A9s-da-regress%C3%A3o-linear-com-apenas-6-linhas-de-cd7c32e648c9?source=rss------data_science-5)
-- [Data Science in The World, South America and Peru 
- -Kaggle Survey 2019:2021-](https://medium.com/@carlos.figueroa.asencios/data-science-in-the-world-south-america-and-peru-kaggle-survey-2019-2021-28ab8992fbcc?source=rss------data_science-5)
-- [What Is Data Literacy?](https://towardsdatascience.com/what-is-data-literacy-9b5c3032216f?source=rss------data_science-5)
-- [Today I Learned Dia 8](https://pablohidalgojp.medium.com/today-i-learned-dia-8-145a24efc0cf?source=rss------data_science-5)
-- [[Project #1] Pembuatan Database untuk SaveFood — Online Shop untuk Imperfect Food](https://richardylobosapan.medium.com/project-1-pembuatan-database-untuk-savefood-online-shop-untuk-imperfect-food-8bfbe35c4cc1?source=rss------data_science-5)
-- [The Job Market for Medium Data® Skills](https://datadrivenperspectives.com/the-job-market-for-medium-data-skills-cd4aeca21718?source=rss------data_science-5)
-- [Customer Segmentation using K-Means Clustering](https://medium.com/@dniggl/customer-segmentation-using-k-means-clustering-c0c6307ec3f7?source=rss------data_science-5)
-- [How I built an algorithm that finds Patterns in Stock Prices &lpar;unsupervised learning&rpar;](https://medium.com/@denis.vivdenko.freelancer/how-i-built-an-algorithm-that-finds-patterns-in-stock-prices-unsupervised-learning-c5dbafdc4e26?source=rss------data_science-5)
-- [Data Visualization with React Google Charts](https://towardsdev.com/data-visualization-with-react-google-charts-82bc759d828f?source=rss------data_science-5)
-- [Logistic Regression- 3 Interpretations, same result.](https://medium.com/@akshat.thakur8/logistic-regression-3-interpretations-same-result-6ddf281161e5?source=rss------data_science-5)
+- [A Literal Sea of Data](https://medium.com/@smashley_eakland/a-literal-sea-of-data-70657de5bb1e?source=rss------data_science-5)
+- [7 Reasons Why You Should Use Jupyterlab for Data Science](https://medium.com/@vuthihienthu.ueb/7-reasons-why-you-should-use-jupyterlab-for-data-science-7c2a3db8755a?source=rss------data_science-5)
+- [C&amp;S: Use the graph structure in your data with prediction post-processing](https://medium.com/stanford-cs224w/c-s-use-the-graph-structure-in-your-data-with-prediction-post-processing-ec36adb6d6a1?source=rss------data_science-5)
+- [Russians are famous for drinking vodka, right?](https://medium.com/@michaeltosicde/russians-are-famous-for-drinking-vodka-right-4afb7d7ea0cc?source=rss------data_science-5)
+- [ggplot 2 — Bar plots](https://medium.com/@saurav12das/ggplot-2-bar-plots-dba1de33bdd7?source=rss------data_science-5)
+- [Five Questions to Ask Yourself Before Starting Any Data Science Project](https://towardsdatascience.com/five-questions-to-ask-yourself-before-starting-any-data-science-project-f2025c9ea37?source=rss------data_science-5)
+- [100 Common Word Used in Data Analysis World](https://bdfd2005.medium.com/100-common-word-used-in-data-analysis-world-8067dd5f1cc5?source=rss------data_science-5)
+- [Project: Followers Activated](https://medium.com/@calaenowenburton/project-followers-activated-a0ece41f063?source=rss------data_science-5)
+- [Data Analysis vs Data Analytics, are they the same?](https://medium.com/@bmbithi41/data-analysis-vs-data-analytics-are-they-the-same-538f292aae3f?source=rss------data_science-5)
+- [Data does not speak for itself? Start asking questions!](https://towardsdatascience.com/data-does-not-speak-for-itself-start-asking-questions-4e152274d605?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
