@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Literal Sea of Data](https://medium.com/@smashley_eakland/a-literal-sea-of-data-70657de5bb1e?source=rss------data_science-5)
-- [7 Reasons Why You Should Use Jupyterlab for Data Science](https://medium.com/@vuthihienthu.ueb/7-reasons-why-you-should-use-jupyterlab-for-data-science-7c2a3db8755a?source=rss------data_science-5)
-- [C&amp;S: Use the graph structure in your data with prediction post-processing](https://medium.com/stanford-cs224w/c-s-use-the-graph-structure-in-your-data-with-prediction-post-processing-ec36adb6d6a1?source=rss------data_science-5)
-- [Russians are famous for drinking vodka, right?](https://medium.com/@michaeltosicde/russians-are-famous-for-drinking-vodka-right-4afb7d7ea0cc?source=rss------data_science-5)
-- [ggplot 2 — Bar plots](https://medium.com/@saurav12das/ggplot-2-bar-plots-dba1de33bdd7?source=rss------data_science-5)
-- [Five Questions to Ask Yourself Before Starting Any Data Science Project](https://towardsdatascience.com/five-questions-to-ask-yourself-before-starting-any-data-science-project-f2025c9ea37?source=rss------data_science-5)
-- [100 Common Word Used in Data Analysis World](https://bdfd2005.medium.com/100-common-word-used-in-data-analysis-world-8067dd5f1cc5?source=rss------data_science-5)
-- [Project: Followers Activated](https://medium.com/@calaenowenburton/project-followers-activated-a0ece41f063?source=rss------data_science-5)
-- [Data Analysis vs Data Analytics, are they the same?](https://medium.com/@bmbithi41/data-analysis-vs-data-analytics-are-they-the-same-538f292aae3f?source=rss------data_science-5)
-- [Data does not speak for itself? Start asking questions!](https://towardsdatascience.com/data-does-not-speak-for-itself-start-asking-questions-4e152274d605?source=rss------data_science-5)
+- [Resumindo os principais fatores que impactaram a frequência nas provas do ENEM em um Dashboard com…](https://joaopedro214.medium.com/resumindo-os-principais-fatores-que-impactaram-a-frequ%C3%AAncia-nas-provas-do-enem-em-um-dashboard-com-44542a79af5a?source=rss------data_science-5)
+- [Os 3 erros mais comuns de Cientistas de Dados — E que não tem haver com dados](https://medium.com/data-hackers/os-3-erros-mais-comuns-de-cientistas-de-dados-e-que-nao-tem-haver-com-dados-1fe9b9c8e939?source=rss------data_science-5)
+- [Dask: From Scratch to Scalable Analytics in Python! :&rpar;](https://jlgjosue.medium.com/dask-from-scratch-to-scalable-analytics-in-python-e2139a6295e6?source=rss------data_science-5)
+- [The documentation of a system that I have developed in a “problem” &lpar;opportune&rpar; situation.](https://medium.com/@calaenowenburton/the-documentation-of-a-system-that-i-have-developed-in-a-problem-opportune-situation-b012f640900b?source=rss------data_science-5)
+- [8 Big Data success stories you &lpar;probably&rpar; didn’t know about.](https://medium.com/@tarek.samaali.92/8-big-data-success-stories-you-probably-didnt-know-about-5764f510b9fc?source=rss------data_science-5)
+- [DevOps A — Z](https://dnyanesha10.medium.com/devops-a-z-15a0b535db22?source=rss------data_science-5)
+- [This. Is My Creation. My Prized Possession](https://medium.com/@calaenowenburton/this-is-my-creation-my-prized-possession-a156da8d75e3?source=rss------data_science-5)
+- [Clean &amp; Process Raw Text Data: A Beginner’s Guide with Examples](https://medium.com/@sy563105221/clean-process-raw-text-data-a-beginners-guide-with-examples-68ec7d65fd8c?source=rss------data_science-5)
+- [4 Common Designs of Audit Trail — Tracking Data Changes in Databases](https://medium.com/techtofreedom/4-common-designs-of-audit-trail-tracking-data-changes-in-databases-c894b7bb6d18?source=rss------data_science-5)
+- [Principal Component Analysis &lpar;PCA&rpar;](https://medium.com/@LydiaNemec/principal-component-analysis-pca-8133b02f11bd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
