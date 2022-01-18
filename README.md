@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Resumindo os principais fatores que impactaram a frequência nas provas do ENEM em um Dashboard com…](https://joaopedro214.medium.com/resumindo-os-principais-fatores-que-impactaram-a-frequ%C3%AAncia-nas-provas-do-enem-em-um-dashboard-com-44542a79af5a?source=rss------data_science-5)
-- [Os 3 erros mais comuns de Cientistas de Dados — E que não tem haver com dados](https://medium.com/data-hackers/os-3-erros-mais-comuns-de-cientistas-de-dados-e-que-nao-tem-haver-com-dados-1fe9b9c8e939?source=rss------data_science-5)
-- [Dask: From Scratch to Scalable Analytics in Python! :&rpar;](https://jlgjosue.medium.com/dask-from-scratch-to-scalable-analytics-in-python-e2139a6295e6?source=rss------data_science-5)
-- [The documentation of a system that I have developed in a “problem” &lpar;opportune&rpar; situation.](https://medium.com/@calaenowenburton/the-documentation-of-a-system-that-i-have-developed-in-a-problem-opportune-situation-b012f640900b?source=rss------data_science-5)
-- [8 Big Data success stories you &lpar;probably&rpar; didn’t know about.](https://medium.com/@tarek.samaali.92/8-big-data-success-stories-you-probably-didnt-know-about-5764f510b9fc?source=rss------data_science-5)
-- [DevOps A — Z](https://dnyanesha10.medium.com/devops-a-z-15a0b535db22?source=rss------data_science-5)
-- [This. Is My Creation. My Prized Possession](https://medium.com/@calaenowenburton/this-is-my-creation-my-prized-possession-a156da8d75e3?source=rss------data_science-5)
-- [Clean &amp; Process Raw Text Data: A Beginner’s Guide with Examples](https://medium.com/@sy563105221/clean-process-raw-text-data-a-beginners-guide-with-examples-68ec7d65fd8c?source=rss------data_science-5)
-- [4 Common Designs of Audit Trail — Tracking Data Changes in Databases](https://medium.com/techtofreedom/4-common-designs-of-audit-trail-tracking-data-changes-in-databases-c894b7bb6d18?source=rss------data_science-5)
-- [Principal Component Analysis &lpar;PCA&rpar;](https://medium.com/@LydiaNemec/principal-component-analysis-pca-8133b02f11bd?source=rss------data_science-5)
+- [DevOps](https://pub.towardsai.net/devops-fc63a1fb17c6?source=rss------data_science-5)
+- [About Tim&lpar;e&rpar;](https://medium.com/@climteary/about-tim-e-bfaef756739b?source=rss------data_science-5)
+- [A Study Of AirBnB Listings: Seattle &amp; Boston](https://medium.com/@mr.dcny/a-study-of-airbnb-listings-seattle-boston-ff3a69646edf?source=rss------data_science-5)
+- [Is Data Science for me?](https://medium.com/@olamide.h/is-data-science-for-me-ae775efcc20e?source=rss------data_science-5)
+- [Are Open-Source Data Science tools in perennial slumber?](https://medium.com/@karansardana/jupyter-labs-will-soon-die-unless-72ff0e13347a?source=rss------data_science-5)
+- [WORKOUTS &amp; SQUATS](https://medium.com/@iforkswithyoshi/workouts-squats-d28e220938b7?source=rss------data_science-5)
+- [Natural Language Processing Basics: Word2Vec, CBOW &amp; Skip-gram](https://medium.com/the-techlife/natural-language-processing-basics-word2vec-cbow-skip-gram-e0e034862b8c?source=rss------data_science-5)
+- [8 Essential Python Techniques for Data Engineers and Analysts &lpar;with code samples&rpar;](https://towardsdatascience.com/8-essential-python-techniques-for-data-engineers-and-analysts-with-code-samples-5915b31ce724?source=rss------data_science-5)
+- [Google Cloud IAM](https://medium.com/dataman-in-ai/google-cloud-iam-32a03c4e02c2?source=rss------data_science-5)
+- [Azure -Data engineering setup using PowerShell &lpar;Part 1&rpar;](https://medium.com/@rathirajk/azure-data-engineering-setup-using-powershell-part-1-1575e4c32185?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
