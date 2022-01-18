@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [3 Lesser-Known Pandas Functions To Be Used With Groupby](https://towardsdatascience.com/3-lesser-known-pandas-functions-to-be-used-with-groupby-2f971d99d95d?source=rss-2cf6b549448------2)
 - [5 Fundamental Concepts to Understand Big Data Processing with Spark](https://towardsdatascience.com/5-fundamental-concepts-to-understand-big-data-processing-with-spark-f2a6aadb1093?source=rss-2cf6b549448------2)
 - [Self-Taught Data Scientists Fail to Go Deep Enough](https://sonery.medium.com/self-taught-data-scientists-fail-to-go-deep-enough-8dfc939870d6?source=rss-2cf6b549448------2)
 - [Python Pandas Gives You Full Control Over Timestamps](https://towardsdatascience.com/python-pandas-gives-you-full-control-over-timestamps-10fe26c96a9e?source=rss-2cf6b549448------2)
 - [5 Python Tips That You Don’t Want To Miss](https://towardsdatascience.com/5-python-tips-that-you-dont-want-to-miss-7696a9ec9df1?source=rss-2cf6b549448------2)
-- [2 Must-Know Time Series Models and Their Properties](https://towardsdatascience.com/2-must-know-time-series-models-and-their-properties-e92953bd8c5a?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
