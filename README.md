@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [DevOps](https://pub.towardsai.net/devops-fc63a1fb17c6?source=rss------data_science-5)
-- [About Tim&lpar;e&rpar;](https://medium.com/@climteary/about-tim-e-bfaef756739b?source=rss------data_science-5)
-- [A Study Of AirBnB Listings: Seattle &amp; Boston](https://medium.com/@mr.dcny/a-study-of-airbnb-listings-seattle-boston-ff3a69646edf?source=rss------data_science-5)
-- [Is Data Science for me?](https://medium.com/@olamide.h/is-data-science-for-me-ae775efcc20e?source=rss------data_science-5)
-- [Are Open-Source Data Science tools in perennial slumber?](https://medium.com/@karansardana/jupyter-labs-will-soon-die-unless-72ff0e13347a?source=rss------data_science-5)
-- [WORKOUTS &amp; SQUATS](https://medium.com/@iforkswithyoshi/workouts-squats-d28e220938b7?source=rss------data_science-5)
-- [Natural Language Processing Basics: Word2Vec, CBOW &amp; Skip-gram](https://medium.com/the-techlife/natural-language-processing-basics-word2vec-cbow-skip-gram-e0e034862b8c?source=rss------data_science-5)
-- [8 Essential Python Techniques for Data Engineers and Analysts &lpar;with code samples&rpar;](https://towardsdatascience.com/8-essential-python-techniques-for-data-engineers-and-analysts-with-code-samples-5915b31ce724?source=rss------data_science-5)
-- [Google Cloud IAM](https://medium.com/dataman-in-ai/google-cloud-iam-32a03c4e02c2?source=rss------data_science-5)
-- [Azure -Data engineering setup using PowerShell &lpar;Part 1&rpar;](https://medium.com/@rathirajk/azure-data-engineering-setup-using-powershell-part-1-1575e4c32185?source=rss------data_science-5)
+- [Quantum Computing Single Qubit⚛️](https://agbonorino.medium.com/quantum-computing-single-qubit-%EF%B8%8F-2b2cc7a20586?source=rss------data_science-5)
+- [How to Create a Star Rating System in Excel](https://andrewcharlesmoss.medium.com/how-to-create-a-star-rating-system-in-excel-7d176066a67e?source=rss------data_science-5)
+- [Generating Natural Language Training Data from Physics Simulations in Unity](https://medium.com/geekculture/generating-natural-language-training-data-from-physics-simulations-in-unity-8ea46b8a7f6e?source=rss------data_science-5)
+- [Why Machine Learning Models Die In Silence?](https://levelup.gitconnected.com/concept-drift-in-machine-learning-1fc7a4396b10?source=rss------data_science-5)
+- [5 Small Python Projects For Beginners](https://preettheman.medium.com/5-small-python-projects-for-beginners-c854b473b010?source=rss------data_science-5)
+- [Diving into Machine Learning’s Systemic Bias Problem](https://medium.com/@hannah.schurman1/diving-into-machine-learnings-systemic-bias-problem-3f68fa9d110e?source=rss------data_science-5)
+- [Today I Learned Dia 9](https://pablohidalgojp.medium.com/today-i-learned-dia-9-b39bbe90d3a8?source=rss------data_science-5)
+- [linearity and restrictions of media](https://medium.com/@thoughtfully-oh/linearity-and-restrictions-of-media-935299df65fc?source=rss------data_science-5)
+- [How to Transform Nominal Data for ML with OneHotEncoder from Scikit-Learn](https://datasensei.medium.com/how-to-transform-nominal-data-for-ml-with-onehotencoder-from-scikit-learn-f6febfefb3c6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
