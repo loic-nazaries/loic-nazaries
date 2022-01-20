@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Quantum Computing Single Qubit⚛️](https://agbonorino.medium.com/quantum-computing-single-qubit-%EF%B8%8F-2b2cc7a20586?source=rss------data_science-5)
-- [How to Create a Star Rating System in Excel](https://andrewcharlesmoss.medium.com/how-to-create-a-star-rating-system-in-excel-7d176066a67e?source=rss------data_science-5)
-- [Generating Natural Language Training Data from Physics Simulations in Unity](https://medium.com/geekculture/generating-natural-language-training-data-from-physics-simulations-in-unity-8ea46b8a7f6e?source=rss------data_science-5)
-- [Why Machine Learning Models Die In Silence?](https://levelup.gitconnected.com/concept-drift-in-machine-learning-1fc7a4396b10?source=rss------data_science-5)
-- [5 Small Python Projects For Beginners](https://preettheman.medium.com/5-small-python-projects-for-beginners-c854b473b010?source=rss------data_science-5)
-- [Diving into Machine Learning’s Systemic Bias Problem](https://medium.com/@hannah.schurman1/diving-into-machine-learnings-systemic-bias-problem-3f68fa9d110e?source=rss------data_science-5)
-- [Today I Learned Dia 9](https://pablohidalgojp.medium.com/today-i-learned-dia-9-b39bbe90d3a8?source=rss------data_science-5)
-- [linearity and restrictions of media](https://medium.com/@thoughtfully-oh/linearity-and-restrictions-of-media-935299df65fc?source=rss------data_science-5)
-- [How to Transform Nominal Data for ML with OneHotEncoder from Scikit-Learn](https://datasensei.medium.com/how-to-transform-nominal-data-for-ml-with-onehotencoder-from-scikit-learn-f6febfefb3c6?source=rss------data_science-5)
+- [Today I Learned — Dia 10](https://pablohidalgojp.medium.com/today-i-learned-dia-10-72a441a80a78?source=rss------data_science-5)
+- [Top 5 Python IDE’s / Editors in 2022!](https://preettheman.medium.com/top-5-python-ides-editors-in-2022-78d3cea21dfc?source=rss------data_science-5)
+- [Building a marketing mix model in R](https://towardsdatascience.com/building-a-marketing-mix-model-in-r-3a7004d21239?source=rss------data_science-5)
+- [Com fiz o meu planejamento de estudos para dados](https://medium.com/@julionosdados/com-fiz-o-meu-planejamento-de-estudos-para-dados-ed4e1c9948ff?source=rss------data_science-5)
+- [Python packages you need to know about in 2022](https://preettheman.medium.com/python-packages-you-need-to-know-about-in-2022-ccaea4f5b41c?source=rss------data_science-5)
+- [The Free Interactive R Courses Most People Don’t Know About](https://towardsdatascience.com/the-free-interactive-r-courses-most-people-dont-know-about-c49aff7e5d4c?source=rss------data_science-5)
+- [O que é Big Data? E porquê é importante?](https://medium.com/@pedrotassi5/o-que-%C3%A9-big-data-e-porqu%C3%AA-%C3%A9-importante-8abe83560bc2?source=rss------data_science-5)
+- [CURP Welcomes Second Cohort this Spring](https://nyudatascience.medium.com/curp-welcomes-second-cohort-this-spring-56d5a57317e1?source=rss------data_science-5)
+- [How to move to the USA to work in data science as a non-USA citizen?](https://dataleon.medium.com/how-to-move-to-the-usa-to-work-in-data-science-as-a-non-usa-citizen-dca7c83a6ae8?source=rss------data_science-5)
+- [If you have to educate your stakeholders on what Data Science is there for, your business doesn’t…](https://medium.com/@datastrategy/if-you-have-to-educate-your-stakeholders-on-what-data-science-is-there-for-your-business-doesnt-42b5f29b8ef2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
