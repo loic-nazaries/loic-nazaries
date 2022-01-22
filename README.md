@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Off To See the Wizard:](https://patrickanastasio.medium.com/off-to-see-the-wizard-38b2b9a4cca7?source=rss------data_science-5)
-- [Today I Learned Dia 11](https://pablohidalgojp.medium.com/today-i-learned-dia-11-501af13618c1?source=rss------data_science-5)
-- [Emily Dickinson and the Meter of Mood: An Experiment in Text Analysis](https://medium.com/@jenlooper/emily-dickinson-and-the-meter-of-mood-an-experiment-in-text-analysis-ff0f6efae290?source=rss------data_science-5)
-- [Discovering what is the best offer and which are the groups on Starbuck data](https://romulloferreira.medium.com/discovering-what-is-the-best-offer-and-which-are-the-groups-on-starbuck-data-8eeb2635f93a?source=rss------data_science-5)
-- [RVN Algorithm](https://medium.com/datascienceray/rvn-algorithm-4a21cd35c63c?source=rss------data_science-5)
-- [Análise Exploratória de Dados do Airbnb: Amsterdã](https://medium.com/@ls5649139/an%C3%A1lise-explorat%C3%B3ria-de-dados-do-airbnb-amsterd%C3%A3-b0a9052219cf?source=rss------data_science-5)
-- [Good Data Citizenship Doesn’t Work](https://towardsdatascience.com/good-data-citizenship-doesnt-work-265f13a37fa5?source=rss------data_science-5)
-- [Generation AI – How Artificial Intelligences changes our minds](https://medium.com/@vbgqscwq/generation-ai-65c00de26c8b?source=rss------data_science-5)
-- [Analyze Medium Account](https://medium.com/datascienceray/analyze-medium-account-98708cb36f6e?source=rss------data_science-5)
-- [Deploy ML Models Anywhere with One Line of Python](https://wallarooai.medium.com/deploy-ml-models-anywhere-with-one-line-of-python-ca413a0cbe07?source=rss------data_science-5)
+- [A Practical Introduction to 10 Regression Algorithms](https://sayahfares.medium.com/a-practical-introduction-to-10-regression-algorithms-3125d38fb360?source=rss------data_science-5)
+- [A Quick Introduction to Bag of Words and TF-IDF](https://towardsdatascience.com/a-quick-introduction-to-bag-of-words-and-tf-idf-fbd3ab84ecbf?source=rss------data_science-5)
+- [Conduit: Streaming Data Integration for Developers](https://medium.com/meroxa/conduit-streaming-data-integration-for-developers-44e98def93bb?source=rss------data_science-5)
+- [Uma análise exploratória de dados do Airbnb: Edimburgo/Escócia.](https://medium.com/@eubrunoosouza/uma-an%C3%A1lise-explorat%C3%B3ria-de-dados-do-airbnb-edimburgo-esc%C3%B3cia-6c539685af24?source=rss------data_science-5)
+- [A common mistake to avoid in Machine Learning projects](https://alexandrerossetolemos.medium.com/a-common-mistake-to-avoid-in-machine-learning-projects-b2f32c1a029d?source=rss------data_science-5)
+- [My Experience on Data Science Bootcamp by TechLabs Stockholm](https://abrahamzetz.medium.com/my-experience-on-data-science-bootcamp-by-techlabs-stockholm-84393dd936e?source=rss------data_science-5)
+- [The English Opening.](https://medium.com/@jalenacharles/the-english-opening-657f9ef721cb?source=rss------data_science-5)
+- [Breakout Confirmation Using the RSI in Python.](https://kaabar-sofien.medium.com/breakout-confirmation-using-the-rsi-in-python-75d0c43dc579?source=rss------data_science-5)
+- [Apaixone-se pelo problema e não pela solução!](https://medium.com/blog-do-zouza/apaixone-se-pelo-problema-e-n%C3%A3o-pela-solu%C3%A7%C3%A3o-6e5b13c89518?source=rss------data_science-5)
+- [Data Pre-Processing &amp; Feature Engineering](https://medium.com/@cerencaglaozturk/data-pre-processing-feature-engineering-e95136d1ea57?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
