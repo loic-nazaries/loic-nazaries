@@ -121,11 +121,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [6 Tricks to Make Python F-strings More Functional](https://towardsdatascience.com/6-tricks-to-make-python-f-strings-more-functional-7b338ca6b7ce?source=rss-2cf6b549448------2)
 - [Are You a Pandas User Who Is Curious About R for Data Analysis? Here Is a Quick Start](https://towardsdatascience.com/are-you-a-pandas-user-who-is-curious-about-r-for-data-analysis-here-is-a-quick-start-1f88bb5d7001?source=rss-2cf6b549448------2)
 - [4 Must-Know Parameters in Python Pandas](https://towardsdatascience.com/4-must-know-parameters-in-python-pandas-6a4e36f6ddaf?source=rss-2cf6b549448------2)
 - [3 Lesser-Known Pandas Functions To Be Used With Groupby](https://towardsdatascience.com/3-lesser-known-pandas-functions-to-be-used-with-groupby-2f971d99d95d?source=rss-2cf6b549448------2)
 - [5 Fundamental Concepts to Understand Big Data Processing with Spark](https://towardsdatascience.com/5-fundamental-concepts-to-understand-big-data-processing-with-spark-f2a6aadb1093?source=rss-2cf6b549448------2)
-- [Self-Taught Data Scientists Fail to Go Deep Enough](https://sonery.medium.com/self-taught-data-scientists-fail-to-go-deep-enough-8dfc939870d6?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
