@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Practical Introduction to 10 Regression Algorithms](https://sayahfares.medium.com/a-practical-introduction-to-10-regression-algorithms-3125d38fb360?source=rss------data_science-5)
-- [A Quick Introduction to Bag of Words and TF-IDF](https://towardsdatascience.com/a-quick-introduction-to-bag-of-words-and-tf-idf-fbd3ab84ecbf?source=rss------data_science-5)
-- [Conduit: Streaming Data Integration for Developers](https://medium.com/meroxa/conduit-streaming-data-integration-for-developers-44e98def93bb?source=rss------data_science-5)
-- [Uma análise exploratória de dados do Airbnb: Edimburgo/Escócia.](https://medium.com/@eubrunoosouza/uma-an%C3%A1lise-explorat%C3%B3ria-de-dados-do-airbnb-edimburgo-esc%C3%B3cia-6c539685af24?source=rss------data_science-5)
-- [A common mistake to avoid in Machine Learning projects](https://alexandrerossetolemos.medium.com/a-common-mistake-to-avoid-in-machine-learning-projects-b2f32c1a029d?source=rss------data_science-5)
-- [My Experience on Data Science Bootcamp by TechLabs Stockholm](https://abrahamzetz.medium.com/my-experience-on-data-science-bootcamp-by-techlabs-stockholm-84393dd936e?source=rss------data_science-5)
-- [The English Opening.](https://medium.com/@jalenacharles/the-english-opening-657f9ef721cb?source=rss------data_science-5)
-- [Breakout Confirmation Using the RSI in Python.](https://kaabar-sofien.medium.com/breakout-confirmation-using-the-rsi-in-python-75d0c43dc579?source=rss------data_science-5)
-- [Apaixone-se pelo problema e não pela solução!](https://medium.com/blog-do-zouza/apaixone-se-pelo-problema-e-n%C3%A3o-pela-solu%C3%A7%C3%A3o-6e5b13c89518?source=rss------data_science-5)
-- [Data Pre-Processing &amp; Feature Engineering](https://medium.com/@cerencaglaozturk/data-pre-processing-feature-engineering-e95136d1ea57?source=rss------data_science-5)
+- [Thanks, Chelsie.](https://ashjurberg.medium.com/thanks-chelsie-fb1e7185b055?source=rss------data_science-5)
+- [Haha- perhaps a bit of both](https://ashjurberg.medium.com/haha-perhaps-a-bit-of-both-765b5a1ffa52?source=rss------data_science-5)
+- [Understanding DBSCAN and Implementation with Python](https://towardsdatascience.com/understanding-dbscan-and-implementation-with-python-5de75a786f9f?source=rss------data_science-5)
+- [Bring your boring plots to life by animating them](https://hgarg01.medium.com/bring-your-boring-plots-to-life-by-animating-them-acbb8b4b5388?source=rss------data_science-5)
+- [A Dangerous Battle for Your Brain Data](https://medium.com/illumination/a-dangerous-battle-for-your-brain-data-7e7d7b8b35a3?source=rss------data_science-5)
+- [Pharo GreenPaper: Tokenomics](https://pharo.medium.com/pharo-greenpaper-tokenomics-75b20fa06d9b?source=rss------data_science-5)
+- [How To Solve The Dartboard Paradox?](https://thewalkingtemple.medium.com/how-to-solve-the-dartboard-paradox-2071d4116370?source=rss------data_science-5)
+- [Zillow: A Machine Learning Failure?](https://medium.com/@donlelef/zillow-a-machine-learning-failure-e6a1fb59316e?source=rss------data_science-5)
+- [Using Apache Spark and big data to predict churn in online services](https://medium.com/@togawamanabu/using-apache-spark-and-big-data-to-predict-churn-in-online-services-9c3513094b0c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
