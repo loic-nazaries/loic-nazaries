@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Thanks, Chelsie.](https://ashjurberg.medium.com/thanks-chelsie-fb1e7185b055?source=rss------data_science-5)
-- [Haha- perhaps a bit of both](https://ashjurberg.medium.com/haha-perhaps-a-bit-of-both-765b5a1ffa52?source=rss------data_science-5)
-- [Understanding DBSCAN and Implementation with Python](https://towardsdatascience.com/understanding-dbscan-and-implementation-with-python-5de75a786f9f?source=rss------data_science-5)
-- [Bring your boring plots to life by animating them](https://hgarg01.medium.com/bring-your-boring-plots-to-life-by-animating-them-acbb8b4b5388?source=rss------data_science-5)
-- [A Dangerous Battle for Your Brain Data](https://medium.com/illumination/a-dangerous-battle-for-your-brain-data-7e7d7b8b35a3?source=rss------data_science-5)
-- [Pharo GreenPaper: Tokenomics](https://pharo.medium.com/pharo-greenpaper-tokenomics-75b20fa06d9b?source=rss------data_science-5)
-- [How To Solve The Dartboard Paradox?](https://thewalkingtemple.medium.com/how-to-solve-the-dartboard-paradox-2071d4116370?source=rss------data_science-5)
-- [Zillow: A Machine Learning Failure?](https://medium.com/@donlelef/zillow-a-machine-learning-failure-e6a1fb59316e?source=rss------data_science-5)
-- [Using Apache Spark and big data to predict churn in online services](https://medium.com/@togawamanabu/using-apache-spark-and-big-data-to-predict-churn-in-online-services-9c3513094b0c?source=rss------data_science-5)
+- [Top 10 Python Uses for 2022](https://medium.com/@dennisyd/top-10-python-uses-for-2022-a10cbfb5f041?source=rss------data_science-5)
+- [Goal Setting in Data Science](https://dnyanesha10.medium.com/goal-setting-in-data-science-7c2d45e77013?source=rss------data_science-5)
+- [Roadmap para iniciantes em dados](https://felipe-lisboa-87782.medium.com/roadmap-para-iniciantes-em-dados-746343f4d8b7?source=rss------data_science-5)
+- [Vaccination reduces COVID cases — Causality or correlation?](https://medium.com/@pfu_53362/vaccination-reduces-covid-cases-causality-or-correlation-3b22645a952c?source=rss------data_science-5)
+- [Your Bias Checklist!](https://dipikajiandani.medium.com/your-bias-checklist-79c560b7bbe0?source=rss------data_science-5)
+- [How I started writing Data Science blog posts: overcoming fear and procrastination](https://towardsdatascience.com/how-i-started-writing-data-science-blog-posts-overcoming-fear-and-procrastination-148a095c7c94?source=rss------data_science-5)
+- [How to Apply Artificial Intelligence to Solve Business Problems](https://towardsdatascience.com/how-to-apply-artificial-intelligence-to-solve-business-problems-2b6fefd2683b?source=rss------data_science-5)
+- [Data Cleaning Features in Spreadsheet](https://medium.com/@anmolpanna/data-cleaning-features-in-spreadsheet-f7c305309569?source=rss------data_science-5)
+- [I was a mom in my 30’s working as a recruiter.](https://medium.com/@kathleen.mary.hernandez/i-was-a-mom-in-my-30s-working-as-a-recruiter-74a02d0df717?source=rss------data_science-5)
+- [LGPD: Conceitos Básicos &amp; Segurança de Dados](https://vagnerzeizer.medium.com/lgpd-conceitos-b%C3%A1sicos-seguran%C3%A7a-de-dados-1a7a75692e6e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
