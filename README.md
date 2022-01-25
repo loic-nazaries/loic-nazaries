@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Top 10 Python Uses for 2022](https://medium.com/@dennisyd/top-10-python-uses-for-2022-a10cbfb5f041?source=rss------data_science-5)
-- [Goal Setting in Data Science](https://dnyanesha10.medium.com/goal-setting-in-data-science-7c2d45e77013?source=rss------data_science-5)
-- [Roadmap para iniciantes em dados](https://felipe-lisboa-87782.medium.com/roadmap-para-iniciantes-em-dados-746343f4d8b7?source=rss------data_science-5)
-- [Vaccination reduces COVID cases — Causality or correlation?](https://medium.com/@pfu_53362/vaccination-reduces-covid-cases-causality-or-correlation-3b22645a952c?source=rss------data_science-5)
-- [Your Bias Checklist!](https://dipikajiandani.medium.com/your-bias-checklist-79c560b7bbe0?source=rss------data_science-5)
-- [How I started writing Data Science blog posts: overcoming fear and procrastination](https://towardsdatascience.com/how-i-started-writing-data-science-blog-posts-overcoming-fear-and-procrastination-148a095c7c94?source=rss------data_science-5)
-- [How to Apply Artificial Intelligence to Solve Business Problems](https://towardsdatascience.com/how-to-apply-artificial-intelligence-to-solve-business-problems-2b6fefd2683b?source=rss------data_science-5)
-- [Data Cleaning Features in Spreadsheet](https://medium.com/@anmolpanna/data-cleaning-features-in-spreadsheet-f7c305309569?source=rss------data_science-5)
-- [I was a mom in my 30’s working as a recruiter.](https://medium.com/@kathleen.mary.hernandez/i-was-a-mom-in-my-30s-working-as-a-recruiter-74a02d0df717?source=rss------data_science-5)
-- [LGPD: Conceitos Básicos &amp; Segurança de Dados](https://vagnerzeizer.medium.com/lgpd-conceitos-b%C3%A1sicos-seguran%C3%A7a-de-dados-1a7a75692e6e?source=rss------data_science-5)
+- [FAIR Paper Review: A ConvNet for the 2020s](https://pub.towardsai.net/fair-paper-review-a-convnet-for-the-2020s-75c9a2206de5?source=rss------data_science-5)
+- [Pandas Functions to Manipulate Textual Data](https://sayahfares.medium.com/pandas-functions-to-manipulate-textual-data-c72bc4bbf82f?source=rss------data_science-5)
+- [DATA SKEPTIC: Energy Forecasting Pipelines](https://blog.myst.ai/data-skeptic-energy-forecasting-pipelines-3823c8eee5b1?source=rss------data_science-5)
+- [These New Coding Jobs Make a Ton Of Money!](https://preettheman.medium.com/these-new-coding-jobs-make-a-ton-of-money-f8dc2d19411b?source=rss------data_science-5)
+- [How Vectors Influence When To Use For While Loops in R programming](https://medium.com/analytics-vidhya/how-vectors-influence-when-to-use-for-while-loops-in-r-programming-23fe8db63b97?source=rss------data_science-5)
+- [Democratizing climate action](https://medium.com/@ruiz.rivera/democratizing-climate-action-db6d84da0c13?source=rss------data_science-5)
+- [5 Advanced Tips on Python Decorators](https://towardsdatascience.com/5-advanced-tips-on-python-decorators-113307d5a92c?source=rss------data_science-5)
+- [The Composite Index Strategy.](https://kaabar-sofien.medium.com/the-composite-index-strategy-44e1b363dc7d?source=rss------data_science-5)
+- [Interesting Spark SQL function](https://ramstkp.medium.com/interesting-spark-sql-function-fc223c603657?source=rss------data_science-5)
+- [The best free certifications for Python developers](https://preettheman.medium.com/the-best-free-certifications-for-python-developers-4e3fc3444bde?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
