@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [FAIR Paper Review: A ConvNet for the 2020s](https://pub.towardsai.net/fair-paper-review-a-convnet-for-the-2020s-75c9a2206de5?source=rss------data_science-5)
-- [Pandas Functions to Manipulate Textual Data](https://sayahfares.medium.com/pandas-functions-to-manipulate-textual-data-c72bc4bbf82f?source=rss------data_science-5)
-- [DATA SKEPTIC: Energy Forecasting Pipelines](https://blog.myst.ai/data-skeptic-energy-forecasting-pipelines-3823c8eee5b1?source=rss------data_science-5)
-- [These New Coding Jobs Make a Ton Of Money!](https://preettheman.medium.com/these-new-coding-jobs-make-a-ton-of-money-f8dc2d19411b?source=rss------data_science-5)
-- [How Vectors Influence When To Use For While Loops in R programming](https://medium.com/analytics-vidhya/how-vectors-influence-when-to-use-for-while-loops-in-r-programming-23fe8db63b97?source=rss------data_science-5)
-- [Democratizing climate action](https://medium.com/@ruiz.rivera/democratizing-climate-action-db6d84da0c13?source=rss------data_science-5)
-- [5 Advanced Tips on Python Decorators](https://towardsdatascience.com/5-advanced-tips-on-python-decorators-113307d5a92c?source=rss------data_science-5)
-- [The Composite Index Strategy.](https://kaabar-sofien.medium.com/the-composite-index-strategy-44e1b363dc7d?source=rss------data_science-5)
-- [Interesting Spark SQL function](https://ramstkp.medium.com/interesting-spark-sql-function-fc223c603657?source=rss------data_science-5)
-- [The best free certifications for Python developers](https://preettheman.medium.com/the-best-free-certifications-for-python-developers-4e3fc3444bde?source=rss------data_science-5)
+- [Effective Teamwork Eliminate Free-Riding](https://medium.com/@ytlei/great-teamwork-eliminate-free-riding-babdeeeb3a27?source=rss------data_science-5)
+- [This Will Help You Navigate the Big Data of Your First Spark Project](https://medium.com/@josepharcila/this-will-help-you-navigate-the-big-data-of-your-first-spark-project-5df3581ea506?source=rss------data_science-5)
+- [Awesome VS Code Extensions For Data Scientists](https://preettheman.medium.com/awesome-vs-code-extensions-for-data-scientists-b770c87226c3?source=rss------data_science-5)
+- [Managing Machine Learning Lifecycles with MLflow](https://kedion.medium.com/managing-machine-learning-lifecycles-with-mlflow-f230a03c4803?source=rss------data_science-5)
+- [Improve These Four Areas to Become A Better Data Storyteller](https://dutchengineer.medium.com/improve-these-four-areas-to-become-a-better-data-story-teller-3285c9f51923?source=rss------data_science-5)
+- [Data is Revolutionizing Multi-family Real Estate](https://medium.com/ml-stories/data-is-revolutionizing-multi-family-real-estate-ad42806b8595?source=rss------data_science-5)
+- [ECDC e COVID-19: cosa è stato fatto?](https://medium.com/@alessandrodebernardis/ecdc-e-covid-19-cosa-%C3%A8-stato-fatto-fde87d9df784?source=rss------data_science-5)
+- [Programming Languages That Will Be Here 10 Years From Now](https://preettheman.medium.com/programming-languages-that-will-be-here-10-years-from-now-9ed24e7f6ff3?source=rss------data_science-5)
+- [What is Computational Thinking and How Can Today’s Kids Benefit From it?](https://medium.com/the-shortform/what-is-computational-thinking-and-how-can-todays-kids-benefit-from-it-5a6aa2516fa7?source=rss------data_science-5)
+- [Here I am, All Alone But Yet Not](https://medium.com/@calaenowenburton/here-i-am-all-alone-but-yet-not-2041402364d0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
