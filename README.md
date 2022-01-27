@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Effective Teamwork Eliminate Free-Riding](https://medium.com/@ytlei/great-teamwork-eliminate-free-riding-babdeeeb3a27?source=rss------data_science-5)
-- [This Will Help You Navigate the Big Data of Your First Spark Project](https://medium.com/@josepharcila/this-will-help-you-navigate-the-big-data-of-your-first-spark-project-5df3581ea506?source=rss------data_science-5)
-- [Awesome VS Code Extensions For Data Scientists](https://preettheman.medium.com/awesome-vs-code-extensions-for-data-scientists-b770c87226c3?source=rss------data_science-5)
-- [Managing Machine Learning Lifecycles with MLflow](https://kedion.medium.com/managing-machine-learning-lifecycles-with-mlflow-f230a03c4803?source=rss------data_science-5)
-- [Improve These Four Areas to Become A Better Data Storyteller](https://dutchengineer.medium.com/improve-these-four-areas-to-become-a-better-data-story-teller-3285c9f51923?source=rss------data_science-5)
-- [Data is Revolutionizing Multi-family Real Estate](https://medium.com/ml-stories/data-is-revolutionizing-multi-family-real-estate-ad42806b8595?source=rss------data_science-5)
-- [ECDC e COVID-19: cosa è stato fatto?](https://medium.com/@alessandrodebernardis/ecdc-e-covid-19-cosa-%C3%A8-stato-fatto-fde87d9df784?source=rss------data_science-5)
-- [Programming Languages That Will Be Here 10 Years From Now](https://preettheman.medium.com/programming-languages-that-will-be-here-10-years-from-now-9ed24e7f6ff3?source=rss------data_science-5)
-- [What is Computational Thinking and How Can Today’s Kids Benefit From it?](https://medium.com/the-shortform/what-is-computational-thinking-and-how-can-todays-kids-benefit-from-it-5a6aa2516fa7?source=rss------data_science-5)
-- [Here I am, All Alone But Yet Not](https://medium.com/@calaenowenburton/here-i-am-all-alone-but-yet-not-2041402364d0?source=rss------data_science-5)
+- [Cleaning Your Data Swamp with a Multidimensional Data Observability Platform](https://acceldataio.medium.com/cleaning-your-data-swamp-with-a-multidimensional-data-observability-platform-5849ec92ff48?source=rss------data_science-5)
+- [Information Theory — Entropy](https://sobhan-shukueian.medium.com/information-theory-entropy-8dd381ebd6b9?source=rss------data_science-5)
+- [Já conhece o Python?](https://medium.com/@gabrielle.llopes/deseja-dar-os-primeiros-passos-na-programa%C3%A7%C3%A3o-aprenda-python-c8c9765a8e29?source=rss------data_science-5)
+- [How to make money with Python](https://preettheman.medium.com/how-to-make-money-with-python-312cb274f211?source=rss------data_science-5)
+- [Why Can’t I Predict Bitcoin? Takens’ Theorem Illustrated using Neural Network Forecasting](https://medium.com/@thomas_lagrange/why-cant-i-predict-bitcoin-takens-theorem-illustrated-using-neural-network-forecasting-5e3d3ed72997?source=rss------data_science-5)
+- [Data Mesh Pattern Deep Dive: Change Data Capture](https://towardsdatascience.com/data-mesh-pattern-deep-dive-change-data-capture-eb3090178c34?source=rss------data_science-5)
+- [Exactly! Especially sex facts!](https://ashjurberg.medium.com/exactly-especially-sex-facts-6b750cf75dc2?source=rss------data_science-5)
+- [Haha. Very true. Hope that doesn&#39;t mean the end of the NYT!](https://ashjurberg.medium.com/haha-very-true-hope-that-doesnt-mean-the-end-of-the-nyt-914a1eb86ac9?source=rss------data_science-5)
+- [A Simple Introduction to Gaussian Mixture Model &lpar;GMM&rpar;](https://towardsdatascience.com/a-simple-introduction-to-gaussian-mixture-model-gmm-f9fe501eef99?source=rss------data_science-5)
+- [Time series data analytics 101](https://medium.com/the-techlife/time-series-data-analytics-101-f01fe87a871c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
