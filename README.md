@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Cleaning Your Data Swamp with a Multidimensional Data Observability Platform](https://acceldataio.medium.com/cleaning-your-data-swamp-with-a-multidimensional-data-observability-platform-5849ec92ff48?source=rss------data_science-5)
-- [Information Theory — Entropy](https://sobhan-shukueian.medium.com/information-theory-entropy-8dd381ebd6b9?source=rss------data_science-5)
-- [Já conhece o Python?](https://medium.com/@gabrielle.llopes/deseja-dar-os-primeiros-passos-na-programa%C3%A7%C3%A3o-aprenda-python-c8c9765a8e29?source=rss------data_science-5)
-- [How to make money with Python](https://preettheman.medium.com/how-to-make-money-with-python-312cb274f211?source=rss------data_science-5)
-- [Why Can’t I Predict Bitcoin? Takens’ Theorem Illustrated using Neural Network Forecasting](https://medium.com/@thomas_lagrange/why-cant-i-predict-bitcoin-takens-theorem-illustrated-using-neural-network-forecasting-5e3d3ed72997?source=rss------data_science-5)
-- [Data Mesh Pattern Deep Dive: Change Data Capture](https://towardsdatascience.com/data-mesh-pattern-deep-dive-change-data-capture-eb3090178c34?source=rss------data_science-5)
-- [Exactly! Especially sex facts!](https://ashjurberg.medium.com/exactly-especially-sex-facts-6b750cf75dc2?source=rss------data_science-5)
-- [Haha. Very true. Hope that doesn&#39;t mean the end of the NYT!](https://ashjurberg.medium.com/haha-very-true-hope-that-doesnt-mean-the-end-of-the-nyt-914a1eb86ac9?source=rss------data_science-5)
-- [A Simple Introduction to Gaussian Mixture Model &lpar;GMM&rpar;](https://towardsdatascience.com/a-simple-introduction-to-gaussian-mixture-model-gmm-f9fe501eef99?source=rss------data_science-5)
-- [Time series data analytics 101](https://medium.com/the-techlife/time-series-data-analytics-101-f01fe87a871c?source=rss------data_science-5)
+- [The Future of Data Science and Parallel Computing](https://medium.com/@gp_pulipaka/the-future-of-data-science-and-parallel-computing-74be6bb29168?source=rss------data_science-5)
+- [Data Science Tool Uses Unsupervised Machine Learning to Cluster Structurally Similar Proteins](https://medium.com/berkeleyischool/data-science-tool-uses-unsupervised-machine-learning-to-cluster-structurally-similar-proteins-cf2e00ccad4e?source=rss------data_science-5)
+- [Most popular Python packages in 2022](https://preettheman.medium.com/most-popular-python-packages-in-2022-e7efc961fdc1?source=rss------data_science-5)
+- [The best MLOps events and conferences for 2022](https://pub.towardsai.net/the-best-mlops-events-and-conferences-for-2022-2f73a1290369?source=rss------data_science-5)
+- [4 ways to make money as a Data Scientist](https://preettheman.medium.com/4-ways-to-make-money-as-a-data-scientist-854e54f4eb9d?source=rss------data_science-5)
+- [Meet NYU’s newest creation: TIM, an AI driven virtual assistant](https://nyudatascience.medium.com/meet-nyus-newest-creation-tim-an-ai-driven-virtual-assistant-62f5948f95cf?source=rss------data_science-5)
+- [How to visualize over 1.000.000 Geo-Values in Google Data Studio](https://medium.com/codex/how-to-visualize-over-1-000-000-geo-values-in-google-data-studio-a54ae3a21c67?source=rss------data_science-5)
+- [Nova epidemija - zavisnosti od telefona](https://medium.com/@IvanTrajkovic1/nova-epidemija-zavisnosti-od-telefona-e6bcb87223aa?source=rss------data_science-5)
+- [Avaliação de diferentes modelos de ML para previsão de renda a partir da base Censo americano](https://medium.com/@gabriele.leao.c/avalia%C3%A7%C3%A3o-de-diferentes-modelos-de-ml-para-previs%C3%A3o-de-renda-a-partir-da-base-censo-americano-2d7ce627f6ec?source=rss------data_science-5)
+- [What’s Important to Your Customers With N-Grams](https://medium.com/@tgow/whats-important-to-your-customers-with-n-grams-703922713522?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
