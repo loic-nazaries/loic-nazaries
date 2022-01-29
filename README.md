@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Future of Data Science and Parallel Computing](https://medium.com/@gp_pulipaka/the-future-of-data-science-and-parallel-computing-74be6bb29168?source=rss------data_science-5)
-- [Data Science Tool Uses Unsupervised Machine Learning to Cluster Structurally Similar Proteins](https://medium.com/berkeleyischool/data-science-tool-uses-unsupervised-machine-learning-to-cluster-structurally-similar-proteins-cf2e00ccad4e?source=rss------data_science-5)
-- [Most popular Python packages in 2022](https://preettheman.medium.com/most-popular-python-packages-in-2022-e7efc961fdc1?source=rss------data_science-5)
-- [The best MLOps events and conferences for 2022](https://pub.towardsai.net/the-best-mlops-events-and-conferences-for-2022-2f73a1290369?source=rss------data_science-5)
-- [4 ways to make money as a Data Scientist](https://preettheman.medium.com/4-ways-to-make-money-as-a-data-scientist-854e54f4eb9d?source=rss------data_science-5)
-- [Meet NYU’s newest creation: TIM, an AI driven virtual assistant](https://nyudatascience.medium.com/meet-nyus-newest-creation-tim-an-ai-driven-virtual-assistant-62f5948f95cf?source=rss------data_science-5)
-- [How to visualize over 1.000.000 Geo-Values in Google Data Studio](https://medium.com/codex/how-to-visualize-over-1-000-000-geo-values-in-google-data-studio-a54ae3a21c67?source=rss------data_science-5)
-- [Nova epidemija - zavisnosti od telefona](https://medium.com/@IvanTrajkovic1/nova-epidemija-zavisnosti-od-telefona-e6bcb87223aa?source=rss------data_science-5)
-- [Avaliação de diferentes modelos de ML para previsão de renda a partir da base Censo americano](https://medium.com/@gabriele.leao.c/avalia%C3%A7%C3%A3o-de-diferentes-modelos-de-ml-para-previs%C3%A3o-de-renda-a-partir-da-base-censo-americano-2d7ce627f6ec?source=rss------data_science-5)
-- [What’s Important to Your Customers With N-Grams](https://medium.com/@tgow/whats-important-to-your-customers-with-n-grams-703922713522?source=rss------data_science-5)
+- [Handling different data types in Machine Learning](https://medium.datadriveninvestor.com/handling-different-data-types-in-machine-learning-8abb5d0dc43a?source=rss------data_science-5)
+- [Rede de Co-Ocorrência Spotify](https://medium.com/@pass_joao/rede-de-co-ocorr%C3%AAncia-spotify-83e3e5b9916c?source=rss------data_science-5)
+- [Sorry, but your charts are boring.](https://medium.com/swlh/sorry-but-your-charts-are-boring-38bedb1738e6?source=rss------data_science-5)
+- [Análise de Rede: Playlists do Spotify](https://medium.com/@paulovanzolinimouradasilva/an%C3%A1lise-de-rede-playlists-do-spotify-b2806ccd8ea5?source=rss------data_science-5)
+- [1 Rule to Transition from Data Scientist to Full-Stack Data Scientist](https://medium.com/swlh/1-rule-to-transition-from-data-scientist-to-full-stack-data-scientist-2c64d55c77c1?source=rss------data_science-5)
+- [What you need to know about airbnb in NYC](https://medium.com/@salmanhossain500/what-you-need-to-know-about-airbnb-in-nyc-92ab935144f6?source=rss------data_science-5)
+- [Por que os dados são importantes para os administradores?](https://medium.com/@julionosdados/por-que-os-dados-s%C3%A3o-importantes-para-os-administradores-5bdfeaf8c085?source=rss------data_science-5)
+- [Udacity Project — Dog Breed Detector](https://medium.com/@miriam.gobel/udacity-project-dog-breed-detector-f1c905b0a49?source=rss------data_science-5)
+- [Visualizing TomTom Traffic Data with Data Science Tools](https://tomtomdevs.medium.com/visualizing-tomtom-traffic-data-with-data-science-tools-7612c7285111?source=rss------data_science-5)
+- [This Amazing Python Graphing Package Is Changing](https://preettheman.medium.com/this-amazing-python-graphing-package-is-changing-cd0735b2bd99?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
