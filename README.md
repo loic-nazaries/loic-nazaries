@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Handling different data types in Machine Learning](https://medium.datadriveninvestor.com/handling-different-data-types-in-machine-learning-8abb5d0dc43a?source=rss------data_science-5)
-- [Rede de Co-Ocorrência Spotify](https://medium.com/@pass_joao/rede-de-co-ocorr%C3%AAncia-spotify-83e3e5b9916c?source=rss------data_science-5)
-- [Sorry, but your charts are boring.](https://medium.com/swlh/sorry-but-your-charts-are-boring-38bedb1738e6?source=rss------data_science-5)
-- [Análise de Rede: Playlists do Spotify](https://medium.com/@paulovanzolinimouradasilva/an%C3%A1lise-de-rede-playlists-do-spotify-b2806ccd8ea5?source=rss------data_science-5)
-- [1 Rule to Transition from Data Scientist to Full-Stack Data Scientist](https://medium.com/swlh/1-rule-to-transition-from-data-scientist-to-full-stack-data-scientist-2c64d55c77c1?source=rss------data_science-5)
-- [What you need to know about airbnb in NYC](https://medium.com/@salmanhossain500/what-you-need-to-know-about-airbnb-in-nyc-92ab935144f6?source=rss------data_science-5)
-- [Por que os dados são importantes para os administradores?](https://medium.com/@julionosdados/por-que-os-dados-s%C3%A3o-importantes-para-os-administradores-5bdfeaf8c085?source=rss------data_science-5)
-- [Udacity Project — Dog Breed Detector](https://medium.com/@miriam.gobel/udacity-project-dog-breed-detector-f1c905b0a49?source=rss------data_science-5)
-- [Visualizing TomTom Traffic Data with Data Science Tools](https://tomtomdevs.medium.com/visualizing-tomtom-traffic-data-with-data-science-tools-7612c7285111?source=rss------data_science-5)
-- [This Amazing Python Graphing Package Is Changing](https://preettheman.medium.com/this-amazing-python-graphing-package-is-changing-cd0735b2bd99?source=rss------data_science-5)
+- [Technology Terms: Bit doesn’t sting it stores](https://medium.com/@shadabnavid/technology-terms-bit-doesnt-sting-it-stores-1a981b2a6f8?source=rss------data_science-5)
+- [How to Convert Index to Column in Pandas](https://gmyrianthous.medium.com/index-to-column-pandas-911cc86a0773?source=rss------data_science-5)
+- [Top 8 SQL Functions to Clean Raw Data](https://towardsdatascience.com/top-8-sql-functions-to-clean-raw-data-2b6141de06a?source=rss------data_science-5)
+- [When Peloton Lost My Data, It Felt Bad](https://michaelbwharton.medium.com/when-peloton-lost-my-data-it-felt-bad-d05f75ccd7fb?source=rss------data_science-5)
+- [Extracting communities from Social Graph Network](https://pub.towardsai.net/extracting-communities-from-social-graph-network-d9213ed9d25a?source=rss------data_science-5)
+- [You’re welcome Freda. Thanks for reading!](https://barbj.medium.com/youre-welcome-freda-thanks-for-reading-7bba0184d6e0?source=rss------data_science-5)
+- [AI is moving faster than we realize. Thanks for reading.](https://barbj.medium.com/ai-is-moving-faster-than-we-realize-thanks-for-reading-1d6dc95553ab?source=rss------data_science-5)
+- [Thank you Freda!! Blessings to you also!](https://barbj.medium.com/thank-you-freda-blessings-to-you-also-8f2d4e44280e?source=rss------data_science-5)
+- [You’re welcome B.R. Thanks for reading. Have great weekend!](https://barbj.medium.com/youre-welcome-b-r-thanks-for-reading-have-great-weekend-bd99b3bf99cb?source=rss------data_science-5)
+- [You’re welcome Freda! Thanks for reading. Have a good weekend!](https://barbj.medium.com/youre-welcome-freda-thanks-for-reading-have-a-good-weekend-7e8268e0a97e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
