@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Technology Terms: Bit doesn’t sting it stores](https://medium.com/@shadabnavid/technology-terms-bit-doesnt-sting-it-stores-1a981b2a6f8?source=rss------data_science-5)
-- [How to Convert Index to Column in Pandas](https://gmyrianthous.medium.com/index-to-column-pandas-911cc86a0773?source=rss------data_science-5)
-- [Top 8 SQL Functions to Clean Raw Data](https://towardsdatascience.com/top-8-sql-functions-to-clean-raw-data-2b6141de06a?source=rss------data_science-5)
-- [When Peloton Lost My Data, It Felt Bad](https://michaelbwharton.medium.com/when-peloton-lost-my-data-it-felt-bad-d05f75ccd7fb?source=rss------data_science-5)
-- [Extracting communities from Social Graph Network](https://pub.towardsai.net/extracting-communities-from-social-graph-network-d9213ed9d25a?source=rss------data_science-5)
-- [You’re welcome Freda. Thanks for reading!](https://barbj.medium.com/youre-welcome-freda-thanks-for-reading-7bba0184d6e0?source=rss------data_science-5)
-- [AI is moving faster than we realize. Thanks for reading.](https://barbj.medium.com/ai-is-moving-faster-than-we-realize-thanks-for-reading-1d6dc95553ab?source=rss------data_science-5)
-- [Thank you Freda!! Blessings to you also!](https://barbj.medium.com/thank-you-freda-blessings-to-you-also-8f2d4e44280e?source=rss------data_science-5)
-- [You’re welcome B.R. Thanks for reading. Have great weekend!](https://barbj.medium.com/youre-welcome-b-r-thanks-for-reading-have-great-weekend-bd99b3bf99cb?source=rss------data_science-5)
-- [You’re welcome Freda! Thanks for reading. Have a good weekend!](https://barbj.medium.com/youre-welcome-freda-thanks-for-reading-have-a-good-weekend-7e8268e0a97e?source=rss------data_science-5)
+- [What are the main elements of the Metaverse and its use cases?](https://medium.com/@abutelecommunicationlab/what-are-the-main-elements-of-the-metaverse-and-its-use-cases-88088faba3a4?source=rss------data_science-5)
+- [Six Lesser-Known Git Commands to Make Your Life Easier](https://arpitfalcon.medium.com/six-lesser-known-git-commands-to-make-your-life-easier-11d20b4114cf?source=rss------data_science-5)
+- [Day 1: Becoming a Data Scientist](https://kirstyh.medium.com/day-1-becoming-a-data-scientist-47ab78299462?source=rss------data_science-5)
+- [How to Set X and y in Pandas](https://medium.com/codex/how-to-set-x-and-y-in-pandas-3f38584e9bed?source=rss------data_science-5)
+- [I have started my own publication about AI &lpar;&amp; Technology&rpar;](https://mostafaibrahim18.medium.com/i-have-started-my-own-publication-about-ai-technology-b2f862e7b514?source=rss------data_science-5)
+- [LGMVIP Data Science Intern](https://medium.com/@paulynamagana/lgmvip-data-science-intern-349b9d194563?source=rss------data_science-5)
+- [Uncovering Data Science Interview Questions asked to me — Part 2](https://medium.com/@mrinalgupta1704/uncovering-data-science-interview-questions-asked-to-me-part-2-22f25fb031c8?source=rss------data_science-5)
+- [Why and Which Database in Machine Learning, MySQL or MongoDB](https://prasantdixit.medium.com/why-and-which-database-in-machine-learning-mysql-or-mongodb-d8e43b29aeb2?source=rss------data_science-5)
+- [Randomness Test — Run Test](https://data-centric-mind.medium.com/randomness-test-run-test-8333a8b956a1?source=rss------data_science-5)
+- [Aspas simples, duplas ou triplas em Python?](https://ealexbarros.medium.com/aspas-simples-duplas-ou-triplas-em-python-22990034c439?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
