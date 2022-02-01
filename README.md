@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What are the main elements of the Metaverse and its use cases?](https://medium.com/@abutelecommunicationlab/what-are-the-main-elements-of-the-metaverse-and-its-use-cases-88088faba3a4?source=rss------data_science-5)
-- [Six Lesser-Known Git Commands to Make Your Life Easier](https://arpitfalcon.medium.com/six-lesser-known-git-commands-to-make-your-life-easier-11d20b4114cf?source=rss------data_science-5)
-- [Day 1: Becoming a Data Scientist](https://kirstyh.medium.com/day-1-becoming-a-data-scientist-47ab78299462?source=rss------data_science-5)
-- [How to Set X and y in Pandas](https://medium.com/codex/how-to-set-x-and-y-in-pandas-3f38584e9bed?source=rss------data_science-5)
-- [I have started my own publication about AI &lpar;&amp; Technology&rpar;](https://mostafaibrahim18.medium.com/i-have-started-my-own-publication-about-ai-technology-b2f862e7b514?source=rss------data_science-5)
-- [LGMVIP Data Science Intern](https://medium.com/@paulynamagana/lgmvip-data-science-intern-349b9d194563?source=rss------data_science-5)
-- [Uncovering Data Science Interview Questions asked to me — Part 2](https://medium.com/@mrinalgupta1704/uncovering-data-science-interview-questions-asked-to-me-part-2-22f25fb031c8?source=rss------data_science-5)
-- [Why and Which Database in Machine Learning, MySQL or MongoDB](https://prasantdixit.medium.com/why-and-which-database-in-machine-learning-mysql-or-mongodb-d8e43b29aeb2?source=rss------data_science-5)
-- [Randomness Test — Run Test](https://data-centric-mind.medium.com/randomness-test-run-test-8333a8b956a1?source=rss------data_science-5)
-- [Aspas simples, duplas ou triplas em Python?](https://ealexbarros.medium.com/aspas-simples-duplas-ou-triplas-em-python-22990034c439?source=rss------data_science-5)
+- [Parte 2 — Como preparar ambiente de programação no Python](https://medium.com/@insights.bi.analytics/parte-2-como-preparar-ambiente-de-programa%C3%A7%C3%A3o-no-python-1fd7379dd73e?source=rss------data_science-5)
+- [What to Expect from AI in 2022](https://medium.com/@adambouras1/what-to-expect-from-ai-in-2022-d4f28e76c9d7?source=rss------data_science-5)
+- [Prediction: Excel Users will need to learn data science to remain relevant](https://paul-trinh.medium.com/prediction-excel-users-will-need-to-learn-data-science-to-remain-relevant-b6539101d333?source=rss------data_science-5)
+- [AWS Data Analytics Specialty Exam Preparation in 3 Weeks](https://medium.com/@chelsea.ip/aws-data-analytics-specialty-exam-preparation-in-3-weeks-bef768c3b9bf?source=rss------data_science-5)
+- [What Are Baseline Models and Benchmarking For Machine Learning, Why We Need Them?](https://pub.towardsai.net/what-are-baseline-models-and-benchmarking-for-machine-learning-why-we-need-them-affe0714cd07?source=rss------data_science-5)
+- [We’ve only scratched the surface of the full potential for the data warehouse](https://towardsdatascience.com/weve-only-scratched-the-surface-of-the-full-potential-for-the-data-warehouse-a53d18aae170?source=rss------data_science-5)
+- [WiMLDS NYC + Cider Personal Branding Workshop](https://medium.com/wimlds-nyc-blog/wimlds-nyc-personal-branding-workshop-5c4bef10ed4a?source=rss------data_science-5)
+- [Natural Language Processing: Do’s and Don’ts](https://medium.com/@josephgeorgelewis2000/natural-language-processing-dos-and-don-ts-b1d3e7181afb?source=rss------data_science-5)
+- [Walmart’s vision of the future](https://medium.com/@desaanalytics/walmarts-vision-of-the-future-61818c0b6ce5?source=rss------data_science-5)
+- [The Challenge Of Interpreting Language in NLP](https://towardsdatascience.com/the-challenge-of-interpreting-language-in-nlp-edf732775870?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
