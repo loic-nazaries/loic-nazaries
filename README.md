@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Parte 2 — Como preparar ambiente de programação no Python](https://medium.com/@insights.bi.analytics/parte-2-como-preparar-ambiente-de-programa%C3%A7%C3%A3o-no-python-1fd7379dd73e?source=rss------data_science-5)
-- [What to Expect from AI in 2022](https://medium.com/@adambouras1/what-to-expect-from-ai-in-2022-d4f28e76c9d7?source=rss------data_science-5)
-- [Prediction: Excel Users will need to learn data science to remain relevant](https://paul-trinh.medium.com/prediction-excel-users-will-need-to-learn-data-science-to-remain-relevant-b6539101d333?source=rss------data_science-5)
-- [AWS Data Analytics Specialty Exam Preparation in 3 Weeks](https://medium.com/@chelsea.ip/aws-data-analytics-specialty-exam-preparation-in-3-weeks-bef768c3b9bf?source=rss------data_science-5)
-- [What Are Baseline Models and Benchmarking For Machine Learning, Why We Need Them?](https://pub.towardsai.net/what-are-baseline-models-and-benchmarking-for-machine-learning-why-we-need-them-affe0714cd07?source=rss------data_science-5)
-- [We’ve only scratched the surface of the full potential for the data warehouse](https://towardsdatascience.com/weve-only-scratched-the-surface-of-the-full-potential-for-the-data-warehouse-a53d18aae170?source=rss------data_science-5)
-- [WiMLDS NYC + Cider Personal Branding Workshop](https://medium.com/wimlds-nyc-blog/wimlds-nyc-personal-branding-workshop-5c4bef10ed4a?source=rss------data_science-5)
-- [Natural Language Processing: Do’s and Don’ts](https://medium.com/@josephgeorgelewis2000/natural-language-processing-dos-and-don-ts-b1d3e7181afb?source=rss------data_science-5)
-- [Walmart’s vision of the future](https://medium.com/@desaanalytics/walmarts-vision-of-the-future-61818c0b6ce5?source=rss------data_science-5)
-- [The Challenge Of Interpreting Language in NLP](https://towardsdatascience.com/the-challenge-of-interpreting-language-in-nlp-edf732775870?source=rss------data_science-5)
+- [K-Means Part 1 —  Concept](https://write-to-express.medium.com/k-means-part-1-concept-788aeb37b367?source=rss------data_science-5)
+- [Airtrace 3.0 — Understanding ADOS &lpar;Airtrace Decentralised Oracle System&rpar; and the need for oracles](https://medium.com/@juliomarqueseman/understanding-ados-airtrace-decentralised-oracle-system-and-the-need-for-oracles-760685a5046e?source=rss------data_science-5)
+- [Como se tornar um Cientista de Dados do absoluto Zero](https://medium.com/@otonielcarvalhojr/como-se-tornar-um-cientista-de-dados-do-absoluto-zero-db4a2070b298?source=rss------data_science-5)
+- [HOW CAN I GET A JOB IN DATA SCIENCE WITHOUT KNOWING EVERYTHING?](https://medium.com/magnidata/how-can-i-get-a-job-in-data-science-without-knowing-everything-fcf5947ed587?source=rss------data_science-5)
+- [Análise Exploratória de Dados do Airbnb — New York City](https://medium.com/@fellipe_ao/an%C3%A1lise-explorat%C3%B3ria-de-dados-do-airbnb-new-york-city-d9e4abbdf67d?source=rss------data_science-5)
+- [4 Pictures of Matrix Multiplication](https://medium.com/geekculture/4-pictures-of-matrix-multiplication-dbe30cb961a9?source=rss------data_science-5)
+- [Would you leave your ice cream choice to destiny?](https://medium.com/@nitin.magima/would-you-leave-your-ice-cream-choice-to-destiny-8b48676133d2?source=rss------data_science-5)
+- [EDA with examples and codes on the Demographic Data](https://medium.com/@samanemami/eda-with-examples-and-codes-on-the-demographic-data-a5ab3427c176?source=rss------data_science-5)
+- [You’re Using Kaggle Wrong](https://jesperdramsch.medium.com/youre-using-kaggle-wrong-50d369721f02?source=rss------data_science-5)
+- [Meet the Researcher with CDS Faculty Fellow Sarah Shugars](https://nyudatascience.medium.com/meet-the-researcher-with-cds-faculty-fellow-sarah-shugars-130740939f62?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
