@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [K-Means Part 1 —  Concept](https://write-to-express.medium.com/k-means-part-1-concept-788aeb37b367?source=rss------data_science-5)
-- [Airtrace 3.0 — Understanding ADOS &lpar;Airtrace Decentralised Oracle System&rpar; and the need for oracles](https://medium.com/@juliomarqueseman/understanding-ados-airtrace-decentralised-oracle-system-and-the-need-for-oracles-760685a5046e?source=rss------data_science-5)
-- [Como se tornar um Cientista de Dados do absoluto Zero](https://medium.com/@otonielcarvalhojr/como-se-tornar-um-cientista-de-dados-do-absoluto-zero-db4a2070b298?source=rss------data_science-5)
-- [HOW CAN I GET A JOB IN DATA SCIENCE WITHOUT KNOWING EVERYTHING?](https://medium.com/magnidata/how-can-i-get-a-job-in-data-science-without-knowing-everything-fcf5947ed587?source=rss------data_science-5)
-- [Análise Exploratória de Dados do Airbnb — New York City](https://medium.com/@fellipe_ao/an%C3%A1lise-explorat%C3%B3ria-de-dados-do-airbnb-new-york-city-d9e4abbdf67d?source=rss------data_science-5)
-- [4 Pictures of Matrix Multiplication](https://medium.com/geekculture/4-pictures-of-matrix-multiplication-dbe30cb961a9?source=rss------data_science-5)
-- [Would you leave your ice cream choice to destiny?](https://medium.com/@nitin.magima/would-you-leave-your-ice-cream-choice-to-destiny-8b48676133d2?source=rss------data_science-5)
-- [EDA with examples and codes on the Demographic Data](https://medium.com/@samanemami/eda-with-examples-and-codes-on-the-demographic-data-a5ab3427c176?source=rss------data_science-5)
-- [You’re Using Kaggle Wrong](https://jesperdramsch.medium.com/youre-using-kaggle-wrong-50d369721f02?source=rss------data_science-5)
-- [Meet the Researcher with CDS Faculty Fellow Sarah Shugars](https://nyudatascience.medium.com/meet-the-researcher-with-cds-faculty-fellow-sarah-shugars-130740939f62?source=rss------data_science-5)
+- [What is AutoML &lpar;Automated Machine Learning&rpar;? — A Brief Overview](https://murat-durmus.medium.com/what-is-automl-automated-machine-learning-a-brief-overview-a3a19c38b5f?source=rss------data_science-5)
+- [Where Does Your Data Come From?](https://benjaminobi.medium.com/where-does-your-data-come-from-9547b5d54634?source=rss------data_science-5)
+- [O que você vai encontrar aqui!](https://medium.com/@rafaelreispires/o-que-voc%C3%AA-vai-encontrar-aqui-7fc277184769?source=rss------data_science-5)
+- [Useful Code Snippets for PySpark](https://towardsdatascience.com/useful-code-snippets-for-pyspark-c0e0c00f0269?source=rss------data_science-5)
+- [An introduction to Data Mining](https://towardsdev.com/an-introduction-to-data-mining-f02f9de17f28?source=rss------data_science-5)
+- [The best free certifications for Data Scientists In 2022](https://preettheman.medium.com/the-best-free-certifications-for-data-scientists-in-2022-c0f2702d3e28?source=rss------data_science-5)
+- [A modern ETL pattern using Prefect’s S3 Storage and Kubernetes runtime](https://medium.com/the-prefect-blog/a-modern-etl-pattern-using-prefects-s3-storage-and-kubernetes-runtime-816a4ed2772c?source=rss------data_science-5)
+- [Regx](https://medium.com/@gopalakrishnabhat/regx-f495680cca92?source=rss------data_science-5)
+- [Is Julia actually right for you?](https://viyaleta.medium.com/is-julia-actually-right-for-you-b2c003d7cddf?source=rss------data_science-5)
+- [Basics of AI](https://medium.com/@Ishah8840/basics-of-ai-fb8491e9d865?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
