@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What is AutoML &lpar;Automated Machine Learning&rpar;? — A Brief Overview](https://murat-durmus.medium.com/what-is-automl-automated-machine-learning-a-brief-overview-a3a19c38b5f?source=rss------data_science-5)
-- [Where Does Your Data Come From?](https://benjaminobi.medium.com/where-does-your-data-come-from-9547b5d54634?source=rss------data_science-5)
-- [O que você vai encontrar aqui!](https://medium.com/@rafaelreispires/o-que-voc%C3%AA-vai-encontrar-aqui-7fc277184769?source=rss------data_science-5)
-- [Useful Code Snippets for PySpark](https://towardsdatascience.com/useful-code-snippets-for-pyspark-c0e0c00f0269?source=rss------data_science-5)
-- [An introduction to Data Mining](https://towardsdev.com/an-introduction-to-data-mining-f02f9de17f28?source=rss------data_science-5)
-- [The best free certifications for Data Scientists In 2022](https://preettheman.medium.com/the-best-free-certifications-for-data-scientists-in-2022-c0f2702d3e28?source=rss------data_science-5)
-- [A modern ETL pattern using Prefect’s S3 Storage and Kubernetes runtime](https://medium.com/the-prefect-blog/a-modern-etl-pattern-using-prefects-s3-storage-and-kubernetes-runtime-816a4ed2772c?source=rss------data_science-5)
-- [Regx](https://medium.com/@gopalakrishnabhat/regx-f495680cca92?source=rss------data_science-5)
-- [Is Julia actually right for you?](https://viyaleta.medium.com/is-julia-actually-right-for-you-b2c003d7cddf?source=rss------data_science-5)
-- [Basics of AI](https://medium.com/@Ishah8840/basics-of-ai-fb8491e9d865?source=rss------data_science-5)
+- [Eu, Cientista](https://medium.com/@wagnerscerqueira/eu-cientista-59c3fc97781a?source=rss------data_science-5)
+- [Awesome PyCharm Extensions For Data Scientists](https://preettheman.medium.com/awesome-pycharm-extensions-for-data-scientists-24749c3e984b?source=rss------data_science-5)
+- [How to open an excel file with multiple sheets in Python?](https://medium.com/@dorislee071091/how-to-open-an-excel-file-with-multiple-sheets-in-python-e3063d406a6d?source=rss------data_science-5)
+- [O primeiro dia, desbravando a ciência de dados](https://medium.com/@williampolita/o-primeiro-dia-desbravando-a-ci%C3%AAncia-de-dados-6b204e6d8cea?source=rss------data_science-5)
+- [Charity’s of New York: Volunteer Analysis](https://medium.com/@sydneythtran/charitys-of-new-york-volunteer-analysis-6401252486aa?source=rss------data_science-5)
+- [The Art in Storytelling with Data](https://medium.com/@kbontrager/the-art-in-storytelling-with-data-3310236a3cc7?source=rss------data_science-5)
+- [My Reading Tips — #1](https://el3um4s.medium.com/my-reading-tips-1-8b8474195a1b?source=rss------data_science-5)
+- [Training RL agents in stable-baselines3 is easy](https://towardsdatascience.com/training-rl-agents-in-stable-baselines3-is-easy-9d01be04c9db?source=rss------data_science-5)
+- [Elastic Workshop](https://pascalth.medium.com/elastic-workshop-bde2dbb84e49?source=rss------data_science-5)
+- [Draft of the Week — Team Vitality vs. SK Gaming &lpar;LoL&rpar;](https://medium.com/the-esports-analyst-club-by-itero-gaming/draft-of-the-week-team-vitality-vs-sk-gaming-lol-3075a763d4e2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
