@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Eu, Cientista](https://medium.com/@wagnerscerqueira/eu-cientista-59c3fc97781a?source=rss------data_science-5)
-- [Awesome PyCharm Extensions For Data Scientists](https://preettheman.medium.com/awesome-pycharm-extensions-for-data-scientists-24749c3e984b?source=rss------data_science-5)
-- [How to open an excel file with multiple sheets in Python?](https://medium.com/@dorislee071091/how-to-open-an-excel-file-with-multiple-sheets-in-python-e3063d406a6d?source=rss------data_science-5)
-- [O primeiro dia, desbravando a ciência de dados](https://medium.com/@williampolita/o-primeiro-dia-desbravando-a-ci%C3%AAncia-de-dados-6b204e6d8cea?source=rss------data_science-5)
-- [Charity’s of New York: Volunteer Analysis](https://medium.com/@sydneythtran/charitys-of-new-york-volunteer-analysis-6401252486aa?source=rss------data_science-5)
-- [The Art in Storytelling with Data](https://medium.com/@kbontrager/the-art-in-storytelling-with-data-3310236a3cc7?source=rss------data_science-5)
-- [My Reading Tips — #1](https://el3um4s.medium.com/my-reading-tips-1-8b8474195a1b?source=rss------data_science-5)
-- [Training RL agents in stable-baselines3 is easy](https://towardsdatascience.com/training-rl-agents-in-stable-baselines3-is-easy-9d01be04c9db?source=rss------data_science-5)
-- [Elastic Workshop](https://pascalth.medium.com/elastic-workshop-bde2dbb84e49?source=rss------data_science-5)
-- [Draft of the Week — Team Vitality vs. SK Gaming &lpar;LoL&rpar;](https://medium.com/the-esports-analyst-club-by-itero-gaming/draft-of-the-week-team-vitality-vs-sk-gaming-lol-3075a763d4e2?source=rss------data_science-5)
+- [Salary Prediction with Machine Learning &lpar;Part 1&rpar;.](https://medium.com/@babatundeoreoluwa35/salary-prediction-with-machine-learning-part-1-d88364ed7d6b?source=rss------data_science-5)
+- [What is stationarity and Why is it important?](https://machinelearningabc.medium.com/what-is-stationarity-and-why-is-it-important-992cbbf89843?source=rss------data_science-5)
+- [Analysis of Prediction Algorithms for House Price Data Set](https://medium.com/@emre97can/analysis-of-prediction-algorithms-for-house-price-data-set-ed22e63e7244?source=rss------data_science-5)
+- [Install Python 3.10 in Linux &lpar;Fedora 34&rpar;](https://medium.com/@yaohan.ke/install-python-3-10-in-linux-fedora-34-958d3aeebf7d?source=rss------data_science-5)
+- [3 Steps to Getting a Job in Data with Zero Experience](https://towardsdatascience.com/3-steps-to-getting-a-job-in-data-with-zero-experience-ccaad96d6477?source=rss------data_science-5)
+- [Effective CPU-intensive GRPC service in Python — Part 1](https://medium.com/@hashemi.soroush/effective-cpu-intensive-grpc-service-in-python-part-1-39fb1a26ae15?source=rss------data_science-5)
+- [How to EasilManage/Install Webdrivers for Selenium](https://lee-rowe.medium.com/how-to-easilmanage-install-webdrivers-for-selenium-c0c7060c8e6f?source=rss------data_science-5)
+- [Liquor Sales Prediction](https://medium.com/@yousefxelbayomi/liquor-sales-prediction-f690ac3eed5b?source=rss------data_science-5)
+- [100 Days of ML Writing](https://medium.com/@thedatanerd/100-days-of-ml-writing-8f5680bcd17e?source=rss------data_science-5)
+- [Machine Learning Cheat Sheet for Data Scientist Interview : Regularization Frequently Asked…](https://medium.com/@kirash_/machine-learning-cheat-sheet-for-data-scientist-interview-regularization-frequently-asked-e6007e89ae58?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
