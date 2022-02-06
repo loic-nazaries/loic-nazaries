@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Salary Prediction with Machine Learning &lpar;Part 1&rpar;.](https://medium.com/@babatundeoreoluwa35/salary-prediction-with-machine-learning-part-1-d88364ed7d6b?source=rss------data_science-5)
-- [What is stationarity and Why is it important?](https://machinelearningabc.medium.com/what-is-stationarity-and-why-is-it-important-992cbbf89843?source=rss------data_science-5)
-- [Analysis of Prediction Algorithms for House Price Data Set](https://medium.com/@emre97can/analysis-of-prediction-algorithms-for-house-price-data-set-ed22e63e7244?source=rss------data_science-5)
-- [Install Python 3.10 in Linux &lpar;Fedora 34&rpar;](https://medium.com/@yaohan.ke/install-python-3-10-in-linux-fedora-34-958d3aeebf7d?source=rss------data_science-5)
-- [3 Steps to Getting a Job in Data with Zero Experience](https://towardsdatascience.com/3-steps-to-getting-a-job-in-data-with-zero-experience-ccaad96d6477?source=rss------data_science-5)
-- [Effective CPU-intensive GRPC service in Python — Part 1](https://medium.com/@hashemi.soroush/effective-cpu-intensive-grpc-service-in-python-part-1-39fb1a26ae15?source=rss------data_science-5)
-- [How to EasilManage/Install Webdrivers for Selenium](https://lee-rowe.medium.com/how-to-easilmanage-install-webdrivers-for-selenium-c0c7060c8e6f?source=rss------data_science-5)
-- [Liquor Sales Prediction](https://medium.com/@yousefxelbayomi/liquor-sales-prediction-f690ac3eed5b?source=rss------data_science-5)
-- [100 Days of ML Writing](https://medium.com/@thedatanerd/100-days-of-ml-writing-8f5680bcd17e?source=rss------data_science-5)
-- [Machine Learning Cheat Sheet for Data Scientist Interview : Regularization Frequently Asked…](https://medium.com/@kirash_/machine-learning-cheat-sheet-for-data-scientist-interview-regularization-frequently-asked-e6007e89ae58?source=rss------data_science-5)
+- [Training Data in Machine Learning](https://medium.com/@GeetikaSh/training-data-in-machine-learning-bde94f3c583d?source=rss------data_science-5)
+- [Intro to Graph Theory](https://medium.com/geekculture/intro-to-graph-theory-e20ec47546bf?source=rss------data_science-5)
+- [A practical Data Visualization exercise: historical weather records](https://ignaciolirio.medium.com/a-practical-data-visualization-exercise-historical-weather-records-31ba8ecdf4a5?source=rss------data_science-5)
+- [Make Jupyter Notebook Looking Fabulous](https://medium.com/@kutay.kayan/make-jupyter-notebook-looking-fabulous-55bfd63f88f?source=rss------data_science-5)
+- [Day 1: Linear Regression](https://medium.com/@thedatanerd/day-1-linear-regression-4816a039a5fa?source=rss------data_science-5)
+- [Let’s Learn: Neural Nets #3 — Activation Functions](https://bradley-stephen-shaw.medium.com/lets-learn-neural-nets-3-activation-functions-c533cd31bf17?source=rss------data_science-5)
+- [How suvivorship bias affects your predictive model](https://medium.com/@nurhidayat86/how-suvivorship-bias-affects-your-predictive-model-bc980e4b5731?source=rss------data_science-5)
+- [Customer Segmentation using K-Means](https://medium.com/@kerem.yucel_12154/customer-segmentation-using-k-means-ead0670b0674?source=rss------data_science-5)
+- [So, you want to be a data &lt;blank space&gt;](https://medium.com/@gary.asmus/so-you-want-to-be-a-data-blank-space-8b9daf0d5e88?source=rss------data_science-5)
+- [Why won’t Neural Networks work if weights are initialized to 0 and work in Linear Model/Regression?](https://srinath95.medium.com/why-wont-neural-networks-work-if-weights-are-initialized-to-0-and-work-in-linear-model-regression-22b3eebe43b6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
