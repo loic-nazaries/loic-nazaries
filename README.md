@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Training Data in Machine Learning](https://medium.com/@GeetikaSh/training-data-in-machine-learning-bde94f3c583d?source=rss------data_science-5)
-- [Intro to Graph Theory](https://medium.com/geekculture/intro-to-graph-theory-e20ec47546bf?source=rss------data_science-5)
-- [A practical Data Visualization exercise: historical weather records](https://ignaciolirio.medium.com/a-practical-data-visualization-exercise-historical-weather-records-31ba8ecdf4a5?source=rss------data_science-5)
-- [Make Jupyter Notebook Looking Fabulous](https://medium.com/@kutay.kayan/make-jupyter-notebook-looking-fabulous-55bfd63f88f?source=rss------data_science-5)
-- [Day 1: Linear Regression](https://medium.com/@thedatanerd/day-1-linear-regression-4816a039a5fa?source=rss------data_science-5)
-- [Let’s Learn: Neural Nets #3 — Activation Functions](https://bradley-stephen-shaw.medium.com/lets-learn-neural-nets-3-activation-functions-c533cd31bf17?source=rss------data_science-5)
-- [How suvivorship bias affects your predictive model](https://medium.com/@nurhidayat86/how-suvivorship-bias-affects-your-predictive-model-bc980e4b5731?source=rss------data_science-5)
-- [Customer Segmentation using K-Means](https://medium.com/@kerem.yucel_12154/customer-segmentation-using-k-means-ead0670b0674?source=rss------data_science-5)
-- [So, you want to be a data &lt;blank space&gt;](https://medium.com/@gary.asmus/so-you-want-to-be-a-data-blank-space-8b9daf0d5e88?source=rss------data_science-5)
-- [Why won’t Neural Networks work if weights are initialized to 0 and work in Linear Model/Regression?](https://srinath95.medium.com/why-wont-neural-networks-work-if-weights-are-initialized-to-0-and-work-in-linear-model-regression-22b3eebe43b6?source=rss------data_science-5)
+- [Why understanding data is so important.](https://medium.com/@jjghavami/why-understanding-data-is-so-important-943af1b7382e?source=rss------data_science-5)
+- [AC資料人才種子計畫-完課心得](https://medium.com/@siang720/ac%E8%B3%87%E6%96%99%E4%BA%BA%E6%89%8D%E7%A8%AE%E5%AD%90%E8%A8%88%E7%95%AB-%E5%AE%8C%E8%AA%B2%E5%BF%83%E5%BE%97-6c8d141f3b4c?source=rss------data_science-5)
+- [The NLP Cypher | 02.06.21](https://quantumstat.medium.com/the-nlp-cypher-02-06-21-3d6e34bc5b15?source=rss------data_science-5)
+- [Analisando os times da NBA em 2022 com a clusterização em K-Means](https://medium.com/@heitorfacini/analisando-os-times-da-nba-em-2022-com-a-clusteriza%C3%A7%C3%A3o-em-k-means-18883326061d?source=rss------data_science-5)
+- [Three decades of Lego — a data science project](https://medium.com/@michaeltosicde/three-decades-of-lego-a-data-science-project-2842c778e088?source=rss------data_science-5)
+- [Elastic Workshop #3 — Scripting Part 1](https://pascalth.medium.com/elastic-workshop-3-scripting-part-1-227828fc1d35?source=rss------data_science-5)
+- [The Mysterious P-Value](https://towardsdatascience.com/the-mysterious-p-value-441b33ce97ae?source=rss------data_science-5)
+- [Customer Segmentation Report for Arvato Financial Solutions](https://medium.com/@flo-wimmer/customer-segmentation-report-for-arvato-financial-solutions-6d13e344ac6d?source=rss------data_science-5)
+- [Easily cluster and display data using a Gaussian Mixture Model in MATLAB](https://neuraljojo.medium.com/easily-cluster-and-display-data-using-a-gaussian-mixture-model-in-matlab-68bdbeb8cd3f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
