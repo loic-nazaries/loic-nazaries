@@ -105,15 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why understanding data is so important.](https://medium.com/@jjghavami/why-understanding-data-is-so-important-943af1b7382e?source=rss------data_science-5)
-- [AC資料人才種子計畫-完課心得](https://medium.com/@siang720/ac%E8%B3%87%E6%96%99%E4%BA%BA%E6%89%8D%E7%A8%AE%E5%AD%90%E8%A8%88%E7%95%AB-%E5%AE%8C%E8%AA%B2%E5%BF%83%E5%BE%97-6c8d141f3b4c?source=rss------data_science-5)
-- [The NLP Cypher | 02.06.21](https://quantumstat.medium.com/the-nlp-cypher-02-06-21-3d6e34bc5b15?source=rss------data_science-5)
-- [Analisando os times da NBA em 2022 com a clusterização em K-Means](https://medium.com/@heitorfacini/analisando-os-times-da-nba-em-2022-com-a-clusteriza%C3%A7%C3%A3o-em-k-means-18883326061d?source=rss------data_science-5)
-- [Three decades of Lego — a data science project](https://medium.com/@michaeltosicde/three-decades-of-lego-a-data-science-project-2842c778e088?source=rss------data_science-5)
-- [Elastic Workshop #3 — Scripting Part 1](https://pascalth.medium.com/elastic-workshop-3-scripting-part-1-227828fc1d35?source=rss------data_science-5)
-- [The Mysterious P-Value](https://towardsdatascience.com/the-mysterious-p-value-441b33ce97ae?source=rss------data_science-5)
-- [Customer Segmentation Report for Arvato Financial Solutions](https://medium.com/@flo-wimmer/customer-segmentation-report-for-arvato-financial-solutions-6d13e344ac6d?source=rss------data_science-5)
-- [Easily cluster and display data using a Gaussian Mixture Model in MATLAB](https://neuraljojo.medium.com/easily-cluster-and-display-data-using-a-gaussian-mixture-model-in-matlab-68bdbeb8cd3f?source=rss------data_science-5)
+- [How to improve algorithmic trading’s win rate by machine learning: Labeling Data](https://medium.com/coinmonks/how-to-improve-algorithmic-tradings-win-rate-by-machine-learning-labeling-data-9186017b5c61?source=rss------data_science-5)
+- [Day 2: Ridge Regression](https://medium.com/@thedatanerd/day-2-ridge-regression-3fab52ca9fd?source=rss------data_science-5)
+- [Exploratory Data Analysis &lpar;EDA&rpar; for beginners — Part I](https://gaganshetty.medium.com/exploratory-data-analysis-eda-for-beginners-part-i-4446628d0847?source=rss------data_science-5)
+- [A evolução do Machine Learning e o mercado de crédito](https://medium.com/powerofdata/a-evolu%C3%A7%C3%A3o-do-machine-learning-e-o-mercado-de-cr%C3%A9dito-21a834b78f25?source=rss------data_science-5)
+- [Anomaly Detection on Multidimensional Data](https://medium.com/@mertcan.coskun1993/anomaly-detection-on-multidimensional-data-5e8e2282f196?source=rss------data_science-5)
+- [Por onde começar em ciência de dados?](https://franciscofoz.medium.com/por-onde-come%C3%A7ar-em-ci%C3%AAncia-de-dados-fe1b55f6ccba?source=rss------data_science-5)
+- [Updates for week 1/31–2/6](https://medium.com/@bigwhitefaceofmarvin/updates-for-week-1-31-2-6-c103f1200828?source=rss------data_science-5)
+- [Springboard: Is It Right For You?](https://blog.devgenius.io/springboard-is-it-right-for-you-3e18bd27aacd?source=rss------data_science-5)
+- [Fantasy EPL GW23 Recap and GW24 Algo Recommendations](https://medium.datadriveninvestor.com/fantasy-epl-gw23-recap-and-gw24-algo-recommendations-88a024ff9102?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
