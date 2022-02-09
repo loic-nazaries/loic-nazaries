@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [If You Are to Learn Only 3 Libraries for Data Science, Learn These.](https://towardsdatascience.com/if-you-are-to-learn-only-3-libraries-for-data-science-learn-these-ce5ba62acf96?source=rss-2cf6b549448------2)
 - [I Wrote 472 Data Science Articles in 2 Years. Here are My 3 Takeaways.](https://towardsdatascience.com/i-wrote-472-data-science-articles-in-2-years-here-are-my-3-takeaways-f13564636e8c?source=rss-2cf6b549448------2)
 - [If I Were to Hire a Data Scientist, I Would Ask These 2 Questions](https://towardsdatascience.com/if-i-were-to-hire-a-data-scientist-i-would-ask-these-2-questions-c85c3624911d?source=rss-2cf6b549448------2)
 - [I Have Been Using Pandas for 3 Years — Here are the 8 Functions I Use the Most](https://towardsdatascience.com/i-have-been-using-pandas-for-3-years-here-are-the-8-functions-i-use-the-most-4e54f4db5656?source=rss-2cf6b549448------2)
 - [5 Examples to Improve Your Data Cleaning Skills with Python Pandas](https://python.plainenglish.io/5-examples-to-improve-your-data-cleaning-skills-with-python-pandas-2bbefd6a66ac?source=rss-2cf6b549448------2)
-- [4 Key Players in Python Data Visualization Ecosystem: Matplotlib, Seaborn, Altair, and Plotly](https://towardsdatascience.com/4-key-players-in-python-data-visualization-ecosystem-matplotlib-seaborn-altair-and-plotly-23ae37a68227?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
