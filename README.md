@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to improve algorithmic trading’s win rate by machine learning: Labeling Data](https://medium.com/coinmonks/how-to-improve-algorithmic-tradings-win-rate-by-machine-learning-labeling-data-9186017b5c61?source=rss------data_science-5)
-- [Day 2: Ridge Regression](https://medium.com/@thedatanerd/day-2-ridge-regression-3fab52ca9fd?source=rss------data_science-5)
-- [Exploratory Data Analysis &lpar;EDA&rpar; for beginners — Part I](https://gaganshetty.medium.com/exploratory-data-analysis-eda-for-beginners-part-i-4446628d0847?source=rss------data_science-5)
-- [A evolução do Machine Learning e o mercado de crédito](https://medium.com/powerofdata/a-evolu%C3%A7%C3%A3o-do-machine-learning-e-o-mercado-de-cr%C3%A9dito-21a834b78f25?source=rss------data_science-5)
-- [Anomaly Detection on Multidimensional Data](https://medium.com/@mertcan.coskun1993/anomaly-detection-on-multidimensional-data-5e8e2282f196?source=rss------data_science-5)
-- [Por onde começar em ciência de dados?](https://franciscofoz.medium.com/por-onde-come%C3%A7ar-em-ci%C3%AAncia-de-dados-fe1b55f6ccba?source=rss------data_science-5)
-- [Updates for week 1/31–2/6](https://medium.com/@bigwhitefaceofmarvin/updates-for-week-1-31-2-6-c103f1200828?source=rss------data_science-5)
-- [Springboard: Is It Right For You?](https://blog.devgenius.io/springboard-is-it-right-for-you-3e18bd27aacd?source=rss------data_science-5)
-- [Fantasy EPL GW23 Recap and GW24 Algo Recommendations](https://medium.datadriveninvestor.com/fantasy-epl-gw23-recap-and-gw24-algo-recommendations-88a024ff9102?source=rss------data_science-5)
+- [O pânico de &lpar;re&rpar;começar](https://medium.com/@Tkml87/o-p%C3%A2nico-de-re-come%C3%A7ar-1001ba2d2e2c?source=rss------data_science-5)
+- [Do Fortran77 à Engenharia de Dados](https://apfurlan.medium.com/do-fortran77-%C3%A0-engenharia-de-dados-77a2ebe80ee6?source=rss------data_science-5)
+- [​Back to school to become a Data Scientist. Is it necessary? [Part 1]](https://medium.com/@DataCanOrg/back-to-school-to-become-a-data-scientist-is-it-necessary-part-1-604595eceefa?source=rss------data_science-5)
+- [These Are The Programming Languages Google Uses In 2022](https://preettheman.medium.com/these-are-the-programming-languages-google-uses-in-2022-95b834db3f4a?source=rss------data_science-5)
+- [How Many Hours Per Week Should Data Professionals Really Dedicate to Learning?](https://medium.com/pipeline-a-data-engineering-resource/how-many-hours-per-week-should-data-professionals-really-dedicate-to-learning-4f425098597a?source=rss------data_science-5)
+- [How to Open a Dataset in Tableau](https://medium.com/tableau101/how-to-open-a-dataset-in-tableau-7c749793bc5a?source=rss------data_science-5)
+- [Best themes for VS Code in 2022!](https://preettheman.medium.com/best-themes-for-vs-code-in-2022-f298d75615a8?source=rss------data_science-5)
+- [Personal Biosignal Project](https://medium.com/mlearning-ai/personal-biosignal-project-271467ea6f9b?source=rss------data_science-5)
+- [The Intersectionality of Sustainability and Technology](https://medium.com/@hannah.schurman1/the-intersectionality-of-sustainability-and-technology-d64152dfed09?source=rss------data_science-5)
+- [AI/ML for Health Tech and Medical Devices: Invest Early in Data Science Infrastructure to Create…](https://medium.com/mercury-data-science/ai-ml-for-health-tech-and-medical-devices-invest-early-in-data-science-infrastructure-to-create-1260c9b31df3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
