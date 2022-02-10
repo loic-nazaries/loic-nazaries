@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [O pânico de &lpar;re&rpar;começar](https://medium.com/@Tkml87/o-p%C3%A2nico-de-re-come%C3%A7ar-1001ba2d2e2c?source=rss------data_science-5)
-- [Do Fortran77 à Engenharia de Dados](https://apfurlan.medium.com/do-fortran77-%C3%A0-engenharia-de-dados-77a2ebe80ee6?source=rss------data_science-5)
-- [​Back to school to become a Data Scientist. Is it necessary? [Part 1]](https://medium.com/@DataCanOrg/back-to-school-to-become-a-data-scientist-is-it-necessary-part-1-604595eceefa?source=rss------data_science-5)
-- [These Are The Programming Languages Google Uses In 2022](https://preettheman.medium.com/these-are-the-programming-languages-google-uses-in-2022-95b834db3f4a?source=rss------data_science-5)
-- [How Many Hours Per Week Should Data Professionals Really Dedicate to Learning?](https://medium.com/pipeline-a-data-engineering-resource/how-many-hours-per-week-should-data-professionals-really-dedicate-to-learning-4f425098597a?source=rss------data_science-5)
-- [How to Open a Dataset in Tableau](https://medium.com/tableau101/how-to-open-a-dataset-in-tableau-7c749793bc5a?source=rss------data_science-5)
-- [Best themes for VS Code in 2022!](https://preettheman.medium.com/best-themes-for-vs-code-in-2022-f298d75615a8?source=rss------data_science-5)
-- [Personal Biosignal Project](https://medium.com/mlearning-ai/personal-biosignal-project-271467ea6f9b?source=rss------data_science-5)
-- [The Intersectionality of Sustainability and Technology](https://medium.com/@hannah.schurman1/the-intersectionality-of-sustainability-and-technology-d64152dfed09?source=rss------data_science-5)
-- [AI/ML for Health Tech and Medical Devices: Invest Early in Data Science Infrastructure to Create…](https://medium.com/mercury-data-science/ai-ml-for-health-tech-and-medical-devices-invest-early-in-data-science-infrastructure-to-create-1260c9b31df3?source=rss------data_science-5)
+- [Tips for Saving Time as a Data Analyst](https://towardsdatascience.com/tips-for-saving-time-as-a-data-analyst-be4c2491068e?source=rss------data_science-5)
+- [Explained: NASA’s Earth Observing Data and Information System](https://medium.com/@madoria/explained-nasas-earth-observing-data-and-information-system-dbd262726586?source=rss------data_science-5)
+- [Analyzing Reddit communities with Python — Part 5: topic modeling](https://tomvannuenen.medium.com/analyzing-reddit-communities-with-python-part-5-topic-modeling-a5b0d119add?source=rss------data_science-5)
+- [Most Popular Editor’s / IDE’s For Scala!](https://preettheman.medium.com/most-popular-editors-ide-s-for-scala-a95db170a108?source=rss------data_science-5)
+- [Explaining Usual Machine Learning Suspects.](https://medium.com/mlearning-ai/explaining-usual-machine-learning-suspects-97f75365b1e?source=rss------data_science-5)
+- [RAPIDS: The Future of GPU Data Science?](https://medium.com/@rishabhkaushal07/rapids-the-future-of-gpu-data-science-9e0524563019?source=rss------data_science-5)
+- [Q#63 Calculating a moving average — using python](https://medium.com/foundational-data-science-interview-questions/q-63-calculating-a-moving-average-using-python-b8af7f0f7067?source=rss------data_science-5)
+- [Amazing Python projects you can build in an hour](https://preettheman.medium.com/amazing-python-projects-you-can-build-in-an-hour-20de66e63129?source=rss------data_science-5)
+- [Bitcoin might well be the next big thing for the finance sector but most people are not really…](https://medium.com/@larrygarnett4/bitcoin-might-well-be-the-next-big-thing-for-the-finance-sector-but-most-people-are-not-really-ccb65bb66a3b?source=rss------data_science-5)
+- [Help With SPSS](https://medium.com/@onlinespssteam/help-with-spss-f90bf82c62e1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
