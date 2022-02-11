@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Tips for Saving Time as a Data Analyst](https://towardsdatascience.com/tips-for-saving-time-as-a-data-analyst-be4c2491068e?source=rss------data_science-5)
-- [Explained: NASA’s Earth Observing Data and Information System](https://medium.com/@madoria/explained-nasas-earth-observing-data-and-information-system-dbd262726586?source=rss------data_science-5)
-- [Analyzing Reddit communities with Python — Part 5: topic modeling](https://tomvannuenen.medium.com/analyzing-reddit-communities-with-python-part-5-topic-modeling-a5b0d119add?source=rss------data_science-5)
-- [Most Popular Editor’s / IDE’s For Scala!](https://preettheman.medium.com/most-popular-editors-ide-s-for-scala-a95db170a108?source=rss------data_science-5)
-- [Explaining Usual Machine Learning Suspects.](https://medium.com/mlearning-ai/explaining-usual-machine-learning-suspects-97f75365b1e?source=rss------data_science-5)
-- [RAPIDS: The Future of GPU Data Science?](https://medium.com/@rishabhkaushal07/rapids-the-future-of-gpu-data-science-9e0524563019?source=rss------data_science-5)
-- [Q#63 Calculating a moving average — using python](https://medium.com/foundational-data-science-interview-questions/q-63-calculating-a-moving-average-using-python-b8af7f0f7067?source=rss------data_science-5)
-- [Amazing Python projects you can build in an hour](https://preettheman.medium.com/amazing-python-projects-you-can-build-in-an-hour-20de66e63129?source=rss------data_science-5)
-- [Bitcoin might well be the next big thing for the finance sector but most people are not really…](https://medium.com/@larrygarnett4/bitcoin-might-well-be-the-next-big-thing-for-the-finance-sector-but-most-people-are-not-really-ccb65bb66a3b?source=rss------data_science-5)
-- [Help With SPSS](https://medium.com/@onlinespssteam/help-with-spss-f90bf82c62e1?source=rss------data_science-5)
+- [Conduit: A leap forward for real-time data integration.](https://medium.com/meroxa/conduit-a-leap-forward-for-real-time-data-integration-67272fe50a84?source=rss------data_science-5)
+- [Decoding Deep Learning: Neural Networks for Regression Part II](https://piexchange.medium.com/decoding-deep-learning-neural-networks-for-regression-part-ii-3ce017de6c69?source=rss------data_science-5)
+- [The Elements Of Data-Centric AI](https://pub.towardsai.net/the-elements-of-data-centric-ai-deacadb60e94?source=rss------data_science-5)
+- [Data Science in our Daily Lives](https://medium.com/@will.j337/data-science-in-our-daily-lives-348ecbe71b24?source=rss------data_science-5)
+- [A review of the most expected altcoins to rise in 2022 &lpar;over 70 sources&rpar;*](https://medium.com/@omerfarukeker/a-review-of-the-most-expected-altcoins-to-rise-in-2022-over-70-sources-1140c35dcd7f?source=rss------data_science-5)
+- [How to create desktop shortcut for Jupyter Notebook on Windows without installing Anaconda](https://medium.com/@aryamitra_chaudhuri/how-to-create-desktop-shortcut-for-jupyter-notebook-on-windows-without-installing-anaconda-abdf8566e8ea?source=rss------data_science-5)
+- [Football Like Never Before](https://medium.com/@adityamanishagrawal/football-like-never-before-45fe48e796a3?source=rss------data_science-5)
+- [Pandas DataFrame to SQL Server in 5 Lines of Code](https://medium.com/@datawithdan/pandas-dataframe-to-sql-server-in-5-lines-of-code-a0ad68d1ba71?source=rss------data_science-5)
+- [Is Natural Language Processing a good career?](https://medium.com/@bedourabed/is-natural-language-processing-a-good-career-29a7fdc9c7e8?source=rss------data_science-5)
+- [The One Place You Can’t Learn SQL? A University](https://medium.com/pipeline-a-data-engineering-resource/the-one-place-you-cant-learn-sql-a-university-2c771102f15a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
