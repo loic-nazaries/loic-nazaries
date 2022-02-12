@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Conduit: A leap forward for real-time data integration.](https://medium.com/meroxa/conduit-a-leap-forward-for-real-time-data-integration-67272fe50a84?source=rss------data_science-5)
-- [Decoding Deep Learning: Neural Networks for Regression Part II](https://piexchange.medium.com/decoding-deep-learning-neural-networks-for-regression-part-ii-3ce017de6c69?source=rss------data_science-5)
-- [The Elements Of Data-Centric AI](https://pub.towardsai.net/the-elements-of-data-centric-ai-deacadb60e94?source=rss------data_science-5)
-- [Data Science in our Daily Lives](https://medium.com/@will.j337/data-science-in-our-daily-lives-348ecbe71b24?source=rss------data_science-5)
-- [A review of the most expected altcoins to rise in 2022 &lpar;over 70 sources&rpar;*](https://medium.com/@omerfarukeker/a-review-of-the-most-expected-altcoins-to-rise-in-2022-over-70-sources-1140c35dcd7f?source=rss------data_science-5)
-- [How to create desktop shortcut for Jupyter Notebook on Windows without installing Anaconda](https://medium.com/@aryamitra_chaudhuri/how-to-create-desktop-shortcut-for-jupyter-notebook-on-windows-without-installing-anaconda-abdf8566e8ea?source=rss------data_science-5)
-- [Football Like Never Before](https://medium.com/@adityamanishagrawal/football-like-never-before-45fe48e796a3?source=rss------data_science-5)
-- [Pandas DataFrame to SQL Server in 5 Lines of Code](https://medium.com/@datawithdan/pandas-dataframe-to-sql-server-in-5-lines-of-code-a0ad68d1ba71?source=rss------data_science-5)
-- [Is Natural Language Processing a good career?](https://medium.com/@bedourabed/is-natural-language-processing-a-good-career-29a7fdc9c7e8?source=rss------data_science-5)
-- [The One Place You Can’t Learn SQL? A University](https://medium.com/pipeline-a-data-engineering-resource/the-one-place-you-cant-learn-sql-a-university-2c771102f15a?source=rss------data_science-5)
+- [Modern Day Data Science:](https://patrickanastasio.medium.com/modern-day-data-science-5a7c086f8519?source=rss------data_science-5)
+- [Most Popular Programming Languages In 2022](https://preettheman.medium.com/most-popular-programming-languages-in-2022-42a6c0f18600?source=rss------data_science-5)
+- [Bitcoin, Transaction Fee Health &lpar;TFH&rpar;](https://srijan-bhushan.medium.com/bitcoin-transaction-fee-health-tfh-358b6fbdbe6f?source=rss------data_science-5)
+- [Bitcoin, Open Source Data](https://srijan-bhushan.medium.com/bitcoin-open-source-data-bdd0b1e26d00?source=rss------data_science-5)
+- [Analisando os dados do Airbnb — Florença](https://medium.com/@wagnerscerqueira/analisando-os-dados-do-airbnb-floren%C3%A7a-2a7e4142f4fe?source=rss------data_science-5)
+- [Deep Dive into Animation Plot with Real-time Data](https://medium.com/sfu-cspmp/deep-dive-into-animation-plot-with-real-time-data-3b54ca10302a?source=rss------data_science-5)
+- [Are you ready for Machine-led Machine Learning? MAML: A Modern Approach to Meta-Learning](https://medium.com/sfu-cspmp/are-you-ready-for-machine-led-machine-learning-maml-a-modern-approach-to-meta-learning-172db4a9c710?source=rss------data_science-5)
+- [So One Time Is Enough?](https://medium.com/@jalenacharles/so-one-time-is-enough-5918d6831d63?source=rss------data_science-5)
+- [DATA TYPES IN PYTHON](https://medium.com/@isuekenco/data-types-in-python-54f15bba0acb?source=rss------data_science-5)
+- [The Python Quants Certificate Program Week 5: DNNs and EWMA Optimization](https://medium.com/@tsferro2/the-python-quants-certificate-program-week-5-bce08227fc57?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
