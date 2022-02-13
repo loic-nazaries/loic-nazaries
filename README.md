@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Modern Day Data Science:](https://patrickanastasio.medium.com/modern-day-data-science-5a7c086f8519?source=rss------data_science-5)
-- [Most Popular Programming Languages In 2022](https://preettheman.medium.com/most-popular-programming-languages-in-2022-42a6c0f18600?source=rss------data_science-5)
-- [Bitcoin, Transaction Fee Health &lpar;TFH&rpar;](https://srijan-bhushan.medium.com/bitcoin-transaction-fee-health-tfh-358b6fbdbe6f?source=rss------data_science-5)
-- [Bitcoin, Open Source Data](https://srijan-bhushan.medium.com/bitcoin-open-source-data-bdd0b1e26d00?source=rss------data_science-5)
-- [Analisando os dados do Airbnb — Florença](https://medium.com/@wagnerscerqueira/analisando-os-dados-do-airbnb-floren%C3%A7a-2a7e4142f4fe?source=rss------data_science-5)
-- [Deep Dive into Animation Plot with Real-time Data](https://medium.com/sfu-cspmp/deep-dive-into-animation-plot-with-real-time-data-3b54ca10302a?source=rss------data_science-5)
-- [Are you ready for Machine-led Machine Learning? MAML: A Modern Approach to Meta-Learning](https://medium.com/sfu-cspmp/are-you-ready-for-machine-led-machine-learning-maml-a-modern-approach-to-meta-learning-172db4a9c710?source=rss------data_science-5)
-- [So One Time Is Enough?](https://medium.com/@jalenacharles/so-one-time-is-enough-5918d6831d63?source=rss------data_science-5)
-- [DATA TYPES IN PYTHON](https://medium.com/@isuekenco/data-types-in-python-54f15bba0acb?source=rss------data_science-5)
-- [The Python Quants Certificate Program Week 5: DNNs and EWMA Optimization](https://medium.com/@tsferro2/the-python-quants-certificate-program-week-5-bce08227fc57?source=rss------data_science-5)
+- [Los Emprendedores Inteligentes tienen la capacidad de ver el mundo de forma más clara que el resto…](https://medium.com/@carlosreyes-balza/los-emprendedores-inteligentes-tienen-la-capacidad-de-ver-el-mundo-de-forma-m%C3%A1s-clara-que-el-resto-c9a62a72747?source=rss------data_science-5)
+- [Powerplay Dominance in the IPL — Part 2](https://medium.com/@deepvision28/powerplay-dominance-in-the-ipl-part-2-fdfcfa42f7b9?source=rss------data_science-5)
+- [Data Lifecycle of Machine Learning Project](https://medium.com/analytics-vidhya/data-lifecycle-of-machine-learning-project-83b2e656911d?source=rss------data_science-5)
+- [ANOVA in R](https://medium.com/@RaharditoDP/anova-in-r-1f495d0fa752?source=rss------data_science-5)
+- [How Hyperlinks Secretly Control the Internet.](https://medium.com/@drfein/how-hyperlinks-secretly-control-the-internet-b75e2778e29a?source=rss------data_science-5)
+- [How I Hacked A Reputed Hacker](https://medium.com/geekculture/how-i-hacked-a-reputed-hacker-6e6b31818d12?source=rss------data_science-5)
+- [Are You Gonna Get The Surgery?Astrology and Crisis Prep](https://jupiterdior.medium.com/are-you-gonna-get-the-surgery-astrology-and-crisis-prep-781bf98ca22d?source=rss------data_science-5)
+- [Twitter scraping without using Twitter API &lpar;2022 Guide&rpar;](https://medium.com/@kevctae/twitter-scraping-without-using-twitter-api-2022-guide-39eaec7ccade?source=rss------data_science-5)
+- [Setting Up a Python Environment on Mac for Data Science](https://onthemarkdata.medium.com/setting-up-a-python-environment-on-mac-for-data-science-eceb5e52c7c4?source=rss------data_science-5)
+- [These Freelance Skills Still Make a Ton Of Money](https://preettheman.medium.com/these-freelance-skills-still-make-a-ton-of-money-aa9a6b9448d0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
