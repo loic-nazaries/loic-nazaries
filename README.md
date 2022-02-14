@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Los Emprendedores Inteligentes tienen la capacidad de ver el mundo de forma más clara que el resto…](https://medium.com/@carlosreyes-balza/los-emprendedores-inteligentes-tienen-la-capacidad-de-ver-el-mundo-de-forma-m%C3%A1s-clara-que-el-resto-c9a62a72747?source=rss------data_science-5)
-- [Powerplay Dominance in the IPL — Part 2](https://medium.com/@deepvision28/powerplay-dominance-in-the-ipl-part-2-fdfcfa42f7b9?source=rss------data_science-5)
-- [Data Lifecycle of Machine Learning Project](https://medium.com/analytics-vidhya/data-lifecycle-of-machine-learning-project-83b2e656911d?source=rss------data_science-5)
-- [ANOVA in R](https://medium.com/@RaharditoDP/anova-in-r-1f495d0fa752?source=rss------data_science-5)
-- [How Hyperlinks Secretly Control the Internet.](https://medium.com/@drfein/how-hyperlinks-secretly-control-the-internet-b75e2778e29a?source=rss------data_science-5)
-- [How I Hacked A Reputed Hacker](https://medium.com/geekculture/how-i-hacked-a-reputed-hacker-6e6b31818d12?source=rss------data_science-5)
-- [Are You Gonna Get The Surgery?Astrology and Crisis Prep](https://jupiterdior.medium.com/are-you-gonna-get-the-surgery-astrology-and-crisis-prep-781bf98ca22d?source=rss------data_science-5)
-- [Twitter scraping without using Twitter API &lpar;2022 Guide&rpar;](https://medium.com/@kevctae/twitter-scraping-without-using-twitter-api-2022-guide-39eaec7ccade?source=rss------data_science-5)
-- [Setting Up a Python Environment on Mac for Data Science](https://onthemarkdata.medium.com/setting-up-a-python-environment-on-mac-for-data-science-eceb5e52c7c4?source=rss------data_science-5)
-- [These Freelance Skills Still Make a Ton Of Money](https://preettheman.medium.com/these-freelance-skills-still-make-a-ton-of-money-aa9a6b9448d0?source=rss------data_science-5)
+- [Understanding customers’ preferences through data: A Starbucks marketing campaign analysis](https://lucasmaretti.medium.com/understanding-customers-preferences-through-data-a-starbucks-marketing-campaign-analysis-9f4d0c056144?source=rss------data_science-5)
+- [I made an AI listen to 200 Ed Sheeran songs and told it to write Valentine’s Day messages](https://imagine-ai.medium.com/i-made-an-ai-listen-to-200-ed-sheeran-songs-and-told-it-to-write-valentines-day-messages-127dc9eb4882?source=rss------data_science-5)
+- [SEGMENTASI, TARGETING, DAN POSITIONING &lpar;STP&rpar; SERTA PENGGUNAAN K-MODES UNTUK PENENTUAN SEGMENTASI](https://medium.com/@rais.sulaiman/segmentasi-targeting-dan-positioning-stp-serta-penggunaan-k-modes-untuk-penentuan-segmentasi-e65131467481?source=rss------data_science-5)
+- [I got the idea of learning Python in the beginning of 2022.](https://medium.com/@namphong_67652/i-got-the-idea-of-learning-python-in-the-beginning-of-2022-70109da3dd31?source=rss------data_science-5)
+- [Nope, Parameters and Arguments are Two Different Things for Functions](https://levelup.gitconnected.com/nope-parameters-and-arguments-are-two-different-things-for-functions-fa35bd321e7d?source=rss------data_science-5)
+- [Multi-Thread Your Winform UI](https://levelup.gitconnected.com/multi-thread-your-winform-ui-f43dccbf3476?source=rss------data_science-5)
+- [SQL windows with examples](https://srijan-bhushan.medium.com/sql-windows-with-examples-fc7585e0ff36?source=rss------data_science-5)
+- [Space Science with Python — A Data Science &amp; Machine Learning Journey](https://levelup.gitconnected.com/space-science-with-python-a-data-science-machine-learning-journey-f383a7fe8511?source=rss------data_science-5)
+- [Medidas de similaridade e dissimilaridade](https://medium.com/@sarahmbs/medidas-de-similaridade-e-dissimilaridade-479f3d5f64c6?source=rss------data_science-5)
+- [How to create Time Series analysis of stocks using python](https://medium.datadriveninvestor.com/how-to-create-time-series-analysis-of-stocks-using-python-59646dc54311?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
