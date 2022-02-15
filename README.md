@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Understanding customers’ preferences through data: A Starbucks marketing campaign analysis](https://lucasmaretti.medium.com/understanding-customers-preferences-through-data-a-starbucks-marketing-campaign-analysis-9f4d0c056144?source=rss------data_science-5)
-- [I made an AI listen to 200 Ed Sheeran songs and told it to write Valentine’s Day messages](https://imagine-ai.medium.com/i-made-an-ai-listen-to-200-ed-sheeran-songs-and-told-it-to-write-valentines-day-messages-127dc9eb4882?source=rss------data_science-5)
-- [SEGMENTASI, TARGETING, DAN POSITIONING &lpar;STP&rpar; SERTA PENGGUNAAN K-MODES UNTUK PENENTUAN SEGMENTASI](https://medium.com/@rais.sulaiman/segmentasi-targeting-dan-positioning-stp-serta-penggunaan-k-modes-untuk-penentuan-segmentasi-e65131467481?source=rss------data_science-5)
-- [I got the idea of learning Python in the beginning of 2022.](https://medium.com/@namphong_67652/i-got-the-idea-of-learning-python-in-the-beginning-of-2022-70109da3dd31?source=rss------data_science-5)
-- [Nope, Parameters and Arguments are Two Different Things for Functions](https://levelup.gitconnected.com/nope-parameters-and-arguments-are-two-different-things-for-functions-fa35bd321e7d?source=rss------data_science-5)
-- [Multi-Thread Your Winform UI](https://levelup.gitconnected.com/multi-thread-your-winform-ui-f43dccbf3476?source=rss------data_science-5)
-- [SQL windows with examples](https://srijan-bhushan.medium.com/sql-windows-with-examples-fc7585e0ff36?source=rss------data_science-5)
-- [Space Science with Python — A Data Science &amp; Machine Learning Journey](https://levelup.gitconnected.com/space-science-with-python-a-data-science-machine-learning-journey-f383a7fe8511?source=rss------data_science-5)
-- [Medidas de similaridade e dissimilaridade](https://medium.com/@sarahmbs/medidas-de-similaridade-e-dissimilaridade-479f3d5f64c6?source=rss------data_science-5)
-- [How to create Time Series analysis of stocks using python](https://medium.datadriveninvestor.com/how-to-create-time-series-analysis-of-stocks-using-python-59646dc54311?source=rss------data_science-5)
+- [Math and Stats for Data Science — Intro](https://medium.com/@jacob_roach/math-and-stats-for-data-science-intro-1022e4864c2e?source=rss------data_science-5)
+- [Data Science Master Program](https://medium.com/@abhiks79966/data-science-master-program-6959f6433529?source=rss------data_science-5)
+- [Using machine learning to focus advisor efforts each week](https://medium.com/@datacheesehead/using-machine-learning-to-focus-advisor-efforts-each-week-73ae944e167?source=rss------data_science-5)
+- [An Even Easier Way for Data Engineers to Append/Truncate in BigQuery](https://medium.com/pipeline-a-data-engineering-resource/an-even-easier-way-for-data-engineers-to-append-truncate-in-bigquery-4e846540df4a?source=rss------data_science-5)
+- [Information Theory Applied to Wordle](https://towardsdatascience.com/information-theory-applied-to-wordle-b63b34a6538e?source=rss------data_science-5)
+- [Networking in Tech: Find Your Dream Data Science Job](https://towardsdatascience.com/networking-in-tech-find-your-dream-data-science-job-4a84260a323c?source=rss------data_science-5)
+- [NVIDIA’s Pay Attention When Required — A Transformer optimization approach](https://medium.com/the-techlife/nvidias-pay-attention-when-required-a-transformer-optimization-approach-ee8aff0aca9?source=rss------data_science-5)
+- [The Most Important Metric for Machine Learning Models](https://towardsdatascience.com/the-most-important-metric-for-machine-learning-models-2c6a4c4b18ad?source=rss------data_science-5)
+- [Facebook &amp; NYU reduce Covid hospital strain — Covid Prognosis Via Self-Supervised Learning](https://medium.com/the-techlife/facebook-nyu-reduce-covid-hospital-strain-covid-prognosis-via-self-supervised-learning-18ddfc35cadc?source=rss------data_science-5)
+- [5 different ways to cross-validate your data](https://medium.com/the-techlife/5-different-ways-to-cross-validate-your-data-376a79b7f205?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
