@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Math and Stats for Data Science — Intro](https://medium.com/@jacob_roach/math-and-stats-for-data-science-intro-1022e4864c2e?source=rss------data_science-5)
-- [Data Science Master Program](https://medium.com/@abhiks79966/data-science-master-program-6959f6433529?source=rss------data_science-5)
-- [Using machine learning to focus advisor efforts each week](https://medium.com/@datacheesehead/using-machine-learning-to-focus-advisor-efforts-each-week-73ae944e167?source=rss------data_science-5)
-- [An Even Easier Way for Data Engineers to Append/Truncate in BigQuery](https://medium.com/pipeline-a-data-engineering-resource/an-even-easier-way-for-data-engineers-to-append-truncate-in-bigquery-4e846540df4a?source=rss------data_science-5)
-- [Information Theory Applied to Wordle](https://towardsdatascience.com/information-theory-applied-to-wordle-b63b34a6538e?source=rss------data_science-5)
-- [Networking in Tech: Find Your Dream Data Science Job](https://towardsdatascience.com/networking-in-tech-find-your-dream-data-science-job-4a84260a323c?source=rss------data_science-5)
-- [NVIDIA’s Pay Attention When Required — A Transformer optimization approach](https://medium.com/the-techlife/nvidias-pay-attention-when-required-a-transformer-optimization-approach-ee8aff0aca9?source=rss------data_science-5)
-- [The Most Important Metric for Machine Learning Models](https://towardsdatascience.com/the-most-important-metric-for-machine-learning-models-2c6a4c4b18ad?source=rss------data_science-5)
-- [Facebook &amp; NYU reduce Covid hospital strain — Covid Prognosis Via Self-Supervised Learning](https://medium.com/the-techlife/facebook-nyu-reduce-covid-hospital-strain-covid-prognosis-via-self-supervised-learning-18ddfc35cadc?source=rss------data_science-5)
-- [5 different ways to cross-validate your data](https://medium.com/the-techlife/5-different-ways-to-cross-validate-your-data-376a79b7f205?source=rss------data_science-5)
+- [Quel est le minimum à connaître sur le Machine Learning ?](https://medium.com/simple-comme-data/quel-est-le-minimum-%C3%A0-conna%C3%AEtre-sur-le-machine-learning-e31d1b5e6b49?source=rss------data_science-5)
+- [How To Benefit From Braess’s Paradox?](https://www.cantorsparadise.com/how-to-benefit-from-braesss-paradox-b29b20d76149?source=rss------data_science-5)
+- [Statistics &lpar;III&rpar; ANOVA in Data Science &amp; Machine Learning](https://jonathan-hui.medium.com/statistics-iii-anova-in-data-science-machine-learning-d811f200e3fb?source=rss------data_science-5)
+- [Introducing Passport Protocol](https://medium.com/@passportprotocol/introducing-passport-protocol-a4106164ab26?source=rss------data_science-5)
+- [Less Software, More Design](https://towardsdatascience.com/less-software-more-design-449175a34e59?source=rss------data_science-5)
+- [硅谷数据科学家岗位哪家工资高，哪家面试题难？揭秘FANNG迥异的面试画风](https://dataapplab.medium.com/%E7%A1%85%E8%B0%B7%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%B2%97%E4%BD%8D%E5%93%AA%E5%AE%B6%E5%B7%A5%E8%B5%84%E9%AB%98-%E5%93%AA%E5%AE%B6%E9%9D%A2%E8%AF%95%E9%A2%98%E9%9A%BE-%E6%8F%AD%E7%A7%98fanng%E8%BF%A5%E5%BC%82%E7%9A%84%E9%9D%A2%E8%AF%95%E7%94%BB%E9%A3%8E-ba7856169cbe?source=rss------data_science-5)
+- [Details of Violinplot and Relplot in Seaborn](https://towardsdatascience.com/details-of-violinplot-and-relplot-in-seaborn-30c63de23a15?source=rss------data_science-5)
+- [Olá Mundo!](https://medium.com/@thigoap/ol%C3%A1-mundo-3afa1f10c1ca?source=rss------data_science-5)
+- [Using Postman to Fetch Twitter API Data](https://medium.com/@cierrabeck422/using-postman-to-fetch-twitter-api-data-afe8ef3f277b?source=rss------data_science-5)
+- [Everything you need to know about using the Twitter Developer API](https://medium.com/@cierrabeck422/everything-you-need-to-know-about-using-the-twitter-developer-api-830f8de75c92?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
