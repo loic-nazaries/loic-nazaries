@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Quel est le minimum à connaître sur le Machine Learning ?](https://medium.com/simple-comme-data/quel-est-le-minimum-%C3%A0-conna%C3%AEtre-sur-le-machine-learning-e31d1b5e6b49?source=rss------data_science-5)
-- [How To Benefit From Braess’s Paradox?](https://www.cantorsparadise.com/how-to-benefit-from-braesss-paradox-b29b20d76149?source=rss------data_science-5)
-- [Statistics &lpar;III&rpar; ANOVA in Data Science &amp; Machine Learning](https://jonathan-hui.medium.com/statistics-iii-anova-in-data-science-machine-learning-d811f200e3fb?source=rss------data_science-5)
-- [Introducing Passport Protocol](https://medium.com/@passportprotocol/introducing-passport-protocol-a4106164ab26?source=rss------data_science-5)
-- [Less Software, More Design](https://towardsdatascience.com/less-software-more-design-449175a34e59?source=rss------data_science-5)
-- [硅谷数据科学家岗位哪家工资高，哪家面试题难？揭秘FANNG迥异的面试画风](https://dataapplab.medium.com/%E7%A1%85%E8%B0%B7%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%B2%97%E4%BD%8D%E5%93%AA%E5%AE%B6%E5%B7%A5%E8%B5%84%E9%AB%98-%E5%93%AA%E5%AE%B6%E9%9D%A2%E8%AF%95%E9%A2%98%E9%9A%BE-%E6%8F%AD%E7%A7%98fanng%E8%BF%A5%E5%BC%82%E7%9A%84%E9%9D%A2%E8%AF%95%E7%94%BB%E9%A3%8E-ba7856169cbe?source=rss------data_science-5)
-- [Details of Violinplot and Relplot in Seaborn](https://towardsdatascience.com/details-of-violinplot-and-relplot-in-seaborn-30c63de23a15?source=rss------data_science-5)
-- [Olá Mundo!](https://medium.com/@thigoap/ol%C3%A1-mundo-3afa1f10c1ca?source=rss------data_science-5)
-- [Using Postman to Fetch Twitter API Data](https://medium.com/@cierrabeck422/using-postman-to-fetch-twitter-api-data-afe8ef3f277b?source=rss------data_science-5)
-- [Everything you need to know about using the Twitter Developer API](https://medium.com/@cierrabeck422/everything-you-need-to-know-about-using-the-twitter-developer-api-830f8de75c92?source=rss------data_science-5)
+- [Building Artificial Sun with Tokamak Plasmas and Deep Reinforcement Learning](https://medium.com/@gp_pulipaka/building-artificial-sun-with-tokamak-plasmas-and-deep-reinforcement-learning-4617ea5cb645?source=rss------data_science-5)
+- [Data Science In Fantasy Football](https://medium.com/@vdubey_76462/data-science-in-fantasy-football-d3857f47f6e7?source=rss------data_science-5)
+- [Coupling Constant Prediction with Machine Learning](https://medium.com/@paulshin17/coupling-constant-prediction-with-machine-learning-7957385027ec?source=rss------data_science-5)
+- [Metadata — To be excited or not, is the question!](https://medium.com/@namithcholappurath/metadata-to-be-excited-or-not-is-the-question-83da81930e2a?source=rss------data_science-5)
+- [Thoughts on Random Forests and Xgboost.](https://medium.com/@tarek.samaali.92/thoughts-on-random-forests-and-xgboost-d041f26a26e2?source=rss------data_science-5)
+- [come ordinare online banconote di prima qualità &lpar;WhatsApp .... +33753797104&rpar;](https://medium.com/@wilsonlincoln/come-ordinare-online-banconote-di-prima-qualit%C3%A0-whatsapp-33753797104-11924ef2e738?source=rss------data_science-5)
+- [Getting Started with Apache Airflow Operators in Elyra](https://medium.com/ibm-data-ai/getting-started-with-apache-airflow-operators-in-elyra-aae882f80c4a?source=rss------data_science-5)
+- [An Awesome Code Editor That Has a Catch](https://preettheman.medium.com/an-awesome-code-editor-that-has-a-catch-e578fd94fea?source=rss------data_science-5)
+- [Data Sources: 1st, 2nd, &amp; 3rd Party](https://medium.com/@zgalloway98/data-sources-1st-2nd-3rd-party-6c38fa8ab0fa?source=rss------data_science-5)
+- [Add CSV import to your Node.js app using UseCSV](https://medium.com/madhash/add-csv-import-to-your-node-js-app-using-usecsv-d0eacd583a34?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
