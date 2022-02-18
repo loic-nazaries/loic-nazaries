@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Building Artificial Sun with Tokamak Plasmas and Deep Reinforcement Learning](https://medium.com/@gp_pulipaka/building-artificial-sun-with-tokamak-plasmas-and-deep-reinforcement-learning-4617ea5cb645?source=rss------data_science-5)
-- [Data Science In Fantasy Football](https://medium.com/@vdubey_76462/data-science-in-fantasy-football-d3857f47f6e7?source=rss------data_science-5)
-- [Coupling Constant Prediction with Machine Learning](https://medium.com/@paulshin17/coupling-constant-prediction-with-machine-learning-7957385027ec?source=rss------data_science-5)
-- [Metadata — To be excited or not, is the question!](https://medium.com/@namithcholappurath/metadata-to-be-excited-or-not-is-the-question-83da81930e2a?source=rss------data_science-5)
-- [Thoughts on Random Forests and Xgboost.](https://medium.com/@tarek.samaali.92/thoughts-on-random-forests-and-xgboost-d041f26a26e2?source=rss------data_science-5)
-- [come ordinare online banconote di prima qualità &lpar;WhatsApp .... +33753797104&rpar;](https://medium.com/@wilsonlincoln/come-ordinare-online-banconote-di-prima-qualit%C3%A0-whatsapp-33753797104-11924ef2e738?source=rss------data_science-5)
-- [Getting Started with Apache Airflow Operators in Elyra](https://medium.com/ibm-data-ai/getting-started-with-apache-airflow-operators-in-elyra-aae882f80c4a?source=rss------data_science-5)
-- [An Awesome Code Editor That Has a Catch](https://preettheman.medium.com/an-awesome-code-editor-that-has-a-catch-e578fd94fea?source=rss------data_science-5)
-- [Data Sources: 1st, 2nd, &amp; 3rd Party](https://medium.com/@zgalloway98/data-sources-1st-2nd-3rd-party-6c38fa8ab0fa?source=rss------data_science-5)
-- [Add CSV import to your Node.js app using UseCSV](https://medium.com/madhash/add-csv-import-to-your-node-js-app-using-usecsv-d0eacd583a34?source=rss------data_science-5)
+- [Formal Jobs in Mexico](https://carreoncerda.medium.com/formal-jobs-in-mexico-9ece993f2d05?source=rss------data_science-5)
+- [The Medium Partner Program Changes are a Bummer](https://medium.com/@djcunningham0/the-medium-partner-program-requirements-are-a-bummer-302f724e7900?source=rss------data_science-5)
+- [What is Edge AI?](https://nnitiwe.medium.com/what-is-edge-ai-ce07b828bd44?source=rss------data_science-5)
+- [Is QuickSight doing its job?](https://towardsdatascience.com/is-quicksight-doing-its-job-47258fea38a7?source=rss------data_science-5)
+- [You Need To Use This New Terminal!](https://preettheman.medium.com/you-need-to-use-this-new-terminal-d66a1bc2c720?source=rss------data_science-5)
+- [Discovering Powerful Data: The Guardian News API into Python &lpar;for NLP&rpar;](https://medium.com/@adrian.causby15/discovering-powerful-data-the-guardian-news-api-into-python-for-nlp-1829b568fb0f?source=rss------data_science-5)
+- [Quantifying Gentrification: Understanding Volatility in the Housing Market](https://medium.com/@noahiz917/quantifying-gentrification-understanding-volatility-in-the-housing-market-68f937ba8bb8?source=rss------data_science-5)
+- [SQL scripting: Live in Snowflake](https://hoffa.medium.com/sql-scripting-live-in-snowflake-288ef8c272fa?source=rss------data_science-5)
+- [WHAT ARE THE BEST ONLINE COURSES ON HOW TO USE STATISTICS ON REAL-LIFE DATA?](https://medium.com/magnidata/what-are-the-best-online-courses-on-how-to-use-statistics-on-real-life-data-2aed3f58db5f?source=rss------data_science-5)
+- [大厂”相亲”新套路:Meta/Tinder面试只看LinkedIn? 想”牵手成功”得先学会这几招…](https://laioffer.medium.com/%E5%A4%A7%E5%8E%82-%E7%9B%B8%E4%BA%B2-%E6%96%B0%E5%A5%97%E8%B7%AF-meta-tinder%E9%9D%A2%E8%AF%95%E5%8F%AA%E7%9C%8Blinkedin-%E6%83%B3-%E7%89%B5%E6%89%8B%E6%88%90%E5%8A%9F-%E5%BE%97%E5%85%88%E5%AD%A6%E4%BC%9A%E8%BF%99%E5%87%A0%E6%8B%9B-f8b3d2f5361?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
