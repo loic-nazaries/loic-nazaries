@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Ethics of creativity: is it the same for scientists, engineers or other creative professions?](https://alexmikhalev.medium.com/ethics-of-creativity-is-it-the-same-for-scientists-engineers-or-other-creative-professions-a4bd41729e67?source=rss------data_science-5)
-- [How I Learned Data Science at 50](https://datascientistdad.medium.com/how-i-learned-data-science-at-50-5ba91fed8b44?source=rss------data_science-5)
-- [Understanding the main classification metrics in machine learning](https://lucasvittal.medium.com/understanding-the-main-classification-metrics-in-machine-learning-a32df663c0d0?source=rss------data_science-5)
-- [Decision Trees — First step towards Classification!](https://kritisrivastava2801.medium.com/decision-trees-first-step-towards-classification-b531018e3ebc?source=rss------data_science-5)
-- [CrypNote สิ่งที่จะมาสร้างทางเลือกใหม่ให้คุณสู่โลกการเขียนเพื่อสร้างรายได้](https://medium.com/@prachanadee/crypnote-%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%88%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%94%E0%B9%89-b6350372186b?source=rss------data_science-5)
-- [Indicação de livros para Data Science](https://medium.com/@andre-carmo02/indica%C3%A7%C3%A3o-de-livros-para-data-science-92927c747beb?source=rss------data_science-5)
-- [D4S Sunday Briefing #142](https://medium.data4sci.com/d4s-sunday-briefing-142-e0fe9894d0eb?source=rss------data_science-5)
-- [What factors are correlated with vaccination rates?](https://medium.com/@wander_wonder/what-factors-are-correlated-with-vaccination-rates-339ad92cefde?source=rss------data_science-5)
-- [【課程評價】110–1 顏佐榕 資料科學計算](https://medium.com/martins-blog/data-science-computation-ee35b30e75d5?source=rss------data_science-5)
-- [Analysis of the weather from Brazil in the year 2021](https://medium.com/@alexkeila/analysis-of-the-weather-from-brazil-in-the-year-2021-9b28c5c839e?source=rss------data_science-5)
+- [Extracting LaunchBox’s Video Game Metadata: Getting Data of Video Games](https://thatdatascienceguy.medium.com/extracting-launchboxs-video-game-metadata-getting-data-of-video-games-d900c3470c79?source=rss------data_science-5)
+- [The State of Data Analytics Today and What You Can Do About It](https://towardsdatascience.com/the-state-of-data-analytics-today-and-what-you-can-do-about-it-adcc0e476668?source=rss------data_science-5)
+- [5 tips to start a career in data](https://towardsdatascience.com/5-tips-to-start-a-career-in-data-211ad15a7ca8?source=rss------data_science-5)
+- [The Sequence Scope: DeepMind’s Push Into Real World ML](https://jrodthoughts.medium.com/the-sequence-scope-deepminds-push-into-real-world-ml-eaabf2759ecf?source=rss------data_science-5)
+- [Week #5 in Machine Learning](https://3liud.medium.com/week-5-in-machine-learning-234872264873?source=rss------data_science-5)
+- [Vancouver Crime Situation: 2003 — 2017](https://medium.com/@iwuoha_s/vancouver-crime-situation-2003-2017-be2e98dc805e?source=rss------data_science-5)
+- [Building a Reliable Server/Website](https://medium.com/the-techlife/building-a-reliable-server-website-5ab354e18cf0?source=rss------data_science-5)
+- [How to Design a Scalable System/Website](https://medium.com/the-techlife/how-to-design-a-scalable-system-website-6dde44dddd8a?source=rss------data_science-5)
+- [Classsificação de Iris com SVM em Python](https://medium.com/@profalandiego/classsifica%C3%A7%C3%A3o-de-iris-com-svm-em-python-b9c7abcb57c1?source=rss------data_science-5)
+- [Numpy no Python](https://medium.com/@podesermp/numpy-no-python-9a00c124bad5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
