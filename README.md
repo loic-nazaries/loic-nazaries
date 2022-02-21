@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Extracting LaunchBox’s Video Game Metadata: Getting Data of Video Games](https://thatdatascienceguy.medium.com/extracting-launchboxs-video-game-metadata-getting-data-of-video-games-d900c3470c79?source=rss------data_science-5)
-- [The State of Data Analytics Today and What You Can Do About It](https://towardsdatascience.com/the-state-of-data-analytics-today-and-what-you-can-do-about-it-adcc0e476668?source=rss------data_science-5)
-- [5 tips to start a career in data](https://towardsdatascience.com/5-tips-to-start-a-career-in-data-211ad15a7ca8?source=rss------data_science-5)
-- [The Sequence Scope: DeepMind’s Push Into Real World ML](https://jrodthoughts.medium.com/the-sequence-scope-deepminds-push-into-real-world-ml-eaabf2759ecf?source=rss------data_science-5)
-- [Week #5 in Machine Learning](https://3liud.medium.com/week-5-in-machine-learning-234872264873?source=rss------data_science-5)
-- [Vancouver Crime Situation: 2003 — 2017](https://medium.com/@iwuoha_s/vancouver-crime-situation-2003-2017-be2e98dc805e?source=rss------data_science-5)
-- [Building a Reliable Server/Website](https://medium.com/the-techlife/building-a-reliable-server-website-5ab354e18cf0?source=rss------data_science-5)
-- [How to Design a Scalable System/Website](https://medium.com/the-techlife/how-to-design-a-scalable-system-website-6dde44dddd8a?source=rss------data_science-5)
-- [Classsificação de Iris com SVM em Python](https://medium.com/@profalandiego/classsifica%C3%A7%C3%A3o-de-iris-com-svm-em-python-b9c7abcb57c1?source=rss------data_science-5)
-- [Numpy no Python](https://medium.com/@podesermp/numpy-no-python-9a00c124bad5?source=rss------data_science-5)
+- [A Humanities, International Student’s Journey into the World of Data Science](https://towardsdatascience.com/a-humanities-international-students-journey-into-the-world-of-data-science-fe054417d3d8?source=rss------data_science-5)
+- [Data Warehouses](https://medium.com/@corymaklin/data-warehouses-98c9d3788159?source=rss------data_science-5)
+- [Analysing Data from Airbnb Listings In Sydney](https://medium.com/binary-coffee/analysing-data-from-airbnb-listings-in-sydney-388dce0dc4b3?source=rss------data_science-5)
+- [Starbucks Capstone](https://andrewangeles-17598.medium.com/starbucks-capstone-8a7f55060e47?source=rss------data_science-5)
+- [Setting my Data Science Foundation](https://medium.com/@andreameyer23/setting-my-data-science-foundation-4b1a41284b76?source=rss------data_science-5)
+- [Use Single Responsibility to improves your Machine Learning Pipelines](https://machine-learning-made-simple.medium.com/use-single-responsibility-to-improves-your-machine-learning-pipelines-e724e153680f?source=rss------data_science-5)
+- [Most Common Python Error Types in Data Science](https://towardsdatascience.com/most-common-error-types-in-data-science-396f9ebda40f?source=rss------data_science-5)
+- [Why You Need to Learn Data Science and Machine Learning](https://skillovillaofficial.medium.com/why-you-need-to-learn-data-science-and-machine-learning-c5be8f2215ad?source=rss------data_science-5)
+- [Starbucks Offers Prediction](https://medium.com/@wayle1419/starbucks-offers-prediction-b1cbbdacddd1?source=rss------data_science-5)
+- [What is Data Science?](https://learnbywriting.medium.com/what-is-data-science-80b7369405dd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
