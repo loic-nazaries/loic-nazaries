@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Humanities, International Student’s Journey into the World of Data Science](https://towardsdatascience.com/a-humanities-international-students-journey-into-the-world-of-data-science-fe054417d3d8?source=rss------data_science-5)
-- [Data Warehouses](https://medium.com/@corymaklin/data-warehouses-98c9d3788159?source=rss------data_science-5)
-- [Analysing Data from Airbnb Listings In Sydney](https://medium.com/binary-coffee/analysing-data-from-airbnb-listings-in-sydney-388dce0dc4b3?source=rss------data_science-5)
-- [Starbucks Capstone](https://andrewangeles-17598.medium.com/starbucks-capstone-8a7f55060e47?source=rss------data_science-5)
-- [Setting my Data Science Foundation](https://medium.com/@andreameyer23/setting-my-data-science-foundation-4b1a41284b76?source=rss------data_science-5)
-- [Use Single Responsibility to improves your Machine Learning Pipelines](https://machine-learning-made-simple.medium.com/use-single-responsibility-to-improves-your-machine-learning-pipelines-e724e153680f?source=rss------data_science-5)
-- [Most Common Python Error Types in Data Science](https://towardsdatascience.com/most-common-error-types-in-data-science-396f9ebda40f?source=rss------data_science-5)
-- [Why You Need to Learn Data Science and Machine Learning](https://skillovillaofficial.medium.com/why-you-need-to-learn-data-science-and-machine-learning-c5be8f2215ad?source=rss------data_science-5)
-- [Starbucks Offers Prediction](https://medium.com/@wayle1419/starbucks-offers-prediction-b1cbbdacddd1?source=rss------data_science-5)
-- [What is Data Science?](https://learnbywriting.medium.com/what-is-data-science-80b7369405dd?source=rss------data_science-5)
+- [A/B Testing, calculating lift rate of a test](https://henrykpano.medium.com/a-b-testing-calculating-lift-rate-of-a-test-3d071514deb4?source=rss------data_science-5)
+- [Using graph theory to design experiments](https://medium.com/@rohitpandey576/using-graph-theory-to-design-experiments-145f24875281?source=rss------data_science-5)
+- [The Great Upgrade](https://medium.com/how-to-lead-in-data-science/the-great-upgrade-7a2f127aa57d?source=rss------data_science-5)
+- [A Data science project: What makes a LinkedIn post good?](https://medium.com/@jeremyarancio/a-data-science-project-what-makes-a-linkedin-post-good-52604fad9720?source=rss------data_science-5)
+- [Proposing AI Platform as a Product](https://towardsdatascience.com/proposing-ai-platform-as-a-product-18f38ed7c099?source=rss------data_science-5)
+- [How I Began My Bioinformatics Journey](https://medium.com/@omadeyemo/how-i-began-my-bioinformatics-journey-89c8e7f710b3?source=rss------data_science-5)
+- [Building a movie recommendation engine with basic NLP](https://alejandro-gc.medium.com/learn-basic-nlp-building-a-movie-recommendation-engine-1d4b3c34cbe5?source=rss------data_science-5)
+- [I agree it isn&#39;t much but it’s better than nothing.](https://ashjurberg.medium.com/i-agree-it-isnt-much-but-its-better-than-nothing-9effa47f8f9a?source=rss------data_science-5)
+- [Predicting Pulsar Star using Data Science](https://usernamejack.medium.com/predicting-pulsar-star-using-data-science-b49adeb924ad?source=rss------data_science-5)
+- [How Accurately Do You Understand the World?](https://medium.com/world-equality-project/how-accurately-do-you-understand-the-world-b3d8fae0b565?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
