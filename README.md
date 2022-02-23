@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A/B Testing, calculating lift rate of a test](https://henrykpano.medium.com/a-b-testing-calculating-lift-rate-of-a-test-3d071514deb4?source=rss------data_science-5)
-- [Using graph theory to design experiments](https://medium.com/@rohitpandey576/using-graph-theory-to-design-experiments-145f24875281?source=rss------data_science-5)
-- [The Great Upgrade](https://medium.com/how-to-lead-in-data-science/the-great-upgrade-7a2f127aa57d?source=rss------data_science-5)
-- [A Data science project: What makes a LinkedIn post good?](https://medium.com/@jeremyarancio/a-data-science-project-what-makes-a-linkedin-post-good-52604fad9720?source=rss------data_science-5)
-- [Proposing AI Platform as a Product](https://towardsdatascience.com/proposing-ai-platform-as-a-product-18f38ed7c099?source=rss------data_science-5)
-- [How I Began My Bioinformatics Journey](https://medium.com/@omadeyemo/how-i-began-my-bioinformatics-journey-89c8e7f710b3?source=rss------data_science-5)
-- [Building a movie recommendation engine with basic NLP](https://alejandro-gc.medium.com/learn-basic-nlp-building-a-movie-recommendation-engine-1d4b3c34cbe5?source=rss------data_science-5)
-- [I agree it isn&#39;t much but it’s better than nothing.](https://ashjurberg.medium.com/i-agree-it-isnt-much-but-its-better-than-nothing-9effa47f8f9a?source=rss------data_science-5)
-- [Predicting Pulsar Star using Data Science](https://usernamejack.medium.com/predicting-pulsar-star-using-data-science-b49adeb924ad?source=rss------data_science-5)
-- [How Accurately Do You Understand the World?](https://medium.com/world-equality-project/how-accurately-do-you-understand-the-world-b3d8fae0b565?source=rss------data_science-5)
+- [What can we learn from the most popular Kaggle competition ?](https://medium.com/cultigo/what-can-we-learn-from-the-most-popular-kaggle-competition-c7955045fd7e?source=rss------data_science-5)
+- [The Best Python IDE I’ve Ever Used](https://preettheman.medium.com/the-best-python-ide-ive-ever-used-ab120aeccd0f?source=rss------data_science-5)
+- [Dashboard em tempo real no Microsoft Power BI usando base de dados do MySQL](https://medium.com/@maricae26/dashboard-em-tempo-real-no-microsoft-power-bi-usando-base-de-dados-do-mysql-c05a6de4b466?source=rss------data_science-5)
+- [Four Mistakes Data Analyst Beginners Do](https://ashfia.medium.com/four-mistakes-data-analyst-beginners-do-4d7438543c64?source=rss------data_science-5)
+- [Análise das performances de algorítimos de machine learning na previsão do preço do contrato futuro…](https://bistonnunes.medium.com/an%C3%A1lise-das-performances-de-algor%C3%ADtimos-de-machine-learning-na-previs%C3%A3o-do-pre%C3%A7o-do-contrato-futuro-e5a674f25066?source=rss------data_science-5)
+- [How to download and explore movie data](https://towardsdatascience.com/how-to-download-and-explore-movie-data-1948a887c530?source=rss------data_science-5)
+- [Bay Wheels Bike-Share Ridership Data Analysis](https://medium.com/@konstantin.voronin/bay-wheels-bike-share-ridership-data-analysis-35f6a8f967c4?source=rss------data_science-5)
+- [This Stanford Seminar Might Redefine The Future of Web Scraping for Data Science](https://medium.com/geekculture/this-stanford-seminar-might-redefine-the-future-of-web-scraping-for-data-science-ab5784497363?source=rss------data_science-5)
+- [5 Deep Learning Books for Beginners That’ll Get You Started in No Time](https://medium.com/imagescv/5-deep-learning-books-for-beginners-thatll-get-you-started-in-no-time-2714c68f4054?source=rss------data_science-5)
+- [Why You Should Consider a Data Science Career in 2022](https://liu-111.medium.com/why-you-should-consider-a-data-science-career-in-2022-b67f6232cf86?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
