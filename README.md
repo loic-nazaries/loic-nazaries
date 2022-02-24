@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What can we learn from the most popular Kaggle competition ?](https://medium.com/cultigo/what-can-we-learn-from-the-most-popular-kaggle-competition-c7955045fd7e?source=rss------data_science-5)
-- [The Best Python IDE I’ve Ever Used](https://preettheman.medium.com/the-best-python-ide-ive-ever-used-ab120aeccd0f?source=rss------data_science-5)
-- [Dashboard em tempo real no Microsoft Power BI usando base de dados do MySQL](https://medium.com/@maricae26/dashboard-em-tempo-real-no-microsoft-power-bi-usando-base-de-dados-do-mysql-c05a6de4b466?source=rss------data_science-5)
-- [Four Mistakes Data Analyst Beginners Do](https://ashfia.medium.com/four-mistakes-data-analyst-beginners-do-4d7438543c64?source=rss------data_science-5)
-- [Análise das performances de algorítimos de machine learning na previsão do preço do contrato futuro…](https://bistonnunes.medium.com/an%C3%A1lise-das-performances-de-algor%C3%ADtimos-de-machine-learning-na-previs%C3%A3o-do-pre%C3%A7o-do-contrato-futuro-e5a674f25066?source=rss------data_science-5)
-- [How to download and explore movie data](https://towardsdatascience.com/how-to-download-and-explore-movie-data-1948a887c530?source=rss------data_science-5)
-- [Bay Wheels Bike-Share Ridership Data Analysis](https://medium.com/@konstantin.voronin/bay-wheels-bike-share-ridership-data-analysis-35f6a8f967c4?source=rss------data_science-5)
-- [This Stanford Seminar Might Redefine The Future of Web Scraping for Data Science](https://medium.com/geekculture/this-stanford-seminar-might-redefine-the-future-of-web-scraping-for-data-science-ab5784497363?source=rss------data_science-5)
-- [5 Deep Learning Books for Beginners That’ll Get You Started in No Time](https://medium.com/imagescv/5-deep-learning-books-for-beginners-thatll-get-you-started-in-no-time-2714c68f4054?source=rss------data_science-5)
-- [Why You Should Consider a Data Science Career in 2022](https://liu-111.medium.com/why-you-should-consider-a-data-science-career-in-2022-b67f6232cf86?source=rss------data_science-5)
+- [Who should Manchester United scout?](https://medium.com/@rrrohit/who-should-manchester-united-scout-f59346a910f5?source=rss------data_science-5)
+- [DevOps](https://pub.towardsai.net/devops-639e377fffc5?source=rss------data_science-5)
+- [Como fazer uma análise exploratória com dados do Airbnb ?](https://medium.com/@leandro.starke/como-fazer-uma-an%C3%A1lise-explorat%C3%B3ria-com-dados-do-airbnb-a1ea8be037b4?source=rss------data_science-5)
+- [Increasing Diversity and Inclusion through the SAT/ACT](https://thetranscapitalist.medium.com/increasing-diversity-and-inclusion-through-the-sat-act-8b8dac86066c?source=rss------data_science-5)
+- [Panorama do COVID-19](https://medium.com/@jessicacunha.jsc/panorama-do-covid-19-2b7977a62337?source=rss------data_science-5)
+- [What is Unsupervised Learning and Algorithms used for Unsupervised Learning](https://srisindhu.medium.com/what-is-unsupervised-learning-and-algorithms-used-for-unsupervised-learning-d04c03c923b7?source=rss------data_science-5)
+- [Troubleshooting with Automunge](https://medium.com/automunge/troubleshooting-with-automunge-aecd0a4a00a1?source=rss------data_science-5)
+- [How To Automate Your Instagram Interactions!](https://preettheman.medium.com/how-to-automate-your-instagram-interactions-c252b13b032?source=rss------data_science-5)
+- [8 Steps in Scraping a Table from a Website using Python](https://medium.com/@medic_coders/8-steps-in-scraping-a-table-from-a-website-using-python-e9eca91c9779?source=rss------data_science-5)
+- [What To Consider When Building Data Pipelines](https://medium.com/coriers/what-to-consider-when-building-data-pipelines-762f9ce907cb?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
