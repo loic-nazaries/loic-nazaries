@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Who should Manchester United scout?](https://medium.com/@rrrohit/who-should-manchester-united-scout-f59346a910f5?source=rss------data_science-5)
-- [DevOps](https://pub.towardsai.net/devops-639e377fffc5?source=rss------data_science-5)
-- [Como fazer uma análise exploratória com dados do Airbnb ?](https://medium.com/@leandro.starke/como-fazer-uma-an%C3%A1lise-explorat%C3%B3ria-com-dados-do-airbnb-a1ea8be037b4?source=rss------data_science-5)
-- [Increasing Diversity and Inclusion through the SAT/ACT](https://thetranscapitalist.medium.com/increasing-diversity-and-inclusion-through-the-sat-act-8b8dac86066c?source=rss------data_science-5)
-- [Panorama do COVID-19](https://medium.com/@jessicacunha.jsc/panorama-do-covid-19-2b7977a62337?source=rss------data_science-5)
-- [What is Unsupervised Learning and Algorithms used for Unsupervised Learning](https://srisindhu.medium.com/what-is-unsupervised-learning-and-algorithms-used-for-unsupervised-learning-d04c03c923b7?source=rss------data_science-5)
-- [Troubleshooting with Automunge](https://medium.com/automunge/troubleshooting-with-automunge-aecd0a4a00a1?source=rss------data_science-5)
-- [How To Automate Your Instagram Interactions!](https://preettheman.medium.com/how-to-automate-your-instagram-interactions-c252b13b032?source=rss------data_science-5)
-- [8 Steps in Scraping a Table from a Website using Python](https://medium.com/@medic_coders/8-steps-in-scraping-a-table-from-a-website-using-python-e9eca91c9779?source=rss------data_science-5)
-- [What To Consider When Building Data Pipelines](https://medium.com/coriers/what-to-consider-when-building-data-pipelines-762f9ce907cb?source=rss------data_science-5)
+- [Building on Top of Your Data Ecosystem Rather Than Rip and Replace](https://wallarooai.medium.com/building-on-top-of-your-data-ecosystem-rather-than-rip-and-replace-12ab0adbfcd2?source=rss------data_science-5)
+- [Python 4.0](https://preettheman.medium.com/python-4-0-1e69b11b8a34?source=rss------data_science-5)
+- [Using Python to Analyze Rainbow-Weighted Averaging — A More Profitable Frequency Investment…](https://totesthegoats92.medium.com/using-python-to-analyze-rainbow-weighted-averaging-a-more-profitable-frequency-investment-12009a8c3617?source=rss------data_science-5)
+- [Intro to OpenCV](https://medium.com/@victorolufemi/intro-to-opencv-4f17095231fb?source=rss------data_science-5)
+- [SaaS Quick Ratio — Measuring growth efficiency](https://medium.com/@alexlee611/saas-quick-ratio-measuring-growth-efficiency-e6ea0921a81e?source=rss------data_science-5)
+- [Thanks, James. I’m glad you liked the article.](https://ashjurberg.medium.com/thanks-james-im-glad-you-liked-the-article-e1742762d681?source=rss------data_science-5)
+- [What is Data Augmentation in Deep Learning?](https://medium.com/imagescv/what-is-data-augmentation-in-deep-learning-a21a6f22ee03?source=rss------data_science-5)
+- [MACHİNE LEARNİNG](https://medium.com/@yusufztrk_89714/machi%CC%87ne-learni%CC%87ng-b877ca5bc9d3?source=rss------data_science-5)
+- [QUANTUM COMPUTING AND ITS POTENTIAL EFFECTS ON BLOCKCHAIN AND GEOPOLITICS](https://medium.com/@rickycamilo9/quantum-computing-and-its-potential-effects-on-blockchain-and-geopolitics-bed5d8481f63?source=rss------data_science-5)
+- [Fitbit Sleep Data Analysis &lpar;Step 1: Import&rpar;](https://medium.com/@ram.tackett/fitbit-sleep-data-analysis-step-1-import-db63de30582b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
