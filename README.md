@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Building on Top of Your Data Ecosystem Rather Than Rip and Replace](https://wallarooai.medium.com/building-on-top-of-your-data-ecosystem-rather-than-rip-and-replace-12ab0adbfcd2?source=rss------data_science-5)
-- [Python 4.0](https://preettheman.medium.com/python-4-0-1e69b11b8a34?source=rss------data_science-5)
-- [Using Python to Analyze Rainbow-Weighted Averaging — A More Profitable Frequency Investment…](https://totesthegoats92.medium.com/using-python-to-analyze-rainbow-weighted-averaging-a-more-profitable-frequency-investment-12009a8c3617?source=rss------data_science-5)
-- [Intro to OpenCV](https://medium.com/@victorolufemi/intro-to-opencv-4f17095231fb?source=rss------data_science-5)
-- [SaaS Quick Ratio — Measuring growth efficiency](https://medium.com/@alexlee611/saas-quick-ratio-measuring-growth-efficiency-e6ea0921a81e?source=rss------data_science-5)
-- [Thanks, James. I’m glad you liked the article.](https://ashjurberg.medium.com/thanks-james-im-glad-you-liked-the-article-e1742762d681?source=rss------data_science-5)
-- [What is Data Augmentation in Deep Learning?](https://medium.com/imagescv/what-is-data-augmentation-in-deep-learning-a21a6f22ee03?source=rss------data_science-5)
-- [MACHİNE LEARNİNG](https://medium.com/@yusufztrk_89714/machi%CC%87ne-learni%CC%87ng-b877ca5bc9d3?source=rss------data_science-5)
-- [QUANTUM COMPUTING AND ITS POTENTIAL EFFECTS ON BLOCKCHAIN AND GEOPOLITICS](https://medium.com/@rickycamilo9/quantum-computing-and-its-potential-effects-on-blockchain-and-geopolitics-bed5d8481f63?source=rss------data_science-5)
-- [Fitbit Sleep Data Analysis &lpar;Step 1: Import&rpar;](https://medium.com/@ram.tackett/fitbit-sleep-data-analysis-step-1-import-db63de30582b?source=rss------data_science-5)
+- [Building data products without the Mesh](https://medium.com/@rbahaguejr/building-data-products-without-the-mesh-5a1d5c617637?source=rss------data_science-5)
+- [“Real-time”is becoming the default expectation. What is holding it back?](https://medium.com/meroxa/real-time-is-becoming-the-default-expectation-what-is-holding-it-back-6afb02462f0b?source=rss------data_science-5)
+- [Explainable AI Framework Comparison](https://kedion.medium.com/explainable-ai-framework-comparison-106c783554a?source=rss------data_science-5)
+- [Entendendo as árvores de decisão em Machine Learning](https://thalesferraz.medium.com/este-artigo-tamb%C3%A9m-foi-publicado-no-blog-sigmoidal-d532949f86b6?source=rss------data_science-5)
+- [Multidimensional Arrays In JavaScript: The Right Way](https://medium.com/fractions/multidimensional-arrays-in-javascript-be344f27df0e?source=rss------data_science-5)
+- [Why a challenging technical interview is good for candidates](https://medium.com/@anguyenbus/why-a-challenging-technical-interview-is-good-for-candidates-4b85b2911837?source=rss------data_science-5)
+- [What are the Ensemble methods?](https://medium.com/@arch.mo2men/what-are-the-ensemble-methods-844d9f47dac2?source=rss------data_science-5)
+- [Hiring manager’s “unusual](https://medium.com/@anguyenbus/hiring-managers-unusual-537647a4066d?source=rss------data_science-5)
+- [4 Python Set Tips You Should Know](https://medium.com/@nik.piepenbreier/4-python-set-tips-you-should-know-5f188c4251b6?source=rss------data_science-5)
+- [A Student’s Perspective: Why Data Science at NYU?](https://nyudatascience.medium.com/a-students-perspective-why-data-science-at-nyu-ff5b1bbec38b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
