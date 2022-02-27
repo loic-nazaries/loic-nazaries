@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [Everything You Need to Know About Ranking with Pandas](https://towardsdatascience.com/everything-you-need-to-know-about-ranking-with-pandas-aa2ab5921c01?source=rss-2cf6b549448------2)
 - [20 Examples to Master Filtering Pandas DataFrames](https://towardsdatascience.com/20-examples-to-master-filtering-pandas-dataframes-df6fabfe126f?source=rss-2cf6b549448------2)
 - [SQL Versions of the Most Frequently Used Pandas Functions](https://towardsdatascience.com/sql-versions-of-the-most-frequently-used-pandas-functions-bb6399f87461?source=rss-2cf6b549448------2)
 - [R Versions of the Most Frequently Used Pandas Functions](https://towardsdatascience.com/r-versions-of-the-most-frequently-used-pandas-functions-f658cbcabaf7?source=rss-2cf6b549448------2)
 - [If You Are to Learn Only 3 Libraries for Data Science, Learn These.](https://sonery.medium.com/if-you-are-to-learn-only-3-libraries-for-data-science-learn-these-ce5ba62acf96?source=rss-2cf6b549448------2)
-- [I Wrote 472 Data Science Articles in 2 Years. Here are My 3 Takeaways.](https://towardsdatascience.com/i-wrote-472-data-science-articles-in-2-years-here-are-my-3-takeaways-f13564636e8c?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
