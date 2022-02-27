@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Building data products without the Mesh](https://medium.com/@rbahaguejr/building-data-products-without-the-mesh-5a1d5c617637?source=rss------data_science-5)
-- [“Real-time”is becoming the default expectation. What is holding it back?](https://medium.com/meroxa/real-time-is-becoming-the-default-expectation-what-is-holding-it-back-6afb02462f0b?source=rss------data_science-5)
-- [Explainable AI Framework Comparison](https://kedion.medium.com/explainable-ai-framework-comparison-106c783554a?source=rss------data_science-5)
-- [Entendendo as árvores de decisão em Machine Learning](https://thalesferraz.medium.com/este-artigo-tamb%C3%A9m-foi-publicado-no-blog-sigmoidal-d532949f86b6?source=rss------data_science-5)
-- [Multidimensional Arrays In JavaScript: The Right Way](https://medium.com/fractions/multidimensional-arrays-in-javascript-be344f27df0e?source=rss------data_science-5)
-- [Why a challenging technical interview is good for candidates](https://medium.com/@anguyenbus/why-a-challenging-technical-interview-is-good-for-candidates-4b85b2911837?source=rss------data_science-5)
-- [What are the Ensemble methods?](https://medium.com/@arch.mo2men/what-are-the-ensemble-methods-844d9f47dac2?source=rss------data_science-5)
-- [Hiring manager’s “unusual](https://medium.com/@anguyenbus/hiring-managers-unusual-537647a4066d?source=rss------data_science-5)
-- [4 Python Set Tips You Should Know](https://medium.com/@nik.piepenbreier/4-python-set-tips-you-should-know-5f188c4251b6?source=rss------data_science-5)
-- [A Student’s Perspective: Why Data Science at NYU?](https://nyudatascience.medium.com/a-students-perspective-why-data-science-at-nyu-ff5b1bbec38b?source=rss------data_science-5)
+- [List of Data &amp; Analytics Online Communities](https://maggiewolff.medium.com/list-of-data-analytics-online-communities-70831894aef7?source=rss------data_science-5)
+- [Entrepreneur Introspection](https://medium.com/from-the-diaries-of-john-henry/entrepreneur-introspection-6debe3a76153?source=rss------data_science-5)
+- [4 Common Misconceptions about Starting a Career in Data &amp; Analytics](https://medium.com/@britney.lovett/4-common-misconceptions-about-starting-a-career-in-data-analytics-511f196cd526?source=rss------data_science-5)
+- [Book Review: Hands-on Machine Learning with Scikit-learn and TensorFlow](https://medium.com/the-techlife/book-review-hands-on-machine-learning-with-scikit-learn-and-tensorflow-1f78d4a00ede?source=rss------data_science-5)
+- [Olá a Todos](https://medium.com/@ronalddepaulaenterprise/ol%C3%A1-a-todos-a522ad91e100?source=rss------data_science-5)
+- [Calling AWS SageMaker Endpoints from Lambda](https://medium.com/@antongordon76/calling-aws-sagemaker-endpoints-from-lambda-c0ddf511248a?source=rss------data_science-5)
+- [Four-strokes in Europe: Analyzing Eurostat vehicle dataset](https://medium.com/@andrskriston/four-strokes-in-europe-analyzing-eurostat-vehicle-dataset-81784029e4b3?source=rss------data_science-5)
+- [Deploy de un modelo de Machine Learning en una API usando Django REST Framework. Parte 3. BiLSTM.](https://medium.com/@artgracastro/deploy-de-un-modelo-de-machine-learning-en-una-api-usando-django-rest-framework-parte-3-bilstm-d654cc695861?source=rss------data_science-5)
+- [Data Scientist’s Toolbox](https://medium.com/analytics-vidhya/data-scientists-toolbox-4b342d827bb3?source=rss------data_science-5)
+- [Ocean Scientist… Data Scientist… Ocean Data Scientist?](https://medium.com/@haniszulaikha/ocean-scientist-data-scientist-ocean-data-scientist-c225a9ee3227?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
