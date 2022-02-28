@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [List of Data &amp; Analytics Online Communities](https://maggiewolff.medium.com/list-of-data-analytics-online-communities-70831894aef7?source=rss------data_science-5)
-- [Entrepreneur Introspection](https://medium.com/from-the-diaries-of-john-henry/entrepreneur-introspection-6debe3a76153?source=rss------data_science-5)
-- [4 Common Misconceptions about Starting a Career in Data &amp; Analytics](https://medium.com/@britney.lovett/4-common-misconceptions-about-starting-a-career-in-data-analytics-511f196cd526?source=rss------data_science-5)
-- [Book Review: Hands-on Machine Learning with Scikit-learn and TensorFlow](https://medium.com/the-techlife/book-review-hands-on-machine-learning-with-scikit-learn-and-tensorflow-1f78d4a00ede?source=rss------data_science-5)
-- [Olá a Todos](https://medium.com/@ronalddepaulaenterprise/ol%C3%A1-a-todos-a522ad91e100?source=rss------data_science-5)
-- [Calling AWS SageMaker Endpoints from Lambda](https://medium.com/@antongordon76/calling-aws-sagemaker-endpoints-from-lambda-c0ddf511248a?source=rss------data_science-5)
-- [Four-strokes in Europe: Analyzing Eurostat vehicle dataset](https://medium.com/@andrskriston/four-strokes-in-europe-analyzing-eurostat-vehicle-dataset-81784029e4b3?source=rss------data_science-5)
-- [Deploy de un modelo de Machine Learning en una API usando Django REST Framework. Parte 3. BiLSTM.](https://medium.com/@artgracastro/deploy-de-un-modelo-de-machine-learning-en-una-api-usando-django-rest-framework-parte-3-bilstm-d654cc695861?source=rss------data_science-5)
-- [Data Scientist’s Toolbox](https://medium.com/analytics-vidhya/data-scientists-toolbox-4b342d827bb3?source=rss------data_science-5)
-- [Ocean Scientist… Data Scientist… Ocean Data Scientist?](https://medium.com/@haniszulaikha/ocean-scientist-data-scientist-ocean-data-scientist-c225a9ee3227?source=rss------data_science-5)
+- [A/B Testing, introduction and much more](https://srijan-bhushan.medium.com/ab-testing-introduction-and-much-more-343770a6cd25?source=rss------data_science-5)
+- [I Got 15 More Data Science Interviews With These 5 Tips](https://medium.com/geekculture/i-got-15-more-data-science-interviews-with-these-5-tips-87ed03fdcfc7?source=rss------data_science-5)
+- [Overfitting dan Underfitting dalam Model Machine Learning](https://patmawati.medium.com/overfitting-dan-underfitting-dalam-model-machine-learnig-c4391105263c?source=rss------data_science-5)
+- [What I Wish I Had Known as a Student in a Data-Related Field](https://medium.com/@tarabaymariane/what-i-wish-i-had-known-as-a-student-in-a-data-related-field-3c9635f8ed6d?source=rss------data_science-5)
+- [Análise dos Dados do Airbnb Paris — França](https://medium.com/@andre-carmo02/an%C3%A1lise-dos-dados-do-airbnb-paris-fran%C3%A7a-467bf939cbd9?source=rss------data_science-5)
+- [What country did best in Tokyo Olympics?](https://ignaciolirio.medium.com/what-country-did-best-in-tokyo-olympics-f5bbfd34bd55?source=rss------data_science-5)
+- [Soft, hard, and late deadlines &lpar;or another failed experiment&rpar;](https://ksm-csed.medium.com/soft-hard-and-late-deadlines-or-another-failed-experiment-e0ca0ff53e0c?source=rss------data_science-5)
+- [San Diego — Análise exploratória dos dados do Airbnb](https://thiagobcoelho25.medium.com/san-diego-an%C3%A1lise-explorat%C3%B3ria-dos-dados-do-airbnb-80fd4abdfd3?source=rss------data_science-5)
+- [Data &amp; Analytics Trends to Watch in 2022](https://medium.com/geekculture/data-analytics-trends-to-watch-in-2022-8ad7ef447f34?source=rss------data_science-5)
+- [4 most common NeuroImaging Techniques](https://monochelsea12.medium.com/4-most-common-neuroimaging-techniques-f22f2caadb3b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
