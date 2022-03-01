@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A/B Testing, introduction and much more](https://srijan-bhushan.medium.com/ab-testing-introduction-and-much-more-343770a6cd25?source=rss------data_science-5)
-- [I Got 15 More Data Science Interviews With These 5 Tips](https://medium.com/geekculture/i-got-15-more-data-science-interviews-with-these-5-tips-87ed03fdcfc7?source=rss------data_science-5)
-- [Overfitting dan Underfitting dalam Model Machine Learning](https://patmawati.medium.com/overfitting-dan-underfitting-dalam-model-machine-learnig-c4391105263c?source=rss------data_science-5)
-- [What I Wish I Had Known as a Student in a Data-Related Field](https://medium.com/@tarabaymariane/what-i-wish-i-had-known-as-a-student-in-a-data-related-field-3c9635f8ed6d?source=rss------data_science-5)
-- [Análise dos Dados do Airbnb Paris — França](https://medium.com/@andre-carmo02/an%C3%A1lise-dos-dados-do-airbnb-paris-fran%C3%A7a-467bf939cbd9?source=rss------data_science-5)
-- [What country did best in Tokyo Olympics?](https://ignaciolirio.medium.com/what-country-did-best-in-tokyo-olympics-f5bbfd34bd55?source=rss------data_science-5)
-- [Soft, hard, and late deadlines &lpar;or another failed experiment&rpar;](https://ksm-csed.medium.com/soft-hard-and-late-deadlines-or-another-failed-experiment-e0ca0ff53e0c?source=rss------data_science-5)
-- [San Diego — Análise exploratória dos dados do Airbnb](https://thiagobcoelho25.medium.com/san-diego-an%C3%A1lise-explorat%C3%B3ria-dos-dados-do-airbnb-80fd4abdfd3?source=rss------data_science-5)
-- [Data &amp; Analytics Trends to Watch in 2022](https://medium.com/geekculture/data-analytics-trends-to-watch-in-2022-8ad7ef447f34?source=rss------data_science-5)
-- [4 most common NeuroImaging Techniques](https://monochelsea12.medium.com/4-most-common-neuroimaging-techniques-f22f2caadb3b?source=rss------data_science-5)
+- [Análise de dados, Engenharia de dados, Seleção de váriaveis, Modelagem e Análise do modelo](https://medium.com/@Jeffshow12/an%C3%A1lise-de-dados-engenharia-de-dados-sele%C3%A7%C3%A3o-de-v%C3%A1riaveis-modelagem-e-an%C3%A1lise-do-modelo-ce5f7b07ac0d?source=rss------data_science-5)
+- [Connecting to Reddit Using 3 lines Of Code](https://itskathleenlara.medium.com/connecting-to-reddit-using-3-lines-of-code-50f0683081c3?source=rss------data_science-5)
+- [Data Science Jobs — Insights from Glassdoor Job Postings](https://medium.com/@esgardner21/data-science-jobs-insights-from-glassdoor-job-postings-7334e1b82eeb?source=rss------data_science-5)
+- [Healthcare Data Science: Electronic Medical Records](https://medium.com/@wilkinson.colby/healthcare-data-science-electronic-medical-records-9575659cf8a?source=rss------data_science-5)
+- [在國泰數數發&lpar;Cathay DDT&rpar;做Data是怎樣一番體驗？](https://kyle5275.medium.com/%E5%9C%A8%E5%9C%8B%E6%B3%B0%E6%95%B8%E6%95%B8%E7%99%BC-cathay-ddt-%E5%81%9Adata%E6%98%AF%E6%80%8E%E6%A8%A3%E4%B8%80%E7%95%AA%E9%AB%94%E9%A9%97-7c96d77b5a40?source=rss------data_science-5)
+- [Starting with Spark and Zeppelin in 2 Minutes Using Docker — Create Your First Data Frame](https://medium.com/@clever.tech.memes/starting-with-spark-and-zeppelin-in-2-minutes-using-docker-create-your-first-data-frame-f83b65fced1c?source=rss------data_science-5)
+- [Semantic Label Representation with An Application on Multimodal Product Categorization](https://medium.com/walmartglobaltech/semantic-label-representation-with-an-application-on-multimodal-product-categorization-63d668b943b7?source=rss------data_science-5)
+- [Não-Convergência: a razão entre duas distribuições Gaussianas](https://luizpaulotavaresgonalves.medium.com/n%C3%A3o-converg%C3%AAncia-a-raz%C3%A3o-entre-duas-distribui%C3%A7%C3%B5es-gaussianas-ac6b8a3a237b?source=rss------data_science-5)
+- [Building your data science portfolio&lpar;1d&rpar;: Exploring the folders’ content](https://medium.com/@etaifour/building-your-data-science-portfolio-1d-exploring-the-folders-content-bf66731ee7bb?source=rss------data_science-5)
+- [Complacency…](https://medium.com/@briodonn1021/complacency-a928806069ed?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
