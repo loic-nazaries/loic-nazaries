@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Análise de dados, Engenharia de dados, Seleção de váriaveis, Modelagem e Análise do modelo](https://medium.com/@Jeffshow12/an%C3%A1lise-de-dados-engenharia-de-dados-sele%C3%A7%C3%A3o-de-v%C3%A1riaveis-modelagem-e-an%C3%A1lise-do-modelo-ce5f7b07ac0d?source=rss------data_science-5)
-- [Connecting to Reddit Using 3 lines Of Code](https://itskathleenlara.medium.com/connecting-to-reddit-using-3-lines-of-code-50f0683081c3?source=rss------data_science-5)
-- [Data Science Jobs — Insights from Glassdoor Job Postings](https://medium.com/@esgardner21/data-science-jobs-insights-from-glassdoor-job-postings-7334e1b82eeb?source=rss------data_science-5)
-- [Healthcare Data Science: Electronic Medical Records](https://medium.com/@wilkinson.colby/healthcare-data-science-electronic-medical-records-9575659cf8a?source=rss------data_science-5)
-- [在國泰數數發&lpar;Cathay DDT&rpar;做Data是怎樣一番體驗？](https://kyle5275.medium.com/%E5%9C%A8%E5%9C%8B%E6%B3%B0%E6%95%B8%E6%95%B8%E7%99%BC-cathay-ddt-%E5%81%9Adata%E6%98%AF%E6%80%8E%E6%A8%A3%E4%B8%80%E7%95%AA%E9%AB%94%E9%A9%97-7c96d77b5a40?source=rss------data_science-5)
-- [Starting with Spark and Zeppelin in 2 Minutes Using Docker — Create Your First Data Frame](https://medium.com/@clever.tech.memes/starting-with-spark-and-zeppelin-in-2-minutes-using-docker-create-your-first-data-frame-f83b65fced1c?source=rss------data_science-5)
-- [Semantic Label Representation with An Application on Multimodal Product Categorization](https://medium.com/walmartglobaltech/semantic-label-representation-with-an-application-on-multimodal-product-categorization-63d668b943b7?source=rss------data_science-5)
-- [Não-Convergência: a razão entre duas distribuições Gaussianas](https://luizpaulotavaresgonalves.medium.com/n%C3%A3o-converg%C3%AAncia-a-raz%C3%A3o-entre-duas-distribui%C3%A7%C3%B5es-gaussianas-ac6b8a3a237b?source=rss------data_science-5)
-- [Building your data science portfolio&lpar;1d&rpar;: Exploring the folders’ content](https://medium.com/@etaifour/building-your-data-science-portfolio-1d-exploring-the-folders-content-bf66731ee7bb?source=rss------data_science-5)
-- [Complacency…](https://medium.com/@briodonn1021/complacency-a928806069ed?source=rss------data_science-5)
+- [A Simple Introduction to Regression Trees](https://towardsdatascience.com/a-simple-introduction-to-regression-trees-a9f8ba469d6c?source=rss------data_science-5)
+- [Predicting Empty Storefronts in Manhattan with Machine Learning](https://medium.com/@robmartin8/predicting-empty-storefronts-in-manhattan-with-machine-learning-4f9748e5d0b9?source=rss------data_science-5)
+- [5 Things Tech Leader Wishes Everyone Knew About Data](https://medium.com/geekculture/5-things-tech-leader-wishes-everyone-knew-about-data-96ef98632976?source=rss------data_science-5)
+- [Forecasting with Auto ARIMA in Python](https://towardsdatascience.com/forecasting-with-auto-arima-in-python-7d74bc61f0c3?source=rss------data_science-5)
+- [Scala Anonymous Functions, Map and Filter Functions Explained: Significant Topics in Functional…](https://medium.com/@clever.tech.memes/scala-anonymous-functions-map-and-filter-functions-explained-significant-topics-in-functional-cd51ae53af57?source=rss------data_science-5)
+- [Social Media Sentiment Analysis In Python With VADER — No Training Required!](https://towardsdatascience.com/social-media-sentiment-analysis-in-python-with-vader-no-training-required-4bc6a21e87b8?source=rss------data_science-5)
+- [Build Your Voice Translation App with S3, Transcribe, Polly, and DynamoDB](https://dataman-ai.medium.com/build-your-voice-translation-app-with-s3-transcribe-polly-and-dynamodb-cee1aec2d3f6?source=rss------data_science-5)
+- [Amazing Free Courses For Computer Science](https://preettheman.medium.com/amazing-free-courses-for-computer-science-9466876d915?source=rss------data_science-5)
+- [Modeling for Security Intelligence](https://medium.com/@bjereynolds/modeling-for-security-intelligence-929f9077452a?source=rss------data_science-5)
+- [Data Science Situational Assessment for Project](https://dnyanesha10.medium.com/data-science-situational-assessment-for-project-a92b85851d18?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
