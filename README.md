@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Simple Introduction to Regression Trees](https://towardsdatascience.com/a-simple-introduction-to-regression-trees-a9f8ba469d6c?source=rss------data_science-5)
-- [Predicting Empty Storefronts in Manhattan with Machine Learning](https://medium.com/@robmartin8/predicting-empty-storefronts-in-manhattan-with-machine-learning-4f9748e5d0b9?source=rss------data_science-5)
-- [5 Things Tech Leader Wishes Everyone Knew About Data](https://medium.com/geekculture/5-things-tech-leader-wishes-everyone-knew-about-data-96ef98632976?source=rss------data_science-5)
-- [Forecasting with Auto ARIMA in Python](https://towardsdatascience.com/forecasting-with-auto-arima-in-python-7d74bc61f0c3?source=rss------data_science-5)
-- [Scala Anonymous Functions, Map and Filter Functions Explained: Significant Topics in Functional…](https://medium.com/@clever.tech.memes/scala-anonymous-functions-map-and-filter-functions-explained-significant-topics-in-functional-cd51ae53af57?source=rss------data_science-5)
-- [Social Media Sentiment Analysis In Python With VADER — No Training Required!](https://towardsdatascience.com/social-media-sentiment-analysis-in-python-with-vader-no-training-required-4bc6a21e87b8?source=rss------data_science-5)
-- [Build Your Voice Translation App with S3, Transcribe, Polly, and DynamoDB](https://dataman-ai.medium.com/build-your-voice-translation-app-with-s3-transcribe-polly-and-dynamodb-cee1aec2d3f6?source=rss------data_science-5)
-- [Amazing Free Courses For Computer Science](https://preettheman.medium.com/amazing-free-courses-for-computer-science-9466876d915?source=rss------data_science-5)
-- [Modeling for Security Intelligence](https://medium.com/@bjereynolds/modeling-for-security-intelligence-929f9077452a?source=rss------data_science-5)
-- [Data Science Situational Assessment for Project](https://dnyanesha10.medium.com/data-science-situational-assessment-for-project-a92b85851d18?source=rss------data_science-5)
+- [Week #6 in Machine Learning](https://3liud.medium.com/week-6-in-machine-learning-d5802148d1c6?source=rss------data_science-5)
+- [TL Emergency Update #2](https://medium.com/@askscout/tl-emergency-update-2-9d8a6cd4b52?source=rss------data_science-5)
+- [My Capstone project for General Assembly: Examining home field advantage](https://medium.com/@dask28/my-capstone-project-for-general-assembly-examining-home-field-advantage-1c76a0b33140?source=rss------data_science-5)
+- [Iterating through Optuna](https://crmccambridge.medium.com/iterating-through-optuna-323ed8d79b72?source=rss------data_science-5)
+- [Sentiment Analysis Using BERT](https://aida1990.medium.com/sentiment-analysis-using-bert-cfd83c78ce25?source=rss------data_science-5)
+- [4 Project Management Skills and Frameworks for Data Scientists](https://towardsdatascience.com/4-project-management-skills-and-frameworks-for-data-scientists-77141196239b?source=rss------data_science-5)
+- [Why Does it Matter to Analyze your Indoor Cycling Training Data](https://medium.com/@victorspruela/why-does-it-matter-to-analyze-your-indoor-cycling-training-data-cfc0cbd2cbe9?source=rss------data_science-5)
+- [A Simulation to confirm Wald’s lemma](https://medium.com/mlearning-ai/a-simulation-to-confirm-walds-lemma-36419c0488ae?source=rss------data_science-5)
+- [Visualize two different values in time with a dumbbell chart](https://medium.com/@Eyquem/visualize-two-different-values-in-time-with-a-dumbbell-chart-d5c936c33bde?source=rss------data_science-5)
+- [Make a Positive Impact on Your Community; Data Science and AI](https://medium.com/data-science-unlimited/make-a-positive-impact-on-your-community-data-science-and-ai-9609ad23e37a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
