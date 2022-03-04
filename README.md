@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Week #6 in Machine Learning](https://3liud.medium.com/week-6-in-machine-learning-d5802148d1c6?source=rss------data_science-5)
-- [TL Emergency Update #2](https://medium.com/@askscout/tl-emergency-update-2-9d8a6cd4b52?source=rss------data_science-5)
-- [My Capstone project for General Assembly: Examining home field advantage](https://medium.com/@dask28/my-capstone-project-for-general-assembly-examining-home-field-advantage-1c76a0b33140?source=rss------data_science-5)
-- [Iterating through Optuna](https://crmccambridge.medium.com/iterating-through-optuna-323ed8d79b72?source=rss------data_science-5)
-- [Sentiment Analysis Using BERT](https://aida1990.medium.com/sentiment-analysis-using-bert-cfd83c78ce25?source=rss------data_science-5)
-- [4 Project Management Skills and Frameworks for Data Scientists](https://towardsdatascience.com/4-project-management-skills-and-frameworks-for-data-scientists-77141196239b?source=rss------data_science-5)
-- [Why Does it Matter to Analyze your Indoor Cycling Training Data](https://medium.com/@victorspruela/why-does-it-matter-to-analyze-your-indoor-cycling-training-data-cfc0cbd2cbe9?source=rss------data_science-5)
-- [A Simulation to confirm Wald’s lemma](https://medium.com/mlearning-ai/a-simulation-to-confirm-walds-lemma-36419c0488ae?source=rss------data_science-5)
-- [Visualize two different values in time with a dumbbell chart](https://medium.com/@Eyquem/visualize-two-different-values-in-time-with-a-dumbbell-chart-d5c936c33bde?source=rss------data_science-5)
-- [Make a Positive Impact on Your Community; Data Science and AI](https://medium.com/data-science-unlimited/make-a-positive-impact-on-your-community-data-science-and-ai-9609ad23e37a?source=rss------data_science-5)
+- [How to Become Kaggle Grandmaster](https://medium.com/@luis_84283/how-to-become-kaggle-grandmaster-ede3a3ad6c5?source=rss------data_science-5)
+- [Estadística aplicada con Python 1.7](https://medium.com/@erwingforerocastro/estad%C3%ADstica-aplicada-con-python-1-6-55e9958e95d0?source=rss------data_science-5)
+- [5 Steps: Your 1st Data Analyst Portfolio Project](https://medium.com/@datawithdan/5-steps-your-1st-data-analyst-portfolio-project-61d757cb0b81?source=rss------data_science-5)
+- [An Awesome Golang Project You Need To Check Out](https://preettheman.medium.com/an-awesome-golang-project-you-need-to-check-out-449ea47dd4e8?source=rss------data_science-5)
+- [The Hidden Stories of New York as Told Through Open Data](https://medium.com/dataclinic/the-hidden-stories-of-new-york-as-told-through-open-data-68081d595763?source=rss------data_science-5)
+- [Which Bootcamp Is Best For Data Science?](https://medium.com/@synergistic_it/which-bootcamp-is-best-for-data-science-fd1ebd1947b5?source=rss------data_science-5)
+- [An Amazing Tool Ever Developer Should Be Using!](https://preettheman.medium.com/an-amazing-tool-ever-developer-should-be-using-6f65cf4bc40c?source=rss------data_science-5)
+- [CDS Faculty Yann LeCun and Juliana Freire elected as fellows for the American Association for the…](https://nyudatascience.medium.com/cds-faculty-yann-lecun-and-juliana-freire-elected-as-fellows-for-the-american-association-for-the-6be445e6985b?source=rss------data_science-5)
+- [For the love of *a data scientist*! It’s time.](https://medium.com/@lisarazpberri/for-the-love-of-a-data-scientist-its-time-1bde9fd29629?source=rss------data_science-5)
+- [R Programming: Learn R programming as Data Scientist](https://medium.com/analytics-vidhya/r-programming-learn-r-programming-as-data-scientist-93b912239642?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
