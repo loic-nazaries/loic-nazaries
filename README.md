@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Become Kaggle Grandmaster](https://medium.com/@luis_84283/how-to-become-kaggle-grandmaster-ede3a3ad6c5?source=rss------data_science-5)
-- [Estadística aplicada con Python 1.7](https://medium.com/@erwingforerocastro/estad%C3%ADstica-aplicada-con-python-1-6-55e9958e95d0?source=rss------data_science-5)
-- [5 Steps: Your 1st Data Analyst Portfolio Project](https://medium.com/@datawithdan/5-steps-your-1st-data-analyst-portfolio-project-61d757cb0b81?source=rss------data_science-5)
-- [An Awesome Golang Project You Need To Check Out](https://preettheman.medium.com/an-awesome-golang-project-you-need-to-check-out-449ea47dd4e8?source=rss------data_science-5)
-- [The Hidden Stories of New York as Told Through Open Data](https://medium.com/dataclinic/the-hidden-stories-of-new-york-as-told-through-open-data-68081d595763?source=rss------data_science-5)
-- [Which Bootcamp Is Best For Data Science?](https://medium.com/@synergistic_it/which-bootcamp-is-best-for-data-science-fd1ebd1947b5?source=rss------data_science-5)
-- [An Amazing Tool Ever Developer Should Be Using!](https://preettheman.medium.com/an-amazing-tool-ever-developer-should-be-using-6f65cf4bc40c?source=rss------data_science-5)
-- [CDS Faculty Yann LeCun and Juliana Freire elected as fellows for the American Association for the…](https://nyudatascience.medium.com/cds-faculty-yann-lecun-and-juliana-freire-elected-as-fellows-for-the-american-association-for-the-6be445e6985b?source=rss------data_science-5)
-- [For the love of *a data scientist*! It’s time.](https://medium.com/@lisarazpberri/for-the-love-of-a-data-scientist-its-time-1bde9fd29629?source=rss------data_science-5)
-- [R Programming: Learn R programming as Data Scientist](https://medium.com/analytics-vidhya/r-programming-learn-r-programming-as-data-scientist-93b912239642?source=rss------data_science-5)
+- [Quick Beginner Tutorial to Scrape Amazon Best Seller Data](https://medium.com/the-brainwave/quick-beginner-tutorial-to-scrape-amazon-best-seller-data-79e38e72c33b?source=rss------data_science-5)
+- [An Analysis of Mask R-CNNs](https://veerpandya.medium.com/an-analysis-of-mask-r-cnns-1691bf8de05f?source=rss------data_science-5)
+- [Working 3 Months as a Data Scientist](https://medium.com/@eldanazare/working-3-months-as-a-data-scientist-eda02dd12c1f?source=rss------data_science-5)
+- [Difference between Bias and Variance](https://medium.com/@pyrootml/difference-between-bias-and-variance-9093ac48acd4?source=rss------data_science-5)
+- [Project Spotlight: Andrew Warburton](https://medium.com/joinforge/project-spotlight-andrew-warburton-f5cf84068001?source=rss------data_science-5)
+- [Keeping Up With Data #72](https://adamvotava.medium.com/keeping-up-with-data-72-c3583a6dc15?source=rss------data_science-5)
+- [Secrets to Succeeding in Data Science : Overcoming Challenges with Data](https://rmhariharan.medium.com/unlucky-misfits-ominous-absentees-and-a-miserly-world-of-data-poor-78327e888bca?source=rss------data_science-5)
+- [A Visual Guide to Taylor Series and its Application to √2](https://drtailor.medium.com/a-visual-guide-to-taylor-series-and-its-application-to-2-f7ced7863837?source=rss------data_science-5)
+- [Metaverse Inspired Names – Powered by BrandableNames.io](https://medium.com/@brandablenames/meta-or-metaverse-names-powered-by-brandablenames-io-50b266de2a6c?source=rss------data_science-5)
+- [Deploying a web app using MySQL server via Streamlit](https://medium.com/@itssaad.muhammad/deploying-a-web-app-using-mysql-server-via-streamlit-ca28ecd02bb0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
