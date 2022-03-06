@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Quick Beginner Tutorial to Scrape Amazon Best Seller Data](https://medium.com/the-brainwave/quick-beginner-tutorial-to-scrape-amazon-best-seller-data-79e38e72c33b?source=rss------data_science-5)
-- [An Analysis of Mask R-CNNs](https://veerpandya.medium.com/an-analysis-of-mask-r-cnns-1691bf8de05f?source=rss------data_science-5)
-- [Working 3 Months as a Data Scientist](https://medium.com/@eldanazare/working-3-months-as-a-data-scientist-eda02dd12c1f?source=rss------data_science-5)
-- [Difference between Bias and Variance](https://medium.com/@pyrootml/difference-between-bias-and-variance-9093ac48acd4?source=rss------data_science-5)
-- [Project Spotlight: Andrew Warburton](https://medium.com/joinforge/project-spotlight-andrew-warburton-f5cf84068001?source=rss------data_science-5)
-- [Keeping Up With Data #72](https://adamvotava.medium.com/keeping-up-with-data-72-c3583a6dc15?source=rss------data_science-5)
-- [Secrets to Succeeding in Data Science : Overcoming Challenges with Data](https://rmhariharan.medium.com/unlucky-misfits-ominous-absentees-and-a-miserly-world-of-data-poor-78327e888bca?source=rss------data_science-5)
-- [A Visual Guide to Taylor Series and its Application to √2](https://drtailor.medium.com/a-visual-guide-to-taylor-series-and-its-application-to-2-f7ced7863837?source=rss------data_science-5)
-- [Metaverse Inspired Names – Powered by BrandableNames.io](https://medium.com/@brandablenames/meta-or-metaverse-names-powered-by-brandablenames-io-50b266de2a6c?source=rss------data_science-5)
-- [Deploying a web app using MySQL server via Streamlit](https://medium.com/@itssaad.muhammad/deploying-a-web-app-using-mysql-server-via-streamlit-ca28ecd02bb0?source=rss------data_science-5)
+- [#API 5G alternative I’ve been toying around with. Thought experiment…](https://a1mtarabichi.medium.com/api-5g-alternative-ive-been-toying-around-with-thought-experiment-5d65be73316b?source=rss------data_science-5)
+- [SQL: Gaps &amp; Islands Problem from LeetCode](https://medium.com/@asunadch/sql-gaps-islands-problem-from-leetcode-c47842154f27?source=rss------data_science-5)
+- [What are Talairach coordinates in MRI ?](https://monochelsea12.medium.com/what-are-talairach-coordinates-in-mri-87c717e6aa6a?source=rss------data_science-5)
+- [New Book: Stochastic Processes and Simulations](https://vincentgranville.medium.com/new-book-stochastic-processes-and-simulations-9b9e6eab7880?source=rss------data_science-5)
+- [The Fibonacci Moving Average in TradingView.](https://kaabar-sofien.medium.com/the-fibonacci-moving-average-in-tradingview-a7c5e6ad61ec?source=rss------data_science-5)
+- [All about Python](https://medium.com/@kaifraza8329/all-about-python-2587c4cb5ee5?source=rss------data_science-5)
+- [Best Books to start learning Deep Learning](https://monochelsea12.medium.com/best-books-to-start-learning-deep-learning-3ef5885602bb?source=rss------data_science-5)
+- [ML-K-means Clustering](https://medium.com/mlearning-ai/ml-k-means-clustering-5c11c1d2577b?source=rss------data_science-5)
+- [Python Vs R in 2022!](https://preettheman.medium.com/python-vs-r-in-2022-a26ad7ffe6a7?source=rss------data_science-5)
+- [Hiring Manager Tips To Land Your First Data Science Job](https://medium.com/geekculture/hiring-manager-tips-to-land-your-first-data-science-job-506dbe1b0f78?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
