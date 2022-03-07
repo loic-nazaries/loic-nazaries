@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [#API 5G alternative I’ve been toying around with. Thought experiment…](https://a1mtarabichi.medium.com/api-5g-alternative-ive-been-toying-around-with-thought-experiment-5d65be73316b?source=rss------data_science-5)
-- [SQL: Gaps &amp; Islands Problem from LeetCode](https://medium.com/@asunadch/sql-gaps-islands-problem-from-leetcode-c47842154f27?source=rss------data_science-5)
-- [What are Talairach coordinates in MRI ?](https://monochelsea12.medium.com/what-are-talairach-coordinates-in-mri-87c717e6aa6a?source=rss------data_science-5)
-- [New Book: Stochastic Processes and Simulations](https://vincentgranville.medium.com/new-book-stochastic-processes-and-simulations-9b9e6eab7880?source=rss------data_science-5)
-- [The Fibonacci Moving Average in TradingView.](https://kaabar-sofien.medium.com/the-fibonacci-moving-average-in-tradingview-a7c5e6ad61ec?source=rss------data_science-5)
-- [All about Python](https://medium.com/@kaifraza8329/all-about-python-2587c4cb5ee5?source=rss------data_science-5)
-- [Best Books to start learning Deep Learning](https://monochelsea12.medium.com/best-books-to-start-learning-deep-learning-3ef5885602bb?source=rss------data_science-5)
-- [ML-K-means Clustering](https://medium.com/mlearning-ai/ml-k-means-clustering-5c11c1d2577b?source=rss------data_science-5)
-- [Python Vs R in 2022!](https://preettheman.medium.com/python-vs-r-in-2022-a26ad7ffe6a7?source=rss------data_science-5)
-- [Hiring Manager Tips To Land Your First Data Science Job](https://medium.com/geekculture/hiring-manager-tips-to-land-your-first-data-science-job-506dbe1b0f78?source=rss------data_science-5)
+- [Capstone Project: Helping a Business Increase Profits](https://medium.com/@ncox0906/capstone-project-helping-a-business-increase-profits-26c1148e19ef?source=rss------data_science-5)
+- [A &lpar;very&rpar; Brief Introduction to AI &amp; Data Science in the Industry 4.0](https://medium.datadriveninvestor.com/a-very-brief-introduction-to-ai-data-science-in-the-industry-4-0-573e31e0d007?source=rss------data_science-5)
+- [Navigating the ML/DS career in Health/BioTech pt.1 — Domain Knowledge](https://medium.com/@ming.jeng/navigating-the-ml-ds-career-in-health-biotech-pt-1-domain-knowledge-a6bd6a505bc6?source=rss------data_science-5)
+- [#1 What Is Data Science?](https://medium.com/@davids_/1-what-is-data-science-9c8064c11477?source=rss------data_science-5)
+- [Proyecto 1 Power BI: Visualización de datos barómetro de febrero de 2022 del CIS](https://diegou2612.medium.com/proyecto-1-power-bi-visualizaci%C3%B3n-de-datos-bar%C3%B3metro-de-febrero-de-2022-del-cis-b34fc3223afa?source=rss------data_science-5)
+- [Investigate a Dataset Case Study in Python](https://python.plainenglish.io/investigate-a-dataset-case-study-in-python-b460bef9dc3f?source=rss------data_science-5)
+- [How to Quickly Extract Text From PDF Using Amazon Textract Python SDK](https://medium.com/the-brainwave/how-to-quickly-extract-text-from-pdf-using-amazon-textract-python-sdk-9db4932f6bcd?source=rss------data_science-5)
+- [Como Data Science pode ajudar na precificação de produtos](https://kfactor.medium.com/como-data-science-pode-ajudar-na-precifica%C3%A7%C3%A3o-de-produtos-bc357c8c8f60?source=rss------data_science-5)
+- [5 Best courses to get familiar with Blockchain](https://monochelsea12.medium.com/5-best-courses-to-get-familiar-with-blockchain-5d558fbb4d49?source=rss------data_science-5)
+- [Hypothesis Testing — Critical Value method with example.](https://psaurav0098.medium.com/hypothesis-testing-critical-value-method-with-example-cd481e5cd402?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
