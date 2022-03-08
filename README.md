@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Capstone Project: Helping a Business Increase Profits](https://medium.com/@ncox0906/capstone-project-helping-a-business-increase-profits-26c1148e19ef?source=rss------data_science-5)
-- [A &lpar;very&rpar; Brief Introduction to AI &amp; Data Science in the Industry 4.0](https://medium.datadriveninvestor.com/a-very-brief-introduction-to-ai-data-science-in-the-industry-4-0-573e31e0d007?source=rss------data_science-5)
-- [Navigating the ML/DS career in Health/BioTech pt.1 — Domain Knowledge](https://medium.com/@ming.jeng/navigating-the-ml-ds-career-in-health-biotech-pt-1-domain-knowledge-a6bd6a505bc6?source=rss------data_science-5)
-- [#1 What Is Data Science?](https://medium.com/@davids_/1-what-is-data-science-9c8064c11477?source=rss------data_science-5)
-- [Proyecto 1 Power BI: Visualización de datos barómetro de febrero de 2022 del CIS](https://diegou2612.medium.com/proyecto-1-power-bi-visualizaci%C3%B3n-de-datos-bar%C3%B3metro-de-febrero-de-2022-del-cis-b34fc3223afa?source=rss------data_science-5)
-- [Investigate a Dataset Case Study in Python](https://python.plainenglish.io/investigate-a-dataset-case-study-in-python-b460bef9dc3f?source=rss------data_science-5)
-- [How to Quickly Extract Text From PDF Using Amazon Textract Python SDK](https://medium.com/the-brainwave/how-to-quickly-extract-text-from-pdf-using-amazon-textract-python-sdk-9db4932f6bcd?source=rss------data_science-5)
-- [Como Data Science pode ajudar na precificação de produtos](https://kfactor.medium.com/como-data-science-pode-ajudar-na-precifica%C3%A7%C3%A3o-de-produtos-bc357c8c8f60?source=rss------data_science-5)
-- [5 Best courses to get familiar with Blockchain](https://monochelsea12.medium.com/5-best-courses-to-get-familiar-with-blockchain-5d558fbb4d49?source=rss------data_science-5)
-- [Hypothesis Testing — Critical Value method with example.](https://psaurav0098.medium.com/hypothesis-testing-critical-value-method-with-example-cd481e5cd402?source=rss------data_science-5)
+- [What Is Dataops?](https://anthonygiza.medium.com/what-is-dataops-4d7685e0154f?source=rss------data_science-5)
+- [How Ml And Ai Analysis Of Log Files Can Predicts Cyberthreats](https://anthonygiza.medium.com/how-ml-and-ai-analysis-of-log-files-can-predicts-cyberthreats-b95cd92ff09e?source=rss------data_science-5)
+- [Three Tips for Starting Data Science Teams](https://medium.com/@gabrielkrieshok/three-tips-for-starting-data-science-teams-cef844ddfcdd?source=rss------data_science-5)
+- [How To Really Understand The Mathematics Of Language](https://medium.com/street-science/how-to-really-understand-the-mathematics-of-language-79ef9873cfc5?source=rss------data_science-5)
+- [Marketing Intelligence Project Report: Grosse Pointe Associates and the ‘Microvan’](https://medium.com/@zy145/marketing-intelligence-project-report-grosse-pointe-associates-and-the-microvan-b77cc7cdb71b?source=rss------data_science-5)
+- [FastAPI Exceptions](https://medium.com/@saundersMcLane/fastapi-exceptions-35f5c5bd0535?source=rss------data_science-5)
+- [How I determined the perfect fit for the Business Analyst Position](https://medium.com/geekculture/how-i-determined-the-perfect-fit-for-the-business-analyst-position-b94780ce3f7b?source=rss------data_science-5)
+- [Web Scraping Stock Information using Python and BeautifulSoup](https://blog.jovian.ai/web-scraping-stock-information-using-python-and-beautifulsoup-6f4443518b5b?source=rss------data_science-5)
+- [The Best Python Cheat Sheet](https://preettheman.medium.com/the-best-python-cheat-sheet-cc3ff9bf2d02?source=rss------data_science-5)
+- [Weekly update for 2/28–3/6](https://medium.com/@bigwhitefaceofmarvin/weekly-update-for-2-28-3-6-d1cbc94d13cf?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
