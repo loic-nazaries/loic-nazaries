@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What Is Dataops?](https://anthonygiza.medium.com/what-is-dataops-4d7685e0154f?source=rss------data_science-5)
-- [How Ml And Ai Analysis Of Log Files Can Predicts Cyberthreats](https://anthonygiza.medium.com/how-ml-and-ai-analysis-of-log-files-can-predicts-cyberthreats-b95cd92ff09e?source=rss------data_science-5)
-- [Three Tips for Starting Data Science Teams](https://medium.com/@gabrielkrieshok/three-tips-for-starting-data-science-teams-cef844ddfcdd?source=rss------data_science-5)
-- [How To Really Understand The Mathematics Of Language](https://medium.com/street-science/how-to-really-understand-the-mathematics-of-language-79ef9873cfc5?source=rss------data_science-5)
-- [Marketing Intelligence Project Report: Grosse Pointe Associates and the ‘Microvan’](https://medium.com/@zy145/marketing-intelligence-project-report-grosse-pointe-associates-and-the-microvan-b77cc7cdb71b?source=rss------data_science-5)
-- [FastAPI Exceptions](https://medium.com/@saundersMcLane/fastapi-exceptions-35f5c5bd0535?source=rss------data_science-5)
-- [How I determined the perfect fit for the Business Analyst Position](https://medium.com/geekculture/how-i-determined-the-perfect-fit-for-the-business-analyst-position-b94780ce3f7b?source=rss------data_science-5)
-- [Web Scraping Stock Information using Python and BeautifulSoup](https://blog.jovian.ai/web-scraping-stock-information-using-python-and-beautifulsoup-6f4443518b5b?source=rss------data_science-5)
-- [The Best Python Cheat Sheet](https://preettheman.medium.com/the-best-python-cheat-sheet-cc3ff9bf2d02?source=rss------data_science-5)
-- [Weekly update for 2/28–3/6](https://medium.com/@bigwhitefaceofmarvin/weekly-update-for-2-28-3-6-d1cbc94d13cf?source=rss------data_science-5)
+- [Time Series Modeling](https://usernamejack.medium.com/time-series-modeling-7bcb9dfdd96b?source=rss------data_science-5)
+- [Aprendendo uma linguagem de programação](https://medium.com/@ericcestari/aprendendo-uma-linguagem-de-programa%C3%A7%C3%A3o-7ae33a18a519?source=rss------data_science-5)
+- [Categorising Short Text Descriptions: Machine Learning or Not?](https://ernchow.medium.com/categorising-short-text-descriptions-machine-learning-or-not-d3ec8de8c40?source=rss------data_science-5)
+- [How to Make Money in the Metaverse in 2022?](https://medium.com/@pencihub/how-to-make-money-in-the-metaverse-in-2022-591f4761f4fc?source=rss------data_science-5)
+- [Correlation or a Case for Causation?](https://medium.com/@dniggl/correlation-or-a-case-for-causation-26101fb0d25d?source=rss------data_science-5)
+- [Node.js is terrible for data processing pipelines](https://itnext.io/node-js-is-terrible-for-data-processing-pipelines-fe74ee2fd258?source=rss------data_science-5)
+- [Understanding the Differences Between Data Fabric and Data Virtualization](https://fintelics.medium.com/understanding-the-differences-between-data-fabric-and-data-virtualization-a7c010228f03?source=rss------data_science-5)
+- [WHAT IS THE DIFFERENCE BETWEEN WEB 2.0 AND WEB 3.0?](https://medium.com/@ajaotosinserah/what-is-the-difference-between-web-2-0-and-web-3-0-c434e8ee45e6?source=rss------data_science-5)
+- [Feature Extraction for NBA MVPs: What makes an NBA player the Most Valuable?](https://v410gadkari.medium.com/feature-extraction-for-nba-mvps-what-makes-an-nba-player-the-most-valuable-e199b67be395?source=rss------data_science-5)
+- [predict Bank Customer Churn using Random Forest with Grid Search Cross Validation in Python.](https://medium.com/@mo.sob7y111/predict-bank-customer-churn-using-random-forest-with-grid-search-cross-validation-in-python-b413ddf6c16e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
