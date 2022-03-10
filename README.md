@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Time Series Modeling](https://usernamejack.medium.com/time-series-modeling-7bcb9dfdd96b?source=rss------data_science-5)
-- [Aprendendo uma linguagem de programação](https://medium.com/@ericcestari/aprendendo-uma-linguagem-de-programa%C3%A7%C3%A3o-7ae33a18a519?source=rss------data_science-5)
-- [Categorising Short Text Descriptions: Machine Learning or Not?](https://ernchow.medium.com/categorising-short-text-descriptions-machine-learning-or-not-d3ec8de8c40?source=rss------data_science-5)
-- [How to Make Money in the Metaverse in 2022?](https://medium.com/@pencihub/how-to-make-money-in-the-metaverse-in-2022-591f4761f4fc?source=rss------data_science-5)
-- [Correlation or a Case for Causation?](https://medium.com/@dniggl/correlation-or-a-case-for-causation-26101fb0d25d?source=rss------data_science-5)
-- [Node.js is terrible for data processing pipelines](https://itnext.io/node-js-is-terrible-for-data-processing-pipelines-fe74ee2fd258?source=rss------data_science-5)
-- [Understanding the Differences Between Data Fabric and Data Virtualization](https://fintelics.medium.com/understanding-the-differences-between-data-fabric-and-data-virtualization-a7c010228f03?source=rss------data_science-5)
-- [WHAT IS THE DIFFERENCE BETWEEN WEB 2.0 AND WEB 3.0?](https://medium.com/@ajaotosinserah/what-is-the-difference-between-web-2-0-and-web-3-0-c434e8ee45e6?source=rss------data_science-5)
-- [Feature Extraction for NBA MVPs: What makes an NBA player the Most Valuable?](https://v410gadkari.medium.com/feature-extraction-for-nba-mvps-what-makes-an-nba-player-the-most-valuable-e199b67be395?source=rss------data_science-5)
-- [predict Bank Customer Churn using Random Forest with Grid Search Cross Validation in Python.](https://medium.com/@mo.sob7y111/predict-bank-customer-churn-using-random-forest-with-grid-search-cross-validation-in-python-b413ddf6c16e?source=rss------data_science-5)
+- [Surpassing Quarter-Life crisis &amp; The Valley of Despair](https://sreekiranar.medium.com/surpassing-quarter-life-crisis-the-valley-of-despair-6bc02ec4fbb9?source=rss------data_science-5)
+- [Apriori Algorithm — What your customers may like most?](https://ritresh-girdhar.medium.com/apriori-algorithm-what-your-customers-may-like-most-7a11480907fe?source=rss------data_science-5)
+- [Dirty Python: Making a chess engine AI from scratch](https://medium.com/@info_75168/dirty-python-making-a-chess-engine-ai-from-scratch-7133273819e8?source=rss------data_science-5)
+- [Bioinformatics for data scientists-Find the topmost frequent k-mers in a genomic segment](https://biolactosil.medium.com/bioinformatics-for-data-scientists-find-the-topmost-frequent-k-mers-in-a-genomic-segment-e889823bc016?source=rss------data_science-5)
+- [Welcome to the Commercial Internet of Things](https://davidknightterbine.medium.com/welcome-to-the-commercial-internet-of-things-12d426b7dc38?source=rss------data_science-5)
+- [Statistical Resampling in Python](https://medium.com/@nams_139/statistical-resampling-in-python-6e332fc119a?source=rss------data_science-5)
+- [From Math Major to Data Scientist for the Olympics: How I Landed My Dream Job](https://levelup.gitconnected.com/from-math-major-to-data-scientist-for-the-olympics-how-i-landed-my-dream-job-8b17fa5046c1?source=rss------data_science-5)
+- [Download Million Of Images At Once Using Programming Skills](https://levelup.gitconnected.com/download-million-of-images-at-once-using-programming-skills-d95f6b707cec?source=rss------data_science-5)
+- [Why Data Scientists Still Need Spreadsheets. Even If You Think They Are Outdated.](https://medium.com/geekculture/why-data-scientists-still-need-spreadsheets-25b1edff2161?source=rss------data_science-5)
+- [7 Important Factors That Affect a Data Scientist’s Salary](https://medium.com/data-science-playbook/7-important-factors-that-affect-a-data-scientists-salary-422a201c6947?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
