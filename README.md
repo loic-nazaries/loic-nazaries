@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Surpassing Quarter-Life crisis &amp; The Valley of Despair](https://sreekiranar.medium.com/surpassing-quarter-life-crisis-the-valley-of-despair-6bc02ec4fbb9?source=rss------data_science-5)
-- [Apriori Algorithm — What your customers may like most?](https://ritresh-girdhar.medium.com/apriori-algorithm-what-your-customers-may-like-most-7a11480907fe?source=rss------data_science-5)
-- [Dirty Python: Making a chess engine AI from scratch](https://medium.com/@info_75168/dirty-python-making-a-chess-engine-ai-from-scratch-7133273819e8?source=rss------data_science-5)
-- [Bioinformatics for data scientists-Find the topmost frequent k-mers in a genomic segment](https://biolactosil.medium.com/bioinformatics-for-data-scientists-find-the-topmost-frequent-k-mers-in-a-genomic-segment-e889823bc016?source=rss------data_science-5)
-- [Welcome to the Commercial Internet of Things](https://davidknightterbine.medium.com/welcome-to-the-commercial-internet-of-things-12d426b7dc38?source=rss------data_science-5)
-- [Statistical Resampling in Python](https://medium.com/@nams_139/statistical-resampling-in-python-6e332fc119a?source=rss------data_science-5)
-- [From Math Major to Data Scientist for the Olympics: How I Landed My Dream Job](https://levelup.gitconnected.com/from-math-major-to-data-scientist-for-the-olympics-how-i-landed-my-dream-job-8b17fa5046c1?source=rss------data_science-5)
-- [Download Million Of Images At Once Using Programming Skills](https://levelup.gitconnected.com/download-million-of-images-at-once-using-programming-skills-d95f6b707cec?source=rss------data_science-5)
-- [Why Data Scientists Still Need Spreadsheets. Even If You Think They Are Outdated.](https://medium.com/geekculture/why-data-scientists-still-need-spreadsheets-25b1edff2161?source=rss------data_science-5)
-- [7 Important Factors That Affect a Data Scientist’s Salary](https://medium.com/data-science-playbook/7-important-factors-that-affect-a-data-scientists-salary-422a201c6947?source=rss------data_science-5)
+- [The Rise of GPUs in the AI Universe](https://piexchange.medium.com/the-rise-of-gpus-in-the-ai-universe-8035a3faf4b8?source=rss------data_science-5)
+- [Training and Models: Some Practical Tips](https://medium.com/@adeperio/training-and-models-some-practical-tips-a571ee96c4d9?source=rss------data_science-5)
+- [WHAT YOU NEED TO KNOW ABOUT LINEAR REGRESSION!](https://medium.com/@liveanddata/what-you-need-to-know-about-linear-regression-45bd5c05ba49?source=rss------data_science-5)
+- [A Data Scientist’s Guide to Data Preprocessing &lpar;Part I&rpar;](https://rmhariharan.medium.com/a-data-scientists-guide-to-data-preprocessing-part-i-91ed80d920ef?source=rss------data_science-5)
+- [Of Hypergraphs, Programming Pairs, and Personal Learning Networks, Oh My! &lpar;Part 2 of 2&rpar;](https://medium.com/github-copilot-for-disabled-developers/faceted-paoh-hypergraph-data-visualization-pt2-b2175e678285?source=rss------data_science-5)
+- [Of Hypergraphs, Programming Pairs, and Personal Learning Networks, Oh My! &lpar;Part 1 of 2&rpar;](https://medium.com/github-copilot-for-disabled-developers/faceted-paoh-hypergraph-data-visualization-5aeecadc75b2?source=rss------data_science-5)
+- [Why I dislike Python in 2022](https://preettheman.medium.com/why-i-dislike-python-in-2022-41c2fce3d4b3?source=rss------data_science-5)
+- [Data Science on Lyft’s Fleet Team](https://eng.lyft.com/data-science-on-lyfts-fleet-team-141c594f656b?source=rss------data_science-5)
+- [BUSINESS INTELLIGENCE ADVENTURE](https://medium.com/@gizemdagdeviren/business-intelligence-adventure-390e7066d1d9?source=rss------data_science-5)
+- [How I build my first python web scraper… for infinite scrolling web pages !](https://carloalbertocarrucciu.medium.com/how-i-build-my-first-python-web-scraper-for-infinite-scrolling-web-pages-52d744c7873c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
