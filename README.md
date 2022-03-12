@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Rise of GPUs in the AI Universe](https://piexchange.medium.com/the-rise-of-gpus-in-the-ai-universe-8035a3faf4b8?source=rss------data_science-5)
-- [Training and Models: Some Practical Tips](https://medium.com/@adeperio/training-and-models-some-practical-tips-a571ee96c4d9?source=rss------data_science-5)
-- [WHAT YOU NEED TO KNOW ABOUT LINEAR REGRESSION!](https://medium.com/@liveanddata/what-you-need-to-know-about-linear-regression-45bd5c05ba49?source=rss------data_science-5)
-- [A Data Scientist’s Guide to Data Preprocessing &lpar;Part I&rpar;](https://rmhariharan.medium.com/a-data-scientists-guide-to-data-preprocessing-part-i-91ed80d920ef?source=rss------data_science-5)
-- [Of Hypergraphs, Programming Pairs, and Personal Learning Networks, Oh My! &lpar;Part 2 of 2&rpar;](https://medium.com/github-copilot-for-disabled-developers/faceted-paoh-hypergraph-data-visualization-pt2-b2175e678285?source=rss------data_science-5)
-- [Of Hypergraphs, Programming Pairs, and Personal Learning Networks, Oh My! &lpar;Part 1 of 2&rpar;](https://medium.com/github-copilot-for-disabled-developers/faceted-paoh-hypergraph-data-visualization-5aeecadc75b2?source=rss------data_science-5)
-- [Why I dislike Python in 2022](https://preettheman.medium.com/why-i-dislike-python-in-2022-41c2fce3d4b3?source=rss------data_science-5)
-- [Data Science on Lyft’s Fleet Team](https://eng.lyft.com/data-science-on-lyfts-fleet-team-141c594f656b?source=rss------data_science-5)
-- [BUSINESS INTELLIGENCE ADVENTURE](https://medium.com/@gizemdagdeviren/business-intelligence-adventure-390e7066d1d9?source=rss------data_science-5)
-- [How I build my first python web scraper… for infinite scrolling web pages !](https://carloalbertocarrucciu.medium.com/how-i-build-my-first-python-web-scraper-for-infinite-scrolling-web-pages-52d744c7873c?source=rss------data_science-5)
+- [Extracting Data from Salesforce with Python](https://medium.com/@harper.brett110/extracting-data-from-salesforce-with-python-b9de98e46721?source=rss------data_science-5)
+- [Creating Reproducible Data Science Projects](https://medium.com/@justinboylantoomey/creating-reproducible-data-science-projects-55efb696c28c?source=rss------data_science-5)
+- [The weirdest Python packages](https://preettheman.medium.com/the-weirdest-python-packages-f9052a4d9d66?source=rss------data_science-5)
+- [How to flatten MultiIndex Columns and Rows in Pandas](https://towardsdatascience.com/how-to-flatten-multiindex-columns-and-rows-in-pandas-f5406c50e569?source=rss------data_science-5)
+- [Dictionaries in Python: Detailed explanation gets registered in brain for life time](https://medium.com/@shyamasravani/dictionaries-in-python-detailed-explanation-gets-registered-in-brain-for-life-time-d6fc47acaf35?source=rss------data_science-5)
+- [Organização de projetos](https://medium.com/normalizando-os-dados/organiza%C3%A7%C3%A3o-de-projetos-4bc31556ede8?source=rss------data_science-5)
+- [Quantum Computing Could Overcome ML’s Main Problem](https://medium.com/geekculture/quantum-computing-could-overcome-mls-main-problem-f7c60727bb07?source=rss------data_science-5)
+- [10 Power BI Tips for Designing a Better Dashboard](https://medium.com/@cndro/10-power-bi-tips-for-designing-a-better-dashboard-e119c1446ed?source=rss------data_science-5)
+- [A Theoretical Analysis of Bias — Variance Tradeoff](https://medium.com/@Adesina_C/a-theoretical-analysis-of-bias-variance-tradeoff-acf1e23e4fea?source=rss------data_science-5)
+- [Beyond scikit-learn: Is it time to retire K-Means and use this method instead?](https://medium.com/@ali.soleymani.co/beyond-scikit-learn-is-it-time-to-retire-k-means-and-use-this-method-instead-b8eb9ca9079a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
