@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Extracting Data from Salesforce with Python](https://medium.com/@harper.brett110/extracting-data-from-salesforce-with-python-b9de98e46721?source=rss------data_science-5)
-- [Creating Reproducible Data Science Projects](https://medium.com/@justinboylantoomey/creating-reproducible-data-science-projects-55efb696c28c?source=rss------data_science-5)
-- [The weirdest Python packages](https://preettheman.medium.com/the-weirdest-python-packages-f9052a4d9d66?source=rss------data_science-5)
-- [How to flatten MultiIndex Columns and Rows in Pandas](https://towardsdatascience.com/how-to-flatten-multiindex-columns-and-rows-in-pandas-f5406c50e569?source=rss------data_science-5)
-- [Dictionaries in Python: Detailed explanation gets registered in brain for life time](https://medium.com/@shyamasravani/dictionaries-in-python-detailed-explanation-gets-registered-in-brain-for-life-time-d6fc47acaf35?source=rss------data_science-5)
-- [Organização de projetos](https://medium.com/normalizando-os-dados/organiza%C3%A7%C3%A3o-de-projetos-4bc31556ede8?source=rss------data_science-5)
-- [Quantum Computing Could Overcome ML’s Main Problem](https://medium.com/geekculture/quantum-computing-could-overcome-mls-main-problem-f7c60727bb07?source=rss------data_science-5)
-- [10 Power BI Tips for Designing a Better Dashboard](https://medium.com/@cndro/10-power-bi-tips-for-designing-a-better-dashboard-e119c1446ed?source=rss------data_science-5)
-- [A Theoretical Analysis of Bias — Variance Tradeoff](https://medium.com/@Adesina_C/a-theoretical-analysis-of-bias-variance-tradeoff-acf1e23e4fea?source=rss------data_science-5)
-- [Beyond scikit-learn: Is it time to retire K-Means and use this method instead?](https://medium.com/@ali.soleymani.co/beyond-scikit-learn-is-it-time-to-retire-k-means-and-use-this-method-instead-b8eb9ca9079a?source=rss------data_science-5)
+- [How to Become a Machine Learning Researcher in Cyber-Security &lpar;with No Computer Science Courses&rpar; —…](https://kenbrezinski.medium.com/how-to-become-a-machine-learning-researcher-in-cyber-security-with-no-computer-science-courses-c1834943bd03?source=rss------data_science-5)
+- [Cyclistic: Google Data Analytics Case Study](https://medium.com/@aknour/cyclistic-google-data-analytics-case-study-396ad8b4cc10?source=rss------data_science-5)
+- [An Introduction to Exploratory Data Analysis in Python](https://nikithmuralidhar.medium.com/an-introduction-to-exploratory-data-analysis-in-python-864f7ac3fb44?source=rss------data_science-5)
+- [What Is Meant By Big Data For Machine Learning?](https://anthonygiza.medium.com/what-is-meant-by-big-data-for-machine-learning-aa55ebe0f153?source=rss------data_science-5)
+- [How Is Big Data Driving Ai?](https://anthonygiza.medium.com/how-is-big-data-driving-ai-d279fcadedbf?source=rss------data_science-5)
+- [What Is The Future Of Machine Learning As A Service?](https://anthonygiza.medium.com/what-is-the-future-of-machine-learning-as-a-service-a2a112ebbbc6?source=rss------data_science-5)
+- [Intro to Neural Networks Implementation in Python](https://tarun-gupta.medium.com/intro-to-neural-networks-implementation-in-python-a3c867335f0?source=rss------data_science-5)
+- [How to Manage Exceptions When Waiting On Multiple Asyncio Tasks](https://python.plainenglish.io/how-to-manage-exceptions-when-waiting-on-multiple-asyncio-tasks-a5530ac10f02?source=rss------data_science-5)
+- [How Is Artificial Intelligence Related To Business Intelligence?](https://anthonygiza.medium.com/how-is-artificial-intelligence-related-to-business-intelligence-e5609638591?source=rss------data_science-5)
+- [Six Reasons Why Your Model Give Bad Results](https://medium.com/mlearning-ai/six-reasons-why-your-model-give-bad-results-db2804f0da0e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
