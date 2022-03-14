@@ -105,16 +105,14 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Become a Machine Learning Researcher in Cyber-Security &lpar;with No Computer Science Courses&rpar; —…](https://kenbrezinski.medium.com/how-to-become-a-machine-learning-researcher-in-cyber-security-with-no-computer-science-courses-c1834943bd03?source=rss------data_science-5)
-- [Cyclistic: Google Data Analytics Case Study](https://medium.com/@aknour/cyclistic-google-data-analytics-case-study-396ad8b4cc10?source=rss------data_science-5)
-- [An Introduction to Exploratory Data Analysis in Python](https://nikithmuralidhar.medium.com/an-introduction-to-exploratory-data-analysis-in-python-864f7ac3fb44?source=rss------data_science-5)
-- [What Is Meant By Big Data For Machine Learning?](https://anthonygiza.medium.com/what-is-meant-by-big-data-for-machine-learning-aa55ebe0f153?source=rss------data_science-5)
-- [How Is Big Data Driving Ai?](https://anthonygiza.medium.com/how-is-big-data-driving-ai-d279fcadedbf?source=rss------data_science-5)
-- [What Is The Future Of Machine Learning As A Service?](https://anthonygiza.medium.com/what-is-the-future-of-machine-learning-as-a-service-a2a112ebbbc6?source=rss------data_science-5)
-- [Intro to Neural Networks Implementation in Python](https://tarun-gupta.medium.com/intro-to-neural-networks-implementation-in-python-a3c867335f0?source=rss------data_science-5)
-- [How to Manage Exceptions When Waiting On Multiple Asyncio Tasks](https://python.plainenglish.io/how-to-manage-exceptions-when-waiting-on-multiple-asyncio-tasks-a5530ac10f02?source=rss------data_science-5)
-- [How Is Artificial Intelligence Related To Business Intelligence?](https://anthonygiza.medium.com/how-is-artificial-intelligence-related-to-business-intelligence-e5609638591?source=rss------data_science-5)
-- [Six Reasons Why Your Model Give Bad Results](https://medium.com/mlearning-ai/six-reasons-why-your-model-give-bad-results-db2804f0da0e?source=rss------data_science-5)
+- [Top 20 SQL to Python Pandas ‘How do I’ scenarios](https://medium.com/@janhavi.giri/top-20-sql-to-python-pandas-how-do-i-scenarios-131da8f4a179?source=rss------data_science-5)
+- [Reading from Multiple Sheets in an Excel File with Python](https://python.plainenglish.io/reading-from-multiple-sheets-in-an-excel-file-with-python-460004b4036d?source=rss------data_science-5)
+- [2020/2021 ENGLISH PREMIER LEAGUE ANALYSIS](https://the-analystee.medium.com/2020-2021-english-premier-league-analysis-a93b8b636ae6?source=rss------data_science-5)
+- [What I Wish I knew: Reflecting on my short time out of college as a Data Scientist](https://medium.com/@tannerarrizabalaga/what-i-wish-i-knew-reflecting-on-my-short-time-out-of-college-as-a-data-scientist-7536a3dac70e?source=rss------data_science-5)
+- [A Great Tool to Portfolio Optimization: Riskfolio-Lib &lpar;Python Code Included&rpar;](https://medium.com/@tzjy/a-great-tool-to-portfolio-optimization-riskfolio-lib-python-code-included-d4e4d503541c?source=rss------data_science-5)
+- [No code automated web scraping](https://dompl.medium.com/no-code-automated-web-scraping-fa37638e5ba8?source=rss------data_science-5)
+- [Tests every Product Manager should know](https://shaivyakodan.medium.com/tests-every-product-manager-should-know-2d16b9c2cd12?source=rss------data_science-5)
+- [5 Important Python interview questions for Data Scientists](https://medium.com/@pyrootml/5-important-python-question-and-answers-for-data-scientists-a1274a2b25e9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
