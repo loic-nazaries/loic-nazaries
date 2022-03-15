@@ -105,14 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Top 20 SQL to Python Pandas ‘How do I’ scenarios](https://medium.com/@janhavi.giri/top-20-sql-to-python-pandas-how-do-i-scenarios-131da8f4a179?source=rss------data_science-5)
-- [Reading from Multiple Sheets in an Excel File with Python](https://python.plainenglish.io/reading-from-multiple-sheets-in-an-excel-file-with-python-460004b4036d?source=rss------data_science-5)
-- [2020/2021 ENGLISH PREMIER LEAGUE ANALYSIS](https://the-analystee.medium.com/2020-2021-english-premier-league-analysis-a93b8b636ae6?source=rss------data_science-5)
-- [What I Wish I knew: Reflecting on my short time out of college as a Data Scientist](https://medium.com/@tannerarrizabalaga/what-i-wish-i-knew-reflecting-on-my-short-time-out-of-college-as-a-data-scientist-7536a3dac70e?source=rss------data_science-5)
-- [A Great Tool to Portfolio Optimization: Riskfolio-Lib &lpar;Python Code Included&rpar;](https://medium.com/@tzjy/a-great-tool-to-portfolio-optimization-riskfolio-lib-python-code-included-d4e4d503541c?source=rss------data_science-5)
-- [No code automated web scraping](https://dompl.medium.com/no-code-automated-web-scraping-fa37638e5ba8?source=rss------data_science-5)
-- [Tests every Product Manager should know](https://shaivyakodan.medium.com/tests-every-product-manager-should-know-2d16b9c2cd12?source=rss------data_science-5)
-- [5 Important Python interview questions for Data Scientists](https://medium.com/@pyrootml/5-important-python-question-and-answers-for-data-scientists-a1274a2b25e9?source=rss------data_science-5)
+- [Simulate the 2022 NCAA Men’s Basketball Tournament](https://dglid.medium.com/simulate-the-2022-ncaa-mens-basketball-tournament-dcfd51a1aaa9?source=rss------data_science-5)
+- [How to Fill Out Your 2022 March Madness Bracket](https://dglid.medium.com/how-to-fill-out-your-2022-march-madness-bracket-e22982f585cb?source=rss------data_science-5)
+- [Understanding The Code Review Automation Process in DevOps](https://medium.com/@onagoreoluwa92/understanding-the-code-review-automation-process-in-devops-e70b64b9f2a4?source=rss------data_science-5)
+- [Probability Distributions in Machine Learning &amp; Deep Learning](https://jonathan-hui.medium.com/probability-distributions-in-machine-learning-deep-learning-b0203de88bdf?source=rss------data_science-5)
+- [How Is Big Data Analytics Using Machine Learning?](https://anthonygiza.medium.com/how-is-big-data-analytics-using-machine-learning-b334a310ce79?source=rss------data_science-5)
+- [How Can Big Data Be Useful For A Business?](https://anthonygiza.medium.com/how-can-big-data-be-useful-for-a-business-cd1dbce1721?source=rss------data_science-5)
+- [PyTorch Just Got a Massive Update](https://preettheman.medium.com/pytorch-just-got-a-massive-update-24f0bda843af?source=rss------data_science-5)
+- [How I used tracing and data science to learn Redux correlates with terrible app performance](https://towardsdatascience.com/how-i-used-tracing-and-data-science-to-learn-redux-correlates-with-terrible-app-performance-4fe976ef8a06?source=rss------data_science-5)
+- [How I Know Your Data Science/ML Project Will Fail Before You Even Begin](https://medium.com/@jgilbertson47/how-i-know-your-data-science-ml-project-will-fail-before-you-even-begin-5f85f39d1359?source=rss------data_science-5)
+- [How To Access Relational Databases In Python](https://towardsdatascience.com/how-to-access-relational-databases-in-python-f711cb38e235?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
