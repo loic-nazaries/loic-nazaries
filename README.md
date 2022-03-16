@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Simulate the 2022 NCAA Men’s Basketball Tournament](https://dglid.medium.com/simulate-the-2022-ncaa-mens-basketball-tournament-dcfd51a1aaa9?source=rss------data_science-5)
-- [How to Fill Out Your 2022 March Madness Bracket](https://dglid.medium.com/how-to-fill-out-your-2022-march-madness-bracket-e22982f585cb?source=rss------data_science-5)
-- [Understanding The Code Review Automation Process in DevOps](https://medium.com/@onagoreoluwa92/understanding-the-code-review-automation-process-in-devops-e70b64b9f2a4?source=rss------data_science-5)
-- [Probability Distributions in Machine Learning &amp; Deep Learning](https://jonathan-hui.medium.com/probability-distributions-in-machine-learning-deep-learning-b0203de88bdf?source=rss------data_science-5)
-- [How Is Big Data Analytics Using Machine Learning?](https://anthonygiza.medium.com/how-is-big-data-analytics-using-machine-learning-b334a310ce79?source=rss------data_science-5)
-- [How Can Big Data Be Useful For A Business?](https://anthonygiza.medium.com/how-can-big-data-be-useful-for-a-business-cd1dbce1721?source=rss------data_science-5)
-- [PyTorch Just Got a Massive Update](https://preettheman.medium.com/pytorch-just-got-a-massive-update-24f0bda843af?source=rss------data_science-5)
-- [How I used tracing and data science to learn Redux correlates with terrible app performance](https://towardsdatascience.com/how-i-used-tracing-and-data-science-to-learn-redux-correlates-with-terrible-app-performance-4fe976ef8a06?source=rss------data_science-5)
-- [How I Know Your Data Science/ML Project Will Fail Before You Even Begin](https://medium.com/@jgilbertson47/how-i-know-your-data-science-ml-project-will-fail-before-you-even-begin-5f85f39d1359?source=rss------data_science-5)
-- [How To Access Relational Databases In Python](https://towardsdatascience.com/how-to-access-relational-databases-in-python-f711cb38e235?source=rss------data_science-5)
+- [Measuring Impact — Understand all about Sample Sizes!](https://medium.com/geekculture/measuring-impact-understand-all-about-sample-sizes-de2a55bffae0?source=rss------data_science-5)
+- [Data science in Eve Online](https://medium.com/mlearning-ai/data-science-in-eve-online-d6ae2d148ee1?source=rss------data_science-5)
+- [Linear Regression With PyTorch in Python](https://pub.towardsai.net/linear-regression-with-pytorch-in-python-79c6b40730b8?source=rss------data_science-5)
+- [Memphis Crimes and Police Trends](https://medium.com/@qvantrann/memphis-crimes-and-police-trends-6c597b9e05e?source=rss------data_science-5)
+- [RFM &lpar;MÜŞTERİ SEGMENTASYONU&rpar;](https://medium.com/@mustafatutuncu/rfm-m%C3%BC%C5%9Fteri%CC%87-segmentasyonu-397f03eea936?source=rss------data_science-5)
+- [Statement Of Purpose - Draft 1](https://danielstuesse.medium.com/statement-of-purpose-draft-1-cd950f48397a?source=rss------data_science-5)
+- [Learn when to use Bagging in your models](https://towardsdatascience.com/learn-when-to-use-bagging-in-your-models-6bcb29a9a6b8?source=rss------data_science-5)
+- [Business Intelligence](https://medium.com/@profalandiego/business-intelligence-19c4ee051681?source=rss------data_science-5)
+- [How to use KPI Visuals in Power BI](https://medium.com/@cndro/how-to-use-kpi-visuals-in-power-bi-5812a230ed97?source=rss------data_science-5)
+- [Modelos de atribución en marketing. Markov &lpar;5/6&rpar;](https://tomasreneboldi.medium.com/modelos-de-atribuci%C3%B3n-en-marketing-markov-5-6-b3ebaa192104?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
