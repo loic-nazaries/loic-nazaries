@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Dancing with Python Dunder Methods](https://medium.com/mlearning-ai/dancing-with-python-dunder-methods-b5d89172b622?source=rss------data_science-5)
-- [Bamboolib- Pandas without Code for Data Science](https://medium.com/@mehakm_26235/bamboolib-pandas-without-code-for-data-science-46d1b9f9cb41?source=rss------data_science-5)
-- [How Is Artificial Intelligence Improving Cloud Computing?](https://anthonygiza.medium.com/how-is-artificial-intelligence-improving-cloud-computing-7c52439ae8cd?source=rss------data_science-5)
-- [Why Is Cloud Computing Critical For A Data Scientist?](https://anthonygiza.medium.com/why-is-cloud-computing-critical-for-a-data-scientist-de10f3ab1fbe?source=rss------data_science-5)
-- [Using Kubernetes With Machine Learning](https://anthonygiza.medium.com/using-kubernetes-with-machine-learning-2509c16d6137?source=rss------data_science-5)
-- [Is Big Data The Same As Artificial Intelligence Or A Part Of It?](https://anthonygiza.medium.com/is-big-data-the-same-as-artificial-intelligence-or-a-part-of-it-bf3052f9a9a?source=rss------data_science-5)
-- [What Are The Benefits Of Big Data/Analytics As A Service?](https://anthonygiza.medium.com/what-are-the-benefits-of-big-data-analytics-as-a-service-eafe9285cf75?source=rss------data_science-5)
-- [The ultimate guide for Web Scraping with Selenium](https://sophialapadula.medium.com/the-ultimate-guide-for-web-scrapping-with-selenium-da361973fc47?source=rss------data_science-5)
-- [Wordle 用哪幾組字開始最好呢？如何可以穩定地 4 步完成呢？一個 data science 的小嘗試&lpar;2&rpar;](https://medium.com/%E8%8F%AF%E7%94%B0%E5%A3%AB%E5%A4%9A/wordle-%E7%94%A8%E5%93%AA%E5%B9%BE%E7%B5%84%E5%AD%97%E9%96%8B%E5%A7%8B%E6%9C%80%E5%A5%BD%E5%91%A2-%E5%A6%82%E4%BD%95%E5%8F%AF%E4%BB%A5%E7%A9%A9%E5%AE%9A%E5%9C%B0-4-%E6%AD%A5%E5%AE%8C%E6%88%90%E5%91%A2-%E4%B8%80%E5%80%8B-data-science-%E7%9A%84%E5%B0%8F%E5%98%97%E8%A9%A6-2-3d05c7a3075e?source=rss------data_science-5)
-- [You Need To Import This To Every Python Project](https://preettheman.medium.com/you-need-to-import-this-to-every-python-project-c53574a4629f?source=rss------data_science-5)
+- [What Are The Benefits Of Cloud Computing In Healthcare?](https://anthonygiza.medium.com/what-are-the-benefits-of-cloud-computing-in-healthcare-1ddc6df991bf?source=rss------data_science-5)
+- [Python | “Other customers also bought” algorithm](https://medium.com/@gustavoadiezg/python-other-customers-also-bought-algorithm-5eeff9237f16?source=rss------data_science-5)
+- [Analisando dados do Airbnb de Londres](https://medium.com/@cfantecelle/analisando-dados-do-airbnb-de-londres-318ee9d76ee0?source=rss------data_science-5)
+- [The Only Programming Language You’ll Ever Need](https://preettheman.medium.com/the-only-programming-language-youll-ever-need-4afe453eb16c?source=rss------data_science-5)
+- [Machine Learning and Data Center Planning](https://arjunkaarat.medium.com/machine-learning-and-data-center-planning-942c6274c801?source=rss------data_science-5)
+- [A.I Vs Data Science](https://medium.com/@dhanushv/a-i-vs-data-science-1b8cd0736c02?source=rss------data_science-5)
+- [Understanding %matplotlib inline](https://medium.com/@hampojohnpaul/understanding-matplotlib-inline-a741e30cc253?source=rss------data_science-5)
+- [BigQuery ML for building and creating models](https://medium.com/@nzehra/bigquery-ml-for-building-and-creating-models-f38d0a748e7e?source=rss------data_science-5)
+- [Connecting to an MSSQL server on a Mac](https://medium.com/@jrhanso1/connecting-to-an-mssql-server-on-a-mac-27a227f43d2c?source=rss------data_science-5)
+- [Is Ai Part Of Data Science?](https://anthonygiza.medium.com/is-ai-part-of-data-science-378bacc330e1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
