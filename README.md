@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What Are The Benefits Of Cloud Computing In Healthcare?](https://anthonygiza.medium.com/what-are-the-benefits-of-cloud-computing-in-healthcare-1ddc6df991bf?source=rss------data_science-5)
-- [Python | “Other customers also bought” algorithm](https://medium.com/@gustavoadiezg/python-other-customers-also-bought-algorithm-5eeff9237f16?source=rss------data_science-5)
-- [Analisando dados do Airbnb de Londres](https://medium.com/@cfantecelle/analisando-dados-do-airbnb-de-londres-318ee9d76ee0?source=rss------data_science-5)
-- [The Only Programming Language You’ll Ever Need](https://preettheman.medium.com/the-only-programming-language-youll-ever-need-4afe453eb16c?source=rss------data_science-5)
-- [Machine Learning and Data Center Planning](https://arjunkaarat.medium.com/machine-learning-and-data-center-planning-942c6274c801?source=rss------data_science-5)
-- [A.I Vs Data Science](https://medium.com/@dhanushv/a-i-vs-data-science-1b8cd0736c02?source=rss------data_science-5)
-- [Understanding %matplotlib inline](https://medium.com/@hampojohnpaul/understanding-matplotlib-inline-a741e30cc253?source=rss------data_science-5)
-- [BigQuery ML for building and creating models](https://medium.com/@nzehra/bigquery-ml-for-building-and-creating-models-f38d0a748e7e?source=rss------data_science-5)
-- [Connecting to an MSSQL server on a Mac](https://medium.com/@jrhanso1/connecting-to-an-mssql-server-on-a-mac-27a227f43d2c?source=rss------data_science-5)
-- [Is Ai Part Of Data Science?](https://anthonygiza.medium.com/is-ai-part-of-data-science-378bacc330e1?source=rss------data_science-5)
+- [Intro to Pandas](https://medium.com/@erichhohenstein/intro-to-pandas-9e52f9e77d8a?source=rss------data_science-5)
+- [MITO: Automatic Python Code from Spreadsheet Operations](https://medium.com/swlh/mito-automatic-python-code-from-spreadsheet-operations-44c841180566?source=rss------data_science-5)
+- [Linear regression vs. Generalized linear models &lpar;GLM&rpar;: What’s the difference?](https://anyi-guo.medium.com/linear-regression-vs-generalized-linear-models-glm-whats-the-difference-a6bf78d2c968?source=rss------data_science-5)
+- [数据大浪潮你跟上了吗：如何转行Business Analyst 商业分析师？](https://dataapplab.medium.com/%E6%95%B0%E6%8D%AE%E5%A4%A7%E6%B5%AA%E6%BD%AE%E4%BD%A0%E8%B7%9F%E4%B8%8A%E4%BA%86%E5%90%97-%E5%A6%82%E4%BD%95%E8%BD%AC%E8%A1%8Cbusiness-analyst-%E5%95%86%E4%B8%9A%E5%88%86%E6%9E%90%E5%B8%88-c2d9c261877e?source=rss------data_science-5)
+- [Probabilistic recreations of The First Digit Law.](https://towardsdatascience.com/probabilistic-recreations-of-the-first-digit-law-d13a55dc570?source=rss------data_science-5)
+- [Tableau Tutorial — How to create a Heatmap](https://medium.com/mlearning-ai/tableau-tutorial-how-to-create-a-heatmap-2892f3263859?source=rss------data_science-5)
+- [Teach &lpar;and learn&rpar; the Fourier transform geometrically!](https://peterbbryan.medium.com/teach-and-learn-the-fourier-transform-geometrically-ce320f4200c9?source=rss------data_science-5)
+- [Understand process order in a SQL query and why it is important](https://graflinger.medium.com/understand-process-order-in-a-sql-query-and-why-it-is-important-59051bcde0fd?source=rss------data_science-5)
+- [Starbucks Rewards Project](https://medium.com/@talha.shaikh5/starbucks-rewards-project-d29e6df86d78?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
