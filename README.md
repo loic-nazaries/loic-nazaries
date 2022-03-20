@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Intro to Pandas](https://medium.com/@erichhohenstein/intro-to-pandas-9e52f9e77d8a?source=rss------data_science-5)
-- [MITO: Automatic Python Code from Spreadsheet Operations](https://medium.com/swlh/mito-automatic-python-code-from-spreadsheet-operations-44c841180566?source=rss------data_science-5)
-- [Linear regression vs. Generalized linear models &lpar;GLM&rpar;: What’s the difference?](https://anyi-guo.medium.com/linear-regression-vs-generalized-linear-models-glm-whats-the-difference-a6bf78d2c968?source=rss------data_science-5)
-- [数据大浪潮你跟上了吗：如何转行Business Analyst 商业分析师？](https://dataapplab.medium.com/%E6%95%B0%E6%8D%AE%E5%A4%A7%E6%B5%AA%E6%BD%AE%E4%BD%A0%E8%B7%9F%E4%B8%8A%E4%BA%86%E5%90%97-%E5%A6%82%E4%BD%95%E8%BD%AC%E8%A1%8Cbusiness-analyst-%E5%95%86%E4%B8%9A%E5%88%86%E6%9E%90%E5%B8%88-c2d9c261877e?source=rss------data_science-5)
-- [Probabilistic recreations of The First Digit Law.](https://towardsdatascience.com/probabilistic-recreations-of-the-first-digit-law-d13a55dc570?source=rss------data_science-5)
-- [Tableau Tutorial — How to create a Heatmap](https://medium.com/mlearning-ai/tableau-tutorial-how-to-create-a-heatmap-2892f3263859?source=rss------data_science-5)
-- [Teach &lpar;and learn&rpar; the Fourier transform geometrically!](https://peterbbryan.medium.com/teach-and-learn-the-fourier-transform-geometrically-ce320f4200c9?source=rss------data_science-5)
-- [Understand process order in a SQL query and why it is important](https://graflinger.medium.com/understand-process-order-in-a-sql-query-and-why-it-is-important-59051bcde0fd?source=rss------data_science-5)
-- [Starbucks Rewards Project](https://medium.com/@talha.shaikh5/starbucks-rewards-project-d29e6df86d78?source=rss------data_science-5)
+- [Fermi Questions: In what way do they help solve data problems?](https://medium.com/@tarek.samaali.92/fermi-questions-in-what-way-do-they-help-solve-data-problems-4525102e17d4?source=rss------data_science-5)
+- [未來開放，『快篩兩次』是企業廣篩可以考慮的措施](https://kuanyuchiang.medium.com/%E6%9C%AA%E4%BE%86%E9%96%8B%E6%94%BE-%E5%BF%AB%E7%AF%A9%E5%85%A9%E6%AC%A1-%E6%98%AF%E4%BC%81%E6%A5%AD%E5%BB%A3%E7%AF%A9%E5%8F%AF%E4%BB%A5%E8%80%83%E6%85%AE%E7%9A%84%E6%8E%AA%E6%96%BD-19b4e7966757?source=rss------data_science-5)
+- [Sentiment Analysis on News Headlines: Classic Supervised Learning vs Deep Learning Approach](https://medium.com/@sultanawar321/sentiment-analysis-on-news-headlines-classic-supervised-learning-vs-deep-learning-approach-831ac698e276?source=rss------data_science-5)
+- [Make sure you do these while data cleaning!](https://dhavalthakur.medium.com/make-sure-you-do-these-while-data-cleaning-a9905be3d018?source=rss------data_science-5)
+- [The three environments for AI Professionals — Research, Development, and Production](https://kaushikshakkari.medium.com/the-three-environments-for-ai-professionals-research-development-and-production-cffb86dfe533?source=rss------data_science-5)
+- [4 Channels That Improve Your Mathematics and Statistics Understanding](https://medium.com/geekculture/4-channels-that-improve-your-mathematics-and-statistics-understanding-e60b274fdfeb?source=rss------data_science-5)
+- [Biz farklı Dünyanın &lpar;İş&rpar; İnsanlarıyız ?](https://gurkansaman.medium.com/biz-farkl%C4%B1-d%C3%BCnyan%C4%B1n-i%CC%87%C5%9F-i%CC%87nsanlar%C4%B1y%C4%B1z-9b5c6a921495?source=rss------data_science-5)
+- [GANs in Medical Image Analysis: Part 1](https://medium.com/@sunil7545/gans-in-medical-image-analysis-part-1-f1212bcc506e?source=rss------data_science-5)
+- [Python Enums — How you should be using them.](https://medium.com/@bengiese22/python-enums-how-you-should-be-using-them-92aef37714d2?source=rss------data_science-5)
+- [Algoritmos de classificação — Árvore de decisão](https://medium.com/@sarahmbs/algoritmos-de-classifica%C3%A7%C3%A3o-%C3%A1rvore-de-decis%C3%A3o-90b36e9fcc32?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
