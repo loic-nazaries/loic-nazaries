@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Fermi Questions: In what way do they help solve data problems?](https://medium.com/@tarek.samaali.92/fermi-questions-in-what-way-do-they-help-solve-data-problems-4525102e17d4?source=rss------data_science-5)
-- [未來開放，『快篩兩次』是企業廣篩可以考慮的措施](https://kuanyuchiang.medium.com/%E6%9C%AA%E4%BE%86%E9%96%8B%E6%94%BE-%E5%BF%AB%E7%AF%A9%E5%85%A9%E6%AC%A1-%E6%98%AF%E4%BC%81%E6%A5%AD%E5%BB%A3%E7%AF%A9%E5%8F%AF%E4%BB%A5%E8%80%83%E6%85%AE%E7%9A%84%E6%8E%AA%E6%96%BD-19b4e7966757?source=rss------data_science-5)
-- [Sentiment Analysis on News Headlines: Classic Supervised Learning vs Deep Learning Approach](https://medium.com/@sultanawar321/sentiment-analysis-on-news-headlines-classic-supervised-learning-vs-deep-learning-approach-831ac698e276?source=rss------data_science-5)
-- [Make sure you do these while data cleaning!](https://dhavalthakur.medium.com/make-sure-you-do-these-while-data-cleaning-a9905be3d018?source=rss------data_science-5)
-- [The three environments for AI Professionals — Research, Development, and Production](https://kaushikshakkari.medium.com/the-three-environments-for-ai-professionals-research-development-and-production-cffb86dfe533?source=rss------data_science-5)
-- [4 Channels That Improve Your Mathematics and Statistics Understanding](https://medium.com/geekculture/4-channels-that-improve-your-mathematics-and-statistics-understanding-e60b274fdfeb?source=rss------data_science-5)
-- [Biz farklı Dünyanın &lpar;İş&rpar; İnsanlarıyız ?](https://gurkansaman.medium.com/biz-farkl%C4%B1-d%C3%BCnyan%C4%B1n-i%CC%87%C5%9F-i%CC%87nsanlar%C4%B1y%C4%B1z-9b5c6a921495?source=rss------data_science-5)
-- [GANs in Medical Image Analysis: Part 1](https://medium.com/@sunil7545/gans-in-medical-image-analysis-part-1-f1212bcc506e?source=rss------data_science-5)
-- [Python Enums — How you should be using them.](https://medium.com/@bengiese22/python-enums-how-you-should-be-using-them-92aef37714d2?source=rss------data_science-5)
-- [Algoritmos de classificação — Árvore de decisão](https://medium.com/@sarahmbs/algoritmos-de-classifica%C3%A7%C3%A3o-%C3%A1rvore-de-decis%C3%A3o-90b36e9fcc32?source=rss------data_science-5)
+- [Database Popularity Ranks: DB-Engines Ranking](https://medium.com/@tzjy/database-popularity-ranks-db-engines-ranking-60342e7d7c6c?source=rss------data_science-5)
+- [An Introduction to the Data Science Workflow](https://medium.com/@_Smoljames/an-introduction-to-the-data-science-workflow-3d165803ed09?source=rss------data_science-5)
+- [How to Drive the Right Outcomes with AI for Your Products](https://medium.com/intuit-engineering/how-to-drive-the-right-outcomes-with-ai-for-your-products-c23b0d645f1c?source=rss------data_science-5)
+- [2022 Evictions Revisited — Tableau Edition!](https://medium.com/@ML_Treasures/2022-evictions-revisited-tableau-edition-c1e84dc4f638?source=rss------data_science-5)
+- [SME Lenders &amp; Brokers are years off the mark and far behind the curve.](https://rohandavids.medium.com/sme-lenders-brokers-are-years-off-the-mark-and-far-behind-the-curve-afb156905b86?source=rss------data_science-5)
+- [The NLP Cypher | 03.20.22](https://nlpcypher.medium.com/the-nlp-cypher-03-20-22-78f34f965bab?source=rss------data_science-5)
+- [Data Types in Tableau: Using &amp; Cleaning; A Road to Tableau Desktop Specialist Certification](https://pub.towardsai.net/data-types-in-tableau-using-cleaning-a-road-to-tableau-desktop-specialist-certification-7793111f60bd?source=rss------data_science-5)
+- [D4S Sunday Briefing #146](https://medium.data4sci.com/d4s-sunday-briefing-146-3d8009bcac03?source=rss------data_science-5)
+- [This Awesome Python Project Converts Videos To Art](https://preettheman.medium.com/this-awesome-python-project-converts-videos-to-art-d0e0269a6ed2?source=rss------data_science-5)
+- [Beginner’s guide to Machine Learning: Part 1 - Introduction to Machine Learning](https://medium.com/@jovan.kalajdjieski/beginners-guide-to-machine-learning-part-1-introduction-to-machine-learning-e7d5268bf008?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
