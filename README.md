@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [I Got Promoted to Data Scientist from Junior Data Scientist in 10 Months.](https://medium.com/geekculture/i-got-promoted-to-data-scientist-from-junior-data-scientist-in-10-months-80433e84b91a?source=rss-2cf6b549448------2)
 - [3 Tools that I Used the Most in My First Year as a Data Scientist](https://medium.com/geekculture/3-tools-that-i-used-the-most-in-my-first-year-as-a-data-scientist-6a42495e191a?source=rss-2cf6b549448------2)
 - [Speed Up Your Pandas Workflow with Modin](https://towardsdatascience.com/speed-up-your-pandas-workflow-with-modin-9a61acff0076?source=rss-2cf6b549448------2)
 - [How to Make Pandas Functions More Useful](https://towardsdatascience.com/how-to-make-pandas-functions-more-useful-25649f71cc21?source=rss-2cf6b549448------2)
 - [Everything You Need to Know About Ranking with Pandas](https://towardsdatascience.com/everything-you-need-to-know-about-ranking-with-pandas-aa2ab5921c01?source=rss-2cf6b549448------2)
-- [20 Examples to Master Filtering Pandas DataFrames](https://towardsdatascience.com/20-examples-to-master-filtering-pandas-dataframes-df6fabfe126f?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
