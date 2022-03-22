@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Database Popularity Ranks: DB-Engines Ranking](https://medium.com/@tzjy/database-popularity-ranks-db-engines-ranking-60342e7d7c6c?source=rss------data_science-5)
-- [An Introduction to the Data Science Workflow](https://medium.com/@_Smoljames/an-introduction-to-the-data-science-workflow-3d165803ed09?source=rss------data_science-5)
-- [How to Drive the Right Outcomes with AI for Your Products](https://medium.com/intuit-engineering/how-to-drive-the-right-outcomes-with-ai-for-your-products-c23b0d645f1c?source=rss------data_science-5)
-- [2022 Evictions Revisited — Tableau Edition!](https://medium.com/@ML_Treasures/2022-evictions-revisited-tableau-edition-c1e84dc4f638?source=rss------data_science-5)
-- [SME Lenders &amp; Brokers are years off the mark and far behind the curve.](https://rohandavids.medium.com/sme-lenders-brokers-are-years-off-the-mark-and-far-behind-the-curve-afb156905b86?source=rss------data_science-5)
-- [The NLP Cypher | 03.20.22](https://nlpcypher.medium.com/the-nlp-cypher-03-20-22-78f34f965bab?source=rss------data_science-5)
-- [Data Types in Tableau: Using &amp; Cleaning; A Road to Tableau Desktop Specialist Certification](https://pub.towardsai.net/data-types-in-tableau-using-cleaning-a-road-to-tableau-desktop-specialist-certification-7793111f60bd?source=rss------data_science-5)
-- [D4S Sunday Briefing #146](https://medium.data4sci.com/d4s-sunday-briefing-146-3d8009bcac03?source=rss------data_science-5)
-- [This Awesome Python Project Converts Videos To Art](https://preettheman.medium.com/this-awesome-python-project-converts-videos-to-art-d0e0269a6ed2?source=rss------data_science-5)
-- [Beginner’s guide to Machine Learning: Part 1 - Introduction to Machine Learning](https://medium.com/@jovan.kalajdjieski/beginners-guide-to-machine-learning-part-1-introduction-to-machine-learning-e7d5268bf008?source=rss------data_science-5)
+- [Plotando Mapa com Leaflet no R](https://medium.com/@bigvigyaan/plotando-mapa-com-leaflet-no-r-bd012e601fdc?source=rss------data_science-5)
+- [Métricas de Performance: Matriz de Confusão, Precision, Recall e F1-Score](https://fmatholiveira.medium.com/m%C3%A9tricas-de-performance-matriz-de-confus%C3%A3o-precision-recall-e-f1-score-5a220f4a218c?source=rss------data_science-5)
+- [5 insights of Seattle’s Airbnb open data for better travel decisions](https://medium.com/@jay.xiong/5-insights-of-seattles-airbnb-open-data-for-better-travel-decisions-52852b5abcc4?source=rss------data_science-5)
+- [Why Data Engineering Has Overtaken Data Science](https://towardsdatascience.com/why-data-engineering-has-overtaken-data-science-3de817bd69ec?source=rss------data_science-5)
+- [How to start coding in Python](https://python.plainenglish.io/how-to-start-coding-in-python-5a56cf8b8e26?source=rss------data_science-5)
+- [Hypothesis testing on football players consciously getting yellow cards to be suspended for the…](https://medium.com/@ChristophSaffer/hypothesis-testing-on-football-players-consciously-getting-yellow-cards-to-be-suspended-for-the-40593328c3dd?source=rss------data_science-5)
+- [Modelos de atribución en marketing. Resumen &lpar;6/6&rpar;](https://tomasreneboldi.medium.com/modelos-de-atribuci%C3%B3n-en-marketing-resumen-6-6-d0ef6a494d09?source=rss------data_science-5)
+- [Stop Learning Python Like This](https://preettheman.medium.com/stop-learning-python-like-this-b9235e5f04d?source=rss------data_science-5)
+- [Using Linear Regression to Predict Medical Expenses](https://gscampregher.medium.com/using-linear-regression-to-predict-medical-expenses-5af1439fc2f1?source=rss------data_science-5)
+- [5 Components of Tableau Workspace Useful to Build a Data Visualisation](https://medium.com/tableau101/5-components-of-tableau-workspace-useful-to-build-a-data-visualisation-c6e62ee58d48?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
