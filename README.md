@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Plotando Mapa com Leaflet no R](https://medium.com/@bigvigyaan/plotando-mapa-com-leaflet-no-r-bd012e601fdc?source=rss------data_science-5)
-- [Métricas de Performance: Matriz de Confusão, Precision, Recall e F1-Score](https://fmatholiveira.medium.com/m%C3%A9tricas-de-performance-matriz-de-confus%C3%A3o-precision-recall-e-f1-score-5a220f4a218c?source=rss------data_science-5)
-- [5 insights of Seattle’s Airbnb open data for better travel decisions](https://medium.com/@jay.xiong/5-insights-of-seattles-airbnb-open-data-for-better-travel-decisions-52852b5abcc4?source=rss------data_science-5)
-- [Why Data Engineering Has Overtaken Data Science](https://towardsdatascience.com/why-data-engineering-has-overtaken-data-science-3de817bd69ec?source=rss------data_science-5)
-- [How to start coding in Python](https://python.plainenglish.io/how-to-start-coding-in-python-5a56cf8b8e26?source=rss------data_science-5)
-- [Hypothesis testing on football players consciously getting yellow cards to be suspended for the…](https://medium.com/@ChristophSaffer/hypothesis-testing-on-football-players-consciously-getting-yellow-cards-to-be-suspended-for-the-40593328c3dd?source=rss------data_science-5)
-- [Modelos de atribución en marketing. Resumen &lpar;6/6&rpar;](https://tomasreneboldi.medium.com/modelos-de-atribuci%C3%B3n-en-marketing-resumen-6-6-d0ef6a494d09?source=rss------data_science-5)
-- [Stop Learning Python Like This](https://preettheman.medium.com/stop-learning-python-like-this-b9235e5f04d?source=rss------data_science-5)
-- [Using Linear Regression to Predict Medical Expenses](https://gscampregher.medium.com/using-linear-regression-to-predict-medical-expenses-5af1439fc2f1?source=rss------data_science-5)
-- [5 Components of Tableau Workspace Useful to Build a Data Visualisation](https://medium.com/tableau101/5-components-of-tableau-workspace-useful-to-build-a-data-visualisation-c6e62ee58d48?source=rss------data_science-5)
+- [Dashboard — Conversão de Atendimento](https://medium.com/@brenocesar25/dashboard-convers%C3%A3o-de-atendimento-46847575fe48?source=rss------data_science-5)
+- [Top 5 Ways Data Science and AI Can Help You Succeed In Your Career](https://medium.com/codex/top-5-ways-data-science-and-ai-can-help-you-succeed-in-your-career-a537e99ba1c9?source=rss------data_science-5)
+- [Twitter Sentiment Analysis: Hate Speech Detection with Unbalanced Data](https://alpmesri.medium.com/twitter-sentiment-analysis-hate-speech-detection-with-unbalanced-data-46d1f57be2ab?source=rss------data_science-5)
+- [Information Theory Basic for Machine Learning &amp; Deep Learning](https://jonathan-hui.medium.com/information-theory-basic-for-machine-learning-38e45921bc55?source=rss------data_science-5)
+- [Simplify Collaboration for Data Scientist with DagsHub Mirroring](https://pub.towardsai.net/simplify-collaboration-for-data-scientist-with-dagshub-mirroring-705471698233?source=rss------data_science-5)
+- [What Benifits can Machine Learning provide in the Advertising Domain](https://monochelsea12.medium.com/what-benifits-can-machine-learning-provide-in-the-advertising-domain-3eb068f85919?source=rss------data_science-5)
+- [Useful PySpark SQL Functions for a Quick Start](https://arieljiangaj.medium.com/useful-pyspark-sql-functions-for-a-quick-start-aae31d422a31?source=rss------data_science-5)
+- [Difference between Iteration and Epoch in Neural Networks](https://ruthvikraja-mv.medium.com/difference-between-iteration-and-epoch-in-neural-networks-e70c09e581f9?source=rss------data_science-5)
+- [VIRTUAL ENVIRONMENT NEDİR?](https://medium.com/@gamzecoban/virtual-environment-nedi%CC%87r-d769a6446cb7?source=rss------data_science-5)
+- [Clusterização: Começando pelo básico com RFM Segmentation Model](https://medium.com/@heitorfelix/clusteriza%C3%A7%C3%A3o-come%C3%A7ando-pelo-b%C3%A1sico-com-rfm-segmentation-model-c850331d1a6d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
