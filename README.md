@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Dashboard — Conversão de Atendimento](https://medium.com/@brenocesar25/dashboard-convers%C3%A3o-de-atendimento-46847575fe48?source=rss------data_science-5)
-- [Top 5 Ways Data Science and AI Can Help You Succeed In Your Career](https://medium.com/codex/top-5-ways-data-science-and-ai-can-help-you-succeed-in-your-career-a537e99ba1c9?source=rss------data_science-5)
-- [Twitter Sentiment Analysis: Hate Speech Detection with Unbalanced Data](https://alpmesri.medium.com/twitter-sentiment-analysis-hate-speech-detection-with-unbalanced-data-46d1f57be2ab?source=rss------data_science-5)
-- [Information Theory Basic for Machine Learning &amp; Deep Learning](https://jonathan-hui.medium.com/information-theory-basic-for-machine-learning-38e45921bc55?source=rss------data_science-5)
-- [Simplify Collaboration for Data Scientist with DagsHub Mirroring](https://pub.towardsai.net/simplify-collaboration-for-data-scientist-with-dagshub-mirroring-705471698233?source=rss------data_science-5)
-- [What Benifits can Machine Learning provide in the Advertising Domain](https://monochelsea12.medium.com/what-benifits-can-machine-learning-provide-in-the-advertising-domain-3eb068f85919?source=rss------data_science-5)
-- [Useful PySpark SQL Functions for a Quick Start](https://arieljiangaj.medium.com/useful-pyspark-sql-functions-for-a-quick-start-aae31d422a31?source=rss------data_science-5)
-- [Difference between Iteration and Epoch in Neural Networks](https://ruthvikraja-mv.medium.com/difference-between-iteration-and-epoch-in-neural-networks-e70c09e581f9?source=rss------data_science-5)
-- [VIRTUAL ENVIRONMENT NEDİR?](https://medium.com/@gamzecoban/virtual-environment-nedi%CC%87r-d769a6446cb7?source=rss------data_science-5)
-- [Clusterização: Começando pelo básico com RFM Segmentation Model](https://medium.com/@heitorfelix/clusteriza%C3%A7%C3%A3o-come%C3%A7ando-pelo-b%C3%A1sico-com-rfm-segmentation-model-c850331d1a6d?source=rss------data_science-5)
+- [What Role Do Data Analysts Play In War?](https://medium.com/geekculture/what-role-do-data-analysts-play-in-war-48b99d903d13?source=rss------data_science-5)
+- [Creating a Simple Contrarian Indicator.](https://kaabar-sofien.medium.com/creating-a-simple-contrarian-indicator-e46fee10b611?source=rss------data_science-5)
+- [Análise de Carreiras Através de Grafos com Python.](https://medium.com/@nophaieviscente/an%C3%A1lise-de-carreiras-atrav%C3%A9s-de-grafos-com-python-bbd1545cfb9?source=rss------data_science-5)
+- [Python — The New Normal](https://medium.com/@hampojohnpaul/python-the-new-normal-f29655836c95?source=rss------data_science-5)
+- [Google Data Analytics Course](https://medium.com/@cellis_81614/google-data-analytics-course-16949dcc6bee?source=rss------data_science-5)
+- [Algorithmic view of Markov chain Monte Carlo](https://medium.com/@saumik_44881/algorithmic-view-of-markov-chain-monte-carlo-5ee9b75afccb?source=rss------data_science-5)
+- [How To Scrape Data From Instagram](https://preettheman.medium.com/how-to-scrape-data-from-instagram-5f647b2130ee?source=rss------data_science-5)
+- [Build a Book Recommendation Bot with TigerGraph](https://medium.com/@jayde.wong/build-a-book-recommendation-bot-with-tigergraph-bcf38521fdf5?source=rss------data_science-5)
+- [Are You Using Data Analytics To Drive Business Growth? Start Today!](https://bunmieogungbemi.medium.com/are-you-using-data-analytics-to-drive-business-growth-start-today-7d9402fe2ac1?source=rss------data_science-5)
+- [Data Literacy is Key to Data Science](https://bunmieogungbemi.medium.com/data-literacy-is-key-to-data-science-18d71b76e7cf?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
