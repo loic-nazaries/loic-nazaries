@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What Role Do Data Analysts Play In War?](https://medium.com/geekculture/what-role-do-data-analysts-play-in-war-48b99d903d13?source=rss------data_science-5)
-- [Creating a Simple Contrarian Indicator.](https://kaabar-sofien.medium.com/creating-a-simple-contrarian-indicator-e46fee10b611?source=rss------data_science-5)
-- [Análise de Carreiras Através de Grafos com Python.](https://medium.com/@nophaieviscente/an%C3%A1lise-de-carreiras-atrav%C3%A9s-de-grafos-com-python-bbd1545cfb9?source=rss------data_science-5)
-- [Python — The New Normal](https://medium.com/@hampojohnpaul/python-the-new-normal-f29655836c95?source=rss------data_science-5)
-- [Google Data Analytics Course](https://medium.com/@cellis_81614/google-data-analytics-course-16949dcc6bee?source=rss------data_science-5)
-- [Algorithmic view of Markov chain Monte Carlo](https://medium.com/@saumik_44881/algorithmic-view-of-markov-chain-monte-carlo-5ee9b75afccb?source=rss------data_science-5)
-- [How To Scrape Data From Instagram](https://preettheman.medium.com/how-to-scrape-data-from-instagram-5f647b2130ee?source=rss------data_science-5)
-- [Build a Book Recommendation Bot with TigerGraph](https://medium.com/@jayde.wong/build-a-book-recommendation-bot-with-tigergraph-bcf38521fdf5?source=rss------data_science-5)
-- [Are You Using Data Analytics To Drive Business Growth? Start Today!](https://bunmieogungbemi.medium.com/are-you-using-data-analytics-to-drive-business-growth-start-today-7d9402fe2ac1?source=rss------data_science-5)
-- [Data Literacy is Key to Data Science](https://bunmieogungbemi.medium.com/data-literacy-is-key-to-data-science-18d71b76e7cf?source=rss------data_science-5)
+- [Learning How to Use Cloud Platforms for ML Ops and Data Engineering](https://medium.com/@hendrickacosta1594/learning-how-to-use-cloud-platforms-for-ml-ops-and-data-engineering-7aead3fc5dd?source=rss------data_science-5)
+- [Streamlit: From Data to Web App](https://medium.com/@erichhohenstein/streamlit-from-data-to-web-app-195274760f26?source=rss------data_science-5)
+- [Playing with DataFrames.jl • Part I](https://medium.com/@o.eleftherakou/playing-with-dataframes-jl-part-i-44fd01b985d5?source=rss------data_science-5)
+- [You Need To Start Every Python Script With this](https://preettheman.medium.com/you-need-to-start-every-python-script-with-this-dcdc47dd7956?source=rss------data_science-5)
+- [FIFA : Data Analysis &amp; Vizualization](https://medium.com/@caille.maxence99/fifa-data-analysis-vizualization-153bdd4b1508?source=rss------data_science-5)
+- [Statistical Analysis with Excel-Chapter11](https://begumhajra777.medium.com/statistical-analysis-with-excel-chapter11-f75e70f9bcc4?source=rss------data_science-5)
+- [Why I dislike MATLAB in 2022](https://preettheman.medium.com/why-i-dislike-matlab-in-2022-f67f52ee9e8a?source=rss------data_science-5)
+- [A Data Science project: Toxic comments classification using Naïve Bayes &amp; Logistic regression…](https://medium.com/@jeremyarancio/a-data-science-project-toxic-comments-classification-using-na%C3%AFve-bayes-logistic-regression-d745304fcd?source=rss------data_science-5)
+- [Unique Features of NFT OnChained](https://blog.cryptostars.is/unique-features-of-nft-onchained-f018554bd81a?source=rss------data_science-5)
+- [Python List Compherensions, Dict Compherensions](https://medium.com/@anilozcan35/python-list-compherensions-dict-compherensions-fdc2c4b506ad?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
