@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Learning How to Use Cloud Platforms for ML Ops and Data Engineering](https://medium.com/@hendrickacosta1594/learning-how-to-use-cloud-platforms-for-ml-ops-and-data-engineering-7aead3fc5dd?source=rss------data_science-5)
-- [Streamlit: From Data to Web App](https://medium.com/@erichhohenstein/streamlit-from-data-to-web-app-195274760f26?source=rss------data_science-5)
-- [Playing with DataFrames.jl • Part I](https://medium.com/@o.eleftherakou/playing-with-dataframes-jl-part-i-44fd01b985d5?source=rss------data_science-5)
-- [You Need To Start Every Python Script With this](https://preettheman.medium.com/you-need-to-start-every-python-script-with-this-dcdc47dd7956?source=rss------data_science-5)
-- [FIFA : Data Analysis &amp; Vizualization](https://medium.com/@caille.maxence99/fifa-data-analysis-vizualization-153bdd4b1508?source=rss------data_science-5)
-- [Statistical Analysis with Excel-Chapter11](https://begumhajra777.medium.com/statistical-analysis-with-excel-chapter11-f75e70f9bcc4?source=rss------data_science-5)
-- [Why I dislike MATLAB in 2022](https://preettheman.medium.com/why-i-dislike-matlab-in-2022-f67f52ee9e8a?source=rss------data_science-5)
-- [A Data Science project: Toxic comments classification using Naïve Bayes &amp; Logistic regression…](https://medium.com/@jeremyarancio/a-data-science-project-toxic-comments-classification-using-na%C3%AFve-bayes-logistic-regression-d745304fcd?source=rss------data_science-5)
-- [Unique Features of NFT OnChained](https://blog.cryptostars.is/unique-features-of-nft-onchained-f018554bd81a?source=rss------data_science-5)
-- [Python List Compherensions, Dict Compherensions](https://medium.com/@anilozcan35/python-list-compherensions-dict-compherensions-fdc2c4b506ad?source=rss------data_science-5)
+- [Market Segmentation and Predicting Marketing Success with Data Science](https://medium.com/@thomas.shawcarveth/market-segmentation-and-predicting-marketing-success-with-data-science-f48c99e3b4e1?source=rss------data_science-5)
+- [Eat My Dust, Loops!](https://jasondeden.medium.com/eat-my-dust-loops-33e5279a01de?source=rss------data_science-5)
+- [Data Science in the next 1000 years.](https://medium.com/@tarek.samaali.92/data-science-in-the-next-1000-years-9e183497d702?source=rss------data_science-5)
+- [DParte 2&rpar; Case 04 — &lpar; 3 | 4&rpar; — ETL](https://medium.com/@joaovitor_alencar/dparte-2-case-04-3-4-etl-7a8f19445480?source=rss------data_science-5)
+- [Building Community Relations: The LG Electronics and CDS Academic Research Services Initiative](https://nyudatascience.medium.com/building-community-relations-the-lg-electronics-and-cds-academic-research-services-initiative-48af8ff94480?source=rss------data_science-5)
+- [My Google Data Analytics Certification Experience](https://medium.com/@gustavoadiezg/my-google-data-analytics-certification-experience-7042995a233e?source=rss------data_science-5)
+- [The Impact of Racism in the Field of Data Science](https://medium.com/@ThroughTheDataLens/the-impact-of-racism-in-the-field-of-data-science-ac8c5fda612?source=rss------data_science-5)
+- [Why I dislike Scala in 2022](https://preettheman.medium.com/why-i-dislike-scala-in-2022-29c4f1b45202?source=rss------data_science-5)
+- [Newsletter #65 — World-leading AI expert’s new approach](https://medium.com/nural-research/newsletter-65-world-leading-ai-experts-new-approach-3db76038a6ff?source=rss------data_science-5)
+- [Representative Sampling: A Statistical Method to Derive Data Insights from Noisy Data Distributions](https://medium.com/walmartglobaltech/representative-sampling-a-statistical-method-to-derive-data-insights-from-noisy-data-distributions-b42e14817d09?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
