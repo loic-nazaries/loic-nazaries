@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Market Segmentation and Predicting Marketing Success with Data Science](https://medium.com/@thomas.shawcarveth/market-segmentation-and-predicting-marketing-success-with-data-science-f48c99e3b4e1?source=rss------data_science-5)
-- [Eat My Dust, Loops!](https://jasondeden.medium.com/eat-my-dust-loops-33e5279a01de?source=rss------data_science-5)
-- [Data Science in the next 1000 years.](https://medium.com/@tarek.samaali.92/data-science-in-the-next-1000-years-9e183497d702?source=rss------data_science-5)
-- [DParte 2&rpar; Case 04 — &lpar; 3 | 4&rpar; — ETL](https://medium.com/@joaovitor_alencar/dparte-2-case-04-3-4-etl-7a8f19445480?source=rss------data_science-5)
-- [Building Community Relations: The LG Electronics and CDS Academic Research Services Initiative](https://nyudatascience.medium.com/building-community-relations-the-lg-electronics-and-cds-academic-research-services-initiative-48af8ff94480?source=rss------data_science-5)
-- [My Google Data Analytics Certification Experience](https://medium.com/@gustavoadiezg/my-google-data-analytics-certification-experience-7042995a233e?source=rss------data_science-5)
-- [The Impact of Racism in the Field of Data Science](https://medium.com/@ThroughTheDataLens/the-impact-of-racism-in-the-field-of-data-science-ac8c5fda612?source=rss------data_science-5)
-- [Why I dislike Scala in 2022](https://preettheman.medium.com/why-i-dislike-scala-in-2022-29c4f1b45202?source=rss------data_science-5)
-- [Newsletter #65 — World-leading AI expert’s new approach](https://medium.com/nural-research/newsletter-65-world-leading-ai-experts-new-approach-3db76038a6ff?source=rss------data_science-5)
-- [Representative Sampling: A Statistical Method to Derive Data Insights from Noisy Data Distributions](https://medium.com/walmartglobaltech/representative-sampling-a-statistical-method-to-derive-data-insights-from-noisy-data-distributions-b42e14817d09?source=rss------data_science-5)
+- [4 Courses I Would Take to Learn Data Science &lpar;If I Had to Start Over&rpar;](https://medium.com/geekculture/4-courses-i-would-take-to-learn-data-science-if-i-had-to-start-over-ca54b6619e68?source=rss------data_science-5)
+- [Building a Simple Search Engine with Elastic Search](https://medium.com/@dilani_07/building-a-simple-search-engine-with-elastic-search-a03dc34f1e77?source=rss------data_science-5)
+- [Starbucks Capstone Challenge — Predicting Offer Success](https://medium.com/@david.zils/starbucks-capstone-challenge-predicting-offer-success-9f2b4d8f25b?source=rss------data_science-5)
+- [Projeto: Como visualizar dados meteorológicos a partir de um documento .csv com pandas.](https://medium.com/@andredallabg/projeto-como-visualizar-dados-meteorol%C3%B3gicos-a-partir-de-um-documento-csv-com-pandas-d8fc8c38b768?source=rss------data_science-5)
+- [Why I have always been amazed by probability distributions](https://medium.com/@navoj/why-i-have-always-been-amazed-by-probability-distributions-810225302f78?source=rss------data_science-5)
+- [Want to estimate a proportion? Take this number of samples](https://robertocabal.medium.com/want-to-estimate-a-proportion-take-this-number-of-samples-fcf8fd2b77ff?source=rss------data_science-5)
+- [Customer profiling: How to use data to improve customer’s experience?](https://medium.com/@yolandamarcosd/customer-profiling-how-to-use-data-to-improve-customers-experience-a6159058e231?source=rss------data_science-5)
+- [Ways to detect &amp; remove outliers](https://atifsaeedarts.medium.com/ways-to-detect-remove-outliers-b2453efeddf3?source=rss------data_science-5)
+- [5 best Python Courses on Udemy](https://monochelsea12.medium.com/5-best-python-courses-on-udemy-c0c8d5589764?source=rss------data_science-5)
+- [Trading the Average Distance](https://kaabar-sofien.medium.com/trading-the-average-distance-7eaa38a77096?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
