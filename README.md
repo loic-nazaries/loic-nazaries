@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [4 Courses I Would Take to Learn Data Science &lpar;If I Had to Start Over&rpar;](https://medium.com/geekculture/4-courses-i-would-take-to-learn-data-science-if-i-had-to-start-over-ca54b6619e68?source=rss------data_science-5)
-- [Building a Simple Search Engine with Elastic Search](https://medium.com/@dilani_07/building-a-simple-search-engine-with-elastic-search-a03dc34f1e77?source=rss------data_science-5)
-- [Starbucks Capstone Challenge — Predicting Offer Success](https://medium.com/@david.zils/starbucks-capstone-challenge-predicting-offer-success-9f2b4d8f25b?source=rss------data_science-5)
-- [Projeto: Como visualizar dados meteorológicos a partir de um documento .csv com pandas.](https://medium.com/@andredallabg/projeto-como-visualizar-dados-meteorol%C3%B3gicos-a-partir-de-um-documento-csv-com-pandas-d8fc8c38b768?source=rss------data_science-5)
-- [Why I have always been amazed by probability distributions](https://medium.com/@navoj/why-i-have-always-been-amazed-by-probability-distributions-810225302f78?source=rss------data_science-5)
-- [Want to estimate a proportion? Take this number of samples](https://robertocabal.medium.com/want-to-estimate-a-proportion-take-this-number-of-samples-fcf8fd2b77ff?source=rss------data_science-5)
-- [Customer profiling: How to use data to improve customer’s experience?](https://medium.com/@yolandamarcosd/customer-profiling-how-to-use-data-to-improve-customers-experience-a6159058e231?source=rss------data_science-5)
-- [Ways to detect &amp; remove outliers](https://atifsaeedarts.medium.com/ways-to-detect-remove-outliers-b2453efeddf3?source=rss------data_science-5)
-- [5 best Python Courses on Udemy](https://monochelsea12.medium.com/5-best-python-courses-on-udemy-c0c8d5589764?source=rss------data_science-5)
-- [Trading the Average Distance](https://kaabar-sofien.medium.com/trading-the-average-distance-7eaa38a77096?source=rss------data_science-5)
+- [SQL Joins in Plain English](https://levelup.gitconnected.com/sql-joins-in-plain-english-c43379368396?source=rss------data_science-5)
+- [The Battle of Interactive Geographic Visualization Part 6 — Greppo](https://towardsdatascience.com/the-battle-of-interactive-geographic-visualization-part-6-greppo-4f615a1dae43?source=rss------data_science-5)
+- [Introducing ChessMapper.com](https://medium.com/@jameslabadorf/introducing-chessmapper-com-c9a5f8b6467?source=rss------data_science-5)
+- [Python 3.11 to be twice as fast as predecessors](https://python.plainenglish.io/python-3-11-to-be-twice-as-fast-as-predecessors-156768bc3d4?source=rss------data_science-5)
+- [Learning Tableau? Here are 3 Concepts You Need to Know](https://sqlbelle.medium.com/learning-tableau-here-are-3-concepts-you-need-to-know-61163199268b?source=rss------data_science-5)
+- [Building an algorithm to predict women’s soccer performance](https://medium.com/@lmd465/building-an-algorithm-to-predict-womens-soccer-performance-eac9f2663654?source=rss------data_science-5)
+- [From Zero to Hero with Pandas Dataframe](https://medium.com/@janhavi.giri/from-zero-to-hero-with-pandas-dataframe-1fff07794e37?source=rss------data_science-5)
+- [Introduction to Python](https://medium.com/@tuenguyends/introduction-to-python-e2e9d46426f0?source=rss------data_science-5)
+- [The mistake many managers are doing while working with daily KPIs](https://medium.com/@niloaraujo/the-mistake-many-managers-are-doing-while-working-with-daily-kpis-ed8bcc32983c?source=rss------data_science-5)
+- [Introduction to Numpy](https://medium.com/@florvela/introduction-to-numpy-beec93df61c9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
