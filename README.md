@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [SQL Joins in Plain English](https://levelup.gitconnected.com/sql-joins-in-plain-english-c43379368396?source=rss------data_science-5)
-- [The Battle of Interactive Geographic Visualization Part 6 — Greppo](https://towardsdatascience.com/the-battle-of-interactive-geographic-visualization-part-6-greppo-4f615a1dae43?source=rss------data_science-5)
-- [Introducing ChessMapper.com](https://medium.com/@jameslabadorf/introducing-chessmapper-com-c9a5f8b6467?source=rss------data_science-5)
-- [Python 3.11 to be twice as fast as predecessors](https://python.plainenglish.io/python-3-11-to-be-twice-as-fast-as-predecessors-156768bc3d4?source=rss------data_science-5)
-- [Learning Tableau? Here are 3 Concepts You Need to Know](https://sqlbelle.medium.com/learning-tableau-here-are-3-concepts-you-need-to-know-61163199268b?source=rss------data_science-5)
-- [Building an algorithm to predict women’s soccer performance](https://medium.com/@lmd465/building-an-algorithm-to-predict-womens-soccer-performance-eac9f2663654?source=rss------data_science-5)
-- [From Zero to Hero with Pandas Dataframe](https://medium.com/@janhavi.giri/from-zero-to-hero-with-pandas-dataframe-1fff07794e37?source=rss------data_science-5)
-- [Introduction to Python](https://medium.com/@tuenguyends/introduction-to-python-e2e9d46426f0?source=rss------data_science-5)
-- [The mistake many managers are doing while working with daily KPIs](https://medium.com/@niloaraujo/the-mistake-many-managers-are-doing-while-working-with-daily-kpis-ed8bcc32983c?source=rss------data_science-5)
-- [Introduction to Numpy](https://medium.com/@florvela/introduction-to-numpy-beec93df61c9?source=rss------data_science-5)
+- [Fish Food Analysis: Part 2](https://medium.com/@Andrew-Ingalls/fish-food-analysis-part-2-b4f8f18d9930?source=rss------data_science-5)
+- [MLOps vs DevOps: What is the difference? &lpar;MLOps-2&rpar;](https://medium.com/@Hany.Hossny/mlops-vs-devops-how-different-are-they-mlops-2-8bcafeff1230?source=rss------data_science-5)
+- [My Experience in the Udacity Machine learning DevOps&lpar;MLOPS&rpar; nano degree](https://ampaduh.medium.com/my-experience-in-the-udacity-machine-learning-devops-mlops-nano-degree-14be947f2df8?source=rss------data_science-5)
+- [WHY ALL THESE TALKS ABOUT DATA?](https://medium.com/@emmseg98/why-all-these-talks-about-data-fc45b01aabd2?source=rss------data_science-5)
+- [Limpeza de dados, outliers e valores ausentes.](https://medium.com/@igorleonelborba/limpeza-de-dados-outliers-e-valores-ausentes-84959ce6e843?source=rss------data_science-5)
+- [Introduction to Apache Airflow](https://monochelsea12.medium.com/introduction-to-apache-airflow-48338cf7e8dd?source=rss------data_science-5)
+- [Start your first project with Jupyter Lab](https://medium.com/@tuenguyends/start-your-first-project-with-jupyter-lab-84f5b78b4522?source=rss------data_science-5)
+- [How to read a label on a wine bottle using computer vision ? &lpar;Part 3&rpar;](https://towardsdatascience.com/how-to-read-a-label-on-a-wine-bottle-using-computer-vision-part-3-e4729e5a8140?source=rss------data_science-5)
+- [6 Time Series Predictive Tasks You Should Know About](https://towardsdatascience.com/6-time-series-predictive-tasks-you-should-know-about-b899fb83b6bf?source=rss------data_science-5)
+- [Awesome Code Editor You Should Check Out](https://preettheman.medium.com/awesome-code-editor-you-should-check-out-54c2e281963b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
