@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [6 Must-Know Methods in Python’s Random Module](https://medium.com/geekculture/6-must-know-methods-in-pythons-random-module-338263b5f927?source=rss-2cf6b549448------2)
 - [3 Methods for Aggregating Data with Python Pandas](https://towardsdatascience.com/3-methods-for-aggregating-data-with-python-pandas-14ceb75b6f6e?source=rss-2cf6b549448------2)
 - [I Got Promoted to Data Scientist from Junior Data Scientist in 10 Months.](https://medium.com/geekculture/i-got-promoted-to-data-scientist-from-junior-data-scientist-in-10-months-80433e84b91a?source=rss-2cf6b549448------2)
 - [3 Tools that I Used the Most in My First Year as a Data Scientist](https://medium.com/geekculture/3-tools-that-i-used-the-most-in-my-first-year-as-a-data-scientist-6a42495e191a?source=rss-2cf6b549448------2)
 - [Speed Up Your Pandas Workflow with Modin](https://towardsdatascience.com/speed-up-your-pandas-workflow-with-modin-9a61acff0076?source=rss-2cf6b549448------2)
-- [How to Make Pandas Functions More Useful](https://towardsdatascience.com/how-to-make-pandas-functions-more-useful-25649f71cc21?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
