@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How is the current market for Data Scientist today?](https://medium.com/m2mtechconnect/how-is-the-current-market-for-data-scientist-today-623e112eb5c7?source=rss------data_science-5)
-- [Going from 0 to 1 modeling User Preferences for Personalized Recommendations](https://medium.com/whatnot-engineering/going-from-0-to-1-modeling-user-preferences-for-personalized-recommendations-1b4e30aac45a?source=rss------data_science-5)
-- [Thanks, Hannah. Glad you liked it.](https://ashjurberg.medium.com/thanks-hannah-glad-you-liked-it-43489af6b6e9?source=rss------data_science-5)
-- [Explaining Model Performance Metrics to My Mother](https://medium.com/@wilkinson.colby/explaining-model-performance-metrics-to-my-mother-7ca5c9990b0d?source=rss------data_science-5)
-- [Leclerc and Verstappen in Arabia. A data comparison.](https://medium.com/@jmloche/leclerc-and-verstappen-in-arabia-a-data-comparison-55df71267403?source=rss------data_science-5)
-- [TECH JOB OPPORTUNITES](https://medium.com/@queenene.onazi/tech-job-opportunites-9494ec892c8?source=rss------data_science-5)
-- [&amp; What Time is that Other Thing?](https://servian.dev/what-time-is-that-other-thing-4d6b8f8baad0?source=rss------data_science-5)
-- [My Profile in Github](https://medium.com/@brendaslfarrey/my-profile-in-github-ec73a40db958?source=rss------data_science-5)
-- [Impact of Age on NFL Player Performance: Does Position Matter? &lpar;Part 3&rpar;](https://medium.com/@calebsmith_87504/impact-of-age-on-nfl-player-performance-does-position-matter-part-3-6c404f68f6d7?source=rss------data_science-5)
+- [Impact of Outliers on Machine Learning Models](https://atifsaeedarts.medium.com/impact-of-outliers-on-machine-learning-models-7b3e3fd9cd93?source=rss------data_science-5)
+- [Journey to Hadoop](https://medium.com/@thankachankarun639/journey-to-hadoop-e2dbc30acc?source=rss------data_science-5)
+- [Why Data Science ?](https://medium.com/@thankachankarun639/why-data-science-806c8bd1ae5b?source=rss------data_science-5)
+- [Birth of the Data Scientist](https://medium.com/@thankachankarun639/birth-of-the-data-scientist-22b2e14313af?source=rss------data_science-5)
+- [Using Randomness Effectively in Deep Learning](https://medium.com/mlearning-ai/using-randomness-effectively-in-deep-learning-910c60adc067?source=rss------data_science-5)
+- [How do humans experience statistical overfitting?](https://towardsdatascience.com/how-do-humans-experience-statistical-overfitting-95c3bcaca734?source=rss------data_science-5)
+- [Data Science Tutorials — Training a Decision Tree using R](https://towardsdatascience.com/data-science-tutorials-training-a-decision-tree-using-r-d6266936d86?source=rss------data_science-5)
+- [Leclerc and Verstappen. A data analysis of their race.](https://medium.com/@jmloche/leclerc-and-verstappen-a-data-analysis-of-their-race-295c69bc1ad6?source=rss------data_science-5)
+- [Como identificar outliers com a biblioteca PyOD](https://medium.com/@igorleonelborba/como-identificar-outliers-com-a-biblioteca-pyod-cab0f3e1a1f5?source=rss------data_science-5)
+- [Every Python Coder Should Use This Tool](https://preettheman.medium.com/every-python-coder-should-use-this-tool-b162a8424942?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
