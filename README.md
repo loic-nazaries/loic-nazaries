@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Impact of Outliers on Machine Learning Models](https://atifsaeedarts.medium.com/impact-of-outliers-on-machine-learning-models-7b3e3fd9cd93?source=rss------data_science-5)
-- [Journey to Hadoop](https://medium.com/@thankachankarun639/journey-to-hadoop-e2dbc30acc?source=rss------data_science-5)
-- [Why Data Science ?](https://medium.com/@thankachankarun639/why-data-science-806c8bd1ae5b?source=rss------data_science-5)
-- [Birth of the Data Scientist](https://medium.com/@thankachankarun639/birth-of-the-data-scientist-22b2e14313af?source=rss------data_science-5)
-- [Using Randomness Effectively in Deep Learning](https://medium.com/mlearning-ai/using-randomness-effectively-in-deep-learning-910c60adc067?source=rss------data_science-5)
-- [How do humans experience statistical overfitting?](https://towardsdatascience.com/how-do-humans-experience-statistical-overfitting-95c3bcaca734?source=rss------data_science-5)
-- [Data Science Tutorials — Training a Decision Tree using R](https://towardsdatascience.com/data-science-tutorials-training-a-decision-tree-using-r-d6266936d86?source=rss------data_science-5)
-- [Leclerc and Verstappen. A data analysis of their race.](https://medium.com/@jmloche/leclerc-and-verstappen-a-data-analysis-of-their-race-295c69bc1ad6?source=rss------data_science-5)
-- [Como identificar outliers com a biblioteca PyOD](https://medium.com/@igorleonelborba/como-identificar-outliers-com-a-biblioteca-pyod-cab0f3e1a1f5?source=rss------data_science-5)
-- [Every Python Coder Should Use This Tool](https://preettheman.medium.com/every-python-coder-should-use-this-tool-b162a8424942?source=rss------data_science-5)
+- [Observing the universe using Generative Adversarial Networks](https://monochelsea12.medium.com/observing-the-universe-using-generative-adversarial-networks-1647f91892b4?source=rss------data_science-5)
+- [Detecção de fraudes em transações com cartão de crédito](https://medium.com/@fellipe_ao/detec%C3%A7%C3%A3o-de-fraudes-em-transa%C3%A7%C3%B5es-com-cart%C3%A3o-de-cr%C3%A9dito-6ca67d653164?source=rss------data_science-5)
+- [How to check the quality of your Linear Regression Model?](https://medium.com/@karan220595/how-to-check-the-quality-of-your-linear-regression-model-4a9ed260278c?source=rss------data_science-5)
+- [Time Series Data Analysis In Python](https://pub.towardsai.net/time-series-data-analysis-in-python-1492ee4ca974?source=rss------data_science-5)
+- [Usando IA para Diminuir a Evasão de Clientes — Churn Prediction](https://medium.com/@gabrielreversi/usando-ia-para-diminuir-a-evas%C3%A3o-de-clientes-churn-prediction-a5e4412e7752?source=rss------data_science-5)
+- [The Hugging Face AI platform](https://monochelsea12.medium.com/the-hugging-face-ai-platform-e392b24958d3?source=rss------data_science-5)
+- [Data Science for Beginners for Free](https://lucascavalcante87.medium.com/data-science-for-beginners-for-free-1d46ee6e366?source=rss------data_science-5)
+- [What’s a violin plot?](https://techblog.securityscorecard.com/whats-a-violin-plot-1889b5874a16?source=rss------data_science-5)
+- [Conflito russo-ucraniano e a rede Tor](https://medium.com/@magefermat/conflito-russo-ucraniano-e-a-rede-tor-2a6c587e1137?source=rss------data_science-5)
+- [Scala Classes: A Practical Introduction](https://medium.com/@clever.tech.memes/scala-classes-a-practical-introduction-273ac5f39791?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
