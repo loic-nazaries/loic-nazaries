@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Observing the universe using Generative Adversarial Networks](https://monochelsea12.medium.com/observing-the-universe-using-generative-adversarial-networks-1647f91892b4?source=rss------data_science-5)
-- [Detecção de fraudes em transações com cartão de crédito](https://medium.com/@fellipe_ao/detec%C3%A7%C3%A3o-de-fraudes-em-transa%C3%A7%C3%B5es-com-cart%C3%A3o-de-cr%C3%A9dito-6ca67d653164?source=rss------data_science-5)
-- [How to check the quality of your Linear Regression Model?](https://medium.com/@karan220595/how-to-check-the-quality-of-your-linear-regression-model-4a9ed260278c?source=rss------data_science-5)
-- [Time Series Data Analysis In Python](https://pub.towardsai.net/time-series-data-analysis-in-python-1492ee4ca974?source=rss------data_science-5)
-- [Usando IA para Diminuir a Evasão de Clientes — Churn Prediction](https://medium.com/@gabrielreversi/usando-ia-para-diminuir-a-evas%C3%A3o-de-clientes-churn-prediction-a5e4412e7752?source=rss------data_science-5)
-- [The Hugging Face AI platform](https://monochelsea12.medium.com/the-hugging-face-ai-platform-e392b24958d3?source=rss------data_science-5)
-- [Data Science for Beginners for Free](https://lucascavalcante87.medium.com/data-science-for-beginners-for-free-1d46ee6e366?source=rss------data_science-5)
-- [What’s a violin plot?](https://techblog.securityscorecard.com/whats-a-violin-plot-1889b5874a16?source=rss------data_science-5)
-- [Conflito russo-ucraniano e a rede Tor](https://medium.com/@magefermat/conflito-russo-ucraniano-e-a-rede-tor-2a6c587e1137?source=rss------data_science-5)
-- [Scala Classes: A Practical Introduction](https://medium.com/@clever.tech.memes/scala-classes-a-practical-introduction-273ac5f39791?source=rss------data_science-5)
+- [5 Top Cybersecurity Tools in 2022](https://monochelsea12.medium.com/5-top-cybersecurity-tools-in-2022-a43095f48ee0?source=rss------data_science-5)
+- [Chapter 22 — Python Programming Made Easy](https://medium.com/@cherhinchong/chapter-22-python-programming-made-easy-5a2fcec59e7d?source=rss------data_science-5)
+- [Python Libraries to know in 2022](https://monochelsea12.medium.com/python-libraries-to-know-in-2022-2590c04a139a?source=rss------data_science-5)
+- [Exploratory Data Analysis for Tabular Data Using Pandas](https://bamidele01.medium.com/exploratory-data-analysis-for-tabular-data-using-pandas-dd8395f182a9?source=rss------data_science-5)
+- [Python Gigs Total as much as $15K per onthly](https://medium.com/codex/python-gigs-total-as-much-as-15k-per-onthly-b23d97570228?source=rss------data_science-5)
+- [Python Packages To Make Your Life Easier](https://preettheman.medium.com/python-packages-to-make-your-life-easier-f6199d8ff4ab?source=rss------data_science-5)
+- [Python Tutorial 14 Of 50: The Best Python Libraries for Machine Learning](https://medium.com/@alains/python-tutorial-14-of-50-the-best-python-libraries-for-machine-learning-36c4d98939a0?source=rss------data_science-5)
+- [Understand Bayes’ Theorem once and for all](https://medium.com/@ericsegalajovelli/understand-bayes-theorem-once-and-for-all-f0f3c7d3319a?source=rss------data_science-5)
+- [Stop estimating. Start shipping.](https://medium.com/socratic-methods/stop-estimating-start-shipping-89132f139abf?source=rss------data_science-5)
+- [The Most Efficient Way To Learn Data Analisis in 12 Weeks: Step By Step Guide](https://medium.com/@alains/the-most-efficient-way-to-learn-data-analisis-in-12-weeks-step-by-step-guide-8f93d74f0d08?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
