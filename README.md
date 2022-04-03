@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [5 Top Cybersecurity Tools in 2022](https://monochelsea12.medium.com/5-top-cybersecurity-tools-in-2022-a43095f48ee0?source=rss------data_science-5)
-- [Chapter 22 — Python Programming Made Easy](https://medium.com/@cherhinchong/chapter-22-python-programming-made-easy-5a2fcec59e7d?source=rss------data_science-5)
-- [Python Libraries to know in 2022](https://monochelsea12.medium.com/python-libraries-to-know-in-2022-2590c04a139a?source=rss------data_science-5)
-- [Exploratory Data Analysis for Tabular Data Using Pandas](https://bamidele01.medium.com/exploratory-data-analysis-for-tabular-data-using-pandas-dd8395f182a9?source=rss------data_science-5)
-- [Python Gigs Total as much as $15K per onthly](https://medium.com/codex/python-gigs-total-as-much-as-15k-per-onthly-b23d97570228?source=rss------data_science-5)
-- [Python Packages To Make Your Life Easier](https://preettheman.medium.com/python-packages-to-make-your-life-easier-f6199d8ff4ab?source=rss------data_science-5)
-- [Python Tutorial 14 Of 50: The Best Python Libraries for Machine Learning](https://medium.com/@alains/python-tutorial-14-of-50-the-best-python-libraries-for-machine-learning-36c4d98939a0?source=rss------data_science-5)
-- [Understand Bayes’ Theorem once and for all](https://medium.com/@ericsegalajovelli/understand-bayes-theorem-once-and-for-all-f0f3c7d3319a?source=rss------data_science-5)
-- [Stop estimating. Start shipping.](https://medium.com/socratic-methods/stop-estimating-start-shipping-89132f139abf?source=rss------data_science-5)
-- [The Most Efficient Way To Learn Data Analisis in 12 Weeks: Step By Step Guide](https://medium.com/@alains/the-most-efficient-way-to-learn-data-analisis-in-12-weeks-step-by-step-guide-8f93d74f0d08?source=rss------data_science-5)
+- [Getting started with Apache Cassandra on Jupyter Notebook](https://medium.com/@kibomamoses/getting-started-with-apache-cassandra-on-jupyter-notebook-a6576a3e496?source=rss------data_science-5)
+- [Introducing Fast Dash — A Framework for Rapid Development of ML Prototypes](https://towardsdatascience.com/introducing-fast-dash-a-framework-for-rapid-development-of-ml-prototypes-88379e3e6047?source=rss------data_science-5)
+- [2 different approaches to identify prospective customers](https://medium.com/@roberto.de.monte5/2-different-approaches-to-identify-prospective-customers-5052de40208?source=rss------data_science-5)
+- [Market Basket Analysis — How Do I Know What Products Together?](https://trisxcjoseph.medium.com/market-basket-analysis-how-do-i-know-what-products-together-6d7ce90b5181?source=rss------data_science-5)
+- [What makes big data really be BIG Data?](https://medium.com/illumination/what-makes-big-data-really-be-big-data-4c4540d71d52?source=rss------data_science-5)
+- [OBTENEZ UN PERMIS DE CONDUIRE, DES PASSEPORTS : WhatsApp : +41767199795](https://medium.com/@julianbrant005/obtenez-un-permis-de-conduire-des-passeports-whatsapp-41767199795-b2c0502b2749?source=rss------data_science-5)
+- [All about Data Splitting, Feature Scaling and Feature Encoding in Machine Learning](https://govindsandeep.medium.com/all-about-data-splitting-feature-scaling-and-feature-encoding-in-machine-learning-c78998c05f95?source=rss------data_science-5)
+- [All about Data Splitting, Feature Scaling and Feature Encoding in Machine Learning](https://govindsandeep.medium.com/all-about-data-splitting-feature-scaling-and-feature-encoding-in-machine-learning-390ebf64ffac?source=rss------data_science-5)
+- [UZYSKAJ LICENCJE KIEROWCY, PASZPORTY: WhatsApp: +41767199795](https://medium.com/@ronaldmax097/uzyskaj-licencje-kierowcy-paszporty-whatsapp-41767199795-48c4780ee478?source=rss------data_science-5)
+- [Zdobądź Nembutal, ketaminę, oksykodon, amfetaminę.. WHATSAPP: +41767199795](https://medium.com/@bashimichu12/zdob%C4%85d%C5%BA-nembutal-ketamin%C4%99-oksykodon-amfetamin%C4%99-whatsapp-41767199795-f4bf18e6c2c5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
