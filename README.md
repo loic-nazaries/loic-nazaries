@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Getting started with Apache Cassandra on Jupyter Notebook](https://medium.com/@kibomamoses/getting-started-with-apache-cassandra-on-jupyter-notebook-a6576a3e496?source=rss------data_science-5)
-- [Introducing Fast Dash — A Framework for Rapid Development of ML Prototypes](https://towardsdatascience.com/introducing-fast-dash-a-framework-for-rapid-development-of-ml-prototypes-88379e3e6047?source=rss------data_science-5)
-- [2 different approaches to identify prospective customers](https://medium.com/@roberto.de.monte5/2-different-approaches-to-identify-prospective-customers-5052de40208?source=rss------data_science-5)
-- [Market Basket Analysis — How Do I Know What Products Together?](https://trisxcjoseph.medium.com/market-basket-analysis-how-do-i-know-what-products-together-6d7ce90b5181?source=rss------data_science-5)
-- [What makes big data really be BIG Data?](https://medium.com/illumination/what-makes-big-data-really-be-big-data-4c4540d71d52?source=rss------data_science-5)
-- [OBTENEZ UN PERMIS DE CONDUIRE, DES PASSEPORTS : WhatsApp : +41767199795](https://medium.com/@julianbrant005/obtenez-un-permis-de-conduire-des-passeports-whatsapp-41767199795-b2c0502b2749?source=rss------data_science-5)
-- [All about Data Splitting, Feature Scaling and Feature Encoding in Machine Learning](https://govindsandeep.medium.com/all-about-data-splitting-feature-scaling-and-feature-encoding-in-machine-learning-c78998c05f95?source=rss------data_science-5)
-- [All about Data Splitting, Feature Scaling and Feature Encoding in Machine Learning](https://govindsandeep.medium.com/all-about-data-splitting-feature-scaling-and-feature-encoding-in-machine-learning-390ebf64ffac?source=rss------data_science-5)
-- [UZYSKAJ LICENCJE KIEROWCY, PASZPORTY: WhatsApp: +41767199795](https://medium.com/@ronaldmax097/uzyskaj-licencje-kierowcy-paszporty-whatsapp-41767199795-48c4780ee478?source=rss------data_science-5)
-- [Zdobądź Nembutal, ketaminę, oksykodon, amfetaminę.. WHATSAPP: +41767199795](https://medium.com/@bashimichu12/zdob%C4%85d%C5%BA-nembutal-ketamin%C4%99-oksykodon-amfetamin%C4%99-whatsapp-41767199795-f4bf18e6c2c5?source=rss------data_science-5)
+- [Work with Alteryx from UiPath](https://towardsdatascience.com/work-with-alteryx-from-uipath-82c92d4bbf42?source=rss------data_science-5)
+- [Learning Flappy Bird Agents With Reinforcement Learning](https://aspram.medium.com/learning-flappy-bird-agents-with-reinforcement-learning-d07f31609333?source=rss------data_science-5)
+- [Everything you need to know about Python Lists- Part 2/2 &lpar;2022&rpar;](https://medium.com/@parichay2406/everything-you-need-to-know-about-python-lists-part-2-2-2022-e9533f9dc03?source=rss------data_science-5)
+- [Business Sales Analysis Web App](https://anuoluwapods.medium.com/business-sales-analysis-web-app-4003ce3ce332?source=rss------data_science-5)
+- [Why You Must Use Plotly Express for Data Visualization](https://towardsdatascience.com/why-you-must-use-plotly-express-for-data-visualization-9d47f9182807?source=rss------data_science-5)
+- [Why is Mathematical Optimization Crucial for Every Data Scientist?](https://medium.com/selfgrow/why-is-mathematical-optimization-crucial-for-every-data-scientist-938f5fde499?source=rss------data_science-5)
+- [10 Google Chrome Extensions for Developers](https://monochelsea12.medium.com/10-google-chrome-extensions-for-developers-40a530750474?source=rss------data_science-5)
+- [Investigating Machine Learning Techniques to Improve Spec Tests — II](https://levelup.gitconnected.com/investigating-machine-learning-techniques-to-improve-spec-tests-ii-fc534046c141?source=rss------data_science-5)
+- [Life of an Ex Data-Scientist Software-Developer](https://medium.com/@sahilapiit/life-of-an-ex-data-scientist-software-developer-3fcb12300c22?source=rss------data_science-5)
+- [Python: Dealing With Missing Values in a Pandas Data Frame](https://medium.com/@natashanewbold/python-dealing-with-missing-values-in-a-pandas-data-frame-1b32234e181?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
