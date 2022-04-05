@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Work with Alteryx from UiPath](https://towardsdatascience.com/work-with-alteryx-from-uipath-82c92d4bbf42?source=rss------data_science-5)
-- [Learning Flappy Bird Agents With Reinforcement Learning](https://aspram.medium.com/learning-flappy-bird-agents-with-reinforcement-learning-d07f31609333?source=rss------data_science-5)
-- [Everything you need to know about Python Lists- Part 2/2 &lpar;2022&rpar;](https://medium.com/@parichay2406/everything-you-need-to-know-about-python-lists-part-2-2-2022-e9533f9dc03?source=rss------data_science-5)
-- [Business Sales Analysis Web App](https://anuoluwapods.medium.com/business-sales-analysis-web-app-4003ce3ce332?source=rss------data_science-5)
-- [Why You Must Use Plotly Express for Data Visualization](https://towardsdatascience.com/why-you-must-use-plotly-express-for-data-visualization-9d47f9182807?source=rss------data_science-5)
-- [Why is Mathematical Optimization Crucial for Every Data Scientist?](https://medium.com/selfgrow/why-is-mathematical-optimization-crucial-for-every-data-scientist-938f5fde499?source=rss------data_science-5)
-- [10 Google Chrome Extensions for Developers](https://monochelsea12.medium.com/10-google-chrome-extensions-for-developers-40a530750474?source=rss------data_science-5)
-- [Investigating Machine Learning Techniques to Improve Spec Tests — II](https://levelup.gitconnected.com/investigating-machine-learning-techniques-to-improve-spec-tests-ii-fc534046c141?source=rss------data_science-5)
-- [Life of an Ex Data-Scientist Software-Developer](https://medium.com/@sahilapiit/life-of-an-ex-data-scientist-software-developer-3fcb12300c22?source=rss------data_science-5)
-- [Python: Dealing With Missing Values in a Pandas Data Frame](https://medium.com/@natashanewbold/python-dealing-with-missing-values-in-a-pandas-data-frame-1b32234e181?source=rss------data_science-5)
+- [7 Data Visualization Tools That Will Make Your Data Analysis Easier](https://medium.com/@alains/7-data-visualization-tools-that-will-make-your-data-analysis-easier-c4447ee29137?source=rss------data_science-5)
+- [Detecting Fraudulent Transactions With Classification Algorithms](https://medium.com/@fdemacedof/detecting-fraudulent-transactions-with-classification-algorithms-868934378cfe?source=rss------data_science-5)
+- [12 Powerful Data Mining and Modeling Techniques That Will Make You a Better Data Analyst](https://medium.com/@alains/12-powerful-data-mining-and-modeling-techniques-that-will-make-you-a-better-data-analyst-56c6f6407263?source=rss------data_science-5)
+- [Jupyter Notebooks Have An Issue](https://preettheman.medium.com/jupyter-notebooks-have-an-issue-f4d7cdc0dc78?source=rss------data_science-5)
+- [Gain a whole new level of Python data Type mastery!](https://medium.com/@alains/gain-a-whole-new-level-of-python-data-type-mastery-f04305bc877e?source=rss------data_science-5)
+- [5 Data Cleaning tools used for Major Products](https://monochelsea12.medium.com/5-data-cleaning-tools-used-for-major-products-21abda5b7c6b?source=rss------data_science-5)
+- [The Python Standard Library Modules Bible: The Ultimate Guide to Mastering Python](https://medium.com/@alains/the-python-standard-library-modules-bible-the-ultimate-guide-to-mastering-python-430265f60e4c?source=rss------data_science-5)
+- [3 Data-Driven Reasons Robots Process Data Better Than Humans](https://medium.com/@jkeurodesign/3-data-driven-reasons-robots-process-data-better-than-humans-d2214d23285e?source=rss------data_science-5)
+- [What Makes Python’s Standard Library So Important?](https://medium.com/@alains/what-makes-pythons-standard-library-so-important-5bc2bf8f7d02?source=rss------data_science-5)
+- [5 Deep Learning Models That Comprehend the Advancements in AI](https://monochelsea12.medium.com/5-deep-learning-models-that-comprehend-the-advancements-in-ai-d7b0ea1c75da?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
