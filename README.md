@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [7 Data Visualization Tools That Will Make Your Data Analysis Easier](https://medium.com/@alains/7-data-visualization-tools-that-will-make-your-data-analysis-easier-c4447ee29137?source=rss------data_science-5)
-- [Detecting Fraudulent Transactions With Classification Algorithms](https://medium.com/@fdemacedof/detecting-fraudulent-transactions-with-classification-algorithms-868934378cfe?source=rss------data_science-5)
-- [12 Powerful Data Mining and Modeling Techniques That Will Make You a Better Data Analyst](https://medium.com/@alains/12-powerful-data-mining-and-modeling-techniques-that-will-make-you-a-better-data-analyst-56c6f6407263?source=rss------data_science-5)
-- [Jupyter Notebooks Have An Issue](https://preettheman.medium.com/jupyter-notebooks-have-an-issue-f4d7cdc0dc78?source=rss------data_science-5)
-- [Gain a whole new level of Python data Type mastery!](https://medium.com/@alains/gain-a-whole-new-level-of-python-data-type-mastery-f04305bc877e?source=rss------data_science-5)
-- [5 Data Cleaning tools used for Major Products](https://monochelsea12.medium.com/5-data-cleaning-tools-used-for-major-products-21abda5b7c6b?source=rss------data_science-5)
-- [The Python Standard Library Modules Bible: The Ultimate Guide to Mastering Python](https://medium.com/@alains/the-python-standard-library-modules-bible-the-ultimate-guide-to-mastering-python-430265f60e4c?source=rss------data_science-5)
-- [3 Data-Driven Reasons Robots Process Data Better Than Humans](https://medium.com/@jkeurodesign/3-data-driven-reasons-robots-process-data-better-than-humans-d2214d23285e?source=rss------data_science-5)
-- [What Makes Python’s Standard Library So Important?](https://medium.com/@alains/what-makes-pythons-standard-library-so-important-5bc2bf8f7d02?source=rss------data_science-5)
-- [5 Deep Learning Models That Comprehend the Advancements in AI](https://monochelsea12.medium.com/5-deep-learning-models-that-comprehend-the-advancements-in-ai-d7b0ea1c75da?source=rss------data_science-5)
+- [5 Must Read Papers on using Artifcial Intelligence with Electronic Health Records&lpar;EHR&rpar;](https://monochelsea12.medium.com/5-must-read-papers-on-using-artifcial-intelligence-with-electronic-health-records-ehr-57546dec403d?source=rss------data_science-5)
+- [1O Steps for Deep Learning in Biology](https://monochelsea12.medium.com/1o-steps-for-deep-learning-in-biology-538b598d9e3?source=rss------data_science-5)
+- [New Neural Network with 500 Billion Parameters](https://vincentgranville.medium.com/new-neural-network-with-500-billion-parameters-802df94b5f5e?source=rss------data_science-5)
+- [Chapter 4 — Our First Coding Lesson In Python](https://medium.com/@cherhinchong/chapter-4-our-first-coding-lesson-in-python-b3336d1a7063?source=rss------data_science-5)
+- [Tutorial del Algoritmo ACP en Python](https://medium.com/latinxinai/tutorial-del-algoritmo-acp-en-python-1bcdd958b431?source=rss------data_science-5)
+- [Face Recognition With Python](https://medium.com/@yagmurrkahyaa/face-recognition-with-python-8fbc37e6e03e?source=rss------data_science-5)
+- [My Capstone Project for Google Data Analytics Professional Certificate- EDA Bike share&lpar;using…](https://medium.com/@nsaeedster/my-capstone-project-for-google-data-analytics-professional-certificate-eda-bike-share-using-d83b8ffe2334?source=rss------data_science-5)
+- [TinyML in a Nutshell](https://ai.plainenglish.io/tinyml-in-a-nutshell-be7ceb45e05e?source=rss------data_science-5)
+- [How To Really Deal With The Friendship Paradox?](https://medium.com/street-science/how-to-really-deal-with-the-friendship-paradox-fd2806e2c92b?source=rss------data_science-5)
+- [2022 Bahrein Grand Prix- Análise de Dados Utilizando FastF1 em Python](https://medium.com/@Henrique-Azank/2022-bahrein-grand-prix-an%C3%A1lise-de-dados-utilizando-fastf1-em-python-cd9ee34136d0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
