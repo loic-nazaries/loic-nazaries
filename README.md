@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [5 Must Read Papers on using Artifcial Intelligence with Electronic Health Records&lpar;EHR&rpar;](https://monochelsea12.medium.com/5-must-read-papers-on-using-artifcial-intelligence-with-electronic-health-records-ehr-57546dec403d?source=rss------data_science-5)
-- [1O Steps for Deep Learning in Biology](https://monochelsea12.medium.com/1o-steps-for-deep-learning-in-biology-538b598d9e3?source=rss------data_science-5)
-- [New Neural Network with 500 Billion Parameters](https://vincentgranville.medium.com/new-neural-network-with-500-billion-parameters-802df94b5f5e?source=rss------data_science-5)
-- [Chapter 4 — Our First Coding Lesson In Python](https://medium.com/@cherhinchong/chapter-4-our-first-coding-lesson-in-python-b3336d1a7063?source=rss------data_science-5)
-- [Tutorial del Algoritmo ACP en Python](https://medium.com/latinxinai/tutorial-del-algoritmo-acp-en-python-1bcdd958b431?source=rss------data_science-5)
-- [Face Recognition With Python](https://medium.com/@yagmurrkahyaa/face-recognition-with-python-8fbc37e6e03e?source=rss------data_science-5)
-- [My Capstone Project for Google Data Analytics Professional Certificate- EDA Bike share&lpar;using…](https://medium.com/@nsaeedster/my-capstone-project-for-google-data-analytics-professional-certificate-eda-bike-share-using-d83b8ffe2334?source=rss------data_science-5)
-- [TinyML in a Nutshell](https://ai.plainenglish.io/tinyml-in-a-nutshell-be7ceb45e05e?source=rss------data_science-5)
-- [How To Really Deal With The Friendship Paradox?](https://medium.com/street-science/how-to-really-deal-with-the-friendship-paradox-fd2806e2c92b?source=rss------data_science-5)
-- [2022 Bahrein Grand Prix- Análise de Dados Utilizando FastF1 em Python](https://medium.com/@Henrique-Azank/2022-bahrein-grand-prix-an%C3%A1lise-de-dados-utilizando-fastf1-em-python-cd9ee34136d0?source=rss------data_science-5)
+- [Reasons to learn Python in 2022](https://monochelsea12.medium.com/reasons-to-learn-python-in-2022-72c5f8e76b1b?source=rss------data_science-5)
+- [Not Another Data Science Blog](https://medium.com/@kagajani/not-another-data-science-blog-7820e95ffa34?source=rss------data_science-5)
+- [Loc versus iLoc](https://medium.com/codex/loc-versus-iloc-e6a82cd5204c?source=rss------data_science-5)
+- [5 Papers to Read on Quantum Machine Learning part 2](https://monochelsea12.medium.com/5-papers-to-read-on-quantum-machine-learning-part-2-70d6ad93d84d?source=rss------data_science-5)
+- [Data Science Quick &lpar;4-step&rpar; Start](https://medium.com/@datasith/data-science-quick-start-5-steps-b858943f7054?source=rss------data_science-5)
+- [5 Papers to Read on Quantum Machine Learning part 1](https://monochelsea12.medium.com/5-papers-to-read-on-quantum-machine-learning-part-1-a640656c80f9?source=rss------data_science-5)
+- [Daemon Tools Lite 11 Free Crack + Serial Number Download 2022 Free](https://medium.com/@gatakamla/daemon-tools-lite-11-free-crack-serial-number-download-2022-free-51a2f5f2085d?source=rss------data_science-5)
+- [Python: Scrape Any Website in Seconds with One Line of Code](https://medium.com/illumination/python-scrape-any-website-in-seconds-with-one-line-of-code-574e4bd57005?source=rss------data_science-5)
+- [Why my background will make me a Good Data Scientist](https://medium.com/@rsarno123/why-my-background-will-make-me-a-good-data-scientist-243d04ce6aca?source=rss------data_science-5)
+- [Understand Machine Learning Through 7 Software Design Patterns](https://towardsdatascience.com/understand-machine-learning-through-7-software-design-patterns-a03572f4e695?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
