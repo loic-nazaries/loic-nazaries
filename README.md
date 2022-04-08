@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Reasons to learn Python in 2022](https://monochelsea12.medium.com/reasons-to-learn-python-in-2022-72c5f8e76b1b?source=rss------data_science-5)
-- [Not Another Data Science Blog](https://medium.com/@kagajani/not-another-data-science-blog-7820e95ffa34?source=rss------data_science-5)
-- [Loc versus iLoc](https://medium.com/codex/loc-versus-iloc-e6a82cd5204c?source=rss------data_science-5)
-- [5 Papers to Read on Quantum Machine Learning part 2](https://monochelsea12.medium.com/5-papers-to-read-on-quantum-machine-learning-part-2-70d6ad93d84d?source=rss------data_science-5)
-- [Data Science Quick &lpar;4-step&rpar; Start](https://medium.com/@datasith/data-science-quick-start-5-steps-b858943f7054?source=rss------data_science-5)
-- [5 Papers to Read on Quantum Machine Learning part 1](https://monochelsea12.medium.com/5-papers-to-read-on-quantum-machine-learning-part-1-a640656c80f9?source=rss------data_science-5)
-- [Daemon Tools Lite 11 Free Crack + Serial Number Download 2022 Free](https://medium.com/@gatakamla/daemon-tools-lite-11-free-crack-serial-number-download-2022-free-51a2f5f2085d?source=rss------data_science-5)
-- [Python: Scrape Any Website in Seconds with One Line of Code](https://medium.com/illumination/python-scrape-any-website-in-seconds-with-one-line-of-code-574e4bd57005?source=rss------data_science-5)
-- [Why my background will make me a Good Data Scientist](https://medium.com/@rsarno123/why-my-background-will-make-me-a-good-data-scientist-243d04ce6aca?source=rss------data_science-5)
-- [Understand Machine Learning Through 7 Software Design Patterns](https://towardsdatascience.com/understand-machine-learning-through-7-software-design-patterns-a03572f4e695?source=rss------data_science-5)
+- [How DataCamp and Code for Nepal helped me learn data engineering for free](https://medium.com/@maladeep.upadhaya/how-datacamp-and-code-for-nepal-helped-me-learn-data-engineering-for-free-7983ea2ae24a?source=rss------data_science-5)
+- [Harmony, Covalent ile Bütünleşerek Platforma Veri Erişilebilirliği Getiriyor](https://onursarayli.medium.com/harmony-covalent-ile-b%C3%BCt%C3%BCnle%C5%9Ferek-platforma-veri-eri%C5%9Filebilirli%C4%9Fi-getiriyor-127ff64998a6?source=rss------data_science-5)
+- [Excel 小知識：遇到空格時數順序的小技巧](https://medium.com/%E8%8F%AF%E7%94%B0%E5%A3%AB%E5%A4%9A/excel-%E5%B0%8F%E7%9F%A5%E8%AD%98-%E9%81%87%E5%88%B0%E7%A9%BA%E6%A0%BC%E6%99%82%E6%95%B8%E9%A0%86%E5%BA%8F%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7-504816287165?source=rss------data_science-5)
+- [SageMaker Custom Multi-Container Endpoints](https://towardsdatascience.com/sagemaker-custom-multi-container-endpoints-21123f794c58?source=rss------data_science-5)
+- [This Python Package Will Change How You Make Visualizations](https://preettheman.medium.com/this-python-package-will-change-how-you-make-visualizations-982722d5a59b?source=rss------data_science-5)
+- [How to configure Anaconda as interpreter for Visual Studio](https://medium.com/@Abhisek_Sahu/how-to-configure-anaconda-as-interpreter-for-visual-studio-1e0180215b68?source=rss------data_science-5)
+- [How to securely collect spreadsheets from your clients with no-code](https://lovespreadsheets.medium.com/how-to-securely-collect-spreadsheets-from-your-clients-with-no-code-3d94afab1b4e?source=rss------data_science-5)
+- [Lyrics analysis on Arctic Monkeys’ albums using NLP — Part I](https://medium.com/@ruiqin.zhang95/lyrics-analysis-on-arctic-monkeys-albums-using-nlp-part-i-d8644cdcbf36?source=rss------data_science-5)
+- [Analyzing your Friends iMessage Wordle Stats Using Python](https://medium.com/@LilUziFoote/analyzing-your-friends-imessage-wordle-stats-using-python-5649def20fd?source=rss------data_science-5)
+- [CDS Faculty Jonathan Niles-Weed Elected as Alfred P. Sloan Fellow](https://nyudatascience.medium.com/cds-faculty-jonathan-niles-weed-elected-as-alfred-p-sloan-fellow-b1fe0efb10f6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
