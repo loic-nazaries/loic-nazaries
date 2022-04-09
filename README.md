@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How DataCamp and Code for Nepal helped me learn data engineering for free](https://medium.com/@maladeep.upadhaya/how-datacamp-and-code-for-nepal-helped-me-learn-data-engineering-for-free-7983ea2ae24a?source=rss------data_science-5)
-- [Harmony, Covalent ile Bütünleşerek Platforma Veri Erişilebilirliği Getiriyor](https://onursarayli.medium.com/harmony-covalent-ile-b%C3%BCt%C3%BCnle%C5%9Ferek-platforma-veri-eri%C5%9Filebilirli%C4%9Fi-getiriyor-127ff64998a6?source=rss------data_science-5)
-- [Excel 小知識：遇到空格時數順序的小技巧](https://medium.com/%E8%8F%AF%E7%94%B0%E5%A3%AB%E5%A4%9A/excel-%E5%B0%8F%E7%9F%A5%E8%AD%98-%E9%81%87%E5%88%B0%E7%A9%BA%E6%A0%BC%E6%99%82%E6%95%B8%E9%A0%86%E5%BA%8F%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7-504816287165?source=rss------data_science-5)
-- [SageMaker Custom Multi-Container Endpoints](https://towardsdatascience.com/sagemaker-custom-multi-container-endpoints-21123f794c58?source=rss------data_science-5)
-- [This Python Package Will Change How You Make Visualizations](https://preettheman.medium.com/this-python-package-will-change-how-you-make-visualizations-982722d5a59b?source=rss------data_science-5)
-- [How to configure Anaconda as interpreter for Visual Studio](https://medium.com/@Abhisek_Sahu/how-to-configure-anaconda-as-interpreter-for-visual-studio-1e0180215b68?source=rss------data_science-5)
-- [How to securely collect spreadsheets from your clients with no-code](https://lovespreadsheets.medium.com/how-to-securely-collect-spreadsheets-from-your-clients-with-no-code-3d94afab1b4e?source=rss------data_science-5)
-- [Lyrics analysis on Arctic Monkeys’ albums using NLP — Part I](https://medium.com/@ruiqin.zhang95/lyrics-analysis-on-arctic-monkeys-albums-using-nlp-part-i-d8644cdcbf36?source=rss------data_science-5)
-- [Analyzing your Friends iMessage Wordle Stats Using Python](https://medium.com/@LilUziFoote/analyzing-your-friends-imessage-wordle-stats-using-python-5649def20fd?source=rss------data_science-5)
-- [CDS Faculty Jonathan Niles-Weed Elected as Alfred P. Sloan Fellow](https://nyudatascience.medium.com/cds-faculty-jonathan-niles-weed-elected-as-alfred-p-sloan-fellow-b1fe0efb10f6?source=rss------data_science-5)
+- [Calculating population mean: Central Limit Theorem](https://medium.com/@ericsegalajovelli/calculating-population-mean-central-limit-theorem-941af50f717d?source=rss------data_science-5)
+- [What is Function in Python? How To Create User-Defined Function?](https://medium.com/@ramgambhirds/what-is-function-in-python-how-to-create-user-defined-function-de1398288fbe?source=rss------data_science-5)
+- [Time Series Data Visualization In Python](https://pub.towardsai.net/time-series-data-visualization-in-python-2b1959726312?source=rss------data_science-5)
+- [#2 Análise de sentimentos: Eleições presidenciais 2022](https://joberconde.medium.com/2-an%C3%A1lise-de-sentimentos-elei%C3%A7%C3%B5es-presidenciais-2022-4ea19886a0b7?source=rss------data_science-5)
+- [Color Theory: Spectral color corresponds to wavelengths of visible light — the root of all color.](https://medium.com/upskilling/color-theory-spectral-color-corresponds-to-wavelengths-of-visible-light-the-root-of-all-color-c61bcf02d5?source=rss------data_science-5)
+- [新兴技术Fintech是什么？是如何应用技术的？](https://dataapplab.medium.com/%E6%96%B0%E5%85%B4%E6%8A%80%E6%9C%AFfintech%E6%98%AF%E4%BB%80%E4%B9%88-%E6%98%AF%E5%A6%82%E4%BD%95%E5%BA%94%E7%94%A8%E6%8A%80%E6%9C%AF%E7%9A%84-4e938a8cf00?source=rss------data_science-5)
+- [荷蘭跨領域轉職－supply chain planner to data scientist](https://medium.com/@hohsinlou/%E8%8D%B7%E8%98%AD%E8%B7%A8%E9%A0%98%E5%9F%9F%E8%BD%89%E8%81%B7-supply-chain-planner-to-data-scientist-5e7a404c6546?source=rss------data_science-5)
+- [7 Data Science Applications and 6 Data Science Tools to Drive Your Data Journey](https://medium.com/@mark-hope/7-data-science-applications-and-6-data-science-tools-to-drive-your-data-journey-55809e980c08?source=rss------data_science-5)
+- [A Data Scientist’s Troubles in Time](https://medium.com/the-qventus-nudge/a-data-scientists-troubles-in-time-81d4f82384a4?source=rss------data_science-5)
+- [A Non Stereotypical Coding Guy](https://medium.com/datascienceray/a-non-stereotypical-coding-guy-afd1b9733eae?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
