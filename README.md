@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Calculating population mean: Central Limit Theorem](https://medium.com/@ericsegalajovelli/calculating-population-mean-central-limit-theorem-941af50f717d?source=rss------data_science-5)
-- [What is Function in Python? How To Create User-Defined Function?](https://medium.com/@ramgambhirds/what-is-function-in-python-how-to-create-user-defined-function-de1398288fbe?source=rss------data_science-5)
-- [Time Series Data Visualization In Python](https://pub.towardsai.net/time-series-data-visualization-in-python-2b1959726312?source=rss------data_science-5)
-- [#2 Análise de sentimentos: Eleições presidenciais 2022](https://joberconde.medium.com/2-an%C3%A1lise-de-sentimentos-elei%C3%A7%C3%B5es-presidenciais-2022-4ea19886a0b7?source=rss------data_science-5)
-- [Color Theory: Spectral color corresponds to wavelengths of visible light — the root of all color.](https://medium.com/upskilling/color-theory-spectral-color-corresponds-to-wavelengths-of-visible-light-the-root-of-all-color-c61bcf02d5?source=rss------data_science-5)
-- [新兴技术Fintech是什么？是如何应用技术的？](https://dataapplab.medium.com/%E6%96%B0%E5%85%B4%E6%8A%80%E6%9C%AFfintech%E6%98%AF%E4%BB%80%E4%B9%88-%E6%98%AF%E5%A6%82%E4%BD%95%E5%BA%94%E7%94%A8%E6%8A%80%E6%9C%AF%E7%9A%84-4e938a8cf00?source=rss------data_science-5)
-- [荷蘭跨領域轉職－supply chain planner to data scientist](https://medium.com/@hohsinlou/%E8%8D%B7%E8%98%AD%E8%B7%A8%E9%A0%98%E5%9F%9F%E8%BD%89%E8%81%B7-supply-chain-planner-to-data-scientist-5e7a404c6546?source=rss------data_science-5)
-- [7 Data Science Applications and 6 Data Science Tools to Drive Your Data Journey](https://medium.com/@mark-hope/7-data-science-applications-and-6-data-science-tools-to-drive-your-data-journey-55809e980c08?source=rss------data_science-5)
-- [A Data Scientist’s Troubles in Time](https://medium.com/the-qventus-nudge/a-data-scientists-troubles-in-time-81d4f82384a4?source=rss------data_science-5)
-- [A Non Stereotypical Coding Guy](https://medium.com/datascienceray/a-non-stereotypical-coding-guy-afd1b9733eae?source=rss------data_science-5)
+- [How to Create a Population Density Heat Map in QGIS and Python](https://medium.com/@pli482004/how-to-create-a-population-density-heat-map-in-qgis-and-python-ebb506f0cc65?source=rss------data_science-5)
+- [Pandas Functions for Faster Anal](https://jjdiamondreivich.medium.com/pandas-functions-for-faster-anal-3170eb28e73b?source=rss------data_science-5)
+- [Random Forest Classifier in Python](https://linguisticmaz.medium.com/random-forest-classifier-in-python-1a6f4c783afa?source=rss------data_science-5)
+- [Aprende pandas -Lo básico &lpar;Parte 2&rpar;](https://medium.com/@gazteka22/aprende-pandas-lo-b%C3%A1sico-parte-2-2387e8041168?source=rss------data_science-5)
+- [CRM Analitiğine Giriş](https://medium.com/@trcahit/crm-analiti%C4%9Fine-giri%C5%9F-69cfd65b7a8d?source=rss------data_science-5)
+- [Learn Python By Example: How Do You Import a Module in Python](https://medium.com/codex/learn-python-by-example-how-do-you-import-a-module-in-python-5a8eb447e4db?source=rss------data_science-5)
+- [Introduction to Vectors for Data Science](https://vish0709.medium.com/introduction-to-vectors-for-data-science-part-1-e9a3cef879c?source=rss------data_science-5)
+- [Customer segmentation for marketing strategy — tutorial](https://medium.com/@saadjansari/customer-segmentation-for-marketing-strategy-tutorial-46db74237532?source=rss------data_science-5)
+- [Resolvendo Problemas de negócio com SQLite](https://carloseduardo-ti.medium.com/problema-de-neg%C3%B3cio-d7e616536791?source=rss------data_science-5)
+- [Parte 1: Introdução — Otimização de estratégia de cross-selling de seguros de saúde e veículos](https://medium.com/@weber.cg/parte-1-introdu%C3%A7%C3%A3o-otimiza%C3%A7%C3%A3o-de-estrat%C3%A9gia-de-cross-selling-de-seguros-de-sa%C3%BAde-e-ve%C3%ADculos-630373c04b39?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
