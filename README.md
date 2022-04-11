@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Create a Population Density Heat Map in QGIS and Python](https://medium.com/@pli482004/how-to-create-a-population-density-heat-map-in-qgis-and-python-ebb506f0cc65?source=rss------data_science-5)
-- [Pandas Functions for Faster Anal](https://jjdiamondreivich.medium.com/pandas-functions-for-faster-anal-3170eb28e73b?source=rss------data_science-5)
-- [Random Forest Classifier in Python](https://linguisticmaz.medium.com/random-forest-classifier-in-python-1a6f4c783afa?source=rss------data_science-5)
-- [Aprende pandas -Lo básico &lpar;Parte 2&rpar;](https://medium.com/@gazteka22/aprende-pandas-lo-b%C3%A1sico-parte-2-2387e8041168?source=rss------data_science-5)
-- [CRM Analitiğine Giriş](https://medium.com/@trcahit/crm-analiti%C4%9Fine-giri%C5%9F-69cfd65b7a8d?source=rss------data_science-5)
-- [Learn Python By Example: How Do You Import a Module in Python](https://medium.com/codex/learn-python-by-example-how-do-you-import-a-module-in-python-5a8eb447e4db?source=rss------data_science-5)
-- [Introduction to Vectors for Data Science](https://vish0709.medium.com/introduction-to-vectors-for-data-science-part-1-e9a3cef879c?source=rss------data_science-5)
-- [Customer segmentation for marketing strategy — tutorial](https://medium.com/@saadjansari/customer-segmentation-for-marketing-strategy-tutorial-46db74237532?source=rss------data_science-5)
-- [Resolvendo Problemas de negócio com SQLite](https://carloseduardo-ti.medium.com/problema-de-neg%C3%B3cio-d7e616536791?source=rss------data_science-5)
-- [Parte 1: Introdução — Otimização de estratégia de cross-selling de seguros de saúde e veículos](https://medium.com/@weber.cg/parte-1-introdu%C3%A7%C3%A3o-otimiza%C3%A7%C3%A3o-de-estrat%C3%A9gia-de-cross-selling-de-seguros-de-sa%C3%BAde-e-ve%C3%ADculos-630373c04b39?source=rss------data_science-5)
+- [Best Design Websites for 2022](https://medium.com/@monodeepets77/best-design-websites-for-2022-6dbb1bdad33c?source=rss------data_science-5)
+- [Panorama do COVID-19: Relembrando o passado e mudando o futuro!](https://andrenp2.medium.com/panorama-do-covid-19-relembrando-o-passado-e-mudando-o-futuro-a752cc39a247?source=rss------data_science-5)
+- [Create Your Own k-Means Clustering Algorithm in Python](https://medium.com/@turnermluke/create-your-own-k-means-clustering-algorithm-in-python-d7d4c9077670?source=rss------data_science-5)
+- [Detection of COVID — 19 using Deep Learning](https://rajviishah.medium.com/detection-of-covid-19-using-deep-learning-c3d46732950b?source=rss------data_science-5)
+- [Data and Collective Agency](https://medium.com/@d.richte/data-and-collective-agency-9c12a1fbd4b4?source=rss------data_science-5)
+- [How to Self Study All The Technical Stuff You Need for Data Science](https://towardsdatascience.com/how-to-self-study-all-the-technical-stuff-you-need-for-data-science-62e4b8b8152f?source=rss------data_science-5)
+- [CTA Ridership Forecasting &amp; Analysis](https://medium.com/@itsmattreilly/cta-ridership-forecasting-analysis-8f55438c0c0d?source=rss------data_science-5)
+- [The Neural Network, Demystified](https://medium.com/@adityas03/the-neural-network-demystified-675ba0e6993?source=rss------data_science-5)
+- [How to Place the Legend Outside the Plot in Matplotlib](https://towardsdatascience.com/legend-outside-the-plot-matplotlib-5d9c1caa9d31?source=rss------data_science-5)
+- [How to Apply Artificial Bee Colony Algorithm to Solve Unconventional Problems](https://towardsdatascience.com/how-to-apply-artificial-bee-colony-algorithm-to-solve-unconventional-problems-a41c5098eb3a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
