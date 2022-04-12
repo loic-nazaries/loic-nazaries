@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Best Design Websites for 2022](https://medium.com/@monodeepets77/best-design-websites-for-2022-6dbb1bdad33c?source=rss------data_science-5)
-- [Panorama do COVID-19: Relembrando o passado e mudando o futuro!](https://andrenp2.medium.com/panorama-do-covid-19-relembrando-o-passado-e-mudando-o-futuro-a752cc39a247?source=rss------data_science-5)
-- [Create Your Own k-Means Clustering Algorithm in Python](https://medium.com/@turnermluke/create-your-own-k-means-clustering-algorithm-in-python-d7d4c9077670?source=rss------data_science-5)
-- [Detection of COVID — 19 using Deep Learning](https://rajviishah.medium.com/detection-of-covid-19-using-deep-learning-c3d46732950b?source=rss------data_science-5)
-- [Data and Collective Agency](https://medium.com/@d.richte/data-and-collective-agency-9c12a1fbd4b4?source=rss------data_science-5)
-- [How to Self Study All The Technical Stuff You Need for Data Science](https://towardsdatascience.com/how-to-self-study-all-the-technical-stuff-you-need-for-data-science-62e4b8b8152f?source=rss------data_science-5)
-- [CTA Ridership Forecasting &amp; Analysis](https://medium.com/@itsmattreilly/cta-ridership-forecasting-analysis-8f55438c0c0d?source=rss------data_science-5)
-- [The Neural Network, Demystified](https://medium.com/@adityas03/the-neural-network-demystified-675ba0e6993?source=rss------data_science-5)
-- [How to Place the Legend Outside the Plot in Matplotlib](https://towardsdatascience.com/legend-outside-the-plot-matplotlib-5d9c1caa9d31?source=rss------data_science-5)
-- [How to Apply Artificial Bee Colony Algorithm to Solve Unconventional Problems](https://towardsdatascience.com/how-to-apply-artificial-bee-colony-algorithm-to-solve-unconventional-problems-a41c5098eb3a?source=rss------data_science-5)
+- [Topic Modeling With Latent Dirichlet Allocation](https://towardsdatascience.com/topic-modeling-with-latent-dirichlet-allocation-ea3ebb2be9f4?source=rss------data_science-5)
+- [5 Papers to Read on Application of Artificial Intelligence in Civil Engineering](https://medium.com/@monodeepets77/5-papers-to-read-on-application-of-artificial-intelligence-in-civil-engineering-1ee1452f11cf?source=rss------data_science-5)
+- [How to be an Antiracist Data Scientist](https://hanagabrielle.medium.com/how-to-be-an-antiracist-data-scientist-bb595d917c?source=rss------data_science-5)
+- [Data Science is everywhere and everyday in our lives. You are one great data generator.](https://medium.com/@datavalue/data-science-is-everywhere-and-everyday-in-our-lives-you-are-one-great-data-generator-f0e01d4db5cf?source=rss------data_science-5)
+- [Movies, Ratings, And The World Economy](https://bhsnorfolkproject.medium.com/movies-ratings-and-the-world-economy-a89c3068c8d?source=rss------data_science-5)
+- [Using Data Science to be a Better Product Manager](https://medium.com/@bmenendez94/using-data-science-to-be-a-better-product-manager-18890e54ee7e?source=rss------data_science-5)
+- [Neuro-algorithmic Policies: Can Combinatorics Help Reinforcement Learning?](https://towardsdatascience.com/neuro-algorithmic-policies-can-combinatorics-help-reinforcement-learning-ccafdca5c89?source=rss------data_science-5)
+- [What can contribute to the happiness of a country?](https://bhsnorfolkproject.medium.com/what-can-contribute-to-the-happiness-of-a-country-45d672d81531?source=rss------data_science-5)
+- [Setembro Amarelo: Análise de dados na prevenção ao suicídio](https://medium.com/@amaralallan92/setembro-amarelo-an%C3%A1lise-de-dados-na-preven%C3%A7%C3%A3o-ao-suic%C3%ADdio-28f4628127f9?source=rss------data_science-5)
+- [These Are the 10 Best Lesser-Known Python Libraries You Should Know About](https://towardsdatascience.com/these-are-the-10-best-lesser-known-python-libraries-you-should-know-about-9c551842fc39?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
