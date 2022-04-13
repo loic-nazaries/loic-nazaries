@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Topic Modeling With Latent Dirichlet Allocation](https://towardsdatascience.com/topic-modeling-with-latent-dirichlet-allocation-ea3ebb2be9f4?source=rss------data_science-5)
-- [5 Papers to Read on Application of Artificial Intelligence in Civil Engineering](https://medium.com/@monodeepets77/5-papers-to-read-on-application-of-artificial-intelligence-in-civil-engineering-1ee1452f11cf?source=rss------data_science-5)
-- [How to be an Antiracist Data Scientist](https://hanagabrielle.medium.com/how-to-be-an-antiracist-data-scientist-bb595d917c?source=rss------data_science-5)
-- [Data Science is everywhere and everyday in our lives. You are one great data generator.](https://medium.com/@datavalue/data-science-is-everywhere-and-everyday-in-our-lives-you-are-one-great-data-generator-f0e01d4db5cf?source=rss------data_science-5)
-- [Movies, Ratings, And The World Economy](https://bhsnorfolkproject.medium.com/movies-ratings-and-the-world-economy-a89c3068c8d?source=rss------data_science-5)
-- [Using Data Science to be a Better Product Manager](https://medium.com/@bmenendez94/using-data-science-to-be-a-better-product-manager-18890e54ee7e?source=rss------data_science-5)
-- [Neuro-algorithmic Policies: Can Combinatorics Help Reinforcement Learning?](https://towardsdatascience.com/neuro-algorithmic-policies-can-combinatorics-help-reinforcement-learning-ccafdca5c89?source=rss------data_science-5)
-- [What can contribute to the happiness of a country?](https://bhsnorfolkproject.medium.com/what-can-contribute-to-the-happiness-of-a-country-45d672d81531?source=rss------data_science-5)
-- [Setembro Amarelo: Análise de dados na prevenção ao suicídio](https://medium.com/@amaralallan92/setembro-amarelo-an%C3%A1lise-de-dados-na-preven%C3%A7%C3%A3o-ao-suic%C3%ADdio-28f4628127f9?source=rss------data_science-5)
-- [These Are the 10 Best Lesser-Known Python Libraries You Should Know About](https://towardsdatascience.com/these-are-the-10-best-lesser-known-python-libraries-you-should-know-about-9c551842fc39?source=rss------data_science-5)
+- [10 Incredible Things About Python That You Probably Don’t Know — But Should!](https://medium.com/@alains/10-incredible-things-about-python-that-you-probably-dont-know-but-should-b1f6a7c88f46?source=rss------data_science-5)
+- [RECOMMENDATION SYSTEMS](https://medium.com/@gamzecoban/recommendation-systems-d772502fb042?source=rss------data_science-5)
+- [Managing Google Earth Engine repositories using Git](https://medium.com/@ngis/managing-google-earth-engine-repositories-using-git-c5aa9f425fea?source=rss------data_science-5)
+- [10 Papers to Read on Augmented Reality](https://medium.com/@monodeepets77/10-papers-to-read-on-augmented-reality-321f329668b3?source=rss------data_science-5)
+- [Dickey Fuller Direct Estimation — Speed up to 50x Test Statistic Computation](https://towardsdatascience.com/dickey-fuller-direct-estimation-speed-up-to-50x-test-statistic-computation-af3cb28b9803?source=rss------data_science-5)
+- [Introduction to Data Analytics
+Do you ever wonder where data comes from?](https://medium.com/@rhodesbolanle/introduction-to-data-analytics-do-you-ever-wonder-where-data-comes-from-c7446902eefe?source=rss------data_science-5)
+- [10 Papers to Read on Extended Reality](https://medium.com/@monodeepets77/10-papers-to-read-on-extended-reality-9f7a27f1c9cf?source=rss------data_science-5)
+- [Learn Python By Example: One Line Of code To install All Python Libraries](https://medium.com/@alains/learn-python-by-example-one-line-of-code-to-install-all-python-libraries-d0f22fccbcec?source=rss------data_science-5)
+- [How To Start Your Next Data Engineering Project](https://towardsdatascience.com/how-to-start-your-next-data-engineering-project-d34ac5aebdba?source=rss------data_science-5)
+- [3 Best &lpar;Often Better&rpar; Alternatives To Histograms](https://towardsdatascience.com/3-best-often-better-alternatives-to-histograms-61ddaec05305?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
