@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [10 Incredible Things About Python That You Probably Don’t Know — But Should!](https://medium.com/@alains/10-incredible-things-about-python-that-you-probably-dont-know-but-should-b1f6a7c88f46?source=rss------data_science-5)
-- [RECOMMENDATION SYSTEMS](https://medium.com/@gamzecoban/recommendation-systems-d772502fb042?source=rss------data_science-5)
-- [Managing Google Earth Engine repositories using Git](https://medium.com/@ngis/managing-google-earth-engine-repositories-using-git-c5aa9f425fea?source=rss------data_science-5)
-- [10 Papers to Read on Augmented Reality](https://medium.com/@monodeepets77/10-papers-to-read-on-augmented-reality-321f329668b3?source=rss------data_science-5)
-- [Dickey Fuller Direct Estimation — Speed up to 50x Test Statistic Computation](https://towardsdatascience.com/dickey-fuller-direct-estimation-speed-up-to-50x-test-statistic-computation-af3cb28b9803?source=rss------data_science-5)
-- [Introduction to Data Analytics
-Do you ever wonder where data comes from?](https://medium.com/@rhodesbolanle/introduction-to-data-analytics-do-you-ever-wonder-where-data-comes-from-c7446902eefe?source=rss------data_science-5)
-- [10 Papers to Read on Extended Reality](https://medium.com/@monodeepets77/10-papers-to-read-on-extended-reality-9f7a27f1c9cf?source=rss------data_science-5)
-- [Learn Python By Example: One Line Of code To install All Python Libraries](https://medium.com/@alains/learn-python-by-example-one-line-of-code-to-install-all-python-libraries-d0f22fccbcec?source=rss------data_science-5)
-- [How To Start Your Next Data Engineering Project](https://towardsdatascience.com/how-to-start-your-next-data-engineering-project-d34ac5aebdba?source=rss------data_science-5)
-- [3 Best &lpar;Often Better&rpar; Alternatives To Histograms](https://towardsdatascience.com/3-best-often-better-alternatives-to-histograms-61ddaec05305?source=rss------data_science-5)
+- [Most Essential Soft Skill to Exceed in Data Science](https://yilistats.medium.com/most-essential-soft-skill-to-exceed-in-data-science-60be3f2af965?source=rss------data_science-5)
+- [Cross-Validation](https://towardsdatascience.com/cross-validation-705644663568?source=rss------data_science-5)
+- [Working with CSV Files in Python Using the csv Module](https://medium.com/@jasonreek/working-with-csv-files-in-python-using-the-csv-module-34d9f5a646c5?source=rss------data_science-5)
+- [Scraping Amazon Tutorial — A quick example to scrape Amazon bestseller data](https://levelup.gitconnected.com/scraping-amazon-tutorial-a-quick-example-to-scrape-amazon-bestseller-data-d9e014653b79?source=rss------data_science-5)
+- [Time Complexity | A Very Brief Introduction](https://levelup.gitconnected.com/time-complexity-a-very-brief-introduction-ef4a68584f0c?source=rss------data_science-5)
+- [Critical Facts That Every Data Scientist Should Know — Part 1](https://towardsdatascience.com/critical-facts-that-every-data-scientist-should-know-part-1-31f9c25e5e00?source=rss------data_science-5)
+- [10 Incredible AI Tools for Education You May Not Know About](https://medium.com/@alains/10-incredible-ai-tools-for-education-you-may-not-know-about-7b352315bb9d?source=rss------data_science-5)
+- [Amazon Comprehend Custom Classification](https://towardsdatascience.com/amazon-comprehend-custom-classification-d91d68d169cc?source=rss------data_science-5)
+- [The Best Graphing Packages For Python](https://preettheman.medium.com/the-best-graphing-packages-for-python-842f5a148306?source=rss------data_science-5)
+- [I want Reddit to judge me](https://medium.com/@pilar.vasquez.h/i-want-reddit-to-judge-me-ddd70b0908ec?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
