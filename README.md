@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Most Essential Soft Skill to Exceed in Data Science](https://yilistats.medium.com/most-essential-soft-skill-to-exceed-in-data-science-60be3f2af965?source=rss------data_science-5)
-- [Cross-Validation](https://towardsdatascience.com/cross-validation-705644663568?source=rss------data_science-5)
-- [Working with CSV Files in Python Using the csv Module](https://medium.com/@jasonreek/working-with-csv-files-in-python-using-the-csv-module-34d9f5a646c5?source=rss------data_science-5)
-- [Scraping Amazon Tutorial — A quick example to scrape Amazon bestseller data](https://levelup.gitconnected.com/scraping-amazon-tutorial-a-quick-example-to-scrape-amazon-bestseller-data-d9e014653b79?source=rss------data_science-5)
-- [Time Complexity | A Very Brief Introduction](https://levelup.gitconnected.com/time-complexity-a-very-brief-introduction-ef4a68584f0c?source=rss------data_science-5)
-- [Critical Facts That Every Data Scientist Should Know — Part 1](https://towardsdatascience.com/critical-facts-that-every-data-scientist-should-know-part-1-31f9c25e5e00?source=rss------data_science-5)
-- [10 Incredible AI Tools for Education You May Not Know About](https://medium.com/@alains/10-incredible-ai-tools-for-education-you-may-not-know-about-7b352315bb9d?source=rss------data_science-5)
-- [Amazon Comprehend Custom Classification](https://towardsdatascience.com/amazon-comprehend-custom-classification-d91d68d169cc?source=rss------data_science-5)
-- [The Best Graphing Packages For Python](https://preettheman.medium.com/the-best-graphing-packages-for-python-842f5a148306?source=rss------data_science-5)
-- [I want Reddit to judge me](https://medium.com/@pilar.vasquez.h/i-want-reddit-to-judge-me-ddd70b0908ec?source=rss------data_science-5)
+- [Why NO BYOD ALLOWED &lpar;For A Decade&rpar; Made Me Smarter and Richer](https://artconroy.medium.com/why-no-byod-allowed-for-a-decade-made-me-smarter-and-richer-58a6d0f3045e?source=rss------data_science-5)
+- [NFL Kicker Analysis](https://medium.com/analytics-vidhya/nfl-kicker-analysis-3b3ff88fb90d?source=rss------data_science-5)
+- [Measure A/B Testing Platform Health with Simulated A/A and A/B Tests](https://towardsdatascience.com/measure-a-b-testing-platform-health-with-simulated-a-a-and-a-b-tests-7a68b800d0e1?source=rss------data_science-5)
+- [Coding an Intelligent Battleship Agent](https://towardsdatascience.com/coding-an-intelligent-battleship-agent-bf0064a4b319?source=rss------data_science-5)
+- [Comprehensive Guide to Writing Python Functions Others Can Use](https://towardsdatascience.com/comprehensive-guide-to-writing-python-functions-others-can-use-2fa186c6be71?source=rss------data_science-5)
+- [Artificial Intelligence &lpar;AI&rpar; Pilot Projects Fail for Three Reasons](https://medium.com/codex/artificial-intelligence-ai-pilot-projects-fail-for-three-reasons-e2f314fdf9c0?source=rss------data_science-5)
+- [8 Best Practices for Writing Top Tier SQL Code](https://towardsdatascience.com/8-best-practices-for-writing-top-tier-sql-code-e1023996e459?source=rss------data_science-5)
+- [Why the Snowflake could change the workflow of Cloud Computing Data](https://medium.com/@rsarno123/why-the-snowflake-could-change-the-workflow-of-cloud-computing-data-488d243e340d?source=rss------data_science-5)
+- [PyCharm Just Got a Big Update](https://preettheman.medium.com/pycharm-just-got-a-big-update-30f195cbf384?source=rss------data_science-5)
+- [Data Types in Data Science](https://medium.com/@rstahirmat/data-types-in-data-science-8f9ad6f70506?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
