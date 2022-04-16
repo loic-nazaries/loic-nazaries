@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why NO BYOD ALLOWED &lpar;For A Decade&rpar; Made Me Smarter and Richer](https://artconroy.medium.com/why-no-byod-allowed-for-a-decade-made-me-smarter-and-richer-58a6d0f3045e?source=rss------data_science-5)
-- [NFL Kicker Analysis](https://medium.com/analytics-vidhya/nfl-kicker-analysis-3b3ff88fb90d?source=rss------data_science-5)
-- [Measure A/B Testing Platform Health with Simulated A/A and A/B Tests](https://towardsdatascience.com/measure-a-b-testing-platform-health-with-simulated-a-a-and-a-b-tests-7a68b800d0e1?source=rss------data_science-5)
-- [Coding an Intelligent Battleship Agent](https://towardsdatascience.com/coding-an-intelligent-battleship-agent-bf0064a4b319?source=rss------data_science-5)
-- [Comprehensive Guide to Writing Python Functions Others Can Use](https://towardsdatascience.com/comprehensive-guide-to-writing-python-functions-others-can-use-2fa186c6be71?source=rss------data_science-5)
-- [Artificial Intelligence &lpar;AI&rpar; Pilot Projects Fail for Three Reasons](https://medium.com/codex/artificial-intelligence-ai-pilot-projects-fail-for-three-reasons-e2f314fdf9c0?source=rss------data_science-5)
-- [8 Best Practices for Writing Top Tier SQL Code](https://towardsdatascience.com/8-best-practices-for-writing-top-tier-sql-code-e1023996e459?source=rss------data_science-5)
-- [Why the Snowflake could change the workflow of Cloud Computing Data](https://medium.com/@rsarno123/why-the-snowflake-could-change-the-workflow-of-cloud-computing-data-488d243e340d?source=rss------data_science-5)
-- [PyCharm Just Got a Big Update](https://preettheman.medium.com/pycharm-just-got-a-big-update-30f195cbf384?source=rss------data_science-5)
-- [Data Types in Data Science](https://medium.com/@rstahirmat/data-types-in-data-science-8f9ad6f70506?source=rss------data_science-5)
+- [Evaluating our NBA Win Prediction Model](https://medium.com/@dallas.hutchinson4/evaluating-our-nba-win-prediction-model-1b021c4790a?source=rss------data_science-5)
+- [Beyond words: rescuing the democratic ideal](https://thescienceofdemocracy.medium.com/beyond-words-rescuing-the-democratic-ideal-d69b1b91fc6e?source=rss------data_science-5)
+- [Yönetim Bilişim Sistemleri Hakkında](https://fuatdemirkol.medium.com/y%C3%B6netim-bili%C5%9Fim-sistemleri-hakk%C4%B1nda-778950cdb4bb?source=rss------data_science-5)
+- [Research Review: Common Factors of Commodity Prices](https://medium.com/@tzjy/research-review-common-factors-of-commodity-prices-5c1bee5c0fa9?source=rss------data_science-5)
+- [3 important tricks for Data Scientists](https://medium.com/@askintamanli/3-important-tricks-for-data-scientists-c731d5f3da4c?source=rss------data_science-5)
+- [Humility](https://medium.com/@the_abrahamaudu/humility-f2713180398?source=rss------data_science-5)
+- [How to Use Multiple Statements on a Single Line in Python](https://medium.com/@alains/how-to-use-multiple-statements-on-a-single-line-in-python-601ba633aed9?source=rss------data_science-5)
+- [The Python Shell You’ve Always Dreamed About!](https://medium.com/@alains/the-python-shell-youve-always-dreamed-about-9ec2dc01aa20?source=rss------data_science-5)
+- [Day 1 of #66DaysOfData](https://medium.com/@raju.ptvs/day-1-of-66daysofdata-8d8eee9d9be6?source=rss------data_science-5)
+- [Convert Multiple Line Python Code To a Single Line in 3 Seconds](https://medium.com/@alains/convert-multiple-line-python-code-to-a-single-line-in-3-seconds-dd7016a763c3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
