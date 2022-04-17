@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Evaluating our NBA Win Prediction Model](https://medium.com/@dallas.hutchinson4/evaluating-our-nba-win-prediction-model-1b021c4790a?source=rss------data_science-5)
-- [Beyond words: rescuing the democratic ideal](https://thescienceofdemocracy.medium.com/beyond-words-rescuing-the-democratic-ideal-d69b1b91fc6e?source=rss------data_science-5)
-- [Yönetim Bilişim Sistemleri Hakkında](https://fuatdemirkol.medium.com/y%C3%B6netim-bili%C5%9Fim-sistemleri-hakk%C4%B1nda-778950cdb4bb?source=rss------data_science-5)
-- [Research Review: Common Factors of Commodity Prices](https://medium.com/@tzjy/research-review-common-factors-of-commodity-prices-5c1bee5c0fa9?source=rss------data_science-5)
-- [3 important tricks for Data Scientists](https://medium.com/@askintamanli/3-important-tricks-for-data-scientists-c731d5f3da4c?source=rss------data_science-5)
-- [Humility](https://medium.com/@the_abrahamaudu/humility-f2713180398?source=rss------data_science-5)
-- [How to Use Multiple Statements on a Single Line in Python](https://medium.com/@alains/how-to-use-multiple-statements-on-a-single-line-in-python-601ba633aed9?source=rss------data_science-5)
-- [The Python Shell You’ve Always Dreamed About!](https://medium.com/@alains/the-python-shell-youve-always-dreamed-about-9ec2dc01aa20?source=rss------data_science-5)
-- [Day 1 of #66DaysOfData](https://medium.com/@raju.ptvs/day-1-of-66daysofdata-8d8eee9d9be6?source=rss------data_science-5)
-- [Convert Multiple Line Python Code To a Single Line in 3 Seconds](https://medium.com/@alains/convert-multiple-line-python-code-to-a-single-line-in-3-seconds-dd7016a763c3?source=rss------data_science-5)
+- [Gatilhado](https://yagocrt.medium.com/gatilhado-f4708a8c95d2?source=rss------data_science-5)
+- [Part III, Learn to build an end to end data science project for fintech](https://mariia-gusarova.medium.com/part-iii-learn-to-build-an-end-to-end-data-science-project-for-fintech-bf039f873191?source=rss------data_science-5)
+- [¿Por qué se ven así los DataFrames de Pandas en un Jupyter Notebook?](https://gjuantorena.medium.com/por-qu%C3%A9-se-ven-as%C3%AD-los-dataframes-de-pandas-en-un-jupyter-notebook-e411878a82f5?source=rss------data_science-5)
+- [Small Sample Bias and Data Ethics](https://medium.com/@afiqhatta.ah/small-sample-bias-and-data-ethics-e039baaab143?source=rss------data_science-5)
+- [Web Scraping with Python and BeautifulSoup](https://medium.com/@dniggl/web-scraping-with-python-and-beautifulsoup-87c68341d100?source=rss------data_science-5)
+- [MetaBase allows Spocket to save 60+ hours/month and avoids ad-hoc requests to the data engineering…](https://medium.com/@salishreyas/spocket-saves-over-60-hours-per-month-and-avoids-ad-hoc-requests-to-the-data-team-f8be9ea3af1d?source=rss------data_science-5)
+- [Demystifying the Modern Data Stack with Alex Thor from Astrato Analytics](https://datacated.medium.com/demystifying-the-modern-data-stack-with-alex-thor-from-astrato-analytics-7d37bc50b3bf?source=rss------data_science-5)
+- [5 Best Courses to Master SQL in 2022](https://medium.com/@monodeepets77/5-best-courses-to-master-sql-in-2022-879183cf8914?source=rss------data_science-5)
+- [I Used CLV Models to Predict How Much a Restaurant Will Profit From Me](https://medium.com/@mertbayca/i-used-clv-models-to-predict-how-much-a-restaurant-will-profit-from-me-7059282971c1?source=rss------data_science-5)
+- [What is Artificial Intelligence?](https://meenu-priya.medium.com/what-is-artificial-intelligence-307ec3627a23?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
