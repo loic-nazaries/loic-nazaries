@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Gatilhado](https://yagocrt.medium.com/gatilhado-f4708a8c95d2?source=rss------data_science-5)
-- [Part III, Learn to build an end to end data science project for fintech](https://mariia-gusarova.medium.com/part-iii-learn-to-build-an-end-to-end-data-science-project-for-fintech-bf039f873191?source=rss------data_science-5)
-- [¿Por qué se ven así los DataFrames de Pandas en un Jupyter Notebook?](https://gjuantorena.medium.com/por-qu%C3%A9-se-ven-as%C3%AD-los-dataframes-de-pandas-en-un-jupyter-notebook-e411878a82f5?source=rss------data_science-5)
-- [Small Sample Bias and Data Ethics](https://medium.com/@afiqhatta.ah/small-sample-bias-and-data-ethics-e039baaab143?source=rss------data_science-5)
-- [Web Scraping with Python and BeautifulSoup](https://medium.com/@dniggl/web-scraping-with-python-and-beautifulsoup-87c68341d100?source=rss------data_science-5)
-- [MetaBase allows Spocket to save 60+ hours/month and avoids ad-hoc requests to the data engineering…](https://medium.com/@salishreyas/spocket-saves-over-60-hours-per-month-and-avoids-ad-hoc-requests-to-the-data-team-f8be9ea3af1d?source=rss------data_science-5)
-- [Demystifying the Modern Data Stack with Alex Thor from Astrato Analytics](https://datacated.medium.com/demystifying-the-modern-data-stack-with-alex-thor-from-astrato-analytics-7d37bc50b3bf?source=rss------data_science-5)
-- [5 Best Courses to Master SQL in 2022](https://medium.com/@monodeepets77/5-best-courses-to-master-sql-in-2022-879183cf8914?source=rss------data_science-5)
-- [I Used CLV Models to Predict How Much a Restaurant Will Profit From Me](https://medium.com/@mertbayca/i-used-clv-models-to-predict-how-much-a-restaurant-will-profit-from-me-7059282971c1?source=rss------data_science-5)
-- [What is Artificial Intelligence?](https://meenu-priya.medium.com/what-is-artificial-intelligence-307ec3627a23?source=rss------data_science-5)
+- [¿Quién ganara el mundial Qatar 2022? ¿Como saberlo?](https://medium.com/@AngelMR42/quienganaraelmundialdeqatar1-a37f61d0d6c8?source=rss------data_science-5)
+- [DPLYR Joins Cheatsheet](https://medium.com/@harpreetkaurguglani/dplyr-joins-cheatsheet-56409b721752?source=rss------data_science-5)
+- [Data Science Activity in a Corporate Company](https://medium.datadriveninvestor.com/data-science-activity-in-a-corporate-company-be8852e9516b?source=rss------data_science-5)
+- [Python for Artificial Intelligence: 10 Reasons Why You Should Use It](https://medium.com/@alains/python-for-artificial-intelligence-10-reasons-why-you-should-use-it-b407a95b6b5a?source=rss------data_science-5)
+- [Now, Back To The Future, And Data Science](https://artconroy.medium.com/now-back-to-the-future-and-data-science-681a5b868312?source=rss------data_science-5)
+- [The NLP Cypher | 04.17.22](https://nlpcypher.medium.com/the-nlp-cypher-04-17-22-4ed2ba906bdb?source=rss------data_science-5)
+- [Extreme Learning Machine to Multiclass Classification](https://rlrocha.medium.com/extreme-learning-machine-to-multiclass-classification-cf9d4fe34b40?source=rss------data_science-5)
+- [Length-Limited Huffman Codes](https://hrsather.medium.com/length-limited-huffman-codes-21971f021d43?source=rss------data_science-5)
+- [How to Use Python for Artificial Intelligence: 7 Easy Ways](https://medium.com/@alains/how-to-use-python-for-artificial-intelligence-7-easy-ways-c10fcc7d7946?source=rss------data_science-5)
+- [7 Unexpected Ways to Use Python for Data Visualisation](https://medium.com/@alains/7-unexpected-ways-to-use-python-for-data-visualisation-1d903894a2a2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
