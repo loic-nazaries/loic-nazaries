@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [¿Quién ganara el mundial Qatar 2022? ¿Como saberlo?](https://medium.com/@AngelMR42/quienganaraelmundialdeqatar1-a37f61d0d6c8?source=rss------data_science-5)
-- [DPLYR Joins Cheatsheet](https://medium.com/@harpreetkaurguglani/dplyr-joins-cheatsheet-56409b721752?source=rss------data_science-5)
-- [Data Science Activity in a Corporate Company](https://medium.datadriveninvestor.com/data-science-activity-in-a-corporate-company-be8852e9516b?source=rss------data_science-5)
-- [Python for Artificial Intelligence: 10 Reasons Why You Should Use It](https://medium.com/@alains/python-for-artificial-intelligence-10-reasons-why-you-should-use-it-b407a95b6b5a?source=rss------data_science-5)
-- [Now, Back To The Future, And Data Science](https://artconroy.medium.com/now-back-to-the-future-and-data-science-681a5b868312?source=rss------data_science-5)
-- [The NLP Cypher | 04.17.22](https://nlpcypher.medium.com/the-nlp-cypher-04-17-22-4ed2ba906bdb?source=rss------data_science-5)
-- [Extreme Learning Machine to Multiclass Classification](https://rlrocha.medium.com/extreme-learning-machine-to-multiclass-classification-cf9d4fe34b40?source=rss------data_science-5)
-- [Length-Limited Huffman Codes](https://hrsather.medium.com/length-limited-huffman-codes-21971f021d43?source=rss------data_science-5)
-- [How to Use Python for Artificial Intelligence: 7 Easy Ways](https://medium.com/@alains/how-to-use-python-for-artificial-intelligence-7-easy-ways-c10fcc7d7946?source=rss------data_science-5)
-- [7 Unexpected Ways to Use Python for Data Visualisation](https://medium.com/@alains/7-unexpected-ways-to-use-python-for-data-visualisation-1d903894a2a2?source=rss------data_science-5)
+- [Create Any Kind Of Beautiful Data Visualizations With These Powerful Python Matplotlib Functions](https://medium.com/@alains/create-any-kind-of-beautiful-data-visualizations-with-these-powerful-python-matplotlib-functions-537ad359e9a3?source=rss------data_science-5)
+- [Infographics Wizard: Flexible Infographics Authoring and Design Exploration](https://medium.com/@a_tyagi/infographics-wizard-flexible-infographics-authoring-and-design-exploration-acb03ce4e28c?source=rss------data_science-5)
+- [NPV FUNCTION](https://anuoluwapods.medium.com/npv-function-f084b5e8722e?source=rss------data_science-5)
+- [Programação para Iniciantes em Análise de Dados: principais ferramentas.](https://medium.com/@data.aqa/programa%C3%A7%C3%A3o-para-iniciantes-em-an%C3%A1lise-de-dados-principais-ferramentas-e21fd51d4e17?source=rss------data_science-5)
+- [Web Scraping Tables with Python](https://medium.com/@dniggl/web-scraping-tables-with-python-1ed833da844a?source=rss------data_science-5)
+- [MLOps — gentle introduction. Concepts and examples.](https://medium.com/@Mikolaj_Maslanka/mlops-gentle-introduction-concepts-and-examples-bd2b3d6f9f2b?source=rss------data_science-5)
+- [React.js ‘Championship Chess’ from Scratch — Part One](https://tmele54.medium.com/react-js-championship-chess-from-scratch-part-one-3bcc5038396b?source=rss------data_science-5)
+- [5 Data Distributions for Data Scientists](https://towardsdatascience.com/5-data-distributions-for-data-scientists-97d92d028190?source=rss------data_science-5)
+- [Gradient Descent — What, Why and How of the optimized algorithm](https://medium.com/@binayak.mahapatra05/gradient-descent-what-why-and-how-of-the-optimized-algorithm-f94528182f8f?source=rss------data_science-5)
+- [Understanding Decorators in Python](https://medium.com/@tomisinabiodun/understanding-decorators-in-python-b6d7adbd1ea1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
