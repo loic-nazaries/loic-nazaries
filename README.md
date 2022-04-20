@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Create Any Kind Of Beautiful Data Visualizations With These Powerful Python Matplotlib Functions](https://medium.com/@alains/create-any-kind-of-beautiful-data-visualizations-with-these-powerful-python-matplotlib-functions-537ad359e9a3?source=rss------data_science-5)
-- [Infographics Wizard: Flexible Infographics Authoring and Design Exploration](https://medium.com/@a_tyagi/infographics-wizard-flexible-infographics-authoring-and-design-exploration-acb03ce4e28c?source=rss------data_science-5)
-- [NPV FUNCTION](https://anuoluwapods.medium.com/npv-function-f084b5e8722e?source=rss------data_science-5)
-- [Programação para Iniciantes em Análise de Dados: principais ferramentas.](https://medium.com/@data.aqa/programa%C3%A7%C3%A3o-para-iniciantes-em-an%C3%A1lise-de-dados-principais-ferramentas-e21fd51d4e17?source=rss------data_science-5)
-- [Web Scraping Tables with Python](https://medium.com/@dniggl/web-scraping-tables-with-python-1ed833da844a?source=rss------data_science-5)
-- [MLOps — gentle introduction. Concepts and examples.](https://medium.com/@Mikolaj_Maslanka/mlops-gentle-introduction-concepts-and-examples-bd2b3d6f9f2b?source=rss------data_science-5)
-- [React.js ‘Championship Chess’ from Scratch — Part One](https://tmele54.medium.com/react-js-championship-chess-from-scratch-part-one-3bcc5038396b?source=rss------data_science-5)
-- [5 Data Distributions for Data Scientists](https://towardsdatascience.com/5-data-distributions-for-data-scientists-97d92d028190?source=rss------data_science-5)
-- [Gradient Descent — What, Why and How of the optimized algorithm](https://medium.com/@binayak.mahapatra05/gradient-descent-what-why-and-how-of-the-optimized-algorithm-f94528182f8f?source=rss------data_science-5)
-- [Understanding Decorators in Python](https://medium.com/@tomisinabiodun/understanding-decorators-in-python-b6d7adbd1ea1?source=rss------data_science-5)
+- [Postgres Fuzzy Search With pg_trgm: Smart Database Guesses What You Want and Returns “Cat Food”…](https://towardsdatascience.com/postgres-fuzzy-search-with-pg-trgm-smart-database-guesses-what-you-want-and-returns-cat-food-4b174d9bede8?source=rss------data_science-5)
+- [Forecast Sales Using Prophet](https://sungkim11.medium.com/forecast-sales-using-prophet-90b6bbd18f8f?source=rss------data_science-5)
+- [An Introduction to Kolmogorov Complexity](https://hrsather.medium.com/a-brief-overview-of-kolmogorov-complexity-ee5eea847acd?source=rss------data_science-5)
+- [대규모 서비스를 지탱하는 기술 과제 첫번째 파트 구현하기](https://equus3144.medium.com/%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-%EA%B3%BC%EC%A0%9C-%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%8C%8C%ED%8A%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-cca602d1970b?source=rss------data_science-5)
+- [How to Avoid Spacecraft Collisions](https://aerospacecorp.medium.com/how-to-avoid-spacecraft-collisions-d6bd25c24dc4?source=rss------data_science-5)
+- [Keeping up with machine learning fundamentals](https://svpino.medium.com/keeping-up-with-machine-learning-fundamentals-6b50a25a1c10?source=rss------data_science-5)
+- [Thanks so much Diana for checking out my article. Glad to see you found it informative!](https://medium.com/@bysarahnoonan/thanks-so-much-diana-for-checking-out-my-article-glad-to-see-you-found-it-informative-3cc8f0ee2e96?source=rss------data_science-5)
+- [Descriptive Statistics Basics.](https://taskeenmerchant.medium.com/descriptive-statistics-basics-6b6f2309ad42?source=rss------data_science-5)
+- [Marketing Mix Modeling](https://medium.com/bancolombia-tech/marketing-mix-modeling-22e1c7954f00?source=rss------data_science-5)
+- [The hidden values of MLOps:  PART I — Understanding core values in depth](https://medium.com/@aj.daved/the-hidden-values-of-mlops-part-i-understanding-core-values-in-depth-9373774ad41b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
