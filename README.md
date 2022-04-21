@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Postgres Fuzzy Search With pg_trgm: Smart Database Guesses What You Want and Returns “Cat Food”…](https://towardsdatascience.com/postgres-fuzzy-search-with-pg-trgm-smart-database-guesses-what-you-want-and-returns-cat-food-4b174d9bede8?source=rss------data_science-5)
-- [Forecast Sales Using Prophet](https://sungkim11.medium.com/forecast-sales-using-prophet-90b6bbd18f8f?source=rss------data_science-5)
-- [An Introduction to Kolmogorov Complexity](https://hrsather.medium.com/a-brief-overview-of-kolmogorov-complexity-ee5eea847acd?source=rss------data_science-5)
-- [대규모 서비스를 지탱하는 기술 과제 첫번째 파트 구현하기](https://equus3144.medium.com/%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-%EA%B3%BC%EC%A0%9C-%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%8C%8C%ED%8A%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-cca602d1970b?source=rss------data_science-5)
-- [How to Avoid Spacecraft Collisions](https://aerospacecorp.medium.com/how-to-avoid-spacecraft-collisions-d6bd25c24dc4?source=rss------data_science-5)
-- [Keeping up with machine learning fundamentals](https://svpino.medium.com/keeping-up-with-machine-learning-fundamentals-6b50a25a1c10?source=rss------data_science-5)
-- [Thanks so much Diana for checking out my article. Glad to see you found it informative!](https://medium.com/@bysarahnoonan/thanks-so-much-diana-for-checking-out-my-article-glad-to-see-you-found-it-informative-3cc8f0ee2e96?source=rss------data_science-5)
-- [Descriptive Statistics Basics.](https://taskeenmerchant.medium.com/descriptive-statistics-basics-6b6f2309ad42?source=rss------data_science-5)
-- [Marketing Mix Modeling](https://medium.com/bancolombia-tech/marketing-mix-modeling-22e1c7954f00?source=rss------data_science-5)
-- [The hidden values of MLOps:  PART I — Understanding core values in depth](https://medium.com/@aj.daved/the-hidden-values-of-mlops-part-i-understanding-core-values-in-depth-9373774ad41b?source=rss------data_science-5)
+- [How to Read CSV File in Python? | Simplest Method](https://developers-group.medium.com/how-to-read-csv-file-in-python-simplest-method-ba5f74f3e62f?source=rss------data_science-5)
+- [Building a Competitive Intelligence Flywheel on Databricks Lakehouse Platform](https://medium.com/@mayur_67509/building-a-competitive-intelligence-flywheel-on-databricks-lakehouse-platform-5ac825acbfc5?source=rss------data_science-5)
+- [A Beginner Guide for Entering a Data Science Career Without a Technical Background](https://levelup.gitconnected.com/a-beginner-guide-for-entering-a-data-science-career-without-a-technical-background-629bbcf5b556?source=rss------data_science-5)
+- [One Way to Always be ‘Active’ on Microsoft Teams &lpar;or Zoom&rpar;](https://levelup.gitconnected.com/one-way-to-always-be-active-on-microsoft-teams-or-zoom-b340e8925707?source=rss------data_science-5)
+- [Market Research: The Essential Guide to Understanding the Market](https://pcsocial.medium.com/market-research-the-essential-guide-to-understanding-the-market-675366692c25?source=rss------data_science-5)
+- [Remove Background From Images With Python!](https://preettheman.medium.com/remove-background-from-images-with-python-18df7fe21f69?source=rss------data_science-5)
+- [Starbucks Capstone Challange](https://medium.com/@martini.f/starbucks-capstone-challange-977811f882?source=rss------data_science-5)
+- [Being an industry research scientist](https://engineering.tableau.com/being-an-industry-research-scientist-e9a2749245a1?source=rss------data_science-5)
+- [Prototyping Data Science Features](https://medium.com/the-socure-technology-blog/prototyping-data-science-features-58748ddc4510?source=rss------data_science-5)
+- [Data Cleaning Journey for Beginners](https://medium.com/@novicp28/data-cleaning-journey-for-beginners-478b2f5bf61e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
