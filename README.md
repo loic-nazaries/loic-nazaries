@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Read CSV File in Python? | Simplest Method](https://developers-group.medium.com/how-to-read-csv-file-in-python-simplest-method-ba5f74f3e62f?source=rss------data_science-5)
-- [Building a Competitive Intelligence Flywheel on Databricks Lakehouse Platform](https://medium.com/@mayur_67509/building-a-competitive-intelligence-flywheel-on-databricks-lakehouse-platform-5ac825acbfc5?source=rss------data_science-5)
-- [A Beginner Guide for Entering a Data Science Career Without a Technical Background](https://levelup.gitconnected.com/a-beginner-guide-for-entering-a-data-science-career-without-a-technical-background-629bbcf5b556?source=rss------data_science-5)
-- [One Way to Always be ‘Active’ on Microsoft Teams &lpar;or Zoom&rpar;](https://levelup.gitconnected.com/one-way-to-always-be-active-on-microsoft-teams-or-zoom-b340e8925707?source=rss------data_science-5)
-- [Market Research: The Essential Guide to Understanding the Market](https://pcsocial.medium.com/market-research-the-essential-guide-to-understanding-the-market-675366692c25?source=rss------data_science-5)
-- [Remove Background From Images With Python!](https://preettheman.medium.com/remove-background-from-images-with-python-18df7fe21f69?source=rss------data_science-5)
-- [Starbucks Capstone Challange](https://medium.com/@martini.f/starbucks-capstone-challange-977811f882?source=rss------data_science-5)
-- [Being an industry research scientist](https://engineering.tableau.com/being-an-industry-research-scientist-e9a2749245a1?source=rss------data_science-5)
-- [Prototyping Data Science Features](https://medium.com/the-socure-technology-blog/prototyping-data-science-features-58748ddc4510?source=rss------data_science-5)
-- [Data Cleaning Journey for Beginners](https://medium.com/@novicp28/data-cleaning-journey-for-beginners-478b2f5bf61e?source=rss------data_science-5)
+- [Demography and Aotearoa: What lies underneath](https://medium.com/from-the-exosphere/demography-and-aotearoa-what-lies-underneath-972d0073dfcf?source=rss------data_science-5)
+- [Overcoming food delivery challenges with data science](https://medium.com/coupang-engineering/overcoming-food-delivery-challenges-with-data-science-6420cac1d59?source=rss------data_science-5)
+- [AI Text Generation: Unlimited text With 3 lines of Python Code!](https://medium.com/@alains/ai-text-generation-unlimited-text-with-3-lines-of-python-code-540354a073a6?source=rss------data_science-5)
+- [Scraping substack metadata using undocumented unofficial API](https://medium.com/@hungcheungchan/scraping-substack-metadata-using-undocumented-unofficial-api-aee82786b507?source=rss------data_science-5)
+- [MLOps Journey of a Data Scientist — Start from AWS Cloud Service](https://medium.com/@peiyuan67/mlops-journey-of-a-data-scientist-start-from-aws-cloud-service-c9cd75a1ade7?source=rss------data_science-5)
+- [A Journey into Knowledge Graphs at Instacart](https://medium.com/knowledge-bytes/a-journey-into-knowledge-graphs-with-instacart-2988bcd1c8d0?source=rss------data_science-5)
+- [Best Python Packages In 2022](https://preettheman.medium.com/best-python-packages-in-2022-749f0b2a3c1b?source=rss------data_science-5)
+- [Investigating Machine Learning Techniques to Improve Spec Tests — IV](https://medium.com/serpapi/investigating-machine-learning-techniques-to-improve-spec-tests-iv-5d2ba502c33c?source=rss------data_science-5)
+- [Investigating Machine Learning Techniques to Improve Spec Tests — IV](https://medium.com/@kagermanov/investigating-machine-learning-techniques-to-improve-spec-tests-iv-8e99acfced09?source=rss------data_science-5)
+- [A quick analysis of EB2 green card adjudications](https://medium.com/@saumik_44881/a-quick-analysis-of-eb2-green-card-adjudications-fec432f8da95?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
