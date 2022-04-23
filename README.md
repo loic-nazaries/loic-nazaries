@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Demography and Aotearoa: What lies underneath](https://medium.com/from-the-exosphere/demography-and-aotearoa-what-lies-underneath-972d0073dfcf?source=rss------data_science-5)
-- [Overcoming food delivery challenges with data science](https://medium.com/coupang-engineering/overcoming-food-delivery-challenges-with-data-science-6420cac1d59?source=rss------data_science-5)
-- [AI Text Generation: Unlimited text With 3 lines of Python Code!](https://medium.com/@alains/ai-text-generation-unlimited-text-with-3-lines-of-python-code-540354a073a6?source=rss------data_science-5)
-- [Scraping substack metadata using undocumented unofficial API](https://medium.com/@hungcheungchan/scraping-substack-metadata-using-undocumented-unofficial-api-aee82786b507?source=rss------data_science-5)
-- [MLOps Journey of a Data Scientist — Start from AWS Cloud Service](https://medium.com/@peiyuan67/mlops-journey-of-a-data-scientist-start-from-aws-cloud-service-c9cd75a1ade7?source=rss------data_science-5)
-- [A Journey into Knowledge Graphs at Instacart](https://medium.com/knowledge-bytes/a-journey-into-knowledge-graphs-with-instacart-2988bcd1c8d0?source=rss------data_science-5)
-- [Best Python Packages In 2022](https://preettheman.medium.com/best-python-packages-in-2022-749f0b2a3c1b?source=rss------data_science-5)
-- [Investigating Machine Learning Techniques to Improve Spec Tests — IV](https://medium.com/serpapi/investigating-machine-learning-techniques-to-improve-spec-tests-iv-5d2ba502c33c?source=rss------data_science-5)
-- [Investigating Machine Learning Techniques to Improve Spec Tests — IV](https://medium.com/@kagermanov/investigating-machine-learning-techniques-to-improve-spec-tests-iv-8e99acfced09?source=rss------data_science-5)
-- [A quick analysis of EB2 green card adjudications](https://medium.com/@saumik_44881/a-quick-analysis-of-eb2-green-card-adjudications-fec432f8da95?source=rss------data_science-5)
+- [Os erros de programação mais comuns cometidos por iniciantes](https://medium.com/@fulldevstacks/os-erros-de-programa%C3%A7%C3%A3o-mais-comuns-cometidos-por-iniciantes-a11d8ff3bd60?source=rss------data_science-5)
+- [Classification Algorithm 101: 一小时学会机器学习的分类算法](https://dataapplab.medium.com/classification-algorithm-101-%E4%B8%80%E5%B0%8F%E6%97%B6%E5%AD%A6%E4%BC%9A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%88%86%E7%B1%BB%E7%AE%97%E6%B3%95-bc9000eb494c?source=rss------data_science-5)
+- [Bloomberg Just Made a Cool Python Project](https://preettheman.medium.com/bloomberg-just-made-a-cool-python-project-45641718558d?source=rss------data_science-5)
+- [Shifting your mindset from amateur to professional analyst](https://towardsdatascience.com/shifting-your-mindset-from-amateur-to-professional-analyst-61383f913408?source=rss------data_science-5)
+- [Data Lake vs. Data Warehouse: What are the differences?](https://hedimanai.medium.com/data-lake-vs-data-warehouse-what-are-the-differences-bc903446359c?source=rss------data_science-5)
+- [K-Nearest Neighbors A Simple Yet Powerful Machine Learning Algorithm](https://vish0709.medium.com/k-nearest-neighbors-a-simple-yet-powerful-machine-learning-algorithm-885cab813d6e?source=rss------data_science-5)
+- [8 Mistakes to avoid while using Machine Learning](https://medium.com/@monodeepets77/8-mistakes-to-avoid-while-using-machine-learning-d61af954b9c9?source=rss------data_science-5)
+- [Hi All,](https://medium.com/@ksns.sushma/hi-all-2d4712d0f98c?source=rss------data_science-5)
+- [Use of Data Science in Prospect Research](https://medium.com/@aroravijay/use-of-data-science-in-prospect-research-34edb75bacfa?source=rss------data_science-5)
+- [Peer Consulting as a Resource For Study Abroad Students](https://peerconsultants.medium.com/peer-consulting-as-a-resource-for-study-abroad-students-1c88be375db1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
