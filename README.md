@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Os erros de programação mais comuns cometidos por iniciantes](https://medium.com/@fulldevstacks/os-erros-de-programa%C3%A7%C3%A3o-mais-comuns-cometidos-por-iniciantes-a11d8ff3bd60?source=rss------data_science-5)
-- [Classification Algorithm 101: 一小时学会机器学习的分类算法](https://dataapplab.medium.com/classification-algorithm-101-%E4%B8%80%E5%B0%8F%E6%97%B6%E5%AD%A6%E4%BC%9A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%88%86%E7%B1%BB%E7%AE%97%E6%B3%95-bc9000eb494c?source=rss------data_science-5)
-- [Bloomberg Just Made a Cool Python Project](https://preettheman.medium.com/bloomberg-just-made-a-cool-python-project-45641718558d?source=rss------data_science-5)
-- [Shifting your mindset from amateur to professional analyst](https://towardsdatascience.com/shifting-your-mindset-from-amateur-to-professional-analyst-61383f913408?source=rss------data_science-5)
-- [Data Lake vs. Data Warehouse: What are the differences?](https://hedimanai.medium.com/data-lake-vs-data-warehouse-what-are-the-differences-bc903446359c?source=rss------data_science-5)
-- [K-Nearest Neighbors A Simple Yet Powerful Machine Learning Algorithm](https://vish0709.medium.com/k-nearest-neighbors-a-simple-yet-powerful-machine-learning-algorithm-885cab813d6e?source=rss------data_science-5)
-- [8 Mistakes to avoid while using Machine Learning](https://medium.com/@monodeepets77/8-mistakes-to-avoid-while-using-machine-learning-d61af954b9c9?source=rss------data_science-5)
-- [Hi All,](https://medium.com/@ksns.sushma/hi-all-2d4712d0f98c?source=rss------data_science-5)
-- [Use of Data Science in Prospect Research](https://medium.com/@aroravijay/use-of-data-science-in-prospect-research-34edb75bacfa?source=rss------data_science-5)
-- [Peer Consulting as a Resource For Study Abroad Students](https://peerconsultants.medium.com/peer-consulting-as-a-resource-for-study-abroad-students-1c88be375db1?source=rss------data_science-5)
+- [Por que Ciência de Dados?](https://medium.com/@data.aqa/por-que-ci%C3%AAncia-de-dados-da02714f6fa?source=rss------data_science-5)
+- [Reinforcement Learning : Deterministic Policy vs Stochastic Policy](https://medium.com/@mohannadrateb84/reinforcement-learning-deterministic-policy-vs-stochastic-policy-eabae430916b?source=rss------data_science-5)
+- [Introduction to Data Exploring and CLI Basics](https://medium.com/@kaioh95/introduction-to-data-exploring-and-cli-basics-15370d0db12d?source=rss------data_science-5)
+- [The Awesome Oscillator — The Full Guide](https://kaabar-sofien.medium.com/the-awesome-oscillator-the-full-guide-42a27edab257?source=rss------data_science-5)
+- [Dashboard Comercial](https://marcelo5g.medium.com/dashboard-comercial-d095fc300737?source=rss------data_science-5)
+- [Genetic Algorithm in Python 101](https://medium.com/@itssaad.muhammad/genetic-algorithm-in-python-101-da1687d3339b?source=rss------data_science-5)
+- [Sending Out Promotional Offers that Matter](https://medium.com/@caojinbo/sending-out-promotional-offers-that-matter-1cd56a6b603a?source=rss------data_science-5)
+- [Why Data Science Is the Next Big Thing in Business](https://nilebits.medium.com/why-data-science-is-the-next-big-thing-in-business-8536b79ce4f?source=rss------data_science-5)
+- [Aprende qué es Apache Livy — AprenderBigData.com](https://oscarfmdc.medium.com/aprende-qu%C3%A9-es-apache-livy-aprenderbigdata-com-a9f107a61fee?source=rss------data_science-5)
+- [Basic Importing With Python](https://medium.com/@johnnyb0404/basic-importing-with-python-d88fb707a016?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
