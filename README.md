@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Por que Ciência de Dados?](https://medium.com/@data.aqa/por-que-ci%C3%AAncia-de-dados-da02714f6fa?source=rss------data_science-5)
-- [Reinforcement Learning : Deterministic Policy vs Stochastic Policy](https://medium.com/@mohannadrateb84/reinforcement-learning-deterministic-policy-vs-stochastic-policy-eabae430916b?source=rss------data_science-5)
-- [Introduction to Data Exploring and CLI Basics](https://medium.com/@kaioh95/introduction-to-data-exploring-and-cli-basics-15370d0db12d?source=rss------data_science-5)
-- [The Awesome Oscillator — The Full Guide](https://kaabar-sofien.medium.com/the-awesome-oscillator-the-full-guide-42a27edab257?source=rss------data_science-5)
-- [Dashboard Comercial](https://marcelo5g.medium.com/dashboard-comercial-d095fc300737?source=rss------data_science-5)
-- [Genetic Algorithm in Python 101](https://medium.com/@itssaad.muhammad/genetic-algorithm-in-python-101-da1687d3339b?source=rss------data_science-5)
-- [Sending Out Promotional Offers that Matter](https://medium.com/@caojinbo/sending-out-promotional-offers-that-matter-1cd56a6b603a?source=rss------data_science-5)
-- [Why Data Science Is the Next Big Thing in Business](https://nilebits.medium.com/why-data-science-is-the-next-big-thing-in-business-8536b79ce4f?source=rss------data_science-5)
-- [Aprende qué es Apache Livy — AprenderBigData.com](https://oscarfmdc.medium.com/aprende-qu%C3%A9-es-apache-livy-aprenderbigdata-com-a9f107a61fee?source=rss------data_science-5)
-- [Basic Importing With Python](https://medium.com/@johnnyb0404/basic-importing-with-python-d88fb707a016?source=rss------data_science-5)
+- [Easy Way for Data Crawling on Twitter](https://abdazzamajhari.medium.com/easy-way-for-data-crawling-on-twitter-f6727f7f1017?source=rss------data_science-5)
+- [Investigating Machine Learning Techniques to Improve Spec Tests — IV](https://levelup.gitconnected.com/investigating-machine-learning-techniques-to-improve-spec-tests-iv-6641ab1eb479?source=rss------data_science-5)
+- [Scaling Multiple Datatypes with SKLearn](https://medium.com/@leahnagy/scaling-multiple-datatypes-with-sklearn-4501528ea48e?source=rss------data_science-5)
+- [An Insight into the Lenskart’s Data Engineering team](https://blog.lenskart.com/an-insight-into-the-lenskarts-data-engineering-team-5d34f3124d42?source=rss------data_science-5)
+- [A trick with Python Dunder Methods](https://medium.com/mlearning-ai/a-trick-with-python-dunder-methods-48bc13870762?source=rss------data_science-5)
+- [5 weeks to go and a shot at Fantasy Premier League &lpar;FPL&rpar; glory](https://medium.com/@subin.sen7/5-weeks-to-go-and-a-shot-at-fantasy-premier-league-fpl-glory-2fa056bb0732?source=rss------data_science-5)
+- [The Radon transform: basic principle](https://towardsdatascience.com/the-radon-transform-basic-principle-3179b33f773a?source=rss------data_science-5)
+- [Data: The driver of our daily.](https://msomai.medium.com/data-the-driver-of-our-daily-bd19cb29a1fd?source=rss------data_science-5)
+- [Getting Started with MLOps](https://blog.elemeno.ai/getting-started-with-mlops-ae3c9c8a233a?source=rss------data_science-5)
+- [Data manipulation in Pandas](https://medium.com/@sankarebarri/data-manipulation-in-pandas-aa9686431fe9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
