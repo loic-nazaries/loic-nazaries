@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Easy Way for Data Crawling on Twitter](https://abdazzamajhari.medium.com/easy-way-for-data-crawling-on-twitter-f6727f7f1017?source=rss------data_science-5)
-- [Investigating Machine Learning Techniques to Improve Spec Tests — IV](https://levelup.gitconnected.com/investigating-machine-learning-techniques-to-improve-spec-tests-iv-6641ab1eb479?source=rss------data_science-5)
-- [Scaling Multiple Datatypes with SKLearn](https://medium.com/@leahnagy/scaling-multiple-datatypes-with-sklearn-4501528ea48e?source=rss------data_science-5)
-- [An Insight into the Lenskart’s Data Engineering team](https://blog.lenskart.com/an-insight-into-the-lenskarts-data-engineering-team-5d34f3124d42?source=rss------data_science-5)
-- [A trick with Python Dunder Methods](https://medium.com/mlearning-ai/a-trick-with-python-dunder-methods-48bc13870762?source=rss------data_science-5)
-- [5 weeks to go and a shot at Fantasy Premier League &lpar;FPL&rpar; glory](https://medium.com/@subin.sen7/5-weeks-to-go-and-a-shot-at-fantasy-premier-league-fpl-glory-2fa056bb0732?source=rss------data_science-5)
-- [The Radon transform: basic principle](https://towardsdatascience.com/the-radon-transform-basic-principle-3179b33f773a?source=rss------data_science-5)
-- [Data: The driver of our daily.](https://msomai.medium.com/data-the-driver-of-our-daily-bd19cb29a1fd?source=rss------data_science-5)
-- [Getting Started with MLOps](https://blog.elemeno.ai/getting-started-with-mlops-ae3c9c8a233a?source=rss------data_science-5)
-- [Data manipulation in Pandas](https://medium.com/@sankarebarri/data-manipulation-in-pandas-aa9686431fe9?source=rss------data_science-5)
+- [Sampling… The Truth Behind All The Lies](https://medium.com/@nishithchoudhary/sampling-the-truth-behind-all-the-lies-b22fc755874a?source=rss------data_science-5)
+- [The Efficiency of Traffic Mobility](https://medium.com/@gilang.evandyano/the-efficiency-of-traffic-mobility-8ab69bea3046?source=rss------data_science-5)
+- [A/B testing at Netflix, Uber, Pinterest, Google, LinkedIn, and Spotify- in easy words | Pitfalls…](https://medium.datadriveninvestor.com/a-b-testing-at-netflix-uber-pinterest-google-linkedin-and-spotify-in-easy-words-pitfalls-cb23bc6944d?source=rss------data_science-5)
+- [I gave an interview at Uber for the Data Analyst Fresher role!](https://medium.com/@ritika_DataAnalyst/i-gave-an-interview-at-uber-for-the-data-analyst-fresher-role-240db3086608?source=rss------data_science-5)
+- [Lessons for an Analytics Career](https://medium.com/@joaopvs/lessons-for-an-analytics-career-9fe2f4afe7d1?source=rss------data_science-5)
+- [Makine Öğrenmesinde Temel Bileşen Analizi &lpar;Principal Component Analysis — PCA&rpar; Yöntemi](https://medium.com/@aytolga/makine-%C3%B6%C4%9Frenmesinde-temel-bile%C5%9Fen-analizi-principal-component-analysis-pca-y%C3%B6ntemi-6bc5dfbdab1d?source=rss------data_science-5)
+- [Evolution of Brazilian CPI accumulated in 12 months &lpar;IPCA-IBGE&rpar;: a Data Science Visualization](https://medium.com/@rita.milani/evolution-of-brazilian-cpi-accumulated-in-12-months-ipca-ibge-a-data-science-visualization-73f632cd91f3?source=rss------data_science-5)
+- [How does Spotify know what songs you’ll like?](https://medium.com/codex/how-does-spotify-know-what-songs-youll-like-17846c357d5c?source=rss------data_science-5)
+- [The Most Important Programming Languages Right Now](https://preettheman.medium.com/the-most-important-programming-languages-right-now-de91a96e0b7a?source=rss------data_science-5)
+- [How to Be a Great Data Scientist](https://towardsdatascience.com/how-to-be-a-great-data-scientist-f22973b20a4e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
