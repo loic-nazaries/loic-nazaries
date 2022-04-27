@@ -121,7 +121,7 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
-- [1 Line of Seaborn is What Need for Data Visualization](https://towardsdatascience.com/1-line-of-seaborn-is-what-need-for-data-visualization-e66e0b0f2add?source=rss-2cf6b549448------2)
+- [1 Line of Seaborn is What Need for Data Visualization](https://sonery.medium.com/1-line-of-seaborn-is-what-need-for-data-visualization-e66e0b0f2add?source=rss-2cf6b549448------2)
 - [4 Tips for Using Python Pandas More Efficiently](https://towardsdatascience.com/4-tips-for-using-python-pandas-more-efficiently-8dd9a850b979?source=rss-2cf6b549448------2)
 - [I’m a Self-Taught Data Scientist. Here Are My 3 Suggestions for Newcomers](https://towardsdatascience.com/im-a-self-taught-data-scientist-here-are-my-3-suggestions-for-newcomers-5f5d54e597a8?source=rss-2cf6b549448------2)
 - [If You Work With Textual Data, Learn These Pandas Methods](https://towardsdatascience.com/if-you-work-with-textual-data-learn-these-pandas-methods-3f224122ebaf?source=rss-2cf6b549448------2)
