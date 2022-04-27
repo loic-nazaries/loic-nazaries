@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Sampling… The Truth Behind All The Lies](https://medium.com/@nishithchoudhary/sampling-the-truth-behind-all-the-lies-b22fc755874a?source=rss------data_science-5)
-- [The Efficiency of Traffic Mobility](https://medium.com/@gilang.evandyano/the-efficiency-of-traffic-mobility-8ab69bea3046?source=rss------data_science-5)
-- [A/B testing at Netflix, Uber, Pinterest, Google, LinkedIn, and Spotify- in easy words | Pitfalls…](https://medium.datadriveninvestor.com/a-b-testing-at-netflix-uber-pinterest-google-linkedin-and-spotify-in-easy-words-pitfalls-cb23bc6944d?source=rss------data_science-5)
-- [I gave an interview at Uber for the Data Analyst Fresher role!](https://medium.com/@ritika_DataAnalyst/i-gave-an-interview-at-uber-for-the-data-analyst-fresher-role-240db3086608?source=rss------data_science-5)
-- [Lessons for an Analytics Career](https://medium.com/@joaopvs/lessons-for-an-analytics-career-9fe2f4afe7d1?source=rss------data_science-5)
-- [Makine Öğrenmesinde Temel Bileşen Analizi &lpar;Principal Component Analysis — PCA&rpar; Yöntemi](https://medium.com/@aytolga/makine-%C3%B6%C4%9Frenmesinde-temel-bile%C5%9Fen-analizi-principal-component-analysis-pca-y%C3%B6ntemi-6bc5dfbdab1d?source=rss------data_science-5)
-- [Evolution of Brazilian CPI accumulated in 12 months &lpar;IPCA-IBGE&rpar;: a Data Science Visualization](https://medium.com/@rita.milani/evolution-of-brazilian-cpi-accumulated-in-12-months-ipca-ibge-a-data-science-visualization-73f632cd91f3?source=rss------data_science-5)
-- [How does Spotify know what songs you’ll like?](https://medium.com/codex/how-does-spotify-know-what-songs-youll-like-17846c357d5c?source=rss------data_science-5)
-- [The Most Important Programming Languages Right Now](https://preettheman.medium.com/the-most-important-programming-languages-right-now-de91a96e0b7a?source=rss------data_science-5)
-- [How to Be a Great Data Scientist](https://towardsdatascience.com/how-to-be-a-great-data-scientist-f22973b20a4e?source=rss------data_science-5)
+- [Data Preparation using Rapid miner](https://anuoluwapods.medium.com/data-preparation-using-rapid-miner-2cead248e927?source=rss------data_science-5)
+- [Perfect is a dirty word in Machine Learning](https://medium.com/data-dolittle/perfect-is-a-dirty-word-in-machine-learning-f3751e18668b?source=rss------data_science-5)
+- [5 Reasons why you should start collecting data.](https://medium.com/@lifankosinathi07/5-reasons-why-you-should-start-collecting-data-84fa0625f053?source=rss------data_science-5)
+- [Regression A to Z : Choosing the Correct Type of Regression Analysis](https://medium.com/@dnyaneshwalwadkar/regression-a-to-z-choosing-the-correct-type-of-regression-analysis-4cfb29ae5a1?source=rss------data_science-5)
+- [Goal Setting in Data Science](https://medium.com/dream-of-data/goal-setting-in-data-science-d30a5c20b73?source=rss------data_science-5)
+- [ExCalibr: An Award-Winning System for Educators to Calibrate Exams](https://nyudatascience.medium.com/excalibr-an-award-winning-system-for-educators-to-calibrate-exams-488bf78d396d?source=rss------data_science-5)
+- [Data Science Situational Assessment for Project Planning](https://medium.com/@dnyaneshwalwadkar/data-science-situational-assessment-for-project-planning-2a3c8dcc3b67?source=rss------data_science-5)
+- [Becoming a Data Scientist &lpar;Denise’s Version&rpar;](https://medium.com/@deniseamacias1/becoming-a-data-scientist-denises-version-9d9fa2e7534e?source=rss------data_science-5)
+- [Data Science Problem Formulation](https://medium.com/@dnyaneshwalwadkar/data-science-problem-formulation-83329f9814d6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
