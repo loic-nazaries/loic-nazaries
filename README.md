@@ -105,15 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Preparation using Rapid miner](https://anuoluwapods.medium.com/data-preparation-using-rapid-miner-2cead248e927?source=rss------data_science-5)
-- [Perfect is a dirty word in Machine Learning](https://medium.com/data-dolittle/perfect-is-a-dirty-word-in-machine-learning-f3751e18668b?source=rss------data_science-5)
-- [5 Reasons why you should start collecting data.](https://medium.com/@lifankosinathi07/5-reasons-why-you-should-start-collecting-data-84fa0625f053?source=rss------data_science-5)
-- [Regression A to Z : Choosing the Correct Type of Regression Analysis](https://medium.com/@dnyaneshwalwadkar/regression-a-to-z-choosing-the-correct-type-of-regression-analysis-4cfb29ae5a1?source=rss------data_science-5)
-- [Goal Setting in Data Science](https://medium.com/dream-of-data/goal-setting-in-data-science-d30a5c20b73?source=rss------data_science-5)
-- [ExCalibr: An Award-Winning System for Educators to Calibrate Exams](https://nyudatascience.medium.com/excalibr-an-award-winning-system-for-educators-to-calibrate-exams-488bf78d396d?source=rss------data_science-5)
-- [Data Science Situational Assessment for Project Planning](https://medium.com/@dnyaneshwalwadkar/data-science-situational-assessment-for-project-planning-2a3c8dcc3b67?source=rss------data_science-5)
-- [Becoming a Data Scientist &lpar;Denise’s Version&rpar;](https://medium.com/@deniseamacias1/becoming-a-data-scientist-denises-version-9d9fa2e7534e?source=rss------data_science-5)
-- [Data Science Problem Formulation](https://medium.com/@dnyaneshwalwadkar/data-science-problem-formulation-83329f9814d6?source=rss------data_science-5)
+- [Onboarding a New Role as a Manager](https://medium.com/how-to-lead-in-data-science/onboarding-a-new-role-as-a-manager-3ded74961a14?source=rss------data_science-5)
+- [Artificial Intelligence for Environment](https://medium.com/@dnyaneshwalwadkar/artificial-intelligence-for-environment-7740ccb18bdf?source=rss------data_science-5)
+- [10 Python Mistakes That Tell You’re a Nooby](https://medium.com/geekculture/10-python-mistakes-that-tell-youre-a-nooby-359487f22c97?source=rss------data_science-5)
+- [Data Science: Por onde Começar?](https://medium.com/@julio.silva.706/data-science-por-onde-come%C3%A7ar-95e3d08872a2?source=rss------data_science-5)
+- [Document Image Transformer: Introduction, Usage and Deployment](https://medium.com/mlearning-ai/document-image-transformer-introduction-usage-and-deployment-f8b007600b18?source=rss------data_science-5)
+- [Top 5 Reasons Not to Become a Machine Learning Engineer](https://pub.towardsai.net/top-5-reasons-not-to-become-a-machine-learning-engineer-75a2d5472e11?source=rss------data_science-5)
+- [The Age of AI](https://medium.com/@ogidanhope1/the-age-of-ai-ed7ed64047eb?source=rss------data_science-5)
+- [Applying an Equity Lens to Data-Driven Health Solutions](https://medium.com/patrick-j-mcgovern-foundation/applying-an-equity-lens-to-data-driven-health-solutions-e28dcec0df15?source=rss------data_science-5)
+- [What is a Data Lake? Same thing as Data Warehouse?](https://medium.com/@marcosbsb2014/what-is-a-data-lake-same-thing-as-data-warehouse-c87e0ef74aed?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
