@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Onboarding a New Role as a Manager](https://medium.com/how-to-lead-in-data-science/onboarding-a-new-role-as-a-manager-3ded74961a14?source=rss------data_science-5)
-- [Artificial Intelligence for Environment](https://medium.com/@dnyaneshwalwadkar/artificial-intelligence-for-environment-7740ccb18bdf?source=rss------data_science-5)
-- [10 Python Mistakes That Tell You’re a Nooby](https://medium.com/geekculture/10-python-mistakes-that-tell-youre-a-nooby-359487f22c97?source=rss------data_science-5)
-- [Data Science: Por onde Começar?](https://medium.com/@julio.silva.706/data-science-por-onde-come%C3%A7ar-95e3d08872a2?source=rss------data_science-5)
-- [Document Image Transformer: Introduction, Usage and Deployment](https://medium.com/mlearning-ai/document-image-transformer-introduction-usage-and-deployment-f8b007600b18?source=rss------data_science-5)
-- [Top 5 Reasons Not to Become a Machine Learning Engineer](https://pub.towardsai.net/top-5-reasons-not-to-become-a-machine-learning-engineer-75a2d5472e11?source=rss------data_science-5)
-- [The Age of AI](https://medium.com/@ogidanhope1/the-age-of-ai-ed7ed64047eb?source=rss------data_science-5)
-- [Applying an Equity Lens to Data-Driven Health Solutions](https://medium.com/patrick-j-mcgovern-foundation/applying-an-equity-lens-to-data-driven-health-solutions-e28dcec0df15?source=rss------data_science-5)
-- [What is a Data Lake? Same thing as Data Warehouse?](https://medium.com/@marcosbsb2014/what-is-a-data-lake-same-thing-as-data-warehouse-c87e0ef74aed?source=rss------data_science-5)
+- [Using Edit-Distance Algorithms To Build a Product Listing Spelling Corrector](https://medium.com/queenly-engineering/using-edit-distance-algorithms-to-build-a-product-listing-spelling-corrector-279d53c8ff?source=rss------data_science-5)
+- [SuperAnnotate vs Diffgram](https://anthony-sarkis.medium.com/superannotate-vs-diffgram-b0556a61ba53?source=rss------data_science-5)
+- [Taking a Count Snapshot of a Firefly Semantics Slice Entity Store](https://fireflysemantics.medium.com/taking-a-count-snapshot-of-a-firefly-semantics-slice-entity-store-3e950bf83788?source=rss------data_science-5)
+- [Create a Data Profiling App Using Pandas_Profiling and Streamlit](https://medium.com/codex/create-a-data-profiling-app-using-pandas-profiling-and-streamlit-59300bc50af7?source=rss------data_science-5)
+- [Clustering: two approaches](https://medium.com/codex/clustering-two-approaches-f914dd9d23a6?source=rss------data_science-5)
+- [Detecting Moving Objects in a Video by Analyzing Pixels](https://towardsdatascience.com/detecting-moving-objects-in-a-video-by-analyzing-pixels-44cf98197b5?source=rss------data_science-5)
+- [Top 10 Best Data Visualization Tools Data Scientist Should Learn in 2022](https://medium.com/illumination/top-10-best-data-visualization-tools-data-scientist-should-learn-in-2022-5ee4d78dd12?source=rss------data_science-5)
+- [How To Step Up Your Python Coding Game With Githooks](https://levelup.gitconnected.com/how-to-step-up-your-python-coding-game-with-githooks-3c054409dcb4?source=rss------data_science-5)
+- [Right k for K-means clustering](https://medium.com/@sheetal.j.gwda/k-means-clustering-be39a4f1fbcd?source=rss------data_science-5)
+- [For Machine Learning, a Complete Guide for Applied Statistics](https://medium.com/@dnyaneshwalwadkar/for-machine-learning-a-complete-guide-for-applied-statistics-bc78db6a64c3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
