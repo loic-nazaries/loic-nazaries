@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Using Edit-Distance Algorithms To Build a Product Listing Spelling Corrector](https://medium.com/queenly-engineering/using-edit-distance-algorithms-to-build-a-product-listing-spelling-corrector-279d53c8ff?source=rss------data_science-5)
-- [SuperAnnotate vs Diffgram](https://anthony-sarkis.medium.com/superannotate-vs-diffgram-b0556a61ba53?source=rss------data_science-5)
-- [Taking a Count Snapshot of a Firefly Semantics Slice Entity Store](https://fireflysemantics.medium.com/taking-a-count-snapshot-of-a-firefly-semantics-slice-entity-store-3e950bf83788?source=rss------data_science-5)
-- [Create a Data Profiling App Using Pandas_Profiling and Streamlit](https://medium.com/codex/create-a-data-profiling-app-using-pandas-profiling-and-streamlit-59300bc50af7?source=rss------data_science-5)
-- [Clustering: two approaches](https://medium.com/codex/clustering-two-approaches-f914dd9d23a6?source=rss------data_science-5)
-- [Detecting Moving Objects in a Video by Analyzing Pixels](https://towardsdatascience.com/detecting-moving-objects-in-a-video-by-analyzing-pixels-44cf98197b5?source=rss------data_science-5)
-- [Top 10 Best Data Visualization Tools Data Scientist Should Learn in 2022](https://medium.com/illumination/top-10-best-data-visualization-tools-data-scientist-should-learn-in-2022-5ee4d78dd12?source=rss------data_science-5)
-- [How To Step Up Your Python Coding Game With Githooks](https://levelup.gitconnected.com/how-to-step-up-your-python-coding-game-with-githooks-3c054409dcb4?source=rss------data_science-5)
-- [Right k for K-means clustering](https://medium.com/@sheetal.j.gwda/k-means-clustering-be39a4f1fbcd?source=rss------data_science-5)
-- [For Machine Learning, a Complete Guide for Applied Statistics](https://medium.com/@dnyaneshwalwadkar/for-machine-learning-a-complete-guide-for-applied-statistics-bc78db6a64c3?source=rss------data_science-5)
+- [Applications of Huffman Coding](https://experiencestack.co/applications-of-huffman-coding-73c661f9ef03?source=rss------data_science-5)
+- [Data in the context of Machine Learning](https://medium.com/@rkbanda/data-in-the-context-of-machine-learning-693cb117c934?source=rss------data_science-5)
+- [Top 5 Code IDE’s In 2022](https://preettheman.medium.com/top-5-code-ides-in-2022-c608a0084faf?source=rss------data_science-5)
+- [Does Dalle 2 understands abstraction?](https://medium.com/@thisisvaishnavibalaji/does-dalle-2-understands-abstraction-6d24bff46604?source=rss------data_science-5)
+- [How to Create RGB Image in Python Programing Language from Jupyter Notebook](https://medium.com/@celik-muhammed/how-to-create-rgb-image-in-python-programing-language-from-jupyter-notebook-4a78db8205d7?source=rss------data_science-5)
+- [Observatory of the Strategy: more than numbers, a delivery to society](https://medium.com/@alextosta/observatory-of-the-strategy-more-than-numbers-a-delivery-to-society-6101c50ffc47?source=rss------data_science-5)
+- [The Value of A/B Testing](https://medium.com/bigabids-dataverse/the-value-of-a-b-testing-dca430371566?source=rss------data_science-5)
+- [Functions in Python](https://python.plainenglish.io/functions-in-python-b18ed0a5511e?source=rss------data_science-5)
+- [Interview experience for a Data Analyst role at Zalando, Berlin](https://medium.com/@kashyapbarua/interview-experience-for-a-data-analyst-role-at-zalando-berlin-9a7ea4ee8c2b?source=rss------data_science-5)
+- [Some Awesome 3D Sets](https://medium.com/@monodeepets77/some-awesome-3d-sets-5791f5775399?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
