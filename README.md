@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Applications of Huffman Coding](https://experiencestack.co/applications-of-huffman-coding-73c661f9ef03?source=rss------data_science-5)
-- [Data in the context of Machine Learning](https://medium.com/@rkbanda/data-in-the-context-of-machine-learning-693cb117c934?source=rss------data_science-5)
-- [Top 5 Code IDE’s In 2022](https://preettheman.medium.com/top-5-code-ides-in-2022-c608a0084faf?source=rss------data_science-5)
-- [Does Dalle 2 understands abstraction?](https://medium.com/@thisisvaishnavibalaji/does-dalle-2-understands-abstraction-6d24bff46604?source=rss------data_science-5)
-- [How to Create RGB Image in Python Programing Language from Jupyter Notebook](https://medium.com/@celik-muhammed/how-to-create-rgb-image-in-python-programing-language-from-jupyter-notebook-4a78db8205d7?source=rss------data_science-5)
-- [Observatory of the Strategy: more than numbers, a delivery to society](https://medium.com/@alextosta/observatory-of-the-strategy-more-than-numbers-a-delivery-to-society-6101c50ffc47?source=rss------data_science-5)
-- [The Value of A/B Testing](https://medium.com/bigabids-dataverse/the-value-of-a-b-testing-dca430371566?source=rss------data_science-5)
-- [Functions in Python](https://python.plainenglish.io/functions-in-python-b18ed0a5511e?source=rss------data_science-5)
-- [Interview experience for a Data Analyst role at Zalando, Berlin](https://medium.com/@kashyapbarua/interview-experience-for-a-data-analyst-role-at-zalando-berlin-9a7ea4ee8c2b?source=rss------data_science-5)
-- [Some Awesome 3D Sets](https://medium.com/@monodeepets77/some-awesome-3d-sets-5791f5775399?source=rss------data_science-5)
+- [Everything You Want to Know About Artificial Intelligence &lpar;AI&rpar;](https://medium.com/codex/everything-you-want-to-know-about-artificial-intelligence-ai-ff841fc8eb79?source=rss------data_science-5)
+- [The overpowered open-cv cheat sheet for AI and ML](https://siddheshshivdikar.medium.com/the-overpowered-open-cv-cheat-sheet-c1825bd02bf6?source=rss------data_science-5)
+- [Thresholds and Evaluation Metrics for binary classification](https://medium.com/@abderrazak.bajjou/thresholds-and-evaluation-metrics-for-binary-classification-c18d3d2fe038?source=rss------data_science-5)
+- [Papers to Read on Heisenberg Algebra](https://medium.com/@monodeepets77/papers-to-read-on-heisenberg-algebra-18159c13ccc4?source=rss------data_science-5)
+- [¿Quién decidirá qué información es importante?](https://medium.com/@franciscobagdonasperafn/qui%C3%A9n-decidir%C3%A1-qu%C3%A9-informaci%C3%B3n-es-importante-cb130cb630f9?source=rss------data_science-5)
+- [Analysis of Call Centre Trends At PhoneNow — A Telecommunication Company.](https://medium.com/@doshkenny/analysis-of-call-centre-trends-at-phonenow-a-telecommunication-company-339a337a35a2?source=rss------data_science-5)
+- [What are the Top 5 Data Science Certification &amp; Training Programs to advance your career?](https://internetdigitalentrepreneur.medium.com/what-are-the-top-5-data-science-certification-training-programs-to-advance-your-career-437339d479eb?source=rss------data_science-5)
+- [And the Winner Is…](https://medium.com/mlearning-ai/and-the-winner-is-fb0e47f7bf68?source=rss------data_science-5)
+- [How to Build a Machine Learning Web App in Python Using Gradio](https://medium.com/@abdulsamodazeez/how-to-build-a-machine-learning-web-app-in-python-using-gradio-9c7c21ff557c?source=rss------data_science-5)
+- [Top 7 Machine Learning resources I wish I knew earlier](https://towardsdatascience.com/top-7-machine-learning-resources-i-wish-i-knew-earlier-89f4b8d3364c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
