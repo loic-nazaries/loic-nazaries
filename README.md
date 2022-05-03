@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why is Master of Science in Business Analytics a high demand program right now?](https://medium.com/@mshim_81082/why-is-master-of-science-in-business-analytics-a-high-demand-program-right-now-f9cbd3fcd226?source=rss------data_science-5)
-- [Using World Bank Data on Pandas for Beginners](https://medium.com/@temtemwrite/using-world-bank-data-on-pandas-for-beginners-80011bc1ff74?source=rss------data_science-5)
-- [15 of the Top Data Science Certifications to Boost Your Career](https://medium.com/@alains/15-of-the-top-data-science-certifications-to-boost-your-career-e2dfc5d01364?source=rss------data_science-5)
-- [3 Approaches to Find Missing Values](https://towardsdatascience.com/3-approaches-to-find-missing-values-ff656eba6902?source=rss------data_science-5)
-- [The Basics of Data Science in Two Minutes](https://medium.com/@alains/the-basics-of-data-science-in-two-minutes-e1811f3e6ba5?source=rss------data_science-5)
-- [What is Machine Learning?](https://medium.com/@arminmirrezai/what-is-machine-learning-f630df4e2be8?source=rss------data_science-5)
-- [The Dark Side Of Data Science: The Dangers Of Big Data](https://medium.com/@alains/the-dark-side-of-data-science-the-dangers-of-big-data-9db36eed68ee?source=rss------data_science-5)
-- [The Dark Side Of Data Science: The Perils Of Data Mining](https://medium.com/@alains/the-dark-side-of-data-science-the-perils-of-data-mining-b8d6746c9fe7?source=rss------data_science-5)
-- [The Dark Side Of Data Science: The Risks Of Data Analysis](https://medium.com/@alains/the-dark-side-of-data-science-the-risks-of-data-analysis-de255d5de2e2?source=rss------data_science-5)
-- [What Are the Key Steps in Data Science Process?](https://medium.com/@alains/what-are-the-key-steps-in-data-science-process-5ee0b235d374?source=rss------data_science-5)
+- [NumPy: Zero to Hero](https://materialdatascience.medium.com/numpy-zero-to-hero-5354c68ec94b?source=rss------data_science-5)
+- [Understanding Gaussian Mixture Models — How do they work?](https://alkhalifas.medium.com/understanding-gaussian-mixture-models-how-do-they-work-95534501c9de?source=rss------data_science-5)
+- [Using IUPAC with GlobalChem Sunbursts to determine Chemical Diversity for a list of SMILES with…](https://sharifsuliman1.medium.com/using-iupac-with-globalchem-sunbursts-to-determine-chemical-diversity-for-a-list-of-smiles-with-db844a59abe6?source=rss------data_science-5)
+- [Metodologia de desenvolvimento para projetos de Data Science: CRISP-DM — Parte 1](https://almirmartins.medium.com/metodologia-de-desenvolvimento-para-projetos-de-data-science-crisp-dm-parte-1-75460e013d8e?source=rss------data_science-5)
+- [All About Adaboost](https://pub.towardsai.net/all-about-adaboost-ba232b5521e9?source=rss------data_science-5)
+- [Why You Shouldn’t Use Julia](https://preettheman.medium.com/why-you-shouldnt-use-julia-2d2082c8b5cc?source=rss------data_science-5)
+- [mailto:trust@medium.com](https://medium.com/@toddgreen923/mailto-trust-medium-com-e3fdb2c2b20d?source=rss------data_science-5)
+- [Rice Codes](https://experiencestack.co/rice-codes-cdee6f63a546?source=rss------data_science-5)
+- [3 Simple Steps to Easily Create a Pleasant Pie Chart in Tableau](https://medium.com/tableau101/3-simple-steps-to-easily-create-a-pleasant-pie-chart-in-tableau-88118ef50d45?source=rss------data_science-5)
+- [More than just the tempo](https://medium.com/@emfrankk/spotify-running-playlist-39302fb951d5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
