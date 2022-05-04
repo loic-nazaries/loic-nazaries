@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [NumPy: Zero to Hero](https://materialdatascience.medium.com/numpy-zero-to-hero-5354c68ec94b?source=rss------data_science-5)
-- [Understanding Gaussian Mixture Models — How do they work?](https://alkhalifas.medium.com/understanding-gaussian-mixture-models-how-do-they-work-95534501c9de?source=rss------data_science-5)
-- [Using IUPAC with GlobalChem Sunbursts to determine Chemical Diversity for a list of SMILES with…](https://sharifsuliman1.medium.com/using-iupac-with-globalchem-sunbursts-to-determine-chemical-diversity-for-a-list-of-smiles-with-db844a59abe6?source=rss------data_science-5)
-- [Metodologia de desenvolvimento para projetos de Data Science: CRISP-DM — Parte 1](https://almirmartins.medium.com/metodologia-de-desenvolvimento-para-projetos-de-data-science-crisp-dm-parte-1-75460e013d8e?source=rss------data_science-5)
-- [All About Adaboost](https://pub.towardsai.net/all-about-adaboost-ba232b5521e9?source=rss------data_science-5)
-- [Why You Shouldn’t Use Julia](https://preettheman.medium.com/why-you-shouldnt-use-julia-2d2082c8b5cc?source=rss------data_science-5)
-- [mailto:trust@medium.com](https://medium.com/@toddgreen923/mailto-trust-medium-com-e3fdb2c2b20d?source=rss------data_science-5)
-- [Rice Codes](https://experiencestack.co/rice-codes-cdee6f63a546?source=rss------data_science-5)
-- [3 Simple Steps to Easily Create a Pleasant Pie Chart in Tableau](https://medium.com/tableau101/3-simple-steps-to-easily-create-a-pleasant-pie-chart-in-tableau-88118ef50d45?source=rss------data_science-5)
-- [More than just the tempo](https://medium.com/@emfrankk/spotify-running-playlist-39302fb951d5?source=rss------data_science-5)
+- [Seven Ways to Get Hired in Data Science](https://medium.com/@alains/7-ways-of-improving-your-odds-with-data-science-hiring-cc251abfba06?source=rss------data_science-5)
+- [A Big Python Project Is About To Come Out](https://preettheman.medium.com/a-big-python-project-is-about-to-come-out-4716f6ea9e00?source=rss------data_science-5)
+- [Deep Learning &amp; Neural Network : Master Study Plan](https://medium.com/@dnyaneshwalwadkar/deep-learning-neural-network-master-study-plan-886863e03385?source=rss------data_science-5)
+- [Classification Performance: Introduction](https://medium.com/@pawel.lee/classification-performance-introduction-4c4ba2e8c76f?source=rss------data_science-5)
+- [Papers based on the advancement of Augmented Reality part3](https://medium.com/@monodeepets77/papers-based-on-the-advancement-of-augmented-reality-part3-c85b1b2d45f0?source=rss------data_science-5)
+- [Dataset Selection](https://medium.com/@Caleb_Genly/dataset-selection-1ecfabaa9f44?source=rss------data_science-5)
+- [Statistics Cheat Sheet](https://medium.com/@anjali.dharmik/statistics-cheat-sheet-9b65deb663e5?source=rss------data_science-5)
+- [Don’t Use This Python Package](https://preettheman.medium.com/dont-use-this-python-package-4cc5a9a89fdb?source=rss------data_science-5)
+- [PyCaret 3.0 is coming soon — What’s New?](https://towardsdatascience.com/pycaret-3-0-is-coming-soon-whats-new-e890e6a69ff5?source=rss------data_science-5)
+- [Papers based on the advancement of Augmented Reality part2](https://medium.com/@monodeepets77/papers-based-on-the-advancement-of-augmented-reality-part2-4cda10c0032e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
