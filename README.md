@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Seven Ways to Get Hired in Data Science](https://medium.com/@alains/7-ways-of-improving-your-odds-with-data-science-hiring-cc251abfba06?source=rss------data_science-5)
-- [A Big Python Project Is About To Come Out](https://preettheman.medium.com/a-big-python-project-is-about-to-come-out-4716f6ea9e00?source=rss------data_science-5)
-- [Deep Learning &amp; Neural Network : Master Study Plan](https://medium.com/@dnyaneshwalwadkar/deep-learning-neural-network-master-study-plan-886863e03385?source=rss------data_science-5)
-- [Classification Performance: Introduction](https://medium.com/@pawel.lee/classification-performance-introduction-4c4ba2e8c76f?source=rss------data_science-5)
-- [Papers based on the advancement of Augmented Reality part3](https://medium.com/@monodeepets77/papers-based-on-the-advancement-of-augmented-reality-part3-c85b1b2d45f0?source=rss------data_science-5)
-- [Dataset Selection](https://medium.com/@Caleb_Genly/dataset-selection-1ecfabaa9f44?source=rss------data_science-5)
-- [Statistics Cheat Sheet](https://medium.com/@anjali.dharmik/statistics-cheat-sheet-9b65deb663e5?source=rss------data_science-5)
-- [Don’t Use This Python Package](https://preettheman.medium.com/dont-use-this-python-package-4cc5a9a89fdb?source=rss------data_science-5)
-- [PyCaret 3.0 is coming soon — What’s New?](https://towardsdatascience.com/pycaret-3-0-is-coming-soon-whats-new-e890e6a69ff5?source=rss------data_science-5)
-- [Papers based on the advancement of Augmented Reality part2](https://medium.com/@monodeepets77/papers-based-on-the-advancement-of-augmented-reality-part2-4cda10c0032e?source=rss------data_science-5)
+- [Data Science is needed in High Schools — Now](https://brandon-dorman.medium.com/data-science-is-needed-in-high-schools-now-770f52f8cdf4?source=rss------data_science-5)
+- [Learning to Fail in Data Science](https://medium.com/@nil0nil0/learning-to-fail-f0f76744ab20?source=rss------data_science-5)
+- [Helllo](https://medium.com/@monodeepets77/helllo-fa684d134a25?source=rss------data_science-5)
+- [A Short History of Credit Bureaus in Brazil](https://medium.com/@afonsomassaoyamaguchi/a-short-history-of-credit-bureaus-in-brazil-219be3e95866?source=rss------data_science-5)
+- [Statistical Analysis with Excel-Chapter 14](https://begumhajra777.medium.com/statistical-analysis-with-excel-chapter-14-dd77eb0b7a9?source=rss------data_science-5)
+- [Papers to Read on Using Reinforcement Learning in Portfolio Management](https://medium.com/@monodeepets77/papers-to-read-on-using-reinforcement-learning-in-portfolio-management-78def9b524d3?source=rss------data_science-5)
+- [This Will Change How You Use Python](https://preettheman.medium.com/this-will-change-how-you-use-python-8733cca9b012?source=rss------data_science-5)
+- [Recommendation Systems &lpar;Introduction&rpar;](https://medium.com/@nohaahmad1.na/recommendation-systems-introduction-7a7f73fa52b1?source=rss------data_science-5)
+- [Break, pass, continue statements in Python](https://medium.com/@marcosbsb2014/break-pass-continue-statements-in-python-58874bc4a265?source=rss------data_science-5)
+- [Is Data Science overrated?](https://medium.com/@2104025/is-data-science-overrated-3b09f8e4d5de?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
