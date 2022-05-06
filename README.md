@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Science is needed in High Schools — Now](https://brandon-dorman.medium.com/data-science-is-needed-in-high-schools-now-770f52f8cdf4?source=rss------data_science-5)
-- [Learning to Fail in Data Science](https://medium.com/@nil0nil0/learning-to-fail-f0f76744ab20?source=rss------data_science-5)
-- [Helllo](https://medium.com/@monodeepets77/helllo-fa684d134a25?source=rss------data_science-5)
-- [A Short History of Credit Bureaus in Brazil](https://medium.com/@afonsomassaoyamaguchi/a-short-history-of-credit-bureaus-in-brazil-219be3e95866?source=rss------data_science-5)
-- [Statistical Analysis with Excel-Chapter 14](https://begumhajra777.medium.com/statistical-analysis-with-excel-chapter-14-dd77eb0b7a9?source=rss------data_science-5)
-- [Papers to Read on Using Reinforcement Learning in Portfolio Management](https://medium.com/@monodeepets77/papers-to-read-on-using-reinforcement-learning-in-portfolio-management-78def9b524d3?source=rss------data_science-5)
-- [This Will Change How You Use Python](https://preettheman.medium.com/this-will-change-how-you-use-python-8733cca9b012?source=rss------data_science-5)
-- [Recommendation Systems &lpar;Introduction&rpar;](https://medium.com/@nohaahmad1.na/recommendation-systems-introduction-7a7f73fa52b1?source=rss------data_science-5)
-- [Break, pass, continue statements in Python](https://medium.com/@marcosbsb2014/break-pass-continue-statements-in-python-58874bc4a265?source=rss------data_science-5)
-- [Is Data Science overrated?](https://medium.com/@2104025/is-data-science-overrated-3b09f8e4d5de?source=rss------data_science-5)
+- [What do Kaggle surveys say about beginners?](https://khurazovruslan.medium.com/what-do-kaggle-surveys-say-about-beginners-9c62a0f60544?source=rss------data_science-5)
+- [No Experience? No Problem! Here’s How to Become a Data Scientist in 24 Weeks](https://medium.com/codex/no-experience-no-problem-heres-how-to-become-a-data-scientist-in-24-weeks-3ebbf842de3d?source=rss------data_science-5)
+- [PyScript: A Useful Abomination?](https://medium.com/analytics-vidhya/pyscript-a-useful-abomination-adc1f550c4be?source=rss------data_science-5)
+- [How to scrape dynamically generated data with Python](https://cris-torres.medium.com/how-to-scrape-dynamically-generated-data-with-python-bc7c8d04569b?source=rss------data_science-5)
+- [Machine Learning Advice for College Students](https://pub.towardsai.net/machine-learning-advice-for-college-students-27d7e66d0f99?source=rss------data_science-5)
+- [Hands on Climate Time Series Clustering using Machine Learning, with Python](https://towardsdatascience.com/hands-on-climate-time-series-clustering-using-machine-learning-with-python-6a12ce1607f9?source=rss------data_science-5)
+- [Machine Learning com Docker contêiner](https://medium.com/jonys-arcanjo/machine-learning-com-docker-cont%C3%AAiner-c4ad2f5262c?source=rss------data_science-5)
+- [SCATTER PLOTS](https://medium.com/@akindeleakanni2049/scatter-plots-96a69449ebfa?source=rss------data_science-5)
+- [ML with Market Data](https://medium.com/machine-learning-with-market-data/ml-with-market-data-72cacb81c579?source=rss------data_science-5)
+- [Awesome Python Package For Spotify Users!](https://preettheman.medium.com/awesome-python-package-for-spotify-users-bf4673666119?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
