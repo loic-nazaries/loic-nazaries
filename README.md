@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What do Kaggle surveys say about beginners?](https://khurazovruslan.medium.com/what-do-kaggle-surveys-say-about-beginners-9c62a0f60544?source=rss------data_science-5)
-- [No Experience? No Problem! Here’s How to Become a Data Scientist in 24 Weeks](https://medium.com/codex/no-experience-no-problem-heres-how-to-become-a-data-scientist-in-24-weeks-3ebbf842de3d?source=rss------data_science-5)
-- [PyScript: A Useful Abomination?](https://medium.com/analytics-vidhya/pyscript-a-useful-abomination-adc1f550c4be?source=rss------data_science-5)
-- [How to scrape dynamically generated data with Python](https://cris-torres.medium.com/how-to-scrape-dynamically-generated-data-with-python-bc7c8d04569b?source=rss------data_science-5)
-- [Machine Learning Advice for College Students](https://pub.towardsai.net/machine-learning-advice-for-college-students-27d7e66d0f99?source=rss------data_science-5)
-- [Hands on Climate Time Series Clustering using Machine Learning, with Python](https://towardsdatascience.com/hands-on-climate-time-series-clustering-using-machine-learning-with-python-6a12ce1607f9?source=rss------data_science-5)
-- [Machine Learning com Docker contêiner](https://medium.com/jonys-arcanjo/machine-learning-com-docker-cont%C3%AAiner-c4ad2f5262c?source=rss------data_science-5)
-- [SCATTER PLOTS](https://medium.com/@akindeleakanni2049/scatter-plots-96a69449ebfa?source=rss------data_science-5)
-- [ML with Market Data](https://medium.com/machine-learning-with-market-data/ml-with-market-data-72cacb81c579?source=rss------data_science-5)
-- [Awesome Python Package For Spotify Users!](https://preettheman.medium.com/awesome-python-package-for-spotify-users-bf4673666119?source=rss------data_science-5)
+- [Topic Modelling in social media](https://medium.com/@falbanese/topic-modelling-in-social-media-499a4bbffb13?source=rss------data_science-5)
+- [The Mystery That Keeps Neil deGrasse Tyson up at Night](https://medium.com/yardcouch-com/the-mystery-that-keeps-neil-degrasse-tyson-up-at-night-544796923289?source=rss------data_science-5)
+- [SQL to PySpark](https://towardsdatascience.com/sql-to-pyspark-d7966e3c15b3?source=rss------data_science-5)
+- [How Gaming helps you build your logical skills](https://medium.com/@monodeepets77/how-gaming-helps-you-build-your-logical-skills-506d35542c55?source=rss------data_science-5)
+- [Stock Data Analysis and Portfolio Management](https://medium.com/@tejasbawankar52/stock-data-analysis-and-portfolio-management-450f2b19d473?source=rss------data_science-5)
+- [Research Papers based on R-CNN&lpar;a type of convolutional neural network&rpar;in Deep Learning](https://medium.com/@monodeepets77/research-papers-based-on-r-cnn-a-type-of-convolutional-neural-network-in-deep-learning-13538ca15b0d?source=rss------data_science-5)
+- [How To Really Use The Superellipse For Elegant Designs](https://medium.com/street-science/how-to-really-use-the-superellipse-for-elegant-designs-710db56e0ab7?source=rss------data_science-5)
+- [Papers to Read on the recent research development in AIDS](https://medium.com/@monodeepets77/papers-to-read-on-the-recent-research-development-in-aids-20d4a0be0400?source=rss------data_science-5)
+- [Weeks 0–1: General Assembly Data Science Immersive, Week by Week](https://medium.com/@rowangayleschaefer/weeks-0-1-general-assembly-data-science-immersive-week-by-week-a31620a8a3fe?source=rss------data_science-5)
+- [StarApple AI will launch a real-world NFTs](https://medium.com/@StarApple/starapple-ai-will-launch-a-real-world-nfts-5d808852bf6c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
