@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Topic Modelling in social media](https://medium.com/@falbanese/topic-modelling-in-social-media-499a4bbffb13?source=rss------data_science-5)
-- [The Mystery That Keeps Neil deGrasse Tyson up at Night](https://medium.com/yardcouch-com/the-mystery-that-keeps-neil-degrasse-tyson-up-at-night-544796923289?source=rss------data_science-5)
-- [SQL to PySpark](https://towardsdatascience.com/sql-to-pyspark-d7966e3c15b3?source=rss------data_science-5)
-- [How Gaming helps you build your logical skills](https://medium.com/@monodeepets77/how-gaming-helps-you-build-your-logical-skills-506d35542c55?source=rss------data_science-5)
-- [Stock Data Analysis and Portfolio Management](https://medium.com/@tejasbawankar52/stock-data-analysis-and-portfolio-management-450f2b19d473?source=rss------data_science-5)
-- [Research Papers based on R-CNN&lpar;a type of convolutional neural network&rpar;in Deep Learning](https://medium.com/@monodeepets77/research-papers-based-on-r-cnn-a-type-of-convolutional-neural-network-in-deep-learning-13538ca15b0d?source=rss------data_science-5)
-- [How To Really Use The Superellipse For Elegant Designs](https://medium.com/street-science/how-to-really-use-the-superellipse-for-elegant-designs-710db56e0ab7?source=rss------data_science-5)
-- [Papers to Read on the recent research development in AIDS](https://medium.com/@monodeepets77/papers-to-read-on-the-recent-research-development-in-aids-20d4a0be0400?source=rss------data_science-5)
-- [Weeks 0–1: General Assembly Data Science Immersive, Week by Week](https://medium.com/@rowangayleschaefer/weeks-0-1-general-assembly-data-science-immersive-week-by-week-a31620a8a3fe?source=rss------data_science-5)
-- [StarApple AI will launch a real-world NFTs](https://medium.com/@StarApple/starapple-ai-will-launch-a-real-world-nfts-5d808852bf6c?source=rss------data_science-5)
+- [10 Best Python Libraries for Finance](https://medium.com/@alains/best-python-libraries-for-finance-7d00ee356bb8?source=rss------data_science-5)
+- [The Difference Between Python Libraries and Modules](https://medium.com/@alains/the-difference-between-python-libraries-and-modules-6575e044f8f6?source=rss------data_science-5)
+- [Python Made Easy: Create Your Own Python Library in 2 Minutes](https://medium.com/@alains/python-made-easy-create-your-own-python-library-in-2-minutes-be5545a636be?source=rss------data_science-5)
+- [Stock Prediction Using GANs](https://medium.com/@davidjanosky/stock-prediction-using-gans-networks-ee97f830ad82?source=rss------data_science-5)
+- [The Permutation Test](https://medium.com/samur-ai/the-permutation-test-cbe79bcde0eb?source=rss------data_science-5)
+- [The Rapid Trend Trading Strategy](https://kaabar-sofien.medium.com/the-rapid-trend-trading-strategy-313ddbf324b6?source=rss------data_science-5)
+- [Best Research Papers to Read on Principal Component Analysis in Artificial Intelligence](https://medium.com/@monodeepets77/best-research-papers-to-read-on-principal-component-analysis-in-artificial-intelligence-d32edea46527?source=rss------data_science-5)
+- [Mastering Python Functions in Less Than 5 Minutes](https://medium.com/@alains/mastering-python-functions-in-less-than-3-minutes-8ffe04f7941c?source=rss------data_science-5)
+- [Análisis y control de proyectos y empresas con Power BI.](https://medium.com/@alonsocopete/an%C3%A1lisis-y-control-de-proyectos-y-empresas-con-power-bi-4d2df0ea9134?source=rss------data_science-5)
+- [Research Papers to Read on Neural Cellular Automata](https://medium.com/@monodeepets77/research-papers-to-read-on-neural-cellular-automata-8db16f1101e1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
