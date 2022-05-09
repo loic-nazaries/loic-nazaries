@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [10 Best Python Libraries for Finance](https://medium.com/@alains/best-python-libraries-for-finance-7d00ee356bb8?source=rss------data_science-5)
-- [The Difference Between Python Libraries and Modules](https://medium.com/@alains/the-difference-between-python-libraries-and-modules-6575e044f8f6?source=rss------data_science-5)
-- [Python Made Easy: Create Your Own Python Library in 2 Minutes](https://medium.com/@alains/python-made-easy-create-your-own-python-library-in-2-minutes-be5545a636be?source=rss------data_science-5)
-- [Stock Prediction Using GANs](https://medium.com/@davidjanosky/stock-prediction-using-gans-networks-ee97f830ad82?source=rss------data_science-5)
-- [The Permutation Test](https://medium.com/samur-ai/the-permutation-test-cbe79bcde0eb?source=rss------data_science-5)
-- [The Rapid Trend Trading Strategy](https://kaabar-sofien.medium.com/the-rapid-trend-trading-strategy-313ddbf324b6?source=rss------data_science-5)
-- [Best Research Papers to Read on Principal Component Analysis in Artificial Intelligence](https://medium.com/@monodeepets77/best-research-papers-to-read-on-principal-component-analysis-in-artificial-intelligence-d32edea46527?source=rss------data_science-5)
-- [Mastering Python Functions in Less Than 5 Minutes](https://medium.com/@alains/mastering-python-functions-in-less-than-3-minutes-8ffe04f7941c?source=rss------data_science-5)
-- [Análisis y control de proyectos y empresas con Power BI.](https://medium.com/@alonsocopete/an%C3%A1lisis-y-control-de-proyectos-y-empresas-con-power-bi-4d2df0ea9134?source=rss------data_science-5)
-- [Research Papers to Read on Neural Cellular Automata](https://medium.com/@monodeepets77/research-papers-to-read-on-neural-cellular-automata-8db16f1101e1?source=rss------data_science-5)
+- [The Importance of Python Github](https://medium.com/@dennisyd/the-importance-of-python-github-762dc9821d3b?source=rss------data_science-5)
+- [How to build a Data Science Team and vision to improve business](https://saagarkulkarni.medium.com/how-to-build-a-data-science-team-and-vision-to-improve-business-bce5f3d7e78d?source=rss------data_science-5)
+- [Uçtan Uca Veri Projesi Nasıl Gerçekleştirilir ? Örnek Bir Finans Projesi](https://medium.com/@erdemekbic/u%C3%A7tan-uca-veri-projesi-nas%C4%B1l-ger%C3%A7ekle%C5%9Ftirilir-%C3%B6rnek-bir-finans-projesi-a05db2a8dee4?source=rss------data_science-5)
+- [D4S Sunday Briefing #154](https://medium.data4sci.com/d4s-sunday-briefing-154-5e62de36533e?source=rss------data_science-5)
+- [This One Line Of Python Code Will Get You The Best Stocks In The World For Free](https://medium.com/@alains/this-one-line-of-python-code-will-get-you-the-best-stocks-in-the-world-for-free-125062a495ce?source=rss------data_science-5)
+- [Ciência de Dados vs Ciência de Decisão](https://medium.com/@afonsomassaoyamaguchi/ci%C3%AAncia-de-dados-vs-ci%C3%AAncia-de-decis%C3%A3o-69028cf7774c?source=rss------data_science-5)
+- [How do Astronauts use Machine Learning ?](https://medium.com/@monodeepets77/how-do-astronauts-use-machine-learning-2fa3046531ed?source=rss------data_science-5)
+- [50 Data Science Project Ideas](https://medium.com/@monodeepets77/50-data-science-project-ideas-c2251f1e4b66?source=rss------data_science-5)
+- [10 Rules to use for Designing Dashboards](https://medium.com/@monodeepets77/10-rules-to-use-for-designing-dashboards-c57cf38cffda?source=rss------data_science-5)
+- [Artificial Intelligence and Bias](https://medium.com/@toluawoyinfa/artificial-intelligence-and-bias-b9752c34e3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
