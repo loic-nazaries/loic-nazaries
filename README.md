@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Using Algorithm-Based Learning to Predict High School Dropout Risk](https://medium.com/@emergencykisses/using-algorithm-based-learning-to-predict-high-school-dropout-risk-3b7959c80217?source=rss------data_science-5)
-- [Top Five Python Machine Learning Libraries 2022](https://python.plainenglish.io/top-five-python-machine-learning-libraries-2022-2d3ed720d7ca?source=rss------data_science-5)
-- [Thanks, Umar. Appreciate it.](https://ashjurberg.medium.com/thanks-umar-appreciate-it-275664e9d2cc?source=rss------data_science-5)
-- [AND/OR/NOT — How To Get The Rows You Want More Precisely](https://anuoluwapods.medium.com/and-or-not-how-to-get-the-rows-you-want-more-precisely-e0aba8b21765?source=rss------data_science-5)
-- [Firefly Semantics Slice Entity Store Active API Guide](https://fireflysemantics.medium.com/firefly-semantics-slice-entity-store-active-api-guide-6cee0d692158?source=rss------data_science-5)
-- [How to Create a Stacked Area Chart Using Plotly Graph Objects](https://medium.com/codex/how-to-create-a-stacked-area-chart-using-plotly-graph-objects-d06f053d8c05?source=rss------data_science-5)
-- [How to Create/Use Great Synthetic Data for Interpretable Machine Learning](https://vincentgranville.medium.com/how-to-create-use-great-synthetic-data-for-interpretable-machine-learning-ebb6fe65a6e0?source=rss------data_science-5)
-- [Association Rule With Rapid Miner](https://anuoluwapods.medium.com/association-rule-with-rapid-miner-c6f9bad023d?source=rss------data_science-5)
-- [Papers to Read on Variational Autoencoders in the Deep Learning domain](https://medium.com/@monodeepets77/papers-to-read-on-variational-autoencoders-in-the-deep-learning-domain-79a366e17363?source=rss------data_science-5)
-- [Research Papers to read on Doc2vec&lpar;Natural Language Processing&rpar;](https://medium.com/@monodeepets77/research-papers-to-read-on-doc2vec-natural-language-processing-311c0e608913?source=rss------data_science-5)
+- [The Beginner’s Guide To Data Science: Everything You Need To Know.](https://medium.com/@James_Delos/the-beginners-guide-to-data-science-everything-you-need-to-know-566df8556c45?source=rss------data_science-5)
+- [Similar but different:](https://medium.com/behavior-design-hub/similar-but-different-9d5b88c5f2f4?source=rss------data_science-5)
+- [How to prepare for AWS Certified Data Analytics Specialty Exam &lpar;DAS-C01&rpar;](https://medium.com/@athlatif/how-to-prepare-for-aws-certified-data-analytics-specialty-exam-das-c01-ebbfdd237e5e?source=rss------data_science-5)
+- [Week 8 at Flatiron: What is SQL? An introduction to SQL](https://medium.com/@LiliyLearns/week-8-at-flatiron-what-is-sql-an-introduction-to-sql-efea0d53080a?source=rss------data_science-5)
+- [My Amazon Data Scientist Interview Questions — and Answers!](https://pub.towardsai.net/my-amazon-data-scientist-interview-questions-and-answers-9220bd9d01e9?source=rss------data_science-5)
+- [3 Dúvidas e Soluções comuns no tratamento de dados.](https://medium.com/@alcidesgabriel.ds/3-d%C3%BAvidas-e-solu%C3%A7%C3%B5es-comuns-no-tratamento-de-dados-4cefc7d0635d?source=rss------data_science-5)
+- [You Need To Use This Python Tool In Every Project](https://preettheman.medium.com/you-need-to-use-this-python-tool-in-every-project-46328f00c0d6?source=rss------data_science-5)
+- [Responsible Data Science and AI: Accounting for Dataset Shifts and Designing Fair Machine Learning…](https://nyudatascience.medium.com/responsible-data-science-and-ai-accounting-for-dataset-shifts-and-designing-fair-machine-learning-8dbd00e3167e?source=rss------data_science-5)
+- [Best Resources to kickstart your Data science Journey](https://medium.com/@mahendragundeti/best-resources-to-kickstart-your-data-science-journey-d247f2de774c?source=rss------data_science-5)
+- [Use of Stats in Data Science](https://medium.com/@ankittrajj1996/use-of-stats-in-data-science-f79b187e0fcc?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
