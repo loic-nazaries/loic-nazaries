@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Beginner’s Guide To Data Science: Everything You Need To Know.](https://medium.com/@James_Delos/the-beginners-guide-to-data-science-everything-you-need-to-know-566df8556c45?source=rss------data_science-5)
-- [Similar but different:](https://medium.com/behavior-design-hub/similar-but-different-9d5b88c5f2f4?source=rss------data_science-5)
-- [How to prepare for AWS Certified Data Analytics Specialty Exam &lpar;DAS-C01&rpar;](https://medium.com/@athlatif/how-to-prepare-for-aws-certified-data-analytics-specialty-exam-das-c01-ebbfdd237e5e?source=rss------data_science-5)
-- [Week 8 at Flatiron: What is SQL? An introduction to SQL](https://medium.com/@LiliyLearns/week-8-at-flatiron-what-is-sql-an-introduction-to-sql-efea0d53080a?source=rss------data_science-5)
-- [My Amazon Data Scientist Interview Questions — and Answers!](https://pub.towardsai.net/my-amazon-data-scientist-interview-questions-and-answers-9220bd9d01e9?source=rss------data_science-5)
-- [3 Dúvidas e Soluções comuns no tratamento de dados.](https://medium.com/@alcidesgabriel.ds/3-d%C3%BAvidas-e-solu%C3%A7%C3%B5es-comuns-no-tratamento-de-dados-4cefc7d0635d?source=rss------data_science-5)
-- [You Need To Use This Python Tool In Every Project](https://preettheman.medium.com/you-need-to-use-this-python-tool-in-every-project-46328f00c0d6?source=rss------data_science-5)
-- [Responsible Data Science and AI: Accounting for Dataset Shifts and Designing Fair Machine Learning…](https://nyudatascience.medium.com/responsible-data-science-and-ai-accounting-for-dataset-shifts-and-designing-fair-machine-learning-8dbd00e3167e?source=rss------data_science-5)
-- [Best Resources to kickstart your Data science Journey](https://medium.com/@mahendragundeti/best-resources-to-kickstart-your-data-science-journey-d247f2de774c?source=rss------data_science-5)
-- [Use of Stats in Data Science](https://medium.com/@ankittrajj1996/use-of-stats-in-data-science-f79b187e0fcc?source=rss------data_science-5)
+- [Quick guide on working with Data APIs in Python](https://k3no.medium.com/quick-guide-on-working-with-data-apis-in-python-eee714a76cee?source=rss------data_science-5)
+- [Installing TensorFlow on M1 MacBook Air with GPU &lpar;Metal&rpar;](https://milindsoorya.medium.com/installing-tensorflow-on-m1-macbook-air-with-gpu-metal-7fc36422396f?source=rss------data_science-5)
+- [Twitter Sentiment Analysis Using Python for Beginners](https://medium.com/@oscar.sefa/twitter-sentiment-analysis-using-python-for-beginners-1ee1bc15dc86?source=rss------data_science-5)
+- [O efeito da pandemia no futebol brasileiro](https://medium.com/@data.aqa/o-efeito-da-pandemia-no-futebol-brasileiro-5d46d02c218b?source=rss------data_science-5)
+- [A New Programming Language For Data Scientists](https://preettheman.medium.com/a-new-programming-language-for-data-scientists-e06dd78ca45c?source=rss------data_science-5)
+- [Online Free Learning: Python](https://medium.com/@ravibht80/online-free-learning-python-5bcad75bb123?source=rss------data_science-5)
+- [Coping with Collinearity](https://techblog.securityscorecard.com/coping-with-collinearity-b16719c62380?source=rss------data_science-5)
+- [Must Read Research Papers on Deep Generative Models&lpar;Deep Learning&rpar;](https://medium.com/@monodeepets77/must-read-research-papers-on-deep-generative-models-deep-learning-6621837cdd8b?source=rss------data_science-5)
+- [Rule-bases Matching with spaCy](https://conradobio.medium.com/rule-bases-matching-with-spacy-74469befa163?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
