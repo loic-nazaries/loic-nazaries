@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Quick guide on working with Data APIs in Python](https://k3no.medium.com/quick-guide-on-working-with-data-apis-in-python-eee714a76cee?source=rss------data_science-5)
-- [Installing TensorFlow on M1 MacBook Air with GPU &lpar;Metal&rpar;](https://milindsoorya.medium.com/installing-tensorflow-on-m1-macbook-air-with-gpu-metal-7fc36422396f?source=rss------data_science-5)
-- [Twitter Sentiment Analysis Using Python for Beginners](https://medium.com/@oscar.sefa/twitter-sentiment-analysis-using-python-for-beginners-1ee1bc15dc86?source=rss------data_science-5)
-- [O efeito da pandemia no futebol brasileiro](https://medium.com/@data.aqa/o-efeito-da-pandemia-no-futebol-brasileiro-5d46d02c218b?source=rss------data_science-5)
-- [A New Programming Language For Data Scientists](https://preettheman.medium.com/a-new-programming-language-for-data-scientists-e06dd78ca45c?source=rss------data_science-5)
-- [Online Free Learning: Python](https://medium.com/@ravibht80/online-free-learning-python-5bcad75bb123?source=rss------data_science-5)
-- [Coping with Collinearity](https://techblog.securityscorecard.com/coping-with-collinearity-b16719c62380?source=rss------data_science-5)
-- [Must Read Research Papers on Deep Generative Models&lpar;Deep Learning&rpar;](https://medium.com/@monodeepets77/must-read-research-papers-on-deep-generative-models-deep-learning-6621837cdd8b?source=rss------data_science-5)
-- [Rule-bases Matching with spaCy](https://conradobio.medium.com/rule-bases-matching-with-spacy-74469befa163?source=rss------data_science-5)
+- [How Data Science Can Help You Achieve Your Business Goals](https://medium.com/@alains/how-data-science-can-help-you-achieve-your-business-goals-3348435b9b1c?source=rss------data_science-5)
+- [7 Tips to Use Data Science to Create a Successful Business Strategy](https://medium.com/@alains/7-tips-to-use-data-science-to-create-a-successful-business-strategy-40b988779575?source=rss------data_science-5)
+- [Classification Models for Subreddits: Wedding Planning vs Divorce](https://medium.com/@vitoriamorenocosta/classification-models-for-subreddits-wedding-planning-vs-divorce-a4541ed69bb8?source=rss------data_science-5)
+- [7 Benefits of Using Data Science for Business Growth](https://medium.com/@alains/7-benefits-of-using-data-science-for-business-growth-76d9b5e65042?source=rss------data_science-5)
+- [Adaptive metropolis algorithm](https://medium.com/@saumik_44881/adaptive-metropolis-algorithm-f45c349e182c?source=rss------data_science-5)
+- [How to Use Data Science to Grow Your Business Successfully](https://medium.com/@alains/how-to-use-data-science-to-grow-your-business-successfully-5b0f47a8fa71?source=rss------data_science-5)
+- [Case Study: Analyzing Job Market Data in Power BI](https://medium.com/@obalanatosin16/case-study-analyzing-job-market-data-in-power-bi-f24c6d13a99d?source=rss------data_science-5)
+- [3 Benefits of Using Data Science in Your Decision-Making Process](https://medium.com/@alains/3-benefits-of-using-data-science-in-your-decision-making-process-9935f2d3ded8?source=rss------data_science-5)
+- [Four Data Science Bad Habits That are Hard to Shake Off](https://medium.datadriveninvestor.com/four-data-science-bad-habits-that-are-hard-to-shake-off-13a75fa08ae0?source=rss------data_science-5)
+- [An overview of machine learning infrastructure](https://medium.com/@dnyaneshwalwadkar/machine-learning-infrastructure-the-ultimate-guide-cd14ae4568b6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
