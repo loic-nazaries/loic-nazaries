@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How Data Science Can Help You Achieve Your Business Goals](https://medium.com/@alains/how-data-science-can-help-you-achieve-your-business-goals-3348435b9b1c?source=rss------data_science-5)
-- [7 Tips to Use Data Science to Create a Successful Business Strategy](https://medium.com/@alains/7-tips-to-use-data-science-to-create-a-successful-business-strategy-40b988779575?source=rss------data_science-5)
-- [Classification Models for Subreddits: Wedding Planning vs Divorce](https://medium.com/@vitoriamorenocosta/classification-models-for-subreddits-wedding-planning-vs-divorce-a4541ed69bb8?source=rss------data_science-5)
-- [7 Benefits of Using Data Science for Business Growth](https://medium.com/@alains/7-benefits-of-using-data-science-for-business-growth-76d9b5e65042?source=rss------data_science-5)
-- [Adaptive metropolis algorithm](https://medium.com/@saumik_44881/adaptive-metropolis-algorithm-f45c349e182c?source=rss------data_science-5)
-- [How to Use Data Science to Grow Your Business Successfully](https://medium.com/@alains/how-to-use-data-science-to-grow-your-business-successfully-5b0f47a8fa71?source=rss------data_science-5)
-- [Case Study: Analyzing Job Market Data in Power BI](https://medium.com/@obalanatosin16/case-study-analyzing-job-market-data-in-power-bi-f24c6d13a99d?source=rss------data_science-5)
-- [3 Benefits of Using Data Science in Your Decision-Making Process](https://medium.com/@alains/3-benefits-of-using-data-science-in-your-decision-making-process-9935f2d3ded8?source=rss------data_science-5)
-- [Four Data Science Bad Habits That are Hard to Shake Off](https://medium.datadriveninvestor.com/four-data-science-bad-habits-that-are-hard-to-shake-off-13a75fa08ae0?source=rss------data_science-5)
-- [An overview of machine learning infrastructure](https://medium.com/@dnyaneshwalwadkar/machine-learning-infrastructure-the-ultimate-guide-cd14ae4568b6?source=rss------data_science-5)
+- [Dating and Data Science](https://medium.com/codex/dating-and-data-science-a0b05e31cb03?source=rss------data_science-5)
+- [Restaurant Demand Forecasting Following COVID-19](https://medium.com/@muyangxu1019/restaurant-demand-forecasting-following-covid-19-32ddac5a1638?source=rss------data_science-5)
+- [PyCharm is the Best Editor for Python](https://medium.com/codex/pycharm-is-best-editor-for-python-12ce2a61ee04?source=rss------data_science-5)
+- [Python 3.11: Speed Boost Coming Soon](https://medium.com/codex/python-3-11-speed-boost-coming-soon-a92f9bda958c?source=rss------data_science-5)
+- [Quais os Tipos de Variáveis?](https://medium.com/@ds.wendersonmelo/quais-os-tipos-de-vari%C3%A1veis-f16ec4ac6c8?source=rss------data_science-5)
+- [Gentle Introduction to Statistics for Machine Learning](https://pub.towardsai.net/gentle-introduction-to-statistics-for-machine-learning-13356f2eb2bf?source=rss------data_science-5)
+- [Linear Regression — King County Housing Market](https://medium.com/@helennpham0229/linear-regression-king-county-housing-market-673a6cc433c1?source=rss------data_science-5)
+- [Research papers on Generative Adversarial Networks&lpar;GAN’s&rpar;: A Deep learning model part 3](https://medium.com/@monodeepets77/research-papers-on-generative-adversarial-networks-gans-a-deep-learning-model-part-3-323240d4d436?source=rss------data_science-5)
+- [Spark Series &lpar;1&rpar;: Installing Apache Spark 3.2.1](https://medium.com/@hao.l/spark-series-1-installing-apache-spark-3-2-1-fa7e49e0ee08?source=rss------data_science-5)
+- [Cricket Science — Average vs Strike Rate &lpar;Part III: Applying BEREX&rpar;](https://medium.com/@cricketscience/cricket-science-average-vs-strike-rate-part-iii-applying-berex-84a8da629d84?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
