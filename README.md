@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Dating and Data Science](https://medium.com/codex/dating-and-data-science-a0b05e31cb03?source=rss------data_science-5)
-- [Restaurant Demand Forecasting Following COVID-19](https://medium.com/@muyangxu1019/restaurant-demand-forecasting-following-covid-19-32ddac5a1638?source=rss------data_science-5)
-- [PyCharm is the Best Editor for Python](https://medium.com/codex/pycharm-is-best-editor-for-python-12ce2a61ee04?source=rss------data_science-5)
-- [Python 3.11: Speed Boost Coming Soon](https://medium.com/codex/python-3-11-speed-boost-coming-soon-a92f9bda958c?source=rss------data_science-5)
-- [Quais os Tipos de Variáveis?](https://medium.com/@ds.wendersonmelo/quais-os-tipos-de-vari%C3%A1veis-f16ec4ac6c8?source=rss------data_science-5)
-- [Gentle Introduction to Statistics for Machine Learning](https://pub.towardsai.net/gentle-introduction-to-statistics-for-machine-learning-13356f2eb2bf?source=rss------data_science-5)
-- [Linear Regression — King County Housing Market](https://medium.com/@helennpham0229/linear-regression-king-county-housing-market-673a6cc433c1?source=rss------data_science-5)
-- [Research papers on Generative Adversarial Networks&lpar;GAN’s&rpar;: A Deep learning model part 3](https://medium.com/@monodeepets77/research-papers-on-generative-adversarial-networks-gans-a-deep-learning-model-part-3-323240d4d436?source=rss------data_science-5)
-- [Spark Series &lpar;1&rpar;: Installing Apache Spark 3.2.1](https://medium.com/@hao.l/spark-series-1-installing-apache-spark-3-2-1-fa7e49e0ee08?source=rss------data_science-5)
-- [Cricket Science — Average vs Strike Rate &lpar;Part III: Applying BEREX&rpar;](https://medium.com/@cricketscience/cricket-science-average-vs-strike-rate-part-iii-applying-berex-84a8da629d84?source=rss------data_science-5)
+- [A Data Science Journey through NFL Data with R &lpar;and Patience&rpar; — Preface](https://medium.com/@nicholassharkey/a-data-science-journey-through-nfl-data-with-r-and-patience-preface-ad9c10fa540f?source=rss------data_science-5)
+- [Support Vector Machines for Sentiment Analysis](https://harvey-allen.medium.com/support-vector-machines-for-sentiment-analysis-780f99539443?source=rss------data_science-5)
+- [Better Inheritance with the Typescript Override Keyword](https://fireflysemantics.medium.com/better-inheritance-with-the-typescript-override-keyword-47070d324a85?source=rss------data_science-5)
+- [Linear, Exponential vs. Quadratic Functions: What’s the difference?](https://anyi-guo.medium.com/linear-exponential-vs-quadratic-functions-whats-the-difference-3064d97692ac?source=rss------data_science-5)
+- [Becoming a Data Scientist at 67 years old, Part 1](https://sibsforever.medium.com/becoming-a-data-scientist-at-67-years-old-part-1-14482c9c4773?source=rss------data_science-5)
+- [Could you have purchased extended life on the Titanic cruise?](https://medium.com/@georgenikolov_33158/could-you-have-purchased-extended-life-on-the-titanic-cruise-54201853494e?source=rss------data_science-5)
+- [Data Science Career: The role Of a Data engineer -Up to $115,000/Year](https://medium.com/@alains/data-science-career-the-role-of-a-data-engineer-up-to-115-000-year-b82954f9e78a?source=rss------data_science-5)
+- [Data Science Career: The role of an Operations Research Analyst-Up to $165,000/Year](https://medium.com/@alains/data-science-career-the-role-of-an-operations-research-analyst-up-to-165-000-year-5e339611c120?source=rss------data_science-5)
+- [Data Science Career: The role of Business Intelligence Analyst -Up to $170,000/Year](https://medium.com/@alains/data-science-career-the-role-of-business-intelligence-analyst-up-to-170-000-year-200040512ada?source=rss------data_science-5)
+- [Best Papers on Probabilistic Graphical Models part 2](https://medium.com/@monodeepets77/best-papers-on-probabilistic-graphical-models-part-2-8a1a589f7bc2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
