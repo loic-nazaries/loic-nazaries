@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Data Science Journey through NFL Data with R &lpar;and Patience&rpar; — Preface](https://medium.com/@nicholassharkey/a-data-science-journey-through-nfl-data-with-r-and-patience-preface-ad9c10fa540f?source=rss------data_science-5)
-- [Support Vector Machines for Sentiment Analysis](https://harvey-allen.medium.com/support-vector-machines-for-sentiment-analysis-780f99539443?source=rss------data_science-5)
-- [Better Inheritance with the Typescript Override Keyword](https://fireflysemantics.medium.com/better-inheritance-with-the-typescript-override-keyword-47070d324a85?source=rss------data_science-5)
-- [Linear, Exponential vs. Quadratic Functions: What’s the difference?](https://anyi-guo.medium.com/linear-exponential-vs-quadratic-functions-whats-the-difference-3064d97692ac?source=rss------data_science-5)
-- [Becoming a Data Scientist at 67 years old, Part 1](https://sibsforever.medium.com/becoming-a-data-scientist-at-67-years-old-part-1-14482c9c4773?source=rss------data_science-5)
-- [Could you have purchased extended life on the Titanic cruise?](https://medium.com/@georgenikolov_33158/could-you-have-purchased-extended-life-on-the-titanic-cruise-54201853494e?source=rss------data_science-5)
-- [Data Science Career: The role Of a Data engineer -Up to $115,000/Year](https://medium.com/@alains/data-science-career-the-role-of-a-data-engineer-up-to-115-000-year-b82954f9e78a?source=rss------data_science-5)
-- [Data Science Career: The role of an Operations Research Analyst-Up to $165,000/Year](https://medium.com/@alains/data-science-career-the-role-of-an-operations-research-analyst-up-to-165-000-year-5e339611c120?source=rss------data_science-5)
-- [Data Science Career: The role of Business Intelligence Analyst -Up to $170,000/Year](https://medium.com/@alains/data-science-career-the-role-of-business-intelligence-analyst-up-to-170-000-year-200040512ada?source=rss------data_science-5)
-- [Best Papers on Probabilistic Graphical Models part 2](https://medium.com/@monodeepets77/best-papers-on-probabilistic-graphical-models-part-2-8a1a589f7bc2?source=rss------data_science-5)
+- [XNPV Function](https://anuoluwapods.medium.com/xnpv-function-bdfc9af1ace6?source=rss------data_science-5)
+- [MUM: how new Google’s algorithm will change NLP](https://medium.com/geekculture/mum-how-new-googles-algorithm-will-change-nlp-3daebf47b85d?source=rss------data_science-5)
+- [Learn about Synthetic Data at CVPR 2022 with Rendered.ai](https://medium.com/renderedai/learn-about-synthetic-data-at-cvpr-2022-with-rendered-ai-1c92691e21d4?source=rss------data_science-5)
+- [Defining Key Terms &amp; Concepts in Neural Networks &lpar;Part 1&rpar;](https://medium.com/@jjghavami/defining-key-terms-concepts-in-neural-networks-part-1-5cc6a9563a13?source=rss------data_science-5)
+- [Bike Share Toronto: An Exploration of Trip Patterns and User Behaviour with Python Part 2](https://medium.com/@siglimumuni/bike-share-toronto-an-exploration-of-trip-patterns-and-user-behaviour-with-python-part-2-22d1fead5f8c?source=rss------data_science-5)
+- [Research Papers on Kohonen Networks&lpar;Artificial Intelligence&rpar;](https://medium.com/@monodeepets77/research-papers-on-kohonen-networks-artificial-intelligence-139fd355fb5e?source=rss------data_science-5)
+- [60 LEADERS ON ARTIFICIAL INTELLIGENCE](https://krasadakis.medium.com/60-leaders-on-artificial-intelligence-d1be5b27431b?source=rss------data_science-5)
+- [Best Papers to Read on Boltzmann Machines&lpar;Artificial Intelligence&rpar;part 2](https://medium.com/@monodeepets77/best-papers-to-read-on-boltzmann-machines-artificial-intelligence-part-2-9bf2bcdc47e5?source=rss------data_science-5)
+- [Reading the Tea Leaf From the First Ever MLOps Conference](https://betterprogramming.pub/reading-the-tea-leaf-from-the-first-ever-mlops-conference-7f507990a392?source=rss------data_science-5)
+- [Worst Income Streams Programmers Should Avoid](https://preettheman.medium.com/worst-income-streams-programmers-should-avoid-caeaa77750ae?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
