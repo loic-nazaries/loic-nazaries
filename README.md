@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [XNPV Function](https://anuoluwapods.medium.com/xnpv-function-bdfc9af1ace6?source=rss------data_science-5)
-- [MUM: how new Google’s algorithm will change NLP](https://medium.com/geekculture/mum-how-new-googles-algorithm-will-change-nlp-3daebf47b85d?source=rss------data_science-5)
-- [Learn about Synthetic Data at CVPR 2022 with Rendered.ai](https://medium.com/renderedai/learn-about-synthetic-data-at-cvpr-2022-with-rendered-ai-1c92691e21d4?source=rss------data_science-5)
-- [Defining Key Terms &amp; Concepts in Neural Networks &lpar;Part 1&rpar;](https://medium.com/@jjghavami/defining-key-terms-concepts-in-neural-networks-part-1-5cc6a9563a13?source=rss------data_science-5)
-- [Bike Share Toronto: An Exploration of Trip Patterns and User Behaviour with Python Part 2](https://medium.com/@siglimumuni/bike-share-toronto-an-exploration-of-trip-patterns-and-user-behaviour-with-python-part-2-22d1fead5f8c?source=rss------data_science-5)
-- [Research Papers on Kohonen Networks&lpar;Artificial Intelligence&rpar;](https://medium.com/@monodeepets77/research-papers-on-kohonen-networks-artificial-intelligence-139fd355fb5e?source=rss------data_science-5)
-- [60 LEADERS ON ARTIFICIAL INTELLIGENCE](https://krasadakis.medium.com/60-leaders-on-artificial-intelligence-d1be5b27431b?source=rss------data_science-5)
-- [Best Papers to Read on Boltzmann Machines&lpar;Artificial Intelligence&rpar;part 2](https://medium.com/@monodeepets77/best-papers-to-read-on-boltzmann-machines-artificial-intelligence-part-2-9bf2bcdc47e5?source=rss------data_science-5)
-- [Reading the Tea Leaf From the First Ever MLOps Conference](https://betterprogramming.pub/reading-the-tea-leaf-from-the-first-ever-mlops-conference-7f507990a392?source=rss------data_science-5)
-- [Worst Income Streams Programmers Should Avoid](https://preettheman.medium.com/worst-income-streams-programmers-should-avoid-caeaa77750ae?source=rss------data_science-5)
+- [Immortality in AI](https://medium.com/@adofosam/immortality-in-ai-42eec47dde5a?source=rss------data_science-5)
+- [A Quick Guide To SQL Keys](https://blog.jovian.ai/a-quick-guide-to-sql-keys-910d25e48497?source=rss------data_science-5)
+- [Research Papers on developments in Edge Computing part2](https://medium.com/@monodeepets77/research-papers-on-developments-in-edge-computing-part2-a95c90c5d507?source=rss------data_science-5)
+- [Research Papers on developments in Edge Computing part1](https://medium.com/@monodeepets77/research-papers-on-developments-in-edge-computing-part1-8a7789ec1618?source=rss------data_science-5)
+- [Research Papers on developments in ALOHA systems part 2&lpar;Telecommunication&rpar;](https://medium.com/@monodeepets77/research-papers-on-developments-in-aloha-systems-part-2-telecommunication-2ce87f93bbec?source=rss------data_science-5)
+- [Another Milestone: Coding Courses Complete](https://jasondeden.medium.com/another-milestone-coding-courses-complete-dbf4f62cc69f?source=rss------data_science-5)
+- [Research Papers on developments in ALOHA systems part 1&lpar;Telecommunication&rpar;](https://medium.com/@monodeepets77/research-papers-on-developments-in-aloha-systems-part-1-telecommunication-dd277f11dd7a?source=rss------data_science-5)
+- [Why JetBrains IDE’s Are Awesome](https://preettheman.medium.com/why-jetbrains-ides-are-awesome-21b3d79ac559?source=rss------data_science-5)
+- [Daily UI: Starting a Landing Page](https://medium.com/@candier/daily-ui-starting-a-landing-page-4f7c33c26f33?source=rss------data_science-5)
+- [KNN Regression Model in Python](https://towardsdatascience.com/knn-regression-model-in-python-9868f21c9fa2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
