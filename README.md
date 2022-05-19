@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Immortality in AI](https://medium.com/@adofosam/immortality-in-ai-42eec47dde5a?source=rss------data_science-5)
-- [A Quick Guide To SQL Keys](https://blog.jovian.ai/a-quick-guide-to-sql-keys-910d25e48497?source=rss------data_science-5)
-- [Research Papers on developments in Edge Computing part2](https://medium.com/@monodeepets77/research-papers-on-developments-in-edge-computing-part2-a95c90c5d507?source=rss------data_science-5)
-- [Research Papers on developments in Edge Computing part1](https://medium.com/@monodeepets77/research-papers-on-developments-in-edge-computing-part1-8a7789ec1618?source=rss------data_science-5)
-- [Research Papers on developments in ALOHA systems part 2&lpar;Telecommunication&rpar;](https://medium.com/@monodeepets77/research-papers-on-developments-in-aloha-systems-part-2-telecommunication-2ce87f93bbec?source=rss------data_science-5)
-- [Another Milestone: Coding Courses Complete](https://jasondeden.medium.com/another-milestone-coding-courses-complete-dbf4f62cc69f?source=rss------data_science-5)
-- [Research Papers on developments in ALOHA systems part 1&lpar;Telecommunication&rpar;](https://medium.com/@monodeepets77/research-papers-on-developments-in-aloha-systems-part-1-telecommunication-dd277f11dd7a?source=rss------data_science-5)
-- [Why JetBrains IDE’s Are Awesome](https://preettheman.medium.com/why-jetbrains-ides-are-awesome-21b3d79ac559?source=rss------data_science-5)
-- [Daily UI: Starting a Landing Page](https://medium.com/@candier/daily-ui-starting-a-landing-page-4f7c33c26f33?source=rss------data_science-5)
-- [KNN Regression Model in Python](https://towardsdatascience.com/knn-regression-model-in-python-9868f21c9fa2?source=rss------data_science-5)
+- [Create QR Code With Custom Logo — QR Code Generator App](https://demodevelopers.medium.com/create-qr-code-with-custom-logo-qr-code-generator-app-658978ade002?source=rss------data_science-5)
+- [Gráfico: Valorização assustadora do Euro em um ano de pandemia](https://medium.com/@joaquimchianca/gr%C3%A1fico-valoriza%C3%A7%C3%A3o-assustadora-do-euro-em-um-ano-de-pandemia-fb331c859c42?source=rss------data_science-5)
+- [Pie Charts Are Good](https://medium.com/@colin.fraser/pie-charts-are-good-bb8a5242d1b3?source=rss------data_science-5)
+- [O que o YouTube diz sobre as Urnas Eletrônicas?](https://medium.com/@arthurfisch/o-que-o-youtube-diz-sobre-as-urnas-eletr%C3%B4nicas-3e9a42e03bf1?source=rss------data_science-5)
+- [THE ULTIMATE COURSE ON MACHINE LEARNING](https://medium.com/@gjs190201/the-ultimate-course-on-machine-learning-53bc029c251?source=rss------data_science-5)
+- [Data Visualization: How was inflation in Brazil for the past presidents?](https://thyalldgreville.medium.com/data-visualization-how-was-inflation-in-brazil-for-the-past-presidents-1f1cfc1f57e6?source=rss------data_science-5)
+- [These Are The Programming Languages Amazon Uses](https://preettheman.medium.com/these-are-the-programming-languages-amazon-uses-b312e14ce150?source=rss------data_science-5)
+- [def Residual &lpar;Where Your Features Gone Wrong&rpar; :](https://medium.com/@AnahattaSuputra/def-residual-where-your-features-gone-wrong-5e8319c10cf6?source=rss------data_science-5)
+- [A Data Scientist&#39;s Life in Portugal: The new Silicon Valley in Europe.](https://medium.com/@gennsev/a-data-scientists-life-in-portugal-the-new-silicon-valley-in-europe-3bf75fa8b37?source=rss------data_science-5)
+- [Laptop Price Prediction Using Machine Learning](https://medium.com/@rutvimgohel/laptop-price-prediction-using-machine-learning-85631409136c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
