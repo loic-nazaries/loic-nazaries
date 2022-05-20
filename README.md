@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Create QR Code With Custom Logo — QR Code Generator App](https://demodevelopers.medium.com/create-qr-code-with-custom-logo-qr-code-generator-app-658978ade002?source=rss------data_science-5)
-- [Gráfico: Valorização assustadora do Euro em um ano de pandemia](https://medium.com/@joaquimchianca/gr%C3%A1fico-valoriza%C3%A7%C3%A3o-assustadora-do-euro-em-um-ano-de-pandemia-fb331c859c42?source=rss------data_science-5)
-- [Pie Charts Are Good](https://medium.com/@colin.fraser/pie-charts-are-good-bb8a5242d1b3?source=rss------data_science-5)
-- [O que o YouTube diz sobre as Urnas Eletrônicas?](https://medium.com/@arthurfisch/o-que-o-youtube-diz-sobre-as-urnas-eletr%C3%B4nicas-3e9a42e03bf1?source=rss------data_science-5)
-- [THE ULTIMATE COURSE ON MACHINE LEARNING](https://medium.com/@gjs190201/the-ultimate-course-on-machine-learning-53bc029c251?source=rss------data_science-5)
-- [Data Visualization: How was inflation in Brazil for the past presidents?](https://thyalldgreville.medium.com/data-visualization-how-was-inflation-in-brazil-for-the-past-presidents-1f1cfc1f57e6?source=rss------data_science-5)
-- [These Are The Programming Languages Amazon Uses](https://preettheman.medium.com/these-are-the-programming-languages-amazon-uses-b312e14ce150?source=rss------data_science-5)
-- [def Residual &lpar;Where Your Features Gone Wrong&rpar; :](https://medium.com/@AnahattaSuputra/def-residual-where-your-features-gone-wrong-5e8319c10cf6?source=rss------data_science-5)
-- [A Data Scientist&#39;s Life in Portugal: The new Silicon Valley in Europe.](https://medium.com/@gennsev/a-data-scientists-life-in-portugal-the-new-silicon-valley-in-europe-3bf75fa8b37?source=rss------data_science-5)
-- [Laptop Price Prediction Using Machine Learning](https://medium.com/@rutvimgohel/laptop-price-prediction-using-machine-learning-85631409136c?source=rss------data_science-5)
+- [10 Pandas Functions for Fastwr](https://jjdiamondreivich.medium.com/10-pandas-functions-for-fastwr-d94d65787490?source=rss------data_science-5)
+- [HR DATA ANALYTICS AND VISUALIZATION](https://medium.com/@willitivity/hr-data-analytics-and-visualization-73d745fb1ddd?source=rss------data_science-5)
+- [Covariance and Correlation &lpar;a quick brief up&rpar;](https://medium.com/@ayushi99/covariance-and-correlation-a-quick-brief-up-5dc5f14ac3b6?source=rss------data_science-5)
+- [Machine Leaning &amp; A/B Testing](https://tzinie.medium.com/machine-leaning-a-b-testing-eff8245fc2ee?source=rss------data_science-5)
+- [Data Analyst vs Data Engineer vs Data Scientist](https://medium.com/@erisna/data-analyst-vs-data-engineer-vs-data-scientist-7927ffb16af0?source=rss------data_science-5)
+- [Papers analyzing Robustness of Neural Networks &lpar;Artificial Intelligence&rpar;](https://medium.com/@monodeepets77/papers-analyzing-robustness-of-neural-networks-artificial-intelligence-ed4116852fd3?source=rss------data_science-5)
+- [Research Papers based on Human Pose Estimation](https://medium.com/@monodeepets77/research-papers-based-on-human-pose-estimation-8cb6f94a5dcc?source=rss------data_science-5)
+- [How To Make AI Generated Art!](https://preettheman.medium.com/how-to-make-ai-generated-art-a665e73de7dd?source=rss------data_science-5)
+- [Research Papers on developments in Face Detection part 2&lpar;Artificial Intelligence&rpar;](https://medium.com/@monodeepets77/research-papers-on-developments-in-face-detection-part-2-artificial-intelligence-8ff615177cb9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
