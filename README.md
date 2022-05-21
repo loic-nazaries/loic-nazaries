@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [10 Pandas Functions for Fastwr](https://jjdiamondreivich.medium.com/10-pandas-functions-for-fastwr-d94d65787490?source=rss------data_science-5)
-- [HR DATA ANALYTICS AND VISUALIZATION](https://medium.com/@willitivity/hr-data-analytics-and-visualization-73d745fb1ddd?source=rss------data_science-5)
-- [Covariance and Correlation &lpar;a quick brief up&rpar;](https://medium.com/@ayushi99/covariance-and-correlation-a-quick-brief-up-5dc5f14ac3b6?source=rss------data_science-5)
-- [Machine Leaning &amp; A/B Testing](https://tzinie.medium.com/machine-leaning-a-b-testing-eff8245fc2ee?source=rss------data_science-5)
-- [Data Analyst vs Data Engineer vs Data Scientist](https://medium.com/@erisna/data-analyst-vs-data-engineer-vs-data-scientist-7927ffb16af0?source=rss------data_science-5)
-- [Papers analyzing Robustness of Neural Networks &lpar;Artificial Intelligence&rpar;](https://medium.com/@monodeepets77/papers-analyzing-robustness-of-neural-networks-artificial-intelligence-ed4116852fd3?source=rss------data_science-5)
-- [Research Papers based on Human Pose Estimation](https://medium.com/@monodeepets77/research-papers-based-on-human-pose-estimation-8cb6f94a5dcc?source=rss------data_science-5)
-- [How To Make AI Generated Art!](https://preettheman.medium.com/how-to-make-ai-generated-art-a665e73de7dd?source=rss------data_science-5)
-- [Research Papers on developments in Face Detection part 2&lpar;Artificial Intelligence&rpar;](https://medium.com/@monodeepets77/research-papers-on-developments-in-face-detection-part-2-artificial-intelligence-8ff615177cb9?source=rss------data_science-5)
+- [5 Technical Skills That Will Get You Better Data Science Opportunities](https://medium.com/geekculture/5-technical-skills-that-will-get-you-better-data-science-opportunities-103004f33e49?source=rss------data_science-5)
+- [Research Papers to read on Representation Learning part 1](https://medium.com/@monodeepets77/research-papers-to-read-on-representation-learning-part-1-ce1461b391aa?source=rss------data_science-5)
+- [A Must Have Python Package For Data Scientists!](https://preettheman.medium.com/a-must-have-python-package-for-data-scientists-1cc3cf99e0e?source=rss------data_science-5)
+- [6 Dimensionality Reduction Techniques: How and When to use them?](https://medium.com/@kevin.berlemont/6-dimensionality-reduction-techniques-how-and-when-to-use-them-e4891c10b5db?source=rss------data_science-5)
+- [Three laws of model explanation](https://harshalisbatman.medium.com/three-laws-of-model-explanation-8703705f7d12?source=rss------data_science-5)
+- [Boost GeoSpark Spatial Join](https://medium.com/@yunzhaoy/how-to-boost-your-geospark-3c0b2069282e?source=rss------data_science-5)
+- [Programming Languages With Exploding Growth In 2022](https://preettheman.medium.com/programming-languages-with-exploding-growth-in-2022-ebfe3e5e03fd?source=rss------data_science-5)
+- [What College is Right for you?](https://medium.com/@ak2301/what-college-is-right-for-you-ca6d0d4ee764?source=rss------data_science-5)
+- [Research Papers based on Graph Embeddings](https://medium.com/@monodeepets77/research-papers-based-on-graph-embeddings-e83d89c3b59c?source=rss------data_science-5)
+- [4 Simple Steps for Deep Learning to Predict Price Direction for Bitcoin](https://medium.com/mlearning-ai/4-simple-steps-for-deep-learning-to-predict-price-direction-for-bitcoin-6df3e876f37b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
