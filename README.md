@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [5 Technical Skills That Will Get You Better Data Science Opportunities](https://medium.com/geekculture/5-technical-skills-that-will-get-you-better-data-science-opportunities-103004f33e49?source=rss------data_science-5)
-- [Research Papers to read on Representation Learning part 1](https://medium.com/@monodeepets77/research-papers-to-read-on-representation-learning-part-1-ce1461b391aa?source=rss------data_science-5)
-- [A Must Have Python Package For Data Scientists!](https://preettheman.medium.com/a-must-have-python-package-for-data-scientists-1cc3cf99e0e?source=rss------data_science-5)
-- [6 Dimensionality Reduction Techniques: How and When to use them?](https://medium.com/@kevin.berlemont/6-dimensionality-reduction-techniques-how-and-when-to-use-them-e4891c10b5db?source=rss------data_science-5)
-- [Three laws of model explanation](https://harshalisbatman.medium.com/three-laws-of-model-explanation-8703705f7d12?source=rss------data_science-5)
-- [Boost GeoSpark Spatial Join](https://medium.com/@yunzhaoy/how-to-boost-your-geospark-3c0b2069282e?source=rss------data_science-5)
-- [Programming Languages With Exploding Growth In 2022](https://preettheman.medium.com/programming-languages-with-exploding-growth-in-2022-ebfe3e5e03fd?source=rss------data_science-5)
-- [What College is Right for you?](https://medium.com/@ak2301/what-college-is-right-for-you-ca6d0d4ee764?source=rss------data_science-5)
-- [Research Papers based on Graph Embeddings](https://medium.com/@monodeepets77/research-papers-based-on-graph-embeddings-e83d89c3b59c?source=rss------data_science-5)
-- [4 Simple Steps for Deep Learning to Predict Price Direction for Bitcoin](https://medium.com/mlearning-ai/4-simple-steps-for-deep-learning-to-predict-price-direction-for-bitcoin-6df3e876f37b?source=rss------data_science-5)
+- [How to Tackle many Pandas tasks by Learning Only Ten Types of Functions](https://drjodyannjones.medium.com/how-to-tackle-many-pandas-tasks-by-learning-only-ten-types-of-functions-18334031b06d?source=rss------data_science-5)
+- [Need Help — An AI / ML Enthusiast Professional with 18+ years of experience in SAP &lpar;ERP&rpar;…](https://medium.com/@hiteshkpd/need-help-an-ai-ml-enthusiast-professional-with-18-years-of-experience-in-sap-erp-857bb68b480a?source=rss------data_science-5)
+- [ZAMAN SERİSİ &lpar;TIME SERIES&rpar;](https://medium.com/@gamzecoban/zaman-seri%CC%87si%CC%87-time-series-23da57757cec?source=rss------data_science-5)
+- [Analyzing IBM Employee Attrition](https://medium.com/@dhruval_/analyzing-ibm-employee-attrition-ec9b8b9f5b0e?source=rss------data_science-5)
+- [Your Business Will Fail if You Don’t Use Data Analysis: Here Is the Scientific Proof](https://medium.com/illumination/your-business-will-fail-if-you-dont-use-data-analysis-here-is-the-scientific-proof-af869eb78af3?source=rss------data_science-5)
+- [Transform Your Business Into a Data-Driven Powerhouse in 5 Simple Steps](https://medium.com/@alains/transform-your-business-into-a-data-driven-powerhouse-in-5-simple-steps-1a9f9d4cf7b1?source=rss------data_science-5)
+- [Why Data-Driven Organizations Are Outperforming Their Competitors — And How You Can, Too!](https://medium.com/@alains/why-data-driven-organizations-are-outperforming-their-competitors-and-how-you-can-too-11ed2b68e1a7?source=rss------data_science-5)
+- [A Complete Guide to Automating Excel with Python](https://medium.com/@siglimumuni/a-complete-guide-to-automating-excel-with-python-5d2a62cb2902?source=rss------data_science-5)
+- [Check Out the 22 Hottest Data Science and Machine Learning Tools Right Now!](https://medium.com/@alains/check-out-the-22-hottest-data-science-and-machine-learning-tools-right-now-caf95a1b5cc2?source=rss------data_science-5)
+- [The Role of Predictive Analytics in Demand Forecasting](https://medium.com/@alains/the-role-of-predictive-analytics-in-demand-forecasting-79000ba5fd14?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
