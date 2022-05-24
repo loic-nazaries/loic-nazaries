@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Create a Data Frame from the Spotify API](https://medium.com/@liammoran_33672/how-to-create-a-data-frame-from-the-spotify-api-3114ba58d524?source=rss------data_science-5)
-- [Research Papers on developments in Linear Algebra for Artificial Intelligence part 1](https://medium.com/@monodeepets77/research-papers-on-developments-in-linear-algebra-for-artificial-intelligence-part-1-b6b639737f78?source=rss------data_science-5)
-- [5 Data Science Applications in the Life Insurance Industry](https://pub.towardsai.net/5-data-science-applications-in-the-life-insurance-industry-a9ca78d44573?source=rss------data_science-5)
-- [Quick case study of Dall-e 2 and reproducing the real world](https://imagine-ai.medium.com/quick-case-study-of-dall-e-2-and-reproducing-the-real-world-c155f72002fc?source=rss------data_science-5)
-- [Python Tutorial: Perform Powerful Statistical Analysis 0n Real-World Data With Ease!](https://medium.com/illumination/perform-powerful-statistical-analysis-0n-real-world-data-with-ease-40de1879439b?source=rss------data_science-5)
-- [How to Segment Customers](https://medium.com/@liveanddata/how-to-segment-customers-ddef5b1ff78d?source=rss------data_science-5)
-- [Research Papers based on Distributed Database Systems](https://medium.com/@monodeepets77/research-papers-based-on-distributed-database-systems-6eeb06255d96?source=rss------data_science-5)
-- [Python Tutorial: Create Beautiful Charts to Visualize Your Data](https://medium.com/@alains/python-tutorial-create-beautiful-charts-to-visualize-your-data-b7f9cca1535a?source=rss------data_science-5)
-- [Good and Bad Practices and Habits in Data Science](https://g-giasemidis.medium.com/good-and-bad-practices-and-habits-in-data-science-dc169830092?source=rss------data_science-5)
-- [My Data Science Journey](https://medium.com/@thomas.h.chapman/my-data-science-journey-d650bdfe3d27?source=rss------data_science-5)
+- [Why I Joined a Data Science Bootcamp](https://medium.com/@alex_54871/why-i-joined-a-data-science-bootcamp-650b17fe2a01?source=rss------data_science-5)
+- [Mychal’s Journey Into Data Science](https://medium.com/@mychaljdubyk/mychals-journey-into-data-science-5e2be1fcb7d2?source=rss------data_science-5)
+- [The Power of Data Science to Change the Social Sector](https://medium.com/@margaretrboland/the-power-of-data-science-to-change-the-social-sector-2600f815a02?source=rss------data_science-5)
+- [Stemming vs Lemmatization](https://medium.com/@dhruval_/stemming-vs-lemmatization-903b670ccbdc?source=rss------data_science-5)
+- [Role of Data Science in Retail](https://medium.com/@N.Krish/role-of-data-science-in-retail-9f266d957720?source=rss------data_science-5)
+- [Data Visualization and cleaning project on COVID](https://medium.com/@adnan.asad01/data-visualization-and-cleaning-project-on-covid-3e748b7cb8d1?source=rss------data_science-5)
+- [3 Strategies To Redefine Your Executive Career Path With AI](https://towardsdatascience.com/3-strategies-to-redefine-your-executive-career-path-with-ai-442ae035a41c?source=rss------data_science-5)
+- [You Should Learn This Programming Language](https://preettheman.medium.com/you-should-learn-this-programming-language-c8fdd240592b?source=rss------data_science-5)
+- [Realizando previsões com o Einstein Prediction Builder no Salesforce](https://medium.com/@saulojoel/realizando-uma-previs%C3%A3o-com-o-einstein-prediction-builder-no-salesforce-8ea3728680b3?source=rss------data_science-5)
+- [6 Data Science Mistakes You Should Avoid At All Costs](https://medium.com/mlearning-ai/6-data-science-mistakes-you-should-avoid-at-all-costs-fb4fe7d30437?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
