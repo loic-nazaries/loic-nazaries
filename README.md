@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why I Joined a Data Science Bootcamp](https://medium.com/@alex_54871/why-i-joined-a-data-science-bootcamp-650b17fe2a01?source=rss------data_science-5)
-- [Mychal’s Journey Into Data Science](https://medium.com/@mychaljdubyk/mychals-journey-into-data-science-5e2be1fcb7d2?source=rss------data_science-5)
-- [The Power of Data Science to Change the Social Sector](https://medium.com/@margaretrboland/the-power-of-data-science-to-change-the-social-sector-2600f815a02?source=rss------data_science-5)
-- [Stemming vs Lemmatization](https://medium.com/@dhruval_/stemming-vs-lemmatization-903b670ccbdc?source=rss------data_science-5)
-- [Role of Data Science in Retail](https://medium.com/@N.Krish/role-of-data-science-in-retail-9f266d957720?source=rss------data_science-5)
-- [Data Visualization and cleaning project on COVID](https://medium.com/@adnan.asad01/data-visualization-and-cleaning-project-on-covid-3e748b7cb8d1?source=rss------data_science-5)
-- [3 Strategies To Redefine Your Executive Career Path With AI](https://towardsdatascience.com/3-strategies-to-redefine-your-executive-career-path-with-ai-442ae035a41c?source=rss------data_science-5)
-- [You Should Learn This Programming Language](https://preettheman.medium.com/you-should-learn-this-programming-language-c8fdd240592b?source=rss------data_science-5)
-- [Realizando previsões com o Einstein Prediction Builder no Salesforce](https://medium.com/@saulojoel/realizando-uma-previs%C3%A3o-com-o-einstein-prediction-builder-no-salesforce-8ea3728680b3?source=rss------data_science-5)
-- [6 Data Science Mistakes You Should Avoid At All Costs](https://medium.com/mlearning-ai/6-data-science-mistakes-you-should-avoid-at-all-costs-fb4fe7d30437?source=rss------data_science-5)
+- [Papers based on Contrastive Learning](https://medium.com/@monodeepets77/papers-based-on-contrastive-learning-503010ecd45c?source=rss------data_science-5)
+- [Five Golden Rules for Cleaning Data in Power BI](https://medium.com/analytics-vidhya/five-golden-rules-for-cleaning-data-in-power-bi-a50ed37dda54?source=rss------data_science-5)
+- [Best Papers to Read on the Mean Shift Algorithm](https://medium.com/@monodeepets77/best-papers-to-read-on-the-mean-shift-algorithm-7122ea47743d?source=rss------data_science-5)
+- [Best Research Papers to read on DBSCAN Algorithm&lpar;Machine Learning&rpar;](https://medium.com/@monodeepets77/best-research-papers-to-read-on-dbscan-algorithm-machine-learning-49b9ec4a97c6?source=rss------data_science-5)
+- [Inteligência Artificial](https://medium.com/@leandric/intelig%C3%AAncia-artificial-c151c509c45b?source=rss------data_science-5)
+- [Research Papers based on Lasso Regression part2&lpar;Machine Learning&rpar;](https://medium.com/@monodeepets77/research-papers-based-on-lasso-regression-part2-machine-learning-75c81195107?source=rss------data_science-5)
+- [The Best Online IDE’s!](https://preettheman.medium.com/the-best-online-ides-142730ed7a9b?source=rss------data_science-5)
+- [Pump it up data mining the water table](https://medium.com/@neilnaik/pump-it-up-data-mining-the-water-table-f1a10d17d18e?source=rss------data_science-5)
+- [Machine Learning for Stock Trading, Part 1: Data Acquisition](https://medium.com/@richard_sun/machine-learning-for-stock-trading-part-1-data-acquisition-242f90ed0487?source=rss------data_science-5)
+- [Research Papers based on Lasso Regression part1&lpar;Machine Learning&rpar;](https://medium.com/@monodeepets77/research-papers-based-on-lasso-regression-part1-machine-learning-63ed499eda9c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
