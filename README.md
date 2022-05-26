@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Papers based on Contrastive Learning](https://medium.com/@monodeepets77/papers-based-on-contrastive-learning-503010ecd45c?source=rss------data_science-5)
-- [Five Golden Rules for Cleaning Data in Power BI](https://medium.com/analytics-vidhya/five-golden-rules-for-cleaning-data-in-power-bi-a50ed37dda54?source=rss------data_science-5)
-- [Best Papers to Read on the Mean Shift Algorithm](https://medium.com/@monodeepets77/best-papers-to-read-on-the-mean-shift-algorithm-7122ea47743d?source=rss------data_science-5)
-- [Best Research Papers to read on DBSCAN Algorithm&lpar;Machine Learning&rpar;](https://medium.com/@monodeepets77/best-research-papers-to-read-on-dbscan-algorithm-machine-learning-49b9ec4a97c6?source=rss------data_science-5)
-- [Inteligência Artificial](https://medium.com/@leandric/intelig%C3%AAncia-artificial-c151c509c45b?source=rss------data_science-5)
-- [Research Papers based on Lasso Regression part2&lpar;Machine Learning&rpar;](https://medium.com/@monodeepets77/research-papers-based-on-lasso-regression-part2-machine-learning-75c81195107?source=rss------data_science-5)
-- [The Best Online IDE’s!](https://preettheman.medium.com/the-best-online-ides-142730ed7a9b?source=rss------data_science-5)
-- [Pump it up data mining the water table](https://medium.com/@neilnaik/pump-it-up-data-mining-the-water-table-f1a10d17d18e?source=rss------data_science-5)
-- [Machine Learning for Stock Trading, Part 1: Data Acquisition](https://medium.com/@richard_sun/machine-learning-for-stock-trading-part-1-data-acquisition-242f90ed0487?source=rss------data_science-5)
-- [Research Papers based on Lasso Regression part1&lpar;Machine Learning&rpar;](https://medium.com/@monodeepets77/research-papers-based-on-lasso-regression-part1-machine-learning-63ed499eda9c?source=rss------data_science-5)
+- [Python’da Beautiful Soup &amp; Requests Kullanımı: Süper Lig Verisini Çekmek](https://medium.com/@sonmezarda/pythonda-beautiful-soup-requests-kullan%C4%B1m%C4%B1-s%C3%BCper-lig-verisini-%C3%A7ekmek-188846aaed23?source=rss------data_science-5)
+- [How To Simulate and Visualize The Birthday Paradox Using Python](https://levelup.gitconnected.com/how-to-simulate-and-visualize-the-birthday-paradox-using-python-528d304f215b?source=rss------data_science-5)
+- [Visualizações de dados úteis com Seaborn para análise exploratória dos dados](https://medium.com/@marcio.constancio.jr/visualiza%C3%A7%C3%B5es-de-dados-%C3%BAteis-com-seaborn-para-an%C3%A1lise-explorat%C3%B3ria-dos-dados-c2e44938384e?source=rss------data_science-5)
+- [Como Cruzar Bases de Dados Usando o Pandas](https://medium.com/@pedroreste/como-cruzar-bases-de-dados-usando-o-pandas-bc642df8ef83?source=rss------data_science-5)
+- [Análise de dados da Premier League 1995–2021](https://datarooters.medium.com/an%C3%A1lise-de-dados-da-premier-league-1995-2021-86d0a6d34dc1?source=rss------data_science-5)
+- [Innovations in the domain of Natural Language Processing part 2](https://medium.com/@monodeepets77/innovations-in-the-domain-of-natural-language-processing-part-2-e6ca796ddcd?source=rss------data_science-5)
+- [Innovations in the domain of Natural Language Processing part 1](https://medium.com/@monodeepets77/innovations-in-the-domain-of-natural-language-processing-part-1-5a072ad32091?source=rss------data_science-5)
+- [Wavelet convolution: basic principle](https://towardsdatascience.com/wavelet-convolution-basic-principle-52fc3d71c4e6?source=rss------data_science-5)
+- [Image Classification with Open CV-Python Overview](https://nayana-mahajan-98959.medium.com/image-classification-with-open-cv-python-overview-248f2cf404c3?source=rss------data_science-5)
+- [What can we Solve &lpar;with AI&rpar;](https://medium.com/@Davis.Sawyer/what-can-we-solve-with-ai-7f887a42902?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
