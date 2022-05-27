@@ -122,7 +122,7 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
-- [How to Write SQL Window Functions with Python Pandas](https://towardsdatascience.com/how-to-write-sql-window-functions-with-python-pandas-abf192f35e1?source=rss-2cf6b549448------2)
+- [How to Write SQL Window Functions with Python Pandas](https://medium.com/geekculture/how-to-write-sql-window-functions-with-python-pandas-abf192f35e1?source=rss-2cf6b549448------2)
 - [5 Questions to Consolidate Your Knowledge of Python Lists](https://towardsdatascience.com/5-questions-to-consolidate-your-knowledge-of-python-lists-4a63ba1ab05e?source=rss-2cf6b549448------2)
 - [3 Not-So-common Pandas Tricks You Should Know](https://towardsdatascience.com/3-not-so-common-pandas-tricks-you-should-know-b26cc7536291?source=rss-2cf6b549448------2)
 - [From Jupyter Notebooks to Real-life: MLOps](https://towardsdatascience.com/from-jupyter-notebooks-to-real-life-mlops-9f590a7b5faa?source=rss-2cf6b549448------2)
