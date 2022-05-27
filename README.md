@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Python’da Beautiful Soup &amp; Requests Kullanımı: Süper Lig Verisini Çekmek](https://medium.com/@sonmezarda/pythonda-beautiful-soup-requests-kullan%C4%B1m%C4%B1-s%C3%BCper-lig-verisini-%C3%A7ekmek-188846aaed23?source=rss------data_science-5)
-- [How To Simulate and Visualize The Birthday Paradox Using Python](https://levelup.gitconnected.com/how-to-simulate-and-visualize-the-birthday-paradox-using-python-528d304f215b?source=rss------data_science-5)
-- [Visualizações de dados úteis com Seaborn para análise exploratória dos dados](https://medium.com/@marcio.constancio.jr/visualiza%C3%A7%C3%B5es-de-dados-%C3%BAteis-com-seaborn-para-an%C3%A1lise-explorat%C3%B3ria-dos-dados-c2e44938384e?source=rss------data_science-5)
-- [Como Cruzar Bases de Dados Usando o Pandas](https://medium.com/@pedroreste/como-cruzar-bases-de-dados-usando-o-pandas-bc642df8ef83?source=rss------data_science-5)
-- [Análise de dados da Premier League 1995–2021](https://datarooters.medium.com/an%C3%A1lise-de-dados-da-premier-league-1995-2021-86d0a6d34dc1?source=rss------data_science-5)
-- [Innovations in the domain of Natural Language Processing part 2](https://medium.com/@monodeepets77/innovations-in-the-domain-of-natural-language-processing-part-2-e6ca796ddcd?source=rss------data_science-5)
-- [Innovations in the domain of Natural Language Processing part 1](https://medium.com/@monodeepets77/innovations-in-the-domain-of-natural-language-processing-part-1-5a072ad32091?source=rss------data_science-5)
-- [Wavelet convolution: basic principle](https://towardsdatascience.com/wavelet-convolution-basic-principle-52fc3d71c4e6?source=rss------data_science-5)
-- [Image Classification with Open CV-Python Overview](https://nayana-mahajan-98959.medium.com/image-classification-with-open-cv-python-overview-248f2cf404c3?source=rss------data_science-5)
-- [What can we Solve &lpar;with AI&rpar;](https://medium.com/@Davis.Sawyer/what-can-we-solve-with-ai-7f887a42902?source=rss------data_science-5)
+- [Research Papers based on Model Predictive Control&lpar;Artificial Intelligence&rpar;](https://medium.com/@monodeepets77/research-papers-based-on-model-predictive-control-artificial-intelligence-efe882b0bc6b?source=rss------data_science-5)
+- [Research Papers based on Infinite-Width Networks&lpar;Artificial Intelligence&rpar;](https://medium.com/@monodeepets77/research-papers-based-on-infinite-width-networks-artificial-intelligence-d10bf1dd0bf5?source=rss------data_science-5)
+- [How to Merge Data Bases Using Pandas](https://medium.com/@pedroreste/how-to-merge-data-bases-using-pandas-e9c8d06b76af?source=rss------data_science-5)
+- [How To Scrape Data From TikTok With Python!](https://preettheman.medium.com/how-to-scrape-data-from-tiktok-with-python-df875af952a2?source=rss------data_science-5)
+- [Getting Started with Docker In Python](https://medium.com/@cndro/getting-started-with-docker-in-python-9dae672524e7?source=rss------data_science-5)
+- [How to use Windows Subsystem for LUNIX to Install Ubuntu on your Windows? &lpar;Part 2&rpar;](https://medium.com/@adambouras1/how-to-use-windows-subsystem-for-lunix-to-install-ubuntu-on-your-windows-part-2-70abe2fcece8?source=rss------data_science-5)
+- [Necessity Of Data Scientists After AI](https://medium.com/@socialedenai/necessity-of-data-scientists-after-ai-1f19054fccb4?source=rss------data_science-5)
+- [The Future of Data](https://medium.com/@socialedenai/the-future-of-data-adc778fc3aae?source=rss------data_science-5)
+- [StrangeR things: Visualizing Soccer Data with R… on a Soccer Pitch?](https://towardsdatascience.com/stranger-things-visualizing-soccer-data-with-r-on-a-soccer-pitch-8fe1f6b521fe?source=rss------data_science-5)
+- [CDS Assistant Professor Brian McFee Receives Steinhardt Teaching Excellence Award](https://nyudatascience.medium.com/cds-assistant-professor-brian-mcfee-receives-steinhardt-teaching-excellence-award-c059a0b5b456?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
