@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Research Papers based on Model Predictive Control&lpar;Artificial Intelligence&rpar;](https://medium.com/@monodeepets77/research-papers-based-on-model-predictive-control-artificial-intelligence-efe882b0bc6b?source=rss------data_science-5)
-- [Research Papers based on Infinite-Width Networks&lpar;Artificial Intelligence&rpar;](https://medium.com/@monodeepets77/research-papers-based-on-infinite-width-networks-artificial-intelligence-d10bf1dd0bf5?source=rss------data_science-5)
-- [How to Merge Data Bases Using Pandas](https://medium.com/@pedroreste/how-to-merge-data-bases-using-pandas-e9c8d06b76af?source=rss------data_science-5)
-- [How To Scrape Data From TikTok With Python!](https://preettheman.medium.com/how-to-scrape-data-from-tiktok-with-python-df875af952a2?source=rss------data_science-5)
-- [Getting Started with Docker In Python](https://medium.com/@cndro/getting-started-with-docker-in-python-9dae672524e7?source=rss------data_science-5)
-- [How to use Windows Subsystem for LUNIX to Install Ubuntu on your Windows? &lpar;Part 2&rpar;](https://medium.com/@adambouras1/how-to-use-windows-subsystem-for-lunix-to-install-ubuntu-on-your-windows-part-2-70abe2fcece8?source=rss------data_science-5)
-- [Necessity Of Data Scientists After AI](https://medium.com/@socialedenai/necessity-of-data-scientists-after-ai-1f19054fccb4?source=rss------data_science-5)
-- [The Future of Data](https://medium.com/@socialedenai/the-future-of-data-adc778fc3aae?source=rss------data_science-5)
-- [StrangeR things: Visualizing Soccer Data with R… on a Soccer Pitch?](https://towardsdatascience.com/stranger-things-visualizing-soccer-data-with-r-on-a-soccer-pitch-8fe1f6b521fe?source=rss------data_science-5)
-- [CDS Assistant Professor Brian McFee Receives Steinhardt Teaching Excellence Award](https://nyudatascience.medium.com/cds-assistant-professor-brian-mcfee-receives-steinhardt-teaching-excellence-award-c059a0b5b456?source=rss------data_science-5)
+- [Comparing a Human Brain and a Computer](https://medium.com/@monodeepets77/comparing-a-human-brain-and-a-computer-14a6dba572f8?source=rss------data_science-5)
+- [Research Papers based on Information Extraction&lpar;Information Theory&rpar;](https://medium.com/@monodeepets77/research-papers-based-on-information-extraction-information-theory-f7d31287e899?source=rss------data_science-5)
+- [Research Papers about the developments in the Finite State Automation](https://medium.com/@monodeepets77/research-papers-about-the-developments-in-the-finite-state-automation-9d1dbdd84c5d?source=rss------data_science-5)
+- [Research Papers based on Gated RNN’S&lpar;Deep Learning&rpar;](https://medium.com/@monodeepets77/research-papers-based-on-gated-rnns-deep-learning-835d146a240?source=rss------data_science-5)
+- [Distribuição de Poisson](https://medium.com/@leandric/distribui%C3%A7%C3%A3o-de-poisson-70e64cf0fd23?source=rss------data_science-5)
+- [Only a few minutes, to master Data Science skill &lpar;part 1&rpar;](https://medium.com/@learndata.0/only-a-few-minutes-to-master-data-science-skill-part-1-dddcbd7b9152?source=rss------data_science-5)
+- [If you want to know your customers better using data, follow-me.](https://medium.com/@abdelilah.moulida/if-you-want-to-know-your-customers-better-using-data-follow-me-c62a5e34ac46?source=rss------data_science-5)
+- [The Central Limit Theorem](https://medium.com/@amber.m.ahmed/the-central-limit-theorem-faaba8261a0f?source=rss------data_science-5)
+- [Data Science is the Smart Technology That Goes Unseen.](https://medium.com/@harryjordanghost/data-science-is-the-smart-technology-that-goes-unseen-33e9c7fb591a?source=rss------data_science-5)
+- [Do You Want to Self-Study Data Science? Learn From My Mistakes](https://towardsdatascience.com/do-you-want-to-self-study-data-science-learn-from-my-mistakes-dbdf69653480?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
