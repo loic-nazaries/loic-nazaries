@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Comparing a Human Brain and a Computer](https://medium.com/@monodeepets77/comparing-a-human-brain-and-a-computer-14a6dba572f8?source=rss------data_science-5)
-- [Research Papers based on Information Extraction&lpar;Information Theory&rpar;](https://medium.com/@monodeepets77/research-papers-based-on-information-extraction-information-theory-f7d31287e899?source=rss------data_science-5)
-- [Research Papers about the developments in the Finite State Automation](https://medium.com/@monodeepets77/research-papers-about-the-developments-in-the-finite-state-automation-9d1dbdd84c5d?source=rss------data_science-5)
-- [Research Papers based on Gated RNN’S&lpar;Deep Learning&rpar;](https://medium.com/@monodeepets77/research-papers-based-on-gated-rnns-deep-learning-835d146a240?source=rss------data_science-5)
-- [Distribuição de Poisson](https://medium.com/@leandric/distribui%C3%A7%C3%A3o-de-poisson-70e64cf0fd23?source=rss------data_science-5)
-- [Only a few minutes, to master Data Science skill &lpar;part 1&rpar;](https://medium.com/@learndata.0/only-a-few-minutes-to-master-data-science-skill-part-1-dddcbd7b9152?source=rss------data_science-5)
-- [If you want to know your customers better using data, follow-me.](https://medium.com/@abdelilah.moulida/if-you-want-to-know-your-customers-better-using-data-follow-me-c62a5e34ac46?source=rss------data_science-5)
-- [The Central Limit Theorem](https://medium.com/@amber.m.ahmed/the-central-limit-theorem-faaba8261a0f?source=rss------data_science-5)
-- [Data Science is the Smart Technology That Goes Unseen.](https://medium.com/@harryjordanghost/data-science-is-the-smart-technology-that-goes-unseen-33e9c7fb591a?source=rss------data_science-5)
-- [Do You Want to Self-Study Data Science? Learn From My Mistakes](https://towardsdatascience.com/do-you-want-to-self-study-data-science-learn-from-my-mistakes-dbdf69653480?source=rss------data_science-5)
+- [COMO A MÉDIA PODE SER USADA CONTRA VOCÊ: Medidas descritivas resistentes e não resistentes](https://juniorfazzio.medium.com/como-a-m%C3%A9dia-pode-ser-usada-contra-voc%C3%AA-medidas-descritivas-resistentes-e-n%C3%A3o-resistentes-69b75bf54c2c?source=rss------data_science-5)
+- [Brief Introduction to Clustering and different methods of Clustering](https://medium.com/@sainikhilesh/brief-introduction-to-clustering-and-different-methods-of-clustering-f9d6ec80907c?source=rss------data_science-5)
+- [CS &lpar;Day-Something&rpar; —I’ve been sick for a few weeks now](https://don-umeh.medium.com/cs-day-something-ive-been-sick-for-a-few-weeks-now-7b46e04982a5?source=rss------data_science-5)
+- [The Pendulum Indicator for Range Trading](https://kaabar-sofien.medium.com/the-pendulum-indicator-for-range-trading-fae781d35cdf?source=rss------data_science-5)
+- [Basic Things You should do before designing a Dashboard](https://medium.com/@adegboyetimothy57/basic-things-you-should-do-before-designing-a-dashboard-a67531420b2e?source=rss------data_science-5)
+- [Essential SQL Queries That Data Analysts Should Have Known](https://medium.com/geekculture/essential-sql-queries-that-data-analysts-should-have-known-bec83a300193?source=rss------data_science-5)
+- [How Does a Bike-Share Navigate Speedy to Success?](https://medium.com/@brennovmh/how-does-a-bike-share-navigate-speedy-to-success-2f5231260ca7?source=rss------data_science-5)
+- [Automate Searching Google Using Python](https://medium.com/@natashanewbold/automate-searching-google-using-python-fcbbb4342dfd?source=rss------data_science-5)
+- [The ABC of Visualisation Techniques](https://towardsdatascience.com/the-abc-of-visualisation-techniques-4cbb198f1e0d?source=rss------data_science-5)
+- [Você sabe o que é CDP no mundo de dados?](https://medium.com/@igorgeorgeabdo/voc%C3%AA-sabe-o-que-%C3%A9-cdp-no-mundo-de-dados-d9eca00646b6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
