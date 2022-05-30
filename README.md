@@ -105,16 +105,14 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [COMO A MÉDIA PODE SER USADA CONTRA VOCÊ: Medidas descritivas resistentes e não resistentes](https://juniorfazzio.medium.com/como-a-m%C3%A9dia-pode-ser-usada-contra-voc%C3%AA-medidas-descritivas-resistentes-e-n%C3%A3o-resistentes-69b75bf54c2c?source=rss------data_science-5)
-- [Brief Introduction to Clustering and different methods of Clustering](https://medium.com/@sainikhilesh/brief-introduction-to-clustering-and-different-methods-of-clustering-f9d6ec80907c?source=rss------data_science-5)
-- [CS &lpar;Day-Something&rpar; —I’ve been sick for a few weeks now](https://don-umeh.medium.com/cs-day-something-ive-been-sick-for-a-few-weeks-now-7b46e04982a5?source=rss------data_science-5)
-- [The Pendulum Indicator for Range Trading](https://kaabar-sofien.medium.com/the-pendulum-indicator-for-range-trading-fae781d35cdf?source=rss------data_science-5)
-- [Basic Things You should do before designing a Dashboard](https://medium.com/@adegboyetimothy57/basic-things-you-should-do-before-designing-a-dashboard-a67531420b2e?source=rss------data_science-5)
-- [Essential SQL Queries That Data Analysts Should Have Known](https://medium.com/geekculture/essential-sql-queries-that-data-analysts-should-have-known-bec83a300193?source=rss------data_science-5)
-- [How Does a Bike-Share Navigate Speedy to Success?](https://medium.com/@brennovmh/how-does-a-bike-share-navigate-speedy-to-success-2f5231260ca7?source=rss------data_science-5)
-- [Automate Searching Google Using Python](https://medium.com/@natashanewbold/automate-searching-google-using-python-fcbbb4342dfd?source=rss------data_science-5)
-- [The ABC of Visualisation Techniques](https://towardsdatascience.com/the-abc-of-visualisation-techniques-4cbb198f1e0d?source=rss------data_science-5)
-- [Você sabe o que é CDP no mundo de dados?](https://medium.com/@igorgeorgeabdo/voc%C3%AA-sabe-o-que-%C3%A9-cdp-no-mundo-de-dados-d9eca00646b6?source=rss------data_science-5)
+- [Linear Regression in Data Science](https://miketechgame.medium.com/linear-regression-in-data-science-b9a9d2aacc7c?source=rss------data_science-5)
+- [Starbucks Reward Mobile App Users: Predicting users behavioural pattern using supervised Machine…](https://paul-dzitse.medium.com/starbucks-reward-mobile-app-users-predicting-users-behavioural-pattern-using-supervised-machine-a2b59405a807?source=rss------data_science-5)
+- [Masters on AI or Real Industry experience?](https://medium.com/@sk6724486/masters-on-ai-or-real-industry-experience-a69d932effd?source=rss------data_science-5)
+- [Get the most out of experiment!](https://markeltsefon.medium.com/get-the-most-out-of-experiment-31612b6837f0?source=rss------data_science-5)
+- [Google Data Analytics 2 — Ask Questions to Make Data-Driven Decisions.](https://medium.com/@Feranmi_Amole/google-data-analytics-2-ask-questions-to-make-data-driven-decisions-13c9ee3101b0?source=rss------data_science-5)
+- [Stat Stories: Why is Moment Generating Function Important?](https://towardsdatascience.com/stat-stories-why-is-moment-generating-function-important-25bbc17dad68?source=rss------data_science-5)
+- [Pokémons e Dados](https://medium.com/@jbonatti/pok%C3%A9mons-e-dados-8bdfb11eefd7?source=rss------data_science-5)
+- [Perversions of Data Science: Companies HELP Climate Change actually!](https://medium.com/@sciguy/perversions-of-data-science-companies-help-climate-change-actually-35b5cd9f2f4e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
