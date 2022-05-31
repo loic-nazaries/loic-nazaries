@@ -105,14 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Linear Regression in Data Science](https://miketechgame.medium.com/linear-regression-in-data-science-b9a9d2aacc7c?source=rss------data_science-5)
-- [Starbucks Reward Mobile App Users: Predicting users behavioural pattern using supervised Machine…](https://paul-dzitse.medium.com/starbucks-reward-mobile-app-users-predicting-users-behavioural-pattern-using-supervised-machine-a2b59405a807?source=rss------data_science-5)
-- [Masters on AI or Real Industry experience?](https://medium.com/@sk6724486/masters-on-ai-or-real-industry-experience-a69d932effd?source=rss------data_science-5)
-- [Get the most out of experiment!](https://markeltsefon.medium.com/get-the-most-out-of-experiment-31612b6837f0?source=rss------data_science-5)
-- [Google Data Analytics 2 — Ask Questions to Make Data-Driven Decisions.](https://medium.com/@Feranmi_Amole/google-data-analytics-2-ask-questions-to-make-data-driven-decisions-13c9ee3101b0?source=rss------data_science-5)
-- [Stat Stories: Why is Moment Generating Function Important?](https://towardsdatascience.com/stat-stories-why-is-moment-generating-function-important-25bbc17dad68?source=rss------data_science-5)
-- [Pokémons e Dados](https://medium.com/@jbonatti/pok%C3%A9mons-e-dados-8bdfb11eefd7?source=rss------data_science-5)
-- [Perversions of Data Science: Companies HELP Climate Change actually!](https://medium.com/@sciguy/perversions-of-data-science-companies-help-climate-change-actually-35b5cd9f2f4e?source=rss------data_science-5)
+- [What is OLTP and what is it for?](https://medium.com/@gabrieldorneles09/what-is-oltp-and-what-is-it-for-88bafb037cc6?source=rss------data_science-5)
+- [LineaPy Data Science Workflow In Just Two Lines: MLOps Made Easy](https://towardsdatascience.com/lineapy-data-science-workflow-in-just-two-lines-mlops-made-easy-679f36ac63bd?source=rss------data_science-5)
+- [Statistics Interview Questions](https://arjuns2020.medium.com/statistics-interview-questions-4f71b1a7495a?source=rss------data_science-5)
+- [All About K-Means Clustering](https://pub.towardsai.net/all-about-k-means-clustering-b6529efac76a?source=rss------data_science-5)
+- [Introducing Magniv Beta](https://blog.magniv.io/introducing-magniv-beta-57591b4d6ce4?source=rss------data_science-5)
+- [Study Notes on Online Controlled Experiments — Part 2 &lpar;Multivariant testing, practical lessons&rpar;](https://chiandhuang.medium.com/study-notes-on-online-controlled-experiments-part-2-multivariant-testing-practical-lessons-60ebf437cf27?source=rss------data_science-5)
+- [Hyper-parameter Tuning in Machine Learning](https://swagata1506.medium.com/hyper-parameter-tuning-in-machine-learning-145c60cb12a8?source=rss------data_science-5)
+- [Curated List on Artificial Intelligence: #2](https://medium.com/@adambouras1/curated-list-on-artificial-intelligence-2-8ee116643ff1?source=rss------data_science-5)
+- [Machine Learning for Ransomware Detection](https://medium.com/@monodeepets77/machine-learning-for-ransomware-detection-c805827ded9f?source=rss------data_science-5)
+- [A new, safe and Gaussian softmax function](https://medium.com/mlearning-ai/a-new-safe-and-gaussian-softmax-function-6e0419f28679?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
