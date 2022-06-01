@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What is OLTP and what is it for?](https://medium.com/@gabrieldorneles09/what-is-oltp-and-what-is-it-for-88bafb037cc6?source=rss------data_science-5)
-- [LineaPy Data Science Workflow In Just Two Lines: MLOps Made Easy](https://towardsdatascience.com/lineapy-data-science-workflow-in-just-two-lines-mlops-made-easy-679f36ac63bd?source=rss------data_science-5)
-- [Statistics Interview Questions](https://arjuns2020.medium.com/statistics-interview-questions-4f71b1a7495a?source=rss------data_science-5)
-- [All About K-Means Clustering](https://pub.towardsai.net/all-about-k-means-clustering-b6529efac76a?source=rss------data_science-5)
-- [Introducing Magniv Beta](https://blog.magniv.io/introducing-magniv-beta-57591b4d6ce4?source=rss------data_science-5)
-- [Study Notes on Online Controlled Experiments — Part 2 &lpar;Multivariant testing, practical lessons&rpar;](https://chiandhuang.medium.com/study-notes-on-online-controlled-experiments-part-2-multivariant-testing-practical-lessons-60ebf437cf27?source=rss------data_science-5)
-- [Hyper-parameter Tuning in Machine Learning](https://swagata1506.medium.com/hyper-parameter-tuning-in-machine-learning-145c60cb12a8?source=rss------data_science-5)
-- [Curated List on Artificial Intelligence: #2](https://medium.com/@adambouras1/curated-list-on-artificial-intelligence-2-8ee116643ff1?source=rss------data_science-5)
-- [Machine Learning for Ransomware Detection](https://medium.com/@monodeepets77/machine-learning-for-ransomware-detection-c805827ded9f?source=rss------data_science-5)
-- [A new, safe and Gaussian softmax function](https://medium.com/mlearning-ai/a-new-safe-and-gaussian-softmax-function-6e0419f28679?source=rss------data_science-5)
+- [Compute Service on Google Cloud for Machine Learning](https://zanuarts.medium.com/compute-service-on-google-cloud-for-machine-learning-7b71900bd6da?source=rss------data_science-5)
+- [Data Analysis with Power BI: Covid-19 Dashboard &lpar;Nigeria&rpar;.](https://medium.com/@Feranmi_Amole/data-analysis-with-power-bi-covid-19-dashboard-nigeria-ecabff08ef3f?source=rss------data_science-5)
+- [The Ethical Data Scientist: Building Better Machine Learning Models](https://medium.com/@bmenendez94/the-ethical-data-scientist-building-better-machine-learning-models-16166455a667?source=rss------data_science-5)
+- [How To Create a Fully Automated YouTube Channel With Python](https://preettheman.medium.com/how-to-create-a-fully-automated-youtube-channel-with-python-67573360430b?source=rss------data_science-5)
+- [What Is the Key Difference Between AI, Machine Learning and Deep Learning?](https://medium.com/@alains/what-is-the-key-difference-between-ai-machine-learning-and-deep-learning-74ed74238526?source=rss------data_science-5)
+- [What Is the Difference Between a Data Scientist and a Machine Learning Engineer?](https://medium.com/@alains/what-is-the-difference-between-a-data-scientist-and-a-machine-learning-engineer-4c4bd29548a4?source=rss------data_science-5)
+- [Stop Looking for the Unicorn AI Product Manager](https://medium.com/the-business-of-ai/stop-looking-for-the-unicorn-ai-product-manager-f2a549680920?source=rss------data_science-5)
+- [What Is the Difference Between Deep Learning and Usual Machine Learning?](https://medium.com/@alains/what-is-the-difference-between-deep-learning-and-usual-machine-learning-c94c5601e1f3?source=rss------data_science-5)
+- [I Want to Learn Artificial Intelligence and Machine Learning. Where Can I Start?](https://medium.com/@alains/i-want-to-learn-artificial-intelligence-and-machine-learning-where-can-i-start-e374544e0e80?source=rss------data_science-5)
+- [Innovative Research Papers based on Geometric Deep Learning part1](https://medium.com/@monodeepets77/innovative-research-papers-based-on-geometric-deep-learning-part1-693fe9ea99ec?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
