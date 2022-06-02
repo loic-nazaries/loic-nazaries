@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Compute Service on Google Cloud for Machine Learning](https://zanuarts.medium.com/compute-service-on-google-cloud-for-machine-learning-7b71900bd6da?source=rss------data_science-5)
-- [Data Analysis with Power BI: Covid-19 Dashboard &lpar;Nigeria&rpar;.](https://medium.com/@Feranmi_Amole/data-analysis-with-power-bi-covid-19-dashboard-nigeria-ecabff08ef3f?source=rss------data_science-5)
-- [The Ethical Data Scientist: Building Better Machine Learning Models](https://medium.com/@bmenendez94/the-ethical-data-scientist-building-better-machine-learning-models-16166455a667?source=rss------data_science-5)
-- [How To Create a Fully Automated YouTube Channel With Python](https://preettheman.medium.com/how-to-create-a-fully-automated-youtube-channel-with-python-67573360430b?source=rss------data_science-5)
-- [What Is the Key Difference Between AI, Machine Learning and Deep Learning?](https://medium.com/@alains/what-is-the-key-difference-between-ai-machine-learning-and-deep-learning-74ed74238526?source=rss------data_science-5)
-- [What Is the Difference Between a Data Scientist and a Machine Learning Engineer?](https://medium.com/@alains/what-is-the-difference-between-a-data-scientist-and-a-machine-learning-engineer-4c4bd29548a4?source=rss------data_science-5)
-- [Stop Looking for the Unicorn AI Product Manager](https://medium.com/the-business-of-ai/stop-looking-for-the-unicorn-ai-product-manager-f2a549680920?source=rss------data_science-5)
-- [What Is the Difference Between Deep Learning and Usual Machine Learning?](https://medium.com/@alains/what-is-the-difference-between-deep-learning-and-usual-machine-learning-c94c5601e1f3?source=rss------data_science-5)
-- [I Want to Learn Artificial Intelligence and Machine Learning. Where Can I Start?](https://medium.com/@alains/i-want-to-learn-artificial-intelligence-and-machine-learning-where-can-i-start-e374544e0e80?source=rss------data_science-5)
-- [Innovative Research Papers based on Geometric Deep Learning part1](https://medium.com/@monodeepets77/innovative-research-papers-based-on-geometric-deep-learning-part1-693fe9ea99ec?source=rss------data_science-5)
+- [Extração de dados do DI Futuro](https://andreluizjaques.medium.com/extra%C3%A7%C3%A3o-de-dados-do-di-futuro-4da73a5fdc26?source=rss------data_science-5)
+- [Text Vectorization using Bag of Words and TF-IDF](https://swagata1506.medium.com/text-vectorization-using-bag-of-words-and-tf-idf-251456113356?source=rss------data_science-5)
+- [Time Series — NYC Crimes](https://medium.com/@helennpham0229/time-series-nyc-crimes-89b6be8ca05e?source=rss------data_science-5)
+- [Innovative Papers to Read on Graph Convolution Networks part 2](https://medium.com/@monodeepets77/innovative-papers-to-read-on-graph-convolution-networks-part-2-9469887fc75f?source=rss------data_science-5)
+- [Innovative Papers to Read on Graph Convolution Networks part 1](https://medium.com/@monodeepets77/innovative-papers-to-read-on-graph-convolution-networks-part-1-1a094df31c7c?source=rss------data_science-5)
+- [Nonlinear Change of Variable in Probability Distributions](https://towardsdatascience.com/nonlinear-change-of-variable-in-probability-distributions-585b48e69cb7?source=rss------data_science-5)
+- [Must Read Papers on the concept of Lazy Learning&lpar;Artificial Intelligence&rpar;](https://medium.com/@monodeepets77/must-read-papers-on-the-concept-of-lazy-learning-artificial-intelligence-6a4d0091df0b?source=rss------data_science-5)
+- [Data Science Challenge — Churn Rate](https://medium.com/@devmedeiros/data-science-challenge-churn-rate-1f6041fb37c?source=rss------data_science-5)
+- [Your Creating Python Packages Wrong](https://preettheman.medium.com/your-creating-python-packages-wrong-3f60f007b00d?source=rss------data_science-5)
+- [Innovative Papers based on Neuroimaging part 2](https://medium.com/@monodeepets77/innovative-papers-based-on-neuroimaging-part-2-eb613bce9a89?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
