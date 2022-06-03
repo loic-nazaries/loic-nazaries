@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Extração de dados do DI Futuro](https://andreluizjaques.medium.com/extra%C3%A7%C3%A3o-de-dados-do-di-futuro-4da73a5fdc26?source=rss------data_science-5)
-- [Text Vectorization using Bag of Words and TF-IDF](https://swagata1506.medium.com/text-vectorization-using-bag-of-words-and-tf-idf-251456113356?source=rss------data_science-5)
-- [Time Series — NYC Crimes](https://medium.com/@helennpham0229/time-series-nyc-crimes-89b6be8ca05e?source=rss------data_science-5)
-- [Innovative Papers to Read on Graph Convolution Networks part 2](https://medium.com/@monodeepets77/innovative-papers-to-read-on-graph-convolution-networks-part-2-9469887fc75f?source=rss------data_science-5)
-- [Innovative Papers to Read on Graph Convolution Networks part 1](https://medium.com/@monodeepets77/innovative-papers-to-read-on-graph-convolution-networks-part-1-1a094df31c7c?source=rss------data_science-5)
-- [Nonlinear Change of Variable in Probability Distributions](https://towardsdatascience.com/nonlinear-change-of-variable-in-probability-distributions-585b48e69cb7?source=rss------data_science-5)
-- [Must Read Papers on the concept of Lazy Learning&lpar;Artificial Intelligence&rpar;](https://medium.com/@monodeepets77/must-read-papers-on-the-concept-of-lazy-learning-artificial-intelligence-6a4d0091df0b?source=rss------data_science-5)
-- [Data Science Challenge — Churn Rate](https://medium.com/@devmedeiros/data-science-challenge-churn-rate-1f6041fb37c?source=rss------data_science-5)
-- [Your Creating Python Packages Wrong](https://preettheman.medium.com/your-creating-python-packages-wrong-3f60f007b00d?source=rss------data_science-5)
-- [Innovative Papers based on Neuroimaging part 2](https://medium.com/@monodeepets77/innovative-papers-based-on-neuroimaging-part-2-eb613bce9a89?source=rss------data_science-5)
+- [Python for Beginners: The 7 Basic Concepts You Need to Know — Easy and Efficient!](https://medium.com/@alains/python-for-beginners-the-7-basic-concepts-you-need-to-know-easy-and-efficient-120f930edf1c?source=rss------data_science-5)
+- [7 Advanced Python Features You Should Know About](https://medium.com/@alains/7-advanced-python-features-you-should-know-about-b0d98733efcd?source=rss------data_science-5)
+- [Speed Up Your Python Data Analysis With Mito](https://medium.com/@ahmadkamiludin/speed-up-your-python-data-analysis-with-mito-1cf51676bab3?source=rss------data_science-5)
+- [WHY As much as possible, you should NOT IMPUTE missing values!](https://medium.com/geekculture/why-as-much-as-possible-you-should-not-impute-missing-values-b7d8eff1d980?source=rss------data_science-5)
+- [Research Papers based on Directed Hypergraphs](https://medium.com/@monodeepets77/research-papers-based-on-directed-hypergraphs-777ccf572eb?source=rss------data_science-5)
+- [Python Tutorial: Learn How to Use Python’s SMTP Library in Less Than 10 Minutes](https://medium.com/@alains/python-tutorial-python-smtplib-22cb5c5a50dc?source=rss------data_science-5)
+- [A Complete guide to K Nearest Neighbor &lpar;KNN&rpar; in Machine Learning](https://swagata1506.medium.com/a-complete-guide-to-k-nearest-neighbor-knn-in-machine-learning-4716561bb43c?source=rss------data_science-5)
+- [Coffee Time with Mr. Yin! — Five Tips for Improving Data Science Skills](https://medium.com/@yiqiaoyin/coffee-time-with-mr-yin-five-tips-for-improving-data-science-skills-7c1737ce8bd4?source=rss------data_science-5)
+- [Coffee Time with Mr. Yin! — I’m hiring, and these are the qualifications I look for…](https://medium.com/@yiqiaoyin/coffee-time-with-mr-yin-im-hiring-and-these-are-the-qualifications-i-look-for-173c990a35e1?source=rss------data_science-5)
+- [Introduction to Node Embeddings part 2&lpar;Graph Theory&rpar;](https://medium.com/@monodeepets77/introduction-to-node-embeddings-part-2-graph-theory-52d2ede5f80d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
