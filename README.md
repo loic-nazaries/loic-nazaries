@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Python for Beginners: The 7 Basic Concepts You Need to Know — Easy and Efficient!](https://medium.com/@alains/python-for-beginners-the-7-basic-concepts-you-need-to-know-easy-and-efficient-120f930edf1c?source=rss------data_science-5)
-- [7 Advanced Python Features You Should Know About](https://medium.com/@alains/7-advanced-python-features-you-should-know-about-b0d98733efcd?source=rss------data_science-5)
-- [Speed Up Your Python Data Analysis With Mito](https://medium.com/@ahmadkamiludin/speed-up-your-python-data-analysis-with-mito-1cf51676bab3?source=rss------data_science-5)
-- [WHY As much as possible, you should NOT IMPUTE missing values!](https://medium.com/geekculture/why-as-much-as-possible-you-should-not-impute-missing-values-b7d8eff1d980?source=rss------data_science-5)
-- [Research Papers based on Directed Hypergraphs](https://medium.com/@monodeepets77/research-papers-based-on-directed-hypergraphs-777ccf572eb?source=rss------data_science-5)
-- [Python Tutorial: Learn How to Use Python’s SMTP Library in Less Than 10 Minutes](https://medium.com/@alains/python-tutorial-python-smtplib-22cb5c5a50dc?source=rss------data_science-5)
-- [A Complete guide to K Nearest Neighbor &lpar;KNN&rpar; in Machine Learning](https://swagata1506.medium.com/a-complete-guide-to-k-nearest-neighbor-knn-in-machine-learning-4716561bb43c?source=rss------data_science-5)
-- [Coffee Time with Mr. Yin! — Five Tips for Improving Data Science Skills](https://medium.com/@yiqiaoyin/coffee-time-with-mr-yin-five-tips-for-improving-data-science-skills-7c1737ce8bd4?source=rss------data_science-5)
-- [Coffee Time with Mr. Yin! — I’m hiring, and these are the qualifications I look for…](https://medium.com/@yiqiaoyin/coffee-time-with-mr-yin-im-hiring-and-these-are-the-qualifications-i-look-for-173c990a35e1?source=rss------data_science-5)
-- [Introduction to Node Embeddings part 2&lpar;Graph Theory&rpar;](https://medium.com/@monodeepets77/introduction-to-node-embeddings-part-2-graph-theory-52d2ede5f80d?source=rss------data_science-5)
+- [월급 400만원인 나는 중산층에 속한 사람일까?](https://medium.com/lab2050/%EC%9B%94%EA%B8%89-400%EB%A7%8C%EC%9B%90%EC%9D%B8-%EB%82%98%EB%8A%94-%EC%A4%91%EC%82%B0%EC%B8%B5%EC%97%90-%EC%86%8D%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%BC%EA%B9%8C-14988a430350?source=rss------data_science-5)
+- [An Interesting Volatility Trading Strategy](https://kaabar-sofien.medium.com/an-interesting-volatility-trading-strategy-5e50cfb67ace?source=rss------data_science-5)
+- [Data Analyst Beginner Friendly](https://medium.com/@reynaldipriandika/data-analyst-beginner-friendly-2a2c3d82033e?source=rss------data_science-5)
+- [A Quick and Easy Way to Download an Entire Website Using Python](https://medium.com/@alains/a-quick-and-easy-way-to-download-an-entire-website-using-python-ba7d34667b1?source=rss------data_science-5)
+- [How to predict marks with a Simple Linear Regression](https://medium.com/@Eyquem/how-to-predict-marks-with-a-simple-linear-regression-ec323492e152?source=rss------data_science-5)
+- [Awesome Programming Languages For Beginners](https://preettheman.medium.com/awesome-programming-languages-for-beginners-431065232c91?source=rss------data_science-5)
+- [EIP-1559 Gas fee market change Analysis&lpar;EDA&rpar;: Ethereum Blockchain](https://medium.com/@vteki/eip-1559-gas-fee-market-change-analysis-eda-ethereum-blockchain-66c498dc9f26?source=rss------data_science-5)
+- [Creating Multiple Data Graphs in R programming](https://zimanaanalytics.medium.com/creating-multiple-data-graphs-in-r-programming-59cf68405314?source=rss------data_science-5)
+- [Is web2.5 better than3.0?](https://medium.com/@vaibhavkautkar08/is-web2-5-better-than3-0-de3c7c0be5f4?source=rss------data_science-5)
+- [Rabbits != Rodents](https://medium.com/@laurafernandes_32018/rabbits-rodents-fd2436d408e8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
