@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [월급 400만원인 나는 중산층에 속한 사람일까?](https://medium.com/lab2050/%EC%9B%94%EA%B8%89-400%EB%A7%8C%EC%9B%90%EC%9D%B8-%EB%82%98%EB%8A%94-%EC%A4%91%EC%82%B0%EC%B8%B5%EC%97%90-%EC%86%8D%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%BC%EA%B9%8C-14988a430350?source=rss------data_science-5)
-- [An Interesting Volatility Trading Strategy](https://kaabar-sofien.medium.com/an-interesting-volatility-trading-strategy-5e50cfb67ace?source=rss------data_science-5)
-- [Data Analyst Beginner Friendly](https://medium.com/@reynaldipriandika/data-analyst-beginner-friendly-2a2c3d82033e?source=rss------data_science-5)
-- [A Quick and Easy Way to Download an Entire Website Using Python](https://medium.com/@alains/a-quick-and-easy-way-to-download-an-entire-website-using-python-ba7d34667b1?source=rss------data_science-5)
-- [How to predict marks with a Simple Linear Regression](https://medium.com/@Eyquem/how-to-predict-marks-with-a-simple-linear-regression-ec323492e152?source=rss------data_science-5)
-- [Awesome Programming Languages For Beginners](https://preettheman.medium.com/awesome-programming-languages-for-beginners-431065232c91?source=rss------data_science-5)
-- [EIP-1559 Gas fee market change Analysis&lpar;EDA&rpar;: Ethereum Blockchain](https://medium.com/@vteki/eip-1559-gas-fee-market-change-analysis-eda-ethereum-blockchain-66c498dc9f26?source=rss------data_science-5)
-- [Creating Multiple Data Graphs in R programming](https://zimanaanalytics.medium.com/creating-multiple-data-graphs-in-r-programming-59cf68405314?source=rss------data_science-5)
-- [Is web2.5 better than3.0?](https://medium.com/@vaibhavkautkar08/is-web2-5-better-than3-0-de3c7c0be5f4?source=rss------data_science-5)
-- [Rabbits != Rodents](https://medium.com/@laurafernandes_32018/rabbits-rodents-fd2436d408e8?source=rss------data_science-5)
+- [A Step-by-Step Guide: Getting Started with the Pandas Library](https://medium.com/@RexCharles11/a-step-by-step-guide-getting-started-with-the-pandas-library-64d4d4c6d021?source=rss------data_science-5)
+- [Money Balling Cricket — Probability of 100 using repeated conditioning](https://arslanshahid-1997.medium.com/money-balling-cricket-probability-of-100-using-repeated-conditioning-2fc8dbceb42e?source=rss------data_science-5)
+- [The Fibonacci Mean Distance Technical Indicator](https://kaabar-sofien.medium.com/the-fibonacci-mean-distance-technical-indicator-a749d728874a?source=rss------data_science-5)
+- [Python: Methods](https://medium.com/@musttafamutlu/python-methods-41bfc3e1af11?source=rss------data_science-5)
+- [Easy way to distinguish type errors and classification metrics](https://medium.com/@anhltran91/easy-way-to-distinguish-type-errors-and-classification-metrics-71d7de129ea8?source=rss------data_science-5)
+- [30 days of Data Science — Day 6: Mistakes I don’t want to make as a future data scientist](https://medium.com/data-and-me/30-days-of-data-science-day-6-mistakes-i-dont-want-to-make-as-a-future-data-scientist-982b61ad5a1b?source=rss------data_science-5)
+- [Horror Movie Analysis &lpar;EDA&rpar;](https://medium.com/@asunadch/horror-movie-analysis-eda-d199befd38bb?source=rss------data_science-5)
+- [Welcome to Quant Guild](https://medium.com/quant-guild/welcome-to-quant-guild-d8b557f06d6d?source=rss------data_science-5)
+- [SQL subtle differences to improve your query](https://medium.com/@mostafan33997/sql-subtle-differences-to-improve-your-query-d9ba7006af11?source=rss------data_science-5)
+- [Document Similarity Using Cosine Similarity](https://medium.com/@anand.adarsh50/document-similarity-using-cosine-similarity-8034e6fbe8c2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
