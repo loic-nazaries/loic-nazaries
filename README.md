@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Step-by-Step Guide: Getting Started with the Pandas Library](https://medium.com/@RexCharles11/a-step-by-step-guide-getting-started-with-the-pandas-library-64d4d4c6d021?source=rss------data_science-5)
-- [Money Balling Cricket — Probability of 100 using repeated conditioning](https://arslanshahid-1997.medium.com/money-balling-cricket-probability-of-100-using-repeated-conditioning-2fc8dbceb42e?source=rss------data_science-5)
-- [The Fibonacci Mean Distance Technical Indicator](https://kaabar-sofien.medium.com/the-fibonacci-mean-distance-technical-indicator-a749d728874a?source=rss------data_science-5)
-- [Python: Methods](https://medium.com/@musttafamutlu/python-methods-41bfc3e1af11?source=rss------data_science-5)
-- [Easy way to distinguish type errors and classification metrics](https://medium.com/@anhltran91/easy-way-to-distinguish-type-errors-and-classification-metrics-71d7de129ea8?source=rss------data_science-5)
-- [30 days of Data Science — Day 6: Mistakes I don’t want to make as a future data scientist](https://medium.com/data-and-me/30-days-of-data-science-day-6-mistakes-i-dont-want-to-make-as-a-future-data-scientist-982b61ad5a1b?source=rss------data_science-5)
-- [Horror Movie Analysis &lpar;EDA&rpar;](https://medium.com/@asunadch/horror-movie-analysis-eda-d199befd38bb?source=rss------data_science-5)
-- [Welcome to Quant Guild](https://medium.com/quant-guild/welcome-to-quant-guild-d8b557f06d6d?source=rss------data_science-5)
-- [SQL subtle differences to improve your query](https://medium.com/@mostafan33997/sql-subtle-differences-to-improve-your-query-d9ba7006af11?source=rss------data_science-5)
-- [Document Similarity Using Cosine Similarity](https://medium.com/@anand.adarsh50/document-similarity-using-cosine-similarity-8034e6fbe8c2?source=rss------data_science-5)
+- [What We Talk About When We Talk About Horror Movies &lpar;NLP&rpar;](https://medium.com/@asunadch/what-we-talk-about-when-we-talk-about-horror-movies-nlp-40e5ae7f985?source=rss------data_science-5)
+- [Data needs healthy living, too](https://medium.datadriveninvestor.com/data-needs-healthy-living-too-f50d1266176d?source=rss------data_science-5)
+- [Introduction to Seq2Seq](https://medium.com/@monodeepets77/introduction-to-seq2seq-c42117e16e91?source=rss------data_science-5)
+- [How to build your data science workstation with Void Linux](https://arinbasu.medium.com/how-to-build-your-data-science-workstation-with-void-linux-a1fb77c103b5?source=rss------data_science-5)
+- [What is Supervised Machine Learning?](https://medium.com/@inuwamobarak/what-is-supervised-machine-learning-7245792a1391?source=rss------data_science-5)
+- [Incremental and Full strategies with Apache Airflow and PostgreSQL](https://medium.com/@emergeit/incremental-and-full-strategies-with-apache-airflow-and-postgresql-e2075f9b3c84?source=rss------data_science-5)
+- [Explainable AI: When life gives you LIME, make mojito](https://medium.com/@gauravagarwal_14599/explainable-ai-when-life-gives-you-lime-make-mojito-f02f171ff424?source=rss------data_science-5)
+- [How to Upload a Python Project to GitHub in Just 3 Steps](https://medium.com/@alains/how-to-upload-a-python-project-to-github-in-just-3-steps-c1c573cb3609?source=rss------data_science-5)
+- [VitaDAOへようこそ](https://vitadao.medium.com/vitadao-youkoso-1a1b14ae3bbc?source=rss------data_science-5)
+- [Makine Öğrenmesi Serisi-2](https://medium.com/@kiriscim/makine-%C3%B6%C4%9Frenmesi-serisi-2-4ba67973d28?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
