@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What We Talk About When We Talk About Horror Movies &lpar;NLP&rpar;](https://medium.com/@asunadch/what-we-talk-about-when-we-talk-about-horror-movies-nlp-40e5ae7f985?source=rss------data_science-5)
-- [Data needs healthy living, too](https://medium.datadriveninvestor.com/data-needs-healthy-living-too-f50d1266176d?source=rss------data_science-5)
-- [Introduction to Seq2Seq](https://medium.com/@monodeepets77/introduction-to-seq2seq-c42117e16e91?source=rss------data_science-5)
-- [How to build your data science workstation with Void Linux](https://arinbasu.medium.com/how-to-build-your-data-science-workstation-with-void-linux-a1fb77c103b5?source=rss------data_science-5)
-- [What is Supervised Machine Learning?](https://medium.com/@inuwamobarak/what-is-supervised-machine-learning-7245792a1391?source=rss------data_science-5)
-- [Incremental and Full strategies with Apache Airflow and PostgreSQL](https://medium.com/@emergeit/incremental-and-full-strategies-with-apache-airflow-and-postgresql-e2075f9b3c84?source=rss------data_science-5)
-- [Explainable AI: When life gives you LIME, make mojito](https://medium.com/@gauravagarwal_14599/explainable-ai-when-life-gives-you-lime-make-mojito-f02f171ff424?source=rss------data_science-5)
-- [How to Upload a Python Project to GitHub in Just 3 Steps](https://medium.com/@alains/how-to-upload-a-python-project-to-github-in-just-3-steps-c1c573cb3609?source=rss------data_science-5)
-- [VitaDAOへようこそ](https://vitadao.medium.com/vitadao-youkoso-1a1b14ae3bbc?source=rss------data_science-5)
-- [Makine Öğrenmesi Serisi-2](https://medium.com/@kiriscim/makine-%C3%B6%C4%9Frenmesi-serisi-2-4ba67973d28?source=rss------data_science-5)
+- [Coletando Dados de Imóveis com Selenium em Python &lpar;Web Scraping&rpar;](https://medium.com/@marcos_8226/coletando-dados-de-im%C3%B3veis-com-selenium-em-python-web-scraping-d3db0eabc473?source=rss------data_science-5)
+- [How I Start the ML and The Approach I Follow &lpar;L1&rpar;](https://medium.com/@sandeep-makwana/how-i-start-the-ml-and-the-approach-i-follow-l1-545e8f11836b?source=rss------data_science-5)
+- [Análise de Dados da Plataforma Delivery Center](https://medium.com/@danrleymontalvo/an%C3%A1lise-de-dados-da-plataforma-delivery-center-2feb25e2b306?source=rss------data_science-5)
+- [Introdução ao Scikit-Learn — O que você precisa saber para começar.](https://medium.com/@rafael.salomaod96/introdu%C3%A7%C3%A3o-ao-scikit-learn-o-que-voc%C3%AA-precisa-saber-para-come%C3%A7ar-2b4d967257aa?source=rss------data_science-5)
+- [Solução de problema utilizando SQL](https://andreluizjaques.medium.com/solu%C3%A7%C3%A3o-de-problema-utilizando-sql-2a6df9b6d5d?source=rss------data_science-5)
+- [Classifying Adult vs. Youth Anime Using Synopsis and Genre](https://medium.com/@bkosiadi/classifying-adult-vs-youth-anime-using-synopsis-and-genre-5ae7b27ac829?source=rss------data_science-5)
+- [Cool Python Tweaks To Add In Every Project](https://preettheman.medium.com/cool-python-tweaks-to-add-in-every-project-f937f9f7f065?source=rss------data_science-5)
+- [What is Data Science &amp; Tips Of The Trade](https://medium.com/my-journey-towards-data-science/what-is-data-science-tips-of-the-trade-cf33420d8209?source=rss------data_science-5)
+- [Criar um dataframe de um arquivo CSV via Python](https://medium.com/linux-tech/criar-um-dataframe-de-um-arquivo-csv-via-python-46f4b01cbeaf?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
