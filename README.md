@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Coletando Dados de Imóveis com Selenium em Python &lpar;Web Scraping&rpar;](https://medium.com/@marcos_8226/coletando-dados-de-im%C3%B3veis-com-selenium-em-python-web-scraping-d3db0eabc473?source=rss------data_science-5)
-- [How I Start the ML and The Approach I Follow &lpar;L1&rpar;](https://medium.com/@sandeep-makwana/how-i-start-the-ml-and-the-approach-i-follow-l1-545e8f11836b?source=rss------data_science-5)
-- [Análise de Dados da Plataforma Delivery Center](https://medium.com/@danrleymontalvo/an%C3%A1lise-de-dados-da-plataforma-delivery-center-2feb25e2b306?source=rss------data_science-5)
-- [Introdução ao Scikit-Learn — O que você precisa saber para começar.](https://medium.com/@rafael.salomaod96/introdu%C3%A7%C3%A3o-ao-scikit-learn-o-que-voc%C3%AA-precisa-saber-para-come%C3%A7ar-2b4d967257aa?source=rss------data_science-5)
-- [Solução de problema utilizando SQL](https://andreluizjaques.medium.com/solu%C3%A7%C3%A3o-de-problema-utilizando-sql-2a6df9b6d5d?source=rss------data_science-5)
-- [Classifying Adult vs. Youth Anime Using Synopsis and Genre](https://medium.com/@bkosiadi/classifying-adult-vs-youth-anime-using-synopsis-and-genre-5ae7b27ac829?source=rss------data_science-5)
-- [Cool Python Tweaks To Add In Every Project](https://preettheman.medium.com/cool-python-tweaks-to-add-in-every-project-f937f9f7f065?source=rss------data_science-5)
-- [What is Data Science &amp; Tips Of The Trade](https://medium.com/my-journey-towards-data-science/what-is-data-science-tips-of-the-trade-cf33420d8209?source=rss------data_science-5)
-- [Criar um dataframe de um arquivo CSV via Python](https://medium.com/linux-tech/criar-um-dataframe-de-um-arquivo-csv-via-python-46f4b01cbeaf?source=rss------data_science-5)
+- [The most important skill that every data scientist should develop](https://medium.com/@sunkeen/the-most-important-skill-that-every-data-scientist-should-develop-1b627c790d4b?source=rss------data_science-5)
+- [Five Trends to Watch for in the Data Science Industry](https://towardsdatascience.com/five-trends-to-watch-for-in-the-data-science-industry-97bf1589f9ca?source=rss------data_science-5)
+- [Covalent Bi-Weekly #12](https://onursarayli.medium.com/covalent-bi-weekly-12-6426ee1b01c?source=rss------data_science-5)
+- [Meu primeiro projeto de Data Analytics utilizando SQL e Power Bi](https://medium.com/@marcilio.dfn/meu-primeiro-projeto-de-data-analytics-utilizando-sql-e-power-bi-f7d4c5655b3c?source=rss------data_science-5)
+- [Python Is Getting a Massive Update](https://preettheman.medium.com/python-is-getting-a-massive-update-8a38d160b6d4?source=rss------data_science-5)
+- [Hugging Face vs Flair: Comparing “Default” Sentiment Analysis Pipelines](https://medium.com/@AnilTilbe/hugging-face-vs-flair-comparing-default-sentiment-analysis-pipelines-28d4d10e127f?source=rss------data_science-5)
+- [Tensorflow vs PyTorch: Which Will Be The Top Deep Learning Framework In 2022 ?](https://maker57sk.medium.com/tensorflow-vs-pytorch-which-will-be-the-top-deep-learning-framework-in-2022-a3488635029?source=rss------data_science-5)
+- [40 of the Best Beginner-Friendly Kaggle Notebooks to Learn Exploratory Data Analysis &lpar;EDA&rpar;](https://medium.com/@ebrahimhaqbhatti516/40-of-the-best-beginner-friendly-kaggle-notebooks-to-learn-exploratory-data-analysis-eda-6e45760646aa?source=rss------data_science-5)
+- [Wrapping your code into a Docker container](https://medium.com/@1StepFromMagic/wrapping-your-code-into-a-docker-container-fd8095668f93?source=rss------data_science-5)
+- [Why Pandas-like Interfaces are Sub-optimal for Distributed Computing](https://towardsdatascience.com/why-pandas-like-interfaces-are-sub-optimal-for-distributed-computing-322dacbce43?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
