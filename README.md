@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The most important skill that every data scientist should develop](https://medium.com/@sunkeen/the-most-important-skill-that-every-data-scientist-should-develop-1b627c790d4b?source=rss------data_science-5)
-- [Five Trends to Watch for in the Data Science Industry](https://towardsdatascience.com/five-trends-to-watch-for-in-the-data-science-industry-97bf1589f9ca?source=rss------data_science-5)
-- [Covalent Bi-Weekly #12](https://onursarayli.medium.com/covalent-bi-weekly-12-6426ee1b01c?source=rss------data_science-5)
-- [Meu primeiro projeto de Data Analytics utilizando SQL e Power Bi](https://medium.com/@marcilio.dfn/meu-primeiro-projeto-de-data-analytics-utilizando-sql-e-power-bi-f7d4c5655b3c?source=rss------data_science-5)
-- [Python Is Getting a Massive Update](https://preettheman.medium.com/python-is-getting-a-massive-update-8a38d160b6d4?source=rss------data_science-5)
-- [Hugging Face vs Flair: Comparing “Default” Sentiment Analysis Pipelines](https://medium.com/@AnilTilbe/hugging-face-vs-flair-comparing-default-sentiment-analysis-pipelines-28d4d10e127f?source=rss------data_science-5)
-- [Tensorflow vs PyTorch: Which Will Be The Top Deep Learning Framework In 2022 ?](https://maker57sk.medium.com/tensorflow-vs-pytorch-which-will-be-the-top-deep-learning-framework-in-2022-a3488635029?source=rss------data_science-5)
-- [40 of the Best Beginner-Friendly Kaggle Notebooks to Learn Exploratory Data Analysis &lpar;EDA&rpar;](https://medium.com/@ebrahimhaqbhatti516/40-of-the-best-beginner-friendly-kaggle-notebooks-to-learn-exploratory-data-analysis-eda-6e45760646aa?source=rss------data_science-5)
-- [Wrapping your code into a Docker container](https://medium.com/@1StepFromMagic/wrapping-your-code-into-a-docker-container-fd8095668f93?source=rss------data_science-5)
-- [Why Pandas-like Interfaces are Sub-optimal for Distributed Computing](https://towardsdatascience.com/why-pandas-like-interfaces-are-sub-optimal-for-distributed-computing-322dacbce43?source=rss------data_science-5)
+- [Data science Road Map for 2022](https://medium.com/@parvezshah.shaik/data-science-road-map-for-2022-fb3af938a802?source=rss------data_science-5)
+- [SQL Subqueries, The &lpar;Mostly&rpar; Complete Guide](https://jonmce.medium.com/sql-subqueries-the-mostly-complete-guide-ddd5b7f24f47?source=rss------data_science-5)
+- [Decision Tree Hyperparameter Tuning in R using mlr](https://towardsdatascience.com/decision-tree-hyperparameter-tuning-in-r-using-mlr-3248bfd2d88c?source=rss------data_science-5)
+- [Sentiment Analysis in Data Science using VADER](https://medium.com/@helennpham0229/sentiment-analysis-in-data-science-using-vader-8c5d4bd8d3be?source=rss------data_science-5)
+- [These Programming Languages Have The Highest Salaries](https://preettheman.medium.com/these-programming-languages-have-the-highest-salaries-98c338ae1ee6?source=rss------data_science-5)
+- [My GDAC Journey 001](https://medium.com/@ChiomaEzenwammadu/my-gdac-journey-001-cf883a3a3233?source=rss------data_science-5)
+- [Linear Regression](https://medium.com/@gajendra.quick/linear-regression-2080e6a06f45?source=rss------data_science-5)
+- [How To Scrape Tweets With Python](https://preettheman.medium.com/how-to-scrape-tweets-with-python-bfc20ddcd8bb?source=rss------data_science-5)
+- [Solve the Apriori Algorithm problem](https://medium.com/@parisan.ahmadi/solve-the-apriori-algorithm-problem-68b47be95df8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
