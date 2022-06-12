@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A/B Testing, introduction and much more](https://srijan-bhushan.medium.com/a-b-testing-introduction-and-much-more-59b11e2bacf5?source=rss------data_science-5)
-- [7 Things You MUST Consider When Buying an Online Course](https://samsonwriting.medium.com/7-things-you-must-consider-when-buying-an-online-course-9f81b365ade0?source=rss------data_science-5)
-- [Sentiment Analysis on Solar Energy with NLP and Python](https://medium.com/@dniggl/sentiment-analysis-on-solar-energy-with-nlp-and-python-1e6256194209?source=rss------data_science-5)
-- [Neural Network Basics: Classification … with Donuts!](https://neuralnetworknodes.medium.com/neural-network-basics-classification-with-donuts-e9f11bbd16c2?source=rss------data_science-5)
-- [Python Dashboarding Ecosystem and Landscape](https://towardsdatascience.com/python-dashboarding-ecosystem-and-landscape-cc055b50c668?source=rss------data_science-5)
-- [THE GAMING MAN](https://medium.com/@mosesmartin1.618/the-gaming-man-647aebc35456?source=rss------data_science-5)
-- [Diário de Bordo — 10/06/2022](https://medium.com/@lethyciavf/di%C3%A1rio-de-bordo-10-06-2022-45ca625df072?source=rss------data_science-5)
-- [Porto Alegre’s weather analysis](https://medium.com/@attrindade/porto-alegres-weather-analysis-84823e9dc1d8?source=rss------data_science-5)
-- [Market Implied Volatility](https://medium.com/quant-guild/market-implied-volatility-6282edac9607?source=rss------data_science-5)
-- [Blockchain in Data Science](https://medium.com/@anuj.molwane20/blockchain-in-data-science-b7fa25ffcf3a?source=rss------data_science-5)
+- [Machine Learning &amp; Statistical Modeling in CRM &lpar;All in One❗&rpar;](https://medium.com/@bkarabillioglu/machine-learning-statistical-modeling-in-crm-all-in-one-887cd18ecb3d?source=rss------data_science-5)
+- [A Statistical Approach to Finding Your Optimal Apartment](https://hainesdata.medium.com/a-statistical-approach-to-finding-your-optimal-apartment-75b2ddc40c66?source=rss------data_science-5)
+- [Datos abiertos en Costa Rica: una agenda pendiente](https://medium.com/@williamaguilar327/datos-abiertos-en-costa-rica-una-agenda-pendiente-842e4b3a52a5?source=rss------data_science-5)
+- [Combating human trafficking using graphs: Part 3.](https://medium.com/@juanchobanano/combating-human-trafficking-using-graphs-part-3-ce103a252170?source=rss------data_science-5)
+- [Stirling’s Approximation for Factorials — Proof and Applications](https://towardsdatascience.com/stirlings-approximation-for-factorials-proof-and-applications-c058418e42db?source=rss------data_science-5)
+- [Analysis of 53 Part Speedrun: Part 1](https://medium.com/@100WordsofDataScience/analysis-of-53-part-speedrun-part-1-263489119e5a?source=rss------data_science-5)
+- [Predicting California’s Energy Demand with Weather Data](https://medium.com/@auroraginzburg/predicting-californias-energy-demand-with-weather-data-d8b35de0c5e3?source=rss------data_science-5)
+- [Ensemble Learning — AdaBoost with Python](https://medium.com/mlearning-ai/ensemble-learning-adaboost-with-python-8332778fbb61?source=rss------data_science-5)
+- [Importing data from a PostgreSQL database to a Pandas DataFrame](https://medium.com/@alestamm/importing-data-from-a-postgresql-database-to-a-pandas-dataframe-5f4bffcd8bb2?source=rss------data_science-5)
+- [Algotrading with Reinforcement Learning](https://medium.com/@mlalgo/algotrading-with-reinforcement-learning-3bf0f8dd876a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
