@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Machine Learning &amp; Statistical Modeling in CRM &lpar;All in One❗&rpar;](https://medium.com/@bkarabillioglu/machine-learning-statistical-modeling-in-crm-all-in-one-887cd18ecb3d?source=rss------data_science-5)
-- [A Statistical Approach to Finding Your Optimal Apartment](https://hainesdata.medium.com/a-statistical-approach-to-finding-your-optimal-apartment-75b2ddc40c66?source=rss------data_science-5)
-- [Datos abiertos en Costa Rica: una agenda pendiente](https://medium.com/@williamaguilar327/datos-abiertos-en-costa-rica-una-agenda-pendiente-842e4b3a52a5?source=rss------data_science-5)
-- [Combating human trafficking using graphs: Part 3.](https://medium.com/@juanchobanano/combating-human-trafficking-using-graphs-part-3-ce103a252170?source=rss------data_science-5)
-- [Stirling’s Approximation for Factorials — Proof and Applications](https://towardsdatascience.com/stirlings-approximation-for-factorials-proof-and-applications-c058418e42db?source=rss------data_science-5)
-- [Analysis of 53 Part Speedrun: Part 1](https://medium.com/@100WordsofDataScience/analysis-of-53-part-speedrun-part-1-263489119e5a?source=rss------data_science-5)
-- [Predicting California’s Energy Demand with Weather Data](https://medium.com/@auroraginzburg/predicting-californias-energy-demand-with-weather-data-d8b35de0c5e3?source=rss------data_science-5)
-- [Ensemble Learning — AdaBoost with Python](https://medium.com/mlearning-ai/ensemble-learning-adaboost-with-python-8332778fbb61?source=rss------data_science-5)
-- [Importing data from a PostgreSQL database to a Pandas DataFrame](https://medium.com/@alestamm/importing-data-from-a-postgresql-database-to-a-pandas-dataframe-5f4bffcd8bb2?source=rss------data_science-5)
-- [Algotrading with Reinforcement Learning](https://medium.com/@mlalgo/algotrading-with-reinforcement-learning-3bf0f8dd876a?source=rss------data_science-5)
+- [Writing Python Functions For Plotting Graphs](https://medium.com/@veronica.isiaho/writing-python-functions-for-plotting-graphs-da52c3998d84?source=rss------data_science-5)
+- [The Perfect Model for the Imperfect Human: Going Beyond Data](https://bootcamp.uxdesign.cc/the-perfect-model-for-the-imperfect-human-going-beyond-data-ba783ad344d7?source=rss------data_science-5)
+- [SALES DATA ANALYSIS AND VISUALIZATION](https://medium.com/@willitivity/sales-data-analysis-and-visualization-925adfa04ec4?source=rss------data_science-5)
+- [Integrando Python ao PowerBI](https://medium.com/@leandric/integrando-python-ao-powerbi-2479d4ea166c?source=rss------data_science-5)
+- [Consecutive Occurrences in SQL](https://medium.com/@RyanHarrisonOriginal/consecutive-occurrences-in-sql-27db818582b0?source=rss------data_science-5)
+- [How To Score ~80% Accuracy in Kaggle’s Spaceship Titanic Competition using Random Forest Classifier](https://medium.com/@ZaynabAwofeso/how-to-score-80-accuracy-in-kaggles-spaceship-titanic-competition-using-random-forest-classifier-e7d06ce25bad?source=rss------data_science-5)
+- [Analisando meus dados no Strava](https://ssantos-igor.medium.com/analisando-meus-dados-no-strava-8a18775942f?source=rss------data_science-5)
+- [Started my data analytics journey on Coursera today, a big step for me.](https://medium.com/@odubelagideon02/started-my-data-analytics-journey-on-coursera-today-a-big-step-for-me-e2f31714f54b?source=rss------data_science-5)
+- [Don’t download Ancaonda !!! Try this ;&rpar;](https://medium.com/@pablo.julian.rosa/dont-download-ancaonda-try-this-15f10751d39b?source=rss------data_science-5)
+- [Polars vs Pandas: what is more convenient?](https://medium.com/@ilia.ozhmegov/polars-vs-pandas-what-is-more-convenient-331956742a69?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
