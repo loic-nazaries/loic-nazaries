@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Writing Python Functions For Plotting Graphs](https://medium.com/@veronica.isiaho/writing-python-functions-for-plotting-graphs-da52c3998d84?source=rss------data_science-5)
-- [The Perfect Model for the Imperfect Human: Going Beyond Data](https://bootcamp.uxdesign.cc/the-perfect-model-for-the-imperfect-human-going-beyond-data-ba783ad344d7?source=rss------data_science-5)
-- [SALES DATA ANALYSIS AND VISUALIZATION](https://medium.com/@willitivity/sales-data-analysis-and-visualization-925adfa04ec4?source=rss------data_science-5)
-- [Integrando Python ao PowerBI](https://medium.com/@leandric/integrando-python-ao-powerbi-2479d4ea166c?source=rss------data_science-5)
-- [Consecutive Occurrences in SQL](https://medium.com/@RyanHarrisonOriginal/consecutive-occurrences-in-sql-27db818582b0?source=rss------data_science-5)
-- [How To Score ~80% Accuracy in Kaggle’s Spaceship Titanic Competition using Random Forest Classifier](https://medium.com/@ZaynabAwofeso/how-to-score-80-accuracy-in-kaggles-spaceship-titanic-competition-using-random-forest-classifier-e7d06ce25bad?source=rss------data_science-5)
-- [Analisando meus dados no Strava](https://ssantos-igor.medium.com/analisando-meus-dados-no-strava-8a18775942f?source=rss------data_science-5)
-- [Started my data analytics journey on Coursera today, a big step for me.](https://medium.com/@odubelagideon02/started-my-data-analytics-journey-on-coursera-today-a-big-step-for-me-e2f31714f54b?source=rss------data_science-5)
-- [Don’t download Ancaonda !!! Try this ;&rpar;](https://medium.com/@pablo.julian.rosa/dont-download-ancaonda-try-this-15f10751d39b?source=rss------data_science-5)
-- [Polars vs Pandas: what is more convenient?](https://medium.com/@ilia.ozhmegov/polars-vs-pandas-what-is-more-convenient-331956742a69?source=rss------data_science-5)
+- [ใครอยากทำไฟล์เคลื่อนไหว ไฟล์ gif ด้วย Matlab สามารถดูตัวอย่างการเขียนนี้ ได้เลย](https://matlabbkk.medium.com/%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%AB%E0%B8%A7-%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C-gif-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-matlab-%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%94%E0%B8%B9%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89-%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%A5%E0%B8%A2-e96c0b75f30c?source=rss------data_science-5)
+- [Analysis of 53 Part Speedrun: Part 4: Explaining Damaging Moves](https://medium.com/@100WordsofDataScience/analysis-of-53-part-speedrun-part-4-explaining-damaging-moves-d29285faa29c?source=rss------data_science-5)
+- [Gráficos de Barra Dinâmicos — Como construí-los em Python?](https://medium.com/@rmalmeida2/gr%C3%A1ficos-de-barra-din%C3%A2micos-como-constru%C3%AD-los-em-python-695ec1262653?source=rss------data_science-5)
+- [Essential Data Visualization to know!](https://medium.com/@anjalitiwari02199/essential-data-visualization-to-know-9623dc7dcb16?source=rss------data_science-5)
+- [GLOBALIZING TRENDS AND DATA SCIENCE: A PROMISING RELATIONSHIP](https://medium.com/@prernasingh7990/globalizing-trends-and-data-science-a-promising-relationship-16509902fdb1?source=rss------data_science-5)
+- [Analysis of 53 Part Speedrun: Part 3: Explaining Battling](https://medium.com/@100WordsofDataScience/analysis-of-53-part-speedrun-part-3-explaining-battling-888f241e6740?source=rss------data_science-5)
+- [Time Series&lpar;Zaman Serileri&rpar;](https://medium.com/@trcahit/time-series-zaman-serileri-c9b92ae87daa?source=rss------data_science-5)
+- [Everything you need to know about Databases](https://luke-veitch.medium.com/everything-you-need-to-know-about-databases-8d26688e6fdc?source=rss------data_science-5)
+- [Quantas visualizações meu blog vai ter amanhã?](https://nathaliatito.medium.com/quantas-visualiza%C3%A7%C3%B5es-meu-blog-vai-ter-amanh%C3%A3-a3b7b2d8bf36?source=rss------data_science-5)
+- [Diário de Bordo — 13/06/2022](https://medium.com/@lethyciavf/di%C3%A1rio-de-bordo-13-06-2022-89dcacbf2ffb?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
