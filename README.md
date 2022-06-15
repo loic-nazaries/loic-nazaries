@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [ใครอยากทำไฟล์เคลื่อนไหว ไฟล์ gif ด้วย Matlab สามารถดูตัวอย่างการเขียนนี้ ได้เลย](https://matlabbkk.medium.com/%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%AB%E0%B8%A7-%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C-gif-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-matlab-%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%94%E0%B8%B9%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89-%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%A5%E0%B8%A2-e96c0b75f30c?source=rss------data_science-5)
-- [Analysis of 53 Part Speedrun: Part 4: Explaining Damaging Moves](https://medium.com/@100WordsofDataScience/analysis-of-53-part-speedrun-part-4-explaining-damaging-moves-d29285faa29c?source=rss------data_science-5)
-- [Gráficos de Barra Dinâmicos — Como construí-los em Python?](https://medium.com/@rmalmeida2/gr%C3%A1ficos-de-barra-din%C3%A2micos-como-constru%C3%AD-los-em-python-695ec1262653?source=rss------data_science-5)
-- [Essential Data Visualization to know!](https://medium.com/@anjalitiwari02199/essential-data-visualization-to-know-9623dc7dcb16?source=rss------data_science-5)
-- [GLOBALIZING TRENDS AND DATA SCIENCE: A PROMISING RELATIONSHIP](https://medium.com/@prernasingh7990/globalizing-trends-and-data-science-a-promising-relationship-16509902fdb1?source=rss------data_science-5)
-- [Analysis of 53 Part Speedrun: Part 3: Explaining Battling](https://medium.com/@100WordsofDataScience/analysis-of-53-part-speedrun-part-3-explaining-battling-888f241e6740?source=rss------data_science-5)
-- [Time Series&lpar;Zaman Serileri&rpar;](https://medium.com/@trcahit/time-series-zaman-serileri-c9b92ae87daa?source=rss------data_science-5)
-- [Everything you need to know about Databases](https://luke-veitch.medium.com/everything-you-need-to-know-about-databases-8d26688e6fdc?source=rss------data_science-5)
-- [Quantas visualizações meu blog vai ter amanhã?](https://nathaliatito.medium.com/quantas-visualiza%C3%A7%C3%B5es-meu-blog-vai-ter-amanh%C3%A3-a3b7b2d8bf36?source=rss------data_science-5)
-- [Diário de Bordo — 13/06/2022](https://medium.com/@lethyciavf/di%C3%A1rio-de-bordo-13-06-2022-89dcacbf2ffb?source=rss------data_science-5)
+- [Predicting Customer Churn in Python: Lecture 1](https://medium.com/@u0808b100/predicting-customer-churn-in-python-lecture-1-d8bc0ab9adf9?source=rss------data_science-5)
+- [การทำกราฟโปร่งใสและไล่ระดับสี มาลองดู code ตัวอย่างกัน](https://matlabbkk.medium.com/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%9F%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AA%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%84%E0%B8%A5%E0%B9%88%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B5-%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B9-code-%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99-5f9804e20621?source=rss------data_science-5)
+- [Linear Regression: What is the Sum of Squares?](https://miketechgame.medium.com/linear-regression-what-is-the-sum-of-squares-3746db90a05d?source=rss------data_science-5)
+- [Linear regression theory](https://medium.com/@RashMeedeum/linear-regression-theory-13cd5816df20?source=rss------data_science-5)
+- [Clustering Algorithm for Driver Segmentation](https://medium.com/@dhruval_/clustering-algorithm-for-driver-segmentation-9e5d18ed30cf?source=rss------data_science-5)
+- [How did I manage to land 2x more interviews with these simple hacks?](https://pub.towardsai.net/how-did-i-manage-to-land-2x-more-interviews-with-these-simple-hacks-d3b318b3f8bd?source=rss------data_science-5)
+- [The Perfect Programming Language](https://preettheman.medium.com/the-perfect-programming-language-482df08a8961?source=rss------data_science-5)
+- [4 Ways to Monetise Data and Improve Your Revenue Model](https://medium.com/geekculture/4-ways-to-monetise-data-and-improve-your-revenue-model-1f1f42a191a4?source=rss------data_science-5)
+- [Sports Analytics 101-Introduction](https://pub.towardsai.net/sports-analytics-101-introduction-81b094e3d40f?source=rss------data_science-5)
+- [Is Our Machine Learning Model Useful?](https://medium.com/@alexandrafiona/is-our-machine-learning-model-useful-5916ecdeb401?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
