@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Predicting Customer Churn in Python: Lecture 1](https://medium.com/@u0808b100/predicting-customer-churn-in-python-lecture-1-d8bc0ab9adf9?source=rss------data_science-5)
-- [การทำกราฟโปร่งใสและไล่ระดับสี มาลองดู code ตัวอย่างกัน](https://matlabbkk.medium.com/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%9F%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AA%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%84%E0%B8%A5%E0%B9%88%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B5-%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B9-code-%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99-5f9804e20621?source=rss------data_science-5)
-- [Linear Regression: What is the Sum of Squares?](https://miketechgame.medium.com/linear-regression-what-is-the-sum-of-squares-3746db90a05d?source=rss------data_science-5)
-- [Linear regression theory](https://medium.com/@RashMeedeum/linear-regression-theory-13cd5816df20?source=rss------data_science-5)
-- [Clustering Algorithm for Driver Segmentation](https://medium.com/@dhruval_/clustering-algorithm-for-driver-segmentation-9e5d18ed30cf?source=rss------data_science-5)
-- [How did I manage to land 2x more interviews with these simple hacks?](https://pub.towardsai.net/how-did-i-manage-to-land-2x-more-interviews-with-these-simple-hacks-d3b318b3f8bd?source=rss------data_science-5)
-- [The Perfect Programming Language](https://preettheman.medium.com/the-perfect-programming-language-482df08a8961?source=rss------data_science-5)
-- [4 Ways to Monetise Data and Improve Your Revenue Model](https://medium.com/geekculture/4-ways-to-monetise-data-and-improve-your-revenue-model-1f1f42a191a4?source=rss------data_science-5)
-- [Sports Analytics 101-Introduction](https://pub.towardsai.net/sports-analytics-101-introduction-81b094e3d40f?source=rss------data_science-5)
-- [Is Our Machine Learning Model Useful?](https://medium.com/@alexandrafiona/is-our-machine-learning-model-useful-5916ecdeb401?source=rss------data_science-5)
+- [Future of Big Data](https://durga-dam.medium.com/future-of-big-data-60cd8130256f?source=rss------data_science-5)
+- [Python já vem com pilhas.](https://medium.com/@ruizroman/python-j%C3%A1-vem-com-pilhas-389798d06780?source=rss------data_science-5)
+- [The History of the First iPhone!!!](https://medium.com/codex/the-history-of-the-first-iphone-b23f50b989e4?source=rss------data_science-5)
+- [The best resources for learning Python online](https://towardsdatascience.com/the-best-resources-for-learning-python-online-609127c0c70f?source=rss------data_science-5)
+- [Fast and Easy Data Exploration for Machine Learning](https://towardsdatascience.com/fast-and-easy-data-exploration-for-machine-learning-3fbee7d9c16b?source=rss------data_science-5)
+- [Diário de Bordo — 14–15/06/2022](https://medium.com/@lethyciavf/di%C3%A1rio-de-bordo-14-15-06-2022-eccc511709f9?source=rss------data_science-5)
+- [How to Build a Cat &amp; Dog Classifier using Convolutional Neural Networks&lpar;CNN&rpar;](https://ammarjamshed123.medium.com/how-to-build-a-cat-dog-classifier-using-convolutional-neural-networks-cnn-4b4de4fde63f?source=rss------data_science-5)
+- [Brief Explaning Overfitting.](https://medium.com/@andreyai/brief-explaning-overfitting-de714984a843?source=rss------data_science-5)
+- [Programming Languages Every Coder Should Know](https://preettheman.medium.com/programming-languages-every-coder-should-know-1ea5072b90af?source=rss------data_science-5)
+- [How To Be A Great Data Tutor](https://pub.towardsai.net/how-to-be-a-great-data-tutor-f3b7f005e918?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
