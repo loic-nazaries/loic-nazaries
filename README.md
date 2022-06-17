@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Future of Big Data](https://durga-dam.medium.com/future-of-big-data-60cd8130256f?source=rss------data_science-5)
-- [Python já vem com pilhas.](https://medium.com/@ruizroman/python-j%C3%A1-vem-com-pilhas-389798d06780?source=rss------data_science-5)
-- [The History of the First iPhone!!!](https://medium.com/codex/the-history-of-the-first-iphone-b23f50b989e4?source=rss------data_science-5)
-- [The best resources for learning Python online](https://towardsdatascience.com/the-best-resources-for-learning-python-online-609127c0c70f?source=rss------data_science-5)
-- [Fast and Easy Data Exploration for Machine Learning](https://towardsdatascience.com/fast-and-easy-data-exploration-for-machine-learning-3fbee7d9c16b?source=rss------data_science-5)
-- [Diário de Bordo — 14–15/06/2022](https://medium.com/@lethyciavf/di%C3%A1rio-de-bordo-14-15-06-2022-eccc511709f9?source=rss------data_science-5)
-- [How to Build a Cat &amp; Dog Classifier using Convolutional Neural Networks&lpar;CNN&rpar;](https://ammarjamshed123.medium.com/how-to-build-a-cat-dog-classifier-using-convolutional-neural-networks-cnn-4b4de4fde63f?source=rss------data_science-5)
-- [Brief Explaning Overfitting.](https://medium.com/@andreyai/brief-explaning-overfitting-de714984a843?source=rss------data_science-5)
-- [Programming Languages Every Coder Should Know](https://preettheman.medium.com/programming-languages-every-coder-should-know-1ea5072b90af?source=rss------data_science-5)
-- [How To Be A Great Data Tutor](https://pub.towardsai.net/how-to-be-a-great-data-tutor-f3b7f005e918?source=rss------data_science-5)
+- [Data Science Certification by Google, Microsoft, Amazon &amp; more](https://blog.devgenius.io/data-science-certification-by-google-microsoft-amazon-more-14b56c2adae0?source=rss------data_science-5)
+- [Learn Data Science Tutorial — Mathematics](https://zefino.medium.com/learn-data-science-tutorial-mathematics-2e59d7754dc2?source=rss------data_science-5)
+- [Data &lpar;Science&rpar; vs &lpar;Analytics&rpar;](https://medium.com/@urvijain3012/data-science-vs-analytics-e1bd3c8a6a50?source=rss------data_science-5)
+- [Analysis of 53 Part Speedrun: Part 9: Getting Stronger: Leveling Up](https://medium.com/@100WordsofDataScience/analysis-of-53-part-speedrun-part-9-getting-stronger-leveling-up-683f4a7df348?source=rss------data_science-5)
+- [Recoding position-specific values in a df in R](https://infoart.medium.com/recoding-position-specific-values-in-a-df-in-r-51a17939773?source=rss------data_science-5)
+- [Awesome Python Game That Runs In Your Terminal](https://preettheman.medium.com/awesome-python-game-that-runs-in-your-terminal-f1cc9cbf8808?source=rss------data_science-5)
+- [Unsupervised K-Means Clustering in Python](https://moez-62905.medium.com/unsupervised-k-means-clustering-in-python-4c1229a73aba?source=rss------data_science-5)
+- [What’s So Important About Data?](https://medium.com/@ootundeduke/whats-so-important-about-data-9e84a712cc8d?source=rss------data_science-5)
+- [Data Visualization with Vanilla PHP: A introductory guide to charting with Chart.js and PHP/MySQL.](https://medium.com/@elzucky/data-visualization-with-vanilla-php-a-introductory-guide-to-charting-with-chart-js-and-php-mysql-f8e34a107c36?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
