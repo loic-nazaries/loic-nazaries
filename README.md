@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Science Certification by Google, Microsoft, Amazon &amp; more](https://blog.devgenius.io/data-science-certification-by-google-microsoft-amazon-more-14b56c2adae0?source=rss------data_science-5)
-- [Learn Data Science Tutorial — Mathematics](https://zefino.medium.com/learn-data-science-tutorial-mathematics-2e59d7754dc2?source=rss------data_science-5)
-- [Data &lpar;Science&rpar; vs &lpar;Analytics&rpar;](https://medium.com/@urvijain3012/data-science-vs-analytics-e1bd3c8a6a50?source=rss------data_science-5)
-- [Analysis of 53 Part Speedrun: Part 9: Getting Stronger: Leveling Up](https://medium.com/@100WordsofDataScience/analysis-of-53-part-speedrun-part-9-getting-stronger-leveling-up-683f4a7df348?source=rss------data_science-5)
-- [Recoding position-specific values in a df in R](https://infoart.medium.com/recoding-position-specific-values-in-a-df-in-r-51a17939773?source=rss------data_science-5)
-- [Awesome Python Game That Runs In Your Terminal](https://preettheman.medium.com/awesome-python-game-that-runs-in-your-terminal-f1cc9cbf8808?source=rss------data_science-5)
-- [Unsupervised K-Means Clustering in Python](https://moez-62905.medium.com/unsupervised-k-means-clustering-in-python-4c1229a73aba?source=rss------data_science-5)
-- [What’s So Important About Data?](https://medium.com/@ootundeduke/whats-so-important-about-data-9e84a712cc8d?source=rss------data_science-5)
-- [Data Visualization with Vanilla PHP: A introductory guide to charting with Chart.js and PHP/MySQL.](https://medium.com/@elzucky/data-visualization-with-vanilla-php-a-introductory-guide-to-charting-with-chart-js-and-php-mysql-f8e34a107c36?source=rss------data_science-5)
+- [JULIA VS PYTHON: QUAL É A MELHOR LINGUAGEM PARA CIÊNCIA DE DADOS?](https://medium.com/@gustavo.oceanografia/julia-vs-python-qual-%C3%A9-a-melhor-linguagem-para-ci%C3%AAncia-de-dados-a9bb9e2049bb?source=rss------data_science-5)
+- [The Perfect Resume — a Statistical Approach](https://medium.com/@ryan_91087/the-perfect-resume-a-statistical-approach-f77de79c75b1?source=rss------data_science-5)
+- [Finding the Maximum Area Under Points on a Curve in Python](https://towardsdatascience.com/finding-the-maximum-area-under-points-on-a-curve-in-python-1f38c5a8d2f1?source=rss------data_science-5)
+- [Analysis of 53 Part Speedrun: Part 13: Getting Stronger: The Badge Boost Glitch](https://medium.com/@100WordsofDataScience/analysis-of-53-part-speedrun-part-13-getting-stronger-the-badge-boost-glitch-9324b0864ce4?source=rss------data_science-5)
+- [How To Run Python Code On Your Android Or iPhone](https://preettheman.medium.com/how-to-run-python-code-on-your-android-or-iphone-28530b144231?source=rss------data_science-5)
+- [Analysis of 53 Part Speedrun: Part 12: Getting Stronger: Moves](https://medium.com/@100WordsofDataScience/analysis-of-53-part-speedrun-part-12-getting-stronger-moves-c06b2c4e2ea0?source=rss------data_science-5)
+- [Practicum Spotlight](https://medium.com/usf-msds/practicum-spotlight-fa9a0cb0668?source=rss------data_science-5)
+- [The Fastest Programming Languages](https://preettheman.medium.com/the-fastest-programming-languages-865cd722bc6b?source=rss------data_science-5)
+- [Time Series Forecasting of previous years UPI datasets&lpar;2016–2021&rpar;](https://medium.com/@muskanpreet007/time-series-forecasting-of-previous-years-upi-datasets-2016-2021-1f3f1a602d8b?source=rss------data_science-5)
+- [Building Blocks of Data Warehouse](https://bpbonline.medium.com/building-blocks-of-data-warehouse-c6cf4ebc489b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
