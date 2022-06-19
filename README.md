@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [JULIA VS PYTHON: QUAL É A MELHOR LINGUAGEM PARA CIÊNCIA DE DADOS?](https://medium.com/@gustavo.oceanografia/julia-vs-python-qual-%C3%A9-a-melhor-linguagem-para-ci%C3%AAncia-de-dados-a9bb9e2049bb?source=rss------data_science-5)
-- [The Perfect Resume — a Statistical Approach](https://medium.com/@ryan_91087/the-perfect-resume-a-statistical-approach-f77de79c75b1?source=rss------data_science-5)
-- [Finding the Maximum Area Under Points on a Curve in Python](https://towardsdatascience.com/finding-the-maximum-area-under-points-on-a-curve-in-python-1f38c5a8d2f1?source=rss------data_science-5)
-- [Analysis of 53 Part Speedrun: Part 13: Getting Stronger: The Badge Boost Glitch](https://medium.com/@100WordsofDataScience/analysis-of-53-part-speedrun-part-13-getting-stronger-the-badge-boost-glitch-9324b0864ce4?source=rss------data_science-5)
-- [How To Run Python Code On Your Android Or iPhone](https://preettheman.medium.com/how-to-run-python-code-on-your-android-or-iphone-28530b144231?source=rss------data_science-5)
-- [Analysis of 53 Part Speedrun: Part 12: Getting Stronger: Moves](https://medium.com/@100WordsofDataScience/analysis-of-53-part-speedrun-part-12-getting-stronger-moves-c06b2c4e2ea0?source=rss------data_science-5)
-- [Practicum Spotlight](https://medium.com/usf-msds/practicum-spotlight-fa9a0cb0668?source=rss------data_science-5)
-- [The Fastest Programming Languages](https://preettheman.medium.com/the-fastest-programming-languages-865cd722bc6b?source=rss------data_science-5)
-- [Time Series Forecasting of previous years UPI datasets&lpar;2016–2021&rpar;](https://medium.com/@muskanpreet007/time-series-forecasting-of-previous-years-upi-datasets-2016-2021-1f3f1a602d8b?source=rss------data_science-5)
-- [Building Blocks of Data Warehouse](https://bpbonline.medium.com/building-blocks-of-data-warehouse-c6cf4ebc489b?source=rss------data_science-5)
+- [Exploring Graph Cellular Automata](https://towardsdatascience.com/exploring-graph-cellular-automata-c9d22b4abe42?source=rss------data_science-5)
+- [4 Automation Projects in Python You Can Finish in a Weekend](https://medium.com/geekculture/4-automation-projects-in-python-you-can-finish-in-a-weekend-edd2b389c8e5?source=rss------data_science-5)
+- [The US is Changing the CHARGER on your iPhone!!!](https://medium.com/codex/the-us-is-changing-the-charger-on-your-iphone-986d7a41c570?source=rss------data_science-5)
+- [PYTHON — LİSTE DİĞER İŞLEMLER](https://medium.com/@01yildizmustafa/python-li%CC%87ste-di%CC%87%C4%9Fer-i%CC%87%C5%9Flemler-cde2c1607fae?source=rss------data_science-5)
+- [How to Add New Tokens to a Transformer Model Vocabulary?](https://medium.com/@angelinayang_41679/how-to-add-new-tokens-to-a-transformer-model-vocabulary-da778f99f910?source=rss------data_science-5)
+- [Python for Data Science and Machine Learning Bootcamp](https://itcertifications.medium.com/python-for-data-science-and-machine-learning-bootcamp-58c11be97f9a?source=rss------data_science-5)
+- [8 Tips for Creating a Compelling Presentation for Data Science](https://towardsdatascience.com/8-tips-for-creating-a-compelling-presentation-for-data-science-dd48c09683b0?source=rss------data_science-5)
+- [Pivoting life](https://medium.com/@orlandovilar/pivoting-life-54da36d6846a?source=rss------data_science-5)
+- [Classifying Bird Sounds: part 2](https://medium.com/@j622amilah/classifying-bird-sounds-part-2-54b45dd127c7?source=rss------data_science-5)
+- [Python ou R qual escolher para Analise de Dados ou Ciência de Dados.](https://medium.com/@blakinston21/python-ou-r-qual-escolher-para-analise-de-dados-ou-ci%C3%AAncia-de-dados-7d035b947cb3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
