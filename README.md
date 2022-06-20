@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Exploring Graph Cellular Automata](https://towardsdatascience.com/exploring-graph-cellular-automata-c9d22b4abe42?source=rss------data_science-5)
-- [4 Automation Projects in Python You Can Finish in a Weekend](https://medium.com/geekculture/4-automation-projects-in-python-you-can-finish-in-a-weekend-edd2b389c8e5?source=rss------data_science-5)
-- [The US is Changing the CHARGER on your iPhone!!!](https://medium.com/codex/the-us-is-changing-the-charger-on-your-iphone-986d7a41c570?source=rss------data_science-5)
-- [PYTHON — LİSTE DİĞER İŞLEMLER](https://medium.com/@01yildizmustafa/python-li%CC%87ste-di%CC%87%C4%9Fer-i%CC%87%C5%9Flemler-cde2c1607fae?source=rss------data_science-5)
-- [How to Add New Tokens to a Transformer Model Vocabulary?](https://medium.com/@angelinayang_41679/how-to-add-new-tokens-to-a-transformer-model-vocabulary-da778f99f910?source=rss------data_science-5)
-- [Python for Data Science and Machine Learning Bootcamp](https://itcertifications.medium.com/python-for-data-science-and-machine-learning-bootcamp-58c11be97f9a?source=rss------data_science-5)
-- [8 Tips for Creating a Compelling Presentation for Data Science](https://towardsdatascience.com/8-tips-for-creating-a-compelling-presentation-for-data-science-dd48c09683b0?source=rss------data_science-5)
-- [Pivoting life](https://medium.com/@orlandovilar/pivoting-life-54da36d6846a?source=rss------data_science-5)
-- [Classifying Bird Sounds: part 2](https://medium.com/@j622amilah/classifying-bird-sounds-part-2-54b45dd127c7?source=rss------data_science-5)
-- [Python ou R qual escolher para Analise de Dados ou Ciência de Dados.](https://medium.com/@blakinston21/python-ou-r-qual-escolher-para-analise-de-dados-ou-ci%C3%AAncia-de-dados-7d035b947cb3?source=rss------data_science-5)
+- [5 Must-Do Error Analysis Before You Put Your Model in Production](https://medium.com/geekculture/5-must-do-error-analysis-before-you-put-your-model-in-production-ee370ffe746a?source=rss------data_science-5)
+- [Checking and cleaning data in Python with Pandas](https://medium.com/@alestamm/checking-and-cleaning-data-in-python-with-pandas-c955f45f0f7?source=rss------data_science-5)
+- [Explainable AI with PDP &lpar;Partial Dependence Plot&rpar;](https://abhishek-maheshwarappa.medium.com/explainable-ai-with-pdp-partial-dependence-plot-fecf09b0e947?source=rss------data_science-5)
+- [Multiple Time Series Forecasting in Python](https://moez-62905.medium.com/multiple-time-series-forecasting-in-python-fab0a8a1afdb?source=rss------data_science-5)
+- [Learning R for data manipulation and data analysis: Guide to Non-programmers](https://medium.com/@agirmaus/learning-r-for-data-manipulation-and-data-analysis-guide-to-non-programmers-693c2b17b36a?source=rss------data_science-5)
+- [DALL·E mini Explained with Demo](https://medium.com/@r3d_robot/dall-e-mini-explained-with-demo-144d6e2d39dc?source=rss------data_science-5)
+- [Business Intelligence: 
+ The Friend of MSMEs](https://medium.com/@tariqu.mohammad/business-intelligence-the-friend-of-msmes-79ad4b848939?source=rss------data_science-5)
+- [Google Lens, my private translator!](https://khalidadouibi.medium.com/google-lens-my-private-translator-f652fb08a3b0?source=rss------data_science-5)
+- [ANÁLISE E PREVISÃO DO CHURN DE CLIENTES EM UM BANCO [PARTE 3]](https://medium.com/@lucasfonsecamller/an%C3%A1lise-e-previs%C3%A3o-do-churn-de-clientes-em-um-banco-parte-3-1c06221895a4?source=rss------data_science-5)
+- [Masking Policy or Column level security in Snowflake.](https://datageeks.medium.com/masking-policy-or-column-level-security-in-snowflake-12a2374b0e45?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
