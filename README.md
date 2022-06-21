@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [5 Must-Do Error Analysis Before You Put Your Model in Production](https://medium.com/geekculture/5-must-do-error-analysis-before-you-put-your-model-in-production-ee370ffe746a?source=rss------data_science-5)
-- [Checking and cleaning data in Python with Pandas](https://medium.com/@alestamm/checking-and-cleaning-data-in-python-with-pandas-c955f45f0f7?source=rss------data_science-5)
-- [Explainable AI with PDP &lpar;Partial Dependence Plot&rpar;](https://abhishek-maheshwarappa.medium.com/explainable-ai-with-pdp-partial-dependence-plot-fecf09b0e947?source=rss------data_science-5)
-- [Multiple Time Series Forecasting in Python](https://moez-62905.medium.com/multiple-time-series-forecasting-in-python-fab0a8a1afdb?source=rss------data_science-5)
-- [Learning R for data manipulation and data analysis: Guide to Non-programmers](https://medium.com/@agirmaus/learning-r-for-data-manipulation-and-data-analysis-guide-to-non-programmers-693c2b17b36a?source=rss------data_science-5)
-- [DALL·E mini Explained with Demo](https://medium.com/@r3d_robot/dall-e-mini-explained-with-demo-144d6e2d39dc?source=rss------data_science-5)
-- [Business Intelligence: 
- The Friend of MSMEs](https://medium.com/@tariqu.mohammad/business-intelligence-the-friend-of-msmes-79ad4b848939?source=rss------data_science-5)
-- [Google Lens, my private translator!](https://khalidadouibi.medium.com/google-lens-my-private-translator-f652fb08a3b0?source=rss------data_science-5)
-- [ANÁLISE E PREVISÃO DO CHURN DE CLIENTES EM UM BANCO [PARTE 3]](https://medium.com/@lucasfonsecamller/an%C3%A1lise-e-previs%C3%A3o-do-churn-de-clientes-em-um-banco-parte-3-1c06221895a4?source=rss------data_science-5)
-- [Masking Policy or Column level security in Snowflake.](https://datageeks.medium.com/masking-policy-or-column-level-security-in-snowflake-12a2374b0e45?source=rss------data_science-5)
+- [From top LSP in Korea to language-data-for-AI services provider](https://medium.com/@BAVL/from-top-lsp-in-korea-to-language-data-for-ai-services-provider-a3a2c4b32bee?source=rss------data_science-5)
+- [“DEAR DATA”](https://medium.com/@mehraanshita03/dear-data-2d7f42f1130e?source=rss------data_science-5)
+- [Hedging Through Inverse ETFs](https://medium.com/@monica.claire.w/hedging-through-inverse-etfs-af723750d948?source=rss------data_science-5)
+- [Polyglot Data Science](https://medium.com/@scientist_63895/polyglot-data-science-2dcfc6b6d131?source=rss------data_science-5)
+- [FANG Data Scientist Interview Questions and Answers](https://pub.towardsai.net/fang-data-scientist-interview-questions-and-answers-8275d5c92378?source=rss------data_science-5)
+- [Data Careers — Explained](https://pub.towardsai.net/data-careers-explained-69b0b7c8841f?source=rss------data_science-5)
+- [How to install Python 3.10.5 on Windows 10 / Windows 11](https://preettheman.medium.com/how-to-install-python-3-10-5-on-windows-10-windows-11-28846fd81491?source=rss------data_science-5)
+- [Install Python into Mac / Windows / Linux Machine.](https://g-dhasade16.medium.com/1-install-python-into-mac-windows-linux-machine-84a51af0bf9b?source=rss------data_science-5)
+- [Apple silicon M1 for the quantum physicist](https://alexaldo.medium.com/apple-silicon-m1-for-the-quantum-physicist-4f101ea99cf4?source=rss------data_science-5)
+- [Better Python Programming for Data Scientists, Part 1: Python Fundamentals](https://medium.com/the-data-nerd/better-python-programming-for-data-scientists-part-1-python-fundamentals-5b76bc7d9000?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
