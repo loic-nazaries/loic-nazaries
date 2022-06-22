@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [From top LSP in Korea to language-data-for-AI services provider](https://medium.com/@BAVL/from-top-lsp-in-korea-to-language-data-for-ai-services-provider-a3a2c4b32bee?source=rss------data_science-5)
-- [“DEAR DATA”](https://medium.com/@mehraanshita03/dear-data-2d7f42f1130e?source=rss------data_science-5)
-- [Hedging Through Inverse ETFs](https://medium.com/@monica.claire.w/hedging-through-inverse-etfs-af723750d948?source=rss------data_science-5)
-- [Polyglot Data Science](https://medium.com/@scientist_63895/polyglot-data-science-2dcfc6b6d131?source=rss------data_science-5)
-- [FANG Data Scientist Interview Questions and Answers](https://pub.towardsai.net/fang-data-scientist-interview-questions-and-answers-8275d5c92378?source=rss------data_science-5)
-- [Data Careers — Explained](https://pub.towardsai.net/data-careers-explained-69b0b7c8841f?source=rss------data_science-5)
-- [How to install Python 3.10.5 on Windows 10 / Windows 11](https://preettheman.medium.com/how-to-install-python-3-10-5-on-windows-10-windows-11-28846fd81491?source=rss------data_science-5)
-- [Install Python into Mac / Windows / Linux Machine.](https://g-dhasade16.medium.com/1-install-python-into-mac-windows-linux-machine-84a51af0bf9b?source=rss------data_science-5)
-- [Apple silicon M1 for the quantum physicist](https://alexaldo.medium.com/apple-silicon-m1-for-the-quantum-physicist-4f101ea99cf4?source=rss------data_science-5)
-- [Better Python Programming for Data Scientists, Part 1: Python Fundamentals](https://medium.com/the-data-nerd/better-python-programming-for-data-scientists-part-1-python-fundamentals-5b76bc7d9000?source=rss------data_science-5)
+- [How to do Clustering Analysis in Microsoft Power BI with two lines of Python code?](https://moez-62905.medium.com/how-to-do-clustering-analysis-in-microsoft-power-bi-with-two-lines-of-python-code-b204e12dc592?source=rss------data_science-5)
+- [Is Your Data Team Stuck Fighting Fires? Maybe They Should Be.](https://towardsdatascience.com/is-your-data-team-stuck-fighting-fires-maybe-they-should-be-261fb10b0434?source=rss------data_science-5)
+- [Why Lakehouse over Data warehouse](https://medium.com/@abraham.pabbathi/why-lakehouse-over-data-warehouse-121cfc3e24ea?source=rss------data_science-5)
+- [Best way to approach Leetcode problems &lpar;with Python&rpar;](https://medium.com/codex/best-way-to-approach-leetcode-problems-with-python-cdc1922b20ab?source=rss------data_science-5)
+- [Automated Shutdown of Amazon Sagemaker Studio Applications](https://medium.com/my-journey-towards-data-science/automated-shutdown-of-amazon-sagemaker-studio-applications-dde1b215c88c?source=rss------data_science-5)
+- [Batch Vs Online Learning](https://medium.com/@ismailouahbi169/batch-vs-online-learning-b36d10c8376e?source=rss------data_science-5)
+- [BigQuery now supporting Query Queues](https://medium.com/codex/bigquery-now-supporting-query-queues-378a65fdc9c1?source=rss------data_science-5)
+- [Is My Model Really Better?](https://towardsdatascience.com/is-my-model-really-better-560e729f81d2?source=rss------data_science-5)
+- [Strong Correlation of Wastewater COVID-19 Signal to Hospitalization and Death](https://towardsdatascience.com/strong-correlation-of-wastewater-covid-19-signal-to-hospitalization-and-death-fc33eaf52a23?source=rss------data_science-5)
+- [Five Reasons Why You Should &lpar;Try to&rpar; Be Interested in Tableau’s Sample Superstore Dataset](https://towardsdatascience.com/five-reasons-why-you-should-try-to-be-interested-in-tableaus-sample-superstore-dataset-4b529ed6c7ee?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
