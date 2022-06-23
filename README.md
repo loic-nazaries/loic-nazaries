@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to do Clustering Analysis in Microsoft Power BI with two lines of Python code?](https://moez-62905.medium.com/how-to-do-clustering-analysis-in-microsoft-power-bi-with-two-lines-of-python-code-b204e12dc592?source=rss------data_science-5)
-- [Is Your Data Team Stuck Fighting Fires? Maybe They Should Be.](https://towardsdatascience.com/is-your-data-team-stuck-fighting-fires-maybe-they-should-be-261fb10b0434?source=rss------data_science-5)
-- [Why Lakehouse over Data warehouse](https://medium.com/@abraham.pabbathi/why-lakehouse-over-data-warehouse-121cfc3e24ea?source=rss------data_science-5)
-- [Best way to approach Leetcode problems &lpar;with Python&rpar;](https://medium.com/codex/best-way-to-approach-leetcode-problems-with-python-cdc1922b20ab?source=rss------data_science-5)
-- [Automated Shutdown of Amazon Sagemaker Studio Applications](https://medium.com/my-journey-towards-data-science/automated-shutdown-of-amazon-sagemaker-studio-applications-dde1b215c88c?source=rss------data_science-5)
-- [Batch Vs Online Learning](https://medium.com/@ismailouahbi169/batch-vs-online-learning-b36d10c8376e?source=rss------data_science-5)
-- [BigQuery now supporting Query Queues](https://medium.com/codex/bigquery-now-supporting-query-queues-378a65fdc9c1?source=rss------data_science-5)
-- [Is My Model Really Better?](https://towardsdatascience.com/is-my-model-really-better-560e729f81d2?source=rss------data_science-5)
-- [Strong Correlation of Wastewater COVID-19 Signal to Hospitalization and Death](https://towardsdatascience.com/strong-correlation-of-wastewater-covid-19-signal-to-hospitalization-and-death-fc33eaf52a23?source=rss------data_science-5)
-- [Five Reasons Why You Should &lpar;Try to&rpar; Be Interested in Tableau’s Sample Superstore Dataset](https://towardsdatascience.com/five-reasons-why-you-should-try-to-be-interested-in-tableaus-sample-superstore-dataset-4b529ed6c7ee?source=rss------data_science-5)
+- [A Tour of R Packages: Tutorial Package “swirl”](https://medium.com/@agbolaboridunsin/a-tour-of-r-packages-tutorial-package-swirl-ab560b86f418?source=rss------data_science-5)
+- [Building a PostgreSQL Database with Python](https://medium.com/@dan_bishop/building-a-postgresql-database-with-python-896c0551811a?source=rss------data_science-5)
+- [Predicting Credit Card Approvals](https://medium.com/@helennpham0229/predicting-credit-card-approvals-6b7fef88d39?source=rss------data_science-5)
+- [How Wayfinding in Data Visualization Enables Deeper Exploration](https://medium.com/geekculture/how-wayfinding-in-data-visualization-enables-deeper-exploration-552444a87a8b?source=rss------data_science-5)
+- [Baby Introduction to GLM](https://medium.com/@jimmykwon_39640/baby-introduction-to-glm-6db246241422?source=rss------data_science-5)
+- [BoxPlot — A ggplot2 graphics](https://medium.com/@agbolaboridunsin/boxplot-a-ggplot2-graphics-6ff8d972ead7?source=rss------data_science-5)
+- [Machine Learning for Data Engineers](https://medium.com/@kaskada/machine-learning-for-data-engineers-395e611c260e?source=rss------data_science-5)
+- [Support Vector Machines &lpar;SVM&rpar;](https://medium.com/@gajendra.k.s/support-vector-machines-svm-41d8756eb693?source=rss------data_science-5)
+- [The Implementation of SQL for Data Science &lpar;Case Study&rpar;](https://medium.com/@zaidanffaruq/the-implementation-of-sql-for-data-science-case-study-2d61cda6fe07?source=rss------data_science-5)
+- [Optimize your Market Planning using psychographics!](https://medium.com/@sunsettio/optimize-your-market-planning-using-psychographics-bbc404c2acbd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
