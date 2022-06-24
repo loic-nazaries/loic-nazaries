@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Tour of R Packages: Tutorial Package “swirl”](https://medium.com/@agbolaboridunsin/a-tour-of-r-packages-tutorial-package-swirl-ab560b86f418?source=rss------data_science-5)
-- [Building a PostgreSQL Database with Python](https://medium.com/@dan_bishop/building-a-postgresql-database-with-python-896c0551811a?source=rss------data_science-5)
-- [Predicting Credit Card Approvals](https://medium.com/@helennpham0229/predicting-credit-card-approvals-6b7fef88d39?source=rss------data_science-5)
-- [How Wayfinding in Data Visualization Enables Deeper Exploration](https://medium.com/geekculture/how-wayfinding-in-data-visualization-enables-deeper-exploration-552444a87a8b?source=rss------data_science-5)
-- [Baby Introduction to GLM](https://medium.com/@jimmykwon_39640/baby-introduction-to-glm-6db246241422?source=rss------data_science-5)
-- [BoxPlot — A ggplot2 graphics](https://medium.com/@agbolaboridunsin/boxplot-a-ggplot2-graphics-6ff8d972ead7?source=rss------data_science-5)
-- [Machine Learning for Data Engineers](https://medium.com/@kaskada/machine-learning-for-data-engineers-395e611c260e?source=rss------data_science-5)
-- [Support Vector Machines &lpar;SVM&rpar;](https://medium.com/@gajendra.k.s/support-vector-machines-svm-41d8756eb693?source=rss------data_science-5)
-- [The Implementation of SQL for Data Science &lpar;Case Study&rpar;](https://medium.com/@zaidanffaruq/the-implementation-of-sql-for-data-science-case-study-2d61cda6fe07?source=rss------data_science-5)
-- [Optimize your Market Planning using psychographics!](https://medium.com/@sunsettio/optimize-your-market-planning-using-psychographics-bbc404c2acbd?source=rss------data_science-5)
+- [Toolips: The Coolest Web-Development Framework You’ve Never Heard Of](https://medium.com/chifi-media/toolips-the-coolest-web-development-framework-youve-never-heard-of-dd23d8d81c7a?source=rss------data_science-5)
+- [Data platform 2022: Transforming bytes to business insights](https://medium.com/coupang-engineering/data-platform-2022-transforming-bytes-to-business-insights-9885ab9dce37?source=rss------data_science-5)
+- [Data Science: o começo de uma nova jornada.](https://medium.com/@marcusvinicius./data-science-o-come%C3%A7o-de-uma-nova-jornada-9bd11c97f111?source=rss------data_science-5)
+- [How to use CVR as an objective in multi-armed bandit experiments](https://medium.com/@znwang25/how-to-use-cvr-as-an-objective-in-multi-armed-bandit-experiments-4dfd2ab48a24?source=rss------data_science-5)
+- [Palantir to the Moon? Bank of America Gave A ‘BUY’ Rating](https://medium.datadriveninvestor.com/palantir-to-the-moon-bank-of-america-gave-a-buy-rating-55dd9e42ddde?source=rss------data_science-5)
+- [How to Airbnb in Seattle](https://medium.com/@tjrones23/how-to-airbnb-in-seattle-ba49c82fbfdb?source=rss------data_science-5)
+- [How social media is affecting the mass and changing peoples’ ideologies.](https://nisarg-bhatt.medium.com/how-social-media-is-affecting-the-mass-and-changing-peoples-ideologies-70ba0727d597?source=rss------data_science-5)
+- [Are there ways to time your investment?](https://nwaigbonnamdi.medium.com/are-there-ways-to-time-your-investment-345d8fc20f8d?source=rss------data_science-5)
+- [How long does it take to make a Udemy course?](https://levelup.gitconnected.com/how-long-does-it-take-to-make-a-udemy-course-6db85587b7af?source=rss------data_science-5)
+- [RFM Analysis with Python](https://medium.com/@arinmurat/rfm-analysis-with-python-ac2d809c727a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
