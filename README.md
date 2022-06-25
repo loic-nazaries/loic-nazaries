@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Toolips: The Coolest Web-Development Framework You’ve Never Heard Of](https://medium.com/chifi-media/toolips-the-coolest-web-development-framework-youve-never-heard-of-dd23d8d81c7a?source=rss------data_science-5)
-- [Data platform 2022: Transforming bytes to business insights](https://medium.com/coupang-engineering/data-platform-2022-transforming-bytes-to-business-insights-9885ab9dce37?source=rss------data_science-5)
-- [Data Science: o começo de uma nova jornada.](https://medium.com/@marcusvinicius./data-science-o-come%C3%A7o-de-uma-nova-jornada-9bd11c97f111?source=rss------data_science-5)
-- [How to use CVR as an objective in multi-armed bandit experiments](https://medium.com/@znwang25/how-to-use-cvr-as-an-objective-in-multi-armed-bandit-experiments-4dfd2ab48a24?source=rss------data_science-5)
-- [Palantir to the Moon? Bank of America Gave A ‘BUY’ Rating](https://medium.datadriveninvestor.com/palantir-to-the-moon-bank-of-america-gave-a-buy-rating-55dd9e42ddde?source=rss------data_science-5)
-- [How to Airbnb in Seattle](https://medium.com/@tjrones23/how-to-airbnb-in-seattle-ba49c82fbfdb?source=rss------data_science-5)
-- [How social media is affecting the mass and changing peoples’ ideologies.](https://nisarg-bhatt.medium.com/how-social-media-is-affecting-the-mass-and-changing-peoples-ideologies-70ba0727d597?source=rss------data_science-5)
-- [Are there ways to time your investment?](https://nwaigbonnamdi.medium.com/are-there-ways-to-time-your-investment-345d8fc20f8d?source=rss------data_science-5)
-- [How long does it take to make a Udemy course?](https://levelup.gitconnected.com/how-long-does-it-take-to-make-a-udemy-course-6db85587b7af?source=rss------data_science-5)
-- [RFM Analysis with Python](https://medium.com/@arinmurat/rfm-analysis-with-python-ac2d809c727a?source=rss------data_science-5)
+- [StrangeR things: Visualizando Datos de Fútbol Soccer con R… ¿En una Cancha?](https://cosmoduende.medium.com/stranger-things-visualizando-datos-de-f%C3%BAtbol-soccer-con-r-en-una-cancha-7cfd863d82d7?source=rss------data_science-5)
+- [Best Platforms to Learn Data Science and Machine Learning in 2022](https://medium.com/@chetandekate/best-platforms-to-learn-data-science-and-machine-learning-in-2022-b9898685e45d?source=rss------data_science-5)
+- [Deep Learning Interview Questions &amp; Answers](https://youssefraafat57.medium.com/deep-learning-interview-questions-answers-439163d3fc02?source=rss------data_science-5)
+- [Machine Learning Interview Questions &amp; Answers](https://youssefraafat57.medium.com/machine-learning-interview-questions-answers-7265e34d07cc?source=rss------data_science-5)
+- [Proyecto completo-Data science: Abandonos de clientes en banco, utilizando diferentes estrategias…](https://medium.com/@fe.alvarezdiaz/proyecto-completo-data-science-abandonos-de-clientes-en-banco-utilizando-diferentes-estrategias-96839380741b?source=rss------data_science-5)
+- [Things one should know before starting with MLOps](https://medium.com/@datasciencewizards/things-one-should-know-before-starting-with-mlops-d3bddfbe4da?source=rss------data_science-5)
+- [A Simple Definition of Vectors](https://medium.com/@100WordsofDataScience/a-simple-definition-of-vectors-ebae2265e8fe?source=rss------data_science-5)
+- [Dazzling Packages For Your Julia REPL](https://medium.com/chifi-media/dazzling-packages-for-your-julia-repl-6cd6da13eb77?source=rss------data_science-5)
+- [Multicollinearity: Problem, or not?](https://medium.com/@dataforyou/multicollinearity-problem-or-not-d4bd7a9cfb91?source=rss------data_science-5)
+- [Müşteri Yaşam Boyu Değeri Nedir? Nasıl Hesaplanır ve Tahmin Edilir? &lpar;Customer Lifetime Value&rpar;](https://serdartafrali.medium.com/m%C3%BC%C5%9Fteri-ya%C5%9Fam-boyu-de%C4%9Feri-nedir-nas%C4%B1l-hesaplan%C4%B1r-ve-tahmin-edilir-customer-lifetime-value-e49e1cf895dd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
