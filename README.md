@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [StrangeR things: Visualizando Datos de Fútbol Soccer con R… ¿En una Cancha?](https://cosmoduende.medium.com/stranger-things-visualizando-datos-de-f%C3%BAtbol-soccer-con-r-en-una-cancha-7cfd863d82d7?source=rss------data_science-5)
-- [Best Platforms to Learn Data Science and Machine Learning in 2022](https://medium.com/@chetandekate/best-platforms-to-learn-data-science-and-machine-learning-in-2022-b9898685e45d?source=rss------data_science-5)
-- [Deep Learning Interview Questions &amp; Answers](https://youssefraafat57.medium.com/deep-learning-interview-questions-answers-439163d3fc02?source=rss------data_science-5)
-- [Machine Learning Interview Questions &amp; Answers](https://youssefraafat57.medium.com/machine-learning-interview-questions-answers-7265e34d07cc?source=rss------data_science-5)
-- [Proyecto completo-Data science: Abandonos de clientes en banco, utilizando diferentes estrategias…](https://medium.com/@fe.alvarezdiaz/proyecto-completo-data-science-abandonos-de-clientes-en-banco-utilizando-diferentes-estrategias-96839380741b?source=rss------data_science-5)
-- [Things one should know before starting with MLOps](https://medium.com/@datasciencewizards/things-one-should-know-before-starting-with-mlops-d3bddfbe4da?source=rss------data_science-5)
-- [A Simple Definition of Vectors](https://medium.com/@100WordsofDataScience/a-simple-definition-of-vectors-ebae2265e8fe?source=rss------data_science-5)
-- [Dazzling Packages For Your Julia REPL](https://medium.com/chifi-media/dazzling-packages-for-your-julia-repl-6cd6da13eb77?source=rss------data_science-5)
-- [Multicollinearity: Problem, or not?](https://medium.com/@dataforyou/multicollinearity-problem-or-not-d4bd7a9cfb91?source=rss------data_science-5)
-- [Müşteri Yaşam Boyu Değeri Nedir? Nasıl Hesaplanır ve Tahmin Edilir? &lpar;Customer Lifetime Value&rpar;](https://serdartafrali.medium.com/m%C3%BC%C5%9Fteri-ya%C5%9Fam-boyu-de%C4%9Feri-nedir-nas%C4%B1l-hesaplan%C4%B1r-ve-tahmin-edilir-customer-lifetime-value-e49e1cf895dd?source=rss------data_science-5)
+- [Importing and cleaning Wikipedia tables in R](https://infoart.medium.com/importing-and-cleaning-wikipedia-tables-in-r-34a5c9ad076e?source=rss------data_science-5)
+- [AI Has Become Sentient](https://medium.com/codex/ai-has-become-sentient-15ffe8bc392c?source=rss------data_science-5)
+- [Pandas — Manipulação de dados](https://medium.com/@leticia.slopes/pandas-manipula%C3%A7%C3%A3o-de-dados-41c926054f78?source=rss------data_science-5)
+- [SHAP values: Machine Learning interpretability and feature selection made easy.](https://medium.com/@armand-sauzay/shap-values-machine-learning-interpretability-and-feature-selection-made-easy-feb8765f815b?source=rss------data_science-5)
+- [Getting an M1 &lpar;Apple Silicon&rpar; MacBook ready for Data Science and Python programming](https://medium.com/@renejra/getting-an-m1-apple-silicon-macbook-ready-for-data-science-and-python-programming-82f6ac50c8f8?source=rss------data_science-5)
+- [Exploring Python Data Tools](https://medium.com/@amendahawi/python-data-analysis-tools-77c1a431fa4e?source=rss------data_science-5)
+- [Tips to Break into the Data Science Field Tip #1](https://anonymouspenguin.medium.com/tips-to-break-into-the-data-science-field-tip-1-3f85ba516843?source=rss------data_science-5)
+- [How to study to become a Data Analyst?](https://erhankul.medium.com/how-to-study-to-become-a-data-analyst-287d69a08004?source=rss------data_science-5)
+- [Why should you be a Data Scientist?](https://medium.com/@ktsorensen99/why-should-you-be-a-data-scientist-62caec97ec30?source=rss------data_science-5)
+- [AI &amp; ML meetup at Microsoft Reactor, Bangalore](https://medium.com/@avdhesh.kumar1221/ai-ml-meetup-at-microsoft-reactor-bangalore-47511e9e6cc1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
