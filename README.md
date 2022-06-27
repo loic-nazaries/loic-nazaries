@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Importing and cleaning Wikipedia tables in R](https://infoart.medium.com/importing-and-cleaning-wikipedia-tables-in-r-34a5c9ad076e?source=rss------data_science-5)
-- [AI Has Become Sentient](https://medium.com/codex/ai-has-become-sentient-15ffe8bc392c?source=rss------data_science-5)
-- [Pandas — Manipulação de dados](https://medium.com/@leticia.slopes/pandas-manipula%C3%A7%C3%A3o-de-dados-41c926054f78?source=rss------data_science-5)
-- [SHAP values: Machine Learning interpretability and feature selection made easy.](https://medium.com/@armand-sauzay/shap-values-machine-learning-interpretability-and-feature-selection-made-easy-feb8765f815b?source=rss------data_science-5)
-- [Getting an M1 &lpar;Apple Silicon&rpar; MacBook ready for Data Science and Python programming](https://medium.com/@renejra/getting-an-m1-apple-silicon-macbook-ready-for-data-science-and-python-programming-82f6ac50c8f8?source=rss------data_science-5)
-- [Exploring Python Data Tools](https://medium.com/@amendahawi/python-data-analysis-tools-77c1a431fa4e?source=rss------data_science-5)
-- [Tips to Break into the Data Science Field Tip #1](https://anonymouspenguin.medium.com/tips-to-break-into-the-data-science-field-tip-1-3f85ba516843?source=rss------data_science-5)
-- [How to study to become a Data Analyst?](https://erhankul.medium.com/how-to-study-to-become-a-data-analyst-287d69a08004?source=rss------data_science-5)
-- [Why should you be a Data Scientist?](https://medium.com/@ktsorensen99/why-should-you-be-a-data-scientist-62caec97ec30?source=rss------data_science-5)
-- [AI &amp; ML meetup at Microsoft Reactor, Bangalore](https://medium.com/@avdhesh.kumar1221/ai-ml-meetup-at-microsoft-reactor-bangalore-47511e9e6cc1?source=rss------data_science-5)
+- [Eigen intuitions: understanding eigenvectors and eigenvalues](https://peterbbryan.medium.com/eigen-intuitions-understanding-eigenvectors-and-eigenvalues-630e9ef1f719?source=rss------data_science-5)
+- [Why and How to normalize a database &lpar;with simple example&rpar;?](https://medium.com/@24littledino/why-and-how-to-normalize-a-database-with-simple-example-7932a662caa5?source=rss------data_science-5)
+- [Scalable and Blazing Fast Similarity Search With Milvus Vector Database](https://pub.towardsai.net/scalable-and-blazing-fast-similarity-search-with-milvus-vector-database-d221706e605a?source=rss------data_science-5)
+- [Some Data Science Stats and Facts](https://medium.com/@anushka.pandhere10/some-data-science-stats-and-facts-24e0de970343?source=rss------data_science-5)
+- [28 Weekly Machine Learning Tricks And Resources That Are Pure Gems #1](https://towardsdatascience.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94?source=rss------data_science-5)
+- [Why you need a unified feature engine, not a unified compute model](https://medium.com/@kaskada/why-you-need-a-unified-feature-engine-not-a-unified-compute-model-3a4ef461e55e?source=rss------data_science-5)
+- [Training a Deep Q Learning Network for Connect 4](https://medium.com/@louisdhulst/training-a-deep-q-learning-network-for-connect-4-9694e56cb806?source=rss------data_science-5)
+- [How to Ace the Azure DP-100-Azure Data Scientist Associate Exam](https://medium.com/@Ahhassen/how-to-ace-the-azure-dp-100-azure-data-scientist-associate-exam-230581b72812?source=rss------data_science-5)
+- [Marketing Campaign Data Analysis](https://medium.com/@itorokoffi/marketing-campaign-data-analysis-14cb85ad1cea?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
