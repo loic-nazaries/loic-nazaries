@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Eigen intuitions: understanding eigenvectors and eigenvalues](https://peterbbryan.medium.com/eigen-intuitions-understanding-eigenvectors-and-eigenvalues-630e9ef1f719?source=rss------data_science-5)
-- [Why and How to normalize a database &lpar;with simple example&rpar;?](https://medium.com/@24littledino/why-and-how-to-normalize-a-database-with-simple-example-7932a662caa5?source=rss------data_science-5)
-- [Scalable and Blazing Fast Similarity Search With Milvus Vector Database](https://pub.towardsai.net/scalable-and-blazing-fast-similarity-search-with-milvus-vector-database-d221706e605a?source=rss------data_science-5)
-- [Some Data Science Stats and Facts](https://medium.com/@anushka.pandhere10/some-data-science-stats-and-facts-24e0de970343?source=rss------data_science-5)
-- [28 Weekly Machine Learning Tricks And Resources That Are Pure Gems #1](https://towardsdatascience.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94?source=rss------data_science-5)
-- [Why you need a unified feature engine, not a unified compute model](https://medium.com/@kaskada/why-you-need-a-unified-feature-engine-not-a-unified-compute-model-3a4ef461e55e?source=rss------data_science-5)
-- [Training a Deep Q Learning Network for Connect 4](https://medium.com/@louisdhulst/training-a-deep-q-learning-network-for-connect-4-9694e56cb806?source=rss------data_science-5)
-- [How to Ace the Azure DP-100-Azure Data Scientist Associate Exam](https://medium.com/@Ahhassen/how-to-ace-the-azure-dp-100-azure-data-scientist-associate-exam-230581b72812?source=rss------data_science-5)
-- [Marketing Campaign Data Analysis](https://medium.com/@itorokoffi/marketing-campaign-data-analysis-14cb85ad1cea?source=rss------data_science-5)
+- [OceanDAO Round 18 Results](https://blog.oceanprotocol.com/oceandao-round-18-results-64483769d38b?source=rss------data_science-5)
+- [Reporting the Impact of Your A/B Tests Correctly](https://towardsdatascience.com/reporting-the-impact-of-your-a-b-tests-correctly-3cdb15d60d79?source=rss------data_science-5)
+- [Classifying Music Genres with LightGBM](https://towardsdatascience.com/classifying-music-genres-with-lightgbm-17662035cf4e?source=rss------data_science-5)
+- [Why Data Science is not the sexiest job of the 21st century?](https://medium.com/@sheerazullah/why-data-science-is-not-the-sexiest-job-of-the-21st-century-cf78dd046887?source=rss------data_science-5)
+- [4 Powerful Rules for Better Data Science](https://towardsdatascience.com/4-powerful-rules-for-better-data-science-128bb51f6fd3?source=rss------data_science-5)
+- [Best API’s For R In 2022](https://preettheman.medium.com/best-apis-for-r-in-2022-b6b4a8f3f483?source=rss------data_science-5)
+- [Desmitificando a la Inteligencia Artificial](https://medium.com/@bertranddaniel/desmitificando-a-la-inteligencia-artificial-f58e657972d7?source=rss------data_science-5)
+- [Rendered.ai at CVPR 2022!](https://medium.com/renderedai/rendered-ai-at-cvpr-2022-76fe4aa8798e?source=rss------data_science-5)
+- [Regressão Linear, uma introdução.](https://medium.com/@gabsdados/regress%C3%A3o-linear-uma-introdu%C3%A7%C3%A3o-9e65d7aa7a44?source=rss------data_science-5)
+- [Multithreaded Server with Java RMI](https://colecrescas.medium.com/multithreaded-server-with-java-rmi-ced7f8eedd94?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
