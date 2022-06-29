@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [OceanDAO Round 18 Results](https://blog.oceanprotocol.com/oceandao-round-18-results-64483769d38b?source=rss------data_science-5)
-- [Reporting the Impact of Your A/B Tests Correctly](https://towardsdatascience.com/reporting-the-impact-of-your-a-b-tests-correctly-3cdb15d60d79?source=rss------data_science-5)
-- [Classifying Music Genres with LightGBM](https://towardsdatascience.com/classifying-music-genres-with-lightgbm-17662035cf4e?source=rss------data_science-5)
-- [Why Data Science is not the sexiest job of the 21st century?](https://medium.com/@sheerazullah/why-data-science-is-not-the-sexiest-job-of-the-21st-century-cf78dd046887?source=rss------data_science-5)
-- [4 Powerful Rules for Better Data Science](https://towardsdatascience.com/4-powerful-rules-for-better-data-science-128bb51f6fd3?source=rss------data_science-5)
-- [Best API’s For R In 2022](https://preettheman.medium.com/best-apis-for-r-in-2022-b6b4a8f3f483?source=rss------data_science-5)
-- [Desmitificando a la Inteligencia Artificial](https://medium.com/@bertranddaniel/desmitificando-a-la-inteligencia-artificial-f58e657972d7?source=rss------data_science-5)
-- [Rendered.ai at CVPR 2022!](https://medium.com/renderedai/rendered-ai-at-cvpr-2022-76fe4aa8798e?source=rss------data_science-5)
-- [Regressão Linear, uma introdução.](https://medium.com/@gabsdados/regress%C3%A3o-linear-uma-introdu%C3%A7%C3%A3o-9e65d7aa7a44?source=rss------data_science-5)
-- [Multithreaded Server with Java RMI](https://colecrescas.medium.com/multithreaded-server-with-java-rmi-ced7f8eedd94?source=rss------data_science-5)
+- [Gráficos de linha com Python](https://medium.com/@thedataponti/gr%C3%A1ficos-de-linha-com-python-e59d0060b5b4?source=rss------data_science-5)
+- [Crie sua própria maratona de dados](https://medium.com/@maricae26/crie-sua-pr%C3%B3pria-maratona-de-dados-b89e7e7f63b7?source=rss------data_science-5)
+- [Python 數據分析](https://medium.com/@azure.7uu/python-%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90-a7d6734d594e?source=rss------data_science-5)
+- [How With the Help of the Regression Model Cryptocurrency Prices Can Be Predicted?](https://pub.towardsai.net/how-with-the-help-of-the-regression-model-cryptocurrency-prices-can-be-predicted-d04b96b278c?source=rss------data_science-5)
+- [Variable Evaluation Within Exploratory Data Analysis](https://medium.com/@mehmetcaydin/variable-evaluation-within-exploratory-data-analysis-cdeecec02ecc?source=rss------data_science-5)
+- [Machine learning questions of the day — 6](https://medium.com/mlearning-ai/machine-learning-questions-of-the-day-6-a98516a8cc0b?source=rss------data_science-5)
+- [Why Python Is The Best Programming Language](https://preettheman.medium.com/why-python-is-the-best-programming-language-c39638225d68?source=rss------data_science-5)
+- [How to use data.table in R](https://arinbasu.medium.com/how-to-use-data-table-in-r-c2f6720c0b5b?source=rss------data_science-5)
+- [Como ser capaz de analisar dados te aproxima do sucesso](https://myriannovais.medium.com/como-ser-capaz-de-analisar-dados-te-aproxima-do-sucesso-cc85bb2d0c9d?source=rss------data_science-5)
+- [Introduction to Python](https://medium.com/quant-guild/introduction-to-python-576b7df67925?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
