@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Gráficos de linha com Python](https://medium.com/@thedataponti/gr%C3%A1ficos-de-linha-com-python-e59d0060b5b4?source=rss------data_science-5)
-- [Crie sua própria maratona de dados](https://medium.com/@maricae26/crie-sua-pr%C3%B3pria-maratona-de-dados-b89e7e7f63b7?source=rss------data_science-5)
-- [Python 數據分析](https://medium.com/@azure.7uu/python-%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90-a7d6734d594e?source=rss------data_science-5)
-- [How With the Help of the Regression Model Cryptocurrency Prices Can Be Predicted?](https://pub.towardsai.net/how-with-the-help-of-the-regression-model-cryptocurrency-prices-can-be-predicted-d04b96b278c?source=rss------data_science-5)
-- [Variable Evaluation Within Exploratory Data Analysis](https://medium.com/@mehmetcaydin/variable-evaluation-within-exploratory-data-analysis-cdeecec02ecc?source=rss------data_science-5)
-- [Machine learning questions of the day — 6](https://medium.com/mlearning-ai/machine-learning-questions-of-the-day-6-a98516a8cc0b?source=rss------data_science-5)
-- [Why Python Is The Best Programming Language](https://preettheman.medium.com/why-python-is-the-best-programming-language-c39638225d68?source=rss------data_science-5)
-- [How to use data.table in R](https://arinbasu.medium.com/how-to-use-data-table-in-r-c2f6720c0b5b?source=rss------data_science-5)
-- [Como ser capaz de analisar dados te aproxima do sucesso](https://myriannovais.medium.com/como-ser-capaz-de-analisar-dados-te-aproxima-do-sucesso-cc85bb2d0c9d?source=rss------data_science-5)
-- [Introduction to Python](https://medium.com/quant-guild/introduction-to-python-576b7df67925?source=rss------data_science-5)
+- [Dashboard de Viagens Corporativas](https://medium.com/@diegoeller/dashboard-de-viagens-corporativas-31c31214f053?source=rss------data_science-5)
+- [What Is A Data Lakehouse?](https://medium.com/@how2market/what-is-a-data-lakehouse-a152ad75ec31?source=rss------data_science-5)
+- [Linguistic Breakthrough!](https://medium.com/pat-inc/linguistic-breakthrough-4286c3658924?source=rss------data_science-5)
+- [WiMLDS NYC: June 2022 Newsletter](https://medium.com/wimlds-nyc-blog/wimlds-nyc-june-2022-newsletter-e911835255f6?source=rss------data_science-5)
+- [Talking Jupyter](https://medium.com/@peter.earl.stafford/talking-jupyter-3939e98c27d0?source=rss------data_science-5)
+- [What is data storytelling? Why data science needs storytellers](https://learningdaily.dev/what-is-data-storytelling-why-data-science-needs-storytellers-836799e05fbe?source=rss------data_science-5)
+- [Data Cleaning with Power BI &lpar;Part 1&rpar;](https://medium.com/@daudamubarolanrewaju/data-cleaning-with-power-bi-part-1-6625670592a6?source=rss------data_science-5)
+- [Why social media are following the Social Mining template?](https://medium.com/dao-labs/why-social-media-are-following-the-social-mining-template-9ace5155cecd?source=rss------data_science-5)
+- [Data Mining is different from Machine Learning](https://adithsreeram.medium.com/data-mining-is-different-from-machine-learning-a89ec3fd7cfc?source=rss------data_science-5)
+- [Which tool is the best to make a complete dataset?](https://becominghuman.ai/which-tool-is-the-best-to-make-a-complete-dataset-b3ce35df56d2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
