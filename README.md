@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Dashboard de Viagens Corporativas](https://medium.com/@diegoeller/dashboard-de-viagens-corporativas-31c31214f053?source=rss------data_science-5)
-- [What Is A Data Lakehouse?](https://medium.com/@how2market/what-is-a-data-lakehouse-a152ad75ec31?source=rss------data_science-5)
-- [Linguistic Breakthrough!](https://medium.com/pat-inc/linguistic-breakthrough-4286c3658924?source=rss------data_science-5)
-- [WiMLDS NYC: June 2022 Newsletter](https://medium.com/wimlds-nyc-blog/wimlds-nyc-june-2022-newsletter-e911835255f6?source=rss------data_science-5)
-- [Talking Jupyter](https://medium.com/@peter.earl.stafford/talking-jupyter-3939e98c27d0?source=rss------data_science-5)
-- [What is data storytelling? Why data science needs storytellers](https://learningdaily.dev/what-is-data-storytelling-why-data-science-needs-storytellers-836799e05fbe?source=rss------data_science-5)
-- [Data Cleaning with Power BI &lpar;Part 1&rpar;](https://medium.com/@daudamubarolanrewaju/data-cleaning-with-power-bi-part-1-6625670592a6?source=rss------data_science-5)
-- [Why social media are following the Social Mining template?](https://medium.com/dao-labs/why-social-media-are-following-the-social-mining-template-9ace5155cecd?source=rss------data_science-5)
-- [Data Mining is different from Machine Learning](https://adithsreeram.medium.com/data-mining-is-different-from-machine-learning-a89ec3fd7cfc?source=rss------data_science-5)
-- [Which tool is the best to make a complete dataset?](https://becominghuman.ai/which-tool-is-the-best-to-make-a-complete-dataset-b3ce35df56d2?source=rss------data_science-5)
+- [How to deploy H2O Wave app on Heroku](https://mathanrajsharma.medium.com/how-to-deploy-h2o-wave-app-on-heroku-2abe2240731c?source=rss------data_science-5)
+- [The 3 Segments in Data Science — and How to Land a Job in One of Them](https://medium.com/@karanberry/the-3-segments-in-data-science-and-how-to-land-a-job-in-one-of-them-3ef82e7178d?source=rss------data_science-5)
+- [How to Ace Your Data Engineer Interview in 2022 ft. Coding Round | Pokémon DEI Version](https://medium.com/plain-simple-software/how-to-ace-your-data-engineer-interview-in-2022-ft-coding-round-pok%C3%A9mon-dei-version-641ecd812ad2?source=rss------data_science-5)
+- [In Defense of “Python is Slow”](https://medium.com/geekculture/in-defense-of-python-is-slow-85cf38cb1a9e?source=rss------data_science-5)
+- [5 Entry-level jobs for data analysts that you can Apply For Without Experiential Background.](https://medium.com/@lisa08white/5-entry-level-jobs-for-data-analysts-that-you-can-apply-for-without-experiential-background-d91624a551fa?source=rss------data_science-5)
+- [It’s Dark and Earth Is Hot](https://medium.com/@larry.jackelen/its-dark-and-earth-is-hot-8a599e74a27e?source=rss------data_science-5)
+- [Reasons to Use R 3: You Already Know R](https://medium.com/@100WordsofDataScience/reasons-to-use-r-3-you-already-know-r-dbc0b6f8e84c?source=rss------data_science-5)
+- [Python tips and tricks: how to use lambda functions properly?](https://medium.com/@temoteclearningacademy/python-tips-and-tricks-how-to-use-lambda-functions-properly-59fc066b68d5?source=rss------data_science-5)
+- [¿Es efectivo mi modelo de Machine Learning?](https://medium.com/redbee/2-maneras-de-evaluar-tu-modelo-de-machine-learning-e47f9f73b91b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
