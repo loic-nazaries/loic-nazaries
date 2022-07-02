@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to deploy H2O Wave app on Heroku](https://mathanrajsharma.medium.com/how-to-deploy-h2o-wave-app-on-heroku-2abe2240731c?source=rss------data_science-5)
-- [The 3 Segments in Data Science — and How to Land a Job in One of Them](https://medium.com/@karanberry/the-3-segments-in-data-science-and-how-to-land-a-job-in-one-of-them-3ef82e7178d?source=rss------data_science-5)
-- [How to Ace Your Data Engineer Interview in 2022 ft. Coding Round | Pokémon DEI Version](https://medium.com/plain-simple-software/how-to-ace-your-data-engineer-interview-in-2022-ft-coding-round-pok%C3%A9mon-dei-version-641ecd812ad2?source=rss------data_science-5)
-- [In Defense of “Python is Slow”](https://medium.com/geekculture/in-defense-of-python-is-slow-85cf38cb1a9e?source=rss------data_science-5)
-- [5 Entry-level jobs for data analysts that you can Apply For Without Experiential Background.](https://medium.com/@lisa08white/5-entry-level-jobs-for-data-analysts-that-you-can-apply-for-without-experiential-background-d91624a551fa?source=rss------data_science-5)
-- [It’s Dark and Earth Is Hot](https://medium.com/@larry.jackelen/its-dark-and-earth-is-hot-8a599e74a27e?source=rss------data_science-5)
-- [Reasons to Use R 3: You Already Know R](https://medium.com/@100WordsofDataScience/reasons-to-use-r-3-you-already-know-r-dbc0b6f8e84c?source=rss------data_science-5)
-- [Python tips and tricks: how to use lambda functions properly?](https://medium.com/@temoteclearningacademy/python-tips-and-tricks-how-to-use-lambda-functions-properly-59fc066b68d5?source=rss------data_science-5)
-- [¿Es efectivo mi modelo de Machine Learning?](https://medium.com/redbee/2-maneras-de-evaluar-tu-modelo-de-machine-learning-e47f9f73b91b?source=rss------data_science-5)
+- [Setting up new Mac &lpar;Monterey&rpar; for Data Analyst](https://klaothongchan.medium.com/setting-up-new-mac-monterey-for-data-analyst-2baab734ccef?source=rss------data_science-5)
+- [Product Management is Pre-Science](https://cedw.medium.com/product-management-is-pre-science-70133c1d4a64?source=rss------data_science-5)
+- [Python Journey](https://medium.com/@victorccard/python-journey-819ef08b3b95?source=rss------data_science-5)
+- [SQL Questions with Detailed Answers &lpar;Step-by-Step&rpar;](https://medium.com/@anna.wu9222/sql-questions-with-detailed-answers-step-by-step-2459f6e110b?source=rss------data_science-5)
+- [Meta SQL Interview Questions](https://medium.com/@anna.wu9222/meta-sql-interview-questions-c340444bc92a?source=rss------data_science-5)
+- [Relative Risk vs Odds Ratio: Differences Explained](https://medium.com/@jimmykwon_39640/relative-risk-vs-odds-ratio-differences-explained-f2df2c57c04b?source=rss------data_science-5)
+- [3 Most Common SQL Interview Mistakes](https://medium.com/@anna.wu9222/3-most-common-sql-interview-mistakes-be593f36ca2a?source=rss------data_science-5)
+- [3 Most Common Amazon SQL Interview Questions and Answers](https://medium.com/@anna.wu9222/3-most-common-amazon-sql-interview-questions-and-answers-963e33ef27b1?source=rss------data_science-5)
+- [Three Graduated Methods To Get Internal Referrals For Data Science Positions](https://medium.com/geekculture/three-graduated-methods-to-get-internal-referrals-for-data-science-positions-901a9c940ea3?source=rss------data_science-5)
+- [Build a Robust Workflow to Visualize Trending GitHub Repositories in Python](https://towardsdatascience.com/build-a-robust-workflow-to-visualize-trending-github-repositories-in-python-98f2fc3e9a86?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
