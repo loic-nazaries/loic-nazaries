@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Setting up new Mac &lpar;Monterey&rpar; for Data Analyst](https://klaothongchan.medium.com/setting-up-new-mac-monterey-for-data-analyst-2baab734ccef?source=rss------data_science-5)
-- [Product Management is Pre-Science](https://cedw.medium.com/product-management-is-pre-science-70133c1d4a64?source=rss------data_science-5)
-- [Python Journey](https://medium.com/@victorccard/python-journey-819ef08b3b95?source=rss------data_science-5)
-- [SQL Questions with Detailed Answers &lpar;Step-by-Step&rpar;](https://medium.com/@anna.wu9222/sql-questions-with-detailed-answers-step-by-step-2459f6e110b?source=rss------data_science-5)
-- [Meta SQL Interview Questions](https://medium.com/@anna.wu9222/meta-sql-interview-questions-c340444bc92a?source=rss------data_science-5)
-- [Relative Risk vs Odds Ratio: Differences Explained](https://medium.com/@jimmykwon_39640/relative-risk-vs-odds-ratio-differences-explained-f2df2c57c04b?source=rss------data_science-5)
-- [3 Most Common SQL Interview Mistakes](https://medium.com/@anna.wu9222/3-most-common-sql-interview-mistakes-be593f36ca2a?source=rss------data_science-5)
-- [3 Most Common Amazon SQL Interview Questions and Answers](https://medium.com/@anna.wu9222/3-most-common-amazon-sql-interview-questions-and-answers-963e33ef27b1?source=rss------data_science-5)
-- [Three Graduated Methods To Get Internal Referrals For Data Science Positions](https://medium.com/geekculture/three-graduated-methods-to-get-internal-referrals-for-data-science-positions-901a9c940ea3?source=rss------data_science-5)
-- [Build a Robust Workflow to Visualize Trending GitHub Repositories in Python](https://towardsdatascience.com/build-a-robust-workflow-to-visualize-trending-github-repositories-in-python-98f2fc3e9a86?source=rss------data_science-5)
+- [Who’s the best Pokemon](https://medium.com/@skroner001/whos-the-best-pokemon-6ed512ad878f?source=rss------data_science-5)
+- [Edit Distance Algorithm](https://medium.com/geekculture/edit-distance-algorithm-cc5c1a39fba6?source=rss------data_science-5)
+- [Apple failing to make Chip-Modem for next Year’s iPhone and is disappointing…](https://medium.com/@muhamzaq/apple-failing-to-make-chip-modem-for-next-years-iphone-and-is-disappointing-bef82324f77c?source=rss------data_science-5)
+- [Everything You Need To Know About Data management services](https://medium.com/@mtcpe.fy/everything-you-need-to-know-about-data-management-services-c69ef9dc01c?source=rss------data_science-5)
+- [Why Small Businesses Need Big Data Analytics](https://medium.com/@mtcpe.fy/why-small-businesses-need-big-data-analytics-e98a4e46bc79?source=rss------data_science-5)
+- [Projection Matrices and Gram-Schmidt](https://medium.com/@josephjojoe/projection-matrices-and-gram-schmidt-dcd79cf228c9?source=rss------data_science-5)
+- [Custom Named Entity Recognition with BERT](https://towardsdatascience.com/custom-named-entity-recognition-with-bert-d31cfac5dbcb?source=rss------data_science-5)
+- [A VAGUE REALITY OF BIG DATA!](https://medium.com/@ZehraAjani/a-vague-reality-of-big-data-37fb180d1f09?source=rss------data_science-5)
+- [Five Tools That I Use Daily as Data Science — part 3](https://medium.com/codex/five-tools-that-i-use-daily-as-data-science-part-3-50b467adfe03?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
