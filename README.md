@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Who’s the best Pokemon](https://medium.com/@skroner001/whos-the-best-pokemon-6ed512ad878f?source=rss------data_science-5)
-- [Edit Distance Algorithm](https://medium.com/geekculture/edit-distance-algorithm-cc5c1a39fba6?source=rss------data_science-5)
-- [Apple failing to make Chip-Modem for next Year’s iPhone and is disappointing…](https://medium.com/@muhamzaq/apple-failing-to-make-chip-modem-for-next-years-iphone-and-is-disappointing-bef82324f77c?source=rss------data_science-5)
-- [Everything You Need To Know About Data management services](https://medium.com/@mtcpe.fy/everything-you-need-to-know-about-data-management-services-c69ef9dc01c?source=rss------data_science-5)
-- [Why Small Businesses Need Big Data Analytics](https://medium.com/@mtcpe.fy/why-small-businesses-need-big-data-analytics-e98a4e46bc79?source=rss------data_science-5)
-- [Projection Matrices and Gram-Schmidt](https://medium.com/@josephjojoe/projection-matrices-and-gram-schmidt-dcd79cf228c9?source=rss------data_science-5)
-- [Custom Named Entity Recognition with BERT](https://towardsdatascience.com/custom-named-entity-recognition-with-bert-d31cfac5dbcb?source=rss------data_science-5)
-- [A VAGUE REALITY OF BIG DATA!](https://medium.com/@ZehraAjani/a-vague-reality-of-big-data-37fb180d1f09?source=rss------data_science-5)
-- [Five Tools That I Use Daily as Data Science — part 3](https://medium.com/codex/five-tools-that-i-use-daily-as-data-science-part-3-50b467adfe03?source=rss------data_science-5)
+- [K-Means Clustering Algoritma Machine Learning](https://medium.com/@dwipujiningtyas03/k-means-clustering-algoritma-machine-learning-9757e806b15a?source=rss------data_science-5)
+- [Beautify the text in Jupyter Notebook](https://medium.com/@priyasengar28/beautify-the-text-in-jupyter-notebook-90791739e51e?source=rss------data_science-5)
+- [Computer Vision Smart Approach for Healthcare Transformation](https://medium.com/@dnyaneshwalwadkar/computer-vision-smart-approach-for-healthcare-transformation-d4f56ec221ff?source=rss------data_science-5)
+- [Time Series Modelling with a New Data Approach](https://medium.com/analytics-vidhya/time-series-modelling-with-a-new-data-approach-e5a8e385a5be?source=rss------data_science-5)
+- [How to deploy an NLP Machine Learning Model with Flask on Web](https://medium.com/@surya.vijjeswarapu/how-to-deploy-an-nlp-machine-learning-model-with-flask-on-web-788c2825b792?source=rss------data_science-5)
+- [Customer Segmentation using RFM Analysis with KMeans](https://medium.com/@alejlatorre/customer-segmentation-using-rfm-analysis-with-kmeans-1e868f8e5bb2?source=rss------data_science-5)
+- [Simple Competitive Learning with Python](https://medium.com/@jthorneng2000/simple-competitive-learning-with-python-ce6793ca5362?source=rss------data_science-5)
+- [Statistical Overbought &amp; Oversold Levels on Technical Indicators](https://kaabar-sofien.medium.com/statistical-overbought-oversold-levels-on-technical-indicators-ae5285eae63d?source=rss------data_science-5)
+- [How to Design and Build a Data Platform](https://productcoalition.com/how-to-design-and-build-a-data-platform-as-a-product-d22329ff5a3f?source=rss------data_science-5)
+- [Aplicaciones del Big Data en la educación superior](https://medium.com/@josueninacuchillo/aplicaciones-del-big-data-en-la-educaci%C3%B3n-superior-fcbeed58db7f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
