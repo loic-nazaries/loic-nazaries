@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [K-Means Clustering Algoritma Machine Learning](https://medium.com/@dwipujiningtyas03/k-means-clustering-algoritma-machine-learning-9757e806b15a?source=rss------data_science-5)
-- [Beautify the text in Jupyter Notebook](https://medium.com/@priyasengar28/beautify-the-text-in-jupyter-notebook-90791739e51e?source=rss------data_science-5)
-- [Computer Vision Smart Approach for Healthcare Transformation](https://medium.com/@dnyaneshwalwadkar/computer-vision-smart-approach-for-healthcare-transformation-d4f56ec221ff?source=rss------data_science-5)
-- [Time Series Modelling with a New Data Approach](https://medium.com/analytics-vidhya/time-series-modelling-with-a-new-data-approach-e5a8e385a5be?source=rss------data_science-5)
-- [How to deploy an NLP Machine Learning Model with Flask on Web](https://medium.com/@surya.vijjeswarapu/how-to-deploy-an-nlp-machine-learning-model-with-flask-on-web-788c2825b792?source=rss------data_science-5)
-- [Customer Segmentation using RFM Analysis with KMeans](https://medium.com/@alejlatorre/customer-segmentation-using-rfm-analysis-with-kmeans-1e868f8e5bb2?source=rss------data_science-5)
-- [Simple Competitive Learning with Python](https://medium.com/@jthorneng2000/simple-competitive-learning-with-python-ce6793ca5362?source=rss------data_science-5)
-- [Statistical Overbought &amp; Oversold Levels on Technical Indicators](https://kaabar-sofien.medium.com/statistical-overbought-oversold-levels-on-technical-indicators-ae5285eae63d?source=rss------data_science-5)
-- [How to Design and Build a Data Platform](https://productcoalition.com/how-to-design-and-build-a-data-platform-as-a-product-d22329ff5a3f?source=rss------data_science-5)
-- [Aplicaciones del Big Data en la educación superior](https://medium.com/@josueninacuchillo/aplicaciones-del-big-data-en-la-educaci%C3%B3n-superior-fcbeed58db7f?source=rss------data_science-5)
+- [10 Things You Are Not Told About Data Science](https://towardsdatascience.com/10-things-you-are-not-told-about-data-science-3460636feeb1?source=rss------data_science-5)
+- [Geo Lift Experiments I: Understanding Difference in Differences](https://towardsdatascience.com/geo-lift-experiments-i-understanding-difference-in-differences-5f35e41a2fdb?source=rss------data_science-5)
+- [How to get a data analyst job in 2022 &amp; 2023](https://medium.com/@santoshj10/how-to-get-a-data-analyst-job-in-2022-2023-45ddc50144f9?source=rss------data_science-5)
+- [Getting Started with Pandas for Data Science](https://blog.jovian.ai/getting-started-with-pandas-for-data-science-53261fe854bd?source=rss------data_science-5)
+- [So Much Candy Data, Seriously — Breakdown](https://medium.com/@tparboosingh84/so-much-candy-data-seriously-breakdown-625e7b0eb1aa?source=rss------data_science-5)
+- [Dashboard inspirations — Financial Trading](https://maw-ferrari.medium.com/dashboard-inspirations-financial-trading-76f699f269a8?source=rss------data_science-5)
+- [Run a Jupyter notebook in a Docker Container on your local device](https://medium.com/@aarongorman_51026/run-a-jupyter-notebook-in-a-docker-container-on-your-local-device-80ccd9570e4f?source=rss------data_science-5)
+- [Interview Prep](https://medium.com/@llc.datainmotion/interview-prep-ce396e4171ec?source=rss------data_science-5)
+- [Creating A Completely Custom Algae Dashboard In Julia With Toolips](https://medium.com/chifi-media/creating-a-completely-custom-algae-dashboard-in-julia-with-toolips-6df812f15f8f?source=rss------data_science-5)
+- [Books to read if you want to become a data scientist](https://lakshmanok.medium.com/books-to-read-if-you-want-to-become-a-data-scientist-b4e5a8584e93?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
