@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [10 Things You Are Not Told About Data Science](https://towardsdatascience.com/10-things-you-are-not-told-about-data-science-3460636feeb1?source=rss------data_science-5)
-- [Geo Lift Experiments I: Understanding Difference in Differences](https://towardsdatascience.com/geo-lift-experiments-i-understanding-difference-in-differences-5f35e41a2fdb?source=rss------data_science-5)
-- [How to get a data analyst job in 2022 &amp; 2023](https://medium.com/@santoshj10/how-to-get-a-data-analyst-job-in-2022-2023-45ddc50144f9?source=rss------data_science-5)
-- [Getting Started with Pandas for Data Science](https://blog.jovian.ai/getting-started-with-pandas-for-data-science-53261fe854bd?source=rss------data_science-5)
-- [So Much Candy Data, Seriously — Breakdown](https://medium.com/@tparboosingh84/so-much-candy-data-seriously-breakdown-625e7b0eb1aa?source=rss------data_science-5)
-- [Dashboard inspirations — Financial Trading](https://maw-ferrari.medium.com/dashboard-inspirations-financial-trading-76f699f269a8?source=rss------data_science-5)
-- [Run a Jupyter notebook in a Docker Container on your local device](https://medium.com/@aarongorman_51026/run-a-jupyter-notebook-in-a-docker-container-on-your-local-device-80ccd9570e4f?source=rss------data_science-5)
-- [Interview Prep](https://medium.com/@llc.datainmotion/interview-prep-ce396e4171ec?source=rss------data_science-5)
-- [Creating A Completely Custom Algae Dashboard In Julia With Toolips](https://medium.com/chifi-media/creating-a-completely-custom-algae-dashboard-in-julia-with-toolips-6df812f15f8f?source=rss------data_science-5)
-- [Books to read if you want to become a data scientist](https://lakshmanok.medium.com/books-to-read-if-you-want-to-become-a-data-scientist-b4e5a8584e93?source=rss------data_science-5)
+- [Golda Meir, John Snow, a Lord Protector and a Russian comrade: Stories for Data-Driven decision…](https://medium.com/@raul.vizcarrach/golda-meir-john-snow-a-lord-protector-and-a-russian-comrade-stories-for-data-driven-decision-981e371ff354?source=rss------data_science-5)
+- [What training at the gym teaches you about training models](https://medium.com/@jolecoco/what-training-at-the-gym-teaches-you-about-training-models-931e5878dc14?source=rss------data_science-5)
+- [Introduction to the Basics of Python 3- Final Part &lpar;and my 50th Story on Medium&rpar;](https://medium.com/@CalebMBowyer/introduction-to-the-basics-of-python-3-final-part-and-my-50th-story-on-medium-a45e18ab40df?source=rss------data_science-5)
+- [Introduction to Adaptive Learning](https://towardsdatascience.com/introduction-to-adaptive-learning-9a0ee48fb8a7?source=rss------data_science-5)
+- [Buying the Dips &amp; Selling the Strength Trading Strategy in Python](https://kaabar-sofien.medium.com/buying-the-dips-selling-the-strength-trading-strategy-in-python-ad0a691b2824?source=rss------data_science-5)
+- [5 Best Python Libraries For Data Science](https://medium.com/@satriaadhipradana/5-best-python-libraries-for-data-science-b552cec0fd45?source=rss------data_science-5)
+- [Customizing keras-tuner for flexibility and maintainability](https://haneulkim.medium.com/customizing-keras-tuner-for-flexibility-and-maintainability-195d47e3fb8f?source=rss------data_science-5)
+- [Ten from the weekend 07/03: A few interesting reads that I came across](https://gopivikranth.medium.com/ten-from-the-weekend-07-04-a-few-interesting-reads-that-i-came-across-d2e8e2a05d92?source=rss------data_science-5)
+- [Every Data Scientist Should Build These Projects](https://preettheman.medium.com/every-data-scientist-should-build-these-projects-3588008f5fdf?source=rss------data_science-5)
+- [Data Frames… with Donuts | Neural Network Basics](https://medium.com/neural-network-nodes/data-frames-with-donuts-neural-network-basics-deb27e8fe8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
