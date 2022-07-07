@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Golda Meir, John Snow, a Lord Protector and a Russian comrade: Stories for Data-Driven decision…](https://medium.com/@raul.vizcarrach/golda-meir-john-snow-a-lord-protector-and-a-russian-comrade-stories-for-data-driven-decision-981e371ff354?source=rss------data_science-5)
-- [What training at the gym teaches you about training models](https://medium.com/@jolecoco/what-training-at-the-gym-teaches-you-about-training-models-931e5878dc14?source=rss------data_science-5)
-- [Introduction to the Basics of Python 3- Final Part &lpar;and my 50th Story on Medium&rpar;](https://medium.com/@CalebMBowyer/introduction-to-the-basics-of-python-3-final-part-and-my-50th-story-on-medium-a45e18ab40df?source=rss------data_science-5)
-- [Introduction to Adaptive Learning](https://towardsdatascience.com/introduction-to-adaptive-learning-9a0ee48fb8a7?source=rss------data_science-5)
-- [Buying the Dips &amp; Selling the Strength Trading Strategy in Python](https://kaabar-sofien.medium.com/buying-the-dips-selling-the-strength-trading-strategy-in-python-ad0a691b2824?source=rss------data_science-5)
-- [5 Best Python Libraries For Data Science](https://medium.com/@satriaadhipradana/5-best-python-libraries-for-data-science-b552cec0fd45?source=rss------data_science-5)
-- [Customizing keras-tuner for flexibility and maintainability](https://haneulkim.medium.com/customizing-keras-tuner-for-flexibility-and-maintainability-195d47e3fb8f?source=rss------data_science-5)
-- [Ten from the weekend 07/03: A few interesting reads that I came across](https://gopivikranth.medium.com/ten-from-the-weekend-07-04-a-few-interesting-reads-that-i-came-across-d2e8e2a05d92?source=rss------data_science-5)
-- [Every Data Scientist Should Build These Projects](https://preettheman.medium.com/every-data-scientist-should-build-these-projects-3588008f5fdf?source=rss------data_science-5)
-- [Data Frames… with Donuts | Neural Network Basics](https://medium.com/neural-network-nodes/data-frames-with-donuts-neural-network-basics-deb27e8fe8?source=rss------data_science-5)
+- [☁️ | 4 MOST IMPORTANT SKILLS TO ACTUALLY BECOME A BIG DATA ENGINEER IN 2022](https://medium.com/plain-simple-software/%EF%B8%8F-4-most-important-skills-to-actually-become-a-big-data-engineer-in-2022-1edeeea8de3b?source=rss------data_science-5)
+- [Different Ways to Visualize Time and Date Homicide Data From Baltimore](https://epiren.medium.com/different-ways-to-visualize-time-and-date-homicide-data-from-baltimore-fa3a3f65aa6c?source=rss------data_science-5)
+- [All About Markov Chains and Steady-State Probabilities](https://jadhav-pritish.medium.com/all-about-markov-chains-and-steady-state-probabilities-cdf67253cc04?source=rss------data_science-5)
+- [10 Latest Meta/ Facebook SQL Interview Questions](https://medium.com/@anna.wu9222/10-latest-meta-facebook-sql-interview-questions-409542618599?source=rss------data_science-5)
+- [26 Weekly ML Tricks And Resources That Are Pure Gems, #2](https://ibexorigin.medium.com/26-weekly-ml-tricks-and-resources-that-are-pure-gems-2-3be56841b1d9?source=rss------data_science-5)
+- [Most Important Pandas Methods You Should Know as a Data Scientist](https://medium.com/@ugursavci/most-important-pandas-methods-you-should-know-as-a-data-scientist-1d5f86fa36af?source=rss------data_science-5)
+- [One way TikTok and Data Science can help improve the book industry.](https://medium.com/@laura.waggaman/one-way-tiktok-and-data-science-can-help-improve-the-book-industry-b9c4cc427f7b?source=rss------data_science-5)
+- [Turning Backlisted Books into Bestsellers](https://medium.com/@laura.waggaman/turning-backlisted-books-into-bestsellers-5d06e40c3362?source=rss------data_science-5)
+- [Using Neo4j Graph Data Science in Python to Improve Machine Learning Models](https://medium.com/neo4j/using-neo4j-graph-data-science-in-python-to-improve-machine-learning-models-c55a4e15f530?source=rss------data_science-5)
+- [Why Your Project Test Data Matters &lpar;And resources to Datasets&rpar;](https://medium.com/@DataScienceDad/why-your-project-test-data-matters-and-resources-to-datasets-1d9b8e6ff01d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
