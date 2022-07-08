@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [☁️ | 4 MOST IMPORTANT SKILLS TO ACTUALLY BECOME A BIG DATA ENGINEER IN 2022](https://medium.com/plain-simple-software/%EF%B8%8F-4-most-important-skills-to-actually-become-a-big-data-engineer-in-2022-1edeeea8de3b?source=rss------data_science-5)
-- [Different Ways to Visualize Time and Date Homicide Data From Baltimore](https://epiren.medium.com/different-ways-to-visualize-time-and-date-homicide-data-from-baltimore-fa3a3f65aa6c?source=rss------data_science-5)
-- [All About Markov Chains and Steady-State Probabilities](https://jadhav-pritish.medium.com/all-about-markov-chains-and-steady-state-probabilities-cdf67253cc04?source=rss------data_science-5)
-- [10 Latest Meta/ Facebook SQL Interview Questions](https://medium.com/@anna.wu9222/10-latest-meta-facebook-sql-interview-questions-409542618599?source=rss------data_science-5)
-- [26 Weekly ML Tricks And Resources That Are Pure Gems, #2](https://ibexorigin.medium.com/26-weekly-ml-tricks-and-resources-that-are-pure-gems-2-3be56841b1d9?source=rss------data_science-5)
-- [Most Important Pandas Methods You Should Know as a Data Scientist](https://medium.com/@ugursavci/most-important-pandas-methods-you-should-know-as-a-data-scientist-1d5f86fa36af?source=rss------data_science-5)
-- [One way TikTok and Data Science can help improve the book industry.](https://medium.com/@laura.waggaman/one-way-tiktok-and-data-science-can-help-improve-the-book-industry-b9c4cc427f7b?source=rss------data_science-5)
-- [Turning Backlisted Books into Bestsellers](https://medium.com/@laura.waggaman/turning-backlisted-books-into-bestsellers-5d06e40c3362?source=rss------data_science-5)
-- [Using Neo4j Graph Data Science in Python to Improve Machine Learning Models](https://medium.com/neo4j/using-neo4j-graph-data-science-in-python-to-improve-machine-learning-models-c55a4e15f530?source=rss------data_science-5)
-- [Why Your Project Test Data Matters &lpar;And resources to Datasets&rpar;](https://medium.com/@DataScienceDad/why-your-project-test-data-matters-and-resources-to-datasets-1d9b8e6ff01d?source=rss------data_science-5)
+- [An Unique Way of Visualising Confusion Matrix — Sankey Chart](https://medium.com/@hrishikesh.pe/an-unique-way-of-visualising-confusion-matrix-sankey-chart-de8e4d09b9b?source=rss------data_science-5)
+- [What is Model Performance measurement in machine learning?](https://medium.com/@diegotronics/what-is-model-performance-measurement-in-machine-learning-7e7a5426a862?source=rss------data_science-5)
+- [LINALG — Linear transformations and matrices](https://medium.com/@shiny_jay/linalg-linear-transformations-and-matrices-186d3d1743c6?source=rss------data_science-5)
+- [The Momentum Counter Trading Strategy](https://kaabar-sofien.medium.com/the-momentum-counter-trading-strategy-8d414a53f9a7?source=rss------data_science-5)
+- [Machine Learning Course Notes](https://medium.com/dair-ai/machine-learning-course-notes-66291b57a6a9?source=rss------data_science-5)
+- [Um panorama sobre o Covid 19 — Analisando dados de 2020–2022](https://medium.com/@rmalmeida2/um-panorama-sobre-o-covid-19-analisando-dados-de-2020-2022-49af719fcef4?source=rss------data_science-5)
+- [Reshaping a DataFrame from long to wide format using pivot&lpar;&rpar;](https://towardsdatascience.com/reshaping-a-dataframe-from-long-to-wide-format-using-pivot-b099930b30ae?source=rss------data_science-5)
+- [Cracking the Data Engineering Interview — Part 1: Structure](https://afroinfotech.medium.com/cracking-the-data-engineering-interview-part-1-structure-28dd05705d4a?source=rss------data_science-5)
+- [You have never seen Casablanca?](https://towardsdatascience.com/you-have-never-seen-casablanca-8abf318df65f?source=rss------data_science-5)
+- [How to Use Magic Methods to Customize Python Operators](https://jonmce.medium.com/how-to-use-magic-methods-to-customize-python-operators-10a9233257d9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
