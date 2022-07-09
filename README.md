@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [An Unique Way of Visualising Confusion Matrix — Sankey Chart](https://medium.com/@hrishikesh.pe/an-unique-way-of-visualising-confusion-matrix-sankey-chart-de8e4d09b9b?source=rss------data_science-5)
-- [What is Model Performance measurement in machine learning?](https://medium.com/@diegotronics/what-is-model-performance-measurement-in-machine-learning-7e7a5426a862?source=rss------data_science-5)
-- [LINALG — Linear transformations and matrices](https://medium.com/@shiny_jay/linalg-linear-transformations-and-matrices-186d3d1743c6?source=rss------data_science-5)
-- [The Momentum Counter Trading Strategy](https://kaabar-sofien.medium.com/the-momentum-counter-trading-strategy-8d414a53f9a7?source=rss------data_science-5)
-- [Machine Learning Course Notes](https://medium.com/dair-ai/machine-learning-course-notes-66291b57a6a9?source=rss------data_science-5)
-- [Um panorama sobre o Covid 19 — Analisando dados de 2020–2022](https://medium.com/@rmalmeida2/um-panorama-sobre-o-covid-19-analisando-dados-de-2020-2022-49af719fcef4?source=rss------data_science-5)
-- [Reshaping a DataFrame from long to wide format using pivot&lpar;&rpar;](https://towardsdatascience.com/reshaping-a-dataframe-from-long-to-wide-format-using-pivot-b099930b30ae?source=rss------data_science-5)
-- [Cracking the Data Engineering Interview — Part 1: Structure](https://afroinfotech.medium.com/cracking-the-data-engineering-interview-part-1-structure-28dd05705d4a?source=rss------data_science-5)
-- [You have never seen Casablanca?](https://towardsdatascience.com/you-have-never-seen-casablanca-8abf318df65f?source=rss------data_science-5)
-- [How to Use Magic Methods to Customize Python Operators](https://jonmce.medium.com/how-to-use-magic-methods-to-customize-python-operators-10a9233257d9?source=rss------data_science-5)
+- [PRINCIPAL COMPONENT ANALYSİS &lpar;PCA&rpar; | Theory and Python Code](https://medium.com/@miracyuzakli/principal-component-analysi%CC%87s-pca-theory-and-python-code-f4a62a7c1dda?source=rss------data_science-5)
+- [DECISION TREES IN MACHINE LEARNING](https://medium.com/@shaumsfk/decision-trees-in-machine-learning-2bda3e5aeb4e?source=rss------data_science-5)
+- [Understanding the working of a Perceptron using Spreadsheet](https://medium.com/@surya.vijjeswarapu/understanding-the-working-of-a-perceptron-using-spreadsheet-8117caaa5455?source=rss------data_science-5)
+- [Python Just Got a Big Update](https://preettheman.medium.com/python-just-got-a-big-update-ff6b09d42f55?source=rss------data_science-5)
+- [Visualizing wealth inequity’s influence on homicides in Baltimore City, 2015 to 2019](https://epiren.medium.com/visualizing-wealth-inequitys-influence-on-homicides-in-baltimore-city-2015-to-2019-728af73d3722?source=rss------data_science-5)
+- [I Want to be a Data Analyst When I Grow Up…Said No One Ever](https://medium.com/@ChristianWritesData/i-want-to-be-a-data-analyst-when-i-grow-up-said-no-one-ever-aa9f34e3f164?source=rss------data_science-5)
+- [DateTime Modin Pandas](https://anushakodavanti.medium.com/datetime-modin-pandas-c67ebb55cf49?source=rss------data_science-5)
+- [RFM Customer Segmentation](https://ardabaysallar.medium.com/rfm-customer-segmentation-4c0f8ebec454?source=rss------data_science-5)
+- [Data Transformation in Power BI](https://medium.com/@obalanatosin16/data-transformation-in-power-bi-84874a6589ff?source=rss------data_science-5)
+- [Hi FLASH BITCOIN TO YOUR WALLET WITH MY BITCOIN FLASHING SOFTWARE](https://medium.com/@lawrencejay801/hi-flash-bitcoin-to-your-wallet-with-my-bitcoin-flashing-software-de56285782a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
