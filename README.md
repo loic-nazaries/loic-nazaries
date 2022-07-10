@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [PRINCIPAL COMPONENT ANALYSİS &lpar;PCA&rpar; | Theory and Python Code](https://medium.com/@miracyuzakli/principal-component-analysi%CC%87s-pca-theory-and-python-code-f4a62a7c1dda?source=rss------data_science-5)
-- [DECISION TREES IN MACHINE LEARNING](https://medium.com/@shaumsfk/decision-trees-in-machine-learning-2bda3e5aeb4e?source=rss------data_science-5)
-- [Understanding the working of a Perceptron using Spreadsheet](https://medium.com/@surya.vijjeswarapu/understanding-the-working-of-a-perceptron-using-spreadsheet-8117caaa5455?source=rss------data_science-5)
-- [Python Just Got a Big Update](https://preettheman.medium.com/python-just-got-a-big-update-ff6b09d42f55?source=rss------data_science-5)
-- [Visualizing wealth inequity’s influence on homicides in Baltimore City, 2015 to 2019](https://epiren.medium.com/visualizing-wealth-inequitys-influence-on-homicides-in-baltimore-city-2015-to-2019-728af73d3722?source=rss------data_science-5)
-- [I Want to be a Data Analyst When I Grow Up…Said No One Ever](https://medium.com/@ChristianWritesData/i-want-to-be-a-data-analyst-when-i-grow-up-said-no-one-ever-aa9f34e3f164?source=rss------data_science-5)
-- [DateTime Modin Pandas](https://anushakodavanti.medium.com/datetime-modin-pandas-c67ebb55cf49?source=rss------data_science-5)
-- [RFM Customer Segmentation](https://ardabaysallar.medium.com/rfm-customer-segmentation-4c0f8ebec454?source=rss------data_science-5)
-- [Data Transformation in Power BI](https://medium.com/@obalanatosin16/data-transformation-in-power-bi-84874a6589ff?source=rss------data_science-5)
-- [Hi FLASH BITCOIN TO YOUR WALLET WITH MY BITCOIN FLASHING SOFTWARE](https://medium.com/@lawrencejay801/hi-flash-bitcoin-to-your-wallet-with-my-bitcoin-flashing-software-de56285782a?source=rss------data_science-5)
+- [Think About the Law of Large Numbers Horizontally, Not Just Vertically](https://medium.com/geekculture/think-about-the-law-of-large-numbers-horizontally-not-just-vertically-7d530fbc4916?source=rss------data_science-5)
+- [Apriori for emoji](https://medium.com/@llabbasmkhll/apriori-for-emoji-6e9be6231ad1?source=rss------data_science-5)
+- [The Effect of Country Living Costs on the Level of Development | Analysis — ML](https://medium.com/@miracyuzakli/the-effect-of-country-living-costs-on-the-level-of-development-analysis-ml-789101675491?source=rss------data_science-5)
+- [How to deal read large hadoop datasets via impala and SAS &lpar;Divide &amp; Conquer&rpar;](https://medium.com/@ptantono/how-to-deal-read-large-hadoop-datasets-via-impala-and-sas-divide-conquer-adc91367fd56?source=rss------data_science-5)
+- [Python 101: Understanding List Comprehension](https://jonmce.medium.com/python-101-understanding-list-comprehension-bd1fd9f670a5?source=rss------data_science-5)
+- [My Data Analysis Journey so far](https://medium.com/@khingcly/my-data-analysis-journey-so-far-61cd9f551787?source=rss------data_science-5)
+- [Veri Ambarı Nedir?](https://medium.com/@selcuk1330/veri-ambar%C4%B1-nedir-d409cf2dc810?source=rss------data_science-5)
+- [A Complete Guide To Build Optical Character Recognition &lpar;OCR&rpar; in Python](https://medium.com/@dprakash05/a-complete-guide-to-build-optical-character-recognition-ocr-in-python-5bf179d47db8?source=rss------data_science-5)
+- [Measuring Cycling Power Without a Power Meter? What? Part 1](https://medium.com/@cyclingJeffGordon/measuring-cycling-power-without-a-power-meter-what-part-1-ac7ef1d623c2?source=rss------data_science-5)
+- [The Best State in India &lpar;for me!&rpar;](https://medium.com/@ankitap0212/the-best-state-in-india-for-me-bcadc7533387?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
