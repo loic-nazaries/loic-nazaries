@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Think About the Law of Large Numbers Horizontally, Not Just Vertically](https://medium.com/geekculture/think-about-the-law-of-large-numbers-horizontally-not-just-vertically-7d530fbc4916?source=rss------data_science-5)
-- [Apriori for emoji](https://medium.com/@llabbasmkhll/apriori-for-emoji-6e9be6231ad1?source=rss------data_science-5)
-- [The Effect of Country Living Costs on the Level of Development | Analysis — ML](https://medium.com/@miracyuzakli/the-effect-of-country-living-costs-on-the-level-of-development-analysis-ml-789101675491?source=rss------data_science-5)
-- [How to deal read large hadoop datasets via impala and SAS &lpar;Divide &amp; Conquer&rpar;](https://medium.com/@ptantono/how-to-deal-read-large-hadoop-datasets-via-impala-and-sas-divide-conquer-adc91367fd56?source=rss------data_science-5)
-- [Python 101: Understanding List Comprehension](https://jonmce.medium.com/python-101-understanding-list-comprehension-bd1fd9f670a5?source=rss------data_science-5)
-- [My Data Analysis Journey so far](https://medium.com/@khingcly/my-data-analysis-journey-so-far-61cd9f551787?source=rss------data_science-5)
-- [Veri Ambarı Nedir?](https://medium.com/@selcuk1330/veri-ambar%C4%B1-nedir-d409cf2dc810?source=rss------data_science-5)
-- [A Complete Guide To Build Optical Character Recognition &lpar;OCR&rpar; in Python](https://medium.com/@dprakash05/a-complete-guide-to-build-optical-character-recognition-ocr-in-python-5bf179d47db8?source=rss------data_science-5)
-- [Measuring Cycling Power Without a Power Meter? What? Part 1](https://medium.com/@cyclingJeffGordon/measuring-cycling-power-without-a-power-meter-what-part-1-ac7ef1d623c2?source=rss------data_science-5)
-- [The Best State in India &lpar;for me!&rpar;](https://medium.com/@ankitap0212/the-best-state-in-india-for-me-bcadc7533387?source=rss------data_science-5)
+- [Data Jobs: What does a Data Architect do?](https://medium.com/@blarson424/data-jobs-what-does-a-data-architect-do-1f7d5e38a23e?source=rss------data_science-5)
+- [Analyse blockchain data with Dune analytics — Getting Started](https://medium.com/@kikura3/analyse-blockchain-data-with-dune-analytics-getting-started-8c46084adf6e?source=rss------data_science-5)
+- [6 SQL Techniques to Perform Data Analysis for Analytics and Data Science](https://medium.com/@abdelilah.moulida/6-sql-techniques-to-perform-data-analysis-for-analytics-and-data-science-cc2f551b245b?source=rss------data_science-5)
+- [A Notion Template for Tracking Coding Challenges](https://medium.com/@Hong_Tang/a-notion-template-for-tracking-your-coding-challenges-and-how-to-use-it-5c58f143ccc3?source=rss------data_science-5)
+- [Extracting value &lpar;$&rpar; from the Confusion Matrix](https://medium.com/@vo.freelancer5/extracting-value-from-the-confusion-matrix-21ec737fad20?source=rss------data_science-5)
+- [Step By Step Linear Regression Modeling in R](https://medium.com/@datasciwsarah/step-by-step-linear-regression-modeling-in-r-e275866a01c5?source=rss------data_science-5)
+- [How to Extract Intraday Forex Data for your Trading Algorithms](https://medium.com/@craigmariani47/how-to-extract-intraday-forex-data-for-your-trading-algorithms-979f89edcab2?source=rss------data_science-5)
+- [Guest Comments and Price Alignmentby NLP and Machine Learning](https://medium.com/@emrahdmrzn/guest-comments-by-nlp-and-price-alignment-3d6df2d3f27e?source=rss------data_science-5)
+- [Analisando os Dados do Airbnb para Suas Próximas Férias](https://medium.com/data-pack/analisando-os-dados-do-airbnb-para-suas-pr%C3%B3ximas-f%C3%A9rias-4489e3e8323f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
