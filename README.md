@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Jobs: What does a Data Architect do?](https://medium.com/@blarson424/data-jobs-what-does-a-data-architect-do-1f7d5e38a23e?source=rss------data_science-5)
-- [Analyse blockchain data with Dune analytics — Getting Started](https://medium.com/@kikura3/analyse-blockchain-data-with-dune-analytics-getting-started-8c46084adf6e?source=rss------data_science-5)
-- [6 SQL Techniques to Perform Data Analysis for Analytics and Data Science](https://medium.com/@abdelilah.moulida/6-sql-techniques-to-perform-data-analysis-for-analytics-and-data-science-cc2f551b245b?source=rss------data_science-5)
-- [A Notion Template for Tracking Coding Challenges](https://medium.com/@Hong_Tang/a-notion-template-for-tracking-your-coding-challenges-and-how-to-use-it-5c58f143ccc3?source=rss------data_science-5)
-- [Extracting value &lpar;$&rpar; from the Confusion Matrix](https://medium.com/@vo.freelancer5/extracting-value-from-the-confusion-matrix-21ec737fad20?source=rss------data_science-5)
-- [Step By Step Linear Regression Modeling in R](https://medium.com/@datasciwsarah/step-by-step-linear-regression-modeling-in-r-e275866a01c5?source=rss------data_science-5)
-- [How to Extract Intraday Forex Data for your Trading Algorithms](https://medium.com/@craigmariani47/how-to-extract-intraday-forex-data-for-your-trading-algorithms-979f89edcab2?source=rss------data_science-5)
-- [Guest Comments and Price Alignmentby NLP and Machine Learning](https://medium.com/@emrahdmrzn/guest-comments-by-nlp-and-price-alignment-3d6df2d3f27e?source=rss------data_science-5)
-- [Analisando os Dados do Airbnb para Suas Próximas Férias](https://medium.com/data-pack/analisando-os-dados-do-airbnb-para-suas-pr%C3%B3ximas-f%C3%A9rias-4489e3e8323f?source=rss------data_science-5)
+- [Definisi Data Science, Manfaat, dan Contoh Penerapannya](https://erpindonesia.medium.com/definisi-data-science-manfaat-dan-contoh-penerapannya-f9b9726b314a?source=rss------data_science-5)
+- [Introduction to SQL set operators](https://medium.com/@AviatorIfeanyi/problem-statement-ccf1fe1dd523?source=rss------data_science-5)
+- [You Might Be A Data Analyst If…](https://medium.com/@ChristianWritesData/you-might-be-a-data-analyst-if-8eaa8042156f?source=rss------data_science-5)
+- [MLOps Tools and Technologies for Data Scientists in 2022](https://moez-62905.medium.com/mlops-tools-and-technologies-for-data-scientists-in-2022-dc87659ae053?source=rss------data_science-5)
+- [Exploring How Random Forests Work in Machine Learning](https://medium.com/@samueloliver303/exploring-how-random-forests-work-in-machine-learning-7515015a6aa8?source=rss------data_science-5)
+- [Python Packages That Microsoft Uses](https://preettheman.medium.com/python-packages-that-microsoft-uses-f29a3f60798f?source=rss------data_science-5)
+- [WH-Questions of Data Strategy](https://medium.com/@baharsalehi/wh-questions-of-data-strategy-1e6b0d19cb30?source=rss------data_science-5)
+- [New Research related to Amygdala&lpar;Neuroscience&rpar;](https://medium.com/@monodeepets77/new-research-related-to-amygdala-neuroscience-474f8407c374?source=rss------data_science-5)
+- [Stanley Cup Outcomes with Machine Learning — Pt. 2](https://medium.com/@ryanschraeder/stanley-cup-outcomes-with-machine-learning-pt-2-1ca33a8666b8?source=rss------data_science-5)
+- [What’s Going On?](https://medium.com/@TraceyHalvorsen/whats-going-on-2f3e2b0e13de?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
