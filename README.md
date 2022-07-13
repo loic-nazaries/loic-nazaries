@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Definisi Data Science, Manfaat, dan Contoh Penerapannya](https://erpindonesia.medium.com/definisi-data-science-manfaat-dan-contoh-penerapannya-f9b9726b314a?source=rss------data_science-5)
-- [Introduction to SQL set operators](https://medium.com/@AviatorIfeanyi/problem-statement-ccf1fe1dd523?source=rss------data_science-5)
-- [You Might Be A Data Analyst If…](https://medium.com/@ChristianWritesData/you-might-be-a-data-analyst-if-8eaa8042156f?source=rss------data_science-5)
-- [MLOps Tools and Technologies for Data Scientists in 2022](https://moez-62905.medium.com/mlops-tools-and-technologies-for-data-scientists-in-2022-dc87659ae053?source=rss------data_science-5)
-- [Exploring How Random Forests Work in Machine Learning](https://medium.com/@samueloliver303/exploring-how-random-forests-work-in-machine-learning-7515015a6aa8?source=rss------data_science-5)
-- [Python Packages That Microsoft Uses](https://preettheman.medium.com/python-packages-that-microsoft-uses-f29a3f60798f?source=rss------data_science-5)
-- [WH-Questions of Data Strategy](https://medium.com/@baharsalehi/wh-questions-of-data-strategy-1e6b0d19cb30?source=rss------data_science-5)
-- [New Research related to Amygdala&lpar;Neuroscience&rpar;](https://medium.com/@monodeepets77/new-research-related-to-amygdala-neuroscience-474f8407c374?source=rss------data_science-5)
-- [Stanley Cup Outcomes with Machine Learning — Pt. 2](https://medium.com/@ryanschraeder/stanley-cup-outcomes-with-machine-learning-pt-2-1ca33a8666b8?source=rss------data_science-5)
-- [What’s Going On?](https://medium.com/@TraceyHalvorsen/whats-going-on-2f3e2b0e13de?source=rss------data_science-5)
+- [Django + Celery: Going deeper with background tasks in Python](https://levelup.gitconnected.com/django-celery-going-deeper-with-background-tasks-in-python-fa44958cf7cd?source=rss------data_science-5)
+- [INTRO: ROAD TO DATA!](https://medium.com/@sandraasagade1/intro-road-to-data-d9f82e25a988?source=rss------data_science-5)
+- [Historical Analysis using Python: Investment Strategies as the Fed is Fighting Inflation](https://medium.com/@koki_noda/historical-analysis-using-python-investment-strategies-as-the-fed-is-fighting-inflation-5f45516d11ea?source=rss------data_science-5)
+- [How I become a earning data analyst in 10 weeks.](https://medium.com/@abdulahi.falade41/how-i-become-a-earning-data-analyst-in-10-weeks-c08da4b85961?source=rss------data_science-5)
+- [These IDE’s Are Perfect](https://preettheman.medium.com/these-ides-are-perfect-2252e477a543?source=rss------data_science-5)
+- [Data Modeling in Power BI](https://medium.com/@obalanatosin16/data-modeling-in-power-bi-e9c34cba8bd?source=rss------data_science-5)
+- [Everything’s About To Change](https://medium.com/@TCWstrategies/everythings-about-to-change-77ef268ebb93?source=rss------data_science-5)
+- [Dealing With Missing Values for Real-Time AI](https://medium.com/@awmatheson/dealing-with-missing-values-for-real-time-ai-775cde36da82?source=rss------data_science-5)
+- [Opportunity to ML Engineer Scholarship Program](https://medium.com/nerd-for-tech/opportunity-to-ml-engineer-scholarship-program-9696c17fba83?source=rss------data_science-5)
+- [Soon, Your Chat with AI is Going to Surpass Infinite Human Imaginations](https://pub.towardsai.net/soon-your-chat-with-ai-is-going-to-surpass-infinite-human-imaginations-36d3611d2be9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
