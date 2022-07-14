@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Django + Celery: Going deeper with background tasks in Python](https://levelup.gitconnected.com/django-celery-going-deeper-with-background-tasks-in-python-fa44958cf7cd?source=rss------data_science-5)
-- [INTRO: ROAD TO DATA!](https://medium.com/@sandraasagade1/intro-road-to-data-d9f82e25a988?source=rss------data_science-5)
-- [Historical Analysis using Python: Investment Strategies as the Fed is Fighting Inflation](https://medium.com/@koki_noda/historical-analysis-using-python-investment-strategies-as-the-fed-is-fighting-inflation-5f45516d11ea?source=rss------data_science-5)
-- [How I become a earning data analyst in 10 weeks.](https://medium.com/@abdulahi.falade41/how-i-become-a-earning-data-analyst-in-10-weeks-c08da4b85961?source=rss------data_science-5)
-- [These IDE’s Are Perfect](https://preettheman.medium.com/these-ides-are-perfect-2252e477a543?source=rss------data_science-5)
-- [Data Modeling in Power BI](https://medium.com/@obalanatosin16/data-modeling-in-power-bi-e9c34cba8bd?source=rss------data_science-5)
-- [Everything’s About To Change](https://medium.com/@TCWstrategies/everythings-about-to-change-77ef268ebb93?source=rss------data_science-5)
-- [Dealing With Missing Values for Real-Time AI](https://medium.com/@awmatheson/dealing-with-missing-values-for-real-time-ai-775cde36da82?source=rss------data_science-5)
-- [Opportunity to ML Engineer Scholarship Program](https://medium.com/nerd-for-tech/opportunity-to-ml-engineer-scholarship-program-9696c17fba83?source=rss------data_science-5)
-- [Soon, Your Chat with AI is Going to Surpass Infinite Human Imaginations](https://pub.towardsai.net/soon-your-chat-with-ai-is-going-to-surpass-infinite-human-imaginations-36d3611d2be9?source=rss------data_science-5)
+- [A simple algorithm to create a feature set for any NLP classification problem](https://ishan-mehta17.medium.com/a-simple-algorithm-to-create-a-feature-set-for-any-nlp-classification-problem-53d183d2f93d?source=rss------data_science-5)
+- [Churn Prediction — Como saber qual cliente pretende deixar a sua empresa.](https://medium.com/@jessicacunha.jsc/churn-prediction-como-saber-qual-cliente-pretende-deixar-a-sua-empresa-79cf219b3ae8?source=rss------data_science-5)
+- [How can small business benefit from big data.](https://medium.com/@vonchucwuemeca/how-can-small-business-benefit-from-big-data-14339728d9ff?source=rss------data_science-5)
+- [Trend Confirmation Strategy Using the RSI](https://kaabar-sofien.medium.com/trend-confirmation-strategy-using-the-rsi-e0eebb7ff0c5?source=rss------data_science-5)
+- [Overview of top 50 songs country-wise](https://medium.com/@deep-anshi/overview-of-top-50-songs-country-wise-3c7f9a7982c?source=rss------data_science-5)
+- [Histogramas com Python](https://medium.com/@thedataponti/histogramas-com-python-68895be0e5d1?source=rss------data_science-5)
+- [Review of Be Data Literate: The Data Literacy Skills Everyone Needs to Succeed](https://medium.com/@The_Rebeckoning/review-of-be-data-literate-the-data-literacy-skills-everyone-needs-to-succeed-b16dd3712c4c?source=rss------data_science-5)
+- [The Stephen King Effect: Why Talented Data Scientists Struggle to Succeed](https://towardsdatascience.com/the-stephen-king-effect-why-talented-data-scientists-struggle-to-succeed-53a70eb7263b?source=rss------data_science-5)
+- [R Packages That Google Uses](https://preettheman.medium.com/r-packages-that-google-uses-2778bfb8fae4?source=rss------data_science-5)
+- [Analyzing Food Insecurity in NYC using KeyFoods Price Catalogs](https://medium.com/@r.tasnim16/analyzing-food-insecurity-in-nyc-using-keyfoods-price-catalogs-e12bf485c2e6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
