@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A simple algorithm to create a feature set for any NLP classification problem](https://ishan-mehta17.medium.com/a-simple-algorithm-to-create-a-feature-set-for-any-nlp-classification-problem-53d183d2f93d?source=rss------data_science-5)
-- [Churn Prediction — Como saber qual cliente pretende deixar a sua empresa.](https://medium.com/@jessicacunha.jsc/churn-prediction-como-saber-qual-cliente-pretende-deixar-a-sua-empresa-79cf219b3ae8?source=rss------data_science-5)
-- [How can small business benefit from big data.](https://medium.com/@vonchucwuemeca/how-can-small-business-benefit-from-big-data-14339728d9ff?source=rss------data_science-5)
-- [Trend Confirmation Strategy Using the RSI](https://kaabar-sofien.medium.com/trend-confirmation-strategy-using-the-rsi-e0eebb7ff0c5?source=rss------data_science-5)
-- [Overview of top 50 songs country-wise](https://medium.com/@deep-anshi/overview-of-top-50-songs-country-wise-3c7f9a7982c?source=rss------data_science-5)
-- [Histogramas com Python](https://medium.com/@thedataponti/histogramas-com-python-68895be0e5d1?source=rss------data_science-5)
-- [Review of Be Data Literate: The Data Literacy Skills Everyone Needs to Succeed](https://medium.com/@The_Rebeckoning/review-of-be-data-literate-the-data-literacy-skills-everyone-needs-to-succeed-b16dd3712c4c?source=rss------data_science-5)
-- [The Stephen King Effect: Why Talented Data Scientists Struggle to Succeed](https://towardsdatascience.com/the-stephen-king-effect-why-talented-data-scientists-struggle-to-succeed-53a70eb7263b?source=rss------data_science-5)
-- [R Packages That Google Uses](https://preettheman.medium.com/r-packages-that-google-uses-2778bfb8fae4?source=rss------data_science-5)
-- [Analyzing Food Insecurity in NYC using KeyFoods Price Catalogs](https://medium.com/@r.tasnim16/analyzing-food-insecurity-in-nyc-using-keyfoods-price-catalogs-e12bf485c2e6?source=rss------data_science-5)
+- [What are the odds of getting a parking ticket in Toronto?](https://medium.com/@ning.jia/what-are-the-odds-of-getting-a-parking-ticket-in-toronto-1f090dd0c608?source=rss------data_science-5)
+- [Strategies for Imbalanced Classes](https://medium.com/the-data-nerd/strategies-for-imbalanced-classes-f3d8bbab3a0b?source=rss------data_science-5)
+- [DeepAR Forecasting Algorithm](https://medium.com/@corymaklin/deepar-forecasting-algorithm-6555efa63444?source=rss------data_science-5)
+- [How to Learn Data Science in 45-years or less!](https://medium.com/@anthonio_11149/how-to-learn-data-science-in-45-years-or-less-756a12828152?source=rss------data_science-5)
+- [Do Data Scientists Need to Learn CICD? Gitlab Python Code on AWS ECS](https://medium.com/@peiyuan67/do-data-scientists-need-to-learn-cicd-gitlab-python-code-on-aws-ecs-be4cf97db375?source=rss------data_science-5)
+- [PostgreSQL in MacOS — Create database, load CSV file, and data manipulation](https://bionewsdigest.medium.com/postgresql-in-macos-create-database-load-csv-file-and-data-manipulation-58ddf37ace8b?source=rss------data_science-5)
+- [Welcome to the IndependINT Blog](https://medium.com/independint/welcome-to-the-independint-blog-fadc723d537d?source=rss------data_science-5)
+- [R Packages That Microsoft Uses](https://preettheman.medium.com/r-packages-that-microsoft-uses-c8c8a805ee1b?source=rss------data_science-5)
+- [Eksplorasi Data Analisis Sederhana Menggunakan Excel](https://ibnuzahy.medium.com/eksplorasi-data-analisis-sederhana-menggunakan-excel-703d3d61f62a?source=rss------data_science-5)
+- [A/B testing for user experience: 10 processes, 10 best practices, and 10 challenges](https://bootcamp.uxdesign.cc/a-b-testing-for-user-experience-10-processes-10-best-practices-and-10-challenges-4c7e7304dbc6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
