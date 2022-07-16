@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What are the odds of getting a parking ticket in Toronto?](https://medium.com/@ning.jia/what-are-the-odds-of-getting-a-parking-ticket-in-toronto-1f090dd0c608?source=rss------data_science-5)
-- [Strategies for Imbalanced Classes](https://medium.com/the-data-nerd/strategies-for-imbalanced-classes-f3d8bbab3a0b?source=rss------data_science-5)
-- [DeepAR Forecasting Algorithm](https://medium.com/@corymaklin/deepar-forecasting-algorithm-6555efa63444?source=rss------data_science-5)
-- [How to Learn Data Science in 45-years or less!](https://medium.com/@anthonio_11149/how-to-learn-data-science-in-45-years-or-less-756a12828152?source=rss------data_science-5)
-- [Do Data Scientists Need to Learn CICD? Gitlab Python Code on AWS ECS](https://medium.com/@peiyuan67/do-data-scientists-need-to-learn-cicd-gitlab-python-code-on-aws-ecs-be4cf97db375?source=rss------data_science-5)
-- [PostgreSQL in MacOS — Create database, load CSV file, and data manipulation](https://bionewsdigest.medium.com/postgresql-in-macos-create-database-load-csv-file-and-data-manipulation-58ddf37ace8b?source=rss------data_science-5)
-- [Welcome to the IndependINT Blog](https://medium.com/independint/welcome-to-the-independint-blog-fadc723d537d?source=rss------data_science-5)
-- [R Packages That Microsoft Uses](https://preettheman.medium.com/r-packages-that-microsoft-uses-c8c8a805ee1b?source=rss------data_science-5)
-- [Eksplorasi Data Analisis Sederhana Menggunakan Excel](https://ibnuzahy.medium.com/eksplorasi-data-analisis-sederhana-menggunakan-excel-703d3d61f62a?source=rss------data_science-5)
-- [A/B testing for user experience: 10 processes, 10 best practices, and 10 challenges](https://bootcamp.uxdesign.cc/a-b-testing-for-user-experience-10-processes-10-best-practices-and-10-challenges-4c7e7304dbc6?source=rss------data_science-5)
+- [Statistics as the Foundation of Data Science](https://dedekurniawann.medium.com/statistics-as-the-foundation-of-data-science-9b42ab6a50e7?source=rss------data_science-5)
+- [How to build a data-driven company?](https://medium.com/@diegotronics/how-to-build-a-data-driven-company-af980135afb6?source=rss------data_science-5)
+- [Exploring Regression Models With Statcast and Python](https://medium.com/@christopherjluke/exploring-linear-regression-with-statcast-8919302afaa0?source=rss------data_science-5)
+- [Best SQL Examples To Understand Self Join](https://pub.towardsai.net/best-sql-examples-to-understand-self-join-905495f0f5a9?source=rss------data_science-5)
+- [Mockaroo: Generate Data To Practice With SQL And Python](https://medium.com/physics-and-machine-learning/mockaroo-generate-data-to-practice-with-sql-and-python-7e581bc6d583?source=rss------data_science-5)
+- [4 reasons why Data Science projects sometimes fail](https://medium.com/@sghani77/4-reasons-why-data-science-projects-sometimes-fail-261ff226c47c?source=rss------data_science-5)
+- [How do we celebrate failures?](https://medium.com/@harshp022013/how-do-we-celebrate-failures-4c6db71d59b1?source=rss------data_science-5)
+- [AI at Large](https://medium.com/@d.bogdanovas/ai-at-large-454f04a0aa46?source=rss------data_science-5)
+- [Artificial Neural Network for Regression](https://medium.com/@ebrahimhaqbhatti516/artificial-neural-network-for-regression-3a8f0468e869?source=rss------data_science-5)
+- [How to Build Sentiment Analysis in Power BI](https://medium.com/@cndro/how-to-build-sentiment-analysis-in-power-bi-33ed8b643d6f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
