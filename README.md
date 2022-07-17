@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Statistics as the Foundation of Data Science](https://dedekurniawann.medium.com/statistics-as-the-foundation-of-data-science-9b42ab6a50e7?source=rss------data_science-5)
-- [How to build a data-driven company?](https://medium.com/@diegotronics/how-to-build-a-data-driven-company-af980135afb6?source=rss------data_science-5)
-- [Exploring Regression Models With Statcast and Python](https://medium.com/@christopherjluke/exploring-linear-regression-with-statcast-8919302afaa0?source=rss------data_science-5)
-- [Best SQL Examples To Understand Self Join](https://pub.towardsai.net/best-sql-examples-to-understand-self-join-905495f0f5a9?source=rss------data_science-5)
-- [Mockaroo: Generate Data To Practice With SQL And Python](https://medium.com/physics-and-machine-learning/mockaroo-generate-data-to-practice-with-sql-and-python-7e581bc6d583?source=rss------data_science-5)
-- [4 reasons why Data Science projects sometimes fail](https://medium.com/@sghani77/4-reasons-why-data-science-projects-sometimes-fail-261ff226c47c?source=rss------data_science-5)
-- [How do we celebrate failures?](https://medium.com/@harshp022013/how-do-we-celebrate-failures-4c6db71d59b1?source=rss------data_science-5)
-- [AI at Large](https://medium.com/@d.bogdanovas/ai-at-large-454f04a0aa46?source=rss------data_science-5)
-- [Artificial Neural Network for Regression](https://medium.com/@ebrahimhaqbhatti516/artificial-neural-network-for-regression-3a8f0468e869?source=rss------data_science-5)
-- [How to Build Sentiment Analysis in Power BI](https://medium.com/@cndro/how-to-build-sentiment-analysis-in-power-bi-33ed8b643d6f?source=rss------data_science-5)
+- [A Trick to Interactively Query A Pandas Dataframe as if It were a SQL Table](https://medium.com/@lminhkhoa/a-trick-to-interactively-query-a-pandas-dataframe-as-if-it-were-a-sql-table-4c9e1ccad1bd?source=rss------data_science-5)
+- [Visualize Inflation World Data on Plotly Interactive Map — Colorscale Solutions for Outliers —…](https://medium.com/@SL_dataworld/visualize-inflation-world-data-on-plotly-interactive-map-colorscale-solutions-for-outliers-52143b5593b7?source=rss------data_science-5)
+- [Artificial Neural Network for Classification](https://medium.com/@ebrahimhaqbhatti516/artificial-neural-network-for-classification-13779ece73bd?source=rss------data_science-5)
+- [Python Pandas Must Known commands &lpar;Pro tips&rpar;](https://erhankul.medium.com/python-pandas-must-known-commands-pro-tips-906423ee3a?source=rss------data_science-5)
+- [Data Science &amp; Analytics: A Catalyst for Operational Effectiveness](https://efe-ogolo.medium.com/data-science-analytics-a-catalyst-for-operational-effectiveness-697cda327f2c?source=rss------data_science-5)
+- [BIKE SALES ANALYSIS WITH MS EXCEL](https://medium.com/@waltetboateng/bike-sales-analysis-with-ms-excel-c6731ace66ec?source=rss------data_science-5)
+- [What is kaggle.com? Why should I use it as a beginner data scientist? How do I get started with it?](https://medium.com/@data.science.enthusiast/what-is-kaggle-com-why-should-i-use-it-as-a-beginner-data-scientist-how-do-i-get-started-with-it-7e218266fe6d?source=rss------data_science-5)
+- [My understanding of John 1:1–19 in the Bible](https://medium.com/@maxloopinmok/my-understanding-of-john-1-1-19-in-the-bible-432b4d71bcec?source=rss------data_science-5)
+- [Cryptocurrency Investing: Part 2](https://medium.com/analytics-alliance/cryptocurrency-investing-part-2-2966680d523e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
