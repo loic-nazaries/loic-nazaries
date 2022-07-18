@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Trick to Interactively Query A Pandas Dataframe as if It were a SQL Table](https://medium.com/@lminhkhoa/a-trick-to-interactively-query-a-pandas-dataframe-as-if-it-were-a-sql-table-4c9e1ccad1bd?source=rss------data_science-5)
-- [Visualize Inflation World Data on Plotly Interactive Map — Colorscale Solutions for Outliers —…](https://medium.com/@SL_dataworld/visualize-inflation-world-data-on-plotly-interactive-map-colorscale-solutions-for-outliers-52143b5593b7?source=rss------data_science-5)
-- [Artificial Neural Network for Classification](https://medium.com/@ebrahimhaqbhatti516/artificial-neural-network-for-classification-13779ece73bd?source=rss------data_science-5)
-- [Python Pandas Must Known commands &lpar;Pro tips&rpar;](https://erhankul.medium.com/python-pandas-must-known-commands-pro-tips-906423ee3a?source=rss------data_science-5)
-- [Data Science &amp; Analytics: A Catalyst for Operational Effectiveness](https://efe-ogolo.medium.com/data-science-analytics-a-catalyst-for-operational-effectiveness-697cda327f2c?source=rss------data_science-5)
-- [BIKE SALES ANALYSIS WITH MS EXCEL](https://medium.com/@waltetboateng/bike-sales-analysis-with-ms-excel-c6731ace66ec?source=rss------data_science-5)
-- [What is kaggle.com? Why should I use it as a beginner data scientist? How do I get started with it?](https://medium.com/@data.science.enthusiast/what-is-kaggle-com-why-should-i-use-it-as-a-beginner-data-scientist-how-do-i-get-started-with-it-7e218266fe6d?source=rss------data_science-5)
-- [My understanding of John 1:1–19 in the Bible](https://medium.com/@maxloopinmok/my-understanding-of-john-1-1-19-in-the-bible-432b4d71bcec?source=rss------data_science-5)
-- [Cryptocurrency Investing: Part 2](https://medium.com/analytics-alliance/cryptocurrency-investing-part-2-2966680d523e?source=rss------data_science-5)
+- [How to Have Audit Analytics That Works — Part 3](https://mario-bojilov.medium.com/how-to-have-audit-analytics-that-works-part-3-b2e02947c662?source=rss------data_science-5)
+- [How to Have Audit Analytics That Works — Part 2](https://mario-bojilov.medium.com/how-to-have-audit-analytics-that-works-part-2-59b90a07acd1?source=rss------data_science-5)
+- [A/B Testing, introduction and much more](https://srijan-bhushan.medium.com/a-b-testing-introduction-and-much-more-d9f74cda511c?source=rss------data_science-5)
+- [Obtaining SOTA ML Model Observability](https://ryojikn.medium.com/obtaining-sota-ml-model-observability-a53cf858a855?source=rss------data_science-5)
+- [House Price Prediction — Data Science Project guide 1](https://medium.com/@laxmisingh7690/house-price-prediction-data-science-project-guide-1-3eca38c9fea2?source=rss------data_science-5)
+- [Income Classification — Data Science Project guide 2](https://medium.com/@laxmisingh7690/income-classification-data-science-project-guide-2-f57d49285a4b?source=rss------data_science-5)
+- [What does a data scientist do?](https://medium.com/@diegotronics/what-is-big-data-2ddf8e79a758?source=rss------data_science-5)
+- [Who Shot First?](https://saumyasingh98.medium.com/who-shot-first-52539cebf11e?source=rss------data_science-5)
+- [Creating an automated data pipeline with Python and AWS](https://medium.com/@xavi007/creating-an-automated-data-pipeline-with-python-and-aws-530603b62500?source=rss------data_science-5)
+- [Ultimate Machine Learning Cheatsheet Part 2 -Classical ML Algorithms](https://medium.com/@clever.tech.memes/ultimate-machine-learning-cheatsheet-part-2-classical-ml-algorithms-e71e610cb8aa?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
