@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Have Audit Analytics That Works — Part 3](https://mario-bojilov.medium.com/how-to-have-audit-analytics-that-works-part-3-b2e02947c662?source=rss------data_science-5)
-- [How to Have Audit Analytics That Works — Part 2](https://mario-bojilov.medium.com/how-to-have-audit-analytics-that-works-part-2-59b90a07acd1?source=rss------data_science-5)
-- [A/B Testing, introduction and much more](https://srijan-bhushan.medium.com/a-b-testing-introduction-and-much-more-d9f74cda511c?source=rss------data_science-5)
-- [Obtaining SOTA ML Model Observability](https://ryojikn.medium.com/obtaining-sota-ml-model-observability-a53cf858a855?source=rss------data_science-5)
-- [House Price Prediction — Data Science Project guide 1](https://medium.com/@laxmisingh7690/house-price-prediction-data-science-project-guide-1-3eca38c9fea2?source=rss------data_science-5)
-- [Income Classification — Data Science Project guide 2](https://medium.com/@laxmisingh7690/income-classification-data-science-project-guide-2-f57d49285a4b?source=rss------data_science-5)
-- [What does a data scientist do?](https://medium.com/@diegotronics/what-is-big-data-2ddf8e79a758?source=rss------data_science-5)
-- [Who Shot First?](https://saumyasingh98.medium.com/who-shot-first-52539cebf11e?source=rss------data_science-5)
-- [Creating an automated data pipeline with Python and AWS](https://medium.com/@xavi007/creating-an-automated-data-pipeline-with-python-and-aws-530603b62500?source=rss------data_science-5)
-- [Ultimate Machine Learning Cheatsheet Part 2 -Classical ML Algorithms](https://medium.com/@clever.tech.memes/ultimate-machine-learning-cheatsheet-part-2-classical-ml-algorithms-e71e610cb8aa?source=rss------data_science-5)
+- [Online Time Series Forecasting in Python](https://medium.com/@tylerblume/online-time-series-forecasting-in-python-12bada43b8bd?source=rss------data_science-5)
+- [10 Important Linux Commands For Data Scientist](https://medium.com/@mlquest0/10-important-linux-commands-for-data-scientist-d716c047a3b9?source=rss------data_science-5)
+- [edX Scholarship: Free Courses from Harvard, MIT, and other top universities](https://medium.com/mlearning-ai/edx-scholarship-free-courses-from-harvard-mit-and-other-top-universities-3b9b730ffb16?source=rss------data_science-5)
+- [Overview of Ensemble Learning](https://medium.com/@woojaejo2015/overview-of-ensemble-learning-8eb2711f4efa?source=rss------data_science-5)
+- [Criando objetos iterativamente em Python](https://medium.com/@lucaslima_26748/criando-objetos-iterativamente-em-python-5687bf736fec?source=rss------data_science-5)
+- [The Challenges of Machine Learning&lpar;part II&rpar;](https://medium.com/@ismailouahbi169/the-challenges-of-machine-learning-part-ii-384d2e176803?source=rss------data_science-5)
+- [Is this sarcasm?](https://medium.com/@harshitkapoor_73807/is-this-sarcasm-8fed766f6033?source=rss------data_science-5)
+- [Outliers in Machine Learning](https://srisindhu.medium.com/outliers-in-machine-learning-52bcd67ab4f7?source=rss------data_science-5)
+- [Creating a Simple Technical Indicator in Python](https://kaabar-sofien.medium.com/creating-a-simple-technical-indicator-in-python-900f89145d74?source=rss------data_science-5)
+- [How To Become An Excellent Data Scientist](https://medium.com/@wagnerdsc/how-to-become-an-excellent-data-scientist-86c958581263?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
