@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Online Time Series Forecasting in Python](https://medium.com/@tylerblume/online-time-series-forecasting-in-python-12bada43b8bd?source=rss------data_science-5)
-- [10 Important Linux Commands For Data Scientist](https://medium.com/@mlquest0/10-important-linux-commands-for-data-scientist-d716c047a3b9?source=rss------data_science-5)
-- [edX Scholarship: Free Courses from Harvard, MIT, and other top universities](https://medium.com/mlearning-ai/edx-scholarship-free-courses-from-harvard-mit-and-other-top-universities-3b9b730ffb16?source=rss------data_science-5)
-- [Overview of Ensemble Learning](https://medium.com/@woojaejo2015/overview-of-ensemble-learning-8eb2711f4efa?source=rss------data_science-5)
-- [Criando objetos iterativamente em Python](https://medium.com/@lucaslima_26748/criando-objetos-iterativamente-em-python-5687bf736fec?source=rss------data_science-5)
-- [The Challenges of Machine Learning&lpar;part II&rpar;](https://medium.com/@ismailouahbi169/the-challenges-of-machine-learning-part-ii-384d2e176803?source=rss------data_science-5)
-- [Is this sarcasm?](https://medium.com/@harshitkapoor_73807/is-this-sarcasm-8fed766f6033?source=rss------data_science-5)
-- [Outliers in Machine Learning](https://srisindhu.medium.com/outliers-in-machine-learning-52bcd67ab4f7?source=rss------data_science-5)
-- [Creating a Simple Technical Indicator in Python](https://kaabar-sofien.medium.com/creating-a-simple-technical-indicator-in-python-900f89145d74?source=rss------data_science-5)
-- [How To Become An Excellent Data Scientist](https://medium.com/@wagnerdsc/how-to-become-an-excellent-data-scientist-86c958581263?source=rss------data_science-5)
+- [Decision Tree and Ensemble Learning Algorithms in Machine Learning](https://medium.com/@jwbtmf/decision-tree-and-ensemble-learning-algorithms-in-machine-learning-ea27b4429d85?source=rss------data_science-5)
+- [Conversational Sentiment Analysis on Audio Data](https://towardsdatascience.com/conversational-sentiment-analysis-on-audio-data-cd5b9a8e990b?source=rss------data_science-5)
+- [Machine Learning Batch Prediction Architecture Using Vertex AI](https://medium.com/anymind-group/machine-learning-batch-prediction-architecture-using-vertex-ai-45f6c2d8648e?source=rss------data_science-5)
+- [Interview with Tiasia O’Brien](https://md4sg.medium.com/interview-with-tiasia-obrien-332b1d6ae70c?source=rss------data_science-5)
+- [Video Tutorial on Training AI Models with Synthetic data!](https://medium.com/renderedai/video-tutorial-on-training-ai-models-with-synthetic-data-b22066639962?source=rss------data_science-5)
+- [Understanding the Trend With Fibonacci](https://kaabar-sofien.medium.com/understanding-the-trend-with-fibonacci-e12b9d05fb0e?source=rss------data_science-5)
+- [Things To Know Before Using Julia For Machine-Learning &lpar;REVISITED&rpar;](https://medium.com/chifi-media/things-to-know-before-using-julia-for-machine-learning-revisited-2729adc50c0f?source=rss------data_science-5)
+- [DataCamp Discount: Unlimited Access to courses and career track](https://medium.com/mlearning-ai/datacamp-discount-unlimited-access-to-courses-and-career-track-f1e5251a789b?source=rss------data_science-5)
+- [5 Datasets to Practice Data Cleaning](https://medium.com/codex/5-datasets-to-practice-data-cleaning-27378f422e1c?source=rss------data_science-5)
+- [Curated By Carla — DataCamp Is Hosting FREE Access Week July 18th-24th!](https://carlarjenkins.medium.com/curated-by-carla-datacamp-is-hosting-free-access-week-july-18th-24th-122525891241?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
