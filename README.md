@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Decision Tree and Ensemble Learning Algorithms in Machine Learning](https://medium.com/@jwbtmf/decision-tree-and-ensemble-learning-algorithms-in-machine-learning-ea27b4429d85?source=rss------data_science-5)
-- [Conversational Sentiment Analysis on Audio Data](https://towardsdatascience.com/conversational-sentiment-analysis-on-audio-data-cd5b9a8e990b?source=rss------data_science-5)
-- [Machine Learning Batch Prediction Architecture Using Vertex AI](https://medium.com/anymind-group/machine-learning-batch-prediction-architecture-using-vertex-ai-45f6c2d8648e?source=rss------data_science-5)
-- [Interview with Tiasia O’Brien](https://md4sg.medium.com/interview-with-tiasia-obrien-332b1d6ae70c?source=rss------data_science-5)
-- [Video Tutorial on Training AI Models with Synthetic data!](https://medium.com/renderedai/video-tutorial-on-training-ai-models-with-synthetic-data-b22066639962?source=rss------data_science-5)
-- [Understanding the Trend With Fibonacci](https://kaabar-sofien.medium.com/understanding-the-trend-with-fibonacci-e12b9d05fb0e?source=rss------data_science-5)
-- [Things To Know Before Using Julia For Machine-Learning &lpar;REVISITED&rpar;](https://medium.com/chifi-media/things-to-know-before-using-julia-for-machine-learning-revisited-2729adc50c0f?source=rss------data_science-5)
-- [DataCamp Discount: Unlimited Access to courses and career track](https://medium.com/mlearning-ai/datacamp-discount-unlimited-access-to-courses-and-career-track-f1e5251a789b?source=rss------data_science-5)
-- [5 Datasets to Practice Data Cleaning](https://medium.com/codex/5-datasets-to-practice-data-cleaning-27378f422e1c?source=rss------data_science-5)
-- [Curated By Carla — DataCamp Is Hosting FREE Access Week July 18th-24th!](https://carlarjenkins.medium.com/curated-by-carla-datacamp-is-hosting-free-access-week-july-18th-24th-122525891241?source=rss------data_science-5)
+- [My Phone Is at the Bottom of the Lake](https://medium.com/coffee-times/my-phone-is-at-the-bottom-of-the-lake-f415cabc7e37?source=rss------data_science-5)
+- [Understanding the different types of Meningitis part1&lpar;Neuroscience&rpar;](https://medium.com/@monodeepets77/understanding-the-different-types-of-meningitis-part1-neuroscience-77c68fc12288?source=rss------data_science-5)
+- [Artificial Intelligence #1](https://medium.com/@arsipkodeid/artificial-intelligence-1-437539249077?source=rss------data_science-5)
+- [How I increased my freelancer incomes with data](https://faun.pub/how-i-increased-my-freelancer-incomes-with-data-c4cda589f69e?source=rss------data_science-5)
+- [Overview Of Random Forest](https://medium.com/@wjj1019/overview-of-random-forest-36a9d51f4b57?source=rss------data_science-5)
+- [This class will now be required of every WMU supply chain major: CIS 2640 — Applied Analytics…](https://medium.com/@sime.curkovic/this-class-will-now-be-required-of-every-wmu-supply-chain-major-cis-2640-applied-analytics-60d4a0dae47f?source=rss------data_science-5)
+- [Detecting the Market Regime With Technical Indicators](https://kaabar-sofien.medium.com/detecting-the-market-regime-with-technical-indicators-a5aa0bd27de3?source=rss------data_science-5)
+- [Should You Use Apache Airflow?](https://medium.com/coriers/should-you-use-apache-airflow-e71c6cf7c0c4?source=rss------data_science-5)
+- [End-to-End Data Pipelines with Daisies](https://medium.com/daisi/end-to-end-data-pipelines-with-daisies-d9d18a31dae3?source=rss------data_science-5)
+- [Resolvendo um problema Linear de Logística usando Pesquisa Operacional e Python](https://medium.com/@gersongoulartjnr/resolvendo-um-problema-linear-de-log%C3%ADstica-usando-pesquisa-operacional-e-python-a7503b3b8b44?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
