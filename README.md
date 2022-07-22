@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [My Phone Is at the Bottom of the Lake](https://medium.com/coffee-times/my-phone-is-at-the-bottom-of-the-lake-f415cabc7e37?source=rss------data_science-5)
-- [Understanding the different types of Meningitis part1&lpar;Neuroscience&rpar;](https://medium.com/@monodeepets77/understanding-the-different-types-of-meningitis-part1-neuroscience-77c68fc12288?source=rss------data_science-5)
-- [Artificial Intelligence #1](https://medium.com/@arsipkodeid/artificial-intelligence-1-437539249077?source=rss------data_science-5)
-- [How I increased my freelancer incomes with data](https://faun.pub/how-i-increased-my-freelancer-incomes-with-data-c4cda589f69e?source=rss------data_science-5)
-- [Overview Of Random Forest](https://medium.com/@wjj1019/overview-of-random-forest-36a9d51f4b57?source=rss------data_science-5)
-- [This class will now be required of every WMU supply chain major: CIS 2640 — Applied Analytics…](https://medium.com/@sime.curkovic/this-class-will-now-be-required-of-every-wmu-supply-chain-major-cis-2640-applied-analytics-60d4a0dae47f?source=rss------data_science-5)
-- [Detecting the Market Regime With Technical Indicators](https://kaabar-sofien.medium.com/detecting-the-market-regime-with-technical-indicators-a5aa0bd27de3?source=rss------data_science-5)
-- [Should You Use Apache Airflow?](https://medium.com/coriers/should-you-use-apache-airflow-e71c6cf7c0c4?source=rss------data_science-5)
-- [End-to-End Data Pipelines with Daisies](https://medium.com/daisi/end-to-end-data-pipelines-with-daisies-d9d18a31dae3?source=rss------data_science-5)
-- [Resolvendo um problema Linear de Logística usando Pesquisa Operacional e Python](https://medium.com/@gersongoulartjnr/resolvendo-um-problema-linear-de-log%C3%ADstica-usando-pesquisa-operacional-e-python-a7503b3b8b44?source=rss------data_science-5)
+- [TypeError: unhashable type: ‘list’! How to Drop Duplicates with Lists in Pandas](https://jianan-lin.medium.com/typeerror-unhashable-type-list-how-to-drop-duplicates-with-lists-in-pandas-45d9e4dd2f6c?source=rss------data_science-5)
+- [Named Entity Recognition &lpar;NER&rpar; — Part II, Implementation with open source packages](https://towardsdatascience.com/named-entity-recognition-ner-part-ii-implementation-with-open-source-packages-2713c4c4a8c5?source=rss------data_science-5)
+- [Machine Learning at FAANG: Do You Need a Graduate Degree?](https://medium.com/@tdinh15/machine-learning-at-faang-do-you-need-a-graduate-degree-d559f3aae1c7?source=rss------data_science-5)
+- [Linear Regression in Machine Learning](https://medium.com/@diegotronics/linear-regression-in-machine-learning-63429336807d?source=rss------data_science-5)
+- [The Bull &amp; Bear Power — Coding Technical Indicators](https://kaabar-sofien.medium.com/the-bull-bear-power-coding-technical-indicators-89affa3e3068?source=rss------data_science-5)
+- [Carreiras em dados](https://medium.com/@ze.santiago/carreiras-em-dados-aa06da04ef48?source=rss------data_science-5)
+- [Linear Algebra for AI: NLP and ML Use Cases Simply Explained](https://pub.towardsai.net/linear-algebra-for-ai-nlp-and-ml-use-cases-simply-explained-c0bac7159a7f?source=rss------data_science-5)
+- [Clinical Informatics Daily Readings: #1](https://medium.com/@adambouras1/clinical-informatics-daily-readings-1-9ee3a21d4dec?source=rss------data_science-5)
+- [Four&lpar;4&rpar; things you need to know about Data Science Jobs Salaries.](https://medium.com/@a-tayo/four-4-things-you-need-to-know-about-data-science-jobs-salaries-42e61454f520?source=rss------data_science-5)
+- [RAD-ChestCT: Publicly Available Multi-Abnormality CT Scan Dataset](https://towardsdatascience.com/rad-chestct-publicly-available-multi-abnormality-ct-scan-dataset-3e4e1c35ff20?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
