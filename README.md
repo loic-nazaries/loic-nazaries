@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [TypeError: unhashable type: ‘list’! How to Drop Duplicates with Lists in Pandas](https://jianan-lin.medium.com/typeerror-unhashable-type-list-how-to-drop-duplicates-with-lists-in-pandas-45d9e4dd2f6c?source=rss------data_science-5)
-- [Named Entity Recognition &lpar;NER&rpar; — Part II, Implementation with open source packages](https://towardsdatascience.com/named-entity-recognition-ner-part-ii-implementation-with-open-source-packages-2713c4c4a8c5?source=rss------data_science-5)
-- [Machine Learning at FAANG: Do You Need a Graduate Degree?](https://medium.com/@tdinh15/machine-learning-at-faang-do-you-need-a-graduate-degree-d559f3aae1c7?source=rss------data_science-5)
-- [Linear Regression in Machine Learning](https://medium.com/@diegotronics/linear-regression-in-machine-learning-63429336807d?source=rss------data_science-5)
-- [The Bull &amp; Bear Power — Coding Technical Indicators](https://kaabar-sofien.medium.com/the-bull-bear-power-coding-technical-indicators-89affa3e3068?source=rss------data_science-5)
-- [Carreiras em dados](https://medium.com/@ze.santiago/carreiras-em-dados-aa06da04ef48?source=rss------data_science-5)
-- [Linear Algebra for AI: NLP and ML Use Cases Simply Explained](https://pub.towardsai.net/linear-algebra-for-ai-nlp-and-ml-use-cases-simply-explained-c0bac7159a7f?source=rss------data_science-5)
-- [Clinical Informatics Daily Readings: #1](https://medium.com/@adambouras1/clinical-informatics-daily-readings-1-9ee3a21d4dec?source=rss------data_science-5)
-- [Four&lpar;4&rpar; things you need to know about Data Science Jobs Salaries.](https://medium.com/@a-tayo/four-4-things-you-need-to-know-about-data-science-jobs-salaries-42e61454f520?source=rss------data_science-5)
-- [RAD-ChestCT: Publicly Available Multi-Abnormality CT Scan Dataset](https://towardsdatascience.com/rad-chestct-publicly-available-multi-abnormality-ct-scan-dataset-3e4e1c35ff20?source=rss------data_science-5)
+- [K’s Volatility Bands — Coding in Python](https://kaabar-sofien.medium.com/ks-volatility-bands-coding-in-python-4d4966ba7f89?source=rss------data_science-5)
+- [Programming Languages Data Scientists Need To Know!](https://preettheman.medium.com/programming-languages-data-scientists-need-to-know-ac172ecd9f29?source=rss------data_science-5)
+- [8 data-driven insights to maximise your AirBnB earnings in Seattle](https://medium.com/@yen_290/8-data-driven-insights-to-maximise-your-airbnb-earnings-in-seattle-bd2a696d3a1e?source=rss------data_science-5)
+- [The only checklist you need for every Data Science Case Study ever](https://medium.com/mlearning-ai/the-only-checklist-you-need-for-every-data-science-case-study-ever-aa649e664f1d?source=rss------data_science-5)
+- [Introduction to Data: Part 3](https://jennshin.medium.com/introduction-to-data-part-3-aeb47b72fabc?source=rss------data_science-5)
+- [Every Data Scientist Should Use This Python Package](https://preettheman.medium.com/every-data-scientist-should-use-this-python-package-59b61a4b895f?source=rss------data_science-5)
+- [Large Language Models &lpar;LLM&rpar;: Top 3 of the Most Important Methods](https://pub.towardsai.net/large-language-models-llms-top-3-of-the-most-important-methods-f7d92a2aa05a?source=rss------data_science-5)
+- [A Practical Guide to LambdaMART in LightGbm](https://towardsdatascience.com/a-practical-guide-to-lambdamart-in-lightgbm-f16a57864f6?source=rss------data_science-5)
+- [UNet++ Clearly Explained — A Better Image Segmentation Architecture](https://medium.com/@mlquest0/unet-clearly-explained-a-better-image-segmentation-architecture-f48661c92df9?source=rss------data_science-5)
+- [What Is “Attention”, Really?](https://medium.com/@angelinayang_41679/what-is-attention-really-1b1f01ddf0b4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
