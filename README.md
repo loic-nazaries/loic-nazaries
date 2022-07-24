@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [K’s Volatility Bands — Coding in Python](https://kaabar-sofien.medium.com/ks-volatility-bands-coding-in-python-4d4966ba7f89?source=rss------data_science-5)
-- [Programming Languages Data Scientists Need To Know!](https://preettheman.medium.com/programming-languages-data-scientists-need-to-know-ac172ecd9f29?source=rss------data_science-5)
-- [8 data-driven insights to maximise your AirBnB earnings in Seattle](https://medium.com/@yen_290/8-data-driven-insights-to-maximise-your-airbnb-earnings-in-seattle-bd2a696d3a1e?source=rss------data_science-5)
-- [The only checklist you need for every Data Science Case Study ever](https://medium.com/mlearning-ai/the-only-checklist-you-need-for-every-data-science-case-study-ever-aa649e664f1d?source=rss------data_science-5)
-- [Introduction to Data: Part 3](https://jennshin.medium.com/introduction-to-data-part-3-aeb47b72fabc?source=rss------data_science-5)
-- [Every Data Scientist Should Use This Python Package](https://preettheman.medium.com/every-data-scientist-should-use-this-python-package-59b61a4b895f?source=rss------data_science-5)
-- [Large Language Models &lpar;LLM&rpar;: Top 3 of the Most Important Methods](https://pub.towardsai.net/large-language-models-llms-top-3-of-the-most-important-methods-f7d92a2aa05a?source=rss------data_science-5)
-- [A Practical Guide to LambdaMART in LightGbm](https://towardsdatascience.com/a-practical-guide-to-lambdamart-in-lightgbm-f16a57864f6?source=rss------data_science-5)
-- [UNet++ Clearly Explained — A Better Image Segmentation Architecture](https://medium.com/@mlquest0/unet-clearly-explained-a-better-image-segmentation-architecture-f48661c92df9?source=rss------data_science-5)
-- [What Is “Attention”, Really?](https://medium.com/@angelinayang_41679/what-is-attention-really-1b1f01ddf0b4?source=rss------data_science-5)
+- [How to Learn to Code Fast &lpar;And Get a Job&rpar;](https://medium.com/geekculture/how-to-learn-to-code-fast-and-get-a-job-269e6234aa69?source=rss------data_science-5)
+- [Deployment Challenges for Data Science Projects](https://medium.com/@dnyaneshwalwadkar/deployment-challenges-for-data-science-projects-9eb8b3bd8365?source=rss------data_science-5)
+- [Book review on: “Python and R for the Modern Data Scientist”](https://medium.com/omics-diary/book-review-on-python-and-r-for-the-modern-data-scientist-3fba487fea9c?source=rss------data_science-5)
+- [My Body Transformation Has No Statistical Significance](https://medium.com/@kathleen.mary.hernandez/my-body-transformation-has-no-statistical-significance-55acb68b33a0?source=rss------data_science-5)
+- [5 Must-Know NLP Libraries on GitHub; One is a Must-Learn](https://pub.towardsai.net/5-must-know-nlp-libraries-on-github-one-is-a-must-learn-fb90ace40840?source=rss------data_science-5)
+- [GREATER MANCHESTER ROAD ACCIDENTS ANALYSIS USING JUPYTER NOTEBOOK](https://medium.com/@tundeakeredolu/greater-manchester-road-accidents-analysis-using-jupyter-notebook-15eea35e64c5?source=rss------data_science-5)
+- [Why You Need To Adopt Market Basket Analysis As A Retailer.](https://medium.com/@barbarazen/why-you-need-to-adopt-market-basket-analysis-as-a-retailer-b7731e0117ea?source=rss------data_science-5)
+- [Music Recommender System — An Overview of my Project](https://medium.com/@Henry_Lawal/music-recommender-system-an-overview-of-my-project-b0c7fe1fe382?source=rss------data_science-5)
+- [Elements of a Good Data Science Project](https://medium.com/mlearning-ai/elements-of-a-good-data-science-project-d7ef8911c02b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
