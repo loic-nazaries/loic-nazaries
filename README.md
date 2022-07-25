@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Learn to Code Fast &lpar;And Get a Job&rpar;](https://medium.com/geekculture/how-to-learn-to-code-fast-and-get-a-job-269e6234aa69?source=rss------data_science-5)
-- [Deployment Challenges for Data Science Projects](https://medium.com/@dnyaneshwalwadkar/deployment-challenges-for-data-science-projects-9eb8b3bd8365?source=rss------data_science-5)
-- [Book review on: “Python and R for the Modern Data Scientist”](https://medium.com/omics-diary/book-review-on-python-and-r-for-the-modern-data-scientist-3fba487fea9c?source=rss------data_science-5)
-- [My Body Transformation Has No Statistical Significance](https://medium.com/@kathleen.mary.hernandez/my-body-transformation-has-no-statistical-significance-55acb68b33a0?source=rss------data_science-5)
-- [5 Must-Know NLP Libraries on GitHub; One is a Must-Learn](https://pub.towardsai.net/5-must-know-nlp-libraries-on-github-one-is-a-must-learn-fb90ace40840?source=rss------data_science-5)
-- [GREATER MANCHESTER ROAD ACCIDENTS ANALYSIS USING JUPYTER NOTEBOOK](https://medium.com/@tundeakeredolu/greater-manchester-road-accidents-analysis-using-jupyter-notebook-15eea35e64c5?source=rss------data_science-5)
-- [Why You Need To Adopt Market Basket Analysis As A Retailer.](https://medium.com/@barbarazen/why-you-need-to-adopt-market-basket-analysis-as-a-retailer-b7731e0117ea?source=rss------data_science-5)
-- [Music Recommender System — An Overview of my Project](https://medium.com/@Henry_Lawal/music-recommender-system-an-overview-of-my-project-b0c7fe1fe382?source=rss------data_science-5)
-- [Elements of a Good Data Science Project](https://medium.com/mlearning-ai/elements-of-a-good-data-science-project-d7ef8911c02b?source=rss------data_science-5)
+- [Elegant unit typing and conversion in Python with Pint](https://python.plainenglish.io/elegant-unit-typing-and-conversion-in-python-with-pint-2b65690572cb?source=rss------data_science-5)
+- [How I am Learning Computer Vision — Pt.2 — Mathematics and Colors](https://igorcomune.medium.com/how-i-am-learning-computer-vision-pt-2-mathematics-and-colors-c90a94d02bd6?source=rss------data_science-5)
+- [Mixed time scales in different processes inside the COVID-19 pandemic.](https://tavoglc.medium.com/mixed-time-scales-in-different-processes-inside-the-covid-19-pandemic-f2a65cb8ca56?source=rss------data_science-5)
+- [Detecção de fraude em pagamentos online com aprendizado de máquina](https://medium.com/@pedrofogacami/detec%C3%A7%C3%A3o-de-fraude-em-pagamentos-online-com-aprendizado-de-m%C3%A1quina-a79179a3552d?source=rss------data_science-5)
+- [Trading the Cipher Pattern](https://kaabar-sofien.medium.com/trading-the-cipher-pattern-d5d4cbfef8a1?source=rss------data_science-5)
+- [Data visualization with Python &amp; Plotly](https://medium.com/@alestamm/data-visualization-with-python-plotly-770bfd7e5854?source=rss------data_science-5)
+- [A Cereal-ous Quantitative Analysis on Breakfast Cereals](https://medium.com/@huishi1885/a-cereal-ous-quantitative-analysis-on-breakfast-cereal-f06267c5cd4?source=rss------data_science-5)
+- [Incremental Machine Learning for Streaming data with river: Part 3; Classification Algorithms…](https://kvirajdatt.medium.com/incremental-machine-learning-for-streaming-data-with-river-part-3-classification-algorithms-315c145dcb92?source=rss------data_science-5)
+- [Congress and Stock Trading](https://medium.com/@kthomas083/congress-and-stock-trading-526ab2453850?source=rss------data_science-5)
+- [Data Science | Introduction to Bayes Theorem](https://medium.com/@soulawalid/data-science-introduction-to-bayes-theorem-36d55653ca2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
