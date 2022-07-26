@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Elegant unit typing and conversion in Python with Pint](https://python.plainenglish.io/elegant-unit-typing-and-conversion-in-python-with-pint-2b65690572cb?source=rss------data_science-5)
-- [How I am Learning Computer Vision — Pt.2 — Mathematics and Colors](https://igorcomune.medium.com/how-i-am-learning-computer-vision-pt-2-mathematics-and-colors-c90a94d02bd6?source=rss------data_science-5)
-- [Mixed time scales in different processes inside the COVID-19 pandemic.](https://tavoglc.medium.com/mixed-time-scales-in-different-processes-inside-the-covid-19-pandemic-f2a65cb8ca56?source=rss------data_science-5)
-- [Detecção de fraude em pagamentos online com aprendizado de máquina](https://medium.com/@pedrofogacami/detec%C3%A7%C3%A3o-de-fraude-em-pagamentos-online-com-aprendizado-de-m%C3%A1quina-a79179a3552d?source=rss------data_science-5)
-- [Trading the Cipher Pattern](https://kaabar-sofien.medium.com/trading-the-cipher-pattern-d5d4cbfef8a1?source=rss------data_science-5)
-- [Data visualization with Python &amp; Plotly](https://medium.com/@alestamm/data-visualization-with-python-plotly-770bfd7e5854?source=rss------data_science-5)
-- [A Cereal-ous Quantitative Analysis on Breakfast Cereals](https://medium.com/@huishi1885/a-cereal-ous-quantitative-analysis-on-breakfast-cereal-f06267c5cd4?source=rss------data_science-5)
-- [Incremental Machine Learning for Streaming data with river: Part 3; Classification Algorithms…](https://kvirajdatt.medium.com/incremental-machine-learning-for-streaming-data-with-river-part-3-classification-algorithms-315c145dcb92?source=rss------data_science-5)
-- [Congress and Stock Trading](https://medium.com/@kthomas083/congress-and-stock-trading-526ab2453850?source=rss------data_science-5)
-- [Data Science | Introduction to Bayes Theorem](https://medium.com/@soulawalid/data-science-introduction-to-bayes-theorem-36d55653ca2?source=rss------data_science-5)
+- [Machine Learning: Multiple Linear Regression and C02EMISSIONS Prediction](https://medium.com/@ozdasfurkan/machine-learning-multiple-linear-regression-and-c02emissions-prediction-7c21d23781f?source=rss------data_science-5)
+- [Understanding the applications of Merkle Tree&lpar;Data Structures and Algorithms&rpar;](https://medium.com/@monocosmo77/understanding-the-applications-of-merkle-tree-ce6d0bef6bbe?source=rss------data_science-5)
+- [Research based on the Monty Hall Game&lpar;Statistics&rpar;](https://medium.com/@monocosmo77/research-based-on-the-monty-hall-game-statistics-368c0b345122?source=rss------data_science-5)
+- [AI for Good: Trash Sorting/Recycling](https://medium.com/@HunterKempf/ai-for-good-trash-sorting-recycling-4bf04d8eeb63?source=rss------data_science-5)
+- [Synthetic Data in Machine Learning: What, Why, How?](https://vincentgranville.medium.com/synthetic-data-in-machine-learning-what-why-how-d2d53643654b?source=rss------data_science-5)
+- [The VIX Trading Strategy](https://kaabar-sofien.medium.com/the-vix-trading-strategy-ea066bb061c9?source=rss------data_science-5)
+- [WhatsApp group chat analysis](https://medium.com/@olaitanhazeem/whatsapp-group-chat-analysis-bed1fd5fae3e?source=rss------data_science-5)
+- [Clinical Informatics Daily Readings: #2](https://medium.com/@adambouras1/clinical-informatics-daily-readings-2-a3a8b9d23687?source=rss------data_science-5)
+- [My Experience at LetsGrowMore’s Virtual Internship Program [July -2022]](https://medium.com/@ksstudent26/my-experience-at-letsgrowmores-virtual-internship-program-july-2022-2e902b96b382?source=rss------data_science-5)
+- [Python Packages Made By Google](https://preettheman.medium.com/python-packages-made-by-google-acb98e1c54ca?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
