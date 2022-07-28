@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Datos for dummies](https://medium.com/@dataforeveryone.latam/datos-for-dummies-3cc3ac34ddd8?source=rss------data_science-5)
-- [6 BigQuery SQL Functions Every User Should Know](https://towardsdatascience.com/6-bigquery-sql-functions-every-user-should-know-9ed97b1cf72e?source=rss------data_science-5)
-- [Why every Data Scientist/Data Analyst should learn Python.](https://medium.com/@deborahaku8/why-every-data-scientist-data-analyst-should-learn-python-72f5785566cb?source=rss------data_science-5)
-- [Why I chose the University of Chicago for my M.S. in Analytics](https://medium.com/@HillSnow/why-i-chose-the-university-of-chicago-for-my-m-s-in-analytics-79621d0ef870?source=rss------data_science-5)
-- [One of the Best Trend-Following Strategies](https://kaabar-sofien.medium.com/one-of-the-best-trend-following-strategies-9a0c5d8635bf?source=rss------data_science-5)
-- [A Crazy Difficult DSA Problem: Can You Help This Person?](https://levelup.gitconnected.com/a-crazy-difficult-dsa-problem-can-you-help-this-person-2cb5f30f449c?source=rss------data_science-5)
-- [Web Scraping Images with Python and Selenium](https://medium.com/@dniggl/web-scraping-images-with-python-and-selenium-792e452abd70?source=rss------data_science-5)
-- [Predicting price on Kijiji](https://medium.com/@afsvieira/predicting-price-on-kijiji-3c67ac3cbff?source=rss------data_science-5)
-- [XGBoost &lpar;Extreme Gradient Boosting&rpar; in Machine Learning](https://medium.com/@jwbtmf/xgboost-extreme-gradient-boosting-in-machine-learning-3427b937b35c?source=rss------data_science-5)
-- [General Overview of Machine Learning Operations &lpar;MLOps&rpar;](https://medium.com/geekculture/general-overview-of-machine-learning-operations-mlops-d76520c3c09f?source=rss------data_science-5)
+- [An Introduction to Synthetic Data and the Rendered.ai Platform](https://medium.com/renderedai/an-introduction-to-synthetic-data-and-the-rendered-ai-platform-7ff035088f06?source=rss------data_science-5)
+- [DATA SCIENCE JOB SALARY FOR 2020–2022](https://medium.com/@tessof4lyf/data-science-job-salary-for-2020-2022-9f632b8b8364?source=rss------data_science-5)
+- [Trading With Momentum and Volatility](https://kaabar-sofien.medium.com/trading-with-momentum-and-volatility-5c27c6f22a9e?source=rss------data_science-5)
+- [LoL Esports Summer 2022 Dashboard](https://medium.com/@johnly107/lol-esports-summer-2022-dashboard-744553731044?source=rss------data_science-5)
+- [How to set up a remote server for machine learning training?](https://medium.com/@simon05301998/how-to-set-up-a-remote-server-for-machine-learning-training-dd70f26d3877?source=rss------data_science-5)
+- [Feature Selection for dummies — a simple introduction](https://medium.com/@amerjabar0000/feature-selection-for-dummies-a-simple-introduction-9cf8a9ad737a?source=rss------data_science-5)
+- [Our story &amp; purpose in this digital world](https://medium.com/databender/our-story-purpose-in-this-digital-world-338293377e21?source=rss------data_science-5)
+- [This Python Project Is Pretty Cool](https://preettheman.medium.com/this-python-project-is-pretty-cool-33ef24688f07?source=rss------data_science-5)
+- [Support Vector Machine](https://medium.com/@ushabhanukomaragiri/support-vector-machine-f3c548e2e4fd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
