@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [An Introduction to Synthetic Data and the Rendered.ai Platform](https://medium.com/renderedai/an-introduction-to-synthetic-data-and-the-rendered-ai-platform-7ff035088f06?source=rss------data_science-5)
-- [DATA SCIENCE JOB SALARY FOR 2020–2022](https://medium.com/@tessof4lyf/data-science-job-salary-for-2020-2022-9f632b8b8364?source=rss------data_science-5)
-- [Trading With Momentum and Volatility](https://kaabar-sofien.medium.com/trading-with-momentum-and-volatility-5c27c6f22a9e?source=rss------data_science-5)
-- [LoL Esports Summer 2022 Dashboard](https://medium.com/@johnly107/lol-esports-summer-2022-dashboard-744553731044?source=rss------data_science-5)
-- [How to set up a remote server for machine learning training?](https://medium.com/@simon05301998/how-to-set-up-a-remote-server-for-machine-learning-training-dd70f26d3877?source=rss------data_science-5)
-- [Feature Selection for dummies — a simple introduction](https://medium.com/@amerjabar0000/feature-selection-for-dummies-a-simple-introduction-9cf8a9ad737a?source=rss------data_science-5)
-- [Our story &amp; purpose in this digital world](https://medium.com/databender/our-story-purpose-in-this-digital-world-338293377e21?source=rss------data_science-5)
-- [This Python Project Is Pretty Cool](https://preettheman.medium.com/this-python-project-is-pretty-cool-33ef24688f07?source=rss------data_science-5)
-- [Support Vector Machine](https://medium.com/@ushabhanukomaragiri/support-vector-machine-f3c548e2e4fd?source=rss------data_science-5)
+- [Data Compression in CSV &lpar;up to 85%&rpar;](https://medium.com/@shahrullo/data-compression-in-csv-up-to-85-116e68d87d7a?source=rss------data_science-5)
+- [Python and the Pandas Library](https://medium.com/@jashanrahal/python-and-the-pandas-library-14925dae3e35?source=rss------data_science-5)
+- [Plano de estudos para Ciência de dados](https://medium.com/@unidataverse/plano-de-estudos-para-ci%C3%AAncia-de-dados-4c42978b6d49?source=rss------data_science-5)
+- [Activation Functions in Neural Networks: What you may not know.](https://medium.com/@tdinh15/activation-functions-in-neural-networks-what-you-may-not-know-2d99ad093246?source=rss------data_science-5)
+- [Radiant MLHub Spotlight Q&amp;A: Emmanuel Siaw-Darko](https://medium.com/radiant-earth-insights/radiant-mlhub-spotlight-q-a-emmanuel-siaw-darko-4b5266451674?source=rss------data_science-5)
+- [Por que todo Cientista de Dados deveria ter um blog?](https://medium.com/@ruizroman/por-que-todo-cientista-de-dados-deveria-ter-um-blog-f4a548615f02?source=rss------data_science-5)
+- [WiMLDS NYC: April 2022 Newsletter](https://medium.com/wimlds-nyc-blog/wimlds-nyc-april-2022-newsletter-7aafec02265?source=rss------data_science-5)
+- [How To Make STGNNsCapable of Forecasting Long-term Multivariate Time Series Data?](https://pub.towardsai.net/how-to-make-stgnnscapable-of-forecasting-long-term-multivariate-time-series-data-9fe5efd77fa1?source=rss------data_science-5)
+- [The Difference Between the Normal Distribution and the Standard Normal Distribution](https://federicoriveroll.medium.com/the-difference-between-the-normal-distribution-and-the-standard-normal-distribution-491726b5f38f?source=rss------data_science-5)
+- [What On Earth Are Imputers?](https://medium.com/chifi-media/what-on-earth-are-imputers-7a9d268b9821?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
