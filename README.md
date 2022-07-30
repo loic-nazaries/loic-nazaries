@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Compression in CSV &lpar;up to 85%&rpar;](https://medium.com/@shahrullo/data-compression-in-csv-up-to-85-116e68d87d7a?source=rss------data_science-5)
-- [Python and the Pandas Library](https://medium.com/@jashanrahal/python-and-the-pandas-library-14925dae3e35?source=rss------data_science-5)
-- [Plano de estudos para Ciência de dados](https://medium.com/@unidataverse/plano-de-estudos-para-ci%C3%AAncia-de-dados-4c42978b6d49?source=rss------data_science-5)
-- [Activation Functions in Neural Networks: What you may not know.](https://medium.com/@tdinh15/activation-functions-in-neural-networks-what-you-may-not-know-2d99ad093246?source=rss------data_science-5)
-- [Radiant MLHub Spotlight Q&amp;A: Emmanuel Siaw-Darko](https://medium.com/radiant-earth-insights/radiant-mlhub-spotlight-q-a-emmanuel-siaw-darko-4b5266451674?source=rss------data_science-5)
-- [Por que todo Cientista de Dados deveria ter um blog?](https://medium.com/@ruizroman/por-que-todo-cientista-de-dados-deveria-ter-um-blog-f4a548615f02?source=rss------data_science-5)
-- [WiMLDS NYC: April 2022 Newsletter](https://medium.com/wimlds-nyc-blog/wimlds-nyc-april-2022-newsletter-7aafec02265?source=rss------data_science-5)
-- [How To Make STGNNsCapable of Forecasting Long-term Multivariate Time Series Data?](https://pub.towardsai.net/how-to-make-stgnnscapable-of-forecasting-long-term-multivariate-time-series-data-9fe5efd77fa1?source=rss------data_science-5)
-- [The Difference Between the Normal Distribution and the Standard Normal Distribution](https://federicoriveroll.medium.com/the-difference-between-the-normal-distribution-and-the-standard-normal-distribution-491726b5f38f?source=rss------data_science-5)
-- [What On Earth Are Imputers?](https://medium.com/chifi-media/what-on-earth-are-imputers-7a9d268b9821?source=rss------data_science-5)
+- [Using Class Weight to Compensate for Imbalanced Data](https://medium.com/@bubbapora_76246/using-class-weight-to-compensate-for-imbalanced-data-6eff370185d3?source=rss------data_science-5)
+- [Quantum computers and big data: A perfect match](https://medium.com/@okpegbueaustine/quantum-computers-and-big-data-a-perfect-match-bde36c080248?source=rss------data_science-5)
+- [Como usar Python para consumir uma API e alimentar um banco de dados relacional](https://medium.com/geleia/como-usar-python-para-consumir-uma-api-e-alimentar-um-banco-de-dados-relacional-3786ddd696e5?source=rss------data_science-5)
+- [Entendendo métricas de erro em modelos de Machine Learning — MAE](https://medium.com/@rmalmeida2/entendendo-m%C3%A9tricas-de-erro-em-modelos-de-machine-learning-mae-c3b688bff1c6?source=rss------data_science-5)
+- [Automatically Detect Key Levels in Python](https://medium.com/@craigmariani47/automatically-detect-key-levels-in-python-2d2050044359?source=rss------data_science-5)
+- [Why Python Is The Best Programming Language For Data Analytics](https://preettheman.medium.com/why-python-is-the-best-programming-language-for-data-analytics-c2c458634ba9?source=rss------data_science-5)
+- [Creating a Structured Trading Strategy](https://kaabar-sofien.medium.com/creating-a-structured-trading-strategy-42184fd7e3ec?source=rss------data_science-5)
+- [Um ano de dados + futebol + apostas](https://medium.com/datadummies/um-ano-de-dados-futebol-apostas-c59c1406b2c5?source=rss------data_science-5)
+- [Python Packages Made By Netflix](https://preettheman.medium.com/python-packages-made-by-netflix-1b2d49cd7c4?source=rss------data_science-5)
+- [Every Data Scientist Should Use This IDE](https://preettheman.medium.com/every-data-scientist-should-use-this-ide-b1922143a2fe?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
