@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Using Class Weight to Compensate for Imbalanced Data](https://medium.com/@bubbapora_76246/using-class-weight-to-compensate-for-imbalanced-data-6eff370185d3?source=rss------data_science-5)
-- [Quantum computers and big data: A perfect match](https://medium.com/@okpegbueaustine/quantum-computers-and-big-data-a-perfect-match-bde36c080248?source=rss------data_science-5)
-- [Como usar Python para consumir uma API e alimentar um banco de dados relacional](https://medium.com/geleia/como-usar-python-para-consumir-uma-api-e-alimentar-um-banco-de-dados-relacional-3786ddd696e5?source=rss------data_science-5)
-- [Entendendo métricas de erro em modelos de Machine Learning — MAE](https://medium.com/@rmalmeida2/entendendo-m%C3%A9tricas-de-erro-em-modelos-de-machine-learning-mae-c3b688bff1c6?source=rss------data_science-5)
-- [Automatically Detect Key Levels in Python](https://medium.com/@craigmariani47/automatically-detect-key-levels-in-python-2d2050044359?source=rss------data_science-5)
-- [Why Python Is The Best Programming Language For Data Analytics](https://preettheman.medium.com/why-python-is-the-best-programming-language-for-data-analytics-c2c458634ba9?source=rss------data_science-5)
-- [Creating a Structured Trading Strategy](https://kaabar-sofien.medium.com/creating-a-structured-trading-strategy-42184fd7e3ec?source=rss------data_science-5)
-- [Um ano de dados + futebol + apostas](https://medium.com/datadummies/um-ano-de-dados-futebol-apostas-c59c1406b2c5?source=rss------data_science-5)
-- [Python Packages Made By Netflix](https://preettheman.medium.com/python-packages-made-by-netflix-1b2d49cd7c4?source=rss------data_science-5)
-- [Every Data Scientist Should Use This IDE](https://preettheman.medium.com/every-data-scientist-should-use-this-ide-b1922143a2fe?source=rss------data_science-5)
+- [Começar a programar, nao é sobre programar é como começar um caminho de aprendizado de modo a ter…](https://medium.com/@marcosapulo4876/come%C3%A7ar-a-programar-nao-%C3%A9-sobre-programar-%C3%A9-como-come%C3%A7ar-um-caminho-de-aprendizado-de-modo-a-ter-d97346f6c00e?source=rss------data_science-5)
+- [Customer Segmentation using RFM Analysis](https://medium.com/@hanindhiya.ika/customer-segmentation-using-rfm-analysis-5ba78e9f8546?source=rss------data_science-5)
+- [Top 3 Most Important Machine Learning Libraries for Sports Predictive Analytics](https://medium.com/geekculture/top-3-most-important-machine-learning-libraries-for-sports-predictive-analytics-874e99b318ff?source=rss------data_science-5)
+- [My First Blog and Its about Data Science](https://medium.com/@rshowrav/my-first-blog-and-its-about-data-science-691c44ab3598?source=rss------data_science-5)
+- [Every Data Analyst Needs To Know These Python Packages](https://preettheman.medium.com/every-data-analyst-needs-to-know-these-python-packages-90ed099b33af?source=rss------data_science-5)
+- [A Song of Snow and Bricks](https://yoseflaw.medium.com/a-song-of-snow-and-bricks-c77adf9d264b?source=rss------data_science-5)
+- [The Correlation-Adjusted Reversal Indicator](https://kaabar-sofien.medium.com/the-correlation-adjusted-reversal-indicator-873046633f23?source=rss------data_science-5)
+- [You don’t know Jack &lpar;about your data&rpar;](https://rdodev.medium.com/you-dont-know-jack-about-your-data-685b116f91e5?source=rss------data_science-5)
+- [Data Science Learning strategy](https://blog.devgenius.io/data-science-learning-strategy-2a9f9278f3f4?source=rss------data_science-5)
+- [A Quantitative Approach to Weapon Selection in Fortnite [Part 2]](https://medium.com/@hioutputblog.com/a-quantitative-approach-to-weapon-selection-in-fortnite-part-2-7726fcc12807?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
