@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Começar a programar, nao é sobre programar é como começar um caminho de aprendizado de modo a ter…](https://medium.com/@marcosapulo4876/come%C3%A7ar-a-programar-nao-%C3%A9-sobre-programar-%C3%A9-como-come%C3%A7ar-um-caminho-de-aprendizado-de-modo-a-ter-d97346f6c00e?source=rss------data_science-5)
-- [Customer Segmentation using RFM Analysis](https://medium.com/@hanindhiya.ika/customer-segmentation-using-rfm-analysis-5ba78e9f8546?source=rss------data_science-5)
-- [Top 3 Most Important Machine Learning Libraries for Sports Predictive Analytics](https://medium.com/geekculture/top-3-most-important-machine-learning-libraries-for-sports-predictive-analytics-874e99b318ff?source=rss------data_science-5)
-- [My First Blog and Its about Data Science](https://medium.com/@rshowrav/my-first-blog-and-its-about-data-science-691c44ab3598?source=rss------data_science-5)
-- [Every Data Analyst Needs To Know These Python Packages](https://preettheman.medium.com/every-data-analyst-needs-to-know-these-python-packages-90ed099b33af?source=rss------data_science-5)
-- [A Song of Snow and Bricks](https://yoseflaw.medium.com/a-song-of-snow-and-bricks-c77adf9d264b?source=rss------data_science-5)
-- [The Correlation-Adjusted Reversal Indicator](https://kaabar-sofien.medium.com/the-correlation-adjusted-reversal-indicator-873046633f23?source=rss------data_science-5)
-- [You don’t know Jack &lpar;about your data&rpar;](https://rdodev.medium.com/you-dont-know-jack-about-your-data-685b116f91e5?source=rss------data_science-5)
-- [Data Science Learning strategy](https://blog.devgenius.io/data-science-learning-strategy-2a9f9278f3f4?source=rss------data_science-5)
-- [A Quantitative Approach to Weapon Selection in Fortnite [Part 2]](https://medium.com/@hioutputblog.com/a-quantitative-approach-to-weapon-selection-in-fortnite-part-2-7726fcc12807?source=rss------data_science-5)
+- [Predicting Food Insecurity](https://medium.com/@naftywilliam/predicting-food-insecurity-ce8ff39b732c?source=rss------data_science-5)
+- [Data Science’s true potential](https://medium.com/@jason.h.schwartz/data-sciences-true-potential-e6994fdcc22?source=rss------data_science-5)
+- [Introducción a Pytorch](https://medium.com/@simon.e.lozada/introducci%C3%B3n-a-pytorch-18bbecbc319?source=rss------data_science-5)
+- [The Detrended Price Oscillator](https://kaabar-sofien.medium.com/the-detrended-price-oscillator-feca5c8cc89d?source=rss------data_science-5)
+- [Best Python Setups For Data Science/Data Analysis](https://preettheman.medium.com/best-python-setups-for-data-science-data-analysis-b92978e5c444?source=rss------data_science-5)
+- [9-Month Check-In: A Collection of Tips, Tricks, Dos &amp; Don’ts from Doing ML in Academia](https://medium.com/@h-vo/9-month-check-in-a-collection-of-tips-tricks-dos-donts-from-doing-ml-in-academia-74c17d54b9f1?source=rss------data_science-5)
+- [Which Technologies and Tools are Developers in Germany using in 2022?](https://paul-dzitse.medium.com/which-technologies-and-tools-are-developers-in-germany-using-in-2022-8131209c7163?source=rss------data_science-5)
+- [Day 30 of Pursuing Data Analytics](https://medium.com/@kingsleyofori/day-30-of-pursuing-data-analytics-d2d0fd19c9e2?source=rss------data_science-5)
+- [RStudio is changing its company name to Posit](https://zimanaanalytics.medium.com/rstudio-is-changing-its-company-name-to-posit-76ff052837e0?source=rss------data_science-5)
+- [A Very Basic Overview of Neural Radiance Fields &lpar;NeRF&rpar;](https://towardsdatascience.com/a-very-basic-overview-of-neural-radiance-fields-nerf-db4a0d4c391b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
