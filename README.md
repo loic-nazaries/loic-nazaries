@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Predicting Food Insecurity](https://medium.com/@naftywilliam/predicting-food-insecurity-ce8ff39b732c?source=rss------data_science-5)
-- [Data Science’s true potential](https://medium.com/@jason.h.schwartz/data-sciences-true-potential-e6994fdcc22?source=rss------data_science-5)
-- [Introducción a Pytorch](https://medium.com/@simon.e.lozada/introducci%C3%B3n-a-pytorch-18bbecbc319?source=rss------data_science-5)
-- [The Detrended Price Oscillator](https://kaabar-sofien.medium.com/the-detrended-price-oscillator-feca5c8cc89d?source=rss------data_science-5)
-- [Best Python Setups For Data Science/Data Analysis](https://preettheman.medium.com/best-python-setups-for-data-science-data-analysis-b92978e5c444?source=rss------data_science-5)
-- [9-Month Check-In: A Collection of Tips, Tricks, Dos &amp; Don’ts from Doing ML in Academia](https://medium.com/@h-vo/9-month-check-in-a-collection-of-tips-tricks-dos-donts-from-doing-ml-in-academia-74c17d54b9f1?source=rss------data_science-5)
-- [Which Technologies and Tools are Developers in Germany using in 2022?](https://paul-dzitse.medium.com/which-technologies-and-tools-are-developers-in-germany-using-in-2022-8131209c7163?source=rss------data_science-5)
-- [Day 30 of Pursuing Data Analytics](https://medium.com/@kingsleyofori/day-30-of-pursuing-data-analytics-d2d0fd19c9e2?source=rss------data_science-5)
-- [RStudio is changing its company name to Posit](https://zimanaanalytics.medium.com/rstudio-is-changing-its-company-name-to-posit-76ff052837e0?source=rss------data_science-5)
-- [A Very Basic Overview of Neural Radiance Fields &lpar;NeRF&rpar;](https://towardsdatascience.com/a-very-basic-overview-of-neural-radiance-fields-nerf-db4a0d4c391b?source=rss------data_science-5)
+- [Hard to imagine  data analysis without the aggregate functions.](https://medium.com/aatomz-research/hard-to-imagine-data-analysis-without-the-aggregate-functions-27ba65b26068?source=rss------data_science-5)
+- [Cheminformatics](https://medium.com/taws/cheminformatics-e73cf8cb0de3?source=rss------data_science-5)
+- [Overview of top 50 songs country-wise](https://medium.com/@deep-anshi/overview-of-top-50-songs-country-wise-4ef79ed9c7f3?source=rss------data_science-5)
+- [Data Vault](https://medium.com/@corymaklin/data-vault-682f4ff29f78?source=rss------data_science-5)
+- [Do You Know Your Data Has A Life Cycle?](https://medium.com/@promisechinonso228/do-you-know-your-data-has-a-life-cycle-2575e3b74751?source=rss------data_science-5)
+- [If you look at this 2020–2030 job growth chart closely, all things supply chain related scored VERY…](https://medium.com/@sime.curkovic/if-look-at-this-2020-2030-job-growth-chart-closely-all-things-supply-chain-related-scored-very-db67b084ef02?source=rss------data_science-5)
+- [Time series clustering for stock market prediction in Python— Part 1](https://towardsdatascience.com/time-series-clustering-for-stock-market-prediction-in-python-part-1-738ab6462f0e?source=rss------data_science-5)
+- [Popular Airbnb neighborhoods in Austin -Austin Airbnb Data Exploration using Python](https://medium.com/@b.a.s.sampath/popular-airbnb-neighborhoods-in-austin-austin-airbnb-data-exploration-using-python-380b324cb752?source=rss------data_science-5)
+- [Estudar Ciência de Dados ?](https://medium.com/@tborgeslima/estudar-ci%C3%AAncia-de-dados-bbe0517654c8?source=rss------data_science-5)
+- [Clinical Informatics Daily Readings: #3](https://medium.com/@adambouras1/clinical-informatics-daily-readings-3-af4e2b346296?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
