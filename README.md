@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Hard to imagine  data analysis without the aggregate functions.](https://medium.com/aatomz-research/hard-to-imagine-data-analysis-without-the-aggregate-functions-27ba65b26068?source=rss------data_science-5)
-- [Cheminformatics](https://medium.com/taws/cheminformatics-e73cf8cb0de3?source=rss------data_science-5)
-- [Overview of top 50 songs country-wise](https://medium.com/@deep-anshi/overview-of-top-50-songs-country-wise-4ef79ed9c7f3?source=rss------data_science-5)
-- [Data Vault](https://medium.com/@corymaklin/data-vault-682f4ff29f78?source=rss------data_science-5)
-- [Do You Know Your Data Has A Life Cycle?](https://medium.com/@promisechinonso228/do-you-know-your-data-has-a-life-cycle-2575e3b74751?source=rss------data_science-5)
-- [If you look at this 2020–2030 job growth chart closely, all things supply chain related scored VERY…](https://medium.com/@sime.curkovic/if-look-at-this-2020-2030-job-growth-chart-closely-all-things-supply-chain-related-scored-very-db67b084ef02?source=rss------data_science-5)
-- [Time series clustering for stock market prediction in Python— Part 1](https://towardsdatascience.com/time-series-clustering-for-stock-market-prediction-in-python-part-1-738ab6462f0e?source=rss------data_science-5)
-- [Popular Airbnb neighborhoods in Austin -Austin Airbnb Data Exploration using Python](https://medium.com/@b.a.s.sampath/popular-airbnb-neighborhoods-in-austin-austin-airbnb-data-exploration-using-python-380b324cb752?source=rss------data_science-5)
-- [Estudar Ciência de Dados ?](https://medium.com/@tborgeslima/estudar-ci%C3%AAncia-de-dados-bbe0517654c8?source=rss------data_science-5)
-- [Clinical Informatics Daily Readings: #3](https://medium.com/@adambouras1/clinical-informatics-daily-readings-3-af4e2b346296?source=rss------data_science-5)
+- [Sankarabharnam — The Carnatic equivalent of the major scale](https://medium.com/emergent-phenomena/sankarabharnam-the-carnatic-equivalent-of-the-major-scale-30bfa8e0a0d0?source=rss------data_science-5)
+- [Let’s be honest, not all Data Scientists are the same.](https://medium.com/@analytics4all/lets-be-honest-not-all-data-scientists-are-the-same-bfde5808b04f?source=rss------data_science-5)
+- [KNIME — Getting hands dirty with visualization techniques in KNIME. Part 1.](https://medium.com/low-code-for-advanced-data-science/knime-getting-hands-dirty-with-visualization-techniques-in-knime-part-1-5860bfd04acf?source=rss------data_science-5)
+- [5-Minute Machine Learning: Autoencoders](https://medium.datadriveninvestor.com/5-minute-machine-learning-autoencoders-f8b41a16c090?source=rss------data_science-5)
+- [We’re using numbers wrong](https://medium.com/geekculture/were-using-numbers-wrong-589707f219fb?source=rss------data_science-5)
+- [Özellik Mühendisliği — Feature Engineering &lpar;Outliers&rpar;](https://yusufbehrambayindir.medium.com/ozellik-muhendisligi-outliers-eb7b2b9d6c88?source=rss------data_science-5)
+- [Regression Trees, Step by Step](https://towardsdatascience.com/regression-trees-step-by-step-4de996e27f85?source=rss------data_science-5)
+- [Are recommendation systems enough?](https://shrustighela.medium.com/are-recommendation-systems-enough-af8c6dd2eb15?source=rss------data_science-5)
+- [Overfitting: Causes and Remedies](https://pub.towardsai.net/overfitting-causes-and-remedies-5a3853f6f1e6?source=rss------data_science-5)
+- [Biological Data Science: A step-by-step guide to creating a database on MySQL workbench [Part 1-A]](https://medium.com/@shetty.deeksha100/biological-data-science-a-step-by-step-guide-to-creating-a-database-on-mysql-workbench-part-1-a-a0518d18d375?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
