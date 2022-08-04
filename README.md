@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Sankarabharnam — The Carnatic equivalent of the major scale](https://medium.com/emergent-phenomena/sankarabharnam-the-carnatic-equivalent-of-the-major-scale-30bfa8e0a0d0?source=rss------data_science-5)
-- [Let’s be honest, not all Data Scientists are the same.](https://medium.com/@analytics4all/lets-be-honest-not-all-data-scientists-are-the-same-bfde5808b04f?source=rss------data_science-5)
-- [KNIME — Getting hands dirty with visualization techniques in KNIME. Part 1.](https://medium.com/low-code-for-advanced-data-science/knime-getting-hands-dirty-with-visualization-techniques-in-knime-part-1-5860bfd04acf?source=rss------data_science-5)
-- [5-Minute Machine Learning: Autoencoders](https://medium.datadriveninvestor.com/5-minute-machine-learning-autoencoders-f8b41a16c090?source=rss------data_science-5)
-- [We’re using numbers wrong](https://medium.com/geekculture/were-using-numbers-wrong-589707f219fb?source=rss------data_science-5)
-- [Özellik Mühendisliği — Feature Engineering &lpar;Outliers&rpar;](https://yusufbehrambayindir.medium.com/ozellik-muhendisligi-outliers-eb7b2b9d6c88?source=rss------data_science-5)
-- [Regression Trees, Step by Step](https://towardsdatascience.com/regression-trees-step-by-step-4de996e27f85?source=rss------data_science-5)
-- [Are recommendation systems enough?](https://shrustighela.medium.com/are-recommendation-systems-enough-af8c6dd2eb15?source=rss------data_science-5)
-- [Overfitting: Causes and Remedies](https://pub.towardsai.net/overfitting-causes-and-remedies-5a3853f6f1e6?source=rss------data_science-5)
-- [Biological Data Science: A step-by-step guide to creating a database on MySQL workbench [Part 1-A]](https://medium.com/@shetty.deeksha100/biological-data-science-a-step-by-step-guide-to-creating-a-database-on-mysql-workbench-part-1-a-a0518d18d375?source=rss------data_science-5)
+- [Random Effect Multiple Linear Regression with Panel Data &lpar;1&rpar;](https://medium.com/@medi_seul/random-effect-multiple-linear-regression-with-panel-data-1-d1dbf690eb4e?source=rss------data_science-5)
+- [6 Ways I Made Money from Coding &lpar;without a job&rpar;](https://medium.com/geekculture/6-ways-i-made-money-from-coding-without-a-job-28c44aabb8ca?source=rss------data_science-5)
+- [The Origins, Purpose, and Practice of Data Observability](https://towardsdatascience.com/the-origins-purpose-and-practice-of-data-observability-baa12db46755?source=rss------data_science-5)
+- [5 Less-Known Python Libraries That Can Help in Your Next Data Science Project](https://towardsdatascience.com/5-less-known-python-libraries-that-can-help-in-your-next-data-science-project-5970a81b32de?source=rss------data_science-5)
+- [The Step Fibonacci Average Indicator](https://kaabar-sofien.medium.com/the-step-fibonacci-average-indicator-924da823a60e?source=rss------data_science-5)
+- [Instagram + Python Is Awesome!](https://preettheman.medium.com/instagram-python-is-awesome-9ad306ce658e?source=rss------data_science-5)
+- [Anomaly Detection in Multivariate Time Series with Network Graphs](https://towardsdatascience.com/anomaly-detection-in-multivariate-time-series-with-network-graphs-80a84deeed9e?source=rss------data_science-5)
+- [White Star Capital is Looking for a Fall Intern &lpar;September — December&rpar; in Canada](https://whitestarcapital.medium.com/white-star-capital-is-looking-for-a-fall-intern-september-december-in-canada-62f751e67a37?source=rss------data_science-5)
+- [Redes Neuronales: CNN versus RNN](https://medium.com/@william.mejia.lanza/redes-neuronales-cnn-versus-rnn-a0f3450ac21e?source=rss------data_science-5)
+- [Everything You Should Know about Python Zip Function](https://towardsdatascience.com/everything-you-should-know-about-python-zip-function-fba0e4e13361?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
