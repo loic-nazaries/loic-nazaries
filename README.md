@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Random Effect Multiple Linear Regression with Panel Data &lpar;1&rpar;](https://medium.com/@medi_seul/random-effect-multiple-linear-regression-with-panel-data-1-d1dbf690eb4e?source=rss------data_science-5)
-- [6 Ways I Made Money from Coding &lpar;without a job&rpar;](https://medium.com/geekculture/6-ways-i-made-money-from-coding-without-a-job-28c44aabb8ca?source=rss------data_science-5)
-- [The Origins, Purpose, and Practice of Data Observability](https://towardsdatascience.com/the-origins-purpose-and-practice-of-data-observability-baa12db46755?source=rss------data_science-5)
-- [5 Less-Known Python Libraries That Can Help in Your Next Data Science Project](https://towardsdatascience.com/5-less-known-python-libraries-that-can-help-in-your-next-data-science-project-5970a81b32de?source=rss------data_science-5)
-- [The Step Fibonacci Average Indicator](https://kaabar-sofien.medium.com/the-step-fibonacci-average-indicator-924da823a60e?source=rss------data_science-5)
-- [Instagram + Python Is Awesome!](https://preettheman.medium.com/instagram-python-is-awesome-9ad306ce658e?source=rss------data_science-5)
-- [Anomaly Detection in Multivariate Time Series with Network Graphs](https://towardsdatascience.com/anomaly-detection-in-multivariate-time-series-with-network-graphs-80a84deeed9e?source=rss------data_science-5)
-- [White Star Capital is Looking for a Fall Intern &lpar;September — December&rpar; in Canada](https://whitestarcapital.medium.com/white-star-capital-is-looking-for-a-fall-intern-september-december-in-canada-62f751e67a37?source=rss------data_science-5)
-- [Redes Neuronales: CNN versus RNN](https://medium.com/@william.mejia.lanza/redes-neuronales-cnn-versus-rnn-a0f3450ac21e?source=rss------data_science-5)
-- [Everything You Should Know about Python Zip Function](https://towardsdatascience.com/everything-you-should-know-about-python-zip-function-fba0e4e13361?source=rss------data_science-5)
+- [The Catapult Indicator — Innovative Trading Techniques](https://kaabar-sofien.medium.com/the-catapult-indicator-innovative-trading-techniques-5585023996b0?source=rss------data_science-5)
+- [Blackjack, Stocks, and Reinforcement Learning](https://trevormcguire.medium.com/blackjack-stocks-and-reinforcement-learning-ea4014115aeb?source=rss------data_science-5)
+- [Summer 2019: Getting into STEM Research](https://hanagabrielle.medium.com/summer-2019-getting-into-stem-research-534a181b4430?source=rss------data_science-5)
+- [A Toy Diffusion model you can run on your laptop](https://thiago-lira.medium.com/a-toy-diffusion-model-you-can-run-on-your-laptop-20e9e5a83462?source=rss------data_science-5)
+- [5 Practical SQL Examples To Master SQL GROUP BY](https://towardsdatascience.com/5-practical-sql-examples-to-master-sql-group-by-7877ddf03ba8?source=rss------data_science-5)
+- [Why Technical Skills Don’t Matter.](https://medium.com/@heathlikethecandybar/why-technical-skills-dont-matter-ccf51b064c1c?source=rss------data_science-5)
+- [Does the Modern Data Stack Value the “Stack” Over “Data”?](https://towardsdatascience.com/does-the-modern-data-stack-value-the-stack-over-data-69b8dee4950f?source=rss------data_science-5)
+- [Gráficos Interativos da Covid-19 com Python](https://medium.com/@data.driven/gr%C3%A1ficos-interativos-da-covid-19-com-python-5926f5cdada2?source=rss------data_science-5)
+- [Customer Segmentation in Marketing: An end to end application using Python](https://medium.com/@manilwagle/customer-segmentation-in-marketing-an-end-to-end-application-using-python-16fde1f37d74?source=rss------data_science-5)
+- [What if Sherlock Holmes was a data scientist?](https://medium.com/@mhdhabboub/what-if-sherlock-holmes-was-a-data-scientist-383be1dfbcb7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
