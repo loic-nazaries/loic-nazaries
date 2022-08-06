@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Catapult Indicator — Innovative Trading Techniques](https://kaabar-sofien.medium.com/the-catapult-indicator-innovative-trading-techniques-5585023996b0?source=rss------data_science-5)
-- [Blackjack, Stocks, and Reinforcement Learning](https://trevormcguire.medium.com/blackjack-stocks-and-reinforcement-learning-ea4014115aeb?source=rss------data_science-5)
-- [Summer 2019: Getting into STEM Research](https://hanagabrielle.medium.com/summer-2019-getting-into-stem-research-534a181b4430?source=rss------data_science-5)
-- [A Toy Diffusion model you can run on your laptop](https://thiago-lira.medium.com/a-toy-diffusion-model-you-can-run-on-your-laptop-20e9e5a83462?source=rss------data_science-5)
-- [5 Practical SQL Examples To Master SQL GROUP BY](https://towardsdatascience.com/5-practical-sql-examples-to-master-sql-group-by-7877ddf03ba8?source=rss------data_science-5)
-- [Why Technical Skills Don’t Matter.](https://medium.com/@heathlikethecandybar/why-technical-skills-dont-matter-ccf51b064c1c?source=rss------data_science-5)
-- [Does the Modern Data Stack Value the “Stack” Over “Data”?](https://towardsdatascience.com/does-the-modern-data-stack-value-the-stack-over-data-69b8dee4950f?source=rss------data_science-5)
-- [Gráficos Interativos da Covid-19 com Python](https://medium.com/@data.driven/gr%C3%A1ficos-interativos-da-covid-19-com-python-5926f5cdada2?source=rss------data_science-5)
-- [Customer Segmentation in Marketing: An end to end application using Python](https://medium.com/@manilwagle/customer-segmentation-in-marketing-an-end-to-end-application-using-python-16fde1f37d74?source=rss------data_science-5)
-- [What if Sherlock Holmes was a data scientist?](https://medium.com/@mhdhabboub/what-if-sherlock-holmes-was-a-data-scientist-383be1dfbcb7?source=rss------data_science-5)
+- [Prioritize and Grow Rich](https://datascientistdad.medium.com/prioritize-and-grow-rich-4a5f8092e8ba?source=rss------data_science-5)
+- [I am fascinated by the $ opportunities w/ Data Science skills.](https://medium.com/@sime.curkovic/i-am-fascinated-by-the-opportunities-w-data-science-skills-e7a7213df90f?source=rss------data_science-5)
+- [What will the future of Real Estate look like?](https://medium.com/@tezgam.ai/what-will-the-future-of-real-estate-look-like-c64edfb1836f?source=rss------data_science-5)
+- [How simple data analytics can put your data to work before you are ‘ML Ready’](https://medium.com/@jimoheni2016/how-simple-data-analytics-can-put-your-data-to-work-before-you-are-ml-ready-82a59d147ba9?source=rss------data_science-5)
+- [Using SQL for Pandas Data Frames](https://erhankul.medium.com/using-sql-for-pandas-data-frames-d2a5380b8c43?source=rss------data_science-5)
+- [Why it is valuable to work as a data science consultant](https://medium.com/@crystalwong_11198/why-it-is-valuable-to-work-as-a-data-science-consultant-9e162d7f94cc?source=rss------data_science-5)
+- [These Are The Most In Demand Programming Languages In 2022](https://preettheman.medium.com/these-are-the-most-in-demand-programming-languages-in-2022-670d8c46600d?source=rss------data_science-5)
+- [The Difference Between ETL and ELT](https://medium.com/@ahana.io/the-difference-between-etl-and-elt-ee9d1cf5dd40?source=rss------data_science-5)
+- [Fundamental Analysis in Python — The ISM PMI Technique](https://kaabar-sofien.medium.com/fundamental-analysis-in-python-the-ism-pmi-technique-af46b5be6313?source=rss------data_science-5)
+- [7 Resources to Level Up with Python for Data Science](https://medium.com/codewars-blog/7-resources-to-level-up-with-python-for-data-science-724285067962?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
