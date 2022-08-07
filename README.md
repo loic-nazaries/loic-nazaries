@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Prioritize and Grow Rich](https://datascientistdad.medium.com/prioritize-and-grow-rich-4a5f8092e8ba?source=rss------data_science-5)
-- [I am fascinated by the $ opportunities w/ Data Science skills.](https://medium.com/@sime.curkovic/i-am-fascinated-by-the-opportunities-w-data-science-skills-e7a7213df90f?source=rss------data_science-5)
-- [What will the future of Real Estate look like?](https://medium.com/@tezgam.ai/what-will-the-future-of-real-estate-look-like-c64edfb1836f?source=rss------data_science-5)
-- [How simple data analytics can put your data to work before you are ‘ML Ready’](https://medium.com/@jimoheni2016/how-simple-data-analytics-can-put-your-data-to-work-before-you-are-ml-ready-82a59d147ba9?source=rss------data_science-5)
-- [Using SQL for Pandas Data Frames](https://erhankul.medium.com/using-sql-for-pandas-data-frames-d2a5380b8c43?source=rss------data_science-5)
-- [Why it is valuable to work as a data science consultant](https://medium.com/@crystalwong_11198/why-it-is-valuable-to-work-as-a-data-science-consultant-9e162d7f94cc?source=rss------data_science-5)
-- [These Are The Most In Demand Programming Languages In 2022](https://preettheman.medium.com/these-are-the-most-in-demand-programming-languages-in-2022-670d8c46600d?source=rss------data_science-5)
-- [The Difference Between ETL and ELT](https://medium.com/@ahana.io/the-difference-between-etl-and-elt-ee9d1cf5dd40?source=rss------data_science-5)
-- [Fundamental Analysis in Python — The ISM PMI Technique](https://kaabar-sofien.medium.com/fundamental-analysis-in-python-the-ism-pmi-technique-af46b5be6313?source=rss------data_science-5)
-- [7 Resources to Level Up with Python for Data Science](https://medium.com/codewars-blog/7-resources-to-level-up-with-python-for-data-science-724285067962?source=rss------data_science-5)
+- [Snowpark Series: Working with Snowpark. &lpar;Part -1&rpar;](https://chetangrandhe.medium.com/snowpark-series-working-with-snowpark-part-1-4c8b6f8199a9?source=rss------data_science-5)
+- [DATA ANALYSIS: Life Expectancy &lpar;WHO&rpar;](https://medium.com/@abayomialliayomide/data-analysis-life-expectancy-who-552155d4bbc9?source=rss------data_science-5)
+- [Trading the Golden Harmonic Pattern](https://kaabar-sofien.medium.com/trading-the-golden-harmonic-pattern-4e7f317da449?source=rss------data_science-5)
+- [A Guide To Working With Python DateTimes and Timezone](https://jonmce.medium.com/a-guide-to-working-with-python-datetimes-and-timezone-bebc4ab84429?source=rss------data_science-5)
+- [Methodology for Data Science Projects](https://medium.com/@rshowrav/methodology-for-data-science-projects-af52ac0c457a?source=rss------data_science-5)
+- [What? When? How?: ExtraTrees Classifier](https://towardsdatascience.com/what-when-how-extratrees-classifier-c939f905851c?source=rss------data_science-5)
+- [I Needed Money, So I Invented BAW-IV Trading](https://medium.com/the-financial-journal/i-needed-money-so-i-invented-baw-iv-trading-208f33538475?source=rss------data_science-5)
+- [Recruiting data scientists purposefully — Tips for managers](https://medium.com/@forest.kevin/recruiting-data-scientists-purposefully-tips-for-managers-93eb88818742?source=rss------data_science-5)
+- [Launch AI Services using Terraform on OCI](https://medium.com/@ntoscano01/launch-ai-services-using-terraform-on-oci-a1485cd4463a?source=rss------data_science-5)
+- [Py.1 : Getting started with Python](https://medium.com/@santosh.saxena.official/py-1-getting-started-with-python-d24197cbf660?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
