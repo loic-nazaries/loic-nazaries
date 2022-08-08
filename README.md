@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Snowpark Series: Working with Snowpark. &lpar;Part -1&rpar;](https://chetangrandhe.medium.com/snowpark-series-working-with-snowpark-part-1-4c8b6f8199a9?source=rss------data_science-5)
-- [DATA ANALYSIS: Life Expectancy &lpar;WHO&rpar;](https://medium.com/@abayomialliayomide/data-analysis-life-expectancy-who-552155d4bbc9?source=rss------data_science-5)
-- [Trading the Golden Harmonic Pattern](https://kaabar-sofien.medium.com/trading-the-golden-harmonic-pattern-4e7f317da449?source=rss------data_science-5)
-- [A Guide To Working With Python DateTimes and Timezone](https://jonmce.medium.com/a-guide-to-working-with-python-datetimes-and-timezone-bebc4ab84429?source=rss------data_science-5)
-- [Methodology for Data Science Projects](https://medium.com/@rshowrav/methodology-for-data-science-projects-af52ac0c457a?source=rss------data_science-5)
-- [What? When? How?: ExtraTrees Classifier](https://towardsdatascience.com/what-when-how-extratrees-classifier-c939f905851c?source=rss------data_science-5)
-- [I Needed Money, So I Invented BAW-IV Trading](https://medium.com/the-financial-journal/i-needed-money-so-i-invented-baw-iv-trading-208f33538475?source=rss------data_science-5)
-- [Recruiting data scientists purposefully — Tips for managers](https://medium.com/@forest.kevin/recruiting-data-scientists-purposefully-tips-for-managers-93eb88818742?source=rss------data_science-5)
-- [Launch AI Services using Terraform on OCI](https://medium.com/@ntoscano01/launch-ai-services-using-terraform-on-oci-a1485cd4463a?source=rss------data_science-5)
-- [Py.1 : Getting started with Python](https://medium.com/@santosh.saxena.official/py-1-getting-started-with-python-d24197cbf660?source=rss------data_science-5)
+- [[NVIDIA GTC] ハンズオンワークショップ：「アクセラレーテッド データ サイエンスの基礎」のご紹介](https://medium.com/nvidiajapan/nvidia-gtc22f-dli-rapids-732b1331446e?source=rss------data_science-5)
+- [กราฟ ROC CURVE](https://matlabbkk.medium.com/%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%9F-roc-curve-cb3941ab2736?source=rss------data_science-5)
+- [DBSCAN easily explained](https://medium.com/mlearning-ai/dbscan-easily-explained-9f47aa2e1df6?source=rss------data_science-5)
+- [[NEW COURSE] Data Science: Bayesian Linear Regression in Python](https://medium.com/@lazyprogrammerofficial/new-course-data-science-bayesian-linear-regression-in-python-62cb8a21fdbf?source=rss------data_science-5)
+- [Under the Hood of Deep Neural Networks in TensorFlow using Keras](https://medium.com/@samoliver3/under-the-hood-of-deep-neural-networks-in-tensorflow-using-keras-c5594344bcd1?source=rss------data_science-5)
+- [Building a Stuff+ Model Using XGBoost](https://medium.com/@kaifranke3/building-a-stuff-model-using-xgboost-8c548fbab8f2?source=rss------data_science-5)
+- [The universe of “Data Science” roles demystified](https://pub.towardsai.net/the-universe-of-data-science-roles-demystified-b13dd00dc212?source=rss------data_science-5)
+- [When you’re overwhelmed with learning data…](https://medium.com/@britney.lovett/when-youre-overwhelmed-with-learning-data-2829d47cd130?source=rss------data_science-5)
+- [Accessing Google Spreadsheet Data using Python](https://jayasekarablog.medium.com/accessing-google-spreadsheet-data-using-python-59a8052f8cb4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
