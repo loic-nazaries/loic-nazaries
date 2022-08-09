@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [[NVIDIA GTC] ハンズオンワークショップ：「アクセラレーテッド データ サイエンスの基礎」のご紹介](https://medium.com/nvidiajapan/nvidia-gtc22f-dli-rapids-732b1331446e?source=rss------data_science-5)
-- [กราฟ ROC CURVE](https://matlabbkk.medium.com/%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%9F-roc-curve-cb3941ab2736?source=rss------data_science-5)
-- [DBSCAN easily explained](https://medium.com/mlearning-ai/dbscan-easily-explained-9f47aa2e1df6?source=rss------data_science-5)
-- [[NEW COURSE] Data Science: Bayesian Linear Regression in Python](https://medium.com/@lazyprogrammerofficial/new-course-data-science-bayesian-linear-regression-in-python-62cb8a21fdbf?source=rss------data_science-5)
-- [Under the Hood of Deep Neural Networks in TensorFlow using Keras](https://medium.com/@samoliver3/under-the-hood-of-deep-neural-networks-in-tensorflow-using-keras-c5594344bcd1?source=rss------data_science-5)
-- [Building a Stuff+ Model Using XGBoost](https://medium.com/@kaifranke3/building-a-stuff-model-using-xgboost-8c548fbab8f2?source=rss------data_science-5)
-- [The universe of “Data Science” roles demystified](https://pub.towardsai.net/the-universe-of-data-science-roles-demystified-b13dd00dc212?source=rss------data_science-5)
-- [When you’re overwhelmed with learning data…](https://medium.com/@britney.lovett/when-youre-overwhelmed-with-learning-data-2829d47cd130?source=rss------data_science-5)
-- [Accessing Google Spreadsheet Data using Python](https://jayasekarablog.medium.com/accessing-google-spreadsheet-data-using-python-59a8052f8cb4?source=rss------data_science-5)
+- [If Python have Built in Data Structures , why do we then need another one for Data Analysis?](https://medium.com/@khingcly/if-python-have-built-in-data-structures-why-do-we-then-need-another-one-for-data-analysis-971b4de47cb6?source=rss------data_science-5)
+- [What exactly is Big Data anyway?](https://medium.com/@analytics4all/what-exactly-is-big-data-anyway-32e6b49c8985?source=rss------data_science-5)
+- [Marketing Campaign Exploratory Data Analysis with Python](https://medium.com/@s.yao/marketing-campaign-data-analysis-with-python-cc685bf3a2e8?source=rss------data_science-5)
+- [How to Use Pyspark and Jupyter Notebook with Docker](https://medium.com/@chris.sfreitas10/how-to-use-pyspark-and-jupyter-notebook-with-docker-bb89f04ca895?source=rss------data_science-5)
+- [A Simple Trading Strategy With Candlesticks &amp; Indicators](https://kaabar-sofien.medium.com/a-simple-trading-strategy-with-candlesticks-indicators-c4bbb572d2b2?source=rss------data_science-5)
+- [Does sampling more lead to a better summary regarding a population?](https://medium.com/@zhanglinghe610/does-sampling-more-lead-to-a-better-summary-regarding-a-population-4d7198e798eb?source=rss------data_science-5)
+- [Basic SQL Queries and Their Equivalent Commands in Python](https://medium.com/@ziongonet/basic-sql-queries-and-their-equivalent-commands-in-python-af70a5a7479?source=rss------data_science-5)
+- [Build a text search engine in ~20 lines of code](https://medium.com/@newhardwarefound/build-a-text-search-engine-in-20-lines-of-code-ccb9124b991a?source=rss------data_science-5)
+- [Gitme Dur Ne Olur : Müşteri Kayıp &lpar;Churn&rpar; Analizi](https://medium.com/@neslihanuzun/gitme-dur-ne-olur-m%C3%BC%C5%9Fteri-kay%C4%B1p-churn-analizi-a5c7750741a5?source=rss------data_science-5)
+- [How to Build an Open Data Lakehouse with Presto, Hudi and AWS S3](https://medium.com/@ahana.io/how-to-build-an-open-data-lakehouse-with-presto-hudi-and-aws-s3-d075eb58cdc0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
