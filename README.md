@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [If Python have Built in Data Structures , why do we then need another one for Data Analysis?](https://medium.com/@khingcly/if-python-have-built-in-data-structures-why-do-we-then-need-another-one-for-data-analysis-971b4de47cb6?source=rss------data_science-5)
-- [What exactly is Big Data anyway?](https://medium.com/@analytics4all/what-exactly-is-big-data-anyway-32e6b49c8985?source=rss------data_science-5)
-- [Marketing Campaign Exploratory Data Analysis with Python](https://medium.com/@s.yao/marketing-campaign-data-analysis-with-python-cc685bf3a2e8?source=rss------data_science-5)
-- [How to Use Pyspark and Jupyter Notebook with Docker](https://medium.com/@chris.sfreitas10/how-to-use-pyspark-and-jupyter-notebook-with-docker-bb89f04ca895?source=rss------data_science-5)
-- [A Simple Trading Strategy With Candlesticks &amp; Indicators](https://kaabar-sofien.medium.com/a-simple-trading-strategy-with-candlesticks-indicators-c4bbb572d2b2?source=rss------data_science-5)
-- [Does sampling more lead to a better summary regarding a population?](https://medium.com/@zhanglinghe610/does-sampling-more-lead-to-a-better-summary-regarding-a-population-4d7198e798eb?source=rss------data_science-5)
-- [Basic SQL Queries and Their Equivalent Commands in Python](https://medium.com/@ziongonet/basic-sql-queries-and-their-equivalent-commands-in-python-af70a5a7479?source=rss------data_science-5)
-- [Build a text search engine in ~20 lines of code](https://medium.com/@newhardwarefound/build-a-text-search-engine-in-20-lines-of-code-ccb9124b991a?source=rss------data_science-5)
-- [Gitme Dur Ne Olur : Müşteri Kayıp &lpar;Churn&rpar; Analizi](https://medium.com/@neslihanuzun/gitme-dur-ne-olur-m%C3%BC%C5%9Fteri-kay%C4%B1p-churn-analizi-a5c7750741a5?source=rss------data_science-5)
-- [How to Build an Open Data Lakehouse with Presto, Hudi and AWS S3](https://medium.com/@ahana.io/how-to-build-an-open-data-lakehouse-with-presto-hudi-and-aws-s3-d075eb58cdc0?source=rss------data_science-5)
+- [Time Series Analysis &lpar;2&rpar; — CDF, white noise, stationary](https://medium.com/@medi_seul/time-series-analysis-2-cdf-white-noise-stationary-6199855c0ee1?source=rss------data_science-5)
+- [Two Tips for Every Upcoming Data Scientists](https://medium.com/geekculture/two-tips-for-every-upcoming-data-scientists-d06b68c2b0dd?source=rss------data_science-5)
+- [Neural-Symbolic Regression: Distilling Science from Data](https://medium.com/@khang.pham.exxact/neural-symbolic-regression-distilling-science-from-data-8a82ce956f39?source=rss------data_science-5)
+- [This AI newsletter is all you need #7](https://pub.towardsai.net/this-ai-newsletter-is-all-you-need-7-af749790e33b?source=rss------data_science-5)
+- [Introduction to Apache Kafka](https://medium.com/@amjad.baba913/introduction-to-apache-kafka-638a2fa2da1d?source=rss------data_science-5)
+- [Exploratory Data Analysis: Cyclistic Bike-Share Analysis Case Study](https://usmankayy.medium.com/exploratory-data-analysis-cyclistic-bike-share-analysis-case-study-1b1a00475a4f?source=rss------data_science-5)
+- [Technical Indicators — A Way to Make the Subjective Objective](https://kaabar-sofien.medium.com/technical-indicators-a-way-to-make-the-subjective-objective-8b33444ec9b9?source=rss------data_science-5)
+- [This Quick and Easy 7-Step Checklist Will Help You Write Better Python Code for Data Science](https://towardsdatascience.com/this-quick-and-easy-7-step-checklist-will-help-you-write-better-python-code-for-data-science-62f1a1f4b20c?source=rss------data_science-5)
+- [These Are The Programming Languages That Built Medium](https://preettheman.medium.com/these-are-the-programming-languages-that-built-medium-f08f6d536515?source=rss------data_science-5)
+- [From Data Gathering to Modeling, the Process](https://medium.com/@vimixy/from-data-gathering-to-modeling-the-process-e215e33ba9a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
