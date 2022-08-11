@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Time Series Analysis &lpar;2&rpar; — CDF, white noise, stationary](https://medium.com/@medi_seul/time-series-analysis-2-cdf-white-noise-stationary-6199855c0ee1?source=rss------data_science-5)
-- [Two Tips for Every Upcoming Data Scientists](https://medium.com/geekculture/two-tips-for-every-upcoming-data-scientists-d06b68c2b0dd?source=rss------data_science-5)
-- [Neural-Symbolic Regression: Distilling Science from Data](https://medium.com/@khang.pham.exxact/neural-symbolic-regression-distilling-science-from-data-8a82ce956f39?source=rss------data_science-5)
-- [This AI newsletter is all you need #7](https://pub.towardsai.net/this-ai-newsletter-is-all-you-need-7-af749790e33b?source=rss------data_science-5)
-- [Introduction to Apache Kafka](https://medium.com/@amjad.baba913/introduction-to-apache-kafka-638a2fa2da1d?source=rss------data_science-5)
-- [Exploratory Data Analysis: Cyclistic Bike-Share Analysis Case Study](https://usmankayy.medium.com/exploratory-data-analysis-cyclistic-bike-share-analysis-case-study-1b1a00475a4f?source=rss------data_science-5)
-- [Technical Indicators — A Way to Make the Subjective Objective](https://kaabar-sofien.medium.com/technical-indicators-a-way-to-make-the-subjective-objective-8b33444ec9b9?source=rss------data_science-5)
-- [This Quick and Easy 7-Step Checklist Will Help You Write Better Python Code for Data Science](https://towardsdatascience.com/this-quick-and-easy-7-step-checklist-will-help-you-write-better-python-code-for-data-science-62f1a1f4b20c?source=rss------data_science-5)
-- [These Are The Programming Languages That Built Medium](https://preettheman.medium.com/these-are-the-programming-languages-that-built-medium-f08f6d536515?source=rss------data_science-5)
-- [From Data Gathering to Modeling, the Process](https://medium.com/@vimixy/from-data-gathering-to-modeling-the-process-e215e33ba9a?source=rss------data_science-5)
+- [What you need to know about updated Machine Learning Specialization by DeepLearing.AI](https://towardsdatascience.com/what-you-need-to-know-about-updated-machine-learning-specialization-by-deeplearing-ai-97118fa03297?source=rss------data_science-5)
+- [The Curious Case of Zimbabwe Part II](https://medium.com/@bobbywwilsonjr/the-curious-case-of-zimbabwe-part-ii-91df7a681cf2?source=rss------data_science-5)
+- [Probability for Data Science](https://medium.com/@gajendra.k.s/probability-for-data-science-44d2a40d5bc7?source=rss------data_science-5)
+- [Documentation dies in the darkness](https://medium.com/hex-blog/documentation-dies-in-the-darkness-671c8a2e4418?source=rss------data_science-5)
+- [Expect Wild Swings In Month-Month Inflation To Continue](https://medium.com/@rcervisi/expect-wild-swings-in-month-month-inflation-to-continue-4e50489309bc?source=rss------data_science-5)
+- [Data Science aplicado a detecção de fraudes em compras no cartão de crédito](https://medium.com/@cmatheusrm/data-science-aplicado-a-detec%C3%A7%C3%A3o-de-fraudes-em-compras-no-cart%C3%A3o-de-cr%C3%A9dito-b7ec507e9ec2?source=rss------data_science-5)
+- [Beyond Averages: 3 Ways to Measure Inequality](https://medium.com/@yiningw/beyond-averages-3-ways-to-measure-inequality-e6f2dec233a1?source=rss------data_science-5)
+- [How to Manipulate Your Data in R using Dplyr Package](https://medium.com/machine-learning-t%C3%BCrkiye/how-to-manipulate-your-data-in-r-using-dplyr-package-af8120ab07ba?source=rss------data_science-5)
+- [Adaptive Relative Strength Index](https://kaabar-sofien.medium.com/adaptive-relative-strength-index-4a1094dd3fe9?source=rss------data_science-5)
+- [3 Things I Did Before Starting My Data Analysis Journey- You Should Do The Same](https://medium.com/@Promise-Chinonso/3-things-i-did-before-starting-my-data-analysis-journey-you-should-do-the-same-6a85735d6f99?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
