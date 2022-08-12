@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What you need to know about updated Machine Learning Specialization by DeepLearing.AI](https://towardsdatascience.com/what-you-need-to-know-about-updated-machine-learning-specialization-by-deeplearing-ai-97118fa03297?source=rss------data_science-5)
-- [The Curious Case of Zimbabwe Part II](https://medium.com/@bobbywwilsonjr/the-curious-case-of-zimbabwe-part-ii-91df7a681cf2?source=rss------data_science-5)
-- [Probability for Data Science](https://medium.com/@gajendra.k.s/probability-for-data-science-44d2a40d5bc7?source=rss------data_science-5)
-- [Documentation dies in the darkness](https://medium.com/hex-blog/documentation-dies-in-the-darkness-671c8a2e4418?source=rss------data_science-5)
-- [Expect Wild Swings In Month-Month Inflation To Continue](https://medium.com/@rcervisi/expect-wild-swings-in-month-month-inflation-to-continue-4e50489309bc?source=rss------data_science-5)
-- [Data Science aplicado a detecção de fraudes em compras no cartão de crédito](https://medium.com/@cmatheusrm/data-science-aplicado-a-detec%C3%A7%C3%A3o-de-fraudes-em-compras-no-cart%C3%A3o-de-cr%C3%A9dito-b7ec507e9ec2?source=rss------data_science-5)
-- [Beyond Averages: 3 Ways to Measure Inequality](https://medium.com/@yiningw/beyond-averages-3-ways-to-measure-inequality-e6f2dec233a1?source=rss------data_science-5)
-- [How to Manipulate Your Data in R using Dplyr Package](https://medium.com/machine-learning-t%C3%BCrkiye/how-to-manipulate-your-data-in-r-using-dplyr-package-af8120ab07ba?source=rss------data_science-5)
-- [Adaptive Relative Strength Index](https://kaabar-sofien.medium.com/adaptive-relative-strength-index-4a1094dd3fe9?source=rss------data_science-5)
-- [3 Things I Did Before Starting My Data Analysis Journey- You Should Do The Same](https://medium.com/@Promise-Chinonso/3-things-i-did-before-starting-my-data-analysis-journey-you-should-do-the-same-6a85735d6f99?source=rss------data_science-5)
+- [What Exactly Does Analytics Mean?](https://medium.com/@analytics4all/what-exactly-does-analytics-mean-91e409c6487?source=rss------data_science-5)
+- [The Areas Where Brands Use Big Data Analytics](https://medium.com/geekculture/the-areas-where-brands-use-big-data-analytics-27262321f1ca?source=rss------data_science-5)
+- [Como montar um portfólio de Data Science que irá diferenciar você em um processo seletivo](https://medium.com/@andriow/como-montar-um-portf%C3%B3lio-de-data-science-que-ir%C3%A1-diferenciar-voc%C3%AA-em-um-processo-seletivo-e53d70b9c4fc?source=rss------data_science-5)
+- [Demographics and Voting Patterns in U.S. Presidential Elections](https://medium.com/@krishnan.chander/demographics-and-voting-patterns-in-u-s-presidential-elections-578b271ecdcf?source=rss------data_science-5)
+- [Act Smarter! Data Science should be about “why” &amp; problem solving](https://medium.com/@godfrey.leung.cosmo/act-smarter-data-science-should-be-about-why-problem-solving-6d78f873ec77?source=rss------data_science-5)
+- [MILK MILK MILK!](https://medium.com/@thepanickedbubby/milk-milk-milk-b23b1da2dde?source=rss------data_science-5)
+- [The Best Cheat Sheets For Coders](https://preettheman.medium.com/the-best-cheat-sheets-for-coders-979198c18f84?source=rss------data_science-5)
+- [Análise Geoespacial dos Casos de Varíola do Macaco](https://medium.com/@gersongoulartjnr/an%C3%A1lise-geoespacial-dos-casos-de-var%C3%ADola-do-macaco-974897f5591c?source=rss------data_science-5)
+- [Creating a Technical Indicator](https://kaabar-sofien.medium.com/creating-a-technical-indicator-b5edcfca4f47?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
