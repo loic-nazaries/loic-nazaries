@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What Exactly Does Analytics Mean?](https://medium.com/@analytics4all/what-exactly-does-analytics-mean-91e409c6487?source=rss------data_science-5)
-- [The Areas Where Brands Use Big Data Analytics](https://medium.com/geekculture/the-areas-where-brands-use-big-data-analytics-27262321f1ca?source=rss------data_science-5)
-- [Como montar um portfólio de Data Science que irá diferenciar você em um processo seletivo](https://medium.com/@andriow/como-montar-um-portf%C3%B3lio-de-data-science-que-ir%C3%A1-diferenciar-voc%C3%AA-em-um-processo-seletivo-e53d70b9c4fc?source=rss------data_science-5)
-- [Demographics and Voting Patterns in U.S. Presidential Elections](https://medium.com/@krishnan.chander/demographics-and-voting-patterns-in-u-s-presidential-elections-578b271ecdcf?source=rss------data_science-5)
-- [Act Smarter! Data Science should be about “why” &amp; problem solving](https://medium.com/@godfrey.leung.cosmo/act-smarter-data-science-should-be-about-why-problem-solving-6d78f873ec77?source=rss------data_science-5)
-- [MILK MILK MILK!](https://medium.com/@thepanickedbubby/milk-milk-milk-b23b1da2dde?source=rss------data_science-5)
-- [The Best Cheat Sheets For Coders](https://preettheman.medium.com/the-best-cheat-sheets-for-coders-979198c18f84?source=rss------data_science-5)
-- [Análise Geoespacial dos Casos de Varíola do Macaco](https://medium.com/@gersongoulartjnr/an%C3%A1lise-geoespacial-dos-casos-de-var%C3%ADola-do-macaco-974897f5591c?source=rss------data_science-5)
-- [Creating a Technical Indicator](https://kaabar-sofien.medium.com/creating-a-technical-indicator-b5edcfca4f47?source=rss------data_science-5)
+- [Análise dos Dados do Airbnb: Amsterdan](https://medium.com/@adrianoampinheiro/an%C3%A1lise-dos-dados-do-airbnb-amsterdan-326f8aeb073?source=rss------data_science-5)
+- [Automatically adjust Power BI Date Range Slicer to show current data.](https://medium.com/@m.mishra2403/automatically-adjust-power-bi-date-range-slicer-to-show-current-data-1b21e4cc6cc2?source=rss------data_science-5)
+- [Sets In Python](https://blog.devgenius.io/sets-in-python-afcfeba49ebb?source=rss------data_science-5)
+- [The ability to manage data to support business projects are the key to success in many disciplines.](https://medium.com/@sime.curkovic/the-ability-to-manage-data-to-support-business-projects-are-the-key-to-success-in-many-disciplines-de7148b5331c?source=rss------data_science-5)
+- [Cross-Validation in Machine Learning](https://medium.com/@diegotronics/cross-validation-in-machine-learning-e93168c2d05d?source=rss------data_science-5)
+- [The Worst Thing About Python Is Fixed](https://preettheman.medium.com/the-worst-thing-about-python-is-fixed-a8807389e277?source=rss------data_science-5)
+- [The Schaff Trend Cycle](https://kaabar-sofien.medium.com/the-schaff-trend-cycle-25d1876917bd?source=rss------data_science-5)
+- [Precision And Recall — Explained!](https://medium.com/@lokeshrth4617/precision-and-recall-explained-ddcfcef3f675?source=rss------data_science-5)
+- [VERİ OKURYAZARLIĞI](https://medium.com/@berkaytuncerceng/veri%CC%87-okuryazarli%C4%9Fi-e3332e9026fa?source=rss------data_science-5)
+- [Understanding the use of Distributed Word Representations part2&lpar;Artificial Intelligence + Natural…](https://medium.com/@monocosmo77/understanding-the-use-of-distributed-word-representations-part2-artificial-intelligence-natural-9a2e2310db1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
