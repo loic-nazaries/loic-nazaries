@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Análise dos Dados do Airbnb: Amsterdan](https://medium.com/@adrianoampinheiro/an%C3%A1lise-dos-dados-do-airbnb-amsterdan-326f8aeb073?source=rss------data_science-5)
-- [Automatically adjust Power BI Date Range Slicer to show current data.](https://medium.com/@m.mishra2403/automatically-adjust-power-bi-date-range-slicer-to-show-current-data-1b21e4cc6cc2?source=rss------data_science-5)
-- [Sets In Python](https://blog.devgenius.io/sets-in-python-afcfeba49ebb?source=rss------data_science-5)
-- [The ability to manage data to support business projects are the key to success in many disciplines.](https://medium.com/@sime.curkovic/the-ability-to-manage-data-to-support-business-projects-are-the-key-to-success-in-many-disciplines-de7148b5331c?source=rss------data_science-5)
-- [Cross-Validation in Machine Learning](https://medium.com/@diegotronics/cross-validation-in-machine-learning-e93168c2d05d?source=rss------data_science-5)
-- [The Worst Thing About Python Is Fixed](https://preettheman.medium.com/the-worst-thing-about-python-is-fixed-a8807389e277?source=rss------data_science-5)
-- [The Schaff Trend Cycle](https://kaabar-sofien.medium.com/the-schaff-trend-cycle-25d1876917bd?source=rss------data_science-5)
-- [Precision And Recall — Explained!](https://medium.com/@lokeshrth4617/precision-and-recall-explained-ddcfcef3f675?source=rss------data_science-5)
-- [VERİ OKURYAZARLIĞI](https://medium.com/@berkaytuncerceng/veri%CC%87-okuryazarli%C4%9Fi-e3332e9026fa?source=rss------data_science-5)
-- [Understanding the use of Distributed Word Representations part2&lpar;Artificial Intelligence + Natural…](https://medium.com/@monocosmo77/understanding-the-use-of-distributed-word-representations-part2-artificial-intelligence-natural-9a2e2310db1?source=rss------data_science-5)
+- [Introduction to Folium in Python](https://medium.com/@rshowrav/introduction-to-folium-in-python-515fc795800f?source=rss------data_science-5)
+- [How To Turn Your Data Visualization Skills Into A Successful Career](https://medium.com/latte-for-the-soul/how-to-turn-your-data-visualization-skills-into-a-successful-career-fcf1b1234602?source=rss------data_science-5)
+- [Password Security Policy](https://medium.com/@kamandawycliffe/password-security-policy-b40dd9114828?source=rss------data_science-5)
+- [Missing Value Imputation](https://medium.com/@bilalkhan_29/missing-value-imputation-80245dce8a48?source=rss------data_science-5)
+- [How will the usage of Technologies and Tools by Developers in Germany evolve in 2023?](https://paul-dzitse.medium.com/how-will-the-usage-of-technologies-and-tools-by-developers-in-germany-evolve-in-2023-70e438125288?source=rss------data_science-5)
+- [Understanding Joins In SQL: A Complete Guide](https://medium.com/@ziongonet/understanding-joins-in-sql-a-complete-guide-42b9ed5c13dc?source=rss------data_science-5)
+- [Lyceum Data Ingestor Walkthrough](https://medium.com/@joshualevy_38678/lyceum-data-ingestor-walkthrough-10a421c74833?source=rss------data_science-5)
+- [Predictive Data Analytics &lpar;Excel on steroids&rpar;: You will be glad to hear that &lpar;Anaconda + Jupyter…](https://medium.com/@sime.curkovic/predictive-data-analytics-excel-on-steroids-you-will-be-glad-to-hear-that-anaconda-jupyter-881d6ddbca52?source=rss------data_science-5)
+- [Becoming a Data Scientist &lpar;Denise’s Version&rpar;: Status Update](https://medium.com/@deniseamacias1/becoming-a-data-scientist-denises-version-status-update-fa1b73d2efd7?source=rss------data_science-5)
+- [Let’s Analyse People Survey Data…](https://medium.com/@mahinsasa903/lets-analyse-people-survey-data-562ca6154e83?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
