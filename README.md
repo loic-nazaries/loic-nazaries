@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Introduction to Folium in Python](https://medium.com/@rshowrav/introduction-to-folium-in-python-515fc795800f?source=rss------data_science-5)
-- [How To Turn Your Data Visualization Skills Into A Successful Career](https://medium.com/latte-for-the-soul/how-to-turn-your-data-visualization-skills-into-a-successful-career-fcf1b1234602?source=rss------data_science-5)
-- [Password Security Policy](https://medium.com/@kamandawycliffe/password-security-policy-b40dd9114828?source=rss------data_science-5)
-- [Missing Value Imputation](https://medium.com/@bilalkhan_29/missing-value-imputation-80245dce8a48?source=rss------data_science-5)
-- [How will the usage of Technologies and Tools by Developers in Germany evolve in 2023?](https://paul-dzitse.medium.com/how-will-the-usage-of-technologies-and-tools-by-developers-in-germany-evolve-in-2023-70e438125288?source=rss------data_science-5)
-- [Understanding Joins In SQL: A Complete Guide](https://medium.com/@ziongonet/understanding-joins-in-sql-a-complete-guide-42b9ed5c13dc?source=rss------data_science-5)
-- [Lyceum Data Ingestor Walkthrough](https://medium.com/@joshualevy_38678/lyceum-data-ingestor-walkthrough-10a421c74833?source=rss------data_science-5)
-- [Predictive Data Analytics &lpar;Excel on steroids&rpar;: You will be glad to hear that &lpar;Anaconda + Jupyter…](https://medium.com/@sime.curkovic/predictive-data-analytics-excel-on-steroids-you-will-be-glad-to-hear-that-anaconda-jupyter-881d6ddbca52?source=rss------data_science-5)
-- [Becoming a Data Scientist &lpar;Denise’s Version&rpar;: Status Update](https://medium.com/@deniseamacias1/becoming-a-data-scientist-denises-version-status-update-fa1b73d2efd7?source=rss------data_science-5)
-- [Let’s Analyse People Survey Data…](https://medium.com/@mahinsasa903/lets-analyse-people-survey-data-562ca6154e83?source=rss------data_science-5)
+- [Data Science Rewind #3](https://medium.com/@selfStarter/data-science-rewind-3-8c1d6c3f5e93?source=rss------data_science-5)
+- [Bussinees Inteligence: Projeto de Dashboard para Football Analytics no Power BI](https://medium.com/@gabriel.hiss/bussinees-inteligence-projeto-de-dashboard-para-football-analytics-no-power-bi-9fd858be2c27?source=rss------data_science-5)
+- [The Top 3 Conferences For Data Science and Analytics](https://pub.towardsai.net/the-top-3-conferences-for-data-science-and-analytics-4e4123a3f288?source=rss------data_science-5)
+- [Analyze the Stock Market from Brazil using Python](https://braucamps.medium.com/analyze-the-stock-market-from-brazil-using-python-268637261b43?source=rss------data_science-5)
+- [Fine Tuning Machine Learning Models](https://medium.com/@corymaklin/fine-tuning-machine-learning-models-a37c13f76eb5?source=rss------data_science-5)
+- [The Strat Indicator — Understanding Price Action](https://kaabar-sofien.medium.com/the-strat-indicator-understanding-price-action-fe9b3466b30b?source=rss------data_science-5)
+- [FAQs on DevCareerxDataquest Scholarship](https://medium.com/devcareers/faqs-on-devcareerxdataquest-scholarship-61198be8d3c4?source=rss------data_science-5)
+- [Understanding how the Cingulate Cortex Works&lpar;Neuroscience&rpar;](https://medium.com/@monocosmo77/understanding-how-the-cingulate-cortex-works-neuroscience-24afd60a9fdc?source=rss------data_science-5)
+- [Makine Öğrenmesinin Temelleri](https://medium.com/@tuna.45.309/makine-%C3%B6%C4%9Frenmesinin-temelleri-97f9bdb9083?source=rss------data_science-5)
+- [Uma breve introdução de web scraping com Beautiful Soup](https://medium.com/turing-talks/uma-breve-introdu%C3%A7%C3%A3o-de-web-scraping-com-beautiful-soup-f762d191ec44?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
