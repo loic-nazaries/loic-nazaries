@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Science Rewind #3](https://medium.com/@selfStarter/data-science-rewind-3-8c1d6c3f5e93?source=rss------data_science-5)
-- [Bussinees Inteligence: Projeto de Dashboard para Football Analytics no Power BI](https://medium.com/@gabriel.hiss/bussinees-inteligence-projeto-de-dashboard-para-football-analytics-no-power-bi-9fd858be2c27?source=rss------data_science-5)
-- [The Top 3 Conferences For Data Science and Analytics](https://pub.towardsai.net/the-top-3-conferences-for-data-science-and-analytics-4e4123a3f288?source=rss------data_science-5)
-- [Analyze the Stock Market from Brazil using Python](https://braucamps.medium.com/analyze-the-stock-market-from-brazil-using-python-268637261b43?source=rss------data_science-5)
-- [Fine Tuning Machine Learning Models](https://medium.com/@corymaklin/fine-tuning-machine-learning-models-a37c13f76eb5?source=rss------data_science-5)
-- [The Strat Indicator — Understanding Price Action](https://kaabar-sofien.medium.com/the-strat-indicator-understanding-price-action-fe9b3466b30b?source=rss------data_science-5)
-- [FAQs on DevCareerxDataquest Scholarship](https://medium.com/devcareers/faqs-on-devcareerxdataquest-scholarship-61198be8d3c4?source=rss------data_science-5)
-- [Understanding how the Cingulate Cortex Works&lpar;Neuroscience&rpar;](https://medium.com/@monocosmo77/understanding-how-the-cingulate-cortex-works-neuroscience-24afd60a9fdc?source=rss------data_science-5)
-- [Makine Öğrenmesinin Temelleri](https://medium.com/@tuna.45.309/makine-%C3%B6%C4%9Frenmesinin-temelleri-97f9bdb9083?source=rss------data_science-5)
-- [Uma breve introdução de web scraping com Beautiful Soup](https://medium.com/turing-talks/uma-breve-introdu%C3%A7%C3%A3o-de-web-scraping-com-beautiful-soup-f762d191ec44?source=rss------data_science-5)
+- [Synthesizing Data for Supervised Learning of Physical Systems](https://medium.com/@WeHoldTheseTruths/synthesizing-data-for-supervised-learning-of-physical-systems-7d0fafd8ffba?source=rss------data_science-5)
+- [Regularized Regression: Lasso Regression](https://medium.com/@diegotronics/regularized-regression-lasso-regression-740e142bfdf9?source=rss------data_science-5)
+- [Complexity in a Data Value Chain](https://medium.com/@nickj69/complexity-in-a-data-value-chain-281e0f266391?source=rss------data_science-5)
+- [Statistics for Data Analysts: Descriptive Statistics with Python](https://medium.com/codex/statistics-for-data-analysts-descriptive-statistics-with-python-cc6e4485209f?source=rss------data_science-5)
+- [Uma análise sobre o mercado atual de cereais](https://medium.com/@VitorMello./uma-an%C3%A1lise-sobre-o-mercado-atual-de-cerais-4cf36d5ec6c7?source=rss------data_science-5)
+- [FEATURE SCALING. WHY AND HOW?](https://medium.com/@ahsandaniyal1994/feature-scaling-why-and-how-69a7b6d9aac8?source=rss------data_science-5)
+- [Combining the Countdown Indicator With the Fibonacci Moving Average](https://kaabar-sofien.medium.com/combining-the-countdown-indicator-with-the-fibonacci-moving-average-515bca548e05?source=rss------data_science-5)
+- [How I Fell in Love with Data Science and Why You Should Too](https://medium.com/@sarahadamsjack/how-i-fell-in-love-with-data-science-and-why-you-should-too-96d682ecdbd6?source=rss------data_science-5)
+- [Understanding Convolutional Networks](https://medium.com/@kojonums/understanding-convolutional-networks-91b989f7e825?source=rss------data_science-5)
+- [To Data Science or Not To Data Science](https://medium.com/@mackoy.staloch/to-data-science-or-not-to-data-science-2579577b28c2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
