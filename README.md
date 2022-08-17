@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Synthesizing Data for Supervised Learning of Physical Systems](https://medium.com/@WeHoldTheseTruths/synthesizing-data-for-supervised-learning-of-physical-systems-7d0fafd8ffba?source=rss------data_science-5)
-- [Regularized Regression: Lasso Regression](https://medium.com/@diegotronics/regularized-regression-lasso-regression-740e142bfdf9?source=rss------data_science-5)
-- [Complexity in a Data Value Chain](https://medium.com/@nickj69/complexity-in-a-data-value-chain-281e0f266391?source=rss------data_science-5)
-- [Statistics for Data Analysts: Descriptive Statistics with Python](https://medium.com/codex/statistics-for-data-analysts-descriptive-statistics-with-python-cc6e4485209f?source=rss------data_science-5)
-- [Uma análise sobre o mercado atual de cereais](https://medium.com/@VitorMello./uma-an%C3%A1lise-sobre-o-mercado-atual-de-cerais-4cf36d5ec6c7?source=rss------data_science-5)
-- [FEATURE SCALING. WHY AND HOW?](https://medium.com/@ahsandaniyal1994/feature-scaling-why-and-how-69a7b6d9aac8?source=rss------data_science-5)
-- [Combining the Countdown Indicator With the Fibonacci Moving Average](https://kaabar-sofien.medium.com/combining-the-countdown-indicator-with-the-fibonacci-moving-average-515bca548e05?source=rss------data_science-5)
-- [How I Fell in Love with Data Science and Why You Should Too](https://medium.com/@sarahadamsjack/how-i-fell-in-love-with-data-science-and-why-you-should-too-96d682ecdbd6?source=rss------data_science-5)
-- [Understanding Convolutional Networks](https://medium.com/@kojonums/understanding-convolutional-networks-91b989f7e825?source=rss------data_science-5)
-- [To Data Science or Not To Data Science](https://medium.com/@mackoy.staloch/to-data-science-or-not-to-data-science-2579577b28c2?source=rss------data_science-5)
+- [Let’s learn of Model Bias in People Data ….](https://medium.com/@mahinsasa903/lets-learn-of-model-bias-in-people-data-6a6dadc108b4?source=rss------data_science-5)
+- [A Proposal for a New Concurrent and Space-Efficient Data Structure](https://medium.com/@bradbrown_18617/a-proposal-for-a-new-concurrent-and-space-efficient-data-structure-f103e8a7a4cd?source=rss------data_science-5)
+- [The 5V’s of Big Data](https://faun.pub/the-5vs-of-big-data-a8e17eed4ed4?source=rss------data_science-5)
+- [Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time](https://medium.com/@jalajagr/pixie-a-system-for-recommending-3-billion-items-to-200-million-users-in-real-time-c675b9b6f2bb?source=rss------data_science-5)
+- [Fairness-Aware Job Matching in Online Recruitment Tools](https://medium.com/seek-blog/fairness-aware-job-matching-in-online-recruitment-tools-b85bbf4f7934?source=rss------data_science-5)
+- [Popular libraries for data science](https://medium.com/@shresthasaurabh09/popular-libraries-for-data-science-580b33899f4f?source=rss------data_science-5)
+- [Cybersecurity &amp; Data Science Books Bundle](https://medium.com/@Humble_Bundle_Partner_Blog/cybersecurity-data-science-books-bundle-1e8763317904?source=rss------data_science-5)
+- [Top 3 Skills Required to Get Into Your First Business Analytics Job](https://medium.com/@dikshamohnani/top-3-skills-required-to-get-into-your-first-business-analytics-job-daf9a2ee89ac?source=rss------data_science-5)
+- [Presenting and Back-testing the 3–1–2 Candlestick Pattern](https://kaabar-sofien.medium.com/presenting-and-back-testing-the-3-1-2-candlestick-pattern-f6a03339a15b?source=rss------data_science-5)
+- [Portfolio Project 1: Cleaning the“Marketing Campaign” Dataset](https://medium.com/@saidy.cebreros/portfolio-project-1-cleaning-the-marketing-campaign-dataset-71cf1f66a3c5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
