@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Let’s learn of Model Bias in People Data ….](https://medium.com/@mahinsasa903/lets-learn-of-model-bias-in-people-data-6a6dadc108b4?source=rss------data_science-5)
-- [A Proposal for a New Concurrent and Space-Efficient Data Structure](https://medium.com/@bradbrown_18617/a-proposal-for-a-new-concurrent-and-space-efficient-data-structure-f103e8a7a4cd?source=rss------data_science-5)
-- [The 5V’s of Big Data](https://faun.pub/the-5vs-of-big-data-a8e17eed4ed4?source=rss------data_science-5)
-- [Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time](https://medium.com/@jalajagr/pixie-a-system-for-recommending-3-billion-items-to-200-million-users-in-real-time-c675b9b6f2bb?source=rss------data_science-5)
-- [Fairness-Aware Job Matching in Online Recruitment Tools](https://medium.com/seek-blog/fairness-aware-job-matching-in-online-recruitment-tools-b85bbf4f7934?source=rss------data_science-5)
-- [Popular libraries for data science](https://medium.com/@shresthasaurabh09/popular-libraries-for-data-science-580b33899f4f?source=rss------data_science-5)
-- [Cybersecurity &amp; Data Science Books Bundle](https://medium.com/@Humble_Bundle_Partner_Blog/cybersecurity-data-science-books-bundle-1e8763317904?source=rss------data_science-5)
-- [Top 3 Skills Required to Get Into Your First Business Analytics Job](https://medium.com/@dikshamohnani/top-3-skills-required-to-get-into-your-first-business-analytics-job-daf9a2ee89ac?source=rss------data_science-5)
-- [Presenting and Back-testing the 3–1–2 Candlestick Pattern](https://kaabar-sofien.medium.com/presenting-and-back-testing-the-3-1-2-candlestick-pattern-f6a03339a15b?source=rss------data_science-5)
-- [Portfolio Project 1: Cleaning the“Marketing Campaign” Dataset](https://medium.com/@saidy.cebreros/portfolio-project-1-cleaning-the-marketing-campaign-dataset-71cf1f66a3c5?source=rss------data_science-5)
+- [My first day studying Basics Statistic](https://medium.com/@meeversonbrito/my-first-day-studying-basics-statistic-6caf23bdb576?source=rss------data_science-5)
+- [Assessment of machine learning classification models](https://medium.com/@diegotronics/assessment-of-machine-learning-classification-models-36927e0563a9?source=rss------data_science-5)
+- [Detecting Statistical Overbought &amp; Oversold Levels on Technical Indicators](https://kaabar-sofien.medium.com/detecting-statistical-overbought-oversold-levels-on-technical-indicators-b9f9d9afa2ba?source=rss------data_science-5)
+- [Let’s talk about LESP issues in People Analytics…](https://medium.com/@mahinsasa903/lets-talk-about-lesp-issues-in-people-analytics-c1e4e28520f0?source=rss------data_science-5)
+- [Time Travel versus Slowly Changing Dimension Type 2](https://afroinfotech.medium.com/time-travel-versus-slowly-changing-dimension-type-2-a37ac1538e0d?source=rss------data_science-5)
+- [Career Change: Teacher to Techie](https://medium.com/@bryanbetz1989/career-change-teacher-to-techie-ec281373ea43?source=rss------data_science-5)
+- [Turning News Into Data — Day 7](https://medium.com/@elefun/turning-news-into-data-day-7-7533fffff82c?source=rss------data_science-5)
+- [How To Make Synthetic Datasets In Python](https://medium.com/@muneebhashmi10/how-to-make-synthetic-datasets-in-python-bc8c34f7d2b1?source=rss------data_science-5)
+- [Introduction to Data Analysis using pandas -1](https://medium.com/@thareejan/introduction-to-data-analysis-using-pandas-1-cc6601116411?source=rss------data_science-5)
+- [Finding the Dream Job With Machine Learning](https://medium.com/@giovanni.stephens/finding-the-dream-job-with-machine-learning-922aacc98ad7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
