@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [My first day studying Basics Statistic](https://medium.com/@meeversonbrito/my-first-day-studying-basics-statistic-6caf23bdb576?source=rss------data_science-5)
-- [Assessment of machine learning classification models](https://medium.com/@diegotronics/assessment-of-machine-learning-classification-models-36927e0563a9?source=rss------data_science-5)
-- [Detecting Statistical Overbought &amp; Oversold Levels on Technical Indicators](https://kaabar-sofien.medium.com/detecting-statistical-overbought-oversold-levels-on-technical-indicators-b9f9d9afa2ba?source=rss------data_science-5)
-- [Let’s talk about LESP issues in People Analytics…](https://medium.com/@mahinsasa903/lets-talk-about-lesp-issues-in-people-analytics-c1e4e28520f0?source=rss------data_science-5)
-- [Time Travel versus Slowly Changing Dimension Type 2](https://afroinfotech.medium.com/time-travel-versus-slowly-changing-dimension-type-2-a37ac1538e0d?source=rss------data_science-5)
-- [Career Change: Teacher to Techie](https://medium.com/@bryanbetz1989/career-change-teacher-to-techie-ec281373ea43?source=rss------data_science-5)
-- [Turning News Into Data — Day 7](https://medium.com/@elefun/turning-news-into-data-day-7-7533fffff82c?source=rss------data_science-5)
-- [How To Make Synthetic Datasets In Python](https://medium.com/@muneebhashmi10/how-to-make-synthetic-datasets-in-python-bc8c34f7d2b1?source=rss------data_science-5)
-- [Introduction to Data Analysis using pandas -1](https://medium.com/@thareejan/introduction-to-data-analysis-using-pandas-1-cc6601116411?source=rss------data_science-5)
-- [Finding the Dream Job With Machine Learning](https://medium.com/@giovanni.stephens/finding-the-dream-job-with-machine-learning-922aacc98ad7?source=rss------data_science-5)
+- [9 Database Management Software for Your Business](https://medium.com/@emily22eliza/9-database-management-software-for-your-business-75bf62e58fe9?source=rss------data_science-5)
+- [Once Upon a [Wait] Time](https://kendalldyke.medium.com/once-upon-a-wait-time-239c2228030b?source=rss------data_science-5)
+- [ANOVA: The python way |The bridge between data scientists and marketers](https://medium.com/@moniquehercules101/anova-the-python-way-the-bridge-between-data-scientists-and-marketers-67c1cf433138?source=rss------data_science-5)
+- [Turning News Into Data — Day 8](https://medium.com/@elefun/turning-news-into-data-day-8-c1528866bf33?source=rss------data_science-5)
+- [Build Machine Learning Pipeline in Python and Deploy on Cloud easily](https://moez-62905.medium.com/build-machine-learning-pipeline-in-python-and-deploy-on-cloud-easily-2f907ff1af1f?source=rss------data_science-5)
+- [Lipschitz](https://medium.com/@jnwanna/lipschitz-6ae6d1ca3fbd?source=rss------data_science-5)
+- [Have you heard of Data Trusts? !](https://medium.com/@vrplentz/have-you-heard-of-data-trusts-d90bff6dc7a7?source=rss------data_science-5)
+- [What Travel Will Look Like After Coronavirus](https://medium.com/@marcofeng0128/what-travel-will-look-like-after-coronavirus-576e3467e635?source=rss------data_science-5)
+- [2022&#39;de Adaylar İçin Veri Analisti Öğrenme Yol Haritası](https://medium.com/@yusufztrk_89714/2022de-adaylar-i%CC%87%C3%A7in-veri-analisti-%C3%B6%C4%9Frenme-yol-haritas%C4%B1-b2a79d4ba76f?source=rss------data_science-5)
+- [Exotic Short-Term Market Patterns](https://kaabar-sofien.medium.com/exotic-short-term-market-patterns-b21718419718?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
