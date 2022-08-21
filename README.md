@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [An SQL Affair](https://medium.com/@sesughsavage2/an-sql-affair-3bad0d6a5394?source=rss------data_science-5)
-- [Data Scientist Promoted after 7 months](https://medium.com/@eldanazare/data-scientist-promoted-after-7-months-d2320ed2bbb4?source=rss------data_science-5)
-- [Engineering Better Espresso: The Book is Printing!](https://rmckeon.medium.com/engineering-better-espresso-the-book-is-printing-4e3d74806780?source=rss------data_science-5)
-- [Julia Just Got a Big Change](https://preettheman.medium.com/julia-just-got-a-big-change-f4078bd90ebb?source=rss------data_science-5)
-- [The Physics of Raining Sand](https://planetarypan.medium.com/the-physics-of-raining-sand-d2c1fbde0135?source=rss------data_science-5)
-- [Guide to Federated Learning on Blockchain with Ocean Protocol](https://medium.com/mlearning-ai/guide-to-federated-learning-on-blockchain-with-ocean-protocol-c25ab3ecaad0?source=rss------data_science-5)
-- [How Deep Learning Impacts Our Daily Work: NLP for text matching](https://medium.com/@jiahao.meng/how-deep-learning-impacts-our-daily-work-nlp-for-text-matching-a20bc4a746dd?source=rss------data_science-5)
-- [Data-driven decisions: Exploring the efficacy of vaccines to reduce the mortality risk for COVID-19](https://medium.com/@pmbuschh/data-driven-decisions-exploring-the-efficacy-of-vaccines-to-reduce-the-mortality-risk-for-covid-19-c179cd6c2e0c?source=rss------data_science-5)
-- [Introduction to Algorithmic Trading with MetaTrader5](https://medium.com/@craig_mariani/introduction-to-algorithmic-trading-with-metatrader5-614cdfd92940?source=rss------data_science-5)
-- [Airflow, writing custom operators and publishing them as a package: Part 1.](https://kvirajdatt.medium.com/airflow-writing-custom-operators-and-publishing-them-as-a-package-part-1-177031b40c01?source=rss------data_science-5)
+- [What is CLIP and why is it becoming viral?](https://towardsdatascience.com/what-is-clip-and-why-is-it-becoming-viral-d3ba20c0068?source=rss------data_science-5)
+- [What is Python](https://python.plainenglish.io/what-is-python-a9a4cdff0fbc?source=rss------data_science-5)
+- [Plotting the Optimal Route for Data Scientists in Python using the Dijkstra Algorithm](https://thomasafink.medium.com/plotting-the-optimal-route-for-data-scientists-in-python-using-the-dijkstra-algorithm-14e3e9383a0a?source=rss------data_science-5)
+- [Training a neural network Using Newton’s Method](https://moustafamm.medium.com/training-a-neural-network-using-newtons-method-d02da8843133?source=rss------data_science-5)
+- [Este es mi segundo Blog](https://medium.com/@lfsolis/este-es-mi-segundo-blog-508a6a0034e6?source=rss------data_science-5)
+- [A comparison of made from scratch and sklearn Linear Regression](https://medium.com/mlearning-ai/a-comparison-of-made-from-scratch-and-sklearn-linear-regression-9933b2b55cd4?source=rss------data_science-5)
+- [Este es mi primer blog en Medium](https://medium.com/@lfsolis/este-es-mi-primer-blog-en-medium-38f188924061?source=rss------data_science-5)
+- [Extract Text from Multi-page Image Files](https://python.plainenglish.io/extract-text-from-multi-page-image-files-11b99573fb0a?source=rss------data_science-5)
+- [Crash Course: Neural Networks Part 5: Easy Python Implementation](https://medium.datadriveninvestor.com/crash-course-neural-networks-part-5-easy-python-implementation-1d1f330e36ed?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
