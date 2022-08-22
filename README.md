@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What is CLIP and why is it becoming viral?](https://towardsdatascience.com/what-is-clip-and-why-is-it-becoming-viral-d3ba20c0068?source=rss------data_science-5)
-- [What is Python](https://python.plainenglish.io/what-is-python-a9a4cdff0fbc?source=rss------data_science-5)
-- [Plotting the Optimal Route for Data Scientists in Python using the Dijkstra Algorithm](https://thomasafink.medium.com/plotting-the-optimal-route-for-data-scientists-in-python-using-the-dijkstra-algorithm-14e3e9383a0a?source=rss------data_science-5)
-- [Training a neural network Using Newton’s Method](https://moustafamm.medium.com/training-a-neural-network-using-newtons-method-d02da8843133?source=rss------data_science-5)
-- [Este es mi segundo Blog](https://medium.com/@lfsolis/este-es-mi-segundo-blog-508a6a0034e6?source=rss------data_science-5)
-- [A comparison of made from scratch and sklearn Linear Regression](https://medium.com/mlearning-ai/a-comparison-of-made-from-scratch-and-sklearn-linear-regression-9933b2b55cd4?source=rss------data_science-5)
-- [Este es mi primer blog en Medium](https://medium.com/@lfsolis/este-es-mi-primer-blog-en-medium-38f188924061?source=rss------data_science-5)
-- [Extract Text from Multi-page Image Files](https://python.plainenglish.io/extract-text-from-multi-page-image-files-11b99573fb0a?source=rss------data_science-5)
-- [Crash Course: Neural Networks Part 5: Easy Python Implementation](https://medium.datadriveninvestor.com/crash-course-neural-networks-part-5-easy-python-implementation-1d1f330e36ed?source=rss------data_science-5)
+- [Steps in Architecting a Solution](https://medium.com/@jagannathrajagopal/steps-in-architecting-a-solution-ff54b6f21c8a?source=rss------data_science-5)
+- [Can You Solve This Amazon SQL Interview Question?](https://medium.com/@anna.wu9222/can-you-solve-this-amazon-sql-interview-question-9263891aa5e8?source=rss------data_science-5)
+- [Nate Silver Doesn’t Think the FBI Raid Will Help Trump in 2024](https://medium.com/my-side-of-the-aisle/nate-silver-doesnt-think-the-fbi-raid-will-help-trump-in-2024-fa00b1a08e82?source=rss------data_science-5)
+- [Modelos Não-lineares de Regressão](https://medium.com/data-hackers/modelos-n%C3%A3o-lineares-de-regress%C3%A3o-a48e746080a2?source=rss------data_science-5)
+- [Introdução aos algoritmos de classificação: Perceptron](https://medium.com/@anwarhermuche/introdu%C3%A7%C3%A3o-aos-algoritmos-de-classifica%C3%A7%C3%A3o-perceptron-fdb3f3c94627?source=rss------data_science-5)
+- [12 NumPy Methods For Beginners: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/12-numpy-methods-for-beginners-aebc009de16a?source=rss------data_science-5)
+- [K Means Clustering from Scratch in Java](https://medium.com/@nirmal1067/k-means-clustering-from-scarth-in-java-d435586455a?source=rss------data_science-5)
+- [How to… build a successful dashboard](https://medium.com/@jolecoco/how-to-build-a-successful-dashboard-bb34f71497c9?source=rss------data_science-5)
+- [Understanding how Jacobi Ensembles work&lpar;Differential Geometry&rpar;](https://medium.com/@monocosmo77/understanding-how-jacobi-ensembles-work-differential-geometry-2612b8e0531f?source=rss------data_science-5)
+- [ML Diaries: Day 3](https://themindpalace.medium.com/ml-diaries-day-3-3dd08cf976b1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
