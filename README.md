@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Steps in Architecting a Solution](https://medium.com/@jagannathrajagopal/steps-in-architecting-a-solution-ff54b6f21c8a?source=rss------data_science-5)
-- [Can You Solve This Amazon SQL Interview Question?](https://medium.com/@anna.wu9222/can-you-solve-this-amazon-sql-interview-question-9263891aa5e8?source=rss------data_science-5)
-- [Nate Silver Doesn’t Think the FBI Raid Will Help Trump in 2024](https://medium.com/my-side-of-the-aisle/nate-silver-doesnt-think-the-fbi-raid-will-help-trump-in-2024-fa00b1a08e82?source=rss------data_science-5)
-- [Modelos Não-lineares de Regressão](https://medium.com/data-hackers/modelos-n%C3%A3o-lineares-de-regress%C3%A3o-a48e746080a2?source=rss------data_science-5)
-- [Introdução aos algoritmos de classificação: Perceptron](https://medium.com/@anwarhermuche/introdu%C3%A7%C3%A3o-aos-algoritmos-de-classifica%C3%A7%C3%A3o-perceptron-fdb3f3c94627?source=rss------data_science-5)
-- [12 NumPy Methods For Beginners: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/12-numpy-methods-for-beginners-aebc009de16a?source=rss------data_science-5)
-- [K Means Clustering from Scratch in Java](https://medium.com/@nirmal1067/k-means-clustering-from-scarth-in-java-d435586455a?source=rss------data_science-5)
-- [How to… build a successful dashboard](https://medium.com/@jolecoco/how-to-build-a-successful-dashboard-bb34f71497c9?source=rss------data_science-5)
-- [Understanding how Jacobi Ensembles work&lpar;Differential Geometry&rpar;](https://medium.com/@monocosmo77/understanding-how-jacobi-ensembles-work-differential-geometry-2612b8e0531f?source=rss------data_science-5)
-- [ML Diaries: Day 3](https://themindpalace.medium.com/ml-diaries-day-3-3dd08cf976b1?source=rss------data_science-5)
+- [Explora tu actividad en Twitter con R: Análisis de sentimientos y visualización de datos](https://cosmoduende.medium.com/explora-tu-actividad-en-twitter-con-r-an%C3%A1lisis-de-sentimientos-y-visualizaci%C3%B3n-de-datos-60b6647cdaa4?source=rss------data_science-5)
+- [Figuring out what your model is predicting for binary classification in Neural Networks.](https://medium.com/@jonathan.roman1213/figuring-out-what-your-model-is-predicting-for-binary-classification-in-neural-networks-e3e505b8d390?source=rss------data_science-5)
+- [Mengapa Mahasiswa Teknik Industri Harus Belajar Programming?](https://subkhanrianr.medium.com/mengapa-mahasiswa-teknik-industri-harus-belajar-programming-b3cbd241d441?source=rss------data_science-5)
+- [The Power of Pipelines](https://medium.com/@charlesmpan/the-power-of-pipelines-e7af1a8db787?source=rss------data_science-5)
+- [Como identificar Data Leakage?](https://medium.com/@joaovmc.eng/como-identificar-data-leakage-49912d77a09e?source=rss------data_science-5)
+- [The Hexad Candlestick Pattern](https://kaabar-sofien.medium.com/the-hexad-candlestick-pattern-78e59ed2fbc5?source=rss------data_science-5)
+- [How to Solve an Intermediate SQL Question &lpar;Step-by-Step&rpar;](https://medium.com/@anna.wu9222/how-to-solve-an-intermediate-sql-question-step-by-step-b2739fb3167c?source=rss------data_science-5)
+- [Linguagens de programação mais utilizadas em Data Science &lpar;Ciência de Dados&rpar;](https://medium.com/@renatokf/linguagens-de-programa%C3%A7%C3%A3o-mais-utilizadas-em-data-science-ci%C3%AAncia-de-dados-45f9545d65fd?source=rss------data_science-5)
+- [Part 2- Data-driven decisions: Exploring the efficacy of vaccines to reduce the mortality risk for…](https://medium.com/@pmbuschh/part-2-data-driven-decisions-exploring-the-efficacy-of-vaccines-to-reduce-the-mortality-risk-for-5c814b865f7b?source=rss------data_science-5)
+- [Clean Vehicle Credit, EDA, and Pipelines](https://medium.com/@bdl./clean-vehicle-credit-eda-and-pipelines-332fccbd9458?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
