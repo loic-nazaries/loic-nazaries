@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Explora tu actividad en Twitter con R: Análisis de sentimientos y visualización de datos](https://cosmoduende.medium.com/explora-tu-actividad-en-twitter-con-r-an%C3%A1lisis-de-sentimientos-y-visualizaci%C3%B3n-de-datos-60b6647cdaa4?source=rss------data_science-5)
-- [Figuring out what your model is predicting for binary classification in Neural Networks.](https://medium.com/@jonathan.roman1213/figuring-out-what-your-model-is-predicting-for-binary-classification-in-neural-networks-e3e505b8d390?source=rss------data_science-5)
-- [Mengapa Mahasiswa Teknik Industri Harus Belajar Programming?](https://subkhanrianr.medium.com/mengapa-mahasiswa-teknik-industri-harus-belajar-programming-b3cbd241d441?source=rss------data_science-5)
-- [The Power of Pipelines](https://medium.com/@charlesmpan/the-power-of-pipelines-e7af1a8db787?source=rss------data_science-5)
-- [Como identificar Data Leakage?](https://medium.com/@joaovmc.eng/como-identificar-data-leakage-49912d77a09e?source=rss------data_science-5)
-- [The Hexad Candlestick Pattern](https://kaabar-sofien.medium.com/the-hexad-candlestick-pattern-78e59ed2fbc5?source=rss------data_science-5)
-- [How to Solve an Intermediate SQL Question &lpar;Step-by-Step&rpar;](https://medium.com/@anna.wu9222/how-to-solve-an-intermediate-sql-question-step-by-step-b2739fb3167c?source=rss------data_science-5)
-- [Linguagens de programação mais utilizadas em Data Science &lpar;Ciência de Dados&rpar;](https://medium.com/@renatokf/linguagens-de-programa%C3%A7%C3%A3o-mais-utilizadas-em-data-science-ci%C3%AAncia-de-dados-45f9545d65fd?source=rss------data_science-5)
-- [Part 2- Data-driven decisions: Exploring the efficacy of vaccines to reduce the mortality risk for…](https://medium.com/@pmbuschh/part-2-data-driven-decisions-exploring-the-efficacy-of-vaccines-to-reduce-the-mortality-risk-for-5c814b865f7b?source=rss------data_science-5)
-- [Clean Vehicle Credit, EDA, and Pipelines](https://medium.com/@bdl./clean-vehicle-credit-eda-and-pipelines-332fccbd9458?source=rss------data_science-5)
+- [La huella de la pandemia: Abril 2020, el mes con menor delincuencia en la historia de Costa Rica…](https://rachitvrgs.medium.com/la-huella-de-la-pandemia-abril-2020-el-mes-con-menor-delincuencia-en-la-historia-de-costa-rica-3d918de10cfc?source=rss------data_science-5)
+- [AI can help to reduce carbon emissions for the 5G telecom industry](https://dhirajpatra.medium.com/ai-can-help-to-reduce-carbon-emissions-for-the-5g-telecom-industry-afe9a387031c?source=rss------data_science-5)
+- [Connecting cockroachDB and Google Data Studio](https://medium.com/@nicolas.morganti/connecting-cockroachdb-and-google-data-studio-c68a1f3b839e?source=rss------data_science-5)
+- [Lessons learned after 1 year with dbt.](https://medium.com/@imweijian/lessons-learned-after-1-year-with-dbt-a7f0ccf85b12?source=rss------data_science-5)
+- [Predição de Saídas — Parte 4/4](https://higorgomes93.medium.com/predi%C3%A7%C3%A3o-de-sa%C3%ADdas-parte-4-de-4-129ab25f08ee?source=rss------data_science-5)
+- [Machine Learning Model Drift](https://towardsdatascience.com/machine-learning-model-drift-9cc43ad530d6?source=rss------data_science-5)
+- [Market Regime Detection Using the MACD](https://kaabar-sofien.medium.com/market-regime-detection-using-the-macd-5d0e76430e93?source=rss------data_science-5)
+- [Immutable objects and mutable objects deep understanding.](https://medium.com/@tsa.vevo.music/immutable-objects-and-mutable-objects-deep-understanding-5ffecdacb9f?source=rss------data_science-5)
+- [What’s Your Worth? Machine Learning Answers](https://medium.com/@giovanni.stephens/whats-your-worth-machine-learning-answers-ae1248227951?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
