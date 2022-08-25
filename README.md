@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [La huella de la pandemia: Abril 2020, el mes con menor delincuencia en la historia de Costa Rica…](https://rachitvrgs.medium.com/la-huella-de-la-pandemia-abril-2020-el-mes-con-menor-delincuencia-en-la-historia-de-costa-rica-3d918de10cfc?source=rss------data_science-5)
-- [AI can help to reduce carbon emissions for the 5G telecom industry](https://dhirajpatra.medium.com/ai-can-help-to-reduce-carbon-emissions-for-the-5g-telecom-industry-afe9a387031c?source=rss------data_science-5)
-- [Connecting cockroachDB and Google Data Studio](https://medium.com/@nicolas.morganti/connecting-cockroachdb-and-google-data-studio-c68a1f3b839e?source=rss------data_science-5)
-- [Lessons learned after 1 year with dbt.](https://medium.com/@imweijian/lessons-learned-after-1-year-with-dbt-a7f0ccf85b12?source=rss------data_science-5)
-- [Predição de Saídas — Parte 4/4](https://higorgomes93.medium.com/predi%C3%A7%C3%A3o-de-sa%C3%ADdas-parte-4-de-4-129ab25f08ee?source=rss------data_science-5)
-- [Machine Learning Model Drift](https://towardsdatascience.com/machine-learning-model-drift-9cc43ad530d6?source=rss------data_science-5)
-- [Market Regime Detection Using the MACD](https://kaabar-sofien.medium.com/market-regime-detection-using-the-macd-5d0e76430e93?source=rss------data_science-5)
-- [Immutable objects and mutable objects deep understanding.](https://medium.com/@tsa.vevo.music/immutable-objects-and-mutable-objects-deep-understanding-5ffecdacb9f?source=rss------data_science-5)
-- [What’s Your Worth? Machine Learning Answers](https://medium.com/@giovanni.stephens/whats-your-worth-machine-learning-answers-ae1248227951?source=rss------data_science-5)
+- [A Short note on data-mining because data-mining is a hot topic.](https://drmadhabpaul.medium.com/a-short-note-on-data-mining-because-data-mining-is-a-hot-topic-b8cdd17f3518?source=rss------data_science-5)
+- [Why Data Science?](https://medium.com/@mitchell.rensei/why-data-science-c2c323fcca96?source=rss------data_science-5)
+- [Set Operators in SQL &lpar;Union, Union All, Intersect, Except&rpar;](https://medium.com/@ziongonet/set-operators-in-sql-union-union-all-intersect-except-4f5e37c306fe?source=rss------data_science-5)
+- [I feel like data mining is essentially machine learning for business, which is the key/core to…](https://medium.com/@sime.curkovic/i-feel-like-data-mining-is-essentially-machine-learning-for-business-which-is-the-key-core-to-a002b9ec363f?source=rss------data_science-5)
+- [Presenting and Back-testing the 3–2–2 Candlestick Pattern](https://kaabar-sofien.medium.com/presenting-and-back-testing-the-3-2-2-candlestick-pattern-a3f48785cc23?source=rss------data_science-5)
+- [Funções de Custo — Uma breve introdução](https://medium.com/@anwarhermuche/fun%C3%A7%C3%B5es-de-custo-uma-breve-introdu%C3%A7%C3%A3o-5a472599ac1e?source=rss------data_science-5)
+- [Editors Every Coder Should Use](https://preettheman.medium.com/editors-every-coder-should-use-d39d248e1690?source=rss------data_science-5)
+- [flockfysh — The next step in easy, seamless, quality &lpar;2D&rpar; image dataset generation](https://medium.com/@teamnebulaco/flockfysh-the-next-step-in-easy-seamless-quality-2d-image-dataset-generation-1565e3c144e5?source=rss------data_science-5)
+- [Putting Your Best Foot Forward: The Best Men’s Shoes to Buy on Amazon](https://medium.com/@hwhiii/putting-your-best-foot-forward-the-best-mens-shoes-to-buy-on-amazon-f7bf42d911f4?source=rss------data_science-5)
+- [How to use PostgreSQL in a Jupyter Notebook?](https://magnimind.medium.com/how-to-use-postgresql-in-a-jupyter-notebook-b881305e30f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
