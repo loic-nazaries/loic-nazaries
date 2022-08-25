@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [2 Highly Useful NumPy Functions for Pandas](https://medium.com/geekculture/2-highly-useful-numpy-functions-for-pandas-21cc42f304cd?source=rss-2cf6b549448------2)
 - [Find Informative Features for Machine Learning Models with Upgini](https://towardsdatascience.com/find-informative-features-for-machine-learning-models-with-upgini-17489158ffaa?source=rss-2cf6b549448------2)
 - [All About Pandas Groupby Explained with 25 Examples](https://towardsdatascience.com/all-about-pandas-groupby-explained-with-25-examples-494e04a8ef56?source=rss-2cf6b549448------2)
 - [5 Methods for Filtering Strings with Python Pandas](https://towardsdatascience.com/5-methods-for-filtering-strings-with-python-pandas-ebe4746dcc74?source=rss-2cf6b549448------2)
 - [2 Must-Know PostgreSQL Functions](https://towardsdatascience.com/2-must-know-postgresql-functions-50bbcc30032b?source=rss-2cf6b549448------2)
-- [Upgini: A Game Changer Python Library for Feature Enrichment in Machine Learning](https://sonery.medium.com/upgini-a-game-changer-python-library-for-feature-enrichment-in-machine-learning-9297e386847e?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
