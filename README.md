@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Short note on data-mining because data-mining is a hot topic.](https://drmadhabpaul.medium.com/a-short-note-on-data-mining-because-data-mining-is-a-hot-topic-b8cdd17f3518?source=rss------data_science-5)
-- [Why Data Science?](https://medium.com/@mitchell.rensei/why-data-science-c2c323fcca96?source=rss------data_science-5)
-- [Set Operators in SQL &lpar;Union, Union All, Intersect, Except&rpar;](https://medium.com/@ziongonet/set-operators-in-sql-union-union-all-intersect-except-4f5e37c306fe?source=rss------data_science-5)
-- [I feel like data mining is essentially machine learning for business, which is the key/core to…](https://medium.com/@sime.curkovic/i-feel-like-data-mining-is-essentially-machine-learning-for-business-which-is-the-key-core-to-a002b9ec363f?source=rss------data_science-5)
-- [Presenting and Back-testing the 3–2–2 Candlestick Pattern](https://kaabar-sofien.medium.com/presenting-and-back-testing-the-3-2-2-candlestick-pattern-a3f48785cc23?source=rss------data_science-5)
-- [Funções de Custo — Uma breve introdução](https://medium.com/@anwarhermuche/fun%C3%A7%C3%B5es-de-custo-uma-breve-introdu%C3%A7%C3%A3o-5a472599ac1e?source=rss------data_science-5)
-- [Editors Every Coder Should Use](https://preettheman.medium.com/editors-every-coder-should-use-d39d248e1690?source=rss------data_science-5)
-- [flockfysh — The next step in easy, seamless, quality &lpar;2D&rpar; image dataset generation](https://medium.com/@teamnebulaco/flockfysh-the-next-step-in-easy-seamless-quality-2d-image-dataset-generation-1565e3c144e5?source=rss------data_science-5)
-- [Putting Your Best Foot Forward: The Best Men’s Shoes to Buy on Amazon](https://medium.com/@hwhiii/putting-your-best-foot-forward-the-best-mens-shoes-to-buy-on-amazon-f7bf42d911f4?source=rss------data_science-5)
-- [How to use PostgreSQL in a Jupyter Notebook?](https://magnimind.medium.com/how-to-use-postgresql-in-a-jupyter-notebook-b881305e30f?source=rss------data_science-5)
+- [Fantasy EPL GW3 Recap and GW4 Algo Recommendations](https://medium.datadriveninvestor.com/fantasy-epl-gw3-recap-and-gw4-algo-recommendations-5d009ac5bcbc?source=rss------data_science-5)
+- [Creating a Star Wars character generator using Python](https://medium.com/@ben.nour_68691/creating-a-star-wars-character-generator-using-python-902dfaa087?source=rss------data_science-5)
+- [Conhece a biblioteca Altair?](https://medium.com/@joaovmc.eng/conhece-a-biblioteca-altair-de7a24be2113?source=rss------data_science-5)
+- [Building A Notebook Cell Back-end](https://medium.com/chifi-media/building-a-notebook-cell-back-end-c34ea7a0d822?source=rss------data_science-5)
+- [The Rise of Data Centres in India](https://padminisubhashree.medium.com/the-rise-of-data-centres-in-india-52022d7928e0?source=rss------data_science-5)
+- [Maintain your Talent by Predict Employee Attrition - Part 2](https://medium.com/@hendrywijaya628/maintain-your-talent-by-predict-employee-attrition-part-2-6aa4d6b12f5c?source=rss------data_science-5)
+- [How do L-Functions work &lpar;Functional Analysis&rpar;](https://medium.com/@monocosmo77/how-do-l-functions-work-functional-analysis-8a80eb57b1cd?source=rss------data_science-5)
+- [Understanding Edward Curves &lpar;Elliptic Functions&rpar;](https://medium.com/@monocosmo77/understanding-edward-curves-elliptic-functions-99a9d382adc5?source=rss------data_science-5)
+- [How does the Open Mapping Theorem Work&lpar;Functional Analysis and Pure Mathematics&rpar;](https://medium.com/@monocosmo77/how-does-the-open-mapping-theorem-work-functional-analysis-and-pure-mathematics-41c63fb1a9a2?source=rss------data_science-5)
+- [What is the Baire Category Theorem](https://medium.com/@monocosmo77/what-is-the-baire-category-theorem-c966a1d2ab99?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
