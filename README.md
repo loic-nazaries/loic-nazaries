@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data processing with NumPy — Data Science Day 146](https://medium.com/vizneo-academy/data-processing-with-numpy-data-science-day-146-dabb87e97a28?source=rss------data_science-5)
-- [7 dicas de Pandas para ajudar na sua análise exploratória](https://medium.com/@joaovmc.eng/7-dicas-de-pandas-para-ajudar-na-sua-an%C3%A1lise-explorat%C3%B3ria-1afbb1fec248?source=rss------data_science-5)
-- [The Rainbow Indicator, Another Way to Follow the Trend](https://kaabar-sofien.medium.com/the-rainbow-indicator-another-way-to-follow-the-trend-16780d70904d?source=rss------data_science-5)
-- [[PART 2] Jenis-Jenis Peramalan Dengan Time Series](https://medium.com/@rais.sulaiman/part-2-jenis-jenis-peramalan-dengan-time-series-c4734ddd4f2b?source=rss------data_science-5)
-- [Why Tree-Based Models Beat Deep Learning on Tabular Data](https://machine-learning-made-simple.medium.com/why-tree-based-models-beat-deep-learning-on-tabular-data-fcad692b1456?source=rss------data_science-5)
-- [The Word for Forest is Mystery](https://medium.com/@EarthshotLabs/the-word-for-forest-is-mystery-e7ea2ab95b4a?source=rss------data_science-5)
-- [Awesome Way To Learn To Code](https://preettheman.medium.com/awesome-way-to-learn-to-code-3064596b9a24?source=rss------data_science-5)
-- [Four Benefits of Data &amp; AI Integration](https://medium.com/ibm-data-ai/four-benefits-of-data-ai-integration-88cdb68f481f?source=rss------data_science-5)
-- [Probability of all the Avengers surviving The Snap &lpar;and more&rpar;](https://medium.com/@schierloh42/probability-of-all-the-avengers-surviving-the-snap-and-more-e7f119cf4aa7?source=rss------data_science-5)
-- [6 Essential Dunder Methods That Python Developers Should Learn About](https://levelup.gitconnected.com/6-essential-dunder-methods-that-python-developers-should-learn-about-770a0fc64f1?source=rss------data_science-5)
+- [Text Functions Helpful for Data Analysis](https://medium.com/@samuel.36mendez/text-functions-helpful-for-data-analysis-aab637aaf195?source=rss------data_science-5)
+- [Deal Part Deux: A Simple Explanation](https://jasondeden.medium.com/deal-part-deux-a-simple-explanation-8580e7e5f405?source=rss------data_science-5)
+- [Forecasting Player Activity for Apex Legends using Time Series Data](https://medium.com/mlearning-ai/forecasting-player-activity-for-apex-legends-using-time-series-data-b874495f51a2?source=rss------data_science-5)
+- [Machine Learning + OpenCV for complex RGB image classification](https://j-luis-cdgz.medium.com/machine-learning-opencv-for-complex-rgb-image-classification-3b6b94907c4b?source=rss------data_science-5)
+- [Market Regime Detection With Moving Averages](https://kaabar-sofien.medium.com/market-regime-detection-with-moving-averages-8b1cd34f312b?source=rss------data_science-5)
+- [Understanding the Bochner Formula](https://medium.com/@monocosmo77/understanding-the-bochner-formula-d27792d27398?source=rss------data_science-5)
+- [What You Need to Know for Your ARIMA Time Series Project](https://towardsdatascience.com/what-you-need-to-know-for-your-arima-time-series-project-804713b8f00d?source=rss------data_science-5)
+- [Comparing ML Infrastructure at a startup versus Big Tech](https://medium.com/@siddarth.ramesh/comparing-ml-infrastructure-at-a-startup-versus-big-tech-fde6b2d28511?source=rss------data_science-5)
+- [How to get into Artifical Intelligence software engineering — 2022](https://medium.com/@ggompers/how-to-get-into-artifical-intelligence-software-engineering-2022-cd99991b0d34?source=rss------data_science-5)
+- [How the Wiener–Hopf method works&lpar;Integral Equations&rpar;](https://medium.com/@monocosmo77/how-the-wiener-hopf-method-works-integral-equations-98328df1b9e3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
