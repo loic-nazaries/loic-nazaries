@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Text Functions Helpful for Data Analysis](https://medium.com/@samuel.36mendez/text-functions-helpful-for-data-analysis-aab637aaf195?source=rss------data_science-5)
-- [Deal Part Deux: A Simple Explanation](https://jasondeden.medium.com/deal-part-deux-a-simple-explanation-8580e7e5f405?source=rss------data_science-5)
-- [Forecasting Player Activity for Apex Legends using Time Series Data](https://medium.com/mlearning-ai/forecasting-player-activity-for-apex-legends-using-time-series-data-b874495f51a2?source=rss------data_science-5)
-- [Machine Learning + OpenCV for complex RGB image classification](https://j-luis-cdgz.medium.com/machine-learning-opencv-for-complex-rgb-image-classification-3b6b94907c4b?source=rss------data_science-5)
-- [Market Regime Detection With Moving Averages](https://kaabar-sofien.medium.com/market-regime-detection-with-moving-averages-8b1cd34f312b?source=rss------data_science-5)
-- [Understanding the Bochner Formula](https://medium.com/@monocosmo77/understanding-the-bochner-formula-d27792d27398?source=rss------data_science-5)
-- [What You Need to Know for Your ARIMA Time Series Project](https://towardsdatascience.com/what-you-need-to-know-for-your-arima-time-series-project-804713b8f00d?source=rss------data_science-5)
-- [Comparing ML Infrastructure at a startup versus Big Tech](https://medium.com/@siddarth.ramesh/comparing-ml-infrastructure-at-a-startup-versus-big-tech-fde6b2d28511?source=rss------data_science-5)
-- [How to get into Artifical Intelligence software engineering — 2022](https://medium.com/@ggompers/how-to-get-into-artifical-intelligence-software-engineering-2022-cd99991b0d34?source=rss------data_science-5)
-- [How the Wiener–Hopf method works&lpar;Integral Equations&rpar;](https://medium.com/@monocosmo77/how-the-wiener-hopf-method-works-integral-equations-98328df1b9e3?source=rss------data_science-5)
+- [Knowledge Representation &lpar;Chapter 2: AI Handbook&rpar;](https://levelup.gitconnected.com/knowledge-representation-chapter-2-ai-handbook-f37da56d5868?source=rss------data_science-5)
+- [Artificial Intelligence History &lpar;Chapter 1: AI Handbook&rpar;](https://levelup.gitconnected.com/artificial-intelligence-history-chapter-1-ai-handbook-ae5774ef8026?source=rss------data_science-5)
+- [Primeiros passos com Pandas](https://medium.com/@pierrebomfim/primeiros-passos-com-pandas-4c98fde00beb?source=rss------data_science-5)
+- [Chart Pattern Recognition in Python](https://kaabar-sofien.medium.com/chart-pattern-recognition-in-python-fee7b0653bcf?source=rss------data_science-5)
+- [Time Series Analysis &lpar;4&rpar; — ARIMA models : ACF, PACF](https://medium.com/@medi_seul/time-series-analysis-4-arima-models-acf-pacf-7817bd7898b3?source=rss------data_science-5)
+- [Application of Schrodinger operators part2&lpar;Quantum Mechanics&rpar;](https://medium.com/@monocosmo77/application-of-schrodinger-operators-part2-quantum-mechanics-f8701856a6e3?source=rss------data_science-5)
+- [Statistics for Data Science: Learnings that you don’t want to miss](https://towardsdatascience.com/statistics-for-data-science-learnings-that-you-dont-want-to-miss-ecce40b11f64?source=rss------data_science-5)
+- [KNIME Analytics Platform, software bajo el paradigma de programación visual](https://medium.com/@rep.maldonado.castillo/knime-analytics-platform-software-bajo-el-paradigma-de-programaci%C3%B3n-visual-5648a3f0384f?source=rss------data_science-5)
+- [Is a Mac or Windows PC Better for Programming?](https://medium.com/geekculture/is-a-mac-or-windows-pc-better-for-programming-d5556bf06f1?source=rss------data_science-5)
+- [Nowadays, online learning platforms are the best way to acquire new skills.](https://medium.com/@paschalibrahim678/nowadays-online-learning-platforms-are-the-best-way-to-acquire-new-skills-f988bb7ca41c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
