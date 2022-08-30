@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Knowledge Representation &lpar;Chapter 2: AI Handbook&rpar;](https://levelup.gitconnected.com/knowledge-representation-chapter-2-ai-handbook-f37da56d5868?source=rss------data_science-5)
-- [Artificial Intelligence History &lpar;Chapter 1: AI Handbook&rpar;](https://levelup.gitconnected.com/artificial-intelligence-history-chapter-1-ai-handbook-ae5774ef8026?source=rss------data_science-5)
-- [Primeiros passos com Pandas](https://medium.com/@pierrebomfim/primeiros-passos-com-pandas-4c98fde00beb?source=rss------data_science-5)
-- [Chart Pattern Recognition in Python](https://kaabar-sofien.medium.com/chart-pattern-recognition-in-python-fee7b0653bcf?source=rss------data_science-5)
-- [Time Series Analysis &lpar;4&rpar; — ARIMA models : ACF, PACF](https://medium.com/@medi_seul/time-series-analysis-4-arima-models-acf-pacf-7817bd7898b3?source=rss------data_science-5)
-- [Application of Schrodinger operators part2&lpar;Quantum Mechanics&rpar;](https://medium.com/@monocosmo77/application-of-schrodinger-operators-part2-quantum-mechanics-f8701856a6e3?source=rss------data_science-5)
-- [Statistics for Data Science: Learnings that you don’t want to miss](https://towardsdatascience.com/statistics-for-data-science-learnings-that-you-dont-want-to-miss-ecce40b11f64?source=rss------data_science-5)
-- [KNIME Analytics Platform, software bajo el paradigma de programación visual](https://medium.com/@rep.maldonado.castillo/knime-analytics-platform-software-bajo-el-paradigma-de-programaci%C3%B3n-visual-5648a3f0384f?source=rss------data_science-5)
-- [Is a Mac or Windows PC Better for Programming?](https://medium.com/geekculture/is-a-mac-or-windows-pc-better-for-programming-d5556bf06f1?source=rss------data_science-5)
-- [Nowadays, online learning platforms are the best way to acquire new skills.](https://medium.com/@paschalibrahim678/nowadays-online-learning-platforms-are-the-best-way-to-acquire-new-skills-f988bb7ca41c?source=rss------data_science-5)
+- [First Look at the Data pt. 1 — Airbnb#003](https://medium.com/@douglas.rochedo/first-look-at-the-data-pt-1-airbnb-003-940d9503cadc?source=rss------data_science-5)
+- [Montreal Bikeshare Data Analysis II: Visualizing Bike Trips on Road Networks](https://medium.com/@xinyu.chen/montreal-bikeshare-data-analysis-ii-visualizing-bike-trips-on-road-networks-3d9ab7e5787c?source=rss------data_science-5)
+- [EfficientNet — An Elegant, Powerful CNN.](https://medium.com/@mlquest0/efficientnet-an-elegant-powerful-cnn-6e2a8d528ae3?source=rss------data_science-5)
+- [A Novice Teaches Newbies: 1: SQL Select Statements](https://medium.com/@100WordsofDataScience/a-novice-teaches-newbies-1-sql-select-statements-d7aa4b3802f9?source=rss------data_science-5)
+- [The Hull MACD Oscillator](https://kaabar-sofien.medium.com/the-hull-macd-oscillator-9335becbeb9c?source=rss------data_science-5)
+- [Answering Questions with Mobile Dashboards on Health Insurance](https://medium.com/@douglas.rochedo/answering-questions-with-mobile-dashboards-on-health-insurance-fbca804a6195?source=rss------data_science-5)
+- [Sorting Data in SQL With Order By](https://medium.com/@ziongonet/sorting-data-in-sql-with-order-by-b4d2893c15e2?source=rss------data_science-5)
+- [Exploring Statcast Data](https://medium.com/@christopherjluke/exploring-statcast-data-6d86b3dc6d5b?source=rss------data_science-5)
+- [Data Science Capstone Project — Determining the Best Men’s Shoes to Buy on Amazon](https://medium.com/@hwhiii/data-science-capstone-project-determining-the-best-mens-shoes-to-buy-on-amazon-71ae8ba07a55?source=rss------data_science-5)
+- [Understanding Perron-Frobenius Theorem&lpar;Group Theory&rpar;](https://medium.com/@monocosmo77/understanding-perron-frobenius-theorem-group-theory-15e3a783e392?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
