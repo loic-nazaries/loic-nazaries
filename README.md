@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [First Look at the Data pt. 1 — Airbnb#003](https://medium.com/@douglas.rochedo/first-look-at-the-data-pt-1-airbnb-003-940d9503cadc?source=rss------data_science-5)
-- [Montreal Bikeshare Data Analysis II: Visualizing Bike Trips on Road Networks](https://medium.com/@xinyu.chen/montreal-bikeshare-data-analysis-ii-visualizing-bike-trips-on-road-networks-3d9ab7e5787c?source=rss------data_science-5)
-- [EfficientNet — An Elegant, Powerful CNN.](https://medium.com/@mlquest0/efficientnet-an-elegant-powerful-cnn-6e2a8d528ae3?source=rss------data_science-5)
-- [A Novice Teaches Newbies: 1: SQL Select Statements](https://medium.com/@100WordsofDataScience/a-novice-teaches-newbies-1-sql-select-statements-d7aa4b3802f9?source=rss------data_science-5)
-- [The Hull MACD Oscillator](https://kaabar-sofien.medium.com/the-hull-macd-oscillator-9335becbeb9c?source=rss------data_science-5)
-- [Answering Questions with Mobile Dashboards on Health Insurance](https://medium.com/@douglas.rochedo/answering-questions-with-mobile-dashboards-on-health-insurance-fbca804a6195?source=rss------data_science-5)
-- [Sorting Data in SQL With Order By](https://medium.com/@ziongonet/sorting-data-in-sql-with-order-by-b4d2893c15e2?source=rss------data_science-5)
-- [Exploring Statcast Data](https://medium.com/@christopherjluke/exploring-statcast-data-6d86b3dc6d5b?source=rss------data_science-5)
-- [Data Science Capstone Project — Determining the Best Men’s Shoes to Buy on Amazon](https://medium.com/@hwhiii/data-science-capstone-project-determining-the-best-mens-shoes-to-buy-on-amazon-71ae8ba07a55?source=rss------data_science-5)
-- [Understanding Perron-Frobenius Theorem&lpar;Group Theory&rpar;](https://medium.com/@monocosmo77/understanding-perron-frobenius-theorem-group-theory-15e3a783e392?source=rss------data_science-5)
+- [Cholangiocarcinoma: genetic mutations](https://medium.com/learn-about-cancer-with-code/cholangiocarcinoma-genetic-mutations-3251cd9c10bf?source=rss------data_science-5)
+- [Single Source of Trap](https://yoseflaw.medium.com/single-source-of-trap-5a286882fb6d?source=rss------data_science-5)
+- [10 Pieces of Single Sentence Job Advice for New Data Science Graduates](https://towardsdatascience.com/10-pieces-of-single-sentence-job-advice-for-new-data-science-graduates-ffbca3454df2?source=rss------data_science-5)
+- [My new level in Python &lpar;lvl.2&rpar;&lpar;August&rpar;](https://medium.com/@meeversonbrito/my-new-level-in-python-lvl-2-august-6b29ab04d86c?source=rss------data_science-5)
+- [Stepping Up To The Plate — Predicting MLB Player Value &amp; Team Wins with Machine Learning](https://medium.com/@eric8395/stepping-up-to-the-plate-predicting-mlb-player-value-team-wins-with-machine-learning-e9d38bbb0097?source=rss------data_science-5)
+- [Hidden Divergence Trading in Python](https://kaabar-sofien.medium.com/hidden-divergence-trading-in-python-4642c09a92ae?source=rss------data_science-5)
+- [List of Important Libraries for Machine Learning and Data Science in Python](https://pub.towardsai.net/list-of-important-libraries-for-machine-learning-and-data-science-in-python-23709eb7875e?source=rss------data_science-5)
+- [Solving Markov Chains Using Python](https://jadhav-pritish.medium.com/solving-markov-chains-using-python-35cc79efddd7?source=rss------data_science-5)
+- [Pre-mortem for a Smart Razor](https://medium.com/artifice-or-intelligence/pre-mortem-for-a-smart-razor-e5bf3e171818?source=rss------data_science-5)
+- [Atomicity for Data Engineers](https://medium.com/@chudidanielanya/atomicity-for-data-engineers-41e681fdc173?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
