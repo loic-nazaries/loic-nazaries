@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Cholangiocarcinoma: genetic mutations](https://medium.com/learn-about-cancer-with-code/cholangiocarcinoma-genetic-mutations-3251cd9c10bf?source=rss------data_science-5)
-- [Single Source of Trap](https://yoseflaw.medium.com/single-source-of-trap-5a286882fb6d?source=rss------data_science-5)
-- [10 Pieces of Single Sentence Job Advice for New Data Science Graduates](https://towardsdatascience.com/10-pieces-of-single-sentence-job-advice-for-new-data-science-graduates-ffbca3454df2?source=rss------data_science-5)
-- [My new level in Python &lpar;lvl.2&rpar;&lpar;August&rpar;](https://medium.com/@meeversonbrito/my-new-level-in-python-lvl-2-august-6b29ab04d86c?source=rss------data_science-5)
-- [Stepping Up To The Plate — Predicting MLB Player Value &amp; Team Wins with Machine Learning](https://medium.com/@eric8395/stepping-up-to-the-plate-predicting-mlb-player-value-team-wins-with-machine-learning-e9d38bbb0097?source=rss------data_science-5)
-- [Hidden Divergence Trading in Python](https://kaabar-sofien.medium.com/hidden-divergence-trading-in-python-4642c09a92ae?source=rss------data_science-5)
-- [List of Important Libraries for Machine Learning and Data Science in Python](https://pub.towardsai.net/list-of-important-libraries-for-machine-learning-and-data-science-in-python-23709eb7875e?source=rss------data_science-5)
-- [Solving Markov Chains Using Python](https://jadhav-pritish.medium.com/solving-markov-chains-using-python-35cc79efddd7?source=rss------data_science-5)
-- [Pre-mortem for a Smart Razor](https://medium.com/artifice-or-intelligence/pre-mortem-for-a-smart-razor-e5bf3e171818?source=rss------data_science-5)
-- [Atomicity for Data Engineers](https://medium.com/@chudidanielanya/atomicity-for-data-engineers-41e681fdc173?source=rss------data_science-5)
+- [Categorical features analysis on loan fintech dataset](https://medium.com/@data.science.enthusiast/categorical-features-analysis-on-loan-fintech-dataset-e0ff18e1789f?source=rss------data_science-5)
+- [Feature Selection Techniques](https://medium.com/@data.science.enthusiast/feature-selection-techniques-forward-backward-wrapper-selection-9587f3c70cfa?source=rss------data_science-5)
+- [Trading the ABCD Pattern — The Full Guide](https://kaabar-sofien.medium.com/trading-the-abcd-pattern-the-full-guide-19e394f4fb32?source=rss------data_science-5)
+- [Oceanpoint: DeFi for Real Estate Assets](https://mbithifes.medium.com/oceanpoint-defi-for-real-estate-assets-89ec2734083d?source=rss------data_science-5)
+- [Eigenvalues and Eigenvectors](https://medium.com/@gajendra.k.s/eigenvalues-and-eigenvectors-c7b201f5b381?source=rss------data_science-5)
+- [How Accreting Neutron Stars behave part2&lpar;Astrophysics&rpar;](https://medium.com/@monocosmo77/how-accreting-neutron-stars-behave-part2-astrophysics-cea8633317d1?source=rss------data_science-5)
+- [MLB Team Payroll-Value Analysis using Python for the 2021 Season](https://medium.com/@miltiadesgeneral/mlb-team-payroll-value-analysis-using-python-for-the-2021-season-c85b5aff61e5?source=rss------data_science-5)
+- [Project Creators, File Browsers](https://medium.com/chifi-media/project-creators-file-browsers-f26e28842198?source=rss------data_science-5)
+- [I forced a bot to listen to 1000 hours of Radiohead…](https://medium.com/@thepanickedbubby/i-forced-a-bot-to-listen-to-1000-hours-of-radiohead-c3c0050c7107?source=rss------data_science-5)
+- [Data Analytics | Introducción](https://estebanairaldo.medium.com/data-analytics-introducci%C3%B3n-cc32ac14d83b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
