@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Categorical features analysis on loan fintech dataset](https://medium.com/@data.science.enthusiast/categorical-features-analysis-on-loan-fintech-dataset-e0ff18e1789f?source=rss------data_science-5)
-- [Feature Selection Techniques](https://medium.com/@data.science.enthusiast/feature-selection-techniques-forward-backward-wrapper-selection-9587f3c70cfa?source=rss------data_science-5)
-- [Trading the ABCD Pattern — The Full Guide](https://kaabar-sofien.medium.com/trading-the-abcd-pattern-the-full-guide-19e394f4fb32?source=rss------data_science-5)
-- [Oceanpoint: DeFi for Real Estate Assets](https://mbithifes.medium.com/oceanpoint-defi-for-real-estate-assets-89ec2734083d?source=rss------data_science-5)
-- [Eigenvalues and Eigenvectors](https://medium.com/@gajendra.k.s/eigenvalues-and-eigenvectors-c7b201f5b381?source=rss------data_science-5)
-- [How Accreting Neutron Stars behave part2&lpar;Astrophysics&rpar;](https://medium.com/@monocosmo77/how-accreting-neutron-stars-behave-part2-astrophysics-cea8633317d1?source=rss------data_science-5)
-- [MLB Team Payroll-Value Analysis using Python for the 2021 Season](https://medium.com/@miltiadesgeneral/mlb-team-payroll-value-analysis-using-python-for-the-2021-season-c85b5aff61e5?source=rss------data_science-5)
-- [Project Creators, File Browsers](https://medium.com/chifi-media/project-creators-file-browsers-f26e28842198?source=rss------data_science-5)
-- [I forced a bot to listen to 1000 hours of Radiohead…](https://medium.com/@thepanickedbubby/i-forced-a-bot-to-listen-to-1000-hours-of-radiohead-c3c0050c7107?source=rss------data_science-5)
-- [Data Analytics | Introducción](https://estebanairaldo.medium.com/data-analytics-introducci%C3%B3n-cc32ac14d83b?source=rss------data_science-5)
+- [Recent Developments in Adversarial Learning&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/recent-developments-in-adversarial-learning-artificial-intelligence-95bd7aeb6899?source=rss------data_science-5)
+- [OU Preseason vs. PostSeason Rankings](https://medium.com/data-science-cowboy/ou-preseason-vs-postseason-rankings-b5252c995dff?source=rss------data_science-5)
+- [Bridging the Data Science Gap — Software Engineering Best Practice Part 1](https://medium.com/@huishi1885/bridging-the-data-science-gap-software-engineering-best-practice-part-1-d300d3ff01da?source=rss------data_science-5)
+- [How Model-Driven Engineering operates&lpar;Technology&rpar;](https://medium.com/@monocosmo77/how-model-driven-engineering-operates-technology-468b07f5ba14?source=rss------data_science-5)
+- [Noob’s Intro to Python](https://medium.com/data-science-noobs/noobs-intro-to-python-4fbe9e8cce5d?source=rss------data_science-5)
+- [Trading the Harmonic 5–0 Pattern — The Full Guide](https://kaabar-sofien.medium.com/trading-the-harmonic-5-0-pattern-the-full-guide-aedab3386258?source=rss------data_science-5)
+- [DaaS accelerating food delivery business at Eats](https://medium.com/coupang-engineering/daas-accelerating-food-delivery-business-at-eats-65e4ccce6470?source=rss------data_science-5)
+- [Pre-Martial Sex in America](https://danpark13.medium.com/pre-martial-sex-in-america-bcb5d9b1be34?source=rss------data_science-5)
+- [Time Series Analysis &lpar;5&rpar; — ARIMA models : Parameter Estimation, Model Selection, and Diagnostics](https://medium.com/@medi_seul/time-series-analysis-5-arima-models-parameter-estimation-model-selection-and-diagnostics-6138c846fae2?source=rss------data_science-5)
+- [Deep Learning Building Blocks-MNIST](https://medium.com/@chrisgarcia845/deep-learning-building-blocks-mnist-a991354aded7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
