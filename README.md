@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Recent Developments in Adversarial Learning&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/recent-developments-in-adversarial-learning-artificial-intelligence-95bd7aeb6899?source=rss------data_science-5)
-- [OU Preseason vs. PostSeason Rankings](https://medium.com/data-science-cowboy/ou-preseason-vs-postseason-rankings-b5252c995dff?source=rss------data_science-5)
-- [Bridging the Data Science Gap — Software Engineering Best Practice Part 1](https://medium.com/@huishi1885/bridging-the-data-science-gap-software-engineering-best-practice-part-1-d300d3ff01da?source=rss------data_science-5)
-- [How Model-Driven Engineering operates&lpar;Technology&rpar;](https://medium.com/@monocosmo77/how-model-driven-engineering-operates-technology-468b07f5ba14?source=rss------data_science-5)
-- [Noob’s Intro to Python](https://medium.com/data-science-noobs/noobs-intro-to-python-4fbe9e8cce5d?source=rss------data_science-5)
-- [Trading the Harmonic 5–0 Pattern — The Full Guide](https://kaabar-sofien.medium.com/trading-the-harmonic-5-0-pattern-the-full-guide-aedab3386258?source=rss------data_science-5)
-- [DaaS accelerating food delivery business at Eats](https://medium.com/coupang-engineering/daas-accelerating-food-delivery-business-at-eats-65e4ccce6470?source=rss------data_science-5)
-- [Pre-Martial Sex in America](https://danpark13.medium.com/pre-martial-sex-in-america-bcb5d9b1be34?source=rss------data_science-5)
-- [Time Series Analysis &lpar;5&rpar; — ARIMA models : Parameter Estimation, Model Selection, and Diagnostics](https://medium.com/@medi_seul/time-series-analysis-5-arima-models-parameter-estimation-model-selection-and-diagnostics-6138c846fae2?source=rss------data_science-5)
-- [Deep Learning Building Blocks-MNIST](https://medium.com/@chrisgarcia845/deep-learning-building-blocks-mnist-a991354aded7?source=rss------data_science-5)
+- [Turning News Into Data — Day 10 &lpar;Reduce Image Size&rpar;](https://medium.com/@elefun/turning-news-into-data-day-10-reduce-image-size-bc0b7081fceb?source=rss------data_science-5)
+- [Datapane Meet Jupyter](https://medium.com/@holtan.chase/datapane-meet-jupyter-a160ba612fed?source=rss------data_science-5)
+- [The McGinley Dynamic — A Superior Moving Average?](https://kaabar-sofien.medium.com/the-mcginley-dynamic-a-superior-moving-average-8e79b8f60fbd?source=rss------data_science-5)
+- [Understanding the essence of Bayes’ theorem simplified](https://medium.com/@vsaisimha/understanding-the-essence-of-bayes-theorem-simplified-4b27836268d2?source=rss------data_science-5)
+- [Power BI: Dynamic Title based on Slicer selection](https://medium.com/@m.mishra2403/power-bi-dynamic-title-based-on-slicer-selection-5328a98e029e?source=rss------data_science-5)
+- [Rendered.ai’s CEO, Nathan Kundtz, on Using AI to Build Better AI](https://medium.com/renderedai/rendered-ais-ceo-nathan-kundtz-on-using-ai-to-build-better-ai-30bfaee926ba?source=rss------data_science-5)
+- [The Only Programming Languages You Need](https://preettheman.medium.com/the-only-programming-languages-you-need-c9999f05300f?source=rss------data_science-5)
+- [Tableau &amp; Power BI recently added Python or Python+Jupyter because certain Python analytics &amp;…](https://medium.com/@sime.curkovic/tableau-power-bi-recently-added-python-or-python-jupyter-because-certain-python-analytics-9becfc4aec35?source=rss------data_science-5)
+- [How Density Based Clustering works&lpar;Data Mining&rpar;](https://medium.com/@monocosmo77/how-density-based-clustering-works-data-mining-cf6549593c6a?source=rss------data_science-5)
+- [How to Go-To-Market with Your Product: Part 3](https://uxplanet.org/how-to-go-to-market-with-your-product-part-3-b0a3934a815c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
