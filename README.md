@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Turning News Into Data — Day 10 &lpar;Reduce Image Size&rpar;](https://medium.com/@elefun/turning-news-into-data-day-10-reduce-image-size-bc0b7081fceb?source=rss------data_science-5)
-- [Datapane Meet Jupyter](https://medium.com/@holtan.chase/datapane-meet-jupyter-a160ba612fed?source=rss------data_science-5)
-- [The McGinley Dynamic — A Superior Moving Average?](https://kaabar-sofien.medium.com/the-mcginley-dynamic-a-superior-moving-average-8e79b8f60fbd?source=rss------data_science-5)
-- [Understanding the essence of Bayes’ theorem simplified](https://medium.com/@vsaisimha/understanding-the-essence-of-bayes-theorem-simplified-4b27836268d2?source=rss------data_science-5)
-- [Power BI: Dynamic Title based on Slicer selection](https://medium.com/@m.mishra2403/power-bi-dynamic-title-based-on-slicer-selection-5328a98e029e?source=rss------data_science-5)
-- [Rendered.ai’s CEO, Nathan Kundtz, on Using AI to Build Better AI](https://medium.com/renderedai/rendered-ais-ceo-nathan-kundtz-on-using-ai-to-build-better-ai-30bfaee926ba?source=rss------data_science-5)
-- [The Only Programming Languages You Need](https://preettheman.medium.com/the-only-programming-languages-you-need-c9999f05300f?source=rss------data_science-5)
-- [Tableau &amp; Power BI recently added Python or Python+Jupyter because certain Python analytics &amp;…](https://medium.com/@sime.curkovic/tableau-power-bi-recently-added-python-or-python-jupyter-because-certain-python-analytics-9becfc4aec35?source=rss------data_science-5)
-- [How Density Based Clustering works&lpar;Data Mining&rpar;](https://medium.com/@monocosmo77/how-density-based-clustering-works-data-mining-cf6549593c6a?source=rss------data_science-5)
-- [How to Go-To-Market with Your Product: Part 3](https://uxplanet.org/how-to-go-to-market-with-your-product-part-3-b0a3934a815c?source=rss------data_science-5)
+- [Intermediate SQL Question with Detailed Solution &lpar;Step-by-Step&rpar;](https://medium.com/@anna.wu9222/intermediate-sql-question-with-detailed-solution-step-by-step-3f83c4061dbd?source=rss------data_science-5)
+- [Opportunities for Data Science Innovation in Australia’s Biosecurity Sector](https://medium.com/@yiwei.chen-3/opportunities-for-data-science-innovation-in-australias-biosecurity-sector-33903532b6c8?source=rss------data_science-5)
+- [TransUNet — No More CNNs for Image Segmentation](https://medium.com/@mlquest0/transunet-no-more-cnns-for-image-segmentation-278e85c81914?source=rss------data_science-5)
+- [Creating a Fractal Trading Strategy for Advanced Contrarian Signals](https://kaabar-sofien.medium.com/creating-a-fractal-trading-strategy-for-advanced-contrarian-signals-850c2b22a444?source=rss------data_science-5)
+- [Python data analysis: House Rents](https://medium.com/@victor_aapv/python-data-analysis-house-rents-698ebf534be4?source=rss------data_science-5)
+- [How to choose a machine learning approach to solve your problem?](https://medium.com/@data.science.enthusiast/machine-learning-model-selection-c571324f31e?source=rss------data_science-5)
+- [Journey Towards a Data Career — 03](https://medium.com/@aditya524/journey-towards-a-data-career-03-f41731ae8e8?source=rss------data_science-5)
+- [Feature Selection: key Technique to Improve Models accuracy](https://medium.com/@usamabaloch152001/feature-selection-data-scientists-key-tool-for-solving-problems-4c6ddf36255a?source=rss------data_science-5)
+- [LightGBM Algorithm Overview](https://srijan-bhushan.medium.com/lightgbm-algorithm-overview-1ab627ed9687?source=rss------data_science-5)
+- [How Helmholtz Resonators behave&lpar;Ocillations&rpar;](https://medium.com/@monocosmo77/how-helmholtz-resonators-behave-ocillations-69fb36df378f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
