@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Intermediate SQL Question with Detailed Solution &lpar;Step-by-Step&rpar;](https://medium.com/@anna.wu9222/intermediate-sql-question-with-detailed-solution-step-by-step-3f83c4061dbd?source=rss------data_science-5)
-- [Opportunities for Data Science Innovation in Australia’s Biosecurity Sector](https://medium.com/@yiwei.chen-3/opportunities-for-data-science-innovation-in-australias-biosecurity-sector-33903532b6c8?source=rss------data_science-5)
-- [TransUNet — No More CNNs for Image Segmentation](https://medium.com/@mlquest0/transunet-no-more-cnns-for-image-segmentation-278e85c81914?source=rss------data_science-5)
-- [Creating a Fractal Trading Strategy for Advanced Contrarian Signals](https://kaabar-sofien.medium.com/creating-a-fractal-trading-strategy-for-advanced-contrarian-signals-850c2b22a444?source=rss------data_science-5)
-- [Python data analysis: House Rents](https://medium.com/@victor_aapv/python-data-analysis-house-rents-698ebf534be4?source=rss------data_science-5)
-- [How to choose a machine learning approach to solve your problem?](https://medium.com/@data.science.enthusiast/machine-learning-model-selection-c571324f31e?source=rss------data_science-5)
-- [Journey Towards a Data Career — 03](https://medium.com/@aditya524/journey-towards-a-data-career-03-f41731ae8e8?source=rss------data_science-5)
-- [Feature Selection: key Technique to Improve Models accuracy](https://medium.com/@usamabaloch152001/feature-selection-data-scientists-key-tool-for-solving-problems-4c6ddf36255a?source=rss------data_science-5)
-- [LightGBM Algorithm Overview](https://srijan-bhushan.medium.com/lightgbm-algorithm-overview-1ab627ed9687?source=rss------data_science-5)
-- [How Helmholtz Resonators behave&lpar;Ocillations&rpar;](https://medium.com/@monocosmo77/how-helmholtz-resonators-behave-ocillations-69fb36df378f?source=rss------data_science-5)
+- [Role of Data Science in Streaming Services](https://medium.com/@kevincherian727/role-of-data-science-in-streaming-services-9f0e0164d00f?source=rss------data_science-5)
+- [Como as máquinas aprendem.](https://medium.com/@matheuscidao1995/como-as-m%C3%A1quinas-aprendem-6f5200572010?source=rss------data_science-5)
+- [Sanskrit will Surpass the AI](https://medium.com/@shrawankscvrce/sanskrit-will-surpass-the-ai-9c62440534cb?source=rss------data_science-5)
+- [How To become a Data scientist in 12 months or less.](https://medium.com/@hervewabo/how-to-become-a-data-scientist-in-12-months-or-less-9cf3d8b2c7ce?source=rss------data_science-5)
+- [Recent developments in the applications of BERT model part2&lpar;Aritificial Intelligence&rpar;](https://medium.com/@monocosmo77/recent-developments-in-the-applications-of-bert-model-part2-aritificial-intelligence-93e015ce3ae7?source=rss------data_science-5)
+- [How Teaching Assistants can be used&lpar;AI +NLP&rpar;](https://medium.com/@monocosmo77/how-teaching-assistants-can-be-used-ai-nlp-b45b8a908cfc?source=rss------data_science-5)
+- [Trading the Crab Pattern — The Full Guide](https://kaabar-sofien.medium.com/trading-the-crab-pattern-the-full-guide-3e5e8830257c?source=rss------data_science-5)
+- [How Cortical Surface Reconstruction works&lpar;AI +Data Representation&rpar;](https://medium.com/@monocosmo77/how-cortical-surface-reconstruction-works-ai-data-representation-fc80ef7e7258?source=rss------data_science-5)
+- [Do you want to know what data science is? Read this to understand.](https://medium.com/@ktakanopy/understanding-what-data-science-is-904cd5d9719a?source=rss------data_science-5)
+- [Understanding Neural ODEs part2&lpar;AI&rpar;](https://medium.com/@monocosmo77/understanding-neural-odes-part2-ai-d4f52ae448e3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
