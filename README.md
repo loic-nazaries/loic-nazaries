@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Role of Data Science in Streaming Services](https://medium.com/@kevincherian727/role-of-data-science-in-streaming-services-9f0e0164d00f?source=rss------data_science-5)
-- [Como as máquinas aprendem.](https://medium.com/@matheuscidao1995/como-as-m%C3%A1quinas-aprendem-6f5200572010?source=rss------data_science-5)
-- [Sanskrit will Surpass the AI](https://medium.com/@shrawankscvrce/sanskrit-will-surpass-the-ai-9c62440534cb?source=rss------data_science-5)
-- [How To become a Data scientist in 12 months or less.](https://medium.com/@hervewabo/how-to-become-a-data-scientist-in-12-months-or-less-9cf3d8b2c7ce?source=rss------data_science-5)
-- [Recent developments in the applications of BERT model part2&lpar;Aritificial Intelligence&rpar;](https://medium.com/@monocosmo77/recent-developments-in-the-applications-of-bert-model-part2-aritificial-intelligence-93e015ce3ae7?source=rss------data_science-5)
-- [How Teaching Assistants can be used&lpar;AI +NLP&rpar;](https://medium.com/@monocosmo77/how-teaching-assistants-can-be-used-ai-nlp-b45b8a908cfc?source=rss------data_science-5)
-- [Trading the Crab Pattern — The Full Guide](https://kaabar-sofien.medium.com/trading-the-crab-pattern-the-full-guide-3e5e8830257c?source=rss------data_science-5)
-- [How Cortical Surface Reconstruction works&lpar;AI +Data Representation&rpar;](https://medium.com/@monocosmo77/how-cortical-surface-reconstruction-works-ai-data-representation-fc80ef7e7258?source=rss------data_science-5)
-- [Do you want to know what data science is? Read this to understand.](https://medium.com/@ktakanopy/understanding-what-data-science-is-904cd5d9719a?source=rss------data_science-5)
-- [Understanding Neural ODEs part2&lpar;AI&rpar;](https://medium.com/@monocosmo77/understanding-neural-odes-part2-ai-d4f52ae448e3?source=rss------data_science-5)
+- [Reverse Engineering CapitalOne Bank &lpar;Part 2&rpar;](https://medium.com/@bongani.j.siamtinta/reverse-engineering-capitalone-bank-part-2-ee70efe4f140?source=rss------data_science-5)
+- [ML project : Telco Churn prediction.](https://medium.com/@chinnapat.work/ml-project-telco-churn-prediction-2edb625a2e70?source=rss------data_science-5)
+- [Causal Inference vs Prediction models: which one?](https://medium.com/@orlandovilar/causal-inference-vs-prediction-models-which-one-e385b07cac69?source=rss------data_science-5)
+- [Creando mi primera base de datos en Snowflake](https://medium.com/@dataengineeringlatam/creando-mi-primera-base-de-datos-en-snowflake-52da004e1483?source=rss------data_science-5)
+- [Simple Tricks to speed up Pandas by 100x](https://jadhav-pritish.medium.com/simple-tricks-to-speed-up-pandas-by-100x-3b7e705783a8?source=rss------data_science-5)
+- [Get over 60 hours of business intelligence training for $35](https://medium.com/@tianah0333/get-over-60-hours-of-business-intelligence-training-for-35-811bfbc1401?source=rss------data_science-5)
+- [&lpar;Trying to&rpar; Understanding Data Science Technologies — TensorFlow](https://medium.com/@tvrjuana/trying-to-understanding-data-science-technologies-tensorflow-af080b24fb91?source=rss------data_science-5)
+- [The basic idea of L1 and L2 Regularization](https://medium.com/@ushabhanukomaragiri/the-basic-idea-of-l1-and-l2-regularization-f7d877d2297e?source=rss------data_science-5)
+- [Create a table with flexible date granularity with a dynamic title in Tableau](https://medium.com/@DSway/create-a-table-with-flexible-date-granularity-with-a-dynamic-title-in-tableau-1e9fa88cae56?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
