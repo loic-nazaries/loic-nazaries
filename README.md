@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Reverse Engineering CapitalOne Bank &lpar;Part 2&rpar;](https://medium.com/@bongani.j.siamtinta/reverse-engineering-capitalone-bank-part-2-ee70efe4f140?source=rss------data_science-5)
-- [ML project : Telco Churn prediction.](https://medium.com/@chinnapat.work/ml-project-telco-churn-prediction-2edb625a2e70?source=rss------data_science-5)
-- [Causal Inference vs Prediction models: which one?](https://medium.com/@orlandovilar/causal-inference-vs-prediction-models-which-one-e385b07cac69?source=rss------data_science-5)
-- [Creando mi primera base de datos en Snowflake](https://medium.com/@dataengineeringlatam/creando-mi-primera-base-de-datos-en-snowflake-52da004e1483?source=rss------data_science-5)
-- [Simple Tricks to speed up Pandas by 100x](https://jadhav-pritish.medium.com/simple-tricks-to-speed-up-pandas-by-100x-3b7e705783a8?source=rss------data_science-5)
-- [Get over 60 hours of business intelligence training for $35](https://medium.com/@tianah0333/get-over-60-hours-of-business-intelligence-training-for-35-811bfbc1401?source=rss------data_science-5)
-- [&lpar;Trying to&rpar; Understanding Data Science Technologies — TensorFlow](https://medium.com/@tvrjuana/trying-to-understanding-data-science-technologies-tensorflow-af080b24fb91?source=rss------data_science-5)
-- [The basic idea of L1 and L2 Regularization](https://medium.com/@ushabhanukomaragiri/the-basic-idea-of-l1-and-l2-regularization-f7d877d2297e?source=rss------data_science-5)
-- [Create a table with flexible date granularity with a dynamic title in Tableau](https://medium.com/@DSway/create-a-table-with-flexible-date-granularity-with-a-dynamic-title-in-tableau-1e9fa88cae56?source=rss------data_science-5)
+- [Getting Started with Reading and Profiling the Data for Beginners](https://python.plainenglish.io/getting-started-with-reading-and-profiling-the-data-for-beginners-2743ac2bca96?source=rss------data_science-5)
+- [August 2022 -$ATOM Stats](https://medium.com/@izik_66261/august-2022-atom-stats-e3239b7acccc?source=rss------data_science-5)
+- [Meta AIs shocking insight about Big Data and Deep Learning](https://machine-learning-made-simple.medium.com/meta-ais-shocking-insight-about-big-data-and-deep-learning-857f9f2b9ac5?source=rss------data_science-5)
+- [How to find endpoint of public API in a website?](https://medium.com/@ismailelalaoui/how-to-find-endpoint-of-public-api-in-a-website-c54b256eeac7?source=rss------data_science-5)
+- [Understanding how Haar measure works part1&lpar;Mathematics&rpar;](https://medium.com/@monocosmo77/understanding-how-haar-measure-works-part1-mathematics-61f649f214d7?source=rss------data_science-5)
+- [Why an ESG mission matters.](https://medium.com/@pat.beesley27/why-an-esg-mission-matters-d3cf405423a0?source=rss------data_science-5)
+- [Building a Data-Driven Strategy.](https://medium.com/@martin.jurado.p/building-a-data-driven-strategy-cc75ef8c4a0?source=rss------data_science-5)
+- [What is DataJoey?](https://medium.com/datajoey/what-is-datajoey-e262b825a62?source=rss------data_science-5)
+- [Why is ethical Machine Learning so hard to accomplish?](https://danielfernandez.medium.com/why-is-ethical-machine-learning-so-hard-to-accomplish-a6dcb2214bf0?source=rss------data_science-5)
+- [Presenting a New Reactive Technical Indicator](https://kaabar-sofien.medium.com/presenting-a-new-reactive-technical-indicator-676fc6600f43?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
