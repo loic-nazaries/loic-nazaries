@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Getting Started with Reading and Profiling the Data for Beginners](https://python.plainenglish.io/getting-started-with-reading-and-profiling-the-data-for-beginners-2743ac2bca96?source=rss------data_science-5)
-- [August 2022 -$ATOM Stats](https://medium.com/@izik_66261/august-2022-atom-stats-e3239b7acccc?source=rss------data_science-5)
-- [Meta AIs shocking insight about Big Data and Deep Learning](https://machine-learning-made-simple.medium.com/meta-ais-shocking-insight-about-big-data-and-deep-learning-857f9f2b9ac5?source=rss------data_science-5)
-- [How to find endpoint of public API in a website?](https://medium.com/@ismailelalaoui/how-to-find-endpoint-of-public-api-in-a-website-c54b256eeac7?source=rss------data_science-5)
-- [Understanding how Haar measure works part1&lpar;Mathematics&rpar;](https://medium.com/@monocosmo77/understanding-how-haar-measure-works-part1-mathematics-61f649f214d7?source=rss------data_science-5)
-- [Why an ESG mission matters.](https://medium.com/@pat.beesley27/why-an-esg-mission-matters-d3cf405423a0?source=rss------data_science-5)
-- [Building a Data-Driven Strategy.](https://medium.com/@martin.jurado.p/building-a-data-driven-strategy-cc75ef8c4a0?source=rss------data_science-5)
-- [What is DataJoey?](https://medium.com/datajoey/what-is-datajoey-e262b825a62?source=rss------data_science-5)
-- [Why is ethical Machine Learning so hard to accomplish?](https://danielfernandez.medium.com/why-is-ethical-machine-learning-so-hard-to-accomplish-a6dcb2214bf0?source=rss------data_science-5)
-- [Presenting a New Reactive Technical Indicator](https://kaabar-sofien.medium.com/presenting-a-new-reactive-technical-indicator-676fc6600f43?source=rss------data_science-5)
+- [Do you know IT professionals &lpar;for both males and females&rpar; in US got paid much better comparing with…](https://medium.com/@thanhta2010/do-you-know-it-professionals-for-both-males-and-females-in-us-got-paid-much-better-comparing-with-e0a4e16187a8?source=rss------data_science-5)
+- [SQL Queries — Part I](https://ahmadilhamhabibi.medium.com/sql-queries-part-i-3bdace79030b?source=rss------data_science-5)
+- [Customer Churn Prediction &amp; Probability Machine Learning Model](https://dadataguy.medium.com/customer-churn-prediction-probability-machine-learning-model-fe250be4d9b8?source=rss------data_science-5)
+- [Free MIT Course To Learn Statistics for Data Science](https://medium.com/mlearning-ai/free-mit-course-to-learn-basics-of-statistics-for-data-science-ba3c3b024a62?source=rss------data_science-5)
+- [Online discovery of click-through rate](https://medium.com/@chzelada/online-discovery-of-click-through-rate-cbd2e390521e?source=rss------data_science-5)
+- [Broadcasting Operations in Pandas Explained](https://towardsdatascience.com/broadcasting-operations-in-pandas-explained-f8e00af73963?source=rss------data_science-5)
+- [The TRIX Technical Indicator — Full Guide in Python](https://kaabar-sofien.medium.com/the-trix-technical-indicator-full-guide-in-python-2aa1849deede?source=rss------data_science-5)
+- [As análises e decisões por trás da dash](https://medium.com/@gdutrasouza/as-an%C3%A1lises-e-decis%C3%B5es-por-tr%C3%A1s-da-dash-beddf21e7e5d?source=rss------data_science-5)
+- [Carreiras em Dados](https://medium.com/@LetsAnalysis/carreiras-em-dados-39375f51570c?source=rss------data_science-5)
+- [Data Cleaning](https://prof-frenzel.medium.com/data-cleaning-87ae51e51b95?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
