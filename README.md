@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Do you know IT professionals &lpar;for both males and females&rpar; in US got paid much better comparing with…](https://medium.com/@thanhta2010/do-you-know-it-professionals-for-both-males-and-females-in-us-got-paid-much-better-comparing-with-e0a4e16187a8?source=rss------data_science-5)
-- [SQL Queries — Part I](https://ahmadilhamhabibi.medium.com/sql-queries-part-i-3bdace79030b?source=rss------data_science-5)
-- [Customer Churn Prediction &amp; Probability Machine Learning Model](https://dadataguy.medium.com/customer-churn-prediction-probability-machine-learning-model-fe250be4d9b8?source=rss------data_science-5)
-- [Free MIT Course To Learn Statistics for Data Science](https://medium.com/mlearning-ai/free-mit-course-to-learn-basics-of-statistics-for-data-science-ba3c3b024a62?source=rss------data_science-5)
-- [Online discovery of click-through rate](https://medium.com/@chzelada/online-discovery-of-click-through-rate-cbd2e390521e?source=rss------data_science-5)
-- [Broadcasting Operations in Pandas Explained](https://towardsdatascience.com/broadcasting-operations-in-pandas-explained-f8e00af73963?source=rss------data_science-5)
-- [The TRIX Technical Indicator — Full Guide in Python](https://kaabar-sofien.medium.com/the-trix-technical-indicator-full-guide-in-python-2aa1849deede?source=rss------data_science-5)
-- [As análises e decisões por trás da dash](https://medium.com/@gdutrasouza/as-an%C3%A1lises-e-decis%C3%B5es-por-tr%C3%A1s-da-dash-beddf21e7e5d?source=rss------data_science-5)
-- [Carreiras em Dados](https://medium.com/@LetsAnalysis/carreiras-em-dados-39375f51570c?source=rss------data_science-5)
-- [Data Cleaning](https://prof-frenzel.medium.com/data-cleaning-87ae51e51b95?source=rss------data_science-5)
+- [4 Things You may have Missed while Using Pandas](https://towardsdatascience.com/4-things-you-may-have-missed-while-using-pandas-9a4e7581d495?source=rss------data_science-5)
+- [Top Python Libraries For Computer Vision in 2022](https://moez-62905.medium.com/top-python-libraries-for-computer-vision-in-2022-9ff1bdb1bca2?source=rss------data_science-5)
+- [Is Data Science a Science?](https://medium.datadriveninvestor.com/is-data-science-a-science-ab036964c060?source=rss------data_science-5)
+- [Importing the Data into Power BI — Airbnb#007](https://medium.com/@douglas.rochedo/importing-the-data-into-power-bi-airbnb-007-9cb2b38499c5?source=rss------data_science-5)
+- [DATA em todo lugar…](https://medium.com/@Carlos_Eduardo_Oliveira/data-em-todo-lugar-e4ed7c9b6de3?source=rss------data_science-5)
+- [AI Athletics Performance Analyzer](https://medium.com/@J.A.Bond/ai-athletics-performance-analyzer-df07e50fa1d?source=rss------data_science-5)
+- [33 Must Know SQL Data Analyst Interview Questions and Answers](https://medium.com/@anna.wu9222/33-must-know-sql-data-analyst-interview-questions-and-answers-f66ccf2cfaa6?source=rss------data_science-5)
+- [Predicting Default Payments of Credit Card Clients](https://medium.com/@mariceMane/predicting-default-payments-of-credit-card-clients-1eb5b624194b?source=rss------data_science-5)
+- [The TD Moving Average II in Python](https://kaabar-sofien.medium.com/the-td-moving-average-ii-in-python-491b98154a12?source=rss------data_science-5)
+- [What are the Limitations with AWS Redshift?](https://medium.com/@ahana.io/what-are-the-limitations-with-aws-redshift-4e2c3c62d6f3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
