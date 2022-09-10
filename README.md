@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [4 Things You may have Missed while Using Pandas](https://towardsdatascience.com/4-things-you-may-have-missed-while-using-pandas-9a4e7581d495?source=rss------data_science-5)
-- [Top Python Libraries For Computer Vision in 2022](https://moez-62905.medium.com/top-python-libraries-for-computer-vision-in-2022-9ff1bdb1bca2?source=rss------data_science-5)
-- [Is Data Science a Science?](https://medium.datadriveninvestor.com/is-data-science-a-science-ab036964c060?source=rss------data_science-5)
-- [Importing the Data into Power BI — Airbnb#007](https://medium.com/@douglas.rochedo/importing-the-data-into-power-bi-airbnb-007-9cb2b38499c5?source=rss------data_science-5)
-- [DATA em todo lugar…](https://medium.com/@Carlos_Eduardo_Oliveira/data-em-todo-lugar-e4ed7c9b6de3?source=rss------data_science-5)
-- [AI Athletics Performance Analyzer](https://medium.com/@J.A.Bond/ai-athletics-performance-analyzer-df07e50fa1d?source=rss------data_science-5)
-- [33 Must Know SQL Data Analyst Interview Questions and Answers](https://medium.com/@anna.wu9222/33-must-know-sql-data-analyst-interview-questions-and-answers-f66ccf2cfaa6?source=rss------data_science-5)
-- [Predicting Default Payments of Credit Card Clients](https://medium.com/@mariceMane/predicting-default-payments-of-credit-card-clients-1eb5b624194b?source=rss------data_science-5)
-- [The TD Moving Average II in Python](https://kaabar-sofien.medium.com/the-td-moving-average-ii-in-python-491b98154a12?source=rss------data_science-5)
-- [What are the Limitations with AWS Redshift?](https://medium.com/@ahana.io/what-are-the-limitations-with-aws-redshift-4e2c3c62d6f3?source=rss------data_science-5)
+- [5 Useful Statistical Tests in Data Science](https://medium.com/mlearning-ai/5-useful-statistical-tests-in-data-science-3bd622028bae?source=rss------data_science-5)
+- [The Honeycomb: Seven Methods to Exceed User Experience Expectations](https://uxplanet.org/the-honeycomb-seven-methods-to-exceed-user-experience-expectations-d7f79a930526?source=rss------data_science-5)
+- [Introdução ao uso de dados desbalanceados e machine learning para detecção de fraudes](https://medium.com/camilawaltrick/como-usar-dados-desbalanceados-e-algoritmos-de-machine-learning-em-python-para-deteccao-de-fraudes-c85957807f35?source=rss------data_science-5)
+- [The Direct Reversal Trading Strategy in Python](https://kaabar-sofien.medium.com/the-direct-reversal-trading-strategy-in-python-e3677811b80b?source=rss------data_science-5)
+- [Comparing AWS Athena &amp; PrestoDB: Partition Limits](https://medium.com/@didyoungj_40868/comparing-aws-athena-prestodb-partition-limits-483cdc1e9186?source=rss------data_science-5)
+- [Google Data Scientist Interview Questions &lpar;Step-by-Step Solutions!&rpar;](https://medium.com/@anna.wu9222/google-data-scientist-interview-questions-step-by-step-solutions-63b7403e2a5c?source=rss------data_science-5)
+- [Cleaning up python code with the toolz library](https://medium.com/@mschaid86/cleaning-up-python-code-with-the-toolz-library-40803f0c8303?source=rss------data_science-5)
+- [Data engineering 103: Intermediate Concepts in Data Engineering](https://onyangoashtone.medium.com/data-engineering-103-intermediate-concepts-in-data-engineering-40b90b6e6ce5?source=rss------data_science-5)
+- [Who survives the upturn, who survives the downturn](https://medium.com/@eldarmu/who-survives-the-upturn-who-survives-the-downturn-db6955b8cdfe?source=rss------data_science-5)
+- [Detecção de Fraude em Cartão de Crédito com Machine Learning](https://medium.com/@andre-almd/detec%C3%A7%C3%A3o-de-fraude-em-cart%C3%A3o-de-cr%C3%A9dito-com-machine-learning-2a9ff745bc0f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
