@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [5 Useful Statistical Tests in Data Science](https://medium.com/mlearning-ai/5-useful-statistical-tests-in-data-science-3bd622028bae?source=rss------data_science-5)
-- [The Honeycomb: Seven Methods to Exceed User Experience Expectations](https://uxplanet.org/the-honeycomb-seven-methods-to-exceed-user-experience-expectations-d7f79a930526?source=rss------data_science-5)
-- [Introdução ao uso de dados desbalanceados e machine learning para detecção de fraudes](https://medium.com/camilawaltrick/como-usar-dados-desbalanceados-e-algoritmos-de-machine-learning-em-python-para-deteccao-de-fraudes-c85957807f35?source=rss------data_science-5)
-- [The Direct Reversal Trading Strategy in Python](https://kaabar-sofien.medium.com/the-direct-reversal-trading-strategy-in-python-e3677811b80b?source=rss------data_science-5)
-- [Comparing AWS Athena &amp; PrestoDB: Partition Limits](https://medium.com/@didyoungj_40868/comparing-aws-athena-prestodb-partition-limits-483cdc1e9186?source=rss------data_science-5)
-- [Google Data Scientist Interview Questions &lpar;Step-by-Step Solutions!&rpar;](https://medium.com/@anna.wu9222/google-data-scientist-interview-questions-step-by-step-solutions-63b7403e2a5c?source=rss------data_science-5)
-- [Cleaning up python code with the toolz library](https://medium.com/@mschaid86/cleaning-up-python-code-with-the-toolz-library-40803f0c8303?source=rss------data_science-5)
-- [Data engineering 103: Intermediate Concepts in Data Engineering](https://onyangoashtone.medium.com/data-engineering-103-intermediate-concepts-in-data-engineering-40b90b6e6ce5?source=rss------data_science-5)
-- [Who survives the upturn, who survives the downturn](https://medium.com/@eldarmu/who-survives-the-upturn-who-survives-the-downturn-db6955b8cdfe?source=rss------data_science-5)
-- [Detecção de Fraude em Cartão de Crédito com Machine Learning](https://medium.com/@andre-almd/detec%C3%A7%C3%A3o-de-fraude-em-cart%C3%A3o-de-cr%C3%A9dito-com-machine-learning-2a9ff745bc0f?source=rss------data_science-5)
+- [Nitty-gritty insights on FIFA World Cup](https://medium.com/@yudhisteer.chin/nitty-gritty-of-fifa-world-cup-a9dadf8b7c24?source=rss------data_science-5)
+- [Data Science | 700 hours of study](https://medium.com/@estevao_s.m.l./data-science-700-hours-of-study-d1480c17e6f9?source=rss------data_science-5)
+- [Saúde &amp; Diagnóstico &amp; Engenharia &amp; Data Science](https://gsfreitas.medium.com/sa%C3%BAde-diagn%C3%B3stico-engenharia-data-science-53725a357876?source=rss------data_science-5)
+- [August 2022 - Cosmos Ecosystem Winners and Losers](https://izik-r.medium.com/august-2022-cosmos-ecosystem-winners-and-losers-54cf2604de7b?source=rss------data_science-5)
+- [Top Medium Stories](https://medium.com/@dennisyd/top-medium-stories-248d034a25ed?source=rss------data_science-5)
+- [5 Differences Between Metabase and Redash: Which Is the Right Tool for You?](https://medium.com/@mutaherazhar1/5-differences-between-metabase-and-redash-which-is-the-right-tool-for-you-360925b72c5b?source=rss------data_science-5)
+- [Difference Between Normalization and Standardization](https://pub.towardsai.net/difference-between-normalization-and-standardization-745030eaf96f?source=rss------data_science-5)
+- [Dialer Analysis — Historical and Forecast](https://medium.com/@f2005636/dialer-analysis-historical-and-forecast-a3c2a6ad7dc4?source=rss------data_science-5)
+- [Worked out example on Survival Analysis &amp; Cox Proportional Hazard Regression in Python](https://medium.com/@f2005636/worked-out-example-on-survival-analysis-cox-proportional-hazard-regression-in-python-6eaa561c885b?source=rss------data_science-5)
+- [Machine Learning Explainability — Worked out Example &lpar;Balance Consolidation&rpar;](https://medium.com/@f2005636/machine-learning-explainability-worked-out-example-balance-consolidation-51c3586ea3e4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
