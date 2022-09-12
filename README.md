@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Nitty-gritty insights on FIFA World Cup](https://medium.com/@yudhisteer.chin/nitty-gritty-of-fifa-world-cup-a9dadf8b7c24?source=rss------data_science-5)
-- [Data Science | 700 hours of study](https://medium.com/@estevao_s.m.l./data-science-700-hours-of-study-d1480c17e6f9?source=rss------data_science-5)
-- [Saúde &amp; Diagnóstico &amp; Engenharia &amp; Data Science](https://gsfreitas.medium.com/sa%C3%BAde-diagn%C3%B3stico-engenharia-data-science-53725a357876?source=rss------data_science-5)
-- [August 2022 - Cosmos Ecosystem Winners and Losers](https://izik-r.medium.com/august-2022-cosmos-ecosystem-winners-and-losers-54cf2604de7b?source=rss------data_science-5)
-- [Top Medium Stories](https://medium.com/@dennisyd/top-medium-stories-248d034a25ed?source=rss------data_science-5)
-- [5 Differences Between Metabase and Redash: Which Is the Right Tool for You?](https://medium.com/@mutaherazhar1/5-differences-between-metabase-and-redash-which-is-the-right-tool-for-you-360925b72c5b?source=rss------data_science-5)
-- [Difference Between Normalization and Standardization](https://pub.towardsai.net/difference-between-normalization-and-standardization-745030eaf96f?source=rss------data_science-5)
-- [Dialer Analysis — Historical and Forecast](https://medium.com/@f2005636/dialer-analysis-historical-and-forecast-a3c2a6ad7dc4?source=rss------data_science-5)
-- [Worked out example on Survival Analysis &amp; Cox Proportional Hazard Regression in Python](https://medium.com/@f2005636/worked-out-example-on-survival-analysis-cox-proportional-hazard-regression-in-python-6eaa561c885b?source=rss------data_science-5)
-- [Machine Learning Explainability — Worked out Example &lpar;Balance Consolidation&rpar;](https://medium.com/@f2005636/machine-learning-explainability-worked-out-example-balance-consolidation-51c3586ea3e4?source=rss------data_science-5)
+- [DATA Scientist 따라잡기](https://desigmon.medium.com/data-scientist-%EB%94%B0%EB%9D%BC%EC%9E%A1%EA%B8%B0-613f3d5973bd?source=rss------data_science-5)
+- [Data Analytics Interviews: What to Expect and How to Prepare](https://data-storyteller.medium.com/data-analytics-interviews-what-to-expect-and-how-to-prepare-64f48d910213?source=rss------data_science-5)
+- [Italian Politics in 4-Years-Tweets](https://medium.com/@colluf6/italian-politics-in-4-years-tweets-a1131de823ac?source=rss------data_science-5)
+- [The Modified Moving Average](https://kaabar-sofien.medium.com/the-modified-moving-average-5130367e0936?source=rss------data_science-5)
+- [The Tyranny of Statistics: How Bad People Use Numbers Against You](https://medium.com/@julian.frazier.phd/the-tyranny-of-statistics-how-bad-people-use-numbers-against-you-c7b21c88fb0b?source=rss------data_science-5)
+- [Advanced SQL for Data Science: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/advanced-sql-for-data-science-11c6cafc829?source=rss------data_science-5)
+- [Custom Ensemble Methods for Used Car Price Prediction — Part I](https://satishrsingh.medium.com/custom-ensemble-methods-for-used-car-price-prediction-part-i-9a941aa7656d?source=rss------data_science-5)
+- [Six Sigma for Data Projects](https://medium.com/mlearning-ai/six-sigma-for-data-projects-a80bcaa09c53?source=rss------data_science-5)
+- [Início da carreira em Data Science](https://medium.com/@joaoluizcouto15/in%C3%ADcio-da-carreira-em-data-science-660af93f3902?source=rss------data_science-5)
+- [Do You Need a Data Science Degree To Be a Successful Data Analyst?](https://jmesgray.medium.com/do-you-need-a-data-science-degree-to-become-a-successful-data-analyst-a2f339a6c857?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
