@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [DATA Scientist 따라잡기](https://desigmon.medium.com/data-scientist-%EB%94%B0%EB%9D%BC%EC%9E%A1%EA%B8%B0-613f3d5973bd?source=rss------data_science-5)
-- [Data Analytics Interviews: What to Expect and How to Prepare](https://data-storyteller.medium.com/data-analytics-interviews-what-to-expect-and-how-to-prepare-64f48d910213?source=rss------data_science-5)
-- [Italian Politics in 4-Years-Tweets](https://medium.com/@colluf6/italian-politics-in-4-years-tweets-a1131de823ac?source=rss------data_science-5)
-- [The Modified Moving Average](https://kaabar-sofien.medium.com/the-modified-moving-average-5130367e0936?source=rss------data_science-5)
-- [The Tyranny of Statistics: How Bad People Use Numbers Against You](https://medium.com/@julian.frazier.phd/the-tyranny-of-statistics-how-bad-people-use-numbers-against-you-c7b21c88fb0b?source=rss------data_science-5)
-- [Advanced SQL for Data Science: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/advanced-sql-for-data-science-11c6cafc829?source=rss------data_science-5)
-- [Custom Ensemble Methods for Used Car Price Prediction — Part I](https://satishrsingh.medium.com/custom-ensemble-methods-for-used-car-price-prediction-part-i-9a941aa7656d?source=rss------data_science-5)
-- [Six Sigma for Data Projects](https://medium.com/mlearning-ai/six-sigma-for-data-projects-a80bcaa09c53?source=rss------data_science-5)
-- [Início da carreira em Data Science](https://medium.com/@joaoluizcouto15/in%C3%ADcio-da-carreira-em-data-science-660af93f3902?source=rss------data_science-5)
-- [Do You Need a Data Science Degree To Be a Successful Data Analyst?](https://jmesgray.medium.com/do-you-need-a-data-science-degree-to-become-a-successful-data-analyst-a2f339a6c857?source=rss------data_science-5)
+- [UR Data Mining Journey](https://medium.com/@ozlemgunes/ur-data-mining-journey-4f52d9cf04d4?source=rss------data_science-5)
+- [Deepfakes — The Good, The Bad &amp; The Dirty](https://andreygizdov.medium.com/deepfakes-the-good-the-bad-the-dirty-721f3e93241?source=rss------data_science-5)
+- [K’s Volatility Bands — Coding in Python](https://kaabar-sofien.medium.com/ks-volatility-bands-coding-in-python-4ed46867dc15?source=rss------data_science-5)
+- [Data Says My $250k Bachelor’s Not Worth Crap](https://medium.com/@m3redithw/data-says-my-250k-bachelors-not-worth-crap-9ded34c48fa4?source=rss------data_science-5)
+- [Hands-On SQL for Data Science — Lesson 2](https://digestize.medium.com/hands-on-sql-for-data-science-lesson-2-d88be821b399?source=rss------data_science-5)
+- [How To Predict Customer Churn Risk using Machine Learning in Python](https://blog.devgenius.io/how-to-predict-customer-churn-risk-using-machine-learning-in-python-b11c09759491?source=rss------data_science-5)
+- [5 REFLEXÕES CURIOSAS SOBRE O USO DO NETFLIX: partindo da análise de dados de uma família](https://medium.com/@elieser_ribeiro/5-reflex%C3%B5es-curiosas-sobre-o-uso-do-netflix-partindo-da-an%C3%A1lise-de-dados-de-uma-fam%C3%ADlia-45b79d12ab9d?source=rss------data_science-5)
+- [Semi Supervised Learning — Making The Most of Noisy Data](https://medium.com/mlearning-ai/semi-supervised-learning-making-the-most-of-noisy-data-5fbc711d2384?source=rss------data_science-5)
+- [Ride Cannibalization — The Invisible Force Eating Operator Profits](https://medium.com/zoba-blog/ride-cannibalization-the-invisible-force-eating-operator-profits-ebc679e04a95?source=rss------data_science-5)
+- [Good And Bad Data](https://faun.pub/good-and-bad-data-577f7781d8c6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
