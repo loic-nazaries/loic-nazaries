@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [UR Data Mining Journey](https://medium.com/@ozlemgunes/ur-data-mining-journey-4f52d9cf04d4?source=rss------data_science-5)
-- [Deepfakes — The Good, The Bad &amp; The Dirty](https://andreygizdov.medium.com/deepfakes-the-good-the-bad-the-dirty-721f3e93241?source=rss------data_science-5)
-- [K’s Volatility Bands — Coding in Python](https://kaabar-sofien.medium.com/ks-volatility-bands-coding-in-python-4ed46867dc15?source=rss------data_science-5)
-- [Data Says My $250k Bachelor’s Not Worth Crap](https://medium.com/@m3redithw/data-says-my-250k-bachelors-not-worth-crap-9ded34c48fa4?source=rss------data_science-5)
-- [Hands-On SQL for Data Science — Lesson 2](https://digestize.medium.com/hands-on-sql-for-data-science-lesson-2-d88be821b399?source=rss------data_science-5)
-- [How To Predict Customer Churn Risk using Machine Learning in Python](https://blog.devgenius.io/how-to-predict-customer-churn-risk-using-machine-learning-in-python-b11c09759491?source=rss------data_science-5)
-- [5 REFLEXÕES CURIOSAS SOBRE O USO DO NETFLIX: partindo da análise de dados de uma família](https://medium.com/@elieser_ribeiro/5-reflex%C3%B5es-curiosas-sobre-o-uso-do-netflix-partindo-da-an%C3%A1lise-de-dados-de-uma-fam%C3%ADlia-45b79d12ab9d?source=rss------data_science-5)
-- [Semi Supervised Learning — Making The Most of Noisy Data](https://medium.com/mlearning-ai/semi-supervised-learning-making-the-most-of-noisy-data-5fbc711d2384?source=rss------data_science-5)
-- [Ride Cannibalization — The Invisible Force Eating Operator Profits](https://medium.com/zoba-blog/ride-cannibalization-the-invisible-force-eating-operator-profits-ebc679e04a95?source=rss------data_science-5)
-- [Good And Bad Data](https://faun.pub/good-and-bad-data-577f7781d8c6?source=rss------data_science-5)
+- [Attempting To Predict How Well A Reddit Post Performs](https://medium.com/@michael.capparelli1/attempting-to-predict-how-well-a-reddit-post-performs-8a0adf165701?source=rss------data_science-5)
+- [A Quick Primer on Python for Data Science](https://digestize.medium.com/a-quick-primer-on-python-for-data-science-bd3832a7f5e3?source=rss------data_science-5)
+- [Chief AI Officers in Finance: 9 Ways to Create Value](https://medium.datadriveninvestor.com/chief-ai-officers-in-finance-9-ways-to-create-value-c02a18d6a830?source=rss------data_science-5)
+- [Is Data Science ranked as the sexiest job for 2023 and beyond](https://medium.datadriveninvestor.com/is-data-science-ranked-as-the-sexiest-job-for-2023-and-beyond-cf66d8ba5585?source=rss------data_science-5)
+- [What is Presto?](https://medium.com/@ahana.io/what-is-presto-e3c911689f73?source=rss------data_science-5)
+- [Paying More Attention To Your Woman](https://medium.com/@sydneyituza/paying-more-attention-to-your-woman-84e05039584e?source=rss------data_science-5)
+- [Using Z-Score in Trading — A Python Study](https://kaabar-sofien.medium.com/using-z-score-in-trading-a-python-study-556c6aa2deeb?source=rss------data_science-5)
+- [List Comprehensions em Python](https://medium.com/@daivamirandatr/list-comprehensions-em-python-f35bb13ccb3f?source=rss------data_science-5)
+- [How to Detect Missing Values and Dealing with Them: Explained](https://medium.com/geekculture/ow-to-detect-missing-values-and-dealing-with-them-explained-13232230cb64?source=rss------data_science-5)
+- [This AI newsletter is all you need #12](https://pub.towardsai.net/this-ai-newsletter-is-all-you-need-12-c859b60b95d1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
