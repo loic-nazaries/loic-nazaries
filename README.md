@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Attempting To Predict How Well A Reddit Post Performs](https://medium.com/@michael.capparelli1/attempting-to-predict-how-well-a-reddit-post-performs-8a0adf165701?source=rss------data_science-5)
-- [A Quick Primer on Python for Data Science](https://digestize.medium.com/a-quick-primer-on-python-for-data-science-bd3832a7f5e3?source=rss------data_science-5)
-- [Chief AI Officers in Finance: 9 Ways to Create Value](https://medium.datadriveninvestor.com/chief-ai-officers-in-finance-9-ways-to-create-value-c02a18d6a830?source=rss------data_science-5)
-- [Is Data Science ranked as the sexiest job for 2023 and beyond](https://medium.datadriveninvestor.com/is-data-science-ranked-as-the-sexiest-job-for-2023-and-beyond-cf66d8ba5585?source=rss------data_science-5)
-- [What is Presto?](https://medium.com/@ahana.io/what-is-presto-e3c911689f73?source=rss------data_science-5)
-- [Paying More Attention To Your Woman](https://medium.com/@sydneyituza/paying-more-attention-to-your-woman-84e05039584e?source=rss------data_science-5)
-- [Using Z-Score in Trading — A Python Study](https://kaabar-sofien.medium.com/using-z-score-in-trading-a-python-study-556c6aa2deeb?source=rss------data_science-5)
-- [List Comprehensions em Python](https://medium.com/@daivamirandatr/list-comprehensions-em-python-f35bb13ccb3f?source=rss------data_science-5)
-- [How to Detect Missing Values and Dealing with Them: Explained](https://medium.com/geekculture/ow-to-detect-missing-values-and-dealing-with-them-explained-13232230cb64?source=rss------data_science-5)
-- [This AI newsletter is all you need #12](https://pub.towardsai.net/this-ai-newsletter-is-all-you-need-12-c859b60b95d1?source=rss------data_science-5)
+- [Fuzzy Clustering — The soft k-means Which you might not know](https://dhavalthakur.medium.com/fuzzy-clustering-the-soft-k-means-which-you-might-not-know-e6c5101fd01d?source=rss------data_science-5)
+- [ModelOps in AI for Finance and Financial Engineering: 8 Best Practices](https://medium.datadriveninvestor.com/modelops-in-ai-for-finance-and-financial-engineering-8-best-practices-681c5981c3f0?source=rss------data_science-5)
+- [Building a Real-Time Player Matching Algorithm for Chess.com](https://medium.datadriveninvestor.com/building-a-real-time-player-matching-algorithm-for-chess-com-411a3d9e519b?source=rss------data_science-5)
+- [How Big is the .sg Web?](https://medium.com/the-national-library-blog/how-big-is-the-sg-web-8b97afbe286c?source=rss------data_science-5)
+- [Handling Missing Values for Machine Learning](https://medium.com/@devanshis7300/handling-missing-values-for-machine-learning-96ebadda3c3a?source=rss------data_science-5)
+- [INSS 2022: Desmistificando a concorrência por vagas no concurso.](https://medium.com/@thaleseduardo_19500/inss-2022-desmistificando-a-concorr%C3%AAncia-por-vagas-no-concurso-710b99332716?source=rss------data_science-5)
+- [Most Powerful Brand Analysis](https://medium.com/@neh05/most-powerful-brand-analysis-a3cc370444c3?source=rss------data_science-5)
+- [Combining the Simple RSI &amp; the Stochastic Oscillator in a Trading Strategy](https://kaabar-sofien.medium.com/combining-the-simple-rsi-the-stochastic-oscillator-in-a-trading-strategy-85f8b9b17c11?source=rss------data_science-5)
+- [BI + SQL SERVER 
+&lpar;DO ZERO AO DATAWAREHOUSE, CASO DE ESTUDO EMPRESA JOPECA COMERCIAL&rpar;](https://medium.com/@jopeca.jopc/bi-sql-server-do-zero-ao-datawarehouse-caso-de-estudo-empresa-jopeca-comercial-c16a0dbdb212?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
