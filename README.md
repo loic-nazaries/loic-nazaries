@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Fuzzy Clustering — The soft k-means Which you might not know](https://dhavalthakur.medium.com/fuzzy-clustering-the-soft-k-means-which-you-might-not-know-e6c5101fd01d?source=rss------data_science-5)
-- [ModelOps in AI for Finance and Financial Engineering: 8 Best Practices](https://medium.datadriveninvestor.com/modelops-in-ai-for-finance-and-financial-engineering-8-best-practices-681c5981c3f0?source=rss------data_science-5)
-- [Building a Real-Time Player Matching Algorithm for Chess.com](https://medium.datadriveninvestor.com/building-a-real-time-player-matching-algorithm-for-chess-com-411a3d9e519b?source=rss------data_science-5)
-- [How Big is the .sg Web?](https://medium.com/the-national-library-blog/how-big-is-the-sg-web-8b97afbe286c?source=rss------data_science-5)
-- [Handling Missing Values for Machine Learning](https://medium.com/@devanshis7300/handling-missing-values-for-machine-learning-96ebadda3c3a?source=rss------data_science-5)
-- [INSS 2022: Desmistificando a concorrência por vagas no concurso.](https://medium.com/@thaleseduardo_19500/inss-2022-desmistificando-a-concorr%C3%AAncia-por-vagas-no-concurso-710b99332716?source=rss------data_science-5)
-- [Most Powerful Brand Analysis](https://medium.com/@neh05/most-powerful-brand-analysis-a3cc370444c3?source=rss------data_science-5)
-- [Combining the Simple RSI &amp; the Stochastic Oscillator in a Trading Strategy](https://kaabar-sofien.medium.com/combining-the-simple-rsi-the-stochastic-oscillator-in-a-trading-strategy-85f8b9b17c11?source=rss------data_science-5)
-- [BI + SQL SERVER 
-&lpar;DO ZERO AO DATAWAREHOUSE, CASO DE ESTUDO EMPRESA JOPECA COMERCIAL&rpar;](https://medium.com/@jopeca.jopc/bi-sql-server-do-zero-ao-datawarehouse-caso-de-estudo-empresa-jopeca-comercial-c16a0dbdb212?source=rss------data_science-5)
+- [The Effective Data Science Resume](https://medium.com/@nick.s.beaudoin/the-effective-data-science-resume-cc1cddb025ec?source=rss------data_science-5)
+- [Cyberbullying from the data mining perspective](https://medium.com/@cbenemelischool/cyberbullying-from-the-data-mining-perspective-af532bf746bc?source=rss------data_science-5)
+- [Exploratory Data Analysis On Heart Disease Data Set](https://modupe-giwa.medium.com/exploratory-data-analysis-on-heart-disease-data-set-69236bdf2cce?source=rss------data_science-5)
+- [AI with Ali: Pneumonia Detection using Deep Learning &amp; X-Ray Images.](https://medium.com/@MrMuhammadAli/ai-with-ali-pneumonia-detection-using-deep-learning-x-ray-images-31da34b2cac1?source=rss------data_science-5)
+- [A Practical Guide to Serving Huggingface ML Models in AWS Lambda in 2022](https://mjtdev.medium.com/a-practical-guide-to-serving-huggingface-ml-models-in-aws-lambda-in-2022-fb8cd04d20e8?source=rss------data_science-5)
+- [Deploying custom inference images on SageMaker: the easy way](https://medium.com/@barberorodrigogaston/deploying-custom-inference-images-on-sagemaker-the-easy-way-13d760a690e4?source=rss------data_science-5)
+- [Finding Trading Levels Automatically](https://kaabar-sofien.medium.com/finding-trading-levels-automatically-860ce8f4e46b?source=rss------data_science-5)
+- [At WMU, students develop the capacity to manage data &amp; conduct business projects through our…](https://medium.com/@sime.curkovic/at-wmu-students-develop-the-capacity-to-manage-data-conduct-business-projects-through-our-594c7444ece4?source=rss------data_science-5)
+- [Hypothesis and Pandera: Generate Synthesis Pandas DataFrame for Testing](https://towardsdatascience.com/hypothesis-and-pandera-generate-synthesis-pandas-dataframe-for-testing-e5673c7bec2e?source=rss------data_science-5)
+- [Before You Ask “Why”… Ask “Who”](https://towardsdatascience.com/before-you-ask-why-ask-who-b90841d578b4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
