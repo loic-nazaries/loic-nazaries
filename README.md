@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Effective Data Science Resume](https://medium.com/@nick.s.beaudoin/the-effective-data-science-resume-cc1cddb025ec?source=rss------data_science-5)
-- [Cyberbullying from the data mining perspective](https://medium.com/@cbenemelischool/cyberbullying-from-the-data-mining-perspective-af532bf746bc?source=rss------data_science-5)
-- [Exploratory Data Analysis On Heart Disease Data Set](https://modupe-giwa.medium.com/exploratory-data-analysis-on-heart-disease-data-set-69236bdf2cce?source=rss------data_science-5)
-- [AI with Ali: Pneumonia Detection using Deep Learning &amp; X-Ray Images.](https://medium.com/@MrMuhammadAli/ai-with-ali-pneumonia-detection-using-deep-learning-x-ray-images-31da34b2cac1?source=rss------data_science-5)
-- [A Practical Guide to Serving Huggingface ML Models in AWS Lambda in 2022](https://mjtdev.medium.com/a-practical-guide-to-serving-huggingface-ml-models-in-aws-lambda-in-2022-fb8cd04d20e8?source=rss------data_science-5)
-- [Deploying custom inference images on SageMaker: the easy way](https://medium.com/@barberorodrigogaston/deploying-custom-inference-images-on-sagemaker-the-easy-way-13d760a690e4?source=rss------data_science-5)
-- [Finding Trading Levels Automatically](https://kaabar-sofien.medium.com/finding-trading-levels-automatically-860ce8f4e46b?source=rss------data_science-5)
-- [At WMU, students develop the capacity to manage data &amp; conduct business projects through our…](https://medium.com/@sime.curkovic/at-wmu-students-develop-the-capacity-to-manage-data-conduct-business-projects-through-our-594c7444ece4?source=rss------data_science-5)
-- [Hypothesis and Pandera: Generate Synthesis Pandas DataFrame for Testing](https://towardsdatascience.com/hypothesis-and-pandera-generate-synthesis-pandas-dataframe-for-testing-e5673c7bec2e?source=rss------data_science-5)
-- [Before You Ask “Why”… Ask “Who”](https://towardsdatascience.com/before-you-ask-why-ask-who-b90841d578b4?source=rss------data_science-5)
+- [How to Use FROM scratch Docker Images as an Asset Library for Large ML Assets such as Models…](https://mjtdev.medium.com/how-to-use-from-scratch-docker-images-as-an-asset-library-for-large-ml-assets-such-as-models-a2519c213e7c?source=rss------data_science-5)
+- [Scraping Web pages recursively in Python with Scrapy, the easy way.](https://medium.com/@Tanweer_Ali/scraping-web-pages-recursively-in-python-with-scrapy-the-easy-way-1608bae1ddbf?source=rss------data_science-5)
+- [Creating the Trailing Stop Indicator in Python](https://kaabar-sofien.medium.com/creating-the-trailing-stop-indicator-in-python-e77431ca74b4?source=rss------data_science-5)
+- [Recap of the 2022 AI Hardware Summit Conference](https://dmccreary.medium.com/recap-of-the-2022-ai-hardware-summit-conference-d9ffe0741f95?source=rss------data_science-5)
+- [Real Life Churn Prediction with PySpark](https://medium.com/@cihan.evren/real-life-churn-prediction-with-pyspark-98791d0a66dd?source=rss------data_science-5)
+- [Fall detection Android app: the beginning of journey [part 1]](https://tomas-repcik.medium.com/fall-detection-android-app-the-beginning-of-journey-part-1-8ffd309e1e0a?source=rss------data_science-5)
+- [Program Tictactoe against the computer in Python](https://medium.com/@saurabh.ghosh/program-tictactoe-against-the-computer-in-python-b2dbd2132103?source=rss------data_science-5)
+- [The Evolution Of Data Companies](https://medium.com/coriers/the-evolution-of-data-companies-167ff4b65e1d?source=rss------data_science-5)
+- [Extract, Transform and Load](https://medium.com/onepagecode/extract-transform-and-load-3d69170acefe?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
