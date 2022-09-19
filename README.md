@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Use FROM scratch Docker Images as an Asset Library for Large ML Assets such as Models…](https://mjtdev.medium.com/how-to-use-from-scratch-docker-images-as-an-asset-library-for-large-ml-assets-such-as-models-a2519c213e7c?source=rss------data_science-5)
-- [Scraping Web pages recursively in Python with Scrapy, the easy way.](https://medium.com/@Tanweer_Ali/scraping-web-pages-recursively-in-python-with-scrapy-the-easy-way-1608bae1ddbf?source=rss------data_science-5)
-- [Creating the Trailing Stop Indicator in Python](https://kaabar-sofien.medium.com/creating-the-trailing-stop-indicator-in-python-e77431ca74b4?source=rss------data_science-5)
-- [Recap of the 2022 AI Hardware Summit Conference](https://dmccreary.medium.com/recap-of-the-2022-ai-hardware-summit-conference-d9ffe0741f95?source=rss------data_science-5)
-- [Real Life Churn Prediction with PySpark](https://medium.com/@cihan.evren/real-life-churn-prediction-with-pyspark-98791d0a66dd?source=rss------data_science-5)
-- [Fall detection Android app: the beginning of journey [part 1]](https://tomas-repcik.medium.com/fall-detection-android-app-the-beginning-of-journey-part-1-8ffd309e1e0a?source=rss------data_science-5)
-- [Program Tictactoe against the computer in Python](https://medium.com/@saurabh.ghosh/program-tictactoe-against-the-computer-in-python-b2dbd2132103?source=rss------data_science-5)
-- [The Evolution Of Data Companies](https://medium.com/coriers/the-evolution-of-data-companies-167ff4b65e1d?source=rss------data_science-5)
-- [Extract, Transform and Load](https://medium.com/onepagecode/extract-transform-and-load-3d69170acefe?source=rss------data_science-5)
+- [Structured Query Language &lpar;SQL&rpar; untuk Pemula: SQL with PostgreSQL](https://medium.com/@intan_afr/structured-query-language-sql-untuk-pemula-sql-with-postgresql-6efd638999d2?source=rss------data_science-5)
+- [Titanic — Predicting Passenger Survival with Machine Learning](https://medium.com/@mattnwells/titanic-predicting-passenger-survival-with-machine-learning-731fd1df1f3f?source=rss------data_science-5)
+- [Double Top / Double Bottom RSI Trading Strategy](https://kaabar-sofien.medium.com/double-top-double-bottom-rsi-trading-strategy-8ab05753f2dd?source=rss------data_science-5)
+- [Quick RoundUp : Solved System Design Case Studies](https://medium.com/coders-mojo/quick-roundup-solved-system-design-case-studies-6ad776d437cf?source=rss------data_science-5)
+- [Some study notes on machine learning algorithms  — The series](https://medium.com/@elisarm.antunes/some-study-notes-on-machine-learning-algorithms-the-series-cd7549746f86?source=rss------data_science-5)
+- [What is “Beam Search Decoding” in a Neural Machine Translation Model?](https://medium.com/@angelina.yang/what-is-beam-search-decoding-in-a-neural-machine-translation-model-adaab30c6579?source=rss------data_science-5)
+- [What are Drawbacks of Beam Search?](https://medium.com/@angelina.yang/what-are-drawbacks-of-beam-search-5bf04b9f12fd?source=rss------data_science-5)
+- [Resume Classification using ML](https://medium.com/@jayantbabu2001/resume-classification-using-ml-a335592ceb28?source=rss------data_science-5)
+- [NoSQL Fundamentals For Data Science: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/nosql-fundamentals-for-data-science-65e33209c017?source=rss------data_science-5)
+- [Data Science — Detecção de fraudes em cartões de crédito](https://medium.com/@lucas.henriquemonteiro/data-science-detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito-517c9c4f0056?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
