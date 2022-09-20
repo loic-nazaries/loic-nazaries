@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Structured Query Language &lpar;SQL&rpar; untuk Pemula: SQL with PostgreSQL](https://medium.com/@intan_afr/structured-query-language-sql-untuk-pemula-sql-with-postgresql-6efd638999d2?source=rss------data_science-5)
-- [Titanic — Predicting Passenger Survival with Machine Learning](https://medium.com/@mattnwells/titanic-predicting-passenger-survival-with-machine-learning-731fd1df1f3f?source=rss------data_science-5)
-- [Double Top / Double Bottom RSI Trading Strategy](https://kaabar-sofien.medium.com/double-top-double-bottom-rsi-trading-strategy-8ab05753f2dd?source=rss------data_science-5)
-- [Quick RoundUp : Solved System Design Case Studies](https://medium.com/coders-mojo/quick-roundup-solved-system-design-case-studies-6ad776d437cf?source=rss------data_science-5)
-- [Some study notes on machine learning algorithms  — The series](https://medium.com/@elisarm.antunes/some-study-notes-on-machine-learning-algorithms-the-series-cd7549746f86?source=rss------data_science-5)
-- [What is “Beam Search Decoding” in a Neural Machine Translation Model?](https://medium.com/@angelina.yang/what-is-beam-search-decoding-in-a-neural-machine-translation-model-adaab30c6579?source=rss------data_science-5)
-- [What are Drawbacks of Beam Search?](https://medium.com/@angelina.yang/what-are-drawbacks-of-beam-search-5bf04b9f12fd?source=rss------data_science-5)
-- [Resume Classification using ML](https://medium.com/@jayantbabu2001/resume-classification-using-ml-a335592ceb28?source=rss------data_science-5)
-- [NoSQL Fundamentals For Data Science: A Complete Roadmap To Be A Data Scientist](https://medium.com/@datasthan/nosql-fundamentals-for-data-science-65e33209c017?source=rss------data_science-5)
-- [Data Science — Detecção de fraudes em cartões de crédito](https://medium.com/@lucas.henriquemonteiro/data-science-detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito-517c9c4f0056?source=rss------data_science-5)
+- [Solving Data Analysis using SQL Queries with every step explained &lpar;Part 1&rpar;](https://medium.com/codex/solving-data-analysis-using-sql-queries-with-every-step-explained-part-1-94ea447eb0be?source=rss------data_science-5)
+- [Extracting Financial Data using Google Sheets Add-In](https://medium.com/codex/extracting-financial-data-using-google-sheets-add-in-d664fda639ed?source=rss------data_science-5)
+- [Pandas describe&lpar;&rpar; function — Deep Dive](https://medium.com/@MLdebanjan/pandas-describe-function-deep-dive-3660a14effcf?source=rss------data_science-5)
+- [Recruiting with a Mission-Driven Focus](https://medium.com/analytics-matters/recruiting-with-a-mission-driven-focus-f49b097c054b?source=rss------data_science-5)
+- [Python for Data Preparation — Exploring and Cleansing The Datasets](https://medium.com/@baprialdy/python-for-data-preparation-exploring-and-cleansing-the-datasets-46b2350a8e68?source=rss------data_science-5)
+- [Create Art Words with Data in Python](https://medium.com/mlearning-ai/create-art-words-with-data-in-python-e747896bc2b8?source=rss------data_science-5)
+- [Tableau Color Tips](https://sqlbelle.medium.com/tableau-color-tips-b9fbcc5d5010?source=rss------data_science-5)
+- [Adapting a Sentiment Analysis Model to a Custom Domain](https://towardsdatascience.com/adapting-a-sentiment-analysis-model-to-a-custom-domain-62ec386516bc?source=rss------data_science-5)
+- [What should I do after the Data Observability tool alerts me?](https://medium.com/codex/what-should-i-do-after-the-data-observability-tool-alerts-me-1ae173686c2c?source=rss------data_science-5)
+- [TOP 10 Programming Skills That Can Land A Job In Silicon Valley](https://waqas-shami.medium.com/top-10-programming-skills-that-can-land-a-job-in-silicon-valley-cbc4a1d1c56?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
