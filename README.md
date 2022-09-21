@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Solving Data Analysis using SQL Queries with every step explained &lpar;Part 1&rpar;](https://medium.com/codex/solving-data-analysis-using-sql-queries-with-every-step-explained-part-1-94ea447eb0be?source=rss------data_science-5)
-- [Extracting Financial Data using Google Sheets Add-In](https://medium.com/codex/extracting-financial-data-using-google-sheets-add-in-d664fda639ed?source=rss------data_science-5)
-- [Pandas describe&lpar;&rpar; function — Deep Dive](https://medium.com/@MLdebanjan/pandas-describe-function-deep-dive-3660a14effcf?source=rss------data_science-5)
-- [Recruiting with a Mission-Driven Focus](https://medium.com/analytics-matters/recruiting-with-a-mission-driven-focus-f49b097c054b?source=rss------data_science-5)
-- [Python for Data Preparation — Exploring and Cleansing The Datasets](https://medium.com/@baprialdy/python-for-data-preparation-exploring-and-cleansing-the-datasets-46b2350a8e68?source=rss------data_science-5)
-- [Create Art Words with Data in Python](https://medium.com/mlearning-ai/create-art-words-with-data-in-python-e747896bc2b8?source=rss------data_science-5)
-- [Tableau Color Tips](https://sqlbelle.medium.com/tableau-color-tips-b9fbcc5d5010?source=rss------data_science-5)
-- [Adapting a Sentiment Analysis Model to a Custom Domain](https://towardsdatascience.com/adapting-a-sentiment-analysis-model-to-a-custom-domain-62ec386516bc?source=rss------data_science-5)
-- [What should I do after the Data Observability tool alerts me?](https://medium.com/codex/what-should-i-do-after-the-data-observability-tool-alerts-me-1ae173686c2c?source=rss------data_science-5)
-- [TOP 10 Programming Skills That Can Land A Job In Silicon Valley](https://waqas-shami.medium.com/top-10-programming-skills-that-can-land-a-job-in-silicon-valley-cbc4a1d1c56?source=rss------data_science-5)
+- [Affordability of Real Estate for the top 10 most populous zip codes in the United States](https://medium.com/@miltiadesgeneral/affordability-of-real-estate-for-the-top-10-most-populous-zip-codes-in-the-united-states-78ebf039d5f?source=rss------data_science-5)
+- [Sampling Methods: Comprehensive Primer](https://medium.com/geekculture/sampling-methods-comprehensive-primer-6e32d936868f?source=rss------data_science-5)
+- [Trade-off viés-variância](https://medium.com/@matheussolon777/trade-off-vi%C3%A9s-vari%C3%A2ncia-785f6ed7770?source=rss------data_science-5)
+- [Build machine learning pipeline in Python and package it as a Docker Container](https://moez-62905.medium.com/build-machine-learning-pipeline-in-python-and-package-it-as-a-docker-container-13f28972fb2b?source=rss------data_science-5)
+- [Trajetória em Dados!](https://medium.com/@brunodeavilalima/trajet%C3%B3ria-em-dados-166241d2295e?source=rss------data_science-5)
+- [The Parameters of Your Model Are Correlated. Now, What?](https://pub.towardsai.net/the-parameters-of-your-model-are-correlated-now-what-3d053f3633f9?source=rss------data_science-5)
+- [Three Needs Driving the Need for Innovation in Behavior Health](https://shereesemay.medium.com/three-needs-driving-the-need-for-innovation-in-behavior-health-47233c7f1318?source=rss------data_science-5)
+- [Steps You Should Take To Become A Data Analyst and Beyond](https://medium.com/@Filiberto.zurita/steps-you-should-take-to-become-a-data-analyst-and-beyond-df62439ada6e?source=rss------data_science-5)
+- [Sorularla Veri Bölüm-1](https://hasangozcu.medium.com/sorularla-veri-b%C3%B6l%C3%BCm-1-e8954761d85e?source=rss------data_science-5)
+- [Multivariate test — Google’s 41 shades of blue](https://medium.com/@whystudying/multivariate-test-googles-41-shades-of-blue-846d2c5781a8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
