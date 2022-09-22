@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Affordability of Real Estate for the top 10 most populous zip codes in the United States](https://medium.com/@miltiadesgeneral/affordability-of-real-estate-for-the-top-10-most-populous-zip-codes-in-the-united-states-78ebf039d5f?source=rss------data_science-5)
-- [Sampling Methods: Comprehensive Primer](https://medium.com/geekculture/sampling-methods-comprehensive-primer-6e32d936868f?source=rss------data_science-5)
-- [Trade-off viés-variância](https://medium.com/@matheussolon777/trade-off-vi%C3%A9s-vari%C3%A2ncia-785f6ed7770?source=rss------data_science-5)
-- [Build machine learning pipeline in Python and package it as a Docker Container](https://moez-62905.medium.com/build-machine-learning-pipeline-in-python-and-package-it-as-a-docker-container-13f28972fb2b?source=rss------data_science-5)
-- [Trajetória em Dados!](https://medium.com/@brunodeavilalima/trajet%C3%B3ria-em-dados-166241d2295e?source=rss------data_science-5)
-- [The Parameters of Your Model Are Correlated. Now, What?](https://pub.towardsai.net/the-parameters-of-your-model-are-correlated-now-what-3d053f3633f9?source=rss------data_science-5)
-- [Three Needs Driving the Need for Innovation in Behavior Health](https://shereesemay.medium.com/three-needs-driving-the-need-for-innovation-in-behavior-health-47233c7f1318?source=rss------data_science-5)
-- [Steps You Should Take To Become A Data Analyst and Beyond](https://medium.com/@Filiberto.zurita/steps-you-should-take-to-become-a-data-analyst-and-beyond-df62439ada6e?source=rss------data_science-5)
-- [Sorularla Veri Bölüm-1](https://hasangozcu.medium.com/sorularla-veri-b%C3%B6l%C3%BCm-1-e8954761d85e?source=rss------data_science-5)
-- [Multivariate test — Google’s 41 shades of blue](https://medium.com/@whystudying/multivariate-test-googles-41-shades-of-blue-846d2c5781a8?source=rss------data_science-5)
+- [Artificial Intelligence and Data Act — series part #4](https://medium.com/@LAWnETHICSinTech/artificial-intelligence-and-data-act-series-part-4-704c594ee1b8?source=rss------data_science-5)
+- [Annotate and Draw on your Screen for more Effective Presentations](https://sqlbelle.medium.com/annotate-and-draw-on-your-screen-for-more-effective-presentations-26e533438994?source=rss------data_science-5)
+- [Interesting Data Gigs # 13: Data Scientist at VISA](https://marcosortiz.medium.com/interesting-data-gigs-13-data-scientist-at-visa-33505b729b40?source=rss------data_science-5)
+- [Sentiment Analysis on Zomato Reviews](https://medium.com/@Tan_D/sentiment-analysis-on-zomato-reviews-4bc841e4b040?source=rss------data_science-5)
+- [Storing Pandas data frames efficiently in Python](https://petrosdemetrakopoulos.medium.com/storing-pandas-data-frames-efficiently-in-python-cff669953485?source=rss------data_science-5)
+- [What you should know as a Data Scientist](https://medium.com/@moshoodmunirah/what-you-should-know-as-a-data-scientist-df919d3dbb28?source=rss------data_science-5)
+- [Data Prep’ for Machine Learning](https://medium.com/@giovanni.stephens/data-prep-for-machine-learning-bc4d52ad8dbb?source=rss------data_science-5)
+- [Basic SQL Commands on Tables in SQL Server](https://oindrila-chakraborty88.medium.com/basic-sql-commands-on-tables-in-sql-server-1ac242621c1?source=rss------data_science-5)
+- [Searching values in JSON using Python](https://medium.com/@santoshj10/searching-values-in-json-using-python-a4badf5fa76a?source=rss------data_science-5)
+- [International students &lpar;especially from India&rpar;: F-1 visas at US universities are eligible for OPT…](https://medium.com/@sime.curkovic/international-students-especially-from-india-f-1-visas-at-us-universities-are-eligible-for-opt-41ae4d5da9db?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
