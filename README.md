@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Artificial Intelligence and Data Act — series part #4](https://medium.com/@LAWnETHICSinTech/artificial-intelligence-and-data-act-series-part-4-704c594ee1b8?source=rss------data_science-5)
-- [Annotate and Draw on your Screen for more Effective Presentations](https://sqlbelle.medium.com/annotate-and-draw-on-your-screen-for-more-effective-presentations-26e533438994?source=rss------data_science-5)
-- [Interesting Data Gigs # 13: Data Scientist at VISA](https://marcosortiz.medium.com/interesting-data-gigs-13-data-scientist-at-visa-33505b729b40?source=rss------data_science-5)
-- [Sentiment Analysis on Zomato Reviews](https://medium.com/@Tan_D/sentiment-analysis-on-zomato-reviews-4bc841e4b040?source=rss------data_science-5)
-- [Storing Pandas data frames efficiently in Python](https://petrosdemetrakopoulos.medium.com/storing-pandas-data-frames-efficiently-in-python-cff669953485?source=rss------data_science-5)
-- [What you should know as a Data Scientist](https://medium.com/@moshoodmunirah/what-you-should-know-as-a-data-scientist-df919d3dbb28?source=rss------data_science-5)
-- [Data Prep’ for Machine Learning](https://medium.com/@giovanni.stephens/data-prep-for-machine-learning-bc4d52ad8dbb?source=rss------data_science-5)
-- [Basic SQL Commands on Tables in SQL Server](https://oindrila-chakraborty88.medium.com/basic-sql-commands-on-tables-in-sql-server-1ac242621c1?source=rss------data_science-5)
-- [Searching values in JSON using Python](https://medium.com/@santoshj10/searching-values-in-json-using-python-a4badf5fa76a?source=rss------data_science-5)
-- [International students &lpar;especially from India&rpar;: F-1 visas at US universities are eligible for OPT…](https://medium.com/@sime.curkovic/international-students-especially-from-india-f-1-visas-at-us-universities-are-eligible-for-opt-41ae4d5da9db?source=rss------data_science-5)
+- [The Sentiment Behind Data](https://medium.com/@hsvangorp12/the-sentiment-behind-data-513e3bcb3bb7?source=rss------data_science-5)
+- [Data Science — Análise de Concursos Lotofácil [Parte 3]](https://medium.com/@igor.ricardo/data-science-an%C3%A1lise-de-concursos-lotof%C3%A1cil-parte-3-882e320ca2de?source=rss------data_science-5)
+- [New Book: Intuitive Machine Learning](https://vincentgranville.medium.com/new-book-intuitive-machine-learning-666d78fb05ba?source=rss------data_science-5)
+- [Data-Driven Change Management: Companies Should Be Prepared](https://multimaticsid.medium.com/data-driven-change-management-companies-should-be-prepared-4577f1453a29?source=rss------data_science-5)
+- [Eliminating the 8 LSS Wastes &lpar;Muda&rpar; in Your Digital Teams](https://towardsdatascience.com/eliminating-the-8-lss-wastes-muda-in-your-digital-teams-c0132bfcf55c?source=rss------data_science-5)
+- [Artificial Neural Networks can Revolutionize Rural Coffee Farming](https://medium.com/codex/artificial-neural-networks-can-revolutionize-rural-coffee-farming-4f72575e2957?source=rss------data_science-5)
+- [Data Visualisation Katas](https://medium.com/@upbeatnexus12/data-visualisation-katas-a945ea555e21?source=rss------data_science-5)
+- [Enjoying NVIDIA’s GTC22 and want more?](https://medium.com/renderedai/enjoying-nvidias-gtc22-and-want-more-69082705adc7?source=rss------data_science-5)
+- [Bipartite Graphs for Archaeological Assemblage Networks &lpar;Part I&rpar;](https://medium.com/@cardinal.scott/bipartite-graphs-for-archaeological-assemblage-networks-part-i-648a2f20d389?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
