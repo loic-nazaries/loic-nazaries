@@ -105,15 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Sentiment Behind Data](https://medium.com/@hsvangorp12/the-sentiment-behind-data-513e3bcb3bb7?source=rss------data_science-5)
-- [Data Science — Análise de Concursos Lotofácil [Parte 3]](https://medium.com/@igor.ricardo/data-science-an%C3%A1lise-de-concursos-lotof%C3%A1cil-parte-3-882e320ca2de?source=rss------data_science-5)
-- [New Book: Intuitive Machine Learning](https://vincentgranville.medium.com/new-book-intuitive-machine-learning-666d78fb05ba?source=rss------data_science-5)
-- [Data-Driven Change Management: Companies Should Be Prepared](https://multimaticsid.medium.com/data-driven-change-management-companies-should-be-prepared-4577f1453a29?source=rss------data_science-5)
-- [Eliminating the 8 LSS Wastes &lpar;Muda&rpar; in Your Digital Teams](https://towardsdatascience.com/eliminating-the-8-lss-wastes-muda-in-your-digital-teams-c0132bfcf55c?source=rss------data_science-5)
-- [Artificial Neural Networks can Revolutionize Rural Coffee Farming](https://medium.com/codex/artificial-neural-networks-can-revolutionize-rural-coffee-farming-4f72575e2957?source=rss------data_science-5)
-- [Data Visualisation Katas](https://medium.com/@upbeatnexus12/data-visualisation-katas-a945ea555e21?source=rss------data_science-5)
-- [Enjoying NVIDIA’s GTC22 and want more?](https://medium.com/renderedai/enjoying-nvidias-gtc22-and-want-more-69082705adc7?source=rss------data_science-5)
-- [Bipartite Graphs for Archaeological Assemblage Networks &lpar;Part I&rpar;](https://medium.com/@cardinal.scott/bipartite-graphs-for-archaeological-assemblage-networks-part-i-648a2f20d389?source=rss------data_science-5)
+- [Importance of Data Science for Physics Students](https://medium.com/@mayuripal.suri/importance-of-data-science-for-physics-students-e69acbb7e509?source=rss------data_science-5)
+- [How The World’s Best Chocolates Are Made](https://medium.com/@Filiberto.zurita/how-the-worlds-best-chocolates-are-made-db9517432ef6?source=rss------data_science-5)
+- [Mito: Turn Python Into Powerful Spreadsheets](https://medium.com/codex/mito-turn-python-into-powerful-spreadsheets-45c5f9b04d4?source=rss------data_science-5)
+- [GitHub for data scientists and MLOps](https://medium.com/@ashimamalik58/github-for-data-scientists-and-mlops-8da991af3070?source=rss------data_science-5)
+- [How to Become a Machine Learning Researcher in Cyber-Security &lpar;with No Computer Science Courses&rpar; —…](https://kenbrezinski.medium.com/how-to-become-a-machine-learning-researcher-in-cyber-security-with-no-computer-science-courses-85473f752a86?source=rss------data_science-5)
+- [What Are Alternatives to Amazon Redshift?](https://medium.com/@ahana.io/what-are-alternatives-to-amazon-redshift-9835134d4efe?source=rss------data_science-5)
+- [SOLID Principles for Data Scientist](https://anelmusic13.medium.com/solid-principles-for-data-scientist-adbc9edb6151?source=rss------data_science-5)
+- [Projeto Evasão Data science &amp; Machine Learning](https://medium.com/@luamktsocial/projeto-evas%C3%A3o-data-science-machine-learning-d5b8d1267e34?source=rss------data_science-5)
+- [Exploratory Data Analysis On Hotel Booking](https://modupe-giwa.medium.com/exploratory-data-analysis-on-hotel-booking-77be7adf48cd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
