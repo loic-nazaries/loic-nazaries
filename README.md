@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Importance of Data Science for Physics Students](https://medium.com/@mayuripal.suri/importance-of-data-science-for-physics-students-e69acbb7e509?source=rss------data_science-5)
-- [How The World’s Best Chocolates Are Made](https://medium.com/@Filiberto.zurita/how-the-worlds-best-chocolates-are-made-db9517432ef6?source=rss------data_science-5)
-- [Mito: Turn Python Into Powerful Spreadsheets](https://medium.com/codex/mito-turn-python-into-powerful-spreadsheets-45c5f9b04d4?source=rss------data_science-5)
-- [GitHub for data scientists and MLOps](https://medium.com/@ashimamalik58/github-for-data-scientists-and-mlops-8da991af3070?source=rss------data_science-5)
-- [How to Become a Machine Learning Researcher in Cyber-Security &lpar;with No Computer Science Courses&rpar; —…](https://kenbrezinski.medium.com/how-to-become-a-machine-learning-researcher-in-cyber-security-with-no-computer-science-courses-85473f752a86?source=rss------data_science-5)
-- [What Are Alternatives to Amazon Redshift?](https://medium.com/@ahana.io/what-are-alternatives-to-amazon-redshift-9835134d4efe?source=rss------data_science-5)
-- [SOLID Principles for Data Scientist](https://anelmusic13.medium.com/solid-principles-for-data-scientist-adbc9edb6151?source=rss------data_science-5)
-- [Projeto Evasão Data science &amp; Machine Learning](https://medium.com/@luamktsocial/projeto-evas%C3%A3o-data-science-machine-learning-d5b8d1267e34?source=rss------data_science-5)
-- [Exploratory Data Analysis On Hotel Booking](https://modupe-giwa.medium.com/exploratory-data-analysis-on-hotel-booking-77be7adf48cd?source=rss------data_science-5)
+- [PySpark Advance DataFrame — A practical approach, part 5](https://brilliantprogrammer.medium.com/pyspark-advance-dataframe-a-practical-approach-part-5-1b1fc9461aca?source=rss------data_science-5)
+- [10 Less Known Python Visualization Concepts and Hacks](https://towardsdatascience.com/10-less-known-python-visualization-concepts-and-hacks-2b5f8ff4a5b7?source=rss------data_science-5)
+- [Product Affinity Analysis in 10 Minutes](https://medium.com/@juliane.stephan/product-affinity-analysis-in-10-minutes-b4ef11a8b45c?source=rss------data_science-5)
+- [Free Offline Speech Recognition with Vosk](https://medium.com/@bernardinligan/free-offline-speech-recognition-with-vosk-c3612bc9d98b?source=rss------data_science-5)
+- [Using Networkdays Function in DAX to Calculate Business Days: Power BI](https://medium.com/@m.mishra2403/using-networkdays-function-in-dax-to-calculate-business-days-power-bi-1f9ed1b316f0?source=rss------data_science-5)
+- [Math: The Core foundation of Machine learning And Data Science](https://medium.com/@mosaabsalah/math-the-core-foundation-of-machine-learning-and-data-science-a07abc92cda6?source=rss------data_science-5)
+- [Top 5 Pandas EDA Value Replacement Techniques](https://medium.com/@MLdebanjan/top-5-pandas-eda-value-replacement-techniques-89d2b47f9159?source=rss------data_science-5)
+- [Big Data Is Not the Way to Go](https://andre-ye.medium.com/big-data-is-not-the-way-to-go-bc68f6d3ad67?source=rss------data_science-5)
+- [Data analystics difference in business and engineer&lpar;part I&rpar;](https://blog.devgenius.io/data-analystics-difference-in-business-and-engineer-part-i-161e9efe87d?source=rss------data_science-5)
+- [@Apple](https://medium.com/@connieblue/apple-74e70be2f6a1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
