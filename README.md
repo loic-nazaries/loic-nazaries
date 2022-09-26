@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [PySpark Advance DataFrame — A practical approach, part 5](https://brilliantprogrammer.medium.com/pyspark-advance-dataframe-a-practical-approach-part-5-1b1fc9461aca?source=rss------data_science-5)
-- [10 Less Known Python Visualization Concepts and Hacks](https://towardsdatascience.com/10-less-known-python-visualization-concepts-and-hacks-2b5f8ff4a5b7?source=rss------data_science-5)
-- [Product Affinity Analysis in 10 Minutes](https://medium.com/@juliane.stephan/product-affinity-analysis-in-10-minutes-b4ef11a8b45c?source=rss------data_science-5)
-- [Free Offline Speech Recognition with Vosk](https://medium.com/@bernardinligan/free-offline-speech-recognition-with-vosk-c3612bc9d98b?source=rss------data_science-5)
-- [Using Networkdays Function in DAX to Calculate Business Days: Power BI](https://medium.com/@m.mishra2403/using-networkdays-function-in-dax-to-calculate-business-days-power-bi-1f9ed1b316f0?source=rss------data_science-5)
-- [Math: The Core foundation of Machine learning And Data Science](https://medium.com/@mosaabsalah/math-the-core-foundation-of-machine-learning-and-data-science-a07abc92cda6?source=rss------data_science-5)
-- [Top 5 Pandas EDA Value Replacement Techniques](https://medium.com/@MLdebanjan/top-5-pandas-eda-value-replacement-techniques-89d2b47f9159?source=rss------data_science-5)
-- [Big Data Is Not the Way to Go](https://andre-ye.medium.com/big-data-is-not-the-way-to-go-bc68f6d3ad67?source=rss------data_science-5)
-- [Data analystics difference in business and engineer&lpar;part I&rpar;](https://blog.devgenius.io/data-analystics-difference-in-business-and-engineer-part-i-161e9efe87d?source=rss------data_science-5)
-- [@Apple](https://medium.com/@connieblue/apple-74e70be2f6a1?source=rss------data_science-5)
+- [Menjadi Seorang Data Analyst](https://medium.com/@dazkara/menjadi-seorang-data-analyst-425267ce507?source=rss------data_science-5)
+- [The Algorithm Fallacy](https://levelup.gitconnected.com/the-algorithm-fallacy-d60c9bb0e7de?source=rss------data_science-5)
+- [Benefits of Collecting Data in the Metaverse](https://medium.com/@VoxBoxOfficial/benefits-of-collecting-data-in-the-metaverse-282065f09ef0?source=rss------data_science-5)
+- [Building a Web Scraper for Three Common Use Cases](https://levelup.gitconnected.com/building-a-web-scraper-for-three-common-use-cases-7a5ffc88284f?source=rss------data_science-5)
+- [K-Nearest Neighbor &lpar;KNN&rpar;: Why Do We Make It So Difficult? Simplified](https://levelup.gitconnected.com/k-nearest-neighbor-knn-why-do-we-make-it-so-difficult-simplified-701573a862b0?source=rss------data_science-5)
+- [Serialize and Save ML Models for Future Use in Python](https://levelup.gitconnected.com/serialize-and-save-ml-models-for-future-use-in-python-c0953e4193f9?source=rss------data_science-5)
+- [Creating you first boxplot with histogram using only Matplotlib](https://braucamps.medium.com/creating-you-first-boxplot-with-histogram-using-only-matplotlib-6144ffc7924b?source=rss------data_science-5)
+- [Set Theory, Basics](https://medium.com/@medi_seul/set-theory-basics-abe0005de5df?source=rss------data_science-5)
+- [Dan’s Weeknotes 2022–09–25](https://weeknot.es/dans-weeknotes-2022-09-25-7e05dbfe082e?source=rss------data_science-5)
+- [Two key areas where human insights augment AI/ML Demand Forecasts](https://medium.com/@savithanallasamy/two-key-areas-where-human-insights-augment-ai-ml-demand-forecasts-5bd38187dc15?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
