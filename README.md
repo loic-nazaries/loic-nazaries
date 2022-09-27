@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Menjadi Seorang Data Analyst](https://medium.com/@dazkara/menjadi-seorang-data-analyst-425267ce507?source=rss------data_science-5)
-- [The Algorithm Fallacy](https://levelup.gitconnected.com/the-algorithm-fallacy-d60c9bb0e7de?source=rss------data_science-5)
-- [Benefits of Collecting Data in the Metaverse](https://medium.com/@VoxBoxOfficial/benefits-of-collecting-data-in-the-metaverse-282065f09ef0?source=rss------data_science-5)
-- [Building a Web Scraper for Three Common Use Cases](https://levelup.gitconnected.com/building-a-web-scraper-for-three-common-use-cases-7a5ffc88284f?source=rss------data_science-5)
-- [K-Nearest Neighbor &lpar;KNN&rpar;: Why Do We Make It So Difficult? Simplified](https://levelup.gitconnected.com/k-nearest-neighbor-knn-why-do-we-make-it-so-difficult-simplified-701573a862b0?source=rss------data_science-5)
-- [Serialize and Save ML Models for Future Use in Python](https://levelup.gitconnected.com/serialize-and-save-ml-models-for-future-use-in-python-c0953e4193f9?source=rss------data_science-5)
-- [Creating you first boxplot with histogram using only Matplotlib](https://braucamps.medium.com/creating-you-first-boxplot-with-histogram-using-only-matplotlib-6144ffc7924b?source=rss------data_science-5)
-- [Set Theory, Basics](https://medium.com/@medi_seul/set-theory-basics-abe0005de5df?source=rss------data_science-5)
-- [Dan’s Weeknotes 2022–09–25](https://weeknot.es/dans-weeknotes-2022-09-25-7e05dbfe082e?source=rss------data_science-5)
-- [Two key areas where human insights augment AI/ML Demand Forecasts](https://medium.com/@savithanallasamy/two-key-areas-where-human-insights-augment-ai-ml-demand-forecasts-5bd38187dc15?source=rss------data_science-5)
+- [14:『VC對“時間”的看法與創業者初心：這是個哲學問題』](https://ai360-work.medium.com/14-vc%E5%B0%8D-%E6%99%82%E9%96%93-%E7%9A%84%E7%9C%8B%E6%B3%95%E8%88%87%E5%89%B5%E6%A5%AD%E8%80%85%E5%88%9D%E5%BF%83-%E9%80%99%E6%98%AF%E5%80%8B%E5%93%B2%E5%AD%B8%E5%95%8F%E9%A1%8C-c29aa0865faf?source=rss------data_science-5)
+- [Anotações Pessoais sobre Regressão Linear](https://danieleliezer.medium.com/anota%C3%A7%C3%B5es-pessoais-sobre-regress%C3%A3o-linear-668dd48c24e?source=rss------data_science-5)
+- [Test Your Understanding of Probability With This Teaser](https://keith-mcnulty.medium.com/test-your-understanding-of-probability-with-this-teaser-9b7ef5eb45ee?source=rss------data_science-5)
+- [P-value vs. Alpha? — The concept you need to know!](https://medium.com/@seshu8hachi/p-value-vs-alpha-the-concept-you-need-to-know-36e7f8b83b7b?source=rss------data_science-5)
+- [Predição de Diabetes](https://medium.com/@kellyreis/predi%C3%A7%C3%A3o-de-diabetes-34358d02fb04?source=rss------data_science-5)
+- [What is ARR and Why Startups Care About It](https://medium.com/@NashCollins/what-is-arr-and-why-startups-care-about-it-ae5dd3c1b1db?source=rss------data_science-5)
+- [Hands-on Regression Analysis with BigQuery](https://medium.com/geekculture/hands-on-regression-analysis-with-bigquery-7925dca179ff?source=rss------data_science-5)
+- [INTRODUCTION TO DATA ANALYTICS](https://medium.com/@She_Coder/introduction-to-data-analytics-73c392219f81?source=rss------data_science-5)
+- [Introdução ao Pandas](https://adilsonselmo.medium.com/introdu%C3%A7%C3%A3o-ao-pandas-efc2a69d71bb?source=rss------data_science-5)
+- [Visualización de datos con Matplotlib](https://medium.com/@pabloluce2021/visualizaci%C3%B3n-de-datos-con-matplotlib-735cab57f08c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
