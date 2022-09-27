@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [Super Flexible Matplotlib Structure for Subplots](https://towardsdatascience.com/super-flexible-matplotlib-structure-for-subplots-d26b005252f1?source=rss-2cf6b549448------2)
 - [4 Things to Know to Have a Better Understanding of Matplotlib](https://towardsdatascience.com/4-things-to-know-to-have-a-better-understanding-of-matplotlib-a84ed54b3b2c?source=rss-2cf6b549448------2)
 - [3 Tricks to Prettify Matplotlib Plots](https://towardsdatascience.com/3-tricks-to-prettify-matplotlib-plots-d0a73b861c09?source=rss-2cf6b549448------2)
 - [5 Cool Ways to Enrich ML Models with Open Data for Free: An In-depth Review of Python Libraries](https://medium.com/geekculture/5-cool-ways-to-enrich-ml-models-with-open-data-for-free-an-in-depth-review-of-python-libraries-d08db0d7782c?source=rss-2cf6b549448------2)
 - [2 Highly Useful NumPy Functions for Pandas](https://medium.com/geekculture/2-highly-useful-numpy-functions-for-pandas-21cc42f304cd?source=rss-2cf6b549448------2)
-- [Find Informative Features for Machine Learning Models with Upgini](https://towardsdatascience.com/find-informative-features-for-machine-learning-models-with-upgini-17489158ffaa?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
