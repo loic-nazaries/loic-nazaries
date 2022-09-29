@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Como utilizar as funções SOMASE e SOMASES](https://medium.com/@gabrielalmeidabispo/como-utilizar-as-fun%C3%A7%C3%B5es-somase-e-somases-f2808fc6a92?source=rss------data_science-5)
-- [Data Science — Análise de Concursos Lotofácil [Parte 4]](https://medium.com/@igor.ricardo/data-science-an%C3%A1lise-de-concursos-lotof%C3%A1cil-parte-4-cf6a4b9fb883?source=rss------data_science-5)
-- [Criando uma tabela dimensão calendário no Power Query](https://medium.com/@fabianasoares.engproducao/criando-uma-tabela-dimens%C3%A3o-calend%C3%A1rio-no-power-query-41a6dad1c714?source=rss------data_science-5)
-- [Machine Learning’s Bright Future. “ Non-Technical Version”](https://medium.com/@stefanocaruso456/machine-learnings-bright-future-non-technical-version-65dd6ff54e64?source=rss------data_science-5)
-- [Data Exploration of available Real Estate properties in Nigeria](https://medium.com/@Sammyst_The_Analyst/data-exploration-of-available-real-estate-properties-in-nigeria-9b8269febfc7?source=rss------data_science-5)
-- [Função Contagem no Excel!](https://medium.com/@gabrielalmeidabispo/fun%C3%A7%C3%A3o-contagem-no-excel-9168fa369f34?source=rss------data_science-5)
-- [Lidando com Variáveis Categóricas](https://peregodomingos.medium.com/lidando-com-vari%C3%A1veis-categ%C3%B3ricas-73c27ddd045a?source=rss------data_science-5)
-- [Unbalanced Pandas DataFrames](https://python.plainenglish.io/unbalanced-pandas-dataframes-3cb3229958a?source=rss------data_science-5)
-- [Constructors In Review: Field Types And Parameters](https://chifi.dev/constructors-in-review-field-types-and-parameters-1f979b4b3408?source=rss------data_science-5)
-- [Alright Mocha Joe, I’ll Get Your Beans…If Climate Change Allows](https://medium.com/@michael.capparelli1/alright-mocha-joe-ill-get-your-beans-if-climate-change-allows-80e5a8d212d?source=rss------data_science-5)
+- [decision tree and random forest for predicting used car prices](https://medium.com/@douglas.rochedo/decision-tree-and-random-forest-for-predicting-used-car-prices-9233478818b0?source=rss------data_science-5)
+- [15:『創新創業的題目來源』](https://ai360-work.medium.com/15-%E5%89%B5%E6%96%B0%E5%89%B5%E6%A5%AD%E7%9A%84%E9%A1%8C%E7%9B%AE%E4%BE%86%E6%BA%90-2045b8b4f336?source=rss------data_science-5)
+- [9 Python Concepts You Should not Skip for Effective Data Science](https://medium.com/codex/9-python-concepts-you-should-not-skip-for-effective-data-science-a8606c58a53b?source=rss------data_science-5)
+- [7 Most Starred Python Library You Should Know](https://medium.com/codex/7-most-starred-python-library-you-should-know-b6f2f87274d4?source=rss------data_science-5)
+- [Practical data analytics for movies](https://medium.com/codex/practical-data-analytics-for-movies-89f44d04712d?source=rss------data_science-5)
+- [Por que decidi estudar Data Science](https://medium.com/@csantos.alan/por-que-decidi-estudar-data-science-4619ed420424?source=rss------data_science-5)
+- [Customer evolution with SQL: Anonymous clicks to personalized marketing](https://singhdoesdata.medium.com/customer-evolution-with-sql-anonymous-clicks-to-personalized-marketing-48f24195118d?source=rss------data_science-5)
+- [Data Analysis is for Everyone !](https://medium.com/@shreyansh.padarha/data-analysis-is-for-everyone-252d204239c7?source=rss------data_science-5)
+- [Python Code Optimisation with Numba](https://medium.com/road-to-full-stack-data-science/python-code-optimisation-with-numba-10dbebc80783?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
