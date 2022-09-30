@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [decision tree and random forest for predicting used car prices](https://medium.com/@douglas.rochedo/decision-tree-and-random-forest-for-predicting-used-car-prices-9233478818b0?source=rss------data_science-5)
-- [15:『創新創業的題目來源』](https://ai360-work.medium.com/15-%E5%89%B5%E6%96%B0%E5%89%B5%E6%A5%AD%E7%9A%84%E9%A1%8C%E7%9B%AE%E4%BE%86%E6%BA%90-2045b8b4f336?source=rss------data_science-5)
-- [9 Python Concepts You Should not Skip for Effective Data Science](https://medium.com/codex/9-python-concepts-you-should-not-skip-for-effective-data-science-a8606c58a53b?source=rss------data_science-5)
-- [7 Most Starred Python Library You Should Know](https://medium.com/codex/7-most-starred-python-library-you-should-know-b6f2f87274d4?source=rss------data_science-5)
-- [Practical data analytics for movies](https://medium.com/codex/practical-data-analytics-for-movies-89f44d04712d?source=rss------data_science-5)
-- [Por que decidi estudar Data Science](https://medium.com/@csantos.alan/por-que-decidi-estudar-data-science-4619ed420424?source=rss------data_science-5)
-- [Customer evolution with SQL: Anonymous clicks to personalized marketing](https://singhdoesdata.medium.com/customer-evolution-with-sql-anonymous-clicks-to-personalized-marketing-48f24195118d?source=rss------data_science-5)
-- [Data Analysis is for Everyone !](https://medium.com/@shreyansh.padarha/data-analysis-is-for-everyone-252d204239c7?source=rss------data_science-5)
-- [Python Code Optimisation with Numba](https://medium.com/road-to-full-stack-data-science/python-code-optimisation-with-numba-10dbebc80783?source=rss------data_science-5)
+- [I WISH I HAD A BETTER HEADER FOR THE BEGINNING OF MY DATA JOURNEY, THE BEGINNING OF MY DATA.](https://medium.com/@oshopaul50/hello-there-805fc43c0ae0?source=rss------data_science-5)
+- [Hypotheses testing: Real example of performing Z test on share market data](https://medium.com/@pritul.dave/hypotheses-testing-real-example-of-performing-z-test-on-share-market-data-3540d29e40c9?source=rss------data_science-5)
+- [Hypothesis testing Part 1 — p-test, z-test &lpar;along with real-world example&rpar;](https://medium.com/@pritul.dave/hypothesis-testing-part-1-p-test-z-test-along-with-real-world-example-c47326954418?source=rss------data_science-5)
+- [Hypotheses testing part 3 — T distribution](https://medium.com/@pritul.dave/hypotheses-testing-part-3-t-distribution-40af6b076f4d?source=rss------data_science-5)
+- [Big O without the bullshit](https://medium.com/@willkn/big-o-without-the-bullshit-a6acf35fe0f9?source=rss------data_science-5)
+- [Vanilla Policy Gradient&lpar;VPG&rpar;-RL](https://medium.com/@durgeshpatel2372001/vanilla-policy-gradient-vpg-rl-2ecec68eb371?source=rss------data_science-5)
+- [Creating an Innovative Pull-Back Trading Strategy](https://kaabar-sofien.medium.com/creating-an-innovative-pull-back-trading-strategy-85daaa3eddf3?source=rss------data_science-5)
+- [How to encode web pages into DNA molecules using python.](https://medium.com/@mattchiriboga_47487/how-to-encode-web-pages-into-dna-molecules-using-python-a38a430b42dc?source=rss------data_science-5)
+- [Data Science, Skills, Super-Homem](https://medium.com/ideias-anal%C3%ADticas-avan%C3%A7adas/data-science-skills-super-homem-3f83f27b061e?source=rss------data_science-5)
+- [Vasari Diagram: Sunburst Charts Showing Wikipedia Networks of Painters](https://anychart.medium.com/vasari-diagram-sunburst-charts-showing-wikipedia-networks-of-painters-61db74d675fa?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
