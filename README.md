@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I WISH I HAD A BETTER HEADER FOR THE BEGINNING OF MY DATA JOURNEY, THE BEGINNING OF MY DATA.](https://medium.com/@oshopaul50/hello-there-805fc43c0ae0?source=rss------data_science-5)
-- [Hypotheses testing: Real example of performing Z test on share market data](https://medium.com/@pritul.dave/hypotheses-testing-real-example-of-performing-z-test-on-share-market-data-3540d29e40c9?source=rss------data_science-5)
-- [Hypothesis testing Part 1 — p-test, z-test &lpar;along with real-world example&rpar;](https://medium.com/@pritul.dave/hypothesis-testing-part-1-p-test-z-test-along-with-real-world-example-c47326954418?source=rss------data_science-5)
-- [Hypotheses testing part 3 — T distribution](https://medium.com/@pritul.dave/hypotheses-testing-part-3-t-distribution-40af6b076f4d?source=rss------data_science-5)
-- [Big O without the bullshit](https://medium.com/@willkn/big-o-without-the-bullshit-a6acf35fe0f9?source=rss------data_science-5)
-- [Vanilla Policy Gradient&lpar;VPG&rpar;-RL](https://medium.com/@durgeshpatel2372001/vanilla-policy-gradient-vpg-rl-2ecec68eb371?source=rss------data_science-5)
-- [Creating an Innovative Pull-Back Trading Strategy](https://kaabar-sofien.medium.com/creating-an-innovative-pull-back-trading-strategy-85daaa3eddf3?source=rss------data_science-5)
-- [How to encode web pages into DNA molecules using python.](https://medium.com/@mattchiriboga_47487/how-to-encode-web-pages-into-dna-molecules-using-python-a38a430b42dc?source=rss------data_science-5)
-- [Data Science, Skills, Super-Homem](https://medium.com/ideias-anal%C3%ADticas-avan%C3%A7adas/data-science-skills-super-homem-3f83f27b061e?source=rss------data_science-5)
-- [Vasari Diagram: Sunburst Charts Showing Wikipedia Networks of Painters](https://anychart.medium.com/vasari-diagram-sunburst-charts-showing-wikipedia-networks-of-painters-61db74d675fa?source=rss------data_science-5)
+- [Bellabeat Case study — Data Analytics](https://medium.com/@ify-analytics/bellabeat-case-study-data-analytics-ecc50c22dd16?source=rss------data_science-5)
+- [Image Classification of the Amazon Rainforest using Custom Convolutional Neural Networks](https://medium.com/@igibekwe13/image-classification-of-the-amazon-rainforest-using-custom-convolutional-neural-networks-16ec01696c25?source=rss------data_science-5)
+- [Model Workflow Tutorial — Heart Disease Classification](https://medium.com/@tvrjuana/model-workflow-tutorial-heart-disease-classification-ff01260d1ad9?source=rss------data_science-5)
+- [Using ggplot with Time Series Data in R Programming](https://zimanaanalytics.medium.com/using-ggplot-with-time-series-data-in-r-programming-2bc053acefc2?source=rss------data_science-5)
+- [Trading the Inside Up/Down Candlestick Pattern](https://kaabar-sofien.medium.com/trading-the-inside-up-down-candlestick-pattern-ad4bba597fd9?source=rss------data_science-5)
+- [Predicting MLB Playoff Teams From Their Yearly Statistics](https://medium.com/@ucladsu/predicting-mlb-playoff-teams-from-their-yearly-statistics-2fc058f163af?source=rss------data_science-5)
+- [Pathways in a Masters of Data Science Course— JTDC -08](https://medium.com/@aditya524/pathways-in-a-masters-of-data-science-course-jtdc-08-a6f4b032086b?source=rss------data_science-5)
+- [PySpark Development: Made Simple](https://betterprogramming.pub/pyspark-development-made-simple-9449a893ab17?source=rss------data_science-5)
+- [Introduction to Linear Regression](https://medium.com/@deepakpracheta/linear-regression-c37b79762bab?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
