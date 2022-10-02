@@ -105,15 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Bellabeat Case study — Data Analytics](https://medium.com/@ify-analytics/bellabeat-case-study-data-analytics-ecc50c22dd16?source=rss------data_science-5)
-- [Image Classification of the Amazon Rainforest using Custom Convolutional Neural Networks](https://medium.com/@igibekwe13/image-classification-of-the-amazon-rainforest-using-custom-convolutional-neural-networks-16ec01696c25?source=rss------data_science-5)
-- [Model Workflow Tutorial — Heart Disease Classification](https://medium.com/@tvrjuana/model-workflow-tutorial-heart-disease-classification-ff01260d1ad9?source=rss------data_science-5)
-- [Using ggplot with Time Series Data in R Programming](https://zimanaanalytics.medium.com/using-ggplot-with-time-series-data-in-r-programming-2bc053acefc2?source=rss------data_science-5)
-- [Trading the Inside Up/Down Candlestick Pattern](https://kaabar-sofien.medium.com/trading-the-inside-up-down-candlestick-pattern-ad4bba597fd9?source=rss------data_science-5)
-- [Predicting MLB Playoff Teams From Their Yearly Statistics](https://medium.com/@ucladsu/predicting-mlb-playoff-teams-from-their-yearly-statistics-2fc058f163af?source=rss------data_science-5)
-- [Pathways in a Masters of Data Science Course— JTDC -08](https://medium.com/@aditya524/pathways-in-a-masters-of-data-science-course-jtdc-08-a6f4b032086b?source=rss------data_science-5)
-- [PySpark Development: Made Simple](https://betterprogramming.pub/pyspark-development-made-simple-9449a893ab17?source=rss------data_science-5)
-- [Introduction to Linear Regression](https://medium.com/@deepakpracheta/linear-regression-c37b79762bab?source=rss------data_science-5)
+- [Data Science: Non profits organization Project](https://medium.com/@arianesaliani/data-science-non-profits-organization-project-27c88f7ffc94?source=rss------data_science-5)
+- [Análise da Cota para Exercício da Atividade Parlamentar no Senado](https://medium.com/@carlamoema/an%C3%A1lise-da-cota-para-exerc%C3%ADcio-da-atividade-parlamentar-no-senado-e65d73487712?source=rss------data_science-5)
+- [Normal Equations, a quick way to find the parameters of linear regression.](https://medium.com/@atulbhargavks1997/normal-equations-a-quick-way-to-find-the-parameters-of-linear-regression-4c5da044a301?source=rss------data_science-5)
+- [Hidden Features of Python](https://python.plainenglish.io/hidden-features-of-python-b699784dd988?source=rss------data_science-5)
+- [Reading Text Files with Python](https://python.plainenglish.io/reading-text-files-with-python-ad9931c78cfc?source=rss------data_science-5)
+- [The Put Call Ratio](https://kaabar-sofien.medium.com/the-put-call-ratio-a323042e02b0?source=rss------data_science-5)
+- [Test](https://medium.com/@gwelliver88/test-b08436991fd5?source=rss------data_science-5)
+- [this is another story](https://medium.com/@marcelo_37608/this-is-another-story-91d327bb3a65?source=rss------data_science-5)
+- [Data encapsulation and Data hiding:](https://medium.com/@sheebanali/data-encapsulation-and-data-hiding-d58a24a95d75?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
