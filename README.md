@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Science: Non profits organization Project](https://medium.com/@arianesaliani/data-science-non-profits-organization-project-27c88f7ffc94?source=rss------data_science-5)
-- [Análise da Cota para Exercício da Atividade Parlamentar no Senado](https://medium.com/@carlamoema/an%C3%A1lise-da-cota-para-exerc%C3%ADcio-da-atividade-parlamentar-no-senado-e65d73487712?source=rss------data_science-5)
-- [Normal Equations, a quick way to find the parameters of linear regression.](https://medium.com/@atulbhargavks1997/normal-equations-a-quick-way-to-find-the-parameters-of-linear-regression-4c5da044a301?source=rss------data_science-5)
-- [Hidden Features of Python](https://python.plainenglish.io/hidden-features-of-python-b699784dd988?source=rss------data_science-5)
-- [Reading Text Files with Python](https://python.plainenglish.io/reading-text-files-with-python-ad9931c78cfc?source=rss------data_science-5)
-- [The Put Call Ratio](https://kaabar-sofien.medium.com/the-put-call-ratio-a323042e02b0?source=rss------data_science-5)
-- [Test](https://medium.com/@gwelliver88/test-b08436991fd5?source=rss------data_science-5)
-- [this is another story](https://medium.com/@marcelo_37608/this-is-another-story-91d327bb3a65?source=rss------data_science-5)
-- [Data encapsulation and Data hiding:](https://medium.com/@sheebanali/data-encapsulation-and-data-hiding-d58a24a95d75?source=rss------data_science-5)
+- [Python Tuples: A Complete Guide](https://levelup.gitconnected.com/python-tuples-a-complete-guide-eef4e59c62ef?source=rss------data_science-5)
+- [Python Sets: A Complete Guide](https://levelup.gitconnected.com/python-sets-a-complete-guide-dd4233a4c825?source=rss------data_science-5)
+- [How To Master Algorithms in Data Science](https://medium.com/@fergie19702004_40140/how-to-master-algorithms-in-data-science-56233a65e41e?source=rss------data_science-5)
+- [Neural Style Transfer — A practice in transfer learning](https://medium.com/@2468086464/neural-style-transfer-a-practice-in-transfer-learning-1277455f247a?source=rss------data_science-5)
+- [Shallow diving into Data Driven Tech and its value](https://thesmithtrivedi.medium.com/shallow-diving-into-data-driven-tech-and-its-value-4398a5af192e?source=rss------data_science-5)
+- [The Hidden Divergence Trading Method in Python](https://kaabar-sofien.medium.com/the-hidden-divergence-trading-method-in-python-b77641144193?source=rss------data_science-5)
+- [Why Apache Spark Wins the Race](https://pi-shubham.medium.com/why-apache-spark-wins-the-race-e913f599b5fd?source=rss------data_science-5)
+- [Ten from the weekend 10/02: A few interesting reads that I came across](https://gopivikranth.medium.com/ten-from-the-weekend-10-02-a-few-interesting-reads-that-i-came-across-37b1c50d3497?source=rss------data_science-5)
+- [Topics That Perform Well On LinkedIn: An Empirical Analysis](https://medium.com/illumination/topics-that-perform-well-on-linkedin-an-empirical-analysis-f826f7b4a12d?source=rss------data_science-5)
+- [Q#65: Most common part of speech using NLTK](https://medium.com/foundational-data-science-interview-questions/q-65-most-common-part-of-speech-using-nltk-34f0cc71fac5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
