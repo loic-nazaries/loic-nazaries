@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Python Tuples: A Complete Guide](https://levelup.gitconnected.com/python-tuples-a-complete-guide-eef4e59c62ef?source=rss------data_science-5)
-- [Python Sets: A Complete Guide](https://levelup.gitconnected.com/python-sets-a-complete-guide-dd4233a4c825?source=rss------data_science-5)
-- [How To Master Algorithms in Data Science](https://medium.com/@fergie19702004_40140/how-to-master-algorithms-in-data-science-56233a65e41e?source=rss------data_science-5)
-- [Neural Style Transfer — A practice in transfer learning](https://medium.com/@2468086464/neural-style-transfer-a-practice-in-transfer-learning-1277455f247a?source=rss------data_science-5)
-- [Shallow diving into Data Driven Tech and its value](https://thesmithtrivedi.medium.com/shallow-diving-into-data-driven-tech-and-its-value-4398a5af192e?source=rss------data_science-5)
-- [The Hidden Divergence Trading Method in Python](https://kaabar-sofien.medium.com/the-hidden-divergence-trading-method-in-python-b77641144193?source=rss------data_science-5)
-- [Why Apache Spark Wins the Race](https://pi-shubham.medium.com/why-apache-spark-wins-the-race-e913f599b5fd?source=rss------data_science-5)
-- [Ten from the weekend 10/02: A few interesting reads that I came across](https://gopivikranth.medium.com/ten-from-the-weekend-10-02-a-few-interesting-reads-that-i-came-across-37b1c50d3497?source=rss------data_science-5)
-- [Topics That Perform Well On LinkedIn: An Empirical Analysis](https://medium.com/illumination/topics-that-perform-well-on-linkedin-an-empirical-analysis-f826f7b4a12d?source=rss------data_science-5)
-- [Q#65: Most common part of speech using NLTK](https://medium.com/foundational-data-science-interview-questions/q-65-most-common-part-of-speech-using-nltk-34f0cc71fac5?source=rss------data_science-5)
+- [Analyzing Data Engineering Job Descriptions with RapidAPI &amp; NLTK](https://medium.com/@jjghavami/analyzing-data-engineering-job-descriptions-with-rapidapi-nltk-f94b1bfc8a6e?source=rss------data_science-5)
+- [Building a Baseline Model — Most Correlated Feature](https://medium.com/@jacob.m.hansen/building-a-baseline-model-most-correlated-feature-9607514af55c?source=rss------data_science-5)
+- [16:『初始的題目，無法決定成功』](https://ai360-work.medium.com/16-%E5%88%9D%E5%A7%8B%E7%9A%84%E9%A1%8C%E7%9B%AE-%E7%84%A1%E6%B3%95%E6%B1%BA%E5%AE%9A%E6%88%90%E5%8A%9F-aff1687a3987?source=rss------data_science-5)
+- [Chi-square, T-test, and ANOVA — Know the difference!](https://medium.com/@seshu8hachi/chi-square-t-test-and-anova-know-the-difference-2af5425ccf4a?source=rss------data_science-5)
+- [5 SQL Tips to Improve Your Queries](https://betterprogramming.pub/5-sql-tips-to-improve-your-queries-58c0e93ff4ef?source=rss------data_science-5)
+- [Beyond with Spark Volumen 1!!!](https://medium.com/@martin.jurado.p/beyond-with-spark-volumen-1-30a2f1659e7b?source=rss------data_science-5)
+- [Cloud Computing : How Does it Work?](https://medium.com/@ash.data.analyst/cloud-computing-how-does-it-work-bac4e1afcaeb?source=rss------data_science-5)
+- [XGBoost with used car predictions](https://medium.com/@douglas.rochedo/xgboost-with-used-car-predictions-a466803d6a1?source=rss------data_science-5)
+- [Two Main Lessons from Getting My Data Science Masters Degree](https://medium.com/@egon611/two-main-lessons-from-getting-my-data-science-masters-degree-ba46f925ebb7?source=rss------data_science-5)
+- [All the Ways To Introspect Python Objects at Runtime](https://betterprogramming.pub/all-the-ways-to-introspect-python-objects-at-runtime-80e6991b4cc6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
