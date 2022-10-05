@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Analyzing Data Engineering Job Descriptions with RapidAPI &amp; NLTK](https://medium.com/@jjghavami/analyzing-data-engineering-job-descriptions-with-rapidapi-nltk-f94b1bfc8a6e?source=rss------data_science-5)
-- [Building a Baseline Model — Most Correlated Feature](https://medium.com/@jacob.m.hansen/building-a-baseline-model-most-correlated-feature-9607514af55c?source=rss------data_science-5)
-- [16:『初始的題目，無法決定成功』](https://ai360-work.medium.com/16-%E5%88%9D%E5%A7%8B%E7%9A%84%E9%A1%8C%E7%9B%AE-%E7%84%A1%E6%B3%95%E6%B1%BA%E5%AE%9A%E6%88%90%E5%8A%9F-aff1687a3987?source=rss------data_science-5)
-- [Chi-square, T-test, and ANOVA — Know the difference!](https://medium.com/@seshu8hachi/chi-square-t-test-and-anova-know-the-difference-2af5425ccf4a?source=rss------data_science-5)
-- [5 SQL Tips to Improve Your Queries](https://betterprogramming.pub/5-sql-tips-to-improve-your-queries-58c0e93ff4ef?source=rss------data_science-5)
-- [Beyond with Spark Volumen 1!!!](https://medium.com/@martin.jurado.p/beyond-with-spark-volumen-1-30a2f1659e7b?source=rss------data_science-5)
-- [Cloud Computing : How Does it Work?](https://medium.com/@ash.data.analyst/cloud-computing-how-does-it-work-bac4e1afcaeb?source=rss------data_science-5)
-- [XGBoost with used car predictions](https://medium.com/@douglas.rochedo/xgboost-with-used-car-predictions-a466803d6a1?source=rss------data_science-5)
-- [Two Main Lessons from Getting My Data Science Masters Degree](https://medium.com/@egon611/two-main-lessons-from-getting-my-data-science-masters-degree-ba46f925ebb7?source=rss------data_science-5)
-- [All the Ways To Introspect Python Objects at Runtime](https://betterprogramming.pub/all-the-ways-to-introspect-python-objects-at-runtime-80e6991b4cc6?source=rss------data_science-5)
+- [5 Function of Pandas for Data Understanding you may not know](https://medium.com/@muhamad.insan.r/5-function-of-pandas-for-data-understanding-you-may-not-know-8715c781b5ad?source=rss------data_science-5)
+- [Efek Racun Drama Korea : Kunjungan Turis Indonesia ke Korea Selatan Naik!](https://medium.com/@vinddylaurenshia51439/efek-racun-drama-korea-kunjungan-turis-indonesia-ke-korea-selatan-naik-7a874f09a733?source=rss------data_science-5)
+- [Teaching to empty rectangles](https://tedspence.com/teaching-to-empty-rectangles-58e583aae90d?source=rss------data_science-5)
+- [T Learner Uplift Model for Individual Treatment Effect &lpar;ITE&rpar; in Python](https://medium.com/grabngoinfo/t-learner-uplift-model-for-individual-treatment-effect-ite-in-python-8f1eab7a0330?source=rss------data_science-5)
+- [Proxy Fight  — An Unintended Statistical Consequence of the AI Bill of Rights](https://microprediction.medium.com/proxy-fight-an-unintended-statistical-consequence-of-the-ai-bill-of-rights-9adecd328495?source=rss------data_science-5)
+- [A Review of the Superintelligence: Paths, Dangers, Strategies](https://medium.com/@emirozer03/a-review-of-the-superintelligence-paths-dangers-strategies-fee2aa29057e?source=rss------data_science-5)
+- [Data Analysis with Python: Data Visualization](https://medium.com/@melisnurverir/data-analysis-with-python-data-visualization-9a946967c3ae?source=rss------data_science-5)
+- [The Road To Data Science Maturity — Vision &amp; Strategy](https://fiifi-aarthur.medium.com/the-road-to-data-science-maturity-vision-strategy-a2559bf513af?source=rss------data_science-5)
+- [Daily Dose of Programming Memes](https://medium.com/geekculture/daily-dose-of-programming-memes-992a0cfb529?source=rss------data_science-5)
+- [Fantastic Zero-Knowledge Proofs](https://medium.com/@outsideranalytics/fantastic-zero-knowledge-proofs-ef4bb746f838?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
