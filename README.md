@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [5 Function of Pandas for Data Understanding you may not know](https://medium.com/@muhamad.insan.r/5-function-of-pandas-for-data-understanding-you-may-not-know-8715c781b5ad?source=rss------data_science-5)
-- [Efek Racun Drama Korea : Kunjungan Turis Indonesia ke Korea Selatan Naik!](https://medium.com/@vinddylaurenshia51439/efek-racun-drama-korea-kunjungan-turis-indonesia-ke-korea-selatan-naik-7a874f09a733?source=rss------data_science-5)
-- [Teaching to empty rectangles](https://tedspence.com/teaching-to-empty-rectangles-58e583aae90d?source=rss------data_science-5)
-- [T Learner Uplift Model for Individual Treatment Effect &lpar;ITE&rpar; in Python](https://medium.com/grabngoinfo/t-learner-uplift-model-for-individual-treatment-effect-ite-in-python-8f1eab7a0330?source=rss------data_science-5)
-- [Proxy Fight  — An Unintended Statistical Consequence of the AI Bill of Rights](https://microprediction.medium.com/proxy-fight-an-unintended-statistical-consequence-of-the-ai-bill-of-rights-9adecd328495?source=rss------data_science-5)
-- [A Review of the Superintelligence: Paths, Dangers, Strategies](https://medium.com/@emirozer03/a-review-of-the-superintelligence-paths-dangers-strategies-fee2aa29057e?source=rss------data_science-5)
-- [Data Analysis with Python: Data Visualization](https://medium.com/@melisnurverir/data-analysis-with-python-data-visualization-9a946967c3ae?source=rss------data_science-5)
-- [The Road To Data Science Maturity — Vision &amp; Strategy](https://fiifi-aarthur.medium.com/the-road-to-data-science-maturity-vision-strategy-a2559bf513af?source=rss------data_science-5)
-- [Daily Dose of Programming Memes](https://medium.com/geekculture/daily-dose-of-programming-memes-992a0cfb529?source=rss------data_science-5)
-- [Fantastic Zero-Knowledge Proofs](https://medium.com/@outsideranalytics/fantastic-zero-knowledge-proofs-ef4bb746f838?source=rss------data_science-5)
+- [Geometric Distribution](https://medium.com/@gajendra.k.s/geometric-distribution-39f65bd46051?source=rss------data_science-5)
+- [Transfer Learning: What is it, how does it work, and how can it help?](https://medium.com/@sandibesen/transfer-learning-what-is-it-how-does-it-work-and-how-can-it-help-b8f57a2fef37?source=rss------data_science-5)
+- [I Scraped An Online Dictionary](https://medium.com/@jmpion/i-scraped-an-online-dictionary-37577876eab5?source=rss------data_science-5)
+- [10 Things You Should Know As A Data Scientist](https://levelup.gitconnected.com/10-things-you-should-know-as-a-data-scientist-ebfc2529991?source=rss------data_science-5)
+- [Business Intelligence com Google Cloud Products](https://medium.com/@jcp.paula17/business-intelligence-com-google-cloud-products-d88e56e0cca8?source=rss------data_science-5)
+- [How to build a multi-label text classification model using NLP and Machine Learning](https://medium.com/@mikeyo4800/how-to-build-a-multi-label-text-classification-model-using-nlp-and-machine-learning-2e05f72aad5f?source=rss------data_science-5)
+- [Prevendo a geração de energia solar #1 — Tratamento dos dados](https://peregodomingos.medium.com/prevendo-a-gera%C3%A7%C3%A3o-de-energia-solar-1-tratamento-dos-dados-67b75f2461d5?source=rss------data_science-5)
+- [The Best Volatility Indicator](https://kaabar-sofien.medium.com/the-best-volatility-indicator-2ad4fcef4b8c?source=rss------data_science-5)
+- [Normality Tests in Python: Cheat Sheet](https://medium.com/geekculture/normality-tests-in-python-cheat-sheet-1cb2c4bae7e7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
