@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Geometric Distribution](https://medium.com/@gajendra.k.s/geometric-distribution-39f65bd46051?source=rss------data_science-5)
-- [Transfer Learning: What is it, how does it work, and how can it help?](https://medium.com/@sandibesen/transfer-learning-what-is-it-how-does-it-work-and-how-can-it-help-b8f57a2fef37?source=rss------data_science-5)
-- [I Scraped An Online Dictionary](https://medium.com/@jmpion/i-scraped-an-online-dictionary-37577876eab5?source=rss------data_science-5)
-- [10 Things You Should Know As A Data Scientist](https://levelup.gitconnected.com/10-things-you-should-know-as-a-data-scientist-ebfc2529991?source=rss------data_science-5)
-- [Business Intelligence com Google Cloud Products](https://medium.com/@jcp.paula17/business-intelligence-com-google-cloud-products-d88e56e0cca8?source=rss------data_science-5)
-- [How to build a multi-label text classification model using NLP and Machine Learning](https://medium.com/@mikeyo4800/how-to-build-a-multi-label-text-classification-model-using-nlp-and-machine-learning-2e05f72aad5f?source=rss------data_science-5)
-- [Prevendo a geração de energia solar #1 — Tratamento dos dados](https://peregodomingos.medium.com/prevendo-a-gera%C3%A7%C3%A3o-de-energia-solar-1-tratamento-dos-dados-67b75f2461d5?source=rss------data_science-5)
-- [The Best Volatility Indicator](https://kaabar-sofien.medium.com/the-best-volatility-indicator-2ad4fcef4b8c?source=rss------data_science-5)
-- [Normality Tests in Python: Cheat Sheet](https://medium.com/geekculture/normality-tests-in-python-cheat-sheet-1cb2c4bae7e7?source=rss------data_science-5)
+- [Global Job Market Perspective For Data Analysts](https://medium.com/@Filiberto.zurita/global-job-market-perspective-for-data-analysts-251451955cf7?source=rss------data_science-5)
+- [Exploratory Data Analysis for Dummies: simple and ready to use EDA template](https://medium.com/@Marcello_Dichiera/exploratory-data-analysis-for-dummies-simple-and-ready-to-use-eda-template-8fe7ec81974?source=rss------data_science-5)
+- [3 Plots Computed On A Dictionary](https://medium.com/@jmpion/3-plots-computed-on-a-dictionary-2231be0ef0c3?source=rss------data_science-5)
+- [Using Spotify’s Web API to extract high-level features and download song previews](https://medium.com/@datasc.yash/using-spotifys-web-api-to-extract-high-level-features-and-download-song-previews-38b0b1728a8f?source=rss------data_science-5)
+- [A High Hit Ratio Trading Strategy](https://kaabar-sofien.medium.com/a-high-hit-ratio-trading-strategy-8234237ef783?source=rss------data_science-5)
+- [State of Social and Information Networks in 2022 part2](https://medium.com/@monocosmo77/state-of-social-and-information-networks-in-2022-part2-c94dbc44a73a?source=rss------data_science-5)
+- [Can AI Generate Headlines That Will Make You Click?](https://medium.com/@dreamferus/can-ai-generate-headlines-that-will-make-you-click-c33191cfefc6?source=rss------data_science-5)
+- [Major League Baseball, Real-time Data, and At-Bats](https://medium.com/@deephavendatalabs/major-league-baseball-real-time-data-and-at-bats-9d58b6ea32d3?source=rss------data_science-5)
+- [Crack SQL Interview Question: Self-Join and Non-Equi Join](https://medium.com/geekculture/crack-sql-interview-question-self-join-and-non-equi-join-1cb2a181104a?source=rss------data_science-5)
+- [State of Social and Information Networks in 2022 part1](https://medium.com/@monocosmo77/state-of-social-and-information-networks-in-2022-part1-8d0da57e8673?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
