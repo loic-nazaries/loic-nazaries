@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Global Job Market Perspective For Data Analysts](https://medium.com/@Filiberto.zurita/global-job-market-perspective-for-data-analysts-251451955cf7?source=rss------data_science-5)
-- [Exploratory Data Analysis for Dummies: simple and ready to use EDA template](https://medium.com/@Marcello_Dichiera/exploratory-data-analysis-for-dummies-simple-and-ready-to-use-eda-template-8fe7ec81974?source=rss------data_science-5)
-- [3 Plots Computed On A Dictionary](https://medium.com/@jmpion/3-plots-computed-on-a-dictionary-2231be0ef0c3?source=rss------data_science-5)
-- [Using Spotify’s Web API to extract high-level features and download song previews](https://medium.com/@datasc.yash/using-spotifys-web-api-to-extract-high-level-features-and-download-song-previews-38b0b1728a8f?source=rss------data_science-5)
-- [A High Hit Ratio Trading Strategy](https://kaabar-sofien.medium.com/a-high-hit-ratio-trading-strategy-8234237ef783?source=rss------data_science-5)
-- [State of Social and Information Networks in 2022 part2](https://medium.com/@monocosmo77/state-of-social-and-information-networks-in-2022-part2-c94dbc44a73a?source=rss------data_science-5)
-- [Can AI Generate Headlines That Will Make You Click?](https://medium.com/@dreamferus/can-ai-generate-headlines-that-will-make-you-click-c33191cfefc6?source=rss------data_science-5)
-- [Major League Baseball, Real-time Data, and At-Bats](https://medium.com/@deephavendatalabs/major-league-baseball-real-time-data-and-at-bats-9d58b6ea32d3?source=rss------data_science-5)
-- [Crack SQL Interview Question: Self-Join and Non-Equi Join](https://medium.com/geekculture/crack-sql-interview-question-self-join-and-non-equi-join-1cb2a181104a?source=rss------data_science-5)
-- [State of Social and Information Networks in 2022 part1](https://medium.com/@monocosmo77/state-of-social-and-information-networks-in-2022-part1-8d0da57e8673?source=rss------data_science-5)
+- [Types of Missing Data](https://medium.com/@nahmed3536/types-of-missing-data-e718e6ac2a55?source=rss------data_science-5)
+- [¿Es la ciencia de datos una sólida carrera profesional dada la creciente integración de…](https://medium.com/@monserrathfallas/es-la-ciencia-de-datos-una-s%C3%B3lida-carrera-profesional-dada-la-creciente-integraci%C3%B3n-de-64050e95238e?source=rss------data_science-5)
+- [Housing Project 2: Data Cleaning Part 2](https://medium.com/@100WordsofDataScience/housing-project-2-data-cleaning-part-2-83361e617d13?source=rss------data_science-5)
+- [Coding K’s Volatility Bands in TradingView](https://kaabar-sofien.medium.com/coding-ks-volatility-bands-in-tradingview-ae371f9a22b1?source=rss------data_science-5)
+- [Why I chose Data Science](https://medium.com/@evan.staffen/why-i-chose-data-science-5bfedb7a695e?source=rss------data_science-5)
+- [How to run SQL queries with Presto on Redshift](https://medium.com/@didyoungj_40868/how-to-run-sql-queries-with-presto-on-redshift-fe69541e52c5?source=rss------data_science-5)
+- [Housing Project 2: Data Cleaning Part 1](https://medium.com/@100WordsofDataScience/housing-project-2-data-cleaning-part-1-457ed299f126?source=rss------data_science-5)
+- [Albion Online Market Arbitrage w/ Python](https://medium.com/datastuffplus/albion-online-market-arbitrage-w-python-8700d9d654ed?source=rss------data_science-5)
+- [The SQL Data Lakehouse](https://medium.com/@ahana.io/the-sql-data-lakehouse-980e49feb031?source=rss------data_science-5)
+- [Recent Developments in the domain of Sentiment Analysis part1](https://medium.com/@monocosmo77/recent-developments-in-the-domain-of-sentiment-analysis-part1-e664cd7a2f3f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
