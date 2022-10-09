@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Types of Missing Data](https://medium.com/@nahmed3536/types-of-missing-data-e718e6ac2a55?source=rss------data_science-5)
-- [¿Es la ciencia de datos una sólida carrera profesional dada la creciente integración de…](https://medium.com/@monserrathfallas/es-la-ciencia-de-datos-una-s%C3%B3lida-carrera-profesional-dada-la-creciente-integraci%C3%B3n-de-64050e95238e?source=rss------data_science-5)
-- [Housing Project 2: Data Cleaning Part 2](https://medium.com/@100WordsofDataScience/housing-project-2-data-cleaning-part-2-83361e617d13?source=rss------data_science-5)
-- [Coding K’s Volatility Bands in TradingView](https://kaabar-sofien.medium.com/coding-ks-volatility-bands-in-tradingview-ae371f9a22b1?source=rss------data_science-5)
-- [Why I chose Data Science](https://medium.com/@evan.staffen/why-i-chose-data-science-5bfedb7a695e?source=rss------data_science-5)
-- [How to run SQL queries with Presto on Redshift](https://medium.com/@didyoungj_40868/how-to-run-sql-queries-with-presto-on-redshift-fe69541e52c5?source=rss------data_science-5)
-- [Housing Project 2: Data Cleaning Part 1](https://medium.com/@100WordsofDataScience/housing-project-2-data-cleaning-part-1-457ed299f126?source=rss------data_science-5)
-- [Albion Online Market Arbitrage w/ Python](https://medium.com/datastuffplus/albion-online-market-arbitrage-w-python-8700d9d654ed?source=rss------data_science-5)
-- [The SQL Data Lakehouse](https://medium.com/@ahana.io/the-sql-data-lakehouse-980e49feb031?source=rss------data_science-5)
-- [Recent Developments in the domain of Sentiment Analysis part1](https://medium.com/@monocosmo77/recent-developments-in-the-domain-of-sentiment-analysis-part1-e664cd7a2f3f?source=rss------data_science-5)
+- [The Distinctions Between Artificial Intelligence, Machine Learning, and Deep Learning](https://medium.com/@nahmed3536/the-distinctions-between-artificial-intelligence-machine-learning-and-deep-learning-c4eec18b8dab?source=rss------data_science-5)
+- [Read NetCDF file using python](https://medium.com/@muzammalnawaz3052/read-netcdf-format-file-using-python-69858255ea53?source=rss------data_science-5)
+- [The Different Types of Machine Learning &lpar;ML&rpar;](https://medium.com/@nahmed3536/the-different-types-of-machine-learning-ml-c87f752cca89?source=rss------data_science-5)
+- [Handbook of Anomaly Detection: With Python Outlier Detection — &lpar;1&rpar; Introduction](https://dataman-ai.medium.com/handbook-of-anomaly-detection-with-python-outlier-detection-1-introduction-c8f30f71961c?source=rss------data_science-5)
+- [Handbook of Anomaly Detection: With Python Outlier Detection — &lpar;11&rpar; XGBOD](https://dataman-ai.medium.com/handbook-of-anomaly-detection-with-python-outlier-detection-11-xgbod-8ce51ebf81b0?source=rss------data_science-5)
+- [I noticed a large number of sales with strange sale prices.](https://medium.com/@100WordsofDataScience/i-noticed-a-large-number-of-sales-with-strange-sale-prices-bc4b20d6369d?source=rss------data_science-5)
+- [Handbook of Anomaly Detection: With Python Outlier Detection — &lpar;6&rpar; OCSVM](https://dataman-ai.medium.com/handbook-of-anomaly-detection-with-python-outlier-detection-6-ocsvm-f746dae9f450?source=rss------data_science-5)
+- [Handbook of Anomaly Detection: With Python Outlier Detection — &lpar;10&rpar; CBLOF](https://dataman-ai.medium.com/handbook-of-anomaly-detection-with-python-outlier-detection-10-cblof-35b6c01cd055?source=rss------data_science-5)
+- [Data Science](https://medium.com/@hassankashi.official/data-science-9b3e2430ba5c?source=rss------data_science-5)
+- [冬季病毒『趨同進化』](https://kuanyuchiang.medium.com/%E5%86%AC%E5%AD%A3%E7%97%85%E6%AF%92-%E8%B6%A8%E5%90%8C%E9%80%B2%E5%8C%96-9b1f4638590?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
