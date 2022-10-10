@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Distinctions Between Artificial Intelligence, Machine Learning, and Deep Learning](https://medium.com/@nahmed3536/the-distinctions-between-artificial-intelligence-machine-learning-and-deep-learning-c4eec18b8dab?source=rss------data_science-5)
-- [Read NetCDF file using python](https://medium.com/@muzammalnawaz3052/read-netcdf-format-file-using-python-69858255ea53?source=rss------data_science-5)
-- [The Different Types of Machine Learning &lpar;ML&rpar;](https://medium.com/@nahmed3536/the-different-types-of-machine-learning-ml-c87f752cca89?source=rss------data_science-5)
-- [Handbook of Anomaly Detection: With Python Outlier Detection — &lpar;1&rpar; Introduction](https://dataman-ai.medium.com/handbook-of-anomaly-detection-with-python-outlier-detection-1-introduction-c8f30f71961c?source=rss------data_science-5)
-- [Handbook of Anomaly Detection: With Python Outlier Detection — &lpar;11&rpar; XGBOD](https://dataman-ai.medium.com/handbook-of-anomaly-detection-with-python-outlier-detection-11-xgbod-8ce51ebf81b0?source=rss------data_science-5)
-- [I noticed a large number of sales with strange sale prices.](https://medium.com/@100WordsofDataScience/i-noticed-a-large-number-of-sales-with-strange-sale-prices-bc4b20d6369d?source=rss------data_science-5)
-- [Handbook of Anomaly Detection: With Python Outlier Detection — &lpar;6&rpar; OCSVM](https://dataman-ai.medium.com/handbook-of-anomaly-detection-with-python-outlier-detection-6-ocsvm-f746dae9f450?source=rss------data_science-5)
-- [Handbook of Anomaly Detection: With Python Outlier Detection — &lpar;10&rpar; CBLOF](https://dataman-ai.medium.com/handbook-of-anomaly-detection-with-python-outlier-detection-10-cblof-35b6c01cd055?source=rss------data_science-5)
-- [Data Science](https://medium.com/@hassankashi.official/data-science-9b3e2430ba5c?source=rss------data_science-5)
-- [冬季病毒『趨同進化』](https://kuanyuchiang.medium.com/%E5%86%AC%E5%AD%A3%E7%97%85%E6%AF%92-%E8%B6%A8%E5%90%8C%E9%80%B2%E5%8C%96-9b1f4638590?source=rss------data_science-5)
+- [Using Jupyter Notebook with your Conda Environment](https://rahulbhadani.medium.com/using-jupyter-notebook-with-your-coda-environment-bc9c96876eb9?source=rss------data_science-5)
+- [What The Heck is Malloy?](https://progrockrec.medium.com/what-the-heck-is-malloy-259b4fecb3db?source=rss------data_science-5)
+- [Twitter Bots, A Lot More Nuanced Than You Think](https://medium.com/codex/twitter-bots-a-lot-more-nuanced-than-you-think-cab23f925940?source=rss------data_science-5)
+- [Transformer-based Recommendation System](https://medium.com/geekculture/transformer-based-recommendation-system-b350ef9cb57?source=rss------data_science-5)
+- [Use this Reversal Strategy in Your Trading](https://kaabar-sofien.medium.com/use-this-reversal-strategy-in-your-trading-bc856fa6d8ac?source=rss------data_science-5)
+- [Searching for Lost Nuclear Bombs: Bayes’ Theorem in Action](https://medium.com/@nick.s.beaudoin/searching-for-lost-nuclear-bombs-bayes-theorem-in-action-bf4671ea035?source=rss------data_science-5)
+- [Housing Project 2: Data Cleaning Part 5](https://medium.com/@100WordsofDataScience/housing-project-2-data-cleaning-part-5-cf833973e970?source=rss------data_science-5)
+- [Studying eXplainable Artificial Intelligence &lpar;XAI&rpar; part3](https://medium.com/@monocosmo77/studying-explainable-artificial-intelligence-xai-part3-819972fe5b34?source=rss------data_science-5)
+- [Studying eXplainable Artificial Intelligence &lpar;XAI&rpar; part2](https://medium.com/@monocosmo77/studying-explainable-artificial-intelligence-xai-part2-3d6ec604ed64?source=rss------data_science-5)
+- [La importancia del contexto](https://cristianbedoya.medium.com/la-importancia-del-contexto-c4769173d96b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
