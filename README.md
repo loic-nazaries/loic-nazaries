@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Using Jupyter Notebook with your Conda Environment](https://rahulbhadani.medium.com/using-jupyter-notebook-with-your-coda-environment-bc9c96876eb9?source=rss------data_science-5)
-- [What The Heck is Malloy?](https://progrockrec.medium.com/what-the-heck-is-malloy-259b4fecb3db?source=rss------data_science-5)
-- [Twitter Bots, A Lot More Nuanced Than You Think](https://medium.com/codex/twitter-bots-a-lot-more-nuanced-than-you-think-cab23f925940?source=rss------data_science-5)
-- [Transformer-based Recommendation System](https://medium.com/geekculture/transformer-based-recommendation-system-b350ef9cb57?source=rss------data_science-5)
-- [Use this Reversal Strategy in Your Trading](https://kaabar-sofien.medium.com/use-this-reversal-strategy-in-your-trading-bc856fa6d8ac?source=rss------data_science-5)
-- [Searching for Lost Nuclear Bombs: Bayes’ Theorem in Action](https://medium.com/@nick.s.beaudoin/searching-for-lost-nuclear-bombs-bayes-theorem-in-action-bf4671ea035?source=rss------data_science-5)
-- [Housing Project 2: Data Cleaning Part 5](https://medium.com/@100WordsofDataScience/housing-project-2-data-cleaning-part-5-cf833973e970?source=rss------data_science-5)
-- [Studying eXplainable Artificial Intelligence &lpar;XAI&rpar; part3](https://medium.com/@monocosmo77/studying-explainable-artificial-intelligence-xai-part3-819972fe5b34?source=rss------data_science-5)
-- [Studying eXplainable Artificial Intelligence &lpar;XAI&rpar; part2](https://medium.com/@monocosmo77/studying-explainable-artificial-intelligence-xai-part2-3d6ec604ed64?source=rss------data_science-5)
-- [La importancia del contexto](https://cristianbedoya.medium.com/la-importancia-del-contexto-c4769173d96b?source=rss------data_science-5)
+- [Jupyter Extensions and tools that I use every day](https://jadhav-pritish.medium.com/jupyter-extensions-and-tools-that-i-use-every-day-963ddf914d37?source=rss------data_science-5)
+- [Probabilistically determining the number of components for unsupervised learning](https://medium.com/@abuzar_mahmood/probabilistically-determining-the-number-of-components-for-unsupervised-learning-e1c3c4a82082?source=rss------data_science-5)
+- [18:『先行者優勢與跟隨者優勢』](https://ai360-work.medium.com/18-%E5%85%88%E8%A1%8C%E8%80%85%E5%84%AA%E5%8B%A2%E8%88%87%E8%B7%9F%E9%9A%A8%E8%80%85%E5%84%AA%E5%8B%A2-8a02c3806351?source=rss------data_science-5)
+- [Open Positions in AI For the Week 3/10 to 9/10](https://youssefraafat57.medium.com/open-positions-in-ai-for-the-week-3-10-to-9-10-ded1255c6de8?source=rss------data_science-5)
+- [Titanic Competition Machine Learning Disaster | by Felipe do Valle Oliveira](https://medium.com/@felipe-dovalle/titanic-competition-machine-learning-disaster-by-felipe-do-valle-oliveira-c22dfc2c5d27?source=rss------data_science-5)
+- [Why we need to learn Python?](https://medium.com/@nihanbayrakk/why-we-need-to-learn-python-891a8904c516?source=rss------data_science-5)
+- [3 Less Known Statistics Books Worth Reading](https://medium.com/@jimmykwon_39640/3-less-known-statistics-books-worth-reading-9f9dd289d938?source=rss------data_science-5)
+- [Visualizing a Prediction Algorithm Using Power BI](https://dadataguy.medium.com/visualizing-a-prediction-algorithm-using-power-bi-6f71c20f9f9c?source=rss------data_science-5)
+- [Bounding-box viewer widget for Jupyter](https://chrispogeek.medium.com/bounding-box-viewer-widget-for-jupyter-913279265bca?source=rss------data_science-5)
+- [These Github Repositories will help you to become a better developer](https://medium.com/@monocosmo77/these-github-repositories-will-help-you-to-become-a-better-developer-43e38f3de312?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
