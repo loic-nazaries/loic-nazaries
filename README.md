@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Parametric Statistical Models](https://medium.com/@medi_seul/parametric-statistical-models-3a8863c4103f?source=rss------data_science-5)
-- [PyKeras Deep Learning Library Regression Tutorial](https://medium.com/@peterspage/pykeras-deep-learning-library-regression-tutorial-f6b314812ded?source=rss------data_science-5)
-- [Student Results SQL Practise Question](https://appumurugan.medium.com/student-results-sql-practise-question-e30798287bd2?source=rss------data_science-5)
-- [Coming soon — Courses, Mentorship, and More!](https://dutchengineer.medium.com/coming-soon-courses-mentorship-and-more-58e603df0ba5?source=rss------data_science-5)
-- [DX Is the New UX](https://towardsdatascience.com/dx-is-the-new-ux-1565304a4c82?source=rss------data_science-5)
-- [I won my 20th bronze medal by performing an EDA on Kaggle’s 2022 annual data science survey](https://tracyrenee61.medium.com/i-won-my-20th-bronze-medal-by-performing-an-eda-on-kaggles-2022-annual-data-science-survey-bc6aa8a4e279?source=rss------data_science-5)
-- [Dealing with Nominal, High Cardinality Data!](https://medium.com/@thursysatriani/dealing-with-nominal-high-cardinality-data-a8a8e3cba425?source=rss------data_science-5)
-- [An Oversimplified Way To Become A Data Scientist](https://medium.com/@Filiberto.zurita/an-oversimplified-way-to-become-a-data-scientist-4e5f51257a11?source=rss------data_science-5)
-- [Why DeepLearning?](https://medium.com/@chidubemndukwe/why-deeplearning-9e1fc9fdeae5?source=rss------data_science-5)
-- [I Coded a Tinder Bot to Automate My Dating Life. Here’s What Happened](https://medium.com/geekculture/i-coded-a-tinder-bot-to-automate-my-dating-life-heres-what-happened-4173a3f26bba?source=rss------data_science-5)
+- [Fundamentals of SQL](https://medium.com/@zach.mortenson7/fundamentals-of-sql-37e2d2c22a6a?source=rss------data_science-5)
+- [19:『團隊合作與領導團隊的技巧』](https://ai360-work.medium.com/19-%E5%9C%98%E9%9A%8A%E5%90%88%E4%BD%9C%E8%88%87%E9%A0%98%E5%B0%8E%E5%9C%98%E9%9A%8A%E7%9A%84%E6%8A%80%E5%B7%A7-d9b71c85411d?source=rss------data_science-5)
+- [Exponential Distribution](https://medium.com/@gajendra.k.s/exponential-distribution-88a681c1be32?source=rss------data_science-5)
+- [Simple Linear Models for Image Deblurring](https://medium.com/@xinyu.chen/simple-linear-models-for-image-deblurring-539316bd1f0?source=rss------data_science-5)
+- [A Deep Dive On Domain Knowledge + Data Science](https://pub.towardsai.net/a-deep-dive-on-domain-knowledge-data-science-683e871d8206?source=rss------data_science-5)
+- [Statistics 101 — Levels of Data in Statistics](https://medium.com/datum-guy/statistics-101-levels-of-data-in-statistics-fb6f70ee6?source=rss------data_science-5)
+- [How to use Tableau insights Part 2— AirBnb Data](https://medium.com/@santoshj10/how-to-use-tableau-insights-part-2-airbnb-data-fb4e4db28e85?source=rss------data_science-5)
+- [How to Connect MySQL Database in Jupyter Notebook](https://medium.com/@oyamafaith9/how-to-connect-mysql-database-in-jupyter-notebook-a45a858cc69c?source=rss------data_science-5)
+- [A Basic Indicator for Regime Detection](https://kaabar-sofien.medium.com/a-basic-indicator-for-regime-detection-ee658730e456?source=rss------data_science-5)
+- [Your first step towards data: Pilot](https://medium.com/@manasvi.prakash/your-first-step-towards-data-pilot-421c2029b78c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
