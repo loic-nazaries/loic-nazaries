@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Fundamentals of SQL](https://medium.com/@zach.mortenson7/fundamentals-of-sql-37e2d2c22a6a?source=rss------data_science-5)
-- [19:『團隊合作與領導團隊的技巧』](https://ai360-work.medium.com/19-%E5%9C%98%E9%9A%8A%E5%90%88%E4%BD%9C%E8%88%87%E9%A0%98%E5%B0%8E%E5%9C%98%E9%9A%8A%E7%9A%84%E6%8A%80%E5%B7%A7-d9b71c85411d?source=rss------data_science-5)
-- [Exponential Distribution](https://medium.com/@gajendra.k.s/exponential-distribution-88a681c1be32?source=rss------data_science-5)
-- [Simple Linear Models for Image Deblurring](https://medium.com/@xinyu.chen/simple-linear-models-for-image-deblurring-539316bd1f0?source=rss------data_science-5)
-- [A Deep Dive On Domain Knowledge + Data Science](https://pub.towardsai.net/a-deep-dive-on-domain-knowledge-data-science-683e871d8206?source=rss------data_science-5)
-- [Statistics 101 — Levels of Data in Statistics](https://medium.com/datum-guy/statistics-101-levels-of-data-in-statistics-fb6f70ee6?source=rss------data_science-5)
-- [How to use Tableau insights Part 2— AirBnb Data](https://medium.com/@santoshj10/how-to-use-tableau-insights-part-2-airbnb-data-fb4e4db28e85?source=rss------data_science-5)
-- [How to Connect MySQL Database in Jupyter Notebook](https://medium.com/@oyamafaith9/how-to-connect-mysql-database-in-jupyter-notebook-a45a858cc69c?source=rss------data_science-5)
-- [A Basic Indicator for Regime Detection](https://kaabar-sofien.medium.com/a-basic-indicator-for-regime-detection-ee658730e456?source=rss------data_science-5)
-- [Your first step towards data: Pilot](https://medium.com/@manasvi.prakash/your-first-step-towards-data-pilot-421c2029b78c?source=rss------data_science-5)
+- [Launch a Data Science Environment in the Cloud](https://medium.com/@ntoscano01/launch-a-data-science-environment-in-the-cloud-1ce267d78e88?source=rss------data_science-5)
+- [How To Compare Two Datasets](https://medium.com/geekculture/how-to-compare-two-datasets-c0bdc51062c7?source=rss------data_science-5)
+- [Showing What Happened in Counts of Atlantic Category 3–5 Hurricanes](https://medium.com/@ToDoMaxwell/showing-what-happened-in-counts-of-atlantic-category-3-5-hurricanes-6e08cc4992c3?source=rss------data_science-5)
+- [Stanley Cup Outcomes with Machine Learning — Pt. 3](https://medium.com/@ryanschraeder/stanley-cup-outcomes-with-machine-learning-pt-3-424138708131?source=rss------data_science-5)
+- [Why all scientists are not data scientists](https://medium.com/mlearning-ai/why-all-scientists-are-not-data-scientists-a99a91d12d60?source=rss------data_science-5)
+- [Undesrtand Naive Bayes algorithm in simple explanation with python code — Part 2](https://medium.com/@tpreethi19/undesrtand-naive-bayes-algorithm-in-simple-explanation-with-python-code-part-2-a2b91cbbf637?source=rss------data_science-5)
+- [bitgrit and FortyGuard Partner for Innovation](https://medium.com/bitgrit-data-science-publication/bitgrit-and-fortyguard-partner-for-innovation-8662e3fe445d?source=rss------data_science-5)
+- [Expand Your Skills with Open-Source Graph Database NebulaGraph](https://pub.towardsai.net/expand-your-skills-with-open-source-graph-database-nebulagraph-6086c2fc5a64?source=rss------data_science-5)
+- [How to Use Multiple Text Files in a Single Dataframe in Python](https://medium.com/geekculture/how-to-use-multiple-text-files-in-a-single-dataframe-in-python-db9f9a3f1c77?source=rss------data_science-5)
+- [Interview Preparation for Machine Learning Scientist/Engineer — Part 2: Neural Networks](https://medium.com/@yusongye/interview-preparation-for-machine-learning-scientist-engineer-part-2-neural-networks-9514108ce501?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
