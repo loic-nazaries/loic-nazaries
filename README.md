@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [3 Common Data Analysis Operations with 3 Common Tools](https://towardsdatascience.com/3-common-data-analysis-operations-with-3-common-tools-9288ce61a40f?source=rss-2cf6b549448------2)
 - [My Understanding of Data Science is Evolving to a New Direction](https://towardsdatascience.com/my-understanding-of-data-science-is-evolving-to-a-new-direction-5863f815dac5?source=rss-2cf6b549448------2)
 - [Pandas Sidetable Simplifies the Exploratory Data Analysis Process](https://towardsdatascience.com/pandas-sidetable-simplifies-the-exploratory-data-analysis-process-417b42eebed6?source=rss-2cf6b549448------2)
 - [Super Flexible Matplotlib Structure for Subplots](https://pub.towardsai.net/super-flexible-matplotlib-structure-for-subplots-d26b005252f1?source=rss-2cf6b549448------2)
 - [4 Things to Know to Have a Better Understanding of Matplotlib](https://towardsdatascience.com/4-things-to-know-to-have-a-better-understanding-of-matplotlib-a84ed54b3b2c?source=rss-2cf6b549448------2)
-- [3 Tricks to Prettify Matplotlib Plots](https://towardsdatascience.com/3-tricks-to-prettify-matplotlib-plots-d0a73b861c09?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
