@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Launch a Data Science Environment in the Cloud](https://medium.com/@ntoscano01/launch-a-data-science-environment-in-the-cloud-1ce267d78e88?source=rss------data_science-5)
-- [How To Compare Two Datasets](https://medium.com/geekculture/how-to-compare-two-datasets-c0bdc51062c7?source=rss------data_science-5)
-- [Showing What Happened in Counts of Atlantic Category 3–5 Hurricanes](https://medium.com/@ToDoMaxwell/showing-what-happened-in-counts-of-atlantic-category-3-5-hurricanes-6e08cc4992c3?source=rss------data_science-5)
-- [Stanley Cup Outcomes with Machine Learning — Pt. 3](https://medium.com/@ryanschraeder/stanley-cup-outcomes-with-machine-learning-pt-3-424138708131?source=rss------data_science-5)
-- [Why all scientists are not data scientists](https://medium.com/mlearning-ai/why-all-scientists-are-not-data-scientists-a99a91d12d60?source=rss------data_science-5)
-- [Undesrtand Naive Bayes algorithm in simple explanation with python code — Part 2](https://medium.com/@tpreethi19/undesrtand-naive-bayes-algorithm-in-simple-explanation-with-python-code-part-2-a2b91cbbf637?source=rss------data_science-5)
-- [bitgrit and FortyGuard Partner for Innovation](https://medium.com/bitgrit-data-science-publication/bitgrit-and-fortyguard-partner-for-innovation-8662e3fe445d?source=rss------data_science-5)
-- [Expand Your Skills with Open-Source Graph Database NebulaGraph](https://pub.towardsai.net/expand-your-skills-with-open-source-graph-database-nebulagraph-6086c2fc5a64?source=rss------data_science-5)
-- [How to Use Multiple Text Files in a Single Dataframe in Python](https://medium.com/geekculture/how-to-use-multiple-text-files-in-a-single-dataframe-in-python-db9f9a3f1c77?source=rss------data_science-5)
-- [Interview Preparation for Machine Learning Scientist/Engineer — Part 2: Neural Networks](https://medium.com/@yusongye/interview-preparation-for-machine-learning-scientist-engineer-part-2-neural-networks-9514108ce501?source=rss------data_science-5)
+- [Three critical elements of data preprocessing — Part 1](https://towardsdatascience.com/three-critical-elements-of-data-preprocessing-part-1-3c16f46f8ced?source=rss------data_science-5)
+- [Acing the ML Portion of McKinsey Data Science Interview](https://towardsdatascience.com/acing-the-ml-portion-of-mckinsey-data-science-interview-d816862733fc?source=rss------data_science-5)
+- [How I Got Started in Tech: A Data Analyst Story](https://medium.com/@sandraasagade1/how-i-got-started-in-tech-a-data-analyst-story-947ca3e5939f?source=rss------data_science-5)
+- [You Just Started a New Job and the Senior Data Scientist is Leaving. Now What?](https://towardsdatascience.com/you-just-started-a-new-job-and-the-senior-data-scientist-is-leaving-now-what-45b9c38ee9ba?source=rss------data_science-5)
+- [Google’s Audiolm: Generating Music by Hearing a Song’s Snippet](https://pub.towardsai.net/googles-audiolm-generating-music-by-hearing-a-song-s-snippet-c9512a9290cd?source=rss------data_science-5)
+- [3 Simple Steps to Import Kaggle Dataset Directly Into Google Colab](https://josiah-adesola.medium.com/3-simple-steps-to-import-kaggle-dataset-directly-into-google-colab-96428eab9678?source=rss------data_science-5)
+- [Understanding today’s Open Data Lakehouse](https://medium.com/@ahana.io/understanding-todays-open-data-lakehouse-5a14081870da?source=rss------data_science-5)
+- [My Dream Team of Technical Indicators](https://kaabar-sofien.medium.com/my-dream-team-of-technical-indicators-aa8c8268bde7?source=rss------data_science-5)
+- [Can an AI learn to identify “AI art”?](https://medium.com/@matthewmaybe/can-an-ai-learn-to-identify-ai-art-545d9d6af226?source=rss------data_science-5)
+- [Continental Today &lpar;Today’s Grinch&rpar; [Surprise].](https://medium.com/@bringamojito/continental-today-todays-grinch-surprise-88f4ac36f84e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
