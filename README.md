@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Three critical elements of data preprocessing — Part 1](https://towardsdatascience.com/three-critical-elements-of-data-preprocessing-part-1-3c16f46f8ced?source=rss------data_science-5)
-- [Acing the ML Portion of McKinsey Data Science Interview](https://towardsdatascience.com/acing-the-ml-portion-of-mckinsey-data-science-interview-d816862733fc?source=rss------data_science-5)
-- [How I Got Started in Tech: A Data Analyst Story](https://medium.com/@sandraasagade1/how-i-got-started-in-tech-a-data-analyst-story-947ca3e5939f?source=rss------data_science-5)
-- [You Just Started a New Job and the Senior Data Scientist is Leaving. Now What?](https://towardsdatascience.com/you-just-started-a-new-job-and-the-senior-data-scientist-is-leaving-now-what-45b9c38ee9ba?source=rss------data_science-5)
-- [Google’s Audiolm: Generating Music by Hearing a Song’s Snippet](https://pub.towardsai.net/googles-audiolm-generating-music-by-hearing-a-song-s-snippet-c9512a9290cd?source=rss------data_science-5)
-- [3 Simple Steps to Import Kaggle Dataset Directly Into Google Colab](https://josiah-adesola.medium.com/3-simple-steps-to-import-kaggle-dataset-directly-into-google-colab-96428eab9678?source=rss------data_science-5)
-- [Understanding today’s Open Data Lakehouse](https://medium.com/@ahana.io/understanding-todays-open-data-lakehouse-5a14081870da?source=rss------data_science-5)
-- [My Dream Team of Technical Indicators](https://kaabar-sofien.medium.com/my-dream-team-of-technical-indicators-aa8c8268bde7?source=rss------data_science-5)
-- [Can an AI learn to identify “AI art”?](https://medium.com/@matthewmaybe/can-an-ai-learn-to-identify-ai-art-545d9d6af226?source=rss------data_science-5)
-- [Continental Today &lpar;Today’s Grinch&rpar; [Surprise].](https://medium.com/@bringamojito/continental-today-todays-grinch-surprise-88f4ac36f84e?source=rss------data_science-5)
+- [Top 5 BEST CLOUD CERTIFICATIONS TO PURSUE IN 2022/23](https://medium.com/@bayramgemlik/top-5-best-cloud-certifications-to-pursue-in-2022-23-d722d9bc5245?source=rss------data_science-5)
+- [How Model Predictive Control works part3&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/how-model-predictive-control-works-part3-artificial-intelligence-8806393bd08?source=rss------data_science-5)
+- [How Model Predictive Control works part2&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/how-model-predictive-control-works-part2-artificial-intelligence-4f9373f8f333?source=rss------data_science-5)
+- [Big Tech employees are TikToking on the job](https://medium.com/codex/big-tech-employees-are-tiktoking-on-the-job-97c1b3a62154?source=rss------data_science-5)
+- [How Model Predictive Control works part1&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/how-model-predictive-control-works-part1-artificial-intelligence-f99429556771?source=rss------data_science-5)
+- [Data Scientist Skills](https://johnvastola.medium.com/interested-in-becoming-a-data-scientist-949afe68c412?source=rss------data_science-5)
+- [The U.S. plan to avoid extreme climate change is running out of time](https://medium.com/@bayramgemlik/the-u-s-plan-to-avoid-extreme-climate-change-is-running-out-of-time-f68a6716eec7?source=rss------data_science-5)
+- [How I Applied for Financial Aid On Coursera-IBM Data ScienceProfesional Certificate](https://medium.com/@abelesther/how-i-applied-for-financial-aid-on-coursera-ibm-data-scienceprofesional-certificate-65a5d6aac94f?source=rss------data_science-5)
+- [How To Crack the Probability Interview Questions from FAANG Company &lpar;with 3 Examples&rpar;](https://medium.com/@mina_liu/how-to-crack-the-probability-interview-questions-from-faang-company-with-3-examples-111f269f456c?source=rss------data_science-5)
+- [&lpar;--&rpar;  ?](https://medium.com/@eloutmadiabderrahim/-dab5a4c84964?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
