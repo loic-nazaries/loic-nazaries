@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Top 5 BEST CLOUD CERTIFICATIONS TO PURSUE IN 2022/23](https://medium.com/@bayramgemlik/top-5-best-cloud-certifications-to-pursue-in-2022-23-d722d9bc5245?source=rss------data_science-5)
-- [How Model Predictive Control works part3&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/how-model-predictive-control-works-part3-artificial-intelligence-8806393bd08?source=rss------data_science-5)
-- [How Model Predictive Control works part2&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/how-model-predictive-control-works-part2-artificial-intelligence-4f9373f8f333?source=rss------data_science-5)
-- [Big Tech employees are TikToking on the job](https://medium.com/codex/big-tech-employees-are-tiktoking-on-the-job-97c1b3a62154?source=rss------data_science-5)
-- [How Model Predictive Control works part1&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/how-model-predictive-control-works-part1-artificial-intelligence-f99429556771?source=rss------data_science-5)
-- [Data Scientist Skills](https://johnvastola.medium.com/interested-in-becoming-a-data-scientist-949afe68c412?source=rss------data_science-5)
-- [The U.S. plan to avoid extreme climate change is running out of time](https://medium.com/@bayramgemlik/the-u-s-plan-to-avoid-extreme-climate-change-is-running-out-of-time-f68a6716eec7?source=rss------data_science-5)
-- [How I Applied for Financial Aid On Coursera-IBM Data ScienceProfesional Certificate](https://medium.com/@abelesther/how-i-applied-for-financial-aid-on-coursera-ibm-data-scienceprofesional-certificate-65a5d6aac94f?source=rss------data_science-5)
-- [How To Crack the Probability Interview Questions from FAANG Company &lpar;with 3 Examples&rpar;](https://medium.com/@mina_liu/how-to-crack-the-probability-interview-questions-from-faang-company-with-3-examples-111f269f456c?source=rss------data_science-5)
-- [&lpar;--&rpar;  ?](https://medium.com/@eloutmadiabderrahim/-dab5a4c84964?source=rss------data_science-5)
+- [What are the different data types?](https://medium.com/@glittle11/what-are-the-different-data-types-252a93b7c0f2?source=rss------data_science-5)
+- [Powerlifting Analytics Series: Part 1](https://medium.com/@PedroLinsMMC/powerlifting-analytics-series-part-1-d7f1e39146d0?source=rss------data_science-5)
+- [Supercharge Technical Analysis with Machine Learning](https://medium.datadriveninvestor.com/supercharge-technical-analysis-with-machine-learning-af200909d824?source=rss------data_science-5)
+- [How to extract football databases by APIs using the R language.](https://medium.com/@thiagossilva17/how-to-extract-football-databases-by-apis-using-the-r-language-5a45f4c61079?source=rss------data_science-5)
+- [A Beginners Guide To SSH](https://levelup.gitconnected.com/a-beginners-guide-to-ssh-fb4edbe91233?source=rss------data_science-5)
+- [Exploring Evolutionary Algorithms part2&lpar;Computer Science&rpar;](https://medium.com/@monocosmo77/exploring-evolutionary-algorithms-part2-computer-science-9b1ee41935f6?source=rss------data_science-5)
+- [Exploring Evolutionary Algorithms part1&lpar;Computer Science&rpar;](https://medium.com/@monocosmo77/exploring-evolutionary-algorithms-part1-computer-science-8fbad8bceb35?source=rss------data_science-5)
+- [State of Homomorphic Encryption part1&lpar;Future Technology&rpar;](https://medium.com/@monocosmo77/state-of-homomorphic-encryption-part1-future-technology-3eb76a4bf61a?source=rss------data_science-5)
+- [How to use Python in Google Colab integrated directly with Power BI to analyze patent data](https://medium.com/@lawrenceteixeira/how-to-use-python-in-google-colab-integrated-directly-with-power-bi-to-analyze-patent-data-d2f9e905572?source=rss------data_science-5)
+- [How Inverse Modeling works part2](https://medium.com/@monocosmo77/how-inverse-modeling-works-part2-ca9a972b376c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
