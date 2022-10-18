@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What are the different data types?](https://medium.com/@glittle11/what-are-the-different-data-types-252a93b7c0f2?source=rss------data_science-5)
-- [Powerlifting Analytics Series: Part 1](https://medium.com/@PedroLinsMMC/powerlifting-analytics-series-part-1-d7f1e39146d0?source=rss------data_science-5)
-- [Supercharge Technical Analysis with Machine Learning](https://medium.datadriveninvestor.com/supercharge-technical-analysis-with-machine-learning-af200909d824?source=rss------data_science-5)
-- [How to extract football databases by APIs using the R language.](https://medium.com/@thiagossilva17/how-to-extract-football-databases-by-apis-using-the-r-language-5a45f4c61079?source=rss------data_science-5)
-- [A Beginners Guide To SSH](https://levelup.gitconnected.com/a-beginners-guide-to-ssh-fb4edbe91233?source=rss------data_science-5)
-- [Exploring Evolutionary Algorithms part2&lpar;Computer Science&rpar;](https://medium.com/@monocosmo77/exploring-evolutionary-algorithms-part2-computer-science-9b1ee41935f6?source=rss------data_science-5)
-- [Exploring Evolutionary Algorithms part1&lpar;Computer Science&rpar;](https://medium.com/@monocosmo77/exploring-evolutionary-algorithms-part1-computer-science-8fbad8bceb35?source=rss------data_science-5)
-- [State of Homomorphic Encryption part1&lpar;Future Technology&rpar;](https://medium.com/@monocosmo77/state-of-homomorphic-encryption-part1-future-technology-3eb76a4bf61a?source=rss------data_science-5)
-- [How to use Python in Google Colab integrated directly with Power BI to analyze patent data](https://medium.com/@lawrenceteixeira/how-to-use-python-in-google-colab-integrated-directly-with-power-bi-to-analyze-patent-data-d2f9e905572?source=rss------data_science-5)
-- [How Inverse Modeling works part2](https://medium.com/@monocosmo77/how-inverse-modeling-works-part2-ca9a972b376c?source=rss------data_science-5)
+- [Run your .NET code in Azure Data Factory using Azure Batch](https://muafzal.medium.com/run-your-net-code-in-azure-data-factory-using-azure-batch-ecd2494c16f2?source=rss------data_science-5)
+- [Optimize Sales Funnel and Increase Revenue with Machine Learning in Python](https://moez-62905.medium.com/optimize-sales-funnel-and-increase-revenue-with-machine-learning-in-python-9af57c1e5776?source=rss------data_science-5)
+- [Research Papers based on Android Devices part1&lpar;Computer Programming&rpar;](https://medium.com/@monocosmo77/research-papers-based-on-android-devices-part1-computer-programming-9310fe1c51bf?source=rss------data_science-5)
+- [Perpetual Python](https://python.plainenglish.io/perpetual-python-e2647f35951c?source=rss------data_science-5)
+- [20:『創新創業家成功的起點』](https://ai360-work.medium.com/20-%E5%89%B5%E6%96%B0%E5%89%B5%E6%A5%AD%E5%AE%B6%E6%88%90%E5%8A%9F%E7%9A%84%E8%B5%B7%E9%BB%9E-51dd16825fd?source=rss------data_science-5)
+- [multi-armed bandit + graph ?](https://medium.com/@jeongiitae6/multi-armed-bandit-graph-75e505d6df6f?source=rss------data_science-5)
+- [Is Medical Coding Really the Rising Star of Data Science?](https://kurt-celsius.medium.com/is-medical-coding-really-the-rising-star-of-data-science-8a47ba9d1558?source=rss------data_science-5)
+- [How Cyber-Physical Systems works part3&lpar;Computer Science&rpar;](https://medium.com/@monocosmo77/how-cyber-physical-systems-works-part3-computer-science-fd8028fbc8af?source=rss------data_science-5)
+- [How Cyber-Physical Systems works part2&lpar;Computer Science&rpar;](https://medium.com/@monocosmo77/how-cyber-physical-systems-works-part2-computer-science-761f618a1cad?source=rss------data_science-5)
+- [How Cyber-Physical Systems works part1&lpar;Computer Science&rpar;](https://medium.com/@monocosmo77/how-cyber-physical-systems-works-part1-computer-science-b77a0e6c8bba?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
