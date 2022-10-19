@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Run your .NET code in Azure Data Factory using Azure Batch](https://muafzal.medium.com/run-your-net-code-in-azure-data-factory-using-azure-batch-ecd2494c16f2?source=rss------data_science-5)
-- [Optimize Sales Funnel and Increase Revenue with Machine Learning in Python](https://moez-62905.medium.com/optimize-sales-funnel-and-increase-revenue-with-machine-learning-in-python-9af57c1e5776?source=rss------data_science-5)
-- [Research Papers based on Android Devices part1&lpar;Computer Programming&rpar;](https://medium.com/@monocosmo77/research-papers-based-on-android-devices-part1-computer-programming-9310fe1c51bf?source=rss------data_science-5)
-- [Perpetual Python](https://python.plainenglish.io/perpetual-python-e2647f35951c?source=rss------data_science-5)
-- [20:『創新創業家成功的起點』](https://ai360-work.medium.com/20-%E5%89%B5%E6%96%B0%E5%89%B5%E6%A5%AD%E5%AE%B6%E6%88%90%E5%8A%9F%E7%9A%84%E8%B5%B7%E9%BB%9E-51dd16825fd?source=rss------data_science-5)
-- [multi-armed bandit + graph ?](https://medium.com/@jeongiitae6/multi-armed-bandit-graph-75e505d6df6f?source=rss------data_science-5)
-- [Is Medical Coding Really the Rising Star of Data Science?](https://kurt-celsius.medium.com/is-medical-coding-really-the-rising-star-of-data-science-8a47ba9d1558?source=rss------data_science-5)
-- [How Cyber-Physical Systems works part3&lpar;Computer Science&rpar;](https://medium.com/@monocosmo77/how-cyber-physical-systems-works-part3-computer-science-fd8028fbc8af?source=rss------data_science-5)
-- [How Cyber-Physical Systems works part2&lpar;Computer Science&rpar;](https://medium.com/@monocosmo77/how-cyber-physical-systems-works-part2-computer-science-761f618a1cad?source=rss------data_science-5)
-- [How Cyber-Physical Systems works part1&lpar;Computer Science&rpar;](https://medium.com/@monocosmo77/how-cyber-physical-systems-works-part1-computer-science-b77a0e6c8bba?source=rss------data_science-5)
+- [Customizing Scikit-Learn Pipelines: Write Your Own Transformer](https://towardsdatascience.com/customizing-scikit-learn-pipelines-write-your-own-transformer-fdaaefc5e5d7?source=rss------data_science-5)
+- [Three Critical Elements of Data Preprocessing — Part 3](https://towardsdatascience.com/three-critical-elements-of-data-preprocessing-part-3-6a7da681ae16?source=rss------data_science-5)
+- [Pitadas de tecnologia que fazem você ser um profissional diferenciado: Os dados do &quot;Unseen World&quot;](https://irineuantunes.medium.com/pitadas-de-tecnologia-que-fazem-voc%C3%AA-ser-um-profissional-diferenciado-os-dados-do-unseen-world-2d0d507369ac?source=rss------data_science-5)
+- [Recent developments in the field of Internet of Things part3](https://medium.com/@monocosmo77/recent-developments-in-the-field-of-internet-of-things-part3-1fa4258e258f?source=rss------data_science-5)
+- [Practical Pandas for Data Engineering/Science](https://medium.com/@santoshj10/practical-pandas-for-data-engineering-science-1cc23d24c8af?source=rss------data_science-5)
+- [Data Storytelling and Machine Learning with Dr. Kirk Borne](https://vincentgranville.medium.com/data-storytelling-and-machine-learning-with-dr-kirk-borne-c2d01283897c?source=rss------data_science-5)
+- [3 TV Shows &lpar;for Programmers&rpar; I’d Rewatch Instead of Watching Netflix](https://medium.com/geekculture/3-tv-shows-for-programmers-id-rewatch-instead-of-watching-netflix-9ed7295be015?source=rss------data_science-5)
+- [The Heatmap Technical Indicator](https://kaabar-sofien.medium.com/the-heatmap-technical-indicator-da0bbc894065?source=rss------data_science-5)
+- [How Independent Component Analysis works part3&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/how-independent-component-analysis-works-part3-machine-learning-bade7e6d9b57?source=rss------data_science-5)
+- [How Independent Component Analysis works part2&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/how-independent-component-analysis-works-part2-machine-learning-51e6a826fbbf?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
