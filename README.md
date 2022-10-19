@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [A Deep Dive into Convolutional Neural Networks](https://heartbeat.comet.ml/a-deep-dive-into-convolutional-neural-networks-7e1994ff7422?source=rss-2cf6b549448------2)
 - [Scikit-Learn’s New API Simplifies Data Preprocessing](https://towardsdatascience.com/scikit-learns-new-api-simplifies-data-preprocessing-56bded1effaf?source=rss-2cf6b549448------2)
 - [How I Automated a Tedious Task with Python](https://towardsdatascience.com/how-i-automated-a-tedious-task-with-python-3c48f492575?source=rss-2cf6b549448------2)
 - [Three Common Data Analysis Operations with Three Common Tools](https://towardsdatascience.com/3-common-data-analysis-operations-with-3-common-tools-9288ce61a40f?source=rss-2cf6b549448------2)
 - [My Understanding of Data Science is Evolving to a New Direction](https://towardsdatascience.com/my-understanding-of-data-science-is-evolving-to-a-new-direction-5863f815dac5?source=rss-2cf6b549448------2)
-- [Pandas Sidetable Simplifies the Exploratory Data Analysis Process](https://towardsdatascience.com/pandas-sidetable-simplifies-the-exploratory-data-analysis-process-417b42eebed6?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
