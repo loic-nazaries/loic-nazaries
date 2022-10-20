@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Customizing Scikit-Learn Pipelines: Write Your Own Transformer](https://towardsdatascience.com/customizing-scikit-learn-pipelines-write-your-own-transformer-fdaaefc5e5d7?source=rss------data_science-5)
-- [Three Critical Elements of Data Preprocessing — Part 3](https://towardsdatascience.com/three-critical-elements-of-data-preprocessing-part-3-6a7da681ae16?source=rss------data_science-5)
-- [Pitadas de tecnologia que fazem você ser um profissional diferenciado: Os dados do &quot;Unseen World&quot;](https://irineuantunes.medium.com/pitadas-de-tecnologia-que-fazem-voc%C3%AA-ser-um-profissional-diferenciado-os-dados-do-unseen-world-2d0d507369ac?source=rss------data_science-5)
-- [Recent developments in the field of Internet of Things part3](https://medium.com/@monocosmo77/recent-developments-in-the-field-of-internet-of-things-part3-1fa4258e258f?source=rss------data_science-5)
-- [Practical Pandas for Data Engineering/Science](https://medium.com/@santoshj10/practical-pandas-for-data-engineering-science-1cc23d24c8af?source=rss------data_science-5)
-- [Data Storytelling and Machine Learning with Dr. Kirk Borne](https://vincentgranville.medium.com/data-storytelling-and-machine-learning-with-dr-kirk-borne-c2d01283897c?source=rss------data_science-5)
-- [3 TV Shows &lpar;for Programmers&rpar; I’d Rewatch Instead of Watching Netflix](https://medium.com/geekculture/3-tv-shows-for-programmers-id-rewatch-instead-of-watching-netflix-9ed7295be015?source=rss------data_science-5)
-- [The Heatmap Technical Indicator](https://kaabar-sofien.medium.com/the-heatmap-technical-indicator-da0bbc894065?source=rss------data_science-5)
-- [How Independent Component Analysis works part3&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/how-independent-component-analysis-works-part3-machine-learning-bade7e6d9b57?source=rss------data_science-5)
-- [How Independent Component Analysis works part2&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/how-independent-component-analysis-works-part2-machine-learning-51e6a826fbbf?source=rss------data_science-5)
+- [Comprehensive Guide on Data Wrangling](https://medium.com/@muhrasulmm3/comprehensive-guide-on-data-wrangling-eac65ac8f2ba?source=rss------data_science-5)
+- [Theoretical concepts of machine learning using sklearn](https://tracyrenee61.medium.com/theoretical-concepts-of-machine-learning-using-sklearn-dcbb2279eb75?source=rss------data_science-5)
+- [總結：『創新創業家成功的起點』](https://ai360-work.medium.com/%E7%B8%BD%E7%B5%90-%E5%89%B5%E6%96%B0%E5%89%B5%E6%A5%AD%E5%AE%B6%E6%88%90%E5%8A%9F%E7%9A%84%E8%B5%B7%E9%BB%9E-cb8267ba0ab0?source=rss------data_science-5)
+- [Standard Normal Distribution](https://medium.com/@gajendra.k.s/standard-normal-distribution-9dc0341d6336?source=rss------data_science-5)
+- [7 Useful JavaScript Libraries To Build a Real-Time Web App.](https://levelup.gitconnected.com/7-useful-javascript-libraries-to-build-a-real-time-web-app-1ce04d8b9203?source=rss------data_science-5)
+- [clustering python sklearn kmeans](https://medium.com/@OkDataDriven/clustering-python-sklearn-kmeans-57011cd86a1b?source=rss------data_science-5)
+- [Breakout Confirmation Using the RSI in Python](https://kaabar-sofien.medium.com/breakout-confirmation-using-the-rsi-in-python-14062e484a5c?source=rss------data_science-5)
+- [5 Tips to Improve your Graphs](https://medium.com/mlearning-ai/5-tips-to-improve-your-graphs-54dfeb2553de?source=rss------data_science-5)
+- [What is Decision Tree?](https://medium.com/@tpreethi19/what-is-decision-tree-9793833bd87a?source=rss------data_science-5)
+- [Analista de Dados: 5 Principais Habilidades](https://medium.com/@wagnerdsc/analista-de-dados-5-principais-habilidades-f3ae7f573ce6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
