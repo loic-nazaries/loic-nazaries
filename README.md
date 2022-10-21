@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Comprehensive Guide on Data Wrangling](https://medium.com/@muhrasulmm3/comprehensive-guide-on-data-wrangling-eac65ac8f2ba?source=rss------data_science-5)
-- [Theoretical concepts of machine learning using sklearn](https://tracyrenee61.medium.com/theoretical-concepts-of-machine-learning-using-sklearn-dcbb2279eb75?source=rss------data_science-5)
-- [總結：『創新創業家成功的起點』](https://ai360-work.medium.com/%E7%B8%BD%E7%B5%90-%E5%89%B5%E6%96%B0%E5%89%B5%E6%A5%AD%E5%AE%B6%E6%88%90%E5%8A%9F%E7%9A%84%E8%B5%B7%E9%BB%9E-cb8267ba0ab0?source=rss------data_science-5)
-- [Standard Normal Distribution](https://medium.com/@gajendra.k.s/standard-normal-distribution-9dc0341d6336?source=rss------data_science-5)
-- [7 Useful JavaScript Libraries To Build a Real-Time Web App.](https://levelup.gitconnected.com/7-useful-javascript-libraries-to-build-a-real-time-web-app-1ce04d8b9203?source=rss------data_science-5)
-- [clustering python sklearn kmeans](https://medium.com/@OkDataDriven/clustering-python-sklearn-kmeans-57011cd86a1b?source=rss------data_science-5)
-- [Breakout Confirmation Using the RSI in Python](https://kaabar-sofien.medium.com/breakout-confirmation-using-the-rsi-in-python-14062e484a5c?source=rss------data_science-5)
-- [5 Tips to Improve your Graphs](https://medium.com/mlearning-ai/5-tips-to-improve-your-graphs-54dfeb2553de?source=rss------data_science-5)
-- [What is Decision Tree?](https://medium.com/@tpreethi19/what-is-decision-tree-9793833bd87a?source=rss------data_science-5)
-- [Analista de Dados: 5 Principais Habilidades](https://medium.com/@wagnerdsc/analista-de-dados-5-principais-habilidades-f3ae7f573ce6?source=rss------data_science-5)
+- [How Graph Convolution works part1&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/how-graph-convolution-works-part1-machine-learning-c6c5a45f8dfb?source=rss------data_science-5)
+- [State of Collaborative Filtering in 2022 part2](https://medium.com/@monocosmo77/state-of-collaborative-filtering-in-2022-part2-a8aa100d6ba3?source=rss------data_science-5)
+- [State of Collaborative Filtering in 2022 part1](https://medium.com/@monocosmo77/state-of-collaborative-filtering-in-2022-part1-b1eec714ee2e?source=rss------data_science-5)
+- [Understanding the concept of Click-Through Rate Prediction part3&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/understanding-the-concept-of-click-through-rate-prediction-part3-artificial-intelligence-52da668a6169?source=rss------data_science-5)
+- [Understanding the concept of Click-Through Rate Prediction part2&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/understanding-the-concept-of-click-through-rate-prediction-part2-artificial-intelligence-bc0ef45b0386?source=rss------data_science-5)
+- [Understanding the concept of Click-Through Rate Prediction part1&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/understanding-the-concept-of-click-through-rate-prediction-part1-artificial-intelligence-34e0ee41b768?source=rss------data_science-5)
+- [How Large Language Models operate part3&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/how-large-language-models-operate-part3-artificial-intelligence-470db1b60c5c?source=rss------data_science-5)
+- [How Large Language Models operate part2&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/how-large-language-models-operate-part2-artificial-intelligence-170ca317ceee?source=rss------data_science-5)
+- [How Large Language Models operate part1&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/how-large-language-models-operate-part1-artificial-intelligence-8deb82bd6352?source=rss------data_science-5)
+- [Understanding how Feature Selection is utilised part3&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/understanding-how-feature-selection-is-utilised-part3-artificial-intelligence-5a2a72a8429a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
