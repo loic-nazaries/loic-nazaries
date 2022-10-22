@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How Graph Convolution works part1&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/how-graph-convolution-works-part1-machine-learning-c6c5a45f8dfb?source=rss------data_science-5)
-- [State of Collaborative Filtering in 2022 part2](https://medium.com/@monocosmo77/state-of-collaborative-filtering-in-2022-part2-a8aa100d6ba3?source=rss------data_science-5)
-- [State of Collaborative Filtering in 2022 part1](https://medium.com/@monocosmo77/state-of-collaborative-filtering-in-2022-part1-b1eec714ee2e?source=rss------data_science-5)
-- [Understanding the concept of Click-Through Rate Prediction part3&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/understanding-the-concept-of-click-through-rate-prediction-part3-artificial-intelligence-52da668a6169?source=rss------data_science-5)
-- [Understanding the concept of Click-Through Rate Prediction part2&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/understanding-the-concept-of-click-through-rate-prediction-part2-artificial-intelligence-bc0ef45b0386?source=rss------data_science-5)
-- [Understanding the concept of Click-Through Rate Prediction part1&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/understanding-the-concept-of-click-through-rate-prediction-part1-artificial-intelligence-34e0ee41b768?source=rss------data_science-5)
-- [How Large Language Models operate part3&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/how-large-language-models-operate-part3-artificial-intelligence-470db1b60c5c?source=rss------data_science-5)
-- [How Large Language Models operate part2&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/how-large-language-models-operate-part2-artificial-intelligence-170ca317ceee?source=rss------data_science-5)
-- [How Large Language Models operate part1&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/how-large-language-models-operate-part1-artificial-intelligence-8deb82bd6352?source=rss------data_science-5)
-- [Understanding how Feature Selection is utilised part3&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/understanding-how-feature-selection-is-utilised-part3-artificial-intelligence-5a2a72a8429a?source=rss------data_science-5)
+- [How Stochastic Gradient Descent works part1&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/how-stochastic-gradient-descent-works-part1-machine-learning-70d40236e9a7?source=rss------data_science-5)
+- [Characteristics of White Matter in the Brain part2&lpar;Neuroscience&rpar;](https://medium.com/@monocosmo77/characteristics-of-white-matter-in-the-brain-part2-neuroscience-87e49f9a464a?source=rss------data_science-5)
+- [Exploring Monte Carlo Simulations in detail part2&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/exploring-monte-carlo-simulations-in-detail-part2-artificial-intelligence-955a264ecf34?source=rss------data_science-5)
+- [Exploring Monte Carlo Simulations in detail part1&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/exploring-monte-carlo-simulations-in-detail-part1-artificial-intelligence-b20dfe199a8d?source=rss------data_science-5)
+- [How Pheromones work in the human body part2&lpar;Human biology&rpar;](https://medium.com/@monocosmo77/how-pheromones-work-in-the-human-body-part2-human-biology-88f94ede1f60?source=rss------data_science-5)
+- [Understanding Lactose Intolerance using research part2&lpar;Human Biology&rpar;](https://medium.com/@monocosmo77/understanding-lactose-intolerance-using-research-part2-human-biology-cf99a94a6343?source=rss------data_science-5)
+- [What is MindsDB?](https://medium.com/@okekeebubechukwu08/what-is-mindsdb-b6862af21492?source=rss------data_science-5)
+- [Airbnb Property Shopping the Data Scientist Way](https://husseinahmed-79983.medium.com/airbnb-property-shopping-the-data-scientist-way-b86abd992787?source=rss------data_science-5)
+- [Why is STATISTICS important in Data science](https://medium.com/@babadeolayinka/why-is-statistics-important-in-data-science-ff514d751803?source=rss------data_science-5)
+- [Why I Am Doing a Data Science Bootcamp After A Year of Self-Learning to Code](https://medium.com/@nfqrcc/why-i-am-doing-a-data-science-bootcamp-after-a-year-of-self-learning-to-code-44d8b70a1ad3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
