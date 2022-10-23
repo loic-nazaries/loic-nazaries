@@ -121,11 +121,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [Scikit-learn 1.1 Comes with an Improved OneHotEncoder](https://towardsdatascience.com/scikit-learn-1-1-comes-with-an-improved-onehotencoder-5a1f939da190?source=rss-2cf6b549448------2)
 - [7 Functions You Can Use to Create New Columns in a Pandas DataFrame](https://towardsdatascience.com/7-functions-you-can-use-to-create-new-columns-in-a-pandas-dataframe-a6b480cf8b30?source=rss-2cf6b549448------2)
 - [A Deep Dive into Convolutional Neural Networks](https://heartbeat.comet.ml/a-deep-dive-into-convolutional-neural-networks-7e1994ff7422?source=rss-2cf6b549448------2)
 - [Scikit-Learn’s New API Simplifies Data Preprocessing](https://sonery.medium.com/scikit-learns-new-api-simplifies-data-preprocessing-56bded1effaf?source=rss-2cf6b549448------2)
 - [How I Automated a Tedious Task with Python](https://towardsdatascience.com/how-i-automated-a-tedious-task-with-python-3c48f492575?source=rss-2cf6b549448------2)
-- [Three Common Data Analysis Operations with Three Common Tools](https://towardsdatascience.com/3-common-data-analysis-operations-with-3-common-tools-9288ce61a40f?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
