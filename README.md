@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How Stochastic Gradient Descent works part1&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/how-stochastic-gradient-descent-works-part1-machine-learning-70d40236e9a7?source=rss------data_science-5)
-- [Characteristics of White Matter in the Brain part2&lpar;Neuroscience&rpar;](https://medium.com/@monocosmo77/characteristics-of-white-matter-in-the-brain-part2-neuroscience-87e49f9a464a?source=rss------data_science-5)
-- [Exploring Monte Carlo Simulations in detail part2&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/exploring-monte-carlo-simulations-in-detail-part2-artificial-intelligence-955a264ecf34?source=rss------data_science-5)
-- [Exploring Monte Carlo Simulations in detail part1&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/exploring-monte-carlo-simulations-in-detail-part1-artificial-intelligence-b20dfe199a8d?source=rss------data_science-5)
-- [How Pheromones work in the human body part2&lpar;Human biology&rpar;](https://medium.com/@monocosmo77/how-pheromones-work-in-the-human-body-part2-human-biology-88f94ede1f60?source=rss------data_science-5)
-- [Understanding Lactose Intolerance using research part2&lpar;Human Biology&rpar;](https://medium.com/@monocosmo77/understanding-lactose-intolerance-using-research-part2-human-biology-cf99a94a6343?source=rss------data_science-5)
-- [What is MindsDB?](https://medium.com/@okekeebubechukwu08/what-is-mindsdb-b6862af21492?source=rss------data_science-5)
-- [Airbnb Property Shopping the Data Scientist Way](https://husseinahmed-79983.medium.com/airbnb-property-shopping-the-data-scientist-way-b86abd992787?source=rss------data_science-5)
-- [Why is STATISTICS important in Data science](https://medium.com/@babadeolayinka/why-is-statistics-important-in-data-science-ff514d751803?source=rss------data_science-5)
-- [Why I Am Doing a Data Science Bootcamp After A Year of Self-Learning to Code](https://medium.com/@nfqrcc/why-i-am-doing-a-data-science-bootcamp-after-a-year-of-self-learning-to-code-44d8b70a1ad3?source=rss------data_science-5)
+- [Window Functions in SQL — 1](https://medium.com/@ozdasfurkan/window-functions-in-sql-1-b7989268450c?source=rss------data_science-5)
+- [Delta Airlines Marketing Campaign &lpar;Post-pandemic&rpar;](https://janetlinx.medium.com/delta-airlines-marketing-campaign-post-pandemic-bf2b1927dcca?source=rss------data_science-5)
+- [Continental Today &lpar;Today’s Cruella&rpar; [Chase].](https://medium.com/@bringamojito/continental-today-todays-cruella-chase-f1c5014e171e?source=rss------data_science-5)
+- [Big Data Analysis at Home: AWS S3 to Python](https://medium.com/@weonhyeok.chung/big-data-analysis-at-home-aws-bucket-to-python-69d7ecfb5872?source=rss------data_science-5)
+- [The Science &lpar;and Art&rpar; of Estimating Price Elasticities](https://arminkakas.medium.com/the-science-and-art-of-estimating-price-elasticities-f182bb56e6c4?source=rss------data_science-5)
+- [Hábito de cuidados com a pele cresce no Brasil](https://medium.com/@lvidals/h%C3%A1bito-de-cuidados-com-a-pele-cresce-no-brasil-8c653b0e7a2c?source=rss------data_science-5)
+- [ARE SUNDAYS SUNNIER?](https://dmagnifico.medium.com/are-sundays-sunnier-a298868858f8?source=rss------data_science-5)
+- [Why you should make a blog about data science](https://medium.com/@milana.shxanukova15/why-you-should-make-a-blog-about-data-science-375fd1bb743d?source=rss------data_science-5)
+- [Creating Groups In Power BI](https://medium.com/@m.mishra2403/creating-groups-in-power-bi-7437ff491837?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
