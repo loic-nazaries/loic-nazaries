@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Window Functions in SQL — 1](https://medium.com/@ozdasfurkan/window-functions-in-sql-1-b7989268450c?source=rss------data_science-5)
-- [Delta Airlines Marketing Campaign &lpar;Post-pandemic&rpar;](https://janetlinx.medium.com/delta-airlines-marketing-campaign-post-pandemic-bf2b1927dcca?source=rss------data_science-5)
-- [Continental Today &lpar;Today’s Cruella&rpar; [Chase].](https://medium.com/@bringamojito/continental-today-todays-cruella-chase-f1c5014e171e?source=rss------data_science-5)
-- [Big Data Analysis at Home: AWS S3 to Python](https://medium.com/@weonhyeok.chung/big-data-analysis-at-home-aws-bucket-to-python-69d7ecfb5872?source=rss------data_science-5)
-- [The Science &lpar;and Art&rpar; of Estimating Price Elasticities](https://arminkakas.medium.com/the-science-and-art-of-estimating-price-elasticities-f182bb56e6c4?source=rss------data_science-5)
-- [Hábito de cuidados com a pele cresce no Brasil](https://medium.com/@lvidals/h%C3%A1bito-de-cuidados-com-a-pele-cresce-no-brasil-8c653b0e7a2c?source=rss------data_science-5)
-- [ARE SUNDAYS SUNNIER?](https://dmagnifico.medium.com/are-sundays-sunnier-a298868858f8?source=rss------data_science-5)
-- [Why you should make a blog about data science](https://medium.com/@milana.shxanukova15/why-you-should-make-a-blog-about-data-science-375fd1bb743d?source=rss------data_science-5)
-- [Creating Groups In Power BI](https://medium.com/@m.mishra2403/creating-groups-in-power-bi-7437ff491837?source=rss------data_science-5)
+- [The Complete Excel, Data Science, Machine Learning Online Course Bundle](https://medium.com/@Humble_Bundle_Partner_Blog/the-complete-excel-data-science-machine-learning-online-course-bundle-4b6b9407e8a1?source=rss------data_science-5)
+- [30 days of Data Science - Machine Learning](https://nkem-nwatu.medium.com/30-days-of-data-science-machine-learning-35fe5ad8294f?source=rss------data_science-5)
+- [How I Became a Data Analyst](https://medium.com/@andrew.m.singh3/how-i-became-a-data-analyst-8c21f584e9b5?source=rss------data_science-5)
+- [My GSoC ’22 Journey @MetaBrainz: 18 weeks in 18 minutes](https://medium.com/@PrathameshGhatole/my-gsoc-22-journey-metabrainz-18-weeks-in-18-minutes-166128d6afcf?source=rss------data_science-5)
+- [My Second SQL Project — Complex Queries Using Joins](https://medium.com/@andrew.m.singh3/my-second-sql-project-complex-queries-using-joins-f00b52ad5b59?source=rss------data_science-5)
+- [The Premier Stochastic Oscillator](https://kaabar-sofien.medium.com/the-premier-stochastic-oscillator-2f4fe56343b3?source=rss------data_science-5)
+- [Go 1.19 Is In The Future](https://tomaszs2.medium.com/go-1-19-is-in-the-future-dacc9d0c1851?source=rss------data_science-5)
+- [Custom criteria on random forest](https://medium.com/@tadashi-mori/custom-criteria-on-random-forest-9498b57e9cd1?source=rss------data_science-5)
+- [Tipping](https://rmckeon.medium.com/tipping-cd2771642f29?source=rss------data_science-5)
+- [Miraculous Ladybug | Most Watched Episode](https://medium.com/@saeedhamid500/miraculous-ladybug-most-watched-episode-ad85321657d8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
