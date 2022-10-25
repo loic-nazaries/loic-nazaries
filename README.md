@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Complete Excel, Data Science, Machine Learning Online Course Bundle](https://medium.com/@Humble_Bundle_Partner_Blog/the-complete-excel-data-science-machine-learning-online-course-bundle-4b6b9407e8a1?source=rss------data_science-5)
-- [30 days of Data Science - Machine Learning](https://nkem-nwatu.medium.com/30-days-of-data-science-machine-learning-35fe5ad8294f?source=rss------data_science-5)
-- [How I Became a Data Analyst](https://medium.com/@andrew.m.singh3/how-i-became-a-data-analyst-8c21f584e9b5?source=rss------data_science-5)
-- [My GSoC ’22 Journey @MetaBrainz: 18 weeks in 18 minutes](https://medium.com/@PrathameshGhatole/my-gsoc-22-journey-metabrainz-18-weeks-in-18-minutes-166128d6afcf?source=rss------data_science-5)
-- [My Second SQL Project — Complex Queries Using Joins](https://medium.com/@andrew.m.singh3/my-second-sql-project-complex-queries-using-joins-f00b52ad5b59?source=rss------data_science-5)
-- [The Premier Stochastic Oscillator](https://kaabar-sofien.medium.com/the-premier-stochastic-oscillator-2f4fe56343b3?source=rss------data_science-5)
-- [Go 1.19 Is In The Future](https://tomaszs2.medium.com/go-1-19-is-in-the-future-dacc9d0c1851?source=rss------data_science-5)
-- [Custom criteria on random forest](https://medium.com/@tadashi-mori/custom-criteria-on-random-forest-9498b57e9cd1?source=rss------data_science-5)
-- [Tipping](https://rmckeon.medium.com/tipping-cd2771642f29?source=rss------data_science-5)
-- [Miraculous Ladybug | Most Watched Episode](https://medium.com/@saeedhamid500/miraculous-ladybug-most-watched-episode-ad85321657d8?source=rss------data_science-5)
+- [Upgrading from combineLatest to combineLatestWith](https://fireflysemantics.medium.com/upgrading-from-combinelatest-to-combinelatestwith-8d09b234b06c?source=rss------data_science-5)
+- [Gender&lpar;in&rpar;g Visualization](https://medium.com/visumd/gender-in-g-visualization-729f69dfe69?source=rss------data_science-5)
+- [Natural Language Processing — What’s the big deal?](https://medium.com/emergent-phenomena/natural-language-processing-whats-the-big-deal-2fd25147e9?source=rss------data_science-5)
+- [『募資簡報：常被疏忽的要點』-01](https://ai360-work.medium.com/%E5%8B%9F%E8%B3%87%E7%B0%A1%E5%A0%B1-%E5%B8%B8%E8%A2%AB%E7%96%8F%E5%BF%BD%E7%9A%84%E8%A6%81%E9%BB%9E-01-4d9243560151?source=rss------data_science-5)
+- [Biden’s Latest Executive Order on US-EU Data Privacy Regulation](https://medium.com/@dssberkeley/bidens-latest-executive-order-on-us-eu-data-privacy-regulation-f9545a43ca7c?source=rss------data_science-5)
+- [What’s the hardest part of metric design?](https://towardsdatascience.com/whats-the-hardest-part-of-metric-design-de2919bbf2dd?source=rss------data_science-5)
+- [Fostering Criminal Justice with Data Science&lpar;Part I&rpar;](https://pub.towardsai.net/fostering-criminal-justice-with-data-science-part-i-be4cabdeb0a1?source=rss------data_science-5)
+- [Cars Prices &amp; Reviews Study — Step 1: Data Scraping](https://medium.com/@vitor_xavier14/cars-prices-reviews-study-step-1-data-scraping-8089ac94389?source=rss------data_science-5)
+- [The Fibonacci Mean Distance Technical Indicator](https://kaabar-sofien.medium.com/the-fibonacci-mean-distance-technical-indicator-1d701332058e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
