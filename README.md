@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Upgrading from combineLatest to combineLatestWith](https://fireflysemantics.medium.com/upgrading-from-combinelatest-to-combinelatestwith-8d09b234b06c?source=rss------data_science-5)
-- [Gender&lpar;in&rpar;g Visualization](https://medium.com/visumd/gender-in-g-visualization-729f69dfe69?source=rss------data_science-5)
-- [Natural Language Processing — What’s the big deal?](https://medium.com/emergent-phenomena/natural-language-processing-whats-the-big-deal-2fd25147e9?source=rss------data_science-5)
-- [『募資簡報：常被疏忽的要點』-01](https://ai360-work.medium.com/%E5%8B%9F%E8%B3%87%E7%B0%A1%E5%A0%B1-%E5%B8%B8%E8%A2%AB%E7%96%8F%E5%BF%BD%E7%9A%84%E8%A6%81%E9%BB%9E-01-4d9243560151?source=rss------data_science-5)
-- [Biden’s Latest Executive Order on US-EU Data Privacy Regulation](https://medium.com/@dssberkeley/bidens-latest-executive-order-on-us-eu-data-privacy-regulation-f9545a43ca7c?source=rss------data_science-5)
-- [What’s the hardest part of metric design?](https://towardsdatascience.com/whats-the-hardest-part-of-metric-design-de2919bbf2dd?source=rss------data_science-5)
-- [Fostering Criminal Justice with Data Science&lpar;Part I&rpar;](https://pub.towardsai.net/fostering-criminal-justice-with-data-science-part-i-be4cabdeb0a1?source=rss------data_science-5)
-- [Cars Prices &amp; Reviews Study — Step 1: Data Scraping](https://medium.com/@vitor_xavier14/cars-prices-reviews-study-step-1-data-scraping-8089ac94389?source=rss------data_science-5)
-- [The Fibonacci Mean Distance Technical Indicator](https://kaabar-sofien.medium.com/the-fibonacci-mean-distance-technical-indicator-1d701332058e?source=rss------data_science-5)
+- [TensorFlow Developer Specialization | A Comprehensive Review](https://medium.com/@Filiberto.zurita/tensorflow-developer-specialization-a-comprehensive-review-77bfead578a2?source=rss------data_science-5)
+- [Data and Information — are there any difference between them?](https://akonnor.medium.com/data-and-information-are-there-any-difference-between-them-e98d6df596?source=rss------data_science-5)
+- [Condensed KNN Classification](https://medium.com/@asishpradhan_4587/condensed-knn-classification-77dc4bd17108?source=rss------data_science-5)
+- [5 Hidden Ways Businesses Use Web Scraping to Increase Revenue](https://medium.com/swlh/5-hidden-ways-businesses-use-web-scraping-to-increase-revenue-c287dbb386e6?source=rss------data_science-5)
+- [Quick Guide to Tidy Data with Pandas](https://medium.com/@stetsondone/quick-guide-to-tidy-data-with-pandas-34a4f7e712f8?source=rss------data_science-5)
+- [Techniques for explanation retrieval with Watson OpenScale](https://medium.com/ibm-data-ai/techniques-for-explanation-retrieval-with-watson-openscale-e1eff849cc2c?source=rss------data_science-5)
+- [Use case: Updating Apache Spark major version of an enterprise data platform](https://medium.com/ibm-data-ai/use-case-updating-apache-spark-major-version-of-an-enterprise-data-platform-8610ad77d3ab?source=rss------data_science-5)
+- [Has Julia For Python Improved?](https://chifi.dev/has-julia-for-python-improved-415dc597bf2b?source=rss------data_science-5)
+- [Meta &lpar;Facebook&rpar; Machine Learning Case Study: Illegal Items Detection](https://jayfeng.medium.com/meta-facebook-machine-learning-case-study-illegal-items-detection-b5e5a4e8afd0?source=rss------data_science-5)
+- [How I Use Data Science and Design Thinking to achieve better outcomes](https://jayburgess.medium.com/how-i-use-data-science-and-design-thinking-to-achieve-better-outcomes-10be09bbb4f8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
