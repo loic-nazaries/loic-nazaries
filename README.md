@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [TensorFlow Developer Specialization | A Comprehensive Review](https://medium.com/@Filiberto.zurita/tensorflow-developer-specialization-a-comprehensive-review-77bfead578a2?source=rss------data_science-5)
-- [Data and Information — are there any difference between them?](https://akonnor.medium.com/data-and-information-are-there-any-difference-between-them-e98d6df596?source=rss------data_science-5)
-- [Condensed KNN Classification](https://medium.com/@asishpradhan_4587/condensed-knn-classification-77dc4bd17108?source=rss------data_science-5)
-- [5 Hidden Ways Businesses Use Web Scraping to Increase Revenue](https://medium.com/swlh/5-hidden-ways-businesses-use-web-scraping-to-increase-revenue-c287dbb386e6?source=rss------data_science-5)
-- [Quick Guide to Tidy Data with Pandas](https://medium.com/@stetsondone/quick-guide-to-tidy-data-with-pandas-34a4f7e712f8?source=rss------data_science-5)
-- [Techniques for explanation retrieval with Watson OpenScale](https://medium.com/ibm-data-ai/techniques-for-explanation-retrieval-with-watson-openscale-e1eff849cc2c?source=rss------data_science-5)
-- [Use case: Updating Apache Spark major version of an enterprise data platform](https://medium.com/ibm-data-ai/use-case-updating-apache-spark-major-version-of-an-enterprise-data-platform-8610ad77d3ab?source=rss------data_science-5)
-- [Has Julia For Python Improved?](https://chifi.dev/has-julia-for-python-improved-415dc597bf2b?source=rss------data_science-5)
-- [Meta &lpar;Facebook&rpar; Machine Learning Case Study: Illegal Items Detection](https://jayfeng.medium.com/meta-facebook-machine-learning-case-study-illegal-items-detection-b5e5a4e8afd0?source=rss------data_science-5)
-- [How I Use Data Science and Design Thinking to achieve better outcomes](https://jayburgess.medium.com/how-i-use-data-science-and-design-thinking-to-achieve-better-outcomes-10be09bbb4f8?source=rss------data_science-5)
+- [State of developments related to Support Vector Machines in 2022 part4](https://medium.com/@monocosmo77/state-of-developments-related-to-support-vector-machines-in-2022-part4-5d535f1e146?source=rss------data_science-5)
+- [Físicos quantificam a influência política na fatalidade da COVID-19 no Brasil](https://jd-donascimento.medium.com/f%C3%ADsicos-quantificam-a-influ%C3%AAncia-pol%C3%ADtica-na-fatalidade-da-covid-19-no-brasil-65524263c725?source=rss------data_science-5)
+- [Using Python To Transform Data From Multiple CSV Files](https://dadataguy.medium.com/using-python-to-transform-data-from-multiple-csv-files-25390da1c187?source=rss------data_science-5)
+- [State of developments related to Support Vector Machines in 2022 part3](https://medium.com/@monocosmo77/state-of-developments-related-to-support-vector-machines-in-2022-part3-a77de58a946?source=rss------data_science-5)
+- [The Only Prediction Function You’ll Ever Need?](https://microprediction.medium.com/the-only-prediction-function-youll-ever-need-fe2ae42eaff0?source=rss------data_science-5)
+- [State of developments related to Support Vector Machines in 2022 part2](https://medium.com/@monocosmo77/state-of-developments-related-to-support-vector-machines-in-2022-part2-49d30245f2cb?source=rss------data_science-5)
+- [Central Tendency](https://medium.com/@gajendra.k.s/central-tendency-2608e0708d65?source=rss------data_science-5)
+- [Optimize your data science workflow within Jupyter Notebook using mlflow and pandas-profiling!](https://ymaricar.medium.com/optimize-your-data-science-workflow-within-jupyter-notebook-e630be868cdf?source=rss------data_science-5)
+- [How to Tell if Properties are Under/Overvalued like a Data Scientist](https://pub.towardsai.net/how-to-tell-if-properties-are-under-overvalued-like-a-data-scientist-311a31629186?source=rss------data_science-5)
+- [Put the Science back in Data Science](https://arturguja.medium.com/put-the-science-back-in-data-science-d2b7e9ffc4d5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
