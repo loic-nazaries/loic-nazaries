@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [State of developments related to Support Vector Machines in 2022 part4](https://medium.com/@monocosmo77/state-of-developments-related-to-support-vector-machines-in-2022-part4-5d535f1e146?source=rss------data_science-5)
-- [Físicos quantificam a influência política na fatalidade da COVID-19 no Brasil](https://jd-donascimento.medium.com/f%C3%ADsicos-quantificam-a-influ%C3%AAncia-pol%C3%ADtica-na-fatalidade-da-covid-19-no-brasil-65524263c725?source=rss------data_science-5)
-- [Using Python To Transform Data From Multiple CSV Files](https://dadataguy.medium.com/using-python-to-transform-data-from-multiple-csv-files-25390da1c187?source=rss------data_science-5)
-- [State of developments related to Support Vector Machines in 2022 part3](https://medium.com/@monocosmo77/state-of-developments-related-to-support-vector-machines-in-2022-part3-a77de58a946?source=rss------data_science-5)
-- [The Only Prediction Function You’ll Ever Need?](https://microprediction.medium.com/the-only-prediction-function-youll-ever-need-fe2ae42eaff0?source=rss------data_science-5)
-- [State of developments related to Support Vector Machines in 2022 part2](https://medium.com/@monocosmo77/state-of-developments-related-to-support-vector-machines-in-2022-part2-49d30245f2cb?source=rss------data_science-5)
-- [Central Tendency](https://medium.com/@gajendra.k.s/central-tendency-2608e0708d65?source=rss------data_science-5)
-- [Optimize your data science workflow within Jupyter Notebook using mlflow and pandas-profiling!](https://ymaricar.medium.com/optimize-your-data-science-workflow-within-jupyter-notebook-e630be868cdf?source=rss------data_science-5)
-- [How to Tell if Properties are Under/Overvalued like a Data Scientist](https://pub.towardsai.net/how-to-tell-if-properties-are-under-overvalued-like-a-data-scientist-311a31629186?source=rss------data_science-5)
-- [Put the Science back in Data Science](https://arturguja.medium.com/put-the-science-back-in-data-science-d2b7e9ffc4d5?source=rss------data_science-5)
+- [Stop wasting time, deploy a ML model using fastAPI](https://sdallman.medium.com/stop-wasting-time-deploy-a-ml-model-using-fastapi-cb6c8a8b8a32?source=rss------data_science-5)
+- [Dados geoespaciais: representando o mundo real!](https://medium.com/@geospatialds/dados-geoespaciais-representando-o-mundo-real-32ff40c7c4ab?source=rss------data_science-5)
+- [Why do Digital Marketing organizations need data scientists to develop custom A/B testing tools and…](https://medium.com/@riddhimansherlekar/why-do-digital-marketing-organizations-look-towards-data-scientists-for-custom-a-b-testing-and-71aa0454b270?source=rss------data_science-5)
+- [Using Python to Determine Which Medium Topics Get 1000+ Likes](https://levelup.gitconnected.com/using-python-to-determine-which-medium-topics-are-likely-to-get-1000-likes-1580626e3802?source=rss------data_science-5)
+- [Data Science Series —1. Cricket Data Analysis](https://vraghubir.medium.com/data-science-series-1-cricket-data-analysis-f0923f39462d?source=rss------data_science-5)
+- [Calculus &lpar;XI&rpar;: How To Deal With Successive Differentiation?](https://medium.com/street-science/calculus-xi-how-to-deal-with-successive-differentiation-cbb1affbbeab?source=rss------data_science-5)
+- [Coding the Q-Stick Technical Indicator](https://kaabar-sofien.medium.com/coding-the-q-stick-technical-indicator-d1cccb3672cc?source=rss------data_science-5)
+- [What really is Artificial Intelligence, Machine Learning and Deep learning?](https://medium.com/@bryankibet77/what-really-is-artificial-intelligence-machine-learning-and-deep-learning-ff36849870d4?source=rss------data_science-5)
+- [3 Reasons Why You Should Stay Away From “Learn Data Science in X Months” Stuff](https://towardsdatascience.com/3-reasons-why-you-should-stay-away-from-learn-data-science-in-x-months-stuff-4c75360f3dfc?source=rss------data_science-5)
+- [All you need to know about DATA SCIENCE as a beginner.](https://medium.com/@veranmi809/all-you-need-to-know-about-data-science-as-a-beginner-c7bd7ab0fe3c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
