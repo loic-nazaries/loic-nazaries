@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
-- [3 Reasons Why You Should Stay Away From “Learn Data Science in X Months” Stuff](https://towardsdatascience.com/3-reasons-why-you-should-stay-away-from-learn-data-science-in-x-months-stuff-4c75360f3dfc?source=rss-2cf6b549448------2)
+- [10 Examples to Master ggplot2: Line plots](https://towardsdatascience.com/10-examples-to-master-ggplot2-line-plots-3e43e9aec8f?source=rss-2cf6b549448------2)
+- [3 Reasons Why You Should Stay Away From “Learn Data Science in X Months” Stuff](https://sonery.medium.com/3-reasons-why-you-should-stay-away-from-learn-data-science-in-x-months-stuff-4c75360f3dfc?source=rss-2cf6b549448------2)
 - [How to Customize Matplotlib Plots with Tick Locators](https://sonery.medium.com/how-to-customize-matplotlib-plots-with-tick-locators-735ef4a24e12?source=rss-2cf6b549448------2)
 - [Be Careful When Using Pandas Groupby with Categorical Data Type](https://towardsdatascience.com/be-careful-when-using-pandas-groupby-with-categorical-data-type-a1d31f66b162?source=rss-2cf6b549448------2)
 - [Scikit-learn 1.1 Comes with an Improved OneHotEncoder](https://towardsdatascience.com/scikit-learn-1-1-comes-with-an-improved-onehotencoder-5a1f939da190?source=rss-2cf6b549448------2)
-- [7 Functions You Can Use to Create New Columns in a Pandas DataFrame](https://towardsdatascience.com/7-functions-you-can-use-to-create-new-columns-in-a-pandas-dataframe-a6b480cf8b30?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
