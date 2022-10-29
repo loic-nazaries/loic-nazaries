@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Stop wasting time, deploy a ML model using fastAPI](https://sdallman.medium.com/stop-wasting-time-deploy-a-ml-model-using-fastapi-cb6c8a8b8a32?source=rss------data_science-5)
-- [Dados geoespaciais: representando o mundo real!](https://medium.com/@geospatialds/dados-geoespaciais-representando-o-mundo-real-32ff40c7c4ab?source=rss------data_science-5)
-- [Why do Digital Marketing organizations need data scientists to develop custom A/B testing tools and…](https://medium.com/@riddhimansherlekar/why-do-digital-marketing-organizations-look-towards-data-scientists-for-custom-a-b-testing-and-71aa0454b270?source=rss------data_science-5)
-- [Using Python to Determine Which Medium Topics Get 1000+ Likes](https://levelup.gitconnected.com/using-python-to-determine-which-medium-topics-are-likely-to-get-1000-likes-1580626e3802?source=rss------data_science-5)
-- [Data Science Series —1. Cricket Data Analysis](https://vraghubir.medium.com/data-science-series-1-cricket-data-analysis-f0923f39462d?source=rss------data_science-5)
-- [Calculus &lpar;XI&rpar;: How To Deal With Successive Differentiation?](https://medium.com/street-science/calculus-xi-how-to-deal-with-successive-differentiation-cbb1affbbeab?source=rss------data_science-5)
-- [Coding the Q-Stick Technical Indicator](https://kaabar-sofien.medium.com/coding-the-q-stick-technical-indicator-d1cccb3672cc?source=rss------data_science-5)
-- [What really is Artificial Intelligence, Machine Learning and Deep learning?](https://medium.com/@bryankibet77/what-really-is-artificial-intelligence-machine-learning-and-deep-learning-ff36849870d4?source=rss------data_science-5)
-- [3 Reasons Why You Should Stay Away From “Learn Data Science in X Months” Stuff](https://towardsdatascience.com/3-reasons-why-you-should-stay-away-from-learn-data-science-in-x-months-stuff-4c75360f3dfc?source=rss------data_science-5)
-- [All you need to know about DATA SCIENCE as a beginner.](https://medium.com/@veranmi809/all-you-need-to-know-about-data-science-as-a-beginner-c7bd7ab0fe3c?source=rss------data_science-5)
+- [Six phases of data analysis](https://medium.com/@prnv1009/six-phases-of-data-analysis-d85a048c3375?source=rss------data_science-5)
+- [Multiple Stochastic Trading Strategy](https://kaabar-sofien.medium.com/multiple-stochastic-trading-strategy-430edc0b0e40?source=rss------data_science-5)
+- [Decision Tree in Machine Learning](https://medium.com/@nelsonjoseph123/decision-tree-in-machine-learning-a21b4b2ee316?source=rss------data_science-5)
+- [K-Minds: DataPoint Armenia’s In-house Data Science Factory](https://datapointarmenia.medium.com/k-minds-datapoint-armenias-in-house-data-science-factory-655a7660edbc?source=rss------data_science-5)
+- [Decision Tree gone wrong](https://medium.com/@karanveer7.kc/decision-tree-gone-wrong-7374891c87d6?source=rss------data_science-5)
+- [Deliver AI Faster With The [2x3] Methodology](https://medium.com/vectice/deliver-ai-faster-with-the-2x3-methodology-556e4dd5d2a7?source=rss------data_science-5)
+- [A vaccine has been launched for beginners in the AI domain](https://amitnikhade.medium.com/a-vaccine-has-been-launched-for-beginners-in-the-ai-domain-a290e0715ddd?source=rss------data_science-5)
+- [The Difference Between Data Science and Data Analytics](https://smartbridge.medium.com/the-difference-between-data-science-and-data-analytics-49a4ef025b6f?source=rss------data_science-5)
+- [What Happens if you Invest $200 Every Month for 12 Years?](https://medium.com/@Batmaxx/what-happens-if-you-invest-200-every-month-for-12-years-9ebd41ce659a?source=rss------data_science-5)
+- [WiMLDS NYC: October 2022 Newsletter](https://medium.com/wimlds-nyc-blog/wimlds-nyc-october-2022-newsletter-22414d43702a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
