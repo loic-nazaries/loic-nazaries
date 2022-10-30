@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Six phases of data analysis](https://medium.com/@prnv1009/six-phases-of-data-analysis-d85a048c3375?source=rss------data_science-5)
-- [Multiple Stochastic Trading Strategy](https://kaabar-sofien.medium.com/multiple-stochastic-trading-strategy-430edc0b0e40?source=rss------data_science-5)
-- [Decision Tree in Machine Learning](https://medium.com/@nelsonjoseph123/decision-tree-in-machine-learning-a21b4b2ee316?source=rss------data_science-5)
-- [K-Minds: DataPoint Armenia’s In-house Data Science Factory](https://datapointarmenia.medium.com/k-minds-datapoint-armenias-in-house-data-science-factory-655a7660edbc?source=rss------data_science-5)
-- [Decision Tree gone wrong](https://medium.com/@karanveer7.kc/decision-tree-gone-wrong-7374891c87d6?source=rss------data_science-5)
-- [Deliver AI Faster With The [2x3] Methodology](https://medium.com/vectice/deliver-ai-faster-with-the-2x3-methodology-556e4dd5d2a7?source=rss------data_science-5)
-- [A vaccine has been launched for beginners in the AI domain](https://amitnikhade.medium.com/a-vaccine-has-been-launched-for-beginners-in-the-ai-domain-a290e0715ddd?source=rss------data_science-5)
-- [The Difference Between Data Science and Data Analytics](https://smartbridge.medium.com/the-difference-between-data-science-and-data-analytics-49a4ef025b6f?source=rss------data_science-5)
-- [What Happens if you Invest $200 Every Month for 12 Years?](https://medium.com/@Batmaxx/what-happens-if-you-invest-200-every-month-for-12-years-9ebd41ce659a?source=rss------data_science-5)
-- [WiMLDS NYC: October 2022 Newsletter](https://medium.com/wimlds-nyc-blog/wimlds-nyc-october-2022-newsletter-22414d43702a?source=rss------data_science-5)
+- [Hipster Modeling Venue](https://tmele54.medium.com/hipster-modeling-venue-4e8a42112fb7?source=rss------data_science-5)
+- [5 Tools That Make My Life Easier When Writing Code](https://medium.com/geekculture/5-tools-that-make-my-life-easier-when-writing-code-eb6139bb3236?source=rss------data_science-5)
+- [Who will win the 2022 Brazilian Presidential Election?, according to statistics.](https://medium.com/@artofcode_/who-will-win-the-2022-brazilian-presidential-election-according-to-statistics-18bb18ceec19?source=rss------data_science-5)
+- [Data Engineering and Data Science - Key Differences](https://medium.com/@vamsinellutla/data-engineering-and-data-science-key-differences-4c906ef21764?source=rss------data_science-5)
+- [Fooled  by statistical significance](https://towardsdatascience.com/fooled-by-statistical-significance-7fed1bc2caf9?source=rss------data_science-5)
+- [The Hull RSI — Coding Technical Indicators](https://kaabar-sofien.medium.com/the-hull-rsi-coding-technical-indicators-676a36bb5443?source=rss------data_science-5)
+- [Você já ouviu falar em Data Lake e Data Mesh?](https://medium.com/@brunosilva.98/voc%C3%AA-j%C3%A1-ouviu-falar-em-data-lake-e-data-mesh-fe66229473c5?source=rss------data_science-5)
+- [Characteristic Stability Index &lpar;CSI&rpar; as a Statistic](https://medium.com/@vsavinov_95271/characteristic-stability-index-csi-as-a-statistic-944fc9f65726?source=rss------data_science-5)
+- [Hidden Data Science Gem: Rainbow Method for Label Encoding](https://medium.com/@anna_arakelyan/hidden-data-science-gem-rainbow-method-for-label-encoding-dfd69f4711e1?source=rss------data_science-5)
+- [Difference between label encoding and One Hot Encoding in Machine learning](https://medium.com/@nouroumar93/difference-between-label-encoding-and-one-hot-encoding-in-machine-learning-b49e413a09a4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
