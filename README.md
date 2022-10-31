@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Hipster Modeling Venue](https://tmele54.medium.com/hipster-modeling-venue-4e8a42112fb7?source=rss------data_science-5)
-- [5 Tools That Make My Life Easier When Writing Code](https://medium.com/geekculture/5-tools-that-make-my-life-easier-when-writing-code-eb6139bb3236?source=rss------data_science-5)
-- [Who will win the 2022 Brazilian Presidential Election?, according to statistics.](https://medium.com/@artofcode_/who-will-win-the-2022-brazilian-presidential-election-according-to-statistics-18bb18ceec19?source=rss------data_science-5)
-- [Data Engineering and Data Science - Key Differences](https://medium.com/@vamsinellutla/data-engineering-and-data-science-key-differences-4c906ef21764?source=rss------data_science-5)
-- [Fooled  by statistical significance](https://towardsdatascience.com/fooled-by-statistical-significance-7fed1bc2caf9?source=rss------data_science-5)
-- [The Hull RSI — Coding Technical Indicators](https://kaabar-sofien.medium.com/the-hull-rsi-coding-technical-indicators-676a36bb5443?source=rss------data_science-5)
-- [Você já ouviu falar em Data Lake e Data Mesh?](https://medium.com/@brunosilva.98/voc%C3%AA-j%C3%A1-ouviu-falar-em-data-lake-e-data-mesh-fe66229473c5?source=rss------data_science-5)
-- [Characteristic Stability Index &lpar;CSI&rpar; as a Statistic](https://medium.com/@vsavinov_95271/characteristic-stability-index-csi-as-a-statistic-944fc9f65726?source=rss------data_science-5)
-- [Hidden Data Science Gem: Rainbow Method for Label Encoding](https://medium.com/@anna_arakelyan/hidden-data-science-gem-rainbow-method-for-label-encoding-dfd69f4711e1?source=rss------data_science-5)
-- [Difference between label encoding and One Hot Encoding in Machine learning](https://medium.com/@nouroumar93/difference-between-label-encoding-and-one-hot-encoding-in-machine-learning-b49e413a09a4?source=rss------data_science-5)
+- [Solving Nurse Scheduling/Rostering Problems in Python](https://medium.com/@muafirathasnikt/solving-nurse-scheduling-rostering-problems-in-python-d44acc3ed74f?source=rss------data_science-5)
+- [Probability Recursion Question for DS/ML Interviews &lpar;Step-by-Step Simple Solution&rpar;](https://medium.com/@mina_liu/probability-recursion-question-for-ds-ml-interviews-step-by-step-simple-solution-7a094541edd6?source=rss------data_science-5)
+- [Enhanced Bollinger Bands Strategy](https://kaabar-sofien.medium.com/enhanced-bollinger-bands-strategy-6357e19d503f?source=rss------data_science-5)
+- [Regressão Linear Simples](https://medium.com/@csantos.alan/regress%C3%A3o-linear-simples-5af83290f603?source=rss------data_science-5)
+- [Hacker Mindset to be Successful at Anything](https://blog.devgenius.io/hacker-mindset-to-be-successful-at-anything-464316704acb?source=rss------data_science-5)
+- [Ten from the weekend 10/30: A few interesting reads that I came across](https://gopivikranth.medium.com/ten-from-the-weekend-10-30-a-few-interesting-reads-that-i-came-across-2b88a656159b?source=rss------data_science-5)
+- [SAS Coalesce Function](https://medium.com/@RS90/sas-coalesce-function-20747ec7c5d7?source=rss------data_science-5)
+- [How to prepare for Pokemon Scarlet and Violet like a Data scientist - Part 1](https://medium.com/@lukasschaub/how-to-prepare-for-pokemon-scarlet-and-violet-like-a-data-scientist-part-1-8d356a4db610?source=rss------data_science-5)
+- [Qlik View — A Business Analytics Tool](https://steminsights.medium.com/qlik-view-a-business-analytics-tool-c9fef2bbddeb?source=rss------data_science-5)
+- [A Report On the Analysis of Kultra Mega Store Data.](https://medium.com/@Isaacemeka567/a-report-on-the-analysis-of-kultra-mega-store-data-46e1c113cdfc?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
