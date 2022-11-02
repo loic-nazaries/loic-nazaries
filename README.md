@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [데이터, 그리고 DaaS를 만드는 사람들](https://aimmo.medium.com/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-daas%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4-f2a4d0950a07?source=rss------data_science-5)
-- [Segmentation of soccer players with Machine Learning K Means algorithm.](https://medium.com/@thiagossilva17/segmentation-of-soccer-players-with-machine-learning-k-means-algorithm-fcab9acf6482?source=rss------data_science-5)
-- [MySQL에서 백틱&lpar;`&rpar;은 어떨 때 사용할까?](https://medium.com/@su_bak/mysql%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5-%E1%84%87%E1%85%A2%E1%86%A8%E1%84%90%E1%85%B5%E1%86%A8-%E1%84%8B%E1%85%B3%E1%86%AB-%E1%84%8B%E1%85%A5%E1%84%84%E1%85%A5%E1%86%AF-%E1%84%84%E1%85%A2-%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF%E1%84%81%E1%85%A1-e0eae3406c58?source=rss------data_science-5)
-- [When to use backtick&lpar;`&rpar; in MySQL?](https://medium.com/@su_bak/when-to-use-backtick-in-mysql-5e2d00d440d8?source=rss------data_science-5)
-- [What are Watson Libraries?](https://medium.com/ibm-data-ai/what-are-watson-libraries-6963330b9d4f?source=rss------data_science-5)
-- [Git vs GitHub | Javad explains in 3 minutes #1](https://javadibrahimli.medium.com/git-vs-github-javad-explains-in-3-minutes-1-b6959a8af5f1?source=rss------data_science-5)
-- [The building blocks of stochastic calculus — Part I](https://oscarnieves100.medium.com/the-building-blocks-of-stochastic-calculus-part-i-d06c87916070?source=rss------data_science-5)
-- [9 Tools for Analytics Students](https://medium.com/@shawngiese/9-tools-for-analytics-students-e54b0b4c8e0e?source=rss------data_science-5)
-- [AI/ML in Oil and Gas — Going Beyond the Hype](https://eduand-alvarez.medium.com/ai-ml-in-oil-and-gas-going-beyond-the-hype-2f7f0beef082?source=rss------data_science-5)
-- [ABCDE of Intelligence](https://medium.com/2innov8/abcde-of-intelligence-a4f58ce2cf30?source=rss------data_science-5)
+- [5 Special Data Structures That Python Developers Should Know About](https://levelup.gitconnected.com/5-special-data-structures-that-python-developers-should-know-about-f4a10b5c2635?source=rss------data_science-5)
+- [Data Lifecycle: Perjalanan Data Hingga Interpretasinya](https://medium.com/@pahamdata/data-lifecycle-perjalanan-data-hingga-interpretasinya-b0a748c649c9?source=rss------data_science-5)
+- [Kickstart your python project](https://medium.com/@supanshah14/kickstart-your-python-project-6d554706c835?source=rss------data_science-5)
+- [How Image Representation is utilised part2&lpar;Computer Vision&rpar;](https://medium.com/@monocosmo77/how-image-representation-is-utilised-part2-computer-vision-b0f4e0869d4?source=rss------data_science-5)
+- [How Image Representation is utilised part1&lpar;Computer Vision&rpar;](https://medium.com/@monocosmo77/how-image-representation-is-utilised-part1-computer-vision-ae061226ac56?source=rss------data_science-5)
+- [¿Los árbitros roban? Análisis de datos en la Primera División del Fútbol Argentino.](https://medium.com/@VictorYaserM/los-%C3%A1rbitros-roban-an%C3%A1lisis-de-datos-en-la-primera-divisi%C3%B3n-del-f%C3%BAtbol-argentino-3914b594fbb3?source=rss------data_science-5)
+- [Interesting new research related to Computer Vision part4](https://medium.com/@monocosmo77/interesting-new-research-related-to-computer-vision-part4-2f223e8a0097?source=rss------data_science-5)
+- [Interesting new research related to Computer Vision part3](https://medium.com/@monocosmo77/interesting-new-research-related-to-computer-vision-part3-280430a198d2?source=rss------data_science-5)
+- [Interesting new research related to Computer Vision part2](https://medium.com/@monocosmo77/interesting-new-research-realted-to-computer-vision-part2-a305ef9b296?source=rss------data_science-5)
+- [Interesting new research related to Computer Vision part1](https://medium.com/@monocosmo77/interesting-new-research-realted-to-computer-vision-part1-f96fa18c69e2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
