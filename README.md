@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [5 Special Data Structures That Python Developers Should Know About](https://levelup.gitconnected.com/5-special-data-structures-that-python-developers-should-know-about-f4a10b5c2635?source=rss------data_science-5)
-- [Data Lifecycle: Perjalanan Data Hingga Interpretasinya](https://medium.com/@pahamdata/data-lifecycle-perjalanan-data-hingga-interpretasinya-b0a748c649c9?source=rss------data_science-5)
-- [Kickstart your python project](https://medium.com/@supanshah14/kickstart-your-python-project-6d554706c835?source=rss------data_science-5)
-- [How Image Representation is utilised part2&lpar;Computer Vision&rpar;](https://medium.com/@monocosmo77/how-image-representation-is-utilised-part2-computer-vision-b0f4e0869d4?source=rss------data_science-5)
-- [How Image Representation is utilised part1&lpar;Computer Vision&rpar;](https://medium.com/@monocosmo77/how-image-representation-is-utilised-part1-computer-vision-ae061226ac56?source=rss------data_science-5)
-- [¿Los árbitros roban? Análisis de datos en la Primera División del Fútbol Argentino.](https://medium.com/@VictorYaserM/los-%C3%A1rbitros-roban-an%C3%A1lisis-de-datos-en-la-primera-divisi%C3%B3n-del-f%C3%BAtbol-argentino-3914b594fbb3?source=rss------data_science-5)
-- [Interesting new research related to Computer Vision part4](https://medium.com/@monocosmo77/interesting-new-research-related-to-computer-vision-part4-2f223e8a0097?source=rss------data_science-5)
-- [Interesting new research related to Computer Vision part3](https://medium.com/@monocosmo77/interesting-new-research-related-to-computer-vision-part3-280430a198d2?source=rss------data_science-5)
-- [Interesting new research related to Computer Vision part2](https://medium.com/@monocosmo77/interesting-new-research-realted-to-computer-vision-part2-a305ef9b296?source=rss------data_science-5)
-- [Interesting new research related to Computer Vision part1](https://medium.com/@monocosmo77/interesting-new-research-realted-to-computer-vision-part1-f96fa18c69e2?source=rss------data_science-5)
+- [Is Covid the Crux of Cinema?](https://medium.com/@AAARL/is-covid-the-crux-of-cinema-ee862d024655?source=rss------data_science-5)
+- [Central Limit Theorem](https://medium.com/@gajendra.k.s/central-limit-theorem-6029339e2b0?source=rss------data_science-5)
+- [How to Use Data Engineering to Stay Ahead of the Curve](https://medium.com/@vinodhmv/how-to-use-data-engineering-to-stay-ahead-of-the-curve-f7234b664b69?source=rss------data_science-5)
+- [The Potential of Cloud Computing for Data Science and Machine Learning](https://medium.com/@vinodhmv/the-potential-of-cloud-computing-for-data-science-and-machine-learning-1b4b4c17e0e6?source=rss------data_science-5)
+- [Blockchain is shaking up the marketing world](https://medium.com/@chrisced/blockchain-is-shaking-up-the-marketing-world-193c92cf0f32?source=rss------data_science-5)
+- [Stochastic Integration](https://www.cantorsparadise.com/stochastic-integration-27c9fa3f8110?source=rss------data_science-5)
+- [Social Media Analytics](https://medium.com/@fergus.a.reid/social-media-analytics-a7eddc6b9028?source=rss------data_science-5)
+- [Métricas analíticas e dados para decisão estratégica em bibliotecas](https://medium.com/ia-biblio-br/m%C3%A9tricas-anal%C3%ADticas-e-dados-para-decis%C3%A3o-estrat%C3%A9gica-em-bibliotecas-a0b3efe03133?source=rss------data_science-5)
+- [Track Machine Learning Experiments with TWO Lines of Python](https://medium.com/@trumandaniels/track-machine-learning-experiments-with-two-lines-of-python-3fc99e35127f?source=rss------data_science-5)
+- [Serverless Prefect Flows with Google Cloud Run Jobs](https://medium.com/the-prefect-blog/serverless-prefect-flows-with-google-cloud-run-jobs-23edbf371175?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
