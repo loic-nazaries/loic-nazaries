@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Is Covid the Crux of Cinema?](https://medium.com/@AAARL/is-covid-the-crux-of-cinema-ee862d024655?source=rss------data_science-5)
-- [Central Limit Theorem](https://medium.com/@gajendra.k.s/central-limit-theorem-6029339e2b0?source=rss------data_science-5)
-- [How to Use Data Engineering to Stay Ahead of the Curve](https://medium.com/@vinodhmv/how-to-use-data-engineering-to-stay-ahead-of-the-curve-f7234b664b69?source=rss------data_science-5)
-- [The Potential of Cloud Computing for Data Science and Machine Learning](https://medium.com/@vinodhmv/the-potential-of-cloud-computing-for-data-science-and-machine-learning-1b4b4c17e0e6?source=rss------data_science-5)
-- [Blockchain is shaking up the marketing world](https://medium.com/@chrisced/blockchain-is-shaking-up-the-marketing-world-193c92cf0f32?source=rss------data_science-5)
-- [Stochastic Integration](https://www.cantorsparadise.com/stochastic-integration-27c9fa3f8110?source=rss------data_science-5)
-- [Social Media Analytics](https://medium.com/@fergus.a.reid/social-media-analytics-a7eddc6b9028?source=rss------data_science-5)
-- [Métricas analíticas e dados para decisão estratégica em bibliotecas](https://medium.com/ia-biblio-br/m%C3%A9tricas-anal%C3%ADticas-e-dados-para-decis%C3%A3o-estrat%C3%A9gica-em-bibliotecas-a0b3efe03133?source=rss------data_science-5)
-- [Track Machine Learning Experiments with TWO Lines of Python](https://medium.com/@trumandaniels/track-machine-learning-experiments-with-two-lines-of-python-3fc99e35127f?source=rss------data_science-5)
-- [Serverless Prefect Flows with Google Cloud Run Jobs](https://medium.com/the-prefect-blog/serverless-prefect-flows-with-google-cloud-run-jobs-23edbf371175?source=rss------data_science-5)
+- [Glamour em Manaus](https://medium.com/@cyqcxxft/glamour-em-manaus-edd85f310fa?source=rss------data_science-5)
+- [Python : A Fast Way to Intermediate Level Using Pandas &lpar;2/3&rpar;](https://eisultan.medium.com/python-a-fast-way-to-intermediate-level-using-pandas-2-3-54900a74d512?source=rss------data_science-5)
+- [Beware The Generative AI Driven Internet](https://andreilyskov.medium.com/beware-the-generative-ai-driven-internet-8886921f6001?source=rss------data_science-5)
+- [Face Recognition using Eigenfaces &lpar;Python&rpar;](https://hassan-id-mansour.medium.com/face-recognition-using-eigenfaces-python-b857b2599ed0?source=rss------data_science-5)
+- [07 Tips to rank up in Kaggle easily from a Grandmaster’s perspective](https://medium.com/@azmine_wasi/07-tips-to-rank-up-in-kaggle-easily-from-a-grandmasters-perspective-a273ed031358?source=rss------data_science-5)
+- [Russ Ewell on Data Science Trends to Watch in 2023](https://russewell.medium.com/russ-ewell-on-data-science-trends-to-watch-in-2023-e2142e395e64?source=rss------data_science-5)
+- [Top 14 Data Science Certifications &amp; Courses Online in 2022](https://medium.com/@a.postnikov/top-14-data-science-certifications-courses-online-in-2022-ede75ab138e?source=rss------data_science-5)
+- [Hierarchical Topic Model for Airbnb Reviews](https://medium.com/@AmyGrabNGoInfo/hierarchical-topic-model-for-airbnb-reviews-f772eaa30434?source=rss------data_science-5)
+- [Trading the Golden Harmonic Pattern](https://kaabar-sofien.medium.com/trading-the-golden-harmonic-pattern-5470def18f7a?source=rss------data_science-5)
+- [How To: Marketing Analytics](https://medium.com/@AAARL/how-to-marketing-analytics-ce2836b738b1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
