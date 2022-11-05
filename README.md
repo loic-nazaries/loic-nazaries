@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Glamour em Manaus](https://medium.com/@cyqcxxft/glamour-em-manaus-edd85f310fa?source=rss------data_science-5)
-- [Python : A Fast Way to Intermediate Level Using Pandas &lpar;2/3&rpar;](https://eisultan.medium.com/python-a-fast-way-to-intermediate-level-using-pandas-2-3-54900a74d512?source=rss------data_science-5)
-- [Beware The Generative AI Driven Internet](https://andreilyskov.medium.com/beware-the-generative-ai-driven-internet-8886921f6001?source=rss------data_science-5)
-- [Face Recognition using Eigenfaces &lpar;Python&rpar;](https://hassan-id-mansour.medium.com/face-recognition-using-eigenfaces-python-b857b2599ed0?source=rss------data_science-5)
-- [07 Tips to rank up in Kaggle easily from a Grandmaster’s perspective](https://medium.com/@azmine_wasi/07-tips-to-rank-up-in-kaggle-easily-from-a-grandmasters-perspective-a273ed031358?source=rss------data_science-5)
-- [Russ Ewell on Data Science Trends to Watch in 2023](https://russewell.medium.com/russ-ewell-on-data-science-trends-to-watch-in-2023-e2142e395e64?source=rss------data_science-5)
-- [Top 14 Data Science Certifications &amp; Courses Online in 2022](https://medium.com/@a.postnikov/top-14-data-science-certifications-courses-online-in-2022-ede75ab138e?source=rss------data_science-5)
-- [Hierarchical Topic Model for Airbnb Reviews](https://medium.com/@AmyGrabNGoInfo/hierarchical-topic-model-for-airbnb-reviews-f772eaa30434?source=rss------data_science-5)
-- [Trading the Golden Harmonic Pattern](https://kaabar-sofien.medium.com/trading-the-golden-harmonic-pattern-5470def18f7a?source=rss------data_science-5)
-- [How To: Marketing Analytics](https://medium.com/@AAARL/how-to-marketing-analytics-ce2836b738b1?source=rss------data_science-5)
+- [Knowledge Discovery in Databases &lpar;KDD&rpar; and Data Mining](https://medium.com/@luisrossetti.cmagazine/knowledge-discovery-in-databases-kdd-and-data-mining-b9350e5a191a?source=rss------data_science-5)
+- [What’s New in Python 3.11?](https://hzerrad.medium.com/whats-new-in-python-3-11-363e17061355?source=rss------data_science-5)
+- [Journey into the world of Data Analysis.](https://medium.com/@edeosagiede/journey-into-the-world-of-data-analysis-74c2882248e4?source=rss------data_science-5)
+- [Bernoulli vs Binomial models with R and STAN.](https://medium.com/@kimollomick17/bernoulli-vs-binomial-models-with-r-and-stan-b9875f60c526?source=rss------data_science-5)
+- [End-to-end Guide on Apache Airflow](https://medium.com/@oyamafaith9/end-to-end-guide-on-apache-airflow-77275d44e1bc?source=rss------data_science-5)
+- [More Like This: Recommending similar Netflix shows with AWS Personalize](https://betterprogramming.pub/more-like-this-recommending-similar-netflix-shows-with-aws-personalize-feb829e1e1c6?source=rss------data_science-5)
+- [In-Store Business: How Artificial Intelligence Can Help? 4 ways and examples.](https://medium.com/@mrskuza/in-store-business-how-artificial-intelligence-can-help-4-ways-and-examples-4155d8b54549?source=rss------data_science-5)
+- [Previsão de energia eolica com Random Forest](https://medium.com/@marcos.trindadee2020/previs%C3%A3o-de-energia-e%C3%B3lica-com-random-forest-da5a93b1bdc5?source=rss------data_science-5)
+- [Visualizations with Dash](https://medium.com/@kcpullen/visualizations-with-dash-59af65a5aa43?source=rss------data_science-5)
+- [The Advantages of Data Quality Checklists for Data Science Projects](https://jj-espinoza-la.medium.com/the-advantages-of-data-quality-checklists-for-data-science-projects-207cd5cbbb95?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
