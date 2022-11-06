@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Knowledge Discovery in Databases &lpar;KDD&rpar; and Data Mining](https://medium.com/@luisrossetti.cmagazine/knowledge-discovery-in-databases-kdd-and-data-mining-b9350e5a191a?source=rss------data_science-5)
-- [What’s New in Python 3.11?](https://hzerrad.medium.com/whats-new-in-python-3-11-363e17061355?source=rss------data_science-5)
-- [Journey into the world of Data Analysis.](https://medium.com/@edeosagiede/journey-into-the-world-of-data-analysis-74c2882248e4?source=rss------data_science-5)
-- [Bernoulli vs Binomial models with R and STAN.](https://medium.com/@kimollomick17/bernoulli-vs-binomial-models-with-r-and-stan-b9875f60c526?source=rss------data_science-5)
-- [End-to-end Guide on Apache Airflow](https://medium.com/@oyamafaith9/end-to-end-guide-on-apache-airflow-77275d44e1bc?source=rss------data_science-5)
-- [More Like This: Recommending similar Netflix shows with AWS Personalize](https://betterprogramming.pub/more-like-this-recommending-similar-netflix-shows-with-aws-personalize-feb829e1e1c6?source=rss------data_science-5)
-- [In-Store Business: How Artificial Intelligence Can Help? 4 ways and examples.](https://medium.com/@mrskuza/in-store-business-how-artificial-intelligence-can-help-4-ways-and-examples-4155d8b54549?source=rss------data_science-5)
-- [Previsão de energia eolica com Random Forest](https://medium.com/@marcos.trindadee2020/previs%C3%A3o-de-energia-e%C3%B3lica-com-random-forest-da5a93b1bdc5?source=rss------data_science-5)
-- [Visualizations with Dash](https://medium.com/@kcpullen/visualizations-with-dash-59af65a5aa43?source=rss------data_science-5)
-- [The Advantages of Data Quality Checklists for Data Science Projects](https://jj-espinoza-la.medium.com/the-advantages-of-data-quality-checklists-for-data-science-projects-207cd5cbbb95?source=rss------data_science-5)
+- [Evolution of Consciousness in Artificial intelligence](https://medium.com/@rohan_85683/evolution-of-consciousness-in-artificial-intelligence-3f5f6f862f3b?source=rss------data_science-5)
+- [Will Artificial Intelligence become conscious  and what after ?](https://medium.com/@rohan_85683/will-artificial-intelligence-become-conscious-and-what-after-b80b987848c3?source=rss------data_science-5)
+- [What’s Wrong with A.I?!](https://medium.com/be-data-driven/whats-wrong-with-a-i-4966d63b8f26?source=rss------data_science-5)
+- [The right Data field for you](https://medium.com/@ihemadungozianita/the-right-data-field-for-you-ef47d1055b9b?source=rss------data_science-5)
+- [Applications of Semantic Web part1&lpar;Future Technology&rpar;](https://medium.com/@monocosmo77/applications-of-semantic-web-part1-future-technology-128205be7456?source=rss------data_science-5)
+- [Experts Reveal: Technical and General Data Science Interview Questions.](https://musediqfajimi.medium.com/experts-reveal-technical-and-general-data-science-interview-questions-4a0139230ab4?source=rss------data_science-5)
+- [Pivoting into Tech from a non-tech field can be overwhelming most times, especially for a complete…](https://medium.com/@ihemadungozianita/pivoting-into-tech-from-a-non-tech-field-can-be-overwhelming-most-times-especially-for-a-complete-a10a054c907e?source=rss------data_science-5)
+- [How Cryptocurrency technology is evolving part2](https://medium.com/@monocosmo77/how-cryptocurrency-technology-is-evolving-part2-71df1ecb1bd4?source=rss------data_science-5)
+- [How will Data save your life in the future?](https://medium.com/@omfwritings/how-will-data-save-your-life-in-the-future-54ba0b15f233?source=rss------data_science-5)
+- [How Cryptocurrency technology is evolving part1](https://medium.com/@monocosmo77/how-cryptocurrency-technology-is-evolving-part1-2054ed110ded?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
