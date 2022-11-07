@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Evolution of Consciousness in Artificial intelligence](https://medium.com/@rohan_85683/evolution-of-consciousness-in-artificial-intelligence-3f5f6f862f3b?source=rss------data_science-5)
-- [Will Artificial Intelligence become conscious  and what after ?](https://medium.com/@rohan_85683/will-artificial-intelligence-become-conscious-and-what-after-b80b987848c3?source=rss------data_science-5)
-- [What’s Wrong with A.I?!](https://medium.com/be-data-driven/whats-wrong-with-a-i-4966d63b8f26?source=rss------data_science-5)
-- [The right Data field for you](https://medium.com/@ihemadungozianita/the-right-data-field-for-you-ef47d1055b9b?source=rss------data_science-5)
-- [Applications of Semantic Web part1&lpar;Future Technology&rpar;](https://medium.com/@monocosmo77/applications-of-semantic-web-part1-future-technology-128205be7456?source=rss------data_science-5)
-- [Experts Reveal: Technical and General Data Science Interview Questions.](https://musediqfajimi.medium.com/experts-reveal-technical-and-general-data-science-interview-questions-4a0139230ab4?source=rss------data_science-5)
-- [Pivoting into Tech from a non-tech field can be overwhelming most times, especially for a complete…](https://medium.com/@ihemadungozianita/pivoting-into-tech-from-a-non-tech-field-can-be-overwhelming-most-times-especially-for-a-complete-a10a054c907e?source=rss------data_science-5)
-- [How Cryptocurrency technology is evolving part2](https://medium.com/@monocosmo77/how-cryptocurrency-technology-is-evolving-part2-71df1ecb1bd4?source=rss------data_science-5)
-- [How will Data save your life in the future?](https://medium.com/@omfwritings/how-will-data-save-your-life-in-the-future-54ba0b15f233?source=rss------data_science-5)
-- [How Cryptocurrency technology is evolving part1](https://medium.com/@monocosmo77/how-cryptocurrency-technology-is-evolving-part1-2054ed110ded?source=rss------data_science-5)
+- [Explanation of BERT and BART](https://medium.com/@yl8251/explanation-of-bert-and-bart-80acbbbd9517?source=rss------data_science-5)
+- [Data Engineers : I’m here for you …](https://medium.com/@chiheb.mhamdi/data-engineers-im-here-for-you-d4819f66e0e5?source=rss------data_science-5)
+- [Sorting Data with Pandas nlargest and nsmallest](https://medium.com/@anala007/sorting-data-with-pandas-nlargest-and-nsmallest-17cf0e21b18a?source=rss------data_science-5)
+- [Extracting Training Data From Neural Networks — Weekly Findings](https://medium.com/@dreamferus/extracting-training-data-from-neural-networks-weekly-findings-4221536103fe?source=rss------data_science-5)
+- [Time Series Analysis from a Dummy for the Dummies](https://sergilehkyi.medium.com/time-series-analysis-from-a-dummy-for-the-dummies-afe4832876b?source=rss------data_science-5)
+- [Computational complexity simply explained](https://oscarnieves100.medium.com/computational-complexity-simply-explained-add2b99cf48c?source=rss------data_science-5)
+- [How to use Python Pandas’ shift&lpar;&rpar; function](https://medium.com/@anala007/how-to-use-python-pandas-shift-function-6b0e017e8ee7?source=rss------data_science-5)
+- [Creating Tables](https://onyxwrench.medium.com/creating-tables-64b4befd7dc3?source=rss------data_science-5)
+- [Retrieving Data with a SELECT Statement](https://onyxwrench.medium.com/retrieving-data-with-a-select-statement-f23c62baeee0?source=rss------data_science-5)
+- [Scikit-Learn Cheat Sheet &lpar;2022&rpar;, Python for Data Science](https://levelup.gitconnected.com/scikit-learn-cheat-sheet-2022-python-for-data-science-61c0a2e8517b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
