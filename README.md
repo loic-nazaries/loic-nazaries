@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Explanation of BERT and BART](https://medium.com/@yl8251/explanation-of-bert-and-bart-80acbbbd9517?source=rss------data_science-5)
-- [Data Engineers : I’m here for you …](https://medium.com/@chiheb.mhamdi/data-engineers-im-here-for-you-d4819f66e0e5?source=rss------data_science-5)
-- [Sorting Data with Pandas nlargest and nsmallest](https://medium.com/@anala007/sorting-data-with-pandas-nlargest-and-nsmallest-17cf0e21b18a?source=rss------data_science-5)
-- [Extracting Training Data From Neural Networks — Weekly Findings](https://medium.com/@dreamferus/extracting-training-data-from-neural-networks-weekly-findings-4221536103fe?source=rss------data_science-5)
-- [Time Series Analysis from a Dummy for the Dummies](https://sergilehkyi.medium.com/time-series-analysis-from-a-dummy-for-the-dummies-afe4832876b?source=rss------data_science-5)
-- [Computational complexity simply explained](https://oscarnieves100.medium.com/computational-complexity-simply-explained-add2b99cf48c?source=rss------data_science-5)
-- [How to use Python Pandas’ shift&lpar;&rpar; function](https://medium.com/@anala007/how-to-use-python-pandas-shift-function-6b0e017e8ee7?source=rss------data_science-5)
-- [Creating Tables](https://onyxwrench.medium.com/creating-tables-64b4befd7dc3?source=rss------data_science-5)
-- [Retrieving Data with a SELECT Statement](https://onyxwrench.medium.com/retrieving-data-with-a-select-statement-f23c62baeee0?source=rss------data_science-5)
-- [Scikit-Learn Cheat Sheet &lpar;2022&rpar;, Python for Data Science](https://levelup.gitconnected.com/scikit-learn-cheat-sheet-2022-python-for-data-science-61c0a2e8517b?source=rss------data_science-5)
+- [4 Best open-source python IDEs](https://yonathanbouazizboaz.medium.com/summary-5c62ff867128?source=rss------data_science-5)
+- [Data Fabric 對決 Data Mesh：資料科學人的觀點](https://medium.com/@deborah.deng/data-fabric-%E5%B0%8D%E6%B1%BA-data-mesh-%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E4%BA%BA%E7%9A%84%E8%A7%80%E9%BB%9E-16ccd4409c05?source=rss------data_science-5)
+- [What I Learned From Analyzing 30K+ Video Game Ratings](https://medium.com/@anudeepvanjavakam/what-i-learned-from-analyzing-30k-video-game-ratings-df17ce4aa38b?source=rss------data_science-5)
+- [Moving Pandas Columns Around](https://towardsdatascience.com/moving-pandas-columns-around-c0fad1043d3a?source=rss------data_science-5)
+- [A Beautiful Problem in Classical Mechanics](https://keith-mcnulty.medium.com/a-beautiful-problem-in-classical-mechanics-ad36b79ed9b7?source=rss------data_science-5)
+- [Gradient Boosting: what every data scientist should know](https://medium.com/@datasciwsarah/gradient-boosting-what-every-data-scientist-should-know-6a53bc45a096?source=rss------data_science-5)
+- [DBSCAN Algorithm — Density Based Spatial Clustering of Application with Noise](https://medium.com/@tpreethi/dbscan-algorithm-density-based-spatial-clustering-of-application-with-noise-a826538dcb42?source=rss------data_science-5)
+- [Why Data Science at Flatiron?](https://medium.com/@zacharycherna/why-data-science-at-flatiron-74ae03242b2c?source=rss------data_science-5)
+- [Using JupyterHub with a Private Container Registry](https://medium.com/@MelDenissee/using-jupyterhub-with-a-private-container-registry-4f41cbe6d67e?source=rss------data_science-5)
+- [Hungry for Change: Using Data Analytics to Establish Public Food Security](https://medium.com/@dssberkeley/hungry-for-change-using-data-analytics-to-establish-public-food-security-7b5b7b5ee36c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
