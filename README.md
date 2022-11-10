@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What are right-skewed and left-skewed distributions?](https://medium.com/geekculture/what-are-right-skewed-and-left-skewed-distributions-a29b3def7598?source=rss------data_science-5)
-- [Eleição presidencial o caso das urnas 100% Lula e análises mais instigantes!](https://medium.com/@RafaStrauch/elei%C3%A7%C3%A3o-presidencial-o-caso-das-urnas-100-lula-e-an%C3%A1lises-mais-instigantes-21c96209d8ad?source=rss------data_science-5)
-- [BYOC — Build Your Own Clustering Algorithm](https://medium.com/hoyalytics/byoc-build-your-own-clustering-algorithm-73d3bff757e6?source=rss------data_science-5)
-- [Parallelizing Randomized Singular Value Decomposition using GPUs](https://medium.com/quant-guild/parallelizing-randomized-singular-value-decomposition-using-gpus-62dff9e0c945?source=rss------data_science-5)
-- [Progress in Research related to Primordial Black Holes part2&lpar;Cosmology&rpar;](https://medium.com/@monocosmo77/progress-in-research-related-to-primordial-black-holes-part2-cosmology-ad310e79bd38?source=rss------data_science-5)
-- [Aggregate Functions &lpar;SQL&rpar;](https://onyxwrench.medium.com/aggregate-functions-sql-453756e1d952?source=rss------data_science-5)
-- [21st Century Paleontology with Machine Learning](https://medium.com/intel-analytics-software/21st-century-paleontology-with-machine-learning-633704935fb0?source=rss------data_science-5)
-- [How to Import a CSV File into Python using Pandas](https://tahera-firdose.medium.com/how-to-import-a-csv-file-into-python-using-pandas-a8439105f1e3?source=rss------data_science-5)
-- [NASA, USAID Organization Fortifies Worldwide Turn of events](https://medium.com/@richnesssparks/nasa-usaid-organization-fortifies-worldwide-turn-of-events-7be3ceb0dfeb?source=rss------data_science-5)
-- [Progress in Research related to Primordial Black Holes part1&lpar;Cosmology&rpar;](https://medium.com/@monocosmo77/progress-in-research-related-to-primordial-black-holes-part1-cosmology-e6729078b7eb?source=rss------data_science-5)
+- [A Step-By-Step Guide To Data science](https://medium.com/datasciencemustneededskills/a-step-by-step-guide-to-data-science-5b8238af79d6?source=rss------data_science-5)
+- [Guía rápida para usar entornos virtuales en Python](https://medium.com/@rustyroboz/gu%C3%ADa-r%C3%A1pida-para-usar-entornos-virtuales-en-python-63493063182d?source=rss------data_science-5)
+- [ETL Pipeline with Pyjanitor](https://medium.com/@maxineattobrah/etl-pipeline-with-pyjanitor-7834e6e6f946?source=rss------data_science-5)
+- [A Breakdown of Data Science Courses at NYU —](https://medium.com/nyu-ds-review/a-breakdown-of-data-science-courses-at-nyu-98b823b3d5cc?source=rss------data_science-5)
+- [Building A Scorecard App For Real Estate Areas In Dubai](https://bassel-karami.medium.com/building-a-scorecard-for-residential-areas-in-dubai-using-mercury-8fdd5867cc68?source=rss------data_science-5)
+- [How far have we come with Generative Adversarial Networks part3&lpar;Deep Learning&rpar;](https://medium.com/@monocosmo77/how-far-have-we-come-with-generative-adversarial-networks-part3-deep-learning-5da80e5d75a4?source=rss------data_science-5)
+- [How far have we come with Generative Adversarial Networks part2 &lpar;Deep Learning&rpar;](https://medium.com/@monocosmo77/how-far-have-we-come-with-generative-adversarial-networks-part2-deep-learning-cb17ff9989af?source=rss------data_science-5)
+- [How far have we come with Generative Adversarial Networks part1 &lpar;Deep Learning&rpar;](https://medium.com/@monocosmo77/how-far-have-we-come-with-generative-adversarial-networks-part1-deep-learning-b6a218a2f74a?source=rss------data_science-5)
+- [Understanding Intrusion Detection Systems part2&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/understanding-intrusion-detection-systems-part2-artificial-intelligence-cae6d1fec829?source=rss------data_science-5)
+- [Mindset for Data Science Job Search](https://medium.com/@hao.l/mindset-for-data-science-job-search-f48466369a1e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
