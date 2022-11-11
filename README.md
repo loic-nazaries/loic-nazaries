@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Step-By-Step Guide To Data science](https://medium.com/datasciencemustneededskills/a-step-by-step-guide-to-data-science-5b8238af79d6?source=rss------data_science-5)
-- [Guía rápida para usar entornos virtuales en Python](https://medium.com/@rustyroboz/gu%C3%ADa-r%C3%A1pida-para-usar-entornos-virtuales-en-python-63493063182d?source=rss------data_science-5)
-- [ETL Pipeline with Pyjanitor](https://medium.com/@maxineattobrah/etl-pipeline-with-pyjanitor-7834e6e6f946?source=rss------data_science-5)
-- [A Breakdown of Data Science Courses at NYU —](https://medium.com/nyu-ds-review/a-breakdown-of-data-science-courses-at-nyu-98b823b3d5cc?source=rss------data_science-5)
-- [Building A Scorecard App For Real Estate Areas In Dubai](https://bassel-karami.medium.com/building-a-scorecard-for-residential-areas-in-dubai-using-mercury-8fdd5867cc68?source=rss------data_science-5)
-- [How far have we come with Generative Adversarial Networks part3&lpar;Deep Learning&rpar;](https://medium.com/@monocosmo77/how-far-have-we-come-with-generative-adversarial-networks-part3-deep-learning-5da80e5d75a4?source=rss------data_science-5)
-- [How far have we come with Generative Adversarial Networks part2 &lpar;Deep Learning&rpar;](https://medium.com/@monocosmo77/how-far-have-we-come-with-generative-adversarial-networks-part2-deep-learning-cb17ff9989af?source=rss------data_science-5)
-- [How far have we come with Generative Adversarial Networks part1 &lpar;Deep Learning&rpar;](https://medium.com/@monocosmo77/how-far-have-we-come-with-generative-adversarial-networks-part1-deep-learning-b6a218a2f74a?source=rss------data_science-5)
-- [Understanding Intrusion Detection Systems part2&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/understanding-intrusion-detection-systems-part2-artificial-intelligence-cae6d1fec829?source=rss------data_science-5)
-- [Mindset for Data Science Job Search](https://medium.com/@hao.l/mindset-for-data-science-job-search-f48466369a1e?source=rss------data_science-5)
+- [How to use the new Google Infinite Nature “3D images generator” ?](https://yonathanbouazizboaz.medium.com/how-to-use-the-new-google-infinite-nature-3d-images-generator-ac0261f43563?source=rss------data_science-5)
+- [Level Up Your Data Visualisations](https://medium.com/@bengouldingdev/level-up-your-data-visualisations-8bff67dc16f7?source=rss------data_science-5)
+- [The tool that made signal processing possible](https://www.cantorsparadise.com/the-tool-that-made-signal-processing-possible-71bbaac1f8bf?source=rss------data_science-5)
+- [AutoViz: uma alternativa para otimizar sua Análise Exploratória de Dados &lpar;EDA&rpar;](https://medium.com/@jraposoneto60/autoviz-uma-alternativa-para-otimizar-sua-an%C3%A1lise-explorat%C3%B3ria-de-dados-eda-d5e45001e97f?source=rss------data_science-5)
+- [How far have we come with Language Models part3&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/how-far-have-we-come-with-language-models-part3-artificial-intelligence-13dcaa433eae?source=rss------data_science-5)
+- [How far have we come with Language Models part1&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/how-far-have-we-come-with-language-models-part1-artificial-intelligence-7d667296e307?source=rss------data_science-5)
+- [Getting Started With Stable Diffusion](https://pub.towardsai.net/getting-started-with-stable-diffusion-f343639e4931?source=rss------data_science-5)
+- [How Gerrymandering Actually Works](https://medium.com/street-science/how-gerrymandering-actually-works-578cf73b853a?source=rss------data_science-5)
+- [Applications of Recommender Systems part4 &lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/applications-of-recommender-systems-part4-artificial-intelligence-4145157f293f?source=rss------data_science-5)
+- [The ABC’s of Data tracking](https://medium.com/@tochukwutabansi/the-abcs-of-data-tracking-2a4444d25b75?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
