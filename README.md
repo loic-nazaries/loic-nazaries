@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to use the new Google Infinite Nature “3D images generator” ?](https://yonathanbouazizboaz.medium.com/how-to-use-the-new-google-infinite-nature-3d-images-generator-ac0261f43563?source=rss------data_science-5)
-- [Level Up Your Data Visualisations](https://medium.com/@bengouldingdev/level-up-your-data-visualisations-8bff67dc16f7?source=rss------data_science-5)
-- [The tool that made signal processing possible](https://www.cantorsparadise.com/the-tool-that-made-signal-processing-possible-71bbaac1f8bf?source=rss------data_science-5)
-- [AutoViz: uma alternativa para otimizar sua Análise Exploratória de Dados &lpar;EDA&rpar;](https://medium.com/@jraposoneto60/autoviz-uma-alternativa-para-otimizar-sua-an%C3%A1lise-explorat%C3%B3ria-de-dados-eda-d5e45001e97f?source=rss------data_science-5)
-- [How far have we come with Language Models part3&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/how-far-have-we-come-with-language-models-part3-artificial-intelligence-13dcaa433eae?source=rss------data_science-5)
-- [How far have we come with Language Models part1&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/how-far-have-we-come-with-language-models-part1-artificial-intelligence-7d667296e307?source=rss------data_science-5)
-- [Getting Started With Stable Diffusion](https://pub.towardsai.net/getting-started-with-stable-diffusion-f343639e4931?source=rss------data_science-5)
-- [How Gerrymandering Actually Works](https://medium.com/street-science/how-gerrymandering-actually-works-578cf73b853a?source=rss------data_science-5)
-- [Applications of Recommender Systems part4 &lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/applications-of-recommender-systems-part4-artificial-intelligence-4145157f293f?source=rss------data_science-5)
-- [The ABC’s of Data tracking](https://medium.com/@tochukwutabansi/the-abcs-of-data-tracking-2a4444d25b75?source=rss------data_science-5)
+- [Exploratory Data Analysis Use Python | EDA](https://medium.com/@GemiIang/exploratory-data-analysis-use-python-eda-f88ff0f4cbb3?source=rss------data_science-5)
+- [How deep are your checks?](https://medium.com/@scns.tools/how-deep-are-your-checks-59bac4d5688e?source=rss------data_science-5)
+- [sk](https://medium.com/@rezanrslm19941214/sk-42a446cae531?source=rss------data_science-5)
+- [The What and How of Evaluating UEBA Under the Hood](https://medium.com/@derek_34796/the-what-and-how-of-evaluating-ueba-under-the-hood-26c0dde8f7de?source=rss------data_science-5)
+- [Data science vs engineering vs analytics](https://medium.com/@datasciwsarah/data-science-vs-engineering-vs-analytics-7f7bd77d9bdc?source=rss------data_science-5)
+- [Taxi Availability Prediction](https://medium.com/data-arena/taxi-availability-prediction-16e0d0345f1?source=rss------data_science-5)
+- [Kural Tabanlı Sınıflandırma ile Potansiyel Müşteri Getirisi Hesaplama](https://medium.com/@eldemir/kural-tabanl%C4%B1-s%C4%B1n%C4%B1fland%C4%B1rma-ile-potansiyel-m%C3%BC%C5%9Fteri-getirisi-hesaplama-2cad8a317686?source=rss------data_science-5)
+- [Variable Encoding Methods for Machine Learning](https://medium.com/@gahogg/variable-encoding-methods-for-machine-learning-d8a02e0a1189?source=rss------data_science-5)
+- [I want to try the system for a day.](https://medium.com/@ptbfwmbs/i-want-to-try-the-system-for-a-day-e925923cf5c5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
