@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Exploratory Data Analysis Use Python | EDA](https://medium.com/@GemiIang/exploratory-data-analysis-use-python-eda-f88ff0f4cbb3?source=rss------data_science-5)
-- [How deep are your checks?](https://medium.com/@scns.tools/how-deep-are-your-checks-59bac4d5688e?source=rss------data_science-5)
-- [sk](https://medium.com/@rezanrslm19941214/sk-42a446cae531?source=rss------data_science-5)
-- [The What and How of Evaluating UEBA Under the Hood](https://medium.com/@derek_34796/the-what-and-how-of-evaluating-ueba-under-the-hood-26c0dde8f7de?source=rss------data_science-5)
-- [Data science vs engineering vs analytics](https://medium.com/@datasciwsarah/data-science-vs-engineering-vs-analytics-7f7bd77d9bdc?source=rss------data_science-5)
-- [Taxi Availability Prediction](https://medium.com/data-arena/taxi-availability-prediction-16e0d0345f1?source=rss------data_science-5)
-- [Kural Tabanlı Sınıflandırma ile Potansiyel Müşteri Getirisi Hesaplama](https://medium.com/@eldemir/kural-tabanl%C4%B1-s%C4%B1n%C4%B1fland%C4%B1rma-ile-potansiyel-m%C3%BC%C5%9Fteri-getirisi-hesaplama-2cad8a317686?source=rss------data_science-5)
-- [Variable Encoding Methods for Machine Learning](https://medium.com/@gahogg/variable-encoding-methods-for-machine-learning-d8a02e0a1189?source=rss------data_science-5)
-- [I want to try the system for a day.](https://medium.com/@ptbfwmbs/i-want-to-try-the-system-for-a-day-e925923cf5c5?source=rss------data_science-5)
+- [A shockingly true story — When a cat became the ruler of a birds kingdom](https://medium.com/@thesilentmonk/a-shockingly-true-story-when-a-cat-became-the-ruler-of-a-birds-kingdom-35a29bde635?source=rss------data_science-5)
+- [Test your SQL Knowledge, how? Answer those questions.](https://medium.com/geekculture/test-your-sql-knowledge-how-answer-those-questions-4d43b5fac3da?source=rss------data_science-5)
+- [How to create your OWN first GitHub repository &lpar;in less than 5](https://medium.com/@herminetranie/how-to-create-your-own-first-github-repository-in-less-than-5-ef98d7333c0c?source=rss------data_science-5)
+- [The Bollinger Bands Width Indicator](https://kaabar-sofien.medium.com/the-bollinger-bands-width-indicator-6963869c7390?source=rss------data_science-5)
+- [What are the most common programming languages used in Germany?](https://medium.com/@mo.okaily01/what-are-the-most-common-programming-languages-used-in-germany-381ce4dc53fd?source=rss------data_science-5)
+- [Gradient Descent: A Simple Explanation](https://fsndzomga.medium.com/gradient-descent-a-simple-explanation-43bdfb098fe7?source=rss------data_science-5)
+- [where SQL INJECTION = SMK ALTERATION](https://medium.com/@elltoneverest/sql-injection-is-the-placement-of-malicious-code-in-sql-statements-via-web-page-input-92bd3d257193?source=rss------data_science-5)
+- [Dealing with Categorical Data: Encoding Categorical Features for ML Agorithms](https://medium.com/@berk-hakbilen/dealing-with-categorical-data-encoding-categorical-features-for-ml-agorithms-e6ef881e4670?source=rss------data_science-5)
+- [Operationalizing Machine Learning — Decoupling Engineering from AI](https://medium.com/@angelina.yang/operationalizing-machine-learning-decoupling-engineering-from-ai-111d7fd889d8?source=rss------data_science-5)
+- [Using a Logistic Function in Machine Learning](https://fsndzomga.medium.com/using-a-logistic-function-in-machine-learning-4b2a8a4b3226?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
