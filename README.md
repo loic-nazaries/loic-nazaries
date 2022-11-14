@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A shockingly true story — When a cat became the ruler of a birds kingdom](https://medium.com/@thesilentmonk/a-shockingly-true-story-when-a-cat-became-the-ruler-of-a-birds-kingdom-35a29bde635?source=rss------data_science-5)
-- [Test your SQL Knowledge, how? Answer those questions.](https://medium.com/geekculture/test-your-sql-knowledge-how-answer-those-questions-4d43b5fac3da?source=rss------data_science-5)
-- [How to create your OWN first GitHub repository &lpar;in less than 5](https://medium.com/@herminetranie/how-to-create-your-own-first-github-repository-in-less-than-5-ef98d7333c0c?source=rss------data_science-5)
-- [The Bollinger Bands Width Indicator](https://kaabar-sofien.medium.com/the-bollinger-bands-width-indicator-6963869c7390?source=rss------data_science-5)
-- [What are the most common programming languages used in Germany?](https://medium.com/@mo.okaily01/what-are-the-most-common-programming-languages-used-in-germany-381ce4dc53fd?source=rss------data_science-5)
-- [Gradient Descent: A Simple Explanation](https://fsndzomga.medium.com/gradient-descent-a-simple-explanation-43bdfb098fe7?source=rss------data_science-5)
-- [where SQL INJECTION = SMK ALTERATION](https://medium.com/@elltoneverest/sql-injection-is-the-placement-of-malicious-code-in-sql-statements-via-web-page-input-92bd3d257193?source=rss------data_science-5)
-- [Dealing with Categorical Data: Encoding Categorical Features for ML Agorithms](https://medium.com/@berk-hakbilen/dealing-with-categorical-data-encoding-categorical-features-for-ml-agorithms-e6ef881e4670?source=rss------data_science-5)
-- [Operationalizing Machine Learning — Decoupling Engineering from AI](https://medium.com/@angelina.yang/operationalizing-machine-learning-decoupling-engineering-from-ai-111d7fd889d8?source=rss------data_science-5)
-- [Using a Logistic Function in Machine Learning](https://fsndzomga.medium.com/using-a-logistic-function-in-machine-learning-4b2a8a4b3226?source=rss------data_science-5)
+- [O que é essa Tal de Ciência de Dados](https://medium.com/@habbema/o-que-%C3%A9-essa-tal-de-ci%C3%AAncia-de-dados-bbb0f59f915c?source=rss------data_science-5)
+- [In the News: AI for Drug Development, Ensuring Chess Fairness, and Automating Google Sheets!](https://medium.com/hoyalytics/in-the-news-ai-for-drug-development-ensuring-chess-fairness-and-automating-google-sheets-d33ee4224e0?source=rss------data_science-5)
+- [The essence of Linear Programming](https://www.cantorsparadise.com/the-essence-of-linear-programming-21d8191af06a?source=rss------data_science-5)
+- [Statistics for Data Science/Data Analysis-Part 1](https://medium.com/@maheshmouli225/statistics-for-data-science-data-analysis-part-1-dee732a9d3ee?source=rss------data_science-5)
+- [Working with Hilbert Spaces part2&lpar;Computation&rpar;](https://medium.com/@monocosmo77/working-with-hilbert-spaces-part2-computation-a5b5a5216acd?source=rss------data_science-5)
+- [How to  create realistic 3D model of footwear for brands using the new text2image  DallE beta ?](https://medium.datadriveninvestor.com/how-to-create-realistic-3d-model-of-footwear-for-brands-using-the-new-text2image-dalle-beta-d03777423662?source=rss------data_science-5)
+- [What’s new in programming languages?](https://tomaszs2.medium.com/whats-new-in-programming-languages-d87c87bae48d?source=rss------data_science-5)
+- [Working with Hilbert Spaces part1&lpar;Computation&rpar;](https://medium.com/@monocosmo77/working-with-hilbert-spaces-part1-computation-f0e00b13c284?source=rss------data_science-5)
+- [How far has Information Retrieval technology come part1](https://medium.com/@monocosmo77/how-far-has-information-retrieval-technology-come-part1-6039ab527f19?source=rss------data_science-5)
+- [How to check for categorical independence in R and Python](https://medium.com/geekculture/how-to-check-for-categorical-independence-in-r-and-python-6ba83b09004d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
