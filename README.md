@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [O que é essa Tal de Ciência de Dados](https://medium.com/@habbema/o-que-%C3%A9-essa-tal-de-ci%C3%AAncia-de-dados-bbb0f59f915c?source=rss------data_science-5)
-- [In the News: AI for Drug Development, Ensuring Chess Fairness, and Automating Google Sheets!](https://medium.com/hoyalytics/in-the-news-ai-for-drug-development-ensuring-chess-fairness-and-automating-google-sheets-d33ee4224e0?source=rss------data_science-5)
-- [The essence of Linear Programming](https://www.cantorsparadise.com/the-essence-of-linear-programming-21d8191af06a?source=rss------data_science-5)
-- [Statistics for Data Science/Data Analysis-Part 1](https://medium.com/@maheshmouli225/statistics-for-data-science-data-analysis-part-1-dee732a9d3ee?source=rss------data_science-5)
-- [Working with Hilbert Spaces part2&lpar;Computation&rpar;](https://medium.com/@monocosmo77/working-with-hilbert-spaces-part2-computation-a5b5a5216acd?source=rss------data_science-5)
-- [How to  create realistic 3D model of footwear for brands using the new text2image  DallE beta ?](https://medium.datadriveninvestor.com/how-to-create-realistic-3d-model-of-footwear-for-brands-using-the-new-text2image-dalle-beta-d03777423662?source=rss------data_science-5)
-- [What’s new in programming languages?](https://tomaszs2.medium.com/whats-new-in-programming-languages-d87c87bae48d?source=rss------data_science-5)
-- [Working with Hilbert Spaces part1&lpar;Computation&rpar;](https://medium.com/@monocosmo77/working-with-hilbert-spaces-part1-computation-f0e00b13c284?source=rss------data_science-5)
-- [How far has Information Retrieval technology come part1](https://medium.com/@monocosmo77/how-far-has-information-retrieval-technology-come-part1-6039ab527f19?source=rss------data_science-5)
-- [How to check for categorical independence in R and Python](https://medium.com/geekculture/how-to-check-for-categorical-independence-in-r-and-python-6ba83b09004d?source=rss------data_science-5)
+- [5 questions every data scientist should ask before starting a project](https://medium.com/@izumi.katagiri/5-questions-every-data-scientist-should-ask-before-starting-a-project-c8d714375905?source=rss------data_science-5)
+- [『募資簡報：常被疏忽的要點』-07](https://ai360-work.medium.com/%E5%8B%9F%E8%B3%87%E7%B0%A1%E5%A0%B1-%E5%B8%B8%E8%A2%AB%E7%96%8F%E5%BF%BD%E7%9A%84%E8%A6%81%E9%BB%9E-07-20252b698fb7?source=rss------data_science-5)
+- [Types of NLP tokenizers](https://medium.com/@kaoutarc/types-of-nlp-tokenizers-4ba415b8b3f?source=rss------data_science-5)
+- [So, you want to build your data stack?](https://medium.com/@raylan.vaz/so-you-want-to-build-your-data-stack-7af94de882d7?source=rss------data_science-5)
+- [Use Tableau to Engineer a Geographic Feature](https://medium.com/@estall/use-tableau-to-engineer-a-geographic-feature-718235d2023d?source=rss------data_science-5)
+- [Understanding Batch Normalization part3&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/understanding-batch-normalization-part3-machine-learning-2ba4f6c6f410?source=rss------data_science-5)
+- [Understanding Batch Normalization part2&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/understanding-batch-normalization-part2-machine-learning-2055772432ea?source=rss------data_science-5)
+- [Multi-Line Data in Power Query — Part 2](https://henrikmassow.medium.com/multi-line-data-in-power-query-part-2-42c157a4c1b3?source=rss------data_science-5)
+- [Understanding Batch Normalization part1&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/understanding-batch-normalization-part1-machine-learning-66ba792620b1?source=rss------data_science-5)
+- [Trading the Shark Pattern](https://kaabar-sofien.medium.com/trading-the-shark-pattern-d4c35909c56d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
