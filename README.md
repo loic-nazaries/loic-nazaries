@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [5 questions every data scientist should ask before starting a project](https://medium.com/@izumi.katagiri/5-questions-every-data-scientist-should-ask-before-starting-a-project-c8d714375905?source=rss------data_science-5)
-- [『募資簡報：常被疏忽的要點』-07](https://ai360-work.medium.com/%E5%8B%9F%E8%B3%87%E7%B0%A1%E5%A0%B1-%E5%B8%B8%E8%A2%AB%E7%96%8F%E5%BF%BD%E7%9A%84%E8%A6%81%E9%BB%9E-07-20252b698fb7?source=rss------data_science-5)
-- [Types of NLP tokenizers](https://medium.com/@kaoutarc/types-of-nlp-tokenizers-4ba415b8b3f?source=rss------data_science-5)
-- [So, you want to build your data stack?](https://medium.com/@raylan.vaz/so-you-want-to-build-your-data-stack-7af94de882d7?source=rss------data_science-5)
-- [Use Tableau to Engineer a Geographic Feature](https://medium.com/@estall/use-tableau-to-engineer-a-geographic-feature-718235d2023d?source=rss------data_science-5)
-- [Understanding Batch Normalization part3&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/understanding-batch-normalization-part3-machine-learning-2ba4f6c6f410?source=rss------data_science-5)
-- [Understanding Batch Normalization part2&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/understanding-batch-normalization-part2-machine-learning-2055772432ea?source=rss------data_science-5)
-- [Multi-Line Data in Power Query — Part 2](https://henrikmassow.medium.com/multi-line-data-in-power-query-part-2-42c157a4c1b3?source=rss------data_science-5)
-- [Understanding Batch Normalization part1&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/understanding-batch-normalization-part1-machine-learning-66ba792620b1?source=rss------data_science-5)
-- [Trading the Shark Pattern](https://kaabar-sofien.medium.com/trading-the-shark-pattern-d4c35909c56d?source=rss------data_science-5)
+- [Python Tutorial: Gather Data Through API and Web Scraping](https://medium.com/@yaohong010/python-tutorial-gather-data-through-api-and-web-scraping-f55de6000cac?source=rss------data_science-5)
+- [AWS Cloud 9 — Learning Log 9](https://medium.com/@kamaljp/aws-cloud-9-learning-log-9-7c792970504a?source=rss------data_science-5)
+- [Why is the Sigmoid Activation Function Useful?](https://medium.com/@angelina.yang/why-is-the-sigmoid-activation-function-useful-ef7946ef6b72?source=rss------data_science-5)
+- [Transcribing Audio Files Never Been Easier](https://medium.com/@angelina.yang/transcribing-audio-files-never-been-easier-1a01d1142bea?source=rss------data_science-5)
+- [Snowpark Python: How to Migrate Your Data Science Projects, Part 4](https://medium.com/@sergio_brenes/snowpark-python-how-to-migrate-your-data-science-projects-part-4-4b4988ba71d8?source=rss------data_science-5)
+- [Privacy vs. Protected Attributes: The Interconnected Opposite Forces that Underpin Fairness](https://medium.com/seek-blog/privacy-vs-protected-attributes-the-interconnected-opposite-forces-that-underpin-fairness-179d637aeb1c?source=rss------data_science-5)
+- [In-depth Azure Machine Learning Model Train, Test, and Deploy Pipelines on Cloud With Endpoints for…](https://pub.towardsai.net/in-depth-azure-machine-learning-model-train-test-and-deploy-pipelines-on-cloud-with-endpoints-for-b062d8d758ff?source=rss------data_science-5)
+- [10 Reasons to Not WRITE or SPEAK About AI](https://medium.com/the-shortform/10-reasons-to-not-write-or-speak-about-ai-24f7325bb1d1?source=rss------data_science-5)
+- [Snowpark Python: How to Migrate Your Data Science Projects, Part 3](https://medium.com/@sergio_brenes/snowpark-python-how-to-migrate-your-data-science-projects-part-3-3ac4df961a1e?source=rss------data_science-5)
+- [Anécdota: Mi primer contacto con la Ciencia de Datos](https://medium.com/@gregoryvicent.dev/an%C3%A9cdota-mi-primer-contacto-con-la-ciencia-de-datos-248610badc0c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
