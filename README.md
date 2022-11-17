@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Python Tutorial: Gather Data Through API and Web Scraping](https://medium.com/@yaohong010/python-tutorial-gather-data-through-api-and-web-scraping-f55de6000cac?source=rss------data_science-5)
-- [AWS Cloud 9 — Learning Log 9](https://medium.com/@kamaljp/aws-cloud-9-learning-log-9-7c792970504a?source=rss------data_science-5)
-- [Why is the Sigmoid Activation Function Useful?](https://medium.com/@angelina.yang/why-is-the-sigmoid-activation-function-useful-ef7946ef6b72?source=rss------data_science-5)
-- [Transcribing Audio Files Never Been Easier](https://medium.com/@angelina.yang/transcribing-audio-files-never-been-easier-1a01d1142bea?source=rss------data_science-5)
-- [Snowpark Python: How to Migrate Your Data Science Projects, Part 4](https://medium.com/@sergio_brenes/snowpark-python-how-to-migrate-your-data-science-projects-part-4-4b4988ba71d8?source=rss------data_science-5)
-- [Privacy vs. Protected Attributes: The Interconnected Opposite Forces that Underpin Fairness](https://medium.com/seek-blog/privacy-vs-protected-attributes-the-interconnected-opposite-forces-that-underpin-fairness-179d637aeb1c?source=rss------data_science-5)
-- [In-depth Azure Machine Learning Model Train, Test, and Deploy Pipelines on Cloud With Endpoints for…](https://pub.towardsai.net/in-depth-azure-machine-learning-model-train-test-and-deploy-pipelines-on-cloud-with-endpoints-for-b062d8d758ff?source=rss------data_science-5)
-- [10 Reasons to Not WRITE or SPEAK About AI](https://medium.com/the-shortform/10-reasons-to-not-write-or-speak-about-ai-24f7325bb1d1?source=rss------data_science-5)
-- [Snowpark Python: How to Migrate Your Data Science Projects, Part 3](https://medium.com/@sergio_brenes/snowpark-python-how-to-migrate-your-data-science-projects-part-3-3ac4df961a1e?source=rss------data_science-5)
-- [Anécdota: Mi primer contacto con la Ciencia de Datos](https://medium.com/@gregoryvicent.dev/an%C3%A9cdota-mi-primer-contacto-con-la-ciencia-de-datos-248610badc0c?source=rss------data_science-5)
+- [『募資簡報：常被疏忽的要點』-08](https://ai360-work.medium.com/%E5%8B%9F%E8%B3%87%E7%B0%A1%E5%A0%B1-%E5%B8%B8%E8%A2%AB%E7%96%8F%E5%BF%BD%E7%9A%84%E8%A6%81%E9%BB%9E-08-85bbc2229c16?source=rss------data_science-5)
+- [Aggregating Moving Averages in Python](https://kaabar-sofien.medium.com/aggregating-moving-averages-in-python-5a03351ef1e1?source=rss------data_science-5)
+- [Improve Neural Networks by using Complex Numbers](https://machine-learning-made-simple.medium.com/improve-neural-networks-by-using-complex-numbers-5e142b8931e6?source=rss------data_science-5)
+- [Writing A Medium Article Using AI](https://medium.com/geekculture/writing-a-medium-article-using-ai-8dccc58217c0?source=rss------data_science-5)
+- [The shit just hit the fan — 3 fullproof ways to deal with raining shit](https://medium.com/@thesilentmonk/the-shit-just-hit-the-fan-3-fullproof-ways-to-deal-with-raining-shit-d0e4fed55625?source=rss------data_science-5)
+- [What Do Data Scientists Truly Want?](https://pub.towardsai.net/what-do-data-scientists-truly-want-37aa80ed2a1b?source=rss------data_science-5)
+- [Confusion Matrix](https://medium.com/@gajendra.k.s/confusion-matrix-670e3c91a25c?source=rss------data_science-5)
+- [A/B Testing](https://medium.com/@zbeyza/a-b-testing-c2bdb065fb39?source=rss------data_science-5)
+- [Advanced Joins: Left, Right, and Full Outer Joins](https://onyxwrench.medium.com/advanced-joins-left-right-and-full-outer-joins-d54952cfe788?source=rss------data_science-5)
+- [Here Be Dragons: 6 pitfalls to look out for in data pipeline projects](https://medium.com/@volocrew/here-be-dragons-6-pitfalls-to-look-out-for-in-data-pipeline-projects-3b9238175920?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
