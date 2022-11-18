@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [『募資簡報：常被疏忽的要點』-08](https://ai360-work.medium.com/%E5%8B%9F%E8%B3%87%E7%B0%A1%E5%A0%B1-%E5%B8%B8%E8%A2%AB%E7%96%8F%E5%BF%BD%E7%9A%84%E8%A6%81%E9%BB%9E-08-85bbc2229c16?source=rss------data_science-5)
-- [Aggregating Moving Averages in Python](https://kaabar-sofien.medium.com/aggregating-moving-averages-in-python-5a03351ef1e1?source=rss------data_science-5)
-- [Improve Neural Networks by using Complex Numbers](https://machine-learning-made-simple.medium.com/improve-neural-networks-by-using-complex-numbers-5e142b8931e6?source=rss------data_science-5)
-- [Writing A Medium Article Using AI](https://medium.com/geekculture/writing-a-medium-article-using-ai-8dccc58217c0?source=rss------data_science-5)
-- [The shit just hit the fan — 3 fullproof ways to deal with raining shit](https://medium.com/@thesilentmonk/the-shit-just-hit-the-fan-3-fullproof-ways-to-deal-with-raining-shit-d0e4fed55625?source=rss------data_science-5)
-- [What Do Data Scientists Truly Want?](https://pub.towardsai.net/what-do-data-scientists-truly-want-37aa80ed2a1b?source=rss------data_science-5)
-- [Confusion Matrix](https://medium.com/@gajendra.k.s/confusion-matrix-670e3c91a25c?source=rss------data_science-5)
-- [A/B Testing](https://medium.com/@zbeyza/a-b-testing-c2bdb065fb39?source=rss------data_science-5)
-- [Advanced Joins: Left, Right, and Full Outer Joins](https://onyxwrench.medium.com/advanced-joins-left-right-and-full-outer-joins-d54952cfe788?source=rss------data_science-5)
-- [Here Be Dragons: 6 pitfalls to look out for in data pipeline projects](https://medium.com/@volocrew/here-be-dragons-6-pitfalls-to-look-out-for-in-data-pipeline-projects-3b9238175920?source=rss------data_science-5)
+- [Want to write LESS code in Python? Learn These 10 One-Liners!](https://medium.com/codex/want-to-write-less-code-in-python-learn-these-10-one-liners-252a8eeacadd?source=rss------data_science-5)
+- [How I’d Learn Data Science If I Could Start Over &lpar;4 Years In&rpar;](https://towardsdatascience.com/how-id-learn-data-science-if-i-could-start-over-4-years-in-999f8144f897?source=rss------data_science-5)
+- [Timeseries Cleaning and Data Imputation for Building Science](https://medium.com/@christopher_29124/timeseries-cleaning-and-imputation-a96ab7e45eb7?source=rss------data_science-5)
+- [Machine Learning and Early Disease Detection](https://medium.com/@amandawalsh94/data-science-and-early-disease-detection-2840ad7b478f?source=rss------data_science-5)
+- [DSD Fall 2022: Quantifying the Commons &lpar;6/10&rpar;](https://medium.com/@bransthre/dsd-fall-2022-quantifying-the-commons-6-10-961de95ef3aa?source=rss------data_science-5)
+- [Natural Language Process — P1](https://medium.com/data-wiz/natural-language-process-p1-fe63347a3062?source=rss------data_science-5)
+- [SciML Introduction](https://medium.com/@COLSACorp/sciml-introduction-34cf6d077b2a?source=rss------data_science-5)
+- [DSD Fall 2022: Quantifying the Commons &lpar;5/10&rpar;](https://medium.com/@bransthre/dsd-fall-2022-quantifying-the-commons-5-10-475334a8895?source=rss------data_science-5)
+- [Incidental Prediction of Variables with PINNs](https://medium.com/@COLSACorp/incidental-prediction-of-variables-with-pinns-f1c295c267e?source=rss------data_science-5)
+- [What Effects Will Web 3 Have on Digital Marketing](https://medium.com/@qosimatere0006/what-effects-will-web-3-have-on-digital-marketing-b848f8b7e93a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
