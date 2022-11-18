@@ -122,7 +122,7 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
-- [5 Pandas Functions That I Think You Hardly Ever Used](https://towardsdatascience.com/5-pandas-functions-that-i-think-you-hardly-ever-used-34c21874bc7e?source=rss-2cf6b549448------2)
+- [5 Pandas Functions That I Think You Hardly Ever Used](https://sonery.medium.com/5-pandas-functions-that-i-think-you-hardly-ever-used-34c21874bc7e?source=rss-2cf6b549448------2)
 - [Great Expectations: Automated Testing for Data Science and Engineering Teams](https://towardsdatascience.com/great-expectations-automated-testing-for-data-science-and-engineering-teams-1e7c78f1d2d5?source=rss-2cf6b549448------2)
 - [3 Ways to Count the Item Frequencies in a Python List](https://towardsdatascience.com/3-ways-to-count-the-item-frequencies-in-a-python-list-89975f118899?source=rss-2cf6b549448------2)
 - [Hardware-Aware AI Model Optimization with NetsPresso](https://sonery.medium.com/hardware-aware-ai-model-optimization-with-netspresso-c040e80aa0ba?source=rss-2cf6b549448------2)
