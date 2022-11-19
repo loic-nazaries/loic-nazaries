@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Want to write LESS code in Python? Learn These 10 One-Liners!](https://medium.com/codex/want-to-write-less-code-in-python-learn-these-10-one-liners-252a8eeacadd?source=rss------data_science-5)
-- [How I’d Learn Data Science If I Could Start Over &lpar;4 Years In&rpar;](https://towardsdatascience.com/how-id-learn-data-science-if-i-could-start-over-4-years-in-999f8144f897?source=rss------data_science-5)
-- [Timeseries Cleaning and Data Imputation for Building Science](https://medium.com/@christopher_29124/timeseries-cleaning-and-imputation-a96ab7e45eb7?source=rss------data_science-5)
-- [Machine Learning and Early Disease Detection](https://medium.com/@amandawalsh94/data-science-and-early-disease-detection-2840ad7b478f?source=rss------data_science-5)
-- [DSD Fall 2022: Quantifying the Commons &lpar;6/10&rpar;](https://medium.com/@bransthre/dsd-fall-2022-quantifying-the-commons-6-10-961de95ef3aa?source=rss------data_science-5)
-- [Natural Language Process — P1](https://medium.com/data-wiz/natural-language-process-p1-fe63347a3062?source=rss------data_science-5)
-- [SciML Introduction](https://medium.com/@COLSACorp/sciml-introduction-34cf6d077b2a?source=rss------data_science-5)
-- [DSD Fall 2022: Quantifying the Commons &lpar;5/10&rpar;](https://medium.com/@bransthre/dsd-fall-2022-quantifying-the-commons-5-10-475334a8895?source=rss------data_science-5)
-- [Incidental Prediction of Variables with PINNs](https://medium.com/@COLSACorp/incidental-prediction-of-variables-with-pinns-f1c295c267e?source=rss------data_science-5)
-- [What Effects Will Web 3 Have on Digital Marketing](https://medium.com/@qosimatere0006/what-effects-will-web-3-have-on-digital-marketing-b848f8b7e93a?source=rss------data_science-5)
+- [Tech4Good #1 — Whose perspective is not in the room?](https://delaltomruk.medium.com/tech4good-1-whose-perspective-is-not-in-the-room-76cd108696bd?source=rss------data_science-5)
+- [Handling Outliers in Machine Learning](https://medium.com/@devanshis7300/handling-outliers-in-machine-learning-2db1d982030c?source=rss------data_science-5)
+- [Create and host a Data Science Model using Streamlit and Heroku](https://medium.com/@rishitsaraf/create-and-host-a-data-science-model-using-streamlit-and-heroku-fe45e0482c8?source=rss------data_science-5)
+- [Why is Mean Squared Error &lpar;MSE&rpar; So Popular?](https://towardsdatascience.com/why-is-mean-squared-error-mse-so-popular-4320d5f003e5?source=rss------data_science-5)
+- [Tv series](https://medium.com/@crnelson1984/tv-series-53edeaa79cfa?source=rss------data_science-5)
+- [Estimating ROI of Machine Learning Projects](https://medium.com/@vamsinellutla/estimating-roi-of-machine-learning-projects-1c6966b28f73?source=rss------data_science-5)
+- [Relationship Between Data Science, Data Analytics and Data Analysis
+Many people often mix these…](https://medium.com/@paulakindiji/relationship-between-data-science-data-analytics-and-data-analysis-many-people-often-mix-these-d98d97400642?source=rss------data_science-5)
+- [Classic MapReduce Job run](https://incog-geek.medium.com/classic-mapreduce-job-run-69014a0b890c?source=rss------data_science-5)
+- [Data science/ML help tool —  part 1 — raw data analysis with Python and Flask](https://workerlv.medium.com/data-science-ml-help-tool-part-1-raw-data-analysis-with-python-and-flask-7ce4debe1810?source=rss------data_science-5)
+- [How Machine Learning can help us to deal with the Complexity of Algorithms](https://medium.com/@monocosmo77/how-machine-learning-can-help-us-to-deal-with-the-complexity-of-algorithms-2b202f4432a5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
