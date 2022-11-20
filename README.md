@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Tech4Good #1 — Whose perspective is not in the room?](https://delaltomruk.medium.com/tech4good-1-whose-perspective-is-not-in-the-room-76cd108696bd?source=rss------data_science-5)
-- [Handling Outliers in Machine Learning](https://medium.com/@devanshis7300/handling-outliers-in-machine-learning-2db1d982030c?source=rss------data_science-5)
-- [Create and host a Data Science Model using Streamlit and Heroku](https://medium.com/@rishitsaraf/create-and-host-a-data-science-model-using-streamlit-and-heroku-fe45e0482c8?source=rss------data_science-5)
-- [Why is Mean Squared Error &lpar;MSE&rpar; So Popular?](https://towardsdatascience.com/why-is-mean-squared-error-mse-so-popular-4320d5f003e5?source=rss------data_science-5)
-- [Tv series](https://medium.com/@crnelson1984/tv-series-53edeaa79cfa?source=rss------data_science-5)
-- [Estimating ROI of Machine Learning Projects](https://medium.com/@vamsinellutla/estimating-roi-of-machine-learning-projects-1c6966b28f73?source=rss------data_science-5)
-- [Relationship Between Data Science, Data Analytics and Data Analysis
-Many people often mix these…](https://medium.com/@paulakindiji/relationship-between-data-science-data-analytics-and-data-analysis-many-people-often-mix-these-d98d97400642?source=rss------data_science-5)
-- [Classic MapReduce Job run](https://incog-geek.medium.com/classic-mapreduce-job-run-69014a0b890c?source=rss------data_science-5)
-- [Data science/ML help tool —  part 1 — raw data analysis with Python and Flask](https://workerlv.medium.com/data-science-ml-help-tool-part-1-raw-data-analysis-with-python-and-flask-7ce4debe1810?source=rss------data_science-5)
-- [How Machine Learning can help us to deal with the Complexity of Algorithms](https://medium.com/@monocosmo77/how-machine-learning-can-help-us-to-deal-with-the-complexity-of-algorithms-2b202f4432a5?source=rss------data_science-5)
+- [17 Free Data Science Courses with Certificate! -by Kaggle.](https://medium.com/@vespinozag/17-free-data-science-courses-with-certificate-by-kaggle-281b7ebbc20b?source=rss------data_science-5)
+- [How to do a Data Analytics Project](https://data-storyteller.medium.com/how-to-do-a-data-analytics-project-da710e317e3a?source=rss------data_science-5)
+- [I Dumped My Job As A Data Scientist](https://medium.com/@maxwellgray223/i-dumped-my-job-as-a-data-scientist-8451da760eb0?source=rss------data_science-5)
+- [Data Is The How, Business Is The Why](https://medium.com/coriers/data-is-the-how-business-is-the-why-50232359d0a4?source=rss------data_science-5)
+- [What You Need To Know About The FIFA World Cup](https://medium.com/@Mubarak_Ganiyu/what-you-need-to-know-about-the-fifa-world-cup-da6ff7850232?source=rss------data_science-5)
+- [Data Storytelling for Global Inequality](https://medium.com/@marina.berdikhanova/data-storytelling-for-global-inequality-86dc424fc881?source=rss------data_science-5)
+- [Subquery in SQL : Query within Query](https://medium.com/@anmolpanna/subquery-in-sql-query-within-query-b998348aaa06?source=rss------data_science-5)
+- [My new ebooks on Amazon Kindle](https://yonathanbouazizboaz.medium.com/my-new-ebooks-on-amazon-kindle-1b68383a5b60?source=rss------data_science-5)
+- [The introduction to basic tools of football Data Scientist.](https://footsci.medium.com/the-introduction-to-basic-tools-of-football-data-scientist-2ab78dd7bec2?source=rss------data_science-5)
+- [Tokenization — The Future of Healthcare Data Management?](https://medium.com/@cara.com/tokenization-the-future-of-healthcare-data-management-54a511afdcbe?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
