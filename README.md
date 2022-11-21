@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [17 Free Data Science Courses with Certificate! -by Kaggle.](https://medium.com/@vespinozag/17-free-data-science-courses-with-certificate-by-kaggle-281b7ebbc20b?source=rss------data_science-5)
-- [How to do a Data Analytics Project](https://data-storyteller.medium.com/how-to-do-a-data-analytics-project-da710e317e3a?source=rss------data_science-5)
-- [I Dumped My Job As A Data Scientist](https://medium.com/@maxwellgray223/i-dumped-my-job-as-a-data-scientist-8451da760eb0?source=rss------data_science-5)
-- [Data Is The How, Business Is The Why](https://medium.com/coriers/data-is-the-how-business-is-the-why-50232359d0a4?source=rss------data_science-5)
-- [What You Need To Know About The FIFA World Cup](https://medium.com/@Mubarak_Ganiyu/what-you-need-to-know-about-the-fifa-world-cup-da6ff7850232?source=rss------data_science-5)
-- [Data Storytelling for Global Inequality](https://medium.com/@marina.berdikhanova/data-storytelling-for-global-inequality-86dc424fc881?source=rss------data_science-5)
-- [Subquery in SQL : Query within Query](https://medium.com/@anmolpanna/subquery-in-sql-query-within-query-b998348aaa06?source=rss------data_science-5)
-- [My new ebooks on Amazon Kindle](https://yonathanbouazizboaz.medium.com/my-new-ebooks-on-amazon-kindle-1b68383a5b60?source=rss------data_science-5)
-- [The introduction to basic tools of football Data Scientist.](https://footsci.medium.com/the-introduction-to-basic-tools-of-football-data-scientist-2ab78dd7bec2?source=rss------data_science-5)
-- [Tokenization — The Future of Healthcare Data Management?](https://medium.com/@cara.com/tokenization-the-future-of-healthcare-data-management-54a511afdcbe?source=rss------data_science-5)
+- [How Machine Learning can help us to deal with the Complexity of Algorithms &lpar;part2 of the 5 part…](https://medium.com/@monocosmo77/how-machine-learning-can-help-us-to-deal-with-the-complexity-of-algorithms-part2-of-the-5-part-a80c9edbd590?source=rss------data_science-5)
+- [Emerging Technologies and the Future of Business](https://medium.datadriveninvestor.com/emerging-technologies-and-the-future-of-business-138efcec227e?source=rss------data_science-5)
+- [Python Vs. R for Data Scientists: Final Round!](https://medium.datadriveninvestor.com/python-vs-r-for-data-scientists-final-round-808b407c0d13?source=rss------data_science-5)
+- [Analisando o Perfil Dos Jogadores Da Copa Por Meio Do Algoritmo K-Means](https://medium.com/@dpsoeiro/analisando-o-perfil-dos-jogadores-da-copa-por-meio-do-algoritmo-k-means-f518f66733ca?source=rss------data_science-5)
+- [Tools for SEO 2023](https://medium.com/@amrnono948/tools-for-seo-2023-d4183b7efc37?source=rss------data_science-5)
+- [AI 201: Your Second Neural Network, Step by Step!](https://medium.com/@SebastianMateusP/ai-201-your-second-neural-network-step-by-step-ac68c0d18f61?source=rss------data_science-5)
+- [Leadership in AI: Is your leadership fit for DataScience?](https://pub.towardsai.net/leadership-in-ai-is-your-leadership-fit-for-datascience-d0e9296be2d6?source=rss------data_science-5)
+- [Working with Text Strings](https://onyxwrench.medium.com/working-with-text-strings-a540c2ac3730?source=rss------data_science-5)
+- [How to Start a Data Initiative](https://medium.com/@kckerr131/how-to-start-a-data-initiative-fed6fad15fcb?source=rss------data_science-5)
+- [UNIONS in SQL](https://onyxwrench.medium.com/unions-in-sql-c7d22d4472df?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
