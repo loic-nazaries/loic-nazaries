@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How Machine Learning can help us to deal with the Complexity of Algorithms &lpar;part2 of the 5 part…](https://medium.com/@monocosmo77/how-machine-learning-can-help-us-to-deal-with-the-complexity-of-algorithms-part2-of-the-5-part-a80c9edbd590?source=rss------data_science-5)
-- [Emerging Technologies and the Future of Business](https://medium.datadriveninvestor.com/emerging-technologies-and-the-future-of-business-138efcec227e?source=rss------data_science-5)
-- [Python Vs. R for Data Scientists: Final Round!](https://medium.datadriveninvestor.com/python-vs-r-for-data-scientists-final-round-808b407c0d13?source=rss------data_science-5)
-- [Analisando o Perfil Dos Jogadores Da Copa Por Meio Do Algoritmo K-Means](https://medium.com/@dpsoeiro/analisando-o-perfil-dos-jogadores-da-copa-por-meio-do-algoritmo-k-means-f518f66733ca?source=rss------data_science-5)
-- [Tools for SEO 2023](https://medium.com/@amrnono948/tools-for-seo-2023-d4183b7efc37?source=rss------data_science-5)
-- [AI 201: Your Second Neural Network, Step by Step!](https://medium.com/@SebastianMateusP/ai-201-your-second-neural-network-step-by-step-ac68c0d18f61?source=rss------data_science-5)
-- [Leadership in AI: Is your leadership fit for DataScience?](https://pub.towardsai.net/leadership-in-ai-is-your-leadership-fit-for-datascience-d0e9296be2d6?source=rss------data_science-5)
-- [Working with Text Strings](https://onyxwrench.medium.com/working-with-text-strings-a540c2ac3730?source=rss------data_science-5)
-- [How to Start a Data Initiative](https://medium.com/@kckerr131/how-to-start-a-data-initiative-fed6fad15fcb?source=rss------data_science-5)
-- [UNIONS in SQL](https://onyxwrench.medium.com/unions-in-sql-c7d22d4472df?source=rss------data_science-5)
+- [How to Install MySQL and MySQL Workbench &lpar;Simplified&rpar;](https://medium.com/@cmor3/how-to-install-mysql-and-mysql-workbench-simplified-bbcf637f28f0?source=rss------data_science-5)
+- [『募資簡報：常被疏忽的要點』-09](https://ai360-work.medium.com/%E5%8B%9F%E8%B3%87%E7%B0%A1%E5%A0%B1-%E5%B8%B8%E8%A2%AB%E7%96%8F%E5%BF%BD%E7%9A%84%E8%A6%81%E9%BB%9E-09-e545b77ffb2?source=rss------data_science-5)
+- [Building a Color Picker with Python](https://towardsdatascience.com/building-a-color-picker-with-python-55e8357539e7?source=rss------data_science-5)
+- [Binomial Distributions Applied and Visualized &lpar;In Python&rpar;](https://medium.com/@tharikhajar/binomial-distributions-applied-and-visualized-in-python-85dc51d3d473?source=rss------data_science-5)
+- [30 Charts in 30 Minutes in Tableau](https://medium.com/@robert.j.breen/30-charts-in-30-minutes-in-tableau-ff259e269080?source=rss------data_science-5)
+- [What I learned from a Deep Dive into Responsible Data Science and AI](https://medium.com/rti-cds/what-i-learned-from-a-deep-dive-into-responsible-data-science-and-ai-da77be7cf3e6?source=rss------data_science-5)
+- [7 Big Open Issues in Responsible Data Science and AI](https://medium.com/rti-cds/7-big-open-issues-in-responsible-data-science-and-ai-f4df1aeeb0e4?source=rss------data_science-5)
+- [12 Conferences Related to Responsible Data Science and AI](https://medium.com/rti-cds/12-conferences-related-to-responsible-data-science-and-ai-1a076a22fc71?source=rss------data_science-5)
+- [I Want to Learn More About Responsible Data Science: A Recommended Reading List](https://medium.com/rti-cds/i-want-to-learn-more-about-responsible-data-science-a-recommended-reading-list-2abf312e7f8e?source=rss------data_science-5)
+- [3 Major Responsible AI Incidents that Data Scientists Can Learn From](https://medium.com/rti-cds/3-major-responsible-ai-incidents-that-data-scientists-can-learn-from-e31c5ce970c3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
