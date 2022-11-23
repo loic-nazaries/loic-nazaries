@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Install MySQL and MySQL Workbench &lpar;Simplified&rpar;](https://medium.com/@cmor3/how-to-install-mysql-and-mysql-workbench-simplified-bbcf637f28f0?source=rss------data_science-5)
-- [『募資簡報：常被疏忽的要點』-09](https://ai360-work.medium.com/%E5%8B%9F%E8%B3%87%E7%B0%A1%E5%A0%B1-%E5%B8%B8%E8%A2%AB%E7%96%8F%E5%BF%BD%E7%9A%84%E8%A6%81%E9%BB%9E-09-e545b77ffb2?source=rss------data_science-5)
-- [Building a Color Picker with Python](https://towardsdatascience.com/building-a-color-picker-with-python-55e8357539e7?source=rss------data_science-5)
-- [Binomial Distributions Applied and Visualized &lpar;In Python&rpar;](https://medium.com/@tharikhajar/binomial-distributions-applied-and-visualized-in-python-85dc51d3d473?source=rss------data_science-5)
-- [30 Charts in 30 Minutes in Tableau](https://medium.com/@robert.j.breen/30-charts-in-30-minutes-in-tableau-ff259e269080?source=rss------data_science-5)
-- [What I learned from a Deep Dive into Responsible Data Science and AI](https://medium.com/rti-cds/what-i-learned-from-a-deep-dive-into-responsible-data-science-and-ai-da77be7cf3e6?source=rss------data_science-5)
-- [7 Big Open Issues in Responsible Data Science and AI](https://medium.com/rti-cds/7-big-open-issues-in-responsible-data-science-and-ai-f4df1aeeb0e4?source=rss------data_science-5)
-- [12 Conferences Related to Responsible Data Science and AI](https://medium.com/rti-cds/12-conferences-related-to-responsible-data-science-and-ai-1a076a22fc71?source=rss------data_science-5)
-- [I Want to Learn More About Responsible Data Science: A Recommended Reading List](https://medium.com/rti-cds/i-want-to-learn-more-about-responsible-data-science-a-recommended-reading-list-2abf312e7f8e?source=rss------data_science-5)
-- [3 Major Responsible AI Incidents that Data Scientists Can Learn From](https://medium.com/rti-cds/3-major-responsible-ai-incidents-that-data-scientists-can-learn-from-e31c5ce970c3?source=rss------data_science-5)
+- [Are You All a Bunch of Sheep?](https://medium.com/the-shortform/are-you-all-a-bunch-of-sheep-8a173142c4f5?source=rss------data_science-5)
+- [India’s emerging data centre hubs](https://shobhitsahab.medium.com/indias-emerging-data-centre-hubs-870c5d0b7209?source=rss------data_science-5)
+- [AICPrime PoT Algorithm](https://medium.com/@aicprime/aicprime-pot-algorithm-64c29b42a769?source=rss------data_science-5)
+- [Video Series: College Decisions](https://piperhendricks.medium.com/video-series-college-decisions-ad26185be99f?source=rss------data_science-5)
+- [The obscure art of data design](https://towardsdatascience.com/the-obscure-art-of-data-design-397ffb230596?source=rss------data_science-5)
+- [Airbnb Data Analysis — Milan, Italy](https://medium.com/@arefosco/airbnb-data-analysis-milan-italy-49404f008bb3?source=rss------data_science-5)
+- [Feeding The AI Beast](https://johnnosta.medium.com/feeding-the-ai-beast-73f00caacb11?source=rss------data_science-5)
+- [Analfabetismo no Brasil:](https://medium.com/@cesarabaraujo/analfabetismo-no-brasil-c3fca03e7029?source=rss------data_science-5)
+- [Öneri Sistemleri ve &lpar;Recommendation Systems&rpar;](https://medium.com/@necibecan16/%C3%B6neri-sistemleri-ve-recommendation-systems-ce8f0cbebccc?source=rss------data_science-5)
+- [Learn Statistics with Python &lpar;Certification&rpar;](https://internetdigitalentrepreneur.medium.com/learn-statistics-with-python-certification-f5ba8d7028f9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
