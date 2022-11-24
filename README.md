@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Are You All a Bunch of Sheep?](https://medium.com/the-shortform/are-you-all-a-bunch-of-sheep-8a173142c4f5?source=rss------data_science-5)
-- [India’s emerging data centre hubs](https://shobhitsahab.medium.com/indias-emerging-data-centre-hubs-870c5d0b7209?source=rss------data_science-5)
-- [AICPrime PoT Algorithm](https://medium.com/@aicprime/aicprime-pot-algorithm-64c29b42a769?source=rss------data_science-5)
-- [Video Series: College Decisions](https://piperhendricks.medium.com/video-series-college-decisions-ad26185be99f?source=rss------data_science-5)
-- [The obscure art of data design](https://towardsdatascience.com/the-obscure-art-of-data-design-397ffb230596?source=rss------data_science-5)
-- [Airbnb Data Analysis — Milan, Italy](https://medium.com/@arefosco/airbnb-data-analysis-milan-italy-49404f008bb3?source=rss------data_science-5)
-- [Feeding The AI Beast](https://johnnosta.medium.com/feeding-the-ai-beast-73f00caacb11?source=rss------data_science-5)
-- [Analfabetismo no Brasil:](https://medium.com/@cesarabaraujo/analfabetismo-no-brasil-c3fca03e7029?source=rss------data_science-5)
-- [Öneri Sistemleri ve &lpar;Recommendation Systems&rpar;](https://medium.com/@necibecan16/%C3%B6neri-sistemleri-ve-recommendation-systems-ce8f0cbebccc?source=rss------data_science-5)
-- [Learn Statistics with Python &lpar;Certification&rpar;](https://internetdigitalentrepreneur.medium.com/learn-statistics-with-python-certification-f5ba8d7028f9?source=rss------data_science-5)
+- [Why DataJoey?](https://medium.com/datajoey/why-datajoey-506533846146?source=rss------data_science-5)
+- [what are Data Entry and research?](https://medium.com/@hatim.benimran.07/what-are-data-entry-and-research-37e68963f122?source=rss------data_science-5)
+- [Tableau Tutorial — How to create a Pie Chart](https://medium.com/mlearning-ai/tableau-tutorial-how-to-create-a-pie-chart-43f6d528d4de?source=rss------data_science-5)
+- [Embedding based retrieval: approximate nearest neighbor algorithms used in production systems](https://medium.com/@bb8s/embedding-based-retrieval-approximate-nearest-neighbor-algorithms-used-in-production-systems-b96dd4b2e9a3?source=rss------data_science-5)
+- [Integrate your ML model into Snowflake](https://medium.com/@JosephZahar/integrate-your-ml-model-into-snowflake-c7a293154447?source=rss------data_science-5)
+- [How not to pay Adobe and process multiple photos with Python &lpar;using the GPU no less!&rpar;](https://thiago-lira.medium.com/how-not-to-pay-adobe-and-process-multiple-photos-with-python-using-the-gpu-no-less-169c59c1c9ce?source=rss------data_science-5)
+- [META’s CICERO: beating humans at diplomacy](https://medium.com/mlearning-ai/metas-cicero-beating-humans-at-diplomacy-298fd1b365d7?source=rss------data_science-5)
+- [11 Less Used but Important Plots for Data Science](https://towardsdatascience.com/11-less-used-but-important-plots-for-data-science-dede3f9b7ebd?source=rss------data_science-5)
+- [AUC ROC Curve](https://medium.com/@gajendra.k.s/auc-roc-curve-ff16c0989dfe?source=rss------data_science-5)
+- [The Distinctions Between AI, Machine Learning, and Deep Learning](https://medium.com/@fergie19702004_40140/the-distinctions-between-ai-machine-learning-and-deep-learning-1fce78b6cea8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
