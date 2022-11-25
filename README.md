@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why DataJoey?](https://medium.com/datajoey/why-datajoey-506533846146?source=rss------data_science-5)
-- [what are Data Entry and research?](https://medium.com/@hatim.benimran.07/what-are-data-entry-and-research-37e68963f122?source=rss------data_science-5)
-- [Tableau Tutorial — How to create a Pie Chart](https://medium.com/mlearning-ai/tableau-tutorial-how-to-create-a-pie-chart-43f6d528d4de?source=rss------data_science-5)
-- [Embedding based retrieval: approximate nearest neighbor algorithms used in production systems](https://medium.com/@bb8s/embedding-based-retrieval-approximate-nearest-neighbor-algorithms-used-in-production-systems-b96dd4b2e9a3?source=rss------data_science-5)
-- [Integrate your ML model into Snowflake](https://medium.com/@JosephZahar/integrate-your-ml-model-into-snowflake-c7a293154447?source=rss------data_science-5)
-- [How not to pay Adobe and process multiple photos with Python &lpar;using the GPU no less!&rpar;](https://thiago-lira.medium.com/how-not-to-pay-adobe-and-process-multiple-photos-with-python-using-the-gpu-no-less-169c59c1c9ce?source=rss------data_science-5)
-- [META’s CICERO: beating humans at diplomacy](https://medium.com/mlearning-ai/metas-cicero-beating-humans-at-diplomacy-298fd1b365d7?source=rss------data_science-5)
-- [11 Less Used but Important Plots for Data Science](https://towardsdatascience.com/11-less-used-but-important-plots-for-data-science-dede3f9b7ebd?source=rss------data_science-5)
-- [AUC ROC Curve](https://medium.com/@gajendra.k.s/auc-roc-curve-ff16c0989dfe?source=rss------data_science-5)
-- [The Distinctions Between AI, Machine Learning, and Deep Learning](https://medium.com/@fergie19702004_40140/the-distinctions-between-ai-machine-learning-and-deep-learning-1fce78b6cea8?source=rss------data_science-5)
+- [4 Important Metrics For Classification Machine Learning Models: When &amp; How To Use Them](https://levelup.gitconnected.com/4-important-metrics-for-classification-machine-learning-models-when-how-to-use-them-6aa7c85d7665?source=rss------data_science-5)
+- [Linear Regression with Categorical Variables](https://medium.com/@tunaytokmak/linear-regression-with-categorical-variables-3069ed937359?source=rss------data_science-5)
+- [How To Compare 2 Datasets With Pandas-profiling](https://pub.towardsai.net/how-to-compare-2-dataset-with-pandas-profiling-2ae3a9d7695e?source=rss------data_science-5)
+- [The Best Way To Maximize Your Savings this Black Friday: Invest In MLOps](https://medium.com/@katonic.ai/the-best-way-to-maximize-your-savings-this-black-friday-invest-in-mlops-db84d33e0d8a?source=rss------data_science-5)
+- [How algorithms in Elon Musk’s Twitter will determine truth](https://medium.com/@straussmaximilian/how-algorithms-in-elon-musks-twitter-will-determine-truth-c1a025caa45a?source=rss------data_science-5)
+- [Streamlit with Folium to visualize accidents in the UK](https://medium.com/@oo_wais/streamlit-with-folium-to-visualize-accidents-in-the-uk-5ab08e9bf1a2?source=rss------data_science-5)
+- [Transpose Vs Pivot/Unpivot](https://medium.com/@jhadhiraj38/transpose-vs-pivot-unpivot-c6b143aabc1e?source=rss------data_science-5)
+- [Neural Networks : The Math](https://medium.com/@shashankshankar10/neural-networks-the-math-93df3e3ff37d?source=rss------data_science-5)
+- [Clustering on Mixed Data Types](https://towardsdatascience.com/clustering-on-mixed-data-types-5fe226f9d9ca?source=rss------data_science-5)
+- [How I Got Google TensorFlow Developer Certified as a 13 Years Old](https://medium.com/@preelite0/how-i-got-google-tensorflow-developer-certified-as-a-13-years-old-93a30c2e6ec7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
