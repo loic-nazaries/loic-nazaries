@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [4 Important Metrics For Classification Machine Learning Models: When &amp; How To Use Them](https://levelup.gitconnected.com/4-important-metrics-for-classification-machine-learning-models-when-how-to-use-them-6aa7c85d7665?source=rss------data_science-5)
-- [Linear Regression with Categorical Variables](https://medium.com/@tunaytokmak/linear-regression-with-categorical-variables-3069ed937359?source=rss------data_science-5)
-- [How To Compare 2 Datasets With Pandas-profiling](https://pub.towardsai.net/how-to-compare-2-dataset-with-pandas-profiling-2ae3a9d7695e?source=rss------data_science-5)
-- [The Best Way To Maximize Your Savings this Black Friday: Invest In MLOps](https://medium.com/@katonic.ai/the-best-way-to-maximize-your-savings-this-black-friday-invest-in-mlops-db84d33e0d8a?source=rss------data_science-5)
-- [How algorithms in Elon Musk’s Twitter will determine truth](https://medium.com/@straussmaximilian/how-algorithms-in-elon-musks-twitter-will-determine-truth-c1a025caa45a?source=rss------data_science-5)
-- [Streamlit with Folium to visualize accidents in the UK](https://medium.com/@oo_wais/streamlit-with-folium-to-visualize-accidents-in-the-uk-5ab08e9bf1a2?source=rss------data_science-5)
-- [Transpose Vs Pivot/Unpivot](https://medium.com/@jhadhiraj38/transpose-vs-pivot-unpivot-c6b143aabc1e?source=rss------data_science-5)
-- [Neural Networks : The Math](https://medium.com/@shashankshankar10/neural-networks-the-math-93df3e3ff37d?source=rss------data_science-5)
-- [Clustering on Mixed Data Types](https://towardsdatascience.com/clustering-on-mixed-data-types-5fe226f9d9ca?source=rss------data_science-5)
-- [How I Got Google TensorFlow Developer Certified as a 13 Years Old](https://medium.com/@preelite0/how-i-got-google-tensorflow-developer-certified-as-a-13-years-old-93a30c2e6ec7?source=rss------data_science-5)
+- [Análise dos dados do Airbnb de New Brunswick, canadá.](https://medium.com/@itzborges/an%C3%A1lise-dos-dados-do-airbnb-de-new-brunswick-canad%C3%A1-b90769914dc3?source=rss------data_science-5)
+- [8 Week SQL Challenge: Case Study #2: Pizza Runner Part I](https://medium.com/@timmy_tesla/8-week-sql-challenge-case-study-2-pizza-runner-part-i-f9b0a3a5637a?source=rss------data_science-5)
+- [Reserve rate of banking companies in national currency in Peru](https://medium.com/@jvalenzuelav/reserve-rate-of-banking-companies-in-national-currency-in-peru-12efe1a82a9f?source=rss------data_science-5)
+- [Stop Looping Through Rows in Pandas Dataframes!](https://medium.com/@noah.samuel.harrison/stop-looping-through-rows-in-pandas-dataframes-9375dde3410b?source=rss------data_science-5)
+- [SmartSecurity : una propuesta basada en datos para la seguridad pública](https://medium.com/@anunoguevara/smartsecurity-una-propuesta-basada-en-datos-para-la-seguridad-p%C3%BAblica-ab990bf1f571?source=rss------data_science-5)
+- [‘Does Ivy League automatically grant you better chances at getting a Master degree?’](https://medium.com/@cathykam2006/does-ivy-league-automatically-grant-you-better-chances-at-getting-a-master-degree-2900331334f5?source=rss------data_science-5)
+- [Correlation Trading - Improving the RSI](https://kaabar-sofien.medium.com/correlation-trading-improving-the-rsi-7e3312254ede?source=rss------data_science-5)
+- [Deepnote — The Next Generation of Data Science Notebooks](https://medium.com/mlearning-ai/deepnote-the-next-generation-of-data-science-notebooks-db80fba34595?source=rss------data_science-5)
+- [Building a Web Application to detect Breast Cancer in Ultrasound images](https://medium.com/mlearning-ai/building-a-web-application-to-detect-breast-cancer-in-ultrasound-images-df391483fbd9?source=rss------data_science-5)
+- [Oque eu aprendi com SQL](https://medium.com/@hedriss10/oque-eu-aprendi-com-sql-b8f71ae6d59c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
