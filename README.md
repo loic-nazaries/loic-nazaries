@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Análise dos dados do Airbnb de New Brunswick, canadá.](https://medium.com/@itzborges/an%C3%A1lise-dos-dados-do-airbnb-de-new-brunswick-canad%C3%A1-b90769914dc3?source=rss------data_science-5)
-- [8 Week SQL Challenge: Case Study #2: Pizza Runner Part I](https://medium.com/@timmy_tesla/8-week-sql-challenge-case-study-2-pizza-runner-part-i-f9b0a3a5637a?source=rss------data_science-5)
-- [Reserve rate of banking companies in national currency in Peru](https://medium.com/@jvalenzuelav/reserve-rate-of-banking-companies-in-national-currency-in-peru-12efe1a82a9f?source=rss------data_science-5)
-- [Stop Looping Through Rows in Pandas Dataframes!](https://medium.com/@noah.samuel.harrison/stop-looping-through-rows-in-pandas-dataframes-9375dde3410b?source=rss------data_science-5)
-- [SmartSecurity : una propuesta basada en datos para la seguridad pública](https://medium.com/@anunoguevara/smartsecurity-una-propuesta-basada-en-datos-para-la-seguridad-p%C3%BAblica-ab990bf1f571?source=rss------data_science-5)
-- [‘Does Ivy League automatically grant you better chances at getting a Master degree?’](https://medium.com/@cathykam2006/does-ivy-league-automatically-grant-you-better-chances-at-getting-a-master-degree-2900331334f5?source=rss------data_science-5)
-- [Correlation Trading - Improving the RSI](https://kaabar-sofien.medium.com/correlation-trading-improving-the-rsi-7e3312254ede?source=rss------data_science-5)
-- [Deepnote — The Next Generation of Data Science Notebooks](https://medium.com/mlearning-ai/deepnote-the-next-generation-of-data-science-notebooks-db80fba34595?source=rss------data_science-5)
-- [Building a Web Application to detect Breast Cancer in Ultrasound images](https://medium.com/mlearning-ai/building-a-web-application-to-detect-breast-cancer-in-ultrasound-images-df391483fbd9?source=rss------data_science-5)
-- [Oque eu aprendi com SQL](https://medium.com/@hedriss10/oque-eu-aprendi-com-sql-b8f71ae6d59c?source=rss------data_science-5)
+- [Apache Spark: O melhor amigo do engenheiro de dados.](https://denis-oliveira.medium.com/apache-spark-o-melhor-amigo-do-engenheiro-de-dados-64c57e5b00a8?source=rss------data_science-5)
+- [From Descriptive to Predictive: Shaping the Future of Equipment Maintenance Through Data Science](https://medium.com/mcd-unison/from-descriptive-to-predictive-shaping-the-future-of-equipment-maintenance-through-data-science-5d1e30ed6c22?source=rss------data_science-5)
+- [Lendo PDFs com Tesseract OCR e Azure Functions](https://medium.com/@sterndavi/lendo-pdfs-com-tesseract-ocr-e-azure-functions-230ba05e38f6?source=rss------data_science-5)
+- [Aurum Praesagio — a fusão das estratégias quantitativas com AI](https://medium.com/@suguimoto.vinicius/aurum-praesagio-a-fus%C3%A3o-das-estrat%C3%A9gias-quantitativas-com-ai-c412c16065f?source=rss------data_science-5)
+- [What To Ask At The End of A Data Science Behavioral Interview?](https://medium.com/geekculture/what-to-ask-at-the-end-of-a-data-science-behavioral-interview-4bfe84e8b0f7?source=rss------data_science-5)
+- [Why Data Science?](https://medium.com/@marklee_12760/why-data-science-17c03c901fcd?source=rss------data_science-5)
+- [ggplot2 for Beginners](https://medium.com/@amadodejesusvazquezacuna/ggplot2-for-beginners-b75f6eccfa0b?source=rss------data_science-5)
+- [Perplexity of Language Models](https://medium.com/@priyankads/perplexity-of-language-models-41160427ed72?source=rss------data_science-5)
+- [How to Use SQL-MySQL to Analyze Your Data Quick and Easy](https://medium.com/@Coding_Bulls/how-to-use-sql-mysql-to-analyze-your-data-quick-and-easy-9bddad68c37d?source=rss------data_science-5)
+- [Credit Risk Modelling &lpar;Part II&rpar;](https://medium.com/@whynniethegr8/credit-risk-modelling-part-ii-ea2b8d83cc9c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
