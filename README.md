@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Apache Spark: O melhor amigo do engenheiro de dados.](https://denis-oliveira.medium.com/apache-spark-o-melhor-amigo-do-engenheiro-de-dados-64c57e5b00a8?source=rss------data_science-5)
-- [From Descriptive to Predictive: Shaping the Future of Equipment Maintenance Through Data Science](https://medium.com/mcd-unison/from-descriptive-to-predictive-shaping-the-future-of-equipment-maintenance-through-data-science-5d1e30ed6c22?source=rss------data_science-5)
-- [Lendo PDFs com Tesseract OCR e Azure Functions](https://medium.com/@sterndavi/lendo-pdfs-com-tesseract-ocr-e-azure-functions-230ba05e38f6?source=rss------data_science-5)
-- [Aurum Praesagio — a fusão das estratégias quantitativas com AI](https://medium.com/@suguimoto.vinicius/aurum-praesagio-a-fus%C3%A3o-das-estrat%C3%A9gias-quantitativas-com-ai-c412c16065f?source=rss------data_science-5)
-- [What To Ask At The End of A Data Science Behavioral Interview?](https://medium.com/geekculture/what-to-ask-at-the-end-of-a-data-science-behavioral-interview-4bfe84e8b0f7?source=rss------data_science-5)
-- [Why Data Science?](https://medium.com/@marklee_12760/why-data-science-17c03c901fcd?source=rss------data_science-5)
-- [ggplot2 for Beginners](https://medium.com/@amadodejesusvazquezacuna/ggplot2-for-beginners-b75f6eccfa0b?source=rss------data_science-5)
-- [Perplexity of Language Models](https://medium.com/@priyankads/perplexity-of-language-models-41160427ed72?source=rss------data_science-5)
-- [How to Use SQL-MySQL to Analyze Your Data Quick and Easy](https://medium.com/@Coding_Bulls/how-to-use-sql-mysql-to-analyze-your-data-quick-and-easy-9bddad68c37d?source=rss------data_science-5)
-- [Credit Risk Modelling &lpar;Part II&rpar;](https://medium.com/@whynniethegr8/credit-risk-modelling-part-ii-ea2b8d83cc9c?source=rss------data_science-5)
+- [Applications of Graph Representation Learning part2&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/applications-of-graph-representation-learning-part2-machine-learning-f87bd8f19bd1?source=rss------data_science-5)
+- [Applications of Graph Representation Learning part1&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/applications-of-graph-representation-learning-part1-machine-learning-9517ea1f7c84?source=rss------data_science-5)
+- [Is Public Speaking the Cryptonite of Data Scientists?](https://medium.com/@alex.vamvakaris.ds/is-public-speaking-the-cryptonite-of-data-scientists-bb7dac5925d6?source=rss------data_science-5)
+- [Thankful for All of My Followers](https://basil-latif.medium.com/thankful-for-all-of-my-followers-aadc02a2c22f?source=rss------data_science-5)
+- [Top 12 Bussines for Data Science Books for Data Scientists](https://medium.com/geekculture/top-12-bussines-for-data-science-books-for-data-scientists-75b724f46224?source=rss------data_science-5)
+- [Comparing Python and Excel for Data Analytics.](https://brinoekanem.medium.com/comparing-python-and-excel-for-data-analytics-8d659c9d3e76?source=rss------data_science-5)
+- [Introducing Schemata — A Decentralized Schema Modeling Framework For Modern Data Stack](https://blog.schematalabs.com/introducing-schemata-a-decentralized-schema-modeling-framework-for-modern-data-stack-d1746561c6ab?source=rss------data_science-5)
+- [How Singular Value Decomposition works part3&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/how-singular-value-decomposition-works-part3-machine-learning-e47840415aa9?source=rss------data_science-5)
+- [How Singular Value Decomposition works part2&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/how-singular-value-decomposition-works-part2-machine-learning-a21e64d5c04?source=rss------data_science-5)
+- [Predicting results in powerlifting](https://medium.com/@PedroLinsMMC/predicting-results-in-powerlifting-4ff57b0b979e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
