@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Applications of Graph Representation Learning part2&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/applications-of-graph-representation-learning-part2-machine-learning-f87bd8f19bd1?source=rss------data_science-5)
-- [Applications of Graph Representation Learning part1&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/applications-of-graph-representation-learning-part1-machine-learning-9517ea1f7c84?source=rss------data_science-5)
-- [Is Public Speaking the Cryptonite of Data Scientists?](https://medium.com/@alex.vamvakaris.ds/is-public-speaking-the-cryptonite-of-data-scientists-bb7dac5925d6?source=rss------data_science-5)
-- [Thankful for All of My Followers](https://basil-latif.medium.com/thankful-for-all-of-my-followers-aadc02a2c22f?source=rss------data_science-5)
-- [Top 12 Bussines for Data Science Books for Data Scientists](https://medium.com/geekculture/top-12-bussines-for-data-science-books-for-data-scientists-75b724f46224?source=rss------data_science-5)
-- [Comparing Python and Excel for Data Analytics.](https://brinoekanem.medium.com/comparing-python-and-excel-for-data-analytics-8d659c9d3e76?source=rss------data_science-5)
-- [Introducing Schemata — A Decentralized Schema Modeling Framework For Modern Data Stack](https://blog.schematalabs.com/introducing-schemata-a-decentralized-schema-modeling-framework-for-modern-data-stack-d1746561c6ab?source=rss------data_science-5)
-- [How Singular Value Decomposition works part3&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/how-singular-value-decomposition-works-part3-machine-learning-e47840415aa9?source=rss------data_science-5)
-- [How Singular Value Decomposition works part2&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/how-singular-value-decomposition-works-part2-machine-learning-a21e64d5c04?source=rss------data_science-5)
-- [Predicting results in powerlifting](https://medium.com/@PedroLinsMMC/predicting-results-in-powerlifting-4ff57b0b979e?source=rss------data_science-5)
+- [品質大師 — 作業標準書](https://ai360-work.medium.com/%E5%93%81%E8%B3%AA%E5%A4%A7%E5%B8%AB-%E4%BD%9C%E6%A5%AD%E6%A8%99%E6%BA%96%E6%9B%B8-c62cfac3aeb7?source=rss------data_science-5)
+- [Decoding An efficient IoT based smart farming system using machine learning algorithms](https://medium.com/@vishnuvardhanreddy.yeruva/decoding-an-efficient-iot-based-smart-farming-system-using-machine-learning-algorithms-cbee323d5613?source=rss------data_science-5)
+- [Housing Market Prediction using Multiple Machine Learning Algorithms Pt 1](https://medium.com/@sticktothemodels48/housing-market-prediction-using-multiple-machine-learning-algorithms-pt-1-9e900d9fc1cb?source=rss------data_science-5)
+- [Best Google Courses for Data Engineer](https://blog.brilliantprogrammer.com/best-google-courses-for-data-engineer-fe067f606480?source=rss------data_science-5)
+- [Agglomerative clustering algorithm in R](https://medium.com/@medi_seul/agglomerative-clustering-algorithm-in-r-fe59ae43c793?source=rss------data_science-5)
+- [Combining This New Candlestick Pattern With Moving Averages](https://kaabar-sofien.medium.com/combining-this-new-candlestick-pattern-with-moving-averages-ae0d9a02cebe?source=rss------data_science-5)
+- [Modelando matemáticamente una serie temporal &lpar;Resumen del libro: Practical Time Series Analysis&rpar; —…](https://medium.com/@cristhianplaza.o/modelando-matem%C3%A1ticamente-una-serie-temporal-resumen-del-libro-practical-time-series-analysis-646fae94f59?source=rss------data_science-5)
+- [Data Science Breeds Success in Broadband Rollouts](https://medium.com/@hexvariumgerry/data-science-breeds-success-in-broadband-rollouts-27186fde0f0f?source=rss------data_science-5)
+- [Encoding Seasonality to Improve Our Property Valuation Models](https://medium.com/homebound-technology/encoding-seasonality-to-improve-our-property-valuation-models-de4b685698f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
