@@ -121,11 +121,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [10 Most Frequently Asked Python Dictionary Questions on Stack Overflow](https://towardsdatascience.com/10-most-frequently-asked-python-dictionary-questions-on-stack-overflow-2cb345f07496?source=rss-2cf6b549448------2)
 - [10 Most Frequently Asked Pandas Questions on Stack Overflow](https://towardsdatascience.com/10-most-frequently-asked-pandas-questions-on-stack-overflow-b9d7d94cd83e?source=rss-2cf6b549448------2)
 - [Domain Expert is an Essential Block of a Robust ML System](https://towardsdatascience.com/domain-expert-is-an-essential-block-of-a-robust-ml-system-a29fd1576832?source=rss-2cf6b549448------2)
 - [How I Get Paid to Learn New Skills](https://sonery.medium.com/how-i-get-paid-to-learn-new-skills-5032cb544a0e?source=rss-2cf6b549448------2)
 - [5 Pandas Functions That I Think You Hardly Ever Used](https://sonery.medium.com/5-pandas-functions-that-i-think-you-hardly-ever-used-34c21874bc7e?source=rss-2cf6b549448------2)
-- [Great Expectations: Automated Testing for Data Science and Engineering Teams](https://towardsdatascience.com/great-expectations-automated-testing-for-data-science-and-engineering-teams-1e7c78f1d2d5?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
