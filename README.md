@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [品質大師 — 作業標準書](https://ai360-work.medium.com/%E5%93%81%E8%B3%AA%E5%A4%A7%E5%B8%AB-%E4%BD%9C%E6%A5%AD%E6%A8%99%E6%BA%96%E6%9B%B8-c62cfac3aeb7?source=rss------data_science-5)
-- [Decoding An efficient IoT based smart farming system using machine learning algorithms](https://medium.com/@vishnuvardhanreddy.yeruva/decoding-an-efficient-iot-based-smart-farming-system-using-machine-learning-algorithms-cbee323d5613?source=rss------data_science-5)
-- [Housing Market Prediction using Multiple Machine Learning Algorithms Pt 1](https://medium.com/@sticktothemodels48/housing-market-prediction-using-multiple-machine-learning-algorithms-pt-1-9e900d9fc1cb?source=rss------data_science-5)
-- [Best Google Courses for Data Engineer](https://blog.brilliantprogrammer.com/best-google-courses-for-data-engineer-fe067f606480?source=rss------data_science-5)
-- [Agglomerative clustering algorithm in R](https://medium.com/@medi_seul/agglomerative-clustering-algorithm-in-r-fe59ae43c793?source=rss------data_science-5)
-- [Combining This New Candlestick Pattern With Moving Averages](https://kaabar-sofien.medium.com/combining-this-new-candlestick-pattern-with-moving-averages-ae0d9a02cebe?source=rss------data_science-5)
-- [Modelando matemáticamente una serie temporal &lpar;Resumen del libro: Practical Time Series Analysis&rpar; —…](https://medium.com/@cristhianplaza.o/modelando-matem%C3%A1ticamente-una-serie-temporal-resumen-del-libro-practical-time-series-analysis-646fae94f59?source=rss------data_science-5)
-- [Data Science Breeds Success in Broadband Rollouts](https://medium.com/@hexvariumgerry/data-science-breeds-success-in-broadband-rollouts-27186fde0f0f?source=rss------data_science-5)
-- [Encoding Seasonality to Improve Our Property Valuation Models](https://medium.com/homebound-technology/encoding-seasonality-to-improve-our-property-valuation-models-de4b685698f?source=rss------data_science-5)
+- [Summary of the SQL function](https://medium.com/@py.chin315/summary-of-the-sql-function-b12bb7aa6c0?source=rss------data_science-5)
+- [A Beginner’s Guide to Data Science](https://medium.com/@rohanshankar_/a-beginners-guide-to-data-science-b4a6d9dac7f2?source=rss------data_science-5)
+- [5 Things to Know Before Using Snowflake’s Native Data Classification](https://towardsdatascience.com/5-things-to-know-before-using-snowflakes-native-data-classification-30f4e1d2ac06?source=rss------data_science-5)
+- [DBSCAN Clustering: Break It Down For Me](https://towardsdatascience.com/dbscan-clustering-break-it-down-for-me-859650a723af?source=rss------data_science-5)
+- [Goodbye, Data Science](https://medium.com/@jdseo/goodbye-data-science-6c9bc9df86c5?source=rss------data_science-5)
+- [A Practical Guide to Writing Production-Quality Data Science Code](https://medium.com/contino-engineering/a-practical-guide-to-writing-production-quality-data-science-code-42fed0818db2?source=rss------data_science-5)
+- [The Mother of Moving Averages](https://kaabar-sofien.medium.com/the-mother-of-moving-averages-457da8402da8?source=rss------data_science-5)
+- [Say Goodbye to Loops in Python, and Welcome Vectorization!](https://anmol3015.medium.com/say-goodbye-to-loops-in-python-and-welcome-vectorization-e4df66615a52?source=rss------data_science-5)
+- [Trend Analysis of Ukraine Russia War](https://medium.com/@aboli.wankhade/trend-analysis-of-ukraine-russia-war-ddb751a8ab63?source=rss------data_science-5)
+- [Data Storage Solutions In AWS — Part 2](https://medium.com/@er.iit.pradeep09/data-storage-solutions-in-aws-part-2-4e1ffe78f80f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
