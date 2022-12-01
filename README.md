@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Summary of the SQL function](https://medium.com/@py.chin315/summary-of-the-sql-function-b12bb7aa6c0?source=rss------data_science-5)
-- [A Beginner’s Guide to Data Science](https://medium.com/@rohanshankar_/a-beginners-guide-to-data-science-b4a6d9dac7f2?source=rss------data_science-5)
-- [5 Things to Know Before Using Snowflake’s Native Data Classification](https://towardsdatascience.com/5-things-to-know-before-using-snowflakes-native-data-classification-30f4e1d2ac06?source=rss------data_science-5)
-- [DBSCAN Clustering: Break It Down For Me](https://towardsdatascience.com/dbscan-clustering-break-it-down-for-me-859650a723af?source=rss------data_science-5)
-- [Goodbye, Data Science](https://medium.com/@jdseo/goodbye-data-science-6c9bc9df86c5?source=rss------data_science-5)
-- [A Practical Guide to Writing Production-Quality Data Science Code](https://medium.com/contino-engineering/a-practical-guide-to-writing-production-quality-data-science-code-42fed0818db2?source=rss------data_science-5)
-- [The Mother of Moving Averages](https://kaabar-sofien.medium.com/the-mother-of-moving-averages-457da8402da8?source=rss------data_science-5)
-- [Say Goodbye to Loops in Python, and Welcome Vectorization!](https://anmol3015.medium.com/say-goodbye-to-loops-in-python-and-welcome-vectorization-e4df66615a52?source=rss------data_science-5)
-- [Trend Analysis of Ukraine Russia War](https://medium.com/@aboli.wankhade/trend-analysis-of-ukraine-russia-war-ddb751a8ab63?source=rss------data_science-5)
-- [Data Storage Solutions In AWS — Part 2](https://medium.com/@er.iit.pradeep09/data-storage-solutions-in-aws-part-2-4e1ffe78f80f?source=rss------data_science-5)
+- [『募資簡報：常被疏忽的要點』-11](https://ai360-work.medium.com/%E5%8B%9F%E8%B3%87%E7%B0%A1%E5%A0%B1-%E5%B8%B8%E8%A2%AB%E7%96%8F%E5%BF%BD%E7%9A%84%E8%A6%81%E9%BB%9E-11-72737796699?source=rss------data_science-5)
+- [Computer Vision EEG Pipeline: Part 0](https://medium.com/@adolfo.ramirezz/computer-vision-eeg-pipeline-part-0-b4a5ee3ed04d?source=rss------data_science-5)
+- [Passing the Spotify Data Science Interview](https://medium.com/@jdseo/passing-the-spotify-data-science-interview-dd3f595f6cd?source=rss------data_science-5)
+- [A Brief Introduction to Weakly Supervised Object Detection](https://medium.com/@poatek/a-brief-introduction-to-weakly-supervised-object-detection-e5dcdd2e2888?source=rss------data_science-5)
+- [Let’s create a Movies Recommender system](https://medium.com/@narayan43/lets-create-a-movies-recommender-system-1e9553848750?source=rss------data_science-5)
+- [How to perform an A/B test](https://medium.com/hex-blog/how-to-perform-an-a-b-test-55387c7bf4d6?source=rss------data_science-5)
+- [Clasificación de imagenes con métodos clásicos y redes neuronales](https://medium.com/@a01638434/clasificaci%C3%B3n-de-imagenes-con-m%C3%A9todos-cl%C3%A1sicos-y-redes-neuronales-cb029fb7d0e3?source=rss------data_science-5)
+- [Internship Experience at Uptricks](https://zerocool006.medium.com/internship-experience-at-uptricks-939dfd8755b4?source=rss------data_science-5)
+- [University of Iowa Team Looks To Empower Interventional Radiology With AI](https://odsc.medium.com/university-of-iowa-team-looks-to-empower-interventional-radiology-with-ai-ebd8a82c7cf9?source=rss------data_science-5)
+- [The Premier RSI](https://kaabar-sofien.medium.com/the-premier-rsi-4d1b5a00cea5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
