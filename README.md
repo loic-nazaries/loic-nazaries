@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [『募資簡報：常被疏忽的要點』-11](https://ai360-work.medium.com/%E5%8B%9F%E8%B3%87%E7%B0%A1%E5%A0%B1-%E5%B8%B8%E8%A2%AB%E7%96%8F%E5%BF%BD%E7%9A%84%E8%A6%81%E9%BB%9E-11-72737796699?source=rss------data_science-5)
-- [Computer Vision EEG Pipeline: Part 0](https://medium.com/@adolfo.ramirezz/computer-vision-eeg-pipeline-part-0-b4a5ee3ed04d?source=rss------data_science-5)
-- [Passing the Spotify Data Science Interview](https://medium.com/@jdseo/passing-the-spotify-data-science-interview-dd3f595f6cd?source=rss------data_science-5)
-- [A Brief Introduction to Weakly Supervised Object Detection](https://medium.com/@poatek/a-brief-introduction-to-weakly-supervised-object-detection-e5dcdd2e2888?source=rss------data_science-5)
-- [Let’s create a Movies Recommender system](https://medium.com/@narayan43/lets-create-a-movies-recommender-system-1e9553848750?source=rss------data_science-5)
-- [How to perform an A/B test](https://medium.com/hex-blog/how-to-perform-an-a-b-test-55387c7bf4d6?source=rss------data_science-5)
-- [Clasificación de imagenes con métodos clásicos y redes neuronales](https://medium.com/@a01638434/clasificaci%C3%B3n-de-imagenes-con-m%C3%A9todos-cl%C3%A1sicos-y-redes-neuronales-cb029fb7d0e3?source=rss------data_science-5)
-- [Internship Experience at Uptricks](https://zerocool006.medium.com/internship-experience-at-uptricks-939dfd8755b4?source=rss------data_science-5)
-- [University of Iowa Team Looks To Empower Interventional Radiology With AI](https://odsc.medium.com/university-of-iowa-team-looks-to-empower-interventional-radiology-with-ai-ebd8a82c7cf9?source=rss------data_science-5)
-- [The Premier RSI](https://kaabar-sofien.medium.com/the-premier-rsi-4d1b5a00cea5?source=rss------data_science-5)
+- [What can we get from a python &lpar;data science/machine learning&rpar; based the World Cup prediction?](https://medium.com/@jc.chen_79877/what-can-we-get-from-a-python-data-science-machine-learning-based-the-world-cup-prediction-c86e9b46f4e5?source=rss------data_science-5)
+- [May a Thousand BLOOMs Flower](https://jasondeden.medium.com/may-a-thousand-blooms-flower-6d08bfcf171e?source=rss------data_science-5)
+- [Immune gene expression analysis indicates the potential of a self-amplifying Covid-19 mRNA vaccine](https://medium.com/omics-diary/immune-gene-expression-analysis-indicates-the-potential-of-a-self-amplifying-covid-19-mrna-vaccine-4df1f7f58edf?source=rss------data_science-5)
+- [My Top 3 Tips for Getting Kaggle Expert Rank With Your First 5 Notebooks](https://pub.towardsai.net/my-top-3-tips-for-getting-kaggle-expert-rank-with-your-first-5-notebooks-b793b68885a9?source=rss------data_science-5)
+- [Accessing Web APIs easily using Microsoft  Excel](https://towardsdev.com/accessing-web-apis-easily-using-microsoft-excel-b59550d8bc3a?source=rss------data_science-5)
+- [Writing a Medium Article Using AI — OpenAI ChatGPT](https://medium.com/geekculture/writing-a-medium-article-using-ai-openai-chatgpt-43fdbd75220?source=rss------data_science-5)
+- [The LBR Oscillator for Trading](https://kaabar-sofien.medium.com/the-lbr-oscillator-for-trading-727da3530808?source=rss------data_science-5)
+- [Best data sets web pages to be used](https://medium.com/@a01732700/best-data-sets-web-pages-to-be-used-515fc39d8bdf?source=rss------data_science-5)
+- [Geochemical visualisation 1 using R [ggplot2&rpar;](https://medium.com/@geo_r_blog/geochemical-visualisation-1-using-r-ggplot2-eb1bc5c9161f?source=rss------data_science-5)
+- [The Gradient Boosting algorithm: the secret behind the XGBoost Library](https://medium.com/@lmirandad27/the-gradient-boosting-algorithm-the-secret-behind-the-xgboost-library-efbeb8ebacf0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
