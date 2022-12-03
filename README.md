@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What can we get from a python &lpar;data science/machine learning&rpar; based the World Cup prediction?](https://medium.com/@jc.chen_79877/what-can-we-get-from-a-python-data-science-machine-learning-based-the-world-cup-prediction-c86e9b46f4e5?source=rss------data_science-5)
-- [May a Thousand BLOOMs Flower](https://jasondeden.medium.com/may-a-thousand-blooms-flower-6d08bfcf171e?source=rss------data_science-5)
-- [Immune gene expression analysis indicates the potential of a self-amplifying Covid-19 mRNA vaccine](https://medium.com/omics-diary/immune-gene-expression-analysis-indicates-the-potential-of-a-self-amplifying-covid-19-mrna-vaccine-4df1f7f58edf?source=rss------data_science-5)
-- [My Top 3 Tips for Getting Kaggle Expert Rank With Your First 5 Notebooks](https://pub.towardsai.net/my-top-3-tips-for-getting-kaggle-expert-rank-with-your-first-5-notebooks-b793b68885a9?source=rss------data_science-5)
-- [Accessing Web APIs easily using Microsoft  Excel](https://towardsdev.com/accessing-web-apis-easily-using-microsoft-excel-b59550d8bc3a?source=rss------data_science-5)
-- [Writing a Medium Article Using AI — OpenAI ChatGPT](https://medium.com/geekculture/writing-a-medium-article-using-ai-openai-chatgpt-43fdbd75220?source=rss------data_science-5)
-- [The LBR Oscillator for Trading](https://kaabar-sofien.medium.com/the-lbr-oscillator-for-trading-727da3530808?source=rss------data_science-5)
-- [Best data sets web pages to be used](https://medium.com/@a01732700/best-data-sets-web-pages-to-be-used-515fc39d8bdf?source=rss------data_science-5)
-- [Geochemical visualisation 1 using R [ggplot2&rpar;](https://medium.com/@geo_r_blog/geochemical-visualisation-1-using-r-ggplot2-eb1bc5c9161f?source=rss------data_science-5)
-- [The Gradient Boosting algorithm: the secret behind the XGBoost Library](https://medium.com/@lmirandad27/the-gradient-boosting-algorithm-the-secret-behind-the-xgboost-library-efbeb8ebacf0?source=rss------data_science-5)
+- [How not to Pick a Movie to Watch with the Family](https://medium.com/@ccolsonbball/how-not-to-pick-a-movie-to-watch-with-the-family-9fc76f22d26c?source=rss------data_science-5)
+- [Python Coding in 15 Minutes or Less — The Minimal Data Science Setup](https://medium.com/@jonahwoods95_55372/python-coding-in-15-minutes-or-less-the-minimal-data-science-setup-5f11ebc3c809?source=rss------data_science-5)
+- [The 4 Vs Of Big Data](https://pcsocial.medium.com/the-4-vs-of-big-data-41887ab14b59?source=rss------data_science-5)
+- [What is a Machine Learning Engineer?](https://towardsdatascience.com/what-is-a-machine-learning-engineer-597ff778e57b?source=rss------data_science-5)
+- [The Wolf of Ball Street? Why Jon Rothstein is the best investor in sports](https://medium.com/@jeremyfrank333/the-wolf-of-ball-street-why-jon-rothstein-is-the-best-investor-in-sports-e48563a2fe7e?source=rss------data_science-5)
+- [Simulating the World Cup Finals with the Elo Rating System](https://russelllim22.medium.com/simulating-the-world-cup-finals-with-the-elo-rating-system-3b9d5996b1a9?source=rss------data_science-5)
+- [Tableau Tutorial — How to create a Paired Bar Chart](https://medium.com/mlearning-ai/tableau-tutorial-how-to-create-a-paired-bar-chart-ac900102c20e?source=rss------data_science-5)
+- [Backpropagation in Neural Networks](https://becominghuman.ai/backpropagation-in-neural-networks-ee41729ad987?source=rss------data_science-5)
+- [Building Blocks of Production-Ready Code: Reproducibility](https://dutchengineer.medium.com/building-blocks-of-production-ready-code-reproducibility-10fe66031b17?source=rss------data_science-5)
+- [Staging vs Intermediate vs Mart Models in dbt](https://towardsdatascience.com/staging-intermediate-mart-models-dbt-2a759ecc1db1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
