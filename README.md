@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How not to Pick a Movie to Watch with the Family](https://medium.com/@ccolsonbball/how-not-to-pick-a-movie-to-watch-with-the-family-9fc76f22d26c?source=rss------data_science-5)
-- [Python Coding in 15 Minutes or Less — The Minimal Data Science Setup](https://medium.com/@jonahwoods95_55372/python-coding-in-15-minutes-or-less-the-minimal-data-science-setup-5f11ebc3c809?source=rss------data_science-5)
-- [The 4 Vs Of Big Data](https://pcsocial.medium.com/the-4-vs-of-big-data-41887ab14b59?source=rss------data_science-5)
-- [What is a Machine Learning Engineer?](https://towardsdatascience.com/what-is-a-machine-learning-engineer-597ff778e57b?source=rss------data_science-5)
-- [The Wolf of Ball Street? Why Jon Rothstein is the best investor in sports](https://medium.com/@jeremyfrank333/the-wolf-of-ball-street-why-jon-rothstein-is-the-best-investor-in-sports-e48563a2fe7e?source=rss------data_science-5)
-- [Simulating the World Cup Finals with the Elo Rating System](https://russelllim22.medium.com/simulating-the-world-cup-finals-with-the-elo-rating-system-3b9d5996b1a9?source=rss------data_science-5)
-- [Tableau Tutorial — How to create a Paired Bar Chart](https://medium.com/mlearning-ai/tableau-tutorial-how-to-create-a-paired-bar-chart-ac900102c20e?source=rss------data_science-5)
-- [Backpropagation in Neural Networks](https://becominghuman.ai/backpropagation-in-neural-networks-ee41729ad987?source=rss------data_science-5)
-- [Building Blocks of Production-Ready Code: Reproducibility](https://dutchengineer.medium.com/building-blocks-of-production-ready-code-reproducibility-10fe66031b17?source=rss------data_science-5)
-- [Staging vs Intermediate vs Mart Models in dbt](https://towardsdatascience.com/staging-intermediate-mart-models-dbt-2a759ecc1db1?source=rss------data_science-5)
+- [6 Tips about Python Regular Expressions](https://gustavorsantos.medium.com/6-tips-about-python-regular-expressions-6bb384111b35?source=rss------data_science-5)
+- [15 Top Data Science Resources for Beginners and Experts Alike](https://johnvastola.medium.com/15-top-data-science-resources-for-beginners-and-experts-alike-a873eb4ed2c2?source=rss------data_science-5)
+- [Data Scientists require constant spoon feeding from stakeholders](https://medium.com/@saptarshichaudhuri/data-scientists-require-constant-spoon-feeding-from-stakeholders-6df835c724e9?source=rss------data_science-5)
+- [Python check domain availability](https://medium.com/@ju4nv/python-check-domain-availability-9f3957883dc2?source=rss------data_science-5)
+- [Data Analytics Pipeline in AWS](https://medium.com/@MustafaKaynak-/data-analytics-pipeline-in-aws-4d04329cd6cb?source=rss------data_science-5)
+- [Case Study: Personal Insurance’s Bill](https://rmdytrdhnr.medium.com/case-study-personal-insurances-bill-82fd9da36fe5?source=rss------data_science-5)
+- [Hadoop Ecosystem Application](https://adosi12.medium.com/hadoop-ecosystem-application-42db195d0b19?source=rss------data_science-5)
+- [Simple Tips for PostgreSQL Query Optimization](https://medium.com/@abdelilah.moulida/simple-tips-for-postgresql-query-optimization-e98fe771355e?source=rss------data_science-5)
+- [How to create business strategies based on data science models?](https://coloredglasses.medium.com/using-statistical-models-to-create-strategies-6f8b7a04579c?source=rss------data_science-5)
+- [Pandas vs SQL: When Data Scientists Should Use Each Tool](https://medium.com/@abdelilah.moulida/pandas-vs-sql-when-data-scientists-should-use-each-tool-ed98954dd474?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
