@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [6 Tips about Python Regular Expressions](https://gustavorsantos.medium.com/6-tips-about-python-regular-expressions-6bb384111b35?source=rss------data_science-5)
-- [15 Top Data Science Resources for Beginners and Experts Alike](https://johnvastola.medium.com/15-top-data-science-resources-for-beginners-and-experts-alike-a873eb4ed2c2?source=rss------data_science-5)
-- [Data Scientists require constant spoon feeding from stakeholders](https://medium.com/@saptarshichaudhuri/data-scientists-require-constant-spoon-feeding-from-stakeholders-6df835c724e9?source=rss------data_science-5)
-- [Python check domain availability](https://medium.com/@ju4nv/python-check-domain-availability-9f3957883dc2?source=rss------data_science-5)
-- [Data Analytics Pipeline in AWS](https://medium.com/@MustafaKaynak-/data-analytics-pipeline-in-aws-4d04329cd6cb?source=rss------data_science-5)
-- [Case Study: Personal Insurance’s Bill](https://rmdytrdhnr.medium.com/case-study-personal-insurances-bill-82fd9da36fe5?source=rss------data_science-5)
-- [Hadoop Ecosystem Application](https://adosi12.medium.com/hadoop-ecosystem-application-42db195d0b19?source=rss------data_science-5)
-- [Simple Tips for PostgreSQL Query Optimization](https://medium.com/@abdelilah.moulida/simple-tips-for-postgresql-query-optimization-e98fe771355e?source=rss------data_science-5)
-- [How to create business strategies based on data science models?](https://coloredglasses.medium.com/using-statistical-models-to-create-strategies-6f8b7a04579c?source=rss------data_science-5)
-- [Pandas vs SQL: When Data Scientists Should Use Each Tool](https://medium.com/@abdelilah.moulida/pandas-vs-sql-when-data-scientists-should-use-each-tool-ed98954dd474?source=rss------data_science-5)
+- [How Microsoft Excel Can Make You Millions](https://artconroy.medium.com/how-microsoft-excel-can-make-you-millions-1c27660947dc?source=rss------data_science-5)
+- [Unlock the Power of Business Intelligence](https://medium.datadriveninvestor.com/unlock-the-power-of-business-intelligence-443eb872cf4e?source=rss------data_science-5)
+- [What Is Data Quality And Why Is So Vital? &lpar;Part 2 of 2&rpar;](https://medium.datadriveninvestor.com/what-is-data-quality-and-why-is-so-vital-part-2-of-2-870d793aeb44?source=rss------data_science-5)
+- [How to crack data science interviews and impress potential employers?](https://medium.datadriveninvestor.com/how-to-crack-data-science-interviews-and-impress-potential-employers-967111eaeb18?source=rss------data_science-5)
+- [Java Guide: The Most Popular IDE For Java Developers In 2022](https://tomaszs2.medium.com/java-guide-the-most-popular-ide-for-java-developers-in-2022-8c8a95b9d2c7?source=rss------data_science-5)
+- [Data Science for the Working Musician](https://medium.com/@ilanhaskel/data-science-for-the-working-musician-62d586a28637?source=rss------data_science-5)
+- [D4S Sunday Briefing #184](https://medium.data4sci.com/d4s-sunday-briefing-184-90f7ed9617ec?source=rss------data_science-5)
+- [A BEGINNER’S GUIDE TO MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE.](https://medium.com/@vibharao2002/a-beginners-guide-to-machine-learning-and-artificial-intelligence-9ada7d2b78fd?source=rss------data_science-5)
+- [D4S Sunday Briefing #183](https://medium.data4sci.com/d4s-sunday-briefing-183-b636ebd66994?source=rss------data_science-5)
+- [Easily source geospatial data from OpenStreetMaps using overpass-turbo](https://bettdougie.medium.com/easily-source-geospatial-data-from-openstreetmaps-using-overpass-turbo-3a537d15112f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
