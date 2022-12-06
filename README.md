@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How Microsoft Excel Can Make You Millions](https://artconroy.medium.com/how-microsoft-excel-can-make-you-millions-1c27660947dc?source=rss------data_science-5)
-- [Unlock the Power of Business Intelligence](https://medium.datadriveninvestor.com/unlock-the-power-of-business-intelligence-443eb872cf4e?source=rss------data_science-5)
-- [What Is Data Quality And Why Is So Vital? &lpar;Part 2 of 2&rpar;](https://medium.datadriveninvestor.com/what-is-data-quality-and-why-is-so-vital-part-2-of-2-870d793aeb44?source=rss------data_science-5)
-- [How to crack data science interviews and impress potential employers?](https://medium.datadriveninvestor.com/how-to-crack-data-science-interviews-and-impress-potential-employers-967111eaeb18?source=rss------data_science-5)
-- [Java Guide: The Most Popular IDE For Java Developers In 2022](https://tomaszs2.medium.com/java-guide-the-most-popular-ide-for-java-developers-in-2022-8c8a95b9d2c7?source=rss------data_science-5)
-- [Data Science for the Working Musician](https://medium.com/@ilanhaskel/data-science-for-the-working-musician-62d586a28637?source=rss------data_science-5)
-- [D4S Sunday Briefing #184](https://medium.data4sci.com/d4s-sunday-briefing-184-90f7ed9617ec?source=rss------data_science-5)
-- [A BEGINNER’S GUIDE TO MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE.](https://medium.com/@vibharao2002/a-beginners-guide-to-machine-learning-and-artificial-intelligence-9ada7d2b78fd?source=rss------data_science-5)
-- [D4S Sunday Briefing #183](https://medium.data4sci.com/d4s-sunday-briefing-183-b636ebd66994?source=rss------data_science-5)
-- [Easily source geospatial data from OpenStreetMaps using overpass-turbo](https://bettdougie.medium.com/easily-source-geospatial-data-from-openstreetmaps-using-overpass-turbo-3a537d15112f?source=rss------data_science-5)
+- [『募資簡報：常被疏忽的要點』-12](https://ai360-work.medium.com/%E5%8B%9F%E8%B3%87%E7%B0%A1%E5%A0%B1-%E5%B8%B8%E8%A2%AB%E7%96%8F%E5%BF%BD%E7%9A%84%E8%A6%81%E9%BB%9E-12-3d86f86bcc0c?source=rss------data_science-5)
+- [5 Types of Machine Learning Methods You Should Know](https://medium.com/mlearning-ai/5-types-of-machine-learning-methods-you-should-know-c4693ffb09d4?source=rss------data_science-5)
+- [What is ChatGPT](https://medium.com/@ayomideomolewa/what-is-chatgpt-ed2d78a40c6f?source=rss------data_science-5)
+- [Testing ChatGPT on Five of my Daughter’s School Homework Questions](https://keith-mcnulty.medium.com/testing-chatgpt-on-five-of-my-daughters-school-homework-questions-a7b83cd0f13f?source=rss------data_science-5)
+- [Deploying Machine Learning Apps with Streamlit](https://medium.com/@dev_tyta./deploying-machine-learning-apps-with-streamlit-b1c6dddee20d?source=rss------data_science-5)
+- [Why Tech Is Betting Big On AI-Generated Art Going Into The New Year](https://medium.com/mlearning-ai/why-tech-is-betting-big-on-ai-generated-art-going-into-the-new-year-c9ab93bfad8d?source=rss------data_science-5)
+- [A computer science approach to DNA Sequencing.](https://medium.com/@lennyclarke/a-computer-science-approach-to-dna-sequencing-24331a1b883d?source=rss------data_science-5)
+- [Don’t Start Your SQL Queries with ‘Select’ clause](https://anmol3015.medium.com/dont-start-your-sql-queries-with-select-clause-d30fa1b701f6?source=rss------data_science-5)
+- [How data &amp; AI can help you beat the recession](https://arunabhadastidar.medium.com/how-data-ai-can-help-you-beat-the-recession-39f0352ba8e8?source=rss------data_science-5)
+- [Covid. In a financial nutshell.](https://rohandavids.medium.com/covid-in-a-financial-nutshell-f70ab7fbe5fd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
