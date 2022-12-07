@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [『募資簡報：常被疏忽的要點』-12](https://ai360-work.medium.com/%E5%8B%9F%E8%B3%87%E7%B0%A1%E5%A0%B1-%E5%B8%B8%E8%A2%AB%E7%96%8F%E5%BF%BD%E7%9A%84%E8%A6%81%E9%BB%9E-12-3d86f86bcc0c?source=rss------data_science-5)
-- [5 Types of Machine Learning Methods You Should Know](https://medium.com/mlearning-ai/5-types-of-machine-learning-methods-you-should-know-c4693ffb09d4?source=rss------data_science-5)
-- [What is ChatGPT](https://medium.com/@ayomideomolewa/what-is-chatgpt-ed2d78a40c6f?source=rss------data_science-5)
-- [Testing ChatGPT on Five of my Daughter’s School Homework Questions](https://keith-mcnulty.medium.com/testing-chatgpt-on-five-of-my-daughters-school-homework-questions-a7b83cd0f13f?source=rss------data_science-5)
-- [Deploying Machine Learning Apps with Streamlit](https://medium.com/@dev_tyta./deploying-machine-learning-apps-with-streamlit-b1c6dddee20d?source=rss------data_science-5)
-- [Why Tech Is Betting Big On AI-Generated Art Going Into The New Year](https://medium.com/mlearning-ai/why-tech-is-betting-big-on-ai-generated-art-going-into-the-new-year-c9ab93bfad8d?source=rss------data_science-5)
-- [A computer science approach to DNA Sequencing.](https://medium.com/@lennyclarke/a-computer-science-approach-to-dna-sequencing-24331a1b883d?source=rss------data_science-5)
-- [Don’t Start Your SQL Queries with ‘Select’ clause](https://anmol3015.medium.com/dont-start-your-sql-queries-with-select-clause-d30fa1b701f6?source=rss------data_science-5)
-- [How data &amp; AI can help you beat the recession](https://arunabhadastidar.medium.com/how-data-ai-can-help-you-beat-the-recession-39f0352ba8e8?source=rss------data_science-5)
-- [Covid. In a financial nutshell.](https://rohandavids.medium.com/covid-in-a-financial-nutshell-f70ab7fbe5fd?source=rss------data_science-5)
+- [Each Keystroke Is Worth $10,638.30
+You Can Thank Vint Cerf, BTW](https://artconroy.medium.com/each-keystroke-is-worth-10-638-30-you-can-thank-vint-cerf-btw-79e247134510?source=rss------data_science-5)
+- [Using the AAII Sentiment Indicator to Predict Equity Market Reactions](https://kaabar-sofien.medium.com/using-the-aaii-sentiment-indicator-to-predict-equity-market-reactions-42146bfb28a6?source=rss------data_science-5)
+- [Using Deep Learning Techniques to Generate LoFi Music](https://medium.com/@jvasilyev415/using-deep-learning-techniques-to-generate-lofi-music-b039ed64ebc1?source=rss------data_science-5)
+- [Creating An AI-Powered JFK Speech Writer](https://mikeharmonphd.medium.com/creating-an-ai-powered-jfk-speech-writer-part-1-2dd4deceb258?source=rss------data_science-5)
+- [User and Item Based Collaborative Filtering for Movie Recommendations](https://medium.com/@zhikaichen1999/user-and-item-based-collaborative-filtering-for-movie-recommendations-c3c4efdfd6ff?source=rss------data_science-5)
+- [MySQL 8.0.31 Boosted Index Building Speed](https://tomaszs2.medium.com/mysql-8-0-31-boosted-index-building-speed-563840da8c90?source=rss------data_science-5)
+- [What is Palantir Technologies?](https://medium.com/@cristian.nedelcu/what-is-palantir-technologies-371f533e5a05?source=rss------data_science-5)
+- [How is housing affecting Singapore’s neighborhood?](https://medium.com/@eugeneliuosm/how-is-housing-affecting-singapores-neighborhood-7518f39445c4?source=rss------data_science-5)
+- [Predicting the Likelihood of Gentrification for Neighborhoods in Austin, TX using AirBnB Price Data](https://medium.com/@saianshr/predicting-the-likelihood-of-gentrification-for-neighborhoods-in-austin-tx-using-airbnb-price-data-5a1a97a1b71?source=rss------data_science-5)
+- [Análise de Dados do Airbnb — Veneza](https://medium.com/@raffaelhfarias/an%C3%A1lise-de-dados-do-airbnb-veneza-1e8922b37088?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
