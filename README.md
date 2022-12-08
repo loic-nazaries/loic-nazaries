@@ -105,17 +105,14 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Each Keystroke Is Worth $10,638.30
-You Can Thank Vint Cerf, BTW](https://artconroy.medium.com/each-keystroke-is-worth-10-638-30-you-can-thank-vint-cerf-btw-79e247134510?source=rss------data_science-5)
-- [Using the AAII Sentiment Indicator to Predict Equity Market Reactions](https://kaabar-sofien.medium.com/using-the-aaii-sentiment-indicator-to-predict-equity-market-reactions-42146bfb28a6?source=rss------data_science-5)
-- [Using Deep Learning Techniques to Generate LoFi Music](https://medium.com/@jvasilyev415/using-deep-learning-techniques-to-generate-lofi-music-b039ed64ebc1?source=rss------data_science-5)
-- [Creating An AI-Powered JFK Speech Writer](https://mikeharmonphd.medium.com/creating-an-ai-powered-jfk-speech-writer-part-1-2dd4deceb258?source=rss------data_science-5)
-- [User and Item Based Collaborative Filtering for Movie Recommendations](https://medium.com/@zhikaichen1999/user-and-item-based-collaborative-filtering-for-movie-recommendations-c3c4efdfd6ff?source=rss------data_science-5)
-- [MySQL 8.0.31 Boosted Index Building Speed](https://tomaszs2.medium.com/mysql-8-0-31-boosted-index-building-speed-563840da8c90?source=rss------data_science-5)
-- [What is Palantir Technologies?](https://medium.com/@cristian.nedelcu/what-is-palantir-technologies-371f533e5a05?source=rss------data_science-5)
-- [How is housing affecting Singapore’s neighborhood?](https://medium.com/@eugeneliuosm/how-is-housing-affecting-singapores-neighborhood-7518f39445c4?source=rss------data_science-5)
-- [Predicting the Likelihood of Gentrification for Neighborhoods in Austin, TX using AirBnB Price Data](https://medium.com/@saianshr/predicting-the-likelihood-of-gentrification-for-neighborhoods-in-austin-tx-using-airbnb-price-data-5a1a97a1b71?source=rss------data_science-5)
-- [Análise de Dados do Airbnb — Veneza](https://medium.com/@raffaelhfarias/an%C3%A1lise-de-dados-do-airbnb-veneza-1e8922b37088?source=rss------data_science-5)
+- [Meet the Social Media Coordinators: Jinwei Sun &amp; Lanting Su](https://medium.com/usf-msds/meet-the-social-media-coordinators-jinwei-sun-lanting-su-9d4bfbcdfce?source=rss------data_science-5)
+- [YOLOv5 Tutorial on Custom Object Detection Using Kaggle Competition Dataset](https://medium.com/@ebrahimhaqbhatti516/yolov5-tutorial-on-custom-object-detection-using-kaggle-competition-dataset-1ff76219d82a?source=rss------data_science-5)
+- [Improving traffic flow in cities using data science](https://johnvastola.medium.com/improving-traffic-flow-in-cities-using-data-science-20a250501aff?source=rss------data_science-5)
+- [Basic SQL part2](https://medium.com/@DataToChangeTheWorld/basic-sql-part1-5905bdf5171c?source=rss------data_science-5)
+- [Radically Human: How New Technology is Transforming Business and Shaping Our Future](https://medium.com/@ale.concetti/radically-human-how-new-technology-is-transforming-business-and-shaping-our-future-5e047ec3fd0f?source=rss------data_science-5)
+- [Five Misunderstandings about the Use of Big Data in Data Science](https://medium.com/@roger-babecki/five-misunderstandings-about-the-use-of-big-data-in-data-science-63fd11857296?source=rss------data_science-5)
+- [Dismantle Datasets using Matrix Decomposition](https://medium.com/@ryassinh/dismantle-datasets-using-matrix-decomposition-f2fccced9985?source=rss------data_science-5)
+- [Spring Boot 3.0 Indubitably Rocks With Java 19 Support](https://tomaszs2.medium.com/spring-boot-3-0-indubitably-rocks-with-java-19-support-7c51eaf0c628?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
