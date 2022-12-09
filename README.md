@@ -105,14 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Meet the Social Media Coordinators: Jinwei Sun &amp; Lanting Su](https://medium.com/usf-msds/meet-the-social-media-coordinators-jinwei-sun-lanting-su-9d4bfbcdfce?source=rss------data_science-5)
-- [YOLOv5 Tutorial on Custom Object Detection Using Kaggle Competition Dataset](https://medium.com/@ebrahimhaqbhatti516/yolov5-tutorial-on-custom-object-detection-using-kaggle-competition-dataset-1ff76219d82a?source=rss------data_science-5)
-- [Improving traffic flow in cities using data science](https://johnvastola.medium.com/improving-traffic-flow-in-cities-using-data-science-20a250501aff?source=rss------data_science-5)
-- [Basic SQL part2](https://medium.com/@DataToChangeTheWorld/basic-sql-part1-5905bdf5171c?source=rss------data_science-5)
-- [Radically Human: How New Technology is Transforming Business and Shaping Our Future](https://medium.com/@ale.concetti/radically-human-how-new-technology-is-transforming-business-and-shaping-our-future-5e047ec3fd0f?source=rss------data_science-5)
-- [Five Misunderstandings about the Use of Big Data in Data Science](https://medium.com/@roger-babecki/five-misunderstandings-about-the-use-of-big-data-in-data-science-63fd11857296?source=rss------data_science-5)
-- [Dismantle Datasets using Matrix Decomposition](https://medium.com/@ryassinh/dismantle-datasets-using-matrix-decomposition-f2fccced9985?source=rss------data_science-5)
-- [Spring Boot 3.0 Indubitably Rocks With Java 19 Support](https://tomaszs2.medium.com/spring-boot-3-0-indubitably-rocks-with-java-19-support-7c51eaf0c628?source=rss------data_science-5)
+- [The Importance of Domain Expertise and Data Science](https://medium.com/@thelemoncookie.data/the-importance-of-domain-expertise-and-data-science-9d6f980394ee?source=rss------data_science-5)
+- [How I Got 4 Data Science Internships](https://medium.com/@jan_marcel_kezmann/how-i-got-4-data-science-internships-928cffed9d6?source=rss------data_science-5)
+- [Central Limit Theorem](https://medium.com/@gabriel_renno/central-limit-theorem-eb6792e6b035?source=rss------data_science-5)
+- [Discovering The Hidden Patterns of College Students’ Study Behaviors with Web Scraping](https://medium.com/@sebastian.charmot/discovering-the-hidden-patterns-of-college-students-study-behaviors-with-web-scraping-2097c067eed2?source=rss------data_science-5)
+- [Apresentando o ChatGPT!](https://kozyrk.medium.com/apresentando-o-chatgpt-2668d3f4c7aa?source=rss------data_science-5)
+- [Introducing the zAPI AI API Marketplace: Your One-Stop Shop for AI APIs](https://medium.com/@twoejoe5/introducing-the-zapi-ai-api-marketplace-your-one-stop-shop-for-ai-apis-c5dc8c77c207?source=rss------data_science-5)
+- [Create graphics in plotly like a pro](https://medium.com/@vegabryam40/create-graphics-in-plotly-like-a-pro-f578f8f4fb6a?source=rss------data_science-5)
+- [Exploring The World of Music Production From an Upcoming Underground Music Producer.](https://teewithtaycasso.medium.com/exploring-the-world-of-music-production-from-an-upcoming-underground-music-producer-3eb590144382?source=rss------data_science-5)
+- [The Episode of Cristiano Ronaldo and My 7 Learnings](https://anmol3015.medium.com/the-episode-of-cristiano-ronaldo-and-my-7-learnings-b640fa219216?source=rss------data_science-5)
+- [Secure3 announces partnership with ZettaBlock in Blockchain Security and Data Infrastructure](https://medium.com/@Secure3/secure3-announces-partnership-with-zettablock-in-blockchain-security-and-data-infrastructure-2e649570f882?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
