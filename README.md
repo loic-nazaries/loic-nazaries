@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Importance of Domain Expertise and Data Science](https://medium.com/@thelemoncookie.data/the-importance-of-domain-expertise-and-data-science-9d6f980394ee?source=rss------data_science-5)
-- [How I Got 4 Data Science Internships](https://medium.com/@jan_marcel_kezmann/how-i-got-4-data-science-internships-928cffed9d6?source=rss------data_science-5)
-- [Central Limit Theorem](https://medium.com/@gabriel_renno/central-limit-theorem-eb6792e6b035?source=rss------data_science-5)
-- [Discovering The Hidden Patterns of College Students’ Study Behaviors with Web Scraping](https://medium.com/@sebastian.charmot/discovering-the-hidden-patterns-of-college-students-study-behaviors-with-web-scraping-2097c067eed2?source=rss------data_science-5)
-- [Apresentando o ChatGPT!](https://kozyrk.medium.com/apresentando-o-chatgpt-2668d3f4c7aa?source=rss------data_science-5)
-- [Introducing the zAPI AI API Marketplace: Your One-Stop Shop for AI APIs](https://medium.com/@twoejoe5/introducing-the-zapi-ai-api-marketplace-your-one-stop-shop-for-ai-apis-c5dc8c77c207?source=rss------data_science-5)
-- [Create graphics in plotly like a pro](https://medium.com/@vegabryam40/create-graphics-in-plotly-like-a-pro-f578f8f4fb6a?source=rss------data_science-5)
-- [Exploring The World of Music Production From an Upcoming Underground Music Producer.](https://teewithtaycasso.medium.com/exploring-the-world-of-music-production-from-an-upcoming-underground-music-producer-3eb590144382?source=rss------data_science-5)
-- [The Episode of Cristiano Ronaldo and My 7 Learnings](https://anmol3015.medium.com/the-episode-of-cristiano-ronaldo-and-my-7-learnings-b640fa219216?source=rss------data_science-5)
-- [Secure3 announces partnership with ZettaBlock in Blockchain Security and Data Infrastructure](https://medium.com/@Secure3/secure3-announces-partnership-with-zettablock-in-blockchain-security-and-data-infrastructure-2e649570f882?source=rss------data_science-5)
+- [How the Average Person Can Use ChatGPT: The Next-Generation Language Model](https://ricky-singh.medium.com/how-the-average-person-can-use-chatgpt-the-next-generation-language-model-dfc378a06732?source=rss------data_science-5)
+- [Machine Learning Trends for 2023](https://medium.com/@umamahesh1024/machine-learning-trends-for-2023-11043b3cb919?source=rss------data_science-5)
+- [My design thinking journey ฟัง คิด แล้วก็ทำ!](https://medium.com/@a.ctk.248/my-design-thinking-journey-%E0%B8%9F%E0%B8%B1%E0%B8%87-%E0%B8%84%E0%B8%B4%E0%B8%94-%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%81%E0%B9%87%E0%B8%97%E0%B8%B3-f09796cb6996?source=rss------data_science-5)
+- [The Best Skills to Learn in 2023](https://medium.com/illumination/the-best-skills-to-learn-in-2023-bd93e1ee2b38?source=rss------data_science-5)
+- [From Medicine to Data… Rather Unexpectedly](https://medium.com/@devonjareo/from-medicine-to-data-rather-unexpectedly-16b64c8e4aeb?source=rss------data_science-5)
+- [Process of building Machine learning models and Deploying it in Production](https://medium.com/@umamahesh1024/process-of-building-machine-learning-models-anddeploying-it-in-production-a1127622d59?source=rss------data_science-5)
+- [K-nearest neighbors Concept Explination](https://medium.com/@umamahesh1024/k-nearest-neighbors-concept-explination-df2bf17414ba?source=rss------data_science-5)
+- [How To Become A Data Scientist In 2023](https://endasheridan.medium.com/how-to-become-a-data-scientist-in-2023-347053428f55?source=rss------data_science-5)
+- [Advanced DBT Macros](https://medium.com/@kadek/advanced-dbt-macros-c274f1cfa989?source=rss------data_science-5)
+- [World Cup 2022: Become a Real Soccer Data Consultant!](https://medium.com/analytics-vidhya/world-cup-2022-become-a-real-soccer-data-consultant-7f426026e290?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
