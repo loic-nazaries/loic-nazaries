@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [10 Metrics to Evaluate Supervised Machine Learning Models](https://heartbeat.comet.ml/10-metrics-to-evaluate-supervised-machine-learning-models-ac7eb7dc630b?source=rss-2cf6b549448------2)
 - [4 Data Preprocessing Operations with Scikit-learn](https://towardsdatascience.com/4-data-preprocessing-operations-with-scikit-learn-5d26bf1442dd?source=rss-2cf6b549448------2)
 - [4 Methods for Adding New Items to Python Lists](https://towardsdatascience.com/4-methods-for-adding-new-items-to-python-lists-7c4243e93416?source=rss-2cf6b549448------2)
 - [10 Most Frequently Asked Python Dictionary Questions on Stack Overflow](https://towardsdatascience.com/10-most-frequently-asked-python-dictionary-questions-on-stack-overflow-2cb345f07496?source=rss-2cf6b549448------2)
 - [10 Most Frequently Asked Pandas Questions on Stack Overflow](https://towardsdatascience.com/10-most-frequently-asked-pandas-questions-on-stack-overflow-b9d7d94cd83e?source=rss-2cf6b549448------2)
-- [Domain Expert is an Essential Block of a Robust ML System](https://towardsdatascience.com/domain-expert-is-an-essential-block-of-a-robust-ml-system-a29fd1576832?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
