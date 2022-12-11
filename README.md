@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How the Average Person Can Use ChatGPT: The Next-Generation Language Model](https://ricky-singh.medium.com/how-the-average-person-can-use-chatgpt-the-next-generation-language-model-dfc378a06732?source=rss------data_science-5)
-- [Machine Learning Trends for 2023](https://medium.com/@umamahesh1024/machine-learning-trends-for-2023-11043b3cb919?source=rss------data_science-5)
-- [My design thinking journey ฟัง คิด แล้วก็ทำ!](https://medium.com/@a.ctk.248/my-design-thinking-journey-%E0%B8%9F%E0%B8%B1%E0%B8%87-%E0%B8%84%E0%B8%B4%E0%B8%94-%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%81%E0%B9%87%E0%B8%97%E0%B8%B3-f09796cb6996?source=rss------data_science-5)
-- [The Best Skills to Learn in 2023](https://medium.com/illumination/the-best-skills-to-learn-in-2023-bd93e1ee2b38?source=rss------data_science-5)
-- [From Medicine to Data… Rather Unexpectedly](https://medium.com/@devonjareo/from-medicine-to-data-rather-unexpectedly-16b64c8e4aeb?source=rss------data_science-5)
-- [Process of building Machine learning models and Deploying it in Production](https://medium.com/@umamahesh1024/process-of-building-machine-learning-models-anddeploying-it-in-production-a1127622d59?source=rss------data_science-5)
-- [K-nearest neighbors Concept Explination](https://medium.com/@umamahesh1024/k-nearest-neighbors-concept-explination-df2bf17414ba?source=rss------data_science-5)
-- [How To Become A Data Scientist In 2023](https://endasheridan.medium.com/how-to-become-a-data-scientist-in-2023-347053428f55?source=rss------data_science-5)
-- [Advanced DBT Macros](https://medium.com/@kadek/advanced-dbt-macros-c274f1cfa989?source=rss------data_science-5)
-- [World Cup 2022: Become a Real Soccer Data Consultant!](https://medium.com/analytics-vidhya/world-cup-2022-become-a-real-soccer-data-consultant-7f426026e290?source=rss------data_science-5)
+- [Santander Product Recommendation](https://medium.com/@piyushborse7020/santander-product-recommendation-806139dc58b?source=rss------data_science-5)
+- [Better an ounce of luck than a pound of gold&lpar;en&rpar; hockey sticks](https://medium.com/@thinkingjustin/better-an-ounce-of-luck-than-a-pound-of-gold-en-hockey-sticks-e45a450a835e?source=rss------data_science-5)
+- [Your Step By Step Guide to Get Promoted to Senior Data Scientist](https://medium.com/@SaltDataLabs/your-step-by-step-guide-to-get-promoted-to-senior-data-scientist-2e16f0025178?source=rss------data_science-5)
+- [Excel vs SQL: A Head-to-Head Comparison — Part 1](https://medium.com/@syedali/excel-vs-sql-a-head-to-head-comparison-part-1-46d5ff3e2b78?source=rss------data_science-5)
+- [Skin Cancer Detection with HAM10000: Introduction](https://medium.com/@nahmed3536/skin-cancer-detection-with-ham10000-introduction-17e91d6d5b2e?source=rss------data_science-5)
+- [Building A To-Do App With Shiny For Python](https://medium.com/@dreamferus/building-a-to-do-app-with-shiny-for-python-e2982a0c2d78?source=rss------data_science-5)
+- [OOP‘s Part 3: Polymorphism](https://medium.com/@isshitassharma/oop-s-part-3-polymorphism-cd3cf8d05248?source=rss------data_science-5)
+- [Exam Strategy for ISYE 6501: Intro to Analytics Modeling — Georgia Tech’s OMSCS](https://anikaneela.medium.com/exam-strategy-for-isye-6501-intro-to-analytics-modeling-georgia-techs-omscs-f519b71197d7?source=rss------data_science-5)
+- [Helpful Resources for ISYE 6501: Intro to Analytics Modeling — Georgia Tech’s OMSCS](https://anikaneela.medium.com/helpful-resources-for-isye-6501-intro-to-analytics-modeling-georgia-techs-omscs-f74463d7067c?source=rss------data_science-5)
+- [Acessando dados da copa do mundo de futebol com Python](https://ealexbarros.medium.com/acessando-dados-da-copa-do-mundo-de-futebol-com-python-5012a540e9a0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
