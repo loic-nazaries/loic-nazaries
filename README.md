@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Santander Product Recommendation](https://medium.com/@piyushborse7020/santander-product-recommendation-806139dc58b?source=rss------data_science-5)
-- [Better an ounce of luck than a pound of gold&lpar;en&rpar; hockey sticks](https://medium.com/@thinkingjustin/better-an-ounce-of-luck-than-a-pound-of-gold-en-hockey-sticks-e45a450a835e?source=rss------data_science-5)
-- [Your Step By Step Guide to Get Promoted to Senior Data Scientist](https://medium.com/@SaltDataLabs/your-step-by-step-guide-to-get-promoted-to-senior-data-scientist-2e16f0025178?source=rss------data_science-5)
-- [Excel vs SQL: A Head-to-Head Comparison — Part 1](https://medium.com/@syedali/excel-vs-sql-a-head-to-head-comparison-part-1-46d5ff3e2b78?source=rss------data_science-5)
-- [Skin Cancer Detection with HAM10000: Introduction](https://medium.com/@nahmed3536/skin-cancer-detection-with-ham10000-introduction-17e91d6d5b2e?source=rss------data_science-5)
-- [Building A To-Do App With Shiny For Python](https://medium.com/@dreamferus/building-a-to-do-app-with-shiny-for-python-e2982a0c2d78?source=rss------data_science-5)
-- [OOP‘s Part 3: Polymorphism](https://medium.com/@isshitassharma/oop-s-part-3-polymorphism-cd3cf8d05248?source=rss------data_science-5)
-- [Exam Strategy for ISYE 6501: Intro to Analytics Modeling — Georgia Tech’s OMSCS](https://anikaneela.medium.com/exam-strategy-for-isye-6501-intro-to-analytics-modeling-georgia-techs-omscs-f519b71197d7?source=rss------data_science-5)
-- [Helpful Resources for ISYE 6501: Intro to Analytics Modeling — Georgia Tech’s OMSCS](https://anikaneela.medium.com/helpful-resources-for-isye-6501-intro-to-analytics-modeling-georgia-techs-omscs-f74463d7067c?source=rss------data_science-5)
-- [Acessando dados da copa do mundo de futebol com Python](https://ealexbarros.medium.com/acessando-dados-da-copa-do-mundo-de-futebol-com-python-5012a540e9a0?source=rss------data_science-5)
+- [How I Got My First Job as a Data Scientist](https://medium.com/@datasistah/how-i-got-my-first-job-as-a-data-scientist-5ccc58f8d4ba?source=rss------data_science-5)
+- [A beginner’s journey to the world of Data Science.](https://medium.com/@douglaspraise1/a-beginners-journey-to-the-world-of-data-science-75cabe66f8bc?source=rss------data_science-5)
+- [What I’ve learned in two months with Python](https://medium.com/@gamnonpy/what-ive-learned-in-two-months-with-python-409b7d456db7?source=rss------data_science-5)
+- [Data Visualization: A Potent Tool](https://medium.com/@addacubed/data-visualization-a-potent-tool-d9a707d67e98?source=rss------data_science-5)
+- [Diving Into Data Science #5](https://medium.com/@amogh.kuchibhotla/diving-into-data-science-5-c8ca236d65c?source=rss------data_science-5)
+- [The Stochastic Exit Trading Strategy](https://kaabar-sofien.medium.com/the-stochastic-exit-trading-strategy-570f4ca2d622?source=rss------data_science-5)
+- [Data science — The future of India](https://medium.com/@intern1stepgrow/data-science-the-future-of-india-7062b0702a3a?source=rss------data_science-5)
+- [What I learned doing Hackathons](https://medium.com/@bdurand/what-i-learned-doing-and-winning-hackathons-6b35797124c?source=rss------data_science-5)
+- [The importance of knowing the Oracle Database in a Data Scientist career](https://medium.com/@5aledouldmed/the-importance-of-knowing-the-oracle-database-in-a-data-scientist-career-ef54da5edfba?source=rss------data_science-5)
+- [Understand common-used Evaluations Metrics for Binary Classification](https://medium.com/@tianyi.datascience/understand-common-used-evaluations-metrics-for-binary-classification-30f5d2e84a84?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
