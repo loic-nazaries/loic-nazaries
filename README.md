@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How I Got My First Job as a Data Scientist](https://medium.com/@datasistah/how-i-got-my-first-job-as-a-data-scientist-5ccc58f8d4ba?source=rss------data_science-5)
-- [A beginner’s journey to the world of Data Science.](https://medium.com/@douglaspraise1/a-beginners-journey-to-the-world-of-data-science-75cabe66f8bc?source=rss------data_science-5)
-- [What I’ve learned in two months with Python](https://medium.com/@gamnonpy/what-ive-learned-in-two-months-with-python-409b7d456db7?source=rss------data_science-5)
-- [Data Visualization: A Potent Tool](https://medium.com/@addacubed/data-visualization-a-potent-tool-d9a707d67e98?source=rss------data_science-5)
-- [Diving Into Data Science #5](https://medium.com/@amogh.kuchibhotla/diving-into-data-science-5-c8ca236d65c?source=rss------data_science-5)
-- [The Stochastic Exit Trading Strategy](https://kaabar-sofien.medium.com/the-stochastic-exit-trading-strategy-570f4ca2d622?source=rss------data_science-5)
-- [Data science — The future of India](https://medium.com/@intern1stepgrow/data-science-the-future-of-india-7062b0702a3a?source=rss------data_science-5)
-- [What I learned doing Hackathons](https://medium.com/@bdurand/what-i-learned-doing-and-winning-hackathons-6b35797124c?source=rss------data_science-5)
-- [The importance of knowing the Oracle Database in a Data Scientist career](https://medium.com/@5aledouldmed/the-importance-of-knowing-the-oracle-database-in-a-data-scientist-career-ef54da5edfba?source=rss------data_science-5)
-- [Understand common-used Evaluations Metrics for Binary Classification](https://medium.com/@tianyi.datascience/understand-common-used-evaluations-metrics-for-binary-classification-30f5d2e84a84?source=rss------data_science-5)
+- [Something out of this world for your next vacations](https://medium.com/@miguelsolissegura/something-out-of-this-world-for-your-next-vacations-1cb44fb246a6?source=rss------data_science-5)
+- [End-to-End Machine Learning Project with Deployment Part 1: Project Set-Up](https://pub.towardsai.net/end-to-end-machine-learning-project-with-deployment-part-1-project-set-up-af156d98c776?source=rss------data_science-5)
+- [What Exactly Can You Do With Python? Here Are Python’s 5 Main Applications.](https://endasheridan.medium.com/what-exactly-can-you-do-with-python-here-are-pythons-5-main-applications-78f5d027f677?source=rss------data_science-5)
+- [Unleashing the Power of Blockchain for Data Science](https://medium.com/@chiegbuugochukwu/unleashing-the-power-of-blockchain-for-data-science-e29e0c413253?source=rss------data_science-5)
+- [CompIdNet: Sheet Music Composer Identification using Deep Neural Network](https://medium.com/@dnyaneshwalwadkar/compidnet-sheet-music-composer-identification-using-deep-neural-network-bb458c01fe33?source=rss------data_science-5)
+- [8 Use Cases of Most Powerful Python Functions - apply&lpar;&rpar; and lambda&lpar;&rpar;](https://anmol3015.medium.com/8-use-cases-of-most-powerful-python-functions-apply-and-lambda-8e2d03e3e175?source=rss------data_science-5)
+- [Sort one column by another column in Power BI](https://medium.com/@m.mishra2403/sort-one-column-by-another-column-in-power-bi-78873be50630?source=rss------data_science-5)
+- [US Senator Stock Trades 2012–2021 using pgAdmin and PostgreSQL](https://medium.com/@sodiqalagbada/us-senator-stock-trades-2012-2021-using-pgadmin-and-postgresql-c251ebfca3da?source=rss------data_science-5)
+- [Top 9 Publications on Medium for Data Science, Machine Learning, and AI For 2023](https://medium.com/new-writers-welcome/top-9-publications-on-medium-for-data-science-machine-learning-and-ai-for-2023-3b3647623995?source=rss------data_science-5)
+- [Data Analyst vs Data Engineer vs Data Scientist | Data Analytics Masters Program | Edureka](https://medium.com/@elton.dsouza/data-analyst-vs-data-engineer-vs-data-scientist-data-analytics-masters-program-edureka-456aad15b8c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
