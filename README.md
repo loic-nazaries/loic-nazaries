@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Something out of this world for your next vacations](https://medium.com/@miguelsolissegura/something-out-of-this-world-for-your-next-vacations-1cb44fb246a6?source=rss------data_science-5)
-- [End-to-End Machine Learning Project with Deployment Part 1: Project Set-Up](https://pub.towardsai.net/end-to-end-machine-learning-project-with-deployment-part-1-project-set-up-af156d98c776?source=rss------data_science-5)
-- [What Exactly Can You Do With Python? Here Are Python’s 5 Main Applications.](https://endasheridan.medium.com/what-exactly-can-you-do-with-python-here-are-pythons-5-main-applications-78f5d027f677?source=rss------data_science-5)
-- [Unleashing the Power of Blockchain for Data Science](https://medium.com/@chiegbuugochukwu/unleashing-the-power-of-blockchain-for-data-science-e29e0c413253?source=rss------data_science-5)
-- [CompIdNet: Sheet Music Composer Identification using Deep Neural Network](https://medium.com/@dnyaneshwalwadkar/compidnet-sheet-music-composer-identification-using-deep-neural-network-bb458c01fe33?source=rss------data_science-5)
-- [8 Use Cases of Most Powerful Python Functions - apply&lpar;&rpar; and lambda&lpar;&rpar;](https://anmol3015.medium.com/8-use-cases-of-most-powerful-python-functions-apply-and-lambda-8e2d03e3e175?source=rss------data_science-5)
-- [Sort one column by another column in Power BI](https://medium.com/@m.mishra2403/sort-one-column-by-another-column-in-power-bi-78873be50630?source=rss------data_science-5)
-- [US Senator Stock Trades 2012–2021 using pgAdmin and PostgreSQL](https://medium.com/@sodiqalagbada/us-senator-stock-trades-2012-2021-using-pgadmin-and-postgresql-c251ebfca3da?source=rss------data_science-5)
-- [Top 9 Publications on Medium for Data Science, Machine Learning, and AI For 2023](https://medium.com/new-writers-welcome/top-9-publications-on-medium-for-data-science-machine-learning-and-ai-for-2023-3b3647623995?source=rss------data_science-5)
-- [Data Analyst vs Data Engineer vs Data Scientist | Data Analytics Masters Program | Edureka](https://medium.com/@elton.dsouza/data-analyst-vs-data-engineer-vs-data-scientist-data-analytics-masters-program-edureka-456aad15b8c?source=rss------data_science-5)
+- [Creating a Data Pipeline with Apache Airflow.](https://sabarevictor.medium.com/creating-a-data-pipeline-with-apache-airflow-182d633f0f04?source=rss------data_science-5)
+- [Panorama do COVID-19 no Brasil e no Mundo: Uma abordagem baseada em dados](https://medium.com/@itzborges/panorama-do-covid-19-no-brasil-e-no-mundo-uma-abordagem-baseada-em-dados-2804e0e0262f?source=rss------data_science-5)
+- [How To Leetcode Effectively](https://interviewnoodle.com/how-to-leetcode-effectively-a9dbeef30363?source=rss------data_science-5)
+- [7 Benefits of Working from Home as a Data Scientist](https://medium.com/@simonprdhm/7-benefits-of-working-from-home-as-a-data-scientist-e6bca90ae25f?source=rss------data_science-5)
+- [Generative Adversarial Network &lpar;GAN&rpar; — SimpleGAN, DCGAN, WGAN, ProGAN](https://medium.com/mlearning-ai/generative-adversarial-network-gan-simplegan-dcgan-wgan-progan-c92389a3c454?source=rss------data_science-5)
+- [Loading Data into Pandas: A Comprehensive Guide](https://medium.com/@simonprdhm/loading-data-into-pandas-a-comprehensive-guide-815383151b8f?source=rss------data_science-5)
+- [Three ggplot2 visualization techniques for displaying distributions](https://medium.com/@danlarson_74954/three-ggplot2-visualization-techniques-for-displaying-distributions-e232c3f6fa01?source=rss------data_science-5)
+- [Stop Looping Through Pandas DataFrames &amp; Do This Instead](https://levelup.gitconnected.com/stop-looping-through-pandas-dataframes-do-this-instead-ddcb6009cbc1?source=rss------data_science-5)
+- [Buckle up! 7 Hilarious Programmer Memes Headed Your Way](https://levelup.gitconnected.com/buckle-up-7-hilarious-programmer-memes-headed-your-way-d696b3de5185?source=rss------data_science-5)
+- [Sector-Based Pairs Trading with Python](https://medium.com/the-financial-journal/sector-based-pairs-trading-with-python-bc55ec29f6ff?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
