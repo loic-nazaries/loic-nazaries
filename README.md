@@ -122,7 +122,7 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
-- [Create Your Dynamic Google Sheet for Stock Price Analysis with Python](https://towardsdatascience.com/create-your-dynamic-google-sheet-for-stock-price-analysis-with-python-432e3c8d9d7d?source=rss-2cf6b549448------2)
+- [Create Your Dynamic Google Sheet for Stock Price Analysis with Python](https://sonery.medium.com/create-your-dynamic-google-sheet-for-stock-price-analysis-with-python-432e3c8d9d7d?source=rss-2cf6b549448------2)
 - [Python Tracebacks — Explained](https://towardsdatascience.com/python-tracebacks-explained-538caaac434?source=rss-2cf6b549448------2)
 - [10 Metrics to Evaluate Supervised Machine Learning Models](https://heartbeat.comet.ml/10-metrics-to-evaluate-supervised-machine-learning-models-ac7eb7dc630b?source=rss-2cf6b549448------2)
 - [4 Data Preprocessing Operations with Scikit-learn](https://towardsdatascience.com/4-data-preprocessing-operations-with-scikit-learn-5d26bf1442dd?source=rss-2cf6b549448------2)
