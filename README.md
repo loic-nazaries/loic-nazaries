@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Creating a Data Pipeline with Apache Airflow.](https://sabarevictor.medium.com/creating-a-data-pipeline-with-apache-airflow-182d633f0f04?source=rss------data_science-5)
-- [Panorama do COVID-19 no Brasil e no Mundo: Uma abordagem baseada em dados](https://medium.com/@itzborges/panorama-do-covid-19-no-brasil-e-no-mundo-uma-abordagem-baseada-em-dados-2804e0e0262f?source=rss------data_science-5)
-- [How To Leetcode Effectively](https://interviewnoodle.com/how-to-leetcode-effectively-a9dbeef30363?source=rss------data_science-5)
-- [7 Benefits of Working from Home as a Data Scientist](https://medium.com/@simonprdhm/7-benefits-of-working-from-home-as-a-data-scientist-e6bca90ae25f?source=rss------data_science-5)
-- [Generative Adversarial Network &lpar;GAN&rpar; — SimpleGAN, DCGAN, WGAN, ProGAN](https://medium.com/mlearning-ai/generative-adversarial-network-gan-simplegan-dcgan-wgan-progan-c92389a3c454?source=rss------data_science-5)
-- [Loading Data into Pandas: A Comprehensive Guide](https://medium.com/@simonprdhm/loading-data-into-pandas-a-comprehensive-guide-815383151b8f?source=rss------data_science-5)
-- [Three ggplot2 visualization techniques for displaying distributions](https://medium.com/@danlarson_74954/three-ggplot2-visualization-techniques-for-displaying-distributions-e232c3f6fa01?source=rss------data_science-5)
-- [Stop Looping Through Pandas DataFrames &amp; Do This Instead](https://levelup.gitconnected.com/stop-looping-through-pandas-dataframes-do-this-instead-ddcb6009cbc1?source=rss------data_science-5)
-- [Buckle up! 7 Hilarious Programmer Memes Headed Your Way](https://levelup.gitconnected.com/buckle-up-7-hilarious-programmer-memes-headed-your-way-d696b3de5185?source=rss------data_science-5)
-- [Sector-Based Pairs Trading with Python](https://medium.com/the-financial-journal/sector-based-pairs-trading-with-python-bc55ec29f6ff?source=rss------data_science-5)
+- [Analyzing Airbnb Data— Mexico City](https://medium.com/@matfriedmann/analyzing-airbnb-data-mexico-city-8ff20597f9e3?source=rss------data_science-5)
+- [Addressing Concept Drift in Machine Learning](https://medium.com/@smh778/addressing-concept-drift-in-machine-learning-bde729aff08b?source=rss------data_science-5)
+- [Pynecone: Web Apps in Pure Python](https://medium.com/@alekpetuskey/pynecone-web-apps-in-pure-python-5bad2fb2b416?source=rss------data_science-5)
+- [The Adaptive MACD — Coding Technical Indicators](https://kaabar-sofien.medium.com/the-adaptive-macd-coding-technical-indicators-4abf6dd95285?source=rss------data_science-5)
+- [10 + Politics Related Data Visuals In A Single Line Of Code](https://pub.towardsai.net/10-politics-related-data-visuals-in-a-single-line-of-code-772474ef4b89?source=rss------data_science-5)
+- [What is the Gamma Distribution Used For?](https://federicoriveroll.medium.com/what-is-the-gamma-distribution-used-for-2c3d6300bdbf?source=rss------data_science-5)
+- [Airbnb em Atenas — Uma Análise Exploratória](https://medium.com/@gblvaladares/airbnb-em-atenas-uma-an%C3%A1lise-explorat%C3%B3ria-728f559865b2?source=rss------data_science-5)
+- [DengAI: Predicting Dengue Fever Outbreaks](https://medium.com/@o.schraenkler/dengai-predicting-dengue-fever-outbreaks-56b201e55983?source=rss------data_science-5)
+- [How to run any linux program at startup](https://medium.com/@yousseftarhri15/how-to-run-any-linux-program-at-startup-9f8669f51705?source=rss------data_science-5)
+- [Depois de muitos dias, enfim, irei me desafiar a entrar em uma trajetória de aprendizado sobre Data…](https://medium.com/@henri.depauloo/depois-de-muitos-dias-enfim-irei-me-desafiar-a-entrar-em-uma-trajet%C3%B3ria-de-aprendizado-sobre-data-f32ffa27a43?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
