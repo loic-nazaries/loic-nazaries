@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Analyzing Airbnb Data— Mexico City](https://medium.com/@matfriedmann/analyzing-airbnb-data-mexico-city-8ff20597f9e3?source=rss------data_science-5)
-- [Addressing Concept Drift in Machine Learning](https://medium.com/@smh778/addressing-concept-drift-in-machine-learning-bde729aff08b?source=rss------data_science-5)
-- [Pynecone: Web Apps in Pure Python](https://medium.com/@alekpetuskey/pynecone-web-apps-in-pure-python-5bad2fb2b416?source=rss------data_science-5)
-- [The Adaptive MACD — Coding Technical Indicators](https://kaabar-sofien.medium.com/the-adaptive-macd-coding-technical-indicators-4abf6dd95285?source=rss------data_science-5)
-- [10 + Politics Related Data Visuals In A Single Line Of Code](https://pub.towardsai.net/10-politics-related-data-visuals-in-a-single-line-of-code-772474ef4b89?source=rss------data_science-5)
-- [What is the Gamma Distribution Used For?](https://federicoriveroll.medium.com/what-is-the-gamma-distribution-used-for-2c3d6300bdbf?source=rss------data_science-5)
-- [Airbnb em Atenas — Uma Análise Exploratória](https://medium.com/@gblvaladares/airbnb-em-atenas-uma-an%C3%A1lise-explorat%C3%B3ria-728f559865b2?source=rss------data_science-5)
-- [DengAI: Predicting Dengue Fever Outbreaks](https://medium.com/@o.schraenkler/dengai-predicting-dengue-fever-outbreaks-56b201e55983?source=rss------data_science-5)
-- [How to run any linux program at startup](https://medium.com/@yousseftarhri15/how-to-run-any-linux-program-at-startup-9f8669f51705?source=rss------data_science-5)
-- [Depois de muitos dias, enfim, irei me desafiar a entrar em uma trajetória de aprendizado sobre Data…](https://medium.com/@henri.depauloo/depois-de-muitos-dias-enfim-irei-me-desafiar-a-entrar-em-uma-trajet%C3%B3ria-de-aprendizado-sobre-data-f32ffa27a43?source=rss------data_science-5)
+- [The Role of Data Science in Financial Decision-Making](https://medium.com/@hassanalzaza83/the-role-of-data-science-in-financial-decision-making-be85b454b2d9?source=rss------data_science-5)
+- [Hola](https://medium.com/@noelgarcias/hola-4f24c08ce2bd?source=rss------data_science-5)
+- [The Bollinger Bands Width Indicator](https://kaabar-sofien.medium.com/the-bollinger-bands-width-indicator-765cf878daa4?source=rss------data_science-5)
+- [[Paper review] Accelerating Large-Scale Inference with Anisotropic Vector Quantization](https://haneulkim.medium.com/paper-review-accelerating-large-scale-inference-with-anisotropic-vector-quantization-e8b9b3f2ba91?source=rss------data_science-5)
+- [An Introduction To Knowledge Distillation — The Obi-Wan Skywalker Algorithm](https://medium.com/mlearning-ai/an-introduction-to-knowledge-distillation-the-obi-wan-skywalker-algorithm-bc117d80d69?source=rss------data_science-5)
+- [My MobApp](https://medium.com/@humoyunqosimov999/my-mobapp-e17899a64a92?source=rss------data_science-5)
+- [Competing in Kaggle competitions is a great way to test and improve your skills as a data…](https://husnainbukhari.medium.com/competing-in-kaggle-competitions-is-a-great-way-to-test-and-improve-your-skills-as-a-data-d9922397be49?source=rss------data_science-5)
+- [How To Convert Date Format in R](https://medium.com/@michaeltvu/r-for-haters-how-to-convert-date-format-50583214e1c8?source=rss------data_science-5)
+- [5 Hottest Color for Data Visualization Trends for 2023](https://datacated.medium.com/5-hottest-color-for-data-visualization-trends-for-2023-17f4f863fc70?source=rss------data_science-5)
+- [Metrics Engine, What gets measured, gets done!](https://medium.com/@olympianspeaks/metrics-engine-what-gets-measured-gets-done-7de26daa0d3e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
