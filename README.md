@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Role of Data Science in Financial Decision-Making](https://medium.com/@hassanalzaza83/the-role-of-data-science-in-financial-decision-making-be85b454b2d9?source=rss------data_science-5)
-- [Hola](https://medium.com/@noelgarcias/hola-4f24c08ce2bd?source=rss------data_science-5)
-- [The Bollinger Bands Width Indicator](https://kaabar-sofien.medium.com/the-bollinger-bands-width-indicator-765cf878daa4?source=rss------data_science-5)
-- [[Paper review] Accelerating Large-Scale Inference with Anisotropic Vector Quantization](https://haneulkim.medium.com/paper-review-accelerating-large-scale-inference-with-anisotropic-vector-quantization-e8b9b3f2ba91?source=rss------data_science-5)
-- [An Introduction To Knowledge Distillation — The Obi-Wan Skywalker Algorithm](https://medium.com/mlearning-ai/an-introduction-to-knowledge-distillation-the-obi-wan-skywalker-algorithm-bc117d80d69?source=rss------data_science-5)
-- [My MobApp](https://medium.com/@humoyunqosimov999/my-mobapp-e17899a64a92?source=rss------data_science-5)
-- [Competing in Kaggle competitions is a great way to test and improve your skills as a data…](https://husnainbukhari.medium.com/competing-in-kaggle-competitions-is-a-great-way-to-test-and-improve-your-skills-as-a-data-d9922397be49?source=rss------data_science-5)
-- [How To Convert Date Format in R](https://medium.com/@michaeltvu/r-for-haters-how-to-convert-date-format-50583214e1c8?source=rss------data_science-5)
-- [5 Hottest Color for Data Visualization Trends for 2023](https://datacated.medium.com/5-hottest-color-for-data-visualization-trends-for-2023-17f4f863fc70?source=rss------data_science-5)
-- [Metrics Engine, What gets measured, gets done!](https://medium.com/@olympianspeaks/metrics-engine-what-gets-measured-gets-done-7de26daa0d3e?source=rss------data_science-5)
+- [7+ Free Data Analyst Certifications Courses](https://shahzaibchadhar.medium.com/7-free-data-analyst-certifications-courses-4bc3fc1d5c4f?source=rss------data_science-5)
+- [Build and Conquer: A Framework for Learning](https://medium.com/dear-elegant-chums/build-and-conquer-a-framework-of-learning-f88ba71b9394?source=rss------data_science-5)
+- [Identifying Momentum Reversals With Extreme Duration](https://kaabar-sofien.medium.com/identifying-momentum-reversals-with-extreme-duration-aa4eff10cba3?source=rss------data_science-5)
+- [Art Style Image Classification](https://medium.com/@trystanwknowles/art-style-image-classification-4266e02f7b27?source=rss------data_science-5)
+- [Tyrst with #aiart in the subtle curry way](https://karan-bhatti.medium.com/tyrst-with-aiart-in-the-subtle-curry-way-1f3636e0aa7e?source=rss------data_science-5)
+- [Bright Red Larvae in Horse feces??](https://medium.com/@aqsabhatti866/bright-red-larvae-in-horse-feces-c9789231bfcd?source=rss------data_science-5)
+- [Artificial Intelligence Can Save Lives](https://medium.com/@jessicamoloney0222/artificial-intelligence-can-save-lives-cd4bbcb86776?source=rss------data_science-5)
+- [Plotting a Macroscopic Fundamental Diagram for Data Scientists in Python for Traffic Flow in…](https://thomasafink.medium.com/plotting-a-macroscopic-fundamental-diagram-for-data-scientists-in-python-for-traffic-flow-in-9f721b557362?source=rss------data_science-5)
+- [Simple Parquet Tutorial &amp; Best Practices](https://medium.com/@arli94/easy-parquet-tutorial-best-practices-237955e46cb7?source=rss------data_science-5)
+- [Top 10 use cases for the financial services industry moving data to the cloud](https://medium.com/@ashish1.thapliyal/top-10-use-cases-for-the-financial-services-industry-moving-data-to-the-cloud-12a67918a636?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
