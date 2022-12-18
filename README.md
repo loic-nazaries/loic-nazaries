@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [7+ Free Data Analyst Certifications Courses](https://shahzaibchadhar.medium.com/7-free-data-analyst-certifications-courses-4bc3fc1d5c4f?source=rss------data_science-5)
-- [Build and Conquer: A Framework for Learning](https://medium.com/dear-elegant-chums/build-and-conquer-a-framework-of-learning-f88ba71b9394?source=rss------data_science-5)
-- [Identifying Momentum Reversals With Extreme Duration](https://kaabar-sofien.medium.com/identifying-momentum-reversals-with-extreme-duration-aa4eff10cba3?source=rss------data_science-5)
-- [Art Style Image Classification](https://medium.com/@trystanwknowles/art-style-image-classification-4266e02f7b27?source=rss------data_science-5)
-- [Tyrst with #aiart in the subtle curry way](https://karan-bhatti.medium.com/tyrst-with-aiart-in-the-subtle-curry-way-1f3636e0aa7e?source=rss------data_science-5)
-- [Bright Red Larvae in Horse feces??](https://medium.com/@aqsabhatti866/bright-red-larvae-in-horse-feces-c9789231bfcd?source=rss------data_science-5)
-- [Artificial Intelligence Can Save Lives](https://medium.com/@jessicamoloney0222/artificial-intelligence-can-save-lives-cd4bbcb86776?source=rss------data_science-5)
-- [Plotting a Macroscopic Fundamental Diagram for Data Scientists in Python for Traffic Flow in…](https://thomasafink.medium.com/plotting-a-macroscopic-fundamental-diagram-for-data-scientists-in-python-for-traffic-flow-in-9f721b557362?source=rss------data_science-5)
-- [Simple Parquet Tutorial &amp; Best Practices](https://medium.com/@arli94/easy-parquet-tutorial-best-practices-237955e46cb7?source=rss------data_science-5)
-- [Top 10 use cases for the financial services industry moving data to the cloud](https://medium.com/@ashish1.thapliyal/top-10-use-cases-for-the-financial-services-industry-moving-data-to-the-cloud-12a67918a636?source=rss------data_science-5)
+- [Tapping crowd sentiment with Bigdata and machine learning](https://medium.com/@vinayakcs7/tapping-crowd-sentiment-with-bigdata-and-machine-learning-b394e56eac0a?source=rss------data_science-5)
+- [Create a Grid of Your Top Albums From Spotify With Python](https://medium.com/@martinweiss1255/create-a-grid-of-your-top-albums-from-spotify-with-python-1b6a1cc531e9?source=rss------data_science-5)
+- [Make A Lifetime Spotify Wrapped With Python](https://medium.com/@martinweiss1255/make-a-lifetime-spotify-wrapped-with-python-35359222852f?source=rss------data_science-5)
+- [Client churn rate in the telecom sector](https://medium.com/@nikhilbindal2/client-churn-rate-in-the-telecom-sector-4225a2219099?source=rss------data_science-5)
+- [Software engineering challenges in MLOps](https://kalpads.medium.com/software-engineering-challenges-in-mlops-7f988bb37648?source=rss------data_science-5)
+- [Trading the Gartley Pattern — The Full Guide](https://kaabar-sofien.medium.com/trading-the-gartley-pattern-the-full-guide-e100f0de3fe2?source=rss------data_science-5)
+- [How Netflix Knows What You Want To Watch?](https://shroudedscience.medium.com/how-netflix-knows-what-you-want-to-watch-426a24cb5e7b?source=rss------data_science-5)
+- [Is Artificial General Possible? Future after DALL-E and ChatGPT](https://medium.com/@uguryagmur/is-artificial-general-possible-future-after-dall-e-and-chatgpt-eb06e38b97ed?source=rss------data_science-5)
+- [Best way to learn programming](https://medium.com/@ibrahhhim2181/best-way-to-learn-programming-c83cc229c6a1?source=rss------data_science-5)
+- [Can I be successful as a developer even if….?](https://medium.com/@m.knox0826/can-i-be-successful-as-a-developer-even-if-5883f7b92eb3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
