@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Tapping crowd sentiment with Bigdata and machine learning](https://medium.com/@vinayakcs7/tapping-crowd-sentiment-with-bigdata-and-machine-learning-b394e56eac0a?source=rss------data_science-5)
-- [Create a Grid of Your Top Albums From Spotify With Python](https://medium.com/@martinweiss1255/create-a-grid-of-your-top-albums-from-spotify-with-python-1b6a1cc531e9?source=rss------data_science-5)
-- [Make A Lifetime Spotify Wrapped With Python](https://medium.com/@martinweiss1255/make-a-lifetime-spotify-wrapped-with-python-35359222852f?source=rss------data_science-5)
-- [Client churn rate in the telecom sector](https://medium.com/@nikhilbindal2/client-churn-rate-in-the-telecom-sector-4225a2219099?source=rss------data_science-5)
-- [Software engineering challenges in MLOps](https://kalpads.medium.com/software-engineering-challenges-in-mlops-7f988bb37648?source=rss------data_science-5)
-- [Trading the Gartley Pattern — The Full Guide](https://kaabar-sofien.medium.com/trading-the-gartley-pattern-the-full-guide-e100f0de3fe2?source=rss------data_science-5)
-- [How Netflix Knows What You Want To Watch?](https://shroudedscience.medium.com/how-netflix-knows-what-you-want-to-watch-426a24cb5e7b?source=rss------data_science-5)
-- [Is Artificial General Possible? Future after DALL-E and ChatGPT](https://medium.com/@uguryagmur/is-artificial-general-possible-future-after-dall-e-and-chatgpt-eb06e38b97ed?source=rss------data_science-5)
-- [Best way to learn programming](https://medium.com/@ibrahhhim2181/best-way-to-learn-programming-c83cc229c6a1?source=rss------data_science-5)
-- [Can I be successful as a developer even if….?](https://medium.com/@m.knox0826/can-i-be-successful-as-a-developer-even-if-5883f7b92eb3?source=rss------data_science-5)
+- [Using Proxies For Web Scraping — Everything Web Scraping 002](https://medium.com/@davidteather/using-proxies-for-web-scraping-everything-web-scraping-002-93dac714be29?source=rss------data_science-5)
+- [How To Use Proxies In Python — Everything Web Scraping 002](https://medium.com/@davidteather/how-to-use-proxies-in-python-everything-web-scraping-002-1c28acc092cf?source=rss------data_science-5)
+- [10 Tips for Communicating Data Analysis Effectively](https://medium.com/@aditichoubey/10-tips-for-communicating-data-analysis-effectively-989c6831f81?source=rss------data_science-5)
+- [10 Books That Will Broaden Your Horizons as a Machine Learning Researcher](https://medium.com/@samyak.shrimali12/10-books-that-will-broaden-your-horizons-as-a-machine-learning-researcher-b5689247376d?source=rss------data_science-5)
+- [The shocking truth about how AI could destroy 47% of jobs in the US](https://medium.com/@shahzaddin/the-shocking-truth-about-how-ai-could-destroy-47-of-jobs-in-the-us-fa24ca31315d?source=rss------data_science-5)
+- [Introduction To Forging API Requests — Everything Web Scraping 001](https://medium.com/@davidteather/introduction-to-forging-api-requests-everything-web-scraping-001-504b7b9a1040?source=rss------data_science-5)
+- [The Choppiness Index — Detecting Trends &amp; Sideways](https://kaabar-sofien.medium.com/the-choppiness-index-detecting-trends-sideways-dbb2107ed75b?source=rss------data_science-5)
+- [10 Things You Never Knew About Data Analytics &lpar;But Wish You Did&rpar;](https://medium.com/@emrahmetu/10-things-you-never-knew-about-data-analytics-but-wish-you-did-a851233b1197?source=rss------data_science-5)
+- [ANÁLISE DE DADOS PARA VENDAS DE UMA GRANDE EMPRESA DE VAREJO COM A METODOLOGIA CRISP-DM](https://medium.com/@gabriel.hiss/an%C3%A1lise-de-dados-para-vendas-de-uma-grande-empresa-de-varejo-com-a-metodologia-crisp-dm-169388255b3f?source=rss------data_science-5)
+- [Exceeding FIFA World Cup expectations: using ML to identify the top overperforming players of the…](https://medium.com/@ivanreznikov/exceeding-fifa-world-cup-expectations-using-ml-to-identify-the-top-overperforming-players-of-the-4e7cbc22eac0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
