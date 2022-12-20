@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [4 Techniques for Scaling Pandas to Large Datasets](https://towardsdatascience.com/4-techniques-for-scaling-pandas-to-large-datasets-acf8805d30eb?source=rss-2cf6b549448------2)
 - [Create Your Dynamic Google Sheet for Stock Price Analysis with Python](https://sonery.medium.com/create-your-dynamic-google-sheet-for-stock-price-analysis-with-python-432e3c8d9d7d?source=rss-2cf6b549448------2)
 - [Python Tracebacks — Explained](https://towardsdatascience.com/python-tracebacks-explained-538caaac434?source=rss-2cf6b549448------2)
 - [10 Metrics to Evaluate Supervised Machine Learning Models](https://heartbeat.comet.ml/10-metrics-to-evaluate-supervised-machine-learning-models-ac7eb7dc630b?source=rss-2cf6b549448------2)
 - [4 Data Preprocessing Operations with Scikit-learn](https://towardsdatascience.com/4-data-preprocessing-operations-with-scikit-learn-5d26bf1442dd?source=rss-2cf6b549448------2)
-- [4 Methods for Adding New Items to Python Lists](https://towardsdatascience.com/4-methods-for-adding-new-items-to-python-lists-7c4243e93416?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
