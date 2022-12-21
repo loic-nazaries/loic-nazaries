@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [$?](https://medium.com/@QuestionEth/-13f1b5dc1984?source=rss------data_science-5)
-- [Mastering the Data Science Interview: Expert Advice](https://medium.com/@jdseo/mastering-the-data-science-interview-expert-advice-7d79ea740c17?source=rss------data_science-5)
-- [What Are Instagram Following Methods?](https://medium.com/@homezonekid/what-are-instagram-following-methods-66de4f39f692?source=rss------data_science-5)
-- [How big data is reshaping business](https://medium.com/@datastreamsglobal/how-big-data-is-reshaping-business-584833734ffa?source=rss------data_science-5)
-- [Why is PostgreSQL is better than other DBMSes &lpar;Database Management Systems&rpar;?](https://adityakumawat502.medium.com/why-is-postgresql-is-better-than-other-dbmses-database-management-systems-dd362e7d3357?source=rss------data_science-5)
-- [Data Fabric: Everything you need to know](https://medium.com/@datastreamsglobal/data-fabric-everything-you-need-to-know-b53bcd0fed3e?source=rss------data_science-5)
-- [2 simple ways to navigate the high tides and low tides of life](https://medium.com/@thesilentmonk/2-simple-ways-to-navigate-the-high-tides-and-low-tides-of-life-d8de17b49421?source=rss------data_science-5)
-- [Scraping data with python &lpar;beautifulsoup4, selenium&rpar;](https://medium.com/@ghazitlalet19/scraping-data-with-python-beautifulsoup4-selenium-6bbc7f1f0e87?source=rss------data_science-5)
-- [Double Top / Double Bottom RSI Trading Strategy](https://kaabar-sofien.medium.com/double-top-double-bottom-rsi-trading-strategy-5b4aa39ad72d?source=rss------data_science-5)
-- [Uma Query dentro de outra Query. Um pouco de SQL](https://medium.com/@folignocaroline/uma-query-dentro-de-outra-query-um-pouco-de-sql-595e75ad4acb?source=rss------data_science-5)
+- [The Tidyverse and data.table R](https://medium.com/@aousabdo/the-tidyverse-and-data-table-r-1ffc07bfd8cc?source=rss------data_science-5)
+- [Trying different model architectures on Titanic Dataset](https://medium.com/@petergylyscolwell/trying-different-model-architectures-on-titanic-dataset-3bb8a8f1854c?source=rss------data_science-5)
+- [ChatGPT: The Art of Data Balance: Python Techniques for Equalizing Imbalanced Datasets](https://medium.com/@aabdella/chatgpt-the-art-of-data-balance-python-techniques-for-equalizing-imbalanced-datasets-f59f2fff7f96?source=rss------data_science-5)
+- [Let’s Talk About ChatGPT: The Almost Creative AI.](https://medium.com/@manishprasadthapliyal/lets-talk-about-chatgpt-the-almost-creative-ai-1b06cc99b79a?source=rss------data_science-5)
+- [How Cyber Attackers Are Tricking Developers And Why Better Security Awareness Training Is Required](https://medium.com/@ThriveDX/how-cyber-attackers-are-tricking-developers-and-why-better-security-awareness-training-is-required-af4f7386c7fc?source=rss------data_science-5)
+- [Data Analysis with R programming: Strings in R program](https://medium.com/@rprogram/data-analysis-with-r-programming-strings-in-r-program-76db75ae22bb?source=rss------data_science-5)
+- [How to learn Python in 30 days](https://medium.com/@iqra.bismi/how-to-learn-python-in-30-days-93ec120ac9a3?source=rss------data_science-5)
+- [The Correlation-Adjusted Reversal Indicator](https://kaabar-sofien.medium.com/the-correlation-adjusted-reversal-indicator-82ff059c04c5?source=rss------data_science-5)
+- [Top 10 Python Libraries for Data Science](https://endasheridan.medium.com/top-10-python-libraries-for-data-science-2f12e294962a?source=rss------data_science-5)
+- [Elevate your data analysis with these 3 new DAX functions](https://medium.com/@inzaniak/elevate-your-data-analysis-with-these-3-new-dax-functions-ecb3217fe834?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
