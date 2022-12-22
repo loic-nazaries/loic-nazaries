@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Tidyverse and data.table R](https://medium.com/@aousabdo/the-tidyverse-and-data-table-r-1ffc07bfd8cc?source=rss------data_science-5)
-- [Trying different model architectures on Titanic Dataset](https://medium.com/@petergylyscolwell/trying-different-model-architectures-on-titanic-dataset-3bb8a8f1854c?source=rss------data_science-5)
-- [ChatGPT: The Art of Data Balance: Python Techniques for Equalizing Imbalanced Datasets](https://medium.com/@aabdella/chatgpt-the-art-of-data-balance-python-techniques-for-equalizing-imbalanced-datasets-f59f2fff7f96?source=rss------data_science-5)
-- [Let’s Talk About ChatGPT: The Almost Creative AI.](https://medium.com/@manishprasadthapliyal/lets-talk-about-chatgpt-the-almost-creative-ai-1b06cc99b79a?source=rss------data_science-5)
-- [How Cyber Attackers Are Tricking Developers And Why Better Security Awareness Training Is Required](https://medium.com/@ThriveDX/how-cyber-attackers-are-tricking-developers-and-why-better-security-awareness-training-is-required-af4f7386c7fc?source=rss------data_science-5)
-- [Data Analysis with R programming: Strings in R program](https://medium.com/@rprogram/data-analysis-with-r-programming-strings-in-r-program-76db75ae22bb?source=rss------data_science-5)
-- [How to learn Python in 30 days](https://medium.com/@iqra.bismi/how-to-learn-python-in-30-days-93ec120ac9a3?source=rss------data_science-5)
-- [The Correlation-Adjusted Reversal Indicator](https://kaabar-sofien.medium.com/the-correlation-adjusted-reversal-indicator-82ff059c04c5?source=rss------data_science-5)
-- [Top 10 Python Libraries for Data Science](https://endasheridan.medium.com/top-10-python-libraries-for-data-science-2f12e294962a?source=rss------data_science-5)
-- [Elevate your data analysis with these 3 new DAX functions](https://medium.com/@inzaniak/elevate-your-data-analysis-with-these-3-new-dax-functions-ecb3217fe834?source=rss------data_science-5)
+- [Muscle synergy concept](https://medium.com/@danolez1fatuns/muscle-synergy-concept-a9996a310080?source=rss------data_science-5)
+- [The Dynamic Relative Strength Index](https://kaabar-sofien.medium.com/the-dynamic-relative-strength-index-dbae3a812860?source=rss------data_science-5)
+- [Run Very Large Language Models on Your Computer](https://pub.towardsai.net/run-very-large-language-models-on-your-computer-390dd33838bb?source=rss------data_science-5)
+- [Oregon’s THC Potency Data and Tableau](https://medium.com/data-lorax/oregons-thc-potency-data-and-tableau-1001c5c84a05?source=rss------data_science-5)
+- [Contato](https://medium.com/@csantos.alan/contato-e98eaae802d7?source=rss------data_science-5)
+- [Sobre mim](https://medium.com/@sjulianoluiz/sobre-mim-2b661ac114d6?source=rss------data_science-5)
+- [Getting Started with Conda environment [Part-1]](https://medium.com/hydroinformatics/getting-started-with-conda-environment-332182d1e937?source=rss------data_science-5)
+- [Smaller Is Better: Shrinking Neural Network and Keeping Its Brainpower](https://betterprogramming.pub/smaller-is-better-shrinking-neural-network-and-keeping-its-brainpower-6b0288a3cb1d?source=rss------data_science-5)
+- [Harnessing the Power of Business Intelligence to Boost Your Small Business Performance](https://pcsocial.medium.com/harnessing-the-power-of-business-intelligence-to-boost-your-small-business-performance-32bf06d43bce?source=rss------data_science-5)
+- [Data Science &amp; ResiReal Estate: Merging the Physical with the Abstract](https://unstructuredandunsupervised.medium.com/data-science-resireal-estate-merging-the-physical-with-the-abstract-669656775a9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
