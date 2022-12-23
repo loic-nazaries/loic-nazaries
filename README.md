@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Muscle synergy concept](https://medium.com/@danolez1fatuns/muscle-synergy-concept-a9996a310080?source=rss------data_science-5)
-- [The Dynamic Relative Strength Index](https://kaabar-sofien.medium.com/the-dynamic-relative-strength-index-dbae3a812860?source=rss------data_science-5)
-- [Run Very Large Language Models on Your Computer](https://pub.towardsai.net/run-very-large-language-models-on-your-computer-390dd33838bb?source=rss------data_science-5)
-- [Oregon’s THC Potency Data and Tableau](https://medium.com/data-lorax/oregons-thc-potency-data-and-tableau-1001c5c84a05?source=rss------data_science-5)
-- [Contato](https://medium.com/@csantos.alan/contato-e98eaae802d7?source=rss------data_science-5)
-- [Sobre mim](https://medium.com/@sjulianoluiz/sobre-mim-2b661ac114d6?source=rss------data_science-5)
-- [Getting Started with Conda environment [Part-1]](https://medium.com/hydroinformatics/getting-started-with-conda-environment-332182d1e937?source=rss------data_science-5)
-- [Smaller Is Better: Shrinking Neural Network and Keeping Its Brainpower](https://betterprogramming.pub/smaller-is-better-shrinking-neural-network-and-keeping-its-brainpower-6b0288a3cb1d?source=rss------data_science-5)
-- [Harnessing the Power of Business Intelligence to Boost Your Small Business Performance](https://pcsocial.medium.com/harnessing-the-power-of-business-intelligence-to-boost-your-small-business-performance-32bf06d43bce?source=rss------data_science-5)
-- [Data Science &amp; ResiReal Estate: Merging the Physical with the Abstract](https://unstructuredandunsupervised.medium.com/data-science-resireal-estate-merging-the-physical-with-the-abstract-669656775a9?source=rss------data_science-5)
+- [Dismantling the Confusion on Data Job Titles](https://medium.com/@joshie237ho/dismantling-the-confusion-on-data-job-titles-1ebdec83ef52?source=rss------data_science-5)
+- [“Why Only Qualified Individuals Should Be Allowed to Use AI: The Importance of the ‘Garbage In…](https://mr-collins-llb.medium.com/why-only-qualified-individuals-should-be-allowed-to-use-ai-the-importance-of-the-garbage-in-b1c6a952f62f?source=rss------data_science-5)
+- [Meet the Top KNinjas of Just KNIME It!](https://medium.com/low-code-for-advanced-data-science/meet-the-top-kninjas-of-just-knime-it-6ab5d1c7ee5?source=rss------data_science-5)
+- [Creating a Trend Following Strategy With the RSI](https://kaabar-sofien.medium.com/creating-a-trend-following-strategy-with-the-rsi-61609b469766?source=rss------data_science-5)
+- [Como a Inteligência Artificial pode ajudar a evitar os churns de clientes de uma fintech?](https://medium.com/@guilherme.lasinskas/como-a-intelig%C3%AAncia-artificial-pode-ajudar-a-evitar-os-churns-de-clientes-de-uma-fintech-9f0d2fafb48b?source=rss------data_science-5)
+- [Target Marketing for Starbucks using Machine Learning](https://medium.com/@narulahimani23/target-marketing-for-starbucks-using-machine-learning-e8f22a0e6b14?source=rss------data_science-5)
+- [Building block matrices using the tensor product](https://oscarnieves100.medium.com/building-block-matrices-using-the-tensor-product-19bdf25fac5d?source=rss------data_science-5)
+- [Data Analysis Project &lpar;Part 1&rpar;: Cleaning Data in SQL](https://medium.com/@gabrielabasiama/data-analysis-project-part-1-cleaning-data-in-sql-c68a55c75cc6?source=rss------data_science-5)
+- [How To Reduce Snowflake Costs by 80%](https://starrocks.medium.com/how-to-reduce-snowflake-costs-by-80-deb87aa69bc5?source=rss------data_science-5)
+- [Need for Speed, Blazing Fast Python using Ray](https://medium.com/geekculture/need-for-speed-blazing-fast-python-using-ray-6fa8d303a448?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
