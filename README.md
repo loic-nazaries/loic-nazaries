@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Dismantling the Confusion on Data Job Titles](https://medium.com/@joshie237ho/dismantling-the-confusion-on-data-job-titles-1ebdec83ef52?source=rss------data_science-5)
-- [“Why Only Qualified Individuals Should Be Allowed to Use AI: The Importance of the ‘Garbage In…](https://mr-collins-llb.medium.com/why-only-qualified-individuals-should-be-allowed-to-use-ai-the-importance-of-the-garbage-in-b1c6a952f62f?source=rss------data_science-5)
-- [Meet the Top KNinjas of Just KNIME It!](https://medium.com/low-code-for-advanced-data-science/meet-the-top-kninjas-of-just-knime-it-6ab5d1c7ee5?source=rss------data_science-5)
-- [Creating a Trend Following Strategy With the RSI](https://kaabar-sofien.medium.com/creating-a-trend-following-strategy-with-the-rsi-61609b469766?source=rss------data_science-5)
-- [Como a Inteligência Artificial pode ajudar a evitar os churns de clientes de uma fintech?](https://medium.com/@guilherme.lasinskas/como-a-intelig%C3%AAncia-artificial-pode-ajudar-a-evitar-os-churns-de-clientes-de-uma-fintech-9f0d2fafb48b?source=rss------data_science-5)
-- [Target Marketing for Starbucks using Machine Learning](https://medium.com/@narulahimani23/target-marketing-for-starbucks-using-machine-learning-e8f22a0e6b14?source=rss------data_science-5)
-- [Building block matrices using the tensor product](https://oscarnieves100.medium.com/building-block-matrices-using-the-tensor-product-19bdf25fac5d?source=rss------data_science-5)
-- [Data Analysis Project &lpar;Part 1&rpar;: Cleaning Data in SQL](https://medium.com/@gabrielabasiama/data-analysis-project-part-1-cleaning-data-in-sql-c68a55c75cc6?source=rss------data_science-5)
-- [How To Reduce Snowflake Costs by 80%](https://starrocks.medium.com/how-to-reduce-snowflake-costs-by-80-deb87aa69bc5?source=rss------data_science-5)
-- [Need for Speed, Blazing Fast Python using Ray](https://medium.com/geekculture/need-for-speed-blazing-fast-python-using-ray-6fa8d303a448?source=rss------data_science-5)
+- [Clustering with K-Means Algorithm: Individual Household Electric Power Consumption](https://medium.com/@gentroyal/clustering-with-k-means-algorithm-individual-household-electric-power-consumption-9bcf3290f693?source=rss------data_science-5)
+- [5 Proven Tips for Mastering SQL: A Beginner’s Guide to Becoming a SQL Expert](https://medium.com/@anna.wu9222/5-proven-tips-for-mastering-sql-a-beginners-guide-to-becoming-a-sql-expert-2612f311ef2b?source=rss------data_science-5)
+- [Trading the Alternate Bat Pattern — The Full Guide](https://kaabar-sofien.medium.com/trading-the-alternate-bat-pattern-the-full-guide-458fb01ba345?source=rss------data_science-5)
+- [ChatGPT Combined with Graph Database to Predict a FIFA 2022 Winner but Went Wrong](https://pub.towardsai.net/chatgpt-combined-with-graph-database-to-predict-a-fifa-2022-winner-but-went-wrong-f872c303af63?source=rss------data_science-5)
+- [Become A Data Scientist In 2023 With These 10 Resources](https://endasheridan.medium.com/become-a-data-scientist-in-2023-with-these-10-resources-b06e94094de0?source=rss------data_science-5)
+- [Crash Course on Machine Learning](https://medium.com/@elaiza.padilla/crash-course-on-machine-learning-7797be4e72e9?source=rss------data_science-5)
+- [6 ChatGPT mind-blowing extensions to use it anywhere](https://medium.com/geekculture/6-chatgpt-mind-blowing-extensions-to-use-it-anywhere-db6638640ec7?source=rss------data_science-5)
+- [Racist And Sexist AI: Should We Be Worried?](https://medium.com/dare-to-be-better/racist-and-sexist-ai-should-we-be-worried-a2bde1da4b01?source=rss------data_science-5)
+- [This article will make you understand the influence of the brazilian Chamber of Deputies on…](https://medium.com/@paraobentinho/this-article-will-make-you-understand-the-influence-of-the-brazilian-chamber-of-deputies-on-73ae3819fb61?source=rss------data_science-5)
+- [What are some common data science mistakes startups make?](https://medium.com/@Samir_2002k/what-are-some-common-data-science-mistakes-startups-make-13b2174729c8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
