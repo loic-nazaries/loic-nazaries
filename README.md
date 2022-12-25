@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Clustering with K-Means Algorithm: Individual Household Electric Power Consumption](https://medium.com/@gentroyal/clustering-with-k-means-algorithm-individual-household-electric-power-consumption-9bcf3290f693?source=rss------data_science-5)
-- [5 Proven Tips for Mastering SQL: A Beginner’s Guide to Becoming a SQL Expert](https://medium.com/@anna.wu9222/5-proven-tips-for-mastering-sql-a-beginners-guide-to-becoming-a-sql-expert-2612f311ef2b?source=rss------data_science-5)
-- [Trading the Alternate Bat Pattern — The Full Guide](https://kaabar-sofien.medium.com/trading-the-alternate-bat-pattern-the-full-guide-458fb01ba345?source=rss------data_science-5)
-- [ChatGPT Combined with Graph Database to Predict a FIFA 2022 Winner but Went Wrong](https://pub.towardsai.net/chatgpt-combined-with-graph-database-to-predict-a-fifa-2022-winner-but-went-wrong-f872c303af63?source=rss------data_science-5)
-- [Become A Data Scientist In 2023 With These 10 Resources](https://endasheridan.medium.com/become-a-data-scientist-in-2023-with-these-10-resources-b06e94094de0?source=rss------data_science-5)
-- [Crash Course on Machine Learning](https://medium.com/@elaiza.padilla/crash-course-on-machine-learning-7797be4e72e9?source=rss------data_science-5)
-- [6 ChatGPT mind-blowing extensions to use it anywhere](https://medium.com/geekculture/6-chatgpt-mind-blowing-extensions-to-use-it-anywhere-db6638640ec7?source=rss------data_science-5)
-- [Racist And Sexist AI: Should We Be Worried?](https://medium.com/dare-to-be-better/racist-and-sexist-ai-should-we-be-worried-a2bde1da4b01?source=rss------data_science-5)
-- [This article will make you understand the influence of the brazilian Chamber of Deputies on…](https://medium.com/@paraobentinho/this-article-will-make-you-understand-the-influence-of-the-brazilian-chamber-of-deputies-on-73ae3819fb61?source=rss------data_science-5)
-- [What are some common data science mistakes startups make?](https://medium.com/@Samir_2002k/what-are-some-common-data-science-mistakes-startups-make-13b2174729c8?source=rss------data_science-5)
+- [Getting Started with DVC: A Beginner’s Guide to Data Version Control](https://medium.com/@smohajer85/getting-started-with-dvc-a-beginners-guide-to-data-version-control-a35756ef2c41?source=rss------data_science-5)
+- [Combining the Ultimate Oscillator With the Stochastic Oscillator in a Trading Strategy](https://kaabar-sofien.medium.com/combining-the-ultimate-oscillator-with-the-stochastic-oscillator-in-a-trading-strategy-533136c1be1d?source=rss------data_science-5)
+- [The Power of Machine Learning: Transformative Applications and Techniques](https://medium.com/@dnyaneshwalwadkar/the-power-of-machine-learning-transformative-applications-and-techniques-6c8da614c980?source=rss------data_science-5)
+- [Simpson’s Paradox: Do Smokers Have Better Chances of Surviving a Heart Attack?!](https://medium.com/@matchmaticians/simpsons-paradox-do-smokers-have-better-chances-of-surviving-a-heart-attack-18f786d9b65e?source=rss------data_science-5)
+- [Ensemble Models](https://medium.com/@plutobiscuit/ensemble-models-6f3512c8997a?source=rss------data_science-5)
+- [Chapter 2 | Gradient descent, how neural networks learn](https://medium.com/@tjyang2005/chapter-2-gradient-descent-how-neural-networks-learn-720434fea76d?source=rss------data_science-5)
+- [Getting Started with JupyterLab](https://medium.com/hydroinformatics/getting-started-with-jupyterlab-b7bc58ae4e4a?source=rss------data_science-5)
+- [Data Management KPIs &amp; Metric: 6 to Measure and How to Improve Them](https://medium.com/@abdelilah.moulida/data-management-kpis-metric-6-to-measure-and-how-to-improve-them-9e769321b837?source=rss------data_science-5)
+- [Cracking Data Science Interviews -Sharing My learnings from 25+ Interviews](https://prabakaranc.medium.com/cracking-data-science-interviews-sharing-my-learnings-from-25-interviews-6a66b5335f0d?source=rss------data_science-5)
+- [A Beginner’s Guide to Principal Component Analysis](https://medium.com/@SaltDataLabs/a-beginners-guide-to-principal-component-analysis-962bc738f6b2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
