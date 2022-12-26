@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Getting Started with DVC: A Beginner’s Guide to Data Version Control](https://medium.com/@smohajer85/getting-started-with-dvc-a-beginners-guide-to-data-version-control-a35756ef2c41?source=rss------data_science-5)
-- [Combining the Ultimate Oscillator With the Stochastic Oscillator in a Trading Strategy](https://kaabar-sofien.medium.com/combining-the-ultimate-oscillator-with-the-stochastic-oscillator-in-a-trading-strategy-533136c1be1d?source=rss------data_science-5)
-- [The Power of Machine Learning: Transformative Applications and Techniques](https://medium.com/@dnyaneshwalwadkar/the-power-of-machine-learning-transformative-applications-and-techniques-6c8da614c980?source=rss------data_science-5)
-- [Simpson’s Paradox: Do Smokers Have Better Chances of Surviving a Heart Attack?!](https://medium.com/@matchmaticians/simpsons-paradox-do-smokers-have-better-chances-of-surviving-a-heart-attack-18f786d9b65e?source=rss------data_science-5)
-- [Ensemble Models](https://medium.com/@plutobiscuit/ensemble-models-6f3512c8997a?source=rss------data_science-5)
-- [Chapter 2 | Gradient descent, how neural networks learn](https://medium.com/@tjyang2005/chapter-2-gradient-descent-how-neural-networks-learn-720434fea76d?source=rss------data_science-5)
-- [Getting Started with JupyterLab](https://medium.com/hydroinformatics/getting-started-with-jupyterlab-b7bc58ae4e4a?source=rss------data_science-5)
-- [Data Management KPIs &amp; Metric: 6 to Measure and How to Improve Them](https://medium.com/@abdelilah.moulida/data-management-kpis-metric-6-to-measure-and-how-to-improve-them-9e769321b837?source=rss------data_science-5)
-- [Cracking Data Science Interviews -Sharing My learnings from 25+ Interviews](https://prabakaranc.medium.com/cracking-data-science-interviews-sharing-my-learnings-from-25-interviews-6a66b5335f0d?source=rss------data_science-5)
-- [A Beginner’s Guide to Principal Component Analysis](https://medium.com/@SaltDataLabs/a-beginners-guide-to-principal-component-analysis-962bc738f6b2?source=rss------data_science-5)
+- [Chapter 4 | Backpropagation calculus](https://medium.com/@tjyang2005/chapter-4-backpropagation-calculus-e362fedf1834?source=rss------data_science-5)
+- [Chapter 3 | What is backpropagation really doing?](https://medium.com/@tjyang2005/chapter-3-what-is-backpropagation-really-doing-acd0b5b583e8?source=rss------data_science-5)
+- [Combining Heiken-Ashi With Moving Averages](https://kaabar-sofien.medium.com/combining-heiken-ashi-with-moving-averages-9afa4ffc9ced?source=rss------data_science-5)
+- [2022: A Year in Review &lpar;ML Papers Edition&rpar;](https://medium.com/dair-ai/2022-a-year-in-review-ml-papers-edition-e42e701b45c8?source=rss------data_science-5)
+- [Airbnb Italia — Bergamo](https://medium.com/@wendelly.F/airbnb-italia-bergamo-43d771e85661?source=rss------data_science-5)
+- [Why Robots are replacing Humans](https://medium.com/@saadrockywebsite/why-robots-are-replacing-humans-f70d415e9bb0?source=rss------data_science-5)
+- [THE RELATIONSHIP BETWEEN ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING](https://medium.com/@michealomis99/the-relationship-between-artificial-intelligence-and-machine-learning-d6d62670f319?source=rss------data_science-5)
+- [Day 6 “Python”: Functions, built-in functions, a function definition, indentation, spaces vs tabs…](https://medium.com/@iliamunaev/day-6-functions-built-in-functions-a-function-definition-indentation-spaces-vs-tabs-while-5fc08dbdc5ee?source=rss------data_science-5)
+- [4 Useful Intermediate SQL Queries for Data Science](https://medium.com/@abdelilah.moulida/4-useful-intermediate-sql-queries-for-data-science-fa43cba29dfb?source=rss------data_science-5)
+- [How to do Web Scraping In Python Using BeautifulSoup ?](https://medium.com/@shubham-kashyap/how-to-do-web-scraping-in-python-using-beautifulsoup-9f45d5fdfa91?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
