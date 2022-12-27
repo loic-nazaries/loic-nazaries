@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Chapter 4 | Backpropagation calculus](https://medium.com/@tjyang2005/chapter-4-backpropagation-calculus-e362fedf1834?source=rss------data_science-5)
-- [Chapter 3 | What is backpropagation really doing?](https://medium.com/@tjyang2005/chapter-3-what-is-backpropagation-really-doing-acd0b5b583e8?source=rss------data_science-5)
-- [Combining Heiken-Ashi With Moving Averages](https://kaabar-sofien.medium.com/combining-heiken-ashi-with-moving-averages-9afa4ffc9ced?source=rss------data_science-5)
-- [2022: A Year in Review &lpar;ML Papers Edition&rpar;](https://medium.com/dair-ai/2022-a-year-in-review-ml-papers-edition-e42e701b45c8?source=rss------data_science-5)
-- [Airbnb Italia — Bergamo](https://medium.com/@wendelly.F/airbnb-italia-bergamo-43d771e85661?source=rss------data_science-5)
-- [Why Robots are replacing Humans](https://medium.com/@saadrockywebsite/why-robots-are-replacing-humans-f70d415e9bb0?source=rss------data_science-5)
-- [THE RELATIONSHIP BETWEEN ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING](https://medium.com/@michealomis99/the-relationship-between-artificial-intelligence-and-machine-learning-d6d62670f319?source=rss------data_science-5)
-- [Day 6 “Python”: Functions, built-in functions, a function definition, indentation, spaces vs tabs…](https://medium.com/@iliamunaev/day-6-functions-built-in-functions-a-function-definition-indentation-spaces-vs-tabs-while-5fc08dbdc5ee?source=rss------data_science-5)
-- [4 Useful Intermediate SQL Queries for Data Science](https://medium.com/@abdelilah.moulida/4-useful-intermediate-sql-queries-for-data-science-fa43cba29dfb?source=rss------data_science-5)
-- [How to do Web Scraping In Python Using BeautifulSoup ?](https://medium.com/@shubham-kashyap/how-to-do-web-scraping-in-python-using-beautifulsoup-9f45d5fdfa91?source=rss------data_science-5)
+- [Convolutional Neural Networks](https://python.plainenglish.io/convolutional-neural-networks-4c53cfcf4ac5?source=rss------data_science-5)
+- [Tabulate](https://medium.com/@dennisyd/tabulate-4e6e778cd8ae?source=rss------data_science-5)
+- [Elasticsearch with Python](https://medium.com/geekculture/elasticsearch-with-python-f42129cbbdc9?source=rss------data_science-5)
+- [Tech4Good #2 — What normative patterns of life are assumed in the data?](https://delaltomruk.medium.com/tech4good-2-what-normative-patterns-of-life-are-assumed-in-the-data-b23410907d4b?source=rss------data_science-5)
+- [Discover the Top Tech Jobs of 2023: Exciting Opportunities and Competitive Salaries Await](https://medium.com/@etirismagazine/discover-the-top-tech-jobs-of-2023-exciting-opportunities-and-competitive-salaries-await-1148c9e12a97?source=rss------data_science-5)
+- [Towards Machine Learning - Unsupervised Algorithms](https://medium.com/munchy-bytes/towards-machine-learning-unsupervised-algorithms-ce9a4db9bb48?source=rss------data_science-5)
+- [Shuffle Partitions](https://kasimdata.medium.com/shuffle-partitions-97d5af533244?source=rss------data_science-5)
+- [Creating an FX Correlation Heatmap in Python](https://kaabar-sofien.medium.com/creating-an-fx-correlation-heatmap-in-python-3f7c1d75212e?source=rss------data_science-5)
+- [Beginners Guide to Entity Relationship Diagrams &lpar;ERD&rpar;](https://medium.com/@despinaioannide/beginners-guide-to-entity-relationship-diagrams-erd-1fe8d083e32e?source=rss------data_science-5)
+- [Um guia prático sobre Classificação Hierárquica](https://medium.com/@anwarhermuche/um-guia-pr%C3%A1tico-sobre-classifica%C3%A7%C3%A3o-hier%C3%A1rquica-e723e5680c15?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
