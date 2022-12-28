@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Convolutional Neural Networks](https://python.plainenglish.io/convolutional-neural-networks-4c53cfcf4ac5?source=rss------data_science-5)
-- [Tabulate](https://medium.com/@dennisyd/tabulate-4e6e778cd8ae?source=rss------data_science-5)
-- [Elasticsearch with Python](https://medium.com/geekculture/elasticsearch-with-python-f42129cbbdc9?source=rss------data_science-5)
-- [Tech4Good #2 — What normative patterns of life are assumed in the data?](https://delaltomruk.medium.com/tech4good-2-what-normative-patterns-of-life-are-assumed-in-the-data-b23410907d4b?source=rss------data_science-5)
-- [Discover the Top Tech Jobs of 2023: Exciting Opportunities and Competitive Salaries Await](https://medium.com/@etirismagazine/discover-the-top-tech-jobs-of-2023-exciting-opportunities-and-competitive-salaries-await-1148c9e12a97?source=rss------data_science-5)
-- [Towards Machine Learning - Unsupervised Algorithms](https://medium.com/munchy-bytes/towards-machine-learning-unsupervised-algorithms-ce9a4db9bb48?source=rss------data_science-5)
-- [Shuffle Partitions](https://kasimdata.medium.com/shuffle-partitions-97d5af533244?source=rss------data_science-5)
-- [Creating an FX Correlation Heatmap in Python](https://kaabar-sofien.medium.com/creating-an-fx-correlation-heatmap-in-python-3f7c1d75212e?source=rss------data_science-5)
-- [Beginners Guide to Entity Relationship Diagrams &lpar;ERD&rpar;](https://medium.com/@despinaioannide/beginners-guide-to-entity-relationship-diagrams-erd-1fe8d083e32e?source=rss------data_science-5)
-- [Um guia prático sobre Classificação Hierárquica](https://medium.com/@anwarhermuche/um-guia-pr%C3%A1tico-sobre-classifica%C3%A7%C3%A3o-hier%C3%A1rquica-e723e5680c15?source=rss------data_science-5)
+- [As This Terrible Virus Surge in China, Chinese People Started Doing Something Unusual](https://medium.com/predict/as-this-terrible-virus-surge-in-china-chinese-people-started-doing-something-unusual-33b2ca9898e9?source=rss------data_science-5)
+- [latexify: Writing LaTeX with Python](https://medium.com/bitgrit-data-science-publication/latexify-writing-latex-with-python-6c0fa4b2e9d5?source=rss------data_science-5)
+- [How to Be a Data Science Algorithm Master](https://medium.com/@fergie19702004_40140/how-to-be-a-data-science-algorithm-master-9671210223ab?source=rss------data_science-5)
+- [The Essential Guide to Becoming a Data Scientist](https://johnvastola.medium.com/the-essential-guide-to-becoming-a-data-scientist-2b53fe3858e2?source=rss------data_science-5)
+- [Elon Musk on ChatGPT](https://levelup.gitconnected.com/elon-musk-on-chatgpt-5e3790940e51?source=rss------data_science-5)
+- [Breakout Confirmation Using the RSI in Python](https://kaabar-sofien.medium.com/breakout-confirmation-using-the-rsi-in-python-e0dcce596974?source=rss------data_science-5)
+- [Top 10 Data Visualizations of 2022 Worth Looking at!](https://anmol3015.medium.com/top-10-data-visualizations-of-2022-worth-looking-at-eec641e3fe84?source=rss------data_science-5)
+- [Spark UI](https://kasimdata.medium.com/spark-ui-d23983cd59b?source=rss------data_science-5)
+- [AI &amp; Machine Learning](https://medium.com/@jamshid.ali/ai-machine-learning-dc93a00f81ad?source=rss------data_science-5)
+- [Exploring the Capabilities of ChatGPT: Experience and Tips](https://medium.com/@thecreativewordsmith/exploring-the-capabilities-of-chatgpt-experience-and-tips-bfe1dfc4c47a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
