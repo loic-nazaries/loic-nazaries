@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [As This Terrible Virus Surge in China, Chinese People Started Doing Something Unusual](https://medium.com/predict/as-this-terrible-virus-surge-in-china-chinese-people-started-doing-something-unusual-33b2ca9898e9?source=rss------data_science-5)
-- [latexify: Writing LaTeX with Python](https://medium.com/bitgrit-data-science-publication/latexify-writing-latex-with-python-6c0fa4b2e9d5?source=rss------data_science-5)
-- [How to Be a Data Science Algorithm Master](https://medium.com/@fergie19702004_40140/how-to-be-a-data-science-algorithm-master-9671210223ab?source=rss------data_science-5)
-- [The Essential Guide to Becoming a Data Scientist](https://johnvastola.medium.com/the-essential-guide-to-becoming-a-data-scientist-2b53fe3858e2?source=rss------data_science-5)
-- [Elon Musk on ChatGPT](https://levelup.gitconnected.com/elon-musk-on-chatgpt-5e3790940e51?source=rss------data_science-5)
-- [Breakout Confirmation Using the RSI in Python](https://kaabar-sofien.medium.com/breakout-confirmation-using-the-rsi-in-python-e0dcce596974?source=rss------data_science-5)
-- [Top 10 Data Visualizations of 2022 Worth Looking at!](https://anmol3015.medium.com/top-10-data-visualizations-of-2022-worth-looking-at-eec641e3fe84?source=rss------data_science-5)
-- [Spark UI](https://kasimdata.medium.com/spark-ui-d23983cd59b?source=rss------data_science-5)
-- [AI &amp; Machine Learning](https://medium.com/@jamshid.ali/ai-machine-learning-dc93a00f81ad?source=rss------data_science-5)
-- [Exploring the Capabilities of ChatGPT: Experience and Tips](https://medium.com/@thecreativewordsmith/exploring-the-capabilities-of-chatgpt-experience-and-tips-bfe1dfc4c47a?source=rss------data_science-5)
+- [Read CSV, Excel, Parquet, and Feather files using Python](https://medium.com/@manishsingh7163/read-csv-excel-parquet-and-feather-files-using-python-9051097a367?source=rss------data_science-5)
+- [Data Analysis in 2023](https://ahmedelmashad.medium.com/data-analysis-in-2023-4e3583025c7a?source=rss------data_science-5)
+- [Mixed Reality for Meta Quest — Getting Signals](https://medium.com/badvr/mixed-reality-meta-quest-getting-signals-f5c53579b73c?source=rss------data_science-5)
+- [Mixed Reality for Meta Quest — User Interface](https://medium.com/badvr/mixed-reality-for-meta-quest-user-interface-3b9a084198c3?source=rss------data_science-5)
+- [Using Machine Learning to create fake medical images](https://machine-learning-made-simple.medium.com/using-machine-learning-to-create-fake-medical-images-4ca3fd0dbea0?source=rss------data_science-5)
+- [Unlock the power of data science with these math skills](https://medium.com/@george.mitrousis1/unlock-the-power-of-data-science-with-these-math-skills-9d55bfb3a2a8?source=rss------data_science-5)
+- [How is memory managed in Python? &lpar;PROGRAM&rpar;](https://medium.com/@manishsingh7163/how-is-memory-managed-in-python-program-95c7b9964b0b?source=rss------data_science-5)
+- [3 Lectures That Changed My Data Science Career](https://towardsdatascience.com/3-lectures-that-changed-my-data-science-career-5b78e02acb30?source=rss------data_science-5)
+- [The Differences Between Lists and Tuples in Python](https://medium.com/@manishsingh7163/the-differences-between-lists-and-tuples-in-python-714ff7c8048f?source=rss------data_science-5)
+- [Understanding the Aroon Oscillator in Python](https://kaabar-sofien.medium.com/understanding-the-aroon-oscillator-in-python-f0a7576fbbcf?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
