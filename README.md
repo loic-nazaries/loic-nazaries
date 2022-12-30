@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Read CSV, Excel, Parquet, and Feather files using Python](https://medium.com/@manishsingh7163/read-csv-excel-parquet-and-feather-files-using-python-9051097a367?source=rss------data_science-5)
-- [Data Analysis in 2023](https://ahmedelmashad.medium.com/data-analysis-in-2023-4e3583025c7a?source=rss------data_science-5)
-- [Mixed Reality for Meta Quest — Getting Signals](https://medium.com/badvr/mixed-reality-meta-quest-getting-signals-f5c53579b73c?source=rss------data_science-5)
-- [Mixed Reality for Meta Quest — User Interface](https://medium.com/badvr/mixed-reality-for-meta-quest-user-interface-3b9a084198c3?source=rss------data_science-5)
-- [Using Machine Learning to create fake medical images](https://machine-learning-made-simple.medium.com/using-machine-learning-to-create-fake-medical-images-4ca3fd0dbea0?source=rss------data_science-5)
-- [Unlock the power of data science with these math skills](https://medium.com/@george.mitrousis1/unlock-the-power-of-data-science-with-these-math-skills-9d55bfb3a2a8?source=rss------data_science-5)
-- [How is memory managed in Python? &lpar;PROGRAM&rpar;](https://medium.com/@manishsingh7163/how-is-memory-managed-in-python-program-95c7b9964b0b?source=rss------data_science-5)
-- [3 Lectures That Changed My Data Science Career](https://towardsdatascience.com/3-lectures-that-changed-my-data-science-career-5b78e02acb30?source=rss------data_science-5)
-- [The Differences Between Lists and Tuples in Python](https://medium.com/@manishsingh7163/the-differences-between-lists-and-tuples-in-python-714ff7c8048f?source=rss------data_science-5)
-- [Understanding the Aroon Oscillator in Python](https://kaabar-sofien.medium.com/understanding-the-aroon-oscillator-in-python-f0a7576fbbcf?source=rss------data_science-5)
+- [100 Statistical Concepts For Better Programming, Data Science &amp; Research](https://bamania-ashish.medium.com/100-statistical-concepts-for-better-programming-data-science-research-1ec2aa83339a?source=rss------data_science-5)
+- [Inflation, Seeing Past the Confusion, for Dummies &lpar;like me&rpar;](https://brubin188.medium.com/inflation-seeing-past-the-confusion-for-dummies-like-me-d08559a2dec5?source=rss------data_science-5)
+- [Data Visualization and Why to use it](https://medium.com/@eashan2603/data-visualization-and-why-to-use-it-ab507fb2bbf2?source=rss------data_science-5)
+- [Mastering Data Science Workflows with Helper Classes](https://towardsdatascience.com/mastering-data-science-workflows-with-helper-classes-1134afbd0600?source=rss------data_science-5)
+- [Fuzzy Logic in a hurry](https://medium.com/@al0pix/fuzzy-logic-in-a-hurry-ba37e684d765?source=rss------data_science-5)
+- [TrueBlocks Progress Report — 4th Quarter 2022](https://tjayrush.medium.com/trueblocks-progress-report-4th-quarter-2022-e611d2c0ba25?source=rss------data_science-5)
+- [Introducing the second edition of Python for Finance Cookbook](https://eryk-lewinson.medium.com/introducing-the-second-edition-of-python-for-finance-cookbook-f42f59c8acd0?source=rss------data_science-5)
+- [A Leading Fundamental Indicator for Equity Investing](https://kaabar-sofien.medium.com/a-leading-fundamental-indicator-for-equity-investing-3ee998dd0ec6?source=rss------data_science-5)
+- [Decoding the Pros and Cons of Technology Use in Childhood: A Closer Look at the JAMA Study](https://jproctor-m-ed-tn.medium.com/decoding-the-pros-and-cons-of-technology-use-in-childhood-a-closer-look-at-the-jama-study-70ce66b20080?source=rss------data_science-5)
+- [How To NumPy](https://medium.com/@nmh.workspace/how-to-numpy-83b0d58f0abc?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
