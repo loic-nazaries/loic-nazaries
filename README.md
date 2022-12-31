@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [100 Statistical Concepts For Better Programming, Data Science &amp; Research](https://bamania-ashish.medium.com/100-statistical-concepts-for-better-programming-data-science-research-1ec2aa83339a?source=rss------data_science-5)
-- [Inflation, Seeing Past the Confusion, for Dummies &lpar;like me&rpar;](https://brubin188.medium.com/inflation-seeing-past-the-confusion-for-dummies-like-me-d08559a2dec5?source=rss------data_science-5)
-- [Data Visualization and Why to use it](https://medium.com/@eashan2603/data-visualization-and-why-to-use-it-ab507fb2bbf2?source=rss------data_science-5)
-- [Mastering Data Science Workflows with Helper Classes](https://towardsdatascience.com/mastering-data-science-workflows-with-helper-classes-1134afbd0600?source=rss------data_science-5)
-- [Fuzzy Logic in a hurry](https://medium.com/@al0pix/fuzzy-logic-in-a-hurry-ba37e684d765?source=rss------data_science-5)
-- [TrueBlocks Progress Report — 4th Quarter 2022](https://tjayrush.medium.com/trueblocks-progress-report-4th-quarter-2022-e611d2c0ba25?source=rss------data_science-5)
-- [Introducing the second edition of Python for Finance Cookbook](https://eryk-lewinson.medium.com/introducing-the-second-edition-of-python-for-finance-cookbook-f42f59c8acd0?source=rss------data_science-5)
-- [A Leading Fundamental Indicator for Equity Investing](https://kaabar-sofien.medium.com/a-leading-fundamental-indicator-for-equity-investing-3ee998dd0ec6?source=rss------data_science-5)
-- [Decoding the Pros and Cons of Technology Use in Childhood: A Closer Look at the JAMA Study](https://jproctor-m-ed-tn.medium.com/decoding-the-pros-and-cons-of-technology-use-in-childhood-a-closer-look-at-the-jama-study-70ce66b20080?source=rss------data_science-5)
-- [How To NumPy](https://medium.com/@nmh.workspace/how-to-numpy-83b0d58f0abc?source=rss------data_science-5)
+- [Here’s What I Think Could Happen In 2023 Concerning Russia And Ukraine.](https://medium.com/predict/heres-what-i-think-could-happen-in-2023-concerning-russia-and-ukraine-718dc50baf75?source=rss------data_science-5)
+- [Why does the FFT only work for highly composite inputs?](https://towardsdatascience.com/why-does-the-fft-only-work-for-highly-composite-inputs-7bbaa718351e?source=rss------data_science-5)
+- [The One Mistake You’re Making in Starting a Data Science Project &lpar;And How to Avoid It&rpar;](https://medium.com/@aousabdo/the-one-mistake-youre-making-in-starting-a-data-science-project-and-how-to-avoid-it-fee5e0ab35c?source=rss------data_science-5)
+- [Получаване на вашите регистрирани документи онлайн](https://medium.com/@fullermike90/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%B2%D0%B0%D1%88%D0%B8%D1%82%D0%B5-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%B0%D0%BD%D0%B8-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-22061c355627?source=rss------data_science-5)
+- [Are you alive, or just living?](https://medium.com/@coltonlovelace/are-you-alive-or-just-living-f3de08f17f86?source=rss------data_science-5)
+- [Take Your Forex Trading to the Next Level with Chat GPTs](https://medium.com/@bloodygab/take-your-forex-trading-to-the-next-level-with-chat-gpts-c7cae4dcc70f?source=rss------data_science-5)
+- [Unlock Your Business’s Full Potential with Chatbots: A Look at the Benefits of GPT-Powered Bots](https://medium.com/@bloodygab/unlock-your-businesss-full-potential-with-chatbots-a-look-at-the-benefits-of-gpt-powered-bots-af54c5ec42dd?source=rss------data_science-5)
+- [25 most common questions asked in a data science job interview](https://medium.com/@smohajer85/25-most-common-questions-asked-in-a-data-science-job-interview-57e539d80e3d?source=rss------data_science-5)
+- [Nigeria Banks: Sentiment Analysis Using Natural Language Processing and Classification Modeling](https://medium.com/@ndubisiprecious/nigeria-banks-sentiment-analysis-using-natural-language-processing-and-classification-modeling-51647494487e?source=rss------data_science-5)
+- [Frequently Asked Questions for Data Scientists &lpar;And How to Answer Them&rpar;](https://datacated.medium.com/frequently-asked-questions-for-data-scientists-and-how-to-answer-them-6e48dbc6d469?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
