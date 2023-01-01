@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Here’s What I Think Could Happen In 2023 Concerning Russia And Ukraine.](https://medium.com/predict/heres-what-i-think-could-happen-in-2023-concerning-russia-and-ukraine-718dc50baf75?source=rss------data_science-5)
-- [Why does the FFT only work for highly composite inputs?](https://towardsdatascience.com/why-does-the-fft-only-work-for-highly-composite-inputs-7bbaa718351e?source=rss------data_science-5)
-- [The One Mistake You’re Making in Starting a Data Science Project &lpar;And How to Avoid It&rpar;](https://medium.com/@aousabdo/the-one-mistake-youre-making-in-starting-a-data-science-project-and-how-to-avoid-it-fee5e0ab35c?source=rss------data_science-5)
-- [Получаване на вашите регистрирани документи онлайн](https://medium.com/@fullermike90/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%B2%D0%B0%D1%88%D0%B8%D1%82%D0%B5-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%B0%D0%BD%D0%B8-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-22061c355627?source=rss------data_science-5)
-- [Are you alive, or just living?](https://medium.com/@coltonlovelace/are-you-alive-or-just-living-f3de08f17f86?source=rss------data_science-5)
-- [Take Your Forex Trading to the Next Level with Chat GPTs](https://medium.com/@bloodygab/take-your-forex-trading-to-the-next-level-with-chat-gpts-c7cae4dcc70f?source=rss------data_science-5)
-- [Unlock Your Business’s Full Potential with Chatbots: A Look at the Benefits of GPT-Powered Bots](https://medium.com/@bloodygab/unlock-your-businesss-full-potential-with-chatbots-a-look-at-the-benefits-of-gpt-powered-bots-af54c5ec42dd?source=rss------data_science-5)
-- [25 most common questions asked in a data science job interview](https://medium.com/@smohajer85/25-most-common-questions-asked-in-a-data-science-job-interview-57e539d80e3d?source=rss------data_science-5)
-- [Nigeria Banks: Sentiment Analysis Using Natural Language Processing and Classification Modeling](https://medium.com/@ndubisiprecious/nigeria-banks-sentiment-analysis-using-natural-language-processing-and-classification-modeling-51647494487e?source=rss------data_science-5)
-- [Frequently Asked Questions for Data Scientists &lpar;And How to Answer Them&rpar;](https://datacated.medium.com/frequently-asked-questions-for-data-scientists-and-how-to-answer-them-6e48dbc6d469?source=rss------data_science-5)
+- [Marketing Mix Modeling — Simulator GUI code and Meta Hackathon Winner](https://medium.com/@gustavobramao/marketing-mix-modeling-simulator-gui-code-and-meta-hackathon-winner-df05dc59f1fa?source=rss------data_science-5)
+- [XGBoost for Time Series Extrapolation: An Approach in Python](https://medium.com/@sandha.iitr/xgboost-for-time-series-extrapolation-an-approach-in-python-17f69b079518?source=rss------data_science-5)
+- [ChatGPT Short Story: Saving the World, One Animal at a Time](https://medium.com/@owenthcarey/chatgpt-short-story-saving-the-world-one-animal-at-a-time-75267e2b7301?source=rss------data_science-5)
+- [Estimating the efficiency of public spending on education using bootstrap Data Envelopment Analysis](https://medium.com/@rikimatsumoto/estimating-the-efficiency-of-public-spending-on-education-using-bootstrap-data-envelopment-analysis-7e7088f580c9?source=rss------data_science-5)
+- [Obtain Your Registered Documents With Ease](https://medium.com/@boriswalker33/obtain-your-registered-documents-with-ease-7e77b200eff2?source=rss------data_science-5)
+- [The 5 Most Common SQL Mistakes and How to Avoid Them](https://medium.com/@raventhemad_6547/the-5-most-common-sql-mistakes-and-how-to-avoid-them-3f7355dd0f34?source=rss------data_science-5)
+- [Pandas 4- Importing and Exporting CSV Files](https://medium.com/@basliyusufmelih/pandas-4-importing-and-exporting-csv-files-e7383b5415c?source=rss------data_science-5)
+- [The Suicide of Thought!](https://medium.com/@samsoftware75/the-suicide-of-thought-5d10074f0a70?source=rss------data_science-5)
+- [Data Science Project | Predicting Water Quality](https://linguisticmaz.medium.com/data-science-project-predicting-water-quality-148e5150ef7?source=rss------data_science-5)
+- [Data Analysis: 5 Steps to Becoming a Data Guru](https://medium.com/@raventhemad_6547/data-analysis-5-steps-to-becoming-a-data-guru-fdad675fef2e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
