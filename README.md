@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Marketing Mix Modeling — Simulator GUI code and Meta Hackathon Winner](https://medium.com/@gustavobramao/marketing-mix-modeling-simulator-gui-code-and-meta-hackathon-winner-df05dc59f1fa?source=rss------data_science-5)
-- [XGBoost for Time Series Extrapolation: An Approach in Python](https://medium.com/@sandha.iitr/xgboost-for-time-series-extrapolation-an-approach-in-python-17f69b079518?source=rss------data_science-5)
-- [ChatGPT Short Story: Saving the World, One Animal at a Time](https://medium.com/@owenthcarey/chatgpt-short-story-saving-the-world-one-animal-at-a-time-75267e2b7301?source=rss------data_science-5)
-- [Estimating the efficiency of public spending on education using bootstrap Data Envelopment Analysis](https://medium.com/@rikimatsumoto/estimating-the-efficiency-of-public-spending-on-education-using-bootstrap-data-envelopment-analysis-7e7088f580c9?source=rss------data_science-5)
-- [Obtain Your Registered Documents With Ease](https://medium.com/@boriswalker33/obtain-your-registered-documents-with-ease-7e77b200eff2?source=rss------data_science-5)
-- [The 5 Most Common SQL Mistakes and How to Avoid Them](https://medium.com/@raventhemad_6547/the-5-most-common-sql-mistakes-and-how-to-avoid-them-3f7355dd0f34?source=rss------data_science-5)
-- [Pandas 4- Importing and Exporting CSV Files](https://medium.com/@basliyusufmelih/pandas-4-importing-and-exporting-csv-files-e7383b5415c?source=rss------data_science-5)
-- [The Suicide of Thought!](https://medium.com/@samsoftware75/the-suicide-of-thought-5d10074f0a70?source=rss------data_science-5)
-- [Data Science Project | Predicting Water Quality](https://linguisticmaz.medium.com/data-science-project-predicting-water-quality-148e5150ef7?source=rss------data_science-5)
-- [Data Analysis: 5 Steps to Becoming a Data Guru](https://medium.com/@raventhemad_6547/data-analysis-5-steps-to-becoming-a-data-guru-fdad675fef2e?source=rss------data_science-5)
+- [Predicted eFG% and What It Says About the NBA](https://medium.com/@sam_auer12/predicted-efg-and-what-it-says-about-the-nba-44592879349b?source=rss------data_science-5)
+- [All about Hypothesis, Parametric Tests, and Non-Parametric Tests](https://medium.com/@shubhamsd100/all-about-hypothesis-parametric-tests-and-non-parametric-tests-12ce1ffb4443?source=rss------data_science-5)
+- [How to Swap Day and Month of Incorrectly Formatted Excel Dates](https://medium.datadriveninvestor.com/how-to-swap-day-and-month-of-incorrectly-formatted-excel-dates-503dfc7ad7da?source=rss------data_science-5)
+- [JSON, Schemas and Types](https://kasimdata.medium.com/json-schemas-and-types-1189842987f1?source=rss------data_science-5)
+- [ChatGPT: Applications in Pharmacometrics](https://medium.com/@peterbloomingdale/chatgpt-applications-in-pharmacometrics-9492c9d55918?source=rss------data_science-5)
+- [Become Unicorn Data Scientist in 2023 …..!](https://medium.com/@sureshbhojwani001/become-unicorn-data-scientist-in-2023-b7099cf7be66?source=rss------data_science-5)
+- [How to Boost Python Code Execution Speed](https://medium.com/@sureshbhojwani001/how-to-boost-python-code-execution-speed-e60ac369bab2?source=rss------data_science-5)
+- [The Revenge of Billy Madison](https://datascientistdad.medium.com/the-revenge-of-billy-madison-9509bb7fa74b?source=rss------data_science-5)
+- [My journey to find the user experience in data science](https://danedesutter.medium.com/my-journey-to-find-the-user-experience-in-data-science-234b0d1bb6b8?source=rss------data_science-5)
+- [Deploy Your Models In Distributed Manner…](https://medium.com/@sureshbhojwani001/deploy-your-models-in-distributed-manner-70b232d2ebde?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
