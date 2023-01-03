@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Predicted eFG% and What It Says About the NBA](https://medium.com/@sam_auer12/predicted-efg-and-what-it-says-about-the-nba-44592879349b?source=rss------data_science-5)
-- [All about Hypothesis, Parametric Tests, and Non-Parametric Tests](https://medium.com/@shubhamsd100/all-about-hypothesis-parametric-tests-and-non-parametric-tests-12ce1ffb4443?source=rss------data_science-5)
-- [How to Swap Day and Month of Incorrectly Formatted Excel Dates](https://medium.datadriveninvestor.com/how-to-swap-day-and-month-of-incorrectly-formatted-excel-dates-503dfc7ad7da?source=rss------data_science-5)
-- [JSON, Schemas and Types](https://kasimdata.medium.com/json-schemas-and-types-1189842987f1?source=rss------data_science-5)
-- [ChatGPT: Applications in Pharmacometrics](https://medium.com/@peterbloomingdale/chatgpt-applications-in-pharmacometrics-9492c9d55918?source=rss------data_science-5)
-- [Become Unicorn Data Scientist in 2023 …..!](https://medium.com/@sureshbhojwani001/become-unicorn-data-scientist-in-2023-b7099cf7be66?source=rss------data_science-5)
-- [How to Boost Python Code Execution Speed](https://medium.com/@sureshbhojwani001/how-to-boost-python-code-execution-speed-e60ac369bab2?source=rss------data_science-5)
-- [The Revenge of Billy Madison](https://datascientistdad.medium.com/the-revenge-of-billy-madison-9509bb7fa74b?source=rss------data_science-5)
-- [My journey to find the user experience in data science](https://danedesutter.medium.com/my-journey-to-find-the-user-experience-in-data-science-234b0d1bb6b8?source=rss------data_science-5)
-- [Deploy Your Models In Distributed Manner…](https://medium.com/@sureshbhojwani001/deploy-your-models-in-distributed-manner-70b232d2ebde?source=rss------data_science-5)
+- [Building the Ultimate Stock Analysis Toolbox in Python from Scratch — Part 5](https://medium.com/@sdbutalla/building-the-ultimate-stock-analysis-toolbox-in-python-from-scratch-part-5-6c542b07126c?source=rss------data_science-5)
+- [Deep-Learning for Time Series Forecasting: LSTM and CNN Neur](https://medium.com/@sandha.iitr/deep-learning-for-time-series-forecasting-lstm-and-cnn-neur-4c934cb16707?source=rss------data_science-5)
+- [Music Analysis With Spotify API](https://medium.com/@ebulamicheal/music-analysis-with-spotify-api-59c080734c6e?source=rss------data_science-5)
+- [Basic financial data terminology &lpar;2&rpar;](https://medium.com/@vyvring/basic-finance-data-terminology-2-7812d48e1a2e?source=rss------data_science-5)
+- [Develop an AI-based Demand Forecasting System](https://bhardwajmanu.medium.com/develop-an-ai-based-demand-forecasting-system-1b1da17677c3?source=rss------data_science-5)
+- [Embracing Open Source Machine Learning — AutoML: Image Classification](https://raj-k-kadiyala.medium.com/embracing-open-source-machine-learning-automl-image-classification-5246b8b4acd8?source=rss------data_science-5)
+- [WTF is the DePub, and Why You should Care](https://buildingweb4.medium.com/wtf-is-the-depub-and-why-you-should-care-df81f1e244a2?source=rss------data_science-5)
+- [MAXIMIZING YOUR DATA SCIENCE CAREER POTENTIAL: PROFESSIONAL DEVELOPMENT AND ADVANCEMENT](https://medium.com/magnidata/maximizing-your-data-science-career-potential-professional-development-and-advancement-db1c0d85c0bd?source=rss------data_science-5)
+- [The Simple Way to Maintain Normal Erections!](https://medium.com/@mem94674/the-simple-way-to-maintain-normal-erections-9caf1ebc6e14?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
