@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Building the Ultimate Stock Analysis Toolbox in Python from Scratch — Part 5](https://medium.com/@sdbutalla/building-the-ultimate-stock-analysis-toolbox-in-python-from-scratch-part-5-6c542b07126c?source=rss------data_science-5)
-- [Deep-Learning for Time Series Forecasting: LSTM and CNN Neur](https://medium.com/@sandha.iitr/deep-learning-for-time-series-forecasting-lstm-and-cnn-neur-4c934cb16707?source=rss------data_science-5)
-- [Music Analysis With Spotify API](https://medium.com/@ebulamicheal/music-analysis-with-spotify-api-59c080734c6e?source=rss------data_science-5)
-- [Basic financial data terminology &lpar;2&rpar;](https://medium.com/@vyvring/basic-finance-data-terminology-2-7812d48e1a2e?source=rss------data_science-5)
-- [Develop an AI-based Demand Forecasting System](https://bhardwajmanu.medium.com/develop-an-ai-based-demand-forecasting-system-1b1da17677c3?source=rss------data_science-5)
-- [Embracing Open Source Machine Learning — AutoML: Image Classification](https://raj-k-kadiyala.medium.com/embracing-open-source-machine-learning-automl-image-classification-5246b8b4acd8?source=rss------data_science-5)
-- [WTF is the DePub, and Why You should Care](https://buildingweb4.medium.com/wtf-is-the-depub-and-why-you-should-care-df81f1e244a2?source=rss------data_science-5)
-- [MAXIMIZING YOUR DATA SCIENCE CAREER POTENTIAL: PROFESSIONAL DEVELOPMENT AND ADVANCEMENT](https://medium.com/magnidata/maximizing-your-data-science-career-potential-professional-development-and-advancement-db1c0d85c0bd?source=rss------data_science-5)
-- [The Simple Way to Maintain Normal Erections!](https://medium.com/@mem94674/the-simple-way-to-maintain-normal-erections-9caf1ebc6e14?source=rss------data_science-5)
+- [Resampling: The Key to Unlocking Classification Model Accuracy](https://momohemmanuel370.medium.com/resampling-the-key-to-unlocking-classification-model-accuracy-f20c6609f700?source=rss------data_science-5)
+- [How To Create Arrays With Numpy](https://medium.com/@souvikdutta.aec/how-to-create-arrays-with-numpy-78d4c08e57ff?source=rss------data_science-5)
+- [Get Distance and Duration Between Two Places using Google Map and Python](https://dekings.medium.com/get-distance-and-duration-between-two-places-using-google-map-and-python-d299ef77ef6?source=rss------data_science-5)
+- [Machine Learning na nuvem da AWS sem surpresas com os custos](https://medium.com/@wilianuhlmann/machine-learning-na-nuvem-da-aws-sem-surpresas-com-os-custos-5d0d6fffb2bd?source=rss------data_science-5)
+- [A Few Simple Method to Find and Handle Outlier in Dataset](https://blog.devgenius.io/a-few-simple-method-to-find-and-handle-outlier-in-dataset-fa354dc991eb?source=rss------data_science-5)
+- [Basic financial data terminology &lpar;3&rpar;](https://medium.com/@vyvring/basic-financial-data-terminology-3-7ae643beface?source=rss------data_science-5)
+- [Algorithmic Dysphoria: The Transgender Experience in a Data-Driven World](https://medium.com/@choshacao314/algorithmic-dysphoria-the-transgender-experience-in-a-data-driven-world-57263ef886a6?source=rss------data_science-5)
+- [Expert Tips for Achieving Success in Artificial Intelligence and Data Science](https://medium.com/@MoRebaie/expert-tips-for-achieving-success-in-artificial-intelligence-and-data-science-1daf3c5d3a20?source=rss------data_science-5)
+- [Classification Algorithms: Parametric Vs. Non-Parametric](https://medium.com/@zacharycherna/classification-algorithms-parametric-vs-non-parametric-5fca568e52e7?source=rss------data_science-5)
+- [Online Courses Collection — 202](https://medium.com/@jeanwuzh/online-courses-collection-202-68f12f577e41?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
