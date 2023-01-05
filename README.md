@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Resampling: The Key to Unlocking Classification Model Accuracy](https://momohemmanuel370.medium.com/resampling-the-key-to-unlocking-classification-model-accuracy-f20c6609f700?source=rss------data_science-5)
-- [How To Create Arrays With Numpy](https://medium.com/@souvikdutta.aec/how-to-create-arrays-with-numpy-78d4c08e57ff?source=rss------data_science-5)
-- [Get Distance and Duration Between Two Places using Google Map and Python](https://dekings.medium.com/get-distance-and-duration-between-two-places-using-google-map-and-python-d299ef77ef6?source=rss------data_science-5)
-- [Machine Learning na nuvem da AWS sem surpresas com os custos](https://medium.com/@wilianuhlmann/machine-learning-na-nuvem-da-aws-sem-surpresas-com-os-custos-5d0d6fffb2bd?source=rss------data_science-5)
-- [A Few Simple Method to Find and Handle Outlier in Dataset](https://blog.devgenius.io/a-few-simple-method-to-find-and-handle-outlier-in-dataset-fa354dc991eb?source=rss------data_science-5)
-- [Basic financial data terminology &lpar;3&rpar;](https://medium.com/@vyvring/basic-financial-data-terminology-3-7ae643beface?source=rss------data_science-5)
-- [Algorithmic Dysphoria: The Transgender Experience in a Data-Driven World](https://medium.com/@choshacao314/algorithmic-dysphoria-the-transgender-experience-in-a-data-driven-world-57263ef886a6?source=rss------data_science-5)
-- [Expert Tips for Achieving Success in Artificial Intelligence and Data Science](https://medium.com/@MoRebaie/expert-tips-for-achieving-success-in-artificial-intelligence-and-data-science-1daf3c5d3a20?source=rss------data_science-5)
-- [Classification Algorithms: Parametric Vs. Non-Parametric](https://medium.com/@zacharycherna/classification-algorithms-parametric-vs-non-parametric-5fca568e52e7?source=rss------data_science-5)
-- [Online Courses Collection — 202](https://medium.com/@jeanwuzh/online-courses-collection-202-68f12f577e41?source=rss------data_science-5)
+- [Two Simple Steps to Engage with Stakeholders](https://medium.com/@mo.villagran/two-simple-steps-to-engage-with-stakeholders-f3e37d8a99f3?source=rss------data_science-5)
+- [Why Collaboration between Data Scientists and Data Engineers is significant](https://ardabaysallar.medium.com/why-collaboration-between-data-scientists-and-data-engineers-is-significant-ae1282b3fb32?source=rss------data_science-5)
+- [5 Ways to Monetize Your Data Science Skills as a Newbie](https://medium.com/@lpikehelen/5-ways-to-monetize-your-data-science-skills-as-a-newbie-3ec89b12a390?source=rss------data_science-5)
+- [10 Basic SQL Commands That Every Developer Should Know](https://endasheridan.medium.com/10-basic-sql-commands-that-every-developer-should-know-e9b3b1961f0a?source=rss------data_science-5)
+- [SVR: Machine Learning](https://medium.com/@chuntcdj/svr-machine-learning-5f6d2620077e?source=rss------data_science-5)
+- [All About ChatGPT: Part 1](https://miketechgame.medium.com/all-about-chatgpt-part-1-8f4e12efed6a?source=rss------data_science-5)
+- [Unleashing the Power of Artificial Neural Networks: A Kid-Friendly explanation exclusively for you.](https://medium.com/@rjpatel7991/unleashing-the-power-of-artificial-neural-networks-a-kid-friendly-explanation-exclusively-for-you-a07b0c41305f?source=rss------data_science-5)
+- [Tables and Views](https://kasimdata.medium.com/tables-and-views-96b03b573e80?source=rss------data_science-5)
+- [Classifying Target Market Segments for Trips&amp;Travel.com &lpar;R&rpar;](https://medium.com/@melody_of_data/classifying-target-market-segments-for-trips-travel-com-r-36936a3e4690?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
