@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Two Simple Steps to Engage with Stakeholders](https://medium.com/@mo.villagran/two-simple-steps-to-engage-with-stakeholders-f3e37d8a99f3?source=rss------data_science-5)
-- [Why Collaboration between Data Scientists and Data Engineers is significant](https://ardabaysallar.medium.com/why-collaboration-between-data-scientists-and-data-engineers-is-significant-ae1282b3fb32?source=rss------data_science-5)
-- [5 Ways to Monetize Your Data Science Skills as a Newbie](https://medium.com/@lpikehelen/5-ways-to-monetize-your-data-science-skills-as-a-newbie-3ec89b12a390?source=rss------data_science-5)
-- [10 Basic SQL Commands That Every Developer Should Know](https://endasheridan.medium.com/10-basic-sql-commands-that-every-developer-should-know-e9b3b1961f0a?source=rss------data_science-5)
-- [SVR: Machine Learning](https://medium.com/@chuntcdj/svr-machine-learning-5f6d2620077e?source=rss------data_science-5)
-- [All About ChatGPT: Part 1](https://miketechgame.medium.com/all-about-chatgpt-part-1-8f4e12efed6a?source=rss------data_science-5)
-- [Unleashing the Power of Artificial Neural Networks: A Kid-Friendly explanation exclusively for you.](https://medium.com/@rjpatel7991/unleashing-the-power-of-artificial-neural-networks-a-kid-friendly-explanation-exclusively-for-you-a07b0c41305f?source=rss------data_science-5)
-- [Tables and Views](https://kasimdata.medium.com/tables-and-views-96b03b573e80?source=rss------data_science-5)
-- [Classifying Target Market Segments for Trips&amp;Travel.com &lpar;R&rpar;](https://medium.com/@melody_of_data/classifying-target-market-segments-for-trips-travel-com-r-36936a3e4690?source=rss------data_science-5)
+- [O que é análise de dados e por que é importante](https://medium.com/@starkeducacao/o-que-%C3%A9-an%C3%A1lise-de-dados-e-por-que-%C3%A9-importante-d74072c6dfd7?source=rss------data_science-5)
+- [Machine Learning Algorithms Part 1: Linear Regression](https://towardsdatascience.com/machine-learning-algorithms-part-1-linear-regression-a7079238edc9?source=rss------data_science-5)
+- [Julia 1.9: The Programming Language Of 2023](https://chifi.dev/julia-1-9-the-programming-language-of-2023-5a0e0ac31cc5?source=rss------data_science-5)
+- [IMPLICATIONS OF GROWING AI](https://medium.com/@jasperobed/implications-of-growing-ai-3002a31c3c78?source=rss------data_science-5)
+- [Aspects of Data Visualization](https://medium.com/@eashan2603/aspects-of-data-visualization-3997328ba19?source=rss------data_science-5)
+- [Craps Principle: Data Science Fundamentals](https://medium.com/@ajhanwar1/craps-principle-data-science-fundamentals-9dd3f7a2af32?source=rss------data_science-5)
+- [3 Stupid Statistician Pet Peeves](https://jacquetteaugh.medium.com/3-stupid-statistician-pet-peeves-ecd73e4e5ad7?source=rss------data_science-5)
+- [Decision Tree Regression: Machine Learning](https://medium.com/@chuntcdj/decision-tree-regression-machine-learning-337abfc2ba4e?source=rss------data_science-5)
+- [cuDF for Data Scientists &lpar;Part 1/2&rpar;: Functions for Data Wrangling](https://medium.com/@tiraldj/cudf-for-data-scientists-part-1-2-functions-for-data-wrangling-12a8f889b33e?source=rss------data_science-5)
+- [How to Objectively Compare Two Ranked Lists in Python](https://towardsdatascience.com/how-to-objectively-compare-two-ranked-lists-in-python-b3d74e236f6a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
