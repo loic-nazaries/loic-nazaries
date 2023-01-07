@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [O que é análise de dados e por que é importante](https://medium.com/@starkeducacao/o-que-%C3%A9-an%C3%A1lise-de-dados-e-por-que-%C3%A9-importante-d74072c6dfd7?source=rss------data_science-5)
-- [Machine Learning Algorithms Part 1: Linear Regression](https://towardsdatascience.com/machine-learning-algorithms-part-1-linear-regression-a7079238edc9?source=rss------data_science-5)
-- [Julia 1.9: The Programming Language Of 2023](https://chifi.dev/julia-1-9-the-programming-language-of-2023-5a0e0ac31cc5?source=rss------data_science-5)
-- [IMPLICATIONS OF GROWING AI](https://medium.com/@jasperobed/implications-of-growing-ai-3002a31c3c78?source=rss------data_science-5)
-- [Aspects of Data Visualization](https://medium.com/@eashan2603/aspects-of-data-visualization-3997328ba19?source=rss------data_science-5)
-- [Craps Principle: Data Science Fundamentals](https://medium.com/@ajhanwar1/craps-principle-data-science-fundamentals-9dd3f7a2af32?source=rss------data_science-5)
-- [3 Stupid Statistician Pet Peeves](https://jacquetteaugh.medium.com/3-stupid-statistician-pet-peeves-ecd73e4e5ad7?source=rss------data_science-5)
-- [Decision Tree Regression: Machine Learning](https://medium.com/@chuntcdj/decision-tree-regression-machine-learning-337abfc2ba4e?source=rss------data_science-5)
-- [cuDF for Data Scientists &lpar;Part 1/2&rpar;: Functions for Data Wrangling](https://medium.com/@tiraldj/cudf-for-data-scientists-part-1-2-functions-for-data-wrangling-12a8f889b33e?source=rss------data_science-5)
-- [How to Objectively Compare Two Ranked Lists in Python](https://towardsdatascience.com/how-to-objectively-compare-two-ranked-lists-in-python-b3d74e236f6a?source=rss------data_science-5)
+- [JavaScript for Ethical Hacking: Techniques and Examples](https://medium.com/@etirismagazine/javascript-for-ethical-hacking-techniques-and-examples-cdf4a07e6916?source=rss------data_science-5)
+- [Como as redes neurais generativas podem ajudar na análise de dados?](https://medium.com/@brunodoti/como-as-redes-neurais-generativas-podem-ajudar-na-an%C3%A1lise-de-dados-79cda874d48d?source=rss------data_science-5)
+- [Introduction to Machine Learning Algorithms for Beginners](https://medium.com/@timothypecoraro/introduction-to-machine-learning-algorithms-for-beginners-8464c7d79704?source=rss------data_science-5)
+- [8 Python Libraries Every Data Analyst Needs to Know](https://medium.com/@Ora-kle/8-python-libraries-every-data-analyst-needs-to-know-bea108ebf0ae?source=rss------data_science-5)
+- [December 2022 - $ATOM Stats](https://izik-r.medium.com/december-2022-atom-stats-c780e859367d?source=rss------data_science-5)
+- [My journey through studying Data Structure and Algorithms](https://medium.com/@mohamed.alcafory.456/my-journey-through-studying-data-structure-and-algorithms-d9b05fe5983f?source=rss------data_science-5)
+- [The Medallion Architecture at Ibotta](https://medium.com/@jaylynstoesz/the-medallion-architecture-at-ibotta-b26841d6c45f?source=rss------data_science-5)
+- [Starting: A Journal of Becoming Somebody in Tech](https://medium.com/@bunnymusicc/starting-a-journal-of-becoming-somebody-in-tech-72015d875713?source=rss------data_science-5)
+- [Debunking the Top 10 Data Science Myths](https://medium.com/@cndro/debunking-the-top-10-data-science-myths-324b0d22cbfd?source=rss------data_science-5)
+- [2023 Crypto Watchlist — The Graph](https://nadimulhaque5.medium.com/2023-crypto-watchlist-the-graph-6cc952695381?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
