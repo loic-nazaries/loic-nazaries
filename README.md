@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [JavaScript for Ethical Hacking: Techniques and Examples](https://medium.com/@etirismagazine/javascript-for-ethical-hacking-techniques-and-examples-cdf4a07e6916?source=rss------data_science-5)
-- [Como as redes neurais generativas podem ajudar na análise de dados?](https://medium.com/@brunodoti/como-as-redes-neurais-generativas-podem-ajudar-na-an%C3%A1lise-de-dados-79cda874d48d?source=rss------data_science-5)
-- [Introduction to Machine Learning Algorithms for Beginners](https://medium.com/@timothypecoraro/introduction-to-machine-learning-algorithms-for-beginners-8464c7d79704?source=rss------data_science-5)
-- [8 Python Libraries Every Data Analyst Needs to Know](https://medium.com/@Ora-kle/8-python-libraries-every-data-analyst-needs-to-know-bea108ebf0ae?source=rss------data_science-5)
-- [December 2022 - $ATOM Stats](https://izik-r.medium.com/december-2022-atom-stats-c780e859367d?source=rss------data_science-5)
-- [My journey through studying Data Structure and Algorithms](https://medium.com/@mohamed.alcafory.456/my-journey-through-studying-data-structure-and-algorithms-d9b05fe5983f?source=rss------data_science-5)
-- [The Medallion Architecture at Ibotta](https://medium.com/@jaylynstoesz/the-medallion-architecture-at-ibotta-b26841d6c45f?source=rss------data_science-5)
-- [Starting: A Journal of Becoming Somebody in Tech](https://medium.com/@bunnymusicc/starting-a-journal-of-becoming-somebody-in-tech-72015d875713?source=rss------data_science-5)
-- [Debunking the Top 10 Data Science Myths](https://medium.com/@cndro/debunking-the-top-10-data-science-myths-324b0d22cbfd?source=rss------data_science-5)
-- [2023 Crypto Watchlist — The Graph](https://nadimulhaque5.medium.com/2023-crypto-watchlist-the-graph-6cc952695381?source=rss------data_science-5)
+- [A Must-Know Dataset For Data Scientists: MIMIC-III](https://medium.com/@ithinkbot/a-must-know-dataset-for-data-scientists-mimic-iii-4d3736b3e441?source=rss------data_science-5)
+- [Linking the 8 limbs of yoga to data science, development, and machine learning engineering [part I]](https://medium.com/the-personal-growth-project/linking-the-8-limbs-of-yoga-to-data-science-development-and-machine-learning-engineering-part-i-5df4b8ae97a3?source=rss------data_science-5)
+- [Random Forest Regression: Machine Learning](https://medium.com/@chuntcdj/random-forest-regression-machine-learning-65687df81374?source=rss------data_science-5)
+- [Data Science In Marketing: Complete Guide](https://medium.com/@jasonrbodie/data-science-in-marketing-complete-guide-b6e362174067?source=rss------data_science-5)
+- [Effective Categorical Variable Encoding for Machine Learning](https://pub.towardsai.net/effective-categorical-variable-encoding-for-machine-learning-b25683035589?source=rss------data_science-5)
+- [Tuple Destructuring in TypeScript](https://blake-wood-bst.medium.com/tuple-destructuring-in-typescript-65e46972a8f9?source=rss------data_science-5)
+- [One a Day One Liners with Python — Week 2](https://jeremyfromearth.medium.com/one-a-day-one-liners-with-python-week-2-aacad44ff29c?source=rss------data_science-5)
+- [SQL Server  — Resumindo registros de uma tabela com GROUP BY](https://medium.com/@laenderquadros/sql-server-resumindo-registros-de-uma-tabela-com-group-by-8d16b7e714cf?source=rss------data_science-5)
+- [Tarea Final: Modulo 3 — Big Data Developer](https://medium.com/@sfperalta2001/tarea-final-modulo-3-big-data-developer-da897a982e7f?source=rss------data_science-5)
+- [An Introduction to Common Machine Learning Algorithms](https://medium.com/@atandaadeoluwa/an-introduction-to-common-machine-learning-algorithms-9f8db26a49f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
