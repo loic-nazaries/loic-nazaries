@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Must-Know Dataset For Data Scientists: MIMIC-III](https://medium.com/@ithinkbot/a-must-know-dataset-for-data-scientists-mimic-iii-4d3736b3e441?source=rss------data_science-5)
-- [Linking the 8 limbs of yoga to data science, development, and machine learning engineering [part I]](https://medium.com/the-personal-growth-project/linking-the-8-limbs-of-yoga-to-data-science-development-and-machine-learning-engineering-part-i-5df4b8ae97a3?source=rss------data_science-5)
-- [Random Forest Regression: Machine Learning](https://medium.com/@chuntcdj/random-forest-regression-machine-learning-65687df81374?source=rss------data_science-5)
-- [Data Science In Marketing: Complete Guide](https://medium.com/@jasonrbodie/data-science-in-marketing-complete-guide-b6e362174067?source=rss------data_science-5)
-- [Effective Categorical Variable Encoding for Machine Learning](https://pub.towardsai.net/effective-categorical-variable-encoding-for-machine-learning-b25683035589?source=rss------data_science-5)
-- [Tuple Destructuring in TypeScript](https://blake-wood-bst.medium.com/tuple-destructuring-in-typescript-65e46972a8f9?source=rss------data_science-5)
-- [One a Day One Liners with Python — Week 2](https://jeremyfromearth.medium.com/one-a-day-one-liners-with-python-week-2-aacad44ff29c?source=rss------data_science-5)
-- [SQL Server  — Resumindo registros de uma tabela com GROUP BY](https://medium.com/@laenderquadros/sql-server-resumindo-registros-de-uma-tabela-com-group-by-8d16b7e714cf?source=rss------data_science-5)
-- [Tarea Final: Modulo 3 — Big Data Developer](https://medium.com/@sfperalta2001/tarea-final-modulo-3-big-data-developer-da897a982e7f?source=rss------data_science-5)
-- [An Introduction to Common Machine Learning Algorithms](https://medium.com/@atandaadeoluwa/an-introduction-to-common-machine-learning-algorithms-9f8db26a49f?source=rss------data_science-5)
+- [Cluster Analysis In Market Research: Quick Guide](https://medium.com/@jasonrbodie/cluster-analysis-in-market-research-quick-guide-bae9a1a6c0c?source=rss------data_science-5)
+- [My First Python Project — Productivity Prediction](https://medium.com/@kgaugelokutu/my-first-python-project-productivity-prediction-6ca163faf142?source=rss------data_science-5)
+- [Mastering Precision and Recall Once and for All.](https://medium.com/@ezzine.khalil/mastering-precision-and-recall-once-and-for-all-2d888fd8a39?source=rss------data_science-5)
+- [Make money using forex, stress free with proven strategies](https://medium.com/@woamoe/make-money-using-forex-stress-free-with-proven-strategies-821bb217519d?source=rss------data_science-5)
+- [Build a GUI Application in Minutes with Python and pySimpleGUI](https://medium.com/@inzaniak/build-a-gui-application-in-minutes-with-python-and-pysimplegui-4e350d9869a?source=rss------data_science-5)
+- [The Top 5 Programming Libraries for Data Science in 2023](https://medium.com/@bertowareofficial/the-top-5-programming-libraries-for-data-science-in-2023-5f2ce147555d?source=rss------data_science-5)
+- [Why did I enroll in a Data Science BootCamp, and how that helped me become a Scrum Master?](https://medium.com/@enrico.ndd/why-did-i-enroll-in-a-data-science-bootcamp-and-how-that-helped-me-become-a-scrum-master-61440dba80bc?source=rss------data_science-5)
+- [AI’s Social Impacts and Ethics](https://medium.com/@clairescarlett/ais-social-impacts-and-ethics-fb202ca85f0d?source=rss------data_science-5)
+- [Using AI to detect safe havens](https://kssreesha.medium.com/using-ai-to-detect-safe-havens-9b00da4820a4?source=rss------data_science-5)
+- [Machine Learning Operations : A guide to exploring, understanding and implementing end to end Data…](https://medium.com/@rahuljha713713/machine-learning-operations-a-guide-to-exploring-understanding-and-implementing-end-to-end-data-c208a5fe8d13?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
