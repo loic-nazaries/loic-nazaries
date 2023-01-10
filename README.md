@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Cluster Analysis In Market Research: Quick Guide](https://medium.com/@jasonrbodie/cluster-analysis-in-market-research-quick-guide-bae9a1a6c0c?source=rss------data_science-5)
-- [My First Python Project — Productivity Prediction](https://medium.com/@kgaugelokutu/my-first-python-project-productivity-prediction-6ca163faf142?source=rss------data_science-5)
-- [Mastering Precision and Recall Once and for All.](https://medium.com/@ezzine.khalil/mastering-precision-and-recall-once-and-for-all-2d888fd8a39?source=rss------data_science-5)
-- [Make money using forex, stress free with proven strategies](https://medium.com/@woamoe/make-money-using-forex-stress-free-with-proven-strategies-821bb217519d?source=rss------data_science-5)
-- [Build a GUI Application in Minutes with Python and pySimpleGUI](https://medium.com/@inzaniak/build-a-gui-application-in-minutes-with-python-and-pysimplegui-4e350d9869a?source=rss------data_science-5)
-- [The Top 5 Programming Libraries for Data Science in 2023](https://medium.com/@bertowareofficial/the-top-5-programming-libraries-for-data-science-in-2023-5f2ce147555d?source=rss------data_science-5)
-- [Why did I enroll in a Data Science BootCamp, and how that helped me become a Scrum Master?](https://medium.com/@enrico.ndd/why-did-i-enroll-in-a-data-science-bootcamp-and-how-that-helped-me-become-a-scrum-master-61440dba80bc?source=rss------data_science-5)
-- [AI’s Social Impacts and Ethics](https://medium.com/@clairescarlett/ais-social-impacts-and-ethics-fb202ca85f0d?source=rss------data_science-5)
-- [Using AI to detect safe havens](https://kssreesha.medium.com/using-ai-to-detect-safe-havens-9b00da4820a4?source=rss------data_science-5)
-- [Machine Learning Operations : A guide to exploring, understanding and implementing end to end Data…](https://medium.com/@rahuljha713713/machine-learning-operations-a-guide-to-exploring-understanding-and-implementing-end-to-end-data-c208a5fe8d13?source=rss------data_science-5)
+- [A deep-learning approach to forecast interest rates &lpar;RNN — LSTM&rpar;](https://medium.com/@guransingh/a-deep-learning-approach-to-forecast-interest-rates-rnn-lstm-bff986a8d388?source=rss------data_science-5)
+- [Deep Understanding of Simple Linear Regression](https://towardsdatascience.com/deep-understanding-of-simple-linear-regression-3776afe34473?source=rss------data_science-5)
+- [Discovering What a Data Steward Is](https://medium.datadriveninvestor.com/discovering-what-a-data-steward-is-669742e20ed3?source=rss------data_science-5)
+- [Data Storytelling 101: Essential Strategies for Data Scientists and AI Practitioners](https://towardsdatascience.com/data-storytelling-101-essential-strategies-for-data-scientists-and-ai-practitioners-b6843891ec8d?source=rss------data_science-5)
+- [Singular Value Decomposition — Selecting what matters from text data. #forDevs](https://medium.com/geekcloud/fordev-singular-value-decomposition-selecting-what-matters-from-text-data-part-1-77bec0748691?source=rss------data_science-5)
+- [From Industrial Engineer to Data Scientist: My Journey](https://medium.com/@kmericyalcin/from-industrial-engineer-to-data-scientist-my-journey-56f0cca4ff4?source=rss------data_science-5)
+- [How to Build High-Performance REST APIs with Python](https://amr-khalil.medium.com/how-to-build-high-performance-rest-apis-with-python-bf90abd5b53e?source=rss------data_science-5)
+- [Maximizing Your Chances in the Data Analysis Job Market: Tips for Choosing and Presenting Portfolio…](https://medium.com/@anthonymosqueda42/maximizing-your-chances-in-the-data-analysis-job-market-tips-for-choosing-and-presenting-portfolio-f18492283d72?source=rss------data_science-5)
+- [How Can AI Make Old Videos Look Smoother?](https://towardsdatascience.com/how-can-ai-make-old-videos-look-smoother-5ad8b70fdd64?source=rss------data_science-5)
+- [Reflecting on the Year 2022](https://dipankar-tnt.medium.com/reflecting-on-the-year-2022-451c2d9cb562?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
