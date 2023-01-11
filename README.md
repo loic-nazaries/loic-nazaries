@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A deep-learning approach to forecast interest rates &lpar;RNN — LSTM&rpar;](https://medium.com/@guransingh/a-deep-learning-approach-to-forecast-interest-rates-rnn-lstm-bff986a8d388?source=rss------data_science-5)
-- [Deep Understanding of Simple Linear Regression](https://towardsdatascience.com/deep-understanding-of-simple-linear-regression-3776afe34473?source=rss------data_science-5)
-- [Discovering What a Data Steward Is](https://medium.datadriveninvestor.com/discovering-what-a-data-steward-is-669742e20ed3?source=rss------data_science-5)
-- [Data Storytelling 101: Essential Strategies for Data Scientists and AI Practitioners](https://towardsdatascience.com/data-storytelling-101-essential-strategies-for-data-scientists-and-ai-practitioners-b6843891ec8d?source=rss------data_science-5)
-- [Singular Value Decomposition — Selecting what matters from text data. #forDevs](https://medium.com/geekcloud/fordev-singular-value-decomposition-selecting-what-matters-from-text-data-part-1-77bec0748691?source=rss------data_science-5)
-- [From Industrial Engineer to Data Scientist: My Journey](https://medium.com/@kmericyalcin/from-industrial-engineer-to-data-scientist-my-journey-56f0cca4ff4?source=rss------data_science-5)
-- [How to Build High-Performance REST APIs with Python](https://amr-khalil.medium.com/how-to-build-high-performance-rest-apis-with-python-bf90abd5b53e?source=rss------data_science-5)
-- [Maximizing Your Chances in the Data Analysis Job Market: Tips for Choosing and Presenting Portfolio…](https://medium.com/@anthonymosqueda42/maximizing-your-chances-in-the-data-analysis-job-market-tips-for-choosing-and-presenting-portfolio-f18492283d72?source=rss------data_science-5)
-- [How Can AI Make Old Videos Look Smoother?](https://towardsdatascience.com/how-can-ai-make-old-videos-look-smoother-5ad8b70fdd64?source=rss------data_science-5)
-- [Reflecting on the Year 2022](https://dipankar-tnt.medium.com/reflecting-on-the-year-2022-451c2d9cb562?source=rss------data_science-5)
+- [Unlocking the Secrets of Your Data: The Importance of Exploratory Data Analysis &lpar;EDA&rpar;](https://medium.com/@dev.pankajkumaryadav/unlocking-the-secrets-of-your-data-the-importance-of-exploratory-data-analysis-eda-184fba7484c0?source=rss------data_science-5)
+- [Machine Learning Does Not Only Predict the Future, It Actively Creates It](https://towardsdatascience.com/machine-learning-does-not-only-predict-the-future-it-actively-creates-it-1615895c80a9?source=rss------data_science-5)
+- [Decision Tree: Building a Movie Recommendation Engine](https://pancy.medium.com/decision-tree-building-a-movie-recommendation-engine-c1678577028d?source=rss------data_science-5)
+- [What to Expect from AI in 2023](https://pub.towardsai.net/what-to-expect-from-ai-in-2023-3dd78fd1cddb?source=rss------data_science-5)
+- [Preprocessing and Manipulating Data for Data Science Using Pandas](https://pub.towardsai.net/preprocessing-and-manipulating-data-for-data-science-using-pandas-721eb2b5a9d7?source=rss------data_science-5)
+- [The Benefits and Risks of Artificial Intelligence](https://randerson112358.medium.com/the-benefits-and-risks-of-artificial-intelligence-ee2d6a152302?source=rss------data_science-5)
+- [Strings in Python Part-1](https://medium.com/@drmehta.1992/strings-in-python-part-1-3a2f588a1f6a?source=rss------data_science-5)
+- [5 Core Benefits of Data Mining that Companies Must Consider](https://medium.com/@cndro/5-core-benefits-of-data-mining-that-companies-must-consider-8b8cd9b87642?source=rss------data_science-5)
+- [Why Cloud Computing is the fastest-growing segment in IT today](https://medium.com/@sghani77/why-cloud-computing-is-the-fastest-growing-segment-in-it-today-9a6e893be6c9?source=rss------data_science-5)
+- [5 Best Practices for Writing SQL JOINs](https://medium.com/@abdelilah.moulida/5-best-practices-for-writing-sql-joins-d200dcd03b24?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
