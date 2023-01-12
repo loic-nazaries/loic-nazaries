@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Unlocking the Secrets of Your Data: The Importance of Exploratory Data Analysis &lpar;EDA&rpar;](https://medium.com/@dev.pankajkumaryadav/unlocking-the-secrets-of-your-data-the-importance-of-exploratory-data-analysis-eda-184fba7484c0?source=rss------data_science-5)
-- [Machine Learning Does Not Only Predict the Future, It Actively Creates It](https://towardsdatascience.com/machine-learning-does-not-only-predict-the-future-it-actively-creates-it-1615895c80a9?source=rss------data_science-5)
-- [Decision Tree: Building a Movie Recommendation Engine](https://pancy.medium.com/decision-tree-building-a-movie-recommendation-engine-c1678577028d?source=rss------data_science-5)
-- [What to Expect from AI in 2023](https://pub.towardsai.net/what-to-expect-from-ai-in-2023-3dd78fd1cddb?source=rss------data_science-5)
-- [Preprocessing and Manipulating Data for Data Science Using Pandas](https://pub.towardsai.net/preprocessing-and-manipulating-data-for-data-science-using-pandas-721eb2b5a9d7?source=rss------data_science-5)
-- [The Benefits and Risks of Artificial Intelligence](https://randerson112358.medium.com/the-benefits-and-risks-of-artificial-intelligence-ee2d6a152302?source=rss------data_science-5)
-- [Strings in Python Part-1](https://medium.com/@drmehta.1992/strings-in-python-part-1-3a2f588a1f6a?source=rss------data_science-5)
-- [5 Core Benefits of Data Mining that Companies Must Consider](https://medium.com/@cndro/5-core-benefits-of-data-mining-that-companies-must-consider-8b8cd9b87642?source=rss------data_science-5)
-- [Why Cloud Computing is the fastest-growing segment in IT today](https://medium.com/@sghani77/why-cloud-computing-is-the-fastest-growing-segment-in-it-today-9a6e893be6c9?source=rss------data_science-5)
-- [5 Best Practices for Writing SQL JOINs](https://medium.com/@abdelilah.moulida/5-best-practices-for-writing-sql-joins-d200dcd03b24?source=rss------data_science-5)
+- [Artificial Intelligence for Product Management](https://foxworthy-8036.medium.com/artificial-intelligence-for-product-management-759e317c44a?source=rss------data_science-5)
+- [How to create a Power BI report in 15 mins : For absolute beginners](https://medium.com/@krishnihw/how-to-create-a-simple-power-bi-report-in-15-mins-6351acefc301?source=rss------data_science-5)
+- [The Future of Data Processing: A Deep Dive into ESPs](https://medium.com/@ansam.yousry/the-future-of-data-processing-a-deep-dive-into-esps-2b0cb6e0b7f4?source=rss------data_science-5)
+- [An introduction to statistical distributions for discrete random variables](https://medium.com/@shreyanshagrawal/an-introduction-to-statistical-distributions-for-discrete-random-variables-67dcfd660873?source=rss------data_science-5)
+- [Using dash for data analysis](https://medium.com/@oscarl.developer/using-dash-for-data-analysis-6621353a41b3?source=rss------data_science-5)
+- [Machine Learning for Documents](https://pub.towardsai.net/machine-learning-for-documents-68aa7e7dc1b2?source=rss------data_science-5)
+- [The ChatGPT Affect](https://anthony-sarkis.medium.com/the-chatgpt-affect-f6b2a2b9e6f0?source=rss------data_science-5)
+- [Harnessing Data Science Technology for Smarter Insights and Improved Customer Outcomes](https://jproctor-m-ed-tn.medium.com/harnessing-data-science-technology-for-smarter-insights-and-improved-customer-outcomes-8544a9f8d287?source=rss------data_science-5)
+- [Strings in Python Part-2](https://medium.com/@drmehta.1992/strings-in-python-part-2-1248b62331a?source=rss------data_science-5)
+- [Fine-Tuning Your Machine Learning Models: The Key to Improved Performance](https://nnitiwe.medium.com/fine-tuning-your-machine-learning-models-the-key-to-improved-performance-3db6c6fbeb37?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
