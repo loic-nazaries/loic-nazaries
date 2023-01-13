@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Artificial Intelligence for Product Management](https://foxworthy-8036.medium.com/artificial-intelligence-for-product-management-759e317c44a?source=rss------data_science-5)
-- [How to create a Power BI report in 15 mins : For absolute beginners](https://medium.com/@krishnihw/how-to-create-a-simple-power-bi-report-in-15-mins-6351acefc301?source=rss------data_science-5)
-- [The Future of Data Processing: A Deep Dive into ESPs](https://medium.com/@ansam.yousry/the-future-of-data-processing-a-deep-dive-into-esps-2b0cb6e0b7f4?source=rss------data_science-5)
-- [An introduction to statistical distributions for discrete random variables](https://medium.com/@shreyanshagrawal/an-introduction-to-statistical-distributions-for-discrete-random-variables-67dcfd660873?source=rss------data_science-5)
-- [Using dash for data analysis](https://medium.com/@oscarl.developer/using-dash-for-data-analysis-6621353a41b3?source=rss------data_science-5)
-- [Machine Learning for Documents](https://pub.towardsai.net/machine-learning-for-documents-68aa7e7dc1b2?source=rss------data_science-5)
-- [The ChatGPT Affect](https://anthony-sarkis.medium.com/the-chatgpt-affect-f6b2a2b9e6f0?source=rss------data_science-5)
-- [Harnessing Data Science Technology for Smarter Insights and Improved Customer Outcomes](https://jproctor-m-ed-tn.medium.com/harnessing-data-science-technology-for-smarter-insights-and-improved-customer-outcomes-8544a9f8d287?source=rss------data_science-5)
-- [Strings in Python Part-2](https://medium.com/@drmehta.1992/strings-in-python-part-2-1248b62331a?source=rss------data_science-5)
-- [Fine-Tuning Your Machine Learning Models: The Key to Improved Performance](https://nnitiwe.medium.com/fine-tuning-your-machine-learning-models-the-key-to-improved-performance-3db6c6fbeb37?source=rss------data_science-5)
+- [Data Mesh: Concepts and best practices for implementing a Product-centric Data Architecture](https://towardsdatascience.com/data-mesh-concepts-and-best-practices-for-implementing-a-product-centric-data-architecture-50037063f58e?source=rss------data_science-5)
+- [Five Software Engineering Principles for Collaborative Data Science](https://towardsdatascience.com/five-software-engineering-principles-for-collaborative-data-science-ab26667a311?source=rss------data_science-5)
+- [The Future of the Modern Data Stack in 2023](https://towardsdatascience.com/the-future-of-the-modern-data-stack-in-2023-b08c2aed04e2?source=rss------data_science-5)
+- [ML Ops como solución a los modelos de laboratorio en Chile](https://medium.com/@mvilches/ml-ops-como-soluci%C3%B3n-a-los-modelos-de-laboratorio-en-chile-3e96a59b248c?source=rss------data_science-5)
+- [PostgreSQL Simple Queries](https://medium.com/@gustinaswd/postgresql-simple-queries-4f5346717eff?source=rss------data_science-5)
+- [The Power of Python for Machine Learning and Data Science](https://medium.com/@strawberrypi64/the-power-of-python-for-machine-learning-and-data-science-bcb88ce467eb?source=rss------data_science-5)
+- [Can AI Models be Common Sense Enabled?](https://pub.towardsai.net/can-ai-models-be-common-sense-enabled-c0634d7b7cf3?source=rss------data_science-5)
+- [Health Insurance Plan Prediction](https://medium.com/@taimoor84656/health-insurance-plan-prediction-7d28a12c3642?source=rss------data_science-5)
+- [How to Tell if Your Stakeholders Are Happy With You?](https://medium.com/@mo.villagran/how-to-tell-if-your-stakeholders-are-happy-with-you-fe2795f4fe9b?source=rss------data_science-5)
+- [Data Pipeline — Key Monitoring and Performance Considerations](https://medium.com/@amjadelbaba/data-pipeline-key-monitoring-and-performance-considerations-5881501f1217?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
