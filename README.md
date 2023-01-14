@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Mesh: Concepts and best practices for implementing a Product-centric Data Architecture](https://towardsdatascience.com/data-mesh-concepts-and-best-practices-for-implementing-a-product-centric-data-architecture-50037063f58e?source=rss------data_science-5)
-- [Five Software Engineering Principles for Collaborative Data Science](https://towardsdatascience.com/five-software-engineering-principles-for-collaborative-data-science-ab26667a311?source=rss------data_science-5)
-- [The Future of the Modern Data Stack in 2023](https://towardsdatascience.com/the-future-of-the-modern-data-stack-in-2023-b08c2aed04e2?source=rss------data_science-5)
-- [ML Ops como solución a los modelos de laboratorio en Chile](https://medium.com/@mvilches/ml-ops-como-soluci%C3%B3n-a-los-modelos-de-laboratorio-en-chile-3e96a59b248c?source=rss------data_science-5)
-- [PostgreSQL Simple Queries](https://medium.com/@gustinaswd/postgresql-simple-queries-4f5346717eff?source=rss------data_science-5)
-- [The Power of Python for Machine Learning and Data Science](https://medium.com/@strawberrypi64/the-power-of-python-for-machine-learning-and-data-science-bcb88ce467eb?source=rss------data_science-5)
-- [Can AI Models be Common Sense Enabled?](https://pub.towardsai.net/can-ai-models-be-common-sense-enabled-c0634d7b7cf3?source=rss------data_science-5)
-- [Health Insurance Plan Prediction](https://medium.com/@taimoor84656/health-insurance-plan-prediction-7d28a12c3642?source=rss------data_science-5)
-- [How to Tell if Your Stakeholders Are Happy With You?](https://medium.com/@mo.villagran/how-to-tell-if-your-stakeholders-are-happy-with-you-fe2795f4fe9b?source=rss------data_science-5)
-- [Data Pipeline — Key Monitoring and Performance Considerations](https://medium.com/@amjadelbaba/data-pipeline-key-monitoring-and-performance-considerations-5881501f1217?source=rss------data_science-5)
+- [Data science process](https://medium.com/@zuhailinasir_26370/data-science-process-ad8d1978377e?source=rss------data_science-5)
+- [SQL Intro to Solve Business Question](https://medium.com/@naufaldy_pr/sql-intro-to-solve-business-question-905ea5303669?source=rss------data_science-5)
+- [Mall Customers Clustering Analysis](https://caesarmario.medium.com/mall-customers-clustering-analysis-da594bd2718b?source=rss------data_science-5)
+- [PCA- All you want to know !](https://medium.com/@shivamnegi92/pca-all-you-want-to-know-7ac80ebe0cf7?source=rss------data_science-5)
+- [OpenPyXL: Create Multi-Sheets Excel File With This Cool Python Library](https://ismaelaraujo.medium.com/openpyxl-create-multi-sheets-excel-file-with-this-cool-python-library-5e3931bc7bb6?source=rss------data_science-5)
+- [Trading the Arrow Pattern](https://kaabar-sofien.medium.com/trading-the-arrow-pattern-8f8fb94f715d?source=rss------data_science-5)
+- [Teoría de Limite Central, un caso práctico. Por Eduardo Vélez Vera](https://medium.com/@evelezvera/teor%C3%ADa-de-limite-central-un-caso-pr%C3%A1ctico-por-eduardo-v%C3%A9lez-vera-409598092435?source=rss------data_science-5)
+- [How I Learned the Basics of SQL for Data Science](https://medium.com/@yusrealdj/how-i-learned-the-basics-of-sql-for-data-science-f7fec7adaccd?source=rss------data_science-5)
+- [Bank Customer Classification for Telephone Sales](https://medium.com/@vivianhuang990115/bank-customer-classification-for-telephone-sales-5b7b24810446?source=rss------data_science-5)
+- [Data science blog 101](https://medium.com/@quan.nguyen_58329/data-science-blog-101-c98375bc3078?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
