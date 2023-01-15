@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data science process](https://medium.com/@zuhailinasir_26370/data-science-process-ad8d1978377e?source=rss------data_science-5)
-- [SQL Intro to Solve Business Question](https://medium.com/@naufaldy_pr/sql-intro-to-solve-business-question-905ea5303669?source=rss------data_science-5)
-- [Mall Customers Clustering Analysis](https://caesarmario.medium.com/mall-customers-clustering-analysis-da594bd2718b?source=rss------data_science-5)
-- [PCA- All you want to know !](https://medium.com/@shivamnegi92/pca-all-you-want-to-know-7ac80ebe0cf7?source=rss------data_science-5)
-- [OpenPyXL: Create Multi-Sheets Excel File With This Cool Python Library](https://ismaelaraujo.medium.com/openpyxl-create-multi-sheets-excel-file-with-this-cool-python-library-5e3931bc7bb6?source=rss------data_science-5)
-- [Trading the Arrow Pattern](https://kaabar-sofien.medium.com/trading-the-arrow-pattern-8f8fb94f715d?source=rss------data_science-5)
-- [Teoría de Limite Central, un caso práctico. Por Eduardo Vélez Vera](https://medium.com/@evelezvera/teor%C3%ADa-de-limite-central-un-caso-pr%C3%A1ctico-por-eduardo-v%C3%A9lez-vera-409598092435?source=rss------data_science-5)
-- [How I Learned the Basics of SQL for Data Science](https://medium.com/@yusrealdj/how-i-learned-the-basics-of-sql-for-data-science-f7fec7adaccd?source=rss------data_science-5)
-- [Bank Customer Classification for Telephone Sales](https://medium.com/@vivianhuang990115/bank-customer-classification-for-telephone-sales-5b7b24810446?source=rss------data_science-5)
-- [Data science blog 101](https://medium.com/@quan.nguyen_58329/data-science-blog-101-c98375bc3078?source=rss------data_science-5)
+- [Rental Price Property Generator](https://medium.com/@zultan.peter/rental-price-property-generator-3c55c43c1391?source=rss------data_science-5)
+- [AI Trading: The Future of Making &lpar;or Losing&rpar; Money in Crypto and Stocks](https://medium.com/@bigthepoke/ai-trading-the-future-of-making-or-losing-money-in-crypto-and-stocks-370edf3c68e6?source=rss------data_science-5)
+- [How to implement MySQL Buffer Logic in a Scrapy Web Crawler](https://mrasimzahid.medium.com/how-to-implement-mysql-buffer-logic-in-a-scrapy-web-crawler-8446ff05b30a?source=rss------data_science-5)
+- [“Unlocking the Potential of ChatGPT: How this Language Model is Changing the World”](https://medium.com/@ankitrohilla/unlocking-the-potential-of-chatgpt-how-this-language-model-is-changing-the-world-143c4049a121?source=rss------data_science-5)
+- [Handling Mislabeled Tabular Data to Improve Your XGBoost Model](https://pub.towardsai.net/handling-mislabeled-tabular-data-to-improve-your-xgboost-model-fbe051f4a6a6?source=rss------data_science-5)
+- [Are Transformers effective for Time Series Forecasting](https://machine-learning-made-simple.medium.com/are-transformers-effective-for-time-series-forecasting-6e2194338ff0?source=rss------data_science-5)
+- [Sort months of the year in order using Power BI](https://medium.com/@molly-nakalyango/sort-months-of-the-year-in-order-using-power-bi-44ecc16dd513?source=rss------data_science-5)
+- [2023 Data Science Buzzwords: Stay Ahead of the Game](https://medium.com/@Keerthana.Kesavan/2023-data-science-buzzwords-stay-ahead-of-the-game-6f0c7764d7f2?source=rss------data_science-5)
+- [Neden Veri Bilimi Gelecek?](https://yusufbehrambayindir.medium.com/neden-veri-bilimi-gelecek-415d7ec93c33?source=rss------data_science-5)
+- [Veri Bilimi: Kariyer Gelişimi ve Etkisi İçin Biletiniz](https://yusufbehrambayindir.medium.com/veri-bilimi-kariyer-geli%C5%9Fimi-ve-etkisi-i%CC%87%C3%A7in-biletiniz-9d81bc13b07d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
