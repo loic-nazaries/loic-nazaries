@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Rental Price Property Generator](https://medium.com/@zultan.peter/rental-price-property-generator-3c55c43c1391?source=rss------data_science-5)
-- [AI Trading: The Future of Making &lpar;or Losing&rpar; Money in Crypto and Stocks](https://medium.com/@bigthepoke/ai-trading-the-future-of-making-or-losing-money-in-crypto-and-stocks-370edf3c68e6?source=rss------data_science-5)
-- [How to implement MySQL Buffer Logic in a Scrapy Web Crawler](https://mrasimzahid.medium.com/how-to-implement-mysql-buffer-logic-in-a-scrapy-web-crawler-8446ff05b30a?source=rss------data_science-5)
-- [“Unlocking the Potential of ChatGPT: How this Language Model is Changing the World”](https://medium.com/@ankitrohilla/unlocking-the-potential-of-chatgpt-how-this-language-model-is-changing-the-world-143c4049a121?source=rss------data_science-5)
-- [Handling Mislabeled Tabular Data to Improve Your XGBoost Model](https://pub.towardsai.net/handling-mislabeled-tabular-data-to-improve-your-xgboost-model-fbe051f4a6a6?source=rss------data_science-5)
-- [Are Transformers effective for Time Series Forecasting](https://machine-learning-made-simple.medium.com/are-transformers-effective-for-time-series-forecasting-6e2194338ff0?source=rss------data_science-5)
-- [Sort months of the year in order using Power BI](https://medium.com/@molly-nakalyango/sort-months-of-the-year-in-order-using-power-bi-44ecc16dd513?source=rss------data_science-5)
-- [2023 Data Science Buzzwords: Stay Ahead of the Game](https://medium.com/@Keerthana.Kesavan/2023-data-science-buzzwords-stay-ahead-of-the-game-6f0c7764d7f2?source=rss------data_science-5)
-- [Neden Veri Bilimi Gelecek?](https://yusufbehrambayindir.medium.com/neden-veri-bilimi-gelecek-415d7ec93c33?source=rss------data_science-5)
-- [Veri Bilimi: Kariyer Gelişimi ve Etkisi İçin Biletiniz](https://yusufbehrambayindir.medium.com/veri-bilimi-kariyer-geli%C5%9Fimi-ve-etkisi-i%CC%87%C3%A7in-biletiniz-9d81bc13b07d?source=rss------data_science-5)
+- [Streamline Your Machine Learning Pipeline: Implement a Batch Predictions API with FastAPI and Excel](https://medium.com/@shanakadesoysa/streamline-your-machine-learning-pipeline-implement-a-batch-predictions-api-with-fastapi-and-excel-84b59b605d6f?source=rss------data_science-5)
+- [What is Data Maturity?](https://blaza.medium.com/what-is-data-maturity-fcb454a4d8b7?source=rss------data_science-5)
+- [Total Return de ativos listados](https://medium.com/@crcj/total-return-de-ativos-listados-5ede935c605a?source=rss------data_science-5)
+- [[Paper Review] Statistical Modeling : The Two Cultures , Leo Breiman](https://medium.com/@medi_seul/paper-review-statistical-modeling-the-two-cultures-leo-breiman-9c1864910e17?source=rss------data_science-5)
+- [Navigating the Challenges of the Digital Age](https://medium.com/@seldaaa/navigating-the-challenges-of-the-digital-age-8a65147586c6?source=rss------data_science-5)
+- [Large Scale Image Processing with Spark through Fugue](https://medium.com/fugue-project/large-scale-image-processing-with-spark-through-fugue-e510b9813da8?source=rss------data_science-5)
+- [Maximizing Performance in Snowflake: Tips and Best Practice](https://will-pieters.medium.com/maximizing-performance-in-snowflake-tips-and-best-practice-8858926bcfc?source=rss------data_science-5)
+- [My Start of a Data Science Journey](https://medium.com/@conlons628/my-start-of-a-data-science-journey-b82c36d28b40?source=rss------data_science-5)
+- [Sequence Mapping, Part 1: Reference Based Assembly](https://shortlongseq.medium.com/sequence-mapping-part-1-reference-based-assembly-54e7cf882c60?source=rss------data_science-5)
+- [Analytics-Vidhya’s Big Mart Sales Prediction](https://hemantbhambhu.medium.com/analytics-vidhyas-big-mart-sales-prediction-fc771e64818a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
