@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Streamline Your Machine Learning Pipeline: Implement a Batch Predictions API with FastAPI and Excel](https://medium.com/@shanakadesoysa/streamline-your-machine-learning-pipeline-implement-a-batch-predictions-api-with-fastapi-and-excel-84b59b605d6f?source=rss------data_science-5)
-- [What is Data Maturity?](https://blaza.medium.com/what-is-data-maturity-fcb454a4d8b7?source=rss------data_science-5)
-- [Total Return de ativos listados](https://medium.com/@crcj/total-return-de-ativos-listados-5ede935c605a?source=rss------data_science-5)
-- [[Paper Review] Statistical Modeling : The Two Cultures , Leo Breiman](https://medium.com/@medi_seul/paper-review-statistical-modeling-the-two-cultures-leo-breiman-9c1864910e17?source=rss------data_science-5)
-- [Navigating the Challenges of the Digital Age](https://medium.com/@seldaaa/navigating-the-challenges-of-the-digital-age-8a65147586c6?source=rss------data_science-5)
-- [Large Scale Image Processing with Spark through Fugue](https://medium.com/fugue-project/large-scale-image-processing-with-spark-through-fugue-e510b9813da8?source=rss------data_science-5)
-- [Maximizing Performance in Snowflake: Tips and Best Practice](https://will-pieters.medium.com/maximizing-performance-in-snowflake-tips-and-best-practice-8858926bcfc?source=rss------data_science-5)
-- [My Start of a Data Science Journey](https://medium.com/@conlons628/my-start-of-a-data-science-journey-b82c36d28b40?source=rss------data_science-5)
-- [Sequence Mapping, Part 1: Reference Based Assembly](https://shortlongseq.medium.com/sequence-mapping-part-1-reference-based-assembly-54e7cf882c60?source=rss------data_science-5)
-- [Analytics-Vidhya’s Big Mart Sales Prediction](https://hemantbhambhu.medium.com/analytics-vidhyas-big-mart-sales-prediction-fc771e64818a?source=rss------data_science-5)
+- [SQL Techniques: How to Use Multiple Where in One Column?](https://nuo-lei.medium.com/sql-techniques-how-to-use-multiple-where-in-one-column-a819a801b099?source=rss------data_science-5)
+- [The Options Market Beat 94% of Participants in the M6 Financial Forecasting Contest](https://medium.com/geekculture/the-options-market-beat-94-of-participants-in-the-m6-financial-forecasting-contest-fa4f47f57d33?source=rss------data_science-5)
+- [The Evolution of IT: From Hieroglyphics to Smartphones!](https://medium.com/@mahsashid/the-evolution-of-it-from-hieroglyphics-to-smartphones-29e83b959831?source=rss------data_science-5)
+- [The Importance of Database Administrators: Are They Still Relevant in Today’s Data-Driven World?](https://medium.com/@moabman33/the-importance-of-database-administrators-are-they-still-relevant-in-todays-data-driven-world-a3e8ac364b00?source=rss------data_science-5)
+- [Predicting Traffic Accident Duration with Python](https://medium.com/@brendonkirouac/predicting-traffic-accident-duration-with-python-4488aaca5c4a?source=rss------data_science-5)
+- [How to Anonymize Faces in Images with Deep Learning and Computer Vision](https://pub.towardsai.net/how-to-anonymize-faces-in-images-with-deep-learning-and-computer-vision-d03e6812aad5?source=rss------data_science-5)
+- [Parameter vs Hyperparameters In Machine Learning](https://sanjay-kumar1625.medium.com/parameter-vs-hyperparameters-in-machine-learning-d9cb65d787bc?source=rss------data_science-5)
+- [Python Pro Tips: 8 Advance Data Manipulation Functions, worth looking at!](https://anmol3015.medium.com/python-pro-tips-8-advance-data-manipulation-functions-worth-looking-at-41f4719bd2e4?source=rss------data_science-5)
+- [How to Use YAML Files Like A Pro — Get Amazed of What You Can Do!](https://medium.com/@neonforge/how-to-use-yaml-files-like-a-pro-get-amazed-of-what-you-can-do-7317859eaa84?source=rss------data_science-5)
+- [How to create a pop up window in Power BI —A  5 step guide](https://medium.datadriveninvestor.com/how-to-create-a-pop-up-window-in-power-bi-a-5-step-guide-d87830445d19?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
