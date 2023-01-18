@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [SQL Techniques: How to Use Multiple Where in One Column?](https://nuo-lei.medium.com/sql-techniques-how-to-use-multiple-where-in-one-column-a819a801b099?source=rss------data_science-5)
-- [The Options Market Beat 94% of Participants in the M6 Financial Forecasting Contest](https://medium.com/geekculture/the-options-market-beat-94-of-participants-in-the-m6-financial-forecasting-contest-fa4f47f57d33?source=rss------data_science-5)
-- [The Evolution of IT: From Hieroglyphics to Smartphones!](https://medium.com/@mahsashid/the-evolution-of-it-from-hieroglyphics-to-smartphones-29e83b959831?source=rss------data_science-5)
-- [The Importance of Database Administrators: Are They Still Relevant in Today’s Data-Driven World?](https://medium.com/@moabman33/the-importance-of-database-administrators-are-they-still-relevant-in-todays-data-driven-world-a3e8ac364b00?source=rss------data_science-5)
-- [Predicting Traffic Accident Duration with Python](https://medium.com/@brendonkirouac/predicting-traffic-accident-duration-with-python-4488aaca5c4a?source=rss------data_science-5)
-- [How to Anonymize Faces in Images with Deep Learning and Computer Vision](https://pub.towardsai.net/how-to-anonymize-faces-in-images-with-deep-learning-and-computer-vision-d03e6812aad5?source=rss------data_science-5)
-- [Parameter vs Hyperparameters In Machine Learning](https://sanjay-kumar1625.medium.com/parameter-vs-hyperparameters-in-machine-learning-d9cb65d787bc?source=rss------data_science-5)
-- [Python Pro Tips: 8 Advance Data Manipulation Functions, worth looking at!](https://anmol3015.medium.com/python-pro-tips-8-advance-data-manipulation-functions-worth-looking-at-41f4719bd2e4?source=rss------data_science-5)
-- [How to Use YAML Files Like A Pro — Get Amazed of What You Can Do!](https://medium.com/@neonforge/how-to-use-yaml-files-like-a-pro-get-amazed-of-what-you-can-do-7317859eaa84?source=rss------data_science-5)
-- [How to create a pop up window in Power BI —A  5 step guide](https://medium.datadriveninvestor.com/how-to-create-a-pop-up-window-in-power-bi-a-5-step-guide-d87830445d19?source=rss------data_science-5)
+- [Exploratory Data Analysis on Craigslist Used Cars Data using Python](https://abdulmajid986.medium.com/exploratory-data-analysis-on-craigslist-used-car-data-using-python-ca2534c57892?source=rss------data_science-5)
+- [Designing Incremental data extraction for a source data that is a SQL query](https://afroinfotech.medium.com/designing-incremental-data-extraction-for-a-source-data-that-is-a-sql-query-52c19c7ef7ce?source=rss------data_science-5)
+- [Hot Python packages for data exploration_1: Pandas Profiling](https://medium.com/@singh.sarblohw/hot-python-packages-for-data-exploration-1-pandas-profiling-b38d75f8e64?source=rss------data_science-5)
+- [Vehicle loan prediction](https://medium.com/@jsebastian.ts624/vehicle-loan-prediction-7cd196002025?source=rss------data_science-5)
+- [Tutorial : Web Scraping with Python Using Beautiful Soup and Exporting to CSV File](https://medium.com/@tripurnomo/tutorial-web-scraping-with-python-using-beautiful-soup-and-exporting-to-csv-file-d3465f842c7b?source=rss------data_science-5)
+- [Como é Trabalhar com Dados na área de Bioinformática?](https://medium.com/jessica-costa/como-%C3%A9-trabalhar-com-dados-na-%C3%A1rea-de-bioinform%C3%A1tica-c9c16468a9be?source=rss------data_science-5)
+- [Introduction to Python Lists](https://medium.com/@zach.mortenson7/introduction-to-python-lists-4b593ff5c76d?source=rss------data_science-5)
+- [Learn Reinforcement Learning from Top Universities](https://pub.towardsai.net/learn-reinforcement-learning-from-top-universities-54f4fb1eab57?source=rss------data_science-5)
+- [Docker básico para cientistas de dados](https://medium.com/@daniel.DS/docker-b%C3%A1sico-para-cientistas-de-dados-ce027bd3e97d?source=rss------data_science-5)
+- [The Impact of AI trading using TensorFlow libraries](https://medium.com/@bakhtiyor10/the-impact-of-ai-trading-using-tensorflow-libraries-f7dffe1b1e9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
