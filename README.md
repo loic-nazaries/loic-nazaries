@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Exploratory Data Analysis on Craigslist Used Cars Data using Python](https://abdulmajid986.medium.com/exploratory-data-analysis-on-craigslist-used-car-data-using-python-ca2534c57892?source=rss------data_science-5)
-- [Designing Incremental data extraction for a source data that is a SQL query](https://afroinfotech.medium.com/designing-incremental-data-extraction-for-a-source-data-that-is-a-sql-query-52c19c7ef7ce?source=rss------data_science-5)
-- [Hot Python packages for data exploration_1: Pandas Profiling](https://medium.com/@singh.sarblohw/hot-python-packages-for-data-exploration-1-pandas-profiling-b38d75f8e64?source=rss------data_science-5)
-- [Vehicle loan prediction](https://medium.com/@jsebastian.ts624/vehicle-loan-prediction-7cd196002025?source=rss------data_science-5)
-- [Tutorial : Web Scraping with Python Using Beautiful Soup and Exporting to CSV File](https://medium.com/@tripurnomo/tutorial-web-scraping-with-python-using-beautiful-soup-and-exporting-to-csv-file-d3465f842c7b?source=rss------data_science-5)
-- [Como é Trabalhar com Dados na área de Bioinformática?](https://medium.com/jessica-costa/como-%C3%A9-trabalhar-com-dados-na-%C3%A1rea-de-bioinform%C3%A1tica-c9c16468a9be?source=rss------data_science-5)
-- [Introduction to Python Lists](https://medium.com/@zach.mortenson7/introduction-to-python-lists-4b593ff5c76d?source=rss------data_science-5)
-- [Learn Reinforcement Learning from Top Universities](https://pub.towardsai.net/learn-reinforcement-learning-from-top-universities-54f4fb1eab57?source=rss------data_science-5)
-- [Docker básico para cientistas de dados](https://medium.com/@daniel.DS/docker-b%C3%A1sico-para-cientistas-de-dados-ce027bd3e97d?source=rss------data_science-5)
-- [The Impact of AI trading using TensorFlow libraries](https://medium.com/@bakhtiyor10/the-impact-of-ai-trading-using-tensorflow-libraries-f7dffe1b1e9?source=rss------data_science-5)
+- [Exploring the Impact of Artificial Intelligence on Data Analysis](https://medium.com/@vishal079/exploring-the-impact-of-artificial-intelligence-on-data-analysis-5a7d39d176cd?source=rss------data_science-5)
+- [Web Development](https://medium.com/@chandu.bathula16/web-development-bd3102d16e76?source=rss------data_science-5)
+- [Utilizando Python para Análise de Dados](https://tecfinancas.medium.com/utilizando-python-para-an%C3%A1lise-de-dados-c1ad22237ce6?source=rss------data_science-5)
+- [How to do end-to-end AB Testing](https://medium.com/@anhle6369/how-to-do-end-to-end-ab-testing-913f415833c7?source=rss------data_science-5)
+- [Prolog Mastery: Unlock New Potential for Machine Learning](https://medium.com/@SPX701/prolog-mastery-unlock-new-potential-for-machine-learning-3e84938dcc2b?source=rss------data_science-5)
+- [2023 Big Data Bowl: Part One &lpar;Data Cleaning&rpar;](https://medium.com/@samueljin99/2023-big-data-bowl-part-one-data-cleaning-3a77236ca4af?source=rss------data_science-5)
+- [Qué hay que tener en cuenta al desarrollar un proyecto de Data Science](https://medium.com/@datanauta/qu%C3%A9-hay-que-tener-en-cuenta-al-desarrollar-un-proyecto-de-data-science-8936ea05ced0?source=rss------data_science-5)
+- [D4S Sunday Briefing #188](https://medium.data4sci.com/d4s-sunday-briefing-188-b634383e5c9f?source=rss------data_science-5)
+- [Implementing VOI &lpar;Value Of Interest&rpar; tables](https://medium.com/the-techlife/implementing-voi-value-of-interest-tables-e0ece4f98f3e?source=rss------data_science-5)
+- [Types of  Window Functions in SQL](https://medium.com/@jagadeshjamjalanarayanan/types-of-window-functions-in-sql-af04d70b1fea?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
