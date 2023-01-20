@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Exploring the Impact of Artificial Intelligence on Data Analysis](https://medium.com/@vishal079/exploring-the-impact-of-artificial-intelligence-on-data-analysis-5a7d39d176cd?source=rss------data_science-5)
-- [Web Development](https://medium.com/@chandu.bathula16/web-development-bd3102d16e76?source=rss------data_science-5)
-- [Utilizando Python para Análise de Dados](https://tecfinancas.medium.com/utilizando-python-para-an%C3%A1lise-de-dados-c1ad22237ce6?source=rss------data_science-5)
-- [How to do end-to-end AB Testing](https://medium.com/@anhle6369/how-to-do-end-to-end-ab-testing-913f415833c7?source=rss------data_science-5)
-- [Prolog Mastery: Unlock New Potential for Machine Learning](https://medium.com/@SPX701/prolog-mastery-unlock-new-potential-for-machine-learning-3e84938dcc2b?source=rss------data_science-5)
-- [2023 Big Data Bowl: Part One &lpar;Data Cleaning&rpar;](https://medium.com/@samueljin99/2023-big-data-bowl-part-one-data-cleaning-3a77236ca4af?source=rss------data_science-5)
-- [Qué hay que tener en cuenta al desarrollar un proyecto de Data Science](https://medium.com/@datanauta/qu%C3%A9-hay-que-tener-en-cuenta-al-desarrollar-un-proyecto-de-data-science-8936ea05ced0?source=rss------data_science-5)
-- [D4S Sunday Briefing #188](https://medium.data4sci.com/d4s-sunday-briefing-188-b634383e5c9f?source=rss------data_science-5)
-- [Implementing VOI &lpar;Value Of Interest&rpar; tables](https://medium.com/the-techlife/implementing-voi-value-of-interest-tables-e0ece4f98f3e?source=rss------data_science-5)
-- [Types of  Window Functions in SQL](https://medium.com/@jagadeshjamjalanarayanan/types-of-window-functions-in-sql-af04d70b1fea?source=rss------data_science-5)
+- [“Exploring the Possibilities: Utilizing Vast Knowledge of Alternate Universes to Develop the…](https://medium.com/@litsjessq/exploring-the-possibilities-utilizing-vast-knowledge-of-alternate-universes-to-develop-the-81d23a2081b3?source=rss------data_science-5)
+- [Story-map: FUNDING FOR LEAD PIPE REPLACEMENT FALLS SHORT FOR MIDWEST](https://rgurewitsch.medium.com/story-map-funding-for-lead-pipe-replacement-falls-short-for-midwest-7f949ca1a5a5?source=rss------data_science-5)
+- [The 5 Technical Skills You Should Learn to Embark on a Data Career](https://medium.com/@learndatascience/the-5-technical-skills-you-should-learn-to-embark-on-a-data-career-d38d39653b14?source=rss------data_science-5)
+- [ConvNeXTv2 — Overview + Tutorial — 2023](https://medium.com/the-techlife/convnextv2-overview-tutorial-2023-afebce7315e9?source=rss------data_science-5)
+- [ALS Recommendation System in Health Care](https://medium.com/@sachinbabuantony/als-recommendation-system-in-health-care-3b28d9fdb63a?source=rss------data_science-5)
+- [Wine Quality Classification](https://medium.com/@nancy_24398/wine-quality-classification-fc4f945c6c00?source=rss------data_science-5)
+- [Ridge Regression and Lasso Regression: A Beginner’s Guide](https://medium.com/mlearning-ai/ridge-regression-and-lasso-regression-a-beginners-guide-b3e33c77678?source=rss------data_science-5)
+- [Visualizing Text Data Hierarchy with Word Trees](https://anychart.medium.com/visualizing-text-data-hierarchy-with-word-trees-ff6a05ec134b?source=rss------data_science-5)
+- [CRISP-DM: o framework para Machine Learning e Data Science](https://medium.com/@jesapsilva/crisp-dm-o-framework-para-machine-learning-e-data-science-235543b952c0?source=rss------data_science-5)
+- [The Most Exciting TypeScript Tutorial!](https://medium.com/@mahsashid/the-most-exciting-typescript-tutorial-afcc507de475?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
