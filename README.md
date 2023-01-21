@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [“Exploring the Possibilities: Utilizing Vast Knowledge of Alternate Universes to Develop the…](https://medium.com/@litsjessq/exploring-the-possibilities-utilizing-vast-knowledge-of-alternate-universes-to-develop-the-81d23a2081b3?source=rss------data_science-5)
-- [Story-map: FUNDING FOR LEAD PIPE REPLACEMENT FALLS SHORT FOR MIDWEST](https://rgurewitsch.medium.com/story-map-funding-for-lead-pipe-replacement-falls-short-for-midwest-7f949ca1a5a5?source=rss------data_science-5)
-- [The 5 Technical Skills You Should Learn to Embark on a Data Career](https://medium.com/@learndatascience/the-5-technical-skills-you-should-learn-to-embark-on-a-data-career-d38d39653b14?source=rss------data_science-5)
-- [ConvNeXTv2 — Overview + Tutorial — 2023](https://medium.com/the-techlife/convnextv2-overview-tutorial-2023-afebce7315e9?source=rss------data_science-5)
-- [ALS Recommendation System in Health Care](https://medium.com/@sachinbabuantony/als-recommendation-system-in-health-care-3b28d9fdb63a?source=rss------data_science-5)
-- [Wine Quality Classification](https://medium.com/@nancy_24398/wine-quality-classification-fc4f945c6c00?source=rss------data_science-5)
-- [Ridge Regression and Lasso Regression: A Beginner’s Guide](https://medium.com/mlearning-ai/ridge-regression-and-lasso-regression-a-beginners-guide-b3e33c77678?source=rss------data_science-5)
-- [Visualizing Text Data Hierarchy with Word Trees](https://anychart.medium.com/visualizing-text-data-hierarchy-with-word-trees-ff6a05ec134b?source=rss------data_science-5)
-- [CRISP-DM: o framework para Machine Learning e Data Science](https://medium.com/@jesapsilva/crisp-dm-o-framework-para-machine-learning-e-data-science-235543b952c0?source=rss------data_science-5)
-- [The Most Exciting TypeScript Tutorial!](https://medium.com/@mahsashid/the-most-exciting-typescript-tutorial-afcc507de475?source=rss------data_science-5)
+- [Doji Pattern Recognition in TradingView](https://kaabar-sofien.medium.com/doji-pattern-recognition-in-tradingview-942b22146d8b?source=rss------data_science-5)
+- [“Unlocking the Secrets of the Universe: The Role of AI in the Discovery of New Phenomena in the…](https://medium.com/@litsjessq/unlocking-the-secrets-of-the-universe-the-role-of-ai-in-the-discovery-of-new-phenomena-in-the-24a654074e34?source=rss------data_science-5)
+- [Incident Response: The Importance of Severity Levels](https://medium.com/@ekiser_48014/incident-response-the-importance-of-severity-levels-f41b5bcf585f?source=rss------data_science-5)
+- [Data Science Project Management: From Idea to Implementation](https://medium.com/@saif.ahmed_90046/data-science-project-management-from-idea-to-implementation-ac54d6a0adaa?source=rss------data_science-5)
+- [Why There Are Fewer Women In Data?](https://shammy-n.medium.com/why-there-are-fewer-women-in-data-cb2ad3010378?source=rss------data_science-5)
+- [IT 101: From Vacuum Tubes to Terabytes!](https://medium.com/@mahsashid/it-101-from-vacuum-tubes-to-terabytes-b44a37db14bc?source=rss------data_science-5)
+- [Waiting for Godot? &lpar;godot.ai&rpar;](https://medium.com/@moin.ekvg/waiting-for-godot-godot-ai-b6e2010e856e?source=rss------data_science-5)
+- [Simple But Effective Free Roadmap to Start A Career in Data Science &amp; AI In 2023](https://pub.towardsai.net/simple-but-effective-free-roadmap-to-start-a-career-in-data-science-ai-in-2023-9d17c76a184b?source=rss------data_science-5)
+- [Apache Spark- What, Why &amp; How](https://medium.com/@jagadeshjamjalanarayanan/apache-spark-what-why-how-1f9806ea1675?source=rss------data_science-5)
+- [Intuitive Understanding of Tensors in Machine Learning](https://medium.com/@xinyu.chen/intuitive-understanding-of-tensors-in-machine-learning-33635c64b596?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
