@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Doji Pattern Recognition in TradingView](https://kaabar-sofien.medium.com/doji-pattern-recognition-in-tradingview-942b22146d8b?source=rss------data_science-5)
-- [“Unlocking the Secrets of the Universe: The Role of AI in the Discovery of New Phenomena in the…](https://medium.com/@litsjessq/unlocking-the-secrets-of-the-universe-the-role-of-ai-in-the-discovery-of-new-phenomena-in-the-24a654074e34?source=rss------data_science-5)
-- [Incident Response: The Importance of Severity Levels](https://medium.com/@ekiser_48014/incident-response-the-importance-of-severity-levels-f41b5bcf585f?source=rss------data_science-5)
-- [Data Science Project Management: From Idea to Implementation](https://medium.com/@saif.ahmed_90046/data-science-project-management-from-idea-to-implementation-ac54d6a0adaa?source=rss------data_science-5)
-- [Why There Are Fewer Women In Data?](https://shammy-n.medium.com/why-there-are-fewer-women-in-data-cb2ad3010378?source=rss------data_science-5)
-- [IT 101: From Vacuum Tubes to Terabytes!](https://medium.com/@mahsashid/it-101-from-vacuum-tubes-to-terabytes-b44a37db14bc?source=rss------data_science-5)
-- [Waiting for Godot? &lpar;godot.ai&rpar;](https://medium.com/@moin.ekvg/waiting-for-godot-godot-ai-b6e2010e856e?source=rss------data_science-5)
-- [Simple But Effective Free Roadmap to Start A Career in Data Science &amp; AI In 2023](https://pub.towardsai.net/simple-but-effective-free-roadmap-to-start-a-career-in-data-science-ai-in-2023-9d17c76a184b?source=rss------data_science-5)
-- [Apache Spark- What, Why &amp; How](https://medium.com/@jagadeshjamjalanarayanan/apache-spark-what-why-how-1f9806ea1675?source=rss------data_science-5)
-- [Intuitive Understanding of Tensors in Machine Learning](https://medium.com/@xinyu.chen/intuitive-understanding-of-tensors-in-machine-learning-33635c64b596?source=rss------data_science-5)
+- [Getting Recommendations From My Spotify Friends](https://medium.com/@amaltyagi/getting-recommendations-from-my-spotify-friends-e6541c9bb39?source=rss------data_science-5)
+- [Unlocking the Power of DATAU Analysis: How Pizzerias Can Boost Sales and Improve Marketing…](https://medium.com/@shuhrat.egamov4233/unlocking-the-power-of-datau-analysis-how-pizzerias-can-boost-sales-and-improve-marketing-96f70ae63e5?source=rss------data_science-5)
+- [Data Science, even in music.](https://medium.com/@ivanurqz/data-science-even-in-music-1265748cd19e?source=rss------data_science-5)
+- [Migraine Classification : Using Synthetic Minority Oversampling Technique &lpar;SMOTE&rpar; Migraine Model](https://adityakakde.medium.com/migraine-classification-using-synthetic-minority-oversampling-technique-smote-migraine-model-b025ec94414c?source=rss------data_science-5)
+- [Membuat Database Film Indonesia Bag-1: Scraping Data Film Indonesia di themoviedb.org](https://jokoeliyanto.medium.com/membuat-database-film-indonesia-bag-1-scraping-data-film-indonesia-di-themoviedb-org-ab4a1022f88c?source=rss------data_science-5)
+- [Keras Regression — King County House Dataset](https://medium.com/mlearning-ai/keras-regression-41f62c95f514?source=rss------data_science-5)
+- [Apache Camel is an open-source integration framework that provides a rule-based routing and…](https://medium.com/@mittalabhi86/apache-camel-is-an-open-source-integration-framework-that-provides-a-rule-based-routing-and-65139d322abc?source=rss------data_science-5)
+- [5 Awesome Clojure Projects — UI Design Tool &amp; More](https://tomaszs2.medium.com/5-awesome-clojure-projects-interface-design-tool-more-9081e9dd0c67?source=rss------data_science-5)
+- [Data Science: 6 Steps to Master Data Science](https://abdulmoiz121.medium.com/data-science-6-steps-to-master-data-science-efdac13f2520?source=rss------data_science-5)
+- [5 Coding Trends to Watch: Navigating the Future of Technology](https://medium.com/@jpfloau/5-coding-trends-to-watch-navigating-the-future-of-technology-2e02c8992a93?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
