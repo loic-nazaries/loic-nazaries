@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Getting Recommendations From My Spotify Friends](https://medium.com/@amaltyagi/getting-recommendations-from-my-spotify-friends-e6541c9bb39?source=rss------data_science-5)
-- [Unlocking the Power of DATAU Analysis: How Pizzerias Can Boost Sales and Improve Marketing…](https://medium.com/@shuhrat.egamov4233/unlocking-the-power-of-datau-analysis-how-pizzerias-can-boost-sales-and-improve-marketing-96f70ae63e5?source=rss------data_science-5)
-- [Data Science, even in music.](https://medium.com/@ivanurqz/data-science-even-in-music-1265748cd19e?source=rss------data_science-5)
-- [Migraine Classification : Using Synthetic Minority Oversampling Technique &lpar;SMOTE&rpar; Migraine Model](https://adityakakde.medium.com/migraine-classification-using-synthetic-minority-oversampling-technique-smote-migraine-model-b025ec94414c?source=rss------data_science-5)
-- [Membuat Database Film Indonesia Bag-1: Scraping Data Film Indonesia di themoviedb.org](https://jokoeliyanto.medium.com/membuat-database-film-indonesia-bag-1-scraping-data-film-indonesia-di-themoviedb-org-ab4a1022f88c?source=rss------data_science-5)
-- [Keras Regression — King County House Dataset](https://medium.com/mlearning-ai/keras-regression-41f62c95f514?source=rss------data_science-5)
-- [Apache Camel is an open-source integration framework that provides a rule-based routing and…](https://medium.com/@mittalabhi86/apache-camel-is-an-open-source-integration-framework-that-provides-a-rule-based-routing-and-65139d322abc?source=rss------data_science-5)
-- [5 Awesome Clojure Projects — UI Design Tool &amp; More](https://tomaszs2.medium.com/5-awesome-clojure-projects-interface-design-tool-more-9081e9dd0c67?source=rss------data_science-5)
-- [Data Science: 6 Steps to Master Data Science](https://abdulmoiz121.medium.com/data-science-6-steps-to-master-data-science-efdac13f2520?source=rss------data_science-5)
-- [5 Coding Trends to Watch: Navigating the Future of Technology](https://medium.com/@jpfloau/5-coding-trends-to-watch-navigating-the-future-of-technology-2e02c8992a93?source=rss------data_science-5)
+- [Data Analyst Job on LinkedIn](https://ilesanmi007.medium.com/data-analyst-job-on-linkedin-fe5039e07e05?source=rss------data_science-5)
+- [A Beginner’s Guide to Machine Learning with Scikit-learn in Python](https://data-reads.medium.com/data-science-with-python-an-introduction-to-scikit-learn-f57e36aa6195?source=rss------data_science-5)
+- [Uncovering Customer Emotions through Advanced NLP and Word Clouds: A Dive into Yelp Reviews](https://raffanimir.medium.com/uncovering-customer-emotions-through-advanced-nlp-and-word-clouds-a-dive-into-yelp-reviews-cf87fda7e2c1?source=rss------data_science-5)
+- [How to simply create box and distribution visuals in Python](https://medium.com/@benhui.ca/how-to-simply-create-box-and-distribution-visuals-in-python-8796dc7e9dfe?source=rss------data_science-5)
+- [How to Learn Using ChatGPT](https://medium.com/geekculture/how-to-learn-using-chatgpt-c10c76b0547b?source=rss------data_science-5)
+- [As a Data Scientist, You Should Know About a Clever Horse Called Hans](https://pub.towardsai.net/as-a-data-scientist-you-should-know-about-a-clever-horse-called-hans-51eab1135a61?source=rss------data_science-5)
+- [NoSQL Database | what it is ? | where to start ?](https://medium.com/@jagadeshjamjalanarayanan/nosql-database-what-it-is-where-to-start-dffc91d2a884?source=rss------data_science-5)
+- [Unlocking the Power of Python Levenshtein: Harnessing the Potential of String Similarity…](https://python.plainenglish.io/unlocking-the-power-of-python-levenshtein-harnessing-the-potential-of-string-similarity-1ed7810bd958?source=rss------data_science-5)
+- [SQL Techniques: How to Impute NULL with Only the First Row?](https://nuo-lei.medium.com/sql-techniques-how-to-impute-null-with-only-the-first-row-b011b8f3bcb5?source=rss------data_science-5)
+- [Getting Started with Machine Learning &lpar;Part 3&rpar;: An Absolute Beginner’s Guide — Intro to PyTorch…](https://medium.com/codex/getting-started-with-machine-learning-part-3-an-absolute-beginners-guide-intro-to-pytorch-8d93362226a9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
