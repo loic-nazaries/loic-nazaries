@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Analyst Job on LinkedIn](https://ilesanmi007.medium.com/data-analyst-job-on-linkedin-fe5039e07e05?source=rss------data_science-5)
-- [A Beginner’s Guide to Machine Learning with Scikit-learn in Python](https://data-reads.medium.com/data-science-with-python-an-introduction-to-scikit-learn-f57e36aa6195?source=rss------data_science-5)
-- [Uncovering Customer Emotions through Advanced NLP and Word Clouds: A Dive into Yelp Reviews](https://raffanimir.medium.com/uncovering-customer-emotions-through-advanced-nlp-and-word-clouds-a-dive-into-yelp-reviews-cf87fda7e2c1?source=rss------data_science-5)
-- [How to simply create box and distribution visuals in Python](https://medium.com/@benhui.ca/how-to-simply-create-box-and-distribution-visuals-in-python-8796dc7e9dfe?source=rss------data_science-5)
-- [How to Learn Using ChatGPT](https://medium.com/geekculture/how-to-learn-using-chatgpt-c10c76b0547b?source=rss------data_science-5)
-- [As a Data Scientist, You Should Know About a Clever Horse Called Hans](https://pub.towardsai.net/as-a-data-scientist-you-should-know-about-a-clever-horse-called-hans-51eab1135a61?source=rss------data_science-5)
-- [NoSQL Database | what it is ? | where to start ?](https://medium.com/@jagadeshjamjalanarayanan/nosql-database-what-it-is-where-to-start-dffc91d2a884?source=rss------data_science-5)
-- [Unlocking the Power of Python Levenshtein: Harnessing the Potential of String Similarity…](https://python.plainenglish.io/unlocking-the-power-of-python-levenshtein-harnessing-the-potential-of-string-similarity-1ed7810bd958?source=rss------data_science-5)
-- [SQL Techniques: How to Impute NULL with Only the First Row?](https://nuo-lei.medium.com/sql-techniques-how-to-impute-null-with-only-the-first-row-b011b8f3bcb5?source=rss------data_science-5)
-- [Getting Started with Machine Learning &lpar;Part 3&rpar;: An Absolute Beginner’s Guide — Intro to PyTorch…](https://medium.com/codex/getting-started-with-machine-learning-part-3-an-absolute-beginners-guide-intro-to-pytorch-8d93362226a9?source=rss------data_science-5)
+- [Undocumented features needed to connect to Amazon SP-API with private Seller applications](https://medium.com/@aev_software/undocumented-features-needed-to-connect-to-amazon-sp-api-with-private-seller-applications-118e819f8d15?source=rss------data_science-5)
+- [Proof the First Impression Rose Matters](https://medium.com/@gambit.eboi/proof-the-first-impression-rose-matters-1b6f114193c?source=rss------data_science-5)
+- [Introducing PyCircular: A Python Library for Circular Data Analysis](https://towardsdatascience.com/introducing-pycircular-a-python-library-for-circular-data-analysis-bfd696a6a42b?source=rss------data_science-5)
+- [Which are the most culturally diverse areas in Australia?](https://medium.com/@hello_8459/which-are-the-most-culturally-diverse-areas-in-australia-95b152ccdbb7?source=rss------data_science-5)
+- [Designing an Interoperable Chemical Knowledge Graph](https://sulstice.medium.com/designing-an-interoperable-chemical-knowledge-graph-605f77d77805?source=rss------data_science-5)
+- [In-built Python Data Structures](https://medium.com/@shivanishankar024/in-built-python-data-structures-fbd23c51023f?source=rss------data_science-5)
+- [Mastering Multilingual Data Analysis: How to Translate a DataFrame?](https://medium.com/analytics-vidhya/mastering-multilingual-data-analysis-how-to-translate-a-dataframe-8607def0da47?source=rss------data_science-5)
+- [Predicting Inpatient Length of Stay in Hospitals](https://medium.com/@lida.tronina/predicting-inpatient-length-of-stay-in-hospitals-b58f832ba7c3?source=rss------data_science-5)
+- [Mastering Joins in SQL and BigQuery: Combining Data from Multiple Tables](https://medium.com/@chriscabena/mastering-joins-in-sql-and-bigquery-combining-data-from-multiple-tables-814af74fc45b?source=rss------data_science-5)
+- [Empowering Business Decisions with Data](https://medium.com/@chriscabena/empowering-business-decisions-with-data-2088af10281a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
