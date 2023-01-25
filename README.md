@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Undocumented features needed to connect to Amazon SP-API with private Seller applications](https://medium.com/@aev_software/undocumented-features-needed-to-connect-to-amazon-sp-api-with-private-seller-applications-118e819f8d15?source=rss------data_science-5)
-- [Proof the First Impression Rose Matters](https://medium.com/@gambit.eboi/proof-the-first-impression-rose-matters-1b6f114193c?source=rss------data_science-5)
-- [Introducing PyCircular: A Python Library for Circular Data Analysis](https://towardsdatascience.com/introducing-pycircular-a-python-library-for-circular-data-analysis-bfd696a6a42b?source=rss------data_science-5)
-- [Which are the most culturally diverse areas in Australia?](https://medium.com/@hello_8459/which-are-the-most-culturally-diverse-areas-in-australia-95b152ccdbb7?source=rss------data_science-5)
-- [Designing an Interoperable Chemical Knowledge Graph](https://sulstice.medium.com/designing-an-interoperable-chemical-knowledge-graph-605f77d77805?source=rss------data_science-5)
-- [In-built Python Data Structures](https://medium.com/@shivanishankar024/in-built-python-data-structures-fbd23c51023f?source=rss------data_science-5)
-- [Mastering Multilingual Data Analysis: How to Translate a DataFrame?](https://medium.com/analytics-vidhya/mastering-multilingual-data-analysis-how-to-translate-a-dataframe-8607def0da47?source=rss------data_science-5)
-- [Predicting Inpatient Length of Stay in Hospitals](https://medium.com/@lida.tronina/predicting-inpatient-length-of-stay-in-hospitals-b58f832ba7c3?source=rss------data_science-5)
-- [Mastering Joins in SQL and BigQuery: Combining Data from Multiple Tables](https://medium.com/@chriscabena/mastering-joins-in-sql-and-bigquery-combining-data-from-multiple-tables-814af74fc45b?source=rss------data_science-5)
-- [Empowering Business Decisions with Data](https://medium.com/@chriscabena/empowering-business-decisions-with-data-2088af10281a?source=rss------data_science-5)
+- [How I Collect Market Data Using Python as a Small Business Owner](https://medium.com/@nastambaugh/how-i-collect-market-data-using-python-as-a-small-business-owner-a7e64716bf71?source=rss------data_science-5)
+- [Blockchain Vs Data Science](https://brinoekanem.medium.com/blockchain-vs-data-science-e3addabf7fb7?source=rss------data_science-5)
+- [Big Data, No Problem: Let’s put Python on Steroids](https://anmol3015.medium.com/big-data-no-problem-lets-put-python-on-steroids-f29c46f18cae?source=rss------data_science-5)
+- [HDFS](https://sonulakra.medium.com/hdfs-51e2d7f211e7?source=rss------data_science-5)
+- [Fixing the Broken Rung: Unlocking Opportunities for Women in Technical Careers through Equitable…](https://jproctor-m-ed-tn.medium.com/fixing-the-broken-rung-unlocking-opportunities-for-women-in-technical-careers-through-equitable-8a625de25fb3?source=rss------data_science-5)
+- [TOP 8 Python Natural Language Processing Libraries [2023]](https://medium.com/@aka54deep90/top-8-python-natural-language-processing-libraries-2023-51e458d2bad3?source=rss------data_science-5)
+- [How I trained AI to watch the Simpsons](https://medium.com/geekculture/how-i-trained-ai-to-watch-the-simpsons-1049f4dc1384?source=rss------data_science-5)
+- [4 Great Python functions to handle JSON data super easily](https://medium.com/@programmingtips/4-great-python-functions-to-handle-json-data-super-easily-fc477eb2c24?source=rss------data_science-5)
+- [What is data sprawling?](https://medium.com/@KranyaProvo/what-is-data-sprawling-900768e831b5?source=rss------data_science-5)
+- [8 Data Gems to Find the Best Location for Real Estate Investment](https://medium.com/@ltorlay/8-data-gems-to-find-the-best-location-for-real-estate-investment-e7566b2ea425?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
