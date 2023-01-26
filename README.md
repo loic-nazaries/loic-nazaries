@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How I Collect Market Data Using Python as a Small Business Owner](https://medium.com/@nastambaugh/how-i-collect-market-data-using-python-as-a-small-business-owner-a7e64716bf71?source=rss------data_science-5)
-- [Blockchain Vs Data Science](https://brinoekanem.medium.com/blockchain-vs-data-science-e3addabf7fb7?source=rss------data_science-5)
-- [Big Data, No Problem: Let’s put Python on Steroids](https://anmol3015.medium.com/big-data-no-problem-lets-put-python-on-steroids-f29c46f18cae?source=rss------data_science-5)
-- [HDFS](https://sonulakra.medium.com/hdfs-51e2d7f211e7?source=rss------data_science-5)
-- [Fixing the Broken Rung: Unlocking Opportunities for Women in Technical Careers through Equitable…](https://jproctor-m-ed-tn.medium.com/fixing-the-broken-rung-unlocking-opportunities-for-women-in-technical-careers-through-equitable-8a625de25fb3?source=rss------data_science-5)
-- [TOP 8 Python Natural Language Processing Libraries [2023]](https://medium.com/@aka54deep90/top-8-python-natural-language-processing-libraries-2023-51e458d2bad3?source=rss------data_science-5)
-- [How I trained AI to watch the Simpsons](https://medium.com/geekculture/how-i-trained-ai-to-watch-the-simpsons-1049f4dc1384?source=rss------data_science-5)
-- [4 Great Python functions to handle JSON data super easily](https://medium.com/@programmingtips/4-great-python-functions-to-handle-json-data-super-easily-fc477eb2c24?source=rss------data_science-5)
-- [What is data sprawling?](https://medium.com/@KranyaProvo/what-is-data-sprawling-900768e831b5?source=rss------data_science-5)
-- [8 Data Gems to Find the Best Location for Real Estate Investment](https://medium.com/@ltorlay/8-data-gems-to-find-the-best-location-for-real-estate-investment-e7566b2ea425?source=rss------data_science-5)
+- [Python Convert JSON to SQLite](https://code-kamran.medium.com/python-convert-json-to-sqlite-d6fa8952a319?source=rss------data_science-5)
+- [Why ONNX Runtime runs 2–3x slower in C++ than Python?](https://code-kamran.medium.com/why-onnx-runtime-runs-2-3x-slower-in-c-than-python-5b4ab36d6641?source=rss------data_science-5)
+- [How can I make a figure with 2 charts, and both charts have dual Y axis in matplotlib?](https://code-kamran.medium.com/how-can-i-make-a-figure-with-2-charts-and-both-charts-have-dual-y-axis-in-matplotlib-84ad741e4301?source=rss------data_science-5)
+- [How to convert string values to numerical values in a dataframe by Python?](https://medium.com/@benhui.ca/how-to-convert-string-values-to-numerical-values-in-a-dataframe-by-python-4a175f2a66b6?source=rss------data_science-5)
+- [Looker Studio: seven ideas for data visualization](https://erickbeltrami.medium.com/looker-studio-seven-ideas-for-data-visualization-50da80cb1b6?source=rss------data_science-5)
+- [Demystifying causal inference in the context of machine learning](https://medium.com/@waielonh/demystifying-causal-inference-in-the-context-of-machine-learning-c0c48a533a56?source=rss------data_science-5)
+- [How to think about Data in terms of strategical assets](https://ahmedomrane.medium.com/how-to-think-about-data-in-terms-of-strategical-assets-fe86b06fbcb0?source=rss------data_science-5)
+- [AI and the future of your job](https://medium.com/@FuturistAI/ai-and-the-future-of-your-job-8c52b98c7a83?source=rss------data_science-5)
+- [Installing Hadoop with Homebrew on Mac M1 and M2 when Java already exists locally.](https://medium.com/@amabocanon/installing-hadoop-with-homebrew-on-mac-m1-and-m2-when-java-already-exists-locally-878ec5bfd414?source=rss------data_science-5)
+- [Sentiment Analysis using Snowpark and Unstructured Data](https://medium.com/snowflake/sentiment-analysis-using-snowpark-and-unstructured-data-6f005fa03cf5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
