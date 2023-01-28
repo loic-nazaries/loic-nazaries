@@ -105,16 +105,14 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Central Limit Theorem — Simple Explanation with Examples](https://medium.com/@sarmadc45/central-limit-theorem-simple-explanation-with-examples-bcb087c79ee1?source=rss------data_science-5)
-- [Visualizing Street Tree Population Variance in NYC using GeoPandas, Plotly, and JavaScript](https://medium.com/@jclayton0004/visualizing-street-tree-population-variance-in-nyc-using-geopandas-plotly-and-javascript-f12251186342?source=rss------data_science-5)
-- [Tipos de algoritmos de aprendizado de máquina &lpar;Machine Learning Algorithms&rpar;](https://medium.com/@schonsluuiz/tipos-de-algoritmos-de-aprendizado-de-m%C3%A1quina-machine-learning-algorithms-2a6ee81241b3?source=rss------data_science-5)
-- [RFM ANALYSIS](https://medium.com/@askintamanli/rfm-analysis-aa6028913215?source=rss------data_science-5)
-- [Unleashing the Power of GPT-3 for Product Creation: Transforming User Comments into Actionable…](https://medium.com/@raphael.nguyenvan/unleashing-the-power-of-gpt-3-for-product-creation-transforming-user-comments-into-actionable-975341ce4571?source=rss------data_science-5)
-- [Data Science using Python: Essential Libraries and Frameworks](https://data-reads.medium.com/data-science-using-python-essential-libraries-and-frameworks-289a7cb98bc8?source=rss------data_science-5)
-- [Framework vs Library: Understanding the Differences in Data Science](https://medium.com/@Ora-kle/framework-vs-library-understanding-the-differences-in-data-science-7da077db7d2c?source=rss------data_science-5)
-- [♦️ Study Coding With The Code Of These 5 Angular Apps](https://tomaszs2.medium.com/%EF%B8%8F-5-open-inspirational-angular-apps-c5def72e0e41?source=rss------data_science-5)
-- [Beyond Restaurant Inflation](https://lukianoff.medium.com/beyond-restaurant-inflation-34b5f2aa8acb?source=rss------data_science-5)
-- [Develop a streamlit app for facial similarity](https://medium.com/@starrywheat.dm/develop-a-streamlit-app-for-facial-similarity-dc8f3fc34c0f?source=rss------data_science-5)
+- [Data Integrity: Why Uniqueness, Referential Integrity, and Mandatory Fields Matter](https://medium.com/@cesarfelix/data-integrity-why-uniqueness-referential-integrity-and-mandatory-fields-matter-b4c9a475bb9f?source=rss------data_science-5)
+- [Batch conversion of SPSS files to Excel using R](https://infoart.medium.com/batch-conversion-of-spss-files-to-excel-using-r-ffb3919a2fba?source=rss------data_science-5)
+- [Understanding Intelligence, Knowledge, Data, Information, AGI, Superintelligence And Responsible AI](https://medium.com/@kelixirr/understanding-intelligence-knowledge-data-information-agi-superintelligence-and-responsible-ai-fbf024880518?source=rss------data_science-5)
+- [Analyzing air quality data of Delhi](https://hemantbhambhu.medium.com/analyzing-air-quality-data-of-delhi-930e03d3ffbb?source=rss------data_science-5)
+- [Data Science with Python](https://medium.com/@rvanna5954/introduction-e2439840f747?source=rss------data_science-5)
+- [Take Your 1st Step to Data-Related JOBS with Python](https://medium.com/aatomz-research/take-your-1st-step-to-data-related-jobs-with-python-578e3f01a026?source=rss------data_science-5)
+- [How YouTube Music Knows Your Musical Tastes Better Than You Do](https://medium.com/@michaelf663/how-youtube-music-knows-your-musical-tastes-better-than-you-do-85cfc8724eb1?source=rss------data_science-5)
+- [Unlocking the Power of Machine Learning: A Beginner’s Guide](https://medium.com/@little_clay_man/unlocking-the-power-of-machine-learning-a-beginners-guide-b9b805dd8bcf?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
