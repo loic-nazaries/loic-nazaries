@@ -105,14 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Integrity: Why Uniqueness, Referential Integrity, and Mandatory Fields Matter](https://medium.com/@cesarfelix/data-integrity-why-uniqueness-referential-integrity-and-mandatory-fields-matter-b4c9a475bb9f?source=rss------data_science-5)
-- [Batch conversion of SPSS files to Excel using R](https://infoart.medium.com/batch-conversion-of-spss-files-to-excel-using-r-ffb3919a2fba?source=rss------data_science-5)
-- [Understanding Intelligence, Knowledge, Data, Information, AGI, Superintelligence And Responsible AI](https://medium.com/@kelixirr/understanding-intelligence-knowledge-data-information-agi-superintelligence-and-responsible-ai-fbf024880518?source=rss------data_science-5)
-- [Analyzing air quality data of Delhi](https://hemantbhambhu.medium.com/analyzing-air-quality-data-of-delhi-930e03d3ffbb?source=rss------data_science-5)
-- [Data Science with Python](https://medium.com/@rvanna5954/introduction-e2439840f747?source=rss------data_science-5)
-- [Take Your 1st Step to Data-Related JOBS with Python](https://medium.com/aatomz-research/take-your-1st-step-to-data-related-jobs-with-python-578e3f01a026?source=rss------data_science-5)
-- [How YouTube Music Knows Your Musical Tastes Better Than You Do](https://medium.com/@michaelf663/how-youtube-music-knows-your-musical-tastes-better-than-you-do-85cfc8724eb1?source=rss------data_science-5)
-- [Unlocking the Power of Machine Learning: A Beginner’s Guide](https://medium.com/@little_clay_man/unlocking-the-power-of-machine-learning-a-beginners-guide-b9b805dd8bcf?source=rss------data_science-5)
+- [What Everyone in Data Analytics Pretends to Know but is Afraid to Ask](https://medium.com/@chrislee8812/what-everyone-in-data-analytics-pretends-to-know-but-is-afraid-to-ask-dccbf0ba24c1?source=rss------data_science-5)
+- [6 Jobs that could disappear because of the development of artificial intelligence “AI”](https://medium.com/@hashemhaswah/6-jobs-that-could-disappear-because-of-the-development-of-artificial-intelligence-ai-9c3ce6c9e412?source=rss------data_science-5)
+- [“Achieving Data Insight with Python: A Review of the Top Visualization Libraries”](https://medium.com/@nomicnetwork/achieving-data-insight-with-python-a-review-of-the-top-visualization-libraries-af54c16e92fd?source=rss------data_science-5)
+- [Dealing with Imbalanced Dataset &lpar;Company Bankruptcy Prediction&rpar;](https://saurabhraj5162.medium.com/dealing-with-imbalanced-dataset-company-bankruptcy-prediction-9e4588bb8a1f?source=rss------data_science-5)
+- [Hidden Patterns in Street Names: a Data Science Story [Part 1]](https://towardsdatascience.com/hidden-patterns-in-street-names-a-data-science-story-part-1-82c8dd130693?source=rss------data_science-5)
+- [TRUST ME](https://medium.com/@mercydufieboateng/trust-me-cab0a894e863?source=rss------data_science-5)
+- [What Makes Computer Vision AI Development So Risky?](https://pub.towardsai.net/what-makes-computer-vision-ai-development-so-risky-8293f1070f2f?source=rss------data_science-5)
+- [What if Patrick Bateman was a Data Scientist? An AI-Generated Video](https://medium.com/@dreamferus/what-if-patrick-bateman-was-a-data-scientist-an-ai-generated-video-342003f60914?source=rss------data_science-5)
+- [Top 10 Towers of the future upcoming years](https://medium.com/@renzohouten/top-10-towers-of-the-future-upcoming-years-7739de413c97?source=rss------data_science-5)
+- [Sistemas de Recomendación con Surprise-Python](https://medium.com/@d.martin.lopez.1972/sistemas-de-recomendaci%C3%B3n-con-surprise-python-30cc10cb6792?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
