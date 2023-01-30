@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What Everyone in Data Analytics Pretends to Know but is Afraid to Ask](https://medium.com/@chrislee8812/what-everyone-in-data-analytics-pretends-to-know-but-is-afraid-to-ask-dccbf0ba24c1?source=rss------data_science-5)
-- [6 Jobs that could disappear because of the development of artificial intelligence “AI”](https://medium.com/@hashemhaswah/6-jobs-that-could-disappear-because-of-the-development-of-artificial-intelligence-ai-9c3ce6c9e412?source=rss------data_science-5)
-- [“Achieving Data Insight with Python: A Review of the Top Visualization Libraries”](https://medium.com/@nomicnetwork/achieving-data-insight-with-python-a-review-of-the-top-visualization-libraries-af54c16e92fd?source=rss------data_science-5)
-- [Dealing with Imbalanced Dataset &lpar;Company Bankruptcy Prediction&rpar;](https://saurabhraj5162.medium.com/dealing-with-imbalanced-dataset-company-bankruptcy-prediction-9e4588bb8a1f?source=rss------data_science-5)
-- [Hidden Patterns in Street Names: a Data Science Story [Part 1]](https://towardsdatascience.com/hidden-patterns-in-street-names-a-data-science-story-part-1-82c8dd130693?source=rss------data_science-5)
-- [TRUST ME](https://medium.com/@mercydufieboateng/trust-me-cab0a894e863?source=rss------data_science-5)
-- [What Makes Computer Vision AI Development So Risky?](https://pub.towardsai.net/what-makes-computer-vision-ai-development-so-risky-8293f1070f2f?source=rss------data_science-5)
-- [What if Patrick Bateman was a Data Scientist? An AI-Generated Video](https://medium.com/@dreamferus/what-if-patrick-bateman-was-a-data-scientist-an-ai-generated-video-342003f60914?source=rss------data_science-5)
-- [Top 10 Towers of the future upcoming years](https://medium.com/@renzohouten/top-10-towers-of-the-future-upcoming-years-7739de413c97?source=rss------data_science-5)
-- [Sistemas de Recomendación con Surprise-Python](https://medium.com/@d.martin.lopez.1972/sistemas-de-recomendaci%C3%B3n-con-surprise-python-30cc10cb6792?source=rss------data_science-5)
+- [Librería Surprise y los Sistemas de Recomendación](https://medium.com/@salmaguzmanf/librer%C3%ADa-surprise-y-los-sistemas-de-recomendaci%C3%B3n-b33bef03f508?source=rss------data_science-5)
+- [FFNN-LM: Feed Forward Neural Network Language Model](https://medium.com/@mikueen/ffnn-lm-feed-forward-neural-network-language-model-8925f7e2a0ab?source=rss------data_science-5)
+- [Ready to enhance your cyber security skills?](https://medium.com/@saadzahouane/ready-to-enhance-your-cyber-security-skills-322d6edd7811?source=rss------data_science-5)
+- [Temporal and Geo-referenced Traffic Management with Python+Streamlit](https://joaopedro214.medium.com/temporal-and-geo-referenced-traffic-management-with-python-streamlit-2b9d596e4789?source=rss------data_science-5)
+- [Entendendo Regressões Lineares e Interpretando o OLS.summary&lpar;&rpar; do StatsModels](https://paulogb.medium.com/entendendo-regress%C3%B5es-lineares-e-interpretando-o-ols-summary-do-statsmodels-40832a89c84f?source=rss------data_science-5)
+- [[Paper Review] Chi-square Tests with One Degree of Freedom; Extensions of the Mantel-Haenszel…](https://medium.com/@medi_seul/paper-review-chi-square-tests-with-one-degree-of-freedom-extensions-of-the-mantel-haenszel-d41c2b3418ce?source=rss------data_science-5)
+- [Applied Data Science for Beginners | How to delete duplicates from Pandas DataFrame in Python](https://medium.com/@HalderNilimesh/applied-data-science-for-beginners-how-to-delete-duplicates-from-pandas-dataframe-in-python-f95241e976d?source=rss------data_science-5)
+- [Restaurant Revenue Prediction using Machine Learning](https://abdulmajid986.medium.com/restaurant-revenue-prediction-using-machine-learning-fa4bae707c6f?source=rss------data_science-5)
+- [Classifying Music Genres Based on Song Lyrics](https://medium.com/@joshuadavidgottlieb/classifying-music-genres-based-on-song-lyrics-dc380a281954?source=rss------data_science-5)
+- [ARP Explained – The Vital Protocol for Network Communication](https://kendal-percimoney.medium.com/arp-explained-the-vital-protocol-for-network-communication-316e33adfff0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
