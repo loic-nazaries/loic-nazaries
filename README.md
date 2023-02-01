@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Drive Business Revenue via Revenue Growth Management &lpar;RGM&rpar;](https://kuanhoong.medium.com/drive-business-revenue-via-revenue-growth-management-rgm-8d21121f7047?source=rss------data_science-5)
-- [&quot;SQL vs NoSQL: Understanding the Key Differences for Data Management&quot;](https://dnazevedo.medium.com/sql-vs-nosql-understanding-the-key-differences-for-data-management-9b5281af7ebe?source=rss------data_science-5)
-- [Demystifying entropy and cross-entropy in data science, with a simple example](https://medium.com/@serena049/demystifying-entropy-and-cross-entropy-in-data-science-with-a-simple-example-67da9da1e74?source=rss------data_science-5)
-- [Why do you want to start a data science career?](https://medium.com/@taoshentai/why-do-you-want-to-start-a-data-science-career-7854743f29c0?source=rss------data_science-5)
-- [5 Amazing Ways Pro Developers Use ‘CASE WHEN’ in SQL](https://anmol3015.medium.com/5-amazing-ways-pro-developers-use-case-when-in-sql-26b193a30245?source=rss------data_science-5)
-- [Decision Tree Classification: Machine Learning](https://medium.com/@chuntcdj/decision-tree-classification-machine-learning-ae3b87d18c53?source=rss------data_science-5)
-- [Finding a niche in the tech space](https://medium.com/@ikenjokudc/finding-a-niche-in-the-tech-space-b3fc2b9dc2a2?source=rss------data_science-5)
-- [Probability and Statistics from Scratch in Julia](https://medium.com/@BeingOttoman/probability-and-statistics-from-scratch-in-julia-de868a0b2ffd?source=rss------data_science-5)
-- [Journey to Time &lpar;Part X.1&rpar;: Models](https://medium.com/@hisham_elamir/journey-to-time-part-x-1-models-687433dcde2a?source=rss------data_science-5)
-- [Can you Really Time the Stock Market? Maybe!](https://medium.com/@lee_vaughan/can-you-really-time-the-stock-market-maybe-993200300562?source=rss------data_science-5)
+- [Brush up your interview skills with ChatGPT](https://kapastor.medium.com/brush-up-your-interview-skills-with-chatgpt-37fbca317f5d?source=rss------data_science-5)
+- [Previsão de cancelamento de reservas](https://medium.com/@edersonoliveira/previs%C3%A3o-de-cancelamento-de-reservas-2d1746d033ec?source=rss------data_science-5)
+- [Surprise Scikit para Sistemas de Recomendacion en Python.](https://medium.com/@masterdps2022/surprise-scikit-para-sistemas-de-recomendacion-en-python-e99d83dd7078?source=rss------data_science-5)
+- [Data Engineering Interviewing Important Topics](https://medium.com/@abhimba1992/data-engineering-interviewing-important-topics-6a65920d5103?source=rss------data_science-5)
+- [“Unlock the Power of Deep Learning: Learn From the Top Universities”](https://medium.com/generative-ai-lab/unlock-the-power-of-deep-learning-learn-from-the-top-universities-7b8b59361847?source=rss------data_science-5)
+- [“Making the Switch: A Guide for Non-Data Science Professionals to Break into the Field”](https://medium.com/@adityaraj2393/making-the-switch-a-guide-for-non-data-science-professionals-to-break-into-the-field-dcebb503ebe7?source=rss------data_science-5)
+- [On the shifting landscape of YC batches &lpar;2023 update&rpar;](https://jaredheyman.medium.com/on-the-shifting-landscape-of-yc-batches-2023-update-af2daba7cc1e?source=rss------data_science-5)
+- [Build Strong Deep Learning Foundations By Learning From Top Universities](https://pub.towardsai.net/build-strong-deep-learning-foundations-by-learning-from-top-universities-a7f8680a98da?source=rss------data_science-5)
+- [“20 Surefire Ways to Maximize Your Advantage as a Julia Programmer”](https://medium.com/generative-ai-lab/20-surefire-ways-to-maximize-your-advantage-as-a-julia-programmer-d41eec53b527?source=rss------data_science-5)
+- [O que é Ciência de Dados?](https://medium.com/@elieser_ribeiro/o-que-%C3%A9-ci%C3%AAncia-de-dados-5b2654b9fa08?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
