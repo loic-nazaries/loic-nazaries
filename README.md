@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Brush up your interview skills with ChatGPT](https://kapastor.medium.com/brush-up-your-interview-skills-with-chatgpt-37fbca317f5d?source=rss------data_science-5)
-- [Previsão de cancelamento de reservas](https://medium.com/@edersonoliveira/previs%C3%A3o-de-cancelamento-de-reservas-2d1746d033ec?source=rss------data_science-5)
-- [Surprise Scikit para Sistemas de Recomendacion en Python.](https://medium.com/@masterdps2022/surprise-scikit-para-sistemas-de-recomendacion-en-python-e99d83dd7078?source=rss------data_science-5)
-- [Data Engineering Interviewing Important Topics](https://medium.com/@abhimba1992/data-engineering-interviewing-important-topics-6a65920d5103?source=rss------data_science-5)
-- [“Unlock the Power of Deep Learning: Learn From the Top Universities”](https://medium.com/generative-ai-lab/unlock-the-power-of-deep-learning-learn-from-the-top-universities-7b8b59361847?source=rss------data_science-5)
-- [“Making the Switch: A Guide for Non-Data Science Professionals to Break into the Field”](https://medium.com/@adityaraj2393/making-the-switch-a-guide-for-non-data-science-professionals-to-break-into-the-field-dcebb503ebe7?source=rss------data_science-5)
-- [On the shifting landscape of YC batches &lpar;2023 update&rpar;](https://jaredheyman.medium.com/on-the-shifting-landscape-of-yc-batches-2023-update-af2daba7cc1e?source=rss------data_science-5)
-- [Build Strong Deep Learning Foundations By Learning From Top Universities](https://pub.towardsai.net/build-strong-deep-learning-foundations-by-learning-from-top-universities-a7f8680a98da?source=rss------data_science-5)
-- [“20 Surefire Ways to Maximize Your Advantage as a Julia Programmer”](https://medium.com/generative-ai-lab/20-surefire-ways-to-maximize-your-advantage-as-a-julia-programmer-d41eec53b527?source=rss------data_science-5)
-- [O que é Ciência de Dados?](https://medium.com/@elieser_ribeiro/o-que-%C3%A9-ci%C3%AAncia-de-dados-5b2654b9fa08?source=rss------data_science-5)
+- [Microsoft is Elevating Virtual Meetings with the Power of Chat GPT Technology](https://e2analyst.medium.com/microsoft-is-elevating-virtual-meetings-with-the-power-of-chat-gpt-technology-f8539ccc7be8?source=rss------data_science-5)
+- [Use Data Science In Banking &lpar;Complete Guide&rpar;](https://medium.com/@jasonrbodie/use-data-science-in-banking-complete-guide-9920977f80e8?source=rss------data_science-5)
+- [UN PET Lab’s Hackathon: ONS Data Science Team in Top 3 share their approach](https://medium.com/@oblv/un-pet-labs-hackathon-ons-data-science-team-in-top-3-share-their-approach-a843c59b07e3?source=rss------data_science-5)
+- [“Mastering Parquet Performance: The Filtering Finale”](https://medium.com/generative-ai-lab/mastering-parquet-performance-the-filtering-finale-536177c8eee0?source=rss------data_science-5)
+- [AI-Powered Fraud Prediction: A Game Changer in Financial Security?](https://medium.com/@minhanh.dongnguyen/ai-powered-fraud-prediction-a-game-changer-in-financial-security-3e3e7e6529ab?source=rss------data_science-5)
+- [Coming SOON! OpenAI ChatGPT Monthly FEE](https://medium.com/@dclappnc/coming-soon-openai-chatgpt-monthly-fee-5ce3fab6e02a?source=rss------data_science-5)
+- [Use Data Science In Agriculture &lpar;Everything You Need To Know&rpar;](https://medium.com/@jasonrbodie/use-data-science-in-agriculture-everything-you-need-to-know-d5ef00d5b950?source=rss------data_science-5)
+- [Parquet Best Practices: The Art of Filtering](https://pub.towardsai.net/parquet-best-practices-the-art-of-filtering-d729357e441d?source=rss------data_science-5)
+- [T2EP2 — Martín Easdale | Machine Learning Manager en Mercado Libre](https://inteligenciacolectiva.ai/t2ep2-mart%C3%ADn-easdale-machine-learning-manager-en-mercado-libre-d030a7d7c098?source=rss------data_science-5)
+- [The Walmart.com Journey Towards Spanish Query Understanding &lpar;Part 1&rpar;](https://medium.com/walmartglobaltech/the-walmart-com-journey-towards-spanish-query-understanding-part-1-e08e3b348dcc?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
