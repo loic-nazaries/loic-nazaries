@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Principal Component Analysis for Dummies: Understanding without Equations](https://medium.com/@jdseo/principal-component-analysis-for-dummies-understanding-without-equations-ab462566a75e?source=rss------data_science-5)
-- [What is Apache Kafka?](https://medium.com/@humbertorendonr/what-is-apache-kafka-828b627924e7?source=rss------data_science-5)
-- [7 quick steps for effective plots with Matplotlib](https://medium.com/@marc.eksteen/7-quick-steps-for-effective-plots-with-matplotlib-b5cf093a889d?source=rss------data_science-5)
-- [Day 5 — Altering and Deleting data](https://towardsdev.com/day-5-altering-and-deleting-data-74ff5fae69cb?source=rss------data_science-5)
-- [The creative stream state occurs frequently for me](https://medium.com/@maxwellruby03/the-creative-stream-state-occurs-frequently-for-me-da022f26f9ca?source=rss------data_science-5)
-- [Aprendendo sobre Data Science](https://medium.com/@barbaraest.sr/aprendendo-sobre-data-science-a16febac3c5c?source=rss------data_science-5)
-- [Python Framework to Connect to Any Relational Database](https://medium.com/@jagadeshjamjalanarayanan/python-framework-to-connect-to-any-relational-database-eddac663220a?source=rss------data_science-5)
-- [Document Recognition using Azure Services](https://medium.com/@paunikarsuhas4/document-recognition-using-azure-services-1c272e238152?source=rss------data_science-5)
-- [I use these 2 apps to meet 80% of my note-taking needs](https://medium.com/mlearning-ai/i-use-these-2-apps-to-meet-80-of-my-note-taking-needs-4dcc0f8feb6?source=rss------data_science-5)
-- [Plotando um Mapa de Previsão de Tempo &lpar;modelo GFS&rpar; com Python](https://medium.com/@livalvzs/plotando-um-mapa-de-previs%C3%A3o-de-tempo-modelo-gfs-com-python-9fb2823b0d3?source=rss------data_science-5)
+- [Building your &lt;Python&gt; Knowledge](https://medium.com/@tenicka.norwood/building-your-python-knowledge-3348a7556737?source=rss------data_science-5)
+- [Maximizing the Power of Scatter Plots in R with ggplot2 — part 6 of “R for Applied Economics” guide](https://medium.com/@the_lord_of_the_R/maximizing-the-power-of-scatter-plots-in-r-with-ggplot2-part-6-of-r-for-applied-economics-guide-230aa2e8fd02?source=rss------data_science-5)
+- [Hi! This is My First Post](https://medium.com/@wennychandrasari/hi-this-is-my-first-post-5a92a0ce204b?source=rss------data_science-5)
+- [Make Your Charts More Eye-Catching and Informative in Matplotlib](https://abduygur.medium.com/make-your-charts-more-eye-catching-and-informative-in-matplotlib-90ee61de8c1e?source=rss------data_science-5)
+- [Add a random ID column to a pandas DataFrame using Numpy](https://blog.datasyndrome.com/add-a-random-id-column-to-a-pandas-dataframe-using-numpy-f99dea2b8831?source=rss------data_science-5)
+- [Unleashing the hidden potential of “Common Table Expressions”](https://bootcamp.uxdesign.cc/unleashing-the-hidden-potential-of-common-table-expressions-44278fdaa62c?source=rss------data_science-5)
+- [How to take on a ‘WTF?!?’ math problem](https://keith-mcnulty.medium.com/how-to-take-on-a-wtf-math-problem-8faef4459578?source=rss------data_science-5)
+- [Back To Basics, Part Dos: Linear Regression, Cost Function, and Gradient Descent](https://towardsdatascience.com/back-to-basics-part-dos-linear-regression-cost-function-and-gradient-descent-e3d7d05c56fd?source=rss------data_science-5)
+- [“Ditch These 7 Habits to Become a More Productive Data Scientist”](https://medium.com/generative-ai-lab/ditch-these-7-habits-to-become-a-more-productive-data-scientist-6a3de0d7e413?source=rss------data_science-5)
+- [“Unlock the Power of Data: Discovering the Optimal Theoretical Distribution for Maximum Results”](https://medium.com/generative-ai-lab/unlock-the-power-of-data-discovering-the-optimal-theoretical-distribution-for-maximum-results-f529ad280bc6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
