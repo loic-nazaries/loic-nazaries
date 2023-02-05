@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Building your &lt;Python&gt; Knowledge](https://medium.com/@tenicka.norwood/building-your-python-knowledge-3348a7556737?source=rss------data_science-5)
-- [Maximizing the Power of Scatter Plots in R with ggplot2 — part 6 of “R for Applied Economics” guide](https://medium.com/@the_lord_of_the_R/maximizing-the-power-of-scatter-plots-in-r-with-ggplot2-part-6-of-r-for-applied-economics-guide-230aa2e8fd02?source=rss------data_science-5)
-- [Hi! This is My First Post](https://medium.com/@wennychandrasari/hi-this-is-my-first-post-5a92a0ce204b?source=rss------data_science-5)
-- [Make Your Charts More Eye-Catching and Informative in Matplotlib](https://abduygur.medium.com/make-your-charts-more-eye-catching-and-informative-in-matplotlib-90ee61de8c1e?source=rss------data_science-5)
-- [Add a random ID column to a pandas DataFrame using Numpy](https://blog.datasyndrome.com/add-a-random-id-column-to-a-pandas-dataframe-using-numpy-f99dea2b8831?source=rss------data_science-5)
-- [Unleashing the hidden potential of “Common Table Expressions”](https://bootcamp.uxdesign.cc/unleashing-the-hidden-potential-of-common-table-expressions-44278fdaa62c?source=rss------data_science-5)
-- [How to take on a ‘WTF?!?’ math problem](https://keith-mcnulty.medium.com/how-to-take-on-a-wtf-math-problem-8faef4459578?source=rss------data_science-5)
-- [Back To Basics, Part Dos: Linear Regression, Cost Function, and Gradient Descent](https://towardsdatascience.com/back-to-basics-part-dos-linear-regression-cost-function-and-gradient-descent-e3d7d05c56fd?source=rss------data_science-5)
-- [“Ditch These 7 Habits to Become a More Productive Data Scientist”](https://medium.com/generative-ai-lab/ditch-these-7-habits-to-become-a-more-productive-data-scientist-6a3de0d7e413?source=rss------data_science-5)
-- [“Unlock the Power of Data: Discovering the Optimal Theoretical Distribution for Maximum Results”](https://medium.com/generative-ai-lab/unlock-the-power-of-data-discovering-the-optimal-theoretical-distribution-for-maximum-results-f529ad280bc6?source=rss------data_science-5)
+- [Multiple Linear Regression in Python](https://medium.com/@shuv.sdr/multiple-linear-regression-in-python-4ee79d763e8f?source=rss------data_science-5)
+- [Standard Deviation and Standard Error of the Mean](https://medium.com/@treshepard9905/standard-deviation-and-standard-error-of-the-mean-7380b8125388?source=rss------data_science-5)
+- [A Detailed Pre-processing Machine Learning with Python &lpar;+Notebook&rpar;](https://medium.com/@anello92.ai/a-detailed-pre-processing-machine-learning-with-python-notebook-c13ebda334a0?source=rss------data_science-5)
+- [Data Mesh or Data Meh?!](https://medium.com/be-data-driven/data-mesh-or-data-meh-a815b4d2c242?source=rss------data_science-5)
+- [Top 5 Decision Tree Interview Questions for Data Science and Machine Learning](https://medium.com/@AmyGrabNGoInfo/top-5-decision-tree-interview-questions-for-data-science-and-machine-learning-f4a9113ce27a?source=rss------data_science-5)
+- [Top 15 Most Frequently Used Functions in Seaborn](https://medium.com/@anello92.ai/top-15-most-frequently-used-functions-in-seaborn-b99b0cbe20d4?source=rss------data_science-5)
+- [Loading Data from a Relational Database to Amazon S3 and Redshift using Python](https://medium.com/@jagadeshjamjalanarayanan/loading-data-from-a-relational-database-to-amazon-s3-and-redshift-using-python-3832462ac7ea?source=rss------data_science-5)
+- [Uncovering the Top 15 Functions of Pandas Library](https://medium.com/@anello92.ai/uncovering-the-top-15-power-functions-of-python-pandas-library-27b018c68b83?source=rss------data_science-5)
+- [The Most In-Demand Libraries in Python](https://medium.com/@anello92.ai/the-most-in-demand-libraries-in-python-ce7752394642?source=rss------data_science-5)
+- [Time Test: ChatGPT Plus vs. ChatGPT](https://medium.com/@kevin.menear/time-test-chatgpt-plus-vs-chatgpt-fb85a990cedd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
