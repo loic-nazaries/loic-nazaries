@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Multiple Linear Regression in Python](https://medium.com/@shuv.sdr/multiple-linear-regression-in-python-4ee79d763e8f?source=rss------data_science-5)
-- [Standard Deviation and Standard Error of the Mean](https://medium.com/@treshepard9905/standard-deviation-and-standard-error-of-the-mean-7380b8125388?source=rss------data_science-5)
-- [A Detailed Pre-processing Machine Learning with Python &lpar;+Notebook&rpar;](https://medium.com/@anello92.ai/a-detailed-pre-processing-machine-learning-with-python-notebook-c13ebda334a0?source=rss------data_science-5)
-- [Data Mesh or Data Meh?!](https://medium.com/be-data-driven/data-mesh-or-data-meh-a815b4d2c242?source=rss------data_science-5)
-- [Top 5 Decision Tree Interview Questions for Data Science and Machine Learning](https://medium.com/@AmyGrabNGoInfo/top-5-decision-tree-interview-questions-for-data-science-and-machine-learning-f4a9113ce27a?source=rss------data_science-5)
-- [Top 15 Most Frequently Used Functions in Seaborn](https://medium.com/@anello92.ai/top-15-most-frequently-used-functions-in-seaborn-b99b0cbe20d4?source=rss------data_science-5)
-- [Loading Data from a Relational Database to Amazon S3 and Redshift using Python](https://medium.com/@jagadeshjamjalanarayanan/loading-data-from-a-relational-database-to-amazon-s3-and-redshift-using-python-3832462ac7ea?source=rss------data_science-5)
-- [Uncovering the Top 15 Functions of Pandas Library](https://medium.com/@anello92.ai/uncovering-the-top-15-power-functions-of-python-pandas-library-27b018c68b83?source=rss------data_science-5)
-- [The Most In-Demand Libraries in Python](https://medium.com/@anello92.ai/the-most-in-demand-libraries-in-python-ce7752394642?source=rss------data_science-5)
-- [Time Test: ChatGPT Plus vs. ChatGPT](https://medium.com/@kevin.menear/time-test-chatgpt-plus-vs-chatgpt-fb85a990cedd?source=rss------data_science-5)
+- [Exploring and Cleaning Data with SQL](https://johnvastola.medium.com/exploring-and-cleaning-data-with-sql-2afa3dd37759?source=rss------data_science-5)
+- [Machine Learning with SciKit-Learn](https://medium.com/@conlons628/machine-learning-with-scikit-learn-154dc8d0ec86?source=rss------data_science-5)
+- [Cost-Efficient Data Modernization with Lakehouse](https://medium.com/@derek.yeager/cost-efficient-data-modernization-with-lakehouse-37f67133315f?source=rss------data_science-5)
+- [Why I dislike Delta Live Tables](https://afroinfotech.medium.com/why-i-dislike-delta-live-tables-f9370cc58e77?source=rss------data_science-5)
+- [Analytics is a solved problem](https://medium.com/@dmitrimirakyan/analytics-is-a-solved-problem-fecc4a61e0ae?source=rss------data_science-5)
+- [“The Return of Ask Jeeves: How AI is Reviving a Classic Search Engine!”](https://medium.com/generative-ai-lab/the-return-of-ask-jeeves-how-ai-is-reviving-a-classic-search-engine-dfe116f8e5be?source=rss------data_science-5)
+- [在美商業分析研究所MSBA求職：經濟下行時，你需要知道自己想要甚麼、更需要知道你哪裡獨特！](https://henryfeng.medium.com/%E5%9C%A8%E7%BE%8E%E5%95%86%E6%A5%AD%E5%88%86%E6%9E%90%E7%A0%94%E7%A9%B6%E6%89%80msba%E6%B1%82%E8%81%B7-%E7%B6%93%E6%BF%9F%E4%B8%8B%E8%A1%8C%E6%99%82-%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%83%B3%E8%A6%81%E7%94%9A%E9%BA%BC-%E6%9B%B4%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E4%BD%A0%E5%9C%A8%E5%93%AA%E8%A3%A1%E7%8D%A8%E7%89%B9-a4b20de80a49?source=rss------data_science-5)
+- [How Data Science is Helping in Cyber Security Threats?](https://abdulmoiz121.medium.com/how-data-science-is-helping-in-cyber-security-threats-4c3f7f2dcd65?source=rss------data_science-5)
+- [3 Important Machine Learning ideas to dominate 2023.](https://machine-learning-made-simple.medium.com/3-important-machine-learning-ideas-to-dominate-2023-b8b034666211?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
