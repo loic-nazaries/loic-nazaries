@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Exploring and Cleaning Data with SQL](https://johnvastola.medium.com/exploring-and-cleaning-data-with-sql-2afa3dd37759?source=rss------data_science-5)
-- [Machine Learning with SciKit-Learn](https://medium.com/@conlons628/machine-learning-with-scikit-learn-154dc8d0ec86?source=rss------data_science-5)
-- [Cost-Efficient Data Modernization with Lakehouse](https://medium.com/@derek.yeager/cost-efficient-data-modernization-with-lakehouse-37f67133315f?source=rss------data_science-5)
-- [Why I dislike Delta Live Tables](https://afroinfotech.medium.com/why-i-dislike-delta-live-tables-f9370cc58e77?source=rss------data_science-5)
-- [Analytics is a solved problem](https://medium.com/@dmitrimirakyan/analytics-is-a-solved-problem-fecc4a61e0ae?source=rss------data_science-5)
-- [“The Return of Ask Jeeves: How AI is Reviving a Classic Search Engine!”](https://medium.com/generative-ai-lab/the-return-of-ask-jeeves-how-ai-is-reviving-a-classic-search-engine-dfe116f8e5be?source=rss------data_science-5)
-- [在美商業分析研究所MSBA求職：經濟下行時，你需要知道自己想要甚麼、更需要知道你哪裡獨特！](https://henryfeng.medium.com/%E5%9C%A8%E7%BE%8E%E5%95%86%E6%A5%AD%E5%88%86%E6%9E%90%E7%A0%94%E7%A9%B6%E6%89%80msba%E6%B1%82%E8%81%B7-%E7%B6%93%E6%BF%9F%E4%B8%8B%E8%A1%8C%E6%99%82-%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%83%B3%E8%A6%81%E7%94%9A%E9%BA%BC-%E6%9B%B4%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E4%BD%A0%E5%9C%A8%E5%93%AA%E8%A3%A1%E7%8D%A8%E7%89%B9-a4b20de80a49?source=rss------data_science-5)
-- [How Data Science is Helping in Cyber Security Threats?](https://abdulmoiz121.medium.com/how-data-science-is-helping-in-cyber-security-threats-4c3f7f2dcd65?source=rss------data_science-5)
-- [3 Important Machine Learning ideas to dominate 2023.](https://machine-learning-made-simple.medium.com/3-important-machine-learning-ideas-to-dominate-2023-b8b034666211?source=rss------data_science-5)
+- [Bard: Google releases ChatGPT Competitor That Will Respond Using Current Data](https://pub.towardsai.net/bard-google-releases-chatgpt-competitor-that-will-respond-using-current-data-3ad670865666?source=rss------data_science-5)
+- [Developing a Diverse and Inclusive Workforce in Data Science](https://medium.com/@dssberkeley/developing-a-diverse-and-inclusive-workforce-in-data-science-29b4d7791652?source=rss------data_science-5)
+- [Read This Post Before Buying a House in Canada](https://medium.com/@olaitannn/read-this-post-before-buying-a-house-in-canada-1658f28d678b?source=rss------data_science-5)
+- [Phase 2 DSC Blog: scikit-learn](https://medium.com/@pschulk/phase-2-dsc-blog-scikit-learn-4e5ac7bf5400?source=rss------data_science-5)
+- [Simple Machine Learning Case Study: Mushroom Classification](https://medium.com/@naufaldy_pr/simple-machine-learning-case-study-mushroom-classification-afeb7445b89b?source=rss------data_science-5)
+- [Garbage in, garbage out](https://medium.com/@jameswhurley95/garbage-in-garbage-out-a6536d364a80?source=rss------data_science-5)
+- [Mastering the Art of SQL JOINs: A Comprehensive Guide for Data Professionals](https://medium.com/unlocking-the-power-of-data-with-sql/mastering-the-art-of-sql-joins-a-comprehensive-guide-for-data-professionals-4ed61e8a68d5?source=rss------data_science-5)
+- [Chifi Source Community Update — Week Of February 6th, 2023](https://chifi.dev/chifi-source-community-update-week-of-february-6th-2023-cb5a189c0ed9?source=rss------data_science-5)
+- [Data Mesh in Practice: How Europe’s Leading Online Platform for Fashion Goes Beyond the Data Lake](https://mr-oceanblue.medium.com/data-mesh-in-practice-how-europes-leading-online-platform-for-fashion-goes-beyond-the-data-lake-652d2550bcf?source=rss------data_science-5)
+- [Outsource Data Science projects from a prototype to production in just a few steps with UI…](https://medium.com/@roman.nagibov/outsource-data-science-projects-from-a-prototype-to-production-in-just-a-few-steps-with-ui-f1b1fd63bcb5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
