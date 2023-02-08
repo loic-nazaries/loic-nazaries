@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Bard: Google releases ChatGPT Competitor That Will Respond Using Current Data](https://pub.towardsai.net/bard-google-releases-chatgpt-competitor-that-will-respond-using-current-data-3ad670865666?source=rss------data_science-5)
-- [Developing a Diverse and Inclusive Workforce in Data Science](https://medium.com/@dssberkeley/developing-a-diverse-and-inclusive-workforce-in-data-science-29b4d7791652?source=rss------data_science-5)
-- [Read This Post Before Buying a House in Canada](https://medium.com/@olaitannn/read-this-post-before-buying-a-house-in-canada-1658f28d678b?source=rss------data_science-5)
-- [Phase 2 DSC Blog: scikit-learn](https://medium.com/@pschulk/phase-2-dsc-blog-scikit-learn-4e5ac7bf5400?source=rss------data_science-5)
-- [Simple Machine Learning Case Study: Mushroom Classification](https://medium.com/@naufaldy_pr/simple-machine-learning-case-study-mushroom-classification-afeb7445b89b?source=rss------data_science-5)
-- [Garbage in, garbage out](https://medium.com/@jameswhurley95/garbage-in-garbage-out-a6536d364a80?source=rss------data_science-5)
-- [Mastering the Art of SQL JOINs: A Comprehensive Guide for Data Professionals](https://medium.com/unlocking-the-power-of-data-with-sql/mastering-the-art-of-sql-joins-a-comprehensive-guide-for-data-professionals-4ed61e8a68d5?source=rss------data_science-5)
-- [Chifi Source Community Update — Week Of February 6th, 2023](https://chifi.dev/chifi-source-community-update-week-of-february-6th-2023-cb5a189c0ed9?source=rss------data_science-5)
-- [Data Mesh in Practice: How Europe’s Leading Online Platform for Fashion Goes Beyond the Data Lake](https://mr-oceanblue.medium.com/data-mesh-in-practice-how-europes-leading-online-platform-for-fashion-goes-beyond-the-data-lake-652d2550bcf?source=rss------data_science-5)
-- [Outsource Data Science projects from a prototype to production in just a few steps with UI…](https://medium.com/@roman.nagibov/outsource-data-science-projects-from-a-prototype-to-production-in-just-a-few-steps-with-ui-f1b1fd63bcb5?source=rss------data_science-5)
+- [Comparing Label Encoding, One-Hot Encoding, and Binary Encoding for Handling Categorical Variables…](https://medium.com/@kevin.menear/comparing-label-encoding-one-hot-encoding-and-binary-encoding-for-handling-categorical-variables-933544ccbd02?source=rss------data_science-5)
+- [Bigdata: Fraud Detection and its challenges](https://medium.com/@anmolpanna/bigdata-fraud-detection-and-its-challenges-69e996f74b70?source=rss------data_science-5)
+- [5 Interesting Insights From My  Story’s Stats](https://medium.com/illumination/5-interesting-insights-from-my-storys-stats-67d8083d54f1?source=rss------data_science-5)
+- [Your first Kaggle Dataset and Python &lpar;MLB Databank&rpar;](https://medium.com/@anthonyvessicchio/your-first-kaggle-dataset-and-python-mlb-databank-7c021ba75575?source=rss------data_science-5)
+- [Feature Selection in Machine Learning Explained](https://medium.com/design-and-development/feature-selection-in-machine-learning-explained-6ee05dd9918f?source=rss------data_science-5)
+- [Fontes de Dados Úteis para Projetos de Análise Exploratória](https://medium.com/@samir.silva12342/fontes-de-dados-%C3%BAteis-para-projetos-de-an%C3%A1lise-explorat%C3%B3ria-1d5ff7f9a245?source=rss------data_science-5)
+- [Data Wrangling y limpieza de datos](https://medium.com/@dsanchezm89/data-wrangling-y-limpieza-de-datos-24ee5ca06e56?source=rss------data_science-5)
+- [Working with Dictionaries in Python](https://medium.com/geekculture/working-with-dictionaries-in-python-b8764eeab580?source=rss------data_science-5)
+- [Streamlit: The Easy and Flexible Framework for Interactive Web Applications](https://python.plainenglish.io/streamlit-the-easy-and-flexible-framework-for-interactive-web-applications-a6156fbf96ae?source=rss------data_science-5)
+- [How to draw beautifull LINE CHARTs using Python](https://medium.com/@akashpugal/how-to-draw-beautifull-line-charts-using-python-f963ec3c7711?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
