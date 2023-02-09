@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Comparing Label Encoding, One-Hot Encoding, and Binary Encoding for Handling Categorical Variables…](https://medium.com/@kevin.menear/comparing-label-encoding-one-hot-encoding-and-binary-encoding-for-handling-categorical-variables-933544ccbd02?source=rss------data_science-5)
-- [Bigdata: Fraud Detection and its challenges](https://medium.com/@anmolpanna/bigdata-fraud-detection-and-its-challenges-69e996f74b70?source=rss------data_science-5)
-- [5 Interesting Insights From My  Story’s Stats](https://medium.com/illumination/5-interesting-insights-from-my-storys-stats-67d8083d54f1?source=rss------data_science-5)
-- [Your first Kaggle Dataset and Python &lpar;MLB Databank&rpar;](https://medium.com/@anthonyvessicchio/your-first-kaggle-dataset-and-python-mlb-databank-7c021ba75575?source=rss------data_science-5)
-- [Feature Selection in Machine Learning Explained](https://medium.com/design-and-development/feature-selection-in-machine-learning-explained-6ee05dd9918f?source=rss------data_science-5)
-- [Fontes de Dados Úteis para Projetos de Análise Exploratória](https://medium.com/@samir.silva12342/fontes-de-dados-%C3%BAteis-para-projetos-de-an%C3%A1lise-explorat%C3%B3ria-1d5ff7f9a245?source=rss------data_science-5)
-- [Data Wrangling y limpieza de datos](https://medium.com/@dsanchezm89/data-wrangling-y-limpieza-de-datos-24ee5ca06e56?source=rss------data_science-5)
-- [Working with Dictionaries in Python](https://medium.com/geekculture/working-with-dictionaries-in-python-b8764eeab580?source=rss------data_science-5)
-- [Streamlit: The Easy and Flexible Framework for Interactive Web Applications](https://python.plainenglish.io/streamlit-the-easy-and-flexible-framework-for-interactive-web-applications-a6156fbf96ae?source=rss------data_science-5)
-- [How to draw beautifull LINE CHARTs using Python](https://medium.com/@akashpugal/how-to-draw-beautifull-line-charts-using-python-f963ec3c7711?source=rss------data_science-5)
+- [“Zathura: Exploring the Quantum World Through the Power of Observation”](https://medium.com/@litsjessq/zathura-exploring-the-quantum-world-through-the-power-of-observation-ea7b33f25e61?source=rss------data_science-5)
+- [Deep Learning — Discussion Topic for Lesson 2 &lpar;Mathematics for Deep Learning&rpar; — Bayes Theorem](https://radityafahritama.medium.com/deep-learning-discussion-topic-for-lesson-2-mathematics-for-deep-learning-bayes-theorem-82f32dd07226?source=rss------data_science-5)
+- [Benefits of Machine Learning](https://medium.com/@mirceaioana850/benefits-of-machine-learning-5c4ef22d7020?source=rss------data_science-5)
+- [Do you know DBT? Here’s how to take full advantage of it.](https://sabrinaesaquino.medium.com/do-you-know-dbt-heres-how-to-take-full-advantage-of-it-e94482d3f52?source=rss------data_science-5)
+- [Logistic Regression Simply Explained in 5 minutes](https://pub.towardsai.net/logistic-regression-simply-explained-in-5-minutes-b86eb5ac47cb?source=rss------data_science-5)
+- [Exponential Random Graph Models &lpar;ERGMs&rpar;, Network Analysis, and You](https://medium.com/@ben.roston/exponential-random-graph-models-ergms-network-analysis-and-you-2d7d756345e8?source=rss------data_science-5)
+- [Deep Learning — Discussion Topic for Lesson 3 &lpar;Loss Functions&rpar;](https://radityafahritama.medium.com/deep-learning-discussion-topic-for-lesson-3-loss-functions-33c9648cc227?source=rss------data_science-5)
+- [Deep Learning — Discussion Topic for Lesson 4 &lpar;Activation Functions&rpar; -Softmax](https://radityafahritama.medium.com/discussion-topic-for-lesson-4-activation-functions-ab192df43fb8?source=rss------data_science-5)
+- [Deep Learning — Discussion Topic for Lesson 5 &lpar;Keras Functional API&rpar;](https://radityafahritama.medium.com/discussion-topic-for-lesson-5-keras-functional-api-2bfbe44aa204?source=rss------data_science-5)
+- [Top 7 Support Vector Machine &lpar;SVM&rpar; Interview Questions for Data Science and Machine Learning](https://medium.com/grabngoinfo/top-7-support-vector-machine-svm-interview-questions-for-data-science-and-machine-learning-30ca199b19f1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
