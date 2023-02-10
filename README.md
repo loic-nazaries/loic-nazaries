@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [“Zathura: Exploring the Quantum World Through the Power of Observation”](https://medium.com/@litsjessq/zathura-exploring-the-quantum-world-through-the-power-of-observation-ea7b33f25e61?source=rss------data_science-5)
-- [Deep Learning — Discussion Topic for Lesson 2 &lpar;Mathematics for Deep Learning&rpar; — Bayes Theorem](https://radityafahritama.medium.com/deep-learning-discussion-topic-for-lesson-2-mathematics-for-deep-learning-bayes-theorem-82f32dd07226?source=rss------data_science-5)
-- [Benefits of Machine Learning](https://medium.com/@mirceaioana850/benefits-of-machine-learning-5c4ef22d7020?source=rss------data_science-5)
-- [Do you know DBT? Here’s how to take full advantage of it.](https://sabrinaesaquino.medium.com/do-you-know-dbt-heres-how-to-take-full-advantage-of-it-e94482d3f52?source=rss------data_science-5)
-- [Logistic Regression Simply Explained in 5 minutes](https://pub.towardsai.net/logistic-regression-simply-explained-in-5-minutes-b86eb5ac47cb?source=rss------data_science-5)
-- [Exponential Random Graph Models &lpar;ERGMs&rpar;, Network Analysis, and You](https://medium.com/@ben.roston/exponential-random-graph-models-ergms-network-analysis-and-you-2d7d756345e8?source=rss------data_science-5)
-- [Deep Learning — Discussion Topic for Lesson 3 &lpar;Loss Functions&rpar;](https://radityafahritama.medium.com/deep-learning-discussion-topic-for-lesson-3-loss-functions-33c9648cc227?source=rss------data_science-5)
-- [Deep Learning — Discussion Topic for Lesson 4 &lpar;Activation Functions&rpar; -Softmax](https://radityafahritama.medium.com/discussion-topic-for-lesson-4-activation-functions-ab192df43fb8?source=rss------data_science-5)
-- [Deep Learning — Discussion Topic for Lesson 5 &lpar;Keras Functional API&rpar;](https://radityafahritama.medium.com/discussion-topic-for-lesson-5-keras-functional-api-2bfbe44aa204?source=rss------data_science-5)
-- [Top 7 Support Vector Machine &lpar;SVM&rpar; Interview Questions for Data Science and Machine Learning](https://medium.com/grabngoinfo/top-7-support-vector-machine-svm-interview-questions-for-data-science-and-machine-learning-30ca199b19f1?source=rss------data_science-5)
+- [Unleashing the Power of Data: A Step-by-Step Guide to Crafting a Winning Data Plan](https://medium.com/@erikamarielinares/unleashing-the-power-of-data-a-step-by-step-guide-to-crafting-a-winning-data-plan-cfb628a384f4?source=rss------data_science-5)
+- [Use ChatGPT &amp; Stable Diffusion to create comics from your boring excel sheets!](https://medium.com/@akshit.r.ireddy/use-chatgpt-stable-diffusion-to-create-comics-from-your-boring-excel-sheets-51dbfa8f025a?source=rss------data_science-5)
+- [The Artificial Intelligence Conspiracy:](https://medium.com/@aiconspiracy/the-artificial-intelligence-conspiracy-8e9e51cfd0d5?source=rss------data_science-5)
+- [The AI Data Pipeline](https://dhirajpatra.medium.com/the-ai-data-pipeline-f9e1fc15455b?source=rss------data_science-5)
+- [Poisson Regression in R](https://towardsdatascience.com/poisson-regression-in-r-957752266a34?source=rss------data_science-5)
+- [“Unlock Your True Potential: Take the Prompt Engineering Course &amp; Conquer the Challenges!”](https://medium.com/generative-ai-lab/unlock-your-true-potential-take-the-prompt-engineering-course-conquer-the-challenges-72f9312a26cb?source=rss------data_science-5)
+- [R Coding Errors Suck: Could Not Find Function](https://datascientistdad.medium.com/r-coding-errors-suck-could-not-find-function-990901eb2655?source=rss------data_science-5)
+- [Calling All Aspiring Data Scientists &lpar;And Sports Fans&rpar;! Learn Data Science Through Sports](https://medium.com/@anthonyvessicchio/calling-all-aspiring-data-scientists-and-sports-fans-learn-data-science-through-sports-345e8ef0ebc?source=rss------data_science-5)
+- [10 errors every python programmer has encountered](https://medium.com/@Be-el/10-errors-every-python-programmer-has-encountered-ca1adc5b26d9?source=rss------data_science-5)
+- [Private XMPP Servers for The Uninitiated](https://avalexus.medium.com/private-xmpp-servers-for-the-uninitiated-3d3db041232?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
