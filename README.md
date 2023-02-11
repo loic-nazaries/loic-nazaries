@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Unleashing the Power of Data: A Step-by-Step Guide to Crafting a Winning Data Plan](https://medium.com/@erikamarielinares/unleashing-the-power-of-data-a-step-by-step-guide-to-crafting-a-winning-data-plan-cfb628a384f4?source=rss------data_science-5)
-- [Use ChatGPT &amp; Stable Diffusion to create comics from your boring excel sheets!](https://medium.com/@akshit.r.ireddy/use-chatgpt-stable-diffusion-to-create-comics-from-your-boring-excel-sheets-51dbfa8f025a?source=rss------data_science-5)
-- [The Artificial Intelligence Conspiracy:](https://medium.com/@aiconspiracy/the-artificial-intelligence-conspiracy-8e9e51cfd0d5?source=rss------data_science-5)
-- [The AI Data Pipeline](https://dhirajpatra.medium.com/the-ai-data-pipeline-f9e1fc15455b?source=rss------data_science-5)
-- [Poisson Regression in R](https://towardsdatascience.com/poisson-regression-in-r-957752266a34?source=rss------data_science-5)
-- [“Unlock Your True Potential: Take the Prompt Engineering Course &amp; Conquer the Challenges!”](https://medium.com/generative-ai-lab/unlock-your-true-potential-take-the-prompt-engineering-course-conquer-the-challenges-72f9312a26cb?source=rss------data_science-5)
-- [R Coding Errors Suck: Could Not Find Function](https://datascientistdad.medium.com/r-coding-errors-suck-could-not-find-function-990901eb2655?source=rss------data_science-5)
-- [Calling All Aspiring Data Scientists &lpar;And Sports Fans&rpar;! Learn Data Science Through Sports](https://medium.com/@anthonyvessicchio/calling-all-aspiring-data-scientists-and-sports-fans-learn-data-science-through-sports-345e8ef0ebc?source=rss------data_science-5)
-- [10 errors every python programmer has encountered](https://medium.com/@Be-el/10-errors-every-python-programmer-has-encountered-ca1adc5b26d9?source=rss------data_science-5)
-- [Private XMPP Servers for The Uninitiated](https://avalexus.medium.com/private-xmpp-servers-for-the-uninitiated-3d3db041232?source=rss------data_science-5)
+- [Don&#39;t Know How to Code? See Ways You Can Still Benefit From AI](https://medium.com/@asyrafismailnoor/dont-know-how-to-code-see-ways-you-can-still-benefit-from-ai-74ab4e9f1654?source=rss------data_science-5)
+- [Unleash the Power of Data: An Introduction to the 8 Types of Databases You Should Know](https://medium.com/@abhinavkimothi/unleash-the-power-of-data-an-introduction-to-the-8-types-of-databases-you-should-know-1541295f5a93?source=rss------data_science-5)
+- [Unleashing the Power of Edge Computing with Differential Privacy](https://medium.com/@datascientists03/unleashing-the-power-of-edge-computing-with-differential-privacy-1e9e3bb2268d?source=rss------data_science-5)
+- [Mastering Regression: An In-Depth Guide to a Key Data Science Technique](https://medium.com/@naveenrenji/mastering-regression-an-in-depth-guide-to-a-key-data-science-technique-4b5139c25936?source=rss------data_science-5)
+- [Visualization Is More Than Charts](https://medium.com/@swagless_monk/visualization-is-more-than-charts-4c8984e73c86?source=rss------data_science-5)
+- [Building a career as a Data Engineer from scratch](https://medium.com/@pshivaram92/building-a-career-as-a-data-engineer-from-scratch-ba556c68ed02?source=rss------data_science-5)
+- [Scatter Plots — Handbook](https://towardsdev.com/scatter-plots-handbook-44514a2f9237?source=rss------data_science-5)
+- [Why I Quit Working as a Marketing Manager and Became a Data Scientist](https://aranouski.medium.com/why-i-quit-working-as-a-marketing-manager-and-became-a-data-scientist-3ce532ac4392?source=rss------data_science-5)
+- [Achieve Laser-Focus with The Pomodoro Technique](https://avalexus.medium.com/achieve-laser-focus-with-the-pomodoro-technique-2eec9bb5780a?source=rss------data_science-5)
+- [“Maximizing Model Performance with Hyperparameter Tuning on HuggingFace Models Using AWS Sagemaker…](https://medium.com/generative-ai-lab/maximizing-model-performance-with-hyperparameter-tuning-on-huggingface-models-using-aws-sagemaker-68238739755e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
