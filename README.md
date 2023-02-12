@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Don&#39;t Know How to Code? See Ways You Can Still Benefit From AI](https://medium.com/@asyrafismailnoor/dont-know-how-to-code-see-ways-you-can-still-benefit-from-ai-74ab4e9f1654?source=rss------data_science-5)
-- [Unleash the Power of Data: An Introduction to the 8 Types of Databases You Should Know](https://medium.com/@abhinavkimothi/unleash-the-power-of-data-an-introduction-to-the-8-types-of-databases-you-should-know-1541295f5a93?source=rss------data_science-5)
-- [Unleashing the Power of Edge Computing with Differential Privacy](https://medium.com/@datascientists03/unleashing-the-power-of-edge-computing-with-differential-privacy-1e9e3bb2268d?source=rss------data_science-5)
-- [Mastering Regression: An In-Depth Guide to a Key Data Science Technique](https://medium.com/@naveenrenji/mastering-regression-an-in-depth-guide-to-a-key-data-science-technique-4b5139c25936?source=rss------data_science-5)
-- [Visualization Is More Than Charts](https://medium.com/@swagless_monk/visualization-is-more-than-charts-4c8984e73c86?source=rss------data_science-5)
-- [Building a career as a Data Engineer from scratch](https://medium.com/@pshivaram92/building-a-career-as-a-data-engineer-from-scratch-ba556c68ed02?source=rss------data_science-5)
-- [Scatter Plots — Handbook](https://towardsdev.com/scatter-plots-handbook-44514a2f9237?source=rss------data_science-5)
-- [Why I Quit Working as a Marketing Manager and Became a Data Scientist](https://aranouski.medium.com/why-i-quit-working-as-a-marketing-manager-and-became-a-data-scientist-3ce532ac4392?source=rss------data_science-5)
-- [Achieve Laser-Focus with The Pomodoro Technique](https://avalexus.medium.com/achieve-laser-focus-with-the-pomodoro-technique-2eec9bb5780a?source=rss------data_science-5)
-- [“Maximizing Model Performance with Hyperparameter Tuning on HuggingFace Models Using AWS Sagemaker…](https://medium.com/generative-ai-lab/maximizing-model-performance-with-hyperparameter-tuning-on-huggingface-models-using-aws-sagemaker-68238739755e?source=rss------data_science-5)
+- [Machine learning can’t measure treatment effects](https://medium.com/@numbercucumber/machine-learning-cant-measure-treatment-effects-1c450ba4867e?source=rss------data_science-5)
+- [Bayesian statistics acquits woman of murder](https://medium.com/@numbercucumber/bayesian-statistics-acquits-woman-of-murder-3ed4750a164b?source=rss------data_science-5)
+- [A handy data viz guide for the small things that matter](https://medium.com/@numbercucumber/a-handy-data-viz-guide-for-the-small-things-that-matter-bafebc68538?source=rss------data_science-5)
+- [What is the question? A better way to unpack the data science toolkit](https://medium.com/@numbercucumber/what-is-the-question-a-better-way-to-unpack-the-data-science-toolkit-7550d675501b?source=rss------data_science-5)
+- [Kubernetes Object deep dive-2](https://medium.com/@deepeshjaiswal6734/kubernetes-object-deep-dive-2-b306511433e4?source=rss------data_science-5)
+- [Save Time Listening to Podcasts: Creating Chatbots from Podcasts in 2 minutes or less](https://rich-gaogle.medium.com/creating-chatbots-from-podcasts-in-2-minutes-or-less-a3177b5d9698?source=rss------data_science-5)
+- [How to Build a Dividend Investing Dashboard in Python and Streamlit](https://medium.com/@dreamferus/how-to-build-a-dividend-investing-dashboard-in-python-and-streamlit-a9ad2714c76b?source=rss------data_science-5)
+- [Unsupervised Sentiment Analysis With Real-World Data: 500,000 Tweets on Elon Musk](https://pub.towardsai.net/unsupervised-sentiment-analysis-with-real-world-data-500-000-tweets-on-elon-musk-3f0653135558?source=rss------data_science-5)
+- [A guide to evaluating 3rd party Data Science / SaaS tools](https://medium.com/@antaraxia.kk/a-guide-to-evaluating-3rd-party-data-science-saas-tools-d8ec37968bd6?source=rss------data_science-5)
+- [The Magic of DeMoivre’s Theorem](https://keith-mcnulty.medium.com/the-magic-of-demoivres-theorem-893e94911fdd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
