@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Machine learning can’t measure treatment effects](https://medium.com/@numbercucumber/machine-learning-cant-measure-treatment-effects-1c450ba4867e?source=rss------data_science-5)
-- [Bayesian statistics acquits woman of murder](https://medium.com/@numbercucumber/bayesian-statistics-acquits-woman-of-murder-3ed4750a164b?source=rss------data_science-5)
-- [A handy data viz guide for the small things that matter](https://medium.com/@numbercucumber/a-handy-data-viz-guide-for-the-small-things-that-matter-bafebc68538?source=rss------data_science-5)
-- [What is the question? A better way to unpack the data science toolkit](https://medium.com/@numbercucumber/what-is-the-question-a-better-way-to-unpack-the-data-science-toolkit-7550d675501b?source=rss------data_science-5)
-- [Kubernetes Object deep dive-2](https://medium.com/@deepeshjaiswal6734/kubernetes-object-deep-dive-2-b306511433e4?source=rss------data_science-5)
-- [Save Time Listening to Podcasts: Creating Chatbots from Podcasts in 2 minutes or less](https://rich-gaogle.medium.com/creating-chatbots-from-podcasts-in-2-minutes-or-less-a3177b5d9698?source=rss------data_science-5)
-- [How to Build a Dividend Investing Dashboard in Python and Streamlit](https://medium.com/@dreamferus/how-to-build-a-dividend-investing-dashboard-in-python-and-streamlit-a9ad2714c76b?source=rss------data_science-5)
-- [Unsupervised Sentiment Analysis With Real-World Data: 500,000 Tweets on Elon Musk](https://pub.towardsai.net/unsupervised-sentiment-analysis-with-real-world-data-500-000-tweets-on-elon-musk-3f0653135558?source=rss------data_science-5)
-- [A guide to evaluating 3rd party Data Science / SaaS tools](https://medium.com/@antaraxia.kk/a-guide-to-evaluating-3rd-party-data-science-saas-tools-d8ec37968bd6?source=rss------data_science-5)
-- [The Magic of DeMoivre’s Theorem](https://keith-mcnulty.medium.com/the-magic-of-demoivres-theorem-893e94911fdd?source=rss------data_science-5)
+- [Navigating the Journey to Becoming a Data Professional: An Introduction to Key Skills and…](https://medium.com/@leite.andrem/navigating-the-journey-to-becoming-a-data-professional-an-introduction-to-key-skills-and-c6eed0e5266d?source=rss------data_science-5)
+- [Linguagem SQL e sua importância para Data Science](https://medium.com/@brunobonatini/linguagem-sql-e-sua-import%C3%A2ncia-para-data-science-f6347c169c85?source=rss------data_science-5)
+- [Object Detection and Real-Time Tracking: Elevating Your Computer Vision Skill](https://medium.com/@JosephZahar/object-detection-and-real-time-tracking-elevating-your-computer-vision-skill-9839a8fa91ed?source=rss------data_science-5)
+- [A Beginner’s Guide to Exploratory Data Analysis in Python](https://an-amygdala.medium.com/a-beginners-guide-to-exploratory-data-analysis-in-python-357bf1805038?source=rss------data_science-5)
+- [NashPy: Strategic Interactions in Python](https://agbonorino.medium.com/nashpy-strategic-interactions-in-python-aac937c916a5?source=rss------data_science-5)
+- [Data Governance: The Key to Unlocking the Full Potential of Your Data](https://medium.com/@manuelmata5/data-governance-the-key-to-unlocking-the-full-potential-of-your-data-2d4ac295aa?source=rss------data_science-5)
+- [The Power of Data Monetization: Unleashing the Potential of Your Data](https://medium.com/@manuelmata5/the-power-of-data-monetization-unleashing-the-potential-of-your-data-6ecae7e0a8?source=rss------data_science-5)
+- [What is a Jupyter Notebook?](https://medium.com/@ktrip003/what-is-a-jupyter-notebook-d1ecba184ea8?source=rss------data_science-5)
+- [Data Engineering: The Key to Improved Data Science](https://medium.com/@darelp/data-engineering-the-key-to-improved-data-science-2408754ab9a9?source=rss------data_science-5)
+- [Correlation Coefficients](https://medium.com/@iashishpatel/correlation-coefficients-2d034e9307b6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
