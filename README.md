@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Navigating the Journey to Becoming a Data Professional: An Introduction to Key Skills and…](https://medium.com/@leite.andrem/navigating-the-journey-to-becoming-a-data-professional-an-introduction-to-key-skills-and-c6eed0e5266d?source=rss------data_science-5)
-- [Linguagem SQL e sua importância para Data Science](https://medium.com/@brunobonatini/linguagem-sql-e-sua-import%C3%A2ncia-para-data-science-f6347c169c85?source=rss------data_science-5)
-- [Object Detection and Real-Time Tracking: Elevating Your Computer Vision Skill](https://medium.com/@JosephZahar/object-detection-and-real-time-tracking-elevating-your-computer-vision-skill-9839a8fa91ed?source=rss------data_science-5)
-- [A Beginner’s Guide to Exploratory Data Analysis in Python](https://an-amygdala.medium.com/a-beginners-guide-to-exploratory-data-analysis-in-python-357bf1805038?source=rss------data_science-5)
-- [NashPy: Strategic Interactions in Python](https://agbonorino.medium.com/nashpy-strategic-interactions-in-python-aac937c916a5?source=rss------data_science-5)
-- [Data Governance: The Key to Unlocking the Full Potential of Your Data](https://medium.com/@manuelmata5/data-governance-the-key-to-unlocking-the-full-potential-of-your-data-2d4ac295aa?source=rss------data_science-5)
-- [The Power of Data Monetization: Unleashing the Potential of Your Data](https://medium.com/@manuelmata5/the-power-of-data-monetization-unleashing-the-potential-of-your-data-6ecae7e0a8?source=rss------data_science-5)
-- [What is a Jupyter Notebook?](https://medium.com/@ktrip003/what-is-a-jupyter-notebook-d1ecba184ea8?source=rss------data_science-5)
-- [Data Engineering: The Key to Improved Data Science](https://medium.com/@darelp/data-engineering-the-key-to-improved-data-science-2408754ab9a9?source=rss------data_science-5)
-- [Correlation Coefficients](https://medium.com/@iashishpatel/correlation-coefficients-2d034e9307b6?source=rss------data_science-5)
+- [Perkenalan Singkat Dengan SQL](https://medium.com/@febryfadillah/perkenalan-singkat-dengan-sql-f132e452424?source=rss------data_science-5)
+- [“Data Engineering 101: A Beginner’s Guide to Getting Started”](https://medium.com/@msaad_86696/data-engineering-101-a-beginners-guide-to-getting-started-9735df177d9b?source=rss------data_science-5)
+- [James expects Chelsea to become ‘one of the best in the world’ after Boehly backing | LiveScore](https://medium.com/@awogbadej747/james-expects-chelsea-to-become-one-of-the-best-in-the-world-after-boehly-backing-livescore-6fb46f95066d?source=rss------data_science-5)
+- [Estudio de colaboraciones en una red social gaitera &lpar;parte 2 Centralidad de Grado, con código&rpar;](https://medium.com/@aletelecom/estudio-de-colaboraciones-en-una-red-social-gaitera-parte-2-centralidad-de-grado-con-c%C3%B3digo-3863029e97ac?source=rss------data_science-5)
+- [A Data Science Story: Squirrel Friend](https://bryanmcmaster.medium.com/a-data-science-story-squirrel-friend-41a5a4524edb?source=rss------data_science-5)
+- [Data Science in Business: The Most In-Demand Domains and Their Applications](https://medium.com/@enestabak/data-science-in-business-the-most-in-demand-domains-and-their-applications-414a50493bef?source=rss------data_science-5)
+- [Estudio de colaboraciones en una red social gaitera &lpar;parte 1 con código&rpar;](https://medium.com/@aletelecom/estudio-de-colaboraciones-en-una-red-social-gaitera-parte-1-con-c%C3%B3digo-637454653dab?source=rss------data_science-5)
+- [The New Bing is… Terrible?](https://medium.com/@dreamferus/the-new-bing-is-terrible-3d923e876fd9?source=rss------data_science-5)
+- [Profit and Delivery Time Optimization With Python](https://medium.com/@andrehofreire/profit-and-delivery-time-optimization-with-python-a88a038b2d06?source=rss------data_science-5)
+- [The Benefits of Using R for Data Science](https://emiliathompson.medium.com/the-benefits-of-using-r-for-data-science-dbf2e4617f76?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
