@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Perkenalan Singkat Dengan SQL](https://medium.com/@febryfadillah/perkenalan-singkat-dengan-sql-f132e452424?source=rss------data_science-5)
-- [“Data Engineering 101: A Beginner’s Guide to Getting Started”](https://medium.com/@msaad_86696/data-engineering-101-a-beginners-guide-to-getting-started-9735df177d9b?source=rss------data_science-5)
-- [James expects Chelsea to become ‘one of the best in the world’ after Boehly backing | LiveScore](https://medium.com/@awogbadej747/james-expects-chelsea-to-become-one-of-the-best-in-the-world-after-boehly-backing-livescore-6fb46f95066d?source=rss------data_science-5)
-- [Estudio de colaboraciones en una red social gaitera &lpar;parte 2 Centralidad de Grado, con código&rpar;](https://medium.com/@aletelecom/estudio-de-colaboraciones-en-una-red-social-gaitera-parte-2-centralidad-de-grado-con-c%C3%B3digo-3863029e97ac?source=rss------data_science-5)
-- [A Data Science Story: Squirrel Friend](https://bryanmcmaster.medium.com/a-data-science-story-squirrel-friend-41a5a4524edb?source=rss------data_science-5)
-- [Data Science in Business: The Most In-Demand Domains and Their Applications](https://medium.com/@enestabak/data-science-in-business-the-most-in-demand-domains-and-their-applications-414a50493bef?source=rss------data_science-5)
-- [Estudio de colaboraciones en una red social gaitera &lpar;parte 1 con código&rpar;](https://medium.com/@aletelecom/estudio-de-colaboraciones-en-una-red-social-gaitera-parte-1-con-c%C3%B3digo-637454653dab?source=rss------data_science-5)
-- [The New Bing is… Terrible?](https://medium.com/@dreamferus/the-new-bing-is-terrible-3d923e876fd9?source=rss------data_science-5)
-- [Profit and Delivery Time Optimization With Python](https://medium.com/@andrehofreire/profit-and-delivery-time-optimization-with-python-a88a038b2d06?source=rss------data_science-5)
-- [The Benefits of Using R for Data Science](https://emiliathompson.medium.com/the-benefits-of-using-r-for-data-science-dbf2e4617f76?source=rss------data_science-5)
+- [A Programmer’s First Lesson To Matplotlib](https://bamania-ashish.medium.com/a-programmers-first-lesson-to-matplotlib-6c1f34ce237c?source=rss------data_science-5)
+- [Day 12 of my Python Learning Journey](https://medium.com/@khaledmahmud26/day-12-of-my-python-learning-journey-b297660fbc0f?source=rss------data_science-5)
+- [R Coding Errors Suck: ‘Error in if’](https://datascientistdad.medium.com/r-coding-errors-suck-error-in-if-3e2590a8ba24?source=rss------data_science-5)
+- [ChatGPT is a kind of ‘de-compression’ or code-breaking algorithm](https://medium.com/@paul.k.pallaghy/chatgpt-is-a-kind-of-compression-algorithm-61738883ec0d?source=rss------data_science-5)
+- [Generative AI: The Future of Artificial Intelligence &lpar;AI&rpar;](https://pub.towardsai.net/generative-ai-the-future-of-artificial-intelligence-ai-c634e02f9095?source=rss------data_science-5)
+- [ELT 101: Understanding the Basics of Extract-Load-Transform Pipelines](https://medium.matcha.fyi/elt-101-understanding-the-basics-of-extract-load-transform-pipelines-9469129c0900?source=rss------data_science-5)
+- [Mastering Batch Gradient Descent: The Patient Hiker of Machine Learning Optimization](https://medium.com/@saicharanvadakapur/mastering-batch-gradient-descent-the-patient-hiker-of-machine-learning-optimization-b0f3a32b3003?source=rss------data_science-5)
+- [ChatGPT enables smart apps but the bar is now sky-high for AI](https://medium.com/@paul.k.pallaghy/chatgpt-enables-smart-apps-but-the-bar-is-now-sky-high-for-ai-b32a8df2d446?source=rss------data_science-5)
+- [Explorando las capacidades de Jasper AI: El futuro del análisis de datos.](https://medium.com/@herzigalvarez/explorando-las-capacidades-de-jasper-ai-el-futuro-del-an%C3%A1lisis-de-datos-3882621b9107?source=rss------data_science-5)
+- [Exploring the Capabilities of Jasper AI: The Future of Data Analytics](https://medium.com/@herzigalvarez/exploring-the-capabilities-of-jasper-ai-the-future-of-data-analytics-91a1c1d23ec7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
