@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Conversing with ChatGPT to Build a Python-based Cooking Assignment Generator](https://medium.com/@ben.nachlas/conversing-with-chatgpt-to-build-a-python-based-cooking-assignment-generator-2ca83ec7d33?source=rss------data_science-5)
-- [Model, Data, Action! A Beginner’s guide to the wacky world of MLOps](https://hamzahabdulla1.medium.com/model-data-action-a-beginners-guide-to-the-wacky-world-of-mlops-eba7d927e112?source=rss------data_science-5)
-- [Top 10 Online Courses to Get Ahead in Data Science](https://waqas-shami.medium.com/top-10-online-courses-to-get-ahead-in-data-science-4951a3b1c6c9?source=rss------data_science-5)
-- [Text Analysis in Python with The Road Not Taken by Robert Frost](https://materialdatascience.medium.com/text-analysis-in-python-with-the-road-not-taken-by-robert-frost-6c9f1fc01d22?source=rss------data_science-5)
-- [Just getting started as a data scientist? Here are some essential skills you should learn](https://sercangl.medium.com/just-getting-started-as-a-data-scientist-here-are-some-essential-skills-you-should-learn-7d7c8b4e4b0b?source=rss------data_science-5)
-- [Python Data Analysis Functions &amp; Applications &lpar;Series 1&rpar;](https://medium.com/@matteo.arellano/python-data-analysis-functions-applications-series-1-989818381f04?source=rss------data_science-5)
-- [6 ways I will analyze my Medium stats as a Data Scientist](https://medium.com/@themodmus/6-ways-i-will-analyze-my-medium-stats-as-a-data-scientist-82667e61e657?source=rss------data_science-5)
-- [Essential Statistical Concepts: Selecting the Appropriate Analysis for Your Data](https://rihabweghlani.medium.com/essential-statistical-concepts-selecting-the-appropriate-analysis-for-your-data-a454d89c0e4e?source=rss------data_science-5)
-- [Attention, all fellow procrastinators!](https://medium.com/@waqarmohammed/attention-all-fellow-procrastinators-3c3c2a4f381b?source=rss------data_science-5)
+- [Your Ultimate Guide For The Data Science Interview — Supervised &amp; Unsupervised Learning](https://medium.com/@ashleyha/your-ultimate-guide-for-the-data-science-interview-supervised-unsupervised-learning-eadc0893579b?source=rss------data_science-5)
+- [Gap-minder Global Developments Data Visualization](https://medium.com/@pprabagaran17/gap-minder-global-developments-data-visualization-81946b7e2813?source=rss------data_science-5)
+- [12+ Free Resources to Get Started in People Analytics](https://jeagleson.medium.com/12-free-resources-to-get-started-in-people-analytics-53ff169dccb6?source=rss------data_science-5)
+- [Data-Driven Insights on Bitcoin Adoption and Usage](https://johnvastola.medium.com/data-driven-insights-on-bitcoin-adoption-and-usage-2cfd34a95aa0?source=rss------data_science-5)
+- [What is Tuples In Python](https://medium.com/@souvikdutta.aec/what-is-tuples-in-python-9643f202224c?source=rss------data_science-5)
+- [Estudio de colaboraciones en una red social gaitera &lpar;parte 4, Centralidad de Cercanía, y Vector…](https://medium.com/@aletelecom/estudio-de-colaboraciones-en-una-red-social-gaitera-parte-4-centralidad-de-cercan%C3%ADa-y-vector-5a34518173d?source=rss------data_science-5)
+- [Migrate data from Teradata to AWS using AWS Glue](https://medium.com/@jagadeshjamjalanarayanan/migrate-data-from-teradata-to-aws-using-aws-glue-f95dd64cb09d?source=rss------data_science-5)
+- [The Power of Natural Language Processing &lpar;NLP&rpar;](https://medium.com/@zacharycherna/the-power-of-natural-language-processing-nlp-f691371d232e?source=rss------data_science-5)
+- [Non Existent](https://medium.com/@alexzest/non-existent-e5903a991071?source=rss------data_science-5)
+- [Data-Driven Marketing Strategies: How to Leverage Data Science to Drive Growth and Gain a…](https://medium.datadriveninvestor.com/data-driven-marketing-strategies-how-to-leverage-data-science-to-drive-growth-and-gain-a-ae19ffaed254?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
