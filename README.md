@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Your Ultimate Guide For The Data Science Interview — Supervised &amp; Unsupervised Learning](https://medium.com/@ashleyha/your-ultimate-guide-for-the-data-science-interview-supervised-unsupervised-learning-eadc0893579b?source=rss------data_science-5)
-- [Gap-minder Global Developments Data Visualization](https://medium.com/@pprabagaran17/gap-minder-global-developments-data-visualization-81946b7e2813?source=rss------data_science-5)
-- [12+ Free Resources to Get Started in People Analytics](https://jeagleson.medium.com/12-free-resources-to-get-started-in-people-analytics-53ff169dccb6?source=rss------data_science-5)
-- [Data-Driven Insights on Bitcoin Adoption and Usage](https://johnvastola.medium.com/data-driven-insights-on-bitcoin-adoption-and-usage-2cfd34a95aa0?source=rss------data_science-5)
-- [What is Tuples In Python](https://medium.com/@souvikdutta.aec/what-is-tuples-in-python-9643f202224c?source=rss------data_science-5)
-- [Estudio de colaboraciones en una red social gaitera &lpar;parte 4, Centralidad de Cercanía, y Vector…](https://medium.com/@aletelecom/estudio-de-colaboraciones-en-una-red-social-gaitera-parte-4-centralidad-de-cercan%C3%ADa-y-vector-5a34518173d?source=rss------data_science-5)
-- [Migrate data from Teradata to AWS using AWS Glue](https://medium.com/@jagadeshjamjalanarayanan/migrate-data-from-teradata-to-aws-using-aws-glue-f95dd64cb09d?source=rss------data_science-5)
-- [The Power of Natural Language Processing &lpar;NLP&rpar;](https://medium.com/@zacharycherna/the-power-of-natural-language-processing-nlp-f691371d232e?source=rss------data_science-5)
-- [Non Existent](https://medium.com/@alexzest/non-existent-e5903a991071?source=rss------data_science-5)
-- [Data-Driven Marketing Strategies: How to Leverage Data Science to Drive Growth and Gain a…](https://medium.datadriveninvestor.com/data-driven-marketing-strategies-how-to-leverage-data-science-to-drive-growth-and-gain-a-ae19ffaed254?source=rss------data_science-5)
+- [“Navigating the ‘New Normal’: Assessing the Impact of COVID-19 on the Tourism Industry”](https://txt.generativeailab.org/navigating-the-new-normal-assessing-the-impact-of-covid-19-on-the-tourism-industry-2a73ebbef61b?source=rss------data_science-5)
+- [“Exploring the Benefits of Stochastic Policies: How Randomness Can Outperform Certainty”](https://txt.generativeailab.org/exploring-the-benefits-of-stochastic-policies-how-randomness-can-outperform-certainty-d96d2f2b8d97?source=rss------data_science-5)
+- [Exploring the US Gender Wage Gap with Distributional Random Forests](https://txt.generativeailab.org/exploring-the-us-gender-wage-gap-with-distributional-random-forests-1afb0c150340?source=rss------data_science-5)
+- [“Unleashing the Potential of GPT: Fine-Tuning Your Model for Maximum Performance”](https://txt.generativeailab.org/unleashing-the-potential-of-gpt-fine-tuning-your-model-for-maximum-performance-5b4b4b63f0f0?source=rss------data_science-5)
+- [Is Tourism Back to Its Pre-COVID-Crisis Level?](https://towardsdatascience.com/is-tourism-back-to-its-pre-covid-crisis-level-27ed32604fa6?source=rss------data_science-5)
+- [Studying the Gender Wage Gap in the US Using Distributional Random Forests](https://towardsdatascience.com/studying-the-gender-wage-gap-in-the-us-using-distributional-random-forests-ec4c2a69abf0?source=rss------data_science-5)
+- [The Top 4 Reasons to Learn PyTorch &lpar;and start getting into AI&rpar;](https://mrdbourke.medium.com/the-top-4-reasons-to-learn-pytorch-and-start-getting-into-ai-3ebc84ec1628?source=rss------data_science-5)
+- [#KB Data Sourcing II](https://prof-frenzel.medium.com/kb-data-sourcing-ii-9fedf5eae424?source=rss------data_science-5)
+- [Accelerating ML Workflows on Azure with MLOps Best Practices](https://python.plainenglish.io/accelerating-ml-workflows-on-azure-with-mlops-best-practices-56b709f94111?source=rss------data_science-5)
+- [Key Challenges of Machine Learning Model Deployment](https://pub.towardsai.net/key-challenges-of-machine-learning-model-deployment-c48768d0e7c8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
