@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [“Navigating the ‘New Normal’: Assessing the Impact of COVID-19 on the Tourism Industry”](https://txt.generativeailab.org/navigating-the-new-normal-assessing-the-impact-of-covid-19-on-the-tourism-industry-2a73ebbef61b?source=rss------data_science-5)
-- [“Exploring the Benefits of Stochastic Policies: How Randomness Can Outperform Certainty”](https://txt.generativeailab.org/exploring-the-benefits-of-stochastic-policies-how-randomness-can-outperform-certainty-d96d2f2b8d97?source=rss------data_science-5)
-- [Exploring the US Gender Wage Gap with Distributional Random Forests](https://txt.generativeailab.org/exploring-the-us-gender-wage-gap-with-distributional-random-forests-1afb0c150340?source=rss------data_science-5)
-- [“Unleashing the Potential of GPT: Fine-Tuning Your Model for Maximum Performance”](https://txt.generativeailab.org/unleashing-the-potential-of-gpt-fine-tuning-your-model-for-maximum-performance-5b4b4b63f0f0?source=rss------data_science-5)
-- [Is Tourism Back to Its Pre-COVID-Crisis Level?](https://towardsdatascience.com/is-tourism-back-to-its-pre-covid-crisis-level-27ed32604fa6?source=rss------data_science-5)
-- [Studying the Gender Wage Gap in the US Using Distributional Random Forests](https://towardsdatascience.com/studying-the-gender-wage-gap-in-the-us-using-distributional-random-forests-ec4c2a69abf0?source=rss------data_science-5)
-- [The Top 4 Reasons to Learn PyTorch &lpar;and start getting into AI&rpar;](https://mrdbourke.medium.com/the-top-4-reasons-to-learn-pytorch-and-start-getting-into-ai-3ebc84ec1628?source=rss------data_science-5)
-- [#KB Data Sourcing II](https://prof-frenzel.medium.com/kb-data-sourcing-ii-9fedf5eae424?source=rss------data_science-5)
-- [Accelerating ML Workflows on Azure with MLOps Best Practices](https://python.plainenglish.io/accelerating-ml-workflows-on-azure-with-mlops-best-practices-56b709f94111?source=rss------data_science-5)
-- [Key Challenges of Machine Learning Model Deployment](https://pub.towardsai.net/key-challenges-of-machine-learning-model-deployment-c48768d0e7c8?source=rss------data_science-5)
+- [Is Everything a Data Product?](https://towardsdatamesh.com/is-everything-a-data-product-eb84b151e498?source=rss------data_science-5)
+- [The Future is Now: How AI is Reshaping Our Lives](https://goooges.medium.com/the-future-is-now-how-ai-is-reshaping-our-lives-c50cedf67930?source=rss------data_science-5)
+- [Reinforcement vs Supervised Learning](https://medium.com/@abdulrahmanafifi33/reinforcement-vs-supervised-learning-58297cffe6e9?source=rss------data_science-5)
+- [Ordering and Filtering Data in SQL](https://medium.com/@anello92.ai/ordering-and-filtering-data-in-sql-61381dc3606?source=rss------data_science-5)
+- [The Intersection of Data Science and Psychology: How Data Can Inform Understanding of Human…](https://medium.com/@calebwh96/the-intersection-of-data-science-and-psychology-how-data-can-inform-understanding-of-human-88b7b8e6a2fa?source=rss------data_science-5)
+- [Squaring the error : Why settle with MSE when you can use any even power in loss function ?](https://medium.com/@thakurvaibhav/squaring-the-error-why-settle-with-mse-when-you-can-use-any-even-power-in-loss-function-331e00caaf06?source=rss------data_science-5)
+- [R vs. Python: Which One Should I Learn First?](https://datascientistdad.medium.com/r-vs-python-which-one-should-i-learn-first-57bbc951c6f2?source=rss------data_science-5)
+- [Banking Loan Prediction : Automate the loan qualifying procedure in real time by ML algorithms](https://medium.com/@kimsangaha/banking-loan-prediction-automate-the-loan-qualifying-procedure-in-real-time-by-ml-algorithms-56466165e1dd?source=rss------data_science-5)
+- [Machine Learning Classification Algorithms](https://medium.com/@shuv.sdr/machine-learning-classification-algorithms-4e3e9f578100?source=rss------data_science-5)
+- [The 7-Steps Strategy for Successful Data Science Projects](https://vincent-chw.medium.com/the-7-steps-strategy-for-successful-data-science-projects-90eb6d0a7eb3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
