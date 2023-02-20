@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Is Everything a Data Product?](https://towardsdatamesh.com/is-everything-a-data-product-eb84b151e498?source=rss------data_science-5)
-- [The Future is Now: How AI is Reshaping Our Lives](https://goooges.medium.com/the-future-is-now-how-ai-is-reshaping-our-lives-c50cedf67930?source=rss------data_science-5)
-- [Reinforcement vs Supervised Learning](https://medium.com/@abdulrahmanafifi33/reinforcement-vs-supervised-learning-58297cffe6e9?source=rss------data_science-5)
-- [Ordering and Filtering Data in SQL](https://medium.com/@anello92.ai/ordering-and-filtering-data-in-sql-61381dc3606?source=rss------data_science-5)
-- [The Intersection of Data Science and Psychology: How Data Can Inform Understanding of Human…](https://medium.com/@calebwh96/the-intersection-of-data-science-and-psychology-how-data-can-inform-understanding-of-human-88b7b8e6a2fa?source=rss------data_science-5)
-- [Squaring the error : Why settle with MSE when you can use any even power in loss function ?](https://medium.com/@thakurvaibhav/squaring-the-error-why-settle-with-mse-when-you-can-use-any-even-power-in-loss-function-331e00caaf06?source=rss------data_science-5)
-- [R vs. Python: Which One Should I Learn First?](https://datascientistdad.medium.com/r-vs-python-which-one-should-i-learn-first-57bbc951c6f2?source=rss------data_science-5)
-- [Banking Loan Prediction : Automate the loan qualifying procedure in real time by ML algorithms](https://medium.com/@kimsangaha/banking-loan-prediction-automate-the-loan-qualifying-procedure-in-real-time-by-ml-algorithms-56466165e1dd?source=rss------data_science-5)
-- [Machine Learning Classification Algorithms](https://medium.com/@shuv.sdr/machine-learning-classification-algorithms-4e3e9f578100?source=rss------data_science-5)
-- [The 7-Steps Strategy for Successful Data Science Projects](https://vincent-chw.medium.com/the-7-steps-strategy-for-successful-data-science-projects-90eb6d0a7eb3?source=rss------data_science-5)
+- [Ten from the weekend 02/18: A few interesting reads that I came across:](https://gopivikranth.medium.com/ten-from-the-weekend-02-18-a-few-interesting-reads-that-i-came-across-21d3c5e47cf0?source=rss------data_science-5)
+- [A data science model in 30 min](https://medium.com/@ralitzamondal/how-to-create-a-data-science-model-in-30-min-57d74240af10?source=rss------data_science-5)
+- [The Essential Machine Learning Algorithms for Data Scientists](https://johnvastola.medium.com/the-essential-machine-learning-algorithms-for-data-scientists-656bf814b0b9?source=rss------data_science-5)
+- [The beauty of Principal Component Analyses, the ML technique of making complex things simple](https://medium.com/@amabocanon/the-beauty-of-principal-component-analyses-the-ml-technique-of-making-complex-things-simple-a6b082f0c7d8?source=rss------data_science-5)
+- [Learnings From My Data Science Career So Far](https://pub.towardsai.net/learnings-from-my-data-science-career-so-far-6964017fa1d2?source=rss------data_science-5)
+- [Building a League of Legends match database with Python](https://medium.com/@brendonkirouac/building-a-league-of-legends-match-database-with-python-7eee033090b9?source=rss------data_science-5)
+- [My Review of Georgia Tech’s Online of Master of Science in Analytics &lpar;OMSA&rpar;](https://medium.com/@david_yoo/my-review-of-georgia-techs-online-of-master-of-science-in-analytics-omsa-816406316b82?source=rss------data_science-5)
+- [Pandas Alternative Tools for Data Scientist](https://rmoklesur.medium.com/pandas-alternative-tools-for-data-scientist-af586ba39c98?source=rss------data_science-5)
+- [Linear Regression: Advanced Modeling Techniques &amp; Pipeline [Pt.1]](https://medium.com/@viniciusnala/linear-regression-advanced-modeling-techniques-pipeline-pt-1-3c0433230b88?source=rss------data_science-5)
+- [TOP 5 Upskilling Software Engineers Need To Become Proficient](https://waqas-shami.medium.com/top-5-upskilling-software-engineers-need-to-become-proficient-7b91c40f1732?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
