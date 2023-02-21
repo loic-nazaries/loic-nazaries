@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Ten from the weekend 02/18: A few interesting reads that I came across:](https://gopivikranth.medium.com/ten-from-the-weekend-02-18-a-few-interesting-reads-that-i-came-across-21d3c5e47cf0?source=rss------data_science-5)
-- [A data science model in 30 min](https://medium.com/@ralitzamondal/how-to-create-a-data-science-model-in-30-min-57d74240af10?source=rss------data_science-5)
-- [The Essential Machine Learning Algorithms for Data Scientists](https://johnvastola.medium.com/the-essential-machine-learning-algorithms-for-data-scientists-656bf814b0b9?source=rss------data_science-5)
-- [The beauty of Principal Component Analyses, the ML technique of making complex things simple](https://medium.com/@amabocanon/the-beauty-of-principal-component-analyses-the-ml-technique-of-making-complex-things-simple-a6b082f0c7d8?source=rss------data_science-5)
-- [Learnings From My Data Science Career So Far](https://pub.towardsai.net/learnings-from-my-data-science-career-so-far-6964017fa1d2?source=rss------data_science-5)
-- [Building a League of Legends match database with Python](https://medium.com/@brendonkirouac/building-a-league-of-legends-match-database-with-python-7eee033090b9?source=rss------data_science-5)
-- [My Review of Georgia Tech’s Online of Master of Science in Analytics &lpar;OMSA&rpar;](https://medium.com/@david_yoo/my-review-of-georgia-techs-online-of-master-of-science-in-analytics-omsa-816406316b82?source=rss------data_science-5)
-- [Pandas Alternative Tools for Data Scientist](https://rmoklesur.medium.com/pandas-alternative-tools-for-data-scientist-af586ba39c98?source=rss------data_science-5)
-- [Linear Regression: Advanced Modeling Techniques &amp; Pipeline [Pt.1]](https://medium.com/@viniciusnala/linear-regression-advanced-modeling-techniques-pipeline-pt-1-3c0433230b88?source=rss------data_science-5)
-- [TOP 5 Upskilling Software Engineers Need To Become Proficient](https://waqas-shami.medium.com/top-5-upskilling-software-engineers-need-to-become-proficient-7b91c40f1732?source=rss------data_science-5)
+- [Five Google suggested AI courses for free in 2023](https://medium.com/@ganesan.ramesh77/five-google-suggested-ai-courses-for-free-in-2023-93cdeebadf9e?source=rss------data_science-5)
+- [Using Chat GPT to Forecast the S&amp;P500](https://medium.com/shiyan-boxer/using-chat-gpt-to-forecast-the-s-p-500-2ad140610a3d?source=rss------data_science-5)
+- [The Secret Language of Python Bytes&lpar;&rpar; Function](https://medium.com/@etirismagazine/the-secret-language-of-python-bytes-function-1db6228ff1fb?source=rss------data_science-5)
+- [Projeto Análise de Dados do Airbnb — Los Angeles — Califórnia](https://medium.com/@brunobonatini/projeto-an%C3%A1lise-de-dados-do-airbnb-los-angeles-calif%C3%B3rnia-20297efe283c?source=rss------data_science-5)
+- [Don’t Use Pie Charts for Visualizations, Instead, Use this Alternative!](https://anmol3015.medium.com/dont-use-pie-charts-for-visualizations-instead-use-this-alternative-8e768c8e3e57?source=rss------data_science-5)
+- [Chess Engine with XGBoost &lpar;2/2&rpar;](https://medium.com/@josephxu1234/chess-engine-with-xgboost-2-2-b5a61ade9c06?source=rss------data_science-5)
+- [Chess Engine with XGBoost &lpar;1/2&rpar;](https://medium.com/@josephxu1234/chess-engine-with-xgboost-1-2-e997383979c1?source=rss------data_science-5)
+- [The Tech Toolkit for Aspiring Data Scientists: 10 Essential Technical Skills You Need to Succeed](https://ihimi.medium.com/the-tech-toolkit-for-aspiring-data-scientists-10-essential-technical-skills-you-need-to-succeed-132f8872625?source=rss------data_science-5)
+- [8 CHATGPT Extensions To Use It Anywhere](https://endasheridan.medium.com/8-chatgpt-extensions-to-use-it-anywhere-1625bbc86137?source=rss------data_science-5)
+- [Prompt Engineering 101](https://txt.generativeailab.org/prompt-engineering-101-8ec5b1d13246?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
