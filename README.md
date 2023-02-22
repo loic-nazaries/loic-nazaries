@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Five Google suggested AI courses for free in 2023](https://medium.com/@ganesan.ramesh77/five-google-suggested-ai-courses-for-free-in-2023-93cdeebadf9e?source=rss------data_science-5)
-- [Using Chat GPT to Forecast the S&amp;P500](https://medium.com/shiyan-boxer/using-chat-gpt-to-forecast-the-s-p-500-2ad140610a3d?source=rss------data_science-5)
-- [The Secret Language of Python Bytes&lpar;&rpar; Function](https://medium.com/@etirismagazine/the-secret-language-of-python-bytes-function-1db6228ff1fb?source=rss------data_science-5)
-- [Projeto Análise de Dados do Airbnb — Los Angeles — Califórnia](https://medium.com/@brunobonatini/projeto-an%C3%A1lise-de-dados-do-airbnb-los-angeles-calif%C3%B3rnia-20297efe283c?source=rss------data_science-5)
-- [Don’t Use Pie Charts for Visualizations, Instead, Use this Alternative!](https://anmol3015.medium.com/dont-use-pie-charts-for-visualizations-instead-use-this-alternative-8e768c8e3e57?source=rss------data_science-5)
-- [Chess Engine with XGBoost &lpar;2/2&rpar;](https://medium.com/@josephxu1234/chess-engine-with-xgboost-2-2-b5a61ade9c06?source=rss------data_science-5)
-- [Chess Engine with XGBoost &lpar;1/2&rpar;](https://medium.com/@josephxu1234/chess-engine-with-xgboost-1-2-e997383979c1?source=rss------data_science-5)
-- [The Tech Toolkit for Aspiring Data Scientists: 10 Essential Technical Skills You Need to Succeed](https://ihimi.medium.com/the-tech-toolkit-for-aspiring-data-scientists-10-essential-technical-skills-you-need-to-succeed-132f8872625?source=rss------data_science-5)
-- [8 CHATGPT Extensions To Use It Anywhere](https://endasheridan.medium.com/8-chatgpt-extensions-to-use-it-anywhere-1625bbc86137?source=rss------data_science-5)
-- [Prompt Engineering 101](https://txt.generativeailab.org/prompt-engineering-101-8ec5b1d13246?source=rss------data_science-5)
+- [Effective Principles for Leading a Data Science team](https://medium.com/@roman.nagibov/effective-principles-for-leading-a-data-science-team-3b84ce16bb07?source=rss------data_science-5)
+- [Behind Berkeley’s Most Popular Double Major: How Applicable is DS x Econ in Industry?](https://medium.com/@dssberkeley/behind-berkeleys-most-popular-double-major-how-applicable-is-ds-x-econ-in-industry-64ea4dcca327?source=rss------data_science-5)
+- [Tipos de variables y terminología utilizada en aprendizaje no-supervisado dentro del Machine…](https://medium.com/@pabloluce2021/tipos-de-variables-y-terminolog%C3%ADa-utilizada-en-aprendizaje-no-supervisado-dentro-del-machine-8919baa01588?source=rss------data_science-5)
+- [Tipos de variables y terminología utilizada en aprendizaje supervisado dentro del Machine learning.](https://medium.com/@pabloluce2021/tipos-de-variables-y-terminolog%C3%ADa-utilizada-en-aprendizaje-supervisado-dentro-del-machine-learning-eec70d985269?source=rss------data_science-5)
+- [El machine learning y sus tipos de aprendizaje.](https://medium.com/@pabloluce2021/el-machine-learning-y-sus-tipos-de-aprendizaje-c9fabba5242f?source=rss------data_science-5)
+- [How Does Distribution and Curation Work On Medium?](https://switchupcb.medium.com/how-does-distribution-and-curation-work-on-medium-58ec7f6cf881?source=rss------data_science-5)
+- [College Basketball Data Analysis: Quantifying Winning with Box Score Statistics](https://medium.com/@kennethylhs22/college-basketball-data-analysis-quantifying-winning-with-box-score-statistics-f16c68600d27?source=rss------data_science-5)
+- [Crypto Trading 101: A Beginner’s Guide](https://medium.com/@farzadaskari569/crypto-trading-101-a-beginners-guide-ea5456741132?source=rss------data_science-5)
+- [Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?](https://artificialcorner.com/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f?source=rss------data_science-5)
+- [Easy Economics for The Unknowing Individual](https://avalexus.medium.com/easy-economics-for-the-unknowing-individual-a37b371cb0e8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
