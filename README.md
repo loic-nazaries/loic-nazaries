@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Effective Principles for Leading a Data Science team](https://medium.com/@roman.nagibov/effective-principles-for-leading-a-data-science-team-3b84ce16bb07?source=rss------data_science-5)
-- [Behind Berkeley’s Most Popular Double Major: How Applicable is DS x Econ in Industry?](https://medium.com/@dssberkeley/behind-berkeleys-most-popular-double-major-how-applicable-is-ds-x-econ-in-industry-64ea4dcca327?source=rss------data_science-5)
-- [Tipos de variables y terminología utilizada en aprendizaje no-supervisado dentro del Machine…](https://medium.com/@pabloluce2021/tipos-de-variables-y-terminolog%C3%ADa-utilizada-en-aprendizaje-no-supervisado-dentro-del-machine-8919baa01588?source=rss------data_science-5)
-- [Tipos de variables y terminología utilizada en aprendizaje supervisado dentro del Machine learning.](https://medium.com/@pabloluce2021/tipos-de-variables-y-terminolog%C3%ADa-utilizada-en-aprendizaje-supervisado-dentro-del-machine-learning-eec70d985269?source=rss------data_science-5)
-- [El machine learning y sus tipos de aprendizaje.](https://medium.com/@pabloluce2021/el-machine-learning-y-sus-tipos-de-aprendizaje-c9fabba5242f?source=rss------data_science-5)
-- [How Does Distribution and Curation Work On Medium?](https://switchupcb.medium.com/how-does-distribution-and-curation-work-on-medium-58ec7f6cf881?source=rss------data_science-5)
-- [College Basketball Data Analysis: Quantifying Winning with Box Score Statistics](https://medium.com/@kennethylhs22/college-basketball-data-analysis-quantifying-winning-with-box-score-statistics-f16c68600d27?source=rss------data_science-5)
-- [Crypto Trading 101: A Beginner’s Guide](https://medium.com/@farzadaskari569/crypto-trading-101-a-beginners-guide-ea5456741132?source=rss------data_science-5)
-- [Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?](https://artificialcorner.com/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f?source=rss------data_science-5)
-- [Easy Economics for The Unknowing Individual](https://avalexus.medium.com/easy-economics-for-the-unknowing-individual-a37b371cb0e8?source=rss------data_science-5)
+- [Do Data Scientists Do a Lot of Math?](https://dmai287.medium.com/do-data-scientists-do-a-lot-of-math-fa57e9103e97?source=rss------data_science-5)
+- [Some important terms for data professionals — SQL &lpar;Part II&rpar;](https://medium.com/@biswajit.apee10/some-important-terms-for-data-professionals-sql-part-ii-c45529038d44?source=rss------data_science-5)
+- [Some important terms for data professionals. — SQL &lpar;Part-I&rpar;](https://medium.com/@biswajit.apee10/some-important-terms-for-data-professionals-sql-part-i-9e39fec22fb3?source=rss------data_science-5)
+- [16 Python Tricks To Learn Before You Write Your Next Code](https://anmol3015.medium.com/16-python-tricks-to-learn-before-you-write-your-next-code-bb91dd955f1b?source=rss------data_science-5)
+- [DataTriever — A Chatbot Using Dialogflow for University Application and General Queries of Students](https://medium.com/@vemuri98vaishu/chatbot-using-dialogflow-for-university-application-and-general-queries-of-students-64e5dc85bd2b?source=rss------data_science-5)
+- [Essentials of Pandas](https://pub.towardsai.net/essentials-of-pandas-cf4fed410fe1?source=rss------data_science-5)
+- [Solve 8 Issues to Enhance Data Quality and Modeling Success &lpar;Part I&rpar;](https://medium.com/@rich.tsai1103/solve-8-issues-to-enhance-data-quality-and-modeling-success-part-i-a42161465892?source=rss------data_science-5)
+- [A R and python workflow for baseball stats](https://medium.com/@thiscuriousquest/a-r-and-python-workflow-for-baseball-stats-2e82a24cab98?source=rss------data_science-5)
+- [Fun with Classification](https://datascientistdad.medium.com/fun-with-classification-9734e9964efb?source=rss------data_science-5)
+- [The Advantages of Being a Self-Taught Data Analyst that Others Won’t Tell You](https://medium.com/@annettedolph/the-advantages-of-being-a-self-taught-data-analyst-that-others-wont-tell-you-194bff76c2c0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
