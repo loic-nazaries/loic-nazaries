@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Do Data Scientists Do a Lot of Math?](https://dmai287.medium.com/do-data-scientists-do-a-lot-of-math-fa57e9103e97?source=rss------data_science-5)
-- [Some important terms for data professionals — SQL &lpar;Part II&rpar;](https://medium.com/@biswajit.apee10/some-important-terms-for-data-professionals-sql-part-ii-c45529038d44?source=rss------data_science-5)
-- [Some important terms for data professionals. — SQL &lpar;Part-I&rpar;](https://medium.com/@biswajit.apee10/some-important-terms-for-data-professionals-sql-part-i-9e39fec22fb3?source=rss------data_science-5)
-- [16 Python Tricks To Learn Before You Write Your Next Code](https://anmol3015.medium.com/16-python-tricks-to-learn-before-you-write-your-next-code-bb91dd955f1b?source=rss------data_science-5)
-- [DataTriever — A Chatbot Using Dialogflow for University Application and General Queries of Students](https://medium.com/@vemuri98vaishu/chatbot-using-dialogflow-for-university-application-and-general-queries-of-students-64e5dc85bd2b?source=rss------data_science-5)
-- [Essentials of Pandas](https://pub.towardsai.net/essentials-of-pandas-cf4fed410fe1?source=rss------data_science-5)
-- [Solve 8 Issues to Enhance Data Quality and Modeling Success &lpar;Part I&rpar;](https://medium.com/@rich.tsai1103/solve-8-issues-to-enhance-data-quality-and-modeling-success-part-i-a42161465892?source=rss------data_science-5)
-- [A R and python workflow for baseball stats](https://medium.com/@thiscuriousquest/a-r-and-python-workflow-for-baseball-stats-2e82a24cab98?source=rss------data_science-5)
-- [Fun with Classification](https://datascientistdad.medium.com/fun-with-classification-9734e9964efb?source=rss------data_science-5)
-- [The Advantages of Being a Self-Taught Data Analyst that Others Won’t Tell You](https://medium.com/@annettedolph/the-advantages-of-being-a-self-taught-data-analyst-that-others-wont-tell-you-194bff76c2c0?source=rss------data_science-5)
+- [How to Apply Data Science to Small and Medium Businesses](https://dmai287.medium.com/how-to-apply-data-science-to-small-and-medium-businesses-b3b8c01109b6?source=rss------data_science-5)
+- [I’m a better coworker than I used to be. I know because I asked.](https://mattwallaert.medium.com/im-a-better-coworker-than-i-used-to-be-i-know-because-i-asked-82743e261039?source=rss------data_science-5)
+- [Data Analysis for Beginners: A 2023 Guide to Starting Your Journey](https://davidanifowoshe.medium.com/data-analysis-for-beginners-a-2023-guide-to-starting-your-journey-2f2b901b15a3?source=rss------data_science-5)
+- [Smooth Out Your Time Series Data with Moving Averages](https://medium.com/@saicharanvadakapur/smooth-out-your-time-series-data-with-moving-averages-cfc180bde220?source=rss------data_science-5)
+- [Data Analysis Tools, Assignment 3](https://medium.com/@prantrest/data-analysis-tools-assignment-3-42291d9ebff1?source=rss------data_science-5)
+- [If You Ask These 4 Python Questions, You Might Still Be a Noobie](https://johnvastola.medium.com/if-you-ask-these-4-python-questions-you-might-still-be-a-noobie-b900c60a2e7?source=rss------data_science-5)
+- [Top 5 Data Science Projects From Beginners to Pros in Python](https://pub.towardsai.net/top-5-data-science-projects-from-beginners-to-pros-in-python-b31d1f75adef?source=rss------data_science-5)
+- [What challenges will I face as a Data Scientist in the coming years due to the imminent development…](https://medium.com/geekculture/what-challenges-will-i-face-as-a-data-scientist-in-the-coming-years-due-to-the-imminent-development-4c6dc601fbee?source=rss------data_science-5)
+- [Key notes on Partitioning &amp; Clustering in BigQuery](https://medium.com/@jagadeshjamjalanarayanan/key-notes-on-partitioning-clustering-in-bigquery-30306c148921?source=rss------data_science-5)
+- [Eliminating Spam Comments with Bernoulli Naïve Bayes Algorithm](https://medium.com/@ataislucky/eliminating-spam-comments-with-bernoulli-na%C3%AFve-bayes-algorithm-ca3fef481178?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
