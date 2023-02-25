@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Apply Data Science to Small and Medium Businesses](https://dmai287.medium.com/how-to-apply-data-science-to-small-and-medium-businesses-b3b8c01109b6?source=rss------data_science-5)
-- [I’m a better coworker than I used to be. I know because I asked.](https://mattwallaert.medium.com/im-a-better-coworker-than-i-used-to-be-i-know-because-i-asked-82743e261039?source=rss------data_science-5)
-- [Data Analysis for Beginners: A 2023 Guide to Starting Your Journey](https://davidanifowoshe.medium.com/data-analysis-for-beginners-a-2023-guide-to-starting-your-journey-2f2b901b15a3?source=rss------data_science-5)
-- [Smooth Out Your Time Series Data with Moving Averages](https://medium.com/@saicharanvadakapur/smooth-out-your-time-series-data-with-moving-averages-cfc180bde220?source=rss------data_science-5)
-- [Data Analysis Tools, Assignment 3](https://medium.com/@prantrest/data-analysis-tools-assignment-3-42291d9ebff1?source=rss------data_science-5)
-- [If You Ask These 4 Python Questions, You Might Still Be a Noobie](https://johnvastola.medium.com/if-you-ask-these-4-python-questions-you-might-still-be-a-noobie-b900c60a2e7?source=rss------data_science-5)
-- [Top 5 Data Science Projects From Beginners to Pros in Python](https://pub.towardsai.net/top-5-data-science-projects-from-beginners-to-pros-in-python-b31d1f75adef?source=rss------data_science-5)
-- [What challenges will I face as a Data Scientist in the coming years due to the imminent development…](https://medium.com/geekculture/what-challenges-will-i-face-as-a-data-scientist-in-the-coming-years-due-to-the-imminent-development-4c6dc601fbee?source=rss------data_science-5)
-- [Key notes on Partitioning &amp; Clustering in BigQuery](https://medium.com/@jagadeshjamjalanarayanan/key-notes-on-partitioning-clustering-in-bigquery-30306c148921?source=rss------data_science-5)
-- [Eliminating Spam Comments with Bernoulli Naïve Bayes Algorithm](https://medium.com/@ataislucky/eliminating-spam-comments-with-bernoulli-na%C3%AFve-bayes-algorithm-ca3fef481178?source=rss------data_science-5)
+- [Machine Learning Concept 15: K-Fold Cross Validat](https://medium.com/@chandu.bathula16/machine-learning-concept-15-k-fold-cross-validat-5bf5f4a2c460?source=rss------data_science-5)
+- [NVIDIA Omniverse: A plataforma de colaboração para design 3D](https://medium.com/@InSpace/nvidia-omniverse-a-plataforma-de-colabora%C3%A7%C3%A3o-para-design-3d-31fb77f2d4c?source=rss------data_science-5)
+- [How to Improve Deep Learning Forecasts for Time Series — Part 1](https://medium.com/@skews-clawed.0o/how-to-improve-deep-learning-forecasts-for-time-series-part-1-5178a122dd74?source=rss------data_science-5)
+- [Innovative Papers on developments in the Deep Learning domain part 2&lpar;Artificial Intelligence&rpar;](https://medium.com/@skews-clawed.0o/innovative-papers-on-developments-in-the-deep-learning-domain-part-2-artificial-intelligence-8fe8d5903514?source=rss------data_science-5)
+- [ASSISTIR ▷ Velozes e Furiosos 10 &lpar;2023&rpar; Filme Completo Dublado Online Grátis](https://medium.com/@EleanorMoore21/assistir-velozes-e-furiosos-10-2023-filme-completo-dublado-online-gr%C3%A1tis-c1c72fb00c57?source=rss------data_science-5)
+- [Top 50+ SQL Interview Questions and Answers for Beginners and Experienced Professionals](https://medium.com/@anna.wu9222/top-50-sql-interview-questions-and-answers-for-beginners-and-experienced-professionals-f95cece2d9dc?source=rss------data_science-5)
+- [Linked Data Event Streams and TimescaleDB for Real-time Timeseries Data Management](https://pub.towardsai.net/linked-data-event-streams-and-timescaledb-for-real-time-timeseries-data-management-9e82ba336f82?source=rss------data_science-5)
+- [【1080p-ASSistiR】 Homem-Formiga e a Vespa: Quantumania &lpar;2023&rpar; Dublado Online HD Grátis](https://medium.com/@PiperLewis32/1080p-assistir-homem-formiga-e-a-vespa-quantumania-2023-dublado-online-hd-gr%C3%A1tis-3fbceb9469e2?source=rss------data_science-5)
+- [Machine Learning concept 14: Common Technical Words in Machine Learning &lpar;Accuracy, Error…](https://medium.com/@chandu.bathula16/machine-learning-concept-14-common-technical-words-in-machine-learning-accuracy-error-fdfd291cccb1?source=rss------data_science-5)
+- [Machine Learning concept 13: Underfit, Overfit &amp; Bestfit in a model.](https://medium.com/@chandu.bathula16/machine-learning-concept-13-underfit-overfit-bestfit-in-a-model-926c567a8bbe?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
