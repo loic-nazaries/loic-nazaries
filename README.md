@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Machine Learning Concept 15: K-Fold Cross Validat](https://medium.com/@chandu.bathula16/machine-learning-concept-15-k-fold-cross-validat-5bf5f4a2c460?source=rss------data_science-5)
-- [NVIDIA Omniverse: A plataforma de colaboração para design 3D](https://medium.com/@InSpace/nvidia-omniverse-a-plataforma-de-colabora%C3%A7%C3%A3o-para-design-3d-31fb77f2d4c?source=rss------data_science-5)
-- [How to Improve Deep Learning Forecasts for Time Series — Part 1](https://medium.com/@skews-clawed.0o/how-to-improve-deep-learning-forecasts-for-time-series-part-1-5178a122dd74?source=rss------data_science-5)
-- [Innovative Papers on developments in the Deep Learning domain part 2&lpar;Artificial Intelligence&rpar;](https://medium.com/@skews-clawed.0o/innovative-papers-on-developments-in-the-deep-learning-domain-part-2-artificial-intelligence-8fe8d5903514?source=rss------data_science-5)
-- [ASSISTIR ▷ Velozes e Furiosos 10 &lpar;2023&rpar; Filme Completo Dublado Online Grátis](https://medium.com/@EleanorMoore21/assistir-velozes-e-furiosos-10-2023-filme-completo-dublado-online-gr%C3%A1tis-c1c72fb00c57?source=rss------data_science-5)
-- [Top 50+ SQL Interview Questions and Answers for Beginners and Experienced Professionals](https://medium.com/@anna.wu9222/top-50-sql-interview-questions-and-answers-for-beginners-and-experienced-professionals-f95cece2d9dc?source=rss------data_science-5)
-- [Linked Data Event Streams and TimescaleDB for Real-time Timeseries Data Management](https://pub.towardsai.net/linked-data-event-streams-and-timescaledb-for-real-time-timeseries-data-management-9e82ba336f82?source=rss------data_science-5)
-- [【1080p-ASSistiR】 Homem-Formiga e a Vespa: Quantumania &lpar;2023&rpar; Dublado Online HD Grátis](https://medium.com/@PiperLewis32/1080p-assistir-homem-formiga-e-a-vespa-quantumania-2023-dublado-online-hd-gr%C3%A1tis-3fbceb9469e2?source=rss------data_science-5)
-- [Machine Learning concept 14: Common Technical Words in Machine Learning &lpar;Accuracy, Error…](https://medium.com/@chandu.bathula16/machine-learning-concept-14-common-technical-words-in-machine-learning-accuracy-error-fdfd291cccb1?source=rss------data_science-5)
-- [Machine Learning concept 13: Underfit, Overfit &amp; Bestfit in a model.](https://medium.com/@chandu.bathula16/machine-learning-concept-13-underfit-overfit-bestfit-in-a-model-926c567a8bbe?source=rss------data_science-5)
+- [SQL for Data Analytics — Joins](https://madushanpathriana.medium.com/sql-for-data-analytics-joins-6ae89f0924d1?source=rss------data_science-5)
+- [If your watch watched you eat…](https://medium.com/@yumiao0557/if-your-watch-watched-you-eat-e7b007db9ab1?source=rss------data_science-5)
+- [KNNImputation: What it is and How it works](https://medium.com/@shruthi.madgi05/knnimputation-what-it-is-and-how-it-works-b62d31df3442?source=rss------data_science-5)
+- [The Cost of Bad Data: How Poor Data Quality Can Impact Your Bottom Line](https://medium.com/@ovia_/the-cost-of-bad-data-how-poor-data-quality-can-impact-your-bottom-line-8347693bdfe2?source=rss------data_science-5)
+- [Main Project URL — file:///Users/saahildey/Documents/R/CoronavirusProject/Coronavirus_VSCode.html](https://medium.com/@deysaahil9/file-users-saahildey-documents-r-coronavirusproject-coronavirus-vscode-html-1d6010244df6?source=rss------data_science-5)
+- [Mastering Web Scraping and Sentiment Analysis with Python and Machine Learning](https://medium.com/@waleedmousa975/mastering-web-scraping-and-sentiment-analysis-with-python-and-machine-learning-255d1d6234c5?source=rss------data_science-5)
+- [How to build Large AI Models like ChatGPT efficiently](https://machine-learning-made-simple.medium.com/how-to-build-large-ai-models-like-chatgpt-efficiently-1ec0bc33874f?source=rss------data_science-5)
+- [ChatGPT in Action: How AI is Changing the Game for Recruiters in Hiring Data Scientists](https://medium.com/@yasser.mustafa/chatgpt-in-action-how-ai-is-changing-the-game-for-recruiters-in-hiring-data-scientists-9759d80af263?source=rss------data_science-5)
+- [Você já foi enganado por uma “cauda longa”​?](https://danilosteck.medium.com/voc%C3%AA-j%C3%A1-foi-enganado-por-uma-cauda-longa-de351555b2a6?source=rss------data_science-5)
+- [From PyTorch to PyTorch Lightning  —  A gentle introduction](https://medium.com/@keeps.dyes_06/from-pytorch-to-pytorch-lightning-a-gentle-introduction-9ede33c6006f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
