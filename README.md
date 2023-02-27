@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [SQL for Data Analytics — Joins](https://madushanpathriana.medium.com/sql-for-data-analytics-joins-6ae89f0924d1?source=rss------data_science-5)
-- [If your watch watched you eat…](https://medium.com/@yumiao0557/if-your-watch-watched-you-eat-e7b007db9ab1?source=rss------data_science-5)
-- [KNNImputation: What it is and How it works](https://medium.com/@shruthi.madgi05/knnimputation-what-it-is-and-how-it-works-b62d31df3442?source=rss------data_science-5)
-- [The Cost of Bad Data: How Poor Data Quality Can Impact Your Bottom Line](https://medium.com/@ovia_/the-cost-of-bad-data-how-poor-data-quality-can-impact-your-bottom-line-8347693bdfe2?source=rss------data_science-5)
-- [Main Project URL — file:///Users/saahildey/Documents/R/CoronavirusProject/Coronavirus_VSCode.html](https://medium.com/@deysaahil9/file-users-saahildey-documents-r-coronavirusproject-coronavirus-vscode-html-1d6010244df6?source=rss------data_science-5)
-- [Mastering Web Scraping and Sentiment Analysis with Python and Machine Learning](https://medium.com/@waleedmousa975/mastering-web-scraping-and-sentiment-analysis-with-python-and-machine-learning-255d1d6234c5?source=rss------data_science-5)
-- [How to build Large AI Models like ChatGPT efficiently](https://machine-learning-made-simple.medium.com/how-to-build-large-ai-models-like-chatgpt-efficiently-1ec0bc33874f?source=rss------data_science-5)
-- [ChatGPT in Action: How AI is Changing the Game for Recruiters in Hiring Data Scientists](https://medium.com/@yasser.mustafa/chatgpt-in-action-how-ai-is-changing-the-game-for-recruiters-in-hiring-data-scientists-9759d80af263?source=rss------data_science-5)
-- [Você já foi enganado por uma “cauda longa”​?](https://danilosteck.medium.com/voc%C3%AA-j%C3%A1-foi-enganado-por-uma-cauda-longa-de351555b2a6?source=rss------data_science-5)
-- [From PyTorch to PyTorch Lightning  —  A gentle introduction](https://medium.com/@keeps.dyes_06/from-pytorch-to-pytorch-lightning-a-gentle-introduction-9ede33c6006f?source=rss------data_science-5)
+- [Guerilla Data!](https://informationforhumans.medium.com/guerilla-data-badf6366962f?source=rss------data_science-5)
+- [How to Make Money with Web Scraping Using Python](https://johnvastola.medium.com/how-to-make-money-with-web-scraping-using-python-6d8058b159dc?source=rss------data_science-5)
+- [bjgckxfhxl](https://medium.com/@roots3/bjgckxfhxl-dec9a27f058f?source=rss------data_science-5)
+- [Evaluation Metrics on Machine Learning — Classification &lpar;2/2&rpar;](https://medium.com/acuity-learning/evaluation-metrics-on-machine-learning-classification-2-2-8c494345e32f?source=rss------data_science-5)
+- [Revolutionizing AI: Meta’s LLaMA Language Model Outperforms GPT-3 and Breaks Barriers](https://ai.plainenglish.io/revolutionizing-ai-metas-llama-language-model-outperforms-gpt-3-and-breaks-barriers-10128043cfca?source=rss------data_science-5)
+- [The differences between likelihood and probability — simply explained with examples](https://medium.com/@data.science.enthusiast/the-differences-between-likelihood-and-probability-simply-explained-with-examples-7fed16aff61f?source=rss------data_science-5)
+- [The Chronicles of Collage-GAN](https://medium.com/@theresearchlab/the-chronicles-of-collage-gan-baeed529026a?source=rss------data_science-5)
+- [Building a Data Engineering project with AWS EC2, Parameter Store, Snowflake, and Streamlit](https://sivachandanc.medium.com/building-a-data-engineering-project-with-aws-ec2-parameter-store-snowflake-and-streamlit-66319d8a7d92?source=rss------data_science-5)
+- [using api’s to unlock data everywhere](https://medium.com/@lorenziga/using-apis-to-unlock-data-everywhere-e31edd62cef?source=rss------data_science-5)
+- [REGRESSION ANALYSIS ON THE DEMAND OF CORPORATION FAVORITA PRODUCTS](https://medium.com/@slygags/regression-analysis-on-the-demand-of-corporation-favorita-products-5b57b2f5280d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
