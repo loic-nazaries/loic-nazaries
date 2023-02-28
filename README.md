@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Guerilla Data!](https://informationforhumans.medium.com/guerilla-data-badf6366962f?source=rss------data_science-5)
-- [How to Make Money with Web Scraping Using Python](https://johnvastola.medium.com/how-to-make-money-with-web-scraping-using-python-6d8058b159dc?source=rss------data_science-5)
-- [bjgckxfhxl](https://medium.com/@roots3/bjgckxfhxl-dec9a27f058f?source=rss------data_science-5)
-- [Evaluation Metrics on Machine Learning — Classification &lpar;2/2&rpar;](https://medium.com/acuity-learning/evaluation-metrics-on-machine-learning-classification-2-2-8c494345e32f?source=rss------data_science-5)
-- [Revolutionizing AI: Meta’s LLaMA Language Model Outperforms GPT-3 and Breaks Barriers](https://ai.plainenglish.io/revolutionizing-ai-metas-llama-language-model-outperforms-gpt-3-and-breaks-barriers-10128043cfca?source=rss------data_science-5)
-- [The differences between likelihood and probability — simply explained with examples](https://medium.com/@data.science.enthusiast/the-differences-between-likelihood-and-probability-simply-explained-with-examples-7fed16aff61f?source=rss------data_science-5)
-- [The Chronicles of Collage-GAN](https://medium.com/@theresearchlab/the-chronicles-of-collage-gan-baeed529026a?source=rss------data_science-5)
-- [Building a Data Engineering project with AWS EC2, Parameter Store, Snowflake, and Streamlit](https://sivachandanc.medium.com/building-a-data-engineering-project-with-aws-ec2-parameter-store-snowflake-and-streamlit-66319d8a7d92?source=rss------data_science-5)
-- [using api’s to unlock data everywhere](https://medium.com/@lorenziga/using-apis-to-unlock-data-everywhere-e31edd62cef?source=rss------data_science-5)
-- [REGRESSION ANALYSIS ON THE DEMAND OF CORPORATION FAVORITA PRODUCTS](https://medium.com/@slygags/regression-analysis-on-the-demand-of-corporation-favorita-products-5b57b2f5280d?source=rss------data_science-5)
+- [Breaking Barriers in Data Science: Women in Big Data and Data Science Society at Berkeley Team Up…](https://medium.com/@dssberkeley/breaking-barriers-in-data-science-women-in-big-data-and-data-science-society-at-berkeley-team-up-6c5c9b9ab7c8?source=rss------data_science-5)
+- [Choosing Between R and Python for Your Data Science Projects: A Comprehensive Guide](https://ai.plainenglish.io/choosing-between-r-and-python-for-your-data-science-projects-a-comprehensive-guide-2d5493a6d907?source=rss------data_science-5)
+- [Python Delattr&lpar;&rpar; Function: A Powerful Tool for Managing Objects](https://medium.com/@etirismagazine/python-delattr-function-a-powerful-tool-for-managing-objects-2de221885fa0?source=rss------data_science-5)
+- [Lists](https://wjdqo756.medium.com/lists-a9fa2da74ead?source=rss------data_science-5)
+- [Understanding Python’s Complex&lpar;&rpar; Function: A Beginner’s Guide to Working with Complex Numbers](https://medium.com/@etirismagazine/understanding-pythons-complex-function-a-beginner-s-guide-to-working-with-complex-numbers-497a7410944c?source=rss------data_science-5)
+- [Stat Digest: What is the Weak Law of Large Numbers](https://digestize.medium.com/stat-digest-what-is-the-weak-law-of-large-numbers-73344391317c?source=rss------data_science-5)
+- [Haloo semuanya](https://medium.com/@arsyadamid.work/haloo-semuanya-b7accc71b7ac?source=rss------data_science-5)
+- [The Best Engineers Think Like Investors, Not Builders](https://johnvastola.medium.com/the-best-engineers-think-like-investors-not-builders-3d5fb97231df?source=rss------data_science-5)
+- [A Netflix-Style Movie Recommendations with the Surprise Library in Python](https://ai.plainenglish.io/a-netflix-style-movie-recommendations-with-the-surprise-library-in-python-fa8c976cadf8?source=rss------data_science-5)
+- [Balancing Datasets in Binary Classification](https://marcos-gois.medium.com/balancing-datasets-in-binary-classification-1aa9abe89752?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
