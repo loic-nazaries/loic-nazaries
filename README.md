@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Breaking Barriers in Data Science: Women in Big Data and Data Science Society at Berkeley Team Up…](https://medium.com/@dssberkeley/breaking-barriers-in-data-science-women-in-big-data-and-data-science-society-at-berkeley-team-up-6c5c9b9ab7c8?source=rss------data_science-5)
-- [Choosing Between R and Python for Your Data Science Projects: A Comprehensive Guide](https://ai.plainenglish.io/choosing-between-r-and-python-for-your-data-science-projects-a-comprehensive-guide-2d5493a6d907?source=rss------data_science-5)
-- [Python Delattr&lpar;&rpar; Function: A Powerful Tool for Managing Objects](https://medium.com/@etirismagazine/python-delattr-function-a-powerful-tool-for-managing-objects-2de221885fa0?source=rss------data_science-5)
-- [Lists](https://wjdqo756.medium.com/lists-a9fa2da74ead?source=rss------data_science-5)
-- [Understanding Python’s Complex&lpar;&rpar; Function: A Beginner’s Guide to Working with Complex Numbers](https://medium.com/@etirismagazine/understanding-pythons-complex-function-a-beginner-s-guide-to-working-with-complex-numbers-497a7410944c?source=rss------data_science-5)
-- [Stat Digest: What is the Weak Law of Large Numbers](https://digestize.medium.com/stat-digest-what-is-the-weak-law-of-large-numbers-73344391317c?source=rss------data_science-5)
-- [Haloo semuanya](https://medium.com/@arsyadamid.work/haloo-semuanya-b7accc71b7ac?source=rss------data_science-5)
-- [The Best Engineers Think Like Investors, Not Builders](https://johnvastola.medium.com/the-best-engineers-think-like-investors-not-builders-3d5fb97231df?source=rss------data_science-5)
-- [A Netflix-Style Movie Recommendations with the Surprise Library in Python](https://ai.plainenglish.io/a-netflix-style-movie-recommendations-with-the-surprise-library-in-python-fa8c976cadf8?source=rss------data_science-5)
-- [Balancing Datasets in Binary Classification](https://marcos-gois.medium.com/balancing-datasets-in-binary-classification-1aa9abe89752?source=rss------data_science-5)
+- [Pandas 2.0 Up To 32x Faster](https://tomaszs2.medium.com/pandas-2-0-up-to-32x-faster-57bbf03f002a?source=rss------data_science-5)
+- [Five Killer Optimization Techniques Every Pandas User Should Know](https://johnvastola.medium.com/five-killer-optimization-techniques-every-pandas-user-should-know-384ea6448fdb?source=rss------data_science-5)
+- [What is GPT-3?](https://medium.com/@vishal079/what-is-gpt-3-f3c1b66c4b1?source=rss------data_science-5)
+- [“Mastering Machine Learning with TensorFlow: A Comprehensive Guide to Building Powerful Models”](https://medium.com/@gigosr/mastering-machine-learning-with-tensorflow-a-comprehensive-guide-to-building-powerful-models-7f6f6e075a22?source=rss------data_science-5)
+- [10 Pandas Mistakes You Should NEVER Make](https://medium.com/@amadodejesusvazquezacuna/10-pandas-mistakes-you-should-never-make-82b5e8d91a45?source=rss------data_science-5)
+- [How To Forecast With SARIMA](https://pub.towardsai.net/how-to-forecast-with-sarima-d4b4c98fca7b?source=rss------data_science-5)
+- [What’s in Your Visual Dataset?](https://medium.com/aperturedata/whats-in-your-visual-dataset-8a79127b13ee?source=rss------data_science-5)
+- [Data for the Sake of Data? No Thanks!](https://medium.com/@humbertorendonr/data-for-the-sake-of-data-no-thanks-e55b9ea4314e?source=rss------data_science-5)
+- [Historical Analytics and Dashboard Update](https://bastionprotocol.medium.com/improve-historical-analytics-and-dashboard-f52ef1d3b12d?source=rss------data_science-5)
+- [Nurturing Data Literacy](https://bootcamp.uxdesign.cc/nurturing-data-literacy-6b40cab73f82?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
