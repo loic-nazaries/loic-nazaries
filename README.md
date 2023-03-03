@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Beyond the Numbers: The Power of Combining Data Science with Behavioral Science](https://medium.com/@mtanekar/beyond-the-numbers-the-power-of-combining-data-science-with-behavioral-science-32279ccaad26?source=rss------data_science-5)
-- [“Unveiling the Cutting-Edge of NLP: February 2023’s Top AI Innovations”](https://txt.generativeailab.org/unveiling-the-cutting-edge-of-nlp-february-2023s-top-ai-innovations-293c60eb06c1?source=rss------data_science-5)
-- [Movie Recommendation System: A Machine Learning Project](https://medium.com/@danylo.bachynskyy/movie-recommendation-system-a-machine-learning-project-4be035fda3f5?source=rss------data_science-5)
-- [Master-Level Questions in Data Science](https://medium.com/@roiyeho/master-level-questions-in-data-science-38d2f55e1d83?source=rss------data_science-5)
-- [Project:](https://wjdqo756.medium.com/project-f5650ca3cbae?source=rss------data_science-5)
-- [Data Engineering for Data Science](https://medium.com/@jagadeshjamjalanarayanan/data-engineering-for-data-science-dd5726c5f2d5?source=rss------data_science-5)
-- [hvPlot vs Datashader: A Comparison of Two Popular Data Visualization Tools](https://medium.com/@dennisyd/hvplot-vs-datashader-a-comparison-of-two-popular-data-visualization-tools-49051f244eab?source=rss------data_science-5)
-- [Harnessing the Power of Apache Kafka for Real-Time Predictive Analytics](https://medium.com/@waleedmousa975/harnessing-the-power-of-apache-kafka-for-real-time-predictive-analytics-faf802b119c?source=rss------data_science-5)
-- [It’s Time to Say Goodbye to These Obsolete Python Libraries](https://johnvastola.medium.com/its-time-to-say-goodbye-to-these-obsolete-python-libraries-42f6e4af80cb?source=rss------data_science-5)
-- [Empaqueter JupyterLite pour être déployé sur la plateforme globale d’applications Fly.io …](https://deep75.medium.com/empaqueter-jupyterlite-pour-%C3%AAtre-d%C3%A9ploy%C3%A9-sur-la-plateforme-globale-dapplications-fly-io-7362dc6da7d2?source=rss------data_science-5)
+- [Data Analyst’s Recipe | What is Tabular Data Analytics in context of a Business](https://medium.com/@HalderNilimesh/data-analysts-recipe-what-is-tabular-data-analytics-in-context-of-a-business-ab2d227a5276?source=rss------data_science-5)
+- [Merging vs Joining in Pandas: Which One Should You Use?](https://medium.com/@saicharanvadakapur/merging-vs-joining-in-pandas-which-one-should-you-use-94745919c225?source=rss------data_science-5)
+- [Pandas internal](https://jimmy-shen.medium.com/pandas-internal-dcbc4b091562?source=rss------data_science-5)
+- [Adding Easy Google Authentication With Supabase In React Apps](https://levelup.gitconnected.com/adding-easy-google-authentication-with-supabase-in-react-apps-68c099a0dcf7?source=rss------data_science-5)
+- [Pyscript: Python Folium Library in the browser](https://levelup.gitconnected.com/pyscript-python-folium-library-in-the-browser-661cd25b720?source=rss------data_science-5)
+- [Loops Condition in One line with Python](https://levelup.gitconnected.com/loops-condition-in-one-line-with-python-b9eceb7ff09d?source=rss------data_science-5)
+- [4 Automation Projects in Python You Can Finish in a Weekend](https://johnvastola.medium.com/4-automation-projects-in-python-you-can-finish-in-a-weekend-588a02e96fe2?source=rss------data_science-5)
+- [Maximizing Pandas Efficiency: Top 10 Mistakes to Steer Clear of in Your Code](https://levelup.gitconnected.com/maximizing-pandas-efficiency-top-10-mistakes-to-steer-clear-of-in-your-code-8623aff053cd?source=rss------data_science-5)
+- [Roadmap to Become a data Scientist.](https://medium.com/@vinay.sagar.btech/roadmap-to-become-a-data-scientist-1bd0143d0795?source=rss------data_science-5)
+- [Back to the Future: How to Use Time Travel in Snowflake for Data Recovery, Auditing, Testing, and…](https://medium.com/@araujogabe1/back-to-the-future-how-to-use-time-travel-in-snowflake-for-data-recovery-auditing-testing-and-45408557de97?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
