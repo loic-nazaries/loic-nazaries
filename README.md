@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Analyst’s Recipe | What is Tabular Data Analytics in context of a Business](https://medium.com/@HalderNilimesh/data-analysts-recipe-what-is-tabular-data-analytics-in-context-of-a-business-ab2d227a5276?source=rss------data_science-5)
-- [Merging vs Joining in Pandas: Which One Should You Use?](https://medium.com/@saicharanvadakapur/merging-vs-joining-in-pandas-which-one-should-you-use-94745919c225?source=rss------data_science-5)
-- [Pandas internal](https://jimmy-shen.medium.com/pandas-internal-dcbc4b091562?source=rss------data_science-5)
-- [Adding Easy Google Authentication With Supabase In React Apps](https://levelup.gitconnected.com/adding-easy-google-authentication-with-supabase-in-react-apps-68c099a0dcf7?source=rss------data_science-5)
-- [Pyscript: Python Folium Library in the browser](https://levelup.gitconnected.com/pyscript-python-folium-library-in-the-browser-661cd25b720?source=rss------data_science-5)
-- [Loops Condition in One line with Python](https://levelup.gitconnected.com/loops-condition-in-one-line-with-python-b9eceb7ff09d?source=rss------data_science-5)
-- [4 Automation Projects in Python You Can Finish in a Weekend](https://johnvastola.medium.com/4-automation-projects-in-python-you-can-finish-in-a-weekend-588a02e96fe2?source=rss------data_science-5)
-- [Maximizing Pandas Efficiency: Top 10 Mistakes to Steer Clear of in Your Code](https://levelup.gitconnected.com/maximizing-pandas-efficiency-top-10-mistakes-to-steer-clear-of-in-your-code-8623aff053cd?source=rss------data_science-5)
-- [Roadmap to Become a data Scientist.](https://medium.com/@vinay.sagar.btech/roadmap-to-become-a-data-scientist-1bd0143d0795?source=rss------data_science-5)
-- [Back to the Future: How to Use Time Travel in Snowflake for Data Recovery, Auditing, Testing, and…](https://medium.com/@araujogabe1/back-to-the-future-how-to-use-time-travel-in-snowflake-for-data-recovery-auditing-testing-and-45408557de97?source=rss------data_science-5)
+- [A huge new feature in Parabola: “ Superbar”!](https://medium.com/alex-couch-s-portfolio/a-huge-new-feature-in-parabola-superbar-f3a3c157d6d4?source=rss------data_science-5)
+- [Recognizing the Risks of Data Interpretation](https://bootcamp.uxdesign.cc/recognizing-the-risks-of-data-interpretation-6a857a33a4ff?source=rss------data_science-5)
+- [These 5   Videos Changed My Career As a Data Scientist](https://medium.com/@smraiyyan/these-5-videos-changed-my-career-as-a-data-scientist-96aae295b1f?source=rss------data_science-5)
+- [Unraveling Hidden Insights with K-Means Clustering in R: A Comprehensive Guide with an Example…](https://medium.com/@psrinivasan028/unraveling-hidden-insights-with-k-means-clustering-in-r-a-comprehensive-guide-with-an-example-a80ba20c00af?source=rss------data_science-5)
+- [Data Engineering: The Backbone of Data Science](https://medium.com/@vishalbarvaliya112/data-engineering-the-backbone-of-data-science-396180908537?source=rss------data_science-5)
+- [Trabajando con millones de datos de las Declaraciones Anuales Anonimizadas del SAT en R](https://medium.com/@diegosreco/trabajando-con-millones-de-datos-de-las-declaraciones-anuales-anonimizadas-del-sat-en-r-69bb0cff5db6?source=rss------data_science-5)
+- [Revolutionize Your Data Processing: Mastering International Phone Number Validation and Formatting…](https://medium.com/@thehenrywills/revolutionize-your-data-processing-mastering-international-phone-number-validation-and-formatting-f718cde3b769?source=rss------data_science-5)
+- [Whom to sell the personal loan!](https://meetdiwan.medium.com/whom-to-sell-the-personal-loan-7e3b5add44d9?source=rss------data_science-5)
+- [Machine Learning Concept 26: Receiver Operating Characteristic &amp; AUC curve.](https://medium.com/@chandu.bathula16/machine-learning-concept-26-receiver-operating-characteristic-auc-curve-dd508cc9dfcd?source=rss------data_science-5)
+- [How Can Hardcoded Rules Overperform ML?](https://pub.towardsai.net/how-can-hardcoded-rules-overperform-ml-76c9de5672e8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
