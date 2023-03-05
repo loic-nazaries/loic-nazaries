@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A huge new feature in Parabola: “ Superbar”!](https://medium.com/alex-couch-s-portfolio/a-huge-new-feature-in-parabola-superbar-f3a3c157d6d4?source=rss------data_science-5)
-- [Recognizing the Risks of Data Interpretation](https://bootcamp.uxdesign.cc/recognizing-the-risks-of-data-interpretation-6a857a33a4ff?source=rss------data_science-5)
-- [These 5   Videos Changed My Career As a Data Scientist](https://medium.com/@smraiyyan/these-5-videos-changed-my-career-as-a-data-scientist-96aae295b1f?source=rss------data_science-5)
-- [Unraveling Hidden Insights with K-Means Clustering in R: A Comprehensive Guide with an Example…](https://medium.com/@psrinivasan028/unraveling-hidden-insights-with-k-means-clustering-in-r-a-comprehensive-guide-with-an-example-a80ba20c00af?source=rss------data_science-5)
-- [Data Engineering: The Backbone of Data Science](https://medium.com/@vishalbarvaliya112/data-engineering-the-backbone-of-data-science-396180908537?source=rss------data_science-5)
-- [Trabajando con millones de datos de las Declaraciones Anuales Anonimizadas del SAT en R](https://medium.com/@diegosreco/trabajando-con-millones-de-datos-de-las-declaraciones-anuales-anonimizadas-del-sat-en-r-69bb0cff5db6?source=rss------data_science-5)
-- [Revolutionize Your Data Processing: Mastering International Phone Number Validation and Formatting…](https://medium.com/@thehenrywills/revolutionize-your-data-processing-mastering-international-phone-number-validation-and-formatting-f718cde3b769?source=rss------data_science-5)
-- [Whom to sell the personal loan!](https://meetdiwan.medium.com/whom-to-sell-the-personal-loan-7e3b5add44d9?source=rss------data_science-5)
-- [Machine Learning Concept 26: Receiver Operating Characteristic &amp; AUC curve.](https://medium.com/@chandu.bathula16/machine-learning-concept-26-receiver-operating-characteristic-auc-curve-dd508cc9dfcd?source=rss------data_science-5)
-- [How Can Hardcoded Rules Overperform ML?](https://pub.towardsai.net/how-can-hardcoded-rules-overperform-ml-76c9de5672e8?source=rss------data_science-5)
+- [The Science Behind the Best Models: A Guide to Hyperparameter Tuning](https://medium.com/@atharv4study/the-science-behind-the-best-models-a-guide-to-hyperparameter-tuning-64abc5f843aa?source=rss------data_science-5)
+- [Tips and Tricks on Filter Text Data in SQL](https://medium.com/@bthor10/tips-and-tricks-on-filter-text-data-in-sql-207f6f76b38c?source=rss------data_science-5)
+- [Overcoming the Risks of Data Interpretation](https://bootcamp.uxdesign.cc/overcoming-the-risks-of-data-interpretation-7dc3ef6a57b5?source=rss------data_science-5)
+- [Mastering the Power of Python’s eval&lpar;&rpar; Function: From Dynamic Code Generation to Complex Expression…](https://medium.com/@etirismagazine/mastering-the-power-of-pythons-eval-function-from-dynamic-code-generation-to-complex-expression-10656f3adbfa?source=rss------data_science-5)
+- [The Future of Business: Why Data Science is Essential](https://midwestblogging66.medium.com/the-future-of-business-why-data-science-is-essential-c51140b84715?source=rss------data_science-5)
+- [Train / Dev / Test Sets](https://medium.com/@ahmettsdmr1312/train-dev-test-sets-2eb3dda0186d?source=rss------data_science-5)
+- [Deep Learning Vectorization: The Art of Optimizing Neural Networks](https://medium.com/@ahmettsdmr1312/deep-learning-vectorization-the-art-of-optimizing-neural-networks-5f00208f0626?source=rss------data_science-5)
+- [5 Essential Data Visualization Tools for Effective Insights](https://medium.com/@leucopsis/5-essential-data-visualization-tools-for-effective-insights-eaa5c0b3c972?source=rss------data_science-5)
+- [Why Your P-Value May Be Misleading](https://medium.com/@dannydata/why-your-p-value-may-be-misleading-e4a792917cfe?source=rss------data_science-5)
+- [ChatGPT API](https://medium.com/@urvijain3012/chatgpt-api-45ff1c24899e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
