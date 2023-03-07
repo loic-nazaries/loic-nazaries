@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What exactly is MLOps &lpar;Machine Learning Operations&rpar;?](https://medium.com/@analytics4all/what-exactly-is-mlops-machine-learning-operations-6bbd52561f2c?source=rss------data_science-5)
-- [What Is the Difference Between the Significance Level and P-Value](https://medium.com/@dannydata/what-is-the-difference-between-the-significance-level-and-p-value-26324e0baca7?source=rss------data_science-5)
-- [Machine Learning Models to Predict Mental Disorders](https://medium.com/@victoriaonguyen/mental-health-disorders-such-as-chronic-diseases-bipolar-disorder-and-schizophrenia-often-7387f948802f?source=rss------data_science-5)
-- [What is LIME and How it can used?](https://medium.com/@iqra.bismi/what-is-lime-and-how-it-can-used-9b98ef9ecaf?source=rss------data_science-5)
-- [Coaching for Data, Analytics, AI Leaders &lpar;11–20&rpar;](https://modern-cdo.medium.com/coaching-for-data-analytics-ai-leaders-11-20-55d6a9e545ea?source=rss------data_science-5)
-- [Class 5:](https://wjdqo756.medium.com/class-5-111f00589497?source=rss------data_science-5)
-- [What Is Dictionary In Python](https://medium.com/@souvikdutta.aec/what-is-dictionary-in-python-a699aa0e3545?source=rss------data_science-5)
-- [Class 4:](https://wjdqo756.medium.com/class-4-2758da50f3d3?source=rss------data_science-5)
-- [Coreflux C# Digital Worker Asset](https://medium.com/coreflux-blog/coreflux-c-digital-worker-asset-69318a9ade4?source=rss------data_science-5)
-- [Mencari Tahu Keuntungan Menggunakan Teknologi Big Data](https://medium.com/@exsciencemanagement/mencari-tahu-keuntungan-menggunakan-teknologi-big-data-25295c353a78?source=rss------data_science-5)
+- [What is &lpar;Ai&rpar; PromptCraft?](https://medium.com/@ThisIsMeIn360VR/what-is-ai-promptcraft-7242e95e1626?source=rss------data_science-5)
+- [LaTeX Tutorial for Beginners — Full Course](https://medium.com/@cftd1234/latex-tutorial-for-beginners-full-course-4b3406ce8a4e?source=rss------data_science-5)
+- [Blockchain in Healthcare: Transforming Patient Data Security and Record-Keeping](https://felipematsushita.medium.com/blockchain-in-healthcare-transforming-patient-data-security-and-record-keeping-6f72a454c7ce?source=rss------data_science-5)
+- [Understanding PySpark’s StructType and StructField for Complex Data Structures](https://medium.com/@uzzaman.ahmed/tk-tk-understanding-pysparks-structtype-and-structfield-for-complex-data-structures-98cdb2ab242b?source=rss------data_science-5)
+- [What You Should Know About Natural Language Processing &lpar;NLP&rpar; Before Diving In](https://medium.com/@dannydata/what-you-should-know-about-natural-language-processing-nlp-before-diving-in-b73b89d5eeff?source=rss------data_science-5)
+- [Blind 75 Alternative &lpar;SQL Edition!&rpar;](https://medium.com/@anna.wu9222/blind-75-alternative-sql-edition-4e07e5b6dffe?source=rss------data_science-5)
+- [How to help Snowflake eliminate your redundant joins with constraints](https://hoffa.medium.com/how-to-help-snowflake-eliminate-your-redundant-joins-with-constraints-f6c696264114?source=rss------data_science-5)
+- [Why Python for AI ?](https://medium.com/@pmgzo/why-python-for-ai-ae924262ae63?source=rss------data_science-5)
+- [What are machine learning and data science in the context of business analytics?](https://medium.com/analysts-corner/what-are-machine-learning-and-data-science-in-the-context-of-business-analytics-3a41c1ae1301?source=rss------data_science-5)
+- [Four Ingredients of a Data Governance Solution: Literacy, Quality, Protection and Access](https://taylorsegell.medium.com/four-ingredients-of-a-data-governance-solution-3081a117fad4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
