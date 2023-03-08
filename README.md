@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What is &lpar;Ai&rpar; PromptCraft?](https://medium.com/@ThisIsMeIn360VR/what-is-ai-promptcraft-7242e95e1626?source=rss------data_science-5)
-- [LaTeX Tutorial for Beginners — Full Course](https://medium.com/@cftd1234/latex-tutorial-for-beginners-full-course-4b3406ce8a4e?source=rss------data_science-5)
-- [Blockchain in Healthcare: Transforming Patient Data Security and Record-Keeping](https://felipematsushita.medium.com/blockchain-in-healthcare-transforming-patient-data-security-and-record-keeping-6f72a454c7ce?source=rss------data_science-5)
-- [Understanding PySpark’s StructType and StructField for Complex Data Structures](https://medium.com/@uzzaman.ahmed/tk-tk-understanding-pysparks-structtype-and-structfield-for-complex-data-structures-98cdb2ab242b?source=rss------data_science-5)
-- [What You Should Know About Natural Language Processing &lpar;NLP&rpar; Before Diving In](https://medium.com/@dannydata/what-you-should-know-about-natural-language-processing-nlp-before-diving-in-b73b89d5eeff?source=rss------data_science-5)
-- [Blind 75 Alternative &lpar;SQL Edition!&rpar;](https://medium.com/@anna.wu9222/blind-75-alternative-sql-edition-4e07e5b6dffe?source=rss------data_science-5)
-- [How to help Snowflake eliminate your redundant joins with constraints](https://hoffa.medium.com/how-to-help-snowflake-eliminate-your-redundant-joins-with-constraints-f6c696264114?source=rss------data_science-5)
-- [Why Python for AI ?](https://medium.com/@pmgzo/why-python-for-ai-ae924262ae63?source=rss------data_science-5)
-- [What are machine learning and data science in the context of business analytics?](https://medium.com/analysts-corner/what-are-machine-learning-and-data-science-in-the-context-of-business-analytics-3a41c1ae1301?source=rss------data_science-5)
-- [Four Ingredients of a Data Governance Solution: Literacy, Quality, Protection and Access](https://taylorsegell.medium.com/four-ingredients-of-a-data-governance-solution-3081a117fad4?source=rss------data_science-5)
+- [Setup your environment for Data Science Project Development](https://medium.com/@simamoraharry8/setup-your-environment-for-data-science-project-development-b5766793b2a6?source=rss------data_science-5)
+- [Class 7: Debugging and Testing](https://wjdqo756.medium.com/class-7-504387a7e664?source=rss------data_science-5)
+- [Class 6: Networking](https://wjdqo756.medium.com/class-6-9c9aaf346962?source=rss------data_science-5)
+- [Unveiling Hidden Insights: A Quick Start Guide to Exploratory Data Analysis &lpar;EDA&rpar;](https://medium.com/@h.jurza/unveiling-hidden-insights-a-quick-start-guide-to-exploratory-data-analysis-eda-c843dd710726?source=rss------data_science-5)
+- [Build Customer Journeys Using SQL](https://towardsdatascience.com/build-customer-journeys-using-sql-10127eb2fbbe?source=rss------data_science-5)
+- [College Basketball’s NET Rankings Explained](https://towardsdatascience.com/college-basketballs-net-rankings-explained-25faa0ce71ed?source=rss------data_science-5)
+- [All about Gauss Markov Theorem for Ordinary Least Squares regression &lpar;OLS&rpar;, BLUE properties of…](https://medium.com/@shubhamsd100/all-about-gauss-markov-theorem-for-ordinary-least-squares-regression-ols-blue-properties-of-e1e1864fe087?source=rss------data_science-5)
+- [Analisando os dados do AirBnb na cidade de Roma](https://grflopes.medium.com/analisando-os-dados-do-airbnb-na-cidade-de-roma-4ee6af13bbdc?source=rss------data_science-5)
+- [How to Automate the Management of Custom Images in Amazon SageMaker](https://arjunbanerjee2103.medium.com/how-to-automate-the-management-of-custom-images-in-amazon-sagemaker-72b25695bd7c?source=rss------data_science-5)
+- [How to write a good Readme for your Data Science project on GitHub](https://medium.com/analytics-vidhya/how-to-write-a-good-readme-for-your-data-science-project-on-github-ebb023d4a50e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
