@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Setup your environment for Data Science Project Development](https://medium.com/@simamoraharry8/setup-your-environment-for-data-science-project-development-b5766793b2a6?source=rss------data_science-5)
-- [Class 7: Debugging and Testing](https://wjdqo756.medium.com/class-7-504387a7e664?source=rss------data_science-5)
-- [Class 6: Networking](https://wjdqo756.medium.com/class-6-9c9aaf346962?source=rss------data_science-5)
-- [Unveiling Hidden Insights: A Quick Start Guide to Exploratory Data Analysis &lpar;EDA&rpar;](https://medium.com/@h.jurza/unveiling-hidden-insights-a-quick-start-guide-to-exploratory-data-analysis-eda-c843dd710726?source=rss------data_science-5)
-- [Build Customer Journeys Using SQL](https://towardsdatascience.com/build-customer-journeys-using-sql-10127eb2fbbe?source=rss------data_science-5)
-- [College Basketball’s NET Rankings Explained](https://towardsdatascience.com/college-basketballs-net-rankings-explained-25faa0ce71ed?source=rss------data_science-5)
-- [All about Gauss Markov Theorem for Ordinary Least Squares regression &lpar;OLS&rpar;, BLUE properties of…](https://medium.com/@shubhamsd100/all-about-gauss-markov-theorem-for-ordinary-least-squares-regression-ols-blue-properties-of-e1e1864fe087?source=rss------data_science-5)
-- [Analisando os dados do AirBnb na cidade de Roma](https://grflopes.medium.com/analisando-os-dados-do-airbnb-na-cidade-de-roma-4ee6af13bbdc?source=rss------data_science-5)
-- [How to Automate the Management of Custom Images in Amazon SageMaker](https://arjunbanerjee2103.medium.com/how-to-automate-the-management-of-custom-images-in-amazon-sagemaker-72b25695bd7c?source=rss------data_science-5)
-- [How to write a good Readme for your Data Science project on GitHub](https://medium.com/analytics-vidhya/how-to-write-a-good-readme-for-your-data-science-project-on-github-ebb023d4a50e?source=rss------data_science-5)
+- [The Advancements in Cancer Diagnosis using Artificial Intelligence, Neural Networks and Data…](https://medium.com/@anya.lachwani/the-advancements-in-cancer-diagnosis-using-artificial-intelligence-neural-networks-and-data-839b01692432?source=rss------data_science-5)
+- [Here’s a crazy idea — This International Women’s Day, Read something, Learn something, &amp; Change…](https://medium.com/@sgomeztrillos/heres-a-crazy-idea-this-international-women-s-day-read-something-learn-something-change-79e25e1201f8?source=rss------data_science-5)
+- [Class 10: Data Visualization](https://wjdqo756.medium.com/class-10-data-visualization-62a779ff7aca?source=rss------data_science-5)
+- [Illuminating the Inner Workings of Pandas DataFrames](https://medium.com/@saicharanvadakapur/illuminating-the-inner-workings-of-pandas-dataframes-f763637306c3?source=rss------data_science-5)
+- [Pandas 2.0 — a required upgrade](https://medium.com/@amadatiq/pandas-2-0-a-required-upgrade-5a4b7fc47fc8?source=rss------data_science-5)
+- [Class 9: Database Programming](https://wjdqo756.medium.com/class-9-database-programming-c34af379b01b?source=rss------data_science-5)
+- [Enhancing Spotify Playlists using their Audio Features with Classical and Deep Learning Methods](https://medium.com/@ucladsu/enhancing-spotify-playlists-using-their-audio-features-with-classical-and-deep-learning-methods-f8c0e7e878cf?source=rss------data_science-5)
+- [Class 8 : Web scraping](https://wjdqo756.medium.com/class-8-web-scraping-4dd07364f609?source=rss------data_science-5)
+- [Logistic Regression](https://medium.com/@xiaoyigu/logistic-regression-e94450e5d3f6?source=rss------data_science-5)
+- [Children’s Well-being in the Digital World](https://medium.com/@manninganthony04/childrens-well-being-in-the-digital-world-157efe82e927?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
