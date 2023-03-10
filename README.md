@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Advancements in Cancer Diagnosis using Artificial Intelligence, Neural Networks and Data…](https://medium.com/@anya.lachwani/the-advancements-in-cancer-diagnosis-using-artificial-intelligence-neural-networks-and-data-839b01692432?source=rss------data_science-5)
-- [Here’s a crazy idea — This International Women’s Day, Read something, Learn something, &amp; Change…](https://medium.com/@sgomeztrillos/heres-a-crazy-idea-this-international-women-s-day-read-something-learn-something-change-79e25e1201f8?source=rss------data_science-5)
-- [Class 10: Data Visualization](https://wjdqo756.medium.com/class-10-data-visualization-62a779ff7aca?source=rss------data_science-5)
-- [Illuminating the Inner Workings of Pandas DataFrames](https://medium.com/@saicharanvadakapur/illuminating-the-inner-workings-of-pandas-dataframes-f763637306c3?source=rss------data_science-5)
-- [Pandas 2.0 — a required upgrade](https://medium.com/@amadatiq/pandas-2-0-a-required-upgrade-5a4b7fc47fc8?source=rss------data_science-5)
-- [Class 9: Database Programming](https://wjdqo756.medium.com/class-9-database-programming-c34af379b01b?source=rss------data_science-5)
-- [Enhancing Spotify Playlists using their Audio Features with Classical and Deep Learning Methods](https://medium.com/@ucladsu/enhancing-spotify-playlists-using-their-audio-features-with-classical-and-deep-learning-methods-f8c0e7e878cf?source=rss------data_science-5)
-- [Class 8 : Web scraping](https://wjdqo756.medium.com/class-8-web-scraping-4dd07364f609?source=rss------data_science-5)
-- [Logistic Regression](https://medium.com/@xiaoyigu/logistic-regression-e94450e5d3f6?source=rss------data_science-5)
-- [Children’s Well-being in the Digital World](https://medium.com/@manninganthony04/childrens-well-being-in-the-digital-world-157efe82e927?source=rss------data_science-5)
+- [Demystifying Confusion Matrix:](https://medium.com/@DiokpoDesignInsights/demystifying-confusion-matrix-b860c786d639?source=rss------data_science-5)
+- [Challenging Assumptions: Preparing for Unwanted Data Results](https://medium.com/@humbertorendonr/challenging-assumptions-preparing-for-unwanted-data-results-431a74ce62ac?source=rss------data_science-5)
+- [Visualizing Gorillaz in R | How to Analyze Artists Using Spotifyr](https://medium.com/@edison1/visualizing-gorillaz-in-r-how-to-analyze-artists-using-spotifyr-ebae3e05491b?source=rss------data_science-5)
+- [A Beautiful Problem in Trigonometry and Classical Statistics](https://keith-mcnulty.medium.com/a-beautiful-problem-in-trigonometry-and-classical-statistics-c33d2864f6d1?source=rss------data_science-5)
+- [How to Build a strong Data Science Resume with Kaggle](https://pub.towardsai.net/how-to-build-a-strong-data-science-resume-with-kaggle-2cd3b981a22a?source=rss------data_science-5)
+- [A Discussion: Top Challenges of Moving Data Science to Production.](https://mmbazel.medium.com/a-discussion-top-challenges-of-moving-data-science-to-production-17f9d127c6c3?source=rss------data_science-5)
+- [What An MLOps Engineer Does](https://medium.com/kitchen-sink-data-science/what-an-mlops-engineer-does-565d4d0adb2b?source=rss------data_science-5)
+- [PyTorch-Lightning: How efficiently organize our code](https://medium.com/@tomaslruffo/pytorch-lightning-how-efficiently-organize-our-code-73bbba97509e?source=rss------data_science-5)
+- [Cleaning Up to Level Up — HealthJoy Data in 2023](https://medium.com/healthjoy-data/cleaning-up-to-level-up-healthjoy-data-in-2023-77130d6bbbaf?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
