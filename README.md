@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Demystifying Confusion Matrix:](https://medium.com/@DiokpoDesignInsights/demystifying-confusion-matrix-b860c786d639?source=rss------data_science-5)
-- [Challenging Assumptions: Preparing for Unwanted Data Results](https://medium.com/@humbertorendonr/challenging-assumptions-preparing-for-unwanted-data-results-431a74ce62ac?source=rss------data_science-5)
-- [Visualizing Gorillaz in R | How to Analyze Artists Using Spotifyr](https://medium.com/@edison1/visualizing-gorillaz-in-r-how-to-analyze-artists-using-spotifyr-ebae3e05491b?source=rss------data_science-5)
-- [A Beautiful Problem in Trigonometry and Classical Statistics](https://keith-mcnulty.medium.com/a-beautiful-problem-in-trigonometry-and-classical-statistics-c33d2864f6d1?source=rss------data_science-5)
-- [How to Build a strong Data Science Resume with Kaggle](https://pub.towardsai.net/how-to-build-a-strong-data-science-resume-with-kaggle-2cd3b981a22a?source=rss------data_science-5)
-- [A Discussion: Top Challenges of Moving Data Science to Production.](https://mmbazel.medium.com/a-discussion-top-challenges-of-moving-data-science-to-production-17f9d127c6c3?source=rss------data_science-5)
-- [What An MLOps Engineer Does](https://medium.com/kitchen-sink-data-science/what-an-mlops-engineer-does-565d4d0adb2b?source=rss------data_science-5)
-- [PyTorch-Lightning: How efficiently organize our code](https://medium.com/@tomaslruffo/pytorch-lightning-how-efficiently-organize-our-code-73bbba97509e?source=rss------data_science-5)
-- [Cleaning Up to Level Up — HealthJoy Data in 2023](https://medium.com/healthjoy-data/cleaning-up-to-level-up-healthjoy-data-in-2023-77130d6bbbaf?source=rss------data_science-5)
+- [Top 5 Online Certification Websites for Aspiring Coders. According to StackOverflow Survey 2022](https://medium.com/@samsonmusumuri/top-5-online-certification-websites-for-aspiring-coders-according-to-stackoverflow-survey-2022-13b252ae31cb?source=rss------data_science-5)
+- [Data](https://medium.com/@evertongomede/data-3867bb202681?source=rss------data_science-5)
+- [Have you ever wondered? Analysis of the Airbnb rentals in Mexico City](https://medium.com/@frubi17/have-you-ever-wondered-analysis-of-the-airbnb-rentals-in-mexico-city-a337e33f0ed4?source=rss------data_science-5)
+- [And The Next Host of The Daily Show Is…](https://medium.com/@probabilitypenguin/and-the-next-host-of-the-daily-show-is-309660394ae8?source=rss------data_science-5)
+- [Tutorial del Algoritmo DBSCAN en Python](https://medium.com/latinxinai/tutorial-del-algoritmo-dbscan-en-python-d7c187c1b24f?source=rss------data_science-5)
+- [Plotly Customization Tips You Can’t Miss for Better Data Storytelling](https://moez-62905.medium.com/plotly-customization-tips-you-cant-miss-for-better-data-storytelling-ef1ccd108954?source=rss------data_science-5)
+- [8 Things to Delete from your ML/Data Science Computer to Free Up Space](https://medium.com/@jaelin_75015/8-things-to-delete-from-your-ml-data-science-computer-to-free-up-space-macbook-air-m1-f0ff85908220?source=rss------data_science-5)
+- [JADC2 &amp; The Islands of Innovation](https://medium.com/@ryanharth/jadc2-the-islands-of-innovation-4878cbd7bfb5?source=rss------data_science-5)
+- [AI in Warfare: Why We Must Prioritize Civilians Protection](https://medium.com/@sahirmaharaj/ai-in-warfare-why-we-must-prioritize-civilians-protection-f7107d266ced?source=rss------data_science-5)
+- [A Theoretical Introduction to Neurofeedback](https://medium.com/@Courageous_Warrior_Woman/a-theoretical-introduction-to-neurofeedback-2db105e752d6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
