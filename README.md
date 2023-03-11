@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [5 Functions is All You Need to Manage Your Data with dplyr](https://towardsdatascience.com/5-functions-is-all-you-need-to-manage-your-data-with-dplyr-1630825c47b0?source=rss-2cf6b549448------2)
 - [5 Ways to Filter Data in R](https://sonery.medium.com/5-ways-to-filter-data-in-r-d1e52562ee59?source=rss-2cf6b549448------2)
 - [4 Examples to Compare the Speed of Pandas and Vaex](https://sonery.medium.com/4-examples-to-compare-the-speed-of-pandas-and-vaex-3061708a7d9?source=rss-2cf6b549448------2)
 - [2 Different Replace Functions of Python Pandas](https://towardsdatascience.com/2-different-replace-functions-of-python-pandas-c079408de031?source=rss-2cf6b549448------2)
 - [Improve Your SQL Skills Using Pure Python](https://towardsdatascience.com/improve-your-sql-skills-using-pure-python-9e50736b3d9c?source=rss-2cf6b549448------2)
-- [4 Techniques for Scaling Pandas to Large Datasets](https://towardsdatascience.com/4-techniques-for-scaling-pandas-to-large-datasets-acf8805d30eb?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
