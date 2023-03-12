@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Top 5 Online Certification Websites for Aspiring Coders. According to StackOverflow Survey 2022](https://medium.com/@samsonmusumuri/top-5-online-certification-websites-for-aspiring-coders-according-to-stackoverflow-survey-2022-13b252ae31cb?source=rss------data_science-5)
-- [Data](https://medium.com/@evertongomede/data-3867bb202681?source=rss------data_science-5)
-- [Have you ever wondered? Analysis of the Airbnb rentals in Mexico City](https://medium.com/@frubi17/have-you-ever-wondered-analysis-of-the-airbnb-rentals-in-mexico-city-a337e33f0ed4?source=rss------data_science-5)
-- [And The Next Host of The Daily Show Is…](https://medium.com/@probabilitypenguin/and-the-next-host-of-the-daily-show-is-309660394ae8?source=rss------data_science-5)
-- [Tutorial del Algoritmo DBSCAN en Python](https://medium.com/latinxinai/tutorial-del-algoritmo-dbscan-en-python-d7c187c1b24f?source=rss------data_science-5)
-- [Plotly Customization Tips You Can’t Miss for Better Data Storytelling](https://moez-62905.medium.com/plotly-customization-tips-you-cant-miss-for-better-data-storytelling-ef1ccd108954?source=rss------data_science-5)
-- [8 Things to Delete from your ML/Data Science Computer to Free Up Space](https://medium.com/@jaelin_75015/8-things-to-delete-from-your-ml-data-science-computer-to-free-up-space-macbook-air-m1-f0ff85908220?source=rss------data_science-5)
-- [JADC2 &amp; The Islands of Innovation](https://medium.com/@ryanharth/jadc2-the-islands-of-innovation-4878cbd7bfb5?source=rss------data_science-5)
-- [AI in Warfare: Why We Must Prioritize Civilians Protection](https://medium.com/@sahirmaharaj/ai-in-warfare-why-we-must-prioritize-civilians-protection-f7107d266ced?source=rss------data_science-5)
-- [A Theoretical Introduction to Neurofeedback](https://medium.com/@Courageous_Warrior_Woman/a-theoretical-introduction-to-neurofeedback-2db105e752d6?source=rss------data_science-5)
+- [Analyzing, visualizing and predicting a country’s population and birth rate using python and…](https://medium.com/@dimmakriss/analyzing-visualizing-and-predicting-a-countrys-population-and-birth-rate-using-python-and-40dd6e5929fa?source=rss------data_science-5)
+- [“Data Acquisition: Serious Business with a Fun Twist for Data Scientists”](https://medium.com/@bonilla.johneric/data-acquisition-serious-business-with-a-fun-twist-for-data-scientists-40e8d3c525e7?source=rss------data_science-5)
+- [Advancing AI to eliminate trial and error in medicine &lpar;Healthcare&rpar;](https://michaeledekin.medium.com/advancing-ai-to-eliminate-trial-and-error-in-medicine-healthcare-e47dab581fda?source=rss------data_science-5)
+- [Crash Course in Data — Feature Selection](https://rajmehta2012.medium.com/crash-course-in-data-feature-selection-c3a73c077042?source=rss------data_science-5)
+- [SQL Query Optimization](https://medium.com/@njimonda.co/sql-query-optimization-caf6708f6c4?source=rss------data_science-5)
+- [Python Globals&lpar;&rpar; Function: Access and Control Variables with Ease](https://medium.com/@etirismagazine/python-globals-function-access-and-control-variables-with-ease-b9ed0fd32b29?source=rss------data_science-5)
+- [Top  Skills for Data Analysts according to Job Postings in 2023!](https://praneeth-kandula.medium.com/top-skills-for-data-analysts-according-to-job-postings-in-2023-f75b9003245b?source=rss------data_science-5)
+- [Data Quality](https://medium.com/@evertongomede/data-quality-2bff217d7e02?source=rss------data_science-5)
+- [Dynamic Python Programming Made Easy with getattr&lpar;&rpar; Function](https://medium.com/@etirismagazine/dynamic-python-programming-made-easy-with-getattr-function-39d2deb8c096?source=rss------data_science-5)
+- [Mastering SQL Triggers: A Guide to Using DML and DDL Triggers with Examples and Best Practices](https://medium.com/@psrinivasan028/mastering-sql-triggers-a-guide-to-using-dml-and-ddl-triggers-with-examples-and-best-practices-837a39b1a2b1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
