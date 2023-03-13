@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Analyzing, visualizing and predicting a country’s population and birth rate using python and…](https://medium.com/@dimmakriss/analyzing-visualizing-and-predicting-a-countrys-population-and-birth-rate-using-python-and-40dd6e5929fa?source=rss------data_science-5)
-- [“Data Acquisition: Serious Business with a Fun Twist for Data Scientists”](https://medium.com/@bonilla.johneric/data-acquisition-serious-business-with-a-fun-twist-for-data-scientists-40e8d3c525e7?source=rss------data_science-5)
-- [Advancing AI to eliminate trial and error in medicine &lpar;Healthcare&rpar;](https://michaeledekin.medium.com/advancing-ai-to-eliminate-trial-and-error-in-medicine-healthcare-e47dab581fda?source=rss------data_science-5)
-- [Crash Course in Data — Feature Selection](https://rajmehta2012.medium.com/crash-course-in-data-feature-selection-c3a73c077042?source=rss------data_science-5)
-- [SQL Query Optimization](https://medium.com/@njimonda.co/sql-query-optimization-caf6708f6c4?source=rss------data_science-5)
-- [Python Globals&lpar;&rpar; Function: Access and Control Variables with Ease](https://medium.com/@etirismagazine/python-globals-function-access-and-control-variables-with-ease-b9ed0fd32b29?source=rss------data_science-5)
-- [Top  Skills for Data Analysts according to Job Postings in 2023!](https://praneeth-kandula.medium.com/top-skills-for-data-analysts-according-to-job-postings-in-2023-f75b9003245b?source=rss------data_science-5)
-- [Data Quality](https://medium.com/@evertongomede/data-quality-2bff217d7e02?source=rss------data_science-5)
-- [Dynamic Python Programming Made Easy with getattr&lpar;&rpar; Function](https://medium.com/@etirismagazine/dynamic-python-programming-made-easy-with-getattr-function-39d2deb8c096?source=rss------data_science-5)
-- [Mastering SQL Triggers: A Guide to Using DML and DDL Triggers with Examples and Best Practices](https://medium.com/@psrinivasan028/mastering-sql-triggers-a-guide-to-using-dml-and-ddl-triggers-with-examples-and-best-practices-837a39b1a2b1?source=rss------data_science-5)
+- [Avaliação de risco de crédito de crédito para uma instituição financeira](https://medium.com/@thiagonunestm3/avalia%C3%A7%C3%A3o-de-risco-de-cr%C3%A9dito-de-cr%C3%A9dito-para-uma-institui%C3%A7%C3%A3o-financeira-c2e0a90ae61c?source=rss------data_science-5)
+- [How to become Data Scientist without spending anything?](https://aasesh.medium.com/how-to-become-data-scientist-without-spending-anything-af487895fc0c?source=rss------data_science-5)
+- [10 tools I wish I knew when I started working with Python](https://johnvastola.medium.com/10-tools-i-wish-i-knew-when-i-started-working-with-python-37b3506ce73a?source=rss------data_science-5)
+- [Every Data Scientist Should Use This Package](https://preettheman.medium.com/every-data-scientist-should-use-this-package-5a39d8c3f80b?source=rss------data_science-5)
+- [The Danger of Averages: Why Data Scientists Shouldn’t Rely on Average Values for Business Decisions.](https://medium.com/geekculture/the-danger-of-averages-why-data-scientists-shouldnt-rely-on-average-values-for-business-decisions-b9969092b1d8?source=rss------data_science-5)
+- [A Brief History Of Data Science](https://medium.com/@bluewall_46049/a-brief-history-of-data-science-e42154c39354?source=rss------data_science-5)
+- [Principal Component Analysis&lpar;PCA&rpar;](https://medium.com/@ozekincimervan/principal-component-analysis-pca-7c222251a79?source=rss------data_science-5)
+- [Python roadmap](https://jordineil.medium.com/python-roadmap-e5c5e7fe84e6?source=rss------data_science-5)
+- [10 Must-Have Python Libraries for Data Science](https://medium.com/@cyberdud3/10-must-have-python-libraries-for-data-science-e6f50c5ca508?source=rss------data_science-5)
+- [Types of SQL Commands](https://medium.com/@serxanhamzayev/types-of-sql-commands-612b10688194?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
