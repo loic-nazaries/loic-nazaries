@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Avaliação de risco de crédito de crédito para uma instituição financeira](https://medium.com/@thiagonunestm3/avalia%C3%A7%C3%A3o-de-risco-de-cr%C3%A9dito-de-cr%C3%A9dito-para-uma-institui%C3%A7%C3%A3o-financeira-c2e0a90ae61c?source=rss------data_science-5)
-- [How to become Data Scientist without spending anything?](https://aasesh.medium.com/how-to-become-data-scientist-without-spending-anything-af487895fc0c?source=rss------data_science-5)
-- [10 tools I wish I knew when I started working with Python](https://johnvastola.medium.com/10-tools-i-wish-i-knew-when-i-started-working-with-python-37b3506ce73a?source=rss------data_science-5)
-- [Every Data Scientist Should Use This Package](https://preettheman.medium.com/every-data-scientist-should-use-this-package-5a39d8c3f80b?source=rss------data_science-5)
-- [The Danger of Averages: Why Data Scientists Shouldn’t Rely on Average Values for Business Decisions.](https://medium.com/geekculture/the-danger-of-averages-why-data-scientists-shouldnt-rely-on-average-values-for-business-decisions-b9969092b1d8?source=rss------data_science-5)
-- [A Brief History Of Data Science](https://medium.com/@bluewall_46049/a-brief-history-of-data-science-e42154c39354?source=rss------data_science-5)
-- [Principal Component Analysis&lpar;PCA&rpar;](https://medium.com/@ozekincimervan/principal-component-analysis-pca-7c222251a79?source=rss------data_science-5)
-- [Python roadmap](https://jordineil.medium.com/python-roadmap-e5c5e7fe84e6?source=rss------data_science-5)
-- [10 Must-Have Python Libraries for Data Science](https://medium.com/@cyberdud3/10-must-have-python-libraries-for-data-science-e6f50c5ca508?source=rss------data_science-5)
-- [Types of SQL Commands](https://medium.com/@serxanhamzayev/types-of-sql-commands-612b10688194?source=rss------data_science-5)
+- [Sentiment Analysis Using Python — Hotel Reviews Case Study.](https://medium.com/@princedede/sentiment-analysis-using-python-hotel-reviews-case-study-c6b81f7cfa96?source=rss------data_science-5)
+- [What Is Data Frame In Python](https://medium.com/@souvikdutta.aec/what-is-data-frame-in-python-a178bfea79a6?source=rss------data_science-5)
+- [An Ultimate Guide to Underscores in Python](https://towardsdatascience.com/an-ultimate-guide-to-underscores-in-python-2b9e28cc1364?source=rss------data_science-5)
+- [How to Crush the Impostor Syndrome as an &lpar;Aspiring&rpar; Data Scientist Forever](https://ibexorigin.medium.com/how-to-crush-the-impostor-syndrome-as-an-aspiring-data-scientist-forever-4e016630918c?source=rss------data_science-5)
+- [Import Python Packages Like a Pro](https://towardsdatascience.com/import-python-packages-like-a-pro-244c788933f0?source=rss------data_science-5)
+- [The p-value: finally understanding it &lpar;in an unusual way&rpar;](https://pfaprado.medium.com/the-p-value-finally-understanding-it-in-an-unusual-way-e3e8c12f3573?source=rss------data_science-5)
+- [Cómo Aprender Ciencia de Datos Gratis](https://medium.com/cerebro-de-datos/c%C3%B3mo-aprender-ciencia-de-datos-gratis-5762af282cee?source=rss------data_science-5)
+- [Explaining Dremio](https://medium.com/@vovito/explaining-dremio-fd1f65faecdb?source=rss------data_science-5)
+- [Supervised Machine Learning: A Crash Course in Data](https://medium.com/@ikmvarma.gre/supervised-machine-learning-a-crash-course-in-data-1633f6826728?source=rss------data_science-5)
+- [Industry Trends and Insights: How Bito is Adapting These Changes to Provide the Best Possible…](https://medium.com/@jainaashi422/industry-trends-and-insights-how-bito-is-adapting-these-changes-to-provide-the-best-possible-46718c86a72b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
