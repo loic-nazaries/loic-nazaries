@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Sentiment Analysis Using Python — Hotel Reviews Case Study.](https://medium.com/@princedede/sentiment-analysis-using-python-hotel-reviews-case-study-c6b81f7cfa96?source=rss------data_science-5)
-- [What Is Data Frame In Python](https://medium.com/@souvikdutta.aec/what-is-data-frame-in-python-a178bfea79a6?source=rss------data_science-5)
-- [An Ultimate Guide to Underscores in Python](https://towardsdatascience.com/an-ultimate-guide-to-underscores-in-python-2b9e28cc1364?source=rss------data_science-5)
-- [How to Crush the Impostor Syndrome as an &lpar;Aspiring&rpar; Data Scientist Forever](https://ibexorigin.medium.com/how-to-crush-the-impostor-syndrome-as-an-aspiring-data-scientist-forever-4e016630918c?source=rss------data_science-5)
-- [Import Python Packages Like a Pro](https://towardsdatascience.com/import-python-packages-like-a-pro-244c788933f0?source=rss------data_science-5)
-- [The p-value: finally understanding it &lpar;in an unusual way&rpar;](https://pfaprado.medium.com/the-p-value-finally-understanding-it-in-an-unusual-way-e3e8c12f3573?source=rss------data_science-5)
-- [Cómo Aprender Ciencia de Datos Gratis](https://medium.com/cerebro-de-datos/c%C3%B3mo-aprender-ciencia-de-datos-gratis-5762af282cee?source=rss------data_science-5)
-- [Explaining Dremio](https://medium.com/@vovito/explaining-dremio-fd1f65faecdb?source=rss------data_science-5)
-- [Supervised Machine Learning: A Crash Course in Data](https://medium.com/@ikmvarma.gre/supervised-machine-learning-a-crash-course-in-data-1633f6826728?source=rss------data_science-5)
-- [Industry Trends and Insights: How Bito is Adapting These Changes to Provide the Best Possible…](https://medium.com/@jainaashi422/industry-trends-and-insights-how-bito-is-adapting-these-changes-to-provide-the-best-possible-46718c86a72b?source=rss------data_science-5)
+- [What is Data Governance?](https://medium.com/@reseunmc/what-is-data-governance-21fd083010c5?source=rss------data_science-5)
+- [How to data science without a relevant degree](https://towardsdatascience.com/how-to-data-science-without-a-relevant-degree-ab649694091a?source=rss------data_science-5)
+- [Assigning Ownership for Data Quality](https://medium.com/@evertongomede/assigning-ownership-for-data-quality-b29dcca35310?source=rss------data_science-5)
+- [Өнөөдөр Пи тооны өдөр билээ.](https://medium.com/@a.uuganzayad/%D3%A9%D0%BD%D3%A9%D3%A9%D0%B4%D3%A9%D1%80-%D0%BF%D0%B8-%D1%82%D0%BE%D0%BE%D0%BD%D1%8B-%D3%A9%D0%B4%D3%A9%D1%80-%D0%B1%D0%B8%D0%BB%D1%8D%D1%8D-9ddde3ed18f1?source=rss------data_science-5)
+- [Causal Inference View and Measurement for Simpson’s Paradox](https://medium.com/@gxyang13/causal-inference-view-and-measurement-for-simpsons-paradox-9695b83b03b0?source=rss------data_science-5)
+- [20% of Pandas Functions that Data Scientists Use 80% of the Time](https://johnvastola.medium.com/20-of-pandas-functions-that-data-scientists-use-80-of-the-time-e1b80973e321?source=rss------data_science-5)
+- [Real-Time Data Linkage via Linked Data Event Streams](https://pub.towardsai.net/real-time-data-linkage-via-linked-data-event-streams-e1aab3090b40?source=rss------data_science-5)
+- [Essential Pandas Code Cheat Sheet](https://medium.com/geekculture/essential-pandas-code-cheat-sheet-f53921014fd3?source=rss------data_science-5)
+- [Anomaly Detection](https://medium.com/@evertongomede/anomaly-detection-49c4cb4b15e1?source=rss------data_science-5)
+- [E-commerce Sales Data Analysis and forecasting future sales using Excel](https://medium.com/@manalid4/e-commerce-sales-data-analysis-and-forecasting-future-sales-using-excel-2497a09bd3e1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
