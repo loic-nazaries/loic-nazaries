@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What is Data Governance?](https://medium.com/@reseunmc/what-is-data-governance-21fd083010c5?source=rss------data_science-5)
-- [How to data science without a relevant degree](https://towardsdatascience.com/how-to-data-science-without-a-relevant-degree-ab649694091a?source=rss------data_science-5)
-- [Assigning Ownership for Data Quality](https://medium.com/@evertongomede/assigning-ownership-for-data-quality-b29dcca35310?source=rss------data_science-5)
-- [Өнөөдөр Пи тооны өдөр билээ.](https://medium.com/@a.uuganzayad/%D3%A9%D0%BD%D3%A9%D3%A9%D0%B4%D3%A9%D1%80-%D0%BF%D0%B8-%D1%82%D0%BE%D0%BE%D0%BD%D1%8B-%D3%A9%D0%B4%D3%A9%D1%80-%D0%B1%D0%B8%D0%BB%D1%8D%D1%8D-9ddde3ed18f1?source=rss------data_science-5)
-- [Causal Inference View and Measurement for Simpson’s Paradox](https://medium.com/@gxyang13/causal-inference-view-and-measurement-for-simpsons-paradox-9695b83b03b0?source=rss------data_science-5)
-- [20% of Pandas Functions that Data Scientists Use 80% of the Time](https://johnvastola.medium.com/20-of-pandas-functions-that-data-scientists-use-80-of-the-time-e1b80973e321?source=rss------data_science-5)
-- [Real-Time Data Linkage via Linked Data Event Streams](https://pub.towardsai.net/real-time-data-linkage-via-linked-data-event-streams-e1aab3090b40?source=rss------data_science-5)
-- [Essential Pandas Code Cheat Sheet](https://medium.com/geekculture/essential-pandas-code-cheat-sheet-f53921014fd3?source=rss------data_science-5)
-- [Anomaly Detection](https://medium.com/@evertongomede/anomaly-detection-49c4cb4b15e1?source=rss------data_science-5)
-- [E-commerce Sales Data Analysis and forecasting future sales using Excel](https://medium.com/@manalid4/e-commerce-sales-data-analysis-and-forecasting-future-sales-using-excel-2497a09bd3e1?source=rss------data_science-5)
+- [Evaluation metrics in Machine Learning](https://medium.com/@pushkardeshpande_97735/evaluation-metrics-in-machine-learning-4872e1e89dd?source=rss------data_science-5)
+- [Introduction to Apache Spark](https://medium.com/@pushkardeshpande_97735/introduction-to-apache-spark-34330fef434a?source=rss------data_science-5)
+- [Anyone naysaying FSD beta? You MUST watch this tricky drive on v11.3](https://medium.com/@paul.k.pallaghy/anyone-naysaying-fsd-beta-you-must-watch-this-tricky-drive-on-v11-3-6dd30b80a1a8?source=rss------data_science-5)
+- [R and Python vetiver package: a suitable MLOps solution?](https://medium.com/@adrian.joseph/r-and-python-vetiver-package-a-suitable-mlops-solution-111f85f62a41?source=rss------data_science-5)
+- [Exploring Bike Sharing Patterns in Brasília, Brazil](https://medium.com/@paraobentinho/exploring-bike-sharing-patterns-in-bras%C3%ADlia-brazil-89a113b7f841?source=rss------data_science-5)
+- [Fitting a line with multiple variables](https://medium.com/@techhara/fitting-a-line-with-multiple-variables-3f16c176845c?source=rss------data_science-5)
+- [Leveraging Artificial Intelligence and Machine Learning for Business Growth: A Practical Guide with…](https://medium.com/@jonathanmondaut/leveraging-artificial-intelligence-and-machine-learning-for-business-growth-a-practical-guide-with-64c0247649f0?source=rss------data_science-5)
+- [WEB SCRAPING 101: A PRACTICAL INTRODUCTION TO WEB SCRAPING USING PYTHON](https://medium.com/@abubakaraliyu599/web-scraping-101-a-practical-introduction-to-web-scraping-using-python-352ccda630f4?source=rss------data_science-5)
+- [Data Cleaning Project: FIFA 2021](https://medium.com/@ikechichris/data-cleaning-project-fifa-2021-beda954f6903?source=rss------data_science-5)
+- [The Art of Data Visualization, Turning Numbers into Insightful Stories.](https://medium.com/@mohamad.ashour203/the-art-of-data-visualization-turning-numbers-into-insightful-stories-ae0f44ccd6af?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
