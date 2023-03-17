@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Evaluation metrics in Machine Learning](https://medium.com/@pushkardeshpande_97735/evaluation-metrics-in-machine-learning-4872e1e89dd?source=rss------data_science-5)
-- [Introduction to Apache Spark](https://medium.com/@pushkardeshpande_97735/introduction-to-apache-spark-34330fef434a?source=rss------data_science-5)
-- [Anyone naysaying FSD beta? You MUST watch this tricky drive on v11.3](https://medium.com/@paul.k.pallaghy/anyone-naysaying-fsd-beta-you-must-watch-this-tricky-drive-on-v11-3-6dd30b80a1a8?source=rss------data_science-5)
-- [R and Python vetiver package: a suitable MLOps solution?](https://medium.com/@adrian.joseph/r-and-python-vetiver-package-a-suitable-mlops-solution-111f85f62a41?source=rss------data_science-5)
-- [Exploring Bike Sharing Patterns in Brasília, Brazil](https://medium.com/@paraobentinho/exploring-bike-sharing-patterns-in-bras%C3%ADlia-brazil-89a113b7f841?source=rss------data_science-5)
-- [Fitting a line with multiple variables](https://medium.com/@techhara/fitting-a-line-with-multiple-variables-3f16c176845c?source=rss------data_science-5)
-- [Leveraging Artificial Intelligence and Machine Learning for Business Growth: A Practical Guide with…](https://medium.com/@jonathanmondaut/leveraging-artificial-intelligence-and-machine-learning-for-business-growth-a-practical-guide-with-64c0247649f0?source=rss------data_science-5)
-- [WEB SCRAPING 101: A PRACTICAL INTRODUCTION TO WEB SCRAPING USING PYTHON](https://medium.com/@abubakaraliyu599/web-scraping-101-a-practical-introduction-to-web-scraping-using-python-352ccda630f4?source=rss------data_science-5)
-- [Data Cleaning Project: FIFA 2021](https://medium.com/@ikechichris/data-cleaning-project-fifa-2021-beda954f6903?source=rss------data_science-5)
-- [The Art of Data Visualization, Turning Numbers into Insightful Stories.](https://medium.com/@mohamad.ashour203/the-art-of-data-visualization-turning-numbers-into-insightful-stories-ae0f44ccd6af?source=rss------data_science-5)
+- [The Future of Data Services: A Cheaper, More Efficient, and Secure Alternative to Existing…](https://medium.com/@main5brogan/the-future-of-data-services-a-cheaper-more-efficient-and-secure-alternative-to-existing-77c5e0747475?source=rss------data_science-5)
+- [Evolutionary algorithms are a family of optimization algorithms that mimic the process of natural…](https://medium.com/@okpalan86/evolutionary-algorithms-are-a-family-of-optimization-algorithms-that-mimic-the-process-of-natural-d2a4d07b8c03?source=rss------data_science-5)
+- [Machine Learning Concept 46: Linear SVR &amp; Kernel SVR.](https://medium.com/@chandu.bathula16/machine-learning-concept-46-linear-svr-kernel-svr-2924d87c975f?source=rss------data_science-5)
+- [An Analysis of the Stack Exchange Network, Through an Interactive RShiny Web App](https://medium.com/@aayushi_verma/an-analysis-of-the-stack-exchange-network-through-an-interactive-rshiny-web-app-931c43cdfd9e?source=rss------data_science-5)
+- [Better Health Management with Integrated Data](https://medium.com/@sangeet.saurabh/better-health-management-with-integrated-data-88ffcbd6166f?source=rss------data_science-5)
+- [Implement Segmentation, Targeting, and Positioning &lpar;STP&rpar; Framework in Marketing using Python](https://medium.com/@eskandar.sahel/implement-segmentation-targeting-and-positioning-stp-framework-in-marketing-using-python-f61b791760f2?source=rss------data_science-5)
+- [“Uncovering the Truth: Fraud Detection Made Easy with Python”](https://pagorun.medium.com/uncovering-the-truth-fraud-detection-made-easy-with-python-4305d931a180?source=rss------data_science-5)
+- [A Basic Guide To Plotting And Visualizion Tools](https://medium.com/@Khalboy10/a-basic-guide-to-plotting-and-visualizion-tools-624bae6556f5?source=rss------data_science-5)
+- [The Busy Man’s 15-Minute Bodyweight Workout](https://medium.com/@rastoole01/the-busy-mans-15-minute-bodyweight-workout-29b82dcc9ed4?source=rss------data_science-5)
+- [Data Cleaning: Inspecting and Wrangling the FIFA 21 Data](https://medium.com/@Promise-Chinonso/data-cleaning-inspecting-and-wrangling-the-fifa-21-data-20cad3195595?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
