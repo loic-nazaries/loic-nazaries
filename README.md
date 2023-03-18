@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Future of Data Services: A Cheaper, More Efficient, and Secure Alternative to Existing…](https://medium.com/@main5brogan/the-future-of-data-services-a-cheaper-more-efficient-and-secure-alternative-to-existing-77c5e0747475?source=rss------data_science-5)
-- [Evolutionary algorithms are a family of optimization algorithms that mimic the process of natural…](https://medium.com/@okpalan86/evolutionary-algorithms-are-a-family-of-optimization-algorithms-that-mimic-the-process-of-natural-d2a4d07b8c03?source=rss------data_science-5)
-- [Machine Learning Concept 46: Linear SVR &amp; Kernel SVR.](https://medium.com/@chandu.bathula16/machine-learning-concept-46-linear-svr-kernel-svr-2924d87c975f?source=rss------data_science-5)
-- [An Analysis of the Stack Exchange Network, Through an Interactive RShiny Web App](https://medium.com/@aayushi_verma/an-analysis-of-the-stack-exchange-network-through-an-interactive-rshiny-web-app-931c43cdfd9e?source=rss------data_science-5)
-- [Better Health Management with Integrated Data](https://medium.com/@sangeet.saurabh/better-health-management-with-integrated-data-88ffcbd6166f?source=rss------data_science-5)
-- [Implement Segmentation, Targeting, and Positioning &lpar;STP&rpar; Framework in Marketing using Python](https://medium.com/@eskandar.sahel/implement-segmentation-targeting-and-positioning-stp-framework-in-marketing-using-python-f61b791760f2?source=rss------data_science-5)
-- [“Uncovering the Truth: Fraud Detection Made Easy with Python”](https://pagorun.medium.com/uncovering-the-truth-fraud-detection-made-easy-with-python-4305d931a180?source=rss------data_science-5)
-- [A Basic Guide To Plotting And Visualizion Tools](https://medium.com/@Khalboy10/a-basic-guide-to-plotting-and-visualizion-tools-624bae6556f5?source=rss------data_science-5)
-- [The Busy Man’s 15-Minute Bodyweight Workout](https://medium.com/@rastoole01/the-busy-mans-15-minute-bodyweight-workout-29b82dcc9ed4?source=rss------data_science-5)
-- [Data Cleaning: Inspecting and Wrangling the FIFA 21 Data](https://medium.com/@Promise-Chinonso/data-cleaning-inspecting-and-wrangling-the-fifa-21-data-20cad3195595?source=rss------data_science-5)
+- [Predicting customer churn rate using classification analysis](https://medium.com/@cnorkplim/predicting-customer-churn-rate-using-classification-analysis-4a63e1c1c356?source=rss------data_science-5)
+- [The Impact of Programming Language Competence on Salary](https://medium.com/@saipriyakasturi121/the-impact-of-programming-language-competence-on-salary-94f737dec22b?source=rss------data_science-5)
+- [Time Series Analysis with Python Pandas](https://medium.com/@mubarakdaha/time-series-analysis-with-python-pandas-9e92981f54a8?source=rss------data_science-5)
+- [Risk Management in Data Science](https://medium.com/between-data-and-risk/risk-management-in-data-science-462e781ed888?source=rss------data_science-5)
+- [Correlation and Causation: What are the Differences?](https://pub.towardsai.net/correlation-and-causation-what-are-the-differences-ddcc98ee6d0f?source=rss------data_science-5)
+- [Analysis of Tetuan City Power Distribution](https://deita-savant.medium.com/analysis-of-tetuan-city-power-distribution-6eaab25df99f?source=rss------data_science-5)
+- [Demystifying MIT: Answering the Top 3 Questions about the Masters in Business Analytics](https://aaxw.medium.com/demystifying-mit-answering-the-top-3-questions-about-the-masters-in-business-analytics-571a3b6f0156?source=rss------data_science-5)
+- [Spend Less Time on Exploratory Data Analysis with Pandas Profiling !](https://medium.com/@annetteamoa1/spend-less-time-on-exploratory-data-analysis-with-pandas-profiling-b81281f4eaa3?source=rss------data_science-5)
+- [Understanding Data Science: Concepts, Misconceptions, and Career Paths](https://nmlemus.medium.com/understanding-data-science-concepts-misconceptions-and-career-paths-df2cf16bf633?source=rss------data_science-5)
+- [A crypto promoter](https://medium.com/@yusufdestiny78/a-crypto-promoter-30be2a63cedb?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
