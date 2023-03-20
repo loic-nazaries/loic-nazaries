@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Scientists in the Age of Automation and AI](https://medium.com/@8mohamed.hany8/data-scientists-in-the-age-of-automation-and-ai-912b21fb5409?source=rss------data_science-5)
-- [Visualizing Google Play Store Data — let’s discover the key factors of app rating by ML models](https://medium.com/@kimsangaha/visualizing-google-play-store-data-lets-discover-the-key-factors-of-app-rating-by-ml-models-bc92a3f2cd33?source=rss------data_science-5)
-- [“How Data Science is Revolutionizing Our Lives”](https://medium.com/@8mohamed.hany8/how-data-science-is-revolutionizing-our-lives-ff37c80d83c8?source=rss------data_science-5)
-- [Origin of the GPT paradox: hallucination vs virtual super-humanness](https://medium.com/@paul.k.pallaghy/origin-of-the-gpt-paradox-hallucination-vs-virtual-super-humanness-3ea4cf65fe76?source=rss------data_science-5)
-- [Overcoming Challenges: A Data Scientist’s Journey Through the First 2 Years](https://baotramduong.medium.com/overcoming-challenges-a-data-scientists-journey-through-the-first-2-years-319775a9e0d9?source=rss------data_science-5)
-- [A Data Scientist’s Journey: 10 Lessons Learned from 2 Years in the Field](https://baotramduong.medium.com/a-data-scientists-journey-10-lessons-learned-from-2-years-in-the-field-6fd119b11dcf?source=rss------data_science-5)
-- [PyTorch 2.0 vs. TensorFlow 2.10, which one is better?](https://medium.com/@roiyeho/pytorch-2-0-or-tensorflow-2-10-which-one-is-better-52669cec994?source=rss------data_science-5)
-- [Introduction to Seaborn: Advance Data Visualization](https://medium.com/@smad347/introduction-to-seaborn-advance-data-visualization-c9c778e4fa89?source=rss------data_science-5)
-- [Match Statements: Python Unlocked the Power of Structural Pattern Matching](https://medium.com/@HeCanThink/match-statements-python-unlocked-the-power-of-structural-pattern-matching-1b1ebd496d7c?source=rss------data_science-5)
-- [Scraping Dynamic Pages with Python: Overcoming Challenges with Beautiful Soup and Selenium](https://medium.com/@gnrnoguz/scraping-dynamic-pages-with-python-overcoming-challenges-with-beautiful-soup-and-selenium-7f6a770f5121?source=rss------data_science-5)
+- [When do you have sufficient training data?](https://medium.com/@luan.home/when-do-you-have-sufficient-training-data-8c1e42f129ee?source=rss------data_science-5)
+- [A Step-by-Step Guide to Implementing Linear Regression in Python](https://medium.com/@agusabdulrahman/a-step-by-step-guide-to-implementing-linear-regression-in-python-9200ac08e9f3?source=rss------data_science-5)
+- [DataScience](https://medium.com/@fluud.nozzle/datascience-d8339963211d?source=rss------data_science-5)
+- [Outliers and Heavy-Tail Distributions](https://medium.com/@evertongomede/outliers-and-heavy-tail-distributions-7c68be4f59fa?source=rss------data_science-5)
+- [Remote Learning — MS in Data Science &amp; Analytics?](https://medium.com/@ossy.osamaarif/remote-learning-ms-in-data-science-analytics-23f8c3cdbf21?source=rss------data_science-5)
+- [What’s going on with GPT’s randomly variable alt outputs &amp; opinions?](https://medium.com/@paul.k.pallaghy/whats-going-on-with-gpt-s-randomly-variable-alt-outputs-opinions-120e58d146a0?source=rss------data_science-5)
+- [Data Science Clustering with k-means](https://benierien.medium.com/data-science-clustering-with-k-means-abac32b2f517?source=rss------data_science-5)
+- [The Power of Business Analytics: How to Maximize Your Company’s Success](https://waqas-shami.medium.com/the-power-of-business-analytics-how-to-maximize-your-companys-success-11699322c649?source=rss------data_science-5)
+- [[Notes] A Crash Course in Causality, Week 5](https://medium.com/@jchen001/notes-a-crash-course-in-causality-week-5-ebf2d4120253?source=rss------data_science-5)
+- [My Top 5 Paid Subscriptions to Never Cancel as a Programmer](https://johnvastola.medium.com/my-top-5-paid-subscriptions-to-never-cancel-as-a-programmer-c65fe97bbc1a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
