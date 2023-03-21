@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [When do you have sufficient training data?](https://medium.com/@luan.home/when-do-you-have-sufficient-training-data-8c1e42f129ee?source=rss------data_science-5)
-- [A Step-by-Step Guide to Implementing Linear Regression in Python](https://medium.com/@agusabdulrahman/a-step-by-step-guide-to-implementing-linear-regression-in-python-9200ac08e9f3?source=rss------data_science-5)
-- [DataScience](https://medium.com/@fluud.nozzle/datascience-d8339963211d?source=rss------data_science-5)
-- [Outliers and Heavy-Tail Distributions](https://medium.com/@evertongomede/outliers-and-heavy-tail-distributions-7c68be4f59fa?source=rss------data_science-5)
-- [Remote Learning — MS in Data Science &amp; Analytics?](https://medium.com/@ossy.osamaarif/remote-learning-ms-in-data-science-analytics-23f8c3cdbf21?source=rss------data_science-5)
-- [What’s going on with GPT’s randomly variable alt outputs &amp; opinions?](https://medium.com/@paul.k.pallaghy/whats-going-on-with-gpt-s-randomly-variable-alt-outputs-opinions-120e58d146a0?source=rss------data_science-5)
-- [Data Science Clustering with k-means](https://benierien.medium.com/data-science-clustering-with-k-means-abac32b2f517?source=rss------data_science-5)
-- [The Power of Business Analytics: How to Maximize Your Company’s Success](https://waqas-shami.medium.com/the-power-of-business-analytics-how-to-maximize-your-companys-success-11699322c649?source=rss------data_science-5)
-- [[Notes] A Crash Course in Causality, Week 5](https://medium.com/@jchen001/notes-a-crash-course-in-causality-week-5-ebf2d4120253?source=rss------data_science-5)
-- [My Top 5 Paid Subscriptions to Never Cancel as a Programmer](https://johnvastola.medium.com/my-top-5-paid-subscriptions-to-never-cancel-as-a-programmer-c65fe97bbc1a?source=rss------data_science-5)
+- [How much data is too much data? Explore terminologies that mean the world to Data Engineers.](https://medium.com/@HammadAsh/how-much-data-is-too-much-data-explore-terminologies-that-mean-the-world-to-data-engineers-24ed804d0997?source=rss------data_science-5)
+- [Your Guide to Creating Stunning Visuals  in Power BI](https://medium.com/microsoft-power-bi/your-guide-to-creating-stunning-visuals-in-power-bi-75e3a163820e?source=rss------data_science-5)
+- [#JornadaDataScience: 2— Quais os fatores de risco para ?](https://medium.com/@lgustavoloureiro_43917/jornadadatascience-2-quais-os-fatores-de-risco-para-ca903aca1e2c?source=rss------data_science-5)
+- [Python One-Liners on Steroids &lpar;interview edition&rpar;](https://medium.com/@jacob_80704/python-one-liners-on-steroids-interview-edition-75b48e42f13f?source=rss------data_science-5)
+- [What Is Big Data?](https://medium.com/@talktorahul.b/what-is-big-data-fe9c8c2cc0e?source=rss------data_science-5)
+- [Project : Create a To-Do List application](https://wjdqo756.medium.com/project-create-a-to-do-list-application-192fb2858cb2?source=rss------data_science-5)
+- [Association Rule Learning](https://medium.com/@denizcansuturan/association-rule-learning-a75a7b581e3f?source=rss------data_science-5)
+- [What is a Solution Architect at NVIDIA?](https://pub.towardsai.net/what-is-a-solution-architect-at-nvidia-b6f3bf02b15a?source=rss------data_science-5)
+- [The three main components of time intelligence in Power BI and how to apply them — &lpar;Calendar Table…](https://medium.com/@juansarmientochannel/the-three-main-components-of-time-intelligence-in-power-bi-and-how-to-apply-them-calendar-table-c36fcc2b748f?source=rss------data_science-5)
+- [What tax returns of NPO can tell?](https://medium.com/@soft.boiled.rina/what-tax-returns-of-npo-can-tell-9f18abdfbb45?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
