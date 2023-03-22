@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How much data is too much data? Explore terminologies that mean the world to Data Engineers.](https://medium.com/@HammadAsh/how-much-data-is-too-much-data-explore-terminologies-that-mean-the-world-to-data-engineers-24ed804d0997?source=rss------data_science-5)
-- [Your Guide to Creating Stunning Visuals  in Power BI](https://medium.com/microsoft-power-bi/your-guide-to-creating-stunning-visuals-in-power-bi-75e3a163820e?source=rss------data_science-5)
-- [#JornadaDataScience: 2— Quais os fatores de risco para ?](https://medium.com/@lgustavoloureiro_43917/jornadadatascience-2-quais-os-fatores-de-risco-para-ca903aca1e2c?source=rss------data_science-5)
-- [Python One-Liners on Steroids &lpar;interview edition&rpar;](https://medium.com/@jacob_80704/python-one-liners-on-steroids-interview-edition-75b48e42f13f?source=rss------data_science-5)
-- [What Is Big Data?](https://medium.com/@talktorahul.b/what-is-big-data-fe9c8c2cc0e?source=rss------data_science-5)
-- [Project : Create a To-Do List application](https://wjdqo756.medium.com/project-create-a-to-do-list-application-192fb2858cb2?source=rss------data_science-5)
-- [Association Rule Learning](https://medium.com/@denizcansuturan/association-rule-learning-a75a7b581e3f?source=rss------data_science-5)
-- [What is a Solution Architect at NVIDIA?](https://pub.towardsai.net/what-is-a-solution-architect-at-nvidia-b6f3bf02b15a?source=rss------data_science-5)
-- [The three main components of time intelligence in Power BI and how to apply them — &lpar;Calendar Table…](https://medium.com/@juansarmientochannel/the-three-main-components-of-time-intelligence-in-power-bi-and-how-to-apply-them-calendar-table-c36fcc2b748f?source=rss------data_science-5)
-- [What tax returns of NPO can tell?](https://medium.com/@soft.boiled.rina/what-tax-returns-of-npo-can-tell-9f18abdfbb45?source=rss------data_science-5)
+- [5 Reasons to Avoid dbt Cloud at All Costs](https://erics-arsenault.medium.com/5-reasons-to-avoid-dbt-cloud-at-all-costs-ebff3ddc9e31?source=rss------data_science-5)
+- [Machine Learning concept 54: Stacking &amp; Cascading ensemble models.](https://medium.com/@chandu.bathula16/machine-learning-concept-54-stacking-cascading-ensemble-models-f97e10679f1c?source=rss------data_science-5)
+- [Project: Calculator application](https://wjdqo756.medium.com/project-calculator-application-211efc785abb?source=rss------data_science-5)
+- [ONDE ENCONTRAR CURSOS DE TECNOLOGIA GRÁTIS E COM CERTIFICADO?](https://izadigital.medium.com/onde-encontrar-cursos-de-tecnologia-gr%C3%A1tis-e-com-certificado-eaf0d9800a8d?source=rss------data_science-5)
+- [What is the Cosmic Microwave Background?](https://medium.com/physics-and-machine-learning/what-is-the-cosmic-microwave-background-fa52a894017e?source=rss------data_science-5)
+- [My 3 Favorite Ways to Manage dbt](https://erics-arsenault.medium.com/my-3-favorite-ways-to-manage-dbt-896090037eb4?source=rss------data_science-5)
+- [Cloud Computing and Data Science: The Perfect Pair](https://medium.com/@rasiarun/cloud-computing-and-data-science-the-perfect-pair-4bcabc77a685?source=rss------data_science-5)
+- [What is Layer Normalization in Deep Learning?](https://angelina-yang.medium.com/what-is-layer-normalization-in-deep-learning-cdccc8439f4c?source=rss------data_science-5)
+- [Correlación de Diferentes ETFs y Respectivo Heatmap con Python](https://medium.com/@espinozaescribar/correlaci%C3%B3n-de-diferentes-etfs-y-respectivo-heatmap-con-python-8e02e478e4c0?source=rss------data_science-5)
+- [Demystifying Machine Learning: How I Learned to Build Models from Scratch](https://peter-papuli.medium.com/demystifying-machine-learning-how-i-learned-to-build-models-from-scratch-6be89d917af5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
