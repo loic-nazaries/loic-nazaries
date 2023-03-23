@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [5 Reasons to Avoid dbt Cloud at All Costs](https://erics-arsenault.medium.com/5-reasons-to-avoid-dbt-cloud-at-all-costs-ebff3ddc9e31?source=rss------data_science-5)
-- [Machine Learning concept 54: Stacking &amp; Cascading ensemble models.](https://medium.com/@chandu.bathula16/machine-learning-concept-54-stacking-cascading-ensemble-models-f97e10679f1c?source=rss------data_science-5)
-- [Project: Calculator application](https://wjdqo756.medium.com/project-calculator-application-211efc785abb?source=rss------data_science-5)
-- [ONDE ENCONTRAR CURSOS DE TECNOLOGIA GRÁTIS E COM CERTIFICADO?](https://izadigital.medium.com/onde-encontrar-cursos-de-tecnologia-gr%C3%A1tis-e-com-certificado-eaf0d9800a8d?source=rss------data_science-5)
-- [What is the Cosmic Microwave Background?](https://medium.com/physics-and-machine-learning/what-is-the-cosmic-microwave-background-fa52a894017e?source=rss------data_science-5)
-- [My 3 Favorite Ways to Manage dbt](https://erics-arsenault.medium.com/my-3-favorite-ways-to-manage-dbt-896090037eb4?source=rss------data_science-5)
-- [Cloud Computing and Data Science: The Perfect Pair](https://medium.com/@rasiarun/cloud-computing-and-data-science-the-perfect-pair-4bcabc77a685?source=rss------data_science-5)
-- [What is Layer Normalization in Deep Learning?](https://angelina-yang.medium.com/what-is-layer-normalization-in-deep-learning-cdccc8439f4c?source=rss------data_science-5)
-- [Correlación de Diferentes ETFs y Respectivo Heatmap con Python](https://medium.com/@espinozaescribar/correlaci%C3%B3n-de-diferentes-etfs-y-respectivo-heatmap-con-python-8e02e478e4c0?source=rss------data_science-5)
-- [Demystifying Machine Learning: How I Learned to Build Models from Scratch](https://peter-papuli.medium.com/demystifying-machine-learning-how-i-learned-to-build-models-from-scratch-6be89d917af5?source=rss------data_science-5)
+- [‘Word vectors’ gave us a hint that ChatGPT was coming . . in 2013](https://medium.com/@paul.k.pallaghy/word-vectors-gave-us-a-hint-that-chatgpt-was-coming-in-2013-604485a4206e?source=rss------data_science-5)
+- [Model Risk Management and Risk ops](https://medium.com/@eduardoperezdenadai/model-risk-management-and-risk-ops-cac23d4c9488?source=rss------data_science-5)
+- [Freedom Accelerator: How It Can Help You Achieve Your Goals](https://medium.com/@andeyheavy13/freedom-accelerator-how-it-can-help-you-achieve-your-goals-461dc785909d?source=rss------data_science-5)
+- [Mastering Data Cleaning with Python: A Step-by-Step Guide to Clean and Preprocess Your Data](https://medium.com/@lamisghoualmi/mastering-data-cleaning-with-python-a-step-by-step-guide-to-clean-and-preprocess-your-data-a9e62becbb03?source=rss------data_science-5)
+- [Databases have come a long way, but now that there are so many, what to use where.](https://medium.com/@anupmoncy/databases-have-come-a-long-way-but-now-that-there-are-so-many-what-to-use-where-ffdce4a35b2e?source=rss------data_science-5)
+- [A Noob’s perspective — Learning Data Science, ML and AI from scratch. Pt 2](https://riccmezz.medium.com/a-noobs-perspective-learning-data-science-ml-and-ai-from-scratch-pt-2-796d06d8187e?source=rss------data_science-5)
+- [How to make .gitignore after commit](https://medium.com/@hakanbudk0/how-to-make-gitignore-after-commit-94f9339a4734?source=rss------data_science-5)
+- [Data preprocessing: Identifying and Handling Null Values, High and Low Cardinality, Leakage, and…](https://medium.com/@omarnot2far/data-preprocessing-identifying-and-handling-null-values-high-and-low-cardinality-leakage-and-c102d0078f0c?source=rss------data_science-5)
+- [Building Airbnb Categories with ML &amp; Human in the Loop](https://medium.com/airbnb-engineering/building-airbnb-categories-with-ml-human-in-the-loop-35b78a837725?source=rss------data_science-5)
+- [Synthetic Computer Vision Data with DIRSIG for AI Training](https://medium.com/renderedai/synthetic-computer-vision-data-with-dirsig-for-ai-training-a30f58cd0984?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
