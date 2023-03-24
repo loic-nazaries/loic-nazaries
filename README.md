@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [‘Word vectors’ gave us a hint that ChatGPT was coming . . in 2013](https://medium.com/@paul.k.pallaghy/word-vectors-gave-us-a-hint-that-chatgpt-was-coming-in-2013-604485a4206e?source=rss------data_science-5)
-- [Model Risk Management and Risk ops](https://medium.com/@eduardoperezdenadai/model-risk-management-and-risk-ops-cac23d4c9488?source=rss------data_science-5)
-- [Freedom Accelerator: How It Can Help You Achieve Your Goals](https://medium.com/@andeyheavy13/freedom-accelerator-how-it-can-help-you-achieve-your-goals-461dc785909d?source=rss------data_science-5)
-- [Mastering Data Cleaning with Python: A Step-by-Step Guide to Clean and Preprocess Your Data](https://medium.com/@lamisghoualmi/mastering-data-cleaning-with-python-a-step-by-step-guide-to-clean-and-preprocess-your-data-a9e62becbb03?source=rss------data_science-5)
-- [Databases have come a long way, but now that there are so many, what to use where.](https://medium.com/@anupmoncy/databases-have-come-a-long-way-but-now-that-there-are-so-many-what-to-use-where-ffdce4a35b2e?source=rss------data_science-5)
-- [A Noob’s perspective — Learning Data Science, ML and AI from scratch. Pt 2](https://riccmezz.medium.com/a-noobs-perspective-learning-data-science-ml-and-ai-from-scratch-pt-2-796d06d8187e?source=rss------data_science-5)
-- [How to make .gitignore after commit](https://medium.com/@hakanbudk0/how-to-make-gitignore-after-commit-94f9339a4734?source=rss------data_science-5)
-- [Data preprocessing: Identifying and Handling Null Values, High and Low Cardinality, Leakage, and…](https://medium.com/@omarnot2far/data-preprocessing-identifying-and-handling-null-values-high-and-low-cardinality-leakage-and-c102d0078f0c?source=rss------data_science-5)
-- [Building Airbnb Categories with ML &amp; Human in the Loop](https://medium.com/airbnb-engineering/building-airbnb-categories-with-ml-human-in-the-loop-35b78a837725?source=rss------data_science-5)
-- [Synthetic Computer Vision Data with DIRSIG for AI Training](https://medium.com/renderedai/synthetic-computer-vision-data-with-dirsig-for-ai-training-a30f58cd0984?source=rss------data_science-5)
+- [Unlock the Secrets: How to Enroll in Coursera Courses for Free](https://medium.com/@adhivp910/unlock-the-secrets-how-to-enroll-in-coursera-courses-for-free-3138af24da9c?source=rss------data_science-5)
+- [“Algorithms in Action: Harnessing the Power of Online Technology for Your Business”](https://medium.com/@dfreyton/algorithms-in-action-harnessing-the-power-of-online-technology-for-your-business-76f46cfd713c?source=rss------data_science-5)
+- [“Building a Future-Proof Business: Strategies for Navigating the Evolving Landscape of Online…](https://medium.com/@dfreyton/building-a-future-proof-business-strategies-for-navigating-the-evolving-landscape-of-online-3367000f1f51?source=rss------data_science-5)
+- [“Unlock the Power of Synthetic Data: A Guide for the Aspiring Data Scientist”](https://txt.generativeailab.org/unlock-the-power-of-synthetic-data-a-guide-for-the-aspiring-data-scientist-80c344b0fc76?source=rss------data_science-5)
+- [“The Magic of the Memorizing Transformer: Unlocking Your Memory’s Hidden Powers”](https://txt.generativeailab.org/the-magic-of-the-memorizing-transformer-unlocking-your-memorys-hidden-powers-d9fb1101abe4?source=rss------data_science-5)
+- [“Understanding the Intersection Between Correlation and Causation: Uncovering the Distinctions”](https://txt.generativeailab.org/understanding-the-intersection-between-correlation-and-causation-uncovering-the-distinctions-20a034c6b19a?source=rss------data_science-5)
+- [“Cracking the Code: Preparing for the Future of Online Technology and AI”](https://medium.com/@dfreyton/cracking-the-code-preparing-for-the-future-of-online-technology-and-ai-cb7c58c2810a?source=rss------data_science-5)
+- [“Digital Darwinism: Surviving and Thriving in the Age of Algorithms”](https://medium.com/@dfreyton/digital-darwinism-surviving-and-thriving-in-the-age-of-algorithms-626e9828c6ef?source=rss------data_science-5)
+- [“The Future is Now: How to Stay Ahead of the Curve in Online Business”](https://medium.com/@dfreyton/the-future-is-now-how-to-stay-ahead-of-the-curve-in-online-business-bd7ba0a2e2f1?source=rss------data_science-5)
+- [How to Navigate the Recession and land a Machine Learning Job?](https://mlwhiz.medium.com/how-to-navigate-the-recession-and-land-a-machine-learning-job-7333f5f1c805?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
