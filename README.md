@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Unlock the Secrets: How to Enroll in Coursera Courses for Free](https://medium.com/@adhivp910/unlock-the-secrets-how-to-enroll-in-coursera-courses-for-free-3138af24da9c?source=rss------data_science-5)
-- [“Algorithms in Action: Harnessing the Power of Online Technology for Your Business”](https://medium.com/@dfreyton/algorithms-in-action-harnessing-the-power-of-online-technology-for-your-business-76f46cfd713c?source=rss------data_science-5)
-- [“Building a Future-Proof Business: Strategies for Navigating the Evolving Landscape of Online…](https://medium.com/@dfreyton/building-a-future-proof-business-strategies-for-navigating-the-evolving-landscape-of-online-3367000f1f51?source=rss------data_science-5)
-- [“Unlock the Power of Synthetic Data: A Guide for the Aspiring Data Scientist”](https://txt.generativeailab.org/unlock-the-power-of-synthetic-data-a-guide-for-the-aspiring-data-scientist-80c344b0fc76?source=rss------data_science-5)
-- [“The Magic of the Memorizing Transformer: Unlocking Your Memory’s Hidden Powers”](https://txt.generativeailab.org/the-magic-of-the-memorizing-transformer-unlocking-your-memorys-hidden-powers-d9fb1101abe4?source=rss------data_science-5)
-- [“Understanding the Intersection Between Correlation and Causation: Uncovering the Distinctions”](https://txt.generativeailab.org/understanding-the-intersection-between-correlation-and-causation-uncovering-the-distinctions-20a034c6b19a?source=rss------data_science-5)
-- [“Cracking the Code: Preparing for the Future of Online Technology and AI”](https://medium.com/@dfreyton/cracking-the-code-preparing-for-the-future-of-online-technology-and-ai-cb7c58c2810a?source=rss------data_science-5)
-- [“Digital Darwinism: Surviving and Thriving in the Age of Algorithms”](https://medium.com/@dfreyton/digital-darwinism-surviving-and-thriving-in-the-age-of-algorithms-626e9828c6ef?source=rss------data_science-5)
-- [“The Future is Now: How to Stay Ahead of the Curve in Online Business”](https://medium.com/@dfreyton/the-future-is-now-how-to-stay-ahead-of-the-curve-in-online-business-bd7ba0a2e2f1?source=rss------data_science-5)
-- [How to Navigate the Recession and land a Machine Learning Job?](https://mlwhiz.medium.com/how-to-navigate-the-recession-and-land-a-machine-learning-job-7333f5f1c805?source=rss------data_science-5)
+- [Visualizing Background Checks on Prospective Firearm Buyers in the US using Tableau](https://medium.com/@felixnjogu/visualizing-background-checks-on-prospective-firearm-buyers-in-the-us-using-tableau-cd5fd72a65d0?source=rss------data_science-5)
+- [Transformação de Dados com SQL](https://medium.com/@eduardo.eira/transforma%C3%A7%C3%A3o-de-dados-com-sql-2ff650013053?source=rss------data_science-5)
+- [How To Create Dataframes In Python](https://medium.com/@souvikdutta.aec/how-to-create-dataframes-in-python-dc1374d8ce4?source=rss------data_science-5)
+- [How to Visualize your Dataset in Pandas](https://medium.com/@ebenezeroyeku/how-to-visualize-your-dataset-in-pandas-263c6c4c86ae?source=rss------data_science-5)
+- [Data analysis: wrangling, cleaning, analysis and visualization of gadget stores&#39; sales performance…](https://medium.com/@harrisonademu/data-analysis-wrangling-cleaning-analysis-and-visualization-of-gadget-stores-sales-performance-38949aa26be5?source=rss------data_science-5)
+- [Pixels to Pooches: How Machine Learning Unleashed a New World of Problem Solving](https://ernestodotnet.medium.com/pixels-to-pooches-how-machine-learning-unleashed-a-new-world-of-problem-solving-45bd945dc1a8?source=rss------data_science-5)
+- [Random Forests](https://medium.com/@roiyeho/random-forests-98892261dc49?source=rss------data_science-5)
+- [Mastering Kaggle: Part 2 — How to Load Kaggle Datasets into Pandas DataFrames in Google Colab…](https://ernestodotnet.medium.com/mastering-kaggle-part-2-how-to-load-kaggle-datasets-into-pandas-dataframes-in-google-colab-a8f562364897?source=rss------data_science-5)
+- [Unlock the Power of Kaggle: How to Call Datasets Directly with Python and Rule the Data Science…](https://ernestodotnet.medium.com/unlock-the-power-of-kaggle-how-to-call-datasets-directly-with-python-and-rule-the-data-science-2303cbae4e8a?source=rss------data_science-5)
+- [“Unlock Unparalleled Search Power with AI: Get Started in 5 Simple Steps”](https://txt.generativeailab.org/unlock-unparalleled-search-power-with-ai-get-started-in-5-simple-steps-a9ceff216936?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
