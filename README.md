@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Visualizing Background Checks on Prospective Firearm Buyers in the US using Tableau](https://medium.com/@felixnjogu/visualizing-background-checks-on-prospective-firearm-buyers-in-the-us-using-tableau-cd5fd72a65d0?source=rss------data_science-5)
-- [Transformação de Dados com SQL](https://medium.com/@eduardo.eira/transforma%C3%A7%C3%A3o-de-dados-com-sql-2ff650013053?source=rss------data_science-5)
-- [How To Create Dataframes In Python](https://medium.com/@souvikdutta.aec/how-to-create-dataframes-in-python-dc1374d8ce4?source=rss------data_science-5)
-- [How to Visualize your Dataset in Pandas](https://medium.com/@ebenezeroyeku/how-to-visualize-your-dataset-in-pandas-263c6c4c86ae?source=rss------data_science-5)
-- [Data analysis: wrangling, cleaning, analysis and visualization of gadget stores&#39; sales performance…](https://medium.com/@harrisonademu/data-analysis-wrangling-cleaning-analysis-and-visualization-of-gadget-stores-sales-performance-38949aa26be5?source=rss------data_science-5)
-- [Pixels to Pooches: How Machine Learning Unleashed a New World of Problem Solving](https://ernestodotnet.medium.com/pixels-to-pooches-how-machine-learning-unleashed-a-new-world-of-problem-solving-45bd945dc1a8?source=rss------data_science-5)
-- [Random Forests](https://medium.com/@roiyeho/random-forests-98892261dc49?source=rss------data_science-5)
-- [Mastering Kaggle: Part 2 — How to Load Kaggle Datasets into Pandas DataFrames in Google Colab…](https://ernestodotnet.medium.com/mastering-kaggle-part-2-how-to-load-kaggle-datasets-into-pandas-dataframes-in-google-colab-a8f562364897?source=rss------data_science-5)
-- [Unlock the Power of Kaggle: How to Call Datasets Directly with Python and Rule the Data Science…](https://ernestodotnet.medium.com/unlock-the-power-of-kaggle-how-to-call-datasets-directly-with-python-and-rule-the-data-science-2303cbae4e8a?source=rss------data_science-5)
-- [“Unlock Unparalleled Search Power with AI: Get Started in 5 Simple Steps”](https://txt.generativeailab.org/unlock-unparalleled-search-power-with-ai-get-started-in-5-simple-steps-a9ceff216936?source=rss------data_science-5)
+- [Categorical Data Vs. Continuous Data: Everything You Need To Know](https://chifi.dev/categorical-data-vs-continuous-data-everything-you-need-to-know-36c2a0dbf6c?source=rss------data_science-5)
+- [An Overview of Page Rank Algorithm](https://medium.com/@sd.priya1402/an-overview-of-page-rank-algorithm-db3545d3ff23?source=rss------data_science-5)
+- [Mental Models For the Data Space](https://medium.com/geekculture/mental-models-for-the-data-space-f52bb9725b2f?source=rss------data_science-5)
+- [UTILIZE AI](https://medium.com/@kohation101/utilize-ai-9a3a086bbd8?source=rss------data_science-5)
+- [Statistical NLP on the Narcos Series](https://medium.com/@jagdungu/statistical-nlp-on-the-narcos-series-a56d11001632?source=rss------data_science-5)
+- [Navigating the Differences Between Data Engineering, Data Analysis, Data Science, and Machine…](https://medium.com/@wet_port/navigating-the-differences-between-data-engineering-data-analysis-data-science-and-machine-2da68067c53e?source=rss------data_science-5)
+- [What is the future of Data Science? 4 areas to consider in 2023.](https://medium.com/@ybezginova2021/what-is-the-future-of-data-science-4-areas-to-consider-in-2023-9c08566790d?source=rss------data_science-5)
+- [Reframing Versatile Models for Better Fraud Detection](https://medium.com/@caio.hc.oliveira/reframing-versatile-models-for-better-fraud-detection-42b35694427e?source=rss------data_science-5)
+- [Beyond Human Vision: The Art of AI](https://medium.com/@sahirmaharaj/beyond-human-vision-the-art-of-ai-4fcbca4f7986?source=rss------data_science-5)
+- [Human + AI: Designing AI with Humanity in Mind](https://medium.com/@natashanewbold/human-ai-designing-ai-with-humanity-in-mind-e36813431880?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
