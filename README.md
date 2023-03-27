@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Categorical Data Vs. Continuous Data: Everything You Need To Know](https://chifi.dev/categorical-data-vs-continuous-data-everything-you-need-to-know-36c2a0dbf6c?source=rss------data_science-5)
-- [An Overview of Page Rank Algorithm](https://medium.com/@sd.priya1402/an-overview-of-page-rank-algorithm-db3545d3ff23?source=rss------data_science-5)
-- [Mental Models For the Data Space](https://medium.com/geekculture/mental-models-for-the-data-space-f52bb9725b2f?source=rss------data_science-5)
-- [UTILIZE AI](https://medium.com/@kohation101/utilize-ai-9a3a086bbd8?source=rss------data_science-5)
-- [Statistical NLP on the Narcos Series](https://medium.com/@jagdungu/statistical-nlp-on-the-narcos-series-a56d11001632?source=rss------data_science-5)
-- [Navigating the Differences Between Data Engineering, Data Analysis, Data Science, and Machine…](https://medium.com/@wet_port/navigating-the-differences-between-data-engineering-data-analysis-data-science-and-machine-2da68067c53e?source=rss------data_science-5)
-- [What is the future of Data Science? 4 areas to consider in 2023.](https://medium.com/@ybezginova2021/what-is-the-future-of-data-science-4-areas-to-consider-in-2023-9c08566790d?source=rss------data_science-5)
-- [Reframing Versatile Models for Better Fraud Detection](https://medium.com/@caio.hc.oliveira/reframing-versatile-models-for-better-fraud-detection-42b35694427e?source=rss------data_science-5)
-- [Beyond Human Vision: The Art of AI](https://medium.com/@sahirmaharaj/beyond-human-vision-the-art-of-ai-4fcbca4f7986?source=rss------data_science-5)
-- [Human + AI: Designing AI with Humanity in Mind](https://medium.com/@natashanewbold/human-ai-designing-ai-with-humanity-in-mind-e36813431880?source=rss------data_science-5)
+- [Converting JSON Data to Parquet using Python and Pandas](https://medium.com/@byteshiva/converting-json-data-to-parquet-using-python-and-pandas-62ba634f6dce?source=rss------data_science-5)
+- [Call MATLAB from Python: Apple Silicon](https://medium.com/@09lobe.doodles/call-matlab-from-python-apple-silicon-7f6a225cf0d6?source=rss------data_science-5)
+- [Mastering Matrices in R](https://levelup.gitconnected.com/mastering-matrices-in-r-36f9ef3f4494?source=rss------data_science-5)
+- [Unraveling Credit Default Risk: Harnessing Machine Learning for Smarter Decision-Making](https://levelup.gitconnected.com/unraveling-credit-default-risk-harnessing-machine-learning-for-smarter-decision-making-37856452c2f5?source=rss------data_science-5)
+- [How to Profile and Speed Test Code in R](https://levelup.gitconnected.com/how-to-profile-and-speed-test-code-in-r-ef8508eaef80?source=rss------data_science-5)
+- [Introducing Adobe Firefly — The New AI Tool](https://levelup.gitconnected.com/introducing-adobe-firefly-the-new-ai-tool-1ada0ce839d?source=rss------data_science-5)
+- [Don’t Lose Your Redis Data: How to Enable Persistence](https://levelup.gitconnected.com/dont-lose-your-redis-data-how-to-enable-persistence-4c8806697e87?source=rss------data_science-5)
+- [The Building Blocks of Data Science: A Guide to Roles in AI, ML, and Beyond](https://medium.com/@shazanansar/the-building-blocks-of-data-science-a-guide-to-roles-in-ai-ml-and-beyond-4f00df74dea9?source=rss------data_science-5)
+- [The Importance of Data Modeling in Effective Data Management](https://medium.com/@kaneezfatima001/the-importance-of-data-modeling-in-effective-data-management-2abb01f815ce?source=rss------data_science-5)
+- [How artificial intelligence impact on our society](https://medium.com/@engineer.adnanalam/how-artificial-intelligence-impact-on-our-society-cd88b8336233?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
