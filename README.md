@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Converting JSON Data to Parquet using Python and Pandas](https://medium.com/@byteshiva/converting-json-data-to-parquet-using-python-and-pandas-62ba634f6dce?source=rss------data_science-5)
-- [Call MATLAB from Python: Apple Silicon](https://medium.com/@09lobe.doodles/call-matlab-from-python-apple-silicon-7f6a225cf0d6?source=rss------data_science-5)
-- [Mastering Matrices in R](https://levelup.gitconnected.com/mastering-matrices-in-r-36f9ef3f4494?source=rss------data_science-5)
-- [Unraveling Credit Default Risk: Harnessing Machine Learning for Smarter Decision-Making](https://levelup.gitconnected.com/unraveling-credit-default-risk-harnessing-machine-learning-for-smarter-decision-making-37856452c2f5?source=rss------data_science-5)
-- [How to Profile and Speed Test Code in R](https://levelup.gitconnected.com/how-to-profile-and-speed-test-code-in-r-ef8508eaef80?source=rss------data_science-5)
-- [Introducing Adobe Firefly — The New AI Tool](https://levelup.gitconnected.com/introducing-adobe-firefly-the-new-ai-tool-1ada0ce839d?source=rss------data_science-5)
-- [Don’t Lose Your Redis Data: How to Enable Persistence](https://levelup.gitconnected.com/dont-lose-your-redis-data-how-to-enable-persistence-4c8806697e87?source=rss------data_science-5)
-- [The Building Blocks of Data Science: A Guide to Roles in AI, ML, and Beyond](https://medium.com/@shazanansar/the-building-blocks-of-data-science-a-guide-to-roles-in-ai-ml-and-beyond-4f00df74dea9?source=rss------data_science-5)
-- [The Importance of Data Modeling in Effective Data Management](https://medium.com/@kaneezfatima001/the-importance-of-data-modeling-in-effective-data-management-2abb01f815ce?source=rss------data_science-5)
-- [How artificial intelligence impact on our society](https://medium.com/@engineer.adnanalam/how-artificial-intelligence-impact-on-our-society-cd88b8336233?source=rss------data_science-5)
+- [Ensemble Learning ♻️](https://medium.com/@iashishpatel/ensemble-learning-%EF%B8%8F-78c44ec84c7b?source=rss------data_science-5)
+- [NumPy: A Powerful Library for Scientific Computing and Data Analysis in Python](https://medium.com/@amohaiman22/numpy-a-powerful-library-for-scientific-computing-and-data-analysis-in-python-9b86100234e8?source=rss------data_science-5)
+- [Understanding the Role of Pixel Blending in Image Processing Applications](https://medium.com/codex/understanding-the-role-of-pixel-blending-in-image-processing-applications-ca2a0cf04d0d?source=rss------data_science-5)
+- [The Wealthy Woman Academy: Empowering Women to Achieve Financial Success](https://medium.com/@andeyheavy13/the-wealthy-woman-academy-empowering-women-to-achieve-financial-success-ad64c150c5db?source=rss------data_science-5)
+- [Enterprise Data: Building a Salesforce Lead Routing Model — Train a Random Forest Classifier using…](https://medium.com/@rpang16/enterprise-data-building-a-salesforce-lead-routing-model-train-a-random-forest-classifier-using-9728c91424ab?source=rss------data_science-5)
+- [Implementing Data Science Methodology — From Data Wrangling to Data Viz and Everything in Between…](https://internetdigitalentrepreneur.medium.com/implementing-data-science-methodology-from-data-wrangling-to-data-viz-and-everything-in-between-7018319c65d4?source=rss------data_science-5)
+- [Unlocking the Miami Housing Market with RapidMiner: A Comprehensive Guide to Data Cleaning…](https://ernestodotnet.medium.com/unlocking-the-miami-housing-market-with-rapidminer-a-comprehensive-guide-to-data-cleaning-fe6ef6178c08?source=rss------data_science-5)
+- [The Manipulative Design of Social Media Algorithms: Breaking the Spell](https://medium.com/@dfreyton/the-manipulative-design-of-social-media-algorithms-breaking-the-spell-55434bf774ed?source=rss------data_science-5)
+- [The Decontaminated Evaluation of GPT-4](https://towardsdatascience.com/the-decontaminated-evaluation-of-gpt-4-38a27fc45c30?source=rss------data_science-5)
+- [Step-by-Step Guide to Generate Synthetic Data by Sampling From Univariate Distributions.](https://towardsdatascience.com/step-by-step-guide-to-generate-synthetic-data-by-sampling-from-univariate-distributions-6b0be4221cb1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
