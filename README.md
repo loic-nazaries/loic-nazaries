@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Ensemble Learning ♻️](https://medium.com/@iashishpatel/ensemble-learning-%EF%B8%8F-78c44ec84c7b?source=rss------data_science-5)
-- [NumPy: A Powerful Library for Scientific Computing and Data Analysis in Python](https://medium.com/@amohaiman22/numpy-a-powerful-library-for-scientific-computing-and-data-analysis-in-python-9b86100234e8?source=rss------data_science-5)
-- [Understanding the Role of Pixel Blending in Image Processing Applications](https://medium.com/codex/understanding-the-role-of-pixel-blending-in-image-processing-applications-ca2a0cf04d0d?source=rss------data_science-5)
-- [The Wealthy Woman Academy: Empowering Women to Achieve Financial Success](https://medium.com/@andeyheavy13/the-wealthy-woman-academy-empowering-women-to-achieve-financial-success-ad64c150c5db?source=rss------data_science-5)
-- [Enterprise Data: Building a Salesforce Lead Routing Model — Train a Random Forest Classifier using…](https://medium.com/@rpang16/enterprise-data-building-a-salesforce-lead-routing-model-train-a-random-forest-classifier-using-9728c91424ab?source=rss------data_science-5)
-- [Implementing Data Science Methodology — From Data Wrangling to Data Viz and Everything in Between…](https://internetdigitalentrepreneur.medium.com/implementing-data-science-methodology-from-data-wrangling-to-data-viz-and-everything-in-between-7018319c65d4?source=rss------data_science-5)
-- [Unlocking the Miami Housing Market with RapidMiner: A Comprehensive Guide to Data Cleaning…](https://ernestodotnet.medium.com/unlocking-the-miami-housing-market-with-rapidminer-a-comprehensive-guide-to-data-cleaning-fe6ef6178c08?source=rss------data_science-5)
-- [The Manipulative Design of Social Media Algorithms: Breaking the Spell](https://medium.com/@dfreyton/the-manipulative-design-of-social-media-algorithms-breaking-the-spell-55434bf774ed?source=rss------data_science-5)
-- [The Decontaminated Evaluation of GPT-4](https://towardsdatascience.com/the-decontaminated-evaluation-of-gpt-4-38a27fc45c30?source=rss------data_science-5)
-- [Step-by-Step Guide to Generate Synthetic Data by Sampling From Univariate Distributions.](https://towardsdatascience.com/step-by-step-guide-to-generate-synthetic-data-by-sampling-from-univariate-distributions-6b0be4221cb1?source=rss------data_science-5)
+- [Model Subclassing with Keras](https://levelup.gitconnected.com/model-subclassing-with-keras-d2bc3bb38ff5?source=rss------data_science-5)
+- [Python One-Liners for Everyday Problems](https://levelup.gitconnected.com/python-one-liners-for-everyday-problems-93caeeed815c?source=rss------data_science-5)
+- [How I Save Over 5 Hours Every Week Using ChatGPT As A Data Scientist](https://levelup.gitconnected.com/how-i-save-over-5-hours-every-week-using-chatgpt-as-a-data-scientist-715fb5fd68d?source=rss------data_science-5)
+- [Google USM: how Google plans a 1,000-language AI model](https://levelup.gitconnected.com/google-usm-how-google-plans-a-1-000-language-ai-model-46d0937dc4ef?source=rss------data_science-5)
+- [Boost Your Sales Forecasting Accuracy with SARIMA: A Comprehensive Guide](https://levelup.gitconnected.com/boost-your-sales-forecasting-accuracy-with-sarima-a-comprehensive-guide-553a8e8623d7?source=rss------data_science-5)
+- [Mastering Predicting House Prices with Python: A Comprehensive Guide](https://levelup.gitconnected.com/mastering-predicting-house-prices-with-python-a-comprehensive-guide-d160782efe43?source=rss------data_science-5)
+- [Use This Dead Simple Process to Deliver Successful Data Analytics Projects](https://medium.com/@mo.villagran/use-this-dead-simple-process-to-deliver-successful-data-analytics-projects-51174adb228a?source=rss------data_science-5)
+- [“The Power of EdTech: Equipping Students for Success in the Digital Age”](https://medium.com/@arungupta88601/the-power-of-edtech-equipping-students-for-success-in-the-digital-age-1ab36f0e0719?source=rss------data_science-5)
+- [How I prepared and passed Google Machine Learning Engineer Certification exam](https://medium.com/@gigi.nguyen/how-i-prepared-and-passed-google-machine-learning-engineer-certification-exam-429584fac749?source=rss------data_science-5)
+- [It’s Time to Replace Loops in Python, Let’s Do It Now!](https://anmol3015.medium.com/its-time-to-replace-loops-in-python-let-s-do-it-now-35804d828f5e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
