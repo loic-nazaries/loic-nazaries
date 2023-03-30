@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Model Subclassing with Keras](https://levelup.gitconnected.com/model-subclassing-with-keras-d2bc3bb38ff5?source=rss------data_science-5)
-- [Python One-Liners for Everyday Problems](https://levelup.gitconnected.com/python-one-liners-for-everyday-problems-93caeeed815c?source=rss------data_science-5)
-- [How I Save Over 5 Hours Every Week Using ChatGPT As A Data Scientist](https://levelup.gitconnected.com/how-i-save-over-5-hours-every-week-using-chatgpt-as-a-data-scientist-715fb5fd68d?source=rss------data_science-5)
-- [Google USM: how Google plans a 1,000-language AI model](https://levelup.gitconnected.com/google-usm-how-google-plans-a-1-000-language-ai-model-46d0937dc4ef?source=rss------data_science-5)
-- [Boost Your Sales Forecasting Accuracy with SARIMA: A Comprehensive Guide](https://levelup.gitconnected.com/boost-your-sales-forecasting-accuracy-with-sarima-a-comprehensive-guide-553a8e8623d7?source=rss------data_science-5)
-- [Mastering Predicting House Prices with Python: A Comprehensive Guide](https://levelup.gitconnected.com/mastering-predicting-house-prices-with-python-a-comprehensive-guide-d160782efe43?source=rss------data_science-5)
-- [Use This Dead Simple Process to Deliver Successful Data Analytics Projects](https://medium.com/@mo.villagran/use-this-dead-simple-process-to-deliver-successful-data-analytics-projects-51174adb228a?source=rss------data_science-5)
-- [“The Power of EdTech: Equipping Students for Success in the Digital Age”](https://medium.com/@arungupta88601/the-power-of-edtech-equipping-students-for-success-in-the-digital-age-1ab36f0e0719?source=rss------data_science-5)
-- [How I prepared and passed Google Machine Learning Engineer Certification exam](https://medium.com/@gigi.nguyen/how-i-prepared-and-passed-google-machine-learning-engineer-certification-exam-429584fac749?source=rss------data_science-5)
-- [It’s Time to Replace Loops in Python, Let’s Do It Now!](https://anmol3015.medium.com/its-time-to-replace-loops-in-python-let-s-do-it-now-35804d828f5e?source=rss------data_science-5)
+- [How to make your business boom using DBaaS](https://medium.com/@nnubaonyesamuel/how-to-make-your-business-boom-using-dbaas-d5993df20189?source=rss------data_science-5)
+- [Pivot estático e dinâmico no BigQuery — Parte 01](https://medium.com/@lelosb/pivot-est%C3%A1tico-e-din%C3%A2mico-no-bigquery-parte-01-65b0ba418f53?source=rss------data_science-5)
+- [AGI is highly imminent](https://medium.com/@paul.k.pallaghy/agi-is-highly-imminent-b754ea93e76d?source=rss------data_science-5)
+- [Learn Data Science From Scratch: The Must-Know Languages for Beginners](https://dmai287.medium.com/learn-data-science-from-scratch-the-must-know-languages-for-beginners-733577d2150d?source=rss------data_science-5)
+- [The World is Changing, Alongside Business Data — Upgrade Your Data Systems](https://medium.com/@edwinndum/the-world-is-changing-alongside-business-data-upgrade-your-data-systems-e6980e89079a?source=rss------data_science-5)
+- [Como escrever CASE do SQL de forma simples utilizando DAX.](https://medium.com/@alexandrecostaoliv88/como-escrever-case-de-forma-simples-utilizando-dax-850ef8db041d?source=rss------data_science-5)
+- [Data Science with Python: 5 minutes for key concepts](https://anmol3015.medium.com/data-science-with-python-5-minutes-for-key-concepts-18e43b157af?source=rss------data_science-5)
+- [Analyzing Starbucks reward](https://medium.com/@vagner.belfort/analyzing-starbucks-reward-abef6278a4cd?source=rss------data_science-5)
+- [Using Exploratory Data Analysis to Uncover Insights: A Step-by-Step Guide](https://medium.com/@egigbinosa/using-exploratory-data-analysis-to-uncover-insights-a-step-by-step-guide-3b50feb60d9e?source=rss------data_science-5)
+- [Why KMeans May Not Be The Apt Clustering Algorithm Always](https://medium.com/geekculture/why-kmeans-may-not-be-the-apt-clustering-algorithm-always-287d2bde6952?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
