@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to make your business boom using DBaaS](https://medium.com/@nnubaonyesamuel/how-to-make-your-business-boom-using-dbaas-d5993df20189?source=rss------data_science-5)
-- [Pivot estático e dinâmico no BigQuery — Parte 01](https://medium.com/@lelosb/pivot-est%C3%A1tico-e-din%C3%A2mico-no-bigquery-parte-01-65b0ba418f53?source=rss------data_science-5)
-- [AGI is highly imminent](https://medium.com/@paul.k.pallaghy/agi-is-highly-imminent-b754ea93e76d?source=rss------data_science-5)
-- [Learn Data Science From Scratch: The Must-Know Languages for Beginners](https://dmai287.medium.com/learn-data-science-from-scratch-the-must-know-languages-for-beginners-733577d2150d?source=rss------data_science-5)
-- [The World is Changing, Alongside Business Data — Upgrade Your Data Systems](https://medium.com/@edwinndum/the-world-is-changing-alongside-business-data-upgrade-your-data-systems-e6980e89079a?source=rss------data_science-5)
-- [Como escrever CASE do SQL de forma simples utilizando DAX.](https://medium.com/@alexandrecostaoliv88/como-escrever-case-de-forma-simples-utilizando-dax-850ef8db041d?source=rss------data_science-5)
-- [Data Science with Python: 5 minutes for key concepts](https://anmol3015.medium.com/data-science-with-python-5-minutes-for-key-concepts-18e43b157af?source=rss------data_science-5)
-- [Analyzing Starbucks reward](https://medium.com/@vagner.belfort/analyzing-starbucks-reward-abef6278a4cd?source=rss------data_science-5)
-- [Using Exploratory Data Analysis to Uncover Insights: A Step-by-Step Guide](https://medium.com/@egigbinosa/using-exploratory-data-analysis-to-uncover-insights-a-step-by-step-guide-3b50feb60d9e?source=rss------data_science-5)
-- [Why KMeans May Not Be The Apt Clustering Algorithm Always](https://medium.com/geekculture/why-kmeans-may-not-be-the-apt-clustering-algorithm-always-287d2bde6952?source=rss------data_science-5)
+- [Leverage LLMs Like GPT to Analyze Your Documents or Transcripts](https://towardsdatascience.com/leverage-llms-like-gpt-to-analyze-your-documents-or-transcripts-c640a266ad52?source=rss------data_science-5)
+- [How to build a Route to Live &lpar;RTL&rpar; for data products like Machine Learning models](https://datanick.medium.com/how-to-build-a-route-to-live-rtl-or-release-cycle-for-data-products-like-machine-learning-models-f560b38291e1?source=rss------data_science-5)
+- [LaTex Resources for Beginners &lpar;and Also for Experts&rpar;](https://medium.com/@jaekim8080/latex-resources-for-beginners-and-also-for-experts-65972afce5ea?source=rss------data_science-5)
+- [Make Your R Code Over 10 Times Faster with C++](https://blog.devgenius.io/make-your-r-code-over-10-times-faster-with-c-910223666fc7?source=rss------data_science-5)
+- [Time Series in Machine Learning: Understanding and Applications](https://medium.com/@yennhi95zz/time-series-in-machine-learning-understanding-and-applications-fcd5495242f2?source=rss------data_science-5)
+- [Artificial intelligence &lpar;AI&rpar; is a rapidly evolving technology that has the potential to change the…](https://medium.com/@hadiya.siddiqui24/artificial-intelligence-ai-is-a-rapidly-evolving-technology-that-has-the-potential-to-change-the-8c8bc435e6b6?source=rss------data_science-5)
+- [5 Common Mistakes to Avoid in Data Analysis](https://medium.com/@bonilla.johneric/5-common-mistakes-to-avoid-in-data-analysis-e7b834d48cc9?source=rss------data_science-5)
+- [CTE-What ,Why &amp; How](https://medium.com/@jagadeshjamjalanarayanan/cte-what-why-how-c6cc98032422?source=rss------data_science-5)
+- [Mastering Data Analysis with Python: Tips, Tricks, and Tools You Need to Know](https://medium.com/@deepeshnishad/mastering-data-analysis-with-python-tips-tricks-and-tools-you-need-to-know-ead58951fb78?source=rss------data_science-5)
+- [How to pass Google Certified Professional Data Engineer Exam](https://seanzhang-data.medium.com/how-to-pass-google-certified-professional-data-engineer-exam-54ee589468dd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
