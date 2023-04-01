@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Leverage LLMs Like GPT to Analyze Your Documents or Transcripts](https://towardsdatascience.com/leverage-llms-like-gpt-to-analyze-your-documents-or-transcripts-c640a266ad52?source=rss------data_science-5)
-- [How to build a Route to Live &lpar;RTL&rpar; for data products like Machine Learning models](https://datanick.medium.com/how-to-build-a-route-to-live-rtl-or-release-cycle-for-data-products-like-machine-learning-models-f560b38291e1?source=rss------data_science-5)
-- [LaTex Resources for Beginners &lpar;and Also for Experts&rpar;](https://medium.com/@jaekim8080/latex-resources-for-beginners-and-also-for-experts-65972afce5ea?source=rss------data_science-5)
-- [Make Your R Code Over 10 Times Faster with C++](https://blog.devgenius.io/make-your-r-code-over-10-times-faster-with-c-910223666fc7?source=rss------data_science-5)
-- [Time Series in Machine Learning: Understanding and Applications](https://medium.com/@yennhi95zz/time-series-in-machine-learning-understanding-and-applications-fcd5495242f2?source=rss------data_science-5)
-- [Artificial intelligence &lpar;AI&rpar; is a rapidly evolving technology that has the potential to change the…](https://medium.com/@hadiya.siddiqui24/artificial-intelligence-ai-is-a-rapidly-evolving-technology-that-has-the-potential-to-change-the-8c8bc435e6b6?source=rss------data_science-5)
-- [5 Common Mistakes to Avoid in Data Analysis](https://medium.com/@bonilla.johneric/5-common-mistakes-to-avoid-in-data-analysis-e7b834d48cc9?source=rss------data_science-5)
-- [CTE-What ,Why &amp; How](https://medium.com/@jagadeshjamjalanarayanan/cte-what-why-how-c6cc98032422?source=rss------data_science-5)
-- [Mastering Data Analysis with Python: Tips, Tricks, and Tools You Need to Know](https://medium.com/@deepeshnishad/mastering-data-analysis-with-python-tips-tricks-and-tools-you-need-to-know-ead58951fb78?source=rss------data_science-5)
-- [How to pass Google Certified Professional Data Engineer Exam](https://seanzhang-data.medium.com/how-to-pass-google-certified-professional-data-engineer-exam-54ee589468dd?source=rss------data_science-5)
+- [The LinkedIn Cold Message That Got Me a &gt;75% Response Rate](https://medium.com/geekculture/the-linkedin-cold-message-that-got-me-a-75-response-rate-7d5a22d75789?source=rss------data_science-5)
+- [Python Image Analysis: A Tale of Two Circles](https://medium.com/@fuherarich/python-image-analysis-a-tale-of-two-circles-b754e53fa8a4?source=rss------data_science-5)
+- [SafeLiShare Secure Data Platform Now Runs on Confidential Containers in Microsoft Azure](https://medium.com/@safelishare/safelishare-secure-data-platform-now-runs-on-confidential-containers-in-microsoft-azure-39f70fba3c0?source=rss------data_science-5)
+- [“Exploring The Possibilities of ML Explainability with Talking Language AI #5”](https://txt.generativeailab.org/exploring-the-possibilities-of-ml-explainability-with-talking-language-ai-5-e07c2b2c8b5b?source=rss------data_science-5)
+- [PySpark DataFrame API: CSV File Handling, Examples and Explanation](https://medium.com/@uzzaman.ahmed/pyspark-dataframe-api-csv-file-handling-examples-and-explanation-96803aca2483?source=rss------data_science-5)
+- [Skills a Data Scientist Must Have](https://medium.com/@basliyusufmelih/skills-a-data-scientist-must-have-f91a2d16de1f?source=rss------data_science-5)
+- [Data cleaning and preprocessing in Python](https://medium.com/@amohaiman22/data-cleaning-and-preprocessing-in-python-b3f1bbfe5123?source=rss------data_science-5)
+- [Smart Decisions, Information Cascades, and “the Dangers of Being a Sheep”](https://medium.com/nextgen-common-sense/smart-decisions-information-cascades-and-the-dangers-of-being-a-sheep-78009f0d4eb7?source=rss------data_science-5)
+- [Exploring the Basics of Descriptive Statistics: Part One](https://medium.com/@nayanshewkani/exploring-the-basics-of-descriptive-statistics-part-one-7853679e5506?source=rss------data_science-5)
+- [How I Made an App to Upload Spreadsheets and Analyze with ChatGPT](https://medium.com/@resz.undersky/how-i-made-an-app-to-upload-spreadsheets-and-analyze-with-chatgpt-2352b2c9a105?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
