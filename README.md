@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Mapping in Finance: A Comprehensive Analysis](https://medium.com/@ibrahim_garza/data-mapping-in-finance-a-comprehensive-analysis-9d9663b9d5?source=rss------data_science-5)
-- [Crucial difference between web search vs ChatGPT](https://medium.com/@paul.k.pallaghy/crucial-difference-between-web-search-vs-chatgpt-41fde9e555f4?source=rss------data_science-5)
-- [The Power of Vectors in Data Science: A Practical Case Study of an Online Shop in Python](https://medium.com/@ybezginova2021/the-power-of-vectors-in-data-science-a-practical-case-study-of-an-online-shop-in-python-29ed5a326697?source=rss------data_science-5)
-- [Analysis of migration incidents from 2014–2023](https://medium.com/@ortikultur/analysis-of-migration-incidents-from-2014-2023-28eca48fdac0?source=rss------data_science-5)
-- [Topics ChatGPT is most knowledgeable about](https://medium.com/@mert.kty81/topics-chatgpt-is-most-knowledgeable-about-bfd3b103d4b6?source=rss------data_science-5)
-- [Using ChatGPT for Data Science](https://medium.com/@adnanned/using-chatgpt-for-data-science-2df78d6f49a1?source=rss------data_science-5)
-- [Here are 20 psychology tricks that can be used to influence and persuade others:](https://medium.com/@naurisk131993/here-are-20-psychology-tricks-that-can-be-used-to-influence-and-persuade-others-f80473591cfc?source=rss------data_science-5)
-- [Simplify Your Business Security with Ultimate Password Manager](https://medium.com/@aitorev/simplify-your-business-security-with-ultimate-password-manager-f298e52039e6?source=rss------data_science-5)
-- [Influencing the human mind is a powerful tool that can be used for both good and bad.](https://medium.com/@naurisk131993/influencing-the-human-mind-is-a-powerful-tool-that-can-be-used-for-both-good-and-bad-eedd546a49f9?source=rss------data_science-5)
-- [Psychology is the study of the human mind and behavior, and there are many fascinating tricks and…](https://medium.com/@naurisk131993/psychology-is-the-study-of-the-human-mind-and-behavior-and-there-are-many-fascinating-tricks-and-4e2d34bdcf98?source=rss------data_science-5)
+- [Lasso Regression in Python](https://medium.com/mlearning-ai/lasso-regression-in-python-923f4914e3ca?source=rss------data_science-5)
+- [Computing speed &amp; optimization &lpar;CPU vs. GPU&rpar;](https://medium.com/@AndresHerranz/computing-speed-optimization-cpu-vs-gpu-288fe35ddead?source=rss------data_science-5)
+- [Clustering: Extracting Patterns From Data &amp; Concept + Feature Scaling + PCA [Pt.1]](https://medium.com/@viniciusnala/clustering-extracting-patterns-from-data-concept-feature-scaling-pca-pt-1-4f33c6d39a71?source=rss------data_science-5)
+- [Python Warehouse Optimization &lpar;Unsupervised Clustering ML Project&rpar;](https://medium.com/@twalkb29/python-warehouse-optimization-unsupervised-ml-project-d92a9bc69c52?source=rss------data_science-5)
+- [Makine Öğrenmesine Giriş](https://afatsumcemreg.medium.com/makine-%C3%B6%C4%9Frenmesine-giri%C5%9F-1b93cd91ae2?source=rss------data_science-5)
+- [How To Build Event Streaming Pipelines Using Kafka](https://medium.com/@ansam.yousry/how-to-build-event-streaming-pipelines-using-kafka-432fbe35c2b?source=rss------data_science-5)
+- [“Scraping the Pitch: How to Collect EPL Player Photos with Python and Selenium”](https://medium.com/@devngecu/scraping-the-pitch-how-to-collect-epl-player-photos-with-python-and-selenium-defedcfba85e?source=rss------data_science-5)
+- [Title: The Importance of Paying for Your Website to Generate Traffic](https://medium.com/@ahmadsani_89575/title-the-importance-of-paying-for-your-website-to-generate-traffic-30b22b6c19c9?source=rss------data_science-5)
+- [Google Cloud Storage](https://vincentgeronimo.medium.com/google-cloud-storage-b915b8c1dc6b?source=rss------data_science-5)
+- [Pyspark or Polars — What should you use? Breakdown of similarities and differences.](https://viv1kv.medium.com/pyspark-or-polars-what-should-you-use-breakdown-of-similarities-and-differences-b261a825b9d6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
