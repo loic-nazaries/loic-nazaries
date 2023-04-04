@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Lasso Regression in Python](https://medium.com/mlearning-ai/lasso-regression-in-python-923f4914e3ca?source=rss------data_science-5)
-- [Computing speed &amp; optimization &lpar;CPU vs. GPU&rpar;](https://medium.com/@AndresHerranz/computing-speed-optimization-cpu-vs-gpu-288fe35ddead?source=rss------data_science-5)
-- [Clustering: Extracting Patterns From Data &amp; Concept + Feature Scaling + PCA [Pt.1]](https://medium.com/@viniciusnala/clustering-extracting-patterns-from-data-concept-feature-scaling-pca-pt-1-4f33c6d39a71?source=rss------data_science-5)
-- [Python Warehouse Optimization &lpar;Unsupervised Clustering ML Project&rpar;](https://medium.com/@twalkb29/python-warehouse-optimization-unsupervised-ml-project-d92a9bc69c52?source=rss------data_science-5)
-- [Makine Öğrenmesine Giriş](https://afatsumcemreg.medium.com/makine-%C3%B6%C4%9Frenmesine-giri%C5%9F-1b93cd91ae2?source=rss------data_science-5)
-- [How To Build Event Streaming Pipelines Using Kafka](https://medium.com/@ansam.yousry/how-to-build-event-streaming-pipelines-using-kafka-432fbe35c2b?source=rss------data_science-5)
-- [“Scraping the Pitch: How to Collect EPL Player Photos with Python and Selenium”](https://medium.com/@devngecu/scraping-the-pitch-how-to-collect-epl-player-photos-with-python-and-selenium-defedcfba85e?source=rss------data_science-5)
-- [Title: The Importance of Paying for Your Website to Generate Traffic](https://medium.com/@ahmadsani_89575/title-the-importance-of-paying-for-your-website-to-generate-traffic-30b22b6c19c9?source=rss------data_science-5)
-- [Google Cloud Storage](https://vincentgeronimo.medium.com/google-cloud-storage-b915b8c1dc6b?source=rss------data_science-5)
-- [Pyspark or Polars — What should you use? Breakdown of similarities and differences.](https://viv1kv.medium.com/pyspark-or-polars-what-should-you-use-breakdown-of-similarities-and-differences-b261a825b9d6?source=rss------data_science-5)
+- [Random Forest Hyperparameter Tuning](https://medium.com/@salemortega/random-forest-hyperparameter-tuning-ede56dc838b9?source=rss------data_science-5)
+- [Excel on Steroids: How Python Can Take Your Spreadsheet Skills to the Next Level!](https://medium.com/@etirismagazine/excel-on-steroids-how-python-can-take-your-spreadsheet-skills-to-the-next-level-25c77a136ac1?source=rss------data_science-5)
+- [Four SQL anti-patterns: Avoid them!](https://fahadthedatascientist.medium.com/four-sql-anti-patterns-avoid-them-acf66e6f5c12?source=rss------data_science-5)
+- [Tools for recoding continuous columns to categorical in R](https://infoart.medium.com/tools-for-recoding-continuous-columns-to-categorical-in-r-5da85d10acf7?source=rss------data_science-5)
+- [20 More Common Data Science Interview Questions](https://medium.com/@salemortega/20-more-common-data-science-interview-questions-f86c00bb8217?source=rss------data_science-5)
+- [Simple things you can do to get better at Machine Learning.](https://medium.com/@gaurav_hoskote/simple-things-you-can-do-to-get-better-at-machine-learning-b84f8609da4f?source=rss------data_science-5)
+- [Understanding Bandwidth and Data Sharing: The Key to Fast and Reliable Networks](https://medium.com/@ahmadsani_89575/understanding-bandwidth-and-data-sharing-the-key-to-fast-and-reliable-networks-42bcea2b38bb?source=rss------data_science-5)
+- [Recomeço](https://medium.com/@marcelorissi/recome%C3%A7o-f45c5809e95f?source=rss------data_science-5)
+- [Using Machine Learning to Predict Weather](https://medium.com/@dssberkeley/using-machine-learning-to-predict-weather-db94e101b6e5?source=rss------data_science-5)
+- [Rustic Learning: Machine Learning in Rust — Part 3: Deep Learning Bindings](https://pub.towardsai.net/rustic-learning-machine-learning-in-rust-part-3-deep-learning-bindings-f1d1835ff8a5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
