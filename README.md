@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Random Forest Hyperparameter Tuning](https://medium.com/@salemortega/random-forest-hyperparameter-tuning-ede56dc838b9?source=rss------data_science-5)
-- [Excel on Steroids: How Python Can Take Your Spreadsheet Skills to the Next Level!](https://medium.com/@etirismagazine/excel-on-steroids-how-python-can-take-your-spreadsheet-skills-to-the-next-level-25c77a136ac1?source=rss------data_science-5)
-- [Four SQL anti-patterns: Avoid them!](https://fahadthedatascientist.medium.com/four-sql-anti-patterns-avoid-them-acf66e6f5c12?source=rss------data_science-5)
-- [Tools for recoding continuous columns to categorical in R](https://infoart.medium.com/tools-for-recoding-continuous-columns-to-categorical-in-r-5da85d10acf7?source=rss------data_science-5)
-- [20 More Common Data Science Interview Questions](https://medium.com/@salemortega/20-more-common-data-science-interview-questions-f86c00bb8217?source=rss------data_science-5)
-- [Simple things you can do to get better at Machine Learning.](https://medium.com/@gaurav_hoskote/simple-things-you-can-do-to-get-better-at-machine-learning-b84f8609da4f?source=rss------data_science-5)
-- [Understanding Bandwidth and Data Sharing: The Key to Fast and Reliable Networks](https://medium.com/@ahmadsani_89575/understanding-bandwidth-and-data-sharing-the-key-to-fast-and-reliable-networks-42bcea2b38bb?source=rss------data_science-5)
-- [Recomeço](https://medium.com/@marcelorissi/recome%C3%A7o-f45c5809e95f?source=rss------data_science-5)
-- [Using Machine Learning to Predict Weather](https://medium.com/@dssberkeley/using-machine-learning-to-predict-weather-db94e101b6e5?source=rss------data_science-5)
-- [Rustic Learning: Machine Learning in Rust — Part 3: Deep Learning Bindings](https://pub.towardsai.net/rustic-learning-machine-learning-in-rust-part-3-deep-learning-bindings-f1d1835ff8a5?source=rss------data_science-5)
+- [How to Make Money While Learning Data Science in 2023](https://medium.com/@itsxtor3/how-to-make-money-while-learning-data-science-in-2023-2624d8e55f4f?source=rss------data_science-5)
+- [Decoding the Hidden Language of Data Science: A Beginner’s Guide to Industry Terminology](https://datasciguy.medium.com/decoding-the-hidden-language-of-data-science-a-beginners-guide-to-industry-terminology-6ddef71f03d5?source=rss------data_science-5)
+- [The Importance of Data Quality for Machine Learning: Ensuring Accurate and Reliable Model Training](https://medium.com/@evertongomede/the-importance-of-data-quality-for-machine-learning-ensuring-accurate-and-reliable-model-training-b894c9c797ca?source=rss------data_science-5)
+- [Rustic Learning: Machine Learning in Rust — Part 5: Model Deployment](https://pub.towardsai.net/rustic-learning-machine-learning-in-rust-part-5-model-deployment-de23f98e87d?source=rss------data_science-5)
+- [t-Distributed Stochastic Neighbor Embedding &lpar;t-SNE&rpar;- End to End- Dimensionality Reduction](https://medium.com/@shivamnegi92/t-distributed-stochastic-neighbor-embedding-t-sne-end-to-end-dimensionality-reduction-51df5aba42e8?source=rss------data_science-5)
+- [Balancing Patient Privacy and Data Similarity with Anonymized Computing](https://shereesemay.medium.com/balancing-patient-privacy-and-data-similarity-with-anonymized-computing-cc0b16786d20?source=rss------data_science-5)
+- [What is SCD in ETL ?](https://medium.com/@jagadeshjamjalanarayanan/what-is-scd-in-etl-2973a648d599?source=rss------data_science-5)
+- [Cotação Online da B3 via Excel](https://medium.com/@gabrielgregorio10/cota%C3%A7%C3%A3o-online-da-b3-via-excel-892966fc398?source=rss------data_science-5)
+- [Statistical Functions in Excel — Counting and Conditional Counting](https://medium.com/@georgehennen/statistical-functions-in-excel-counting-and-conditional-counting-8a6e10baaf6f?source=rss------data_science-5)
+- [Data 103: What are the Chances and factors in those Linear Regressions](https://lukeasims.medium.com/data-103-what-are-the-chances-and-factors-in-those-linear-regressions-aff34cee9d21?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
