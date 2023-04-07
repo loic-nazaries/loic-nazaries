@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How Bito AI Can Help You Avoid Common Coding Mistakes?](https://medium.com/@jainaashi422/how-bito-ai-can-help-you-avoid-common-coding-mistakes-1d161c0f73de?source=rss------data_science-5)
-- [Bito AI vs Other Code Development Tools: Why Bito is the Ultimate Choice?](https://medium.com/@jainaashi422/bito-ai-vs-other-code-development-tools-why-bito-is-the-ultimate-choice-2056771228f4?source=rss------data_science-5)
-- [Veri bilimi için istatistik ders notlarının en temel kavramlarını kısa bir özet olarak hazırladım.](https://medium.com/@myoztiryaki/veri-bilimi-i%C3%A7in-istatistik-ders-notlar%C4%B1n%C4%B1n-en-temel-kavramlar%C4%B1n%C4%B1-k%C4%B1sa-bir-%C3%B6zet-olarak-haz%C4%B1rlad%C4%B1m-85c79c773ece?source=rss------data_science-5)
-- [Lp](https://medium.com/@RyanHarrisonOriginal/lp-b31b1305d60b?source=rss------data_science-5)
-- [Red Black &amp; AVL Trees Overview](https://medium.com/@humberto521336/red-black-avl-trees-overview-d2f1af7886ee?source=rss------data_science-5)
-- [Explaining A/B test terminology](https://medium.com/@kempthornton/explaining-a-b-test-terminology-14c0e76d9413?source=rss------data_science-5)
-- [“Exploring the Boundaries of Possibility: A Comprehensive Review of March 2023’s Most Innovative…](https://txt.generativeailab.org/exploring-the-boundaries-of-possibility-a-comprehensive-review-of-march-2023s-most-innovative-1121f281cfff?source=rss------data_science-5)
-- [LSM-Trees Basics](https://medium.com/@humberto521336/lsm-trees-basics-1b9e8a0b1729?source=rss------data_science-5)
-- [5 Strategies for Building a Successful Online Business](https://medium.com/@ramyaforwork/5-strategies-for-building-a-successful-online-business-92b8f8ca2672?source=rss------data_science-5)
-- [Forest Fire prediction using Machine Learning](https://medium.com/@madhuammulu8/forest-fire-prediction-using-machine-learning-6ebf76342e64?source=rss------data_science-5)
+- [The AI Revolution: Seizing Opportunities in the Next Trillion-Dollar Industry](https://medium.com/@pixeld3lik/the-ai-revolution-seizing-opportunities-in-the-next-trillion-dollar-industry-3323e51e705a?source=rss------data_science-5)
+- [What is Redis?](https://medium.com/@humberto521336/what-is-redis-94c1930bd3c3?source=rss------data_science-5)
+- [You Don’t Need a Specific Degree or Background to Be a Data Analyst](https://dataopossum.medium.com/you-dont-need-a-specific-degree-or-background-to-be-a-data-analyst-60c857e31bff?source=rss------data_science-5)
+- [What’s the Derivative of RNN at Step T?](https://angelina-yang.medium.com/whats-the-derivative-of-rnn-at-step-t-c5cb25817131?source=rss------data_science-5)
+- [Meta AI Introduces Revolutionary Image Segmentation Model Trained on 1 Billion Masks](https://towardsdatascience.com/meta-ai-introduces-revolutionary-image-segmentation-model-trained-on-1-billion-masks-8f13c86a13a2?source=rss------data_science-5)
+- [O dia a dia de uma cientista de dados — Cap 2.1](https://medium.com/@lorrayne.silvads/o-dia-a-dia-de-uma-cientista-de-dados-cap-2-1-32142338fb4c?source=rss------data_science-5)
+- [Model employment: The inference comes after training, not during](https://towardsdatascience.com/model-employment-the-inference-comes-after-training-not-during-6129efdf8e90?source=rss------data_science-5)
+- [Simplify and Scale Your ML Project with DVC](https://medium.com/@leif_83988/simplify-and-scale-your-ml-project-with-dvc-d2b1ea22894a?source=rss------data_science-5)
+- [Build Reliable Machine Learning Pipelines with Continuous Integration](https://towardsdatascience.com/build-reliable-machine-learning-pipelines-with-continuous-integration-ea822eb09bf6?source=rss------data_science-5)
+- [Creation of new works with model base prompts. April 2023.](https://robtyrie.medium.com/creation-of-new-works-with-model-base-prompts-april-2023-e555458009f3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
