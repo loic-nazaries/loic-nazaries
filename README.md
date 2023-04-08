@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The AI Revolution: Seizing Opportunities in the Next Trillion-Dollar Industry](https://medium.com/@pixeld3lik/the-ai-revolution-seizing-opportunities-in-the-next-trillion-dollar-industry-3323e51e705a?source=rss------data_science-5)
-- [What is Redis?](https://medium.com/@humberto521336/what-is-redis-94c1930bd3c3?source=rss------data_science-5)
-- [You Don’t Need a Specific Degree or Background to Be a Data Analyst](https://dataopossum.medium.com/you-dont-need-a-specific-degree-or-background-to-be-a-data-analyst-60c857e31bff?source=rss------data_science-5)
-- [What’s the Derivative of RNN at Step T?](https://angelina-yang.medium.com/whats-the-derivative-of-rnn-at-step-t-c5cb25817131?source=rss------data_science-5)
-- [Meta AI Introduces Revolutionary Image Segmentation Model Trained on 1 Billion Masks](https://towardsdatascience.com/meta-ai-introduces-revolutionary-image-segmentation-model-trained-on-1-billion-masks-8f13c86a13a2?source=rss------data_science-5)
-- [O dia a dia de uma cientista de dados — Cap 2.1](https://medium.com/@lorrayne.silvads/o-dia-a-dia-de-uma-cientista-de-dados-cap-2-1-32142338fb4c?source=rss------data_science-5)
-- [Model employment: The inference comes after training, not during](https://towardsdatascience.com/model-employment-the-inference-comes-after-training-not-during-6129efdf8e90?source=rss------data_science-5)
-- [Simplify and Scale Your ML Project with DVC](https://medium.com/@leif_83988/simplify-and-scale-your-ml-project-with-dvc-d2b1ea22894a?source=rss------data_science-5)
-- [Build Reliable Machine Learning Pipelines with Continuous Integration](https://towardsdatascience.com/build-reliable-machine-learning-pipelines-with-continuous-integration-ea822eb09bf6?source=rss------data_science-5)
-- [Creation of new works with model base prompts. April 2023.](https://robtyrie.medium.com/creation-of-new-works-with-model-base-prompts-april-2023-e555458009f3?source=rss------data_science-5)
+- [Taylor Swift, Pop Music, and Mental Health: Uncovering Surprising Connections through Data…](https://medium.com/@cterich/taylor-swift-pop-music-and-mental-health-uncovering-surprising-connections-through-data-b283951bbbfb?source=rss------data_science-5)
+- [Embracing Privacy and Decentralization: The Power of Federated Learning](https://kannu-priya.medium.com/embracing-privacy-and-decentralization-the-power-of-federated-learning-d54504718f55?source=rss------data_science-5)
+- [Machine Learning concept 63: Reinforcement Learning.](https://medium.com/@chandu.bathula16/machine-learning-concept-63-reinforcement-learning-c0b36c5798a3?source=rss------data_science-5)
+- [Aspectos do jornalismo de dados e sua utilidade em produções jornalísticas sobre o meio ambiente](https://medium.com/@renatavmoreirabraga/aspectos-do-jornalismo-de-dados-e-a-sua-utilidade-em-produ%C3%A7%C3%B5es-jornal%C3%ADsticas-sobre-o-meio-ambiente-57c8499b3aa5?source=rss------data_science-5)
+- [A Brief Introduction to Dagshub for Beginners](https://medium.com/@wleelaki/a-brief-introduction-to-dagshub-for-beginners-100d66169e21?source=rss------data_science-5)
+- [History, Types and Generation of Computer](https://medium.com/@coacherickjames/history-types-and-generation-of-computer-1f8c943f6716?source=rss------data_science-5)
+- [A roundup of my recent posts](https://techonda.medium.com/a-roundup-of-my-recent-posts-e1b88f2b789d?source=rss------data_science-5)
+- [“The Ultimate List of AI Tools in 2023&quot;:](https://medium.com/@mr.rajatraj/the-ultimate-list-of-ai-tools-in-2023-17626ea8748e?source=rss------data_science-5)
+- [Power BI DAX’s USERELATIONSHIP Function](https://medium.com/@ladparth/power-bi-daxs-userelationship-function-5eabb018f961?source=rss------data_science-5)
+- [Precision and Recall — How to Visualize](https://medium.com/@petergylyscolwell/precision-and-recall-how-to-visualize-c5bf237ca1e6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
