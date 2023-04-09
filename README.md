@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Taylor Swift, Pop Music, and Mental Health: Uncovering Surprising Connections through Data…](https://medium.com/@cterich/taylor-swift-pop-music-and-mental-health-uncovering-surprising-connections-through-data-b283951bbbfb?source=rss------data_science-5)
-- [Embracing Privacy and Decentralization: The Power of Federated Learning](https://kannu-priya.medium.com/embracing-privacy-and-decentralization-the-power-of-federated-learning-d54504718f55?source=rss------data_science-5)
-- [Machine Learning concept 63: Reinforcement Learning.](https://medium.com/@chandu.bathula16/machine-learning-concept-63-reinforcement-learning-c0b36c5798a3?source=rss------data_science-5)
-- [Aspectos do jornalismo de dados e sua utilidade em produções jornalísticas sobre o meio ambiente](https://medium.com/@renatavmoreirabraga/aspectos-do-jornalismo-de-dados-e-a-sua-utilidade-em-produ%C3%A7%C3%B5es-jornal%C3%ADsticas-sobre-o-meio-ambiente-57c8499b3aa5?source=rss------data_science-5)
-- [A Brief Introduction to Dagshub for Beginners](https://medium.com/@wleelaki/a-brief-introduction-to-dagshub-for-beginners-100d66169e21?source=rss------data_science-5)
-- [History, Types and Generation of Computer](https://medium.com/@coacherickjames/history-types-and-generation-of-computer-1f8c943f6716?source=rss------data_science-5)
-- [A roundup of my recent posts](https://techonda.medium.com/a-roundup-of-my-recent-posts-e1b88f2b789d?source=rss------data_science-5)
-- [“The Ultimate List of AI Tools in 2023&quot;:](https://medium.com/@mr.rajatraj/the-ultimate-list-of-ai-tools-in-2023-17626ea8748e?source=rss------data_science-5)
-- [Power BI DAX’s USERELATIONSHIP Function](https://medium.com/@ladparth/power-bi-daxs-userelationship-function-5eabb018f961?source=rss------data_science-5)
-- [Precision and Recall — How to Visualize](https://medium.com/@petergylyscolwell/precision-and-recall-how-to-visualize-c5bf237ca1e6?source=rss------data_science-5)
+- [PostgreSQL Indexing Algorithms &amp; Its Operators](https://medium.com/@humberto521336/postgresql-indexing-algorithms-its-operators-7ae096de0afb?source=rss------data_science-5)
+- [test](https://medium.com/@ryassminh/test-c2ecbf558780?source=rss------data_science-5)
+- [Data Scrubbing With RapidMiner’s Turbo Prep](https://medium.com/@decodaw1/data-scrubbing-with-rapidminers-turbo-prep-adab85939ea1?source=rss------data_science-5)
+- [Aplicación médica en Medium:](https://medium.com/@carlosalbertogh4/aplicaci%C3%B3n-m%C3%A9dica-en-medium-6cc810ee17d1?source=rss------data_science-5)
+- [Data driven e as pequenas revoluções através dos dados.](https://medium.com/@lerobitcast/data-driven-e-as-pequenas-revolu%C3%A7%C3%B5es-atrav%C3%A9s-dos-dados-fd2ffccdb8c1?source=rss------data_science-5)
+- [How to Make a Live Map of the ISS’s Location with Python and Plotly Dash](https://medium.com/@protobioengineering/how-to-make-a-live-dashboard-of-the-isss-location-with-python-and-plotly-dash-5fe01e333afa?source=rss------data_science-5)
+- [My Most Viewed Medium Stories](https://medium.com/@samuel.flender/my-most-viewed-medium-stories-2c3746bfa594?source=rss------data_science-5)
+- [AI under Ban— Italy’s Battle Against ChatGPT](https://medium.com/geekculture/ai-under-ban-italys-chatgpt-chatgpt3-chatgpt4-artificial-intelligence-data-science-ea0f6eabe073?source=rss------data_science-5)
+- [Meet the judge who ruled medication abortion must remain available in some states](https://medium.com/@ali.dosti.sari/meet-the-judge-who-ruled-medication-abortion-must-remain-available-in-some-states-d306d5207ffe?source=rss------data_science-5)
+- [Business Intelligence 101: From Data to Insights — Part 1](https://medium.com/@aouznini/business-intelligence-101-from-data-to-insights-part-1-c462e406df9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
