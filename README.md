@@ -105,18 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Be Aware Of These Python Project Management Conventions](https://levelup.gitconnected.com/be-aware-of-these-python-project-management-conventions-60a6d265465a?source=rss------data_science-5)
-- [Best Web Scraping Libraries for R](https://levelup.gitconnected.com/best-web-scraping-libraries-for-r-ef9be20dfa1c?source=rss------data_science-5)
-- [[Paper Review] Eight Things to Know about Large Language Models &lpar;2023&rpar;](https://clodaghchoi.medium.com/paper-review-eight-things-to-know-about-large-language-models-2023-ed945a22dc58?source=rss------data_science-5)
-- [Machine Learning Concept 65: Generative Adversarial Networks &lpar;GANs&rpar;](https://medium.com/@chandu.bathula16/machine-learning-concept-65-generative-adversarial-networks-gans-e5de336d2868?source=rss------data_science-5)
-- [Ray-Ban is a popular brand of eyewear that offers a wide range of sunglasses and prescription…](https://medium.com/@adeeel.ahmed/ray-ban-is-a-popular-brand-of-eyewear-that-offers-a-wide-range-of-sunglasses-and-prescription-c478a2304fe2?source=rss------data_science-5)
-- [Leverage Your Data Science Skills with Active Learning in Python](https://medium.com/@farhadi.tahere/leverage-your-data-science-skills-with-active-learning-in-python-fbcaefc2350c?source=rss------data_science-5)
-- [INNOCN GAMING MONITOR](https://medium.com/@adeeel.ahmed/innocn-gaming-monitor-2b634a7edad0?source=rss------data_science-5)
-- [Features of HP Creator i9 Desktop
-
-HP Creator i9 Desktop is a high-end computer designed for…](https://medium.com/@adeeel.ahmed/features-of-hp-creator-i9-desktop-hp-creator-i9-desktop-is-a-high-end-computer-designed-for-48434ba3c67b?source=rss------data_science-5)
-- [Causality: Crash Course](https://medium.com/aiskunks/causality-crash-course-e84076e7dec6?source=rss------data_science-5)
-- [Ashley Furniture is a popular brand that offers a wide range of living room furniture.](https://medium.com/@adeeel.ahmed/ashley-furniture-is-a-popular-brand-that-offers-a-wide-range-of-living-room-furniture-c2bc60591170?source=rss------data_science-5)
+- [The Power of Coding: Unlocking the Potential of Technology](https://medium.com/@savikbusiness1/the-power-of-coding-unlocking-the-potential-of-technology-baf0cabf5ff0?source=rss------data_science-5)
+- [Which Library Reigns Supreme? —  polars &lpar;Python&rpar; vs pandas &lpar;Python&rpar; vs data.table &lpar;R&rpar;](https://medium.com/@ozlemgunes/which-library-reigns-supreme-polars-python-vs-pandas-python-vs-data-table-r-87ba74e8df44?source=rss------data_science-5)
+- [Learning Python — Roadmap and Resources](https://inamiya.medium.com/learning-python-roadmap-and-resources-41eda9fb04ee?source=rss------data_science-5)
+- [The Dark Side of AI Tech such as ChatGPT: Unveiling Security Risks and Challenges](https://datasciguy.medium.com/the-dark-side-of-ai-tech-such-as-chatgpt-unveiling-security-risks-and-challenges-fb5c4a4e44c?source=rss------data_science-5)
+- [Supercharge Your Big Data Applications with Apache Spark](https://medium.com/@ansam.yousry/supercharge-your-big-data-applications-with-apache-spark-d308803a1b87?source=rss------data_science-5)
+- [Machine Learning concept 65: One Hot Encoding in Multiple Domains.](https://medium.com/@chandu.bathula16/machine-learning-concept-65-one-hot-encoding-in-multiple-domains-439fcc293d70?source=rss------data_science-5)
+- [Build Data Warehouse Pipeline with Airflow](https://sid41x4.medium.com/build-data-warehouse-pipeline-with-airflow-ffc4a8c5d429?source=rss------data_science-5)
+- [Taking the First Steps in a Data Career: 5 Essential Tips for Success!](https://medium.com/@graciele.santos/taking-the-first-steps-in-a-data-career-5-essential-tips-for-success-95853d913a5b?source=rss------data_science-5)
+- [How to edit multiple cells in a Spreadsheet](https://medium.com/@hotsushi96/how-to-edit-multiple-cells-in-a-spreadsheet-85e2dca2161c?source=rss------data_science-5)
+- [Öznitelik Mühendisliği: Makine Öğreniminde Veri Analizinin Gücünü Artırmak](https://ozdemirramazan.medium.com/%C3%B6znitelik-m%C3%BChendisli%C4%9Fi-makine-%C3%B6%C4%9Freniminde-veri-analizinin-g%C3%BCc%C3%BCn%C3%BC-art%C4%B1rmak-ed126d0a31ab?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
