@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Power of Coding: Unlocking the Potential of Technology](https://medium.com/@savikbusiness1/the-power-of-coding-unlocking-the-potential-of-technology-baf0cabf5ff0?source=rss------data_science-5)
-- [Which Library Reigns Supreme? —  polars &lpar;Python&rpar; vs pandas &lpar;Python&rpar; vs data.table &lpar;R&rpar;](https://medium.com/@ozlemgunes/which-library-reigns-supreme-polars-python-vs-pandas-python-vs-data-table-r-87ba74e8df44?source=rss------data_science-5)
-- [Learning Python — Roadmap and Resources](https://inamiya.medium.com/learning-python-roadmap-and-resources-41eda9fb04ee?source=rss------data_science-5)
-- [The Dark Side of AI Tech such as ChatGPT: Unveiling Security Risks and Challenges](https://datasciguy.medium.com/the-dark-side-of-ai-tech-such-as-chatgpt-unveiling-security-risks-and-challenges-fb5c4a4e44c?source=rss------data_science-5)
-- [Supercharge Your Big Data Applications with Apache Spark](https://medium.com/@ansam.yousry/supercharge-your-big-data-applications-with-apache-spark-d308803a1b87?source=rss------data_science-5)
-- [Machine Learning concept 65: One Hot Encoding in Multiple Domains.](https://medium.com/@chandu.bathula16/machine-learning-concept-65-one-hot-encoding-in-multiple-domains-439fcc293d70?source=rss------data_science-5)
-- [Build Data Warehouse Pipeline with Airflow](https://sid41x4.medium.com/build-data-warehouse-pipeline-with-airflow-ffc4a8c5d429?source=rss------data_science-5)
-- [Taking the First Steps in a Data Career: 5 Essential Tips for Success!](https://medium.com/@graciele.santos/taking-the-first-steps-in-a-data-career-5-essential-tips-for-success-95853d913a5b?source=rss------data_science-5)
-- [How to edit multiple cells in a Spreadsheet](https://medium.com/@hotsushi96/how-to-edit-multiple-cells-in-a-spreadsheet-85e2dca2161c?source=rss------data_science-5)
-- [Öznitelik Mühendisliği: Makine Öğreniminde Veri Analizinin Gücünü Artırmak](https://ozdemirramazan.medium.com/%C3%B6znitelik-m%C3%BChendisli%C4%9Fi-makine-%C3%B6%C4%9Freniminde-veri-analizinin-g%C3%BCc%C3%BCn%C3%BC-art%C4%B1rmak-ed126d0a31ab?source=rss------data_science-5)
+- [Understanding Email Campaign Performance Using SQL: A Guide for Campaign Analysts](https://medium.com/@yennhi95zz/understanding-email-campaign-performance-using-sql-a-guide-for-campaign-analysts-6407b9a60f98?source=rss------data_science-5)
+- [The Power of Data Science: How Big Data is Revolutionizing the World](https://medium.com/@petsinhotel/the-power-of-data-science-how-big-data-is-revolutionizing-the-world-8319ad08e546?source=rss------data_science-5)
+- [Uncover Feature Interactions in your Machine Learning Models with Two-Way Partial Dependence Plots](https://medium.com/@swansburg.justin/uncover-feature-interactions-in-your-machine-learning-models-with-two-way-partial-dependence-plots-3bc6bff00078?source=rss------data_science-5)
+- [What is Hash Index?](https://medium.com/@humberto521336/what-is-hash-index-89de6504980a?source=rss------data_science-5)
+- [Introduction to Unsupervised Anomaly Detection Techniques &lpar;Part 1 | R, Python&rpar;](https://medium.com/@christina.zhou.96/introduction-to-unsupervised-anomaly-detection-techniques-part-1-r-python-93fd858322?source=rss------data_science-5)
+- [The Purpose Of Statistics](https://medium.com/alpha-beta-blog/the-purpose-of-statistics-74717b354d7f?source=rss------data_science-5)
+- [ChatGPT will rule the entire world soon… ☠](https://medium.com/@ug.durden/chatgpt-will-rule-the-entire-world-soon-c9391ea49e30?source=rss------data_science-5)
+- [Exploring the World of Temporal Databases: A Journey Through Time](https://medium.com/@nagarjunmallesh/introduction-d66ec1d5bcb1?source=rss------data_science-5)
+- [Working with XML files in PySpark: Reading and Writing Data](https://medium.com/@uzzaman.ahmed/working-with-xml-files-in-pyspark-reading-and-writing-data-d5e570c913de?source=rss------data_science-5)
+- [Unveiling the Bias: How the Veil of Ignorance Can Improve Data Fairness in AI](https://ernestodotnet.medium.com/unveiling-the-bias-how-the-veil-of-ignorance-can-improve-data-fairness-in-ai-604fc84f8c4d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
