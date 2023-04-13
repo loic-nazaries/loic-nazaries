@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Understanding Email Campaign Performance Using SQL: A Guide for Campaign Analysts](https://medium.com/@yennhi95zz/understanding-email-campaign-performance-using-sql-a-guide-for-campaign-analysts-6407b9a60f98?source=rss------data_science-5)
-- [The Power of Data Science: How Big Data is Revolutionizing the World](https://medium.com/@petsinhotel/the-power-of-data-science-how-big-data-is-revolutionizing-the-world-8319ad08e546?source=rss------data_science-5)
-- [Uncover Feature Interactions in your Machine Learning Models with Two-Way Partial Dependence Plots](https://medium.com/@swansburg.justin/uncover-feature-interactions-in-your-machine-learning-models-with-two-way-partial-dependence-plots-3bc6bff00078?source=rss------data_science-5)
-- [What is Hash Index?](https://medium.com/@humberto521336/what-is-hash-index-89de6504980a?source=rss------data_science-5)
-- [Introduction to Unsupervised Anomaly Detection Techniques &lpar;Part 1 | R, Python&rpar;](https://medium.com/@christina.zhou.96/introduction-to-unsupervised-anomaly-detection-techniques-part-1-r-python-93fd858322?source=rss------data_science-5)
-- [The Purpose Of Statistics](https://medium.com/alpha-beta-blog/the-purpose-of-statistics-74717b354d7f?source=rss------data_science-5)
-- [ChatGPT will rule the entire world soon… ☠](https://medium.com/@ug.durden/chatgpt-will-rule-the-entire-world-soon-c9391ea49e30?source=rss------data_science-5)
-- [Exploring the World of Temporal Databases: A Journey Through Time](https://medium.com/@nagarjunmallesh/introduction-d66ec1d5bcb1?source=rss------data_science-5)
-- [Working with XML files in PySpark: Reading and Writing Data](https://medium.com/@uzzaman.ahmed/working-with-xml-files-in-pyspark-reading-and-writing-data-d5e570c913de?source=rss------data_science-5)
-- [Unveiling the Bias: How the Veil of Ignorance Can Improve Data Fairness in AI](https://ernestodotnet.medium.com/unveiling-the-bias-how-the-veil-of-ignorance-can-improve-data-fairness-in-ai-604fc84f8c4d?source=rss------data_science-5)
+- [Data Science: Your Magic Key to Driving Business Success](https://medium.com/@oluroc/data-science-your-magic-key-to-driving-business-success-861fbe80cc37?source=rss------data_science-5)
+- [Data science and Architectural Fabrication](https://medium.com/@tfuger10/data-science-and-architectural-fabrication-bdcaff6b4f7b?source=rss------data_science-5)
+- [10 Bestest JupyterLab Tricks I Found After Three Years of Use](https://medium.com/geekculture/10-bestest-jupyterlab-tricks-i-found-after-three-years-of-use-61ccaaecd9a0?source=rss------data_science-5)
+- [Mind Games in Job Interviews: How to Navigate Trick Questions and Behavioral Assessments](https://medium.com/@salemortega/mind-games-in-job-interviews-how-to-navigate-trick-questions-and-behavioral-assessments-24b9f3b071c0?source=rss------data_science-5)
+- [Understanding Neural Networks: A Beginner’s Guide to Machine Learning](https://mouaadblhn.medium.com/understanding-neural-networks-a-beginners-guide-to-machine-learning-9aebfbd4f382?source=rss------data_science-5)
+- [Alibaba shares tumble after SoftBank reportedly sells most of its stake](https://medium.com/@erfancash7/alibaba-shares-tumble-after-softbank-reportedly-sells-most-of-its-stake-1cb5d8ccbec5?source=rss------data_science-5)
+- [Apache Cassandra vs Apache Hadoop vs Apache Spark: Choosing the Best Big Data Solution](https://medium.com/@bertowareofficial/apache-cassandra-vs-apache-hadoop-vs-apache-spark-choosing-the-best-big-data-solution-f77c15f7c5d9?source=rss------data_science-5)
+- [SQL-style joins using Pandas](https://medium.com/data-science-micro/sql-style-joins-using-pandas-ba7894ccc64?source=rss------data_science-5)
+- [Use a Model Catalog to Overcome Four Roadblocks to ML Success](https://medium.com/@datacereal/use-a-model-catalog-to-overcome-four-roadblocks-to-ml-success-cbf676f143fd?source=rss------data_science-5)
+- [Leadership tricks  for success](https://medium.com/@naurisk131993/leadership-tricks-for-success-9c11a9eb331f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
