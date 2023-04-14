@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Science: Your Magic Key to Driving Business Success](https://medium.com/@oluroc/data-science-your-magic-key-to-driving-business-success-861fbe80cc37?source=rss------data_science-5)
-- [Data science and Architectural Fabrication](https://medium.com/@tfuger10/data-science-and-architectural-fabrication-bdcaff6b4f7b?source=rss------data_science-5)
-- [10 Bestest JupyterLab Tricks I Found After Three Years of Use](https://medium.com/geekculture/10-bestest-jupyterlab-tricks-i-found-after-three-years-of-use-61ccaaecd9a0?source=rss------data_science-5)
-- [Mind Games in Job Interviews: How to Navigate Trick Questions and Behavioral Assessments](https://medium.com/@salemortega/mind-games-in-job-interviews-how-to-navigate-trick-questions-and-behavioral-assessments-24b9f3b071c0?source=rss------data_science-5)
-- [Understanding Neural Networks: A Beginner’s Guide to Machine Learning](https://mouaadblhn.medium.com/understanding-neural-networks-a-beginners-guide-to-machine-learning-9aebfbd4f382?source=rss------data_science-5)
-- [Alibaba shares tumble after SoftBank reportedly sells most of its stake](https://medium.com/@erfancash7/alibaba-shares-tumble-after-softbank-reportedly-sells-most-of-its-stake-1cb5d8ccbec5?source=rss------data_science-5)
-- [Apache Cassandra vs Apache Hadoop vs Apache Spark: Choosing the Best Big Data Solution](https://medium.com/@bertowareofficial/apache-cassandra-vs-apache-hadoop-vs-apache-spark-choosing-the-best-big-data-solution-f77c15f7c5d9?source=rss------data_science-5)
-- [SQL-style joins using Pandas](https://medium.com/data-science-micro/sql-style-joins-using-pandas-ba7894ccc64?source=rss------data_science-5)
-- [Use a Model Catalog to Overcome Four Roadblocks to ML Success](https://medium.com/@datacereal/use-a-model-catalog-to-overcome-four-roadblocks-to-ml-success-cbf676f143fd?source=rss------data_science-5)
-- [Leadership tricks  for success](https://medium.com/@naurisk131993/leadership-tricks-for-success-9c11a9eb331f?source=rss------data_science-5)
+- [“Decoding Parkinson’s Disease Progression with the Power of Voice: How Biomedical Data can Predict…](https://becominghuman.ai/decoding-parkinsons-disease-progression-with-the-power-of-voice-how-biomedical-data-can-predict-665c38077a7f?source=rss------data_science-5)
+- [5 Ways to Generate a Passive Income Using ChatGPT](https://medium.com/@natashanewbold/5-ways-to-generate-a-passive-income-using-chatgpt-b8fbe00f01bb?source=rss------data_science-5)
+- [AI &amp; data science *are* different](https://medium.com/@paul.k.pallaghy/ai-data-science-are-different-f56edd28e16b?source=rss------data_science-5)
+- [Understanding Natural Language Processing](https://medium.com/@ahmettsdmr1312/understanding-natural-language-processing-5b616c7e7533?source=rss------data_science-5)
+- [Pandas: The Mighty Python Library for Data Manipulation](https://medium.com/@bertowareofficial/pandas-the-mighty-python-library-for-data-manipulation-b01cd1deace5?source=rss------data_science-5)
+- [Inteligência Artificial](https://medium.com/@habbema/intelig%C3%AAncia-artificial-a2979114648c?source=rss------data_science-5)
+- [Power BI vs Tableau: Comparing Report for Data Scientists](https://medium.com/@zirubak/power-bi-vs-tableau-comparing-report-for-data-scientists-593b22b899fa?source=rss------data_science-5)
+- [How to Pivot &lpar;or Un-stack&rpar; a Time Series Table in PostgreSQL](https://medium.com/@alexkrenitsky/how-to-pivot-or-un-stack-a-time-series-table-in-postgresql-949ac5d91ebf?source=rss------data_science-5)
+- [Enter for a $10,000 now](https://medium.com/@spdatta16/enter-for-a-10-000-now-cc52cde7c084?source=rss------data_science-5)
+- [No more Spying on Your Data !](https://medium.com/readers-digests/no-more-spying-on-your-data-cc8b400d8025?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
