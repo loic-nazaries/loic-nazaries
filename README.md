@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [“Decoding Parkinson’s Disease Progression with the Power of Voice: How Biomedical Data can Predict…](https://becominghuman.ai/decoding-parkinsons-disease-progression-with-the-power-of-voice-how-biomedical-data-can-predict-665c38077a7f?source=rss------data_science-5)
-- [5 Ways to Generate a Passive Income Using ChatGPT](https://medium.com/@natashanewbold/5-ways-to-generate-a-passive-income-using-chatgpt-b8fbe00f01bb?source=rss------data_science-5)
-- [AI &amp; data science *are* different](https://medium.com/@paul.k.pallaghy/ai-data-science-are-different-f56edd28e16b?source=rss------data_science-5)
-- [Understanding Natural Language Processing](https://medium.com/@ahmettsdmr1312/understanding-natural-language-processing-5b616c7e7533?source=rss------data_science-5)
-- [Pandas: The Mighty Python Library for Data Manipulation](https://medium.com/@bertowareofficial/pandas-the-mighty-python-library-for-data-manipulation-b01cd1deace5?source=rss------data_science-5)
-- [Inteligência Artificial](https://medium.com/@habbema/intelig%C3%AAncia-artificial-a2979114648c?source=rss------data_science-5)
-- [Power BI vs Tableau: Comparing Report for Data Scientists](https://medium.com/@zirubak/power-bi-vs-tableau-comparing-report-for-data-scientists-593b22b899fa?source=rss------data_science-5)
-- [How to Pivot &lpar;or Un-stack&rpar; a Time Series Table in PostgreSQL](https://medium.com/@alexkrenitsky/how-to-pivot-or-un-stack-a-time-series-table-in-postgresql-949ac5d91ebf?source=rss------data_science-5)
-- [Enter for a $10,000 now](https://medium.com/@spdatta16/enter-for-a-10-000-now-cc52cde7c084?source=rss------data_science-5)
-- [No more Spying on Your Data !](https://medium.com/readers-digests/no-more-spying-on-your-data-cc8b400d8025?source=rss------data_science-5)
+- [Pandas: The Powerhouse of Data Manipulation with 3 Important Methods](https://medium.com/@yennhi95zz/pandas-the-powerhouse-of-data-manipulation-with-3-important-methods-e17e5cb8a3c8?source=rss------data_science-5)
+- [StatQuest 筆記分享: 人工神經網路6 — Cross Entropy](https://medium.com/imu-framework-design/statquest-%E7%AD%86%E8%A8%98%E5%88%86%E4%BA%AB-%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF6-cross-entropy-aab725d03552?source=rss------data_science-5)
+- [Supervised Machine Learning: Decision Tree](https://mariamkilibechir.medium.com/supervised-machine-learning-decision-tree-26aa0e4a21c7?source=rss------data_science-5)
+- [Beta Distribution: An Intuitive Explanation](https://u5man.medium.com/beta-distribution-an-intuitive-explanation-33edb062cff1?source=rss------data_science-5)
+- [CUSTOMER ATTRITION PREDICTION WEB APP DESIGNED WITH GRADIO.](https://medium.com/@cnorkplim/customer-attrition-prediction-web-app-designed-with-gradio-17ca55b7a8ff?source=rss------data_science-5)
+- [Why Strategic Plans Aren’t the Best Plan For Data Science](https://pub.towardsai.net/why-strategic-plans-arent-the-best-plan-for-data-science-f23e49dde2e1?source=rss------data_science-5)
+- [Database vs Data Warehouse vs Data Lake](https://medium.com/@VersuS_/database-vs-data-warehouse-vs-data-lake-ab94a6facdf1?source=rss------data_science-5)
+- [Análise de dados para pacientes com cardiopatia isquêmica aplicado em um hospital público](https://antoniovalerionetto.medium.com/an%C3%A1lise-de-dados-para-pacientes-com-cardiopatia-isqu%C3%AAmica-aplicado-em-um-hospital-p%C3%BAblico-ac0a15b38aed?source=rss------data_science-5)
+- [The Rise of AI and Its Impact on Data Science](https://medium.com/@hamzebarreh/the-rise-of-ai-and-its-impact-on-data-science-e91a007561cd?source=rss------data_science-5)
+- [My expectation and goals for my internship at Statistics Korea &lpar;the Ministry of Statistics&rpar;](https://medium.com/@nayeonkn0330/my-expectation-and-goals-for-my-internship-at-statistics-korea-the-ministry-of-statistics-162c09ad7ca5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
