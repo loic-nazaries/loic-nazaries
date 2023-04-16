@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Pandas: The Powerhouse of Data Manipulation with 3 Important Methods](https://medium.com/@yennhi95zz/pandas-the-powerhouse-of-data-manipulation-with-3-important-methods-e17e5cb8a3c8?source=rss------data_science-5)
-- [StatQuest 筆記分享: 人工神經網路6 — Cross Entropy](https://medium.com/imu-framework-design/statquest-%E7%AD%86%E8%A8%98%E5%88%86%E4%BA%AB-%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF6-cross-entropy-aab725d03552?source=rss------data_science-5)
-- [Supervised Machine Learning: Decision Tree](https://mariamkilibechir.medium.com/supervised-machine-learning-decision-tree-26aa0e4a21c7?source=rss------data_science-5)
-- [Beta Distribution: An Intuitive Explanation](https://u5man.medium.com/beta-distribution-an-intuitive-explanation-33edb062cff1?source=rss------data_science-5)
-- [CUSTOMER ATTRITION PREDICTION WEB APP DESIGNED WITH GRADIO.](https://medium.com/@cnorkplim/customer-attrition-prediction-web-app-designed-with-gradio-17ca55b7a8ff?source=rss------data_science-5)
-- [Why Strategic Plans Aren’t the Best Plan For Data Science](https://pub.towardsai.net/why-strategic-plans-arent-the-best-plan-for-data-science-f23e49dde2e1?source=rss------data_science-5)
-- [Database vs Data Warehouse vs Data Lake](https://medium.com/@VersuS_/database-vs-data-warehouse-vs-data-lake-ab94a6facdf1?source=rss------data_science-5)
-- [Análise de dados para pacientes com cardiopatia isquêmica aplicado em um hospital público](https://antoniovalerionetto.medium.com/an%C3%A1lise-de-dados-para-pacientes-com-cardiopatia-isqu%C3%AAmica-aplicado-em-um-hospital-p%C3%BAblico-ac0a15b38aed?source=rss------data_science-5)
-- [The Rise of AI and Its Impact on Data Science](https://medium.com/@hamzebarreh/the-rise-of-ai-and-its-impact-on-data-science-e91a007561cd?source=rss------data_science-5)
-- [My expectation and goals for my internship at Statistics Korea &lpar;the Ministry of Statistics&rpar;](https://medium.com/@nayeonkn0330/my-expectation-and-goals-for-my-internship-at-statistics-korea-the-ministry-of-statistics-162c09ad7ca5?source=rss------data_science-5)
+- [Unlocking Insights for Sustainable Growth: Data-Driven Innovations in Greenhouse Gas Protocol…](https://medium.com/@farooqk.aziz/unlocking-insights-for-sustainable-growth-data-driven-innovations-in-greenhouse-gas-protocol-9b8fd84ad978?source=rss------data_science-5)
+- [Statistical Hypothesis Testing to Improve Machine Learning Algorithm in South Jakarta House Price…](https://medium.com/@cakrasinaga/statistical-hypothesis-testing-to-improve-machine-learning-algorithm-in-south-jakarta-house-price-56a61df38989?source=rss------data_science-5)
+- [Analyzing and Predicting the Trends in the UFC](https://medium.com/@25020436/analyzing-and-predicting-the-trends-in-the-ufc-dcb7b62aadea?source=rss------data_science-5)
+- [Greetings!](https://medium.com/@segmentanythingmodel/greetings-a17f7515c4e4?source=rss------data_science-5)
+- [Mobility Pattern Mining: Modelling Spatial and Temporal Movement](https://medium.com/@omertafveez/mobility-pattern-mining-modelling-spatial-and-temporal-movement-ff1ecdd9ebf9?source=rss------data_science-5)
+- [The Hidden Impact of Data Quality on Your Business: A Data Scientist’s Perspective](https://medium.com/@babar.islam007/the-hidden-impact-of-data-quality-on-your-business-a-data-scientists-perspective-251fef04a641?source=rss------data_science-5)
+- [Basics Types of Queries in SQL](https://medium.com/@sohamshinde156/basics-types-of-queries-in-sql-5f163ee44adf?source=rss------data_science-5)
+- [How I Would Answer 5 Common Data Science Interview Questions](https://medium.com/@salemortega/how-i-would-answer-5-common-data-science-interview-questions-b7544de2dd3e?source=rss------data_science-5)
+- [Introduction To Decision Trees](https://medium.com/physics-and-machine-learning/introduction-to-decision-trees-9d25209c9e4b?source=rss------data_science-5)
+- [The Abalone Machine Learning Project Report with model, front end and backend code](https://medium.com/@611noorsaeed/the-abalone-machine-learning-project-report-with-model-front-end-and-backend-code-77c0f2adf6fc?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
