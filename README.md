@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Unlocking Insights for Sustainable Growth: Data-Driven Innovations in Greenhouse Gas Protocol…](https://medium.com/@farooqk.aziz/unlocking-insights-for-sustainable-growth-data-driven-innovations-in-greenhouse-gas-protocol-9b8fd84ad978?source=rss------data_science-5)
-- [Statistical Hypothesis Testing to Improve Machine Learning Algorithm in South Jakarta House Price…](https://medium.com/@cakrasinaga/statistical-hypothesis-testing-to-improve-machine-learning-algorithm-in-south-jakarta-house-price-56a61df38989?source=rss------data_science-5)
-- [Analyzing and Predicting the Trends in the UFC](https://medium.com/@25020436/analyzing-and-predicting-the-trends-in-the-ufc-dcb7b62aadea?source=rss------data_science-5)
-- [Greetings!](https://medium.com/@segmentanythingmodel/greetings-a17f7515c4e4?source=rss------data_science-5)
-- [Mobility Pattern Mining: Modelling Spatial and Temporal Movement](https://medium.com/@omertafveez/mobility-pattern-mining-modelling-spatial-and-temporal-movement-ff1ecdd9ebf9?source=rss------data_science-5)
-- [The Hidden Impact of Data Quality on Your Business: A Data Scientist’s Perspective](https://medium.com/@babar.islam007/the-hidden-impact-of-data-quality-on-your-business-a-data-scientists-perspective-251fef04a641?source=rss------data_science-5)
-- [Basics Types of Queries in SQL](https://medium.com/@sohamshinde156/basics-types-of-queries-in-sql-5f163ee44adf?source=rss------data_science-5)
-- [How I Would Answer 5 Common Data Science Interview Questions](https://medium.com/@salemortega/how-i-would-answer-5-common-data-science-interview-questions-b7544de2dd3e?source=rss------data_science-5)
-- [Introduction To Decision Trees](https://medium.com/physics-and-machine-learning/introduction-to-decision-trees-9d25209c9e4b?source=rss------data_science-5)
-- [The Abalone Machine Learning Project Report with model, front end and backend code](https://medium.com/@611noorsaeed/the-abalone-machine-learning-project-report-with-model-front-end-and-backend-code-77c0f2adf6fc?source=rss------data_science-5)
+- [Full Stack Journey — II: Refactoring, Classes, Tests, Versioning, and a Pinch of Interactive Images](https://medium.com/@renatotomaz/clique-aqui-para-ler-este-artigo-em-portugu%C3%AAs-1220fa707b92?source=rss------data_science-5)
+- [Data Cleaning and Preparation](https://medium.com/@mohsenmostafa833/data-cleaning-and-preparation-1c6ba1663608?source=rss------data_science-5)
+- [Virtual Tourist Token, Metaverse üzerinde VR dünyasında sanal turizm temalı bir kripto para…](https://medium.com/@serdarafak_65708/virtual-tourist-token-metaverse-%C3%BCzerinde-vr-d%C3%BCnyas%C4%B1nda-sanal-turizm-temal%C4%B1-bir-kripto-para-79a397f5f32c?source=rss------data_science-5)
+- [Rotten Tomatoes Review Analysis using Naive Bayes Classifier](https://abhishekwadhwani2.medium.com/rotten-tomatoes-review-analysis-using-naive-bayes-classifier-bb524afb47d5?source=rss------data_science-5)
+- [Demystifying Neural Networks: Part 2](https://medium.com/@sayrom2/demystifying-neural-networks-part-2-c316f72efb7e?source=rss------data_science-5)
+- [Demystifying Neural Networks: Part 1](https://medium.com/@sayrom2/demystifying-neural-networks-part-1-a99b36d91134?source=rss------data_science-5)
+- [Boost Efficiency and Slash Workload for Your Business Processes with Robotic Process Automation](https://medium.com/@aminollahi/boost-efficiency-and-slash-workload-for-your-business-processes-with-robotic-process-automation-41c6f8b9685f?source=rss------data_science-5)
+- [Veri Alanına İlgi Duyan Üniversite Öğrencileri İçin Öneriler](https://dbkirkoglu.medium.com/veri-alan%C4%B1na-i%CC%87lgi-duyan-%C3%BCniversite-%C3%B6%C4%9Frencileri-i%CC%87%C3%A7in-%C3%B6neriler-ae75a01681c4?source=rss------data_science-5)
+- [Magic Commands in Python](https://jhhemal.medium.com/magic-commands-in-python-7e5c4cb6131f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
