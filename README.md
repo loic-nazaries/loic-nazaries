@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Full Stack Journey — II: Refactoring, Classes, Tests, Versioning, and a Pinch of Interactive Images](https://medium.com/@renatotomaz/clique-aqui-para-ler-este-artigo-em-portugu%C3%AAs-1220fa707b92?source=rss------data_science-5)
-- [Data Cleaning and Preparation](https://medium.com/@mohsenmostafa833/data-cleaning-and-preparation-1c6ba1663608?source=rss------data_science-5)
-- [Virtual Tourist Token, Metaverse üzerinde VR dünyasında sanal turizm temalı bir kripto para…](https://medium.com/@serdarafak_65708/virtual-tourist-token-metaverse-%C3%BCzerinde-vr-d%C3%BCnyas%C4%B1nda-sanal-turizm-temal%C4%B1-bir-kripto-para-79a397f5f32c?source=rss------data_science-5)
-- [Rotten Tomatoes Review Analysis using Naive Bayes Classifier](https://abhishekwadhwani2.medium.com/rotten-tomatoes-review-analysis-using-naive-bayes-classifier-bb524afb47d5?source=rss------data_science-5)
-- [Demystifying Neural Networks: Part 2](https://medium.com/@sayrom2/demystifying-neural-networks-part-2-c316f72efb7e?source=rss------data_science-5)
-- [Demystifying Neural Networks: Part 1](https://medium.com/@sayrom2/demystifying-neural-networks-part-1-a99b36d91134?source=rss------data_science-5)
-- [Boost Efficiency and Slash Workload for Your Business Processes with Robotic Process Automation](https://medium.com/@aminollahi/boost-efficiency-and-slash-workload-for-your-business-processes-with-robotic-process-automation-41c6f8b9685f?source=rss------data_science-5)
-- [Veri Alanına İlgi Duyan Üniversite Öğrencileri İçin Öneriler](https://dbkirkoglu.medium.com/veri-alan%C4%B1na-i%CC%87lgi-duyan-%C3%BCniversite-%C3%B6%C4%9Frencileri-i%CC%87%C3%A7in-%C3%B6neriler-ae75a01681c4?source=rss------data_science-5)
-- [Magic Commands in Python](https://jhhemal.medium.com/magic-commands-in-python-7e5c4cb6131f?source=rss------data_science-5)
+- [Brokerages Suck: Navigating the Challenges of Live Algo Trading](https://medium.com/@codingandcoffee/brokerages-suck-navigating-the-challenges-of-live-algo-trading-743b47f6401e?source=rss------data_science-5)
+- [Four Brain Traps You Should Avoid](https://keith-mcnulty.medium.com/four-brain-traps-you-should-avoid-1e06abc51b05?source=rss------data_science-5)
+- [Zero ETL: The Future of Data Integration and Transformation](https://medium.com/@ansam.yousry/zero-etl-the-future-of-data-integration-and-transformation-82580a8e77cc?source=rss------data_science-5)
+- [The impact of data cleaning on EDA and machine learning models](https://medium.com/@akashkunwar/the-impact-of-data-cleaning-on-eda-and-machine-learning-models-2b32ef5907f?source=rss------data_science-5)
+- [Setting Up Your Python Development Environment on macOS](https://medium.com/data-science-decoded/setting-up-your-python-development-environment-on-macos-900fc0663ef6?source=rss------data_science-5)
+- [Snacking, Mental Health, and Anxiety](https://medium.com/@rianalynn/snacking-mental-health-and-anxiety-89ef2fab5747?source=rss------data_science-5)
+- [The Ultimate Guide to Mastering System Design Concepts for Interviews](https://medium.com/geekculture/the-ultimate-guide-to-mastering-system-design-concepts-for-interviews-d8fbeab90389?source=rss------data_science-5)
+- [Working with Learning rate part2&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/working-with-learning-rate-part2-machine-learning-4b00471f21e?source=rss------data_science-5)
+- [Working with Learning rate part1&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/working-with-learning-rate-part1-machine-learning-17378c59526c?source=rss------data_science-5)
+- [Working with Network pruning part3&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/working-with-network-pruning-part3-machine-learning-de80d5c1c46a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
