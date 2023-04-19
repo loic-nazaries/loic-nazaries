@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Brokerages Suck: Navigating the Challenges of Live Algo Trading](https://medium.com/@codingandcoffee/brokerages-suck-navigating-the-challenges-of-live-algo-trading-743b47f6401e?source=rss------data_science-5)
-- [Four Brain Traps You Should Avoid](https://keith-mcnulty.medium.com/four-brain-traps-you-should-avoid-1e06abc51b05?source=rss------data_science-5)
-- [Zero ETL: The Future of Data Integration and Transformation](https://medium.com/@ansam.yousry/zero-etl-the-future-of-data-integration-and-transformation-82580a8e77cc?source=rss------data_science-5)
-- [The impact of data cleaning on EDA and machine learning models](https://medium.com/@akashkunwar/the-impact-of-data-cleaning-on-eda-and-machine-learning-models-2b32ef5907f?source=rss------data_science-5)
-- [Setting Up Your Python Development Environment on macOS](https://medium.com/data-science-decoded/setting-up-your-python-development-environment-on-macos-900fc0663ef6?source=rss------data_science-5)
-- [Snacking, Mental Health, and Anxiety](https://medium.com/@rianalynn/snacking-mental-health-and-anxiety-89ef2fab5747?source=rss------data_science-5)
-- [The Ultimate Guide to Mastering System Design Concepts for Interviews](https://medium.com/geekculture/the-ultimate-guide-to-mastering-system-design-concepts-for-interviews-d8fbeab90389?source=rss------data_science-5)
-- [Working with Learning rate part2&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/working-with-learning-rate-part2-machine-learning-4b00471f21e?source=rss------data_science-5)
-- [Working with Learning rate part1&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/working-with-learning-rate-part1-machine-learning-17378c59526c?source=rss------data_science-5)
-- [Working with Network pruning part3&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/working-with-network-pruning-part3-machine-learning-de80d5c1c46a?source=rss------data_science-5)
+- [How to turn media articles into metrics data with RSS feeds](https://jweinst1.medium.com/how-to-turn-media-articles-into-metrics-data-with-rss-feeds-3a5702562663?source=rss------data_science-5)
+- [What You Should Know Before You Join the Military](https://medium.com/@ericralph231/what-you-should-know-before-you-join-the-military-37e4269b2723?source=rss------data_science-5)
+- [How to Build a Robust Random Forest Regression Model in Python](https://medium.com/@teslys88/how-to-build-a-robust-random-forest-regression-model-in-python-4c0ee2a1a287?source=rss------data_science-5)
+- [Predictive Models for Fraud Identification in Credit Transactions](https://ozeassantosn.medium.com/predictive-models-for-fraud-identification-in-credit-transactions-a1469a839fd1?source=rss------data_science-5)
+- [Linear Regression In Depth &lpar;Part 1&rpar;](https://towardsdatascience.com/linear-regression-in-depth-part-1-485f997fd611?source=rss------data_science-5)
+- [Work vulnerability in the age of AI](https://medium.com/geekculture/work-vulnerability-in-the-age-of-ai-e14c2fd3df6b?source=rss------data_science-5)
+- [What is Data Science &amp; why should I read this article?](https://jonbagnato.medium.com/what-is-data-science-why-should-i-read-this-article-2260e0be92de?source=rss------data_science-5)
+- [The Scholar’s Guide to Breaking into the Tech Industry](https://medium.com/@lisafeets/the-scholars-guide-to-breaking-into-the-tech-industry-f74f661fcd26?source=rss------data_science-5)
+- [The Human Touch: Maintaining Empathy in an AI-Powered Product Landscape](https://medium.com/@a.aron/the-human-touch-maintaining-empathy-in-an-ai-powered-product-landscape-79c73db15cda?source=rss------data_science-5)
+- [Explainable AI: Why It Matters and How to Achieve It](https://medium.com/@octobreak/explainable-ai-why-it-matters-and-how-to-achieve-it-341e55e3ae3d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
