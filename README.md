@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to turn media articles into metrics data with RSS feeds](https://jweinst1.medium.com/how-to-turn-media-articles-into-metrics-data-with-rss-feeds-3a5702562663?source=rss------data_science-5)
-- [What You Should Know Before You Join the Military](https://medium.com/@ericralph231/what-you-should-know-before-you-join-the-military-37e4269b2723?source=rss------data_science-5)
-- [How to Build a Robust Random Forest Regression Model in Python](https://medium.com/@teslys88/how-to-build-a-robust-random-forest-regression-model-in-python-4c0ee2a1a287?source=rss------data_science-5)
-- [Predictive Models for Fraud Identification in Credit Transactions](https://ozeassantosn.medium.com/predictive-models-for-fraud-identification-in-credit-transactions-a1469a839fd1?source=rss------data_science-5)
-- [Linear Regression In Depth &lpar;Part 1&rpar;](https://towardsdatascience.com/linear-regression-in-depth-part-1-485f997fd611?source=rss------data_science-5)
-- [Work vulnerability in the age of AI](https://medium.com/geekculture/work-vulnerability-in-the-age-of-ai-e14c2fd3df6b?source=rss------data_science-5)
-- [What is Data Science &amp; why should I read this article?](https://jonbagnato.medium.com/what-is-data-science-why-should-i-read-this-article-2260e0be92de?source=rss------data_science-5)
-- [The Scholar’s Guide to Breaking into the Tech Industry](https://medium.com/@lisafeets/the-scholars-guide-to-breaking-into-the-tech-industry-f74f661fcd26?source=rss------data_science-5)
-- [The Human Touch: Maintaining Empathy in an AI-Powered Product Landscape](https://medium.com/@a.aron/the-human-touch-maintaining-empathy-in-an-ai-powered-product-landscape-79c73db15cda?source=rss------data_science-5)
-- [Explainable AI: Why It Matters and How to Achieve It](https://medium.com/@octobreak/explainable-ai-why-it-matters-and-how-to-achieve-it-341e55e3ae3d?source=rss------data_science-5)
+- [[Postman] Zeppelin POST &amp; GET Request Full Guide](https://medium.com/@humberto521336/postman-zeppelin-post-get-request-full-guide-ebc42c0efdd1?source=rss------data_science-5)
+- [O que é gestão de dados e qual o papel dela na carreira de dados?](https://michelcaiafa.medium.com/o-que-%C3%A9-gest%C3%A3o-de-dados-e-qual-o-papel-dela-na-carreira-de-dados-91a56de30b43?source=rss------data_science-5)
+- [Já pensou em usar poucos caracteres para identificar um ponto geoespacial?](https://medium.com/@gersongoulartjnr/j%C3%A1-pensou-em-usar-poucos-caracteres-para-identificar-um-ponto-geoespacial-d85bffaf378c?source=rss------data_science-5)
+- [ASL Classification with landmarks and XGBoosted Trees](https://medium.com/@alexanderdaffara/asl-classification-with-landmarks-and-xgboosted-trees-2bee91d0be10?source=rss------data_science-5)
+- [lemonade date @](https://medium.com/@WaWa15833855946/lemonade-date-7f2acf05e618?source=rss------data_science-5)
+- [Beyond Technical Skills: The Importance of Soft Skills for Data Science Students](https://medium.com/@PhaneeshaChilaveni/beyond-technical-skills-the-importance-of-soft-skills-for-data-science-students-5a6d8c69ddfa?source=rss------data_science-5)
+- [Here are list of 7 Blockchains with their Use Cases](https://maniah.medium.com/here-are-list-of-7-blockchains-with-their-use-cases-49f5350d8030?source=rss------data_science-5)
+- [The difference between stationary and non stationary data](https://medium.com/@mohsenmostafa833/the-difference-between-stationary-and-non-stationary-data-eac02918eca8?source=rss------data_science-5)
+- [Automatizá tus decisiones saludables: cómo Python me ayudó a encontrar las mejores viandas bajas…](https://medium.com/@PabloAlaniz/automatiz%C3%A1-tus-decisiones-saludables-c%C3%B3mo-python-me-ayud%C3%B3-a-encontrar-las-mejores-viandas-bajas-bf2c4e6d953a?source=rss------data_science-5)
+- [Statistical Plotting with Julia: AlgebraOfGraphics.jl](https://towardsdatascience.com/statistical-plotting-with-julia-algebraofgraphics-jl-4ead1507c638?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
