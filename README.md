@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [[Postman] Zeppelin POST &amp; GET Request Full Guide](https://medium.com/@humberto521336/postman-zeppelin-post-get-request-full-guide-ebc42c0efdd1?source=rss------data_science-5)
-- [O que é gestão de dados e qual o papel dela na carreira de dados?](https://michelcaiafa.medium.com/o-que-%C3%A9-gest%C3%A3o-de-dados-e-qual-o-papel-dela-na-carreira-de-dados-91a56de30b43?source=rss------data_science-5)
-- [Já pensou em usar poucos caracteres para identificar um ponto geoespacial?](https://medium.com/@gersongoulartjnr/j%C3%A1-pensou-em-usar-poucos-caracteres-para-identificar-um-ponto-geoespacial-d85bffaf378c?source=rss------data_science-5)
-- [ASL Classification with landmarks and XGBoosted Trees](https://medium.com/@alexanderdaffara/asl-classification-with-landmarks-and-xgboosted-trees-2bee91d0be10?source=rss------data_science-5)
-- [lemonade date @](https://medium.com/@WaWa15833855946/lemonade-date-7f2acf05e618?source=rss------data_science-5)
-- [Beyond Technical Skills: The Importance of Soft Skills for Data Science Students](https://medium.com/@PhaneeshaChilaveni/beyond-technical-skills-the-importance-of-soft-skills-for-data-science-students-5a6d8c69ddfa?source=rss------data_science-5)
-- [Here are list of 7 Blockchains with their Use Cases](https://maniah.medium.com/here-are-list-of-7-blockchains-with-their-use-cases-49f5350d8030?source=rss------data_science-5)
-- [The difference between stationary and non stationary data](https://medium.com/@mohsenmostafa833/the-difference-between-stationary-and-non-stationary-data-eac02918eca8?source=rss------data_science-5)
-- [Automatizá tus decisiones saludables: cómo Python me ayudó a encontrar las mejores viandas bajas…](https://medium.com/@PabloAlaniz/automatiz%C3%A1-tus-decisiones-saludables-c%C3%B3mo-python-me-ayud%C3%B3-a-encontrar-las-mejores-viandas-bajas-bf2c4e6d953a?source=rss------data_science-5)
-- [Statistical Plotting with Julia: AlgebraOfGraphics.jl](https://towardsdatascience.com/statistical-plotting-with-julia-algebraofgraphics-jl-4ead1507c638?source=rss------data_science-5)
+- [From Data Cleaning to App Deployment: A Guide to Creating Interactive Web Applications with Python!](https://olajumokeajala.medium.com/from-data-cleaning-to-app-deployment-a-guide-to-creating-interactive-web-applications-with-python-8c961a05883e?source=rss------data_science-5)
+- [“Exploring the Basics and Advantages of Linked List Data Structure”](https://medium.com/@mostafa.ragheb.ghareeb.cse/exploring-the-basics-and-advantages-of-linked-list-data-structure-1588cf667560?source=rss------data_science-5)
+- [Transitioning from Data Analyst to Data Scientist: A Guide for 2023](https://medium.com/@zirubak/transitioning-from-data-analyst-to-data-scientist-a-guide-for-2023-809b7699a309?source=rss------data_science-5)
+- [The possibility of humans living on Mars has been a topic of interest and research for decades.](https://medium.com/@fnymgtz/the-possibility-of-humans-living-on-mars-has-been-a-topic-of-interest-and-research-for-decades-b5b9c322a4eb?source=rss------data_science-5)
+- [MarketingBlocks: Honest Review + Full OTO Details + Special Bonuses](https://ranahknowledge.medium.com/marketingblocks-honest-review-full-oto-details-special-bonuses-34d200ef96c0?source=rss------data_science-5)
+- [From Unstructured to Structured Data: The Benefits of Using RDD and DataFrame in PySpark](https://medium.com/@uzzaman.ahmed/from-unstructured-to-structured-data-the-benefits-of-using-rdd-and-dataframe-in-pyspark-4777377306d8?source=rss------data_science-5)
+- [Why reverse engineering data quality might be the best approach for your organization?](https://medium.com/@brarajit18/why-reverse-engineering-data-quality-might-be-the-best-approach-for-your-organization-78b3e4a0c5e6?source=rss------data_science-5)
+- [Web3 Gaming](https://medium.com/@quincycollege23/web3-gaming-6c5b90a9d2b6?source=rss------data_science-5)
+- [Sentiment Analysis using Natural Language Processing &lpar;NLP&rpar; with Python](https://medium.com/@analytopedia/sentiment-analysis-using-natural-language-processing-nlp-5b541a6d7b0f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
