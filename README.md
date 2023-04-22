@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [From Data Cleaning to App Deployment: A Guide to Creating Interactive Web Applications with Python!](https://olajumokeajala.medium.com/from-data-cleaning-to-app-deployment-a-guide-to-creating-interactive-web-applications-with-python-8c961a05883e?source=rss------data_science-5)
-- [“Exploring the Basics and Advantages of Linked List Data Structure”](https://medium.com/@mostafa.ragheb.ghareeb.cse/exploring-the-basics-and-advantages-of-linked-list-data-structure-1588cf667560?source=rss------data_science-5)
-- [Transitioning from Data Analyst to Data Scientist: A Guide for 2023](https://medium.com/@zirubak/transitioning-from-data-analyst-to-data-scientist-a-guide-for-2023-809b7699a309?source=rss------data_science-5)
-- [The possibility of humans living on Mars has been a topic of interest and research for decades.](https://medium.com/@fnymgtz/the-possibility-of-humans-living-on-mars-has-been-a-topic-of-interest-and-research-for-decades-b5b9c322a4eb?source=rss------data_science-5)
-- [MarketingBlocks: Honest Review + Full OTO Details + Special Bonuses](https://ranahknowledge.medium.com/marketingblocks-honest-review-full-oto-details-special-bonuses-34d200ef96c0?source=rss------data_science-5)
-- [From Unstructured to Structured Data: The Benefits of Using RDD and DataFrame in PySpark](https://medium.com/@uzzaman.ahmed/from-unstructured-to-structured-data-the-benefits-of-using-rdd-and-dataframe-in-pyspark-4777377306d8?source=rss------data_science-5)
-- [Why reverse engineering data quality might be the best approach for your organization?](https://medium.com/@brarajit18/why-reverse-engineering-data-quality-might-be-the-best-approach-for-your-organization-78b3e4a0c5e6?source=rss------data_science-5)
-- [Web3 Gaming](https://medium.com/@quincycollege23/web3-gaming-6c5b90a9d2b6?source=rss------data_science-5)
-- [Sentiment Analysis using Natural Language Processing &lpar;NLP&rpar; with Python](https://medium.com/@analytopedia/sentiment-analysis-using-natural-language-processing-nlp-5b541a6d7b0f?source=rss------data_science-5)
+- [Beyond the Stars](https://medium.com/@saeed736458/beyond-the-stars-89846c0786dd?source=rss------data_science-5)
+- [Want to Stand Out in Data Science? Don’t Make These Portfolio Mistakes!](https://pub.towardsai.net/want-to-stand-out-in-data-science-dont-make-these-portfolio-mistakes-f568b5174842?source=rss------data_science-5)
+- [R: Install R Onto Your Computer](https://medium.com/@jason4stma/r-install-r-onto-your-computer-675c0ac1c05b?source=rss------data_science-5)
+- [Building a Thriving Data &amp; Analytics Community: My Journey and Insights](https://medium.com/@TheGoofyGOAT/building-a-thriving-data-analytics-community-my-journey-and-insights-242c4f8b8abd?source=rss------data_science-5)
+- [Learn the Key Terms of Kafka in 4 Minutes](https://medium.com/@ansam.yousry/learn-the-key-terms-of-kafka-in-3-minutes-2dfe566a872?source=rss------data_science-5)
+- [Python: Use groupby&lpar;&rpar; to Aggregate a Pandas Dataframe](https://medium.com/@jason4stma/python-use-groupby-to-aggregate-a-pandas-dataframe-605266c9a1ab?source=rss------data_science-5)
+- [US Road Accidents Data Analysis](https://medium.com/@r.payaljha/us-road-accidents-data-analysis-d80c4771239a?source=rss------data_science-5)
+- [Python: Mapping State Abbreviations to State and Vice Versa in Pandas](https://medium.com/@jason4stma/python-mapping-state-abbreviations-to-state-and-vice-versa-in-pandas-e4cd24edefb0?source=rss------data_science-5)
+- [Engagement Metrics](https://medium.com/@ylee08666/engagement-metrics-e83e34cfe094?source=rss------data_science-5)
+- [Ethics, Morals, and Duty in Business](https://medium.com/@rajeevkakar/ethics-morals-and-duty-in-business-427f2b856435?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
