@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Beyond the Stars](https://medium.com/@saeed736458/beyond-the-stars-89846c0786dd?source=rss------data_science-5)
-- [Want to Stand Out in Data Science? Don’t Make These Portfolio Mistakes!](https://pub.towardsai.net/want-to-stand-out-in-data-science-dont-make-these-portfolio-mistakes-f568b5174842?source=rss------data_science-5)
-- [R: Install R Onto Your Computer](https://medium.com/@jason4stma/r-install-r-onto-your-computer-675c0ac1c05b?source=rss------data_science-5)
-- [Building a Thriving Data &amp; Analytics Community: My Journey and Insights](https://medium.com/@TheGoofyGOAT/building-a-thriving-data-analytics-community-my-journey-and-insights-242c4f8b8abd?source=rss------data_science-5)
-- [Learn the Key Terms of Kafka in 4 Minutes](https://medium.com/@ansam.yousry/learn-the-key-terms-of-kafka-in-3-minutes-2dfe566a872?source=rss------data_science-5)
-- [Python: Use groupby&lpar;&rpar; to Aggregate a Pandas Dataframe](https://medium.com/@jason4stma/python-use-groupby-to-aggregate-a-pandas-dataframe-605266c9a1ab?source=rss------data_science-5)
-- [US Road Accidents Data Analysis](https://medium.com/@r.payaljha/us-road-accidents-data-analysis-d80c4771239a?source=rss------data_science-5)
-- [Python: Mapping State Abbreviations to State and Vice Versa in Pandas](https://medium.com/@jason4stma/python-mapping-state-abbreviations-to-state-and-vice-versa-in-pandas-e4cd24edefb0?source=rss------data_science-5)
-- [Engagement Metrics](https://medium.com/@ylee08666/engagement-metrics-e83e34cfe094?source=rss------data_science-5)
-- [Ethics, Morals, and Duty in Business](https://medium.com/@rajeevkakar/ethics-morals-and-duty-in-business-427f2b856435?source=rss------data_science-5)
+- [Singularity](https://medium.com/@hfqgyz/singularity-215aeed24fd8?source=rss------data_science-5)
+- [SQL Survival Guide: 10 Must-Know Concepts for SQL Users](https://medium.com/@abdelilah.moulida/sql-survival-guide-10-must-know-concepts-for-sql-users-433fa684d684?source=rss------data_science-5)
+- [The Latest AI Innovations That Will Blow Your Mind](https://medium.com/@aminebtaher47/the-latest-ai-innovations-that-will-blow-your-mind-86dd69d13dd3?source=rss------data_science-5)
+- [Ensuring Data Fairness: Best Practices for Data Scientists](https://medium.com/@aishwarya.adduri/ensuring-data-fairness-best-practices-for-data-scientists-6730bf8e50e5?source=rss------data_science-5)
+- [When is a Fraction a Unique Sum of Two Distinct Unit Fractions](https://keith-mcnulty.medium.com/when-is-a-fraction-a-unique-sum-of-two-distinct-unit-fractions-de828fedd4f?source=rss------data_science-5)
+- [DIVORCE COMMON CAUSES IN USA](https://medium.com/@salman.rafiq9558/divorce-common-causes-in-usa-fea8843c16d9?source=rss------data_science-5)
+- [49 Useless Powers](https://medium.com/@markhopper32/49-useless-powers-c8c4a0e82305?source=rss------data_science-5)
+- [Using Monte Carlo Simulation on SPY to Generate Buy or Sell Signals: A Practical Guide](https://medium.com/@rajsingh.tarun/using-monte-carlo-simulation-on-spy-to-generate-buy-or-sell-signals-a-practical-guide-b93dedc28e96?source=rss------data_science-5)
+- [Hi, This Is Me](https://medium.com/@tyrel.j.johnson/hi-this-is-me-3f540caa5b27?source=rss------data_science-5)
+- [Fundamental Analysis in Python - The ISM PMI Technique](https://kaabar-sofien.medium.com/fundamental-analysis-in-python-the-ism-pmi-technique-bfe39cdefa3e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
