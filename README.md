@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Singularity](https://medium.com/@hfqgyz/singularity-215aeed24fd8?source=rss------data_science-5)
-- [SQL Survival Guide: 10 Must-Know Concepts for SQL Users](https://medium.com/@abdelilah.moulida/sql-survival-guide-10-must-know-concepts-for-sql-users-433fa684d684?source=rss------data_science-5)
-- [The Latest AI Innovations That Will Blow Your Mind](https://medium.com/@aminebtaher47/the-latest-ai-innovations-that-will-blow-your-mind-86dd69d13dd3?source=rss------data_science-5)
-- [Ensuring Data Fairness: Best Practices for Data Scientists](https://medium.com/@aishwarya.adduri/ensuring-data-fairness-best-practices-for-data-scientists-6730bf8e50e5?source=rss------data_science-5)
-- [When is a Fraction a Unique Sum of Two Distinct Unit Fractions](https://keith-mcnulty.medium.com/when-is-a-fraction-a-unique-sum-of-two-distinct-unit-fractions-de828fedd4f?source=rss------data_science-5)
-- [DIVORCE COMMON CAUSES IN USA](https://medium.com/@salman.rafiq9558/divorce-common-causes-in-usa-fea8843c16d9?source=rss------data_science-5)
-- [49 Useless Powers](https://medium.com/@markhopper32/49-useless-powers-c8c4a0e82305?source=rss------data_science-5)
-- [Using Monte Carlo Simulation on SPY to Generate Buy or Sell Signals: A Practical Guide](https://medium.com/@rajsingh.tarun/using-monte-carlo-simulation-on-spy-to-generate-buy-or-sell-signals-a-practical-guide-b93dedc28e96?source=rss------data_science-5)
-- [Hi, This Is Me](https://medium.com/@tyrel.j.johnson/hi-this-is-me-3f540caa5b27?source=rss------data_science-5)
-- [Fundamental Analysis in Python - The ISM PMI Technique](https://kaabar-sofien.medium.com/fundamental-analysis-in-python-the-ism-pmi-technique-bfe39cdefa3e?source=rss------data_science-5)
+- [Advanced SQL Techniques: Unlock the Full Potential of Your Database with examples](https://nillenon.medium.com/advanced-sql-techniques-unlock-the-full-potential-of-your-database-with-examples-cfef0aa230cf?source=rss------data_science-5)
+- [Coding My First Plugin for ChatGPT](https://medium.com/@dlaytonj2/coding-my-first-plugin-for-chatgpt-d89ab7f27a32?source=rss------data_science-5)
+- [Introducing ThinkGPT in Google Colab in 5 Minutes: A Library for Advanced Language Model Reasoning](https://ernestodotnet.medium.com/introducing-thinkgpt-in-google-colab-in-5-minutes-a-library-for-advanced-language-model-reasoning-b0c8df2302bc?source=rss------data_science-5)
+- [Introduction: Who am I?](https://medium.com/@terrill.toe/introduction-who-am-i-7298a17c6b0d?source=rss------data_science-5)
+- [Quickstart Iceberg with Spark and Docker Compose](https://medium.com/@sree_at_work/quickstart-iceberg-with-spark-and-docker-compose-3e7c068720f6?source=rss------data_science-5)
+- [Data Visualization Tools: Making Complex Data Analysis Simple and Accessible](https://medium.com/@akashkunwar/data-visualization-tools-making-complex-data-analysis-simple-and-accessible-c69a8e91557b?source=rss------data_science-5)
+- [Go solar!](https://medium.com/@coletoneade3/go-solar-1719d31ce7d?source=rss------data_science-5)
+- [Mastering SQL Subqueries: A Beginner’s Guide for Data Analysts](https://medium.com/@datawithdan_/mastering-sql-subqueries-a-beginners-guide-for-data-analysts-84c23c6fca08?source=rss------data_science-5)
+- [Mastering SQL Window Functions: A Comprehensive Guide for Entry-Level Data Analysts](https://medium.com/@datawithdan_/mastering-sql-window-functions-a-comprehensive-guide-for-entry-level-data-analysts-2741cf8c983c?source=rss------data_science-5)
+- [Clustering: Extracting Patterns from Data &amp; Cluster Interpretation + Plotly [Pt.3]](https://medium.com/@viniciusnala/clustering-extracting-patterns-from-data-cluster-interpretation-plotly-pt-3-26ac4be4326a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
