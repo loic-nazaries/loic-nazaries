@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Advanced SQL Techniques: Unlock the Full Potential of Your Database with examples](https://nillenon.medium.com/advanced-sql-techniques-unlock-the-full-potential-of-your-database-with-examples-cfef0aa230cf?source=rss------data_science-5)
-- [Coding My First Plugin for ChatGPT](https://medium.com/@dlaytonj2/coding-my-first-plugin-for-chatgpt-d89ab7f27a32?source=rss------data_science-5)
-- [Introducing ThinkGPT in Google Colab in 5 Minutes: A Library for Advanced Language Model Reasoning](https://ernestodotnet.medium.com/introducing-thinkgpt-in-google-colab-in-5-minutes-a-library-for-advanced-language-model-reasoning-b0c8df2302bc?source=rss------data_science-5)
-- [Introduction: Who am I?](https://medium.com/@terrill.toe/introduction-who-am-i-7298a17c6b0d?source=rss------data_science-5)
-- [Quickstart Iceberg with Spark and Docker Compose](https://medium.com/@sree_at_work/quickstart-iceberg-with-spark-and-docker-compose-3e7c068720f6?source=rss------data_science-5)
-- [Data Visualization Tools: Making Complex Data Analysis Simple and Accessible](https://medium.com/@akashkunwar/data-visualization-tools-making-complex-data-analysis-simple-and-accessible-c69a8e91557b?source=rss------data_science-5)
-- [Go solar!](https://medium.com/@coletoneade3/go-solar-1719d31ce7d?source=rss------data_science-5)
-- [Mastering SQL Subqueries: A Beginner’s Guide for Data Analysts](https://medium.com/@datawithdan_/mastering-sql-subqueries-a-beginners-guide-for-data-analysts-84c23c6fca08?source=rss------data_science-5)
-- [Mastering SQL Window Functions: A Comprehensive Guide for Entry-Level Data Analysts](https://medium.com/@datawithdan_/mastering-sql-window-functions-a-comprehensive-guide-for-entry-level-data-analysts-2741cf8c983c?source=rss------data_science-5)
-- [Clustering: Extracting Patterns from Data &amp; Cluster Interpretation + Plotly [Pt.3]](https://medium.com/@viniciusnala/clustering-extracting-patterns-from-data-cluster-interpretation-plotly-pt-3-26ac4be4326a?source=rss------data_science-5)
+- [Unique Cartesian Product of 3-Tuples of 2 Lists in Python](https://medium.com/@sabcan.uy/unique-cartesian-product-of-3-tuples-of-2-lists-in-python-77d35d2386bb?source=rss------data_science-5)
+- [Python ile 2 Listenin Benzersiz 3&#39;lü Kartezyen Çarpımı](https://medium.com/@sabcan.uy/python-ile-2-listenin-benzersiz-3l%C3%BC-kartezyen-%C3%A7arp%C4%B1m%C4%B1-f6d8ba49a8f4?source=rss------data_science-5)
+- [Formatos de Arquivos em Big Data](https://medium.com/@henrique.silvamacedo20/formatos-de-arquivos-em-big-data-cf47ab35ae82?source=rss------data_science-5)
+- [Leveraging Earth Mover’s Distance Loss in XGBoost for Enhanced Predictive Performance](https://medium.com/@nasdag/leveraging-earth-movers-distance-loss-in-xgboost-for-enhanced-predictive-performance-8751e150ca3f?source=rss------data_science-5)
+- [Sorare NBA: GW51 Lineup Suggestions](https://medium.com/@sorarenbastrategist/sorare-nba-gw51-lineup-suggestions-2df8dd0fa797?source=rss------data_science-5)
+- [Exercício para pensar como um Data Scientist.](https://medium.com/just-a-little-data/exerc%C3%ADcio-para-pensar-como-um-data-de-scientist-5dfce75ab4e1?source=rss------data_science-5)
+- [Unprofitable Tech and Return to Fundamentals — Profits Matter?](https://medium.com/@lawerteye/unprofitable-tech-and-return-to-fundamentals-profits-matter-44180ee78b79?source=rss------data_science-5)
+- [How to Use Python to Create a Virtual Assistant](https://jhhemal.medium.com/how-to-use-python-to-create-a-virtual-assistant-ad0328252793?source=rss------data_science-5)
+- [Three Data Science Projects in Three Days](https://datascientistdad.medium.com/three-data-science-projects-in-three-days-3a22baeefd26?source=rss------data_science-5)
+- [5 Essential Python Tricks Every Programmer Should Know.](https://ahmedyasin487.medium.com/5-essential-python-tricks-every-programmer-should-know-54bd8b96f961?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
