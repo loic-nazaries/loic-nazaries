@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Unique Cartesian Product of 3-Tuples of 2 Lists in Python](https://medium.com/@sabcan.uy/unique-cartesian-product-of-3-tuples-of-2-lists-in-python-77d35d2386bb?source=rss------data_science-5)
-- [Python ile 2 Listenin Benzersiz 3&#39;lü Kartezyen Çarpımı](https://medium.com/@sabcan.uy/python-ile-2-listenin-benzersiz-3l%C3%BC-kartezyen-%C3%A7arp%C4%B1m%C4%B1-f6d8ba49a8f4?source=rss------data_science-5)
-- [Formatos de Arquivos em Big Data](https://medium.com/@henrique.silvamacedo20/formatos-de-arquivos-em-big-data-cf47ab35ae82?source=rss------data_science-5)
-- [Leveraging Earth Mover’s Distance Loss in XGBoost for Enhanced Predictive Performance](https://medium.com/@nasdag/leveraging-earth-movers-distance-loss-in-xgboost-for-enhanced-predictive-performance-8751e150ca3f?source=rss------data_science-5)
-- [Sorare NBA: GW51 Lineup Suggestions](https://medium.com/@sorarenbastrategist/sorare-nba-gw51-lineup-suggestions-2df8dd0fa797?source=rss------data_science-5)
-- [Exercício para pensar como um Data Scientist.](https://medium.com/just-a-little-data/exerc%C3%ADcio-para-pensar-como-um-data-de-scientist-5dfce75ab4e1?source=rss------data_science-5)
-- [Unprofitable Tech and Return to Fundamentals — Profits Matter?](https://medium.com/@lawerteye/unprofitable-tech-and-return-to-fundamentals-profits-matter-44180ee78b79?source=rss------data_science-5)
-- [How to Use Python to Create a Virtual Assistant](https://jhhemal.medium.com/how-to-use-python-to-create-a-virtual-assistant-ad0328252793?source=rss------data_science-5)
-- [Three Data Science Projects in Three Days](https://datascientistdad.medium.com/three-data-science-projects-in-three-days-3a22baeefd26?source=rss------data_science-5)
-- [5 Essential Python Tricks Every Programmer Should Know.](https://ahmedyasin487.medium.com/5-essential-python-tricks-every-programmer-should-know-54bd8b96f961?source=rss------data_science-5)
+- [Unleashing my Passion for Data Science: Why I Chose to Dive into the World of Data](https://medium.com/@byfordjake1/unleashing-my-passion-for-data-science-why-i-chose-to-dive-into-the-world-of-data-e8b6095ef955?source=rss------data_science-5)
+- [Recommendation System with Matrix Factorization](https://towardsdatascience.com/recommendation-system-with-matrix-factorization-ebc4736869e4?source=rss------data_science-5)
+- [Generation Google Scholarship &lpar;North America&rpar; is Open!!](https://medium.com/predict/generation-google-scholarship-north-america-is-open-8c855648e9eb?source=rss------data_science-5)
+- [Learning SQL from a Pandas Perspective: A Smooth Transition for Data Analysts](https://medium.com/@absaraswat/learning-sql-from-a-pandas-perspective-a-smooth-transition-for-data-analysts-1f025678d45b?source=rss------data_science-5)
+- [Normalization Vs Standardization](https://medium.com/@kirtankarvaibhav24/standardization-vs-normalization-138cf5c06e8e?source=rss------data_science-5)
+- [Wearable AI: The Dawn of a Healthier Society](https://medium.com/@sahirmaharaj/wearable-ai-the-dawn-of-a-healthier-society-8e1019cc0f2c?source=rss------data_science-5)
+- [Daily Geek News — 04/25/2023](https://medium.com/@zirubak/daily-geek-news-04-25-2023-d9a89138ed2d?source=rss------data_science-5)
+- [From GPT-3 to the Future: How Large Language Models are Transforming AI and Data Science](https://medium.com/neural-nexus/from-gpt-3-to-the-future-how-large-language-models-are-transforming-ai-and-data-science-78b7d9be4d6a?source=rss------data_science-5)
+- [Power BI: Unleashing the Power of Data Analysis for Senior Analysts](https://medium.com/@datawithdan_/power-bi-unleashing-the-power-of-data-analysis-for-senior-analysts-7baa16b602bb?source=rss------data_science-5)
+- [A Funny and Comprehensive Journey Through Linear Regression](https://medium.com/@momohsen1911/a-funny-and-comprehensive-journey-through-linear-regression-d403dea5aed9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
