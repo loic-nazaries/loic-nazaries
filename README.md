@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Unleashing my Passion for Data Science: Why I Chose to Dive into the World of Data](https://medium.com/@byfordjake1/unleashing-my-passion-for-data-science-why-i-chose-to-dive-into-the-world-of-data-e8b6095ef955?source=rss------data_science-5)
-- [Recommendation System with Matrix Factorization](https://towardsdatascience.com/recommendation-system-with-matrix-factorization-ebc4736869e4?source=rss------data_science-5)
-- [Generation Google Scholarship &lpar;North America&rpar; is Open!!](https://medium.com/predict/generation-google-scholarship-north-america-is-open-8c855648e9eb?source=rss------data_science-5)
-- [Learning SQL from a Pandas Perspective: A Smooth Transition for Data Analysts](https://medium.com/@absaraswat/learning-sql-from-a-pandas-perspective-a-smooth-transition-for-data-analysts-1f025678d45b?source=rss------data_science-5)
-- [Normalization Vs Standardization](https://medium.com/@kirtankarvaibhav24/standardization-vs-normalization-138cf5c06e8e?source=rss------data_science-5)
-- [Wearable AI: The Dawn of a Healthier Society](https://medium.com/@sahirmaharaj/wearable-ai-the-dawn-of-a-healthier-society-8e1019cc0f2c?source=rss------data_science-5)
-- [Daily Geek News — 04/25/2023](https://medium.com/@zirubak/daily-geek-news-04-25-2023-d9a89138ed2d?source=rss------data_science-5)
-- [From GPT-3 to the Future: How Large Language Models are Transforming AI and Data Science](https://medium.com/neural-nexus/from-gpt-3-to-the-future-how-large-language-models-are-transforming-ai-and-data-science-78b7d9be4d6a?source=rss------data_science-5)
-- [Power BI: Unleashing the Power of Data Analysis for Senior Analysts](https://medium.com/@datawithdan_/power-bi-unleashing-the-power-of-data-analysis-for-senior-analysts-7baa16b602bb?source=rss------data_science-5)
-- [A Funny and Comprehensive Journey Through Linear Regression](https://medium.com/@momohsen1911/a-funny-and-comprehensive-journey-through-linear-regression-d403dea5aed9?source=rss------data_science-5)
+- [Dear audience… this blog will be about Data Engineering and the journey that is involved with “Data…](https://medium.com/@arse.alf/dear-audience-this-blog-will-be-about-data-engineering-and-the-journey-that-is-involved-with-data-17a0be0bc5c4?source=rss------data_science-5)
+- [No priory knowledge of Python or Python libraries, and want to become Data Scientist?](https://medium.com/@nirmalparmarphd/no-priory-knowledge-of-python-or-python-libraries-and-want-to-become-data-scientist-baf5b82fce48?source=rss------data_science-5)
+- [The Complexities of Solar Irradiance Forecasting: Challenges and Opportunities](https://medium.com/@arifinrial/the-complexities-of-solar-irradiance-forecasting-challenges-and-opportunities-e5448687f469?source=rss------data_science-5)
+- [Exploring the 3 Key Stages of Business Intelligence: Capture, Analyze, and Monitor](https://teshdata.medium.com/exploring-the-3-key-stages-of-business-intelligence-capture-analyze-and-monitor-e86857735eef?source=rss------data_science-5)
+- [How To Speed Up Your Spark Queries](https://medium.com/@ansam.yousry/how-to-speed-up-your-spark-queries-135cd43e6566?source=rss------data_science-5)
+- [Are you ready to unleash your wild side and join the frenzy of meme coins?](https://medium.com/@gege1/are-you-ready-to-unleash-your-wild-side-and-join-the-frenzy-of-meme-coins-1c5ea7752891?source=rss------data_science-5)
+- [15 AI-powered Tools for Finance &amp; Investment.](https://medium.datadriveninvestor.com/15-ai-powered-tools-for-finance-investment-fc30fe9bd23e?source=rss------data_science-5)
+- [Roles in Data](https://medium.com/@lorenzouriel/roles-in-data-d0f050cb6f4c?source=rss------data_science-5)
+- [Data Manipulation with Pandas: A Powerful Tool for Effective Data Analysis in Python](https://medium.com/@victoria-okesipe/data-manipulation-with-pandas-a-powerful-tool-for-effective-data-analysis-in-python-b163d6c25cd9?source=rss------data_science-5)
+- [Combining Data Cleaning, Feature Selection, Modeling and Interpretability](https://medium.com/@jainamm47/combining-data-cleaning-feature-selection-modeling-and-interpretability-837b51e6d870?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
