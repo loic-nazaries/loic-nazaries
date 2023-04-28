@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Dear audience… this blog will be about Data Engineering and the journey that is involved with “Data…](https://medium.com/@arse.alf/dear-audience-this-blog-will-be-about-data-engineering-and-the-journey-that-is-involved-with-data-17a0be0bc5c4?source=rss------data_science-5)
-- [No priory knowledge of Python or Python libraries, and want to become Data Scientist?](https://medium.com/@nirmalparmarphd/no-priory-knowledge-of-python-or-python-libraries-and-want-to-become-data-scientist-baf5b82fce48?source=rss------data_science-5)
-- [The Complexities of Solar Irradiance Forecasting: Challenges and Opportunities](https://medium.com/@arifinrial/the-complexities-of-solar-irradiance-forecasting-challenges-and-opportunities-e5448687f469?source=rss------data_science-5)
-- [Exploring the 3 Key Stages of Business Intelligence: Capture, Analyze, and Monitor](https://teshdata.medium.com/exploring-the-3-key-stages-of-business-intelligence-capture-analyze-and-monitor-e86857735eef?source=rss------data_science-5)
-- [How To Speed Up Your Spark Queries](https://medium.com/@ansam.yousry/how-to-speed-up-your-spark-queries-135cd43e6566?source=rss------data_science-5)
-- [Are you ready to unleash your wild side and join the frenzy of meme coins?](https://medium.com/@gege1/are-you-ready-to-unleash-your-wild-side-and-join-the-frenzy-of-meme-coins-1c5ea7752891?source=rss------data_science-5)
-- [15 AI-powered Tools for Finance &amp; Investment.](https://medium.datadriveninvestor.com/15-ai-powered-tools-for-finance-investment-fc30fe9bd23e?source=rss------data_science-5)
-- [Roles in Data](https://medium.com/@lorenzouriel/roles-in-data-d0f050cb6f4c?source=rss------data_science-5)
-- [Data Manipulation with Pandas: A Powerful Tool for Effective Data Analysis in Python](https://medium.com/@victoria-okesipe/data-manipulation-with-pandas-a-powerful-tool-for-effective-data-analysis-in-python-b163d6c25cd9?source=rss------data_science-5)
-- [Combining Data Cleaning, Feature Selection, Modeling and Interpretability](https://medium.com/@jainamm47/combining-data-cleaning-feature-selection-modeling-and-interpretability-837b51e6d870?source=rss------data_science-5)
+- [Bank Personal Loan](https://medium.com/@vora.ri/bank-personal-loan-de898eaeeddb?source=rss------data_science-5)
+- [Predicting Greenhouse Gas Emissions with Machine Learning](https://medium.com/@datawithdan_/predicting-greenhouse-gas-emissions-with-machine-learning-f27560ac101b?source=rss------data_science-5)
+- [Understanding the Data Analysis Process: The Road to Data-Driven Insights](https://teshdata.medium.com/understanding-the-data-analysis-process-the-road-to-data-driven-insights-880f0a22225f?source=rss------data_science-5)
+- [A Beginner’s Guide to Machine Learning with Scikit-Learn](https://medium.com/@datawithdan_/a-beginners-guide-to-machine-learning-with-scikit-learn-fd55f878b984?source=rss------data_science-5)
+- [Revolutionize your Marketing Strategy with this AI-Powered Customer Response Prediction Model!](https://medium.com/@makarandmadhavi99/revolutionize-your-marketing-strategy-with-this-ai-powered-customer-response-prediction-model-d03cca6f347a?source=rss------data_science-5)
+- [Analyzing and predicting Number of Suicide using Machine Learning](https://medium.com/@sawant.san/analyzing-and-predicting-number-of-suicide-using-machine-learning-bf906ffa904c?source=rss------data_science-5)
+- [How to Determine the Best Supervised Learning Model for a dataset?](https://medium.com/@poojitha.mandali/how-to-determine-the-best-supervised-learning-model-for-a-dataset-a26b1bd2af64?source=rss------data_science-5)
+- [TensorFlow — Fundamentals](https://medium.com/@seshu8hachi/tensorflow-fundamentals-2a9e74ab97fb?source=rss------data_science-5)
+- [Calories Burnt Prediction using Machine Learning with Python Machine Learning Projects](https://medium.com/@611noorsaeed/calories-burnt-prediction-using-machine-learning-with-python-machine-learning-projects-41388ec12567?source=rss------data_science-5)
+- [Olympic Medal Tally Analysis ML Report](https://medium.com/@saragadam.h/olympic-medal-tally-analysis-ml-report-1e27a2fbfda9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
