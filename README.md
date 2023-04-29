@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Bank Personal Loan](https://medium.com/@vora.ri/bank-personal-loan-de898eaeeddb?source=rss------data_science-5)
-- [Predicting Greenhouse Gas Emissions with Machine Learning](https://medium.com/@datawithdan_/predicting-greenhouse-gas-emissions-with-machine-learning-f27560ac101b?source=rss------data_science-5)
-- [Understanding the Data Analysis Process: The Road to Data-Driven Insights](https://teshdata.medium.com/understanding-the-data-analysis-process-the-road-to-data-driven-insights-880f0a22225f?source=rss------data_science-5)
-- [A Beginner’s Guide to Machine Learning with Scikit-Learn](https://medium.com/@datawithdan_/a-beginners-guide-to-machine-learning-with-scikit-learn-fd55f878b984?source=rss------data_science-5)
-- [Revolutionize your Marketing Strategy with this AI-Powered Customer Response Prediction Model!](https://medium.com/@makarandmadhavi99/revolutionize-your-marketing-strategy-with-this-ai-powered-customer-response-prediction-model-d03cca6f347a?source=rss------data_science-5)
-- [Analyzing and predicting Number of Suicide using Machine Learning](https://medium.com/@sawant.san/analyzing-and-predicting-number-of-suicide-using-machine-learning-bf906ffa904c?source=rss------data_science-5)
-- [How to Determine the Best Supervised Learning Model for a dataset?](https://medium.com/@poojitha.mandali/how-to-determine-the-best-supervised-learning-model-for-a-dataset-a26b1bd2af64?source=rss------data_science-5)
-- [TensorFlow — Fundamentals](https://medium.com/@seshu8hachi/tensorflow-fundamentals-2a9e74ab97fb?source=rss------data_science-5)
-- [Calories Burnt Prediction using Machine Learning with Python Machine Learning Projects](https://medium.com/@611noorsaeed/calories-burnt-prediction-using-machine-learning-with-python-machine-learning-projects-41388ec12567?source=rss------data_science-5)
-- [Olympic Medal Tally Analysis ML Report](https://medium.com/@saragadam.h/olympic-medal-tally-analysis-ml-report-1e27a2fbfda9?source=rss------data_science-5)
+- [Forecasting Apple Stock Price](https://medium.com/@yaditi1303/forecasting-apple-stock-price-using-sarima-18ef63852dd6?source=rss------data_science-5)
+- [How Can AI Revolutionize the World of Crypto?](https://medium.com/@richnbg/how-can-ai-revolutionize-the-world-of-crypto-9fae3d1f92b9?source=rss------data_science-5)
+- [How to handle 300 million predictions per second](https://medium.com/geekculture/how-to-handle-300-million-predictions-per-second-a5f1e57621cb?source=rss------data_science-5)
+- [Demystifying Artificial Intelligence and Machine Learning](https://medium.com/@petsinhotel/demystifying-artificial-intelligence-and-machine-learning-fd5f3fe615a3?source=rss------data_science-5)
+- [Hipotez Testleri: Temel Kavramlar](https://medium.com/@gokcegok_/hipotez-testleri-temel-kavramlar-ef0dc2b970a0?source=rss------data_science-5)
+- [UC Berkeley Data Science Discovery — Building a BI Dashboard for Telematics Data](https://medium.com/99p-labs/uc-berkeley-data-science-discovery-building-a-bi-dashboard-for-telematics-data-c84b6d79f045?source=rss------data_science-5)
+- [Foundations Of Statistics Part 0 — Set Theory](https://medium.com/@gerbald_6941/foundations-of-statistics-part-0-set-theory-609070a311c7?source=rss------data_science-5)
+- [Pixel Magic: How to Turn Your Images into Eye-catching Masterpieces](https://medium.com/@vjlglopez/pixel-magic-how-to-turn-your-images-into-eye-catching-masterpieces-11c09925ab50?source=rss------data_science-5)
+- [Have been listening to post after post after post of ChatGPT and overheard these conversations in…](https://medium.com/@cherrykoshy/have-been-listening-to-post-after-post-after-post-of-chatgpt-and-overheard-these-conversations-in-c06956553e6f?source=rss------data_science-5)
+- [Predicting NBA Players’ Future: Crafting Success Stories with XGBoost and Streamlit Cloud](https://ernestodotnet.medium.com/predicting-nba-players-future-crafting-success-stories-with-xgboost-and-streamlit-cloud-9ec7813813c1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
