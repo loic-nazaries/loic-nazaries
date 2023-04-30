@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Forecasting Apple Stock Price](https://medium.com/@yaditi1303/forecasting-apple-stock-price-using-sarima-18ef63852dd6?source=rss------data_science-5)
-- [How Can AI Revolutionize the World of Crypto?](https://medium.com/@richnbg/how-can-ai-revolutionize-the-world-of-crypto-9fae3d1f92b9?source=rss------data_science-5)
-- [How to handle 300 million predictions per second](https://medium.com/geekculture/how-to-handle-300-million-predictions-per-second-a5f1e57621cb?source=rss------data_science-5)
-- [Demystifying Artificial Intelligence and Machine Learning](https://medium.com/@petsinhotel/demystifying-artificial-intelligence-and-machine-learning-fd5f3fe615a3?source=rss------data_science-5)
-- [Hipotez Testleri: Temel Kavramlar](https://medium.com/@gokcegok_/hipotez-testleri-temel-kavramlar-ef0dc2b970a0?source=rss------data_science-5)
-- [UC Berkeley Data Science Discovery — Building a BI Dashboard for Telematics Data](https://medium.com/99p-labs/uc-berkeley-data-science-discovery-building-a-bi-dashboard-for-telematics-data-c84b6d79f045?source=rss------data_science-5)
-- [Foundations Of Statistics Part 0 — Set Theory](https://medium.com/@gerbald_6941/foundations-of-statistics-part-0-set-theory-609070a311c7?source=rss------data_science-5)
-- [Pixel Magic: How to Turn Your Images into Eye-catching Masterpieces](https://medium.com/@vjlglopez/pixel-magic-how-to-turn-your-images-into-eye-catching-masterpieces-11c09925ab50?source=rss------data_science-5)
-- [Have been listening to post after post after post of ChatGPT and overheard these conversations in…](https://medium.com/@cherrykoshy/have-been-listening-to-post-after-post-after-post-of-chatgpt-and-overheard-these-conversations-in-c06956553e6f?source=rss------data_science-5)
-- [Predicting NBA Players’ Future: Crafting Success Stories with XGBoost and Streamlit Cloud](https://ernestodotnet.medium.com/predicting-nba-players-future-crafting-success-stories-with-xgboost-and-streamlit-cloud-9ec7813813c1?source=rss------data_science-5)
+- [Data Visualization with Looker Studio](https://medium.com/@astridyuliana33/data-visualization-with-looker-studio-96a5efb69d39?source=rss------data_science-5)
+- [Dimension Reduction — Don’t get lost in the data!!](https://medium.com/@seshu8hachi/dimension-reduction-dont-get-lost-in-the-data-6c4fe19e241d?source=rss------data_science-5)
+- [Transfer Learning — Save your time and resources!!](https://medium.com/@seshu8hachi/transfer-learning-save-your-time-and-resources-29ddc460d9f4?source=rss------data_science-5)
+- [GPT-4 Elite: Join the Top 1% with these 49 Spectacular AI Tools](https://medium.com/@smraiyyan/gpt-4-unlocked-join-the-top-1-with-these-49-spectacular-ai-tools-f77a3b50b17f?source=rss------data_science-5)
+- [An Introduction to Data Science, AI, and Machine Learning for Beginners](https://medium.com/@fullstacktips/an-introduction-to-data-science-ai-and-machine-learning-for-beginners-f16a9da24052?source=rss------data_science-5)
+- [Generative AI](https://nrao-prashanthi.medium.com/generative-ai-2e1630c0cd5d?source=rss------data_science-5)
+- [Introducción a Data &amp; Analytics I](https://medium.com/@karla_rh97/introducci%C3%B3n-a-data-analytics-a23c39c665ed?source=rss------data_science-5)
+- [Makine Öğrenmesi Serüveni Bölüm 3: Lojistik Regresyon](https://ozdemirramazan.medium.com/makine-%C3%B6%C4%9Frenmesi-ser%C3%BCveni-b%C3%B6l%C3%BCm-3-lojistik-regresyon-808bed64f49?source=rss------data_science-5)
+- [Building a Scalable Data Science Pipeline with Python](https://medium.com/@dennisyd/building-a-scalable-data-science-pipeline-with-python-4fa6c5abb8ee?source=rss------data_science-5)
+- [Setting Up Events In Firebase Analytics For User Application Analysis — WEquilAPP.](https://medium.com/@princedede/setting-up-events-in-firebase-analytics-for-user-application-analysis-wequilapp-9c810185e185?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
