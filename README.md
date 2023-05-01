@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Visualization with Looker Studio](https://medium.com/@astridyuliana33/data-visualization-with-looker-studio-96a5efb69d39?source=rss------data_science-5)
-- [Dimension Reduction — Don’t get lost in the data!!](https://medium.com/@seshu8hachi/dimension-reduction-dont-get-lost-in-the-data-6c4fe19e241d?source=rss------data_science-5)
-- [Transfer Learning — Save your time and resources!!](https://medium.com/@seshu8hachi/transfer-learning-save-your-time-and-resources-29ddc460d9f4?source=rss------data_science-5)
-- [GPT-4 Elite: Join the Top 1% with these 49 Spectacular AI Tools](https://medium.com/@smraiyyan/gpt-4-unlocked-join-the-top-1-with-these-49-spectacular-ai-tools-f77a3b50b17f?source=rss------data_science-5)
-- [An Introduction to Data Science, AI, and Machine Learning for Beginners](https://medium.com/@fullstacktips/an-introduction-to-data-science-ai-and-machine-learning-for-beginners-f16a9da24052?source=rss------data_science-5)
-- [Generative AI](https://nrao-prashanthi.medium.com/generative-ai-2e1630c0cd5d?source=rss------data_science-5)
-- [Introducción a Data &amp; Analytics I](https://medium.com/@karla_rh97/introducci%C3%B3n-a-data-analytics-a23c39c665ed?source=rss------data_science-5)
-- [Makine Öğrenmesi Serüveni Bölüm 3: Lojistik Regresyon](https://ozdemirramazan.medium.com/makine-%C3%B6%C4%9Frenmesi-ser%C3%BCveni-b%C3%B6l%C3%BCm-3-lojistik-regresyon-808bed64f49?source=rss------data_science-5)
-- [Building a Scalable Data Science Pipeline with Python](https://medium.com/@dennisyd/building-a-scalable-data-science-pipeline-with-python-4fa6c5abb8ee?source=rss------data_science-5)
-- [Setting Up Events In Firebase Analytics For User Application Analysis — WEquilAPP.](https://medium.com/@princedede/setting-up-events-in-firebase-analytics-for-user-application-analysis-wequilapp-9c810185e185?source=rss------data_science-5)
+- [Loving a Trans Person is the Single Biggest Indicator of Trans Acceptance.](https://medium.com/@alexbruce428/loving-a-trans-person-is-the-single-biggest-indicator-of-trans-acceptance-c5ab477de0c6?source=rss------data_science-5)
+- [Data Warehouse Explained](https://medium.com/@contactsanthoshsandy/data-warehouse-explained-ba7f30ee4322?source=rss------data_science-5)
+- [Ten from the weekend 04/30: A few interesting reads that I came across:](https://gopivikranth.medium.com/ten-from-the-weekend-04-30-a-few-interesting-reads-that-i-came-across-3fc3d0ae0d52?source=rss------data_science-5)
+- [Unleash AWS’s Power with Python: 10 Must-Have Cheat sheets](https://medium.com/@selfStarter/unleash-awss-power-with-python-10-must-have-cheat-sheets-8de9c5dd2372?source=rss------data_science-5)
+- [RFM ile Müşteri Segmentasyonu](https://medium.com/@kkakturk/rfm-ile-m%C3%BC%C5%9Fteri-segmentasyonu-69577e26210d?source=rss------data_science-5)
+- [Different Types of Stock Trading Strategies](https://medium.com/@DataGladiator/different-types-of-stock-trading-strategies-53afaaa22413?source=rss------data_science-5)
+- [I’m Laibah, a Data Scientist](https://medium.com/@ashfaq.laibah/im-laibah-a-data-scientist-7efb30a23e1f?source=rss------data_science-5)
+- [Machine Learning Use Case](https://medium.com/@victoria-okesipe/machine-learning-use-case-5e85c09355af?source=rss------data_science-5)
+- [Moving from a Career in Finance to Data Science: Uncertainty is OK](https://medium.com/@biannag98/moving-from-a-career-in-finance-to-data-science-uncertainty-is-ok-9456d42ea9c6?source=rss------data_science-5)
+- [VIVENDO FAST FOOD COMPANY](https://medium.com/@tobye070/vivendo-fast-food-company-553697559f7c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
