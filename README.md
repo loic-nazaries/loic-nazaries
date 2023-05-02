@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Loving a Trans Person is the Single Biggest Indicator of Trans Acceptance.](https://medium.com/@alexbruce428/loving-a-trans-person-is-the-single-biggest-indicator-of-trans-acceptance-c5ab477de0c6?source=rss------data_science-5)
-- [Data Warehouse Explained](https://medium.com/@contactsanthoshsandy/data-warehouse-explained-ba7f30ee4322?source=rss------data_science-5)
-- [Ten from the weekend 04/30: A few interesting reads that I came across:](https://gopivikranth.medium.com/ten-from-the-weekend-04-30-a-few-interesting-reads-that-i-came-across-3fc3d0ae0d52?source=rss------data_science-5)
-- [Unleash AWS’s Power with Python: 10 Must-Have Cheat sheets](https://medium.com/@selfStarter/unleash-awss-power-with-python-10-must-have-cheat-sheets-8de9c5dd2372?source=rss------data_science-5)
-- [RFM ile Müşteri Segmentasyonu](https://medium.com/@kkakturk/rfm-ile-m%C3%BC%C5%9Fteri-segmentasyonu-69577e26210d?source=rss------data_science-5)
-- [Different Types of Stock Trading Strategies](https://medium.com/@DataGladiator/different-types-of-stock-trading-strategies-53afaaa22413?source=rss------data_science-5)
-- [I’m Laibah, a Data Scientist](https://medium.com/@ashfaq.laibah/im-laibah-a-data-scientist-7efb30a23e1f?source=rss------data_science-5)
-- [Machine Learning Use Case](https://medium.com/@victoria-okesipe/machine-learning-use-case-5e85c09355af?source=rss------data_science-5)
-- [Moving from a Career in Finance to Data Science: Uncertainty is OK](https://medium.com/@biannag98/moving-from-a-career-in-finance-to-data-science-uncertainty-is-ok-9456d42ea9c6?source=rss------data_science-5)
-- [VIVENDO FAST FOOD COMPANY](https://medium.com/@tobye070/vivendo-fast-food-company-553697559f7c?source=rss------data_science-5)
+- [When Things Blow Up: Random Data Thoughts](https://medium.datadriveninvestor.com/when-things-blow-up-random-data-thoughts-8c633a593be1?source=rss------data_science-5)
+- [Revolutionizing Retail: How AI Can Drive Your E-commerce Success](https://medium.com/@datawithdan_/revolutionizing-retail-how-ai-can-drive-your-e-commerce-success-174e345fd513?source=rss------data_science-5)
+- [How to solve Bayesian problems](https://pedrodelcarpio.medium.com/how-to-solve-bayesian-problems-d071e17c0487?source=rss------data_science-5)
+- [#Azubi Diaries — Time with Florentia](https://medium.com/@azubiafrica/azubi-diaries-time-with-florentia-5c3540219472?source=rss------data_science-5)
+- [Making $ with AI: Unleash Your Side Hustle Superpower](https://medium.com/@datawithdan_/making-with-ai-unleash-your-side-hustle-superpower-e324e15210ac?source=rss------data_science-5)
+- [Cash in on AI: How to Monetize Artificial Intelligence for Side Hustlers](https://medium.com/@datawithdan_/cash-in-on-ai-how-to-monetize-artificial-intelligence-for-side-hustlers-fed77b0df5c2?source=rss------data_science-5)
+- [Unleash the Power of Predictive Analytics: Unlock Your Business Growth Potential](https://medium.com/@datawithdan_/unleash-the-power-of-predictive-analytics-unlock-your-business-growth-potential-17e5fc0cda4b?source=rss------data_science-5)
+- [Python: How to Read Data From Scality to a Pandas Dataframe](https://medium.com/@jason_the_data_scientist/python-how-to-read-data-from-scality-to-a-pandas-dataframe-f3301dc08d53?source=rss------data_science-5)
+- [Weedle: Composable Dashboard for Data-Centric NLP in Computational Notebooks](https://megagonlabs.medium.com/weedle-composable-dashboard-for-data-centric-nlp-in-computational-notebooks-9a3ccee66659?source=rss------data_science-5)
+- [Boilerplate Begone: The Secret to High-Quality NLP Analysis](https://rahulraj24.medium.com/boilerplate-begone-the-secret-to-high-quality-nlp-analysis-ff4e2fb74959?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
