@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [When Things Blow Up: Random Data Thoughts](https://medium.datadriveninvestor.com/when-things-blow-up-random-data-thoughts-8c633a593be1?source=rss------data_science-5)
-- [Revolutionizing Retail: How AI Can Drive Your E-commerce Success](https://medium.com/@datawithdan_/revolutionizing-retail-how-ai-can-drive-your-e-commerce-success-174e345fd513?source=rss------data_science-5)
-- [How to solve Bayesian problems](https://pedrodelcarpio.medium.com/how-to-solve-bayesian-problems-d071e17c0487?source=rss------data_science-5)
-- [#Azubi Diaries — Time with Florentia](https://medium.com/@azubiafrica/azubi-diaries-time-with-florentia-5c3540219472?source=rss------data_science-5)
-- [Making $ with AI: Unleash Your Side Hustle Superpower](https://medium.com/@datawithdan_/making-with-ai-unleash-your-side-hustle-superpower-e324e15210ac?source=rss------data_science-5)
-- [Cash in on AI: How to Monetize Artificial Intelligence for Side Hustlers](https://medium.com/@datawithdan_/cash-in-on-ai-how-to-monetize-artificial-intelligence-for-side-hustlers-fed77b0df5c2?source=rss------data_science-5)
-- [Unleash the Power of Predictive Analytics: Unlock Your Business Growth Potential](https://medium.com/@datawithdan_/unleash-the-power-of-predictive-analytics-unlock-your-business-growth-potential-17e5fc0cda4b?source=rss------data_science-5)
-- [Python: How to Read Data From Scality to a Pandas Dataframe](https://medium.com/@jason_the_data_scientist/python-how-to-read-data-from-scality-to-a-pandas-dataframe-f3301dc08d53?source=rss------data_science-5)
-- [Weedle: Composable Dashboard for Data-Centric NLP in Computational Notebooks](https://megagonlabs.medium.com/weedle-composable-dashboard-for-data-centric-nlp-in-computational-notebooks-9a3ccee66659?source=rss------data_science-5)
-- [Boilerplate Begone: The Secret to High-Quality NLP Analysis](https://rahulraj24.medium.com/boilerplate-begone-the-secret-to-high-quality-nlp-analysis-ff4e2fb74959?source=rss------data_science-5)
+- [How to Use Data Analytics to Improve Your Business ?](https://medium.com/@akshayakprajapathy97/how-to-use-data-analytics-to-improve-your-business-f80a976bf6a?source=rss------data_science-5)
+- [Building a Product Recommender System](https://medium.com/@tmdang/building-a-product-recommender-system-d3ad1335d2dc?source=rss------data_science-5)
+- [Are Vector Databases Enough for Visual Data Use Cases?](https://medium.com/aperturedata/are-vector-databases-enough-for-visual-data-use-cases-551cd8862ab5?source=rss------data_science-5)
+- [Pandas vs. Dask: Why Pandas is Dead](https://johnvastola.medium.com/pandas-vs-dask-why-pandas-is-dead-a790f50471cc?source=rss------data_science-5)
+- [Data Engineer y Data Lake](https://medium.com/@matilorenzatti99/data-engineer-y-data-lake-d401842d2b5b?source=rss------data_science-5)
+- [Visualizing Forecast Accuracy with Prophet](https://pub.towardsai.net/visualizing-forecast-accuracy-with-prophet-7b1145737006?source=rss------data_science-5)
+- [In-depth analysis of Seattle and Boston Airbnb Data](https://medium.com/@avahsomto042/in-depth-analysis-of-seattle-and-boston-airbnb-data-200f7ea28c8e?source=rss------data_science-5)
+- [Fraudulent Transaction Detection](https://medium.com/@manavhirey_2446/fraudulent-transaction-detection-b9839b125c88?source=rss------data_science-5)
+- [A Simple Beginner Guide for Hypothesis Testing](https://medium.com/@qicai1995/a-simple-beginner-guide-for-hypothesis-testing-15399d20a50c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
