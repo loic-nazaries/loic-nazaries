@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Use Data Analytics to Improve Your Business ?](https://medium.com/@akshayakprajapathy97/how-to-use-data-analytics-to-improve-your-business-f80a976bf6a?source=rss------data_science-5)
-- [Building a Product Recommender System](https://medium.com/@tmdang/building-a-product-recommender-system-d3ad1335d2dc?source=rss------data_science-5)
-- [Are Vector Databases Enough for Visual Data Use Cases?](https://medium.com/aperturedata/are-vector-databases-enough-for-visual-data-use-cases-551cd8862ab5?source=rss------data_science-5)
-- [Pandas vs. Dask: Why Pandas is Dead](https://johnvastola.medium.com/pandas-vs-dask-why-pandas-is-dead-a790f50471cc?source=rss------data_science-5)
-- [Data Engineer y Data Lake](https://medium.com/@matilorenzatti99/data-engineer-y-data-lake-d401842d2b5b?source=rss------data_science-5)
-- [Visualizing Forecast Accuracy with Prophet](https://pub.towardsai.net/visualizing-forecast-accuracy-with-prophet-7b1145737006?source=rss------data_science-5)
-- [In-depth analysis of Seattle and Boston Airbnb Data](https://medium.com/@avahsomto042/in-depth-analysis-of-seattle-and-boston-airbnb-data-200f7ea28c8e?source=rss------data_science-5)
-- [Fraudulent Transaction Detection](https://medium.com/@manavhirey_2446/fraudulent-transaction-detection-b9839b125c88?source=rss------data_science-5)
-- [A Simple Beginner Guide for Hypothesis Testing](https://medium.com/@qicai1995/a-simple-beginner-guide-for-hypothesis-testing-15399d20a50c?source=rss------data_science-5)
+- [EMU-ML||An Introduction: Matching Digital to Film with Neural Networks](https://medium.com/@ejacson/emu-ml-an-introduction-matching-digital-to-film-with-neural-networks-8c8337e542d8?source=rss------data_science-5)
+- [Emergent capabilities in AI](https://medium.com/@luan.home/emergent-capabilities-in-ai-f3ac5670d5e4?source=rss------data_science-5)
+- [My Journey to Finance Data Analysis](https://medium.com/@gracemutheumusungu/my-journey-to-finance-data-analysis-fb8e6b17603?source=rss------data_science-5)
+- [Get to Know About SHA &lpar;Secure Hash Algorithm&rpar;](https://ronnyfahrudin.medium.com/get-to-know-about-sha-secure-hash-algorithm-8f087f8bb30d?source=rss------data_science-5)
+- [How Gift Cards are helping small businesses](https://medium.com/@Getflipexapp/how-gift-cards-are-helping-small-businesses-c8ed7faefbd2?source=rss------data_science-5)
+- [OMSCS &lpar;CS7646&rpar;: Machine Learning for Trading &lpar;ML4T&rpar; — Review by Shaurya Uppal](https://medium.datadriveninvestor.com/omscs-cs7646-machine-learning-for-trading-ml4t-review-by-shaurya-uppal-e0c56a136d7d?source=rss------data_science-5)
+- [Comparing lump sum investing vs dollar cost averaging &lpar;DCA&rpar; with Python from Nasdaq historical data](https://medium.com/@oieivind/comparing-lump-sum-investing-vs-dollar-cost-averaging-dca-with-python-from-nasdaq-historical-data-5a47eb0f798a?source=rss------data_science-5)
+- [AI for WAR — Weather and Reliability](https://helendarmi-hd.medium.com/ai-for-war-weather-and-reliability-3260915608cb?source=rss------data_science-5)
+- [Types of variables in statistics](https://medium.com/@amanda.rnds18/types-of-variables-in-statistics-2ea68ba0defb?source=rss------data_science-5)
+- [Unleashing the Power of DataBrew](https://medium.com/@ruchi99.nagare/unleashing-the-power-of-databrew-19f7936deeb2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
