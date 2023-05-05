@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [EMU-ML||An Introduction: Matching Digital to Film with Neural Networks](https://medium.com/@ejacson/emu-ml-an-introduction-matching-digital-to-film-with-neural-networks-8c8337e542d8?source=rss------data_science-5)
-- [Emergent capabilities in AI](https://medium.com/@luan.home/emergent-capabilities-in-ai-f3ac5670d5e4?source=rss------data_science-5)
-- [My Journey to Finance Data Analysis](https://medium.com/@gracemutheumusungu/my-journey-to-finance-data-analysis-fb8e6b17603?source=rss------data_science-5)
-- [Get to Know About SHA &lpar;Secure Hash Algorithm&rpar;](https://ronnyfahrudin.medium.com/get-to-know-about-sha-secure-hash-algorithm-8f087f8bb30d?source=rss------data_science-5)
-- [How Gift Cards are helping small businesses](https://medium.com/@Getflipexapp/how-gift-cards-are-helping-small-businesses-c8ed7faefbd2?source=rss------data_science-5)
-- [OMSCS &lpar;CS7646&rpar;: Machine Learning for Trading &lpar;ML4T&rpar; — Review by Shaurya Uppal](https://medium.datadriveninvestor.com/omscs-cs7646-machine-learning-for-trading-ml4t-review-by-shaurya-uppal-e0c56a136d7d?source=rss------data_science-5)
-- [Comparing lump sum investing vs dollar cost averaging &lpar;DCA&rpar; with Python from Nasdaq historical data](https://medium.com/@oieivind/comparing-lump-sum-investing-vs-dollar-cost-averaging-dca-with-python-from-nasdaq-historical-data-5a47eb0f798a?source=rss------data_science-5)
-- [AI for WAR — Weather and Reliability](https://helendarmi-hd.medium.com/ai-for-war-weather-and-reliability-3260915608cb?source=rss------data_science-5)
-- [Types of variables in statistics](https://medium.com/@amanda.rnds18/types-of-variables-in-statistics-2ea68ba0defb?source=rss------data_science-5)
-- [Unleashing the Power of DataBrew](https://medium.com/@ruchi99.nagare/unleashing-the-power-of-databrew-19f7936deeb2?source=rss------data_science-5)
+- [Decline in US regional bank
+The collapse of several regional banks in the US has raised investor…](https://medium.com/@jamshedalikhan_25191/decline-in-us-regional-bank-the-collapse-of-several-regional-banks-in-the-us-has-raised-investor-f25f520a481e?source=rss------data_science-5)
+- [Exploring Python: A Comprehensive Guide to the Versatile Programming Language](https://medium.com/@Winterspell/exploring-python-a-comprehensive-guide-to-the-versatile-programming-language-ead2c5f28d67?source=rss------data_science-5)
+- [Loading a csv file from GitHub into python: A beginner’s mistake](https://medium.com/@a.shubhrika911/loading-a-csv-file-from-github-into-python-a-beginners-mistake-2d62e2fdbb1b?source=rss------data_science-5)
+- [Mastering Statistics with Python](https://medium.com/@marc.bolle/mastering-statistics-with-python-5ed1a99fc5b?source=rss------data_science-5)
+- [Predicting House Prices in California](https://medium.com/@clo0rean/predicting-house-prices-in-california-c229139a3d6c?source=rss------data_science-5)
+- [Introduction to Machine Learning](https://medium.com/@fuherarich/introduction-to-machine-learning-1e4abf2fb5cb?source=rss------data_science-5)
+- [There are many great analytics YouTube channels out there.](https://medium.com/@amz85cc7/there-are-many-great-analytics-youtube-channels-out-there-69203abb0a11?source=rss------data_science-5)
+- [What Makes a Good Chatbot? The Top Features to Look Out For](https://medium.com/@conan297kudo/what-makes-a-good-chatbot-the-top-features-to-look-out-for-15bca2195735?source=rss------data_science-5)
+- [Apache Spark — Creating a JDBC Read-Only Data Source in Apache Spark 3](https://medium.com/@suffyan.asad1/apache-spark-creating-a-jdbc-read-only-data-source-in-apache-spark-3-2c8880b1263b?source=rss------data_science-5)
+- [Symbolic Regression: a Simple and Friendly Introduction](https://medium.com/@wilstrup/symbolic-regression-a-simple-and-friendly-introduction-16bcadbe870a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
