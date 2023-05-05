@@ -123,11 +123,11 @@ The collapse of several regional banks in the US has raised investor…](https:/
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [Thanks for Nothing, GPT-4!](https://sonery.medium.com/thanks-for-nothing-gpt-4-bc1eafd0e7ae?source=rss-2cf6b549448------2)
 - [Why Do You Need to Use SQL Grouping Sets for Aggregating Data?](https://towardsdatascience.com/why-do-you-need-to-use-sql-grouping-sets-for-aggregating-data-3d172ff5c088?source=rss-2cf6b549448------2)
 - [Python Pandas to Polars: Data Filtering](https://towardsdatascience.com/python-pandas-to-polars-data-filtering-a67ccb70a8b3?source=rss-2cf6b549448------2)
 - [4 Questions to Ask Yourself Before Working on a Machine Learning Model](https://towardsdatascience.com/4-questions-to-ask-yourself-before-working-on-a-machine-learning-model-d0f9fdc2fbb2?source=rss-2cf6b549448------2)
 - [A Simple Way to Compare Pandas DataFrames in Unit Tests](https://sonery.medium.com/a-simple-way-to-compare-pandas-dataframes-in-unit-tests-51ac1dbef31f?source=rss-2cf6b549448------2)
-- [5 Functions is All You Need to Manage Your Data with dplyr](https://towardsdatascience.com/5-functions-is-all-you-need-to-manage-your-data-with-dplyr-1630825c47b0?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
