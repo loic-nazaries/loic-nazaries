@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Decline in US regional bank
-The collapse of several regional banks in the US has raised investor…](https://medium.com/@jamshedalikhan_25191/decline-in-us-regional-bank-the-collapse-of-several-regional-banks-in-the-us-has-raised-investor-f25f520a481e?source=rss------data_science-5)
-- [Exploring Python: A Comprehensive Guide to the Versatile Programming Language](https://medium.com/@Winterspell/exploring-python-a-comprehensive-guide-to-the-versatile-programming-language-ead2c5f28d67?source=rss------data_science-5)
-- [Loading a csv file from GitHub into python: A beginner’s mistake](https://medium.com/@a.shubhrika911/loading-a-csv-file-from-github-into-python-a-beginners-mistake-2d62e2fdbb1b?source=rss------data_science-5)
-- [Mastering Statistics with Python](https://medium.com/@marc.bolle/mastering-statistics-with-python-5ed1a99fc5b?source=rss------data_science-5)
-- [Predicting House Prices in California](https://medium.com/@clo0rean/predicting-house-prices-in-california-c229139a3d6c?source=rss------data_science-5)
-- [Introduction to Machine Learning](https://medium.com/@fuherarich/introduction-to-machine-learning-1e4abf2fb5cb?source=rss------data_science-5)
-- [There are many great analytics YouTube channels out there.](https://medium.com/@amz85cc7/there-are-many-great-analytics-youtube-channels-out-there-69203abb0a11?source=rss------data_science-5)
-- [What Makes a Good Chatbot? The Top Features to Look Out For](https://medium.com/@conan297kudo/what-makes-a-good-chatbot-the-top-features-to-look-out-for-15bca2195735?source=rss------data_science-5)
-- [Apache Spark — Creating a JDBC Read-Only Data Source in Apache Spark 3](https://medium.com/@suffyan.asad1/apache-spark-creating-a-jdbc-read-only-data-source-in-apache-spark-3-2c8880b1263b?source=rss------data_science-5)
-- [Symbolic Regression: a Simple and Friendly Introduction](https://medium.com/@wilstrup/symbolic-regression-a-simple-and-friendly-introduction-16bcadbe870a?source=rss------data_science-5)
+- [Delta Lake na prática!](https://medium.com/@danilojpfreitas/delta-lake-na-pr%C3%A1tica-5b65aa977774?source=rss------data_science-5)
+- [Do You Really Need Deep Learning?](https://medium.com/@luuisotorres/do-you-really-need-deep-learning-84d1a8629ed6?source=rss------data_science-5)
+- [I will write data science resume, data analytics, data analyst, and resume writing](https://medium.com/@kendramicheal009/i-will-write-data-science-resume-data-analytics-data-analyst-and-resume-writing-236cc5c57fe2?source=rss------data_science-5)
+- [Understanding Neural Networks with Python](https://medium.com/@jason_the_data_scientist/understanding-neural-networks-with-python-fea84e7a4a95?source=rss------data_science-5)
+- [Data Analytics for Social Media: Understanding Your Audience Better](https://medium.com/@conan297kudo/data-analytics-for-social-media-understanding-your-audience-better-61a7ac734ab5?source=rss------data_science-5)
+- [How to Annotate for Your NLP Pipeline?](https://angelina-yang.medium.com/how-to-annotate-for-your-nlp-pipeline-f6d5f6623b22?source=rss------data_science-5)
+- [How to Speed Up and Save Memory in Your Python Code](https://medium.com/geekculture/how-to-speed-up-and-save-memory-in-your-python-code-633325f009e9?source=rss------data_science-5)
+- [“From Data to Insights: An Introduction to Pandas for Data Analysis”](https://medium.com/@akusheyj/from-data-to-insights-an-introduction-to-pandas-for-data-analysis-c795f1267bee?source=rss------data_science-5)
+- [“Exploring Data Analysis with Numpy and Pandas: Essential Functions for Every Data Analyst”](https://medium.com/@akusheyj/exploring-data-analysis-with-numpy-and-pandas-essential-functions-for-every-data-analyst-75c91e8c0f92?source=rss------data_science-5)
+- [An Introduction To T Tests and Hypothesis Testing](https://medium.com/@jonnie.brown4/an-introduction-to-t-tests-and-hypothesis-testing-cbf3248a5423?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
