@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Delta Lake na prática!](https://medium.com/@danilojpfreitas/delta-lake-na-pr%C3%A1tica-5b65aa977774?source=rss------data_science-5)
-- [Do You Really Need Deep Learning?](https://medium.com/@luuisotorres/do-you-really-need-deep-learning-84d1a8629ed6?source=rss------data_science-5)
-- [I will write data science resume, data analytics, data analyst, and resume writing](https://medium.com/@kendramicheal009/i-will-write-data-science-resume-data-analytics-data-analyst-and-resume-writing-236cc5c57fe2?source=rss------data_science-5)
-- [Understanding Neural Networks with Python](https://medium.com/@jason_the_data_scientist/understanding-neural-networks-with-python-fea84e7a4a95?source=rss------data_science-5)
-- [Data Analytics for Social Media: Understanding Your Audience Better](https://medium.com/@conan297kudo/data-analytics-for-social-media-understanding-your-audience-better-61a7ac734ab5?source=rss------data_science-5)
-- [How to Annotate for Your NLP Pipeline?](https://angelina-yang.medium.com/how-to-annotate-for-your-nlp-pipeline-f6d5f6623b22?source=rss------data_science-5)
-- [How to Speed Up and Save Memory in Your Python Code](https://medium.com/geekculture/how-to-speed-up-and-save-memory-in-your-python-code-633325f009e9?source=rss------data_science-5)
-- [“From Data to Insights: An Introduction to Pandas for Data Analysis”](https://medium.com/@akusheyj/from-data-to-insights-an-introduction-to-pandas-for-data-analysis-c795f1267bee?source=rss------data_science-5)
-- [“Exploring Data Analysis with Numpy and Pandas: Essential Functions for Every Data Analyst”](https://medium.com/@akusheyj/exploring-data-analysis-with-numpy-and-pandas-essential-functions-for-every-data-analyst-75c91e8c0f92?source=rss------data_science-5)
-- [An Introduction To T Tests and Hypothesis Testing](https://medium.com/@jonnie.brown4/an-introduction-to-t-tests-and-hypothesis-testing-cbf3248a5423?source=rss------data_science-5)
+- [Uncovering Patterns and Trends in Ausgrid Power Outage Data](https://medium.com/analytics-vidhya/uncovering-patterns-and-trends-in-ausgrid-power-outage-data-ec538d4f70f9?source=rss------data_science-5)
+- [Análie Exploratória de Dados Socioeconômicos](https://medium.com/@andre-almd/an%C3%A1lie-explorat%C3%B3ria-de-dados-socioecon%C3%B4micos-7db36310f46f?source=rss------data_science-5)
+- [Top 5 Pre-trained Word Embeddings](https://patil-aakanksha.medium.com/top-5-pre-trained-word-embeddings-20de114bc26?source=rss------data_science-5)
+- [The Rise of AI-Powered Voice Assistants: Are We Becoming Too Dependent?](https://medium.com/@conan297kudo/the-rise-of-ai-powered-voice-assistants-are-we-becoming-too-dependent-55344c462c50?source=rss------data_science-5)
+- [The Search Relevance Problem](https://medium.com/@evertongomede/the-search-relevance-problem-82da4768e369?source=rss------data_science-5)
+- [Mojo Lang: A Fast Futuristic Python Alternative](https://ai.plainenglish.io/mojo-lang-a-fast-futuristic-python-alternative-cf090e6db344?source=rss------data_science-5)
+- [Summary Statistics](https://medium.com/@amanda.rnds18/summary-statistics-af5a3549b07e?source=rss------data_science-5)
+- [Open source oceans in the age of AI](https://pieraldi.medium.com/open-source-oceans-in-the-age-of-ai-bd5366a19cfd?source=rss------data_science-5)
+- [Governments and data oceans](https://pieraldi.medium.com/governments-and-data-oceans-d5f10c1de0e6?source=rss------data_science-5)
+- [Introdução ao Naive Bayes](https://medium.com/@willian.monfrinato/introdu%C3%A7%C3%A3o-ao-naive-bayes-da6d03db2a0c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
