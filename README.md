@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Uncovering Patterns and Trends in Ausgrid Power Outage Data](https://medium.com/analytics-vidhya/uncovering-patterns-and-trends-in-ausgrid-power-outage-data-ec538d4f70f9?source=rss------data_science-5)
-- [Análie Exploratória de Dados Socioeconômicos](https://medium.com/@andre-almd/an%C3%A1lie-explorat%C3%B3ria-de-dados-socioecon%C3%B4micos-7db36310f46f?source=rss------data_science-5)
-- [Top 5 Pre-trained Word Embeddings](https://patil-aakanksha.medium.com/top-5-pre-trained-word-embeddings-20de114bc26?source=rss------data_science-5)
-- [The Rise of AI-Powered Voice Assistants: Are We Becoming Too Dependent?](https://medium.com/@conan297kudo/the-rise-of-ai-powered-voice-assistants-are-we-becoming-too-dependent-55344c462c50?source=rss------data_science-5)
-- [The Search Relevance Problem](https://medium.com/@evertongomede/the-search-relevance-problem-82da4768e369?source=rss------data_science-5)
-- [Mojo Lang: A Fast Futuristic Python Alternative](https://ai.plainenglish.io/mojo-lang-a-fast-futuristic-python-alternative-cf090e6db344?source=rss------data_science-5)
-- [Summary Statistics](https://medium.com/@amanda.rnds18/summary-statistics-af5a3549b07e?source=rss------data_science-5)
-- [Open source oceans in the age of AI](https://pieraldi.medium.com/open-source-oceans-in-the-age-of-ai-bd5366a19cfd?source=rss------data_science-5)
-- [Governments and data oceans](https://pieraldi.medium.com/governments-and-data-oceans-d5f10c1de0e6?source=rss------data_science-5)
-- [Introdução ao Naive Bayes](https://medium.com/@willian.monfrinato/introdu%C3%A7%C3%A3o-ao-naive-bayes-da6d03db2a0c?source=rss------data_science-5)
+- [What steps are involved in setting up a marketing experiment?](https://medium.com/@99patilpranav/what-steps-are-involved-in-setting-up-a-marketing-experiment-20235b8c1a46?source=rss------data_science-5)
+- [AI in Judicial Systems](https://medium.com/@ykdatha/ai-in-judicial-systems-3f83da2b7b0b?source=rss------data_science-5)
+- [The Era of the Mathematician Has Arrived](https://keith-mcnulty.medium.com/the-era-of-the-mathematician-has-arrived-251d189fdaa1?source=rss------data_science-5)
+- [무신사가 카테고리숍 추천을 하는 방법](https://medium.com/musinsa-tech/%EB%AC%B4%EC%8B%A0%EC%82%AC%EA%B0%80-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EC%88%8D-%EC%B6%94%EC%B2%9C%EC%9D%84-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-a45b219685ea?source=rss------data_science-5)
+- [Klasifikasi Diabetic Retinopathy Menggunakan Algoritma Convolutional Neural Network &lpar;CNN&rpar;](https://medium.com/@20611106/klasifikasi-diabetic-retinopathy-menggunakan-algoritma-convolutional-neural-network-cnn-bee9aa97efc3?source=rss------data_science-5)
+- [Introducing YOLO-NAS: One of The Most Efficient Object Detection Algorithms](https://medium.com/latinxinai/introducing-yolo-nas-one-of-the-most-efficient-object-detection-algorithm-d24303de542?source=rss------data_science-5)
+- [The Numbers Don’t Lie: Which Country and Industry Are Seeing the Most Layoffs Since COVID-19?](https://aceyourgrace.medium.com/the-numbers-dont-lie-which-country-and-industry-are-seeing-the-most-layoffs-since-covid-19-ab0d70cefed9?source=rss------data_science-5)
+- [Short Reads: Differences between ORC, AVRO, and Parquet files: LEGO Analogy](https://medium.com/@SaiParvathaneni/short-reads-differences-between-orc-avro-and-parquet-files-lego-analogy-c9c346a0192e?source=rss------data_science-5)
+- [Introduction to a Python package for Machine Learning visualization Part I](https://towardsdev.com/introduction-to-a-python-package-for-machine-learning-visualization-part-i-15facc289de0?source=rss------data_science-5)
+- [Data Science for Business by Foster Provost and Tom Fawcett](https://medium.com/@1511425435311/data-science-for-business-by-foster-provost-and-tom-fawcett-7843bc95a959?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
