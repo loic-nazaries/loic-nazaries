@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [DESATANDO EL PODER DE LOS DATOS: EXPLORANDO KAGGLE COMO EL TESORO ESCONDIDO DE LOS INGENIEROS.](https://medium.com/@CamiloMontoyaAdc/desatando-el-poder-de-los-datos-explorando-kaggle-como-el-tesoro-escondido-de-los-ingenieros-b850745000bc?source=rss------data_science-5)
-- [Mastering the Machine: A Comprehensive Guide to Types of Machine Learning](https://medium.com/@navs_diary/mastering-the-machine-a-comprehensive-guide-to-types-of-machine-learning-cacf3289f2ea?source=rss------data_science-5)
-- [Boosting Productivity for Data Scientists and Business Analysts: Expert Tips and Hacks](https://medium.com/@HalderNilimesh/boosting-productivity-for-data-scientists-and-business-analysts-expert-tips-and-hacks-b142f5d7c7d?source=rss------data_science-5)
-- [SQL na Prática: Manipulação e Análise de Dados.](https://medium.com/@rafael.salomaod/sql-na-pr%C3%A1tica-manipula%C3%A7%C3%A3o-e-an%C3%A1lise-de-dados-e47ec9d0df47?source=rss------data_science-5)
-- [Multivariate time series forecasting and analysis of the US unemployment rate — Part 2](https://medium.com/@reddiarv/multivariate-time-series-forecasting-and-analysis-of-the-us-unemployment-rate-part-2-e865f7ff07a6?source=rss------data_science-5)
-- [Breathing Numbers: Quantifying our respiratory system](https://medium.com/@em.uprichard/breathing-numbers-quantifying-our-respiratory-system-4480ca31cd91?source=rss------data_science-5)
-- [From Numbers to Insights: Exploring the World of Data Analysis](https://medium.com/@prakathi/from-numbers-to-insights-exploring-the-world-of-data-analysis-7a581522baa3?source=rss------data_science-5)
-- [The Sword of Damocles: Striking the Balance Between Objective and Relative Morality in AI](https://pieraldi.medium.com/the-sword-of-damocles-striking-the-balance-between-objective-and-relative-morality-in-ai-3ed76ac91096?source=rss------data_science-5)
-- [The Numerical Language of Breathing and Breathwork](https://medium.com/@em.uprichard/the-numerical-language-of-breathing-and-breathwork-8abade869fc2?source=rss------data_science-5)
-- [Updating datasets with Pandas](https://medium.com/@marcinp55/updating-dataset-using-another-dataset-with-pandas-209f72e9ca38?source=rss------data_science-5)
+- [Is Data Science a Good Career Option for People Restarting Their Career?](https://medium.com/@ajarmstrongtgh/is-data-science-a-good-career-option-for-people-restarting-their-career-ef0431c4d5b8?source=rss------data_science-5)
+- [Mastering Huggingface Transformers &amp; Evaluate Libraries](https://medium.com/@kamaljp/mastering-huggingface-transformers-evaluate-libraries-e82fedf6e988?source=rss------data_science-5)
+- [Supervised vs. Unsupervised Learning: Choosing The Right Approach For Your Data](https://medium.com/@Comfort_Adesina/supervised-vs-unsupervised-learning-choosing-the-right-approach-for-your-data-9274b4a1a3e2?source=rss------data_science-5)
+- [WEBSCRAPPING AMAZON BOOKS FOR DATA SCIENCE USING SELENIUM](https://medium.com/@kamandesimone/webscrapping-amazon-books-for-data-science-using-selenium-d8ef04d731d9?source=rss------data_science-5)
+- [Mad DAX Skills-Formatting](https://medium.com/@sanjana.putchala/mad-dax-skills-formatting-96d268e1365d?source=rss------data_science-5)
+- [What is dbt? Data Build Tool’s Key Advantages in Data Engineering](https://medium.com/@jbbluhm/what-is-dbt-data-build-tools-key-advantages-in-data-engineering-3428a85e3949?source=rss------data_science-5)
+- [Mapeando os trajetos da emissão de carbono no trânsito de São Paulo](https://medium.com/@lisses/mapeando-os-trajetos-da-emiss%C3%A3o-de-carbono-no-tr%C3%A2nsito-de-s%C3%A3o-paulo-7318f850b072?source=rss------data_science-5)
+- [Fast Fine-tuning of Text Classification with SetFit](https://medium.com/@dhtien/fast-fine-tuning-of-text-classification-with-setfit-f98e0a39e631?source=rss------data_science-5)
+- [BellaBeat Smart Device Fitness Tracker Analysis](https://medium.com/@little.fredrick46/bellabeat-smart-device-fitness-tracker-analysis-3bec7f7c061e?source=rss------data_science-5)
+- [“Exploring the Future of NLP: Inside the Most Influential NLP Papers of April 2023”](https://txt.generativeailab.org/exploring-the-future-of-nlp-inside-the-most-influential-nlp-papers-of-april-2023-8a556b5009e0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
