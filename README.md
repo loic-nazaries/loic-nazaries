@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [Python Pandas to Polars: Aggregation](https://towardsdatascience.com/python-pandas-to-polars-aggregation-e13c38bec5f7?source=rss-2cf6b549448------2)
+- [Generate Mock Data of Any Format with Mockaroo](https://sonery.medium.com/generate-mock-data-of-any-format-with-mockaroo-9345facabc1e?source=rss-2cf6b549448------2)
 - [Thanks for Nothing, GPT-4!](https://sonery.medium.com/thanks-for-nothing-gpt-4-bc1eafd0e7ae?source=rss-2cf6b549448------2)
 - [Why Do You Need to Use SQL Grouping Sets for Aggregating Data?](https://towardsdatascience.com/why-do-you-need-to-use-sql-grouping-sets-for-aggregating-data-3d172ff5c088?source=rss-2cf6b549448------2)
 - [Python Pandas to Polars: Data Filtering](https://towardsdatascience.com/python-pandas-to-polars-data-filtering-a67ccb70a8b3?source=rss-2cf6b549448------2)
-- [4 Questions to Ask Yourself Before Working on a Machine Learning Model](https://towardsdatascience.com/4-questions-to-ask-yourself-before-working-on-a-machine-learning-model-d0f9fdc2fbb2?source=rss-2cf6b549448------2)
-- [A Simple Way to Compare Pandas DataFrames in Unit Tests](https://sonery.medium.com/a-simple-way-to-compare-pandas-dataframes-in-unit-tests-51ac1dbef31f?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
