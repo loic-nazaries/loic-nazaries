@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Is Data Science a Good Career Option for People Restarting Their Career?](https://medium.com/@ajarmstrongtgh/is-data-science-a-good-career-option-for-people-restarting-their-career-ef0431c4d5b8?source=rss------data_science-5)
-- [Mastering Huggingface Transformers &amp; Evaluate Libraries](https://medium.com/@kamaljp/mastering-huggingface-transformers-evaluate-libraries-e82fedf6e988?source=rss------data_science-5)
-- [Supervised vs. Unsupervised Learning: Choosing The Right Approach For Your Data](https://medium.com/@Comfort_Adesina/supervised-vs-unsupervised-learning-choosing-the-right-approach-for-your-data-9274b4a1a3e2?source=rss------data_science-5)
-- [WEBSCRAPPING AMAZON BOOKS FOR DATA SCIENCE USING SELENIUM](https://medium.com/@kamandesimone/webscrapping-amazon-books-for-data-science-using-selenium-d8ef04d731d9?source=rss------data_science-5)
-- [Mad DAX Skills-Formatting](https://medium.com/@sanjana.putchala/mad-dax-skills-formatting-96d268e1365d?source=rss------data_science-5)
-- [What is dbt? Data Build Tool’s Key Advantages in Data Engineering](https://medium.com/@jbbluhm/what-is-dbt-data-build-tools-key-advantages-in-data-engineering-3428a85e3949?source=rss------data_science-5)
-- [Mapeando os trajetos da emissão de carbono no trânsito de São Paulo](https://medium.com/@lisses/mapeando-os-trajetos-da-emiss%C3%A3o-de-carbono-no-tr%C3%A2nsito-de-s%C3%A3o-paulo-7318f850b072?source=rss------data_science-5)
-- [Fast Fine-tuning of Text Classification with SetFit](https://medium.com/@dhtien/fast-fine-tuning-of-text-classification-with-setfit-f98e0a39e631?source=rss------data_science-5)
-- [BellaBeat Smart Device Fitness Tracker Analysis](https://medium.com/@little.fredrick46/bellabeat-smart-device-fitness-tracker-analysis-3bec7f7c061e?source=rss------data_science-5)
-- [“Exploring the Future of NLP: Inside the Most Influential NLP Papers of April 2023”](https://txt.generativeailab.org/exploring-the-future-of-nlp-inside-the-most-influential-nlp-papers-of-april-2023-8a556b5009e0?source=rss------data_science-5)
+- [Insights into Boston AirBnb data](https://medium.com/@alaeddine.grine/insights-into-boston-airbnb-data-a418c27626d1?source=rss------data_science-5)
+- [NLP Series — Part 2: Using Word2Vec Word Embeddings to Explore Semantic Relations Among New Sources](https://medium.com/@parkermo_86729/nlp-series-part-2-using-word2vec-word-embeddings-to-explore-semantic-relations-among-new-sources-d91a1371fd08?source=rss------data_science-5)
+- [Data Preparation](https://medium.com/@joshuadada/data-preparation-f72e79a50d4f?source=rss------data_science-5)
+- [Data Science for the Education Sector](https://medium.com/@atandaadeoluwa/data-science-for-the-education-sector-f90c4e2c9435?source=rss------data_science-5)
+- [Partage X Data Natives - The intersection of data and blockchain.](https://medium.com/partage-btc/partage-x-data-natives-the-intersection-of-data-and-blockchain-4d3b7ac3c5db?source=rss------data_science-5)
+- [Graduações na área da Saúde, vale a pena investir?](https://medium.com/@mateus.xavier/gradua%C3%A7%C3%B5es-na-%C3%A1rea-da-sa%C3%BAde-vale-a-pena-investir-804d0cdb22ef?source=rss------data_science-5)
+- [A Comprehensive Guide to Boosting Algorithms in Machine Learning](https://medium.com/@HalderNilimesh/a-comprehensive-guide-to-boosting-algorithms-in-machine-learning-caf2b44a1b44?source=rss------data_science-5)
+- [10 Python Itertools To Make Your Code Neater, Cleaner, and Better](https://medium.com/techtofreedom/10-python-itertools-to-make-your-code-neater-cleaner-and-better-5e1aada5e13e?source=rss------data_science-5)
+- [GPT-4 ve Veri Bilimi](https://medium.com/@umut33387/gpt-4-ve-veri-bilimi-db3e845ad8fd?source=rss------data_science-5)
+- [Industrial statistics](https://medium.com/@wiliz3d/industrial-statistics-13b72e01375f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
