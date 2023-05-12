@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Insights into Boston AirBnb data](https://medium.com/@alaeddine.grine/insights-into-boston-airbnb-data-a418c27626d1?source=rss------data_science-5)
-- [NLP Series — Part 2: Using Word2Vec Word Embeddings to Explore Semantic Relations Among New Sources](https://medium.com/@parkermo_86729/nlp-series-part-2-using-word2vec-word-embeddings-to-explore-semantic-relations-among-new-sources-d91a1371fd08?source=rss------data_science-5)
-- [Data Preparation](https://medium.com/@joshuadada/data-preparation-f72e79a50d4f?source=rss------data_science-5)
-- [Data Science for the Education Sector](https://medium.com/@atandaadeoluwa/data-science-for-the-education-sector-f90c4e2c9435?source=rss------data_science-5)
-- [Partage X Data Natives - The intersection of data and blockchain.](https://medium.com/partage-btc/partage-x-data-natives-the-intersection-of-data-and-blockchain-4d3b7ac3c5db?source=rss------data_science-5)
-- [Graduações na área da Saúde, vale a pena investir?](https://medium.com/@mateus.xavier/gradua%C3%A7%C3%B5es-na-%C3%A1rea-da-sa%C3%BAde-vale-a-pena-investir-804d0cdb22ef?source=rss------data_science-5)
-- [A Comprehensive Guide to Boosting Algorithms in Machine Learning](https://medium.com/@HalderNilimesh/a-comprehensive-guide-to-boosting-algorithms-in-machine-learning-caf2b44a1b44?source=rss------data_science-5)
-- [10 Python Itertools To Make Your Code Neater, Cleaner, and Better](https://medium.com/techtofreedom/10-python-itertools-to-make-your-code-neater-cleaner-and-better-5e1aada5e13e?source=rss------data_science-5)
-- [GPT-4 ve Veri Bilimi](https://medium.com/@umut33387/gpt-4-ve-veri-bilimi-db3e845ad8fd?source=rss------data_science-5)
-- [Industrial statistics](https://medium.com/@wiliz3d/industrial-statistics-13b72e01375f?source=rss------data_science-5)
+- [Python Tutorial: Automating Mouse and Keyboard Input with PyAutoGUI](https://medium.com/aimonks/python-tutorial-automating-mouse-and-keyboard-input-with-pyautogui-1cb1b2c82015?source=rss------data_science-5)
+- [What Smoking did for Data Science](https://keith-mcnulty.medium.com/what-smoking-did-for-data-science-e577dc973b08?source=rss------data_science-5)
+- [Understand Transformer: The Model behind the Success of ChatGPT](https://suhas-maddali007.medium.com/understand-transformer-the-model-behind-the-success-of-chatgpt-ee70282c4c8e?source=rss------data_science-5)
+- [Transforming Healthcare: The Promising Role of Health Informatics](https://medium.com/@lucymaina4172/transforming-healthcare-the-promising-role-of-health-informatics-83d5afcb7523?source=rss------data_science-5)
+- [The Role of Data Scientists in Transforming Industries: Real-Life Examples](https://datasciguy.medium.com/the-role-of-data-scientists-in-transforming-industries-real-life-examples-f484a7bf43b4?source=rss------data_science-5)
+- [Busting popular myths on the EB1A green card.](https://allthingsanu.medium.com/busting-popular-myths-on-the-eb1a-green-card-fb3cd9152864?source=rss------data_science-5)
+- [Does Google’s Bard Fall Flat? Or Can it Truly Strike a Chord?](https://medium.com/techciting/does-googles-bard-fall-flat-or-can-it-truly-strike-a-chord-e7d28131c85?source=rss------data_science-5)
+- [How to create AWS Lambda layer for Python 3.9 — Using Anaconda](https://medium.com/@rossi_edu/how-to-create-aws-lambda-layer-for-python-3-9-using-anaconda-ddb491b7f1b3?source=rss------data_science-5)
+- [Caminhos para aprender Python](https://medium.com/@DadosDoCanario/caminhos-para-aprender-python-86d249159cb4?source=rss------data_science-5)
+- [Amazon está desenvolvendo robô com as habilidades do ChatGPT](https://ealexbarros.medium.com/amazon-est%C3%A1-desenvolvendo-rob%C3%B4-com-as-habilidades-do-chatgpt-ed98f45c6257?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
