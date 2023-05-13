@@ -123,7 +123,7 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
 - [3 Subtle Mistakes That Can Undermine Your SQL Query Performance](https://towardsdatascience.com/3-subtle-mistakes-that-can-undermine-your-sql-query-performance-47e897688977?source=rss-2cf6b549448------2)
-- [Python Pandas to Polars: Aggregation](https://towardsdatascience.com/python-pandas-to-polars-aggregation-e13c38bec5f7?source=rss-2cf6b549448------2)
+- [Python Pandas to Polars: Aggregation](https://sonery.medium.com/python-pandas-to-polars-aggregation-e13c38bec5f7?source=rss-2cf6b549448------2)
 - [Generate Mock Data of Any Format with Mockaroo](https://sonery.medium.com/generate-mock-data-of-any-format-with-mockaroo-9345facabc1e?source=rss-2cf6b549448------2)
 - [Thanks for Nothing, GPT-4!](https://sonery.medium.com/thanks-for-nothing-gpt-4-bc1eafd0e7ae?source=rss-2cf6b549448------2)
 - [Why Do You Need to Use SQL Grouping Sets for Aggregating Data?](https://towardsdatascience.com/why-do-you-need-to-use-sql-grouping-sets-for-aggregating-data-3d172ff5c088?source=rss-2cf6b549448------2)
