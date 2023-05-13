@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Python Tutorial: Automating Mouse and Keyboard Input with PyAutoGUI](https://medium.com/aimonks/python-tutorial-automating-mouse-and-keyboard-input-with-pyautogui-1cb1b2c82015?source=rss------data_science-5)
-- [What Smoking did for Data Science](https://keith-mcnulty.medium.com/what-smoking-did-for-data-science-e577dc973b08?source=rss------data_science-5)
-- [Understand Transformer: The Model behind the Success of ChatGPT](https://suhas-maddali007.medium.com/understand-transformer-the-model-behind-the-success-of-chatgpt-ee70282c4c8e?source=rss------data_science-5)
-- [Transforming Healthcare: The Promising Role of Health Informatics](https://medium.com/@lucymaina4172/transforming-healthcare-the-promising-role-of-health-informatics-83d5afcb7523?source=rss------data_science-5)
-- [The Role of Data Scientists in Transforming Industries: Real-Life Examples](https://datasciguy.medium.com/the-role-of-data-scientists-in-transforming-industries-real-life-examples-f484a7bf43b4?source=rss------data_science-5)
-- [Busting popular myths on the EB1A green card.](https://allthingsanu.medium.com/busting-popular-myths-on-the-eb1a-green-card-fb3cd9152864?source=rss------data_science-5)
-- [Does Google’s Bard Fall Flat? Or Can it Truly Strike a Chord?](https://medium.com/techciting/does-googles-bard-fall-flat-or-can-it-truly-strike-a-chord-e7d28131c85?source=rss------data_science-5)
-- [How to create AWS Lambda layer for Python 3.9 — Using Anaconda](https://medium.com/@rossi_edu/how-to-create-aws-lambda-layer-for-python-3-9-using-anaconda-ddb491b7f1b3?source=rss------data_science-5)
-- [Caminhos para aprender Python](https://medium.com/@DadosDoCanario/caminhos-para-aprender-python-86d249159cb4?source=rss------data_science-5)
-- [Amazon está desenvolvendo robô com as habilidades do ChatGPT](https://ealexbarros.medium.com/amazon-est%C3%A1-desenvolvendo-rob%C3%B4-com-as-habilidades-do-chatgpt-ed98f45c6257?source=rss------data_science-5)
+- [Test Driving Huggingface Agents &amp; Tools:How Agents &amp; Tools Supercharge Transformers](https://medium.com/@kamaljp/test-driving-huggingface-agents-tools-how-agents-tools-supercharge-transformers-946259330fd6?source=rss------data_science-5)
+- [Reflections on my first month of my internship at the Ministry of Statistics](https://medium.com/@nayeonkn0330/reflections-on-my-first-month-of-my-internship-at-the-ministry-of-statistics-480cff2eabcb?source=rss------data_science-5)
+- [Exploratory Analysis and Statistical Learning with Python](https://medium.com/@jordan.t.gronkowski/exploratory-analysis-and-statistical-learning-with-python-77bb3f7d1382?source=rss------data_science-5)
+- [Train Your First RL Agent: A Step-by-Step Guide](https://becominghuman.ai/train-your-first-rl-agent-a-step-by-step-guide-353bced83722?source=rss------data_science-5)
+- [A Comprehensive Guide to Summarizing Data: 7 Essential Techniques to Derive Meaningful Insights](https://medium.com/@HalderNilimesh/a-comprehensive-guide-to-summarizing-data-7-essential-techniques-to-derive-meaningful-insights-ae992937f83?source=rss------data_science-5)
+- [Sentiment Analysis](https://medium.com/@juanxgallegos/sentiment-analysis-b1832e834c84?source=rss------data_science-5)
+- [Setting up a workflow for an analytic project](https://medium.com/@juanxgallegos/setting-up-a-workflow-for-an-analytic-project-cf38836c367f?source=rss------data_science-5)
+- [Are You Thinking About Starting a Career in Data? Here Are 5 Tips To Get You Started](https://nickcarraway.medium.com/are-you-thinking-about-starting-a-career-in-data-here-are-some-tips-to-get-you-started-a6e3528d9478?source=rss------data_science-5)
+- [Top 10 Data Science Interview Questions with Answers.](https://medium.com/@Prashantkr57/top-10-data-science-interview-questions-with-answers-2020f2fe31b8?source=rss------data_science-5)
+- [What are the consequences of a Type I error in hypothesis testing?](https://medium.com/internetstack/what-are-the-consequences-of-a-type-i-error-in-hypothesis-testing-9f3d6efe0c50?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
