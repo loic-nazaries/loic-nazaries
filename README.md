@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Test Driving Huggingface Agents &amp; Tools:How Agents &amp; Tools Supercharge Transformers](https://medium.com/@kamaljp/test-driving-huggingface-agents-tools-how-agents-tools-supercharge-transformers-946259330fd6?source=rss------data_science-5)
-- [Reflections on my first month of my internship at the Ministry of Statistics](https://medium.com/@nayeonkn0330/reflections-on-my-first-month-of-my-internship-at-the-ministry-of-statistics-480cff2eabcb?source=rss------data_science-5)
-- [Exploratory Analysis and Statistical Learning with Python](https://medium.com/@jordan.t.gronkowski/exploratory-analysis-and-statistical-learning-with-python-77bb3f7d1382?source=rss------data_science-5)
-- [Train Your First RL Agent: A Step-by-Step Guide](https://becominghuman.ai/train-your-first-rl-agent-a-step-by-step-guide-353bced83722?source=rss------data_science-5)
-- [A Comprehensive Guide to Summarizing Data: 7 Essential Techniques to Derive Meaningful Insights](https://medium.com/@HalderNilimesh/a-comprehensive-guide-to-summarizing-data-7-essential-techniques-to-derive-meaningful-insights-ae992937f83?source=rss------data_science-5)
-- [Sentiment Analysis](https://medium.com/@juanxgallegos/sentiment-analysis-b1832e834c84?source=rss------data_science-5)
-- [Setting up a workflow for an analytic project](https://medium.com/@juanxgallegos/setting-up-a-workflow-for-an-analytic-project-cf38836c367f?source=rss------data_science-5)
-- [Are You Thinking About Starting a Career in Data? Here Are 5 Tips To Get You Started](https://nickcarraway.medium.com/are-you-thinking-about-starting-a-career-in-data-here-are-some-tips-to-get-you-started-a6e3528d9478?source=rss------data_science-5)
-- [Top 10 Data Science Interview Questions with Answers.](https://medium.com/@Prashantkr57/top-10-data-science-interview-questions-with-answers-2020f2fe31b8?source=rss------data_science-5)
-- [What are the consequences of a Type I error in hypothesis testing?](https://medium.com/internetstack/what-are-the-consequences-of-a-type-i-error-in-hypothesis-testing-9f3d6efe0c50?source=rss------data_science-5)
+- [Write for Data Engineer Things](https://medium.com/data-engineer-things/write-for-data-engineer-things-32dc9294c5db?source=rss------data_science-5)
+- [From Classroom to Code: Why Teachers Make Excellent Data Scientists](https://medium.com/@krystalcmarks/from-classroom-to-code-why-teachers-make-excellent-data-scientists-284deebb0ead?source=rss------data_science-5)
+- [Why I ripped out newsletter signup from &lpar;almost&rpar; my entire site](https://bootcamp.uxdesign.cc/why-i-ripped-out-newsletter-signup-from-almost-my-entire-site-2f7bfcc3a938?source=rss------data_science-5)
+- [What are hugging face transformer agents?](https://medium.com/the-techlife/what-are-hugging-face-transformer-agents-cab5e46080eb?source=rss------data_science-5)
+- [“Data Manipulation”](https://medium.com/@yohanesdwikiwitman/data-manipulation-51b155f5675d?source=rss------data_science-5)
+- [How to Use LLMs to Build Better Clustering Models](https://medium.com/@swansburg.justin/how-to-use-llms-to-build-better-clustering-models-9b17a5491bb4?source=rss------data_science-5)
+- [Supercharging Performance with Partitioning in Databricks and Spark &lpar;Part 3/3&rpar;](https://medium.com/data-engineer-things/supercharging-performance-with-partitioning-in-databricks-and-spark-part-3-3-4860938bc05a?source=rss------data_science-5)
+- [Supercharging Performance with Partitioning in Databricks and Spark &lpar;Part 2/3&rpar;](https://medium.com/data-engineer-things/supercharging-performance-with-partitioning-in-databricks-and-spark-part-2-3-ec4d5ee34997?source=rss------data_science-5)
+- [Supercharging Performance with Partitioning in Databricks and Spark &lpar;Part 1/3&rpar;](https://medium.com/data-engineer-things/supercharging-performance-with-partitioning-in-databricks-and-spark-part-1-3-aebcfb48c3b?source=rss------data_science-5)
+- [A Comprehensive Guide to ANOVA Analysis and Its Applications](https://aaweg-i.medium.com/a-comprehensive-guide-to-anova-analysis-and-its-applications-e2b55b487643?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
