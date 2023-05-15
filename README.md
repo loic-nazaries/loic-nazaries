@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Write for Data Engineer Things](https://medium.com/data-engineer-things/write-for-data-engineer-things-32dc9294c5db?source=rss------data_science-5)
-- [From Classroom to Code: Why Teachers Make Excellent Data Scientists](https://medium.com/@krystalcmarks/from-classroom-to-code-why-teachers-make-excellent-data-scientists-284deebb0ead?source=rss------data_science-5)
-- [Why I ripped out newsletter signup from &lpar;almost&rpar; my entire site](https://bootcamp.uxdesign.cc/why-i-ripped-out-newsletter-signup-from-almost-my-entire-site-2f7bfcc3a938?source=rss------data_science-5)
-- [What are hugging face transformer agents?](https://medium.com/the-techlife/what-are-hugging-face-transformer-agents-cab5e46080eb?source=rss------data_science-5)
-- [“Data Manipulation”](https://medium.com/@yohanesdwikiwitman/data-manipulation-51b155f5675d?source=rss------data_science-5)
-- [How to Use LLMs to Build Better Clustering Models](https://medium.com/@swansburg.justin/how-to-use-llms-to-build-better-clustering-models-9b17a5491bb4?source=rss------data_science-5)
-- [Supercharging Performance with Partitioning in Databricks and Spark &lpar;Part 3/3&rpar;](https://medium.com/data-engineer-things/supercharging-performance-with-partitioning-in-databricks-and-spark-part-3-3-4860938bc05a?source=rss------data_science-5)
-- [Supercharging Performance with Partitioning in Databricks and Spark &lpar;Part 2/3&rpar;](https://medium.com/data-engineer-things/supercharging-performance-with-partitioning-in-databricks-and-spark-part-2-3-ec4d5ee34997?source=rss------data_science-5)
-- [Supercharging Performance with Partitioning in Databricks and Spark &lpar;Part 1/3&rpar;](https://medium.com/data-engineer-things/supercharging-performance-with-partitioning-in-databricks-and-spark-part-1-3-aebcfb48c3b?source=rss------data_science-5)
-- [A Comprehensive Guide to ANOVA Analysis and Its Applications](https://aaweg-i.medium.com/a-comprehensive-guide-to-anova-analysis-and-its-applications-e2b55b487643?source=rss------data_science-5)
+- [TikTok Insider Insights.](https://medium.com/@niraz.lutfiah54/tiktok-insider-insights-86a4fcc55d33?source=rss------data_science-5)
+- [How to create a Python package for Django and publish it in PyPi?](https://medium.datadriveninvestor.com/how-to-create-a-python-package-for-django-and-publish-it-in-pypi-76152e587691?source=rss------data_science-5)
+- [Create Your Own Metropolis-Hastings Markov Chain Monte Carlo Algorithm for Bayesian Inference &lpar;With…](https://levelup.gitconnected.com/create-your-own-metropolis-hastings-markov-chain-monte-carlo-algorithm-for-bayesian-inference-with-fbabc3f01baa?source=rss------data_science-5)
+- [The 45 Methods You Should Master For Becoming A NumPy Pro](https://johnvastola.medium.com/the-45-methods-you-should-master-for-becoming-a-numpy-pro-4bcf8043a090?source=rss------data_science-5)
+- [AI’s Woolf at the door — LLMs and Knowledge Graphs](https://medium.com/@dallemang/ais-woolf-at-the-door-llms-and-knowledge-graphs-eecd6289380f?source=rss------data_science-5)
+- [lp2](https://medium.com/@jabojustin250/lp2-eb3e685dd36f?source=rss------data_science-5)
+- [WHAT ARE LLMs&lpar;Large Language Models, eg: ChatGPT&rpar;? Applications And Their Potential Risks](https://devkyle4.medium.com/what-are-llms-large-language-models-eg-chatgpt-applications-and-their-potential-risks-6c4c1caecd74?source=rss------data_science-5)
+- [Time Series Forecasting with Prophet: An High Level mini-Guide and Optimization Tips](https://aaweg-i.medium.com/time-series-forecasting-with-prophet-an-high-level-mini-guide-and-optimization-tips-db02019d6de2?source=rss------data_science-5)
+- [SQL 101: A Beginner’s Guide to Relational Database Mastery](https://medium.com/@bryannguyen9/sql-101-a-beginners-guide-to-relational-database-mastery-4be7a8f8a064?source=rss------data_science-5)
+- [NLP: Term Frequency-Inverse Document Frequency](https://medium.com/theta-hat/nlp-term-frequency-inverse-document-frequency-a666fdd80ad?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
