@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [TikTok Insider Insights.](https://medium.com/@niraz.lutfiah54/tiktok-insider-insights-86a4fcc55d33?source=rss------data_science-5)
-- [How to create a Python package for Django and publish it in PyPi?](https://medium.datadriveninvestor.com/how-to-create-a-python-package-for-django-and-publish-it-in-pypi-76152e587691?source=rss------data_science-5)
-- [Create Your Own Metropolis-Hastings Markov Chain Monte Carlo Algorithm for Bayesian Inference &lpar;With…](https://levelup.gitconnected.com/create-your-own-metropolis-hastings-markov-chain-monte-carlo-algorithm-for-bayesian-inference-with-fbabc3f01baa?source=rss------data_science-5)
-- [The 45 Methods You Should Master For Becoming A NumPy Pro](https://johnvastola.medium.com/the-45-methods-you-should-master-for-becoming-a-numpy-pro-4bcf8043a090?source=rss------data_science-5)
-- [AI’s Woolf at the door — LLMs and Knowledge Graphs](https://medium.com/@dallemang/ais-woolf-at-the-door-llms-and-knowledge-graphs-eecd6289380f?source=rss------data_science-5)
-- [lp2](https://medium.com/@jabojustin250/lp2-eb3e685dd36f?source=rss------data_science-5)
-- [WHAT ARE LLMs&lpar;Large Language Models, eg: ChatGPT&rpar;? Applications And Their Potential Risks](https://devkyle4.medium.com/what-are-llms-large-language-models-eg-chatgpt-applications-and-their-potential-risks-6c4c1caecd74?source=rss------data_science-5)
-- [Time Series Forecasting with Prophet: An High Level mini-Guide and Optimization Tips](https://aaweg-i.medium.com/time-series-forecasting-with-prophet-an-high-level-mini-guide-and-optimization-tips-db02019d6de2?source=rss------data_science-5)
-- [SQL 101: A Beginner’s Guide to Relational Database Mastery](https://medium.com/@bryannguyen9/sql-101-a-beginners-guide-to-relational-database-mastery-4be7a8f8a064?source=rss------data_science-5)
-- [NLP: Term Frequency-Inverse Document Frequency](https://medium.com/theta-hat/nlp-term-frequency-inverse-document-frequency-a666fdd80ad?source=rss------data_science-5)
+- [Construindo sua Jornada em Ciência de Dados e Machine Learning: Um Roadmap Completo](https://medium.com/@datawithlau/construindo-sua-jornada-em-ci%C3%AAncia-de-dados-e-machine-learning-um-roadmap-completo-e292b2108037?source=rss------data_science-5)
+- [Unleashing the Statistical Detective Within: Questioning Data &amp; Strengthening Intuition](https://medium.com/byte-sized-data/unleashing-the-statistical-detective-within-questioning-data-strengthening-intuition-a2621f5e018d?source=rss------data_science-5)
+- [O que é o BigQuery e para que ele serve?](https://medium.com/@dataintheclouds/o-que-%C3%A9-o-bigquery-e-para-que-ele-serve-e58359b631dd?source=rss------data_science-5)
+- [Optimizing Game Performance Through Experimentation: A Beginner Guide](https://medium.com/geekculture/optimizing-game-performance-through-experimentation-a-beginner-guide-93fde1385cbe?source=rss------data_science-5)
+- [How to handle a Data Mesh Strategy](https://medium.com/@martin.jurado.p/how-to-handle-a-data-mesh-strategy-a009c088c034?source=rss------data_science-5)
+- [Mastering the art of percent-to-goal calculation with DAX: Your key to data-driven success](https://medium.com/@sanjana.putchala/mastering-the-art-of-percent-to-goal-calculation-with-dax-your-key-to-data-driven-success-cd71201aa561?source=rss------data_science-5)
+- [El límite es tu fe,en ti mismo,lefty marathoner ✨](https://medium.com/@yair83126/el-l%C3%ADmite-es-tu-fe-en-ti-mismo-lefty-marathoner-2a23e1dd1cf7?source=rss------data_science-5)
+- [Demystifying AI Foundation Models: A Comprehensive Guide to Large Language Models, ChatGPT, and…](https://medium.com/@musicalchemist/demystifying-ai-foundation-models-a-comprehensive-guide-to-large-language-models-chatgpt-and-d69644299699?source=rss------data_science-5)
+- [ChatGPT Can Do The Brainless, Tedious Work](https://medium.com/@sciguy/chatgpt-can-do-the-brainless-tedious-work-af21baac9906?source=rss------data_science-5)
+- [AI-Powered Annotation with Human-in-the-Loop](https://medium.com/@atikakumar12/ai-powered-annotation-with-human-in-the-loop-f71a11c6885?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
