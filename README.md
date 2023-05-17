@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Construindo sua Jornada em Ciência de Dados e Machine Learning: Um Roadmap Completo](https://medium.com/@datawithlau/construindo-sua-jornada-em-ci%C3%AAncia-de-dados-e-machine-learning-um-roadmap-completo-e292b2108037?source=rss------data_science-5)
-- [Unleashing the Statistical Detective Within: Questioning Data &amp; Strengthening Intuition](https://medium.com/byte-sized-data/unleashing-the-statistical-detective-within-questioning-data-strengthening-intuition-a2621f5e018d?source=rss------data_science-5)
-- [O que é o BigQuery e para que ele serve?](https://medium.com/@dataintheclouds/o-que-%C3%A9-o-bigquery-e-para-que-ele-serve-e58359b631dd?source=rss------data_science-5)
-- [Optimizing Game Performance Through Experimentation: A Beginner Guide](https://medium.com/geekculture/optimizing-game-performance-through-experimentation-a-beginner-guide-93fde1385cbe?source=rss------data_science-5)
-- [How to handle a Data Mesh Strategy](https://medium.com/@martin.jurado.p/how-to-handle-a-data-mesh-strategy-a009c088c034?source=rss------data_science-5)
-- [Mastering the art of percent-to-goal calculation with DAX: Your key to data-driven success](https://medium.com/@sanjana.putchala/mastering-the-art-of-percent-to-goal-calculation-with-dax-your-key-to-data-driven-success-cd71201aa561?source=rss------data_science-5)
-- [El límite es tu fe,en ti mismo,lefty marathoner ✨](https://medium.com/@yair83126/el-l%C3%ADmite-es-tu-fe-en-ti-mismo-lefty-marathoner-2a23e1dd1cf7?source=rss------data_science-5)
-- [Demystifying AI Foundation Models: A Comprehensive Guide to Large Language Models, ChatGPT, and…](https://medium.com/@musicalchemist/demystifying-ai-foundation-models-a-comprehensive-guide-to-large-language-models-chatgpt-and-d69644299699?source=rss------data_science-5)
-- [ChatGPT Can Do The Brainless, Tedious Work](https://medium.com/@sciguy/chatgpt-can-do-the-brainless-tedious-work-af21baac9906?source=rss------data_science-5)
-- [AI-Powered Annotation with Human-in-the-Loop](https://medium.com/@atikakumar12/ai-powered-annotation-with-human-in-the-loop-f71a11c6885?source=rss------data_science-5)
+- [05/28 台北實體分享會：美國台灣資料分析/資料科學的職涯交流](https://henryfeng.medium.com/05-28-%E5%8F%B0%E5%8C%97%E5%AF%A6%E9%AB%94%E5%88%86%E4%BA%AB%E6%9C%83-%E7%BE%8E%E5%9C%8B%E5%8F%B0%E7%81%A3%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E7%9A%84%E8%81%B7%E6%B6%AF%E4%BA%A4%E6%B5%81-c0b3b52c9b8e?source=rss------data_science-5)
+- [Deciphering Your Machine Learning Problem: A Comprehensive Guide to Defining and Approaching ML…](https://medium.com/@HalderNilimesh/deciphering-your-machine-learning-problem-a-comprehensive-guide-to-defining-and-approaching-ml-b0453c2999eb?source=rss------data_science-5)
+- [Data, Learning, and Modeling in Machine Learning: A Comprehensive Guide](https://medium.com/@HalderNilimesh/data-learning-and-modeling-in-machine-learning-a-comprehensive-guide-14b0e5dee0eb?source=rss------data_science-5)
+- [Understanding Linear Regression](https://medium.com/@jason_the_data_scientist/understanding-linear-regression-3668bc765fd2?source=rss------data_science-5)
+- [Predicting Powerlifting Performance](https://medium.com/@PedroLinsMMC/predicting-powerlifting-performance-aa660cd435c?source=rss------data_science-5)
+- [Which is Better to Learn Machine Learning: C++, Python, or R?](https://itcertifications.medium.com/which-is-better-to-learn-machine-learning-c-python-or-r-a91d2a7e5a41?source=rss------data_science-5)
+- [Mastering the AWS Certified DevOps Engineer Exam: 10 Essential Questions and Answers for Exam…](https://yonathanbouazizboaz.medium.com/mastering-the-aws-certified-devops-engineer-exam-10-essential-questions-and-answers-for-exam-9ccbc55afa50?source=rss------data_science-5)
+- [Wholesale Fragrances for Less.](https://medium.com/@informationscientist23/wholesale-fragrances-for-less-71827a2cda6c?source=rss------data_science-5)
+- [Degrees of Freedom, a Brief Introduction](https://medium.com/@caiocvelasco/degrees-of-freedom-a-brief-introduction-c1527340ac49?source=rss------data_science-5)
+- [DATA PIZZA](https://medium.com/@roversoncosta/data-pizza-54308fbe8f07?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
