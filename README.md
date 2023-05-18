@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [05/28 台北實體分享會：美國台灣資料分析/資料科學的職涯交流](https://henryfeng.medium.com/05-28-%E5%8F%B0%E5%8C%97%E5%AF%A6%E9%AB%94%E5%88%86%E4%BA%AB%E6%9C%83-%E7%BE%8E%E5%9C%8B%E5%8F%B0%E7%81%A3%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E7%9A%84%E8%81%B7%E6%B6%AF%E4%BA%A4%E6%B5%81-c0b3b52c9b8e?source=rss------data_science-5)
-- [Deciphering Your Machine Learning Problem: A Comprehensive Guide to Defining and Approaching ML…](https://medium.com/@HalderNilimesh/deciphering-your-machine-learning-problem-a-comprehensive-guide-to-defining-and-approaching-ml-b0453c2999eb?source=rss------data_science-5)
-- [Data, Learning, and Modeling in Machine Learning: A Comprehensive Guide](https://medium.com/@HalderNilimesh/data-learning-and-modeling-in-machine-learning-a-comprehensive-guide-14b0e5dee0eb?source=rss------data_science-5)
-- [Understanding Linear Regression](https://medium.com/@jason_the_data_scientist/understanding-linear-regression-3668bc765fd2?source=rss------data_science-5)
-- [Predicting Powerlifting Performance](https://medium.com/@PedroLinsMMC/predicting-powerlifting-performance-aa660cd435c?source=rss------data_science-5)
-- [Which is Better to Learn Machine Learning: C++, Python, or R?](https://itcertifications.medium.com/which-is-better-to-learn-machine-learning-c-python-or-r-a91d2a7e5a41?source=rss------data_science-5)
-- [Mastering the AWS Certified DevOps Engineer Exam: 10 Essential Questions and Answers for Exam…](https://yonathanbouazizboaz.medium.com/mastering-the-aws-certified-devops-engineer-exam-10-essential-questions-and-answers-for-exam-9ccbc55afa50?source=rss------data_science-5)
-- [Wholesale Fragrances for Less.](https://medium.com/@informationscientist23/wholesale-fragrances-for-less-71827a2cda6c?source=rss------data_science-5)
-- [Degrees of Freedom, a Brief Introduction](https://medium.com/@caiocvelasco/degrees-of-freedom-a-brief-introduction-c1527340ac49?source=rss------data_science-5)
-- [DATA PIZZA](https://medium.com/@roversoncosta/data-pizza-54308fbe8f07?source=rss------data_science-5)
+- [SQL: Why Common Table Expressions&lpar;CTEs&rpar;???](https://medium.com/@olamidequzeem91/sql-why-common-table-expressions-ctes-296a937056e2?source=rss------data_science-5)
+- [How to Iterate Over a Pandas Dataframe](https://towardsdatascience.com/how-to-iterate-over-a-pandas-dataframe-5dc15ab147f9?source=rss------data_science-5)
+- [Reflexões sobre Correlação e Causalidade](https://medium.com/@ethel.filosofia/reflex%C3%B5es-sobre-correla%C3%A7%C3%A3o-e-causalidade-6bdcaae9f561?source=rss------data_science-5)
+- [Marketing Mix Modeling: The Art of Measuring Marketing Effectiveness](https://medium.com/@abhijeetstalaulikar/marketing-mix-modeling-the-art-of-measuring-marketing-effectiveness-8bbfb23f80d?source=rss------data_science-5)
+- [Sobre a relação entre Filosofia e Dados](https://medium.com/@ethel.filosofia/sobre-a-rela%C3%A7%C3%A3o-entre-filosofia-e-dados-3abebb7f4530?source=rss------data_science-5)
+- [Cracking the Code of Data Science Team Structures](https://mishraprafful.medium.com/cracking-the-code-of-data-science-team-structures-c0f754dc381e?source=rss------data_science-5)
+- [Enhancing Machine Learning Outcomes: An In-Depth Guide to Refining and Optimizing Your ML Models](https://medium.com/@HalderNilimesh/enhancing-machine-learning-outcomes-an-in-depth-guide-to-refining-and-optimizing-your-ml-models-36295ab5bf1c?source=rss------data_science-5)
+- [Using EBITDA Yield to Select High-Potential Stocks](https://medium.com/@kairuihuo/using-ebitda-yield-to-select-high-potential-stocks-5385af8b1be2?source=rss------data_science-5)
+- [O que é Churn ?](https://medium.com/@brunobonatini/o-que-%C3%A9-churn-db588b33342d?source=rss------data_science-5)
+- [Analysis of Bank Customer Churn using Excel](https://medium.com/@ogbuchika71/analysis-of-bank-customer-churn-using-excel-2f0231c6b7a9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
