@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [SQL: Why Common Table Expressions&lpar;CTEs&rpar;???](https://medium.com/@olamidequzeem91/sql-why-common-table-expressions-ctes-296a937056e2?source=rss------data_science-5)
-- [How to Iterate Over a Pandas Dataframe](https://towardsdatascience.com/how-to-iterate-over-a-pandas-dataframe-5dc15ab147f9?source=rss------data_science-5)
-- [Reflexões sobre Correlação e Causalidade](https://medium.com/@ethel.filosofia/reflex%C3%B5es-sobre-correla%C3%A7%C3%A3o-e-causalidade-6bdcaae9f561?source=rss------data_science-5)
-- [Marketing Mix Modeling: The Art of Measuring Marketing Effectiveness](https://medium.com/@abhijeetstalaulikar/marketing-mix-modeling-the-art-of-measuring-marketing-effectiveness-8bbfb23f80d?source=rss------data_science-5)
-- [Sobre a relação entre Filosofia e Dados](https://medium.com/@ethel.filosofia/sobre-a-rela%C3%A7%C3%A3o-entre-filosofia-e-dados-3abebb7f4530?source=rss------data_science-5)
-- [Cracking the Code of Data Science Team Structures](https://mishraprafful.medium.com/cracking-the-code-of-data-science-team-structures-c0f754dc381e?source=rss------data_science-5)
-- [Enhancing Machine Learning Outcomes: An In-Depth Guide to Refining and Optimizing Your ML Models](https://medium.com/@HalderNilimesh/enhancing-machine-learning-outcomes-an-in-depth-guide-to-refining-and-optimizing-your-ml-models-36295ab5bf1c?source=rss------data_science-5)
-- [Using EBITDA Yield to Select High-Potential Stocks](https://medium.com/@kairuihuo/using-ebitda-yield-to-select-high-potential-stocks-5385af8b1be2?source=rss------data_science-5)
-- [O que é Churn ?](https://medium.com/@brunobonatini/o-que-%C3%A9-churn-db588b33342d?source=rss------data_science-5)
-- [Analysis of Bank Customer Churn using Excel](https://medium.com/@ogbuchika71/analysis-of-bank-customer-churn-using-excel-2f0231c6b7a9?source=rss------data_science-5)
+- [Marketing Mix Modeling: 7 Metrics to Use and Boost Your ROI](https://medium.com/@abhijeetstalaulikar/marketing-mix-modeling-7-metrics-to-use-and-boost-your-roi-1ba428967099?source=rss------data_science-5)
+- [New SQL Array Functions for Snowflake](https://medium.com/snowflake/new-sql-array-functions-for-snowflake-4f9e96c4345d?source=rss------data_science-5)
+- [Leaves to Neurons: Using Deep-Cross Networks for Ranking Search Results](https://medium.com/thumbtack-engineering/leaves-to-neurons-using-deep-cross-networks-for-ranking-search-results-65b711731de8?source=rss------data_science-5)
+- [Videos from the ChatGPT Hackathon](https://medium.com/dsai/videos-from-the-chatgpt-hackathon-155f447f83?source=rss------data_science-5)
+- [Untitled](https://medium.com/@ogbeborkennedy/untitled-934caf71b1ed?source=rss------data_science-5)
+- [8Week SQL Challenge: Case Study #6 — Clique Bait](https://medium.com/@adamufunmilayo/8week-sql-challenge-case-study-6-clique-bait-193295527ad9?source=rss------data_science-5)
+- [The Pandas DataFrame Agent: LangChain and GPT-4](https://pub.towardsai.net/the-pandas-dataframe-agent-langchain-and-gpt-4-809c846622d1?source=rss------data_science-5)
+- [I will create professional resume writing, data science data analytics and cover letter](https://medium.com/@clararesume133/i-will-create-professional-resume-writing-data-science-data-analytics-and-cover-letter-8bee6261a29c?source=rss------data_science-5)
+- [Alteryx Predictive Analytics prep](https://medium.com/@saikrishna2589/my-alteryx-predictive-analytics-certificaiton-prep-notes-topics-at-random-e329e79f3ec7?source=rss------data_science-5)
+- [The Role of Big Data in Algorithmic Trading](https://aglorithmicmind.medium.com/the-role-of-big-data-in-algorithmic-trading-5b89a7cd894b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
