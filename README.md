@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Marketing Mix Modeling: 7 Metrics to Use and Boost Your ROI](https://medium.com/@abhijeetstalaulikar/marketing-mix-modeling-7-metrics-to-use-and-boost-your-roi-1ba428967099?source=rss------data_science-5)
-- [New SQL Array Functions for Snowflake](https://medium.com/snowflake/new-sql-array-functions-for-snowflake-4f9e96c4345d?source=rss------data_science-5)
-- [Leaves to Neurons: Using Deep-Cross Networks for Ranking Search Results](https://medium.com/thumbtack-engineering/leaves-to-neurons-using-deep-cross-networks-for-ranking-search-results-65b711731de8?source=rss------data_science-5)
-- [Videos from the ChatGPT Hackathon](https://medium.com/dsai/videos-from-the-chatgpt-hackathon-155f447f83?source=rss------data_science-5)
-- [Untitled](https://medium.com/@ogbeborkennedy/untitled-934caf71b1ed?source=rss------data_science-5)
-- [8Week SQL Challenge: Case Study #6 — Clique Bait](https://medium.com/@adamufunmilayo/8week-sql-challenge-case-study-6-clique-bait-193295527ad9?source=rss------data_science-5)
-- [The Pandas DataFrame Agent: LangChain and GPT-4](https://pub.towardsai.net/the-pandas-dataframe-agent-langchain-and-gpt-4-809c846622d1?source=rss------data_science-5)
-- [I will create professional resume writing, data science data analytics and cover letter](https://medium.com/@clararesume133/i-will-create-professional-resume-writing-data-science-data-analytics-and-cover-letter-8bee6261a29c?source=rss------data_science-5)
-- [Alteryx Predictive Analytics prep](https://medium.com/@saikrishna2589/my-alteryx-predictive-analytics-certificaiton-prep-notes-topics-at-random-e329e79f3ec7?source=rss------data_science-5)
-- [The Role of Big Data in Algorithmic Trading](https://aglorithmicmind.medium.com/the-role-of-big-data-in-algorithmic-trading-5b89a7cd894b?source=rss------data_science-5)
+- [Horas do Mundo](https://medium.com/@mjcursodatascience/horas-do-mundo-ede74856a082?source=rss------data_science-5)
+- [Natural Language Processing for Data Analysts: An Introduction](https://medium.com/aimonks/natural-language-processing-for-data-analysts-an-introduction-b555768efdcb?source=rss------data_science-5)
+- [Visualizing and Interpreting Bike Share Data for Actionable Insights](https://medium.com/@samir.p.nandardhane/visualizing-and-interpreting-bike-share-data-for-actionable-insights-608bf68aba0d?source=rss------data_science-5)
+- [Dimensional Models are slowing you down](https://medium.com/@osborn.jon.20/dimensional-models-are-slowing-you-down-30a0fd843923?source=rss------data_science-5)
+- [Pay After Placement Data Science Courses in 2023](https://medium.com/@skillcombo/pay-after-placement-data-science-courses-in-2023-90d4c81049db?source=rss------data_science-5)
+- [A review of UT Austin online masters in data science](https://medium.com/@kartikganapathi/a-review-of-ut-austin-online-masters-in-data-science-6b161506af64?source=rss------data_science-5)
+- [Creación de un algoritmo de recomendación musical utilizando el algoritmo de clusterización KMeans…](https://lfermora.medium.com/creaci%C3%B3n-de-un-algoritmo-de-recomendaci%C3%B3n-musical-utilizando-el-algoritmo-de-clusterizaci%C3%B3n-kmeans-310c664b8358?source=rss------data_science-5)
+- [The Rise of Large Language Models part2&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/the-rise-of-large-language-models-part2-machine-learning-7eabd438bb16?source=rss------data_science-5)
+- [The Rise of Large Language Models part1&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/the-rise-of-large-language-models-part1-machine-learning-1793d3933fe?source=rss------data_science-5)
+- [I will create professional resume writing, data science data analytics and cover letter](https://medium.com/@clararesume133/i-will-create-professional-resume-writing-data-science-data-analytics-and-cover-letter-8fe317432c1e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
