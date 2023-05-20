@@ -124,7 +124,7 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
 - [10 Examples to Learn the JSON module of Python](https://towardsdatascience.com/10-examples-to-learn-the-json-module-of-python-793e62309d64?source=rss-2cf6b549448------2)
 - [3 Python Concepts That Might Be Challenging for Newcomers](https://python.plainenglish.io/3-python-concepts-that-might-be-challenging-for-newcomers-24ae762a1e3e?source=rss-2cf6b549448------2)
-- [5 Python Pandas Functions You Should Not Forget About](https://medium.com/geekculture/5-python-pandas-functions-you-should-not-forget-about-91a0acc8e718?source=rss-2cf6b549448------2)
+- [5 Python Pandas Functions You Should Not Forget About](https://sonery.medium.com/5-python-pandas-functions-you-should-not-forget-about-91a0acc8e718?source=rss-2cf6b549448------2)
 - [3 Subtle Mistakes That Can Undermine Your SQL Query Performance](https://towardsdatascience.com/3-subtle-mistakes-that-can-undermine-your-sql-query-performance-47e897688977?source=rss-2cf6b549448------2)
 - [Python Pandas to Polars: Aggregation](https://sonery.medium.com/python-pandas-to-polars-aggregation-e13c38bec5f7?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
