@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Horas do Mundo](https://medium.com/@mjcursodatascience/horas-do-mundo-ede74856a082?source=rss------data_science-5)
-- [Natural Language Processing for Data Analysts: An Introduction](https://medium.com/aimonks/natural-language-processing-for-data-analysts-an-introduction-b555768efdcb?source=rss------data_science-5)
-- [Visualizing and Interpreting Bike Share Data for Actionable Insights](https://medium.com/@samir.p.nandardhane/visualizing-and-interpreting-bike-share-data-for-actionable-insights-608bf68aba0d?source=rss------data_science-5)
-- [Dimensional Models are slowing you down](https://medium.com/@osborn.jon.20/dimensional-models-are-slowing-you-down-30a0fd843923?source=rss------data_science-5)
-- [Pay After Placement Data Science Courses in 2023](https://medium.com/@skillcombo/pay-after-placement-data-science-courses-in-2023-90d4c81049db?source=rss------data_science-5)
-- [A review of UT Austin online masters in data science](https://medium.com/@kartikganapathi/a-review-of-ut-austin-online-masters-in-data-science-6b161506af64?source=rss------data_science-5)
-- [Creación de un algoritmo de recomendación musical utilizando el algoritmo de clusterización KMeans…](https://lfermora.medium.com/creaci%C3%B3n-de-un-algoritmo-de-recomendaci%C3%B3n-musical-utilizando-el-algoritmo-de-clusterizaci%C3%B3n-kmeans-310c664b8358?source=rss------data_science-5)
-- [The Rise of Large Language Models part2&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/the-rise-of-large-language-models-part2-machine-learning-7eabd438bb16?source=rss------data_science-5)
-- [The Rise of Large Language Models part1&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/the-rise-of-large-language-models-part1-machine-learning-1793d3933fe?source=rss------data_science-5)
-- [I will create professional resume writing, data science data analytics and cover letter](https://medium.com/@clararesume133/i-will-create-professional-resume-writing-data-science-data-analytics-and-cover-letter-8fe317432c1e?source=rss------data_science-5)
+- [Intro to Timeseries Modeling with Prophet in R](https://jeffreyparks.medium.com/intro-to-timeseries-modeling-with-prophet-in-r-abc96e0edd06?source=rss------data_science-5)
+- [Deciphering Formal Language Theory and Text Processing with Regular Expressions](https://thevarunvaria.medium.com/deciphering-formal-language-theory-and-text-processing-with-regular-expressions-2aba200c0597?source=rss------data_science-5)
+- [Google anuncia a nova funcionalidade ‘Help Me Write’, a inteligência artificial que promete…](https://ealexbarros.medium.com/google-anuncia-a-nova-funcionalidade-help-me-write-a-intelig%C3%AAncia-artificial-que-promete-e68f1f494387?source=rss------data_science-5)
+- [7 Advantages and 7 Disadvantages of Artificial Intelligence](https://endasheridan.medium.com/7-advantages-and-7-disadvantages-of-artificial-intelligence-641dcf920ec7?source=rss------data_science-5)
+- [Research around Tactile Internet part5&lpar;Future Technology&rpar;](https://medium.com/@monocosmo77/research-around-tactile-internet-part5-future-technology-7c31f547035a?source=rss------data_science-5)
+- [I will create professional resume writing, data science data analytics and cover letter](https://medium.com/@clararesume133/i-will-create-professional-resume-writing-data-science-data-analytics-and-cover-letter-5df17004309f?source=rss------data_science-5)
+- [Super Simple Way to Build Bitcoin Dashboard with ChatGPT](https://medium.datadriveninvestor.com/super-simple-way-to-build-bitcoin-dashboard-with-chatgpt-c4c67f11f1d9?source=rss------data_science-5)
+- [Research around Tactile Internet part4&lpar;Future Technology&rpar;](https://medium.com/@monocosmo77/research-around-tactile-internet-part4-future-technology-3446016a895e?source=rss------data_science-5)
+- [Research around Tactile Internet part3&lpar;Future Technology&rpar;](https://medium.com/@monocosmo77/research-around-tactile-internet-part3-future-technology-92aa04e114e2?source=rss------data_science-5)
+- [Title: Unlocking Insights and Transforming Industries: The Power of Data Science](https://medium.com/@abhishek152738/title-unlocking-insights-and-transforming-industries-the-power-of-data-science-62da8049647b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
