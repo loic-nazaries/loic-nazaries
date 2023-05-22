@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Intro to Timeseries Modeling with Prophet in R](https://jeffreyparks.medium.com/intro-to-timeseries-modeling-with-prophet-in-r-abc96e0edd06?source=rss------data_science-5)
-- [Deciphering Formal Language Theory and Text Processing with Regular Expressions](https://thevarunvaria.medium.com/deciphering-formal-language-theory-and-text-processing-with-regular-expressions-2aba200c0597?source=rss------data_science-5)
-- [Google anuncia a nova funcionalidade ‘Help Me Write’, a inteligência artificial que promete…](https://ealexbarros.medium.com/google-anuncia-a-nova-funcionalidade-help-me-write-a-intelig%C3%AAncia-artificial-que-promete-e68f1f494387?source=rss------data_science-5)
-- [7 Advantages and 7 Disadvantages of Artificial Intelligence](https://endasheridan.medium.com/7-advantages-and-7-disadvantages-of-artificial-intelligence-641dcf920ec7?source=rss------data_science-5)
-- [Research around Tactile Internet part5&lpar;Future Technology&rpar;](https://medium.com/@monocosmo77/research-around-tactile-internet-part5-future-technology-7c31f547035a?source=rss------data_science-5)
-- [I will create professional resume writing, data science data analytics and cover letter](https://medium.com/@clararesume133/i-will-create-professional-resume-writing-data-science-data-analytics-and-cover-letter-5df17004309f?source=rss------data_science-5)
-- [Super Simple Way to Build Bitcoin Dashboard with ChatGPT](https://medium.datadriveninvestor.com/super-simple-way-to-build-bitcoin-dashboard-with-chatgpt-c4c67f11f1d9?source=rss------data_science-5)
-- [Research around Tactile Internet part4&lpar;Future Technology&rpar;](https://medium.com/@monocosmo77/research-around-tactile-internet-part4-future-technology-3446016a895e?source=rss------data_science-5)
-- [Research around Tactile Internet part3&lpar;Future Technology&rpar;](https://medium.com/@monocosmo77/research-around-tactile-internet-part3-future-technology-92aa04e114e2?source=rss------data_science-5)
-- [Title: Unlocking Insights and Transforming Industries: The Power of Data Science](https://medium.com/@abhishek152738/title-unlocking-insights-and-transforming-industries-the-power-of-data-science-62da8049647b?source=rss------data_science-5)
+- [Data Science Weekly Issue 20](https://datascience.thisweekin.xyz/data-science-weekly-issue-20-f1a2263b0a1c?source=rss------data_science-5)
+- [When Data Science Meets History — A Mini Project](https://medium.com/@abdnormal_35551/when-data-science-meets-history-a-mini-project-60580c978651?source=rss------data_science-5)
+- [How to List Table Sizes in MSSQL](https://medium.com/@gokhanaravi/how-to-list-table-sizes-in-mssql-36c33ca0b8c6?source=rss------data_science-5)
+- [Applying Boltzmann Machines to Time Series Forecasting — Feature Extraction](https://medium.com/@nickgardner_68929/applying-boltzmann-machines-to-time-series-forecasting-feature-extraction-233f8771689c?source=rss------data_science-5)
+- [Daniel’s review #3: 데이터 품질의 비밀](https://daniel-seo.medium.com/daniels-review-3-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%92%88%EC%A7%88%EC%9D%98-%EB%B9%84%EB%B0%80-c91b26cf715f?source=rss------data_science-5)
+- [Union Operators To dict](https://medium.com/@apps.merkurev/union-operators-to-dict-6910b6ac124b?source=rss------data_science-5)
+- [Untitled](https://medium.com/@ferluisgo/untitled-9c7932e7d61b?source=rss------data_science-5)
+- [https://euro.eseuro.com/health/235952.html](https://medium.com/@ferluisgo/https-euro-eseuro-com-health-235952-html-a3f7f6595be1?source=rss------data_science-5)
+- [https://www.elnacional.com/ciencia-tecnologia/uso-del-robot-perfecciona-el-reemplazo-de-rodillas-y-c](https://medium.com/@ferluisgo/https-www-elnacional-com-ciencia-tecnologia-uso-del-robot-perfecciona-el-reemplazo-de-rodillas-y-c-42dd8b4e6e56?source=rss------data_science-5)
+- [How to List All Indexes in a Database Using SQL](https://medium.com/@gokhanaravi/how-to-list-all-indexes-in-a-database-using-sql-1b94e69cfbc6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
