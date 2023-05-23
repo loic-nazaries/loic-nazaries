@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Science Weekly Issue 20](https://datascience.thisweekin.xyz/data-science-weekly-issue-20-f1a2263b0a1c?source=rss------data_science-5)
-- [When Data Science Meets History — A Mini Project](https://medium.com/@abdnormal_35551/when-data-science-meets-history-a-mini-project-60580c978651?source=rss------data_science-5)
-- [How to List Table Sizes in MSSQL](https://medium.com/@gokhanaravi/how-to-list-table-sizes-in-mssql-36c33ca0b8c6?source=rss------data_science-5)
-- [Applying Boltzmann Machines to Time Series Forecasting — Feature Extraction](https://medium.com/@nickgardner_68929/applying-boltzmann-machines-to-time-series-forecasting-feature-extraction-233f8771689c?source=rss------data_science-5)
-- [Daniel’s review #3: 데이터 품질의 비밀](https://daniel-seo.medium.com/daniels-review-3-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%92%88%EC%A7%88%EC%9D%98-%EB%B9%84%EB%B0%80-c91b26cf715f?source=rss------data_science-5)
-- [Union Operators To dict](https://medium.com/@apps.merkurev/union-operators-to-dict-6910b6ac124b?source=rss------data_science-5)
-- [Untitled](https://medium.com/@ferluisgo/untitled-9c7932e7d61b?source=rss------data_science-5)
-- [https://euro.eseuro.com/health/235952.html](https://medium.com/@ferluisgo/https-euro-eseuro-com-health-235952-html-a3f7f6595be1?source=rss------data_science-5)
-- [https://www.elnacional.com/ciencia-tecnologia/uso-del-robot-perfecciona-el-reemplazo-de-rodillas-y-c](https://medium.com/@ferluisgo/https-www-elnacional-com-ciencia-tecnologia-uso-del-robot-perfecciona-el-reemplazo-de-rodillas-y-c-42dd8b4e6e56?source=rss------data_science-5)
-- [How to List All Indexes in a Database Using SQL](https://medium.com/@gokhanaravi/how-to-list-all-indexes-in-a-database-using-sql-1b94e69cfbc6?source=rss------data_science-5)
+- [https://policy.medium.com/medium-privacy-policy-f03bf92035c9](https://medium.com/@bjdjd7240/https-policy-medium-com-medium-privacy-policy-f03bf92035c9-b1d545ed79ca?source=rss------data_science-5)
+- [becoming a data analust a step by step guide with visual illustrations](https://medium.com/@muhammedrafeeque436/becoming-a-data-analust-a-step-by-step-guide-with-visual-illustrations-1ef1ca3c9936?source=rss------data_science-5)
+- [Welcome BERT: Google’s latest search algorithm to better understand natural language](https://medium.com/@ks652367/welcome-bert-googles-latest-search-algorithm-to-better-understand-natural-language-67242d69a4?source=rss------data_science-5)
+- [A library in Python which helps you with hypothesis and statistical models](https://towardsdev.com/a-library-in-python-which-helps-you-with-hypothesis-and-statistical-models-7fcdf8d74758?source=rss------data_science-5)
+- [Related Incidents Calculation — Live Project Example With Pandas](https://medium.com/towards-data-engineering/related-incidents-calculation-live-project-example-with-pandas-791d54ee165e?source=rss------data_science-5)
+- [Predição de Salário usando o Tempo de Experiência &lpar;Regressão Linear Simples&rpar;](https://medium.com/@mateus.xavier/predi%C3%A7%C3%A3o-de-sal%C3%A1rio-usando-o-tempo-de-experi%C3%AAncia-regress%C3%A3o-linear-simples-2f7a45ab5c1d?source=rss------data_science-5)
+- [What are the most common parking tickets issued in New York City?](https://medium.com/@mclaughlinj.ny/what-are-the-most-common-parking-tickets-issued-in-new-york-city-cbbbb15bd6ec?source=rss------data_science-5)
+- [Performing Subtotal Calculations with ROLLUP in SQL](https://medium.com/@gokhanaravi/performing-subtotal-calculations-with-rollup-in-sql-da6839ac853a?source=rss------data_science-5)
+- [How I’d Learn Data Science If I Could Start Over](https://johnvastola.medium.com/how-id-learn-data-science-if-i-could-start-over-73101127e890?source=rss------data_science-5)
+- [I will write a professional data science, data analyst, resume and resume writing](https://medium.com/@mercymichael1111/i-will-write-a-professional-data-science-data-analyst-resume-and-resume-writing-5832068c14c2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
