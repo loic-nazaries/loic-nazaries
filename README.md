@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [https://policy.medium.com/medium-privacy-policy-f03bf92035c9](https://medium.com/@bjdjd7240/https-policy-medium-com-medium-privacy-policy-f03bf92035c9-b1d545ed79ca?source=rss------data_science-5)
-- [becoming a data analust a step by step guide with visual illustrations](https://medium.com/@muhammedrafeeque436/becoming-a-data-analust-a-step-by-step-guide-with-visual-illustrations-1ef1ca3c9936?source=rss------data_science-5)
-- [Welcome BERT: Google’s latest search algorithm to better understand natural language](https://medium.com/@ks652367/welcome-bert-googles-latest-search-algorithm-to-better-understand-natural-language-67242d69a4?source=rss------data_science-5)
-- [A library in Python which helps you with hypothesis and statistical models](https://towardsdev.com/a-library-in-python-which-helps-you-with-hypothesis-and-statistical-models-7fcdf8d74758?source=rss------data_science-5)
-- [Related Incidents Calculation — Live Project Example With Pandas](https://medium.com/towards-data-engineering/related-incidents-calculation-live-project-example-with-pandas-791d54ee165e?source=rss------data_science-5)
-- [Predição de Salário usando o Tempo de Experiência &lpar;Regressão Linear Simples&rpar;](https://medium.com/@mateus.xavier/predi%C3%A7%C3%A3o-de-sal%C3%A1rio-usando-o-tempo-de-experi%C3%AAncia-regress%C3%A3o-linear-simples-2f7a45ab5c1d?source=rss------data_science-5)
-- [What are the most common parking tickets issued in New York City?](https://medium.com/@mclaughlinj.ny/what-are-the-most-common-parking-tickets-issued-in-new-york-city-cbbbb15bd6ec?source=rss------data_science-5)
-- [Performing Subtotal Calculations with ROLLUP in SQL](https://medium.com/@gokhanaravi/performing-subtotal-calculations-with-rollup-in-sql-da6839ac853a?source=rss------data_science-5)
-- [How I’d Learn Data Science If I Could Start Over](https://johnvastola.medium.com/how-id-learn-data-science-if-i-could-start-over-73101127e890?source=rss------data_science-5)
-- [I will write a professional data science, data analyst, resume and resume writing](https://medium.com/@mercymichael1111/i-will-write-a-professional-data-science-data-analyst-resume-and-resume-writing-5832068c14c2?source=rss------data_science-5)
+- [Achieving Optimal Predictions: Unraveling the Magic of Calibrated Classifiers in Machine Learning …](https://medium.com/@chandu.bathula16/achieving-optimal-predictions-unraveling-the-magic-of-calibrated-classifiers-in-machine-learning-e278fb50a63?source=rss------data_science-5)
+- [Deploying sklearn models in Power BI](https://newmarrk.medium.com/deploying-sklearn-models-in-power-bi-d982f2d21ec?source=rss------data_science-5)
+- [Microsoft Fabric: Everything you need to know](https://medium.com/@pratapakshay096/microsoft-fabric-everything-you-need-to-know-522667ee493d?source=rss------data_science-5)
+- [Unraveling Sports Simulations, in 14Q’s with ChatGPT](https://pub.towardsai.net/unraveling-sports-simulations-in-14qs-with-chatgpt-6e0bc6c21e46?source=rss------data_science-5)
+- [LLM Series 1 — Free the LLaMA and save the planet!](https://medium.com/@jh.baek.sd/llm-series-1-free-the-llama-and-save-the-planet-ac43573362fb?source=rss------data_science-5)
+- [Desbloqueando o poder do Aprendizado Profundo](https://medium.com/@rover-solutions/desbloqueando-o-poder-do-aprendizado-profundo-dc8a8097fda1?source=rss------data_science-5)
+- [Harnessing the Power of Artificial Intelligence: Exploring its Profound Benefits](https://medium.com/@jacobcasey_88266/title-harnessing-the-power-of-artificial-intelligence-exploring-its-profound-benefits-2529befcceef?source=rss------data_science-5)
+- [Hal-hal yang diperlukan untuk menjadi ahli Data science](https://medium.com/@muh.yusuf.10120723/hal-hal-yang-diperlukan-untuk-menjadi-ahli-data-science-beebf5a55d7e?source=rss------data_science-5)
+- [“Unlocking Business Insights with SQL: A Deep Dive into the Classic Models Database”](https://medium.datadriveninvestor.com/unlocking-business-insights-with-sql-a-deep-dive-into-the-classic-models-database-5597bd9dbe4b?source=rss------data_science-5)
+- [Revealing the AI Journey: From Dream to Reality](https://medium.com/illumination/revealing-the-ai-journey-from-dream-to-reality-85ae2018cc4a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
