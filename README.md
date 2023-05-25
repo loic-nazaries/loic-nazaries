@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Achieving Optimal Predictions: Unraveling the Magic of Calibrated Classifiers in Machine Learning …](https://medium.com/@chandu.bathula16/achieving-optimal-predictions-unraveling-the-magic-of-calibrated-classifiers-in-machine-learning-e278fb50a63?source=rss------data_science-5)
-- [Deploying sklearn models in Power BI](https://newmarrk.medium.com/deploying-sklearn-models-in-power-bi-d982f2d21ec?source=rss------data_science-5)
-- [Microsoft Fabric: Everything you need to know](https://medium.com/@pratapakshay096/microsoft-fabric-everything-you-need-to-know-522667ee493d?source=rss------data_science-5)
-- [Unraveling Sports Simulations, in 14Q’s with ChatGPT](https://pub.towardsai.net/unraveling-sports-simulations-in-14qs-with-chatgpt-6e0bc6c21e46?source=rss------data_science-5)
-- [LLM Series 1 — Free the LLaMA and save the planet!](https://medium.com/@jh.baek.sd/llm-series-1-free-the-llama-and-save-the-planet-ac43573362fb?source=rss------data_science-5)
-- [Desbloqueando o poder do Aprendizado Profundo](https://medium.com/@rover-solutions/desbloqueando-o-poder-do-aprendizado-profundo-dc8a8097fda1?source=rss------data_science-5)
-- [Harnessing the Power of Artificial Intelligence: Exploring its Profound Benefits](https://medium.com/@jacobcasey_88266/title-harnessing-the-power-of-artificial-intelligence-exploring-its-profound-benefits-2529befcceef?source=rss------data_science-5)
-- [Hal-hal yang diperlukan untuk menjadi ahli Data science](https://medium.com/@muh.yusuf.10120723/hal-hal-yang-diperlukan-untuk-menjadi-ahli-data-science-beebf5a55d7e?source=rss------data_science-5)
-- [“Unlocking Business Insights with SQL: A Deep Dive into the Classic Models Database”](https://medium.datadriveninvestor.com/unlocking-business-insights-with-sql-a-deep-dive-into-the-classic-models-database-5597bd9dbe4b?source=rss------data_science-5)
-- [Revealing the AI Journey: From Dream to Reality](https://medium.com/illumination/revealing-the-ai-journey-from-dream-to-reality-85ae2018cc4a?source=rss------data_science-5)
+- [26 Python Tricks To Learn Before You Write Your Next Code](https://anmol3015.medium.com/26-python-tricks-to-learn-before-you-write-your-next-code-f7b3b195db52?source=rss------data_science-5)
+- [PyEcoLib: a python library for simulating stochastic cell size dynamics.](https://medium.com/@cavargas/pyecolib-a-python-library-for-simulating-stochastic-cell-size-dynamics-18b39ee99c90?source=rss------data_science-5)
+- [Multi-Label Classification in Python: Empowering Machine Learning with Versatility](https://medium.com/@evertongomede/multi-label-classification-in-python-empowering-machine-learning-with-versatility-9dbae34aacdb?source=rss------data_science-5)
+- [Function Overloading in Python](https://medium.com/@apps.merkurev/function-overloading-in-python-cf39fffb7029?source=rss------data_science-5)
+- [From Chaos to Consistency: Docker for Data Scientists](https://towardsdatascience.com/from-chaos-to-consistency-docker-for-data-scientists-240372adff18?source=rss------data_science-5)
+- [Concurrency in Python](https://towardsdatascience.com/concurrency-in-python-fe8b39edfba5?source=rss------data_science-5)
+- [Offline AI Magic: Implementing GPT4All Locally with Python](https://medium.com/@christophe.atten/offline-ai-magic-implementing-gpt4all-locally-with-python-b51971ce80af?source=rss------data_science-5)
+- [Do p-values and significance levels help you interpret data correctly?](https://medium.com/internetstack/do-p-values-and-significance-levels-help-you-interpret-data-correctly-f7c7ec37fd11?source=rss------data_science-5)
+- [A brief history of data](https://medium.com/@andersongimino/a-brief-history-of-data-661bc103db93?source=rss------data_science-5)
+- [Bridging Worlds: The Alchemy of Intelligent Data Joining](https://medium.datadriveninvestor.com/bridging-worlds-the-alchemy-of-intelligent-data-joining-405bb8eaa015?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
