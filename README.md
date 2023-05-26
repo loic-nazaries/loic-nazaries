@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [26 Python Tricks To Learn Before You Write Your Next Code](https://anmol3015.medium.com/26-python-tricks-to-learn-before-you-write-your-next-code-f7b3b195db52?source=rss------data_science-5)
-- [PyEcoLib: a python library for simulating stochastic cell size dynamics.](https://medium.com/@cavargas/pyecolib-a-python-library-for-simulating-stochastic-cell-size-dynamics-18b39ee99c90?source=rss------data_science-5)
-- [Multi-Label Classification in Python: Empowering Machine Learning with Versatility](https://medium.com/@evertongomede/multi-label-classification-in-python-empowering-machine-learning-with-versatility-9dbae34aacdb?source=rss------data_science-5)
-- [Function Overloading in Python](https://medium.com/@apps.merkurev/function-overloading-in-python-cf39fffb7029?source=rss------data_science-5)
-- [From Chaos to Consistency: Docker for Data Scientists](https://towardsdatascience.com/from-chaos-to-consistency-docker-for-data-scientists-240372adff18?source=rss------data_science-5)
-- [Concurrency in Python](https://towardsdatascience.com/concurrency-in-python-fe8b39edfba5?source=rss------data_science-5)
-- [Offline AI Magic: Implementing GPT4All Locally with Python](https://medium.com/@christophe.atten/offline-ai-magic-implementing-gpt4all-locally-with-python-b51971ce80af?source=rss------data_science-5)
-- [Do p-values and significance levels help you interpret data correctly?](https://medium.com/internetstack/do-p-values-and-significance-levels-help-you-interpret-data-correctly-f7c7ec37fd11?source=rss------data_science-5)
-- [A brief history of data](https://medium.com/@andersongimino/a-brief-history-of-data-661bc103db93?source=rss------data_science-5)
-- [Bridging Worlds: The Alchemy of Intelligent Data Joining](https://medium.datadriveninvestor.com/bridging-worlds-the-alchemy-of-intelligent-data-joining-405bb8eaa015?source=rss------data_science-5)
+- [How to fine tune LLM with car manual dataset to be the smart car assistant?](https://medium.com/@williamwei/how-to-fine-tune-llm-with-car-manual-dataset-to-be-the-smart-car-assistant-5d92ad1500cc?source=rss------data_science-5)
+- [These Are The Top 6 Most Difficult Concepts In Python According To GPT-4](https://levelup.gitconnected.com/these-are-the-top-6-most-difficult-concepts-in-python-according-to-gpt-4-814a4e2c0843?source=rss------data_science-5)
+- [Unleashing the Power of Categorical Relationships with Pandas in Python](https://medium.com/@smitpate08/unleashing-the-power-of-categorical-relationships-with-pandas-in-python-82fbe3917338?source=rss------data_science-5)
+- [DNA: The Molecule of Life Unveiling the Blueprint of Living Organisms in Python](https://medium.com/@evertongomede/dna-the-molecule-of-life-unveiling-the-blueprint-of-living-organisms-in-python-bd12b4823e04?source=rss------data_science-5)
+- [Looking In as a Data Scientist](https://medium.com/@simonh9963/looking-in-as-a-data-scientist-aaec4afdb12c?source=rss------data_science-5)
+- [Web Scraping with Python: A Comprehensive Guide to Extracting Faculty Data and Boosting Performance…](https://chitralpatil.medium.com/web-scraping-with-python-a-comprehensive-guide-to-extracting-faculty-data-and-boosting-performance-49bc9e2341b5?source=rss------data_science-5)
+- [Unveiling the Future of AI Development: Microsoft Build 2023 Highlights](https://medium.com/@vvkz.1818/unveiling-the-future-of-ai-development-microsoft-build-2023-highlights-f63af67a9324?source=rss------data_science-5)
+- [Miss me with your racist robots: We need language processing models that speak AAVE](https://medium.com/@morgan.h.goode/miss-me-with-your-racist-robots-we-need-language-processing-models-that-speak-aave-a6d16d7a5e42?source=rss------data_science-5)
+- [Plotly-driven Interactive Graphs: Unlocking Insights in Fermentation Research](https://medium.com/@shetty.deeksha100/plotly-driven-interactive-graphs-unlocking-insights-in-fermentation-research-1242e0b349cd?source=rss------data_science-5)
+- [Exploring Loss Functions in Machine Learning](https://mohitmishra786687.medium.com/exploring-loss-functions-in-machine-learning-3a2d63fd4211?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
