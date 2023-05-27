@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to fine tune LLM with car manual dataset to be the smart car assistant?](https://medium.com/@williamwei/how-to-fine-tune-llm-with-car-manual-dataset-to-be-the-smart-car-assistant-5d92ad1500cc?source=rss------data_science-5)
-- [These Are The Top 6 Most Difficult Concepts In Python According To GPT-4](https://levelup.gitconnected.com/these-are-the-top-6-most-difficult-concepts-in-python-according-to-gpt-4-814a4e2c0843?source=rss------data_science-5)
-- [Unleashing the Power of Categorical Relationships with Pandas in Python](https://medium.com/@smitpate08/unleashing-the-power-of-categorical-relationships-with-pandas-in-python-82fbe3917338?source=rss------data_science-5)
-- [DNA: The Molecule of Life Unveiling the Blueprint of Living Organisms in Python](https://medium.com/@evertongomede/dna-the-molecule-of-life-unveiling-the-blueprint-of-living-organisms-in-python-bd12b4823e04?source=rss------data_science-5)
-- [Looking In as a Data Scientist](https://medium.com/@simonh9963/looking-in-as-a-data-scientist-aaec4afdb12c?source=rss------data_science-5)
-- [Web Scraping with Python: A Comprehensive Guide to Extracting Faculty Data and Boosting Performance…](https://chitralpatil.medium.com/web-scraping-with-python-a-comprehensive-guide-to-extracting-faculty-data-and-boosting-performance-49bc9e2341b5?source=rss------data_science-5)
-- [Unveiling the Future of AI Development: Microsoft Build 2023 Highlights](https://medium.com/@vvkz.1818/unveiling-the-future-of-ai-development-microsoft-build-2023-highlights-f63af67a9324?source=rss------data_science-5)
-- [Miss me with your racist robots: We need language processing models that speak AAVE](https://medium.com/@morgan.h.goode/miss-me-with-your-racist-robots-we-need-language-processing-models-that-speak-aave-a6d16d7a5e42?source=rss------data_science-5)
-- [Plotly-driven Interactive Graphs: Unlocking Insights in Fermentation Research](https://medium.com/@shetty.deeksha100/plotly-driven-interactive-graphs-unlocking-insights-in-fermentation-research-1242e0b349cd?source=rss------data_science-5)
-- [Exploring Loss Functions in Machine Learning](https://mohitmishra786687.medium.com/exploring-loss-functions-in-machine-learning-3a2d63fd4211?source=rss------data_science-5)
+- [Unravelling the Impact of Noisy Data on Exploratory Data Analysis](https://shivamshuroy.medium.com/unravelling-the-impact-of-noisy-data-on-exploratory-data-analysis-70cd343be176?source=rss------data_science-5)
+- [Mastering Grouped Violin Plots with ggplot2: A Comprehensive Guide to Visualizing Multiple…](https://medium.com/@HalderNilimesh/mastering-grouped-violin-plots-with-ggplot2-a-comprehensive-guide-to-visualizing-multiple-af608a487f81?source=rss------data_science-5)
+- [Demystifying Neural Networks: A Comprehensive Guide for Data Science Students](https://medium.com/@bonilla.johneric/demystifying-neural-networks-a-comprehensive-guide-for-data-science-students-965f15ac01e7?source=rss------data_science-5)
+- [Mastering Art of Making Money](https://medium.com/@nnj59203/mastering-art-of-making-money-f7f15bfe5273?source=rss------data_science-5)
+- [Clustering: Unraveling the Fine Points of Data Clustering with Python](https://medium.com/@bonilla.johneric/clustering-unraveling-the-fine-points-of-data-clustering-with-python-a08572d4b559?source=rss------data_science-5)
+- [How to Run Apache Airflow Locally Via Docker](https://medium.com/@ansam.yousry/how-to-run-apache-airflow-locally-via-docker-f2cad645f3e5?source=rss------data_science-5)
+- [How to Extract / Parse Data from JSON Data using Google Cloud BigQuery SQL](https://andrew-young.medium.com/how-to-extract-parse-data-from-json-data-using-google-cloud-bigquery-sql-962e41ff5fa?source=rss------data_science-5)
+- [Tech Trends 2023: Exploring the Cutting-Edge Technologies Shaping Our Future”](https://medium.com/@jacobcasey_88266/tech-trends-2023-exploring-the-cutting-edge-technologies-shaping-our-future-38e31d8d2566?source=rss------data_science-5)
+- [I will create professional resume writing, data science data analytics and cover letter](https://medium.com/@clararesume133/i-will-create-professional-resume-writing-data-science-data-analytics-and-cover-letter-f6a1b92ca98f?source=rss------data_science-5)
+- [Mastering ChatGPT: Unleashing the Power of AI Conversations for Extraordinary Results](https://medium.com/@bonilla.johneric/mastering-chatgpt-unleashing-the-power-of-ai-conversations-for-extraordinary-results-79509702ea95?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
