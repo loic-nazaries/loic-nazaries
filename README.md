@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [8 ChatGPT Prompts For Frequently Done Pandas Operations](https://towardsdatascience.com/8-chatgpt-prompts-for-frequently-done-pandas-operations-e3d7d1965b2c?source=rss-2cf6b549448------2)
 - [Your Good and Bad Friend: Comments in Programming](https://sonery.medium.com/your-good-and-bad-friend-comments-in-programming-f664bf5ca1e0?source=rss-2cf6b549448------2)
 - [10 Examples to Learn the JSON module of Python](https://towardsdatascience.com/10-examples-to-learn-the-json-module-of-python-793e62309d64?source=rss-2cf6b549448------2)
 - [3 Python Concepts That Might Be Challenging for Newcomers](https://python.plainenglish.io/3-python-concepts-that-might-be-challenging-for-newcomers-24ae762a1e3e?source=rss-2cf6b549448------2)
 - [5 Python Pandas Functions You Should Not Forget About](https://sonery.medium.com/5-python-pandas-functions-you-should-not-forget-about-91a0acc8e718?source=rss-2cf6b549448------2)
-- [3 Subtle Mistakes That Can Undermine Your SQL Query Performance](https://towardsdatascience.com/3-subtle-mistakes-that-can-undermine-your-sql-query-performance-47e897688977?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
