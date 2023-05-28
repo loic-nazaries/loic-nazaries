@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Unravelling the Impact of Noisy Data on Exploratory Data Analysis](https://shivamshuroy.medium.com/unravelling-the-impact-of-noisy-data-on-exploratory-data-analysis-70cd343be176?source=rss------data_science-5)
-- [Mastering Grouped Violin Plots with ggplot2: A Comprehensive Guide to Visualizing Multiple…](https://medium.com/@HalderNilimesh/mastering-grouped-violin-plots-with-ggplot2-a-comprehensive-guide-to-visualizing-multiple-af608a487f81?source=rss------data_science-5)
-- [Demystifying Neural Networks: A Comprehensive Guide for Data Science Students](https://medium.com/@bonilla.johneric/demystifying-neural-networks-a-comprehensive-guide-for-data-science-students-965f15ac01e7?source=rss------data_science-5)
-- [Mastering Art of Making Money](https://medium.com/@nnj59203/mastering-art-of-making-money-f7f15bfe5273?source=rss------data_science-5)
-- [Clustering: Unraveling the Fine Points of Data Clustering with Python](https://medium.com/@bonilla.johneric/clustering-unraveling-the-fine-points-of-data-clustering-with-python-a08572d4b559?source=rss------data_science-5)
-- [How to Run Apache Airflow Locally Via Docker](https://medium.com/@ansam.yousry/how-to-run-apache-airflow-locally-via-docker-f2cad645f3e5?source=rss------data_science-5)
-- [How to Extract / Parse Data from JSON Data using Google Cloud BigQuery SQL](https://andrew-young.medium.com/how-to-extract-parse-data-from-json-data-using-google-cloud-bigquery-sql-962e41ff5fa?source=rss------data_science-5)
-- [Tech Trends 2023: Exploring the Cutting-Edge Technologies Shaping Our Future”](https://medium.com/@jacobcasey_88266/tech-trends-2023-exploring-the-cutting-edge-technologies-shaping-our-future-38e31d8d2566?source=rss------data_science-5)
-- [I will create professional resume writing, data science data analytics and cover letter](https://medium.com/@clararesume133/i-will-create-professional-resume-writing-data-science-data-analytics-and-cover-letter-f6a1b92ca98f?source=rss------data_science-5)
-- [Mastering ChatGPT: Unleashing the Power of AI Conversations for Extraordinary Results](https://medium.com/@bonilla.johneric/mastering-chatgpt-unleashing-the-power-of-ai-conversations-for-extraordinary-results-79509702ea95?source=rss------data_science-5)
+- [Mastering Python: 5 Tricks That Set Senior Developers Apart](https://levelup.gitconnected.com/mastering-python-5-tricks-that-set-senior-developers-apart-cd66b50690d2?source=rss------data_science-5)
+- [When AI Models Become Infomercials](https://medium.com/@ranjayd/when-ai-models-become-infomercials-1f8fe6758332?source=rss------data_science-5)
+- [Using Machine Learning to Classify Death Grips’s music from Great to Garba](https://medium.com/@alan.michael1018/using-machine-learning-to-classify-death-gripss-music-from-great-to-garba-a0b7a115bf6d?source=rss------data_science-5)
+- [Application of the Nobel-Prize-Winning Black-Scholes Option Pricing Formula in a Day Trading…](https://medium.com/the-investors-handbook/application-of-the-nobel-prize-winning-black-scholes-option-pricing-formula-in-a-day-trading-d6b348d65d1d?source=rss------data_science-5)
+- [Data Science in Biology](https://medium.com/@tjyang2005/data-science-in-biology-854cf105313f?source=rss------data_science-5)
+- [Visualizations of Embeddings](https://medium.com/archaeology-of-ai/visualizations-of-embeddings-2910580df7f4?source=rss------data_science-5)
+- [MLops with Kubeflow](https://girishkurup21.medium.com/mlops-with-kubeflow-7537d7f358ce?source=rss------data_science-5)
+- [Starbucks Offer Acceptance Forecast Model With AWS](https://medium.com/@guilherme-lawrence/starbucks-offer-acceptance-forecast-model-with-aws-7bf0c7a67963?source=rss------data_science-5)
+- [Understand Healthcare Ecosystem for healthcare information processing](https://medium.com/@yashyad2812/understand-healthcare-ecosystem-for-healthcare-information-processing-405cae214716?source=rss------data_science-5)
+- [Embrace Your Inner Techie: Unleashing the Power of Tech Skills](https://medium.com/@ogunleyesamuel90/embrace-your-inner-techie-unleashing-the-power-of-tech-skills-2c24f65e4569?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
