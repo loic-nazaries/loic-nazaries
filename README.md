@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Mastering Python: 5 Tricks That Set Senior Developers Apart](https://levelup.gitconnected.com/mastering-python-5-tricks-that-set-senior-developers-apart-cd66b50690d2?source=rss------data_science-5)
-- [When AI Models Become Infomercials](https://medium.com/@ranjayd/when-ai-models-become-infomercials-1f8fe6758332?source=rss------data_science-5)
-- [Using Machine Learning to Classify Death Grips’s music from Great to Garba](https://medium.com/@alan.michael1018/using-machine-learning-to-classify-death-gripss-music-from-great-to-garba-a0b7a115bf6d?source=rss------data_science-5)
-- [Application of the Nobel-Prize-Winning Black-Scholes Option Pricing Formula in a Day Trading…](https://medium.com/the-investors-handbook/application-of-the-nobel-prize-winning-black-scholes-option-pricing-formula-in-a-day-trading-d6b348d65d1d?source=rss------data_science-5)
-- [Data Science in Biology](https://medium.com/@tjyang2005/data-science-in-biology-854cf105313f?source=rss------data_science-5)
-- [Visualizations of Embeddings](https://medium.com/archaeology-of-ai/visualizations-of-embeddings-2910580df7f4?source=rss------data_science-5)
-- [MLops with Kubeflow](https://girishkurup21.medium.com/mlops-with-kubeflow-7537d7f358ce?source=rss------data_science-5)
-- [Starbucks Offer Acceptance Forecast Model With AWS](https://medium.com/@guilherme-lawrence/starbucks-offer-acceptance-forecast-model-with-aws-7bf0c7a67963?source=rss------data_science-5)
-- [Understand Healthcare Ecosystem for healthcare information processing](https://medium.com/@yashyad2812/understand-healthcare-ecosystem-for-healthcare-information-processing-405cae214716?source=rss------data_science-5)
-- [Embrace Your Inner Techie: Unleashing the Power of Tech Skills](https://medium.com/@ogunleyesamuel90/embrace-your-inner-techie-unleashing-the-power-of-tech-skills-2c24f65e4569?source=rss------data_science-5)
+- [Day 3 of 100 Days of Python Coding Challenge.](https://medium.com/@mahatokhushilal2019/day-2-of-100-days-of-python-coding-challenge-b019480caba3?source=rss------data_science-5)
+- [Supercharge Your Productivity with 8 OpenAI’s ChatGPT Plugins](https://medium.com/geekculture/supercharge-your-productivity-with-8-openais-chatgpt-plugins-llm-bard-artificial-intelligence-236fa64ff549?source=rss------data_science-5)
+- [Hipotez Testleri | Ki-Kare: Homojenlik](https://medium.com/@gokcegok_/ki-kare-testi-homojenlik-5db0861dbe56?source=rss------data_science-5)
+- [5 COMANDOS BÁSICOS PARA INICIAR NO PANDAS](https://medium.com/@lg0702/5-comandos-b%C3%A1sicos-para-iniciar-no-pandas-667113fbcca1?source=rss------data_science-5)
+- [Day 2 of 100 Days of Python Coding Challenge.](https://medium.com/@mahatokhushilal2019/day-2-of-100-days-of-python-coding-challenge-ce2301cadb1b?source=rss------data_science-5)
+- [Poisson Distribution — An introduction](https://medium.com/@fernandao.lacerda.dantas/poisson-distribution-an-introduction-4430f456d02a?source=rss------data_science-5)
+- [100 days of Python Coding challenge.](https://medium.com/@mahatokhushilal2019/30-days-of-python-coding-challenge-4124e8ae89d4?source=rss------data_science-5)
+- [AI won’t kill the programmer — it will only shift the industry](https://medium.com/@PurpleGreenLemon/ai-wont-kill-the-programmer-it-will-only-shift-the-industry-1b9626f72d7f?source=rss------data_science-5)
+- [How I Move Web App Data to Splunk using HEC Tokens](https://infosecwriteups.com/how-i-move-web-app-data-to-splunk-using-hec-tokens-ec371a298e58?source=rss------data_science-5)
+- [Hipotez Testleri | Ki-Kare: Bağımsızlık](https://medium.com/@gokcegok_/hipotez-testleri-ki-kare-ba%C4%9F%C4%B1ms%C4%B1zl%C4%B1k-testi-a5c4c3ee58f4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
