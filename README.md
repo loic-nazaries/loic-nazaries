@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Day 3 of 100 Days of Python Coding Challenge.](https://medium.com/@mahatokhushilal2019/day-2-of-100-days-of-python-coding-challenge-b019480caba3?source=rss------data_science-5)
-- [Supercharge Your Productivity with 8 OpenAI’s ChatGPT Plugins](https://medium.com/geekculture/supercharge-your-productivity-with-8-openais-chatgpt-plugins-llm-bard-artificial-intelligence-236fa64ff549?source=rss------data_science-5)
-- [Hipotez Testleri | Ki-Kare: Homojenlik](https://medium.com/@gokcegok_/ki-kare-testi-homojenlik-5db0861dbe56?source=rss------data_science-5)
-- [5 COMANDOS BÁSICOS PARA INICIAR NO PANDAS](https://medium.com/@lg0702/5-comandos-b%C3%A1sicos-para-iniciar-no-pandas-667113fbcca1?source=rss------data_science-5)
-- [Day 2 of 100 Days of Python Coding Challenge.](https://medium.com/@mahatokhushilal2019/day-2-of-100-days-of-python-coding-challenge-ce2301cadb1b?source=rss------data_science-5)
-- [Poisson Distribution — An introduction](https://medium.com/@fernandao.lacerda.dantas/poisson-distribution-an-introduction-4430f456d02a?source=rss------data_science-5)
-- [100 days of Python Coding challenge.](https://medium.com/@mahatokhushilal2019/30-days-of-python-coding-challenge-4124e8ae89d4?source=rss------data_science-5)
-- [AI won’t kill the programmer — it will only shift the industry](https://medium.com/@PurpleGreenLemon/ai-wont-kill-the-programmer-it-will-only-shift-the-industry-1b9626f72d7f?source=rss------data_science-5)
-- [How I Move Web App Data to Splunk using HEC Tokens](https://infosecwriteups.com/how-i-move-web-app-data-to-splunk-using-hec-tokens-ec371a298e58?source=rss------data_science-5)
-- [Hipotez Testleri | Ki-Kare: Bağımsızlık](https://medium.com/@gokcegok_/hipotez-testleri-ki-kare-ba%C4%9F%C4%B1ms%C4%B1zl%C4%B1k-testi-a5c4c3ee58f4?source=rss------data_science-5)
+- [Klasifikasi Bunga Iris](https://medium.com/@aldwinfalahhasanmarsandy/pendahuluan-446d78e1e1e?source=rss------data_science-5)
+- [Logistic Regression: An Introduction](https://medium.com/@vincefav/logistic-regression-an-introduction-141c1f627adf?source=rss------data_science-5)
+- [Know Everything About Airflow FileSensor](https://medium.com/@ansam.yousry/know-everything-about-airflow-filesensor-52a7a6ed792a?source=rss------data_science-5)
+- [Using the Levenberg–Marquardt algorithm to fit multi-component fluorescence lifetime decay data](https://medium.com/@mattchiriboga1/using-the-levenberg-marquardt-algorithm-to-fit-multi-component-fluorescence-lifetime-decay-data-2ce06152fbf6?source=rss------data_science-5)
+- [Breaking the News Now: Microsoft Fabric — the one-stop solution that businesses have been waiting…](https://medium.com/@jinnatulmumu1479/breaking-the-news-now-microsoft-fabric-the-one-stop-solution-that-businesses-have-been-waiting-e31351d55369?source=rss------data_science-5)
+- [Mastering Model Building: A Step-by-Step Guide for Data Scientists](https://medium.com/@jscvcds/mastering-model-building-a-step-by-step-guide-for-data-scientists-c3d07c287a96?source=rss------data_science-5)
+- [Demystifying RuleFit: Unleashing the Power of Interpretable Machine Learning](https://medium.com/@HalderNilimesh/demystifying-rulefit-unleashing-the-power-of-interpretable-machine-learning-8234e89b78e4?source=rss------data_science-5)
+- [Mastering Data Preprocessing and Cleaning: A Step-by-Step Guide for Data Scientists](https://medium.com/@jscvcds/mastering-data-preprocessing-and-cleaning-a-step-by-step-guide-for-data-scientists-59711e29d2c0?source=rss------data_science-5)
+- [A Step-by-Step Guide to the Data Science Process: Unleashing Insights from Data](https://medium.com/@jscvcds/a-step-by-step-guide-to-the-data-science-process-unleashing-insights-from-data-1a0a8563ed60?source=rss------data_science-5)
+- [Data Science and Soccer](https://medium.com/@tjyang2005/data-science-and-soccer-a6b7d3445ae4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
