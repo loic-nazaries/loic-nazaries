@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [20 Examples to Master Merging DataFrames in Python Pandas](https://towardsdatascience.com/20-examples-to-master-merging-dataframes-in-python-pandas-22ffcd6059d1?source=rss-2cf6b549448------2)
+- [Do Not Use ChatGPT Only to “Summarize Text”](https://towardsdatascience.com/do-not-use-chatgpt-only-to-summarize-text-bd2001db8ce7?source=rss-2cf6b549448------2)
 - [Supercharge Your Spreadsheets with ChatGPT](https://towardsdatascience.com/supercharge-your-spreadsheets-with-chatgpt-4f49f7faf676?source=rss-2cf6b549448------2)
 - [Using ChatGPT to Translate R Code to Python](https://towardsdatascience.com/using-chatgpt-to-translate-r-code-to-python-effed461037e?source=rss-2cf6b549448------2)
 - [8 ChatGPT Prompts For Frequently Done Pandas Operations](https://towardsdatascience.com/8-chatgpt-prompts-for-frequently-done-pandas-operations-e3d7d1965b2c?source=rss-2cf6b549448------2)
-- [Your Good and Bad Friend: Comments in Programming](https://sonery.medium.com/your-good-and-bad-friend-comments-in-programming-f664bf5ca1e0?source=rss-2cf6b549448------2)
-- [10 Examples to Learn the JSON module of Python](https://towardsdatascience.com/10-examples-to-learn-the-json-module-of-python-793e62309d64?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
