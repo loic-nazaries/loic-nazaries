@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Klasifikasi Bunga Iris](https://medium.com/@aldwinfalahhasanmarsandy/pendahuluan-446d78e1e1e?source=rss------data_science-5)
-- [Logistic Regression: An Introduction](https://medium.com/@vincefav/logistic-regression-an-introduction-141c1f627adf?source=rss------data_science-5)
-- [Know Everything About Airflow FileSensor](https://medium.com/@ansam.yousry/know-everything-about-airflow-filesensor-52a7a6ed792a?source=rss------data_science-5)
-- [Using the Levenberg–Marquardt algorithm to fit multi-component fluorescence lifetime decay data](https://medium.com/@mattchiriboga1/using-the-levenberg-marquardt-algorithm-to-fit-multi-component-fluorescence-lifetime-decay-data-2ce06152fbf6?source=rss------data_science-5)
-- [Breaking the News Now: Microsoft Fabric — the one-stop solution that businesses have been waiting…](https://medium.com/@jinnatulmumu1479/breaking-the-news-now-microsoft-fabric-the-one-stop-solution-that-businesses-have-been-waiting-e31351d55369?source=rss------data_science-5)
-- [Mastering Model Building: A Step-by-Step Guide for Data Scientists](https://medium.com/@jscvcds/mastering-model-building-a-step-by-step-guide-for-data-scientists-c3d07c287a96?source=rss------data_science-5)
-- [Demystifying RuleFit: Unleashing the Power of Interpretable Machine Learning](https://medium.com/@HalderNilimesh/demystifying-rulefit-unleashing-the-power-of-interpretable-machine-learning-8234e89b78e4?source=rss------data_science-5)
-- [Mastering Data Preprocessing and Cleaning: A Step-by-Step Guide for Data Scientists](https://medium.com/@jscvcds/mastering-data-preprocessing-and-cleaning-a-step-by-step-guide-for-data-scientists-59711e29d2c0?source=rss------data_science-5)
-- [A Step-by-Step Guide to the Data Science Process: Unleashing Insights from Data](https://medium.com/@jscvcds/a-step-by-step-guide-to-the-data-science-process-unleashing-insights-from-data-1a0a8563ed60?source=rss------data_science-5)
-- [Data Science and Soccer](https://medium.com/@tjyang2005/data-science-and-soccer-a6b7d3445ae4?source=rss------data_science-5)
+- [The ways ChatGPT made me fell in DEEP LOVE with it](https://medium.com/@mick.sin/the-ways-chatgpt-made-me-fell-in-deep-love-with-it-6f2a328a6c3e?source=rss------data_science-5)
+- [Harnessing the Power of Dropout Layers: Effective Regularization for Multilayer Perceptrons &lpar;MLP&rpar;](https://ashutoshkriiest.medium.com/harnessing-the-power-of-dropout-layers-effective-regularization-for-multilayer-perceptrons-mlp-e5ae4e2adbda?source=rss------data_science-5)
+- [Unlocking the Power of Hypothesis Testing: Formulas and Widely Used Tests](https://medium.com/@jyotsnay24/unlocking-the-power-of-hypothesis-testing-formulas-and-widely-used-tests-109d5631ba57?source=rss------data_science-5)
+- [Traffic Sign Recognition Using Convolutional Neural Network](https://medium.com/@hpasam95/traffic-sign-recognition-using-convolutional-neural-network-cc02bca24238?source=rss------data_science-5)
+- [Harnessing the Power of Transformers and GPT-4: Predicting Stock Prices with Machine Learning](https://medium.com/@simon.villani/harnessing-the-power-of-transformers-and-gpt-4-predicting-stock-prices-with-machine-learning-b067fd3f596?source=rss------data_science-5)
+- [Análise Exploratória — ENEM 2022 {Parte 1}](https://medium.com/@mateus.xavier/an%C3%A1lise-explorat%C3%B3ria-enem-2022-parte-1-5ad338516c4f?source=rss------data_science-5)
+- [Simplest way to get a Stratified Sample](https://medium.com/@ihascional/simplest-way-to-get-a-stratified-sample-ee1f135156f5?source=rss------data_science-5)
+- [Python Libraries for Data Science](https://medium.com/@Divithraju/python-libraries-for-data-science-f0b9e7059c5b?source=rss------data_science-5)
+- [How I Passed my AWS Cloud Practitioner Exam &lpar;May 2023&rpar;](https://medium.com/@jchen001/how-i-passed-my-aws-cloud-practitioner-exam-may-2023-bfd9a0252121?source=rss------data_science-5)
+- [OMEGA NETWORK](https://medium.com/@adewumiayomide097/omega-network-48d962a383ad?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
