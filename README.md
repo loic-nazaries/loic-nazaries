@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The ways ChatGPT made me fell in DEEP LOVE with it](https://medium.com/@mick.sin/the-ways-chatgpt-made-me-fell-in-deep-love-with-it-6f2a328a6c3e?source=rss------data_science-5)
-- [Harnessing the Power of Dropout Layers: Effective Regularization for Multilayer Perceptrons &lpar;MLP&rpar;](https://ashutoshkriiest.medium.com/harnessing-the-power-of-dropout-layers-effective-regularization-for-multilayer-perceptrons-mlp-e5ae4e2adbda?source=rss------data_science-5)
-- [Unlocking the Power of Hypothesis Testing: Formulas and Widely Used Tests](https://medium.com/@jyotsnay24/unlocking-the-power-of-hypothesis-testing-formulas-and-widely-used-tests-109d5631ba57?source=rss------data_science-5)
-- [Traffic Sign Recognition Using Convolutional Neural Network](https://medium.com/@hpasam95/traffic-sign-recognition-using-convolutional-neural-network-cc02bca24238?source=rss------data_science-5)
-- [Harnessing the Power of Transformers and GPT-4: Predicting Stock Prices with Machine Learning](https://medium.com/@simon.villani/harnessing-the-power-of-transformers-and-gpt-4-predicting-stock-prices-with-machine-learning-b067fd3f596?source=rss------data_science-5)
-- [Análise Exploratória — ENEM 2022 {Parte 1}](https://medium.com/@mateus.xavier/an%C3%A1lise-explorat%C3%B3ria-enem-2022-parte-1-5ad338516c4f?source=rss------data_science-5)
-- [Simplest way to get a Stratified Sample](https://medium.com/@ihascional/simplest-way-to-get-a-stratified-sample-ee1f135156f5?source=rss------data_science-5)
-- [Python Libraries for Data Science](https://medium.com/@Divithraju/python-libraries-for-data-science-f0b9e7059c5b?source=rss------data_science-5)
-- [How I Passed my AWS Cloud Practitioner Exam &lpar;May 2023&rpar;](https://medium.com/@jchen001/how-i-passed-my-aws-cloud-practitioner-exam-may-2023-bfd9a0252121?source=rss------data_science-5)
-- [OMEGA NETWORK](https://medium.com/@adewumiayomide097/omega-network-48d962a383ad?source=rss------data_science-5)
+- [Multi-Label Classification for Machine Learning: Expanding the Horizon of Predictive Modeling](https://medium.com/@evertongomede/multi-label-classification-for-machine-learning-expanding-the-horizon-of-predictive-modeling-1298051d1f76?source=rss------data_science-5)
+- [Meet Apache SeaTunnel, a new Apache Top-Level Project!](https://apache-seatunnel.medium.com/meet-apache-seatunnel-a-new-apache-top-level-project-7d5dfb72412?source=rss------data_science-5)
+- [THE APACHE SOFTWARE FOUNDATION ANNOUNCES NEW TOP-LEVEL PROJECT APACHE® SEATUNNEL](https://apache-seatunnel.medium.com/the-apache-software-foundation-announces-new-top-level-project-apache-seatunnel-60d45b127092?source=rss------data_science-5)
+- [Unlocking the Power of Public APIs](https://johnvastola.medium.com/unlocking-the-power-of-public-apis-2468c7655cba?source=rss------data_science-5)
+- [Building a Backtesting System in Python with Object-Oriented Programming](https://aglorithmicmind.medium.com/building-a-backtesting-system-in-python-with-object-oriented-programming-2ae6677f90fe?source=rss------data_science-5)
+- [Exploring Numeric Datasets: Three Approaches for Descriptive Analysis](https://medium.com/@ihascional/exploring-numeric-datasets-three-approaches-for-descriptive-analysis-bdf0fd2dcb95?source=rss------data_science-5)
+- [Mastering Regular Expressions in Python: A Comprehensive Guide](https://jhhemal.medium.com/mastering-regular-expressions-in-python-a-comprehensive-guide-57a6ee15e717?source=rss------data_science-5)
+- [Leveraging Data Science to Create the Richest Historical Timelines](https://histolines.medium.com/leveraging-data-science-to-create-the-richest-historical-timelines-ee91b59053ce?source=rss------data_science-5)
+- [Regularization: Enhancing Generalization in Mathematical Models](https://medium.com/@evertongomede/regularization-enhancing-generalization-in-mathematical-models-249b22fdc7d4?source=rss------data_science-5)
+- [Using Goodreads and Octoparse to Create a Dataset](https://medium.com/@datachisme/using-goodreads-and-octoparse-to-create-a-dataset-3dbc93af492a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
