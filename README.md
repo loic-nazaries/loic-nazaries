@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Multi-Label Classification for Machine Learning: Expanding the Horizon of Predictive Modeling](https://medium.com/@evertongomede/multi-label-classification-for-machine-learning-expanding-the-horizon-of-predictive-modeling-1298051d1f76?source=rss------data_science-5)
-- [Meet Apache SeaTunnel, a new Apache Top-Level Project!](https://apache-seatunnel.medium.com/meet-apache-seatunnel-a-new-apache-top-level-project-7d5dfb72412?source=rss------data_science-5)
-- [THE APACHE SOFTWARE FOUNDATION ANNOUNCES NEW TOP-LEVEL PROJECT APACHE® SEATUNNEL](https://apache-seatunnel.medium.com/the-apache-software-foundation-announces-new-top-level-project-apache-seatunnel-60d45b127092?source=rss------data_science-5)
-- [Unlocking the Power of Public APIs](https://johnvastola.medium.com/unlocking-the-power-of-public-apis-2468c7655cba?source=rss------data_science-5)
-- [Building a Backtesting System in Python with Object-Oriented Programming](https://aglorithmicmind.medium.com/building-a-backtesting-system-in-python-with-object-oriented-programming-2ae6677f90fe?source=rss------data_science-5)
-- [Exploring Numeric Datasets: Three Approaches for Descriptive Analysis](https://medium.com/@ihascional/exploring-numeric-datasets-three-approaches-for-descriptive-analysis-bdf0fd2dcb95?source=rss------data_science-5)
-- [Mastering Regular Expressions in Python: A Comprehensive Guide](https://jhhemal.medium.com/mastering-regular-expressions-in-python-a-comprehensive-guide-57a6ee15e717?source=rss------data_science-5)
-- [Leveraging Data Science to Create the Richest Historical Timelines](https://histolines.medium.com/leveraging-data-science-to-create-the-richest-historical-timelines-ee91b59053ce?source=rss------data_science-5)
-- [Regularization: Enhancing Generalization in Mathematical Models](https://medium.com/@evertongomede/regularization-enhancing-generalization-in-mathematical-models-249b22fdc7d4?source=rss------data_science-5)
-- [Using Goodreads and Octoparse to Create a Dataset](https://medium.com/@datachisme/using-goodreads-and-octoparse-to-create-a-dataset-3dbc93af492a?source=rss------data_science-5)
+- [Worldwide COVID-19 Vaccination Tracker: Unravelling Progress and Disparities](https://medium.com/@v.chawin/worldwide-covid-19-vaccination-tracker-unravelling-progress-and-disparities-3dc9aab43ce5?source=rss------data_science-5)
+- [Building a Shot Chart Dataset for the entire 2022 WNBA Season — Part 2](https://medium.com/@pasdan/building-a-shot-chart-dataset-for-the-entire-2022-wnba-season-part-2-64cdbf943c37?source=rss------data_science-5)
+- [Modelo para prever preços futuros de fechamento do BTC-USD](https://medium.com/@fabiosantos77738/modelo-para-prever-pre%C3%A7os-futuros-de-fechamento-do-btc-usd-677d6698985e?source=rss------data_science-5)
+- [Advanced Techniques for Logistic Regression and Classification — Part 2](https://medium.com/@vincefav/advanced-techniques-for-logistic-regression-and-classification-part-2-daaa968d54c?source=rss------data_science-5)
+- [Why You Are Learning Data Science Wrong — &amp; How To Change Your Learning Habits](https://medium.com/@ashleyha/why-you-are-learning-data-science-wrong-how-to-change-your-learning-habits-ea7df609ce35?source=rss------data_science-5)
+- [SaMD? We need AaMD! The Algorithm as A Medical Device](https://pub.towardsai.net/samd-we-need-aamd-the-algorithm-as-a-medical-device-8252a064254c?source=rss------data_science-5)
+- [Improving Universal Studios Hollywood Revenue Streams](https://medium.com/@edward.ang14/improving-universal-studios-hollywood-revenue-streams-a023a4a15fa7?source=rss------data_science-5)
+- [Unlocking the Power of Social Media Listening: Why It’s Essential for Business Success in Today’s…](https://medium.com/@businesswriting1012/unlocking-the-power-of-social-media-listening-why-its-essential-for-business-success-in-today-s-238ff0ec97c5?source=rss------data_science-5)
+- [Enhancing Accessibility: Developing Translated Views in Multilingual Power BI Reports](https://medium.com/geekculture/enhancing-accessibility-developing-translated-views-in-multilingual-power-bi-reports-5ca20d41217a?source=rss------data_science-5)
+- [Basic facts about Cybersecurity and Data Privacy](https://medium.com/@informationscientist23/https-link-medium-com-sbhxjarqhabguarding-d645e53ecd16?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
