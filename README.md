@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Worldwide COVID-19 Vaccination Tracker: Unravelling Progress and Disparities](https://medium.com/@v.chawin/worldwide-covid-19-vaccination-tracker-unravelling-progress-and-disparities-3dc9aab43ce5?source=rss------data_science-5)
-- [Building a Shot Chart Dataset for the entire 2022 WNBA Season — Part 2](https://medium.com/@pasdan/building-a-shot-chart-dataset-for-the-entire-2022-wnba-season-part-2-64cdbf943c37?source=rss------data_science-5)
-- [Modelo para prever preços futuros de fechamento do BTC-USD](https://medium.com/@fabiosantos77738/modelo-para-prever-pre%C3%A7os-futuros-de-fechamento-do-btc-usd-677d6698985e?source=rss------data_science-5)
-- [Advanced Techniques for Logistic Regression and Classification — Part 2](https://medium.com/@vincefav/advanced-techniques-for-logistic-regression-and-classification-part-2-daaa968d54c?source=rss------data_science-5)
-- [Why You Are Learning Data Science Wrong — &amp; How To Change Your Learning Habits](https://medium.com/@ashleyha/why-you-are-learning-data-science-wrong-how-to-change-your-learning-habits-ea7df609ce35?source=rss------data_science-5)
-- [SaMD? We need AaMD! The Algorithm as A Medical Device](https://pub.towardsai.net/samd-we-need-aamd-the-algorithm-as-a-medical-device-8252a064254c?source=rss------data_science-5)
-- [Improving Universal Studios Hollywood Revenue Streams](https://medium.com/@edward.ang14/improving-universal-studios-hollywood-revenue-streams-a023a4a15fa7?source=rss------data_science-5)
-- [Unlocking the Power of Social Media Listening: Why It’s Essential for Business Success in Today’s…](https://medium.com/@businesswriting1012/unlocking-the-power-of-social-media-listening-why-its-essential-for-business-success-in-today-s-238ff0ec97c5?source=rss------data_science-5)
-- [Enhancing Accessibility: Developing Translated Views in Multilingual Power BI Reports](https://medium.com/geekculture/enhancing-accessibility-developing-translated-views-in-multilingual-power-bi-reports-5ca20d41217a?source=rss------data_science-5)
-- [Basic facts about Cybersecurity and Data Privacy](https://medium.com/@informationscientist23/https-link-medium-com-sbhxjarqhabguarding-d645e53ecd16?source=rss------data_science-5)
+- [Leveraging Data Science in the Biopharmaceutical Industry Using Python](https://medium.com/@sanilrod20/leveraging-data-science-in-the-biopharmaceutical-industry-using-python-badc323c7b5b?source=rss------data_science-5)
+- [Web3 Game Data: Land Flipping on The Sandbox](https://medium.com/@jkim_tran/web3-game-data-land-flipping-on-the-sandbox-cdd305b8ff7f?source=rss------data_science-5)
+- [Using Health Data From My iPhone to Become a Data Scientist &amp; Get Fit](https://medium.com/@jtjohn172/using-health-data-from-my-iphone-to-become-a-data-scientist-get-fit-55224a191769?source=rss------data_science-5)
+- [New Horizons](https://farhanmallick.medium.com/new-horizons-75495580c9c2?source=rss------data_science-5)
+- [A Gentle Introduction to Optimizing Gradient Descent](https://mohitmishra786687.medium.com/a-gentle-introduction-to-optimizing-gradient-descent-93670305826c?source=rss------data_science-5)
+- [El problema del área y la tangente del cálculo](https://medium.com/@jarquinlogan.com/el-problema-del-%C3%A1rea-y-la-tangente-del-c%C3%A1lculo-ca7293a83c59?source=rss------data_science-5)
+- [What AI Can’t Do: The Limitations of Artificial Intelligence](https://medium.com/@erikewisdom/what-ai-cant-do-the-limitations-of-artificial-intelligence-afcccd127dfb?source=rss------data_science-5)
+- [In-Depth Types of Error in Python with Examples](https://pub.towardsai.net/in-depth-types-of-error-in-python-with-examples-53047b6f3776?source=rss------data_science-5)
+- [Problema del área, Tangente del
+Cálculo, aplicaciones de Ciencia de Datos alrededor del Cálculo…](https://medium.com/@cristianvarmez/problema-del-%C3%A1rea-tangente-del-c%C3%A1lculo-aplicaciones-de-ciencia-de-datos-alrededor-del-c%C3%A1lculo-e0be30259e01?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
