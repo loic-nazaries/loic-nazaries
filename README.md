@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Leveraging Data Science in the Biopharmaceutical Industry Using Python](https://medium.com/@sanilrod20/leveraging-data-science-in-the-biopharmaceutical-industry-using-python-badc323c7b5b?source=rss------data_science-5)
-- [Web3 Game Data: Land Flipping on The Sandbox](https://medium.com/@jkim_tran/web3-game-data-land-flipping-on-the-sandbox-cdd305b8ff7f?source=rss------data_science-5)
-- [Using Health Data From My iPhone to Become a Data Scientist &amp; Get Fit](https://medium.com/@jtjohn172/using-health-data-from-my-iphone-to-become-a-data-scientist-get-fit-55224a191769?source=rss------data_science-5)
-- [New Horizons](https://farhanmallick.medium.com/new-horizons-75495580c9c2?source=rss------data_science-5)
-- [A Gentle Introduction to Optimizing Gradient Descent](https://mohitmishra786687.medium.com/a-gentle-introduction-to-optimizing-gradient-descent-93670305826c?source=rss------data_science-5)
-- [El problema del área y la tangente del cálculo](https://medium.com/@jarquinlogan.com/el-problema-del-%C3%A1rea-y-la-tangente-del-c%C3%A1lculo-ca7293a83c59?source=rss------data_science-5)
-- [What AI Can’t Do: The Limitations of Artificial Intelligence](https://medium.com/@erikewisdom/what-ai-cant-do-the-limitations-of-artificial-intelligence-afcccd127dfb?source=rss------data_science-5)
-- [In-Depth Types of Error in Python with Examples](https://pub.towardsai.net/in-depth-types-of-error-in-python-with-examples-53047b6f3776?source=rss------data_science-5)
-- [Problema del área, Tangente del
-Cálculo, aplicaciones de Ciencia de Datos alrededor del Cálculo…](https://medium.com/@cristianvarmez/problema-del-%C3%A1rea-tangente-del-c%C3%A1lculo-aplicaciones-de-ciencia-de-datos-alrededor-del-c%C3%A1lculo-e0be30259e01?source=rss------data_science-5)
+- [The Lifecycle of a Model: From Birth to Transformation](https://aaweg-i.medium.com/the-lifecycle-of-a-model-from-birth-to-transformation-cbeca5be6185?source=rss------data_science-5)
+- [What is Business Intelligence: Why Your Business Could Be Missing Out](https://medium.com/aimonks/what-is-business-intelligence-why-your-business-could-be-missing-out-2952283f53b4?source=rss------data_science-5)
+- [I Asked ChatGPT Who Are the Top 10 Data Scientist in The world](https://medium.datadriveninvestor.com/i-asked-chatgpt-who-are-the-top-10-data-scientist-in-the-world-b931372c5acc?source=rss------data_science-5)
+- [PySpark: Empowering Big Data Analytics with Speed, Scalability, and Efficiency](https://medium.datadriveninvestor.com/pyspark-empowering-big-data-analytics-with-speed-scalability-and-efficiency-ed719b4efc67?source=rss------data_science-5)
+- [What is Project CETI](https://medium.com/@ch281674/what-is-project-ceti-f7af7869ccfb?source=rss------data_science-5)
+- [Using Large Language Models to Build and Deploy a Biomedical Chatbot](https://pub.towardsai.net/using-large-language-models-to-build-a-biomedical-chatbot-and-deploying-it-af7818a0ab7f?source=rss------data_science-5)
+- [This Is The Fastest Way to Export CSVs in Python with Benchmark Comparison](https://medium.com/data-engineer-things/this-is-the-fastest-way-to-export-csvs-in-python-benchmark-comparison-8ff628bdc637?source=rss------data_science-5)
+- [8 Unexplored Machine Learning Ideas For Your Next Project !](https://medium.com/@asbarbude/8-unexplored-machine-learning-ideas-for-your-next-project-5dffea5573f2?source=rss------data_science-5)
+- [Get Power BI Premium Per User, Microsoft 365 and  Microsoft Fabric for free](https://medium.com/@ladparth/get-power-bi-premium-per-user-microsoft-365-and-microsoft-fabric-for-free-c961135bd889?source=rss------data_science-5)
+- [Full-Text Search vs. Semantic Search: Unveiling the Depths of Information Retrieval](https://medium.com/@evertongomede/full-text-search-vs-semantic-search-unveiling-the-depths-of-information-retrieval-419853c71bac?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
