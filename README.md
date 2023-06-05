@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Lifecycle of a Model: From Birth to Transformation](https://aaweg-i.medium.com/the-lifecycle-of-a-model-from-birth-to-transformation-cbeca5be6185?source=rss------data_science-5)
-- [What is Business Intelligence: Why Your Business Could Be Missing Out](https://medium.com/aimonks/what-is-business-intelligence-why-your-business-could-be-missing-out-2952283f53b4?source=rss------data_science-5)
-- [I Asked ChatGPT Who Are the Top 10 Data Scientist in The world](https://medium.datadriveninvestor.com/i-asked-chatgpt-who-are-the-top-10-data-scientist-in-the-world-b931372c5acc?source=rss------data_science-5)
-- [PySpark: Empowering Big Data Analytics with Speed, Scalability, and Efficiency](https://medium.datadriveninvestor.com/pyspark-empowering-big-data-analytics-with-speed-scalability-and-efficiency-ed719b4efc67?source=rss------data_science-5)
-- [What is Project CETI](https://medium.com/@ch281674/what-is-project-ceti-f7af7869ccfb?source=rss------data_science-5)
-- [Using Large Language Models to Build and Deploy a Biomedical Chatbot](https://pub.towardsai.net/using-large-language-models-to-build-a-biomedical-chatbot-and-deploying-it-af7818a0ab7f?source=rss------data_science-5)
-- [This Is The Fastest Way to Export CSVs in Python with Benchmark Comparison](https://medium.com/data-engineer-things/this-is-the-fastest-way-to-export-csvs-in-python-benchmark-comparison-8ff628bdc637?source=rss------data_science-5)
-- [8 Unexplored Machine Learning Ideas For Your Next Project !](https://medium.com/@asbarbude/8-unexplored-machine-learning-ideas-for-your-next-project-5dffea5573f2?source=rss------data_science-5)
-- [Get Power BI Premium Per User, Microsoft 365 and  Microsoft Fabric for free](https://medium.com/@ladparth/get-power-bi-premium-per-user-microsoft-365-and-microsoft-fabric-for-free-c961135bd889?source=rss------data_science-5)
-- [Full-Text Search vs. Semantic Search: Unveiling the Depths of Information Retrieval](https://medium.com/@evertongomede/full-text-search-vs-semantic-search-unveiling-the-depths-of-information-retrieval-419853c71bac?source=rss------data_science-5)
+- [$750 Follow up Python Gig for Law Firm plus Retainer Agreement](https://medium.com/@dennisyd/750-follow-up-python-gig-for-law-firm-plus-retainer-agreement-898d2baab4e8?source=rss------data_science-5)
+- [How to Convert SQL into R Data Frame? Part 2](https://imudatascience.medium.com/how-to-convert-sql-into-r-data-frame-part-2-1cc9d839f3dd?source=rss------data_science-5)
+- [Is Data the next biggest currency?](https://medium.com/@nav_kr/is-data-the-next-biggest-currency-420aaeeccb5d?source=rss------data_science-5)
+- [How to determine if a Masters in Data Science is right for you](https://medium.com/@mattgazzano/how-to-determine-if-a-masters-in-data-science-is-right-for-you-184292c436e4?source=rss------data_science-5)
+- [Windows into Data: Exploring Advanced Analysis with Window Functions](https://medium.com/geekculture/windows-into-data-exploring-advanced-analysis-with-window-functions-42fce4a25643?source=rss------data_science-5)
+- [Three Librarians Play Star Trek: Analyzing NASA Exoplanet Data](https://medium.com/@fjhino/three-librarians-play-star-trek-analyzing-nasa-exoplanet-data-546c95adcc56?source=rss------data_science-5)
+- [Spatial scale Its features and applications — in simple words](https://medium.com/@peimandaii2012/spatial-scale-its-features-and-applications-in-simple-words-2fe6fa55fc93?source=rss------data_science-5)
+- [Beginner’s Guide to Spark UI: How to Monitor and Analyze Spark Jobs](https://medium.com/@suffyan.asad1/beginners-guide-to-spark-ui-how-to-monitor-and-analyze-spark-jobs-b2ada58a85f7?source=rss------data_science-5)
+- [Being a Speaker as an Intern: Soft Introduction to Vector Database](https://medium.com/tiket-com/being-a-speaker-as-an-intern-soft-introduction-to-vector-database-c0787874ba22?source=rss------data_science-5)
+- [What are “Views” in Microsoft SQL Server?](https://medium.com/@sohamshinde156/what-are-views-in-microsoft-sql-server-5bb1a7fb0a2b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
