@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [$750 Follow up Python Gig for Law Firm plus Retainer Agreement](https://medium.com/@dennisyd/750-follow-up-python-gig-for-law-firm-plus-retainer-agreement-898d2baab4e8?source=rss------data_science-5)
-- [How to Convert SQL into R Data Frame? Part 2](https://imudatascience.medium.com/how-to-convert-sql-into-r-data-frame-part-2-1cc9d839f3dd?source=rss------data_science-5)
-- [Is Data the next biggest currency?](https://medium.com/@nav_kr/is-data-the-next-biggest-currency-420aaeeccb5d?source=rss------data_science-5)
-- [How to determine if a Masters in Data Science is right for you](https://medium.com/@mattgazzano/how-to-determine-if-a-masters-in-data-science-is-right-for-you-184292c436e4?source=rss------data_science-5)
-- [Windows into Data: Exploring Advanced Analysis with Window Functions](https://medium.com/geekculture/windows-into-data-exploring-advanced-analysis-with-window-functions-42fce4a25643?source=rss------data_science-5)
-- [Three Librarians Play Star Trek: Analyzing NASA Exoplanet Data](https://medium.com/@fjhino/three-librarians-play-star-trek-analyzing-nasa-exoplanet-data-546c95adcc56?source=rss------data_science-5)
-- [Spatial scale Its features and applications — in simple words](https://medium.com/@peimandaii2012/spatial-scale-its-features-and-applications-in-simple-words-2fe6fa55fc93?source=rss------data_science-5)
-- [Beginner’s Guide to Spark UI: How to Monitor and Analyze Spark Jobs](https://medium.com/@suffyan.asad1/beginners-guide-to-spark-ui-how-to-monitor-and-analyze-spark-jobs-b2ada58a85f7?source=rss------data_science-5)
-- [Being a Speaker as an Intern: Soft Introduction to Vector Database](https://medium.com/tiket-com/being-a-speaker-as-an-intern-soft-introduction-to-vector-database-c0787874ba22?source=rss------data_science-5)
-- [What are “Views” in Microsoft SQL Server?](https://medium.com/@sohamshinde156/what-are-views-in-microsoft-sql-server-5bb1a7fb0a2b?source=rss------data_science-5)
+- [Cómo Automatizar la Data Science para Proteger el Medio Ambiente](https://medium.com/@daniel_72161/c%C3%B3mo-automatizar-la-data-science-para-proteger-el-medio-ambiente-3ad9067a3b82?source=rss------data_science-5)
+- [How to Organize Your Data Science Project](https://towardsdatascience.com/how-to-organize-your-data-science-project-3710a476bf8c?source=rss------data_science-5)
+- [Research on z &gt; 6 Quasars part2&lpar;Astrophysics &rpar;](https://medium.com/@monocosmo77/research-on-z-6-quasars-part2-astrophysics-cedfde387825?source=rss------data_science-5)
+- [Harnessing the Power of Vectorization in Python for Efficient Data Processing](https://medium.com/@MakeComputerScienceGreatAgain/harnessing-the-power-of-vectorization-in-python-for-efficient-data-processing-e6c9676a9f39?source=rss------data_science-5)
+- [Unveiling the Green Revolution: Predicting CO2 Emission and Fuel Economy of Vehicles for a…](https://medium.com/@clintonakalazu/unveiling-the-green-revolution-predicting-co2-emission-and-fuel-economy-of-vehicles-for-a-66c4f760f796?source=rss------data_science-5)
+- [Research on z &gt; 6 Quasars part1&lpar;Astrophysics &rpar;](https://medium.com/@monocosmo77/research-on-z-6-quasars-part1-astrophysics-27bbc4f8a83f?source=rss------data_science-5)
+- [Baseball Pitch Overlays with YOLOv8 and OpenCV](https://medium.com/@justintchou/baseball-pitch-overlays-with-yolov8-and-opencv-e80598c21e6b?source=rss------data_science-5)
+- [The Power of Data Visualization.](https://medium.com/@memonsamad48/the-power-of-data-visualization-8211a79e68e1?source=rss------data_science-5)
+- [Unraveling the Mysteries of Python’s Impressive MetaClasses](https://itnext.io/unraveling-the-mysteries-of-pythons-impressive-metaclasses-22fce0c23e96?source=rss------data_science-5)
+- [Fine-tuning GPT-2 in 4 steps](https://medium.com/@nohakcoffee/fine-tuning-gpt-2-in-4-steps-2d4a64d6c0c3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
