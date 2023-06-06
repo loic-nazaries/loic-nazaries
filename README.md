@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [3 Free Courses to Catch Up With The Newest Trends on ChatGPT](https://towardsdatascience.com/3-free-courses-to-catch-up-with-the-newest-trends-on-chatgpt-77bcf058a161?source=rss-2cf6b549448------2)
 - [ChatGPT as a Co-Author: Transforming 25 Python Examples into an Article](https://sonery.medium.com/chatgpt-as-a-co-author-transforming-25-python-examples-into-an-article-74add70c36af?source=rss-2cf6b549448------2)
 - [20 Examples to Master Merging DataFrames in Python Pandas](https://towardsdatascience.com/20-examples-to-master-merging-dataframes-in-python-pandas-22ffcd6059d1?source=rss-2cf6b549448------2)
 - [Do Not Use ChatGPT Only to “Summarize Text”](https://towardsdatascience.com/do-not-use-chatgpt-only-to-summarize-text-bd2001db8ce7?source=rss-2cf6b549448------2)
 - [Supercharge Your Spreadsheets with ChatGPT](https://towardsdatascience.com/supercharge-your-spreadsheets-with-chatgpt-4f49f7faf676?source=rss-2cf6b549448------2)
-- [Using ChatGPT to Translate R Code to Python](https://towardsdatascience.com/using-chatgpt-to-translate-r-code-to-python-effed461037e?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
