@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Cómo Automatizar la Data Science para Proteger el Medio Ambiente](https://medium.com/@daniel_72161/c%C3%B3mo-automatizar-la-data-science-para-proteger-el-medio-ambiente-3ad9067a3b82?source=rss------data_science-5)
-- [How to Organize Your Data Science Project](https://towardsdatascience.com/how-to-organize-your-data-science-project-3710a476bf8c?source=rss------data_science-5)
-- [Research on z &gt; 6 Quasars part2&lpar;Astrophysics &rpar;](https://medium.com/@monocosmo77/research-on-z-6-quasars-part2-astrophysics-cedfde387825?source=rss------data_science-5)
-- [Harnessing the Power of Vectorization in Python for Efficient Data Processing](https://medium.com/@MakeComputerScienceGreatAgain/harnessing-the-power-of-vectorization-in-python-for-efficient-data-processing-e6c9676a9f39?source=rss------data_science-5)
-- [Unveiling the Green Revolution: Predicting CO2 Emission and Fuel Economy of Vehicles for a…](https://medium.com/@clintonakalazu/unveiling-the-green-revolution-predicting-co2-emission-and-fuel-economy-of-vehicles-for-a-66c4f760f796?source=rss------data_science-5)
-- [Research on z &gt; 6 Quasars part1&lpar;Astrophysics &rpar;](https://medium.com/@monocosmo77/research-on-z-6-quasars-part1-astrophysics-27bbc4f8a83f?source=rss------data_science-5)
-- [Baseball Pitch Overlays with YOLOv8 and OpenCV](https://medium.com/@justintchou/baseball-pitch-overlays-with-yolov8-and-opencv-e80598c21e6b?source=rss------data_science-5)
-- [The Power of Data Visualization.](https://medium.com/@memonsamad48/the-power-of-data-visualization-8211a79e68e1?source=rss------data_science-5)
-- [Unraveling the Mysteries of Python’s Impressive MetaClasses](https://itnext.io/unraveling-the-mysteries-of-pythons-impressive-metaclasses-22fce0c23e96?source=rss------data_science-5)
-- [Fine-tuning GPT-2 in 4 steps](https://medium.com/@nohakcoffee/fine-tuning-gpt-2-in-4-steps-2d4a64d6c0c3?source=rss------data_science-5)
+- [The Dark Side of AI Privacy: Demystifying Data-Hungry language models &amp; unmasking How Your Privacy…](https://medium.com/@agile.cadre.testing/the-dark-side-of-ai-privacy-demystifying-data-hungry-language-models-unmasking-how-your-privacy-6948be8ae08e?source=rss------data_science-5)
+- [Top 10 Statistics Mistakes Every Data Scientist Should Avoid](https://anmol3015.medium.com/top-10-statistics-mistakes-every-data-scientist-should-avoid-b296f8de41b6?source=rss------data_science-5)
+- [Create Your Own Nested Sampling Algorithm for Bayesian Parameter Fitting and Model Selection &lpar;With…](https://levelup.gitconnected.com/create-your-own-nested-sampling-algorithm-for-bayesian-parameter-fitting-and-model-selection-with-3cfdeae4afd?source=rss------data_science-5)
+- [Excel Project: Road Accident Data Analysis for 2021 and 2022](https://medium.com/@adnanalimumtaz114/excel-project-road-accident-data-analysis-for-2021-and-2022-f3aeaffb735a?source=rss------data_science-5)
+- [Daily Standups May Not Improve Your Team’s Agility](https://towardsdatascience.com/daily-standups-may-not-improve-your-teams-agility-87da475ff57c?source=rss------data_science-5)
+- [Q#74: Life expectancy](https://medium.com/foundational-data-science-interview-questions/q-74-life-expectancy-dcaec0caad81?source=rss------data_science-5)
+- [My First Data Science Project](https://medium.com/@lpb3393/my-first-data-science-project-f831128881ea?source=rss------data_science-5)
+- [Linear Regression — Derivation of slope and Intercept using Ordinary Least Square.](https://tahera-firdose.medium.com/linear-regression-derivation-of-slope-and-intercept-using-ordinary-least-square-971534ec6b77?source=rss------data_science-5)
+- [Unraveling the Evolution: History of Data](https://medium.com/@suhas_tumati/unraveling-the-evolution-history-of-data-eacb28e0226f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
