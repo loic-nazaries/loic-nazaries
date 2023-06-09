@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Dark Side of AI Privacy: Demystifying Data-Hungry language models &amp; unmasking How Your Privacy…](https://medium.com/@agile.cadre.testing/the-dark-side-of-ai-privacy-demystifying-data-hungry-language-models-unmasking-how-your-privacy-6948be8ae08e?source=rss------data_science-5)
-- [Top 10 Statistics Mistakes Every Data Scientist Should Avoid](https://anmol3015.medium.com/top-10-statistics-mistakes-every-data-scientist-should-avoid-b296f8de41b6?source=rss------data_science-5)
-- [Create Your Own Nested Sampling Algorithm for Bayesian Parameter Fitting and Model Selection &lpar;With…](https://levelup.gitconnected.com/create-your-own-nested-sampling-algorithm-for-bayesian-parameter-fitting-and-model-selection-with-3cfdeae4afd?source=rss------data_science-5)
-- [Excel Project: Road Accident Data Analysis for 2021 and 2022](https://medium.com/@adnanalimumtaz114/excel-project-road-accident-data-analysis-for-2021-and-2022-f3aeaffb735a?source=rss------data_science-5)
-- [Daily Standups May Not Improve Your Team’s Agility](https://towardsdatascience.com/daily-standups-may-not-improve-your-teams-agility-87da475ff57c?source=rss------data_science-5)
-- [Q#74: Life expectancy](https://medium.com/foundational-data-science-interview-questions/q-74-life-expectancy-dcaec0caad81?source=rss------data_science-5)
-- [My First Data Science Project](https://medium.com/@lpb3393/my-first-data-science-project-f831128881ea?source=rss------data_science-5)
-- [Linear Regression — Derivation of slope and Intercept using Ordinary Least Square.](https://tahera-firdose.medium.com/linear-regression-derivation-of-slope-and-intercept-using-ordinary-least-square-971534ec6b77?source=rss------data_science-5)
-- [Unraveling the Evolution: History of Data](https://medium.com/@suhas_tumati/unraveling-the-evolution-history-of-data-eacb28e0226f?source=rss------data_science-5)
+- [Are We Too Scared of AI? Let’s Separate Fact from Fear](https://medium.com/@smraiyyan/are-we-too-scared-of-ai-lets-separate-fact-from-fear-e8bf6b0fca83?source=rss------data_science-5)
+- [How to Make 1000$ Per Month Using Data Analysis](https://medium.com/@beingnabeel769/how-to-make-1000-per-month-using-data-analysis-fac02afb68ee?source=rss------data_science-5)
+- [Biostatistics in Public Health and Data Science: Unveiling the Power of Statistical Analysis and…](https://medium.com/@mohammedareebgarana/biostatistics-in-public-health-and-data-science-unveiling-the-power-of-statistical-analysis-and-4a6d8bd49728?source=rss------data_science-5)
+- [I will write data analyst, data analytics, data science resume, and resume writing](https://medium.com/@adisajamila45/i-will-write-data-analyst-data-analytics-data-science-resume-and-resume-writing-e05a1327ee24?source=rss------data_science-5)
+- [Curse of Dimensionality](https://mohitmishra786687.medium.com/curse-of-dimensionality-ad949c04e77?source=rss------data_science-5)
+- [Achetez Nembutal Pentobarbital en vente en ligne à des prix abordables.](https://medium.com/@pentobarbioxy/achetez-nembutal-pentobarbital-en-vente-en-ligne-%C3%A0-des-prix-abordables-3df779d21723?source=rss------data_science-5)
+- [Prepare 1st Round Interview for Amazon Robotics DS position:](https://medium.com/@sunshine990316/prepare-1st-round-interview-for-amazon-robotics-ds-position-641de496dd86?source=rss------data_science-5)
+- [I will write data science, data analyst business analyst, cyber security resume writing](https://medium.com/@ayomideresume61/i-will-write-data-science-data-analyst-business-analyst-cyber-security-resume-writing-b347b172f5e6?source=rss------data_science-5)
+- [Reservas de Hotel](https://medium.com/@matteeuss/reservas-de-hotel-54d92fcdf1f?source=rss------data_science-5)
+- [New Research around ChatGPT part4&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/new-research-around-chatgpt-part4-artificial-intelligence-29e3ee411da5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
