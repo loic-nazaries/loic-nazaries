@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Are We Too Scared of AI? Let’s Separate Fact from Fear](https://medium.com/@smraiyyan/are-we-too-scared-of-ai-lets-separate-fact-from-fear-e8bf6b0fca83?source=rss------data_science-5)
-- [How to Make 1000$ Per Month Using Data Analysis](https://medium.com/@beingnabeel769/how-to-make-1000-per-month-using-data-analysis-fac02afb68ee?source=rss------data_science-5)
-- [Biostatistics in Public Health and Data Science: Unveiling the Power of Statistical Analysis and…](https://medium.com/@mohammedareebgarana/biostatistics-in-public-health-and-data-science-unveiling-the-power-of-statistical-analysis-and-4a6d8bd49728?source=rss------data_science-5)
-- [I will write data analyst, data analytics, data science resume, and resume writing](https://medium.com/@adisajamila45/i-will-write-data-analyst-data-analytics-data-science-resume-and-resume-writing-e05a1327ee24?source=rss------data_science-5)
-- [Curse of Dimensionality](https://mohitmishra786687.medium.com/curse-of-dimensionality-ad949c04e77?source=rss------data_science-5)
-- [Achetez Nembutal Pentobarbital en vente en ligne à des prix abordables.](https://medium.com/@pentobarbioxy/achetez-nembutal-pentobarbital-en-vente-en-ligne-%C3%A0-des-prix-abordables-3df779d21723?source=rss------data_science-5)
-- [Prepare 1st Round Interview for Amazon Robotics DS position:](https://medium.com/@sunshine990316/prepare-1st-round-interview-for-amazon-robotics-ds-position-641de496dd86?source=rss------data_science-5)
-- [I will write data science, data analyst business analyst, cyber security resume writing](https://medium.com/@ayomideresume61/i-will-write-data-science-data-analyst-business-analyst-cyber-security-resume-writing-b347b172f5e6?source=rss------data_science-5)
-- [Reservas de Hotel](https://medium.com/@matteeuss/reservas-de-hotel-54d92fcdf1f?source=rss------data_science-5)
-- [New Research around ChatGPT part4&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/new-research-around-chatgpt-part4-artificial-intelligence-29e3ee411da5?source=rss------data_science-5)
+- [Getting to know the base commands in R](https://infoart.medium.com/getting-to-know-the-base-commands-in-r-d9f74094c62c?source=rss------data_science-5)
+- [Navigating the Ethical Landscape of Data Science: Building Trust, Responsibility, and Impact](https://medium.com/@barikdibyasampad/navigating-the-ethical-landscape-of-data-science-building-trust-responsibility-and-impact-da0ef5f436c4?source=rss------data_science-5)
+- [VirtualEnvWrapper for macOS Setup](https://medium.com/@augustinekwong/virtualenvwrapper-for-macos-setup-55d6aa91c0dd?source=rss------data_science-5)
+- [The Real Value of Human Knowledge, Experience and Data](https://tmrobinson.medium.com/the-real-value-of-human-knowledge-experience-and-data-564b14c406e7?source=rss------data_science-5)
+- [Balancing Data Science Studies and Full-Time Remote Work with Success](https://medium.com/@albane.colmenares/balancing-data-science-studies-and-full-time-remote-work-with-success-68296c876ab8?source=rss------data_science-5)
+- [Useful Data Science Libraries in Python](https://medium.com/@iqra.bismi/useful-data-science-libraries-in-python-796a0cfb1b75?source=rss------data_science-5)
+- [Stop reading books cover to cover. Use this ChatGPT plug-in instead!](https://medium.datadriveninvestor.com/stop-reading-books-cover-to-cover-use-this-chatgpt-plug-in-instead-e144f3a3dd3e?source=rss------data_science-5)
+- [AlexNet: The Architecture that Revolutionized Computer Vision](https://medium.datadriveninvestor.com/alexnet-the-architecture-that-revolutionized-computer-vision-8b9cf088eed5?source=rss------data_science-5)
+- [How to Highlight Molecular Substructures: Celebrating Commonalities and Differences — Phyo Phyo…](https://medium.com/@phyophyokyawzin1/how-to-highlight-molecular-substructures-celebrating-commonalities-and-differences-phyo-phyo-e13d0784a27d?source=rss------data_science-5)
+- [Diabetes Prediction Part One](https://medium.com/@atgordon2323/diabetes-prediction-part-one-7453c252117c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
