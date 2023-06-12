@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Getting to know the base commands in R](https://infoart.medium.com/getting-to-know-the-base-commands-in-r-d9f74094c62c?source=rss------data_science-5)
-- [Navigating the Ethical Landscape of Data Science: Building Trust, Responsibility, and Impact](https://medium.com/@barikdibyasampad/navigating-the-ethical-landscape-of-data-science-building-trust-responsibility-and-impact-da0ef5f436c4?source=rss------data_science-5)
-- [VirtualEnvWrapper for macOS Setup](https://medium.com/@augustinekwong/virtualenvwrapper-for-macos-setup-55d6aa91c0dd?source=rss------data_science-5)
-- [The Real Value of Human Knowledge, Experience and Data](https://tmrobinson.medium.com/the-real-value-of-human-knowledge-experience-and-data-564b14c406e7?source=rss------data_science-5)
-- [Balancing Data Science Studies and Full-Time Remote Work with Success](https://medium.com/@albane.colmenares/balancing-data-science-studies-and-full-time-remote-work-with-success-68296c876ab8?source=rss------data_science-5)
-- [Useful Data Science Libraries in Python](https://medium.com/@iqra.bismi/useful-data-science-libraries-in-python-796a0cfb1b75?source=rss------data_science-5)
-- [Stop reading books cover to cover. Use this ChatGPT plug-in instead!](https://medium.datadriveninvestor.com/stop-reading-books-cover-to-cover-use-this-chatgpt-plug-in-instead-e144f3a3dd3e?source=rss------data_science-5)
-- [AlexNet: The Architecture that Revolutionized Computer Vision](https://medium.datadriveninvestor.com/alexnet-the-architecture-that-revolutionized-computer-vision-8b9cf088eed5?source=rss------data_science-5)
-- [How to Highlight Molecular Substructures: Celebrating Commonalities and Differences — Phyo Phyo…](https://medium.com/@phyophyokyawzin1/how-to-highlight-molecular-substructures-celebrating-commonalities-and-differences-phyo-phyo-e13d0784a27d?source=rss------data_science-5)
-- [Diabetes Prediction Part One](https://medium.com/@atgordon2323/diabetes-prediction-part-one-7453c252117c?source=rss------data_science-5)
+- [Second Project](https://medium.com/@mahmoudhosny8711/second-project-344a8049d80e?source=rss------data_science-5)
+- [Introdução à análise de sentimentos](https://medium.com/@gabriellareboucas6/introdu%C3%A7%C3%A3o-%C3%A0-an%C3%A1lise-de-sentimentos-f968bb9624c3?source=rss------data_science-5)
+- [Sample scripts to setup Users, DB Level Roles, Account Level roles also grants to provide to…](https://medium.com/@BrahmaWritings/sample-scripts-to-setup-users-db-level-roles-account-level-roles-also-grants-to-provide-to-2a6ca11d2f4b?source=rss------data_science-5)
+- [How to use Python to display probability distributions?](https://towardsdev.com/how-to-use-python-to-display-probability-distributions-bedb5571d2e9?source=rss------data_science-5)
+- [Explorando um Projeto de Machine Learning de Ponta a Ponta](https://medium.com/@claudiomar_m/explorando-um-projeto-de-machine-learning-de-ponta-a-ponta-91b6e753b829?source=rss------data_science-5)
+- [Part 5 — Python’s Polars: Streamlining Data Processing.  Fluent Interfaces in Action.](https://medium.com/@danny.bharat/part-5-pythons-polars-streamlining-data-processing-fluent-interfaces-in-action-ab8cd31e83d2?source=rss------data_science-5)
+- [Meta’s MusicGen: a melody is worth 1000 tokens](https://levelup.gitconnected.com/metas-musicgen-a-melody-is-worth-1000-tokens-a023acc454ce?source=rss------data_science-5)
+- [Create GPT3 Powered Apps in Minutes With Streamlit](https://levelup.gitconnected.com/streamlit-openai-gpt3-example-app-b333da955ceb?source=rss------data_science-5)
+- [Creating a Donut Chart with JavaScript](https://levelup.gitconnected.com/creating-a-donut-chart-with-javascript-ea50c22596c4?source=rss------data_science-5)
+- [The Serene Symphony of Python Web Scraping — in 3 Movements](https://levelup.gitconnected.com/3-ways-of-web-scraping-in-python-e953c4a96ec2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
