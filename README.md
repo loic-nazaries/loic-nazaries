@@ -105,16 +105,14 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Second Project](https://medium.com/@mahmoudhosny8711/second-project-344a8049d80e?source=rss------data_science-5)
-- [Introdução à análise de sentimentos](https://medium.com/@gabriellareboucas6/introdu%C3%A7%C3%A3o-%C3%A0-an%C3%A1lise-de-sentimentos-f968bb9624c3?source=rss------data_science-5)
-- [Sample scripts to setup Users, DB Level Roles, Account Level roles also grants to provide to…](https://medium.com/@BrahmaWritings/sample-scripts-to-setup-users-db-level-roles-account-level-roles-also-grants-to-provide-to-2a6ca11d2f4b?source=rss------data_science-5)
-- [How to use Python to display probability distributions?](https://towardsdev.com/how-to-use-python-to-display-probability-distributions-bedb5571d2e9?source=rss------data_science-5)
-- [Explorando um Projeto de Machine Learning de Ponta a Ponta](https://medium.com/@claudiomar_m/explorando-um-projeto-de-machine-learning-de-ponta-a-ponta-91b6e753b829?source=rss------data_science-5)
-- [Part 5 — Python’s Polars: Streamlining Data Processing.  Fluent Interfaces in Action.](https://medium.com/@danny.bharat/part-5-pythons-polars-streamlining-data-processing-fluent-interfaces-in-action-ab8cd31e83d2?source=rss------data_science-5)
-- [Meta’s MusicGen: a melody is worth 1000 tokens](https://levelup.gitconnected.com/metas-musicgen-a-melody-is-worth-1000-tokens-a023acc454ce?source=rss------data_science-5)
-- [Create GPT3 Powered Apps in Minutes With Streamlit](https://levelup.gitconnected.com/streamlit-openai-gpt3-example-app-b333da955ceb?source=rss------data_science-5)
-- [Creating a Donut Chart with JavaScript](https://levelup.gitconnected.com/creating-a-donut-chart-with-javascript-ea50c22596c4?source=rss------data_science-5)
-- [The Serene Symphony of Python Web Scraping — in 3 Movements](https://levelup.gitconnected.com/3-ways-of-web-scraping-in-python-e953c4a96ec2?source=rss------data_science-5)
+- [How AI Is Transforming different industries like healthcare,finance, and manufacturing](https://medium.com/@softwaretechsales5/how-ai-is-transforming-different-industries-like-healthcare-finance-and-manufacturing-37f92c8b909f?source=rss------data_science-5)
+- [Financial Data Science: Embracing Innovative AI Solutions with ChatGPT](https://medium.com/@suryatej.hm/financial-data-science-embracing-innovative-ai-solutions-with-chatgpt-3d8d066dc6cc?source=rss------data_science-5)
+- [The Machine Learning 101 — Day 2](https://medium.com/@jh.baek.sd/the-machine-learning-101-day-2-c0cd07fd0129?source=rss------data_science-5)
+- [Overfitting and Underfitting  —  simplified](https://medium.com/@fernandao.lacerda.dantas/overfitting-and-underfitting-simplified-553a34fcc43?source=rss------data_science-5)
+- [Beyond the Court: Unleashing the Power of Machine Learning to Predict NBA Player Statistics](https://medium.com/@sanaynesargi/beyond-the-court-unleashing-the-power-of-machine-learning-to-predict-nba-player-statistics-4dba2fa018f0?source=rss------data_science-5)
+- [What is the Best Predictor of ERA?](https://medium.com/@cameron.kaplinger/what-is-the-best-predictor-of-era-a2b39677bbd2?source=rss------data_science-5)
+- [What Are Good Example Projects for a Data Analyst Portfolio?](https://medium.com/@ascendedpeak/what-are-good-example-projects-for-a-data-analyst-portfolio-de34fb1e5dd8?source=rss------data_science-5)
+- [What is a Machine Learning Engineer?](https://medium.com/@ascendedpeak/what-is-a-machine-learning-engineer-56659a7117a1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
