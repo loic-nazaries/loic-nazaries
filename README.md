@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [OpenAI Just Announced New Models with Function Calling Capabilities](https://sonery.medium.com/openai-just-announced-new-models-with-function-calling-capabilities-ace193cdd237?source=rss-2cf6b549448------2)
 - [Create Your AI Math Tutor App in 30 Lines of Code with Streamlit, LangChain, and ChatGPT](https://pub.towardsai.net/create-your-ai-math-tutor-app-in-30-lines-of-code-with-streamlit-langchain-and-chatgpt-1215ce746c4e?source=rss-2cf6b549448------2)
 - [Chain of Thought Prompting Facilitate LLMs Reasoning Abilities](https://towardsdatascience.com/chain-of-thought-prompting-facilitate-llms-reasoning-abilities-313cd7714938?source=rss-2cf6b549448------2)
 - [4 Pandas Functions for Element-Wise Comparison of DataFrames](https://towardsdatascience.com/4-pandas-functions-for-element-wise-comparison-of-dataframes-c7e06e51d399?source=rss-2cf6b549448------2)
 - [Integrate Entity Memory into Your ChatGPT Conversations](https://sonery.medium.com/integrate-entity-memory-into-your-chatgpt-conversations-c8069bb43be6?source=rss-2cf6b549448------2)
-- [Use LangChain’s Output Parser with ChatGPT for Structured Outputs](https://towardsdatascience.com/use-langchains-output-parser-with-chatgpt-for-structured-outputs-cf536f692685?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
