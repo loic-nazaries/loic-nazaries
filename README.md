@@ -105,14 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How AI Is Transforming different industries like healthcare,finance, and manufacturing](https://medium.com/@softwaretechsales5/how-ai-is-transforming-different-industries-like-healthcare-finance-and-manufacturing-37f92c8b909f?source=rss------data_science-5)
-- [Financial Data Science: Embracing Innovative AI Solutions with ChatGPT](https://medium.com/@suryatej.hm/financial-data-science-embracing-innovative-ai-solutions-with-chatgpt-3d8d066dc6cc?source=rss------data_science-5)
-- [The Machine Learning 101 — Day 2](https://medium.com/@jh.baek.sd/the-machine-learning-101-day-2-c0cd07fd0129?source=rss------data_science-5)
-- [Overfitting and Underfitting  —  simplified](https://medium.com/@fernandao.lacerda.dantas/overfitting-and-underfitting-simplified-553a34fcc43?source=rss------data_science-5)
-- [Beyond the Court: Unleashing the Power of Machine Learning to Predict NBA Player Statistics](https://medium.com/@sanaynesargi/beyond-the-court-unleashing-the-power-of-machine-learning-to-predict-nba-player-statistics-4dba2fa018f0?source=rss------data_science-5)
-- [What is the Best Predictor of ERA?](https://medium.com/@cameron.kaplinger/what-is-the-best-predictor-of-era-a2b39677bbd2?source=rss------data_science-5)
-- [What Are Good Example Projects for a Data Analyst Portfolio?](https://medium.com/@ascendedpeak/what-are-good-example-projects-for-a-data-analyst-portfolio-de34fb1e5dd8?source=rss------data_science-5)
-- [What is a Machine Learning Engineer?](https://medium.com/@ascendedpeak/what-is-a-machine-learning-engineer-56659a7117a1?source=rss------data_science-5)
+- [An Overview of 7 Types of Generative AI Models](https://medium.com/@jchen001/an-overview-of-7-types-of-generative-ai-models-c1581f0f57e6?source=rss------data_science-5)
+- [The EIIDE Theory: A New Outlook on the Nature of Information, Intelligence, and Life](https://medium.com/@kosty1967/the-eiide-theory-a-new-outlook-on-the-nature-of-information-intelligence-and-life-c676f050c4ac?source=rss------data_science-5)
+- [Pixel #9: the link between information science and artificial intelligence explains the recent…](https://ebeid.medium.com/pixel-9-the-link-between-information-science-and-artificial-intelligence-explains-the-recent-ab11cd49f3e3?source=rss------data_science-5)
+- [Time Series Anomaly Detection: Uncovering Anomalous Patterns and Outliers in Time Series Data using…](https://medium.com/geekculture/time-series-anomaly-detection-uncovering-anomalous-patterns-and-outliers-in-time-series-data-using-6819ff02b0c5?source=rss------data_science-5)
+- [The internship opportunity I had with The   was a great chance for…](https://medium.com/@boudyalbasosy/the-internship-opportunity-i-had-with-the-was-a-great-chance-for-635db533a07c?source=rss------data_science-5)
+- [AI and Data Science: A Match Made in Heaven?](https://medium.com/@stuartclark281/ai-and-data-science-a-match-made-in-heaven-4611db4606a3?source=rss------data_science-5)
+- [AI Promises a World-Leading Future of Britain](https://medium.com/@reubenimakhu/ai-promises-a-world-leading-future-of-britain-54eef9ded9eb?source=rss------data_science-5)
+- [How to Write More Pythonic Functions That Are a Delight to Others and IDEs](https://pub.towardsai.net/how-to-write-more-pythonic-functions-that-are-a-delight-to-others-and-ides-32f322197bbb?source=rss------data_science-5)
+- [Zoom Enters the Artificial Intelligence Arena](https://medium.com/@reubenimakhu/zoom-enters-the-artificial-intelligence-arena-8bf0141a1357?source=rss------data_science-5)
+- [Enfim cedi ao Power BI …](https://karenpess.medium.com/enfim-cedi-ao-power-bi-a0672842974c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
