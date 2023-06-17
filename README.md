@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Deep Reinforcement Learning for Portfolio Optimization: Unleashing the Power of Proximal Policy…](https://thepythonlab.medium.com/deep-reinforcement-learning-for-portfolio-optimization-unleashing-the-power-of-proximal-policy-ffaed37cbcd4?source=rss------data_science-5)
-- [A Simple Conceptual Overview of Neural Network and Deep Learning](https://medium.com/@qicai1995/a-simple-conceptual-overview-of-neural-network-and-deep-learning-ca53c579ecf9?source=rss------data_science-5)
-- [Fears of leaks: Google advises Employees to not enter confidential information into AI bots like…](https://medium.com/@JesicaWrites/fears-of-leaks-google-advises-employees-to-not-enter-confidential-information-into-ai-bots-like-1311edc2e307?source=rss------data_science-5)
-- [Designing an Effective Dashboard: Mastering Color Selection and Visual Alignment](https://medium.com/@lisachukwu/designing-an-effective-dashboard-mastering-color-selection-and-visual-alignment-577390694a4?source=rss------data_science-5)
-- [Explaining Hypothesis Testing to a High School Student — Part 1](https://anmol3015.medium.com/explaining-hypothesis-testing-to-a-high-school-student-part-1-64fd30066224?source=rss------data_science-5)
-- [Sole Search](https://medium.com/@johanna.lopez001/sole-search-250e17435308?source=rss------data_science-5)
-- [Unraveling the Enigma: Do Bias and Variance Always Compete in Machine Learning?](https://medium.com/@sigari.salman/unraveling-the-enigma-do-bias-and-variance-always-compete-in-machine-learning-1ffd083fb5c2?source=rss------data_science-5)
-- [Sigma vs Looker vs Knowi](https://medium.com/geekculture/sigma-vs-looker-vs-knowi-1156de8a1145?source=rss------data_science-5)
-- [Developing a strategic business plan for small and medium companies](https://medium.com/@ibrahimhamisu6666/developing-a-strategic-business-plan-for-small-and-medium-companies-b6355d6c9fe?source=rss------data_science-5)
-- [Sentiment Analysis on Healthcare Reviews](https://medium.com/@alvarez.joemichael/sentiment-analysis-on-healthcare-reviews-2ec229d04e69?source=rss------data_science-5)
+- [Crafting the Perfect Data Science Evaluation Metric for your Business Case](https://medium.com/@rochita.sundar/crafting-the-perfect-data-science-evaluation-metric-for-your-business-case-8b7248d7a116?source=rss------data_science-5)
+- [Beyond the Bits and Bytes: Batch vs. Stream Data Processing](https://medium.com/@chiragpujari.py/beyond-the-bits-and-bytes-batch-vs-stream-data-processing-11d48ddf137b?source=rss------data_science-5)
+- [Intuitive breakdown of Lasso and Ridge regularization](https://medium.com/@jnwanna/intuitive-breakdown-of-lasso-and-ridge-regularization-28c186a5c021?source=rss------data_science-5)
+- [I’m done with AI. And so are YOU! Unveiling the Future-Proof Plan](https://medium.com/@aigenius/im-done-with-ai-and-so-are-you-unveiling-the-future-proof-plan-491979d3d3cd?source=rss------data_science-5)
+- [Let’s Talk Blueticks on Instagram](https://medium.com/@rajatapatel/lets-talk-blueticks-on-instagram-7927b5bb6629?source=rss------data_science-5)
+- [A Look at Top Data Integration Techniques](https://medium.com/@inuwamobarak/a-look-at-top-data-integration-techniques-5ffaa2aad5f0?source=rss------data_science-5)
+- [An Introduction to Management Information Systems](https://medium.com/@meghana.kothamasu7/an-introduction-to-management-information-systems-53e9a0b0435d?source=rss------data_science-5)
+- [I will create professional resume writing, data science data analytics and cover letter](https://medium.com/@clararesume133/i-will-create-professional-resume-writing-data-science-data-analytics-and-cover-letter-3a66bfee421e?source=rss------data_science-5)
+- [Cracking the Code: Beginner’s Guide to Learning Python From Scratch – A Strategic Approach](https://peaklifehq.medium.com/cracking-the-code-beginners-guide-to-learning-python-from-scratch-a-strategic-approach-c1a408b6e7a6?source=rss------data_science-5)
+- [The future of Artificial Intelligence is Open-source! Here’s why?](https://pub.towardsai.net/the-future-of-artificial-intelligence-is-open-source-heres-why-af758b30f1a7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
