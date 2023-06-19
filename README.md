@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I am a Professional Data Entry and Virtual assistant All Job](https://medium.com/@mdnazmulislam4204/i-am-a-professional-data-entry-and-virtual-assistant-all-job-e37ce18d47a?source=rss------data_science-5)
-- [Unleashing the Power of Data Engineering: Foundation for Data-Driven Success](https://medium.com/@arivarasanram/unleashing-the-power-of-data-engineering-foundation-for-data-driven-success-a7e7ad0a42ac?source=rss------data_science-5)
-- [Apache Spark for Dummies: Part 4 — Advanced Spark Features](https://medium.com/@SaiParvathaneni/apache-spark-for-dummies-part-4-advanced-spark-features-d45e3b333c56?source=rss------data_science-5)
-- [Mastering Hydration: The Science of Electrolytes During Extreme Long-Distance Running](https://mafisher.medium.com/mastering-hydration-the-science-of-electrolytes-during-extreme-long-distance-running-fb9d9b1f36a?source=rss------data_science-5)
-- [HOW TO HACK MY PARTNER’S PHONE!](https://medium.com/@stevewalker_89608/how-to-hack-my-partners-phone-bb719ec2627a?source=rss------data_science-5)
-- [Image Processing using Python — Template Matching](https://medium.com/@flcamarao/image-processing-using-python-template-matching-810835f7113c?source=rss------data_science-5)
-- [Image Processing using Python — Homography Matrix](https://medium.com/@flcamarao/image-processing-using-python-homography-matrix-a5da44f3a57b?source=rss------data_science-5)
-- [From Gardens to Goals: The Lessons Gardening Teaches About Life, Data and Career](https://goggins.medium.com/from-gardens-to-goals-the-lessons-gardening-teaches-about-life-data-and-career-a8cc9eb2a13e?source=rss------data_science-5)
-- [The Graph migration from Ethereum Mainnet &lpar;L1&rpar; to the Arbitrum One network &lpar;L2&rpar;](https://medium.com/@onchainsolutionsdao/the-graph-migration-from-ethereum-mainnet-l1-to-the-arbitrum-one-network-l2-57f92e971b38?source=rss------data_science-5)
-- [Gini Impurity and Entropy for Decision Tree](https://medium.com/@arpita.k20/gini-impurity-and-entropy-for-decision-tree-68eb139274d1?source=rss------data_science-5)
+- [Azure Databricks for Beginners: Build Your First Notebook](https://towardsdev.com/azure-databricks-for-beginners-build-your-first-notebook-242a329f9c48?source=rss------data_science-5)
+- [Part 11: Python for Data Science &lpar;Data Cleaning and Preparation&rpar;](https://medium.com/@ahmedabubakr92/part-11-python-for-data-science-data-cleaning-and-preparation-d64c0225025a?source=rss------data_science-5)
+- [Aprendiendo sobre uniones de tablas en bases de datos, Tableau y Power BI.](https://medium.com/@lucas.singh10/aprendiendo-sobre-uniones-de-tablas-en-bases-de-datos-tableau-y-power-bi-19c44abf1f3b?source=rss------data_science-5)
+- [Unveiling the Power of Normalizing Flow: Transforming Probability Distributions with Deep Learning](https://rmoklesur.medium.com/unveiling-the-power-of-normalizing-flow-transforming-probability-distributions-with-deep-learning-b02a0c304550?source=rss------data_science-5)
+- [[Notes] Introduction to Machine Learning in Production, Week 1](https://medium.com/@jchen001/notes-introduction-to-machine-learning-in-production-week-1-1527165ac298?source=rss------data_science-5)
+- [What is Polars and is it better than Pandas ?| Python](https://medium.com/@animeshsingh161/what-is-polars-and-is-it-better-than-pandas-python-42e9c691bec6?source=rss------data_science-5)
+- [Speaker Recognition: Unlocking the Power of Voice](https://medium.com/@evertongomede/speaker-recognition-unlocking-the-power-of-voice-d59c40db5450?source=rss------data_science-5)
+- [Logistic Regression in TensorFlow: A Practical Guide](https://rmoklesur.medium.com/logistic-regression-in-tensorflow-a-practical-guide-79aefc8a1b89?source=rss------data_science-5)
+- [Squeeze and Excitation Network: Enhancing Deep Learning with Channel-Wise Attention](https://rmoklesur.medium.com/squeeze-and-excitation-network-enhancing-deep-learning-with-channel-wise-attention-64d6c943f8b?source=rss------data_science-5)
+- [Decoding Hate: Hate Speech Detection using Natural Language Processing](https://cyberbyte.medium.com/decoding-hate-hate-speech-detection-using-natural-language-processing-8fd5be1ace1e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
