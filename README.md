@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Azure Databricks for Beginners: Build Your First Notebook](https://towardsdev.com/azure-databricks-for-beginners-build-your-first-notebook-242a329f9c48?source=rss------data_science-5)
-- [Part 11: Python for Data Science &lpar;Data Cleaning and Preparation&rpar;](https://medium.com/@ahmedabubakr92/part-11-python-for-data-science-data-cleaning-and-preparation-d64c0225025a?source=rss------data_science-5)
-- [Aprendiendo sobre uniones de tablas en bases de datos, Tableau y Power BI.](https://medium.com/@lucas.singh10/aprendiendo-sobre-uniones-de-tablas-en-bases-de-datos-tableau-y-power-bi-19c44abf1f3b?source=rss------data_science-5)
-- [Unveiling the Power of Normalizing Flow: Transforming Probability Distributions with Deep Learning](https://rmoklesur.medium.com/unveiling-the-power-of-normalizing-flow-transforming-probability-distributions-with-deep-learning-b02a0c304550?source=rss------data_science-5)
-- [[Notes] Introduction to Machine Learning in Production, Week 1](https://medium.com/@jchen001/notes-introduction-to-machine-learning-in-production-week-1-1527165ac298?source=rss------data_science-5)
-- [What is Polars and is it better than Pandas ?| Python](https://medium.com/@animeshsingh161/what-is-polars-and-is-it-better-than-pandas-python-42e9c691bec6?source=rss------data_science-5)
-- [Speaker Recognition: Unlocking the Power of Voice](https://medium.com/@evertongomede/speaker-recognition-unlocking-the-power-of-voice-d59c40db5450?source=rss------data_science-5)
-- [Logistic Regression in TensorFlow: A Practical Guide](https://rmoklesur.medium.com/logistic-regression-in-tensorflow-a-practical-guide-79aefc8a1b89?source=rss------data_science-5)
-- [Squeeze and Excitation Network: Enhancing Deep Learning with Channel-Wise Attention](https://rmoklesur.medium.com/squeeze-and-excitation-network-enhancing-deep-learning-with-channel-wise-attention-64d6c943f8b?source=rss------data_science-5)
-- [Decoding Hate: Hate Speech Detection using Natural Language Processing](https://cyberbyte.medium.com/decoding-hate-hate-speech-detection-using-natural-language-processing-8fd5be1ace1e?source=rss------data_science-5)
+- [The Only 3 Resources You Need to Start in Machine Learning](https://medium.com/@hectoragvz/the-only-3-resources-you-need-to-start-in-machine-learning-abc0a6fcbd46?source=rss------data_science-5)
+- [ML for PMs: A Guide to Developing Accurate and Effective Models](https://medium.com/@ccying/ml-for-pms-a-guide-to-developing-accurate-and-effective-models-5210074c5280?source=rss------data_science-5)
+- [Plotly Dash vs Streamlit: Which one to choose for Python Dashboards](https://anmol3015.medium.com/plotly-dash-vs-streamlit-which-one-to-choose-for-python-dashboards-c8479d09644?source=rss------data_science-5)
+- [Teen Patti master Customer Care Number ☎️ 8252771037 ✓✓✓Call customer care helpline number 18+…](https://medium.com/@geetakumari886633/teen-patti-master-customer-care-number-%EF%B8%8F-8252771037-call-customer-care-helpline-number-18-272a315c4a7c?source=rss------data_science-5)
+- [Matplotlib Tips to Instantly Improve Your Data Visualizations — According to “Storytelling with…](https://towardsdatascience.com/matplotlib-tips-to-instantly-improve-your-data-visualizations-according-to-storytelling-with-8e75601b38cb?source=rss------data_science-5)
+- [Surprise: Sistemas de Recomendación con Python](https://medium.com/@cgutierrez.infor.master/surprise-sistemas-de-recomendaci%C3%B3n-con-python-f3c6212a0a66?source=rss------data_science-5)
+- [Data Dilemma](https://medium.com/@will.torres/data-dilemna-feffb82ed3c6?source=rss------data_science-5)
+- [Meraklısına Notlar: Math Methods](https://medium.com/@sznzkl/merakl%C4%B1s%C4%B1na-notlar-math-methods-521ac91e9ec5?source=rss------data_science-5)
+- [Step-by-Step Guide to Time Series Forecasting with SARIMA Models](https://medium.datadriveninvestor.com/step-by-step-guide-to-time-series-forecasting-with-sarima-models-215d27c985f3?source=rss------data_science-5)
+- [Time Series Analysis — Explained](https://medium.datadriveninvestor.com/time-series-analysis-explained-1565fdcac683?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
