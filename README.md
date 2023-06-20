@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [6 Use Cases in Python Where * and ** Come in Handy](https://towardsdatascience.com/6-use-cases-in-python-where-and-come-in-handy-530dd9d04875?source=rss-2cf6b549448------2)
 - [Voicebox: The First Generative AI Model for Speech by Meta](https://sonery.medium.com/voicebox-the-first-generative-ai-model-for-speech-by-meta-efa3d7cd3bc3?source=rss-2cf6b549448------2)
 - [OpenAI Just Announced New Models with Function Calling Capabilities](https://sonery.medium.com/openai-just-announced-new-models-with-function-calling-capabilities-ace193cdd237?source=rss-2cf6b549448------2)
 - [Create Your AI Math Tutor App in 30 Lines of Code with Streamlit, LangChain, and ChatGPT](https://pub.towardsai.net/create-your-ai-math-tutor-app-in-30-lines-of-code-with-streamlit-langchain-and-chatgpt-1215ce746c4e?source=rss-2cf6b549448------2)
 - [Chain of Thought Prompting Facilitate LLMs Reasoning Abilities](https://towardsdatascience.com/chain-of-thought-prompting-facilitate-llms-reasoning-abilities-313cd7714938?source=rss-2cf6b549448------2)
-- [4 Pandas Functions for Element-Wise Comparison of DataFrames](https://towardsdatascience.com/4-pandas-functions-for-element-wise-comparison-of-dataframes-c7e06e51d399?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
