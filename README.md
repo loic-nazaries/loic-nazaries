@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Only 3 Resources You Need to Start in Machine Learning](https://medium.com/@hectoragvz/the-only-3-resources-you-need-to-start-in-machine-learning-abc0a6fcbd46?source=rss------data_science-5)
-- [ML for PMs: A Guide to Developing Accurate and Effective Models](https://medium.com/@ccying/ml-for-pms-a-guide-to-developing-accurate-and-effective-models-5210074c5280?source=rss------data_science-5)
-- [Plotly Dash vs Streamlit: Which one to choose for Python Dashboards](https://anmol3015.medium.com/plotly-dash-vs-streamlit-which-one-to-choose-for-python-dashboards-c8479d09644?source=rss------data_science-5)
-- [Teen Patti master Customer Care Number ☎️ 8252771037 ✓✓✓Call customer care helpline number 18+…](https://medium.com/@geetakumari886633/teen-patti-master-customer-care-number-%EF%B8%8F-8252771037-call-customer-care-helpline-number-18-272a315c4a7c?source=rss------data_science-5)
-- [Matplotlib Tips to Instantly Improve Your Data Visualizations — According to “Storytelling with…](https://towardsdatascience.com/matplotlib-tips-to-instantly-improve-your-data-visualizations-according-to-storytelling-with-8e75601b38cb?source=rss------data_science-5)
-- [Surprise: Sistemas de Recomendación con Python](https://medium.com/@cgutierrez.infor.master/surprise-sistemas-de-recomendaci%C3%B3n-con-python-f3c6212a0a66?source=rss------data_science-5)
-- [Data Dilemma](https://medium.com/@will.torres/data-dilemna-feffb82ed3c6?source=rss------data_science-5)
-- [Meraklısına Notlar: Math Methods](https://medium.com/@sznzkl/merakl%C4%B1s%C4%B1na-notlar-math-methods-521ac91e9ec5?source=rss------data_science-5)
-- [Step-by-Step Guide to Time Series Forecasting with SARIMA Models](https://medium.datadriveninvestor.com/step-by-step-guide-to-time-series-forecasting-with-sarima-models-215d27c985f3?source=rss------data_science-5)
-- [Time Series Analysis — Explained](https://medium.datadriveninvestor.com/time-series-analysis-explained-1565fdcac683?source=rss------data_science-5)
+- [Understanding Evaluation Metrics for Machine Learning Models with ChatGPT](https://medium.datadriveninvestor.com/understanding-evaluation-metrics-for-machine-learning-models-with-chatgpt-f930ce8b8e4b?source=rss------data_science-5)
+- [4 ChatGPT Plug-ins that Boost Your Productivity](https://medium.datadriveninvestor.com/4-chatgpt-plug-ins-that-boost-your-productivity-9b7ad2b10fe2?source=rss------data_science-5)
+- [How a Two-Person Team &lpar;and their AI&rpar; Entered the Top 10 of the World’s Most Successful Funds](https://medium.datadriveninvestor.com/how-a-two-person-team-and-their-ai-entered-the-top-10-of-the-worlds-most-successful-funds-1bb3fe823ef6?source=rss------data_science-5)
+- [To format SQL commands or not?](https://medium.datadriveninvestor.com/to-format-sql-commands-or-not-6107afb39a6a?source=rss------data_science-5)
+- [GPT-4: Become a God-like Prompt Engineer with This Single Prompt](https://medium.com/@smraiyyan/gpt-4-become-a-god-like-prompt-engineer-with-this-single-prompt-79d09a1f443a?source=rss------data_science-5)
+- [Learn the World of Data Science with Fanatical](https://medium.com/geekculture/learning-data-science-books-bundle-improve-course-tech-sql-python-analytics-sumary-review-3ab42a36e2e?source=rss------data_science-5)
+- [Visualizing Text Data](https://medium.com/@bruno.ponne/visualizing-text-data-f958f4d16780?source=rss------data_science-5)
+- [Exploratory Data Analysis&lpar;EDA&rpar; on Mining Geochemical Data](https://medium.com/@Fehintiti/exploratory-data-analysis-eda-on-mining-geochemical-data-4d6657c16058?source=rss------data_science-5)
+- [The Role of AI in Cybersecurity: Protecting Data in the Age of Digital Threats](https://medium.com/@empirequote12/the-role-of-ai-in-cybersecurity-protecting-data-in-the-age-of-digital-threats-d2055ca9be6a?source=rss------data_science-5)
+- [Supervised Learning](https://sowjanyasadashiva.medium.com/supervised-learning-f1883dfaa889?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
