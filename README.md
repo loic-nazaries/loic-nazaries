@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Understanding Evaluation Metrics for Machine Learning Models with ChatGPT](https://medium.datadriveninvestor.com/understanding-evaluation-metrics-for-machine-learning-models-with-chatgpt-f930ce8b8e4b?source=rss------data_science-5)
-- [4 ChatGPT Plug-ins that Boost Your Productivity](https://medium.datadriveninvestor.com/4-chatgpt-plug-ins-that-boost-your-productivity-9b7ad2b10fe2?source=rss------data_science-5)
-- [How a Two-Person Team &lpar;and their AI&rpar; Entered the Top 10 of the World’s Most Successful Funds](https://medium.datadriveninvestor.com/how-a-two-person-team-and-their-ai-entered-the-top-10-of-the-worlds-most-successful-funds-1bb3fe823ef6?source=rss------data_science-5)
-- [To format SQL commands or not?](https://medium.datadriveninvestor.com/to-format-sql-commands-or-not-6107afb39a6a?source=rss------data_science-5)
-- [GPT-4: Become a God-like Prompt Engineer with This Single Prompt](https://medium.com/@smraiyyan/gpt-4-become-a-god-like-prompt-engineer-with-this-single-prompt-79d09a1f443a?source=rss------data_science-5)
-- [Learn the World of Data Science with Fanatical](https://medium.com/geekculture/learning-data-science-books-bundle-improve-course-tech-sql-python-analytics-sumary-review-3ab42a36e2e?source=rss------data_science-5)
-- [Visualizing Text Data](https://medium.com/@bruno.ponne/visualizing-text-data-f958f4d16780?source=rss------data_science-5)
-- [Exploratory Data Analysis&lpar;EDA&rpar; on Mining Geochemical Data](https://medium.com/@Fehintiti/exploratory-data-analysis-eda-on-mining-geochemical-data-4d6657c16058?source=rss------data_science-5)
-- [The Role of AI in Cybersecurity: Protecting Data in the Age of Digital Threats](https://medium.com/@empirequote12/the-role-of-ai-in-cybersecurity-protecting-data-in-the-age-of-digital-threats-d2055ca9be6a?source=rss------data_science-5)
-- [Supervised Learning](https://sowjanyasadashiva.medium.com/supervised-learning-f1883dfaa889?source=rss------data_science-5)
+- [The Significance of Data Quality in the World of Generative AI](https://mona-rakibe.medium.com/the-significance-of-data-quality-in-the-world-of-generative-ai-5f84eb524299?source=rss------data_science-5)
+- [The Power of Encoding Techniques: A Comparative Analysis of Label Encoding, Frequency Encoding, and…](https://medium.com/@clintonakalazu/unveiling-the-power-of-encoding-techniques-a-comparative-analysis-of-label-encoding-frequency-956765e38aa3?source=rss------data_science-5)
+- [Understanding Different Types of Data Analytics: A Comprehensive Overview](https://medium.com/@ebenezeroyeku/understanding-different-types-of-data-analytics-a-comprehensive-overview-93d43f61efdb?source=rss------data_science-5)
+- [Understanding Key Metrics for Your Startup Product: Unlock the Potential of Data to Drive Your…](https://medium.com/gradient-growth/understanding-key-metrics-for-your-startup-product-unlock-the-potential-of-data-to-drive-your-40fd1353e7d2?source=rss------data_science-5)
+- [Musk Says Twitter Considers ‘Cisgender’ Slur Word Punishable by Temporary Suspension](https://medium.com/@lenka.whiteun/musk-says-twitter-considers-cisgender-slur-word-punishable-by-temporary-suspension-4dcee6a91d11?source=rss------data_science-5)
+- [Best Practices: Separating SQL Database Elements from Programming Language Keywords](https://medium.com/@akanjifaruq/best-practices-separating-sql-database-elements-from-programming-language-keywords-8ca6c3f01857?source=rss------data_science-5)
+- [A Basic Data Science Workflow with Snowpark for Python](https://medium.com/snowflake/a-basic-data-science-workflow-with-snowpark-for-python-c60eed5de5fd?source=rss------data_science-5)
+- [Programming Languages Insights](https://medium.com/coderbyte/programming-languages-insights-95d57079511b?source=rss------data_science-5)
+- [Which chart type should I use to effectively communicate data?](https://medium.com/internetstack/which-chart-type-should-i-use-to-effectively-communicate-data-eef4755a5700?source=rss------data_science-5)
+- [Reason why potential customers should buy Nordvpn](https://medium.com/@marketingmoney100/reason-why-potential-customers-should-buy-nordvpn-7a3a8ce6c2cc?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
