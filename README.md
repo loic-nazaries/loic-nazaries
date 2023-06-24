@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Striking the Same Chord: Uncovering Audio Similarities with Locality-Sensitive Hashing](https://medium.com/@hammad.javaid826/striking-the-same-chord-uncovering-audio-similarities-with-locality-sensitive-hashing-b2fcb0b18c49?source=rss------data_science-5)
-- [Creating Presentation Slides in R using Rbeamer](https://medium.com/@jchen001/creating-presentation-slides-in-r-using-rbeamer-ec615f7eb76d?source=rss------data_science-5)
-- [GPT-ENGINEER: Build your code-bases lightning Fast](https://generativeai.pub/gpt-engineer-build-your-code-bases-lightening-fast-d868f69aad2?source=rss------data_science-5)
-- [Python Programming for Data Science — Part 5&lpar;Matplotlib and Seaborn for Data Visualization&rpar;](https://medium.com/@suman_yadav/python-programming-for-data-science-part-5-matplotlib-and-seaborn-for-data-visualization-b8bf1571a1c5?source=rss------data_science-5)
-- [Linear Programming and the Simplex Method: Building and Comparing Implementations in Python](https://medium.com/@jodhernandezbemj/linear-programming-and-the-simplex-method-building-and-comparing-implementations-in-python-6e015c449409?source=rss------data_science-5)
-- [The Foundation of Every Field : Data Structures and Algorithms](https://medium.com/@vibhutianukriti/the-foundation-of-every-field-data-structures-and-algorithms-febf437f7c75?source=rss------data_science-5)
-- [Why Bito is the Only Tool You Need for Faster and Smarter Code Writing!](https://medium.com/@jainaashi422/why-bito-is-the-only-tool-you-need-for-faster-and-smarter-code-writing-9487f68a0644?source=rss------data_science-5)
-- [How to Geocode Data in R](https://medium.com/@g_murithi/how-to-geocode-data-in-r-f13e52b7c9cb?source=rss------data_science-5)
-- [How Bito’s Generate Comment Shortcut can help your team deliver high-quality work more efficiently](https://medium.com/@jainaashi422/how-bitos-generate-comment-shortcut-can-help-your-team-deliver-high-quality-work-more-efficiently-13de1059ca8f?source=rss------data_science-5)
-- [Streamline Your Data Analysis with These 11 Incredible Excel Add-Ons](https://medium.com/@madebolakayode/streamline-your-data-analysis-with-these-11-incredible-excel-add-ons-6340a0f3adcd?source=rss------data_science-5)
+- [Using ClearScape Analytics™ to Understand Online Customer Behavior](https://medium.com/teradata/using-clearscape-analytics-to-understand-online-customer-behavior-d1022847fce9?source=rss------data_science-5)
+- [The Intrinsic Significance of Data for AI — A Video Article by: Rick Spair](https://medium.com/@rickspair/the-intrinsic-significance-of-data-for-ai-a-video-article-by-rick-spair-43a1449e148?source=rss------data_science-5)
+- [Week 1 of Learning Python: Mixing Succession with Python](https://medium.com/@aarondukepifanio/week-1-of-learning-python-mixing-succession-with-python-a59f392889c6?source=rss------data_science-5)
+- [The Dance of Asynchrony: When Python Struts Its Stuff](https://medium.com/gradient-growth/the-dance-of-asynchrony-when-python-struts-its-stuff-73209a536458?source=rss------data_science-5)
+- [The dangers of assuming causation from correlation](https://medium.com/internetstack/the-dangers-of-assuming-causation-from-correlation-667904fcf335?source=rss------data_science-5)
+- [Impact of Artificial Intelligence on Humankind](https://tomaskutac.medium.com/impact-of-artificial-intelligence-on-humankind-9d76ec61dbfa?source=rss------data_science-5)
+- [AI Personal Assistants: Savior of Time or Slayer of Human Connection?](https://medium.com/@sahirmaharaj/ai-personal-assistants-savior-of-time-or-slayer-of-human-connection-3d3dfe02d05?source=rss------data_science-5)
+- [T-SQL Best Practices: using CASE statements in the WHERE clause and DISTINCT](https://medium.com/@erikawittorf/t-sql-best-practices-using-case-statements-in-the-where-clause-and-distinct-a82448729852?source=rss------data_science-5)
+- [Demystifying SQL Execution Order: Understanding How Queries are Processed](https://blog.devgenius.io/demystifying-sql-execution-order-understanding-how-queries-are-processed-630058f13c55?source=rss------data_science-5)
+- [The Openai Kaleidoscope](https://medium.com/@avocadoakash/the-openai-kaleidoscope-56aceea899fa?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
