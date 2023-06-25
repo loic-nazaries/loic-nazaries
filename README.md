@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Using ClearScape Analytics™ to Understand Online Customer Behavior](https://medium.com/teradata/using-clearscape-analytics-to-understand-online-customer-behavior-d1022847fce9?source=rss------data_science-5)
-- [The Intrinsic Significance of Data for AI — A Video Article by: Rick Spair](https://medium.com/@rickspair/the-intrinsic-significance-of-data-for-ai-a-video-article-by-rick-spair-43a1449e148?source=rss------data_science-5)
-- [Week 1 of Learning Python: Mixing Succession with Python](https://medium.com/@aarondukepifanio/week-1-of-learning-python-mixing-succession-with-python-a59f392889c6?source=rss------data_science-5)
-- [The Dance of Asynchrony: When Python Struts Its Stuff](https://medium.com/gradient-growth/the-dance-of-asynchrony-when-python-struts-its-stuff-73209a536458?source=rss------data_science-5)
-- [The dangers of assuming causation from correlation](https://medium.com/internetstack/the-dangers-of-assuming-causation-from-correlation-667904fcf335?source=rss------data_science-5)
-- [Impact of Artificial Intelligence on Humankind](https://tomaskutac.medium.com/impact-of-artificial-intelligence-on-humankind-9d76ec61dbfa?source=rss------data_science-5)
-- [AI Personal Assistants: Savior of Time or Slayer of Human Connection?](https://medium.com/@sahirmaharaj/ai-personal-assistants-savior-of-time-or-slayer-of-human-connection-3d3dfe02d05?source=rss------data_science-5)
-- [T-SQL Best Practices: using CASE statements in the WHERE clause and DISTINCT](https://medium.com/@erikawittorf/t-sql-best-practices-using-case-statements-in-the-where-clause-and-distinct-a82448729852?source=rss------data_science-5)
-- [Demystifying SQL Execution Order: Understanding How Queries are Processed](https://blog.devgenius.io/demystifying-sql-execution-order-understanding-how-queries-are-processed-630058f13c55?source=rss------data_science-5)
-- [The Openai Kaleidoscope](https://medium.com/@avocadoakash/the-openai-kaleidoscope-56aceea899fa?source=rss------data_science-5)
+- [ML-E4: Lots of ways an enterprise might give you ACCESS to DATA](https://medium.com/@paul.k.pallaghy/ml-e4-lots-of-ways-an-enterprise-might-give-you-access-to-data-246b5339998?source=rss------data_science-5)
+- [Power BI](https://medium.com/@francethais/power-bi-c06b85388ff8?source=rss------data_science-5)
+- [What was the &#39;horrendous collapse&#39; of the Titan submarine? A specialist makes sense of](https://medium.com/@cd404487/what-was-the-horrendous-collapse-of-the-titan-submarine-a-specialist-makes-sense-of-100888a9aff3?source=rss------data_science-5)
+- [ML-E3: Machine learning in 5 lines of python &lpar;plus a real-world demo too&rpar;](https://medium.com/@paul.k.pallaghy/ml-e3-machine-learning-in-5-lines-of-python-plus-a-real-world-demo-too-a467815b78e4?source=rss------data_science-5)
+- [Decoding My College Journey: Why I Chose Data Science](https://medium.com/@vweng/decoding-my-college-journey-why-i-chose-data-science-3c17616b33b4?source=rss------data_science-5)
+- [11 AI Tools besides ChatGPT for the Busiest Top 1% Professionals](https://medium.com/@smraiyyan/11-ai-tools-besides-chatgpt-for-the-busiest-top-1-professionals-4b6228cc209?source=rss------data_science-5)
+- [Unveiling the Truth About GPT-4: Is it as Innovative as We Thought?](https://medium.com/@simon.villani/unveiling-the-truth-about-gpt-4-is-it-as-innovative-as-we-thought-776d2173c1f6?source=rss------data_science-5)
+- [Beginner’s Guide To GCP BigQuery &lpar;Part 2&rpar;](https://medium.com/@groovyhoon/beginners-guide-to-gcp-bigquery-part-2-93d1d01ef0e6?source=rss------data_science-5)
+- [Marketing Mix Modeling: Response Curves and Budget Optimization](https://medium.com/swlh/marketing-mix-modeling-response-curves-and-budget-optimization-6546293e44bf?source=rss------data_science-5)
+- [Understanding Train, Test, and Validation Dataset Split in Simple Quick Terms](https://medium.com/@rahulchavan4894/understanding-train-test-and-validation-dataset-split-in-simple-quick-terms-5a8630fe58c8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
