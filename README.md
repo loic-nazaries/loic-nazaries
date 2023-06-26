@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [ML-E4: Lots of ways an enterprise might give you ACCESS to DATA](https://medium.com/@paul.k.pallaghy/ml-e4-lots-of-ways-an-enterprise-might-give-you-access-to-data-246b5339998?source=rss------data_science-5)
-- [Power BI](https://medium.com/@francethais/power-bi-c06b85388ff8?source=rss------data_science-5)
-- [What was the &#39;horrendous collapse&#39; of the Titan submarine? A specialist makes sense of](https://medium.com/@cd404487/what-was-the-horrendous-collapse-of-the-titan-submarine-a-specialist-makes-sense-of-100888a9aff3?source=rss------data_science-5)
-- [ML-E3: Machine learning in 5 lines of python &lpar;plus a real-world demo too&rpar;](https://medium.com/@paul.k.pallaghy/ml-e3-machine-learning-in-5-lines-of-python-plus-a-real-world-demo-too-a467815b78e4?source=rss------data_science-5)
-- [Decoding My College Journey: Why I Chose Data Science](https://medium.com/@vweng/decoding-my-college-journey-why-i-chose-data-science-3c17616b33b4?source=rss------data_science-5)
-- [11 AI Tools besides ChatGPT for the Busiest Top 1% Professionals](https://medium.com/@smraiyyan/11-ai-tools-besides-chatgpt-for-the-busiest-top-1-professionals-4b6228cc209?source=rss------data_science-5)
-- [Unveiling the Truth About GPT-4: Is it as Innovative as We Thought?](https://medium.com/@simon.villani/unveiling-the-truth-about-gpt-4-is-it-as-innovative-as-we-thought-776d2173c1f6?source=rss------data_science-5)
-- [Beginner’s Guide To GCP BigQuery &lpar;Part 2&rpar;](https://medium.com/@groovyhoon/beginners-guide-to-gcp-bigquery-part-2-93d1d01ef0e6?source=rss------data_science-5)
-- [Marketing Mix Modeling: Response Curves and Budget Optimization](https://medium.com/swlh/marketing-mix-modeling-response-curves-and-budget-optimization-6546293e44bf?source=rss------data_science-5)
-- [Understanding Train, Test, and Validation Dataset Split in Simple Quick Terms](https://medium.com/@rahulchavan4894/understanding-train-test-and-validation-dataset-split-in-simple-quick-terms-5a8630fe58c8?source=rss------data_science-5)
+- [Enhancing Customer Retention: Leveraging Machine Learning to Predict Churn](https://calistussaratuki.medium.com/enhancing-customer-retention-leveraging-machine-learning-to-predict-churn-e1c34eda581c?source=rss------data_science-5)
+- [Things about chameleon](https://medium.com/@waleej142/things-about-chameleon-1451173053f6?source=rss------data_science-5)
+- [Run Python Code On RStudio](https://medium.com/@ai.mlresearcher/run-python-code-on-rstudio-4bf284d8e6d?source=rss------data_science-5)
+- [Secure Your OpenAI, Pinecone, DB Keys with Dotenv Vault](https://ernestodotnet.medium.com/secure-your-openai-pinecone-db-keys-with-dotenv-vault-f58d163fff29?source=rss------data_science-5)
+- [I will write data science resume, data analyst, cyber security and resume writing](https://medium.com/@ceciliamatthew91/i-will-write-data-science-resume-data-analyst-cyber-security-and-resume-writing-37b5906d26ee?source=rss------data_science-5)
+- [Veri Bilimi Serüveni Bölüm 1: SQL &lpar;III&rpar;](https://burhankibardatascience.medium.com/veri-bilimi-ser%C3%BCveni-b%C3%B6l%C3%BCm-1-sql-iii-d40f54136197?source=rss------data_science-5)
+- [The Use of APIs](https://medium.com/teamcalai/the-use-of-apis-378ee7351669?source=rss------data_science-5)
+- [O que eu aprendi no curso de SQL do Kaggle parte 2](https://medium.com/@jvsilvaaraujo98/o-que-eu-aprendi-no-curso-de-sql-do-kaggle-parte-2-5ec28e590699?source=rss------data_science-5)
+- [The Truth Machine: Can AI Replace Thought?](https://medium.com/@hariskr/the-truth-machine-can-ai-replace-thought-7e0903a2ea93?source=rss------data_science-5)
+- [Matriz de Confusão — A origem das métricas de classificação.](https://alexandrerod.medium.com/matriz-de-confus%C3%A3o-a-origem-das-m%C3%A9tricas-de-classifica%C3%A7%C3%A3o-ff5f262ba66e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
