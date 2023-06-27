@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Enhancing Customer Retention: Leveraging Machine Learning to Predict Churn](https://calistussaratuki.medium.com/enhancing-customer-retention-leveraging-machine-learning-to-predict-churn-e1c34eda581c?source=rss------data_science-5)
-- [Things about chameleon](https://medium.com/@waleej142/things-about-chameleon-1451173053f6?source=rss------data_science-5)
-- [Run Python Code On RStudio](https://medium.com/@ai.mlresearcher/run-python-code-on-rstudio-4bf284d8e6d?source=rss------data_science-5)
-- [Secure Your OpenAI, Pinecone, DB Keys with Dotenv Vault](https://ernestodotnet.medium.com/secure-your-openai-pinecone-db-keys-with-dotenv-vault-f58d163fff29?source=rss------data_science-5)
-- [I will write data science resume, data analyst, cyber security and resume writing](https://medium.com/@ceciliamatthew91/i-will-write-data-science-resume-data-analyst-cyber-security-and-resume-writing-37b5906d26ee?source=rss------data_science-5)
-- [Veri Bilimi Serüveni Bölüm 1: SQL &lpar;III&rpar;](https://burhankibardatascience.medium.com/veri-bilimi-ser%C3%BCveni-b%C3%B6l%C3%BCm-1-sql-iii-d40f54136197?source=rss------data_science-5)
-- [The Use of APIs](https://medium.com/teamcalai/the-use-of-apis-378ee7351669?source=rss------data_science-5)
-- [O que eu aprendi no curso de SQL do Kaggle parte 2](https://medium.com/@jvsilvaaraujo98/o-que-eu-aprendi-no-curso-de-sql-do-kaggle-parte-2-5ec28e590699?source=rss------data_science-5)
-- [The Truth Machine: Can AI Replace Thought?](https://medium.com/@hariskr/the-truth-machine-can-ai-replace-thought-7e0903a2ea93?source=rss------data_science-5)
-- [Matriz de Confusão — A origem das métricas de classificação.](https://alexandrerod.medium.com/matriz-de-confus%C3%A3o-a-origem-das-m%C3%A9tricas-de-classifica%C3%A7%C3%A3o-ff5f262ba66e?source=rss------data_science-5)
+- [By Lunothando](https://medium.com/@lunothando92/by-lunothando-8155ab21ff49?source=rss------data_science-5)
+- [Our Common Ratings Method Should Get A 3 Out Of 5 Stars, And We Deserve Better](https://medium.com/@michael.d.kellar/our-common-ratings-method-should-get-a-3-out-of-5-stars-and-we-deserve-better-c7c276872fb?source=rss------data_science-5)
+- [☎️❼❼❹⑨⓪❶❽❺④③](https://medium.com/@jakkumar500/%EF%B8%8F%E2%9D%BC%E2%9D%BC%E2%9D%B9%E2%91%A8%E2%93%AA%E2%9D%B6%E2%9D%BD%E2%9D%BA%E2%91%A3%E2%91%A2-1f3f65fc1b8f?source=rss------data_science-5)
+- [Reflecting on Berlin Buzzwords 2023](https://blog.gopenai.com/reflecting-on-berlin-buzzwords-2023-8fa42b2ecc?source=rss------data_science-5)
+- [APRENDIZAJES OBTENIDOS EN EL MÓDULO ‘SISTEMAS DE RECOMENDACIÓN’](https://medium.com/@tavohen/aprendizajes-obtenidos-en-el-m%C3%B3dulo-sistemas-de-recomendaci%C3%B3n-f6dd84d849bd?source=rss------data_science-5)
+- [Unveiling the Top 10 Algorithms Every Programmer Should Know](https://levelup.gitconnected.com/unveiling-the-top-10-algorithms-every-programmer-should-know-ec6b373d39be?source=rss------data_science-5)
+- [Tokens Used to Bridge onto Polygon zkEVM](https://medium.com/@jkim_tran/tokens-used-to-bridge-onto-polygon-zkevm-a20f3f09fe4?source=rss------data_science-5)
+- [7 Months of Daily ChatGPT: The Top 10 Hacks that Revolutionized My Productivity](https://johnvastola.medium.com/7-months-of-daily-chatgpt-the-top-10-hacks-that-revolutionized-my-productivity-967e76c9e842?source=rss------data_science-5)
+- [I will craft you a professional data science, data analytics, and resume writing](https://medium.com/@michaeljoyce1451/i-will-craft-you-a-professional-data-science-data-analytics-and-resume-writing-83a269fd1b21?source=rss------data_science-5)
+- [Build a Passive Aggressive Classifier Model &amp; Deploy it as WebApp.](https://medium.com/@gurmanjotsingh97/build-a-passive-aggressive-classifier-model-deploy-it-as-webapp-835f9a3094d5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
