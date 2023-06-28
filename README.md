@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [By Lunothando](https://medium.com/@lunothando92/by-lunothando-8155ab21ff49?source=rss------data_science-5)
-- [Our Common Ratings Method Should Get A 3 Out Of 5 Stars, And We Deserve Better](https://medium.com/@michael.d.kellar/our-common-ratings-method-should-get-a-3-out-of-5-stars-and-we-deserve-better-c7c276872fb?source=rss------data_science-5)
-- [☎️❼❼❹⑨⓪❶❽❺④③](https://medium.com/@jakkumar500/%EF%B8%8F%E2%9D%BC%E2%9D%BC%E2%9D%B9%E2%91%A8%E2%93%AA%E2%9D%B6%E2%9D%BD%E2%9D%BA%E2%91%A3%E2%91%A2-1f3f65fc1b8f?source=rss------data_science-5)
-- [Reflecting on Berlin Buzzwords 2023](https://blog.gopenai.com/reflecting-on-berlin-buzzwords-2023-8fa42b2ecc?source=rss------data_science-5)
-- [APRENDIZAJES OBTENIDOS EN EL MÓDULO ‘SISTEMAS DE RECOMENDACIÓN’](https://medium.com/@tavohen/aprendizajes-obtenidos-en-el-m%C3%B3dulo-sistemas-de-recomendaci%C3%B3n-f6dd84d849bd?source=rss------data_science-5)
-- [Unveiling the Top 10 Algorithms Every Programmer Should Know](https://levelup.gitconnected.com/unveiling-the-top-10-algorithms-every-programmer-should-know-ec6b373d39be?source=rss------data_science-5)
-- [Tokens Used to Bridge onto Polygon zkEVM](https://medium.com/@jkim_tran/tokens-used-to-bridge-onto-polygon-zkevm-a20f3f09fe4?source=rss------data_science-5)
-- [7 Months of Daily ChatGPT: The Top 10 Hacks that Revolutionized My Productivity](https://johnvastola.medium.com/7-months-of-daily-chatgpt-the-top-10-hacks-that-revolutionized-my-productivity-967e76c9e842?source=rss------data_science-5)
-- [I will craft you a professional data science, data analytics, and resume writing](https://medium.com/@michaeljoyce1451/i-will-craft-you-a-professional-data-science-data-analytics-and-resume-writing-83a269fd1b21?source=rss------data_science-5)
-- [Build a Passive Aggressive Classifier Model &amp; Deploy it as WebApp.](https://medium.com/@gurmanjotsingh97/build-a-passive-aggressive-classifier-model-deploy-it-as-webapp-835f9a3094d5?source=rss------data_science-5)
+- [My Top 10 Regrets After Learning Power BI](https://medium.datadriveninvestor.com/my-top-10-regrets-after-learning-power-bi-8507c8e367fe?source=rss------data_science-5)
+- [Synthetic Data for Deep Learning: Enhancing Training and Advancing AI](https://medium.com/@evertongomede/synthetic-data-for-deep-learning-enhancing-training-and-advancing-ai-19b3aa33d058?source=rss------data_science-5)
+- [26 Mind-Blowing Python One-Liners You Should Know &lpar;Part II&rpar;](https://levelup.gitconnected.com/26-mind-blowing-python-one-liners-you-should-know-part-ii-6b6e908f8344?source=rss------data_science-5)
+- [Y’all… fair warning. I have a weird sense of humor.](https://medium.com/@samh03349/yall-fair-warning-i-have-a-weird-sense-of-humor-f6304596b83e?source=rss------data_science-5)
+- [Hacks to Speed up your Data Analysis in Python](https://anmol3015.medium.com/hacks-to-speed-up-your-data-analysis-in-python-ca6eabf89d31?source=rss------data_science-5)
+- [Unveiling Titanic’s Hidden Secrets: “An Intriguing Exploratory Data Analytics Analysis Unraveling…](https://medium.com/@annetteamoa1/unveiling-titanics-hidden-secrets-an-intriguing-exploratory-data-analytics-analysis-unraveling-84e6a57bbd50?source=rss------data_science-5)
+- [Learning the Power of Collaboration](https://medium.com/@sigmundserranilla/learning-the-power-of-collaboration-46e2cbcfeeb9?source=rss------data_science-5)
+- [Data Engineering Chronicles](https://medium.com/@CrazyStupidTraveller/data-engineering-chronicles-secrets-of-data-realm-a12ff2e5ef78?source=rss------data_science-5)
+- [I will create professional resume writing, data science data analytics and cover letter](https://medium.com/@clararesume133/i-will-create-professional-resume-writing-data-science-data-analytics-and-cover-letter-9b724f1c477a?source=rss------data_science-5)
+- [Optimizing Your Product Lifecycle with Analytics: The Secret Ingredient for Startup Success](https://medium.com/gradient-growth/optimizing-your-product-lifecycle-with-analytics-the-secret-ingredient-for-startup-success-ecd6150a17da?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
