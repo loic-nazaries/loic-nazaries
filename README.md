@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [My Top 10 Regrets After Learning Power BI](https://medium.datadriveninvestor.com/my-top-10-regrets-after-learning-power-bi-8507c8e367fe?source=rss------data_science-5)
-- [Synthetic Data for Deep Learning: Enhancing Training and Advancing AI](https://medium.com/@evertongomede/synthetic-data-for-deep-learning-enhancing-training-and-advancing-ai-19b3aa33d058?source=rss------data_science-5)
-- [26 Mind-Blowing Python One-Liners You Should Know &lpar;Part II&rpar;](https://levelup.gitconnected.com/26-mind-blowing-python-one-liners-you-should-know-part-ii-6b6e908f8344?source=rss------data_science-5)
-- [Y’all… fair warning. I have a weird sense of humor.](https://medium.com/@samh03349/yall-fair-warning-i-have-a-weird-sense-of-humor-f6304596b83e?source=rss------data_science-5)
-- [Hacks to Speed up your Data Analysis in Python](https://anmol3015.medium.com/hacks-to-speed-up-your-data-analysis-in-python-ca6eabf89d31?source=rss------data_science-5)
-- [Unveiling Titanic’s Hidden Secrets: “An Intriguing Exploratory Data Analytics Analysis Unraveling…](https://medium.com/@annetteamoa1/unveiling-titanics-hidden-secrets-an-intriguing-exploratory-data-analytics-analysis-unraveling-84e6a57bbd50?source=rss------data_science-5)
-- [Learning the Power of Collaboration](https://medium.com/@sigmundserranilla/learning-the-power-of-collaboration-46e2cbcfeeb9?source=rss------data_science-5)
-- [Data Engineering Chronicles](https://medium.com/@CrazyStupidTraveller/data-engineering-chronicles-secrets-of-data-realm-a12ff2e5ef78?source=rss------data_science-5)
-- [I will create professional resume writing, data science data analytics and cover letter](https://medium.com/@clararesume133/i-will-create-professional-resume-writing-data-science-data-analytics-and-cover-letter-9b724f1c477a?source=rss------data_science-5)
-- [Optimizing Your Product Lifecycle with Analytics: The Secret Ingredient for Startup Success](https://medium.com/gradient-growth/optimizing-your-product-lifecycle-with-analytics-the-secret-ingredient-for-startup-success-ecd6150a17da?source=rss------data_science-5)
+- [Choosing the Ideal Programming Language for Data Science: Python vs. R](https://medium.com/@kodegasm.id/choosing-the-ideal-programming-language-for-data-science-python-vs-r-d9cfa3a9e144?source=rss------data_science-5)
+- [Data Engineer: The Sexiest Job of the 21st Century](https://medium.com/@mattgazzano/data-engineer-the-sexiest-job-of-the-21st-century-8f158be07f64?source=rss------data_science-5)
+- [What If Analysis in Tableau — Discover Insights and Optimize Decision Making](https://matt-popovic-2.medium.com/what-if-analysis-in-tableau-discover-insights-and-optimize-decision-making-fd22e569abba?source=rss------data_science-5)
+- [How to Create a Scatter Plot in Tableau for Data Analysis | Step-by-Step Guide](https://matt-popovic-2.medium.com/how-to-create-a-scatter-plot-in-tableau-for-data-analysis-step-by-step-guide-85c5aa8190b4?source=rss------data_science-5)
+- [What is a Random Forest? How is it made?](https://medium.com/@luvmutreja25/what-is-a-random-forest-how-is-it-made-29e9c34b1581?source=rss------data_science-5)
+- [Understanding Poisson Regression and Negative Binomial Regression](https://medium.com/@chadalapakam/understanding-poisson-regression-and-negative-binomial-regression-1eed21c08b93?source=rss------data_science-5)
+- [Can We Trust Decisions Made By Deep Learning Systems?](https://medium.com/swlh/can-we-trust-decisions-made-by-deep-learning-systems-2d812bb2045a?source=rss------data_science-5)
+- [6 R Packages for Image Processing](https://medium.com/@jchen001/6-r-packages-for-image-processing-b9cefbb4ecd7?source=rss------data_science-5)
+- [Leverage the Power of AI with ChatGPT in Power BI](https://medium.com/@powerbigpt/leverage-the-power-of-ai-with-chatgpt-in-power-bi-e149f3d2458?source=rss------data_science-5)
+- [Economics in the midst of Machine Learning, and the Digital Frontier](https://medium.com/@asanteyaw600/economics-in-the-midst-of-machine-learning-and-the-digital-frontier-a7addc7ca43?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
