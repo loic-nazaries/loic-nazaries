@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Choosing the Ideal Programming Language for Data Science: Python vs. R](https://medium.com/@kodegasm.id/choosing-the-ideal-programming-language-for-data-science-python-vs-r-d9cfa3a9e144?source=rss------data_science-5)
-- [Data Engineer: The Sexiest Job of the 21st Century](https://medium.com/@mattgazzano/data-engineer-the-sexiest-job-of-the-21st-century-8f158be07f64?source=rss------data_science-5)
-- [What If Analysis in Tableau — Discover Insights and Optimize Decision Making](https://matt-popovic-2.medium.com/what-if-analysis-in-tableau-discover-insights-and-optimize-decision-making-fd22e569abba?source=rss------data_science-5)
-- [How to Create a Scatter Plot in Tableau for Data Analysis | Step-by-Step Guide](https://matt-popovic-2.medium.com/how-to-create-a-scatter-plot-in-tableau-for-data-analysis-step-by-step-guide-85c5aa8190b4?source=rss------data_science-5)
-- [What is a Random Forest? How is it made?](https://medium.com/@luvmutreja25/what-is-a-random-forest-how-is-it-made-29e9c34b1581?source=rss------data_science-5)
-- [Understanding Poisson Regression and Negative Binomial Regression](https://medium.com/@chadalapakam/understanding-poisson-regression-and-negative-binomial-regression-1eed21c08b93?source=rss------data_science-5)
-- [Can We Trust Decisions Made By Deep Learning Systems?](https://medium.com/swlh/can-we-trust-decisions-made-by-deep-learning-systems-2d812bb2045a?source=rss------data_science-5)
-- [6 R Packages for Image Processing](https://medium.com/@jchen001/6-r-packages-for-image-processing-b9cefbb4ecd7?source=rss------data_science-5)
-- [Leverage the Power of AI with ChatGPT in Power BI](https://medium.com/@powerbigpt/leverage-the-power-of-ai-with-chatgpt-in-power-bi-e149f3d2458?source=rss------data_science-5)
-- [Economics in the midst of Machine Learning, and the Digital Frontier](https://medium.com/@asanteyaw600/economics-in-the-midst-of-machine-learning-and-the-digital-frontier-a7addc7ca43?source=rss------data_science-5)
+- [Data Science with Python — Why Use Python?](https://medium.com/@olivalpaulino/data-science-with-python-why-use-python-86736879fe0a?source=rss------data_science-5)
+- [Machine Learning Data Scientist Certificates: Stay Ahead in 2023 and 2024 Competitive Job Market](https://medium.com/@saileshsaini85/machine-learning-data-scientist-certificates-stay-ahead-in-2023-and-2024-competitive-job-market-6a90c2e733be?source=rss------data_science-5)
+- [Mastering SQL: The Art of Sorting with ORDER BY](https://medium.com/@TechSavvyScribe/mastering-sql-the-art-of-sorting-with-order-by-81ee775fae06?source=rss------data_science-5)
+- [AI Regulations Are an Opportunity, So Don’t Just Check the Compliance Box](https://medium.com/vertaai/ai-regulations-are-an-opportunity-so-dont-just-check-the-compliance-box-81347a22e5b3?source=rss------data_science-5)
+- [Is Python a must-have skill in the supply chain? How much Python do I need?](https://medium.com/@sime.curkovic/is-python-a-must-have-skill-in-the-supply-chain-how-much-python-do-i-need-f79d54a33607?source=rss------data_science-5)
+- [“Machine Learning &amp; Deep Learning: Comprendiendo las diferencias para un mejor entendimiento”](https://medium.com/@liamarguedas/machine-learning-deep-learning-comprendiendo-las-diferencias-para-un-mejor-entendimiento-5815b15a1640?source=rss------data_science-5)
+- [What is Machine Learning and How Does it Work? For Beginners!](https://medium.com/@RenderAnalytics/what-is-machine-learning-and-how-does-it-work-for-beginners-d789253e2aca?source=rss------data_science-5)
+- [Power Usage Effectiveness &lpar;PUE&rpar;: Unlocking Energy Efficiency in Data Centers](https://blog.ruffingalactic.com/power-usage-effectiveness-pue-unlocking-energy-efficiency-in-data-centers-b33349d5ad2c?source=rss------data_science-5)
+- [NBA Game Prediction System](https://medium.com/@nishchay89/nba-game-prediction-system-835263edd2fe?source=rss------data_science-5)
+- [How to install and setup Apache Hadoop, Hive &amp; Nifi on macOS with apple silicon M1/M2:](https://medium.com/@Baci-Ak/how-to-install-and-setup-apache-hadoop-hive-nifi-on-macos-with-apple-silicon-m1-m2-995798e8ba23?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
