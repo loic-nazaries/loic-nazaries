@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Neural Language Processing &lpar;NLP&rpar;: Text Classification with Python](https://medium.com/@nitali960/neural-language-processing-nlp-text-classification-with-python-42947014ab81?source=rss------data_science-5)
-- [David Azzato: A Pioneer in Online Payment Solutions and Digital Media Services](https://medium.com/@ErosGuide/david-azzato-a-pioneer-in-online-payment-solutions-and-digital-media-services-7faaef12e4d0?source=rss------data_science-5)
-- [Meet Fully OpenSource Foundation Model By Salesforce XGen-7B](https://pub.towardsai.net/meet-fully-opensource-foundation-model-by-salesforce-xgen-7b-da43e7d7d8a2?source=rss------data_science-5)
-- [10 Powerful Python Visualizations to Enhance Power BI Reports](https://medium.datadriveninvestor.com/10-powerful-python-visualizations-to-enhance-power-bi-reports-a7e22cbffdfb?source=rss------data_science-5)
-- [6 Reasons Why You Should Stop Using Jupyter Notebooks](https://anmol3015.medium.com/6-reasons-why-you-should-stop-using-jupyter-notebooks-7e0b9e0f0ca4?source=rss------data_science-5)
-- [Supercharge Your Data Science Skills with These Captivating Projects!](https://medium.com/@informative314/data-science-projects-in-python-425baae63b71?source=rss------data_science-5)
-- [Honestcash LOAN   instant  c u s t o m e r care number//6263629007//☎](https://medium.com/@pelef76243/honestcash-loan-instant-c-u-s-t-o-m-e-r-care-number-6263629007-4a50c499549d?source=rss------data_science-5)
-- [Honestcash LOAN   instant  c u s t o m e r care number//6263629007//☎Honestcash LOAN   instant  c…](https://medium.com/@pelef76243/honestcash-loan-instant-c-u-s-t-o-m-e-r-care-number-6263629007-honestcash-loan-instant-c-9ab9b024e9e7?source=rss------data_science-5)
-- [Honestcash LOAN   instant  c u s t o m e r care number//6263629007//☎](https://medium.com/@pelef76243/honestcash-loan-instant-c-u-s-t-o-m-e-r-care-number-6263629007-ea80abbabe17?source=rss------data_science-5)
-- [Honestcash LOAN   instant  c u s t o m e r care number//6263629007//☎](https://medium.com/@pelef76243/honestcash-loan-instant-c-u-s-t-o-m-e-r-care-number-6263629007-828ba63181ee?source=rss------data_science-5)
+- [Cash Today CUSTOMER Care Number /6304150004//9392219156/Toll-Free](https://medium.com/@maheshbabu0mb0/cash-today-customer-care-number-6304150004-9392219156-toll-free-4712d78c3057?source=rss------data_science-5)
+- [Data Analytics: The Industry That Keeps Growing](https://medium.com/@daniel.lundy.analyst/data-analytics-the-industry-that-keeps-growing-8ed6238411c4?source=rss------data_science-5)
+- [Load Testing with Locust: A Beginner’s Guide](https://levelup.gitconnected.com/load-testing-with-locust-a-beginners-guide-5a6efa2898a5?source=rss------data_science-5)
+- [INTRODUÇÃO À ESTATISTICA](https://medium.com/@wallacetavaresoliveira84/introdu%C3%A7%C3%A3o-%C3%A0-estatistica-b4384ef8f2d5?source=rss------data_science-5)
+- [Laxmipati Com Customer Care Helpline Number /6304150004//9392219156/Toll-Free 24/7 Hours Available…](https://medium.com/@nishakhn781/laxmipati-com-customer-care-helpline-number-6304150004-9392219156-toll-free-24-7-hours-available-b114e8fd9659?source=rss------data_science-5)
+- [Creating a Data as a Service &lpar;DaaS&rpar; Platform: Leveraging RESTful Web API, Swagger, GitHub…](https://medium.com/@dynotes/creating-a-data-as-a-service-daas-platform-leveraging-restful-web-api-swagger-github-78096cd36c67?source=rss------data_science-5)
+- [Srejonee Com Customer Care Helpline Number /6304150004//9392219156/Toll-Free 24/7 Hours Available…](https://medium.com/@mk4590821/srejonee-com-customer-care-helpline-number-6304150004-9392219156-toll-free-24-7-hours-available-d63459537c68?source=rss------data_science-5)
+- [Labelaartichauhan Com Customer Care Helpline Number /6304150004//9392219156/Toll-Free 24/7 Hours…](https://medium.com/@mk4590821/labelaartichauhan-com-customer-care-helpline-number-6304150004-9392219156-toll-free-24-7-hours-4eb37aa990a6?source=rss------data_science-5)
+- [My “DataWeek” Recap](https://medium.com/be-data-driven/my-dataweek-recap-18e3a176de71?source=rss------data_science-5)
+- [Dealsforevers Myshopify Com Customer Care Helpline Number /6304150004//9392219156/Toll-Free 24/7…](https://medium.com/@mk4590821/dealsforevers-myshopify-com-customer-care-helpline-number-6304150004-9392219156-toll-free-24-7-337d89d74c3f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
