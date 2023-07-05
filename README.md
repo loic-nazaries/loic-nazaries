@@ -123,11 +123,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [500 Exercises to Master Python Pandas](https://sonery.medium.com/500-exercises-to-master-python-pandas-b6d998197762?source=rss-2cf6b549448------2)
+- [10 Most Frequently Asked Python List Questions on Stack Overflow](https://towardsdatascience.com/10-most-frequently-asked-python-list-questions-on-stack-overflow-5bfd71c8771b?source=rss-2cf6b549448------2)
 - [4 Memory Types of LangChain to Enhance the Performance of LLMs](https://sonery.medium.com/4-memory-types-of-langchain-to-enhance-the-performance-of-llms-bda339d2e904?source=rss-2cf6b549448------2)
 - [The Memory Component of LangChain for ChatGPT Conversations](https://sonery.medium.com/the-memory-component-of-langchain-for-chatgpt-conversations-8f42a4e9db5b?source=rss-2cf6b549448------2)
 - [Introducing a Pandas Crash Course on YouTube](https://sonery.medium.com/introducing-a-pandas-crash-course-on-youtube-dcb1c38e0bb4?source=rss-2cf6b549448------2)
-- [8 Examples to Master SQL Rank, Dense Rank, and Row Number Functions](https://sonery.medium.com/8-examples-to-master-sql-rank-dense-rank-and-row-number-functions-43097d496f58?source=rss-2cf6b549448------2)
-- [6 Use Cases in Python Where * and ** Come in Handy](https://towardsdatascience.com/6-use-cases-in-python-where-and-come-in-handy-530dd9d04875?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
