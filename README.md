@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Cash Today CUSTOMER Care Number /6304150004//9392219156/Toll-Free](https://medium.com/@maheshbabu0mb0/cash-today-customer-care-number-6304150004-9392219156-toll-free-4712d78c3057?source=rss------data_science-5)
-- [Data Analytics: The Industry That Keeps Growing](https://medium.com/@daniel.lundy.analyst/data-analytics-the-industry-that-keeps-growing-8ed6238411c4?source=rss------data_science-5)
-- [Load Testing with Locust: A Beginner’s Guide](https://levelup.gitconnected.com/load-testing-with-locust-a-beginners-guide-5a6efa2898a5?source=rss------data_science-5)
-- [INTRODUÇÃO À ESTATISTICA](https://medium.com/@wallacetavaresoliveira84/introdu%C3%A7%C3%A3o-%C3%A0-estatistica-b4384ef8f2d5?source=rss------data_science-5)
-- [Laxmipati Com Customer Care Helpline Number /6304150004//9392219156/Toll-Free 24/7 Hours Available…](https://medium.com/@nishakhn781/laxmipati-com-customer-care-helpline-number-6304150004-9392219156-toll-free-24-7-hours-available-b114e8fd9659?source=rss------data_science-5)
-- [Creating a Data as a Service &lpar;DaaS&rpar; Platform: Leveraging RESTful Web API, Swagger, GitHub…](https://medium.com/@dynotes/creating-a-data-as-a-service-daas-platform-leveraging-restful-web-api-swagger-github-78096cd36c67?source=rss------data_science-5)
-- [Srejonee Com Customer Care Helpline Number /6304150004//9392219156/Toll-Free 24/7 Hours Available…](https://medium.com/@mk4590821/srejonee-com-customer-care-helpline-number-6304150004-9392219156-toll-free-24-7-hours-available-d63459537c68?source=rss------data_science-5)
-- [Labelaartichauhan Com Customer Care Helpline Number /6304150004//9392219156/Toll-Free 24/7 Hours…](https://medium.com/@mk4590821/labelaartichauhan-com-customer-care-helpline-number-6304150004-9392219156-toll-free-24-7-hours-4eb37aa990a6?source=rss------data_science-5)
-- [My “DataWeek” Recap](https://medium.com/be-data-driven/my-dataweek-recap-18e3a176de71?source=rss------data_science-5)
-- [Dealsforevers Myshopify Com Customer Care Helpline Number /6304150004//9392219156/Toll-Free 24/7…](https://medium.com/@mk4590821/dealsforevers-myshopify-com-customer-care-helpline-number-6304150004-9392219156-toll-free-24-7-337d89d74c3f?source=rss------data_science-5)
+- [Open AI 
+# Chat GPT New Tricks: Revolutionizing the Technology Industry](https://medium.com/@hemanttarak1234/open-ai-chat-gpt-new-tricks-revolutionizing-the-technology-industry-cd6d5532c296?source=rss------data_science-5)
+- [Xonsh for efficient exploratory data analysis](https://peterbbryan.medium.com/xonsh-for-efficient-exploratory-data-analysis-b07e2b38d915?source=rss------data_science-5)
+- [Machine Learning Made Intuitive](https://towardsdatascience.com/machine-learning-made-intuitive-fabd26f97f19?source=rss------data_science-5)
+- [Simplify Airflow DAG Creation and Maintenance with Hamilton in 8 minutes](https://towardsdatascience.com/simplify-airflow-dag-creation-and-maintenance-with-hamilton-in-8-minutes-e6e48c9c2cb0?source=rss------data_science-5)
+- [Title: OpenAI GPT for Python Developers: Revolutionizing Natural Language Processing](https://medium.com/@karlrisky/title-openai-gpt-for-python-developers-revolutionizing-natural-language-processing-664fffe7a580?source=rss------data_science-5)
+- [Support Vector Machines &lpar;SVM&rpar; in depth &lpar;part 1&rpar;](https://medium.com/@peterkaras/support-vector-machines-svm-in-depth-part-1-882448c8310c?source=rss------data_science-5)
+- [Exploring the Inner Workings of Python’s Abstract Syntax Tree &lpar;AST&rpar;](https://levelup.gitconnected.com/exploring-the-inner-workings-of-pythons-abstract-syntax-tree-ast-15ca5e4d475d?source=rss------data_science-5)
+- [How to track Traditional Economic Indicators with real-time data?](https://medium.com/@necheverry_20468/how-to-track-traditional-economic-indicators-with-real-time-data-c3193d6528e6?source=rss------data_science-5)
+- [❼❼❹⑨⓪❶❽❺④③☎️Korma loan customer care number7845814671j](https://medium.com/@kr0342898/%E2%9D%BC%E2%9D%BC%E2%9D%B9%E2%91%A8%E2%93%AA%E2%9D%B6%E2%9D%BD%E2%9D%BA%E2%91%A3%E2%91%A2-%EF%B8%8Fkorma-loan-customer-care-number-7845814671-j-13fff2aacff6?source=rss------data_science-5)
+- [❼❼❹⑨⓪❶❽❺④③☎️Korma loan customer care number7845814671k](https://medium.com/@kr0342898/%E2%9D%BC%E2%9D%BC%E2%9D%B9%E2%91%A8%E2%93%AA%E2%9D%B6%E2%9D%BD%E2%9D%BA%E2%91%A3%E2%91%A2-%EF%B8%8Fkorma-loan-customer-care-number-7845814671-k-b7fa26b93ec9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
