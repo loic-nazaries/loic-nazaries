@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Open AI 
-# Chat GPT New Tricks: Revolutionizing the Technology Industry](https://medium.com/@hemanttarak1234/open-ai-chat-gpt-new-tricks-revolutionizing-the-technology-industry-cd6d5532c296?source=rss------data_science-5)
-- [Xonsh for efficient exploratory data analysis](https://peterbbryan.medium.com/xonsh-for-efficient-exploratory-data-analysis-b07e2b38d915?source=rss------data_science-5)
-- [Machine Learning Made Intuitive](https://towardsdatascience.com/machine-learning-made-intuitive-fabd26f97f19?source=rss------data_science-5)
-- [Simplify Airflow DAG Creation and Maintenance with Hamilton in 8 minutes](https://towardsdatascience.com/simplify-airflow-dag-creation-and-maintenance-with-hamilton-in-8-minutes-e6e48c9c2cb0?source=rss------data_science-5)
-- [Title: OpenAI GPT for Python Developers: Revolutionizing Natural Language Processing](https://medium.com/@karlrisky/title-openai-gpt-for-python-developers-revolutionizing-natural-language-processing-664fffe7a580?source=rss------data_science-5)
-- [Support Vector Machines &lpar;SVM&rpar; in depth &lpar;part 1&rpar;](https://medium.com/@peterkaras/support-vector-machines-svm-in-depth-part-1-882448c8310c?source=rss------data_science-5)
-- [Exploring the Inner Workings of Python’s Abstract Syntax Tree &lpar;AST&rpar;](https://levelup.gitconnected.com/exploring-the-inner-workings-of-pythons-abstract-syntax-tree-ast-15ca5e4d475d?source=rss------data_science-5)
-- [How to track Traditional Economic Indicators with real-time data?](https://medium.com/@necheverry_20468/how-to-track-traditional-economic-indicators-with-real-time-data-c3193d6528e6?source=rss------data_science-5)
-- [❼❼❹⑨⓪❶❽❺④③☎️Korma loan customer care number7845814671j](https://medium.com/@kr0342898/%E2%9D%BC%E2%9D%BC%E2%9D%B9%E2%91%A8%E2%93%AA%E2%9D%B6%E2%9D%BD%E2%9D%BA%E2%91%A3%E2%91%A2-%EF%B8%8Fkorma-loan-customer-care-number-7845814671-j-13fff2aacff6?source=rss------data_science-5)
-- [❼❼❹⑨⓪❶❽❺④③☎️Korma loan customer care number7845814671k](https://medium.com/@kr0342898/%E2%9D%BC%E2%9D%BC%E2%9D%B9%E2%91%A8%E2%93%AA%E2%9D%B6%E2%9D%BD%E2%9D%BA%E2%91%A3%E2%91%A2-%EF%B8%8Fkorma-loan-customer-care-number-7845814671-k-b7fa26b93ec9?source=rss------data_science-5)
+- [My BellaBeat Project: Google Data Analytics Capstone Project](https://medium.com/@barcanista01/my-bellabeat-project-google-data-analytics-capstone-project-d3b618f5d8b8?source=rss------data_science-5)
+- [Calibrating D&amp;D Encounter Difficulties:](https://medium.com/@tyrel.j.johnson/calibrating-d-d-encounter-difficulties-528a584e8f39?source=rss------data_science-5)
+- [Using Symbolic Regression to Add Uncertainty to Elo’s Famous Ratings System](https://medium.com/@BlakeAtkinson/using-symbolic-regression-to-add-uncertainty-to-elos-famous-ratings-system-796d54f2b478?source=rss------data_science-5)
+- [18 USEFUL PYTHON LIBRARIES FOR OCEANOGRAPHIC DATA ANALYSIS](https://medium.com/@udofiaetietop/18-useful-python-libraries-for-oceanographic-data-analysis-a95c1ce79b60?source=rss------data_science-5)
+- [Building an Illuminating Data Analytics Strategy Roadmap](https://medium.com/@ascendedpeak/building-an-illuminating-data-analytics-strategy-roadmap-5f845d99e2ac?source=rss------data_science-5)
+- [Data Science: A Lifesaving Superpower in the Fight Against COVID-19 and Beyond](https://medium.com/@daniel.lundy.analyst/data-science-a-lifesaving-superpower-in-the-fight-against-covid-19-and-beyond-cfc9d116733b?source=rss------data_science-5)
+- [A Data Science Internship with Oasis Infobyte — Unleashing the Power of OIBSIP‍](https://medium.com/@karthik94833/a-data-science-internship-with-oasis-infobyte-unleashing-the-power-of-oibsip-4cf50d1f180d?source=rss------data_science-5)
+- [Updating Data in SQL Tables](https://medium.com/@TechSavvyScribe/updating-data-in-sql-tables-e26759f48eeb?source=rss------data_science-5)
+- [A How To Guide: Technical Data Science Interview Questions](https://medium.com/@jonah.devoy/a-how-to-guide-technical-data-science-interview-questions-ae3eab55cbd9?source=rss------data_science-5)
+- [Data](https://medium.com/@edwardwilliam/data-20612c96ad89?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
