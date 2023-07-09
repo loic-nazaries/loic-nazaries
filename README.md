@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Unraveling the Magic of Data Science: From Raw Data to Actionable Insights](https://medium.com/@daniel.lundy.analyst/unraveling-the-magic-of-data-science-from-raw-data-to-actionable-insights-dcea4f9d347c?source=rss------data_science-5)
-- [cash public loan customer care number ☎️6264898953+/8250474308 call me now cash public loan…](https://medium.com/@kumarfata65/cash-public-loan-customer-care-number-%EF%B8%8F6264898953-8250474308-call-me-now-cash-public-loan-8260570cbdb9?source=rss------data_science-5)
-- [cash public loan customer care number ☎️6264898953+/8250474308 call me now cash public loan…](https://medium.com/@kumarfata65/cash-public-loan-customer-care-number-%EF%B8%8F6264898953-8250474308-call-me-now-cash-public-loan-31bd9c61f8c7?source=rss------data_science-5)
-- [cash public loan customer care number ☎️6264898953+/8250474308 call me now cash public loan…](https://medium.com/@kumarfata65/cash-public-loan-customer-care-number-%EF%B8%8F6264898953-8250474308-call-me-now-cash-public-loan-1f8c3f0c7bea?source=rss------data_science-5)
-- [cash public loan customer care number ☎️6264898953+/8250474308 call me now cash public loan…](https://medium.com/@kumarfata65/cash-public-loan-customer-care-number-%EF%B8%8F6264898953-8250474308-call-me-now-cash-public-loan-8c078d8d286f?source=rss------data_science-5)
-- [cash public loan customer care number ☎️6264898953+/8250474308 call me now cash public loan…](https://medium.com/@kumarfata65/cash-public-loan-customer-care-number-%EF%B8%8F6264898953-8250474308-call-me-now-cash-public-loan-7483822a9dd4?source=rss------data_science-5)
-- [cash public loan customer care number ☎️6264898953+/8250474308 call me now cash public loan…](https://medium.com/@kumarfata65/cash-public-loan-customer-care-number-%EF%B8%8F6264898953-8250474308-call-me-now-cash-public-loan-d4e9da2fab57?source=rss------data_science-5)
-- [cash public loan customer care number ☎️6264898953+/8250474308 call me now cash public loan…](https://medium.com/@kumarfata65/cash-public-loan-customer-care-number-%EF%B8%8F6264898953-8250474308-call-me-now-cash-public-loan-521bfcf3a6df?source=rss------data_science-5)
-- [cash public loan customer care number ☎️6264898953+/8250474308 call me now cash public loan…](https://medium.com/@kumarfata65/cash-public-loan-customer-care-number-%EF%B8%8F6264898953-8250474308-call-me-now-cash-public-loan-39564abf4ff7?source=rss------data_science-5)
-- [cash public loan customer care number ☎️6264898953+/8250474308 call me now cash public loan…](https://medium.com/@kumarfata65/cash-public-loan-customer-care-number-%EF%B8%8F6264898953-8250474308-call-me-now-cash-public-loan-3e592b4959f2?source=rss------data_science-5)
+- [Al Kredit Loan Customer Care helpline Number 8455036445//6359781834 All call now](https://medium.com/@rk0011670/al-kredit-loan-customer-care-helpline-number-8455036445-6359781834-all-call-now-4ff0157462b9?source=rss------data_science-5)
+- [Zero-shot Reasoning Unleashed: The Magic of Large Language Models](https://medium.com/@hetzer2807/zero-shot-reasoning-unleashed-the-magic-of-large-language-models-4e877dfe470e?source=rss------data_science-5)
+- [Power BI + NLP = Magic!](https://medium.com/@a.kapoor1391/power-bi-nlp-magic-2c73276e53ef?source=rss------data_science-5)
+- [ChatGPT Creator OpenAI to Prevent AI from Going Rouge](https://medium.com/@reubenimakhu/chatgpt-creator-openai-to-prevent-ai-from-going-rouge-65a272a86b00?source=rss------data_science-5)
+- [10 Ways to Analyze Real Estate Data using Python for Investment Opportunities](https://medium.com/@araujogabe1/10-ways-to-analyze-real-estate-data-using-python-for-investment-opportunities-56d4d2c5431c?source=rss------data_science-5)
+- [Vivified GIF generator from Picsart makes simulated intelligence fun once more](https://medium.com/@reubenimakhu/vivified-gif-generator-from-picsart-makes-simulated-intelligence-fun-once-more-52f1b28a35?source=rss------data_science-5)
+- [You’ll Never Believe this Simple Python Hack to Make More Money](https://python.plainenglish.io/youll-never-believe-this-simple-python-hack-to-make-more-money-c29e748d7334?source=rss------data_science-5)
+- [A Practical Guide to Wine Quality Prediction using Logistic Regression](https://medium.com/@daniel.lundy.analyst/a-practical-guide-to-wine-quality-prediction-using-logistic-regression-f390c5c4d71f?source=rss------data_science-5)
+- [The most effective method to produce computer based intelligence pictures utilizing Microsoft Bing…](https://medium.com/@reubenimakhu/the-most-effective-method-to-produce-computer-based-intelligence-pictures-utilizing-microsoft-bing-92d54056ac0?source=rss------data_science-5)
+- [Tech Scholarships on Udacity are Still Open to Apply](https://medium.com/predict/tech-scholarships-on-udacity-are-still-open-to-apply-c36eb258736e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
