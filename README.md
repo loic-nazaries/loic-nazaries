@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Al Kredit Loan Customer Care helpline Number 8455036445//6359781834 All call now](https://medium.com/@rk0011670/al-kredit-loan-customer-care-helpline-number-8455036445-6359781834-all-call-now-4ff0157462b9?source=rss------data_science-5)
-- [Zero-shot Reasoning Unleashed: The Magic of Large Language Models](https://medium.com/@hetzer2807/zero-shot-reasoning-unleashed-the-magic-of-large-language-models-4e877dfe470e?source=rss------data_science-5)
-- [Power BI + NLP = Magic!](https://medium.com/@a.kapoor1391/power-bi-nlp-magic-2c73276e53ef?source=rss------data_science-5)
-- [ChatGPT Creator OpenAI to Prevent AI from Going Rouge](https://medium.com/@reubenimakhu/chatgpt-creator-openai-to-prevent-ai-from-going-rouge-65a272a86b00?source=rss------data_science-5)
-- [10 Ways to Analyze Real Estate Data using Python for Investment Opportunities](https://medium.com/@araujogabe1/10-ways-to-analyze-real-estate-data-using-python-for-investment-opportunities-56d4d2c5431c?source=rss------data_science-5)
-- [Vivified GIF generator from Picsart makes simulated intelligence fun once more](https://medium.com/@reubenimakhu/vivified-gif-generator-from-picsart-makes-simulated-intelligence-fun-once-more-52f1b28a35?source=rss------data_science-5)
-- [You’ll Never Believe this Simple Python Hack to Make More Money](https://python.plainenglish.io/youll-never-believe-this-simple-python-hack-to-make-more-money-c29e748d7334?source=rss------data_science-5)
-- [A Practical Guide to Wine Quality Prediction using Logistic Regression](https://medium.com/@daniel.lundy.analyst/a-practical-guide-to-wine-quality-prediction-using-logistic-regression-f390c5c4d71f?source=rss------data_science-5)
-- [The most effective method to produce computer based intelligence pictures utilizing Microsoft Bing…](https://medium.com/@reubenimakhu/the-most-effective-method-to-produce-computer-based-intelligence-pictures-utilizing-microsoft-bing-92d54056ac0?source=rss------data_science-5)
-- [Tech Scholarships on Udacity are Still Open to Apply](https://medium.com/predict/tech-scholarships-on-udacity-are-still-open-to-apply-c36eb258736e?source=rss------data_science-5)
+- [Investing in AI Stocks: How do companies use artificial intelligence?](https://medium.com/@savvymoneygirl/investing-in-ai-stocks-how-do-companies-use-artificial-intelligence-ea2bd725c82?source=rss------data_science-5)
+- [Simplifying ETL Pipelines with SQL: Three Tips for Data Processing](https://medium.com/@Stan_DS/simplifying-etl-pipelines-with-sql-three-tips-for-data-processing-474c1f971db?source=rss------data_science-5)
+- [Free Societies are Equal Societies](https://medium.com/illumination/free-societies-are-equal-societies-c7a5d3278ee2?source=rss------data_science-5)
+- [Mastering SQL: The Power of the SELECT TOP Clause](https://medium.com/@TechSavvyScribe/mastering-sql-the-power-of-the-select-top-clause-fea3bb4eba?source=rss------data_science-5)
+- [Simplifying Linear Regression: Understanding and Applying the Basics](https://medium.com/@aakashsingh717/simplifying-linear-regression-understanding-and-applying-the-basics-ff3964f4779b?source=rss------data_science-5)
+- [Harnessing ChatGPT and the Reddit API to Populate Your Website with Trending Topics…](https://medium.datadriveninvestor.com/harnessing-chatgpt-and-the-reddit-api-to-populate-your-website-with-trending-topics-d54a2cc99eb0?source=rss------data_science-5)
+- [Julia Is Not Just Fast Python](https://chifi.dev/julia-is-not-just-fast-python-a771b76cbc93?source=rss------data_science-5)
+- [Veri Bilimi Serüveni Bölüm 2: Python &lpar;II&rpar;](https://burhankibardatascience.medium.com/veri-bilimi-ser%C3%BCveni-b%C3%B6l%C3%BCm-2-python-ii-37546254ce9d?source=rss------data_science-5)
+- [Mastering Prompt Engineering for Large Language Models](https://medium.com/@nasdag/mastering-prompt-engineering-for-large-language-models-1afafb52c44b?source=rss------data_science-5)
+- [Let&#39;s Data Podcast #032 — Pollyanna Gonçalves](https://medium.com/lets-data/lets-data-podcast-032-pollyanna-gon%C3%A7alves-9e51a3e165f0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
