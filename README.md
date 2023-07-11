@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Investing in AI Stocks: How do companies use artificial intelligence?](https://medium.com/@savvymoneygirl/investing-in-ai-stocks-how-do-companies-use-artificial-intelligence-ea2bd725c82?source=rss------data_science-5)
-- [Simplifying ETL Pipelines with SQL: Three Tips for Data Processing](https://medium.com/@Stan_DS/simplifying-etl-pipelines-with-sql-three-tips-for-data-processing-474c1f971db?source=rss------data_science-5)
-- [Free Societies are Equal Societies](https://medium.com/illumination/free-societies-are-equal-societies-c7a5d3278ee2?source=rss------data_science-5)
-- [Mastering SQL: The Power of the SELECT TOP Clause](https://medium.com/@TechSavvyScribe/mastering-sql-the-power-of-the-select-top-clause-fea3bb4eba?source=rss------data_science-5)
-- [Simplifying Linear Regression: Understanding and Applying the Basics](https://medium.com/@aakashsingh717/simplifying-linear-regression-understanding-and-applying-the-basics-ff3964f4779b?source=rss------data_science-5)
-- [Harnessing ChatGPT and the Reddit API to Populate Your Website with Trending Topics…](https://medium.datadriveninvestor.com/harnessing-chatgpt-and-the-reddit-api-to-populate-your-website-with-trending-topics-d54a2cc99eb0?source=rss------data_science-5)
-- [Julia Is Not Just Fast Python](https://chifi.dev/julia-is-not-just-fast-python-a771b76cbc93?source=rss------data_science-5)
-- [Veri Bilimi Serüveni Bölüm 2: Python &lpar;II&rpar;](https://burhankibardatascience.medium.com/veri-bilimi-ser%C3%BCveni-b%C3%B6l%C3%BCm-2-python-ii-37546254ce9d?source=rss------data_science-5)
-- [Mastering Prompt Engineering for Large Language Models](https://medium.com/@nasdag/mastering-prompt-engineering-for-large-language-models-1afafb52c44b?source=rss------data_science-5)
-- [Let&#39;s Data Podcast #032 — Pollyanna Gonçalves](https://medium.com/lets-data/lets-data-podcast-032-pollyanna-gon%C3%A7alves-9e51a3e165f0?source=rss------data_science-5)
+- [Machine Learning Interview Questions 2023](https://medium.com/@asheshnathmishra/machine-learning-interview-questions-2023-d0425321b246?source=rss------data_science-5)
+- [Como Transformar Comentários de Hóspedes em Ouro: O Poder da Ciência de Dados nos Hotéis de Luxo da…](https://medium.com/@adewalecristopher/como-transformar-coment%C3%A1rios-de-h%C3%B3spedes-em-ouro-o-poder-da-ci%C3%AAncia-de-dados-nos-hot%C3%A9is-de-luxo-da-4ecbb9510801?source=rss------data_science-5)
+- [Things To Do Before And After You Write Code](https://bootcamp.uxdesign.cc/things-to-do-before-and-after-you-write-code-5af4b389a2c0?source=rss------data_science-5)
+- [Code Interpreter: The AI Revolutionizing Programming in ChatGPT](https://ai.plainenglish.io/code-interpreter-the-ai-revolutionizing-programming-in-chatgpt-ccb9bae772bc?source=rss------data_science-5)
+- [Hands-on Dataiku Platform](https://medium.com/illumination/hands-on-dataiku-platform-33b2d416b8f2?source=rss------data_science-5)
+- [The Power of Data Engineering in E-Commerce Growth](https://medium.com/@batbayar_bold/the-power-of-data-engineering-in-e-commerce-growth-8822a66c9567?source=rss------data_science-5)
+- [Ways To Eliminate An Anonymous Calls And Messages](https://medium.com/@harttamunoiboroma/ways-to-eliminate-an-anonymous-calls-and-messages-b933ce0ba096?source=rss------data_science-5)
+- [ChatGPT Code Interpreter: Your Mentor, Coworker, and Second Pair of Eyes](https://sonery.medium.com/chatgpt-code-interpreter-your-mentor-coworker-and-second-pair-of-eyes-3a2995d0ea31?source=rss------data_science-5)
+- [Data Science: Support Vector Machine &lpar;SVM&rpar; #1](https://medium.com/@elizabethperedo/data-science-support-vector-machine-svm-1-ce288e333085?source=rss------data_science-5)
+- [When Code Meets Canvas: A New Perspective on Art](https://moodydhotre.medium.com/title-when-code-meets-canvas-a-new-perspective-on-art-d15e878aa4a1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
