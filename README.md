@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Machine Learning Interview Questions 2023](https://medium.com/@asheshnathmishra/machine-learning-interview-questions-2023-d0425321b246?source=rss------data_science-5)
-- [Como Transformar Comentários de Hóspedes em Ouro: O Poder da Ciência de Dados nos Hotéis de Luxo da…](https://medium.com/@adewalecristopher/como-transformar-coment%C3%A1rios-de-h%C3%B3spedes-em-ouro-o-poder-da-ci%C3%AAncia-de-dados-nos-hot%C3%A9is-de-luxo-da-4ecbb9510801?source=rss------data_science-5)
-- [Things To Do Before And After You Write Code](https://bootcamp.uxdesign.cc/things-to-do-before-and-after-you-write-code-5af4b389a2c0?source=rss------data_science-5)
-- [Code Interpreter: The AI Revolutionizing Programming in ChatGPT](https://ai.plainenglish.io/code-interpreter-the-ai-revolutionizing-programming-in-chatgpt-ccb9bae772bc?source=rss------data_science-5)
-- [Hands-on Dataiku Platform](https://medium.com/illumination/hands-on-dataiku-platform-33b2d416b8f2?source=rss------data_science-5)
-- [The Power of Data Engineering in E-Commerce Growth](https://medium.com/@batbayar_bold/the-power-of-data-engineering-in-e-commerce-growth-8822a66c9567?source=rss------data_science-5)
-- [Ways To Eliminate An Anonymous Calls And Messages](https://medium.com/@harttamunoiboroma/ways-to-eliminate-an-anonymous-calls-and-messages-b933ce0ba096?source=rss------data_science-5)
-- [ChatGPT Code Interpreter: Your Mentor, Coworker, and Second Pair of Eyes](https://sonery.medium.com/chatgpt-code-interpreter-your-mentor-coworker-and-second-pair-of-eyes-3a2995d0ea31?source=rss------data_science-5)
-- [Data Science: Support Vector Machine &lpar;SVM&rpar; #1](https://medium.com/@elizabethperedo/data-science-support-vector-machine-svm-1-ce288e333085?source=rss------data_science-5)
-- [When Code Meets Canvas: A New Perspective on Art](https://moodydhotre.medium.com/title-when-code-meets-canvas-a-new-perspective-on-art-d15e878aa4a1?source=rss------data_science-5)
+- [Singular Value Decomposition: Unveiling the Power of Matrix Analysis](https://medium.com/@evertongomede/singular-value-decomposition-unveiling-the-power-of-matrix-analysis-6f87e3aa8ef1?source=rss------data_science-5)
+- [Mastering SQL: The Power of MIN&lpar;&rpar; and MAX&lpar;&rpar; Functions](https://medium.com/@TechSavvyScribe/mastering-sql-the-power-of-min-and-max-functions-8650717813c?source=rss------data_science-5)
+- [NASA&#39;s James Webb telescope discovers supermassive black hole](https://medium.com/@reubenimakhu/nasas-james-webb-telescope-discovers-supermassive-black-hole-dcc3314b2755?source=rss------data_science-5)
+- [Unveiling the Best Programming Languages for Machine Learning: A Comparative Analysis for Ultimate…](https://medium.com/@HalderNilimesh/unveiling-the-best-programming-languages-for-machine-learning-a-comparative-analysis-for-ultimate-899d4a1879c7?source=rss------data_science-5)
+- [Unveiling the Enigma: How Data Science Revolutionizes our Understanding of Black Holes](https://medium.com/@daniel.lundy.analyst/unveiling-the-enigma-how-data-science-revolutionizes-our-understanding-of-black-holes-d544cf06f992?source=rss------data_science-5)
+- [Outliers in Data Science: Unraveling the Unexpected](https://medium.com/@evertongomede/outliers-in-data-science-unraveling-the-unexpected-77de7b2221b1?source=rss------data_science-5)
+- [The importance of AWS Glue Data Brew in Data Analysis](https://medium.com/@andrew.nwanakwaugwu/the-importance-of-aws-glue-data-brew-in-data-analysis-98b6a44fecf7?source=rss------data_science-5)
+- [Everything Programmers need to learn about GPT — OpenAI API in Action](https://thealgorithmicminds.com/everything-you-need-to-learn-about-gpt-openai-api-in-action-bf210908df1f?source=rss------data_science-5)
+- [Exploring Deep Learning Frameworks: PyTorch vs. TensorFlow](https://medium.com/@ghostsmaw/exploring-deep-learning-frameworks-pytorch-vs-tensorflow-1089d2cb9580?source=rss------data_science-5)
+- [Rupee flow loan App customer care number✅7749018543☎️7845814671](https://medium.com/@rolexkor0/rupee-flow-loan-app-customer-care-number-7749018543-%EF%B8%8F7845814671-fe7c763f0399?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
