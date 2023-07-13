@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [I Wasn’t Satisfied With the Data Visualization I Created, I Let ChatGPT Code Interpreter Handle the…](https://sonery.medium.com/i-wasnt-satisfied-with-the-data-visualization-i-created-i-let-chatgpt-code-interpreter-handle-the-d308e6af7ac3?source=rss-2cf6b549448------2)
+- [I Showed ChatGPT Code Interpreter a Messy Dataset and the Desired Cleaned Version](https://pub.towardsai.net/i-showed-chatgpt-code-interpreter-a-messy-dataset-and-the-desired-cleaned-version-4b757086a222?source=rss-2cf6b549448------2)
 - [ChatGPT Code Interpreter: Your Mentor, Coworker, and Second Pair of Eyes](https://sonery.medium.com/chatgpt-code-interpreter-your-mentor-coworker-and-second-pair-of-eyes-3a2995d0ea31?source=rss-2cf6b549448------2)
 - [ChatGPT Code Interpreter: How It Saved Me Hours of Work](https://towardsdatascience.com/chatgpt-code-interpreter-how-it-saved-me-hours-of-work-3c65a8dfa935?source=rss-2cf6b549448------2)
 - [500 Exercises to Master Python Pandas](https://sonery.medium.com/500-exercises-to-master-python-pandas-b6d998197762?source=rss-2cf6b549448------2)
-- [10 Most Frequently Asked Python List Questions on Stack Overflow](https://towardsdatascience.com/10-most-frequently-asked-python-list-questions-on-stack-overflow-5bfd71c8771b?source=rss-2cf6b549448------2)
-- [4 Memory Types of LangChain to Enhance the Performance of LLMs](https://sonery.medium.com/4-memory-types-of-langchain-to-enhance-the-performance-of-llms-bda339d2e904?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
