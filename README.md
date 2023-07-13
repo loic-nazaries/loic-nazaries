@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Singular Value Decomposition: Unveiling the Power of Matrix Analysis](https://medium.com/@evertongomede/singular-value-decomposition-unveiling-the-power-of-matrix-analysis-6f87e3aa8ef1?source=rss------data_science-5)
-- [Mastering SQL: The Power of MIN&lpar;&rpar; and MAX&lpar;&rpar; Functions](https://medium.com/@TechSavvyScribe/mastering-sql-the-power-of-min-and-max-functions-8650717813c?source=rss------data_science-5)
-- [NASA&#39;s James Webb telescope discovers supermassive black hole](https://medium.com/@reubenimakhu/nasas-james-webb-telescope-discovers-supermassive-black-hole-dcc3314b2755?source=rss------data_science-5)
-- [Unveiling the Best Programming Languages for Machine Learning: A Comparative Analysis for Ultimate…](https://medium.com/@HalderNilimesh/unveiling-the-best-programming-languages-for-machine-learning-a-comparative-analysis-for-ultimate-899d4a1879c7?source=rss------data_science-5)
-- [Unveiling the Enigma: How Data Science Revolutionizes our Understanding of Black Holes](https://medium.com/@daniel.lundy.analyst/unveiling-the-enigma-how-data-science-revolutionizes-our-understanding-of-black-holes-d544cf06f992?source=rss------data_science-5)
-- [Outliers in Data Science: Unraveling the Unexpected](https://medium.com/@evertongomede/outliers-in-data-science-unraveling-the-unexpected-77de7b2221b1?source=rss------data_science-5)
-- [The importance of AWS Glue Data Brew in Data Analysis](https://medium.com/@andrew.nwanakwaugwu/the-importance-of-aws-glue-data-brew-in-data-analysis-98b6a44fecf7?source=rss------data_science-5)
-- [Everything Programmers need to learn about GPT — OpenAI API in Action](https://thealgorithmicminds.com/everything-you-need-to-learn-about-gpt-openai-api-in-action-bf210908df1f?source=rss------data_science-5)
-- [Exploring Deep Learning Frameworks: PyTorch vs. TensorFlow](https://medium.com/@ghostsmaw/exploring-deep-learning-frameworks-pytorch-vs-tensorflow-1089d2cb9580?source=rss------data_science-5)
-- [Rupee flow loan App customer care number✅7749018543☎️7845814671](https://medium.com/@rolexkor0/rupee-flow-loan-app-customer-care-number-7749018543-%EF%B8%8F7845814671-fe7c763f0399?source=rss------data_science-5)
+- [Cash Public Loan ApP CusToMer care number {96337398444}{8617416627}Call meNow](https://medium.com/@kumarbanti22448/cash-public-loan-app-customer-care-number-96337398444-8617416627-call-me-now-7f4c330c09d6?source=rss------data_science-5)
+- [django-build-tool: An Open Source Orchestration Tool for dbt](https://eric-arsenaults.medium.com/django-build-tool-an-open-source-orchestration-tool-for-dbt-a5069dfdadcb?source=rss------data_science-5)
+- [The Beginning….. Hello World!](https://medium.com/@williamwnsong/the-beginning-hello-world-925c0673c045?source=rss------data_science-5)
+- [Useful String Methods in Python: A Comprehensive Guide to String Functions](https://anmol3015.medium.com/useful-string-methods-in-python-a-comprehensive-guide-to-string-functions-3984ce80dcd4?source=rss------data_science-5)
+- [Pandas Equivalents in Pyspark](https://kvirajdatt.medium.com/pandas-equivalents-in-pyspark-7ed78b453c87?source=rss------data_science-5)
+- [Realtors, sell better with data](https://zingdata.medium.com/realtors-sell-better-with-data-77fd986561c7?source=rss------data_science-5)
+- [From DeepMind to Startup Success: A Journey into the AI Frontier with Aleksa Gordić](https://pub.towardsai.net/from-deepmind-to-startup-success-a-journey-into-the-ai-frontier-with-aleksa-gordi%C4%87-7c504e261d27?source=rss------data_science-5)
+- [Step-by-Step NMF Example in Python](https://medium.com/@quindaly/step-by-step-nmf-example-in-python-9974e38dc9f9?source=rss------data_science-5)
+- [CRISP-DM: Paving the Path to a Successful Data Mining Project](https://medium.com/@msong507/crisp-dm-paving-the-path-to-a-successful-data-mining-project-fe171057778d?source=rss------data_science-5)
+- [How to Feed AI](https://medium.com/@robertbates1995/how-to-feed-ai-a42a85d17949?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
