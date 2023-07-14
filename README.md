@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Cash Public Loan ApP CusToMer care number {96337398444}{8617416627}Call meNow](https://medium.com/@kumarbanti22448/cash-public-loan-app-customer-care-number-96337398444-8617416627-call-me-now-7f4c330c09d6?source=rss------data_science-5)
-- [django-build-tool: An Open Source Orchestration Tool for dbt](https://eric-arsenaults.medium.com/django-build-tool-an-open-source-orchestration-tool-for-dbt-a5069dfdadcb?source=rss------data_science-5)
-- [The Beginning….. Hello World!](https://medium.com/@williamwnsong/the-beginning-hello-world-925c0673c045?source=rss------data_science-5)
-- [Useful String Methods in Python: A Comprehensive Guide to String Functions](https://anmol3015.medium.com/useful-string-methods-in-python-a-comprehensive-guide-to-string-functions-3984ce80dcd4?source=rss------data_science-5)
-- [Pandas Equivalents in Pyspark](https://kvirajdatt.medium.com/pandas-equivalents-in-pyspark-7ed78b453c87?source=rss------data_science-5)
-- [Realtors, sell better with data](https://zingdata.medium.com/realtors-sell-better-with-data-77fd986561c7?source=rss------data_science-5)
-- [From DeepMind to Startup Success: A Journey into the AI Frontier with Aleksa Gordić](https://pub.towardsai.net/from-deepmind-to-startup-success-a-journey-into-the-ai-frontier-with-aleksa-gordi%C4%87-7c504e261d27?source=rss------data_science-5)
-- [Step-by-Step NMF Example in Python](https://medium.com/@quindaly/step-by-step-nmf-example-in-python-9974e38dc9f9?source=rss------data_science-5)
-- [CRISP-DM: Paving the Path to a Successful Data Mining Project](https://medium.com/@msong507/crisp-dm-paving-the-path-to-a-successful-data-mining-project-fe171057778d?source=rss------data_science-5)
-- [How to Feed AI](https://medium.com/@robertbates1995/how-to-feed-ai-a42a85d17949?source=rss------data_science-5)
+- [Understanding Differentiation Rules with Simple Examples](https://asherchew.medium.com/understanding-differentiation-rules-with-simple-examples-c826db0bdac8?source=rss------data_science-5)
+- [Keras 3.0 Is Out. Here Is What You Must Know](https://levelup.gitconnected.com/keras-3-0-is-out-here-is-what-you-must-know-7cc54432452b?source=rss------data_science-5)
+- [The Merits of Aggregated Data for Demand and Price Elasticity Modeling](https://arminkakas.medium.com/the-merits-of-aggregated-data-for-demand-and-price-elasticity-modeling-cd2fa05eb46a?source=rss------data_science-5)
+- [Solving the Data Daze — Analytics at the Speed of Business Questions](https://medium.com/@kirk.borne/solving-the-data-daze-analytics-at-the-speed-of-business-questions-89d6eb46def2?source=rss------data_science-5)
+- [How to Fine-Tune GPT3 Using OpenAI API and Python](https://medium.com/geekculture/how-to-fine-tune-gpt3-using-openai-api-and-python-9ef813879af4?source=rss------data_science-5)
+- [8 Reasons Why I didn’t Give Up on My Dream to be a Data Scientist &amp; Why Neither Should You](https://towardsdatascience.com/8-reasons-why-i-didnt-give-up-on-my-dream-to-be-a-data-scientist-why-neither-should-you-4f32b73f2473?source=rss------data_science-5)
+- [Decoding Corporate Structures: Unveiling Hidden Patterns with Network Science](https://medium.datadriveninvestor.com/decoding-corporate-structures-unveiling-hidden-patterns-with-network-science-956cbcabc9ab?source=rss------data_science-5)
+- [Forecast if the price of Bitcoin will increase or decrease tomorrow with ChatGPT](https://medium.datadriveninvestor.com/forecast-if-the-price-of-bitcoin-will-increase-or-decrease-tomorrow-with-chatgpt-79ead80c2cd2?source=rss------data_science-5)
+- [Ready-to-Use GPT-4 Prompts for Python Data Visualization](https://medium.datadriveninvestor.com/ready-to-use-gpt-4-prompts-for-python-data-visualization-152df65f0462?source=rss------data_science-5)
+- [Gated Recurrent Neural Network from Scratch in Julia](https://pub.towardsai.net/gated-recurrent-neural-network-from-scratch-in-julia-ad8b2dabe37f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
