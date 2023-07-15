@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Understanding Differentiation Rules with Simple Examples](https://asherchew.medium.com/understanding-differentiation-rules-with-simple-examples-c826db0bdac8?source=rss------data_science-5)
-- [Keras 3.0 Is Out. Here Is What You Must Know](https://levelup.gitconnected.com/keras-3-0-is-out-here-is-what-you-must-know-7cc54432452b?source=rss------data_science-5)
-- [The Merits of Aggregated Data for Demand and Price Elasticity Modeling](https://arminkakas.medium.com/the-merits-of-aggregated-data-for-demand-and-price-elasticity-modeling-cd2fa05eb46a?source=rss------data_science-5)
-- [Solving the Data Daze — Analytics at the Speed of Business Questions](https://medium.com/@kirk.borne/solving-the-data-daze-analytics-at-the-speed-of-business-questions-89d6eb46def2?source=rss------data_science-5)
-- [How to Fine-Tune GPT3 Using OpenAI API and Python](https://medium.com/geekculture/how-to-fine-tune-gpt3-using-openai-api-and-python-9ef813879af4?source=rss------data_science-5)
-- [8 Reasons Why I didn’t Give Up on My Dream to be a Data Scientist &amp; Why Neither Should You](https://towardsdatascience.com/8-reasons-why-i-didnt-give-up-on-my-dream-to-be-a-data-scientist-why-neither-should-you-4f32b73f2473?source=rss------data_science-5)
-- [Decoding Corporate Structures: Unveiling Hidden Patterns with Network Science](https://medium.datadriveninvestor.com/decoding-corporate-structures-unveiling-hidden-patterns-with-network-science-956cbcabc9ab?source=rss------data_science-5)
-- [Forecast if the price of Bitcoin will increase or decrease tomorrow with ChatGPT](https://medium.datadriveninvestor.com/forecast-if-the-price-of-bitcoin-will-increase-or-decrease-tomorrow-with-chatgpt-79ead80c2cd2?source=rss------data_science-5)
-- [Ready-to-Use GPT-4 Prompts for Python Data Visualization](https://medium.datadriveninvestor.com/ready-to-use-gpt-4-prompts-for-python-data-visualization-152df65f0462?source=rss------data_science-5)
-- [Gated Recurrent Neural Network from Scratch in Julia](https://pub.towardsai.net/gated-recurrent-neural-network-from-scratch-in-julia-ad8b2dabe37f?source=rss------data_science-5)
+- [Meet the Media Ambassador](https://medium.com/@samiram_3834/meet-the-media-ambassador-42b8869a1d6f?source=rss------data_science-5)
+- [Demystifying Bayesian Statistics with Analogies](https://nijat.medium.com/demystifying-bayesian-statistics-with-analogies-40d2bc5972f?source=rss------data_science-5)
+- [Google Colab vs. Paperspace Gradient: Why Paperspace Gradient might be better?](https://medium.com/@dogoodwithdata/google-colab-vs-paperspace-gradient-why-paperspace-gradient-might-be-better-bac5968c7d53?source=rss------data_science-5)
+- [What is python Dash? How to use it?](https://medium.com/@said1854/what-is-python-dash-how-to-use-it-45a031225b3e?source=rss------data_science-5)
+- [Adapting to the Evolution: Managing Slowly Changing Dimension Attributes.](https://medium.com/@tarangds/adapting-to-the-evolution-managing-slowly-changing-dimension-attributes-9ace2926bcb9?source=rss------data_science-5)
+- [Top 5 vector databases and when to use them](https://medium.com/@3minutesnapshot/top-5-vector-databases-and-when-to-use-them-6c321e8ccc33?source=rss------data_science-5)
+- [Joyce’s picks — readings in machine learning /AI](https://medium.com/@joycejshen/joyces-picks-readings-in-machine-learning-ai-6fc8bf09e9c6?source=rss------data_science-5)
+- [The Data Space-Time Continuum for Analytics Innovation and Business Growth](https://medium.com/@kirk.borne/the-data-space-time-continuum-for-analytics-innovation-and-business-growth-c1659c6265bf?source=rss------data_science-5)
+- [Genuinely insightful solution to runaway Singularity AGI from Elon Musk](https://medium.com/@paul.k.pallaghy/genuinely-insightful-solution-to-runaway-singularity-agi-from-elon-musk-e2015fcb9f8?source=rss------data_science-5)
+- [Return Engine: Low Volatility Phenomenon Everywhere](https://medium.com/@kairuihuo/return-engine-low-volatility-phenomenon-everywhere-b84821279517?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
