@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Meet the Media Ambassador](https://medium.com/@samiram_3834/meet-the-media-ambassador-42b8869a1d6f?source=rss------data_science-5)
-- [Demystifying Bayesian Statistics with Analogies](https://nijat.medium.com/demystifying-bayesian-statistics-with-analogies-40d2bc5972f?source=rss------data_science-5)
-- [Google Colab vs. Paperspace Gradient: Why Paperspace Gradient might be better?](https://medium.com/@dogoodwithdata/google-colab-vs-paperspace-gradient-why-paperspace-gradient-might-be-better-bac5968c7d53?source=rss------data_science-5)
-- [What is python Dash? How to use it?](https://medium.com/@said1854/what-is-python-dash-how-to-use-it-45a031225b3e?source=rss------data_science-5)
-- [Adapting to the Evolution: Managing Slowly Changing Dimension Attributes.](https://medium.com/@tarangds/adapting-to-the-evolution-managing-slowly-changing-dimension-attributes-9ace2926bcb9?source=rss------data_science-5)
-- [Top 5 vector databases and when to use them](https://medium.com/@3minutesnapshot/top-5-vector-databases-and-when-to-use-them-6c321e8ccc33?source=rss------data_science-5)
-- [Joyce’s picks — readings in machine learning /AI](https://medium.com/@joycejshen/joyces-picks-readings-in-machine-learning-ai-6fc8bf09e9c6?source=rss------data_science-5)
-- [The Data Space-Time Continuum for Analytics Innovation and Business Growth](https://medium.com/@kirk.borne/the-data-space-time-continuum-for-analytics-innovation-and-business-growth-c1659c6265bf?source=rss------data_science-5)
-- [Genuinely insightful solution to runaway Singularity AGI from Elon Musk](https://medium.com/@paul.k.pallaghy/genuinely-insightful-solution-to-runaway-singularity-agi-from-elon-musk-e2015fcb9f8?source=rss------data_science-5)
-- [Return Engine: Low Volatility Phenomenon Everywhere](https://medium.com/@kairuihuo/return-engine-low-volatility-phenomenon-everywhere-b84821279517?source=rss------data_science-5)
+- [Multidimensional Image Processing with Lidar Data for Segmentation and Classification Using Machine…](https://j-luis-cdgz.medium.com/multidimensional-image-processing-with-lidar-data-for-segmentation-and-classification-using-machine-2d033c759904?source=rss------data_science-5)
+- [Convert Text To PDF Using Golang With Unittests](https://levelup.gitconnected.com/convert-text-to-pdf-using-golang-with-unittests-4fc4a2c78c4?source=rss------data_science-5)
+- [SeqQueue: Indexed, Consecutive Queues for Python](https://medium.com/@highvight/seqqueue-indexed-consecutive-queues-for-python-b5c1177f08f2?source=rss------data_science-5)
+- [Boring Book Recommendations](https://adamrossnelson.medium.com/boring-book-recommendations-197897ae0b?source=rss------data_science-5)
+- [Mengenal dan Menggunakan Pandas Sebagai Library Analisis Data](https://medium.com/@rexyanggalaputra/mengenal-dan-menggunakan-pandas-sebagai-library-analisis-data-be1dee61be97?source=rss------data_science-5)
+- [Domain Knowledge: Unlocking the Power of Insightful Feature Engineering.](https://medium.com/@takalaniclarence/domain-knowledge-unlocking-the-power-of-insightful-feature-engineering-e4009a49ebce?source=rss------data_science-5)
+- [Data Science : Kekuatan Data di Era Digital](https://medium.com/@rexyanggalaputra/data-science-kekuatan-data-di-era-digital-3078a2f38c14?source=rss------data_science-5)
+- [Demystifying Exploratory Data Analysis for Data Science and Machine Learning: Unveiling Insights…](https://medium.com/@pattukk/demystifying-exploratory-data-analysis-for-data-science-and-machine-learning-unveiling-insights-2c3c066b3e25?source=rss------data_science-5)
+- [Como Trocar a Pasta Inicial do Jupyter Notebook](https://medium.com/@ruizroman/como-trocar-a-pasta-inicial-do-jupyter-notebook-f7597457a24?source=rss------data_science-5)
+- [Java’da Değer Ve Referans Tipleri](https://medium.com/@erlikbatuhanarslan/javada-de%C4%9Fer-ve-referans-tipleri-83fb15daf5ac?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
