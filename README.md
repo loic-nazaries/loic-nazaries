@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Multidimensional Image Processing with Lidar Data for Segmentation and Classification Using Machine…](https://j-luis-cdgz.medium.com/multidimensional-image-processing-with-lidar-data-for-segmentation-and-classification-using-machine-2d033c759904?source=rss------data_science-5)
-- [Convert Text To PDF Using Golang With Unittests](https://levelup.gitconnected.com/convert-text-to-pdf-using-golang-with-unittests-4fc4a2c78c4?source=rss------data_science-5)
-- [SeqQueue: Indexed, Consecutive Queues for Python](https://medium.com/@highvight/seqqueue-indexed-consecutive-queues-for-python-b5c1177f08f2?source=rss------data_science-5)
-- [Boring Book Recommendations](https://adamrossnelson.medium.com/boring-book-recommendations-197897ae0b?source=rss------data_science-5)
-- [Mengenal dan Menggunakan Pandas Sebagai Library Analisis Data](https://medium.com/@rexyanggalaputra/mengenal-dan-menggunakan-pandas-sebagai-library-analisis-data-be1dee61be97?source=rss------data_science-5)
-- [Domain Knowledge: Unlocking the Power of Insightful Feature Engineering.](https://medium.com/@takalaniclarence/domain-knowledge-unlocking-the-power-of-insightful-feature-engineering-e4009a49ebce?source=rss------data_science-5)
-- [Data Science : Kekuatan Data di Era Digital](https://medium.com/@rexyanggalaputra/data-science-kekuatan-data-di-era-digital-3078a2f38c14?source=rss------data_science-5)
-- [Demystifying Exploratory Data Analysis for Data Science and Machine Learning: Unveiling Insights…](https://medium.com/@pattukk/demystifying-exploratory-data-analysis-for-data-science-and-machine-learning-unveiling-insights-2c3c066b3e25?source=rss------data_science-5)
-- [Como Trocar a Pasta Inicial do Jupyter Notebook](https://medium.com/@ruizroman/como-trocar-a-pasta-inicial-do-jupyter-notebook-f7597457a24?source=rss------data_science-5)
-- [Java’da Değer Ve Referans Tipleri](https://medium.com/@erlikbatuhanarslan/javada-de%C4%9Fer-ve-referans-tipleri-83fb15daf5ac?source=rss------data_science-5)
+- [The Evolution of Data Storage: Comparing Data Warehousing, Data Lakes, and Data Lakehouses](https://medium.com/@wuxinyao1996/the-evolution-of-data-storage-comparing-data-warehousing-data-lakes-and-data-lakehouses-f4d62af75cb3?source=rss------data_science-5)
+- [10 Advanced ML Techniques Every Data Scientist Should Master](https://medium.com/mlearning-ai/10-advanced-ml-techniques-every-data-scientist-should-master-825fd4c5a5e9?source=rss------data_science-5)
+- [Forget Matplotlib: Supercharge Your Data Viz with Seaborn’s Mind-Blowing Features!](https://levelup.gitconnected.com/forget-matplotlib-supercharge-your-data-viz-with-seaborns-mind-blowing-features-d8ae78ffc396?source=rss------data_science-5)
+- [Data Science Free Online Courses](https://medium.com/@formationgratuite.net/data-science-free-online-courses-6c2182a007cd?source=rss------data_science-5)
+- [How Medical School Rejection Led Me to Embrace Data Science](https://nijat.medium.com/how-medical-school-rejection-led-me-to-embrace-data-science-206a4a93f0d1?source=rss------data_science-5)
+- [Pandas vs. Modin: The Ultimate Showdown for Lightning-Fast Data Manipulation!](https://medium.datadriveninvestor.com/pandas-vs-modin-the-ultimate-showdown-for-lightning-fast-data-manipulation-848240bfe023?source=rss------data_science-5)
+- [What is PCA? What does a PCA do?](https://medium.com/@luvmutreja25/what-is-pca-what-does-a-pca-do-38019fdd90be?source=rss------data_science-5)
+- [Seaborn’s Integration with Pandas: Seamless Data Visualization](https://medium.datadriveninvestor.com/seaborns-integration-with-pandas-seamless-data-visualization-92d1cd7c276e?source=rss------data_science-5)
+- [Getting Specific: Pattern Matching with SQL LIKE](https://medium.com/@TechSavvyScribe/getting-specific-pattern-matching-with-sql-like-ceb1b46805ec?source=rss------data_science-5)
+- [Crack the Code of Advanced Array Operations with NumPy](https://blog.devgenius.io/crack-the-code-of-advanced-array-operations-with-numpy-5e9b7a38dc21?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
