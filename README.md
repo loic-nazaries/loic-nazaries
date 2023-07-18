@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Evolution of Data Storage: Comparing Data Warehousing, Data Lakes, and Data Lakehouses](https://medium.com/@wuxinyao1996/the-evolution-of-data-storage-comparing-data-warehousing-data-lakes-and-data-lakehouses-f4d62af75cb3?source=rss------data_science-5)
-- [10 Advanced ML Techniques Every Data Scientist Should Master](https://medium.com/mlearning-ai/10-advanced-ml-techniques-every-data-scientist-should-master-825fd4c5a5e9?source=rss------data_science-5)
-- [Forget Matplotlib: Supercharge Your Data Viz with Seaborn’s Mind-Blowing Features!](https://levelup.gitconnected.com/forget-matplotlib-supercharge-your-data-viz-with-seaborns-mind-blowing-features-d8ae78ffc396?source=rss------data_science-5)
-- [Data Science Free Online Courses](https://medium.com/@formationgratuite.net/data-science-free-online-courses-6c2182a007cd?source=rss------data_science-5)
-- [How Medical School Rejection Led Me to Embrace Data Science](https://nijat.medium.com/how-medical-school-rejection-led-me-to-embrace-data-science-206a4a93f0d1?source=rss------data_science-5)
-- [Pandas vs. Modin: The Ultimate Showdown for Lightning-Fast Data Manipulation!](https://medium.datadriveninvestor.com/pandas-vs-modin-the-ultimate-showdown-for-lightning-fast-data-manipulation-848240bfe023?source=rss------data_science-5)
-- [What is PCA? What does a PCA do?](https://medium.com/@luvmutreja25/what-is-pca-what-does-a-pca-do-38019fdd90be?source=rss------data_science-5)
-- [Seaborn’s Integration with Pandas: Seamless Data Visualization](https://medium.datadriveninvestor.com/seaborns-integration-with-pandas-seamless-data-visualization-92d1cd7c276e?source=rss------data_science-5)
-- [Getting Specific: Pattern Matching with SQL LIKE](https://medium.com/@TechSavvyScribe/getting-specific-pattern-matching-with-sql-like-ceb1b46805ec?source=rss------data_science-5)
-- [Crack the Code of Advanced Array Operations with NumPy](https://blog.devgenius.io/crack-the-code-of-advanced-array-operations-with-numpy-5e9b7a38dc21?source=rss------data_science-5)
+- [ریچھ کا شکار](https://medium.com/@aminsaleem100/%D8%B1%DB%8C%DA%86%DA%BE-%DA%A9%D8%A7-%D8%B4%DA%A9%D8%A7%D8%B1-51c74585204c?source=rss------data_science-5)
+- [Navigating Machine Learning Operations &lpar;MLOps&rpar;: Streamlining the Development, Deployment, and…](https://medium.com/@HalderNilimesh/navigating-machine-learning-operations-mlops-streamlining-the-development-deployment-and-d0c78d627b2b?source=rss------data_science-5)
+- [Q#84: User messaging](https://medium.com/foundational-data-science-interview-questions/q-84-user-messaging-29dcc336a0a0?source=rss------data_science-5)
+- [Análise de Componentes Principais: Teoria e Aplicação em Estudo de Caso.](https://medium.com/@gbrlcapp/an%C3%A1lise-de-componentes-principais-teoria-e-exemplo-de-uso-33904cdb63fe?source=rss------data_science-5)
+- [Unleashing the Power of Fusion: An Engaging Exploration](https://aakarsh1011.medium.com/unleashing-the-power-of-fusion-an-engaging-exploration-ade13c798452?source=rss------data_science-5)
+- [Data Literacy: Empowering Teams to Speak the Language of Business](https://medium.com/@giovannisolanoporras/data-literacy-empowering-teams-to-speak-the-language-of-business-6825983c80f9?source=rss------data_science-5)
+- [Mastering Data Visualization: Unleashing the Power of Radar Charts &lpar;Spider Plot&rpar; with fmsb in R](https://medium.com/@shivani.naik82/mastering-data-visualization-unleashing-the-power-of-radar-charts-spider-plot-with-fmsb-in-r-850948ca44b?source=rss------data_science-5)
+- [Analysis of the NYC Green Taxi data](https://medium.com/@fathurizkym27/analysis-of-the-nyc-green-taxi-data-e37640534730?source=rss------data_science-5)
+- [Unleashing the Power of AI: Revolutionizing Rubik’s Cube Solving](https://medium.com/@robertbates1995/unleashing-the-power-of-ai-revolutionizing-rubiks-cube-solving-86310e077d8?source=rss------data_science-5)
+- [The Power of Explainability: A Comparative Analysis of Methods for Interpreting Machine Learning…](https://medium.com/@b.ambrozim/the-power-of-explainability-a-comparative-analysis-of-methods-for-interpreting-machine-learning-ee197ebdd08f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
