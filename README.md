@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [I Tried to Have the Same Conversation with ChatGPT and Pi](https://sonery.medium.com/i-tried-to-have-the-same-conversation-with-chatgpt-and-pi-572adddb9b84?source=rss-2cf6b549448------2)
+- [Towards Being Tool-Agnostic in Data Science: SQL Case When and Pandas Where](https://towardsdatascience.com/towards-being-tool-agnostic-in-data-science-sql-case-when-and-pandas-where-f6a3d3cbcafa?source=rss-2cf6b549448------2)
 - [3 Use Cases for SQL Case When Statement](https://towardsdatascience.com/3-use-cases-for-sql-case-when-statement-51e8e2829218?source=rss-2cf6b549448------2)
 - [3 Must-Know Concepts About Python Data Structures](https://towardsdatascience.com/3-must-know-concepts-about-python-data-structures-641e6f6207fc?source=rss-2cf6b549448------2)
 - [I Wasn’t Satisfied With the Data Visualization I Created, I Let ChatGPT Code Interpreter Handle the…](https://sonery.medium.com/i-wasnt-satisfied-with-the-data-visualization-i-created-i-let-chatgpt-code-interpreter-handle-the-d308e6af7ac3?source=rss-2cf6b549448------2)
-- [I Showed ChatGPT Code Interpreter a Messy Dataset and the Desired Cleaned Version](https://pub.towardsai.net/i-showed-chatgpt-code-interpreter-a-messy-dataset-and-the-desired-cleaned-version-4b757086a222?source=rss-2cf6b549448------2)
-- [ChatGPT Code Interpreter: Your Mentor, Coworker, and Second Pair of Eyes](https://sonery.medium.com/chatgpt-code-interpreter-your-mentor-coworker-and-second-pair-of-eyes-3a2995d0ea31?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
