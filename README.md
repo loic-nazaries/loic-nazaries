@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [SOCIAL MEDIA MARKETING](https://medium.com/@gatgetviewnow/social-media-marketing-79e13cbf5a12?source=rss------data_science-5)
-- [SOCIAL MEDIA MARKETING](https://medium.com/@gatgetviewnow/social-media-marketing-5217187722c8?source=rss------data_science-5)
-- [How I Deployed a Machine Learning Model for the First Time](https://medium.com/latinxinai/how-i-deployed-a-machine-learning-model-for-the-first-time-b82b9ea831e0?source=rss------data_science-5)
-- [WormGPT: ChatGPT’s Evil Copy You Should Worry About](https://medium.com/@smraiyyan/wormgpt-chatgpts-evil-copy-you-should-worry-about-a1aeda6a7e1a?source=rss------data_science-5)
-- [Configuring AWS CLI to your account](https://medium.com/@sentosa/configuring-aws-cli-to-your-account-179b412e5158?source=rss------data_science-5)
-- [Machine Learning and Math: Naive Bayes](https://medium.com/@gadgeuday97/machine-learning-and-math-naive-bayes-969b9b907878?source=rss------data_science-5)
-- [A General Overview of L-Trees: Advantages, Applications, and Potential](https://medium.com/@edwardwilliam/a-general-overview-of-l-trees-advantages-applications-and-potential-4ae7c01d9e39?source=rss------data_science-5)
-- [Binary Search Trees: A Fundamental Data Structure for Efficient Searching and Sorting](https://medium.com/@edwardwilliam/binary-search-trees-a-fundamental-data-structure-for-efficient-searching-and-sorting-7c427ce8df81?source=rss------data_science-5)
-- [Exploring the Power of Non-Linear Lists](https://medium.com/@edwardwilliam/exploring-the-power-of-non-linear-lists-3a081b6349fb?source=rss------data_science-5)
-- [Sorting Algorithms: Exploring the Diversity of Sorting Techniques](https://medium.com/@edwardwilliam/sorting-algorithms-exploring-the-diversity-of-sorting-techniques-9b5aca321f70?source=rss------data_science-5)
+- [Exploring the Best Machine Learning Algorithms: A Detailed Overview](https://medium.com/@HalderNilimesh/exploring-the-best-machine-learning-algorithms-a-detailed-overview-83f26666d32e?source=rss------data_science-5)
+- [Estatística para Data Science Parte 1/8](https://medium.com/data-hackers/stats-e789c6f86f66?source=rss------data_science-5)
+- [From Data to Insights: Exploring the Potential of Histogram Analytics in Multiple Industries](https://medium.com/teradata/from-data-to-insights-exploring-the-potential-of-histogram-analytics-in-multiple-industries-2c8a140de362?source=rss------data_science-5)
+- [Forget Excel: Python’s Pandas Makes Data Analysis a Breeze](https://medium.datadriveninvestor.com/forget-excel-pythons-pandas-makes-data-analysis-a-breeze-9c99d00dc0e0?source=rss------data_science-5)
+- [Data Science Stakeholder Management](https://medium.com/@kenneth.kuhn/data-science-stakeholder-management-19500d7754c7?source=rss------data_science-5)
+- [“Ready, Set, Go”: Democratizing Data with Data-Driven Project-Based Challenges!](https://medium.com/@bsimmons_91647/ready-set-go-democratizing-data-with-data-driven-project-based-challenges-19324241585c?source=rss------data_science-5)
+- [Implementing Slowly Changing Dimensions in Snowflake for Banking Projects.](https://medium.com/@BrahmaWritings/implementing-slowly-changing-dimensions-in-snowflake-for-banking-projects-578590ab203d?source=rss------data_science-5)
+- [Python vs R for Data Science](https://medium.com/@smt.chavomoreno/python-vs-r-for-data-science-a4d8a52ae877?source=rss------data_science-5)
+- [Nourishing the Soul with Pistachios: A Taste of Health, Courtesy of the Green Nut](https://medium.com/@enfinitebalance/nourishing-the-soul-with-pistachios-a-taste-of-health-courtesy-of-the-green-nut-1c5d5dde2ed6?source=rss------data_science-5)
+- [LangChain and Falcon7B for Question Answering of Documents](https://wbassler23.medium.com/langchain-and-falcon7b-for-question-answering-of-documents-6565bae9d86a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
