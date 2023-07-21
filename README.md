@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Exploring the Best Machine Learning Algorithms: A Detailed Overview](https://medium.com/@HalderNilimesh/exploring-the-best-machine-learning-algorithms-a-detailed-overview-83f26666d32e?source=rss------data_science-5)
-- [Estatística para Data Science Parte 1/8](https://medium.com/data-hackers/stats-e789c6f86f66?source=rss------data_science-5)
-- [From Data to Insights: Exploring the Potential of Histogram Analytics in Multiple Industries](https://medium.com/teradata/from-data-to-insights-exploring-the-potential-of-histogram-analytics-in-multiple-industries-2c8a140de362?source=rss------data_science-5)
-- [Forget Excel: Python’s Pandas Makes Data Analysis a Breeze](https://medium.datadriveninvestor.com/forget-excel-pythons-pandas-makes-data-analysis-a-breeze-9c99d00dc0e0?source=rss------data_science-5)
-- [Data Science Stakeholder Management](https://medium.com/@kenneth.kuhn/data-science-stakeholder-management-19500d7754c7?source=rss------data_science-5)
-- [“Ready, Set, Go”: Democratizing Data with Data-Driven Project-Based Challenges!](https://medium.com/@bsimmons_91647/ready-set-go-democratizing-data-with-data-driven-project-based-challenges-19324241585c?source=rss------data_science-5)
-- [Implementing Slowly Changing Dimensions in Snowflake for Banking Projects.](https://medium.com/@BrahmaWritings/implementing-slowly-changing-dimensions-in-snowflake-for-banking-projects-578590ab203d?source=rss------data_science-5)
-- [Python vs R for Data Science](https://medium.com/@smt.chavomoreno/python-vs-r-for-data-science-a4d8a52ae877?source=rss------data_science-5)
-- [Nourishing the Soul with Pistachios: A Taste of Health, Courtesy of the Green Nut](https://medium.com/@enfinitebalance/nourishing-the-soul-with-pistachios-a-taste-of-health-courtesy-of-the-green-nut-1c5d5dde2ed6?source=rss------data_science-5)
-- [LangChain and Falcon7B for Question Answering of Documents](https://wbassler23.medium.com/langchain-and-falcon7b-for-question-answering-of-documents-6565bae9d86a?source=rss------data_science-5)
+- [Deploy LLMs Using Azure ML](https://skanda-vivek.medium.com/deploy-llms-using-azure-ml-804c40f8635e?source=rss------data_science-5)
+- [Kaufen Sie gefälschte Euro-Scheine. Kaufen Sie gefälschte Banknoten](https://medium.com/@akimvhaid/kaufen-sie-gef%C3%A4lschte-euro-scheine-kaufen-sie-gef%C3%A4lschte-banknoten-fc37deffc026?source=rss------data_science-5)
+- [Comprar billetes de euro falsos Comprar billetes de banco falsos](https://medium.com/@mm4073285/comprar-billetes-de-euro-falsos-comprar-billetes-de-banco-falsos-6d45ed7d38c6?source=rss------data_science-5)
+- [You Won’t Believe These 5 Ridiculous Myths About Pandas](https://medium.com/@araujogabe1/you-wont-believe-these-5-ridiculous-myths-about-pandas-53bd723653e6?source=rss------data_science-5)
+- [These 7 Numpy “Facts” Are Total Nonsense — Debunked by the Experts](https://medium.com/@araujogabe1/these-7-numpy-facts-are-total-nonsense-debunked-by-the-experts-27297f8b1d72?source=rss------data_science-5)
+- [Rediscover Scikit-Learn — Why Everything You Know is a Lie](https://medium.com/@araujogabe1/rediscover-scikit-learn-why-everything-you-know-is-a-lie-f5ea0ea2593b?source=rss------data_science-5)
+- [Visualización de datos con Matplotlib — Parte 1](https://pabloluceroai.medium.com/visualizaci%C3%B3n-de-datos-con-matplotlib-parte-1-7dcf1f06e078?source=rss------data_science-5)
+- [Crafting Connections: Building a Composable CDP](https://medium.com/@mkremer_75412/crafting-connections-building-a-composable-cdp-840a568e6301?source=rss------data_science-5)
+- [ChatGPT used for Financial Data — Filters, Plots, and a Streamlit App](https://medium.com/@jedgore1/chatgpt-used-for-financial-data-filters-plots-and-a-streamlit-app-15a43de740ab?source=rss------data_science-5)
+- [God Eye Surveillance, Real-Life possibility.](https://medium.com/@michelefrancini/god-eye-surveillance-real-life-possibility-d18503a4d31?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
