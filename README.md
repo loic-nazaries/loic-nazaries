@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Deploy LLMs Using Azure ML](https://skanda-vivek.medium.com/deploy-llms-using-azure-ml-804c40f8635e?source=rss------data_science-5)
-- [Kaufen Sie gefälschte Euro-Scheine. Kaufen Sie gefälschte Banknoten](https://medium.com/@akimvhaid/kaufen-sie-gef%C3%A4lschte-euro-scheine-kaufen-sie-gef%C3%A4lschte-banknoten-fc37deffc026?source=rss------data_science-5)
-- [Comprar billetes de euro falsos Comprar billetes de banco falsos](https://medium.com/@mm4073285/comprar-billetes-de-euro-falsos-comprar-billetes-de-banco-falsos-6d45ed7d38c6?source=rss------data_science-5)
-- [You Won’t Believe These 5 Ridiculous Myths About Pandas](https://medium.com/@araujogabe1/you-wont-believe-these-5-ridiculous-myths-about-pandas-53bd723653e6?source=rss------data_science-5)
-- [These 7 Numpy “Facts” Are Total Nonsense — Debunked by the Experts](https://medium.com/@araujogabe1/these-7-numpy-facts-are-total-nonsense-debunked-by-the-experts-27297f8b1d72?source=rss------data_science-5)
-- [Rediscover Scikit-Learn — Why Everything You Know is a Lie](https://medium.com/@araujogabe1/rediscover-scikit-learn-why-everything-you-know-is-a-lie-f5ea0ea2593b?source=rss------data_science-5)
-- [Visualización de datos con Matplotlib — Parte 1](https://pabloluceroai.medium.com/visualizaci%C3%B3n-de-datos-con-matplotlib-parte-1-7dcf1f06e078?source=rss------data_science-5)
-- [Crafting Connections: Building a Composable CDP](https://medium.com/@mkremer_75412/crafting-connections-building-a-composable-cdp-840a568e6301?source=rss------data_science-5)
-- [ChatGPT used for Financial Data — Filters, Plots, and a Streamlit App](https://medium.com/@jedgore1/chatgpt-used-for-financial-data-filters-plots-and-a-streamlit-app-15a43de740ab?source=rss------data_science-5)
-- [God Eye Surveillance, Real-Life possibility.](https://medium.com/@michelefrancini/god-eye-surveillance-real-life-possibility-d18503a4d31?source=rss------data_science-5)
+- [Wrapping Up the 2023 Data Fellowship!](https://blog.deltanalytics.org/wrapping-up-the-2023-data-fellowship-f60c58ce3d97?source=rss------data_science-5)
+- [Correlation vs Covariance](https://matlabbkk.medium.com/correlation-vs-covariance-520dd9d6a57f?source=rss------data_science-5)
+- [Forecasting Amazon’s Quarterly Revenue in R](https://medium.com/@noahtover123/forecasting-amazons-quarterly-revenue-in-r-3f474276c74b?source=rss------data_science-5)
+- [Implementing World’s Simplest Database In Just 2 Lines Of Code](https://levelup.gitconnected.com/implementing-worlds-simplest-database-in-just-2-lines-of-code-11f368e0cda3?source=rss------data_science-5)
+- [How may polars be used to filter and slice data?](https://medium.com/@guandika8/how-may-polars-be-used-to-filter-and-slice-data-82cc4e5ec05e?source=rss------data_science-5)
+- [Use ChatGPT Code Interpreter for Machine Learning Models](https://medium.com/grabngoinfo/use-chatgpt-code-interpreter-for-machine-learning-models-d0c742fea0bc?source=rss------data_science-5)
+- [Python Dataframe Filter and Matplotlib Implementation](https://medium.com/@zeebrockeraa/python-dataframe-filter-implementation-94c556398d57?source=rss------data_science-5)
+- [What is data scraping](https://medium.com/@sammiescotx/what-is-data-scraping-8ef369768908?source=rss------data_science-5)
+- [We All Live In The Cosmic Cloud, Now](https://christylrivers.medium.com/we-all-live-in-the-cosmic-cloud-now-1cba5dd42414?source=rss------data_science-5)
+- [I will craft you a professional data science, data analytics, and resume writing](https://medium.com/@michaeljoyce1451/i-will-craft-you-a-professional-data-science-data-analytics-and-resume-writing-ae31fddee84d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
