@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Wrapping Up the 2023 Data Fellowship!](https://blog.deltanalytics.org/wrapping-up-the-2023-data-fellowship-f60c58ce3d97?source=rss------data_science-5)
-- [Correlation vs Covariance](https://matlabbkk.medium.com/correlation-vs-covariance-520dd9d6a57f?source=rss------data_science-5)
-- [Forecasting Amazon’s Quarterly Revenue in R](https://medium.com/@noahtover123/forecasting-amazons-quarterly-revenue-in-r-3f474276c74b?source=rss------data_science-5)
-- [Implementing World’s Simplest Database In Just 2 Lines Of Code](https://levelup.gitconnected.com/implementing-worlds-simplest-database-in-just-2-lines-of-code-11f368e0cda3?source=rss------data_science-5)
-- [How may polars be used to filter and slice data?](https://medium.com/@guandika8/how-may-polars-be-used-to-filter-and-slice-data-82cc4e5ec05e?source=rss------data_science-5)
-- [Use ChatGPT Code Interpreter for Machine Learning Models](https://medium.com/grabngoinfo/use-chatgpt-code-interpreter-for-machine-learning-models-d0c742fea0bc?source=rss------data_science-5)
-- [Python Dataframe Filter and Matplotlib Implementation](https://medium.com/@zeebrockeraa/python-dataframe-filter-implementation-94c556398d57?source=rss------data_science-5)
-- [What is data scraping](https://medium.com/@sammiescotx/what-is-data-scraping-8ef369768908?source=rss------data_science-5)
-- [We All Live In The Cosmic Cloud, Now](https://christylrivers.medium.com/we-all-live-in-the-cosmic-cloud-now-1cba5dd42414?source=rss------data_science-5)
-- [I will craft you a professional data science, data analytics, and resume writing](https://medium.com/@michaeljoyce1451/i-will-craft-you-a-professional-data-science-data-analytics-and-resume-writing-ae31fddee84d?source=rss------data_science-5)
+- [Python Tutorial: Learn the Art of Programming in 7 Days](https://medium.com/@alains/python-tutorial-learn-the-art-of-programming-in-7-days-cbd4110a711e?source=rss------data_science-5)
+- [Crush Your Data Analysis Goals With Python: A Step-By-Step Guide](https://medium.com/@alains/crush-your-data-analysis-goals-with-python-a-step-by-step-guide-103653f4973f?source=rss------data_science-5)
+- [The Complete Guide to Data Science: Your Ultimate Handbook from Day One](https://medium.com/@alains/the-complete-guide-to-data-science-your-ultimate-handbook-from-day-one-8a48bfc39453?source=rss------data_science-5)
+- [Hotel Analytics with SQL](https://mgcodesandstats.medium.com/hotel-analytics-with-sql-953882d34301?source=rss------data_science-5)
+- [K-means Clustering: Sorting Data Like Magic!](https://yashguptatech.medium.com/k-means-clustering-sorting-data-like-magic-6f0070675b7c?source=rss------data_science-5)
+- [Quick Review of the Basics: SPARK](https://medium.com/@ryassminh/quick-review-of-the-basics-spark-441576d32b30?source=rss------data_science-5)
+- [Navigating the Data Tsunami: Unveiling the Power of Big Data Analytics in Business Transformation](https://medium.com/@fayaz_king/navigating-the-data-tsunami-unveiling-the-power-of-big-data-analytics-in-business-transformation-f88dc8436739?source=rss------data_science-5)
+- [DNA as Data Centers? What is DNA Computing?](https://medium.com/@hasnainistz/dna-as-data-centers-what-is-dna-computing-68b4b92cee54?source=rss------data_science-5)
+- [Measurement Problems](https://medium.com/@sznzkl/measurement-problems-aa11e96db8ac?source=rss------data_science-5)
+- [Untitled](https://medium.com/@nilesh.devlekar22/untitled-c496912e7391?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
