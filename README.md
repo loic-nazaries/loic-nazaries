@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Imbalance Datasets in Machine Learning](https://medium.com/@akashmishra77/imbalance-datasets-in-machine-learning-642a1f8be1fe?source=rss------data_science-5)
-- [5 Life-changing Online Courses for My Data Scientists Journey](https://medium.com/@timlo512/5-life-changing-online-courses-for-my-data-scientists-journey-cfd752c5384d?source=rss------data_science-5)
-- [Are You Ready to Explain Why Your Company Needs Generative AI?](https://medium.com/@mo.villagran/are-you-ready-to-explain-why-your-company-needs-generative-ai-685f2a4605b3?source=rss------data_science-5)
-- [Analysis of Indian Startup Ecosytem Based on Funding from 2018–2021](https://medium.com/@benjaminkipkem/analysis-of-indian-startup-ecosytem-based-on-funding-from-2018-2021-bae001d37a67?source=rss------data_science-5)
-- [How Fuzzy Matching Resolved My Product Mapping Conundrum](https://levelup.gitconnected.com/how-fuzzy-matching-resolved-my-product-mapping-conundrum-fe08b4456f12?source=rss------data_science-5)
-- [Gossip Protocol Explained](https://levelup.gitconnected.com/gossip-protocol-explained-1323338e6f6a?source=rss------data_science-5)
-- [5 Useful Tips For SQL Excellence](https://levelup.gitconnected.com/5-useful-tips-for-sql-excellence-ba380a3dbf53?source=rss------data_science-5)
-- [‍How to use Huawei Moxing AI Framework ❓❗](https://medium.com/huawei-developers/how-to-use-huawei-moxing-ai-framework-bd214ad9a8dd?source=rss------data_science-5)
-- [Simple Python Libraries Everyone Uses But Nobody Teaches](https://levelup.gitconnected.com/simple-python-libraries-everyone-uses-but-nobody-teaches-ff01e3083605?source=rss------data_science-5)
-- [The Role of Predictor Selection and Feature Importance in Machine Learning](https://python.plainenglish.io/the-role-of-predictor-selection-and-feature-importance-in-machine-learning-58a2ae817f0c?source=rss------data_science-5)
+- [Key Concepts in Data Analytics: Unlocking the Fundamentals](https://medium.com/@bashirdaramola1/key-concepts-in-data-analytics-unlocking-the-fundamentals-82f0a3785025?source=rss------data_science-5)
+- [Download Transformers Rise Of The Beast Download Mkv latest](https://medium.com/@okeziedivine111/download-transformers-rise-of-the-beast-download-mkv-latest-ba53ec87a513?source=rss------data_science-5)
+- [CI-based optimization algorithms: Don’t buy an expensive laptop for its clock!](https://medium.com/@babakzolghadrasli/ci-based-optimization-algorithms-dont-buy-an-expensive-laptop-for-its-clock-79d87a7234fc?source=rss------data_science-5)
+- [Are data dashboards vanity projects?](https://uxdesign.cc/are-data-dashboards-vanity-projects-e19929bb1c41?source=rss------data_science-5)
+- [Utilizing APIs as a Product Manager!](https://medium.com/@sam_12/utilizing-apis-as-a-product-manager-53f35fc53e1c?source=rss------data_science-5)
+- [The Importance of Real-time Inventory Visibility](https://medium.com/suitable-ryans-thoughts/the-importance-of-real-time-inventory-visibility-5d5d32890ad0?source=rss------data_science-5)
+- [Data Wisdom Unleashed: Part 2: What are DurableContext, LargeObjects Databases?](https://medium.com/@hassan98mansoor/data-wisdom-unleashed-part-2-what-are-durablecontext-largeobjects-databases-5a5131610d58?source=rss------data_science-5)
+- [Data Science: The Quirky World of Number Crunching and Magic Predictions!”](https://medium.com/@preciousagbebi67/data-science-the-quirky-world-of-number-crunching-and-magic-predictions-60827ce59ae?source=rss------data_science-5)
+- [How Business Intelligence Analysts Thrive with Busy Stakeholders -](https://dekings.medium.com/how-business-intelligence-analysts-thrive-with-busy-stakeholders-b5557fa3fb6f?source=rss------data_science-5)
+- [Navigating Snowflake’s Wonderland: A Data Engineer’s Guide to Choosing the Perfect Edition, Cloud…](https://medium.com/@BrahmaWritings/navigating-snowflakes-wonderland-a-data-engineer-s-guide-to-choosing-the-perfect-edition-cloud-6bc4fb543ebf?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
