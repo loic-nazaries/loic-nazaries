@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Key Concepts in Data Analytics: Unlocking the Fundamentals](https://medium.com/@bashirdaramola1/key-concepts-in-data-analytics-unlocking-the-fundamentals-82f0a3785025?source=rss------data_science-5)
-- [Download Transformers Rise Of The Beast Download Mkv latest](https://medium.com/@okeziedivine111/download-transformers-rise-of-the-beast-download-mkv-latest-ba53ec87a513?source=rss------data_science-5)
-- [CI-based optimization algorithms: Don’t buy an expensive laptop for its clock!](https://medium.com/@babakzolghadrasli/ci-based-optimization-algorithms-dont-buy-an-expensive-laptop-for-its-clock-79d87a7234fc?source=rss------data_science-5)
-- [Are data dashboards vanity projects?](https://uxdesign.cc/are-data-dashboards-vanity-projects-e19929bb1c41?source=rss------data_science-5)
-- [Utilizing APIs as a Product Manager!](https://medium.com/@sam_12/utilizing-apis-as-a-product-manager-53f35fc53e1c?source=rss------data_science-5)
-- [The Importance of Real-time Inventory Visibility](https://medium.com/suitable-ryans-thoughts/the-importance-of-real-time-inventory-visibility-5d5d32890ad0?source=rss------data_science-5)
-- [Data Wisdom Unleashed: Part 2: What are DurableContext, LargeObjects Databases?](https://medium.com/@hassan98mansoor/data-wisdom-unleashed-part-2-what-are-durablecontext-largeobjects-databases-5a5131610d58?source=rss------data_science-5)
-- [Data Science: The Quirky World of Number Crunching and Magic Predictions!”](https://medium.com/@preciousagbebi67/data-science-the-quirky-world-of-number-crunching-and-magic-predictions-60827ce59ae?source=rss------data_science-5)
-- [How Business Intelligence Analysts Thrive with Busy Stakeholders -](https://dekings.medium.com/how-business-intelligence-analysts-thrive-with-busy-stakeholders-b5557fa3fb6f?source=rss------data_science-5)
-- [Navigating Snowflake’s Wonderland: A Data Engineer’s Guide to Choosing the Perfect Edition, Cloud…](https://medium.com/@BrahmaWritings/navigating-snowflakes-wonderland-a-data-engineer-s-guide-to-choosing-the-perfect-edition-cloud-6bc4fb543ebf?source=rss------data_science-5)
+- [Unveiling the Fascinating World of Data Engineering with Python](https://medium.com/@raghava.sangars/unveiling-the-fascinating-world-of-data-engineering-with-python-8a4c60370eae?source=rss------data_science-5)
+- [The Ultimate Guide to Algorithm Parameter Tuning with Scikit-Learn: Empowering Machine Learning…](https://medium.com/@HalderNilimesh/the-ultimate-guide-to-algorithm-parameter-tuning-with-scikit-learn-empowering-machine-learning-20f5d438b720?source=rss------data_science-5)
+- [38 Python Tips and Ticks To Learn Before You Write Your Next Code](https://anmol3015.medium.com/38-python-tips-and-ticks-to-learn-before-you-write-your-next-code-21ce3695db15?source=rss------data_science-5)
+- [With as low as $2, data and a simple device, you can learn and get started with data science and…](https://medium.com/@iniecks/with-as-low-as-2-data-and-a-simple-device-you-can-learn-and-get-started-with-data-science-and-204fd27bb763?source=rss------data_science-5)
+- [Title: Embracing Chaos and Harmony: The Confluence of Random Walk, Decentralization, and Acoustic…](https://medium.com/@mrclassified777/title-embracing-chaos-and-harmony-the-confluence-of-random-walk-decentralization-and-acoustic-7d1fafb16636?source=rss------data_science-5)
+- [Aprimorando leituras urbanas com sensoriamento remoto de um jeito simples](https://medium.com/@lisses/aprimorando-leituras-urbanas-com-sensoriamento-remoto-de-um-jeito-simples-2733d519cce8?source=rss------data_science-5)
+- [Dicas sobre busca ativa e Linkedin para mudar de carreira ou encontrar novas vagas.](https://medium.com/@robson.tigre0/dicas-sobre-busca-ativa-e-linkedin-para-mudar-de-carreira-ou-encontrar-novas-vagas-7bb90b4d74df?source=rss------data_science-5)
+- [Web Development Company: Empowering Businesses in the Digital Frontier](https://medium.com/@edwardwilliam/web-development-company-empowering-businesses-in-the-digital-frontier-9293eca564d6?source=rss------data_science-5)
+- [Mastering Feature Selection in Python with Scikit-Learn: A Complete Walkthrough](https://blog.gopenai.com/mastering-feature-selection-in-python-with-scikit-learn-a-complete-walkthrough-4825323d46a9?source=rss------data_science-5)
+- [Analyzing Spotify Data — Day 1](https://medium.com/@megtechnica/analyzing-spotify-data-day-1-29da36e74431?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
