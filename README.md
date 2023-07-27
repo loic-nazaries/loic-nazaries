@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Unveiling the Fascinating World of Data Engineering with Python](https://medium.com/@raghava.sangars/unveiling-the-fascinating-world-of-data-engineering-with-python-8a4c60370eae?source=rss------data_science-5)
-- [The Ultimate Guide to Algorithm Parameter Tuning with Scikit-Learn: Empowering Machine Learning…](https://medium.com/@HalderNilimesh/the-ultimate-guide-to-algorithm-parameter-tuning-with-scikit-learn-empowering-machine-learning-20f5d438b720?source=rss------data_science-5)
-- [38 Python Tips and Ticks To Learn Before You Write Your Next Code](https://anmol3015.medium.com/38-python-tips-and-ticks-to-learn-before-you-write-your-next-code-21ce3695db15?source=rss------data_science-5)
-- [With as low as $2, data and a simple device, you can learn and get started with data science and…](https://medium.com/@iniecks/with-as-low-as-2-data-and-a-simple-device-you-can-learn-and-get-started-with-data-science-and-204fd27bb763?source=rss------data_science-5)
-- [Title: Embracing Chaos and Harmony: The Confluence of Random Walk, Decentralization, and Acoustic…](https://medium.com/@mrclassified777/title-embracing-chaos-and-harmony-the-confluence-of-random-walk-decentralization-and-acoustic-7d1fafb16636?source=rss------data_science-5)
-- [Aprimorando leituras urbanas com sensoriamento remoto de um jeito simples](https://medium.com/@lisses/aprimorando-leituras-urbanas-com-sensoriamento-remoto-de-um-jeito-simples-2733d519cce8?source=rss------data_science-5)
-- [Dicas sobre busca ativa e Linkedin para mudar de carreira ou encontrar novas vagas.](https://medium.com/@robson.tigre0/dicas-sobre-busca-ativa-e-linkedin-para-mudar-de-carreira-ou-encontrar-novas-vagas-7bb90b4d74df?source=rss------data_science-5)
-- [Web Development Company: Empowering Businesses in the Digital Frontier](https://medium.com/@edwardwilliam/web-development-company-empowering-businesses-in-the-digital-frontier-9293eca564d6?source=rss------data_science-5)
-- [Mastering Feature Selection in Python with Scikit-Learn: A Complete Walkthrough](https://blog.gopenai.com/mastering-feature-selection-in-python-with-scikit-learn-a-complete-walkthrough-4825323d46a9?source=rss------data_science-5)
-- [Analyzing Spotify Data — Day 1](https://medium.com/@megtechnica/analyzing-spotify-data-day-1-29da36e74431?source=rss------data_science-5)
+- [10 Things I Stopped Doing in NumPy after Learning from the Pros](https://levelup.gitconnected.com/10-things-i-stopped-doing-in-numpy-after-learning-from-the-pros-ef095848117f?source=rss------data_science-5)
+- [10 Things I Stopped Doing in Pandas after Learning from the Pros](https://blog.devgenius.io/10-things-i-stopped-doing-in-pandas-after-learning-from-the-pros-e78c8f5dea80?source=rss------data_science-5)
+- [Future Disruptive in Biological Science](https://medium.com/@drsanjayrout/future-disruptive-in-biological-science-203217c6a563?source=rss------data_science-5)
+- [Portfolio Analysis in Python: The Impact of the Ukraine War on European and American Companies](https://medium.datadriveninvestor.com/portfolio-analysis-in-python-the-impact-of-the-ukraine-war-on-european-and-american-companies-832b02fdf237?source=rss------data_science-5)
+- [What is LLama2? : Dive into Meta AI’s Newest Open Source Language Model](https://medium.datadriveninvestor.com/what-is-llama2-dive-into-meta-ais-newest-open-source-language-model-9b4cc0f14ba6?source=rss------data_science-5)
+- [Understanding Python’s Mysterious Lambda Functions](https://medium.datadriveninvestor.com/understanding-pythons-mysterious-lambda-functions-6b45c05b94b4?source=rss------data_science-5)
+- [Entendiendo el Sobreajuste en los Modelos de Machine Learning](https://jorgedataengineer.medium.com/entendiendo-el-sobreajuste-en-los-modelos-de-machine-learning-115c63e906d?source=rss------data_science-5)
+- [Game-changer in AI: The Llama API’s User-Friendly Approach to Machine Learning!](https://medium.com/@rutujadesai/game-changer-in-ai-the-llama-apis-user-friendly-approach-to-machine-learning-c9b99c42d2c9?source=rss------data_science-5)
+- [Accelerating Ranking Experimentation at Thumbtack with Interleaving](https://medium.com/thumbtack-engineering/accelerating-ranking-experimentation-at-thumbtack-with-interleaving-20cbe7837edf?source=rss------data_science-5)
+- [Mastering the Art of Software Development: An In-Depth Guide](https://medium.com/@brechtcorbeel/mastering-the-art-of-software-development-an-in-depth-guide-e6c57d63eb02?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
