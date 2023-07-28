@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [Are You Too Late to Start Your Data Science Journey?— 2023 edition](https://sonery.medium.com/are-you-too-late-to-start-your-data-science-journey-2023-edition-5dddfb4ce2e0?source=rss-2cf6b549448------2)
 - [10 Must-Know Terms and Concepts to Better Understand ChatGPT and LLMs](https://sonery.medium.com/10-must-know-terms-and-concepts-to-better-understand-chatgpt-and-llms-f9a6a474f543?source=rss-2cf6b549448------2)
 - [10 Ways to Add a Column to Pandas DataFrames](https://towardsdatascience.com/10-ways-to-add-a-column-to-pandas-dataframes-ccadf7306d89?source=rss-2cf6b549448------2)
 - [I Tried to Have the Same Conversation with ChatGPT and Pi](https://sonery.medium.com/i-tried-to-have-the-same-conversation-with-chatgpt-and-pi-572adddb9b84?source=rss-2cf6b549448------2)
 - [Towards Being Tool-Agnostic in Data Science: SQL Case When and Pandas Where](https://towardsdatascience.com/towards-being-tool-agnostic-in-data-science-sql-case-when-and-pandas-where-f6a3d3cbcafa?source=rss-2cf6b549448------2)
-- [3 Use Cases for SQL Case When Statement](https://towardsdatascience.com/3-use-cases-for-sql-case-when-statement-51e8e2829218?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
