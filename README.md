@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [10 Things I Stopped Doing in NumPy after Learning from the Pros](https://levelup.gitconnected.com/10-things-i-stopped-doing-in-numpy-after-learning-from-the-pros-ef095848117f?source=rss------data_science-5)
-- [10 Things I Stopped Doing in Pandas after Learning from the Pros](https://blog.devgenius.io/10-things-i-stopped-doing-in-pandas-after-learning-from-the-pros-e78c8f5dea80?source=rss------data_science-5)
-- [Future Disruptive in Biological Science](https://medium.com/@drsanjayrout/future-disruptive-in-biological-science-203217c6a563?source=rss------data_science-5)
-- [Portfolio Analysis in Python: The Impact of the Ukraine War on European and American Companies](https://medium.datadriveninvestor.com/portfolio-analysis-in-python-the-impact-of-the-ukraine-war-on-european-and-american-companies-832b02fdf237?source=rss------data_science-5)
-- [What is LLama2? : Dive into Meta AI’s Newest Open Source Language Model](https://medium.datadriveninvestor.com/what-is-llama2-dive-into-meta-ais-newest-open-source-language-model-9b4cc0f14ba6?source=rss------data_science-5)
-- [Understanding Python’s Mysterious Lambda Functions](https://medium.datadriveninvestor.com/understanding-pythons-mysterious-lambda-functions-6b45c05b94b4?source=rss------data_science-5)
-- [Entendiendo el Sobreajuste en los Modelos de Machine Learning](https://jorgedataengineer.medium.com/entendiendo-el-sobreajuste-en-los-modelos-de-machine-learning-115c63e906d?source=rss------data_science-5)
-- [Game-changer in AI: The Llama API’s User-Friendly Approach to Machine Learning!](https://medium.com/@rutujadesai/game-changer-in-ai-the-llama-apis-user-friendly-approach-to-machine-learning-c9b99c42d2c9?source=rss------data_science-5)
-- [Accelerating Ranking Experimentation at Thumbtack with Interleaving](https://medium.com/thumbtack-engineering/accelerating-ranking-experimentation-at-thumbtack-with-interleaving-20cbe7837edf?source=rss------data_science-5)
-- [Mastering the Art of Software Development: An In-Depth Guide](https://medium.com/@brechtcorbeel/mastering-the-art-of-software-development-an-in-depth-guide-e6c57d63eb02?source=rss------data_science-5)
+- [Hypothesis Testing: A Crucial Tool for Scientific Inquiry](https://medium.com/@evertongomede/hypothesis-testing-a-crucial-tool-for-scientific-inquiry-eb70b4f6f6ae?source=rss------data_science-5)
+- [How Business Leaders Can Effectively Collaborate with their AI Team](https://medium.com/@rtales/practical-communication-guide-how-business-leaders-can-effectively-collaborate-with-their-ai-team-da8b6407db94?source=rss------data_science-5)
+- [No More Instruction Manuals: The Dawn of Single-Use AIs Is Coming](https://medium.com/@QuillQuester/no-more-instruction-manuals-the-dawn-of-single-use-ais-is-coming-32be1e90044e?source=rss------data_science-5)
+- [Bitwise Operators‍ in JavaScript : Their Usage in Real-Life Scenarios](https://medium.com/@oluwadaprof/bitwise-operators-in-javascript-their-usage-in-real-life-scenarios-9242c666b51?source=rss------data_science-5)
+- [Generating new text using LSTMs: Writing a GOT script](https://medium.com/@ayodejiolona/generating-new-text-using-lstms-writing-a-got-script-cefddd5b2837?source=rss------data_science-5)
+- [Topic Modeling and LDA: A Quora case study](https://medium.com/@ayodejiolona/topic-modeling-and-lda-a-quora-case-study-ff62276270d5?source=rss------data_science-5)
+- [Analyzing annual products spending using DBSCAN](https://medium.com/@ayodejiolona/analyzing-annual-products-spending-using-dbscan-c7bc14c5d7d3?source=rss------data_science-5)
+- [Color quantization using K means clustering](https://medium.com/@ayodejiolona/color-quantization-using-k-means-clustering-b7eb9e49745c?source=rss------data_science-5)
+- [Data for good: A revelation](https://medium.com/@ayodejiolona/data-for-good-a-revelation-158b2ab6ff8?source=rss------data_science-5)
+- [Out of Exile: My Journey Back to Data Science Through LLMs](https://medium.com/@oaguy1/out-of-exile-my-journey-back-to-data-science-through-llms-2c4ae664bd7d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
