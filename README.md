@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Hypothesis Testing: A Crucial Tool for Scientific Inquiry](https://medium.com/@evertongomede/hypothesis-testing-a-crucial-tool-for-scientific-inquiry-eb70b4f6f6ae?source=rss------data_science-5)
-- [How Business Leaders Can Effectively Collaborate with their AI Team](https://medium.com/@rtales/practical-communication-guide-how-business-leaders-can-effectively-collaborate-with-their-ai-team-da8b6407db94?source=rss------data_science-5)
-- [No More Instruction Manuals: The Dawn of Single-Use AIs Is Coming](https://medium.com/@QuillQuester/no-more-instruction-manuals-the-dawn-of-single-use-ais-is-coming-32be1e90044e?source=rss------data_science-5)
-- [Bitwise Operators‍ in JavaScript : Their Usage in Real-Life Scenarios](https://medium.com/@oluwadaprof/bitwise-operators-in-javascript-their-usage-in-real-life-scenarios-9242c666b51?source=rss------data_science-5)
-- [Generating new text using LSTMs: Writing a GOT script](https://medium.com/@ayodejiolona/generating-new-text-using-lstms-writing-a-got-script-cefddd5b2837?source=rss------data_science-5)
-- [Topic Modeling and LDA: A Quora case study](https://medium.com/@ayodejiolona/topic-modeling-and-lda-a-quora-case-study-ff62276270d5?source=rss------data_science-5)
-- [Analyzing annual products spending using DBSCAN](https://medium.com/@ayodejiolona/analyzing-annual-products-spending-using-dbscan-c7bc14c5d7d3?source=rss------data_science-5)
-- [Color quantization using K means clustering](https://medium.com/@ayodejiolona/color-quantization-using-k-means-clustering-b7eb9e49745c?source=rss------data_science-5)
-- [Data for good: A revelation](https://medium.com/@ayodejiolona/data-for-good-a-revelation-158b2ab6ff8?source=rss------data_science-5)
-- [Out of Exile: My Journey Back to Data Science Through LLMs](https://medium.com/@oaguy1/out-of-exile-my-journey-back-to-data-science-through-llms-2c4ae664bd7d?source=rss------data_science-5)
+- [Beyond Pandas: How Polars Enhances Performance and Speed up Analytics](https://medium.com/@ben_lau93/beyond-pandas-how-polars-enhances-performance-and-speed-up-analytics-c917d41c28d1?source=rss------data_science-5)
+- [Comprehensive Guide to Ranking Evaluation Metrics](https://towardsdatascience.com/comprehensive-guide-to-ranking-evaluation-metrics-7d10382c1025?source=rss------data_science-5)
+- [How Random Are Goals in Soccer?](https://towardsdatascience.com/how-random-are-goals-in-soccer-8a822c1f3bc?source=rss------data_science-5)
+- [Carlos Alcaraz vs. The Big 3](https://towardsdatascience.com/carlos-alcaraz-vs-the-big-3-138e50a8a429?source=rss------data_science-5)
+- [Frequent Item Set Mining: The A-Priori Algorithm](https://medium.com/@janhaviprabhu27/frequent-item-set-mining-the-a-priori-algorithm-d7591d0927f4?source=rss------data_science-5)
+- [APIs: The Software Middlemen](https://medium.com/@codefoni/apis-the-software-middlemen-d37b75218b4?source=rss------data_science-5)
+- [90% of Your Data Science Tasks Can Be Completed by SQL Statements](https://medium.com/@guandika8/90-of-your-data-science-tasks-can-be-completed-by-sql-statements-fbc2e7a02dd?source=rss------data_science-5)
+- [Pembuatan Model Pendeteksi Laporan Duplikat pada Sistem Cepat Respon Masyarakat &lpar;CRM&rpar; Jakarta](https://medium.com/jakartasmartcity/pembuatan-model-pendeteksi-laporan-duplikat-pada-sistem-cepat-respon-masyarakat-crm-jakarta-c787bbb97f6c?source=rss------data_science-5)
+- [Decentralized Finance &lpar;DeFi&rpar; and Its Thriving Ecosystem](https://medium.com/@amaovictor71/decentralized-finance-defi-and-its-thriving-ecosystem-d01dd38d8213?source=rss------data_science-5)
+- [Cats Rule And Dogs Drool](https://medium.com/@pennyabrown140/cats-rule-and-dogs-drool-cda20dcd25a8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
