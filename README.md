@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Beyond Pandas: How Polars Enhances Performance and Speed up Analytics](https://medium.com/@ben_lau93/beyond-pandas-how-polars-enhances-performance-and-speed-up-analytics-c917d41c28d1?source=rss------data_science-5)
-- [Comprehensive Guide to Ranking Evaluation Metrics](https://towardsdatascience.com/comprehensive-guide-to-ranking-evaluation-metrics-7d10382c1025?source=rss------data_science-5)
-- [How Random Are Goals in Soccer?](https://towardsdatascience.com/how-random-are-goals-in-soccer-8a822c1f3bc?source=rss------data_science-5)
-- [Carlos Alcaraz vs. The Big 3](https://towardsdatascience.com/carlos-alcaraz-vs-the-big-3-138e50a8a429?source=rss------data_science-5)
-- [Frequent Item Set Mining: The A-Priori Algorithm](https://medium.com/@janhaviprabhu27/frequent-item-set-mining-the-a-priori-algorithm-d7591d0927f4?source=rss------data_science-5)
-- [APIs: The Software Middlemen](https://medium.com/@codefoni/apis-the-software-middlemen-d37b75218b4?source=rss------data_science-5)
-- [90% of Your Data Science Tasks Can Be Completed by SQL Statements](https://medium.com/@guandika8/90-of-your-data-science-tasks-can-be-completed-by-sql-statements-fbc2e7a02dd?source=rss------data_science-5)
-- [Pembuatan Model Pendeteksi Laporan Duplikat pada Sistem Cepat Respon Masyarakat &lpar;CRM&rpar; Jakarta](https://medium.com/jakartasmartcity/pembuatan-model-pendeteksi-laporan-duplikat-pada-sistem-cepat-respon-masyarakat-crm-jakarta-c787bbb97f6c?source=rss------data_science-5)
-- [Decentralized Finance &lpar;DeFi&rpar; and Its Thriving Ecosystem](https://medium.com/@amaovictor71/decentralized-finance-defi-and-its-thriving-ecosystem-d01dd38d8213?source=rss------data_science-5)
-- [Cats Rule And Dogs Drool](https://medium.com/@pennyabrown140/cats-rule-and-dogs-drool-cda20dcd25a8?source=rss------data_science-5)
+- [Choosing the Right Cloud Database: Maximizing Effectiveness for Your Business](https://medium.com/@ydewmin/choosing-the-right-cloud-database-maximizing-effectiveness-for-your-business-99642b483ffd?source=rss------data_science-5)
+- [ETL Troubleshooting: Dealing with Errors in the Source System](https://fahadthedatascientist.medium.com/etl-troubleshooting-dealing-with-errors-in-the-source-system-39154dc2c18a?source=rss------data_science-5)
+- [10 Customer Journey Analyses for Data Teams](https://medium.com/@jordan.t.gronkowski/10-customer-journey-analyses-for-data-teams-4851ce71996d?source=rss------data_science-5)
+- [Graduate from an Amateur Analyst: An Insider’s Perspective](https://medium.com/right-brain-analyst/graduate-from-an-amateur-analyst-an-insiders-perspective-9ec3110af29d?source=rss------data_science-5)
+- [ETL Deployment: Effective Post-Implementation Verification &lpar;PIV&rpar; Plan for Production](https://fahadthedatascientist.medium.com/etl-deployment-effective-post-implementation-verification-piv-plan-for-production-1aa9cca94930?source=rss------data_science-5)
+- [A Concise List of Data Visualization Libraries](https://medium.com/@olalekansamuel/a-concise-list-of-data-visualization-libraries-93b73369de59?source=rss------data_science-5)
+- [Exploring Non-linear Regression through Decision Trees in R: A Step-by-Step Coding Guide](https://blog.gopenai.com/exploring-non-linear-regression-through-decision-trees-in-r-a-step-by-step-coding-guide-641da1091017?source=rss------data_science-5)
+- [Principal Component Analysis: A Great Tool For Dimensionality Reduction](https://medium.com/@bearnest/principal-component-analysis-a-great-tool-for-dimensionality-reduction-21fed6b5b0ea?source=rss------data_science-5)
+- [Understanding Data Redundancy As A Beginner in SQL](https://medium.com/@sebastineamede/understanding-data-redundancy-as-a-beginner-in-sql-d98d67ef76e6?source=rss------data_science-5)
+- [Joyce’s picks: readings in ML/AI, July 28, 2023](https://medium.com/@joycejshen/joyces-picks-readings-in-ml-ai-july-28-2023-7aa60b8c0228?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
