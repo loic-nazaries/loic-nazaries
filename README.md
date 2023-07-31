@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Choosing the Right Cloud Database: Maximizing Effectiveness for Your Business](https://medium.com/@ydewmin/choosing-the-right-cloud-database-maximizing-effectiveness-for-your-business-99642b483ffd?source=rss------data_science-5)
-- [ETL Troubleshooting: Dealing with Errors in the Source System](https://fahadthedatascientist.medium.com/etl-troubleshooting-dealing-with-errors-in-the-source-system-39154dc2c18a?source=rss------data_science-5)
-- [10 Customer Journey Analyses for Data Teams](https://medium.com/@jordan.t.gronkowski/10-customer-journey-analyses-for-data-teams-4851ce71996d?source=rss------data_science-5)
-- [Graduate from an Amateur Analyst: An Insider’s Perspective](https://medium.com/right-brain-analyst/graduate-from-an-amateur-analyst-an-insiders-perspective-9ec3110af29d?source=rss------data_science-5)
-- [ETL Deployment: Effective Post-Implementation Verification &lpar;PIV&rpar; Plan for Production](https://fahadthedatascientist.medium.com/etl-deployment-effective-post-implementation-verification-piv-plan-for-production-1aa9cca94930?source=rss------data_science-5)
-- [A Concise List of Data Visualization Libraries](https://medium.com/@olalekansamuel/a-concise-list-of-data-visualization-libraries-93b73369de59?source=rss------data_science-5)
-- [Exploring Non-linear Regression through Decision Trees in R: A Step-by-Step Coding Guide](https://blog.gopenai.com/exploring-non-linear-regression-through-decision-trees-in-r-a-step-by-step-coding-guide-641da1091017?source=rss------data_science-5)
-- [Principal Component Analysis: A Great Tool For Dimensionality Reduction](https://medium.com/@bearnest/principal-component-analysis-a-great-tool-for-dimensionality-reduction-21fed6b5b0ea?source=rss------data_science-5)
-- [Understanding Data Redundancy As A Beginner in SQL](https://medium.com/@sebastineamede/understanding-data-redundancy-as-a-beginner-in-sql-d98d67ef76e6?source=rss------data_science-5)
-- [Joyce’s picks: readings in ML/AI, July 28, 2023](https://medium.com/@joycejshen/joyces-picks-readings-in-ml-ai-july-28-2023-7aa60b8c0228?source=rss------data_science-5)
+- [Please Stop Misusing the “==” Operator](https://levelup.gitconnected.com/please-stop-misusing-the-operator-df95efc4fe28?source=rss------data_science-5)
+- [Beyond The VIF. Collinearity Analysis for Bias Mitigation and Predictive Accuracy](https://medium.com/analytics-vidhya/beyond-the-vif-collinearity-analysis-for-bias-mitigation-and-predictive-accuracy-18fbba3f7aa2?source=rss------data_science-5)
+- [Why I Encourage You to Use Spaces, Not Tabs &lpar;In Python&rpar;](https://medium.com/@araujogabe1/why-i-encourage-you-to-use-spaces-not-tabs-in-python-2dfac6803283?source=rss------data_science-5)
+- [Graduate from an Amateur Analyst: An Insider’s Perspective](https://medium.com/right-brain-analyst/graduate-from-an-amateur-analyst-an-insiders-perspective-d312e2354558?source=rss------data_science-5)
+- [Coding Won’t Exist In 10 Years. This Is Why](https://medium.com/predict/coding-wont-exist-in-10-years-this-is-why-9c6c26fdee0a?source=rss------data_science-5)
+- [The 10 Most Failed Python Interview Questions](https://levelup.gitconnected.com/the-10-most-failed-python-interview-questions-d1d38b583702?source=rss------data_science-5)
+- [“Data-Driven Insights: Unraveling Customer Behavior in the Corleone Empire of Success”](https://medium.com/@sulaimanshah/data-driven-insights-unraveling-customer-behavior-in-the-corleone-empire-of-success-c52e2ffe9f48?source=rss------data_science-5)
+- [Easy Start with PandasAI](https://medium.com/@alexanderfetisov1/easy-start-with-pandasai-365484169fa4?source=rss------data_science-5)
+- [Powering AI with Python: Top 20 Modules for Artificial Intelligence](https://python.plainenglish.io/powering-ai-with-python-top-20-modules-for-artificial-intelligence-d574cacb6939?source=rss------data_science-5)
+- [Exploring Titanic Dataset: A Journey with Popular Classifiers to Predict Survival](https://leynessa.medium.com/exploring-titanic-dataset-a-journey-with-popular-classifiers-to-predict-survival-e1b1b06e0bdb?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
