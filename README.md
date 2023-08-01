@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Please Stop Misusing the “==” Operator](https://levelup.gitconnected.com/please-stop-misusing-the-operator-df95efc4fe28?source=rss------data_science-5)
-- [Beyond The VIF. Collinearity Analysis for Bias Mitigation and Predictive Accuracy](https://medium.com/analytics-vidhya/beyond-the-vif-collinearity-analysis-for-bias-mitigation-and-predictive-accuracy-18fbba3f7aa2?source=rss------data_science-5)
-- [Why I Encourage You to Use Spaces, Not Tabs &lpar;In Python&rpar;](https://medium.com/@araujogabe1/why-i-encourage-you-to-use-spaces-not-tabs-in-python-2dfac6803283?source=rss------data_science-5)
-- [Graduate from an Amateur Analyst: An Insider’s Perspective](https://medium.com/right-brain-analyst/graduate-from-an-amateur-analyst-an-insiders-perspective-d312e2354558?source=rss------data_science-5)
-- [Coding Won’t Exist In 10 Years. This Is Why](https://medium.com/predict/coding-wont-exist-in-10-years-this-is-why-9c6c26fdee0a?source=rss------data_science-5)
-- [The 10 Most Failed Python Interview Questions](https://levelup.gitconnected.com/the-10-most-failed-python-interview-questions-d1d38b583702?source=rss------data_science-5)
-- [“Data-Driven Insights: Unraveling Customer Behavior in the Corleone Empire of Success”](https://medium.com/@sulaimanshah/data-driven-insights-unraveling-customer-behavior-in-the-corleone-empire-of-success-c52e2ffe9f48?source=rss------data_science-5)
-- [Easy Start with PandasAI](https://medium.com/@alexanderfetisov1/easy-start-with-pandasai-365484169fa4?source=rss------data_science-5)
-- [Powering AI with Python: Top 20 Modules for Artificial Intelligence](https://python.plainenglish.io/powering-ai-with-python-top-20-modules-for-artificial-intelligence-d574cacb6939?source=rss------data_science-5)
-- [Exploring Titanic Dataset: A Journey with Popular Classifiers to Predict Survival](https://leynessa.medium.com/exploring-titanic-dataset-a-journey-with-popular-classifiers-to-predict-survival-e1b1b06e0bdb?source=rss------data_science-5)
+- [Analysis of the Contraceptive Method Choice in Indonesia using Python, Sci-Kit Learn and TensorFlow](https://medium.com/@animeshjoshi88/analysis-of-the-contraceptive-method-choice-in-indonesia-using-python-sci-kit-learn-and-tensorflow-d81b6b836188?source=rss------data_science-5)
+- [10 Data Analyst Tips You Need To Learn Now](https://muhtalhakhan.medium.com/10-data-analyst-tips-you-need-to-learn-now-72e1aeee108?source=rss------data_science-5)
+- [Maximizing Your Earnings as a Freelance Cybersecurity Consultant: A Thorough Blueprint to Make…](https://medium.com/@datawithdan_/title-maximizing-your-earnings-as-a-freelance-cybersecurity-consultant-a-thorough-blueprint-to-255b86cf9aae?source=rss------data_science-5)
+- [A Systematic Approach to Choosing the Best Technology/Vendor: MLOps version](https://pub.towardsai.net/a-systematic-approach-to-choosing-the-best-technology-vendor-mlops-version-a0d53a7c1947?source=rss------data_science-5)
+- [Develop Your Career as a Freelance Machine Learning Engineer: A Step-by-Step Guide to Make Over…](https://medium.com/@datawithdan_/develop-your-career-as-a-freelance-machine-learning-engineer-a-step-by-step-guide-to-make-over-1f95254ce020?source=rss------data_science-5)
+- [4 Ways You Can’t Use the ChatGPT Code Interpreter That Will Disrupt Your Analytics](https://towardsdatascience.com/chatgpt-code-interpreter-how-data-analyst-not-use-c31d29034b69?source=rss------data_science-5)
+- [AI and Sports Analytics: Leveraging Data for Performance Optimization](https://medium.com/@futureaiweb/ai-and-sports-analytics-leveraging-data-for-performance-optimization-b2f03c706d2d?source=rss------data_science-5)
+- [Maximum Likelihood and Sufficient Statistics](https://medium.com/@dungwoong/maximum-likelihood-and-sufficient-statistics-db70cc3dc0bd?source=rss------data_science-5)
+- [SQL Unleashed— The Ultimate Data Analyst’s Journey!](https://medium.com/@hsinghdhoot/sql-unleashed-the-ultimate-data-analysts-journey-a6e60cfbae9a?source=rss------data_science-5)
+- [Exploring Python Libraries: Numpy and Pandas: Week 1, Day 7](https://medium.com/@afterhourscoding/exploring-python-libraries-numpy-and-pandas-week-1-day-7-983bab2b0ef?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
