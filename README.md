@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Analysis of the Contraceptive Method Choice in Indonesia using Python, Sci-Kit Learn and TensorFlow](https://medium.com/@animeshjoshi88/analysis-of-the-contraceptive-method-choice-in-indonesia-using-python-sci-kit-learn-and-tensorflow-d81b6b836188?source=rss------data_science-5)
-- [10 Data Analyst Tips You Need To Learn Now](https://muhtalhakhan.medium.com/10-data-analyst-tips-you-need-to-learn-now-72e1aeee108?source=rss------data_science-5)
-- [Maximizing Your Earnings as a Freelance Cybersecurity Consultant: A Thorough Blueprint to Make…](https://medium.com/@datawithdan_/title-maximizing-your-earnings-as-a-freelance-cybersecurity-consultant-a-thorough-blueprint-to-255b86cf9aae?source=rss------data_science-5)
-- [A Systematic Approach to Choosing the Best Technology/Vendor: MLOps version](https://pub.towardsai.net/a-systematic-approach-to-choosing-the-best-technology-vendor-mlops-version-a0d53a7c1947?source=rss------data_science-5)
-- [Develop Your Career as a Freelance Machine Learning Engineer: A Step-by-Step Guide to Make Over…](https://medium.com/@datawithdan_/develop-your-career-as-a-freelance-machine-learning-engineer-a-step-by-step-guide-to-make-over-1f95254ce020?source=rss------data_science-5)
-- [4 Ways You Can’t Use the ChatGPT Code Interpreter That Will Disrupt Your Analytics](https://towardsdatascience.com/chatgpt-code-interpreter-how-data-analyst-not-use-c31d29034b69?source=rss------data_science-5)
-- [AI and Sports Analytics: Leveraging Data for Performance Optimization](https://medium.com/@futureaiweb/ai-and-sports-analytics-leveraging-data-for-performance-optimization-b2f03c706d2d?source=rss------data_science-5)
-- [Maximum Likelihood and Sufficient Statistics](https://medium.com/@dungwoong/maximum-likelihood-and-sufficient-statistics-db70cc3dc0bd?source=rss------data_science-5)
-- [SQL Unleashed— The Ultimate Data Analyst’s Journey!](https://medium.com/@hsinghdhoot/sql-unleashed-the-ultimate-data-analysts-journey-a6e60cfbae9a?source=rss------data_science-5)
-- [Exploring Python Libraries: Numpy and Pandas: Week 1, Day 7](https://medium.com/@afterhourscoding/exploring-python-libraries-numpy-and-pandas-week-1-day-7-983bab2b0ef?source=rss------data_science-5)
+- [Understanding Crypto](https://itsmroyeah.medium.com/understanding-crypto-adfaf9e8a3ee?source=rss------data_science-5)
+- [10 Innovative Business Ideas for Starting Your Entrepreneurial Journey](https://medium.com/@halaezzat3010/10-innovative-business-ideas-for-starting-your-entrepreneurial-journey-3a8626da7d94?source=rss------data_science-5)
+- [Data Analysis: A comprehensive guide for beginners.](https://medium.com/@vicgodwin/data-analysis-a-comprehensive-guide-for-beginners-5c019a5eb091?source=rss------data_science-5)
+- [مقدمة:
+تعيش المجتمعات المعاصرة في عصر التكنولوجيا والتواصل الاجتماعي، حيث أصبحت وسائل التواصل…](https://medium.com/@ah01008337882/%D9%85%D9%82%D8%AF%D9%85%D8%A9-%D8%AA%D8%B9%D9%8A%D8%B4-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B5%D8%B1%D8%A9-%D9%81%D9%8A-%D8%B9%D8%B5%D8%B1-%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D8%AD%D9%8A%D8%AB-%D8%A3%D8%B5%D8%A8%D8%AD%D8%AA-%D9%88%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-31cd0915396?source=rss------data_science-5)
+- [Notes – Chapter 5 : Model development and offline evaluation](https://medium.com/@ankitmathur45/notes-chapter-5-model-development-and-offline-evaluation-b8c89088bc06?source=rss------data_science-5)
+- [Bank Churn Prediction: A Data Science Approach to Forecast Customer Attrition in Financial…](https://medium.com/@donascimento.ph/bank-churn-prediction-a-data-science-approach-to-forecast-customer-attrition-in-financial-d18a6f1733b0?source=rss------data_science-5)
+- [Accelerate regression/classification via Intel optimization for PyTorch](https://medium.com/@sharanya.gandla05/accelerate-regression-classification-via-intel-optimization-for-pytorch-516520d83abd?source=rss------data_science-5)
+- [عنوان المقالة: تأثير وسائل التواصل الاجتماعي على الصحة العقلية وسبل التعامل معها](https://medium.com/@ah01008337882/%D8%B9%D9%86%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%84%D8%A9-%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1-%D9%88%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D9%84%D9%8A%D8%A9-%D9%88%D8%B3%D8%A8%D9%84-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D9%85%D8%B9%D9%87%D8%A7-31526f5c8d5?source=rss------data_science-5)
+- [Unknown Title](https://medium.com/@oxenai/unknown-title-eacc97256442?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
