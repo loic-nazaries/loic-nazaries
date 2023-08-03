@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Understanding Crypto](https://itsmroyeah.medium.com/understanding-crypto-adfaf9e8a3ee?source=rss------data_science-5)
-- [10 Innovative Business Ideas for Starting Your Entrepreneurial Journey](https://medium.com/@halaezzat3010/10-innovative-business-ideas-for-starting-your-entrepreneurial-journey-3a8626da7d94?source=rss------data_science-5)
-- [Data Analysis: A comprehensive guide for beginners.](https://medium.com/@vicgodwin/data-analysis-a-comprehensive-guide-for-beginners-5c019a5eb091?source=rss------data_science-5)
-- [مقدمة:
-تعيش المجتمعات المعاصرة في عصر التكنولوجيا والتواصل الاجتماعي، حيث أصبحت وسائل التواصل…](https://medium.com/@ah01008337882/%D9%85%D9%82%D8%AF%D9%85%D8%A9-%D8%AA%D8%B9%D9%8A%D8%B4-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B5%D8%B1%D8%A9-%D9%81%D9%8A-%D8%B9%D8%B5%D8%B1-%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D8%AD%D9%8A%D8%AB-%D8%A3%D8%B5%D8%A8%D8%AD%D8%AA-%D9%88%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-31cd0915396?source=rss------data_science-5)
-- [Notes – Chapter 5 : Model development and offline evaluation](https://medium.com/@ankitmathur45/notes-chapter-5-model-development-and-offline-evaluation-b8c89088bc06?source=rss------data_science-5)
-- [Bank Churn Prediction: A Data Science Approach to Forecast Customer Attrition in Financial…](https://medium.com/@donascimento.ph/bank-churn-prediction-a-data-science-approach-to-forecast-customer-attrition-in-financial-d18a6f1733b0?source=rss------data_science-5)
-- [Accelerate regression/classification via Intel optimization for PyTorch](https://medium.com/@sharanya.gandla05/accelerate-regression-classification-via-intel-optimization-for-pytorch-516520d83abd?source=rss------data_science-5)
-- [عنوان المقالة: تأثير وسائل التواصل الاجتماعي على الصحة العقلية وسبل التعامل معها](https://medium.com/@ah01008337882/%D8%B9%D9%86%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%84%D8%A9-%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1-%D9%88%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D9%84%D9%8A%D8%A9-%D9%88%D8%B3%D8%A8%D9%84-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D9%85%D8%B9%D9%87%D8%A7-31526f5c8d5?source=rss------data_science-5)
-- [Unknown Title](https://medium.com/@oxenai/unknown-title-eacc97256442?source=rss------data_science-5)
+- [Dive Into New Mexico’s Income Tax Analysis on PolicyEngine](https://blog.policyengine.org/dive-into-new-mexicos-income-tax-analysis-on-policyengine-8bd8a9a4bc4c?source=rss------data_science-5)
+- [The Future of AI: the Potential Dangers and Risks](https://silicon-squire.medium.com/the-future-of-ai-the-potential-dangers-and-risks-761a8a79285f?source=rss------data_science-5)
+- [With the ChatGPT Plugin, You’ll Be Seen by 99% of Data Scientists](https://pub.aimind.so/with-the-chatgpt-plugin-youll-be-seen-by-99-of-data-scientists-bf29a5a8702a?source=rss------data_science-5)
+- [Mastering Monte Carlo: How To Simulate Your Way to Better Machine Learning Models](https://towardsdatascience.com/mastering-monte-carlo-how-to-simulate-your-way-to-better-machine-learning-models-6b57ec4e5514?source=rss------data_science-5)
+- [A Mesmerizing Data Visualization](https://gkagyen.medium.com/a-mesmerizing-data-visualization-c836f6f8ec2?source=rss------data_science-5)
+- [Assessing the goodness of fit of regression models with diagnostic plots in R](https://infoart.medium.com/assessing-the-goodness-of-fit-of-regression-models-with-diagnostic-plots-in-r-262323f21009?source=rss------data_science-5)
+- [Q#87: School mascots](https://medium.com/foundational-data-science-interview-questions/q-88-school-mascots-5d499cda0dc6?source=rss------data_science-5)
+- [Deep Learning Series — Intro](https://medium.com/@chuntcdj/deep-learning-series-intro-8f4577543ff4?source=rss------data_science-5)
+- [Plug your Product Manager skill gaps with GPT-4 and become the uber-PM](https://bootcamp.uxdesign.cc/plug-your-product-manager-skill-gaps-with-gpt-4-and-become-the-uber-pm-3576aaa01b22?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
