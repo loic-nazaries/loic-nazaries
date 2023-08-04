@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Dive Into New Mexico’s Income Tax Analysis on PolicyEngine](https://blog.policyengine.org/dive-into-new-mexicos-income-tax-analysis-on-policyengine-8bd8a9a4bc4c?source=rss------data_science-5)
-- [The Future of AI: the Potential Dangers and Risks](https://silicon-squire.medium.com/the-future-of-ai-the-potential-dangers-and-risks-761a8a79285f?source=rss------data_science-5)
-- [With the ChatGPT Plugin, You’ll Be Seen by 99% of Data Scientists](https://pub.aimind.so/with-the-chatgpt-plugin-youll-be-seen-by-99-of-data-scientists-bf29a5a8702a?source=rss------data_science-5)
-- [Mastering Monte Carlo: How To Simulate Your Way to Better Machine Learning Models](https://towardsdatascience.com/mastering-monte-carlo-how-to-simulate-your-way-to-better-machine-learning-models-6b57ec4e5514?source=rss------data_science-5)
-- [A Mesmerizing Data Visualization](https://gkagyen.medium.com/a-mesmerizing-data-visualization-c836f6f8ec2?source=rss------data_science-5)
-- [Assessing the goodness of fit of regression models with diagnostic plots in R](https://infoart.medium.com/assessing-the-goodness-of-fit-of-regression-models-with-diagnostic-plots-in-r-262323f21009?source=rss------data_science-5)
-- [Q#87: School mascots](https://medium.com/foundational-data-science-interview-questions/q-88-school-mascots-5d499cda0dc6?source=rss------data_science-5)
-- [Deep Learning Series — Intro](https://medium.com/@chuntcdj/deep-learning-series-intro-8f4577543ff4?source=rss------data_science-5)
-- [Plug your Product Manager skill gaps with GPT-4 and become the uber-PM](https://bootcamp.uxdesign.cc/plug-your-product-manager-skill-gaps-with-gpt-4-and-become-the-uber-pm-3576aaa01b22?source=rss------data_science-5)
+- [10 Signs You’re Not Cut Out for a Programming Career](https://medium.com/@araujogabe1/10-signs-youre-not-cut-out-for-a-programming-career-9967f0fcba98?source=rss------data_science-5)
+- [The Future of Web Dev: 10 Python Frameworks to Watch in 2023](https://medium.datadriveninvestor.com/the-future-of-web-dev-10-python-frameworks-to-watch-in-2023-513a113f8416?source=rss------data_science-5)
+- [10 Signs Being a Programmer Might Not Be For You](https://medium.com/@araujogabe1/10-signs-being-a-programmer-might-not-be-for-you-bbe1691af899?source=rss------data_science-5)
+- [The Complexity of School Timetable Creation](https://medium.com/@vamshibobby1996/the-complexity-of-school-timetable-creation-ccb7f71a3af5?source=rss------data_science-5)
+- [What happened in Machine Learning 2023–7–30: Better image captions, Scaling EMA, Chain of thought…](https://machine-learning-made-simple.medium.com/what-happened-in-machine-learning-2023-7-30-better-image-captions-scaling-ema-chain-of-thought-4cfacd39bcbb?source=rss------data_science-5)
+- [The Use of Natural Language Processing in Financial Research](https://medium.com/@rohith.jeganathan08/the-use-of-natural-language-processing-in-financial-research-618517c88d3a?source=rss------data_science-5)
+- [Unraveling the Hidden Insights: An Exploratory Data Analysis with Pandas](https://medium.com/@wyx49677221/unraveling-the-hidden-insights-an-exploratory-data-analysis-with-pandas-4ed1ac74acaf?source=rss------data_science-5)
+- [Machine Learning: Diferenças entre modelos supervisionados e não-supervisionados](https://gustavotenorio.medium.com/machine-learning-diferen%C3%A7as-entre-modelos-supervisionados-e-n%C3%A3o-supervisionados-a72fd8f12c0b?source=rss------data_science-5)
+- [The Data Science Process — From the Perspective of a Junior Data Analyst](https://joo-mansa.medium.com/the-data-science-process-from-the-perspective-of-a-junior-data-analyst-c0957a7cc080?source=rss------data_science-5)
+- [Mastering Linear Classification with Logistic Regression in R: A Complete Tutorial with Code…](https://medium.com/@HalderNilimesh/mastering-linear-classification-with-logistic-regression-in-r-a-complete-tutorial-with-code-3baa98e1ab81?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
