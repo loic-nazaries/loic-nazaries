@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [10 Signs You’re Not Cut Out for a Programming Career](https://medium.com/@araujogabe1/10-signs-youre-not-cut-out-for-a-programming-career-9967f0fcba98?source=rss------data_science-5)
-- [The Future of Web Dev: 10 Python Frameworks to Watch in 2023](https://medium.datadriveninvestor.com/the-future-of-web-dev-10-python-frameworks-to-watch-in-2023-513a113f8416?source=rss------data_science-5)
-- [10 Signs Being a Programmer Might Not Be For You](https://medium.com/@araujogabe1/10-signs-being-a-programmer-might-not-be-for-you-bbe1691af899?source=rss------data_science-5)
-- [The Complexity of School Timetable Creation](https://medium.com/@vamshibobby1996/the-complexity-of-school-timetable-creation-ccb7f71a3af5?source=rss------data_science-5)
-- [What happened in Machine Learning 2023–7–30: Better image captions, Scaling EMA, Chain of thought…](https://machine-learning-made-simple.medium.com/what-happened-in-machine-learning-2023-7-30-better-image-captions-scaling-ema-chain-of-thought-4cfacd39bcbb?source=rss------data_science-5)
-- [The Use of Natural Language Processing in Financial Research](https://medium.com/@rohith.jeganathan08/the-use-of-natural-language-processing-in-financial-research-618517c88d3a?source=rss------data_science-5)
-- [Unraveling the Hidden Insights: An Exploratory Data Analysis with Pandas](https://medium.com/@wyx49677221/unraveling-the-hidden-insights-an-exploratory-data-analysis-with-pandas-4ed1ac74acaf?source=rss------data_science-5)
-- [Machine Learning: Diferenças entre modelos supervisionados e não-supervisionados](https://gustavotenorio.medium.com/machine-learning-diferen%C3%A7as-entre-modelos-supervisionados-e-n%C3%A3o-supervisionados-a72fd8f12c0b?source=rss------data_science-5)
-- [The Data Science Process — From the Perspective of a Junior Data Analyst](https://joo-mansa.medium.com/the-data-science-process-from-the-perspective-of-a-junior-data-analyst-c0957a7cc080?source=rss------data_science-5)
-- [Mastering Linear Classification with Logistic Regression in R: A Complete Tutorial with Code…](https://medium.com/@HalderNilimesh/mastering-linear-classification-with-logistic-regression-in-r-a-complete-tutorial-with-code-3baa98e1ab81?source=rss------data_science-5)
+- [Neuro-Symbolic AI: Let’s go back to the start](https://medium.com/@epapenha_40736/neuro-symbolic-ai-lets-go-back-to-the-start-cca9be15002?source=rss------data_science-5)
+- [5 Must-haves For Every Chief Data Officer: A Deep Dive](https://medium.com/@javorosales/5-must-haves-for-every-chief-data-officer-a-deep-dive-741bdcecb005?source=rss------data_science-5)
+- [Connecting Minds: A Network Analysis of Intellectual Collaboration](https://medium.com/@chingalbao/connecting-minds-a-network-analysis-of-intellectual-collaboration-30c606e49760?source=rss------data_science-5)
+- [Keeping Up with COVID-19: A Closer Look at the Accuracy of Tests in 2023](https://medium.com/microbial-instincts/keeping-up-with-covid-19-a-closer-look-at-the-accuracy-of-tests-in-2023-53a2e4e69d9c?source=rss------data_science-5)
+- [Crypto meets Stocks: Unveiling Cross-Asset Correlations through Yahoo Finance and Correlation…](https://medium.com/@mnyandenilunga/crypto-meets-stocks-unveiling-cross-asset-correlations-through-yahoo-finance-and-correlation-ab9760c627da?source=rss------data_science-5)
+- [Unveiling the Transformative Journey: My Data Science Internship at Prodigy Infotech](https://medium.com/@maria.mbugua.15/unveiling-the-transformative-journey-my-data-science-internship-at-prodigy-infotech-b43b222e92f8?source=rss------data_science-5)
+- [Connections and Sparks: Network Analysis Meets Speed Dating](https://medium.com/@johnsolomonlegara/connections-and-sparks-network-analysis-meets-speed-dating-f0c92dede058?source=rss------data_science-5)
+- [Introducing BQFlow](https://medium.com/bqflow/introducing-bqflow-e4457a67687f?source=rss------data_science-5)
+- [3 Pandas Functions for DataFrame Merging](https://pub.towardsai.net/3-pandas-functions-for-dataframe-merging-5ad29de0b5b3?source=rss------data_science-5)
+- [Remember The Guy Who Gave GPT-4 $100 to Start a Business? It Failed Miserably](https://medium.com/@smraiyyan/remember-the-guy-who-gave-gpt-4-100-to-start-a-business-it-failed-miserably-f2760059891a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
