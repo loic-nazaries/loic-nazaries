@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Neuro-Symbolic AI: Let’s go back to the start](https://medium.com/@epapenha_40736/neuro-symbolic-ai-lets-go-back-to-the-start-cca9be15002?source=rss------data_science-5)
-- [5 Must-haves For Every Chief Data Officer: A Deep Dive](https://medium.com/@javorosales/5-must-haves-for-every-chief-data-officer-a-deep-dive-741bdcecb005?source=rss------data_science-5)
-- [Connecting Minds: A Network Analysis of Intellectual Collaboration](https://medium.com/@chingalbao/connecting-minds-a-network-analysis-of-intellectual-collaboration-30c606e49760?source=rss------data_science-5)
-- [Keeping Up with COVID-19: A Closer Look at the Accuracy of Tests in 2023](https://medium.com/microbial-instincts/keeping-up-with-covid-19-a-closer-look-at-the-accuracy-of-tests-in-2023-53a2e4e69d9c?source=rss------data_science-5)
-- [Crypto meets Stocks: Unveiling Cross-Asset Correlations through Yahoo Finance and Correlation…](https://medium.com/@mnyandenilunga/crypto-meets-stocks-unveiling-cross-asset-correlations-through-yahoo-finance-and-correlation-ab9760c627da?source=rss------data_science-5)
-- [Unveiling the Transformative Journey: My Data Science Internship at Prodigy Infotech](https://medium.com/@maria.mbugua.15/unveiling-the-transformative-journey-my-data-science-internship-at-prodigy-infotech-b43b222e92f8?source=rss------data_science-5)
-- [Connections and Sparks: Network Analysis Meets Speed Dating](https://medium.com/@johnsolomonlegara/connections-and-sparks-network-analysis-meets-speed-dating-f0c92dede058?source=rss------data_science-5)
-- [Introducing BQFlow](https://medium.com/bqflow/introducing-bqflow-e4457a67687f?source=rss------data_science-5)
-- [3 Pandas Functions for DataFrame Merging](https://pub.towardsai.net/3-pandas-functions-for-dataframe-merging-5ad29de0b5b3?source=rss------data_science-5)
-- [Remember The Guy Who Gave GPT-4 $100 to Start a Business? It Failed Miserably](https://medium.com/@smraiyyan/remember-the-guy-who-gave-gpt-4-100-to-start-a-business-it-failed-miserably-f2760059891a?source=rss------data_science-5)
+- [A Comprehensive Overview of Descriptive, Diagnostic, Predictive, and Prescriptive Data Analysis and…](https://medium.com/@evertongomede/a-comprehensive-overview-of-descriptive-diagnostic-predictive-and-prescriptive-data-analysis-and-c4cff3d6ef4a?source=rss------data_science-5)
+- [Top R Blogs and Forums](https://medium.com/@jchen001/top-r-blogs-and-forums-351af349369a?source=rss------data_science-5)
+- [Artificial Eternity: Are We Ready for Digital Immortality?](https://medium.com/@sahirmaharaj/artificial-eternity-are-we-ready-for-digital-immortality-fa9ef439ab57?source=rss------data_science-5)
+- [Data Science salaries analysis using Plotly](https://medium.com/@pedroaacosta143/data-science-salaries-analysis-using-plotly-68827fcd6d61?source=rss------data_science-5)
+- [A little bit of info on the pc build that I made](https://medium.com/@nickwiersma/a-little-bit-of-info-on-the-pc-build-that-i-made-adf2c3cc886f?source=rss------data_science-5)
+- [Apply your Data Science Skills Purposefully in Healthcare](https://medium.com/@maximehaegeman/apply-your-data-science-skills-purposefully-in-healthcare-7ce69e5e9310?source=rss------data_science-5)
+- [ডাটা সায়েন্স এর সেরা ২৮ টি ব্লগ &lpar; Top 28 Blogs of Data Science&rpar;](https://medium.com/@EngineerRana/%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE-%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%8F%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%B0%E0%A6%BE-%E0%A7%A8%E0%A7%AE-%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A6%97-top-28-blogs-of-data-science-ce67049bb6e5?source=rss------data_science-5)
+- [Important SQL Commands for Sorting and Grouping &lpar;Chapter 4&rpar;](https://jinendra-singh.medium.com/important-sql-commands-for-sorting-and-grouping-chapter-4-ea032f7a9c8f?source=rss------data_science-5)
+- [Introduction to NATs [Part 1] : A lightweight messaging platform](https://medium.com/@ansabiqbal/introduction-to-nats-part-1-a-lightweight-messaging-platform-fbcf1d462823?source=rss------data_science-5)
+- [The ‘Hot Hand’ Theory and Shooting in Basketball](https://medium.com/@ol544/the-hot-hand-theory-and-shooting-in-basketball-5c5fe8b9467c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
