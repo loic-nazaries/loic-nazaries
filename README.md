@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Comprehensive Overview of Descriptive, Diagnostic, Predictive, and Prescriptive Data Analysis and…](https://medium.com/@evertongomede/a-comprehensive-overview-of-descriptive-diagnostic-predictive-and-prescriptive-data-analysis-and-c4cff3d6ef4a?source=rss------data_science-5)
-- [Top R Blogs and Forums](https://medium.com/@jchen001/top-r-blogs-and-forums-351af349369a?source=rss------data_science-5)
-- [Artificial Eternity: Are We Ready for Digital Immortality?](https://medium.com/@sahirmaharaj/artificial-eternity-are-we-ready-for-digital-immortality-fa9ef439ab57?source=rss------data_science-5)
-- [Data Science salaries analysis using Plotly](https://medium.com/@pedroaacosta143/data-science-salaries-analysis-using-plotly-68827fcd6d61?source=rss------data_science-5)
-- [A little bit of info on the pc build that I made](https://medium.com/@nickwiersma/a-little-bit-of-info-on-the-pc-build-that-i-made-adf2c3cc886f?source=rss------data_science-5)
-- [Apply your Data Science Skills Purposefully in Healthcare](https://medium.com/@maximehaegeman/apply-your-data-science-skills-purposefully-in-healthcare-7ce69e5e9310?source=rss------data_science-5)
-- [ডাটা সায়েন্স এর সেরা ২৮ টি ব্লগ &lpar; Top 28 Blogs of Data Science&rpar;](https://medium.com/@EngineerRana/%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE-%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%8F%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%B0%E0%A6%BE-%E0%A7%A8%E0%A7%AE-%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A6%97-top-28-blogs-of-data-science-ce67049bb6e5?source=rss------data_science-5)
-- [Important SQL Commands for Sorting and Grouping &lpar;Chapter 4&rpar;](https://jinendra-singh.medium.com/important-sql-commands-for-sorting-and-grouping-chapter-4-ea032f7a9c8f?source=rss------data_science-5)
-- [Introduction to NATs [Part 1] : A lightweight messaging platform](https://medium.com/@ansabiqbal/introduction-to-nats-part-1-a-lightweight-messaging-platform-fbcf1d462823?source=rss------data_science-5)
-- [The ‘Hot Hand’ Theory and Shooting in Basketball](https://medium.com/@ol544/the-hot-hand-theory-and-shooting-in-basketball-5c5fe8b9467c?source=rss------data_science-5)
+- [Extreme runtime optimization in Python](https://exhaustedtradersisyphus.medium.com/extreme-runtime-optimization-in-python-762c5b83675f?source=rss------data_science-5)
+- [Introdução à Ciência de Dados: Conceitos Básicos Explicados](https://irzokair.medium.com/introdu%C3%A7%C3%A3o-%C3%A0-ci%C3%AAncia-de-dados-conceitos-b%C3%A1sicos-explicados-f6c6162a279f?source=rss------data_science-5)
+- [What is Data?](https://medium.com/@raracodes/what-is-data-442fc7e720f2?source=rss------data_science-5)
+- [Advanced Visualization Techniques: Week 2, Day 12](https://medium.com/@afterhourscoding/advanced-visualization-techniques-week-2-day-12-f02def4a2fc4?source=rss------data_science-5)
+- [What is R-squared in Machine Learning](https://medium.com/@codekalimi/what-is-r-squared-in-machine-learning-508e94b34466?source=rss------data_science-5)
+- [I Spent 30 Days Studying A Programmer Who Built a $230 Billion Company After Quitting His 9–5 —…](https://levelup.gitconnected.com/i-spent-30-days-studying-a-programmer-who-built-a-230-billion-company-after-quitting-his-9-5-8ff4ebbe0346?source=rss------data_science-5)
+- [Python Unleashed: Cracking the Leetcode 100 — Arrays and Hashing](https://levelup.gitconnected.com/python-unleashed-cracking-the-leetcode-100-arrays-and-hashing-a187def7f66?source=rss------data_science-5)
+- [In sklearn Linear Regression why we calculate variance](https://medium.com/@codekalimi/in-sklearn-linear-regression-why-we-calculate-variance-fc45062a70eb?source=rss------data_science-5)
+- [Cryptocurrency Analysis with Python: A Beginner’s Guide to the Simple Moving Average &lpar;SMA&rpar;…](https://levelup.gitconnected.com/cryptocurrency-analysis-with-python-a-beginners-guide-to-the-simple-moving-average-sma-19334eb06e30?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
