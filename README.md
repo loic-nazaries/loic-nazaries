@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Extreme runtime optimization in Python](https://exhaustedtradersisyphus.medium.com/extreme-runtime-optimization-in-python-762c5b83675f?source=rss------data_science-5)
-- [Introdução à Ciência de Dados: Conceitos Básicos Explicados](https://irzokair.medium.com/introdu%C3%A7%C3%A3o-%C3%A0-ci%C3%AAncia-de-dados-conceitos-b%C3%A1sicos-explicados-f6c6162a279f?source=rss------data_science-5)
-- [What is Data?](https://medium.com/@raracodes/what-is-data-442fc7e720f2?source=rss------data_science-5)
-- [Advanced Visualization Techniques: Week 2, Day 12](https://medium.com/@afterhourscoding/advanced-visualization-techniques-week-2-day-12-f02def4a2fc4?source=rss------data_science-5)
-- [What is R-squared in Machine Learning](https://medium.com/@codekalimi/what-is-r-squared-in-machine-learning-508e94b34466?source=rss------data_science-5)
-- [I Spent 30 Days Studying A Programmer Who Built a $230 Billion Company After Quitting His 9–5 —…](https://levelup.gitconnected.com/i-spent-30-days-studying-a-programmer-who-built-a-230-billion-company-after-quitting-his-9-5-8ff4ebbe0346?source=rss------data_science-5)
-- [Python Unleashed: Cracking the Leetcode 100 — Arrays and Hashing](https://levelup.gitconnected.com/python-unleashed-cracking-the-leetcode-100-arrays-and-hashing-a187def7f66?source=rss------data_science-5)
-- [In sklearn Linear Regression why we calculate variance](https://medium.com/@codekalimi/in-sklearn-linear-regression-why-we-calculate-variance-fc45062a70eb?source=rss------data_science-5)
-- [Cryptocurrency Analysis with Python: A Beginner’s Guide to the Simple Moving Average &lpar;SMA&rpar;…](https://levelup.gitconnected.com/cryptocurrency-analysis-with-python-a-beginners-guide-to-the-simple-moving-average-sma-19334eb06e30?source=rss------data_science-5)
+- [Binary Love Signals: 01010100 01101111 00100000 01100111 01100101 01110100 01101000 01100101…](https://medium.com/@araujogabe1/binary-love-signals-01010100-01101111-00100000-01100111-01100101-01110100-01101000-01100101-ee807fa1c8aa?source=rss------data_science-5)
+- [Why Headless Analytics is the Game-Changer We’ve Been Waiting For](https://medium.com/@mkremer_75412/why-headless-analytics-is-the-game-changer-weve-been-waiting-for-62e49a89b5b9?source=rss------data_science-5)
+- [Chifi Newsletter — August 6th, 2023](https://chifi.dev/chifi-newsletter-august-6th-2023-67266335c575?source=rss------data_science-5)
+- [Microsoft Fabric vs. Power BI: What’s the Difference?](https://medium.datadriveninvestor.com/microsoft-fabric-vs-power-bi-whats-the-difference-ad17b3956c87?source=rss------data_science-5)
+- [10 Things I Regret After Learning Python](https://medium.com/@araujogabe1/10-things-i-regret-after-learning-python-ffc2bef803a6?source=rss------data_science-5)
+- [An Introduction to Google Colab! &lpar;2023&rpar;](https://adriandolinay.medium.com/an-introduction-to-google-colab-2023-6c26792827b3?source=rss------data_science-5)
+- [Frappuccino Effect: Correlation does not indicate causality](https://medium.com/@canbulatahmetozkan/frappuccino-effect-correlation-does-not-indicate-causality-3645521fc0c1?source=rss------data_science-5)
+- [Big data, Data Warehouse e Data Lake — introdução e colinha.](https://medium.com/@datawithlau/big-data-data-warehouse-e-data-lake-introdu%C3%A7%C3%A3o-e-colinha-f8da3138f0fe?source=rss------data_science-5)
+- [Data Mesh: To Mesh or Not to Mesh](https://towardsdev.com/data-mesh-to-mesh-or-not-to-mesh-77e78dd49302?source=rss------data_science-5)
+- [NLP Reveals How Scientific Writing Changed Since 1665](https://medium.com/@kurd.c/nlp-reveals-how-scientific-writing-changed-since-1665-8eb1293654af?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
