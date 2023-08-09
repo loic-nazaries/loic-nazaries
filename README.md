@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Binary Love Signals: 01010100 01101111 00100000 01100111 01100101 01110100 01101000 01100101…](https://medium.com/@araujogabe1/binary-love-signals-01010100-01101111-00100000-01100111-01100101-01110100-01101000-01100101-ee807fa1c8aa?source=rss------data_science-5)
-- [Why Headless Analytics is the Game-Changer We’ve Been Waiting For](https://medium.com/@mkremer_75412/why-headless-analytics-is-the-game-changer-weve-been-waiting-for-62e49a89b5b9?source=rss------data_science-5)
-- [Chifi Newsletter — August 6th, 2023](https://chifi.dev/chifi-newsletter-august-6th-2023-67266335c575?source=rss------data_science-5)
-- [Microsoft Fabric vs. Power BI: What’s the Difference?](https://medium.datadriveninvestor.com/microsoft-fabric-vs-power-bi-whats-the-difference-ad17b3956c87?source=rss------data_science-5)
-- [10 Things I Regret After Learning Python](https://medium.com/@araujogabe1/10-things-i-regret-after-learning-python-ffc2bef803a6?source=rss------data_science-5)
-- [An Introduction to Google Colab! &lpar;2023&rpar;](https://adriandolinay.medium.com/an-introduction-to-google-colab-2023-6c26792827b3?source=rss------data_science-5)
-- [Frappuccino Effect: Correlation does not indicate causality](https://medium.com/@canbulatahmetozkan/frappuccino-effect-correlation-does-not-indicate-causality-3645521fc0c1?source=rss------data_science-5)
-- [Big data, Data Warehouse e Data Lake — introdução e colinha.](https://medium.com/@datawithlau/big-data-data-warehouse-e-data-lake-introdu%C3%A7%C3%A3o-e-colinha-f8da3138f0fe?source=rss------data_science-5)
-- [Data Mesh: To Mesh or Not to Mesh](https://towardsdev.com/data-mesh-to-mesh-or-not-to-mesh-77e78dd49302?source=rss------data_science-5)
-- [NLP Reveals How Scientific Writing Changed Since 1665](https://medium.com/@kurd.c/nlp-reveals-how-scientific-writing-changed-since-1665-8eb1293654af?source=rss------data_science-5)
+- [Advanced Web Scraping Techniques using AI: A Comprehensive Guide](https://seemlight.medium.com/advanced-web-scraping-techniques-using-ai-a-comprehensive-guide-7ee11efa197c?source=rss------data_science-5)
+- [Mastering the Art of GitHub Profile Optimization to Captivate Recruiters](https://medium.com/@springbooted/mastering-the-art-of-github-profile-optimization-to-captivate-recruiters-c9fd35fd9c54?source=rss------data_science-5)
+- [Why Microsoft Access is Here to Stay?](https://medium.com/@bennettmo16/why-microsoft-access-is-here-to-stay-3297916ed6e0?source=rss------data_science-5)
+- [Build More Capable LLMs with Retrieval Augmented Generation](https://towardsdatascience.com/build-more-capable-llms-with-retrieval-augmented-generation-99d5f86e9779?source=rss------data_science-5)
+- [Damn, I suck at Apex Legends: Analyzing my ranked data using MS Excel and Power BI](https://medium.com/@ryvonsgittens/damn-i-suck-at-apex-legends-analyzing-my-ranked-data-using-ms-excel-and-power-bi-4dc1fcd2f11d?source=rss------data_science-5)
+- [Machine Learning Engineers — what do they actually do?](https://towardsdatascience.com/machine-learning-engineers-what-do-they-actually-do-e666081c3181?source=rss------data_science-5)
+- [Dial L For Longer](https://medium.com/@vikram.venkat/dial-l-for-longer-ce1d3e970cbe?source=rss------data_science-5)
+- [Ready to Elevate Your Content? Seeking Opportunities Now!](https://medium.com/@aysuccess2013.aa/ready-to-elevate-your-content-seeking-opportunities-now-5517476aeca5?source=rss------data_science-5)
+- [DARZ EXCHANGE](https://medium.com/@aysuccess2013.aa/darz-exchange-ba03c195b7b0?source=rss------data_science-5)
+- [Title: My Journey into the World of Data Science: Interning at Oasis Infobyte](https://medium.com/@nishanthinigani/title-my-journey-into-the-world-of-data-science-interning-at-oasis-infobyte-8ad1772f7a18?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
