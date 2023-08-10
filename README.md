@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Advanced Web Scraping Techniques using AI: A Comprehensive Guide](https://seemlight.medium.com/advanced-web-scraping-techniques-using-ai-a-comprehensive-guide-7ee11efa197c?source=rss------data_science-5)
-- [Mastering the Art of GitHub Profile Optimization to Captivate Recruiters](https://medium.com/@springbooted/mastering-the-art-of-github-profile-optimization-to-captivate-recruiters-c9fd35fd9c54?source=rss------data_science-5)
-- [Why Microsoft Access is Here to Stay?](https://medium.com/@bennettmo16/why-microsoft-access-is-here-to-stay-3297916ed6e0?source=rss------data_science-5)
-- [Build More Capable LLMs with Retrieval Augmented Generation](https://towardsdatascience.com/build-more-capable-llms-with-retrieval-augmented-generation-99d5f86e9779?source=rss------data_science-5)
-- [Damn, I suck at Apex Legends: Analyzing my ranked data using MS Excel and Power BI](https://medium.com/@ryvonsgittens/damn-i-suck-at-apex-legends-analyzing-my-ranked-data-using-ms-excel-and-power-bi-4dc1fcd2f11d?source=rss------data_science-5)
-- [Machine Learning Engineers — what do they actually do?](https://towardsdatascience.com/machine-learning-engineers-what-do-they-actually-do-e666081c3181?source=rss------data_science-5)
-- [Dial L For Longer](https://medium.com/@vikram.venkat/dial-l-for-longer-ce1d3e970cbe?source=rss------data_science-5)
-- [Ready to Elevate Your Content? Seeking Opportunities Now!](https://medium.com/@aysuccess2013.aa/ready-to-elevate-your-content-seeking-opportunities-now-5517476aeca5?source=rss------data_science-5)
-- [DARZ EXCHANGE](https://medium.com/@aysuccess2013.aa/darz-exchange-ba03c195b7b0?source=rss------data_science-5)
-- [Title: My Journey into the World of Data Science: Interning at Oasis Infobyte](https://medium.com/@nishanthinigani/title-my-journey-into-the-world-of-data-science-interning-at-oasis-infobyte-8ad1772f7a18?source=rss------data_science-5)
+- [Clinical Biomedical Named Entity Recognition &lpar;NLP&rpar; Using Scispacy](https://medium.com/@ndubisiprecious/clinical-biomedical-named-entity-recognition-nlp-using-scispacy-80fcfa1cf648?source=rss------data_science-5)
+- [11 Python Coding Habits That Make You A Bad Programmer](https://anmol3015.medium.com/11-python-coding-habits-that-make-you-a-bad-programmer-5e3306077686?source=rss------data_science-5)
+- [Hidden Gems : “Unveiling the Best UI/UX Tools”](https://bootcamp.uxdesign.cc/hidden-gems-unveiling-the-best-ui-ux-tools-9bc7f3fb969d?source=rss------data_science-5)
+- [Every Consumer Tech Company’s Growth Strategy Should Be Steered By Data Science](https://medium.com/@datastrategy/every-consumer-tech-companys-growth-strategy-should-be-steered-by-data-science-2fa9b3d2d2ad?source=rss------data_science-5)
+- [The first step to becoming a Data Scientist or an ML Engineer](https://medium.com/things-to-think-about/the-first-step-to-becoming-a-data-scientist-or-an-ml-engineer-dbf5e5f21e15?source=rss------data_science-5)
+- [Exploration and empowerment at the edge.](https://medium.com/@spiraldata/exploration-and-empowerment-at-the-edge-5c8e55b2d3fc?source=rss------data_science-5)
+- [Cutting ‘edge’ — the technology powering our AI Briefcase](https://medium.com/@spiraldata/cutting-edge-the-technology-powering-our-ai-briefcase-397cbb6632cc?source=rss------data_science-5)
+- [Fast and Elegant Scraping Framework for Gophers](https://medium.com/@april-4/fast-and-elegant-scraping-framework-for-gophers-247fbd8b1ffc?source=rss------data_science-5)
+- [I’m on Substack!](https://ivopbernardo.medium.com/im-on-substack-2589258050e7?source=rss------data_science-5)
+- [From pedantic to pragmatic: The data scientist’s journey](https://medium.com/pragmatic-data-scientists/from-pedantic-to-pragmatic-the-data-scientists-journey-68cf0b1785e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
