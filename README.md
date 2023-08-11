@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Clinical Biomedical Named Entity Recognition &lpar;NLP&rpar; Using Scispacy](https://medium.com/@ndubisiprecious/clinical-biomedical-named-entity-recognition-nlp-using-scispacy-80fcfa1cf648?source=rss------data_science-5)
-- [11 Python Coding Habits That Make You A Bad Programmer](https://anmol3015.medium.com/11-python-coding-habits-that-make-you-a-bad-programmer-5e3306077686?source=rss------data_science-5)
-- [Hidden Gems : “Unveiling the Best UI/UX Tools”](https://bootcamp.uxdesign.cc/hidden-gems-unveiling-the-best-ui-ux-tools-9bc7f3fb969d?source=rss------data_science-5)
-- [Every Consumer Tech Company’s Growth Strategy Should Be Steered By Data Science](https://medium.com/@datastrategy/every-consumer-tech-companys-growth-strategy-should-be-steered-by-data-science-2fa9b3d2d2ad?source=rss------data_science-5)
-- [The first step to becoming a Data Scientist or an ML Engineer](https://medium.com/things-to-think-about/the-first-step-to-becoming-a-data-scientist-or-an-ml-engineer-dbf5e5f21e15?source=rss------data_science-5)
-- [Exploration and empowerment at the edge.](https://medium.com/@spiraldata/exploration-and-empowerment-at-the-edge-5c8e55b2d3fc?source=rss------data_science-5)
-- [Cutting ‘edge’ — the technology powering our AI Briefcase](https://medium.com/@spiraldata/cutting-edge-the-technology-powering-our-ai-briefcase-397cbb6632cc?source=rss------data_science-5)
-- [Fast and Elegant Scraping Framework for Gophers](https://medium.com/@april-4/fast-and-elegant-scraping-framework-for-gophers-247fbd8b1ffc?source=rss------data_science-5)
-- [I’m on Substack!](https://ivopbernardo.medium.com/im-on-substack-2589258050e7?source=rss------data_science-5)
-- [From pedantic to pragmatic: The data scientist’s journey](https://medium.com/pragmatic-data-scientists/from-pedantic-to-pragmatic-the-data-scientists-journey-68cf0b1785e?source=rss------data_science-5)
+- [Are You the Bug in the Code? Lessons Learned from My Tech Startup Journey](https://medium.com/ai-genesis/are-you-the-bug-in-the-code-lessons-learned-from-my-tech-startup-journey-80cb7f3033c3?source=rss------data_science-5)
+- [Code Clout vs. Communication Collapse: The Programmer’s Dilemma](https://medium.com/ai-genesis/code-clout-vs-communication-collapse-the-programmers-dilemma-a568aedcdc41?source=rss------data_science-5)
+- [Budgeting for Bytes: Can Your Code Keep You in Check?](https://medium.com/ai-genesis/budgeting-for-bytes-can-your-code-keep-you-in-check-94319ff2d7b1?source=rss------data_science-5)
+- [Python Frameworks Unleashed: Code Like a Pro, Frameworks in Tow](https://medium.com/ai-genesis/python-frameworks-unleashed-code-like-a-pro-frameworks-in-tow-f4712d9138eb?source=rss------data_science-5)
+- [My not-so-long journey to becoming a Data Scientist](https://medium.com/@teemo_2010/my-not-so-long-journey-to-becoming-a-data-scientist-d2a115c06436?source=rss------data_science-5)
+- [Programming Prowess: Excel in Code, Lag in Love?](https://medium.com/ai-genesis/programming-prowess-excel-in-code-lag-in-love-b78d3e5dad09?source=rss------data_science-5)
+- [Advanced Decorator Techniques: Elevating Python Functions to New Heights](https://medium.com/ai-genesis/advanced-decorator-techniques-elevating-python-functions-to-new-heights-810389c2fdda?source=rss------data_science-5)
+- [10 Things I Stopped Doing after Unlocking the Magic of Python’s Methods](https://medium.com/ai-genesis/10-things-i-stopped-doing-after-unlocking-the-magic-of-pythons-methods-55af89ede417?source=rss------data_science-5)
+- [Analyzing Contributors to Happiness with AI](https://medium.com/@JuliusAI/analyzing-contributors-to-happiness-with-ai-c2097d2ecaa7?source=rss------data_science-5)
+- [Forward Motion: Integrating Collaborative Agile Behavior with Modern Automation Techniques in the…](https://medium.com/adaptive-organizations/forward-motion-integrating-collaborative-agile-behavior-with-modern-automation-techniques-in-the-c1ce176df27d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
