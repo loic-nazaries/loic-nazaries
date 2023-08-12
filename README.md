@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Are You the Bug in the Code? Lessons Learned from My Tech Startup Journey](https://medium.com/ai-genesis/are-you-the-bug-in-the-code-lessons-learned-from-my-tech-startup-journey-80cb7f3033c3?source=rss------data_science-5)
-- [Code Clout vs. Communication Collapse: The Programmer’s Dilemma](https://medium.com/ai-genesis/code-clout-vs-communication-collapse-the-programmers-dilemma-a568aedcdc41?source=rss------data_science-5)
-- [Budgeting for Bytes: Can Your Code Keep You in Check?](https://medium.com/ai-genesis/budgeting-for-bytes-can-your-code-keep-you-in-check-94319ff2d7b1?source=rss------data_science-5)
-- [Python Frameworks Unleashed: Code Like a Pro, Frameworks in Tow](https://medium.com/ai-genesis/python-frameworks-unleashed-code-like-a-pro-frameworks-in-tow-f4712d9138eb?source=rss------data_science-5)
-- [My not-so-long journey to becoming a Data Scientist](https://medium.com/@teemo_2010/my-not-so-long-journey-to-becoming-a-data-scientist-d2a115c06436?source=rss------data_science-5)
-- [Programming Prowess: Excel in Code, Lag in Love?](https://medium.com/ai-genesis/programming-prowess-excel-in-code-lag-in-love-b78d3e5dad09?source=rss------data_science-5)
-- [Advanced Decorator Techniques: Elevating Python Functions to New Heights](https://medium.com/ai-genesis/advanced-decorator-techniques-elevating-python-functions-to-new-heights-810389c2fdda?source=rss------data_science-5)
-- [10 Things I Stopped Doing after Unlocking the Magic of Python’s Methods](https://medium.com/ai-genesis/10-things-i-stopped-doing-after-unlocking-the-magic-of-pythons-methods-55af89ede417?source=rss------data_science-5)
-- [Analyzing Contributors to Happiness with AI](https://medium.com/@JuliusAI/analyzing-contributors-to-happiness-with-ai-c2097d2ecaa7?source=rss------data_science-5)
-- [Forward Motion: Integrating Collaborative Agile Behavior with Modern Automation Techniques in the…](https://medium.com/adaptive-organizations/forward-motion-integrating-collaborative-agile-behavior-with-modern-automation-techniques-in-the-c1ce176df27d?source=rss------data_science-5)
+- [Natural Language Processing: Current Uses, Benefits and Basic Algorithms](https://medium.com/@bayramorkunor/natural-language-processing-current-uses-benefits-and-basic-algorithms-963fffa722a7?source=rss------data_science-5)
+- [Mastering Excel Basics: From Data Entry to Formatting and Autofill](https://medium.com/@bashirdaramola1/mastering-excel-basics-from-data-entry-to-formatting-and-autofill-205a735839f1?source=rss------data_science-5)
+- [The Power of Logging: How It Rescued My FastAPI Python Application](https://medium.com/@alonskii44/the-power-of-logging-how-it-rescued-my-fastapi-python-application-526a63480e32?source=rss------data_science-5)
+- [The Ultimate Address Cleaning Calculation for Tableau?](https://medium.com/@bennettmo16/the-ultimate-address-cleaning-calculation-for-tableau-93ece73c6b92?source=rss------data_science-5)
+- [Surviving the high-stakes game of product sense interviews](https://medium.com/pragmatic-data-scientists/surviving-the-high-stakes-game-of-product-sense-interviews-2d960e116e57?source=rss------data_science-5)
+- [Potential workflow for AI imagen tools to create story-telling precise, artistic infographics.](https://mhsenkow.medium.com/potential-workflow-for-ai-imagen-tools-to-create-story-telling-precise-artistic-infographics-69d47cc8cb9a?source=rss------data_science-5)
+- [Guide to writing Python packages for Data Scientists](https://medium.com/analytics-vidhya/guide-to-writing-python-packages-for-data-scientists-ac740a98cb94?source=rss------data_science-5)
+- [More Olive Stuff](https://chifi.dev/more-olive-stuff-cff794ba4f98?source=rss------data_science-5)
+- [The many predictive risk models in healthcare](https://medium.com/health-data-guru/the-many-predictive-risk-models-in-healthcare-c0cbf133dbf7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
