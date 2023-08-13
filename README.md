@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Natural Language Processing: Current Uses, Benefits and Basic Algorithms](https://medium.com/@bayramorkunor/natural-language-processing-current-uses-benefits-and-basic-algorithms-963fffa722a7?source=rss------data_science-5)
-- [Mastering Excel Basics: From Data Entry to Formatting and Autofill](https://medium.com/@bashirdaramola1/mastering-excel-basics-from-data-entry-to-formatting-and-autofill-205a735839f1?source=rss------data_science-5)
-- [The Power of Logging: How It Rescued My FastAPI Python Application](https://medium.com/@alonskii44/the-power-of-logging-how-it-rescued-my-fastapi-python-application-526a63480e32?source=rss------data_science-5)
-- [The Ultimate Address Cleaning Calculation for Tableau?](https://medium.com/@bennettmo16/the-ultimate-address-cleaning-calculation-for-tableau-93ece73c6b92?source=rss------data_science-5)
-- [Surviving the high-stakes game of product sense interviews](https://medium.com/pragmatic-data-scientists/surviving-the-high-stakes-game-of-product-sense-interviews-2d960e116e57?source=rss------data_science-5)
-- [Potential workflow for AI imagen tools to create story-telling precise, artistic infographics.](https://mhsenkow.medium.com/potential-workflow-for-ai-imagen-tools-to-create-story-telling-precise-artistic-infographics-69d47cc8cb9a?source=rss------data_science-5)
-- [Guide to writing Python packages for Data Scientists](https://medium.com/analytics-vidhya/guide-to-writing-python-packages-for-data-scientists-ac740a98cb94?source=rss------data_science-5)
-- [More Olive Stuff](https://chifi.dev/more-olive-stuff-cff794ba4f98?source=rss------data_science-5)
-- [The many predictive risk models in healthcare](https://medium.com/health-data-guru/the-many-predictive-risk-models-in-healthcare-c0cbf133dbf7?source=rss------data_science-5)
+- [Data Science — actually kinda creative?](https://wishiecodes.medium.com/data-science-actually-kinda-creative-fe8e8440ec2c?source=rss------data_science-5)
+- [How to start coding](https://medium.com/@erhuepraise07/how-to-start-coding-94c8a735c462?source=rss------data_science-5)
+- [Navigating Transformation: Unpacking the Challenges of Fintech and Digital Banking](https://medium.com/@martin.jurado.p/navigating-transformation-unpacking-the-challenges-of-fintech-and-digital-banking-be45a61e4019?source=rss------data_science-5)
+- [Artificial Intelligence and Machine Learning](https://kalashvasaniya1.medium.com/artificial-intelligence-and-machine-learning-c4d92223d345?source=rss------data_science-5)
+- [Regression Analysis from Scratch: Incorporating p-value Computation](https://medium.com/@jaleeladejumo/regression-analysis-from-scratch-incorporating-p-value-computation-c8a16823e04f?source=rss------data_science-5)
+- [The Rise and Fall of Traditional BI Programs](https://medium.com/@daniel_73168/the-rise-and-fall-of-traditional-bi-programs-e8d51909855e?source=rss------data_science-5)
+- [Exciting Update from Week 1 of AI Saturday Cohort 8!](https://medium.com/@AI6Lagos/exciting-update-from-week-1-of-ai-saturday-cohort-8-1cbb8ab6452a?source=rss------data_science-5)
+- [Data Governance Best Practices: How to ensure data quality &amp; accuracy for data analytics?](https://medium.com/internetstack/data-governance-best-practices-how-to-ensure-data-quality-accuracy-for-data-analytics-723522aec75a?source=rss------data_science-5)
+- [7 Uses of SymPy: Writing Python Code Like a Mathematician](https://medium.com/techtofreedom/5-uses-of-sympy-writing-python-code-like-a-mathematician-67dafc6f20cf?source=rss------data_science-5)
+- [Statistics for Data Science Part-8 &lpar;Most Important&rpar;](https://medium.com/@akash.hiremath25/statistics-for-data-science-part-8-most-important-6644f0c49d28?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
