@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Science — actually kinda creative?](https://wishiecodes.medium.com/data-science-actually-kinda-creative-fe8e8440ec2c?source=rss------data_science-5)
-- [How to start coding](https://medium.com/@erhuepraise07/how-to-start-coding-94c8a735c462?source=rss------data_science-5)
-- [Navigating Transformation: Unpacking the Challenges of Fintech and Digital Banking](https://medium.com/@martin.jurado.p/navigating-transformation-unpacking-the-challenges-of-fintech-and-digital-banking-be45a61e4019?source=rss------data_science-5)
-- [Artificial Intelligence and Machine Learning](https://kalashvasaniya1.medium.com/artificial-intelligence-and-machine-learning-c4d92223d345?source=rss------data_science-5)
-- [Regression Analysis from Scratch: Incorporating p-value Computation](https://medium.com/@jaleeladejumo/regression-analysis-from-scratch-incorporating-p-value-computation-c8a16823e04f?source=rss------data_science-5)
-- [The Rise and Fall of Traditional BI Programs](https://medium.com/@daniel_73168/the-rise-and-fall-of-traditional-bi-programs-e8d51909855e?source=rss------data_science-5)
-- [Exciting Update from Week 1 of AI Saturday Cohort 8!](https://medium.com/@AI6Lagos/exciting-update-from-week-1-of-ai-saturday-cohort-8-1cbb8ab6452a?source=rss------data_science-5)
-- [Data Governance Best Practices: How to ensure data quality &amp; accuracy for data analytics?](https://medium.com/internetstack/data-governance-best-practices-how-to-ensure-data-quality-accuracy-for-data-analytics-723522aec75a?source=rss------data_science-5)
-- [7 Uses of SymPy: Writing Python Code Like a Mathematician](https://medium.com/techtofreedom/5-uses-of-sympy-writing-python-code-like-a-mathematician-67dafc6f20cf?source=rss------data_science-5)
-- [Statistics for Data Science Part-8 &lpar;Most Important&rpar;](https://medium.com/@akash.hiremath25/statistics-for-data-science-part-8-most-important-6644f0c49d28?source=rss------data_science-5)
+- [Data Modeling in PowerBi](https://medium.com/indata/data-modeling-in-powerbi-da55bf0c838?source=rss------data_science-5)
+- [Decoding the Buzz: AI, ML, and Data Science Unveiled](https://medium.com/@aousabdo/decoding-the-buzz-ai-ml-and-data-science-unveiled-c4fbdbb0067b?source=rss------data_science-5)
+- [Hunting High and Love](https://moodydhotre.medium.com/hunting-high-and-love-a422f1bb0b16?source=rss------data_science-5)
+- [Introduction to Large Language Models](https://medium.com/@techynilesh/introduction-to-large-language-models-7e13808933f3?source=rss------data_science-5)
+- [Transforming Photos into Artistic Line Drawings Using AI](https://medium.com/@kahoikwok/transforming-photos-into-artistic-line-drawings-using-ai-552119c8e6b8?source=rss------data_science-5)
+- [Samsung monitors](https://medium.com/@adeeel.ahmed/samsung-monitors-f7ad18648d00?source=rss------data_science-5)
+- [GATE Introduces New Test on Data Science &amp; AI for 2024 — Complete Syllabus](https://medium.com/@techynilesh/gate-introduces-new-test-on-data-science-ai-for-2024-complete-syllabus-ba9acf4cdc81?source=rss------data_science-5)
+- [EpilepsyNet](https://medium.com/@shunsuke-kajikawa/epilepsynet-bdf12e61c649?source=rss------data_science-5)
+- [Embedding Machine Learning Models into Web Applications Using FastAPI](https://medium.com/@afutunikoi/embedding-machine-learning-models-into-web-applications-using-fastapi-59aa3d6c59b8?source=rss------data_science-5)
+- [MSSQL vs. DocumentDB — Which Reigns Supreme?](https://medium.com/@cerebrovinny/mssql-vs-documentdb-which-reigns-supreme-2df5766a1eba?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
