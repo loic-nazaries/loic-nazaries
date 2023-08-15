@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Modeling in PowerBi](https://medium.com/indata/data-modeling-in-powerbi-da55bf0c838?source=rss------data_science-5)
-- [Decoding the Buzz: AI, ML, and Data Science Unveiled](https://medium.com/@aousabdo/decoding-the-buzz-ai-ml-and-data-science-unveiled-c4fbdbb0067b?source=rss------data_science-5)
-- [Hunting High and Love](https://moodydhotre.medium.com/hunting-high-and-love-a422f1bb0b16?source=rss------data_science-5)
-- [Introduction to Large Language Models](https://medium.com/@techynilesh/introduction-to-large-language-models-7e13808933f3?source=rss------data_science-5)
-- [Transforming Photos into Artistic Line Drawings Using AI](https://medium.com/@kahoikwok/transforming-photos-into-artistic-line-drawings-using-ai-552119c8e6b8?source=rss------data_science-5)
-- [Samsung monitors](https://medium.com/@adeeel.ahmed/samsung-monitors-f7ad18648d00?source=rss------data_science-5)
-- [GATE Introduces New Test on Data Science &amp; AI for 2024 — Complete Syllabus](https://medium.com/@techynilesh/gate-introduces-new-test-on-data-science-ai-for-2024-complete-syllabus-ba9acf4cdc81?source=rss------data_science-5)
-- [EpilepsyNet](https://medium.com/@shunsuke-kajikawa/epilepsynet-bdf12e61c649?source=rss------data_science-5)
-- [Embedding Machine Learning Models into Web Applications Using FastAPI](https://medium.com/@afutunikoi/embedding-machine-learning-models-into-web-applications-using-fastapi-59aa3d6c59b8?source=rss------data_science-5)
-- [MSSQL vs. DocumentDB — Which Reigns Supreme?](https://medium.com/@cerebrovinny/mssql-vs-documentdb-which-reigns-supreme-2df5766a1eba?source=rss------data_science-5)
+- [Feature Engineering](https://python.plainenglish.io/feature-engineering-73d3a87e1184?source=rss------data_science-5)
+- [Harnessing the Power of AI with NVIDIA-Docker](https://dimske.medium.com/harnessing-the-power-of-ai-with-nvidia-docker-cb12afb078d0?source=rss------data_science-5)
+- [Managing an API: From Design to Maintenance](https://medium.com/@Smarty01/managing-an-api-from-design-to-maintenance-3173a73fffb9?source=rss------data_science-5)
+- [Decoding Data’s Dance: Using Association Rule Mining to Reveal Interesting Patterns](https://medium.com/@brijesh_soni/decoding-datas-dance-using-association-rule-mining-to-reveal-interesting-patterns-5fc72a9568bb?source=rss------data_science-5)
+- [George Hotz’s Vision for Entropics, Intelligence, and the Future of Computing](https://medium.datadriveninvestor.com/george-hotzs-vision-for-entropics-intelligence-and-the-future-of-computing-bfc73d52d6f5?source=rss------data_science-5)
+- [A Deep Dive into Linear Regression](https://medium.com/@gravityrahul/a-deep-dive-into-linear-regression-a7c2ecb56676?source=rss------data_science-5)
+- [A strategy to build more useful LLM &lpar;like ChatGPT&rpar; experiences.](https://bootcamp.uxdesign.cc/a-strategy-to-build-more-useful-llm-like-chatgpt-experiences-494cd418ba43?source=rss------data_science-5)
+- [Demystifying Descriptive Statistics: A Beginner’s Guide to Mean, Median, Mode, and Standard…](https://medium.com/@douglaspraise1/demystifying-descriptive-statistics-a-beginners-guide-to-mean-median-mode-and-standard-6d05bb101afc?source=rss------data_science-5)
+- [Leveraging R for Enhancing Manufacturing Operations in PET Film Operations](https://medium.com/@daniel.lundy.analyst/leveraging-r-for-enhancing-manufacturing-operations-in-pet-film-operations-4ff0b24f36?source=rss------data_science-5)
+- [Unlocking Business Growth: Harnessing Data Analysis for Informed Decisions and Process Enhancement.](https://medium.com/@douglaspraise1/unlocking-business-growth-harnessing-data-analysis-for-informed-decisions-and-process-enhancement-934f3b309a2b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
