@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Feature Engineering](https://python.plainenglish.io/feature-engineering-73d3a87e1184?source=rss------data_science-5)
-- [Harnessing the Power of AI with NVIDIA-Docker](https://dimske.medium.com/harnessing-the-power-of-ai-with-nvidia-docker-cb12afb078d0?source=rss------data_science-5)
-- [Managing an API: From Design to Maintenance](https://medium.com/@Smarty01/managing-an-api-from-design-to-maintenance-3173a73fffb9?source=rss------data_science-5)
-- [Decoding Data’s Dance: Using Association Rule Mining to Reveal Interesting Patterns](https://medium.com/@brijesh_soni/decoding-datas-dance-using-association-rule-mining-to-reveal-interesting-patterns-5fc72a9568bb?source=rss------data_science-5)
-- [George Hotz’s Vision for Entropics, Intelligence, and the Future of Computing](https://medium.datadriveninvestor.com/george-hotzs-vision-for-entropics-intelligence-and-the-future-of-computing-bfc73d52d6f5?source=rss------data_science-5)
-- [A Deep Dive into Linear Regression](https://medium.com/@gravityrahul/a-deep-dive-into-linear-regression-a7c2ecb56676?source=rss------data_science-5)
-- [A strategy to build more useful LLM &lpar;like ChatGPT&rpar; experiences.](https://bootcamp.uxdesign.cc/a-strategy-to-build-more-useful-llm-like-chatgpt-experiences-494cd418ba43?source=rss------data_science-5)
-- [Demystifying Descriptive Statistics: A Beginner’s Guide to Mean, Median, Mode, and Standard…](https://medium.com/@douglaspraise1/demystifying-descriptive-statistics-a-beginners-guide-to-mean-median-mode-and-standard-6d05bb101afc?source=rss------data_science-5)
-- [Leveraging R for Enhancing Manufacturing Operations in PET Film Operations](https://medium.com/@daniel.lundy.analyst/leveraging-r-for-enhancing-manufacturing-operations-in-pet-film-operations-4ff0b24f36?source=rss------data_science-5)
-- [Unlocking Business Growth: Harnessing Data Analysis for Informed Decisions and Process Enhancement.](https://medium.com/@douglaspraise1/unlocking-business-growth-harnessing-data-analysis-for-informed-decisions-and-process-enhancement-934f3b309a2b?source=rss------data_science-5)
+- [Notes – Chapter 8 : Data Distribution Shifts and Monitoring by Chip Huyen](https://medium.com/@ankitmathur45/notes-chapter-8-data-distribution-shifts-and-monitoring-by-chip-huyen-988de1a1f274?source=rss------data_science-5)
+- [Machine Learning Project: Detection of Fake News using Linear Support Vector Classification](https://medium.com/@pfptntpx/machine-learning-project-detection-of-fake-news-using-linear-support-vector-classification-f0024d12fb5c?source=rss------data_science-5)
+- [Logistic Regression: The One-Layer Neural Network](https://medium.com/@chuntcdj/logistic-regression-the-one-layer-neural-network-af063453217f?source=rss------data_science-5)
+- [LAG&lpar; &rpar; in SQL with Example and Practice Problem](https://medium.com/@yueninglyu/lag-in-sql-with-example-and-practice-problem-5376c2380fa7?source=rss------data_science-5)
+- [How I Created an Inverted Index Search Engine Using Python and Streamlit](https://bootcamp.uxdesign.cc/how-i-created-an-inverted-index-search-engine-using-python-and-streamlit-3989a1338c48?source=rss------data_science-5)
+- [Model: Linear Regression using BtC predictions For next 24 hours lets see how accurate its work in…](https://faisalkhankacho.medium.com/model-linear-regression-using-btc-predictions-for-next-24-hours-lets-see-how-accurate-its-work-in-2afd9ef1d678?source=rss------data_science-5)
+- [Step-by-Step Guide to Designing an Ads Performance Marketing Dashboard with Tableau](https://medium.com/@tjdus92422/step-by-step-guide-to-designing-an-ads-performance-marketing-dashboard-with-tableau-e916bb53c858?source=rss------data_science-5)
+- [Unveiling the Power of Dynamic Apps and Tools](https://dreddie78.medium.com/unveiling-the-power-of-dynamic-apps-and-tools-e8fdbaa0681d?source=rss------data_science-5)
+- [What are the top 3 methods for handling missing values?](https://medium.com/datasciencemustneededskills/what-are-the-top-3-methods-for-handling-missing-values-8c86012efd75?source=rss------data_science-5)
+- [Pairs Trading: An A-to-Z guide series on how to develop your pairs-trading strategy &lpar;Part 1&rpar;](https://medium.com/@2000rabieomar/pairs-trading-an-a-to-z-guide-series-on-how-to-develop-your-pairs-trading-strategy-part-1-1255025d14df?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
