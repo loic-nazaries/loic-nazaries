@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Notes – Chapter 8 : Data Distribution Shifts and Monitoring by Chip Huyen](https://medium.com/@ankitmathur45/notes-chapter-8-data-distribution-shifts-and-monitoring-by-chip-huyen-988de1a1f274?source=rss------data_science-5)
-- [Machine Learning Project: Detection of Fake News using Linear Support Vector Classification](https://medium.com/@pfptntpx/machine-learning-project-detection-of-fake-news-using-linear-support-vector-classification-f0024d12fb5c?source=rss------data_science-5)
-- [Logistic Regression: The One-Layer Neural Network](https://medium.com/@chuntcdj/logistic-regression-the-one-layer-neural-network-af063453217f?source=rss------data_science-5)
-- [LAG&lpar; &rpar; in SQL with Example and Practice Problem](https://medium.com/@yueninglyu/lag-in-sql-with-example-and-practice-problem-5376c2380fa7?source=rss------data_science-5)
-- [How I Created an Inverted Index Search Engine Using Python and Streamlit](https://bootcamp.uxdesign.cc/how-i-created-an-inverted-index-search-engine-using-python-and-streamlit-3989a1338c48?source=rss------data_science-5)
-- [Model: Linear Regression using BtC predictions For next 24 hours lets see how accurate its work in…](https://faisalkhankacho.medium.com/model-linear-regression-using-btc-predictions-for-next-24-hours-lets-see-how-accurate-its-work-in-2afd9ef1d678?source=rss------data_science-5)
-- [Step-by-Step Guide to Designing an Ads Performance Marketing Dashboard with Tableau](https://medium.com/@tjdus92422/step-by-step-guide-to-designing-an-ads-performance-marketing-dashboard-with-tableau-e916bb53c858?source=rss------data_science-5)
-- [Unveiling the Power of Dynamic Apps and Tools](https://dreddie78.medium.com/unveiling-the-power-of-dynamic-apps-and-tools-e8fdbaa0681d?source=rss------data_science-5)
-- [What are the top 3 methods for handling missing values?](https://medium.com/datasciencemustneededskills/what-are-the-top-3-methods-for-handling-missing-values-8c86012efd75?source=rss------data_science-5)
-- [Pairs Trading: An A-to-Z guide series on how to develop your pairs-trading strategy &lpar;Part 1&rpar;](https://medium.com/@2000rabieomar/pairs-trading-an-a-to-z-guide-series-on-how-to-develop-your-pairs-trading-strategy-part-1-1255025d14df?source=rss------data_science-5)
+- [Flight Delays and Cancellations Story in Tableau](https://medium.com/@clainchege/flight-delays-and-cancellations-story-in-tableau-8858df9944ed?source=rss------data_science-5)
+- [10 ChatGPT Plugins to improve your workflow &lpar;Vol. 9&rpar;](https://vinaykumarmoluguri.medium.com/10-chatgpt-plugins-to-improve-your-workflow-vol-9-1b016733adea?source=rss------data_science-5)
+- [Why is processing a sorted array faster than processing an unsorted array?](https://medium.com/@hussienmoussa2006/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array-6fb33f5fc8ae?source=rss------data_science-5)
+- [5 factores clave para el crecimiento profesional](https://medium.com/@nicolastoro7/5-factores-clave-para-el-crecimiento-profesional-e262270e36f3?source=rss------data_science-5)
+- [Advancing Your Business Intelligence Skills: Tips from a Senior Developer](https://medium.com/ai-genesis/advancing-your-business-intelligence-skills-tips-from-a-senior-developer-71996fbb4a50?source=rss------data_science-5)
+- [Dive into the Future: Unraveling the Wonders of AI-Powered Virtual Wardrobes!](https://medium.com/@hussienmoussa2006/dive-into-the-future-unraveling-the-wonders-of-ai-powered-virtual-wardrobes-c6af42d2e1ad?source=rss------data_science-5)
+- [Best Practices for Writing Clean and Readable Python Code](https://python.plainenglish.io/best-practices-for-writing-clean-and-readable-python-code-caaff2535e26?source=rss------data_science-5)
+- [Data Analytics: The Cosmic Perspective](https://medium.com/@daniel.lundy.analyst/data-analytics-the-cosmic-perspective-112de44807e5?source=rss------data_science-5)
+- [Simple ETL Process in Python for Aspiring Data Engineers](https://python.plainenglish.io/simple-etl-process-in-python-for-aspiring-data-engineers-6e84e276d58d?source=rss------data_science-5)
+- [What to Learn in Data Science &lpar;2023&rpar;](https://pub.towardsai.net/what-to-learn-in-data-science-2023-d227b52a03ee?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
