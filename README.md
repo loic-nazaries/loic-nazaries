@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Flight Delays and Cancellations Story in Tableau](https://medium.com/@clainchege/flight-delays-and-cancellations-story-in-tableau-8858df9944ed?source=rss------data_science-5)
-- [10 ChatGPT Plugins to improve your workflow &lpar;Vol. 9&rpar;](https://vinaykumarmoluguri.medium.com/10-chatgpt-plugins-to-improve-your-workflow-vol-9-1b016733adea?source=rss------data_science-5)
-- [Why is processing a sorted array faster than processing an unsorted array?](https://medium.com/@hussienmoussa2006/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array-6fb33f5fc8ae?source=rss------data_science-5)
-- [5 factores clave para el crecimiento profesional](https://medium.com/@nicolastoro7/5-factores-clave-para-el-crecimiento-profesional-e262270e36f3?source=rss------data_science-5)
-- [Advancing Your Business Intelligence Skills: Tips from a Senior Developer](https://medium.com/ai-genesis/advancing-your-business-intelligence-skills-tips-from-a-senior-developer-71996fbb4a50?source=rss------data_science-5)
-- [Dive into the Future: Unraveling the Wonders of AI-Powered Virtual Wardrobes!](https://medium.com/@hussienmoussa2006/dive-into-the-future-unraveling-the-wonders-of-ai-powered-virtual-wardrobes-c6af42d2e1ad?source=rss------data_science-5)
-- [Best Practices for Writing Clean and Readable Python Code](https://python.plainenglish.io/best-practices-for-writing-clean-and-readable-python-code-caaff2535e26?source=rss------data_science-5)
-- [Data Analytics: The Cosmic Perspective](https://medium.com/@daniel.lundy.analyst/data-analytics-the-cosmic-perspective-112de44807e5?source=rss------data_science-5)
-- [Simple ETL Process in Python for Aspiring Data Engineers](https://python.plainenglish.io/simple-etl-process-in-python-for-aspiring-data-engineers-6e84e276d58d?source=rss------data_science-5)
-- [What to Learn in Data Science &lpar;2023&rpar;](https://pub.towardsai.net/what-to-learn-in-data-science-2023-d227b52a03ee?source=rss------data_science-5)
+- [Ozaan Customer Care Number 9038818232..](https://medium.com/@parweshsingh2017/ozaan-customer-care-number-9038818232-16e677b2e13e?source=rss------data_science-5)
+- [Okhai Customer Care Number 9038818232..](https://medium.com/@parweshsingh2017/okhai-customer-care-number-9038818232-6dd777dd6836?source=rss------data_science-5)
+- [The Beginner’s Guide to Jupyter Notebooks](https://medium.com/@jacksonwaddleton/the-beginners-guide-to-jupyter-notebooks-ab11550b0f3a?source=rss------data_science-5)
+- [GPT-4: Leading the Charge as LLMs Get Political](https://ai.plainenglish.io/gpt-4-leading-the-charge-as-llms-get-political-62795784a712?source=rss------data_science-5)
+- [Pandas Simplified: A Beginner’s Guide to Data Manipulation in Python](https://medium.com/cloudnloud/pandas-simplified-a-beginners-guide-to-data-manipulation-in-python-9abef0eff8a9?source=rss------data_science-5)
+- [Clustering Algorithms: K-Means, but What Else is There?](https://medium.com/@bearnest/clustering-algorithms-k-means-but-what-else-is-there-b934667feff1?source=rss------data_science-5)
+- [Swiping Right on Data: Analyzing the Trends of Tinder](https://akshaysinghim.medium.com/swiping-right-on-data-analyzing-the-trends-of-tinder-2d21a4af7087?source=rss------data_science-5)
+- [How to Get Date from Month and Year Columns Using Pandas](https://medium.com/@jason_the_data_scientist/how-to-get-date-from-month-and-year-columns-using-pandas-e409279476a3?source=rss------data_science-5)
+- [Deep Learning: Activation Functions — 10 Tricky questions](https://aaweg-i.medium.com/deep-learning-activation-functions-10-tricky-questions-a8aae89941b9?source=rss------data_science-5)
+- [Reshaping Data in Pandas: The “What, Why, and Hows” to Help You on Your Journey](https://medium.com/@dvdhartsman/reshaping-data-in-pandas-the-what-why-and-hows-to-help-you-on-your-journey-ffaa21485ceb?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
