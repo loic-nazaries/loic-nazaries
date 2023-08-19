@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Ozaan Customer Care Number 9038818232..](https://medium.com/@parweshsingh2017/ozaan-customer-care-number-9038818232-16e677b2e13e?source=rss------data_science-5)
-- [Okhai Customer Care Number 9038818232..](https://medium.com/@parweshsingh2017/okhai-customer-care-number-9038818232-6dd777dd6836?source=rss------data_science-5)
-- [The Beginner’s Guide to Jupyter Notebooks](https://medium.com/@jacksonwaddleton/the-beginners-guide-to-jupyter-notebooks-ab11550b0f3a?source=rss------data_science-5)
-- [GPT-4: Leading the Charge as LLMs Get Political](https://ai.plainenglish.io/gpt-4-leading-the-charge-as-llms-get-political-62795784a712?source=rss------data_science-5)
-- [Pandas Simplified: A Beginner’s Guide to Data Manipulation in Python](https://medium.com/cloudnloud/pandas-simplified-a-beginners-guide-to-data-manipulation-in-python-9abef0eff8a9?source=rss------data_science-5)
-- [Clustering Algorithms: K-Means, but What Else is There?](https://medium.com/@bearnest/clustering-algorithms-k-means-but-what-else-is-there-b934667feff1?source=rss------data_science-5)
-- [Swiping Right on Data: Analyzing the Trends of Tinder](https://akshaysinghim.medium.com/swiping-right-on-data-analyzing-the-trends-of-tinder-2d21a4af7087?source=rss------data_science-5)
-- [How to Get Date from Month and Year Columns Using Pandas](https://medium.com/@jason_the_data_scientist/how-to-get-date-from-month-and-year-columns-using-pandas-e409279476a3?source=rss------data_science-5)
-- [Deep Learning: Activation Functions — 10 Tricky questions](https://aaweg-i.medium.com/deep-learning-activation-functions-10-tricky-questions-a8aae89941b9?source=rss------data_science-5)
-- [Reshaping Data in Pandas: The “What, Why, and Hows” to Help You on Your Journey](https://medium.com/@dvdhartsman/reshaping-data-in-pandas-the-what-why-and-hows-to-help-you-on-your-journey-ffaa21485ceb?source=rss------data_science-5)
+- [Dominate The Male Enhancement Niche Today with Aizen Power](https://medium.com/@eshmaislamicschoolid/dominate-the-male-enhancement-niche-today-with-aizen-power-5eaa51fb681d?source=rss------data_science-5)
+- [What happened during the COVID-19 pandemic?](https://medium.com/@sackeyb81/what-happened-during-the-covid-19-pandemic-1a0f7ee270b6?source=rss------data_science-5)
+- [Tube Mastery and Monetization by Matt Par](https://medium.com/@mohammadsyah199/tube-mastery-and-monetization-by-matt-par-258ffe900731?source=rss------data_science-5)
+- [Kodo Scholarships: Transforming African Students&#39; Lives Through Technology.](https://medium.com/@tech__news/kodo-scholarships-transforming-african-students-lives-through-technology-4410597aca76?source=rss------data_science-5)
+- [Boosting Business Intelligence with AI: A Revolution in Analytics](https://medium.com/@joseleonsalgado/boosting-business-intelligence-with-ai-a-revolution-in-analytics-e364fc65fe6f?source=rss------data_science-5)
+- [FunnelCockpit - Die All-In-One Marketing Software](https://medium.com/@f6516188/funnelcockpit-die-all-in-one-marketing-software-fdf7966907c8?source=rss------data_science-5)
+- [What is the Difference Between a Data Lake and a Delta Lake?](https://medium.com/technology-hits/what-is-the-difference-between-a-data-lake-and-a-delta-lake-2ff64d85758b?source=rss------data_science-5)
+- [Mean imputation basics](https://medium.com/internetstack/mean-imputation-basics-f7181bb11427?source=rss------data_science-5)
+- [Prop Trading Cheat Codes: DMAs](https://quant-galore.medium.com/prop-trading-cheat-codes-dmas-36c024df7d43?source=rss------data_science-5)
+- [Title: Exploring the Power of Arbitrage Scanner in Crypto Trading](https://medium.com/@muhammadashiqofficial/title-exploring-the-power-of-arbitrage-scanner-in-crypto-trading-15ced39f4b76?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
