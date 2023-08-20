@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Dominate The Male Enhancement Niche Today with Aizen Power](https://medium.com/@eshmaislamicschoolid/dominate-the-male-enhancement-niche-today-with-aizen-power-5eaa51fb681d?source=rss------data_science-5)
-- [What happened during the COVID-19 pandemic?](https://medium.com/@sackeyb81/what-happened-during-the-covid-19-pandemic-1a0f7ee270b6?source=rss------data_science-5)
-- [Tube Mastery and Monetization by Matt Par](https://medium.com/@mohammadsyah199/tube-mastery-and-monetization-by-matt-par-258ffe900731?source=rss------data_science-5)
-- [Kodo Scholarships: Transforming African Students&#39; Lives Through Technology.](https://medium.com/@tech__news/kodo-scholarships-transforming-african-students-lives-through-technology-4410597aca76?source=rss------data_science-5)
-- [Boosting Business Intelligence with AI: A Revolution in Analytics](https://medium.com/@joseleonsalgado/boosting-business-intelligence-with-ai-a-revolution-in-analytics-e364fc65fe6f?source=rss------data_science-5)
-- [FunnelCockpit - Die All-In-One Marketing Software](https://medium.com/@f6516188/funnelcockpit-die-all-in-one-marketing-software-fdf7966907c8?source=rss------data_science-5)
-- [What is the Difference Between a Data Lake and a Delta Lake?](https://medium.com/technology-hits/what-is-the-difference-between-a-data-lake-and-a-delta-lake-2ff64d85758b?source=rss------data_science-5)
-- [Mean imputation basics](https://medium.com/internetstack/mean-imputation-basics-f7181bb11427?source=rss------data_science-5)
-- [Prop Trading Cheat Codes: DMAs](https://quant-galore.medium.com/prop-trading-cheat-codes-dmas-36c024df7d43?source=rss------data_science-5)
-- [Title: Exploring the Power of Arbitrage Scanner in Crypto Trading](https://medium.com/@muhammadashiqofficial/title-exploring-the-power-of-arbitrage-scanner-in-crypto-trading-15ced39f4b76?source=rss------data_science-5)
+- [Hands-on Sharp Regression Discontinuity Design](https://medium.com/@sorellanamontini/hands-on-sharp-regression-discontinuity-design-2268ac600e01?source=rss------data_science-5)
+- [Unveiling Mojo for AI: A Revolution in High-Performance Computing and Deep Learning](https://medium.com/@Smarty01/unveiling-mojo-for-ai-a-revolution-in-high-performance-computing-and-deep-learning-453538bf0a65?source=rss------data_science-5)
+- [How to Perform Feature Selection with Scikit-Learn](https://pub.towardsai.net/how-to-perform-feature-selection-with-scikit-learn-c55f44932326?source=rss------data_science-5)
+- [Bayes Theorem Simplified](https://aravind-deva.medium.com/bayes-theorem-simplified-3590c924b957?source=rss------data_science-5)
+- [An Introduction to Pandas UDFs in PySpark](https://medium.com/@suffyan.asad1/an-introduction-to-pandas-udfs-in-pyspark-a0a512bd00e2?source=rss------data_science-5)
+- [Python Fonksiyonlarında ‘return’: Gizli Güçleri Keşfedin!](https://medium.com/@tpckdr/python-fonksiyonlar%C4%B1nda-return-gizli-g%C3%BC%C3%A7leri-ke%C5%9Ffedin-fb1f91c709e2?source=rss------data_science-5)
+- [Data in the Fast Lane](https://medium.com/@helena.yqs/data-in-the-fast-lane-d9977907a798?source=rss------data_science-5)
+- [How to Create Effective Data Visualizations for Business Presentations](https://medium.com/internetstack/how-to-create-effective-data-visualizations-for-business-presentations-f124edbbbcb2?source=rss------data_science-5)
+- [Igniting Innovation in the Product and M.A.D Landscape with SG Consulting](https://medium.com/@creatorvision03/igniting-innovation-in-the-product-and-m-a-d-landscape-with-sg-consulting-2bfdfae74ec2?source=rss------data_science-5)
+- [Passive Income System 2.0](https://medium.com/@jejakrasa1/passive-income-system-2-0-6c1d1758cb98?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
