@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Hands-on Sharp Regression Discontinuity Design](https://medium.com/@sorellanamontini/hands-on-sharp-regression-discontinuity-design-2268ac600e01?source=rss------data_science-5)
-- [Unveiling Mojo for AI: A Revolution in High-Performance Computing and Deep Learning](https://medium.com/@Smarty01/unveiling-mojo-for-ai-a-revolution-in-high-performance-computing-and-deep-learning-453538bf0a65?source=rss------data_science-5)
-- [How to Perform Feature Selection with Scikit-Learn](https://pub.towardsai.net/how-to-perform-feature-selection-with-scikit-learn-c55f44932326?source=rss------data_science-5)
-- [Bayes Theorem Simplified](https://aravind-deva.medium.com/bayes-theorem-simplified-3590c924b957?source=rss------data_science-5)
-- [An Introduction to Pandas UDFs in PySpark](https://medium.com/@suffyan.asad1/an-introduction-to-pandas-udfs-in-pyspark-a0a512bd00e2?source=rss------data_science-5)
-- [Python Fonksiyonlarında ‘return’: Gizli Güçleri Keşfedin!](https://medium.com/@tpckdr/python-fonksiyonlar%C4%B1nda-return-gizli-g%C3%BC%C3%A7leri-ke%C5%9Ffedin-fb1f91c709e2?source=rss------data_science-5)
-- [Data in the Fast Lane](https://medium.com/@helena.yqs/data-in-the-fast-lane-d9977907a798?source=rss------data_science-5)
-- [How to Create Effective Data Visualizations for Business Presentations](https://medium.com/internetstack/how-to-create-effective-data-visualizations-for-business-presentations-f124edbbbcb2?source=rss------data_science-5)
-- [Igniting Innovation in the Product and M.A.D Landscape with SG Consulting](https://medium.com/@creatorvision03/igniting-innovation-in-the-product-and-m-a-d-landscape-with-sg-consulting-2bfdfae74ec2?source=rss------data_science-5)
-- [Passive Income System 2.0](https://medium.com/@jejakrasa1/passive-income-system-2-0-6c1d1758cb98?source=rss------data_science-5)
+- [Your Features Are Important? It Doesn’t Mean They Are Good](https://towardsdatascience.com/your-features-are-important-it-doesnt-mean-they-are-good-ff468ae2e3d4?source=rss------data_science-5)
+- [Extrator de dados com Python](https://medium.com/@gabrielargreco/extrator-de-dados-com-python-620b6b1ed193?source=rss------data_science-5)
+- [Why I Dropped Out of Grad School](https://medium.com/@dawsonbremner4400/why-i-dropped-out-of-grad-school-efe6a9e7ec1b?source=rss------data_science-5)
+- [Belajar dasar MySQL](https://medium.com/@hanief.hanani/belajar-dasar-mysql-de7dc798a666?source=rss------data_science-5)
+- [Embracing the Art of Narrative Data Visualization](https://towardsdatascience.com/embracing-the-art-of-narrative-data-visualization-3543706c6e56?source=rss------data_science-5)
+- [P-Values: Understanding Statistical Significance in Plain Language](https://towardsdatascience.com/p-values-understanding-statistical-significance-in-plain-language-41a00ff68f23?source=rss------data_science-5)
+- [Day 5— Machine Learning System Design: Metrics Evaluation](https://medium.com/@jh.baek.sd/day-5-machine-learning-system-design-metrics-evaluation-6c89f485e400?source=rss------data_science-5)
+- [Day 4— Machine Learning System Design: Inference](https://medium.com/@jh.baek.sd/day-4-machine-learning-system-design-inference-ac64e1d30efd?source=rss------data_science-5)
+- [Machine Learning For Classification Problems &lpar;Customer Churn Prediction&rpar;](https://medium.com/@obandoandrew8/machine-learning-for-classification-problems-customer-churn-prediction-ae46c574e60?source=rss------data_science-5)
+- [My Summer as a Data Analyst Intern](https://medium.com/@emoral435/my-summer-as-a-data-analyst-intern-b62411e7d67a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
