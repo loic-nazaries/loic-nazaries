@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Your Features Are Important? It Doesn’t Mean They Are Good](https://towardsdatascience.com/your-features-are-important-it-doesnt-mean-they-are-good-ff468ae2e3d4?source=rss------data_science-5)
-- [Extrator de dados com Python](https://medium.com/@gabrielargreco/extrator-de-dados-com-python-620b6b1ed193?source=rss------data_science-5)
-- [Why I Dropped Out of Grad School](https://medium.com/@dawsonbremner4400/why-i-dropped-out-of-grad-school-efe6a9e7ec1b?source=rss------data_science-5)
-- [Belajar dasar MySQL](https://medium.com/@hanief.hanani/belajar-dasar-mysql-de7dc798a666?source=rss------data_science-5)
-- [Embracing the Art of Narrative Data Visualization](https://towardsdatascience.com/embracing-the-art-of-narrative-data-visualization-3543706c6e56?source=rss------data_science-5)
-- [P-Values: Understanding Statistical Significance in Plain Language](https://towardsdatascience.com/p-values-understanding-statistical-significance-in-plain-language-41a00ff68f23?source=rss------data_science-5)
-- [Day 5— Machine Learning System Design: Metrics Evaluation](https://medium.com/@jh.baek.sd/day-5-machine-learning-system-design-metrics-evaluation-6c89f485e400?source=rss------data_science-5)
-- [Day 4— Machine Learning System Design: Inference](https://medium.com/@jh.baek.sd/day-4-machine-learning-system-design-inference-ac64e1d30efd?source=rss------data_science-5)
-- [Machine Learning For Classification Problems &lpar;Customer Churn Prediction&rpar;](https://medium.com/@obandoandrew8/machine-learning-for-classification-problems-customer-churn-prediction-ae46c574e60?source=rss------data_science-5)
-- [My Summer as a Data Analyst Intern](https://medium.com/@emoral435/my-summer-as-a-data-analyst-intern-b62411e7d67a?source=rss------data_science-5)
+- [I will write data analyst, cybersecurity, data analyst, cybersecurity resume writing](https://medium.com/@ritagenius64/i-will-write-data-analyst-cybersecurity-data-analyst-cybersecurity-resume-writing-257ac4c7af28?source=rss------data_science-5)
+- [Life Outside the Normal Distribution](https://www.cantorsparadise.com/life-outside-the-normal-distribution-e5d50cac7d2a?source=rss------data_science-5)
+- [Data Science Academy Camp 2: Memanfaatkan Kekuatan Data dengan Pembelajaran Mesin](https://medium.com/compfest/data-science-academy-camp-2-memanfaatkan-kekuatan-data-dengan-pembelajaran-mesin-8a2294abeef4?source=rss------data_science-5)
+- [Visualizing Iris Flower Characteristics with PCA and Matplotlib](https://pub.aimind.so/visualizing-iris-flower-characteristics-with-pca-and-matplotlib-d717593d4a54?source=rss------data_science-5)
+- [Historical Data Visualization of Stock Prices with Python](https://wire.insiderfinance.io/historical-data-visualization-of-stock-prices-with-python-80f2eef2fdec?source=rss------data_science-5)
+- [Handling Missing Values in Python: A Quick Guide](https://medium.com/@samuelyauladutse/handling-missing-values-in-python-a-quick-guide-c118e25db6dc?source=rss------data_science-5)
+- [Elevate Trading with Mastery](https://medium.com/@setyasa75/elevate-trading-with-mastery-758cf248b1ce?source=rss------data_science-5)
+- [LlamaIndex Last Version: From Basics To Advanced Techniques In Python -&lpar;Part-4&rpar;](https://bootcamp.uxdesign.cc/llamaindex-last-version-from-basics-to-advanced-techniques-in-python-part-4-59ddd8d92572?source=rss------data_science-5)
+- [Software Engineering Academy Camp 1: Mastering the Principle of Code](https://medium.com/compfest/software-engineering-academy-camp-1-mastering-the-principle-of-code-60ca8eb3094e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
