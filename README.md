@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I will write data analyst, cybersecurity, data analyst, cybersecurity resume writing](https://medium.com/@ritagenius64/i-will-write-data-analyst-cybersecurity-data-analyst-cybersecurity-resume-writing-257ac4c7af28?source=rss------data_science-5)
-- [Life Outside the Normal Distribution](https://www.cantorsparadise.com/life-outside-the-normal-distribution-e5d50cac7d2a?source=rss------data_science-5)
-- [Data Science Academy Camp 2: Memanfaatkan Kekuatan Data dengan Pembelajaran Mesin](https://medium.com/compfest/data-science-academy-camp-2-memanfaatkan-kekuatan-data-dengan-pembelajaran-mesin-8a2294abeef4?source=rss------data_science-5)
-- [Visualizing Iris Flower Characteristics with PCA and Matplotlib](https://pub.aimind.so/visualizing-iris-flower-characteristics-with-pca-and-matplotlib-d717593d4a54?source=rss------data_science-5)
-- [Historical Data Visualization of Stock Prices with Python](https://wire.insiderfinance.io/historical-data-visualization-of-stock-prices-with-python-80f2eef2fdec?source=rss------data_science-5)
-- [Handling Missing Values in Python: A Quick Guide](https://medium.com/@samuelyauladutse/handling-missing-values-in-python-a-quick-guide-c118e25db6dc?source=rss------data_science-5)
-- [Elevate Trading with Mastery](https://medium.com/@setyasa75/elevate-trading-with-mastery-758cf248b1ce?source=rss------data_science-5)
-- [LlamaIndex Last Version: From Basics To Advanced Techniques In Python -&lpar;Part-4&rpar;](https://bootcamp.uxdesign.cc/llamaindex-last-version-from-basics-to-advanced-techniques-in-python-part-4-59ddd8d92572?source=rss------data_science-5)
-- [Software Engineering Academy Camp 1: Mastering the Principle of Code](https://medium.com/compfest/software-engineering-academy-camp-1-mastering-the-principle-of-code-60ca8eb3094e?source=rss------data_science-5)
+- [Not-So-Large Language Models: Good Data Overthrows the Goliath](https://towardsdatascience.com/not-so-large-language-models-good-data-overthrows-the-goliath-a8226bd1ae61?source=rss------data_science-5)
+- [Mastering Prompt Engineering for Azure OpenAI: Your Guide to Effective AI Interaction](https://medium.com/@pankaj_pandey/mastering-prompt-engineering-for-azure-openai-your-guide-to-effective-ai-interaction-1ebbd3c1d85d?source=rss------data_science-5)
+- [The Art of Data Visualization in Python: A Comprehensive Guide](https://blog.devgenius.io/the-art-of-data-visualization-in-python-a-comprehensive-guide-fd219bdf1230?source=rss------data_science-5)
+- [Crypto Quantum Leap - 50% Commissions](https://medium.com/@susikeclek/crypto-quantum-leap-50-commissions-1f16227ec258?source=rss------data_science-5)
+- [Snowflake Developers &amp; Community Update — Aug 2023 Edition](https://medium.com/snowflake/snowflake-developers-community-update-aug-2023-edition-37226e2aca23?source=rss------data_science-5)
+- [Notes – Chapter 9: Designing Machine Learning Systems by Chip Huyen](https://medium.com/@ankitmathur45/notes-chapter-9-designing-machine-learning-systems-by-chip-huyen-a8be93cc8e50?source=rss------data_science-5)
+- [Heart Disease Predictive Modeling](https://medium.com/@nguyenngominhdang/heart-disease-predictive-modeling-a903716a8bf2?source=rss------data_science-5)
+- [How I Reversed My Diabetes Using New Technology and Data Science](https://keith-mcnulty.medium.com/how-i-reversed-my-diabetes-using-new-technology-and-data-science-b605e9ef2aa0?source=rss------data_science-5)
+- [Mastering Regular Expressions: A Powerful Tool for Data Scientists](https://medium.com/@joaopaulolousada/mastering-regular-expressions-a-powerful-tool-for-data-scientists-e1c2dc8a67c3?source=rss------data_science-5)
+- [SIGMOD 2023 Highlights](https://megagonlabs.medium.com/sigmod-2023-highlights-7118f88d65c6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
