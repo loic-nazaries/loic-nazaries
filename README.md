@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Not-So-Large Language Models: Good Data Overthrows the Goliath](https://towardsdatascience.com/not-so-large-language-models-good-data-overthrows-the-goliath-a8226bd1ae61?source=rss------data_science-5)
-- [Mastering Prompt Engineering for Azure OpenAI: Your Guide to Effective AI Interaction](https://medium.com/@pankaj_pandey/mastering-prompt-engineering-for-azure-openai-your-guide-to-effective-ai-interaction-1ebbd3c1d85d?source=rss------data_science-5)
-- [The Art of Data Visualization in Python: A Comprehensive Guide](https://blog.devgenius.io/the-art-of-data-visualization-in-python-a-comprehensive-guide-fd219bdf1230?source=rss------data_science-5)
-- [Crypto Quantum Leap - 50% Commissions](https://medium.com/@susikeclek/crypto-quantum-leap-50-commissions-1f16227ec258?source=rss------data_science-5)
-- [Snowflake Developers &amp; Community Update — Aug 2023 Edition](https://medium.com/snowflake/snowflake-developers-community-update-aug-2023-edition-37226e2aca23?source=rss------data_science-5)
-- [Notes – Chapter 9: Designing Machine Learning Systems by Chip Huyen](https://medium.com/@ankitmathur45/notes-chapter-9-designing-machine-learning-systems-by-chip-huyen-a8be93cc8e50?source=rss------data_science-5)
-- [Heart Disease Predictive Modeling](https://medium.com/@nguyenngominhdang/heart-disease-predictive-modeling-a903716a8bf2?source=rss------data_science-5)
-- [How I Reversed My Diabetes Using New Technology and Data Science](https://keith-mcnulty.medium.com/how-i-reversed-my-diabetes-using-new-technology-and-data-science-b605e9ef2aa0?source=rss------data_science-5)
-- [Mastering Regular Expressions: A Powerful Tool for Data Scientists](https://medium.com/@joaopaulolousada/mastering-regular-expressions-a-powerful-tool-for-data-scientists-e1c2dc8a67c3?source=rss------data_science-5)
-- [SIGMOD 2023 Highlights](https://megagonlabs.medium.com/sigmod-2023-highlights-7118f88d65c6?source=rss------data_science-5)
+- [Machine Learning](https://medium.com/@fabiofmachida/machine-learning-f0287225de4c?source=rss------data_science-5)
+- [The Might of Data Literacy](https://towardsdatascience.com/the-might-of-data-literacy-3d91fcc5f46b?source=rss------data_science-5)
+- [A Brief Introduction to SciKit Pipelines](https://towardsdatascience.com/a-brief-introduction-to-scikit-pipelines-888edc86da9b?source=rss------data_science-5)
+- [Master Data Visualization with Python Scatter Plots: Tips, Examples, and Techniques](https://celikmustafa89.medium.com/master-data-visualization-with-python-scatter-plots-tips-examples-and-techniques-6d6d0e6cb83c?source=rss------data_science-5)
+- [Machine Learning: Correlation and Covariance](https://aaweg-i.medium.com/machine-learning-correlation-and-covariance-de25fe69f786?source=rss------data_science-5)
+- [On Growth &amp; Finding Your Special Person](https://nickgweezy.medium.com/on-growth-finding-your-special-person-86335c8593c5?source=rss------data_science-5)
+- [Should Travis Kelce be the 1.01 in Fantasy Football this year?](https://medium.com/@charlesbeehner/should-travis-kelce-be-the-1-01-in-fantasy-football-this-year-f39a84b5bbbe?source=rss------data_science-5)
+- [Logistic Regression: A method for predicting categorical outcomes using a linear combination of…](https://medium.com/internetstack/logistic-regression-a-method-for-predicting-categorical-outcomes-using-a-linear-combination-of-84a482c42f58?source=rss------data_science-5)
+- [AI in Space: ISRO’s Chandrayaan-III](https://medium.com/aiguys/ai-in-space-isros-chandrayaan-iii-e28c7b05b357?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
