@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Machine Learning](https://medium.com/@fabiofmachida/machine-learning-f0287225de4c?source=rss------data_science-5)
-- [The Might of Data Literacy](https://towardsdatascience.com/the-might-of-data-literacy-3d91fcc5f46b?source=rss------data_science-5)
-- [A Brief Introduction to SciKit Pipelines](https://towardsdatascience.com/a-brief-introduction-to-scikit-pipelines-888edc86da9b?source=rss------data_science-5)
-- [Master Data Visualization with Python Scatter Plots: Tips, Examples, and Techniques](https://celikmustafa89.medium.com/master-data-visualization-with-python-scatter-plots-tips-examples-and-techniques-6d6d0e6cb83c?source=rss------data_science-5)
-- [Machine Learning: Correlation and Covariance](https://aaweg-i.medium.com/machine-learning-correlation-and-covariance-de25fe69f786?source=rss------data_science-5)
-- [On Growth &amp; Finding Your Special Person](https://nickgweezy.medium.com/on-growth-finding-your-special-person-86335c8593c5?source=rss------data_science-5)
-- [Should Travis Kelce be the 1.01 in Fantasy Football this year?](https://medium.com/@charlesbeehner/should-travis-kelce-be-the-1-01-in-fantasy-football-this-year-f39a84b5bbbe?source=rss------data_science-5)
-- [Logistic Regression: A method for predicting categorical outcomes using a linear combination of…](https://medium.com/internetstack/logistic-regression-a-method-for-predicting-categorical-outcomes-using-a-linear-combination-of-84a482c42f58?source=rss------data_science-5)
-- [AI in Space: ISRO’s Chandrayaan-III](https://medium.com/aiguys/ai-in-space-isros-chandrayaan-iii-e28c7b05b357?source=rss------data_science-5)
+- [From Data to Decisions: Customer Segmentation with K-means Algorithm](https://medium.com/@ageraconsultants/from-data-to-decisions-customer-segmentation-with-k-means-algorithm-893df89401da?source=rss------data_science-5)
+- [PROJECT SERENITY - 33% Life-time Commissions](https://medium.com/@dianpurnatriodita/project-serenity-33-life-time-commissions-f0f5714f7f95?source=rss------data_science-5)
+- [“Unlock the Power of Data with SQL: Elevate your Analytical Skills with SQL”](https://medium.com/@ditechdiop/unlock-the-power-of-data-with-sql-elevate-your-analytical-skills-with-sql-73452cf492b1?source=rss------data_science-5)
+- [Ingestion of data is over. But not as you know it](https://blog.det.life/ingestion-of-data-is-over-but-not-as-you-know-it-ec87cf827bf9?source=rss------data_science-5)
+- [Deep Copy &amp; Shallow Copy in Python!!](https://medium.com/@shilpasree209/deep-copy-shallow-copy-in-python-1cd3110d533c?source=rss------data_science-5)
+- [Data Analyst x Data Engineer x Data Scientist [English]](https://medium.com/@rafaelduarte849/data-analyst-x-data-engineer-x-data-scientist-english-6eea56ea04f8?source=rss------data_science-5)
+- [Machine Learning for Price Prediction: A Step-by-Step Guide](https://medium.com/@idowuadamo2904/machine-learning-for-price-prediction-a-step-by-step-guide-ad5913b5cec7?source=rss------data_science-5)
+- [Understanding the Difference Between Machine Learning and Artificial Intelligence](https://medium.com/@vadivelmurugesan/understanding-the-difference-between-machine-learning-and-artificial-intelligence-3ad83870645b?source=rss------data_science-5)
+- [A Guide to Understand &lpar;and Appreciate&rpar; Principal Component Analysis &lpar;PCA&rpar;](https://pub.aimind.so/a-guide-to-understand-and-appreciate-principal-component-analysis-pca-d64b9fdef6c1?source=rss------data_science-5)
+- [Analyzing the Mauna Loa CO2 Dataset](https://medium.com/@kahli_66905/analyzing-the-mauna-loa-co2-dataset-96c62c5b8abe?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
