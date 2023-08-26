@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [From Data to Decisions: Customer Segmentation with K-means Algorithm](https://medium.com/@ageraconsultants/from-data-to-decisions-customer-segmentation-with-k-means-algorithm-893df89401da?source=rss------data_science-5)
-- [PROJECT SERENITY - 33% Life-time Commissions](https://medium.com/@dianpurnatriodita/project-serenity-33-life-time-commissions-f0f5714f7f95?source=rss------data_science-5)
-- [“Unlock the Power of Data with SQL: Elevate your Analytical Skills with SQL”](https://medium.com/@ditechdiop/unlock-the-power-of-data-with-sql-elevate-your-analytical-skills-with-sql-73452cf492b1?source=rss------data_science-5)
-- [Ingestion of data is over. But not as you know it](https://blog.det.life/ingestion-of-data-is-over-but-not-as-you-know-it-ec87cf827bf9?source=rss------data_science-5)
-- [Deep Copy &amp; Shallow Copy in Python!!](https://medium.com/@shilpasree209/deep-copy-shallow-copy-in-python-1cd3110d533c?source=rss------data_science-5)
-- [Data Analyst x Data Engineer x Data Scientist [English]](https://medium.com/@rafaelduarte849/data-analyst-x-data-engineer-x-data-scientist-english-6eea56ea04f8?source=rss------data_science-5)
-- [Machine Learning for Price Prediction: A Step-by-Step Guide](https://medium.com/@idowuadamo2904/machine-learning-for-price-prediction-a-step-by-step-guide-ad5913b5cec7?source=rss------data_science-5)
-- [Understanding the Difference Between Machine Learning and Artificial Intelligence](https://medium.com/@vadivelmurugesan/understanding-the-difference-between-machine-learning-and-artificial-intelligence-3ad83870645b?source=rss------data_science-5)
-- [A Guide to Understand &lpar;and Appreciate&rpar; Principal Component Analysis &lpar;PCA&rpar;](https://pub.aimind.so/a-guide-to-understand-and-appreciate-principal-component-analysis-pca-d64b9fdef6c1?source=rss------data_science-5)
-- [Analyzing the Mauna Loa CO2 Dataset](https://medium.com/@kahli_66905/analyzing-the-mauna-loa-co2-dataset-96c62c5b8abe?source=rss------data_science-5)
+- [How To Think Like An Algebraist](https://keith-mcnulty.medium.com/how-to-think-like-an-algebraist-4a00b4755db4?source=rss------data_science-5)
+- [TazzCoin: revolutionizing meme currencies](https://medium.com/@cookdarla70/tazzcoin-revolutionizing-meme-currencies-1be6024af006?source=rss------data_science-5)
+- [How to succeed in a Python Coding Interview?](https://medium.com/@kakatur/how-to-succeed-in-a-python-coding-interview-599473c1d0a2?source=rss------data_science-5)
+- [Affiliate Marketing](https://medium.com/@haiderkhan0103/affiliate-marketing-6c5b9a7e1994?source=rss------data_science-5)
+- [Beynin Karmaşık Sırları](https://medium.com/@cigdemeren777/beynin-karma%C5%9F%C4%B1k-s%C4%B1rlar%C4%B1-87939b1a3cdf?source=rss------data_science-5)
+- [Genie Script - 87% Commissions -WE PAY OUT MORE ON DAY 1!](https://medium.com/@dontreza7/genie-script-87-commissions-we-pay-out-more-on-day-1-56ab10b2bd54?source=rss------data_science-5)
+- [Revealing How Data Science Roles Across Tech Companies Are Evolving and Adapting](https://medium.com/@mrahsanmangal/revealing-how-data-science-roles-across-tech-companies-are-evolving-and-adapting-95bc91aa8c32?source=rss------data_science-5)
+- [Microsoft Excel Now Supports Python](https://medium.datadriveninvestor.com/microsoft-excel-now-supports-python-7a5a2f525389?source=rss------data_science-5)
+- [10 Latest AI Tools: Forget ChatGPT &lpar;Vol. 3&rpar;](https://vinaykumarmoluguri.medium.com/10-latest-ai-tools-forget-chatgpt-vol-3-715bcbd3e5aa?source=rss------data_science-5)
+- [What I’m Learning In](https://richardogujawa.medium.com/what-ive-learned-so-far-5c4c14f7876f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
