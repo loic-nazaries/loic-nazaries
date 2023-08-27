@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How To Think Like An Algebraist](https://keith-mcnulty.medium.com/how-to-think-like-an-algebraist-4a00b4755db4?source=rss------data_science-5)
-- [TazzCoin: revolutionizing meme currencies](https://medium.com/@cookdarla70/tazzcoin-revolutionizing-meme-currencies-1be6024af006?source=rss------data_science-5)
-- [How to succeed in a Python Coding Interview?](https://medium.com/@kakatur/how-to-succeed-in-a-python-coding-interview-599473c1d0a2?source=rss------data_science-5)
-- [Affiliate Marketing](https://medium.com/@haiderkhan0103/affiliate-marketing-6c5b9a7e1994?source=rss------data_science-5)
-- [Beynin Karmaşık Sırları](https://medium.com/@cigdemeren777/beynin-karma%C5%9F%C4%B1k-s%C4%B1rlar%C4%B1-87939b1a3cdf?source=rss------data_science-5)
-- [Genie Script - 87% Commissions -WE PAY OUT MORE ON DAY 1!](https://medium.com/@dontreza7/genie-script-87-commissions-we-pay-out-more-on-day-1-56ab10b2bd54?source=rss------data_science-5)
-- [Revealing How Data Science Roles Across Tech Companies Are Evolving and Adapting](https://medium.com/@mrahsanmangal/revealing-how-data-science-roles-across-tech-companies-are-evolving-and-adapting-95bc91aa8c32?source=rss------data_science-5)
-- [Microsoft Excel Now Supports Python](https://medium.datadriveninvestor.com/microsoft-excel-now-supports-python-7a5a2f525389?source=rss------data_science-5)
-- [10 Latest AI Tools: Forget ChatGPT &lpar;Vol. 3&rpar;](https://vinaykumarmoluguri.medium.com/10-latest-ai-tools-forget-chatgpt-vol-3-715bcbd3e5aa?source=rss------data_science-5)
-- [What I’m Learning In](https://richardogujawa.medium.com/what-ive-learned-so-far-5c4c14f7876f?source=rss------data_science-5)
+- [My Algorithmic Trading Project](https://alpmesri.medium.com/my-algorithmic-trading-project-6d24db04683?source=rss------data_science-5)
+- [10 Things I Stopped Doing With My Money After Learning from the Pros](https://medium.com/predict/10-things-i-stopped-doing-with-my-money-after-learning-from-the-pros-3932c084f9d0?source=rss------data_science-5)
+- [Guia prático para definir problemas em Machine Learning: estratégias e dicas úteis](https://medium.com/@daniele.santiago/guia-pr%C3%A1tico-para-definir-problemas-em-machine-learning-estrat%C3%A9gias-e-dicas-%C3%BAteis-a60c515fc0ce?source=rss------data_science-5)
+- [Let’s Talk Performance Part 2](https://medium.com/@CrazyStupidTraveller/lets-talk-performance-part-2-mastering-latency-d60b8f448657?source=rss------data_science-5)
+- [Create Your Portfolio By Employing Git](https://medium.com/@learning.by.playing.2023/create-your-portfolio-by-employing-git-dce60e0c0bcb?source=rss------data_science-5)
+- [Why should I learn SQL?](https://python.plainenglish.io/why-should-i-learn-sql-813b49b0a058?source=rss------data_science-5)
+- [Create Python Package for data science](https://medium.com/datasciencemustneededskills/create-python-package-for-data-science-3e2652447412?source=rss------data_science-5)
+- [Developing a robust online abuse detection and classification model: An overview](https://medium.com/@doyinakindotuni/developing-a-robust-online-abuse-detection-and-classification-model-an-overview-1bbcfc3423ca?source=rss------data_science-5)
+- [How much power do you need for your sample size in hypothesis testing?](https://medium.com/internetstack/how-much-power-do-you-need-for-your-sample-size-in-hypothesis-testing-454625f50426?source=rss------data_science-5)
+- [Veri Biliminde EDA Yaparken Sık Yapılan Hatalar Nelerdir ve Daha İyi Bir EDA Nasıl Yapılır ?](https://medium.com/@furkansertbusiness/veri-biliminde-eda-yaparken-s%C4%B1k-yap%C4%B1lan-hatalar-nelerdir-ve-daha-i%CC%87yi-bir-eda-nas%C4%B1l-yap%C4%B1l%C4%B1r-cbb3f675bcb2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
