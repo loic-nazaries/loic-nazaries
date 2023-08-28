@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [My Algorithmic Trading Project](https://alpmesri.medium.com/my-algorithmic-trading-project-6d24db04683?source=rss------data_science-5)
-- [10 Things I Stopped Doing With My Money After Learning from the Pros](https://medium.com/predict/10-things-i-stopped-doing-with-my-money-after-learning-from-the-pros-3932c084f9d0?source=rss------data_science-5)
-- [Guia prático para definir problemas em Machine Learning: estratégias e dicas úteis](https://medium.com/@daniele.santiago/guia-pr%C3%A1tico-para-definir-problemas-em-machine-learning-estrat%C3%A9gias-e-dicas-%C3%BAteis-a60c515fc0ce?source=rss------data_science-5)
-- [Let’s Talk Performance Part 2](https://medium.com/@CrazyStupidTraveller/lets-talk-performance-part-2-mastering-latency-d60b8f448657?source=rss------data_science-5)
-- [Create Your Portfolio By Employing Git](https://medium.com/@learning.by.playing.2023/create-your-portfolio-by-employing-git-dce60e0c0bcb?source=rss------data_science-5)
-- [Why should I learn SQL?](https://python.plainenglish.io/why-should-i-learn-sql-813b49b0a058?source=rss------data_science-5)
-- [Create Python Package for data science](https://medium.com/datasciencemustneededskills/create-python-package-for-data-science-3e2652447412?source=rss------data_science-5)
-- [Developing a robust online abuse detection and classification model: An overview](https://medium.com/@doyinakindotuni/developing-a-robust-online-abuse-detection-and-classification-model-an-overview-1bbcfc3423ca?source=rss------data_science-5)
-- [How much power do you need for your sample size in hypothesis testing?](https://medium.com/internetstack/how-much-power-do-you-need-for-your-sample-size-in-hypothesis-testing-454625f50426?source=rss------data_science-5)
-- [Veri Biliminde EDA Yaparken Sık Yapılan Hatalar Nelerdir ve Daha İyi Bir EDA Nasıl Yapılır ?](https://medium.com/@furkansertbusiness/veri-biliminde-eda-yaparken-s%C4%B1k-yap%C4%B1lan-hatalar-nelerdir-ve-daha-i%CC%87yi-bir-eda-nas%C4%B1l-yap%C4%B1l%C4%B1r-cbb3f675bcb2?source=rss------data_science-5)
+- [Inside the World of Nigerian Cyber Fraudsters: Case Studies, Trends, and Prevention Strategies](https://medium.com/@aleeko419/inside-the-world-of-nigerian-cyber-fraudsters-case-studies-trends-and-prevention-strategies-ba9a68b75109?source=rss------data_science-5)
+- [Kareki - Capítulo 15](https://medium.com/@angelgabruel50/kareki-cap%C3%ADtulo-15-294ad3eab086?source=rss------data_science-5)
+- [The Harsh Reality of Working as a Data Scientist | What They Don’t Tell you](https://medium.com/@vivianqin/the-harsh-reality-of-working-as-a-data-scientist-what-they-dont-tell-you-8b62d718029f?source=rss------data_science-5)
+- [How to produce qualified Data Products – Part 1: Understanding the Data Product core concepts](https://medium.com/@joaovictormagalhaessouza/how-to-produce-qualified-data-products-part-1-understanding-the-data-product-core-concepts-3a191397033a?source=rss------data_science-5)
+- [Machine Learning Fundamentals for Beginners](https://subashpalvel.medium.com/machine-learning-fundamentals-for-beginners-d9da6b90265d?source=rss------data_science-5)
+- [Overview of Object Detection Evaluation Metrics](https://pub.towardsai.net/overview-of-object-detection-evaluation-metrics-1bf9ec9edb14?source=rss------data_science-5)
+- [Exploratory Data Analysis &lpar;EDA&rpar; Techniques](https://subashpalvel.medium.com/exploratory-data-analysis-eda-techniques-3e8d8cf2956e?source=rss------data_science-5)
+- [The Magic of Actionable Data Views](https://medium.com/@raracodes/the-magic-of-actionable-data-views-dbf6bba572b9?source=rss------data_science-5)
+- [What is Deep Learning, Really? &lpar;Series #1&rpar;](https://medium.com/@bauglir/what-is-deep-learning-really-series-1-3843fb62c48e?source=rss------data_science-5)
+- [My Journey to Building a Data Science Portfolio from Scratch](https://medium.com/@mlubbad/my-journey-to-building-a-data-science-portfolio-from-scratch-e1574290a86b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
