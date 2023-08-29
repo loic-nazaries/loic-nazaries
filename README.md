@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Inside the World of Nigerian Cyber Fraudsters: Case Studies, Trends, and Prevention Strategies](https://medium.com/@aleeko419/inside-the-world-of-nigerian-cyber-fraudsters-case-studies-trends-and-prevention-strategies-ba9a68b75109?source=rss------data_science-5)
-- [Kareki - Capítulo 15](https://medium.com/@angelgabruel50/kareki-cap%C3%ADtulo-15-294ad3eab086?source=rss------data_science-5)
-- [The Harsh Reality of Working as a Data Scientist | What They Don’t Tell you](https://medium.com/@vivianqin/the-harsh-reality-of-working-as-a-data-scientist-what-they-dont-tell-you-8b62d718029f?source=rss------data_science-5)
-- [How to produce qualified Data Products – Part 1: Understanding the Data Product core concepts](https://medium.com/@joaovictormagalhaessouza/how-to-produce-qualified-data-products-part-1-understanding-the-data-product-core-concepts-3a191397033a?source=rss------data_science-5)
-- [Machine Learning Fundamentals for Beginners](https://subashpalvel.medium.com/machine-learning-fundamentals-for-beginners-d9da6b90265d?source=rss------data_science-5)
-- [Overview of Object Detection Evaluation Metrics](https://pub.towardsai.net/overview-of-object-detection-evaluation-metrics-1bf9ec9edb14?source=rss------data_science-5)
-- [Exploratory Data Analysis &lpar;EDA&rpar; Techniques](https://subashpalvel.medium.com/exploratory-data-analysis-eda-techniques-3e8d8cf2956e?source=rss------data_science-5)
-- [The Magic of Actionable Data Views](https://medium.com/@raracodes/the-magic-of-actionable-data-views-dbf6bba572b9?source=rss------data_science-5)
-- [What is Deep Learning, Really? &lpar;Series #1&rpar;](https://medium.com/@bauglir/what-is-deep-learning-really-series-1-3843fb62c48e?source=rss------data_science-5)
-- [My Journey to Building a Data Science Portfolio from Scratch](https://medium.com/@mlubbad/my-journey-to-building-a-data-science-portfolio-from-scratch-e1574290a86b?source=rss------data_science-5)
+- [**Introduction:**
+In the rapidly evolving world of cryptocurrency, opportunities to earn…](https://medium.com/@m.ferpectto.ar/introduction-in-the-rapidly-evolving-world-of-cryptocurrency-opportunities-to-earn-40af23e0003f?source=rss------data_science-5)
+- [About me &amp; why I write on medium](https://medium.com/@ccqxluo/about-me-why-i-write-on-medium-3ae136e661fa?source=rss------data_science-5)
+- [Advanced Tutorial: How to Master Matplotlib Like an Absolute Boss](https://pub.towardsai.net/advanced-tutorial-how-to-master-matplotlib-like-an-absolute-boss-3362c8bfd829?source=rss------data_science-5)
+- [Combinação entre Funções Matriciais e Controles ActiveX](https://medium.com/@albertoferreiraaraujo/combina%C3%A7%C3%A3o-entre-fun%C3%A7%C3%B5es-matriciais-e-controles-activex-7c99ed289b44?source=rss------data_science-5)
+- [I will craft a data science resume, data analyst, soc, IT, tech, logistics, cloud, and software…](https://medium.com/@stellandrew9/i-will-craft-a-data-science-resume-data-analyst-soc-it-tech-logistics-cloud-and-software-76ed008c8cf8?source=rss------data_science-5)
+- [Design Patterns in Software Engineering](https://bootcamp.uxdesign.cc/design-patterns-in-software-engineering-5bb0237d743b?source=rss------data_science-5)
+- [“Na statistics we go chop?”](https://medium.com/@ayok.omoniyi/na-statistics-we-go-chop-f18175efd527?source=rss------data_science-5)
+- [Naive Bayes Classifier: An Introduction](https://subashpalvel.medium.com/naive-bayes-classifier-an-introduction-37a221bef754?source=rss------data_science-5)
+- [Unlocking Data Superhighways: Building Scalable Data Pipelines with Kubernetes](https://medium.com/cloudnloud/unlocking-data-superhighways-building-scalable-data-pipelines-with-kubernetes-927d7c96fdbe?source=rss------data_science-5)
+- [Exploring the Power of Decision Trees and Enchanting Magic of Random Forests](https://subashpalvel.medium.com/exploring-the-power-of-decision-trees-and-enchanting-magic-of-random-forests-9619338119ad?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
