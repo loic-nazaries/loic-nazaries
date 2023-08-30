@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [**Introduction:**
-In the rapidly evolving world of cryptocurrency, opportunities to earn…](https://medium.com/@m.ferpectto.ar/introduction-in-the-rapidly-evolving-world-of-cryptocurrency-opportunities-to-earn-40af23e0003f?source=rss------data_science-5)
-- [About me &amp; why I write on medium](https://medium.com/@ccqxluo/about-me-why-i-write-on-medium-3ae136e661fa?source=rss------data_science-5)
-- [Advanced Tutorial: How to Master Matplotlib Like an Absolute Boss](https://pub.towardsai.net/advanced-tutorial-how-to-master-matplotlib-like-an-absolute-boss-3362c8bfd829?source=rss------data_science-5)
-- [Combinação entre Funções Matriciais e Controles ActiveX](https://medium.com/@albertoferreiraaraujo/combina%C3%A7%C3%A3o-entre-fun%C3%A7%C3%B5es-matriciais-e-controles-activex-7c99ed289b44?source=rss------data_science-5)
-- [I will craft a data science resume, data analyst, soc, IT, tech, logistics, cloud, and software…](https://medium.com/@stellandrew9/i-will-craft-a-data-science-resume-data-analyst-soc-it-tech-logistics-cloud-and-software-76ed008c8cf8?source=rss------data_science-5)
-- [Design Patterns in Software Engineering](https://bootcamp.uxdesign.cc/design-patterns-in-software-engineering-5bb0237d743b?source=rss------data_science-5)
-- [“Na statistics we go chop?”](https://medium.com/@ayok.omoniyi/na-statistics-we-go-chop-f18175efd527?source=rss------data_science-5)
-- [Naive Bayes Classifier: An Introduction](https://subashpalvel.medium.com/naive-bayes-classifier-an-introduction-37a221bef754?source=rss------data_science-5)
-- [Unlocking Data Superhighways: Building Scalable Data Pipelines with Kubernetes](https://medium.com/cloudnloud/unlocking-data-superhighways-building-scalable-data-pipelines-with-kubernetes-927d7c96fdbe?source=rss------data_science-5)
-- [Exploring the Power of Decision Trees and Enchanting Magic of Random Forests](https://subashpalvel.medium.com/exploring-the-power-of-decision-trees-and-enchanting-magic-of-random-forests-9619338119ad?source=rss------data_science-5)
+- [Finetuning OpenAI models — Part 1](https://medium.com/@suhaschowdary9999/finetuning-openai-models-part-1-50d6afd6eaf3?source=rss------data_science-5)
+- [Taking the First Step: Understanding the 6 Stages of the Data Science Life Cycle](https://medium.com/@skeredy/taking-the-first-step-understanding-the-6-stages-of-the-data-science-life-cycle-141ee6296ce2?source=rss------data_science-5)
+- [“Mastering Model Evaluation: A Deep Dive into Cross-Validation Techniques”](https://pub.aimind.so/mastering-model-evaluation-a-deep-dive-into-cross-validation-techniques-c90293f611db?source=rss------data_science-5)
+- [Global UGRAD Pakistan 2024 in the USA is accepting applications.](https://medium.com/@tahirpdcm/global-ugrad-pakistan-2024-in-the-usa-is-accepting-applications-5b476ad0afbb?source=rss------data_science-5)
+- [10 Latest AI Tools: Forget ChatGPT &lpar;Vol. 4&rpar;](https://vinaykumarmoluguri.medium.com/10-latest-ai-tools-forget-chatgpt-vol-4-ad43802407fb?source=rss------data_science-5)
+- [Handle Long Text Corpus for Bert Model](https://medium.com/@priyatoshanand/handle-long-text-corpus-for-bert-model-3c85248214aa?source=rss------data_science-5)
+- [Types of Data Analysis](https://blog.ruffingalactic.com/brief-guide-to-types-of-data-analysis-791106b75b63?source=rss------data_science-5)
+- [The Convergence of Traditional Spreadsheet Software and Modern Programming Languages: Python in…](https://medium.com/@madani.bezoui/the-convergence-of-traditional-spreadsheet-software-and-modern-programming-languages-python-in-1140467c7c5f?source=rss------data_science-5)
+- [Beware Studies That Use This Deceptive Statistical Trick](https://medium.com/illumination/beware-studies-that-use-this-deceptive-statistical-trick-f6e4aa6f34aa?source=rss------data_science-5)
+- [The most popular and agreed platform in the world is what?](https://medium.com/@yahayayusufisa052/the-most-popular-and-agreed-platform-in-the-world-is-what-aecad756af9a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
