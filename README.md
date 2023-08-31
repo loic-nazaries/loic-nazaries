@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Finetuning OpenAI models — Part 1](https://medium.com/@suhaschowdary9999/finetuning-openai-models-part-1-50d6afd6eaf3?source=rss------data_science-5)
-- [Taking the First Step: Understanding the 6 Stages of the Data Science Life Cycle](https://medium.com/@skeredy/taking-the-first-step-understanding-the-6-stages-of-the-data-science-life-cycle-141ee6296ce2?source=rss------data_science-5)
-- [“Mastering Model Evaluation: A Deep Dive into Cross-Validation Techniques”](https://pub.aimind.so/mastering-model-evaluation-a-deep-dive-into-cross-validation-techniques-c90293f611db?source=rss------data_science-5)
-- [Global UGRAD Pakistan 2024 in the USA is accepting applications.](https://medium.com/@tahirpdcm/global-ugrad-pakistan-2024-in-the-usa-is-accepting-applications-5b476ad0afbb?source=rss------data_science-5)
-- [10 Latest AI Tools: Forget ChatGPT &lpar;Vol. 4&rpar;](https://vinaykumarmoluguri.medium.com/10-latest-ai-tools-forget-chatgpt-vol-4-ad43802407fb?source=rss------data_science-5)
-- [Handle Long Text Corpus for Bert Model](https://medium.com/@priyatoshanand/handle-long-text-corpus-for-bert-model-3c85248214aa?source=rss------data_science-5)
-- [Types of Data Analysis](https://blog.ruffingalactic.com/brief-guide-to-types-of-data-analysis-791106b75b63?source=rss------data_science-5)
-- [The Convergence of Traditional Spreadsheet Software and Modern Programming Languages: Python in…](https://medium.com/@madani.bezoui/the-convergence-of-traditional-spreadsheet-software-and-modern-programming-languages-python-in-1140467c7c5f?source=rss------data_science-5)
-- [Beware Studies That Use This Deceptive Statistical Trick](https://medium.com/illumination/beware-studies-that-use-this-deceptive-statistical-trick-f6e4aa6f34aa?source=rss------data_science-5)
-- [The most popular and agreed platform in the world is what?](https://medium.com/@yahayayusufisa052/the-most-popular-and-agreed-platform-in-the-world-is-what-aecad756af9a?source=rss------data_science-5)
+- [Unveiling the Future: How AI is Revolutionizing the Cryptocurrency Landscape](https://medium.com/@daniel.lundy.analyst/unveiling-the-future-how-ai-is-revolutionizing-the-cryptocurrency-landscape-d6f5fcdf321f?source=rss------data_science-5)
+- [Advanced Integration of AI for Enhancing Slot Die Coating Precision and Quality](https://medium.com/@daniel.lundy.analyst/advanced-integration-of-ai-for-enhancing-slot-die-coating-precision-and-quality-951a7493c1db?source=rss------data_science-5)
+- [[Course Notes] ChatGPT Prompt Engineering for Developers](https://medium.com/@jchen001/course-notes-chatgpt-prompt-engineering-for-developers-72f5326ca25c?source=rss------data_science-5)
+- [DS Nuggets — Your model will fail over time.](https://medium.com/@abhijeetstalaulikar/ds-nuggets-your-model-will-fail-over-time-af771ed81342?source=rss------data_science-5)
+- [Multimodal Few-Shot Learning with Frozen Language Models: A Review](https://medium.com/@musicalchemist/multimodal-few-shot-learning-with-frozen-language-models-a-review-a5cdb10c922c?source=rss------data_science-5)
+- [other man shot me again.](https://medium.com/@shukrihopp/other-man-shot-me-again-6c81f7fc54a8?source=rss------data_science-5)
+- [Data science project examples](https://medium.com/@cyberopsanderson/data-science-project-examples-ca03011f2e15?source=rss------data_science-5)
+- [I will write data analyst, cybersecurity, data analyst, cybersecurity resume writing](https://medium.com/@ritagenius64/i-will-write-data-analyst-cybersecurity-data-analyst-cybersecurity-resume-writing-15a90f0916b8?source=rss------data_science-5)
+- [Enhancing User Experience: The Power of Product Recommendation Algorithms.](https://medium.com/@tarangds/enhancing-user-experience-the-power-of-product-recommendation-algorithms-2c05549c94fb?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
