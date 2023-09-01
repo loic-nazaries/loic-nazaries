@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Unveiling the Future: How AI is Revolutionizing the Cryptocurrency Landscape](https://medium.com/@daniel.lundy.analyst/unveiling-the-future-how-ai-is-revolutionizing-the-cryptocurrency-landscape-d6f5fcdf321f?source=rss------data_science-5)
-- [Advanced Integration of AI for Enhancing Slot Die Coating Precision and Quality](https://medium.com/@daniel.lundy.analyst/advanced-integration-of-ai-for-enhancing-slot-die-coating-precision-and-quality-951a7493c1db?source=rss------data_science-5)
-- [[Course Notes] ChatGPT Prompt Engineering for Developers](https://medium.com/@jchen001/course-notes-chatgpt-prompt-engineering-for-developers-72f5326ca25c?source=rss------data_science-5)
-- [DS Nuggets — Your model will fail over time.](https://medium.com/@abhijeetstalaulikar/ds-nuggets-your-model-will-fail-over-time-af771ed81342?source=rss------data_science-5)
-- [Multimodal Few-Shot Learning with Frozen Language Models: A Review](https://medium.com/@musicalchemist/multimodal-few-shot-learning-with-frozen-language-models-a-review-a5cdb10c922c?source=rss------data_science-5)
-- [other man shot me again.](https://medium.com/@shukrihopp/other-man-shot-me-again-6c81f7fc54a8?source=rss------data_science-5)
-- [Data science project examples](https://medium.com/@cyberopsanderson/data-science-project-examples-ca03011f2e15?source=rss------data_science-5)
-- [I will write data analyst, cybersecurity, data analyst, cybersecurity resume writing](https://medium.com/@ritagenius64/i-will-write-data-analyst-cybersecurity-data-analyst-cybersecurity-resume-writing-15a90f0916b8?source=rss------data_science-5)
-- [Enhancing User Experience: The Power of Product Recommendation Algorithms.](https://medium.com/@tarangds/enhancing-user-experience-the-power-of-product-recommendation-algorithms-2c05549c94fb?source=rss------data_science-5)
+- [Unveiling Titanic: Hidden Insights through data analysis](https://medium.com/@vhuynh10/unveiling-titanic-hidden-insights-through-data-analysis-e1f3a922558b?source=rss------data_science-5)
+- [Challenges while creating Tableau Dashboards](https://medium.com/@vijay.varshini13/challenges-while-creating-tableau-dashboards-784fed270841?source=rss------data_science-5)
+- [A PERPETUAL BEGINNING??](https://medium.com/@tairuzainab5/perpertual-beginning-e62a18661886?source=rss------data_science-5)
+- [Writing Unit Tests for Your Data Science Projects](https://medium.com/@taeefnajib/writing-unit-tests-for-your-data-science-projects-c3d46e98beb2?source=rss------data_science-5)
+- [Master the Data Science Interview: 124 Must-Answer Questions for Aspiring Professionals](https://medium.com/@aousabdo/master-the-data-science-interview-124-must-answer-questions-for-aspiring-professionals-cdf9dfdb9fab?source=rss------data_science-5)
+- [First Steps to Web Scraping, Regression and Machine Learning](https://medium.com/@salimkilinc/first-steps-to-web-scraping-regression-and-machine-learning-e1b6d2a96fdb?source=rss------data_science-5)
+- [Reinforcement Learning: Dynamic Programming and Monte Carlo — Part 2](https://pub.towardsai.net/reinforcement-learning-dynamic-programming-and-monte-carlo-part-2-190c1d86532c?source=rss------data_science-5)
+- [Leveraging GPT-4 for Enhanced EDA: A Deep Dive into the Titanic Dataset](https://medium.com/@dhshah1112/leveraging-gpt-4-for-enhanced-eda-a-deep-dive-into-the-titanic-dataset-37a6ebc36d39?source=rss------data_science-5)
+- [Data-Driven Wine Quality Analysis: Exploring Red and White Wine Datasets with My Vivino Project”](https://medium.com/@chemistry8526/data-driven-wine-quality-analysis-exploring-red-and-white-wine-datasets-with-my-vivino-project-3b4618394549?source=rss------data_science-5)
+- [Transformação Tecnológica e Migração de Áreas: Reflexões sobre Capitalismo, Desigualdade e Impacto…](https://medium.com/@beatriztorress/transforma%C3%A7%C3%A3o-tecnol%C3%B3gica-e-migra%C3%A7%C3%A3o-de-%C3%A1reas-reflex%C3%B5es-sobre-capitalismo-desigualdade-e-impacto-a74d1b2518c9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
