@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Unveiling Titanic: Hidden Insights through data analysis](https://medium.com/@vhuynh10/unveiling-titanic-hidden-insights-through-data-analysis-e1f3a922558b?source=rss------data_science-5)
-- [Challenges while creating Tableau Dashboards](https://medium.com/@vijay.varshini13/challenges-while-creating-tableau-dashboards-784fed270841?source=rss------data_science-5)
-- [A PERPETUAL BEGINNING??](https://medium.com/@tairuzainab5/perpertual-beginning-e62a18661886?source=rss------data_science-5)
-- [Writing Unit Tests for Your Data Science Projects](https://medium.com/@taeefnajib/writing-unit-tests-for-your-data-science-projects-c3d46e98beb2?source=rss------data_science-5)
-- [Master the Data Science Interview: 124 Must-Answer Questions for Aspiring Professionals](https://medium.com/@aousabdo/master-the-data-science-interview-124-must-answer-questions-for-aspiring-professionals-cdf9dfdb9fab?source=rss------data_science-5)
-- [First Steps to Web Scraping, Regression and Machine Learning](https://medium.com/@salimkilinc/first-steps-to-web-scraping-regression-and-machine-learning-e1b6d2a96fdb?source=rss------data_science-5)
-- [Reinforcement Learning: Dynamic Programming and Monte Carlo — Part 2](https://pub.towardsai.net/reinforcement-learning-dynamic-programming-and-monte-carlo-part-2-190c1d86532c?source=rss------data_science-5)
-- [Leveraging GPT-4 for Enhanced EDA: A Deep Dive into the Titanic Dataset](https://medium.com/@dhshah1112/leveraging-gpt-4-for-enhanced-eda-a-deep-dive-into-the-titanic-dataset-37a6ebc36d39?source=rss------data_science-5)
-- [Data-Driven Wine Quality Analysis: Exploring Red and White Wine Datasets with My Vivino Project”](https://medium.com/@chemistry8526/data-driven-wine-quality-analysis-exploring-red-and-white-wine-datasets-with-my-vivino-project-3b4618394549?source=rss------data_science-5)
-- [Transformação Tecnológica e Migração de Áreas: Reflexões sobre Capitalismo, Desigualdade e Impacto…](https://medium.com/@beatriztorress/transforma%C3%A7%C3%A3o-tecnol%C3%B3gica-e-migra%C3%A7%C3%A3o-de-%C3%A1reas-reflex%C3%B5es-sobre-capitalismo-desigualdade-e-impacto-a74d1b2518c9?source=rss------data_science-5)
+- [GPT-4 Faces Competition as Google Introduces Genesis](https://medium.com/@smraiyyan/gpt-4-faces-competition-as-google-introduces-genesis-37fa7e9abc47?source=rss------data_science-5)
+- [Balancing Act: Taming Imbalanced Datasets in Machine Learning](https://mindfulmodeler.medium.com/balancing-act-taming-imbalanced-datasets-in-machine-learning-7c97aafb318d?source=rss------data_science-5)
+- [I will craft a data science resume, data analyst, soc, IT, tech, logistics, cloud, and software…](https://medium.com/@stellandrew9/i-will-craft-a-data-science-resume-data-analyst-soc-it-tech-logistics-cloud-and-software-931b1b247322?source=rss------data_science-5)
+- [DS Nuggets — Why every data scientist needs to know UI design](https://medium.com/@abhijeetstalaulikar/ds-nuggets-why-every-data-scientist-needs-to-know-ui-design-5bad77d63bdf?source=rss------data_science-5)
+- [A Beginner’s Guide to Data Science](https://medium.com/@amosjohnfemi/a-beginners-guide-to-data-science-9eb719240480?source=rss------data_science-5)
+- [Responsible &amp; Ethical AI in Australian Education](https://medium.com/@mishra.kamal/responsible-ethical-ai-in-australian-education-53b352bbc0c2?source=rss------data_science-5)
+- [The Ethics Of Big Data: Balancing Innovation And Privacy](https://medium.com/@tmpeyton55/the-ethics-of-big-data-balancing-innovation-and-privacy-580280ecbb3c?source=rss------data_science-5)
+- [I will write data analyst, data analytics, data science cybersecurity resume writing](https://medium.com/@professorjamez/i-will-write-data-analyst-data-analytics-data-science-cybersecurity-resume-writing-449bc690ed8e?source=rss------data_science-5)
+- [Tidying Up the Framework of Dataset Shifts: The Example](https://towardsdatascience.com/tidying-up-the-framework-of-dataset-shifts-the-example-77807ee952f5?source=rss------data_science-5)
+- [Is there a wrong way to eat a Reese’s?](https://medium.datadriveninvestor.com/is-there-a-wrong-way-to-eat-a-reeses-6742451b1850?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
