@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [GPT-4 Faces Competition as Google Introduces Genesis](https://medium.com/@smraiyyan/gpt-4-faces-competition-as-google-introduces-genesis-37fa7e9abc47?source=rss------data_science-5)
-- [Balancing Act: Taming Imbalanced Datasets in Machine Learning](https://mindfulmodeler.medium.com/balancing-act-taming-imbalanced-datasets-in-machine-learning-7c97aafb318d?source=rss------data_science-5)
-- [I will craft a data science resume, data analyst, soc, IT, tech, logistics, cloud, and software…](https://medium.com/@stellandrew9/i-will-craft-a-data-science-resume-data-analyst-soc-it-tech-logistics-cloud-and-software-931b1b247322?source=rss------data_science-5)
-- [DS Nuggets — Why every data scientist needs to know UI design](https://medium.com/@abhijeetstalaulikar/ds-nuggets-why-every-data-scientist-needs-to-know-ui-design-5bad77d63bdf?source=rss------data_science-5)
-- [A Beginner’s Guide to Data Science](https://medium.com/@amosjohnfemi/a-beginners-guide-to-data-science-9eb719240480?source=rss------data_science-5)
-- [Responsible &amp; Ethical AI in Australian Education](https://medium.com/@mishra.kamal/responsible-ethical-ai-in-australian-education-53b352bbc0c2?source=rss------data_science-5)
-- [The Ethics Of Big Data: Balancing Innovation And Privacy](https://medium.com/@tmpeyton55/the-ethics-of-big-data-balancing-innovation-and-privacy-580280ecbb3c?source=rss------data_science-5)
-- [I will write data analyst, data analytics, data science cybersecurity resume writing](https://medium.com/@professorjamez/i-will-write-data-analyst-data-analytics-data-science-cybersecurity-resume-writing-449bc690ed8e?source=rss------data_science-5)
-- [Tidying Up the Framework of Dataset Shifts: The Example](https://towardsdatascience.com/tidying-up-the-framework-of-dataset-shifts-the-example-77807ee952f5?source=rss------data_science-5)
-- [Is there a wrong way to eat a Reese’s?](https://medium.datadriveninvestor.com/is-there-a-wrong-way-to-eat-a-reeses-6742451b1850?source=rss------data_science-5)
+- [“Unveiling the Power of Predictive Analytics: A Step-by-Step Guide”](https://medium.com/@daniel.lundy.analyst/unveiling-the-power-of-predictive-analytics-a-step-by-step-guide-dff38963d1df?source=rss------data_science-5)
+- [Image Registration in Computer Vision](https://sumit-kr-sharma.medium.com/image-registration-in-computer-vision-410d4f301ac2?source=rss------data_science-5)
+- [Understanding Analytics: Beyond the Hype!](https://medium.com/@im-sanka/understanding-analytics-beyond-the-hype-7cda73492afc?source=rss------data_science-5)
+- [Harnessing the Power of Artificial Intelligence and Machine Learning: A Guide for Programmers](https://medium.com/@cyberopsanderson/harnessing-the-power-of-artificial-intelligence-and-machine-learning-a-guide-for-programmers-d15509342c92?source=rss------data_science-5)
+- [Osta juhiluba, passe ja ID-kaarte &lpar;butchdocs.com&rpar;](https://medium.com/@johnsonhernandez403/osta-juhiluba-passe-ja-id-kaarte-butchdocs-com-9d2ee6ca3741?source=rss------data_science-5)
+- [3 Ways To Detect Multicollinearity &amp; Reasons Why To Expect It](https://medium.com/@hammad.ai/3-ways-to-detect-multicollinearity-in-your-dataset-6ee1776b7aa8?source=rss------data_science-5)
+- [Using ChatGPT’s Code Interpreter to solve a Data Science problem](https://medium.com/@neelearning93/using-chatgpts-code-interpreter-to-solve-a-data-science-problem-1b36736ad79f?source=rss------data_science-5)
+- [**Os Benefícios da Inteligência Artificial na Era dos Dados**](https://andy2903-alp.medium.com/os-benef%C3%ADcios-da-intelig%C3%AAncia-artificial-na-era-dos-dados-cb9baf8f85df?source=rss------data_science-5)
+- [Linear Transformations in Machine Learning: A Fundamental Guide](https://medium.com/@chinna202023/linear-transformations-in-machine-learning-a-fundamental-guide-2e5be6426c6d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
