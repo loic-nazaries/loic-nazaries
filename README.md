@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [“Unveiling the Power of Predictive Analytics: A Step-by-Step Guide”](https://medium.com/@daniel.lundy.analyst/unveiling-the-power-of-predictive-analytics-a-step-by-step-guide-dff38963d1df?source=rss------data_science-5)
-- [Image Registration in Computer Vision](https://sumit-kr-sharma.medium.com/image-registration-in-computer-vision-410d4f301ac2?source=rss------data_science-5)
-- [Understanding Analytics: Beyond the Hype!](https://medium.com/@im-sanka/understanding-analytics-beyond-the-hype-7cda73492afc?source=rss------data_science-5)
-- [Harnessing the Power of Artificial Intelligence and Machine Learning: A Guide for Programmers](https://medium.com/@cyberopsanderson/harnessing-the-power-of-artificial-intelligence-and-machine-learning-a-guide-for-programmers-d15509342c92?source=rss------data_science-5)
-- [Osta juhiluba, passe ja ID-kaarte &lpar;butchdocs.com&rpar;](https://medium.com/@johnsonhernandez403/osta-juhiluba-passe-ja-id-kaarte-butchdocs-com-9d2ee6ca3741?source=rss------data_science-5)
-- [3 Ways To Detect Multicollinearity &amp; Reasons Why To Expect It](https://medium.com/@hammad.ai/3-ways-to-detect-multicollinearity-in-your-dataset-6ee1776b7aa8?source=rss------data_science-5)
-- [Using ChatGPT’s Code Interpreter to solve a Data Science problem](https://medium.com/@neelearning93/using-chatgpts-code-interpreter-to-solve-a-data-science-problem-1b36736ad79f?source=rss------data_science-5)
-- [**Os Benefícios da Inteligência Artificial na Era dos Dados**](https://andy2903-alp.medium.com/os-benef%C3%ADcios-da-intelig%C3%AAncia-artificial-na-era-dos-dados-cb9baf8f85df?source=rss------data_science-5)
-- [Linear Transformations in Machine Learning: A Fundamental Guide](https://medium.com/@chinna202023/linear-transformations-in-machine-learning-a-fundamental-guide-2e5be6426c6d?source=rss------data_science-5)
+- [Exploring data with Summary Stats, Histograms, Boxplots and Normal Probability Plots in R.](https://medium.com/@charlesdirenzo/exploring-data-with-summary-stats-histograms-boxplots-and-normal-probability-plots-in-r-1227ff8aec37?source=rss------data_science-5)
+- [Section 1: What is DevOps and why should you care?](https://medium.com/@It_Pro_Engineer/section-1-what-is-devops-and-why-should-you-care-c45efc7db74a?source=rss------data_science-5)
+- [Streamlining ML Workflows with Python Dataclasses: A Tech MLE’s Perspective](https://mindfulmodeler.medium.com/streamlining-ml-workflows-with-python-dataclasses-a-tech-mles-perspective-f31e7321d52d?source=rss------data_science-5)
+- [Building Correlation Matrix With P-Values In Python](https://pub.towardsai.net/building-correlation-matrix-with-p-values-in-python-76ffd3c2365e?source=rss------data_science-5)
+- [From Chandrayaan-2’s Failure to Chandrayaan-3’s Triumph: The Software Testing Connection](https://towardsdatascience.com/from-chandrayaan-2s-failure-to-chandrayaan-3-s-triumph-the-software-testing-connection-854bf94ea72b?source=rss------data_science-5)
+- [Data Security in the Age of AI: ISO 27001 Compliance](https://medium.com/@mukherjee.amitav/data-security-in-the-age-of-ai-iso-27001-compliance-29f700f0f787?source=rss------data_science-5)
+- [NIPALS Algorithm for PCA](https://chutianxue.medium.com/nipals-algorithm-for-pca-5d4cf0d456e7?source=rss------data_science-5)
+- [Getting Started with Azure Synapse: A Beginner’s Guide to Big Data and Analytics](https://medium.com/predict/getting-started-with-azure-synapse-a-beginners-guide-to-big-data-and-analytics-747ba5dd4c84?source=rss------data_science-5)
+- [Alternative Data: The creative way to look understand markets](https://medium.com/dscubed-unimelb/alternative-data-the-creative-way-to-look-understand-markets-d69e0d0e9c13?source=rss------data_science-5)
+- [Denetimsiz Öğrenme: Verilerin Gizemli Dünyası](https://medium.com/@vural.muharrem12/denetimsiz-%C3%B6%C4%9Frenme-verilerin-gizemli-d%C3%BCnyas%C4%B1-827edcd7e7e1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
