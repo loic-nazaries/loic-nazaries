@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Exploring data with Summary Stats, Histograms, Boxplots and Normal Probability Plots in R.](https://medium.com/@charlesdirenzo/exploring-data-with-summary-stats-histograms-boxplots-and-normal-probability-plots-in-r-1227ff8aec37?source=rss------data_science-5)
-- [Section 1: What is DevOps and why should you care?](https://medium.com/@It_Pro_Engineer/section-1-what-is-devops-and-why-should-you-care-c45efc7db74a?source=rss------data_science-5)
-- [Streamlining ML Workflows with Python Dataclasses: A Tech MLE’s Perspective](https://mindfulmodeler.medium.com/streamlining-ml-workflows-with-python-dataclasses-a-tech-mles-perspective-f31e7321d52d?source=rss------data_science-5)
-- [Building Correlation Matrix With P-Values In Python](https://pub.towardsai.net/building-correlation-matrix-with-p-values-in-python-76ffd3c2365e?source=rss------data_science-5)
-- [From Chandrayaan-2’s Failure to Chandrayaan-3’s Triumph: The Software Testing Connection](https://towardsdatascience.com/from-chandrayaan-2s-failure-to-chandrayaan-3-s-triumph-the-software-testing-connection-854bf94ea72b?source=rss------data_science-5)
-- [Data Security in the Age of AI: ISO 27001 Compliance](https://medium.com/@mukherjee.amitav/data-security-in-the-age-of-ai-iso-27001-compliance-29f700f0f787?source=rss------data_science-5)
-- [NIPALS Algorithm for PCA](https://chutianxue.medium.com/nipals-algorithm-for-pca-5d4cf0d456e7?source=rss------data_science-5)
-- [Getting Started with Azure Synapse: A Beginner’s Guide to Big Data and Analytics](https://medium.com/predict/getting-started-with-azure-synapse-a-beginners-guide-to-big-data-and-analytics-747ba5dd4c84?source=rss------data_science-5)
-- [Alternative Data: The creative way to look understand markets](https://medium.com/dscubed-unimelb/alternative-data-the-creative-way-to-look-understand-markets-d69e0d0e9c13?source=rss------data_science-5)
-- [Denetimsiz Öğrenme: Verilerin Gizemli Dünyası](https://medium.com/@vural.muharrem12/denetimsiz-%C3%B6%C4%9Frenme-verilerin-gizemli-d%C3%BCnyas%C4%B1-827edcd7e7e1?source=rss------data_science-5)
+- [Python Glob: Simplifying File Management](https://medium.com/cloudnloud/python-glob-simplifying-file-management-d09ec1c04340?source=rss------data_science-5)
+- [A Deep Dive into E-Commerce Rating Systems](https://medium.com/@melihbed.calis/a-deep-dive-into-e-commerce-rating-systems-e2e41014bf7a?source=rss------data_science-5)
+- [Python Arrays Made Easy: Day 17 of 100 Days of Python Learning](https://medium.com/cloudnloud/python-arrays-made-easy-day-17-of-100-days-of-python-learning-2b6e49fce258?source=rss------data_science-5)
+- [Categorical Embeddings in Scikit-Learn Pipeline](https://medium.com/@micahmelling/categorical-embeddings-in-scikit-learn-pipeline-c81071be5140?source=rss------data_science-5)
+- [Do Large Language Models Know What They Don’t Know?](https://medium.com/@jchen001/do-large-language-models-know-what-they-dont-know-c2273e2f5f74?source=rss------data_science-5)
+- [7 Supply Chain Metrics you’re probably not tracking &lpar;but should&rpar;](https://medium.com/@nathan_cunningham/7-supply-chain-metrics-youre-probably-not-tracking-but-should-e84c8ce06f0d?source=rss------data_science-5)
+- [Sconti app](https://medium.com/@nandishbc13/title-unlocking-growth-and-personal-branding-with-the-sconti-app-harness-the-power-of-edumedia-6584ab792f90?source=rss------data_science-5)
+- [What are the differences between “Big Data” and Data Analytics?](https://medium.com/@brechtcorbeel/what-are-the-differences-between-big-data-and-data-analytics-49c6538b8bdb?source=rss------data_science-5)
+- [Neural Network Architecture: Stepping into Deep Learning](https://medium.com/@chuntcdj/neural-network-architecture-51587f150fc7?source=rss------data_science-5)
+- [Probabilistic ML with Quantile Matching: an Example with Python](https://towardsdatascience.com/probabilistic-ml-with-quantile-matching-an-example-with-python-c367eee85f18?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
