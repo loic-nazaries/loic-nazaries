@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Python Glob: Simplifying File Management](https://medium.com/cloudnloud/python-glob-simplifying-file-management-d09ec1c04340?source=rss------data_science-5)
-- [A Deep Dive into E-Commerce Rating Systems](https://medium.com/@melihbed.calis/a-deep-dive-into-e-commerce-rating-systems-e2e41014bf7a?source=rss------data_science-5)
-- [Python Arrays Made Easy: Day 17 of 100 Days of Python Learning](https://medium.com/cloudnloud/python-arrays-made-easy-day-17-of-100-days-of-python-learning-2b6e49fce258?source=rss------data_science-5)
-- [Categorical Embeddings in Scikit-Learn Pipeline](https://medium.com/@micahmelling/categorical-embeddings-in-scikit-learn-pipeline-c81071be5140?source=rss------data_science-5)
-- [Do Large Language Models Know What They Don’t Know?](https://medium.com/@jchen001/do-large-language-models-know-what-they-dont-know-c2273e2f5f74?source=rss------data_science-5)
-- [7 Supply Chain Metrics you’re probably not tracking &lpar;but should&rpar;](https://medium.com/@nathan_cunningham/7-supply-chain-metrics-youre-probably-not-tracking-but-should-e84c8ce06f0d?source=rss------data_science-5)
-- [Sconti app](https://medium.com/@nandishbc13/title-unlocking-growth-and-personal-branding-with-the-sconti-app-harness-the-power-of-edumedia-6584ab792f90?source=rss------data_science-5)
-- [What are the differences between “Big Data” and Data Analytics?](https://medium.com/@brechtcorbeel/what-are-the-differences-between-big-data-and-data-analytics-49c6538b8bdb?source=rss------data_science-5)
-- [Neural Network Architecture: Stepping into Deep Learning](https://medium.com/@chuntcdj/neural-network-architecture-51587f150fc7?source=rss------data_science-5)
-- [Probabilistic ML with Quantile Matching: an Example with Python](https://towardsdatascience.com/probabilistic-ml-with-quantile-matching-an-example-with-python-c367eee85f18?source=rss------data_science-5)
+- [After Learning from the Pros, I Decided to Stop Doing These 10 Things in Python](https://medium.com/@araujogabe1/after-learning-from-the-pros-i-decided-to-stop-doing-these-10-things-in-python-9fe7fc3f986a?source=rss------data_science-5)
+- [How Do You Evaluate Large Language Model Apps — When 99% is just not good enough?](https://medium.com/emalpha/how-do-you-evaluate-large-language-model-apps-when-99-is-just-not-good-enough-4abf3f27f036?source=rss------data_science-5)
+- [Logistic Regression](https://medium.com/@denizgunay/logistic-regression-689179d47122?source=rss------data_science-5)
+- [Published A Beginner’s Guide to Streamlit for Data Science](https://medium.com/@mishrapartha/published-a-beginners-guide-to-streamlit-for-data-science-a37fb33eb3ce?source=rss------data_science-5)
+- [5 Things Nobody Talks About Regarding Artificial Intelligence](https://medium.com/@sequec560/5-things-nobody-talks-about-regarding-artificial-intelligence-2cde5bbc303c?source=rss------data_science-5)
+- [Unveiling the Power of Media Mix Modeling with Python](https://rsfagundes.medium.com/unveiling-the-power-of-media-mix-modeling-with-python-2c2de5b86f19?source=rss------data_science-5)
+- [Data Distribution vs. Sampling Distribution](https://neverforget-1975.medium.com/data-distribution-vs-sampling-distribution-5455f1d95d3d?source=rss------data_science-5)
+- [Analisando_os_Dados_do_Airbnb_da_cidade_de_Barcelona](https://medium.com/@Rafael_Andrade_DEV/analisando-os-dados-do-airbnb-da-cidade-de-barcelona-198f5aff7668?source=rss------data_science-5)
+- [The Silent Revolution](https://medium.com/@sequec560/the-silent-revolution-5cef5163ab5f?source=rss------data_science-5)
+- [Leveraging Data Analytics on MrBeast’s YouTube Videos: A Deep Dive into Engagement, Sentiment, and…](https://medium.com/@pjvillasista/leveraging-data-analytics-on-mrbeasts-youtube-videos-a-deep-dive-into-engagement-sentiment-and-3fa21d4fcbea?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
