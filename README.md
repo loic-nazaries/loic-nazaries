@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [After Learning from the Pros, I Decided to Stop Doing These 10 Things in Python](https://medium.com/@araujogabe1/after-learning-from-the-pros-i-decided-to-stop-doing-these-10-things-in-python-9fe7fc3f986a?source=rss------data_science-5)
-- [How Do You Evaluate Large Language Model Apps — When 99% is just not good enough?](https://medium.com/emalpha/how-do-you-evaluate-large-language-model-apps-when-99-is-just-not-good-enough-4abf3f27f036?source=rss------data_science-5)
-- [Logistic Regression](https://medium.com/@denizgunay/logistic-regression-689179d47122?source=rss------data_science-5)
-- [Published A Beginner’s Guide to Streamlit for Data Science](https://medium.com/@mishrapartha/published-a-beginners-guide-to-streamlit-for-data-science-a37fb33eb3ce?source=rss------data_science-5)
-- [5 Things Nobody Talks About Regarding Artificial Intelligence](https://medium.com/@sequec560/5-things-nobody-talks-about-regarding-artificial-intelligence-2cde5bbc303c?source=rss------data_science-5)
-- [Unveiling the Power of Media Mix Modeling with Python](https://rsfagundes.medium.com/unveiling-the-power-of-media-mix-modeling-with-python-2c2de5b86f19?source=rss------data_science-5)
-- [Data Distribution vs. Sampling Distribution](https://neverforget-1975.medium.com/data-distribution-vs-sampling-distribution-5455f1d95d3d?source=rss------data_science-5)
-- [Analisando_os_Dados_do_Airbnb_da_cidade_de_Barcelona](https://medium.com/@Rafael_Andrade_DEV/analisando-os-dados-do-airbnb-da-cidade-de-barcelona-198f5aff7668?source=rss------data_science-5)
-- [The Silent Revolution](https://medium.com/@sequec560/the-silent-revolution-5cef5163ab5f?source=rss------data_science-5)
-- [Leveraging Data Analytics on MrBeast’s YouTube Videos: A Deep Dive into Engagement, Sentiment, and…](https://medium.com/@pjvillasista/leveraging-data-analytics-on-mrbeasts-youtube-videos-a-deep-dive-into-engagement-sentiment-and-3fa21d4fcbea?source=rss------data_science-5)
+- [Evaluating Model Performance in Medical Diagnosis: Understanding Confusion Matrix Metrics](https://medium.com/@evertongomede/evaluating-model-performance-in-medical-diagnosis-understanding-confusion-matrix-metrics-42c35af88fa7?source=rss------data_science-5)
+- [Prompt Engineering to Leverage In-Context Learning in Large Language Models](https://pub.towardsai.net/prompt-engineering-to-leverage-in-context-learning-in-large-language-models-72296e1f09c3?source=rss------data_science-5)
+- [Function In Python](https://medium.com/@myskill.id/function-in-python-65b9388b54a3?source=rss------data_science-5)
+- [The Essential Role of Algebra in AI and Machine Learning](https://medium.com/@vadivelmurugesan/the-essential-role-of-algebra-in-ai-and-machine-learning-317aeaec647c?source=rss------data_science-5)
+- [Querying GitHub Archive with Snowflake: The Essentials](https://hoffa.medium.com/querying-github-archive-with-snowflake-the-essentials-c1f7715133d7?source=rss------data_science-5)
+- [I will write data science, data analysis, data analytics, and cyber security resume writing](https://medium.com/@ganiyucynthia/i-will-write-data-science-data-analysis-data-analytics-and-cyber-security-resume-writing-30720e55abd9?source=rss------data_science-5)
+- [Introduction to PCA in Python with Sklearn, Pandas and Matplotlib](https://towardsdatascience.com/introduction-to-pca-in-python-with-sklearn-pandas-and-matplotlib-476880f30238?source=rss------data_science-5)
+- [Mutrex Coin Decentralized Token erected for evolution](https://medium.com/@sitoabasietok/mutrex-coin-decentralized-token-erected-for-evolution-76f515f1764c?source=rss------data_science-5)
+- [What is Market Segmentation Techniques &amp; Strategies](https://medium.com/@JennaJMurray/what-is-market-segmentation-techniques-strategies-4d7a11bf903f?source=rss------data_science-5)
+- [Week 4: SQLing Through the Relational Maze](https://medium.com/@AI6Lagos/week-4-sqling-through-the-relational-maze-5cdc8bb6eddb?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
