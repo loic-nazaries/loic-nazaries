@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Evaluating Model Performance in Medical Diagnosis: Understanding Confusion Matrix Metrics](https://medium.com/@evertongomede/evaluating-model-performance-in-medical-diagnosis-understanding-confusion-matrix-metrics-42c35af88fa7?source=rss------data_science-5)
-- [Prompt Engineering to Leverage In-Context Learning in Large Language Models](https://pub.towardsai.net/prompt-engineering-to-leverage-in-context-learning-in-large-language-models-72296e1f09c3?source=rss------data_science-5)
-- [Function In Python](https://medium.com/@myskill.id/function-in-python-65b9388b54a3?source=rss------data_science-5)
-- [The Essential Role of Algebra in AI and Machine Learning](https://medium.com/@vadivelmurugesan/the-essential-role-of-algebra-in-ai-and-machine-learning-317aeaec647c?source=rss------data_science-5)
-- [Querying GitHub Archive with Snowflake: The Essentials](https://hoffa.medium.com/querying-github-archive-with-snowflake-the-essentials-c1f7715133d7?source=rss------data_science-5)
-- [I will write data science, data analysis, data analytics, and cyber security resume writing](https://medium.com/@ganiyucynthia/i-will-write-data-science-data-analysis-data-analytics-and-cyber-security-resume-writing-30720e55abd9?source=rss------data_science-5)
-- [Introduction to PCA in Python with Sklearn, Pandas and Matplotlib](https://towardsdatascience.com/introduction-to-pca-in-python-with-sklearn-pandas-and-matplotlib-476880f30238?source=rss------data_science-5)
-- [Mutrex Coin Decentralized Token erected for evolution](https://medium.com/@sitoabasietok/mutrex-coin-decentralized-token-erected-for-evolution-76f515f1764c?source=rss------data_science-5)
-- [What is Market Segmentation Techniques &amp; Strategies](https://medium.com/@JennaJMurray/what-is-market-segmentation-techniques-strategies-4d7a11bf903f?source=rss------data_science-5)
-- [Week 4: SQLing Through the Relational Maze](https://medium.com/@AI6Lagos/week-4-sqling-through-the-relational-maze-5cdc8bb6eddb?source=rss------data_science-5)
+- [In the beginning, it was just a spark of curiosity.](https://medium.com/@araujogabe1/in-the-beginning-it-was-just-a-spark-of-curiosity-a13e2be19789?source=rss------data_science-5)
+- [Simplifying Your Exploratory Data Analysis With These Four &lpar;4&rpar; Packages](https://pub.towardsai.net/simplifying-your-exploratory-data-analysis-with-these-four-4-packages-64837a370adc?source=rss------data_science-5)
+- [From data-driven to decision-driven](https://uxdesign.cc/from-data-driven-to-decision-driven-bac9a8842423?source=rss------data_science-5)
+- [Age Detection Using Artificial Intelligence](https://medium.com/@evertongomede/age-detection-using-artificial-intelligence-719b4368075b?source=rss------data_science-5)
+- [NFL 2023 Week 1 Monte Carlo Simulation Results &amp; Value Bets](https://medium.com/the-intelligent-sports-wagerer/nfl-2023-week-1-monte-carlo-simulation-results-value-bets-e3316ecd6827?source=rss------data_science-5)
+- [Back To Basics: Here Are The Key Concepts You Need To Master In NLP &lpar;Part 1&rpar;](https://medium.com/thoughts-on-machine-learning/back-to-basics-here-are-the-key-concepts-you-need-to-master-in-nlp-part-1-b2599c0e1aba?source=rss------data_science-5)
+- [How I Nailed the AWS ML Specialty Exam in Just 2 Weeks](https://temiloluwa-adeniyi.medium.com/how-i-nailed-the-aws-ml-specialty-exam-in-just-2-weeks-81186732eac5?source=rss------data_science-5)
+- [Visualizing Herding Behavior in the Stock Market with Python](https://medium.com/@crisvelasquez/visualizing-herding-behavior-in-the-stock-market-with-python-715405aec040?source=rss------data_science-5)
+- [How I Turned Linguistics into Data Analytics in 60 Days: 6 unknown Tricks That Helped Me in a…](https://medium.com/@izab.sta/how-i-turned-linguistics-into-data-analytics-in-60-days-6-unknown-tricks-that-helped-me-in-a-987c0826cd63?source=rss------data_science-5)
+- [Central Limit Theorem, Confidence Intervals, and hypothesis testing](https://medium.com/@charlesdirenzo/central-limit-theorem-confidence-intervals-and-hypothesis-testing-fb104723e572?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
