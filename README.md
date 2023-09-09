@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [In the beginning, it was just a spark of curiosity.](https://medium.com/@araujogabe1/in-the-beginning-it-was-just-a-spark-of-curiosity-a13e2be19789?source=rss------data_science-5)
-- [Simplifying Your Exploratory Data Analysis With These Four &lpar;4&rpar; Packages](https://pub.towardsai.net/simplifying-your-exploratory-data-analysis-with-these-four-4-packages-64837a370adc?source=rss------data_science-5)
-- [From data-driven to decision-driven](https://uxdesign.cc/from-data-driven-to-decision-driven-bac9a8842423?source=rss------data_science-5)
-- [Age Detection Using Artificial Intelligence](https://medium.com/@evertongomede/age-detection-using-artificial-intelligence-719b4368075b?source=rss------data_science-5)
-- [NFL 2023 Week 1 Monte Carlo Simulation Results &amp; Value Bets](https://medium.com/the-intelligent-sports-wagerer/nfl-2023-week-1-monte-carlo-simulation-results-value-bets-e3316ecd6827?source=rss------data_science-5)
-- [Back To Basics: Here Are The Key Concepts You Need To Master In NLP &lpar;Part 1&rpar;](https://medium.com/thoughts-on-machine-learning/back-to-basics-here-are-the-key-concepts-you-need-to-master-in-nlp-part-1-b2599c0e1aba?source=rss------data_science-5)
-- [How I Nailed the AWS ML Specialty Exam in Just 2 Weeks](https://temiloluwa-adeniyi.medium.com/how-i-nailed-the-aws-ml-specialty-exam-in-just-2-weeks-81186732eac5?source=rss------data_science-5)
-- [Visualizing Herding Behavior in the Stock Market with Python](https://medium.com/@crisvelasquez/visualizing-herding-behavior-in-the-stock-market-with-python-715405aec040?source=rss------data_science-5)
-- [How I Turned Linguistics into Data Analytics in 60 Days: 6 unknown Tricks That Helped Me in a…](https://medium.com/@izab.sta/how-i-turned-linguistics-into-data-analytics-in-60-days-6-unknown-tricks-that-helped-me-in-a-987c0826cd63?source=rss------data_science-5)
-- [Central Limit Theorem, Confidence Intervals, and hypothesis testing](https://medium.com/@charlesdirenzo/central-limit-theorem-confidence-intervals-and-hypothesis-testing-fb104723e572?source=rss------data_science-5)
+- [Topics per Class Using BERTopic](https://towardsdatascience.com/topics-per-class-using-bertopic-252314f2640?source=rss------data_science-5)
+- [Master Data Visualization with Python Line Chart: Tips, Examples, and Techniques #3](https://blog.devgenius.io/master-data-visualization-with-python-line-chart-tips-examples-and-techniques-3-a9be1e3c5f8?source=rss------data_science-5)
+- [The ROC Curve: A Diagnostic Powerhouse](https://medium.com/@evertongomede/the-roc-curve-a-diagnostic-powerhouse-3d62844a7d63?source=rss------data_science-5)
+- [eFarming Challenge: The Future of Agriculture is Here!](https://medium.com/@arianjana93/efarming-challenge-the-future-of-agriculture-is-here-b08b6af73560?source=rss------data_science-5)
+- [Encoded Bias in Datasets](https://medium.com/@evertongomede/encoded-bias-in-datasets-74dadd22eaba?source=rss------data_science-5)
+- [Use LangChain To Protect Your PII](https://medium.com/thoughts-on-machine-learning/use-langchain-to-protect-your-pii-742ef75d42c7?source=rss------data_science-5)
+- [Algorithm Selection for Performance](https://bootcamp.uxdesign.cc/algorithm-selection-for-performance-8ce8066fe531?source=rss------data_science-5)
+- [O Caminho para um Portfólio Vencedor em Dados](https://medium.com/programacaodinamica/o-caminho-para-um-portf%C3%B3lio-vencedor-em-dados-ba1030245b41?source=rss------data_science-5)
+- [StockCheck — Ep1: Transformando a Análise de Ações com Programação](https://medium.com/@sant1/stockcheck-ep1-transformando-a-an%C3%A1lise-de-a%C3%A7%C3%B5es-com-programa%C3%A7%C3%A3o-be6638e1d9cf?source=rss------data_science-5)
+- [The Most Underrated Volatility Indices](https://quant-galore.medium.com/the-most-underrated-volatility-indices-51abb08b430?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
