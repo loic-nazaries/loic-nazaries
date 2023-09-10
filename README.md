@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Topics per Class Using BERTopic](https://towardsdatascience.com/topics-per-class-using-bertopic-252314f2640?source=rss------data_science-5)
-- [Master Data Visualization with Python Line Chart: Tips, Examples, and Techniques #3](https://blog.devgenius.io/master-data-visualization-with-python-line-chart-tips-examples-and-techniques-3-a9be1e3c5f8?source=rss------data_science-5)
-- [The ROC Curve: A Diagnostic Powerhouse](https://medium.com/@evertongomede/the-roc-curve-a-diagnostic-powerhouse-3d62844a7d63?source=rss------data_science-5)
-- [eFarming Challenge: The Future of Agriculture is Here!](https://medium.com/@arianjana93/efarming-challenge-the-future-of-agriculture-is-here-b08b6af73560?source=rss------data_science-5)
-- [Encoded Bias in Datasets](https://medium.com/@evertongomede/encoded-bias-in-datasets-74dadd22eaba?source=rss------data_science-5)
-- [Use LangChain To Protect Your PII](https://medium.com/thoughts-on-machine-learning/use-langchain-to-protect-your-pii-742ef75d42c7?source=rss------data_science-5)
-- [Algorithm Selection for Performance](https://bootcamp.uxdesign.cc/algorithm-selection-for-performance-8ce8066fe531?source=rss------data_science-5)
-- [O Caminho para um Portfólio Vencedor em Dados](https://medium.com/programacaodinamica/o-caminho-para-um-portf%C3%B3lio-vencedor-em-dados-ba1030245b41?source=rss------data_science-5)
-- [StockCheck — Ep1: Transformando a Análise de Ações com Programação](https://medium.com/@sant1/stockcheck-ep1-transformando-a-an%C3%A1lise-de-a%C3%A7%C3%B5es-com-programa%C3%A7%C3%A3o-be6638e1d9cf?source=rss------data_science-5)
-- [The Most Underrated Volatility Indices](https://quant-galore.medium.com/the-most-underrated-volatility-indices-51abb08b430?source=rss------data_science-5)
+- [Python: random library cheatsheet](https://aaweg-i.medium.com/python-random-library-cheatsheet-f4fc7c98e0fb?source=rss------data_science-5)
+- [Regressão Linear](https://medium.com/@lg0702/regress%C3%A3o-linear-187af602f63c?source=rss------data_science-5)
+- [I will create data science and data analyst, cybersecurity, business analyst cv](https://medium.com/@hamzaresume25/i-will-create-data-science-and-data-analyst-cybersecurity-business-analyst-cv-51dc644745de?source=rss------data_science-5)
+- [AIs are Here. How Do We Talk with Them?](https://medium.com/@operationsresearchbit/ais-are-here-how-do-we-talk-with-them-7de7cfdd4f5e?source=rss------data_science-5)
+- [14 Tips to become an efficient data analyst:](https://medium.com/@adedejidanielajayi/14-tips-to-become-an-efficient-data-analyst-d7e1bc2a2bc4?source=rss------data_science-5)
+- [A Importância do Brand Book na Análise de Dados em Marketing: Maximizando o Branding](https://medium.com/@leonardo.alves.carvalho/a-import%C3%A2ncia-do-brand-book-na-an%C3%A1lise-de-dados-em-marketing-maximizando-o-branding-9a3587d11b48?source=rss------data_science-5)
+- [Intro to Statistical Inference — Part 3: Confidence Interval for Proportion](https://medium.com/intro-to-statistical-inference/intro-to-statistical-inference-part-3-confidence-interval-for-proportion-e45d4776a7b7?source=rss------data_science-5)
+- [How to sell digital Products](https://medium.com/@haiderkhan0103/how-to-sell-digital-products-f55930a59b6d?source=rss------data_science-5)
+- [Unlocking the Power of Data: A Journey from Collection to Action](https://medium.com/@yasirbil/unlocking-the-power-of-data-a-journey-from-collection-to-action-157dac30ca2c?source=rss------data_science-5)
+- [Evolutionary computing with Spiking Neural Networks part3&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/evolutionary-computing-with-spiking-neural-networks-part3-machine-learning-b37a508796e8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
