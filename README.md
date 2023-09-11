@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Python: random library cheatsheet](https://aaweg-i.medium.com/python-random-library-cheatsheet-f4fc7c98e0fb?source=rss------data_science-5)
-- [Regressão Linear](https://medium.com/@lg0702/regress%C3%A3o-linear-187af602f63c?source=rss------data_science-5)
-- [I will create data science and data analyst, cybersecurity, business analyst cv](https://medium.com/@hamzaresume25/i-will-create-data-science-and-data-analyst-cybersecurity-business-analyst-cv-51dc644745de?source=rss------data_science-5)
-- [AIs are Here. How Do We Talk with Them?](https://medium.com/@operationsresearchbit/ais-are-here-how-do-we-talk-with-them-7de7cfdd4f5e?source=rss------data_science-5)
-- [14 Tips to become an efficient data analyst:](https://medium.com/@adedejidanielajayi/14-tips-to-become-an-efficient-data-analyst-d7e1bc2a2bc4?source=rss------data_science-5)
-- [A Importância do Brand Book na Análise de Dados em Marketing: Maximizando o Branding](https://medium.com/@leonardo.alves.carvalho/a-import%C3%A2ncia-do-brand-book-na-an%C3%A1lise-de-dados-em-marketing-maximizando-o-branding-9a3587d11b48?source=rss------data_science-5)
-- [Intro to Statistical Inference — Part 3: Confidence Interval for Proportion](https://medium.com/intro-to-statistical-inference/intro-to-statistical-inference-part-3-confidence-interval-for-proportion-e45d4776a7b7?source=rss------data_science-5)
-- [How to sell digital Products](https://medium.com/@haiderkhan0103/how-to-sell-digital-products-f55930a59b6d?source=rss------data_science-5)
-- [Unlocking the Power of Data: A Journey from Collection to Action](https://medium.com/@yasirbil/unlocking-the-power-of-data-a-journey-from-collection-to-action-157dac30ca2c?source=rss------data_science-5)
-- [Evolutionary computing with Spiking Neural Networks part3&lpar;Machine Learning&rpar;](https://medium.com/@monocosmo77/evolutionary-computing-with-spiking-neural-networks-part3-machine-learning-b37a508796e8?source=rss------data_science-5)
+- [Visualizing the changing distribution of Vancouver’s coffee chains](https://medium.com/@bates.oisin/visualizing-the-changing-distribution-of-vancouvers-coffee-chains-140218a661b?source=rss------data_science-5)
+- [Diving into Experimentation: Part 1 of 4 — A/B Testing](https://medium.com/@jrkagumba/diving-into-experimentation-part-1-of-4-a-b-testing-6c5701f3a3bf?source=rss------data_science-5)
+- [An Interesting Graphical Pattern Trading Strategy](https://kaabar-sofien.medium.com/an-interesting-graphical-pattern-trading-strategy-f99889abf1ee?source=rss------data_science-5)
+- [5 Ways to Earn Money with Python: Tried-and-Tested Ways](https://medium.com/@jambteam.edu/5-ways-to-earn-money-with-python-tried-and-tested-ways-1c6000b294de?source=rss------data_science-5)
+- [How to win Monopoly every single time](https://medium.com/@neelthakurdas8114/how-to-win-monopoly-157db0f85fb5?source=rss------data_science-5)
+- [From Recipe Recommendations to Your Kitchen: A Data Science Journey  &lpar;pt. 2&rpar;](https://medium.com/@kelly-li/from-recipe-recommendations-to-your-kitchen-a-data-science-journey-pt-2-d5441ef3b74d?source=rss------data_science-5)
+- [Second Step: Statistical Modelling](https://medium.com/@jacobserfaty/second-step-statistical-modelling-c69c769c5ed1?source=rss------data_science-5)
+- [Unlocking Success: The Transformative Role of Big Data in Business Analytics](https://medium.com/illumination/unlocking-success-the-transformative-role-of-big-data-in-business-analytics-161d4af58761?source=rss------data_science-5)
+- [Million pieces of glistening hope](https://medium.com/@aakankshya002/million-pieces-of-glistening-hope-6a8ab8f188ef?source=rss------data_science-5)
+- [Bridging the Gap: Constructing SQL-Based Models in MLflow for Streamlined ML Lifecycle Management](https://levelup.gitconnected.com/bridging-the-gap-constructing-sql-based-models-in-mlflow-for-streamlined-ml-lifecycle-management-f7c4b9e4e667?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
