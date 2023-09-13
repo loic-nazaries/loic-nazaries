@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Visualizing the changing distribution of Vancouver’s coffee chains](https://medium.com/@bates.oisin/visualizing-the-changing-distribution-of-vancouvers-coffee-chains-140218a661b?source=rss------data_science-5)
-- [Diving into Experimentation: Part 1 of 4 — A/B Testing](https://medium.com/@jrkagumba/diving-into-experimentation-part-1-of-4-a-b-testing-6c5701f3a3bf?source=rss------data_science-5)
-- [An Interesting Graphical Pattern Trading Strategy](https://kaabar-sofien.medium.com/an-interesting-graphical-pattern-trading-strategy-f99889abf1ee?source=rss------data_science-5)
-- [5 Ways to Earn Money with Python: Tried-and-Tested Ways](https://medium.com/@jambteam.edu/5-ways-to-earn-money-with-python-tried-and-tested-ways-1c6000b294de?source=rss------data_science-5)
-- [How to win Monopoly every single time](https://medium.com/@neelthakurdas8114/how-to-win-monopoly-157db0f85fb5?source=rss------data_science-5)
-- [From Recipe Recommendations to Your Kitchen: A Data Science Journey  &lpar;pt. 2&rpar;](https://medium.com/@kelly-li/from-recipe-recommendations-to-your-kitchen-a-data-science-journey-pt-2-d5441ef3b74d?source=rss------data_science-5)
-- [Second Step: Statistical Modelling](https://medium.com/@jacobserfaty/second-step-statistical-modelling-c69c769c5ed1?source=rss------data_science-5)
-- [Unlocking Success: The Transformative Role of Big Data in Business Analytics](https://medium.com/illumination/unlocking-success-the-transformative-role-of-big-data-in-business-analytics-161d4af58761?source=rss------data_science-5)
-- [Million pieces of glistening hope](https://medium.com/@aakankshya002/million-pieces-of-glistening-hope-6a8ab8f188ef?source=rss------data_science-5)
-- [Bridging the Gap: Constructing SQL-Based Models in MLflow for Streamlined ML Lifecycle Management](https://levelup.gitconnected.com/bridging-the-gap-constructing-sql-based-models-in-mlflow-for-streamlined-ml-lifecycle-management-f7c4b9e4e667?source=rss------data_science-5)
+- [Machine Learning &amp; Artificial Intelligence eBook Bundle](https://medium.com/@Humble_Bundle_Partner_Blog/machine-learning-artificial-intelligence-ebook-bundle-b2f3ca0a0d38?source=rss------data_science-5)
+- [Navigating the Maze of Missing Data](https://samuel-wekesa.medium.com/navigating-the-maze-of-missing-data-3babc3310de9?source=rss------data_science-5)
+- [ডাটা সাইন্সে ডাটার প্রকারভেদ](https://medium.com/devsorigin/%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE-%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A7%87-%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AD%E0%A7%87%E0%A6%A6-906dada39e7c?source=rss------data_science-5)
+- [ROAD ACCIDENT DASHBOARD](https://boluwatifeamondi.medium.com/road-accident-dashboard-1c750291dad4?source=rss------data_science-5)
+- [I will write data science, data analysis, data analytics, and cyber security resume writing](https://medium.com/@ganiyucynthia/i-will-write-data-science-data-analysis-data-analytics-and-cyber-security-resume-writing-f82d7adaa4c5?source=rss------data_science-5)
+- [The TD Moving Average II in Python](https://kaabar-sofien.medium.com/the-td-moving-average-ii-in-python-d819913a9120?source=rss------data_science-5)
+- [Stock Analysis with a Breakout Strategy](https://wire.insiderfinance.io/stock-analysis-with-a-breakout-strategy-80504131897e?source=rss------data_science-5)
+- [Command Line Input &lpar;CLI&rpar; and Its Use in Data Science](https://python.plainenglish.io/command-line-input-cli-and-its-use-in-data-science-1efc8cae8fd?source=rss------data_science-5)
+- [The synergy of Creativity and Technology: How AI is transforming Content creation.](https://medium.com/@qsdyfnzwd/the-synergy-of-creativity-and-technology-how-ai-is-transforming-content-creation-4f69e95e5feb?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
