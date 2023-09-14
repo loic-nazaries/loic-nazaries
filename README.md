@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Machine Learning &amp; Artificial Intelligence eBook Bundle](https://medium.com/@Humble_Bundle_Partner_Blog/machine-learning-artificial-intelligence-ebook-bundle-b2f3ca0a0d38?source=rss------data_science-5)
-- [Navigating the Maze of Missing Data](https://samuel-wekesa.medium.com/navigating-the-maze-of-missing-data-3babc3310de9?source=rss------data_science-5)
-- [ডাটা সাইন্সে ডাটার প্রকারভেদ](https://medium.com/devsorigin/%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE-%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A7%87-%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AD%E0%A7%87%E0%A6%A6-906dada39e7c?source=rss------data_science-5)
-- [ROAD ACCIDENT DASHBOARD](https://boluwatifeamondi.medium.com/road-accident-dashboard-1c750291dad4?source=rss------data_science-5)
-- [I will write data science, data analysis, data analytics, and cyber security resume writing](https://medium.com/@ganiyucynthia/i-will-write-data-science-data-analysis-data-analytics-and-cyber-security-resume-writing-f82d7adaa4c5?source=rss------data_science-5)
-- [The TD Moving Average II in Python](https://kaabar-sofien.medium.com/the-td-moving-average-ii-in-python-d819913a9120?source=rss------data_science-5)
-- [Stock Analysis with a Breakout Strategy](https://wire.insiderfinance.io/stock-analysis-with-a-breakout-strategy-80504131897e?source=rss------data_science-5)
-- [Command Line Input &lpar;CLI&rpar; and Its Use in Data Science](https://python.plainenglish.io/command-line-input-cli-and-its-use-in-data-science-1efc8cae8fd?source=rss------data_science-5)
-- [The synergy of Creativity and Technology: How AI is transforming Content creation.](https://medium.com/@qsdyfnzwd/the-synergy-of-creativity-and-technology-how-ai-is-transforming-content-creation-4f69e95e5feb?source=rss------data_science-5)
+- [The Beginner’s Guide to SQL](https://medium.com/@rachelhgoldstein1/the-beginners-guide-to-sql-ffd0196cc262?source=rss------data_science-5)
+- [The Pros and Cons of AI in Healthcare: Evidence-Based Insights](https://medium.com/@daniel.lundy.analyst/the-pros-and-cons-of-ai-in-healthcare-evidence-based-insights-b50ce1f3d699?source=rss------data_science-5)
+- [Top 5 skills to learn in 2023](https://medium.com/@studioalhaqq/top-5-skills-to-learn-in-2023-dfc99ab071cf?source=rss------data_science-5)
+- [MassaLabs is launching a series of quests with HUGE airdrop potential.](https://medium.com/@maxwellwillifred/massalabs-is-launching-a-series-of-quests-with-huge-airdrop-potential-d2fd3a553fd6?source=rss------data_science-5)
+- [The Future of Data Science: How DataCentric is Pioneering the Next Wave of Innovation](https://medium.com/@vince.85six/the-future-of-data-science-how-datacentric-is-pioneering-the-next-wave-of-innovation-b87a659972b8?source=rss------data_science-5)
+- [The W-M Pattern Trading Strategy](https://kaabar-sofien.medium.com/the-w-m-pattern-trading-strategy-12a4a9f57852?source=rss------data_science-5)
+- [Meu primeiro bootcamp de dados — E o que aprendi nele](https://medium.com/@Uaris.py/meu-primeiro-bootcamp-de-dados-e-o-que-aprendi-nele-db6e2c907d9c?source=rss------data_science-5)
+- [Pengenalan Data Processing](https://medium.com/amcc-amikom/pengenalan-data-processing-1b45ca2b6474?source=rss------data_science-5)
+- [Getting Polyglot working on Windows](https://medium.com/@kevanwhite_8823/getting-polyglot-working-on-windows-2b65e10ba41d?source=rss------data_science-5)
+- [Mundo](https://medium.com/@contactocancun/mundo-333784076ff2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
