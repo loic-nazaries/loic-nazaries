@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Beginner’s Guide to SQL](https://medium.com/@rachelhgoldstein1/the-beginners-guide-to-sql-ffd0196cc262?source=rss------data_science-5)
-- [The Pros and Cons of AI in Healthcare: Evidence-Based Insights](https://medium.com/@daniel.lundy.analyst/the-pros-and-cons-of-ai-in-healthcare-evidence-based-insights-b50ce1f3d699?source=rss------data_science-5)
-- [Top 5 skills to learn in 2023](https://medium.com/@studioalhaqq/top-5-skills-to-learn-in-2023-dfc99ab071cf?source=rss------data_science-5)
-- [MassaLabs is launching a series of quests with HUGE airdrop potential.](https://medium.com/@maxwellwillifred/massalabs-is-launching-a-series-of-quests-with-huge-airdrop-potential-d2fd3a553fd6?source=rss------data_science-5)
-- [The Future of Data Science: How DataCentric is Pioneering the Next Wave of Innovation](https://medium.com/@vince.85six/the-future-of-data-science-how-datacentric-is-pioneering-the-next-wave-of-innovation-b87a659972b8?source=rss------data_science-5)
-- [The W-M Pattern Trading Strategy](https://kaabar-sofien.medium.com/the-w-m-pattern-trading-strategy-12a4a9f57852?source=rss------data_science-5)
-- [Meu primeiro bootcamp de dados — E o que aprendi nele](https://medium.com/@Uaris.py/meu-primeiro-bootcamp-de-dados-e-o-que-aprendi-nele-db6e2c907d9c?source=rss------data_science-5)
-- [Pengenalan Data Processing](https://medium.com/amcc-amikom/pengenalan-data-processing-1b45ca2b6474?source=rss------data_science-5)
-- [Getting Polyglot working on Windows](https://medium.com/@kevanwhite_8823/getting-polyglot-working-on-windows-2b65e10ba41d?source=rss------data_science-5)
-- [Mundo](https://medium.com/@contactocancun/mundo-333784076ff2?source=rss------data_science-5)
+- [The Art of Generational Marketing: Tailoring Strategies for Every Age Group](https://medium.com/@nasrsaleh/the-art-of-generational-marketing-tailoring-strategies-for-every-age-group-d2c471412fc7?source=rss------data_science-5)
+- [https://shrinke.me/How_to_live_fun](https://medium.com/@praiseakwue/https-shrinke-me-how-to-live-fun-40b52bbb26f2?source=rss------data_science-5)
+- [Pyspark Challenge](https://medium.com/@suthramesandeep3/pyspark-challenge-df2641ea8e30?source=rss------data_science-5)
+- [Synthetic Data — Generating Customer Journeys for Mortgage Lifecycle](https://medium.com/@abhijeetstalaulikar/synthetic-data-generating-customer-journeys-for-mortgage-lifecycle-f1128640dedc?source=rss------data_science-5)
+- [The Rapid Trend Trading Strategy](https://kaabar-sofien.medium.com/the-rapid-trend-trading-strategy-95de7bb7a08c?source=rss------data_science-5)
+- [&quot;Unlocking Your Financial Potential: 10 Creative Ways to Earn $10,000 in Just One Week&quot;](https://medium.com/@victordayoademide1/unlocking-your-financial-potential-10-creative-ways-to-earn-10-000-in-just-one-week-a291f0f06432?source=rss------data_science-5)
+- [WEEK 5: Seeing the Unseen Within Our Data](https://medium.com/@AI6Lagos/week-5-seeing-the-unseen-within-our-data-e9d946030fc?source=rss------data_science-5)
+- [The Power of SQL in Data Science: Unleash the Potential](https://medium.com/@cyberopsanderson/the-power-of-sql-in-data-science-unleash-the-potential-7ccc7fd4bf39?source=rss------data_science-5)
+- [Lottery Defeater Software](https://medium.com/@akhyari2020/lottery-defeater-software-79d96e6d42d6?source=rss------data_science-5)
+- [Start Your Day With Math](https://keith-mcnulty.medium.com/start-your-day-with-math-268f75bd9289?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
