@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Art of Generational Marketing: Tailoring Strategies for Every Age Group](https://medium.com/@nasrsaleh/the-art-of-generational-marketing-tailoring-strategies-for-every-age-group-d2c471412fc7?source=rss------data_science-5)
-- [https://shrinke.me/How_to_live_fun](https://medium.com/@praiseakwue/https-shrinke-me-how-to-live-fun-40b52bbb26f2?source=rss------data_science-5)
-- [Pyspark Challenge](https://medium.com/@suthramesandeep3/pyspark-challenge-df2641ea8e30?source=rss------data_science-5)
-- [Synthetic Data — Generating Customer Journeys for Mortgage Lifecycle](https://medium.com/@abhijeetstalaulikar/synthetic-data-generating-customer-journeys-for-mortgage-lifecycle-f1128640dedc?source=rss------data_science-5)
-- [The Rapid Trend Trading Strategy](https://kaabar-sofien.medium.com/the-rapid-trend-trading-strategy-95de7bb7a08c?source=rss------data_science-5)
-- [&quot;Unlocking Your Financial Potential: 10 Creative Ways to Earn $10,000 in Just One Week&quot;](https://medium.com/@victordayoademide1/unlocking-your-financial-potential-10-creative-ways-to-earn-10-000-in-just-one-week-a291f0f06432?source=rss------data_science-5)
-- [WEEK 5: Seeing the Unseen Within Our Data](https://medium.com/@AI6Lagos/week-5-seeing-the-unseen-within-our-data-e9d946030fc?source=rss------data_science-5)
-- [The Power of SQL in Data Science: Unleash the Potential](https://medium.com/@cyberopsanderson/the-power-of-sql-in-data-science-unleash-the-potential-7ccc7fd4bf39?source=rss------data_science-5)
-- [Lottery Defeater Software](https://medium.com/@akhyari2020/lottery-defeater-software-79d96e6d42d6?source=rss------data_science-5)
-- [Start Your Day With Math](https://keith-mcnulty.medium.com/start-your-day-with-math-268f75bd9289?source=rss------data_science-5)
+- [Harnessing the Power of AutoML: Creating an Image Classification Model on Google Cloud](https://medium.com/@dislevekanku7/harnessing-the-power-of-automl-creating-an-image-classification-model-on-google-cloud-138334323380?source=rss------data_science-5)
+- [¶➒➑➑➌➒➒➒➊➎⓿¶ go loan customer Care number =9883999150!!!7908022736✔call⛰](https://medium.com/@lkjkkouyrycc/%E2%9E%92%E2%9E%91%E2%9E%91%E2%9E%8C%E2%9E%92%E2%9E%92%E2%9E%92%E2%9E%8A%E2%9E%8E%E2%93%BF-go-loan-customer-care-number-9883999150-7908022736-call-3d1a2a34f7c2?source=rss------data_science-5)
+- [¶➒➑➑➌➒➒➒➊➎⓿¶ go loan customer Care number =9883999150!!!7908022736✔call⛰](https://medium.com/@lkjkkouyrycc/%E2%9E%92%E2%9E%91%E2%9E%91%E2%9E%8C%E2%9E%92%E2%9E%92%E2%9E%92%E2%9E%8A%E2%9E%8E%E2%93%BF-go-loan-customer-care-number-9883999150-7908022736-call-ea7eed2251be?source=rss------data_science-5)
+- [Making Car Repairs Smarter: How Normal Distribution Helps](https://medium.com/@basitarif235/making-car-repairs-smarter-how-normal-distribution-helps-e8c716ea2b6?source=rss------data_science-5)
+- [Dice game simulation in python](https://medium.com/@ivanandrestrujillo/dice-game-simulation-in-python-3222b80d2878?source=rss------data_science-5)
+- [&quot;The Next Money Model - Cryptocurrency VSL&quot;](https://medium.com/@ismailabdulloh99/the-next-money-model-cryptocurrency-vsl-4a3416c8257c?source=rss------data_science-5)
+- [Crypto Quantum Leap - 50% Commissions](https://medium.com/@ismailabdulloh99/crypto-quantum-leap-50-commissions-234b78c13478?source=rss------data_science-5)
+- [The AI Gold Rush: A $200 Billion Dance of Tech Titans and Upstarts](https://medium.com/@datacubai/the-ai-gold-rush-a-200-billion-dance-of-tech-titans-and-upstarts-ac0c932d9752?source=rss------data_science-5)
+- [AI’s Evolution: A Technological Odyssey from Foundations to Frontiers](https://medium.com/@datacubai/ais-evolution-a-technological-odyssey-from-foundations-to-frontiers-9eb4060e6b4d?source=rss------data_science-5)
+- [The Role of Data Science in Game Development Processes](https://maliakkin.medium.com/the-role-of-data-science-in-game-development-processes-921f2e5a9c4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
