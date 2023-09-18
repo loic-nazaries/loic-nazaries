@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Deep Dive into Machine Learning Algorithms for Data Analysts](https://medium.com/@abdulbukar7/a-deep-dive-into-machine-learning-algorithms-for-data-analysts-a891ac4865f8?source=rss------data_science-5)
-- [Mastering Data Visualization: Creating Compelling Dashboards with Python](https://medium.com/@abdulbukar7/mastering-data-visualization-creating-compelling-dashboards-with-python-9882eb676b76?source=rss------data_science-5)
-- [INTEL CORE I9](https://medium.com/@harrosyabrewy/this-processor-features-a-hybrid-architecture-designed-for-intelligent-performance-optimal-content-e50dd2e8f934?source=rss------data_science-5)
-- [Social Media &amp; AI Data Analysis: data-analyst level insights in ANY niche on ANY platform](https://medium.com/@DaniDirect/social-media-ai-data-analysis-data-analyst-level-insights-in-any-niche-on-any-platform-b53d4673684c?source=rss------data_science-5)
-- [Exploring the Ethics of Data Science: Navigating the Moral Dilemmas](https://medium.com/@abdulbukar7/exploring-the-ethics-of-data-science-navigating-the-moral-dilemmas-b770792d9908?source=rss------data_science-5)
-- [Data Analytics: Pengertian, Fungsi, Tipe, Proses, dan Skill yang Dibutuhkan](https://medium.com/@elitarizkiani40/data-analytics-pengertian-fungsi-tipe-proses-dan-skill-yang-dibutuhkan-dbf912b71955?source=rss------data_science-5)
-- [The Power of Predictive Analytics: Unveiling Future Trends in Data Science](https://medium.com/@abdulbukar7/the-power-of-predictive-analytics-unveiling-future-trends-in-data-science-73e78569fde1?source=rss------data_science-5)
-- [Decoding Decision Support Systems: Empowering Malls with Customer Segmentation through K-Means…](https://medium.com/@nithyashree27rs/decoding-decision-support-systems-empowering-malls-with-customer-segmentation-through-k-means-299c4360ff55?source=rss------data_science-5)
-- [The Chicago Marathon: Are the Fastest Runners Getting Faster?](https://medium.com/runners-life/the-chicago-marathon-are-the-fastest-runners-getting-faster-581fe8c8c2b3?source=rss------data_science-5)
-- [From Data to Insights: Why Data Visualization Matters](https://medium.com/@nithyashree27rs/from-data-to-insights-why-data-visualization-matters-2e4cf3334303?source=rss------data_science-5)
+- [Data Visualization Matplotlib](https://medium.com/@myskill.id/data-visualization-matplotlib-6c7e841cec10?source=rss------data_science-5)
+- [Violações de direitos humanos na primeira infância: uma análise com base nos dados do Disque 100](https://medium.com/@valmerson.sistema/viola%C3%A7%C3%B5es-de-direitos-humanos-na-primeira-inf%C3%A2ncia-uma-an%C3%A1lise-com-base-nos-dados-do-disque-100-8b337e9c7ae6?source=rss------data_science-5)
+- [Intro to Pandas](https://medium.com/@myskill.id/intro-to-pandas-45536013a6?source=rss------data_science-5)
+- [Object Oriented Programming](https://medium.com/@myskill.id/object-oriented-programming-ec38f559e931?source=rss------data_science-5)
+- [Over 50 Listen To Your Gut Embrace AI. Safely](https://medium.com/@magda41960/over-50-listen-to-your-gut-embrace-ai-safely-4df82d505689?source=rss------data_science-5)
+- [Data Duel: Tableau vs. Power BI — Which One Wins for Analysts?](https://medium.com/@tentsun0/data-duel-tableau-vs-power-bi-which-one-wins-for-analysts-62bb655948a4?source=rss------data_science-5)
+- [Here’s A Simple Way To Make Your First $1000 With The Use Of AI.](https://medium.com/illumination/heres-a-simple-way-to-make-your-first-1000-with-the-use-of-ai-6ca44e37f1c6?source=rss------data_science-5)
+- [Master Charts: A Guide for Heat Map, Highlight Table, Treemap, Bullet Chart, and Box &amp; Whisker Plot](https://medium.com/@amitkr209/mastering-chart-3-feef6b6b0f11?source=rss------data_science-5)
+- [Normalizing, Scaling, and Standardizing Data: A Crucial Prelude to Machine Learning Success](https://medium.com/@evertongomede/normalizing-scaling-and-standardizing-data-a-crucial-prelude-to-machine-learning-success-a71307f7c1f0?source=rss------data_science-5)
+- [Sentiment Analysis: Fine-tuning a Huggingface text classification model and app deployment](https://calistussaratuki.medium.com/sentiment-analysis-fine-tuning-a-huggingface-text-classification-model-and-app-deployment-9e81a47aa354?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
