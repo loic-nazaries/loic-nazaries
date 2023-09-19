@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Visualization Matplotlib](https://medium.com/@myskill.id/data-visualization-matplotlib-6c7e841cec10?source=rss------data_science-5)
-- [Violações de direitos humanos na primeira infância: uma análise com base nos dados do Disque 100](https://medium.com/@valmerson.sistema/viola%C3%A7%C3%B5es-de-direitos-humanos-na-primeira-inf%C3%A2ncia-uma-an%C3%A1lise-com-base-nos-dados-do-disque-100-8b337e9c7ae6?source=rss------data_science-5)
-- [Intro to Pandas](https://medium.com/@myskill.id/intro-to-pandas-45536013a6?source=rss------data_science-5)
-- [Object Oriented Programming](https://medium.com/@myskill.id/object-oriented-programming-ec38f559e931?source=rss------data_science-5)
-- [Over 50 Listen To Your Gut Embrace AI. Safely](https://medium.com/@magda41960/over-50-listen-to-your-gut-embrace-ai-safely-4df82d505689?source=rss------data_science-5)
-- [Data Duel: Tableau vs. Power BI — Which One Wins for Analysts?](https://medium.com/@tentsun0/data-duel-tableau-vs-power-bi-which-one-wins-for-analysts-62bb655948a4?source=rss------data_science-5)
-- [Here’s A Simple Way To Make Your First $1000 With The Use Of AI.](https://medium.com/illumination/heres-a-simple-way-to-make-your-first-1000-with-the-use-of-ai-6ca44e37f1c6?source=rss------data_science-5)
-- [Master Charts: A Guide for Heat Map, Highlight Table, Treemap, Bullet Chart, and Box &amp; Whisker Plot](https://medium.com/@amitkr209/mastering-chart-3-feef6b6b0f11?source=rss------data_science-5)
-- [Normalizing, Scaling, and Standardizing Data: A Crucial Prelude to Machine Learning Success](https://medium.com/@evertongomede/normalizing-scaling-and-standardizing-data-a-crucial-prelude-to-machine-learning-success-a71307f7c1f0?source=rss------data_science-5)
-- [Sentiment Analysis: Fine-tuning a Huggingface text classification model and app deployment](https://calistussaratuki.medium.com/sentiment-analysis-fine-tuning-a-huggingface-text-classification-model-and-app-deployment-9e81a47aa354?source=rss------data_science-5)
+- [My proposed journey as a data analyst and possible roadblocks coming up.](https://medium.com/@ogheneteganiameh/my-proposed-journey-as-a-data-analyst-and-possible-roadblocks-coming-up-eea4c02a9591?source=rss------data_science-5)
+- [Elevate Your Power BI Bar Charts with 6 Simple Improvements](https://isabittar.medium.com/elevate-your-power-bi-bar-charts-with-6-simple-improvements-70f88be53d10?source=rss------data_science-5)
+- [5 important things to know about ui/ux](https://bootcamp.uxdesign.cc/5-important-things-to-know-about-ui-ux-f4453930c721?source=rss------data_science-5)
+- [Unmasking San Francisco’s Underworld: Solving Crimes with HistGradient Classifier](https://medium.com/@madhul413/unmasking-san-franciscos-underworld-solving-crimes-with-histgradient-classifier-d4ff1f0692e9?source=rss------data_science-5)
+- [Linear modeling](https://significantstatistics.medium.com/linear-modeling-dddc4601e26d?source=rss------data_science-5)
+- [Pandas Dataframe describe function-Difference between how it behaves for Categorical vs Numerical…](https://medium.com/@sifayathf/pandas-dataframe-describe-function-difference-between-how-it-behaves-for-categorical-vs-numerical-e72a7cfa074c?source=rss------data_science-5)
+- [Let’s talk to data. Quite literally!!!](https://medium.com/@sameerhussain_2462/lets-talk-to-data-quite-literally-1bc5d1df4e1c?source=rss------data_science-5)
+- [Data Science E-Book Finally Finished](https://medium.com/@cheryllightning_91846/data-science-e-book-finally-finished-11ff79646ab0?source=rss------data_science-5)
+- [A Comprehensive Guide to Docker](https://medium.com/@rebeccajoann7/demystifying-docker-a-comprehensive-guide-to-containerization-b9b993b08d41?source=rss------data_science-5)
+- [Proyecto de Linux Fundamentals](https://medium.com/@Reocs10/proyecto-linux-fundamentals-83aa01cdce3a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
