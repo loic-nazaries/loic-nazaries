@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [My proposed journey as a data analyst and possible roadblocks coming up.](https://medium.com/@ogheneteganiameh/my-proposed-journey-as-a-data-analyst-and-possible-roadblocks-coming-up-eea4c02a9591?source=rss------data_science-5)
-- [Elevate Your Power BI Bar Charts with 6 Simple Improvements](https://isabittar.medium.com/elevate-your-power-bi-bar-charts-with-6-simple-improvements-70f88be53d10?source=rss------data_science-5)
-- [5 important things to know about ui/ux](https://bootcamp.uxdesign.cc/5-important-things-to-know-about-ui-ux-f4453930c721?source=rss------data_science-5)
-- [Unmasking San Francisco’s Underworld: Solving Crimes with HistGradient Classifier](https://medium.com/@madhul413/unmasking-san-franciscos-underworld-solving-crimes-with-histgradient-classifier-d4ff1f0692e9?source=rss------data_science-5)
-- [Linear modeling](https://significantstatistics.medium.com/linear-modeling-dddc4601e26d?source=rss------data_science-5)
-- [Pandas Dataframe describe function-Difference between how it behaves for Categorical vs Numerical…](https://medium.com/@sifayathf/pandas-dataframe-describe-function-difference-between-how-it-behaves-for-categorical-vs-numerical-e72a7cfa074c?source=rss------data_science-5)
-- [Let’s talk to data. Quite literally!!!](https://medium.com/@sameerhussain_2462/lets-talk-to-data-quite-literally-1bc5d1df4e1c?source=rss------data_science-5)
-- [Data Science E-Book Finally Finished](https://medium.com/@cheryllightning_91846/data-science-e-book-finally-finished-11ff79646ab0?source=rss------data_science-5)
-- [A Comprehensive Guide to Docker](https://medium.com/@rebeccajoann7/demystifying-docker-a-comprehensive-guide-to-containerization-b9b993b08d41?source=rss------data_science-5)
-- [Proyecto de Linux Fundamentals](https://medium.com/@Reocs10/proyecto-linux-fundamentals-83aa01cdce3a?source=rss------data_science-5)
+- [A 33% lifetime commission in the context of &quot;Project Serenity&quot; would typically mean that…](https://medium.com/@setiawandwiputra21/a-33-lifetime-commission-in-the-context-of-project-serenity-would-typically-mean-that-9acd4af46777?source=rss------data_science-5)
+- [Web Scraping — Youtube Charts Brasil — ETL &lpar;1/3&rpar;](https://medium.com/@m.vinicius182/web-scraping-youtube-charts-brasil-etl-1-3-2acd1fcae316?source=rss------data_science-5)
+- [Using React to Build Interactive Interfaces to Exciting Dataset](https://towardsdatascience.com/using-react-to-build-interactive-interfaces-to-exciting-dataset-c01691a5fc38?source=rss------data_science-5)
+- [Building a Data Science Dream Team for New Businesses: A Step-by-Step Approach](https://medium.com/@ashiqamin/building-a-data-science-dream-team-for-new-businesses-a-step-by-step-approach-dbdc687d427?source=rss------data_science-5)
+- [Probability and Profitability in the Movie Industry](https://medium.com/@andrewhhendricks/probability-and-profitability-in-the-movie-industry-ee807f642c7a?source=rss------data_science-5)
+- [Cracking the Code: Learning from Imbalanced Data](https://kameshdubey.medium.com/cracking-the-code-learning-from-imbalanced-data-e008f8b4d09e?source=rss------data_science-5)
+- [Free MIT Course on Computational Thinking for Modeling and Simulation](https://karan220595.medium.com/free-mit-course-on-computational-thinking-for-modeling-and-simulation-6bb5f54ce57d?source=rss------data_science-5)
+- [3 Tips to Audit your Data with Pandas](https://igorcomune.medium.com/3-tips-to-audit-your-data-with-pandas-2b9028f6e3a7?source=rss------data_science-5)
+- [Getting Started as a Web Developer: A Step-by-Step Guide](https://bootcamp.uxdesign.cc/getting-started-as-a-web-developer-a-step-by-step-guide-bc24a6893a90?source=rss------data_science-5)
+- [Your Engine Light Is On, and You Don’t Even Know It — Introduction to Data Management for Beginners](https://harleyscott.medium.com/your-engine-light-is-on-and-you-dont-even-know-it-introduction-to-data-management-for-beginners-4aac39b1997c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
