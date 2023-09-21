@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A 33% lifetime commission in the context of &quot;Project Serenity&quot; would typically mean that…](https://medium.com/@setiawandwiputra21/a-33-lifetime-commission-in-the-context-of-project-serenity-would-typically-mean-that-9acd4af46777?source=rss------data_science-5)
-- [Web Scraping — Youtube Charts Brasil — ETL &lpar;1/3&rpar;](https://medium.com/@m.vinicius182/web-scraping-youtube-charts-brasil-etl-1-3-2acd1fcae316?source=rss------data_science-5)
-- [Using React to Build Interactive Interfaces to Exciting Dataset](https://towardsdatascience.com/using-react-to-build-interactive-interfaces-to-exciting-dataset-c01691a5fc38?source=rss------data_science-5)
-- [Building a Data Science Dream Team for New Businesses: A Step-by-Step Approach](https://medium.com/@ashiqamin/building-a-data-science-dream-team-for-new-businesses-a-step-by-step-approach-dbdc687d427?source=rss------data_science-5)
-- [Probability and Profitability in the Movie Industry](https://medium.com/@andrewhhendricks/probability-and-profitability-in-the-movie-industry-ee807f642c7a?source=rss------data_science-5)
-- [Cracking the Code: Learning from Imbalanced Data](https://kameshdubey.medium.com/cracking-the-code-learning-from-imbalanced-data-e008f8b4d09e?source=rss------data_science-5)
-- [Free MIT Course on Computational Thinking for Modeling and Simulation](https://karan220595.medium.com/free-mit-course-on-computational-thinking-for-modeling-and-simulation-6bb5f54ce57d?source=rss------data_science-5)
-- [3 Tips to Audit your Data with Pandas](https://igorcomune.medium.com/3-tips-to-audit-your-data-with-pandas-2b9028f6e3a7?source=rss------data_science-5)
-- [Getting Started as a Web Developer: A Step-by-Step Guide](https://bootcamp.uxdesign.cc/getting-started-as-a-web-developer-a-step-by-step-guide-bc24a6893a90?source=rss------data_science-5)
-- [Your Engine Light Is On, and You Don’t Even Know It — Introduction to Data Management for Beginners](https://harleyscott.medium.com/your-engine-light-is-on-and-you-dont-even-know-it-introduction-to-data-management-for-beginners-4aac39b1997c?source=rss------data_science-5)
+- [Now And Back To That Early Monging hours In Moscow](https://medium.com/@krystenmtshudy/now-and-back-to-that-early-monging-hours-in-moscow-8ed2926bc344?source=rss------data_science-5)
+- [Google Sheets Tutorial for Data Scientists: A Comprehensive Guide.](https://medium.com/@whitongreg684/google-sheets-tutorial-for-data-scientists-a-comprehensive-guide-48717e1c41ee?source=rss------data_science-5)
+- [Mastering Real-time Data Analysis with Python and Kafka: A Step-by-step Guide](https://levelup.gitconnected.com/mastering-real-time-data-analysis-with-python-and-kafka-a-step-by-step-guide-e912ba81f792?source=rss------data_science-5)
+- [How to Parse Any Spreadsheet into Python](https://levelup.gitconnected.com/how-to-parse-any-spreadsheet-into-python-f1bcffae755?source=rss------data_science-5)
+- [Financial &amp; Crypto Index for Beginners &lpar;Part 1&rpar;](https://levelup.gitconnected.com/financial-crypto-index-for-beginners-part-1-58d626a1d0af?source=rss------data_science-5)
+- [Transformers — Intuitively and Exhaustively Explained](https://medium.com/@danielwarfield1/transformers-intuitively-and-exhaustively-explained-58a5c5df8dbb?source=rss------data_science-5)
+- [Estimating Total Experimentation Impact](https://towardsdatascience.com/estimating-total-experimentation-impact-ab6cd56bffb?source=rss------data_science-5)
+- [Crafting a Database in Google Colab: A Beginner’s Guide](https://ernestodotnet.medium.com/crafting-a-database-in-google-colab-a-beginners-guide-ccfb5e3ba22d?source=rss------data_science-5)
+- [Streamlit ile Data Science alanında Deployment İşlemleri](https://medium.com/academy-team/streamlit-ile-data-science-alan%C4%B1nda-deployment-i%CC%87%C5%9Flemleri-72821726167a?source=rss------data_science-5)
+- [Title: Unraveling the Power of Data Analysis: Transforming Information into Insights](https://medium.com/@liaqatfaisal28/title-unraveling-the-power-of-data-analysis-transforming-information-into-insights-fe0b1e21a7a6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
