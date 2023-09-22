@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Now And Back To That Early Monging hours In Moscow](https://medium.com/@krystenmtshudy/now-and-back-to-that-early-monging-hours-in-moscow-8ed2926bc344?source=rss------data_science-5)
-- [Google Sheets Tutorial for Data Scientists: A Comprehensive Guide.](https://medium.com/@whitongreg684/google-sheets-tutorial-for-data-scientists-a-comprehensive-guide-48717e1c41ee?source=rss------data_science-5)
-- [Mastering Real-time Data Analysis with Python and Kafka: A Step-by-step Guide](https://levelup.gitconnected.com/mastering-real-time-data-analysis-with-python-and-kafka-a-step-by-step-guide-e912ba81f792?source=rss------data_science-5)
-- [How to Parse Any Spreadsheet into Python](https://levelup.gitconnected.com/how-to-parse-any-spreadsheet-into-python-f1bcffae755?source=rss------data_science-5)
-- [Financial &amp; Crypto Index for Beginners &lpar;Part 1&rpar;](https://levelup.gitconnected.com/financial-crypto-index-for-beginners-part-1-58d626a1d0af?source=rss------data_science-5)
-- [Transformers — Intuitively and Exhaustively Explained](https://medium.com/@danielwarfield1/transformers-intuitively-and-exhaustively-explained-58a5c5df8dbb?source=rss------data_science-5)
-- [Estimating Total Experimentation Impact](https://towardsdatascience.com/estimating-total-experimentation-impact-ab6cd56bffb?source=rss------data_science-5)
-- [Crafting a Database in Google Colab: A Beginner’s Guide](https://ernestodotnet.medium.com/crafting-a-database-in-google-colab-a-beginners-guide-ccfb5e3ba22d?source=rss------data_science-5)
-- [Streamlit ile Data Science alanında Deployment İşlemleri](https://medium.com/academy-team/streamlit-ile-data-science-alan%C4%B1nda-deployment-i%CC%87%C5%9Flemleri-72821726167a?source=rss------data_science-5)
-- [Title: Unraveling the Power of Data Analysis: Transforming Information into Insights](https://medium.com/@liaqatfaisal28/title-unraveling-the-power-of-data-analysis-transforming-information-into-insights-fe0b1e21a7a6?source=rss------data_science-5)
+- [Bootstrap Aggregated Neural Networks &lpar;BANN&rpar;: Harnessing the Power of Ensembles for Improved Deep…](https://medium.com/@evertongomede/bootstrap-aggregated-neural-networks-bann-harnessing-the-power-of-ensembles-for-improved-deep-8b480fd9e54a?source=rss------data_science-5)
+- [CERTIPROF: Business Intelligence Foundation](https://medium.com/@juliandavidm99/certiprof-business-intelligence-foundation-7e1f418f5cf3?source=rss------data_science-5)
+- [All you need to know about correlation for machine learning](https://medium.com/@abdallahashraf90x/all-you-need-to-know-about-correlation-for-machine-learning-e249fec292e9?source=rss------data_science-5)
+- [Toxic Comment Classification](https://medium.com/@alaeddine.grine/toxic-comment-classification-317628632336?source=rss------data_science-5)
+- [UX &amp; Data Science should be Best Friends](https://medium.com/@shivangisingh094/ux-data-science-should-be-best-friends-2c5035e1a7e8?source=rss------data_science-5)
+- [A General Guide to Machine Learning &lpar;Part One&rpar;](https://medium.com/@ivanhuang807/a-general-guide-to-machine-learning-part-one-4b9067cd1d5f?source=rss------data_science-5)
+- [Teknologi Informasi](https://medium.com/@wahyudifuad0/teknologi-informasi-c669e33a0aea?source=rss------data_science-5)
+- [Python in Excel: A Powerful New Tool for Data Analysis and Visualization](https://medium.com/@amnaghafoor783/python-in-excel-a-powerful-new-tool-for-data-analysis-and-visualization-185e05297ee9?source=rss------data_science-5)
+- [Multi-Aspect Modeling with LLMs and Gaussian Mixture Model](https://medium.com/@abhijeetstalaulikar/multi-aspect-modeling-with-llms-and-gaussian-mixture-model-dfe34770fd9a?source=rss------data_science-5)
+- [Friends, greetings.](https://internetdigitalentrepreneur.medium.com/friends-greetings-dfacd4575a63?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
