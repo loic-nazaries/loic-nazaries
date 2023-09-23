@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Bootstrap Aggregated Neural Networks &lpar;BANN&rpar;: Harnessing the Power of Ensembles for Improved Deep…](https://medium.com/@evertongomede/bootstrap-aggregated-neural-networks-bann-harnessing-the-power-of-ensembles-for-improved-deep-8b480fd9e54a?source=rss------data_science-5)
-- [CERTIPROF: Business Intelligence Foundation](https://medium.com/@juliandavidm99/certiprof-business-intelligence-foundation-7e1f418f5cf3?source=rss------data_science-5)
-- [All you need to know about correlation for machine learning](https://medium.com/@abdallahashraf90x/all-you-need-to-know-about-correlation-for-machine-learning-e249fec292e9?source=rss------data_science-5)
-- [Toxic Comment Classification](https://medium.com/@alaeddine.grine/toxic-comment-classification-317628632336?source=rss------data_science-5)
-- [UX &amp; Data Science should be Best Friends](https://medium.com/@shivangisingh094/ux-data-science-should-be-best-friends-2c5035e1a7e8?source=rss------data_science-5)
-- [A General Guide to Machine Learning &lpar;Part One&rpar;](https://medium.com/@ivanhuang807/a-general-guide-to-machine-learning-part-one-4b9067cd1d5f?source=rss------data_science-5)
-- [Teknologi Informasi](https://medium.com/@wahyudifuad0/teknologi-informasi-c669e33a0aea?source=rss------data_science-5)
-- [Python in Excel: A Powerful New Tool for Data Analysis and Visualization](https://medium.com/@amnaghafoor783/python-in-excel-a-powerful-new-tool-for-data-analysis-and-visualization-185e05297ee9?source=rss------data_science-5)
-- [Multi-Aspect Modeling with LLMs and Gaussian Mixture Model](https://medium.com/@abhijeetstalaulikar/multi-aspect-modeling-with-llms-and-gaussian-mixture-model-dfe34770fd9a?source=rss------data_science-5)
-- [Friends, greetings.](https://internetdigitalentrepreneur.medium.com/friends-greetings-dfacd4575a63?source=rss------data_science-5)
+- [Top 7 Skills to Become a “Data Analyst”](https://medium.com/@ashish_saha/top-7-skills-to-become-a-data-analyst-39242e16b607?source=rss------data_science-5)
+- [Branch and Bound — Introduction Prior to Coding the Algorithm From Scratch](https://pub.towardsai.net/branch-and-bound-introduction-prior-to-coding-the-algorithm-from-scratch-cc265f2909e7?source=rss------data_science-5)
+- [Unleashing GenAI Magic: How Financial Giants are Redefining Banking](https://medium.com/@vadivelmurugesan/unleashing-genai-magic-how-financial-giants-are-redefining-banking-71873d0a484a?source=rss------data_science-5)
+- [Graph your Document: How To Use Langchain and Matplotlib To Build a Knowledge Graph](https://medium.datadriveninvestor.com/graph-your-document-how-to-use-langchain-and-matplotlib-to-build-a-knowledge-graph-57e15369d0f3?source=rss------data_science-5)
+- [How to Build an Efficient Data Team to Work with Public Web Data](https://medium.datadriveninvestor.com/how-to-build-an-efficient-data-team-to-work-with-public-web-data-6525012895cd?source=rss------data_science-5)
+- [Unlocking App Usage Patterns: An Association Rule Mining Approach Using SEMMA](https://medium.com/@neel26d/unlocking-app-usage-patterns-an-association-rule-mining-approach-using-semma-ea0b14ef4ecd?source=rss------data_science-5)
+- [The Hardest of Pandas: pivot_table, stack, and unstack Clearly Explained](https://pub.towardsai.net/the-hardest-of-pandas-pivot-table-stack-and-unstack-clearly-explained-3c37a6faac2c?source=rss------data_science-5)
+- [Exploring the Vast Distances in Our Solar System with Python](https://medium.com/@bennettmo16/exploring-the-vast-distances-in-our-solar-system-with-python-d07b5e119522?source=rss------data_science-5)
+- [Bias and Variance in machine learning, for beginners](https://medium.com/@svkc1234/bias-and-variance-for-beginners-1f635b89a55a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
