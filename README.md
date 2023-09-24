@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Top 7 Skills to Become a “Data Analyst”](https://medium.com/@ashish_saha/top-7-skills-to-become-a-data-analyst-39242e16b607?source=rss------data_science-5)
-- [Branch and Bound — Introduction Prior to Coding the Algorithm From Scratch](https://pub.towardsai.net/branch-and-bound-introduction-prior-to-coding-the-algorithm-from-scratch-cc265f2909e7?source=rss------data_science-5)
-- [Unleashing GenAI Magic: How Financial Giants are Redefining Banking](https://medium.com/@vadivelmurugesan/unleashing-genai-magic-how-financial-giants-are-redefining-banking-71873d0a484a?source=rss------data_science-5)
-- [Graph your Document: How To Use Langchain and Matplotlib To Build a Knowledge Graph](https://medium.datadriveninvestor.com/graph-your-document-how-to-use-langchain-and-matplotlib-to-build-a-knowledge-graph-57e15369d0f3?source=rss------data_science-5)
-- [How to Build an Efficient Data Team to Work with Public Web Data](https://medium.datadriveninvestor.com/how-to-build-an-efficient-data-team-to-work-with-public-web-data-6525012895cd?source=rss------data_science-5)
-- [Unlocking App Usage Patterns: An Association Rule Mining Approach Using SEMMA](https://medium.com/@neel26d/unlocking-app-usage-patterns-an-association-rule-mining-approach-using-semma-ea0b14ef4ecd?source=rss------data_science-5)
-- [The Hardest of Pandas: pivot_table, stack, and unstack Clearly Explained](https://pub.towardsai.net/the-hardest-of-pandas-pivot-table-stack-and-unstack-clearly-explained-3c37a6faac2c?source=rss------data_science-5)
-- [Exploring the Vast Distances in Our Solar System with Python](https://medium.com/@bennettmo16/exploring-the-vast-distances-in-our-solar-system-with-python-d07b5e119522?source=rss------data_science-5)
-- [Bias and Variance in machine learning, for beginners](https://medium.com/@svkc1234/bias-and-variance-for-beginners-1f635b89a55a?source=rss------data_science-5)
+- [A Very Simple Introduction to Enterprise Artificial Intelligence](https://medium.com/the-shortform/a-very-simple-introduction-to-enterprise-artificial-intelligence-b6436c468f5e?source=rss------data_science-5)
+- [Analyzing Emoji Popularity: A Data-Driven Approach Using SEMMA Methodology](https://medium.com/@kelly.nguyen01/analyzing-emoji-popularity-a-data-driven-approach-using-semma-methodology-793a6adb1097?source=rss------data_science-5)
+- [Envision an understudy&#39;s science process as they move from one unit to another, grade to grade, and…](https://medium.com/@mmazlan552/envision-an-understudys-science-process-as-they-move-from-one-unit-to-another-grade-to-grade-and-2550a0e0f6ce?source=rss------data_science-5)
+- [The Challenge of Vanishing Gradients in Deep Learning](https://medium.com/@evertongomede/the-challenge-of-vanishing-gradients-in-deep-learning-67d4463be3ab?source=rss------data_science-5)
+- [We make our students learn most of this through an A3 or DMAIC project w/ a local company…Watch…](https://medium.com/@sime.curkovic/we-make-our-students-learn-most-of-this-through-an-a3-or-dmaic-project-w-a-local-company-watch-9a6c8b14509c?source=rss------data_science-5)
+- [ASCM/APICS now has a Supply Chain Technology Certificate, $495, 20 hrs of online training &lpar;hmm&rpar;.](https://medium.com/@sime.curkovic/ascm-apics-now-has-a-supply-chain-technology-certificate-495-20-hrs-of-online-training-hmm-2b4140c6b9bd?source=rss------data_science-5)
+- [Is Python a must-have skill in the supply chain? https:/How much Python do I need?](https://medium.com/@sime.curkovic/is-python-a-must-have-skill-in-the-supply-chain-https-how-much-python-do-i-need-298d061a25b6?source=rss------data_science-5)
+- [Tableau and/or Power BI for college business majors?…](https://medium.com/@sime.curkovic/tableau-and-or-power-bi-for-college-business-majors-e6607f87bf77?source=rss------data_science-5)
+- [Boomlive chinmoy Tewary](https://medium.com/@chinmoytewary028/boomlive-chinmoy-tewary-f588bac184f2?source=rss------data_science-5)
+- [Google Capstone Project: Cyclistic bike-share analysis case study &lpar;drivvy tripdata&rpar;](https://medium.com/@sunkie007/google-capstone-project-cyclistic-bike-share-analysis-case-study-drivvy-tripdata-fda061d0d98f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
