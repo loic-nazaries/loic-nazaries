@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Very Simple Introduction to Enterprise Artificial Intelligence](https://medium.com/the-shortform/a-very-simple-introduction-to-enterprise-artificial-intelligence-b6436c468f5e?source=rss------data_science-5)
-- [Analyzing Emoji Popularity: A Data-Driven Approach Using SEMMA Methodology](https://medium.com/@kelly.nguyen01/analyzing-emoji-popularity-a-data-driven-approach-using-semma-methodology-793a6adb1097?source=rss------data_science-5)
-- [Envision an understudy&#39;s science process as they move from one unit to another, grade to grade, and…](https://medium.com/@mmazlan552/envision-an-understudys-science-process-as-they-move-from-one-unit-to-another-grade-to-grade-and-2550a0e0f6ce?source=rss------data_science-5)
-- [The Challenge of Vanishing Gradients in Deep Learning](https://medium.com/@evertongomede/the-challenge-of-vanishing-gradients-in-deep-learning-67d4463be3ab?source=rss------data_science-5)
-- [We make our students learn most of this through an A3 or DMAIC project w/ a local company…Watch…](https://medium.com/@sime.curkovic/we-make-our-students-learn-most-of-this-through-an-a3-or-dmaic-project-w-a-local-company-watch-9a6c8b14509c?source=rss------data_science-5)
-- [ASCM/APICS now has a Supply Chain Technology Certificate, $495, 20 hrs of online training &lpar;hmm&rpar;.](https://medium.com/@sime.curkovic/ascm-apics-now-has-a-supply-chain-technology-certificate-495-20-hrs-of-online-training-hmm-2b4140c6b9bd?source=rss------data_science-5)
-- [Is Python a must-have skill in the supply chain? https:/How much Python do I need?](https://medium.com/@sime.curkovic/is-python-a-must-have-skill-in-the-supply-chain-https-how-much-python-do-i-need-298d061a25b6?source=rss------data_science-5)
-- [Tableau and/or Power BI for college business majors?…](https://medium.com/@sime.curkovic/tableau-and-or-power-bi-for-college-business-majors-e6607f87bf77?source=rss------data_science-5)
-- [Boomlive chinmoy Tewary](https://medium.com/@chinmoytewary028/boomlive-chinmoy-tewary-f588bac184f2?source=rss------data_science-5)
-- [Google Capstone Project: Cyclistic bike-share analysis case study &lpar;drivvy tripdata&rpar;](https://medium.com/@sunkie007/google-capstone-project-cyclistic-bike-share-analysis-case-study-drivvy-tripdata-fda061d0d98f?source=rss------data_science-5)
+- [Mastering pd.read_csv: A Comprehensive Guide](https://medium.com/@ceiling0.eth/mastering-pd-read-csv-a-comprehensive-guide-341b10d34fec?source=rss------data_science-5)
+- [The Impact of Artificial Intelligence on the Workforce: Challenges and Opportunities](https://medium.com/@rmywhvxxkz/the-impact-of-artificial-intelligence-on-the-workforce-challenges-and-opportunities-52d95c79689d?source=rss------data_science-5)
+- [Programming Recreation and Tips: Balancing Work and Play in the World of Code](https://medium.com/@rmywhvxxkz/programming-recreation-and-tips-balancing-work-and-play-in-the-world-of-code-7d0948c2b9d3?source=rss------data_science-5)
+- [Unlocking Success with Genie Script: Your Path to Personal Transformation](https://medium.com/@kingcheapebooks/unlocking-success-with-genie-script-your-path-to-personal-transformation-bb05777ac26e?source=rss------data_science-5)
+- [Top 10 Data Visualization Examples](https://medium.com/@amitkr209/10-example-1-7a63ddba252d?source=rss------data_science-5)
+- [Building a Successful Career as a Data Analyst](https://medium.com/@arunpandeycdac/building-a-successful-career-as-a-data-analyst-18c22391cd33?source=rss------data_science-5)
+- [A Comprehensive Guide to Building a Career in Data Science](https://medium.com/@arunpandeycdac/a-comprehensive-guide-to-building-a-career-in-data-science-57863cf329d8?source=rss------data_science-5)
+- [The Rise of Citizen Data Scientists in Finance: A Catalyst for Transformation](https://medium.datadriveninvestor.com/the-rise-of-citizen-data-scientists-in-finance-a-catalyst-for-transformation-49eb01e456e7?source=rss------data_science-5)
+- [Embracing Python Decorators: A Beginner’s Path to Mastery](https://medium.com/@pngts93/embracing-python-decorators-a-beginners-path-to-mastery-264cb243f31c?source=rss------data_science-5)
+- [Beginner’s Guide to SQL: Creating &amp; Retrieving Data!](https://medium.datadriveninvestor.com/beginners-guide-to-sql-creating-retrieving-data-42a2ab1a06bd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
