@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Mastering pd.read_csv: A Comprehensive Guide](https://medium.com/@ceiling0.eth/mastering-pd-read-csv-a-comprehensive-guide-341b10d34fec?source=rss------data_science-5)
-- [The Impact of Artificial Intelligence on the Workforce: Challenges and Opportunities](https://medium.com/@rmywhvxxkz/the-impact-of-artificial-intelligence-on-the-workforce-challenges-and-opportunities-52d95c79689d?source=rss------data_science-5)
-- [Programming Recreation and Tips: Balancing Work and Play in the World of Code](https://medium.com/@rmywhvxxkz/programming-recreation-and-tips-balancing-work-and-play-in-the-world-of-code-7d0948c2b9d3?source=rss------data_science-5)
-- [Unlocking Success with Genie Script: Your Path to Personal Transformation](https://medium.com/@kingcheapebooks/unlocking-success-with-genie-script-your-path-to-personal-transformation-bb05777ac26e?source=rss------data_science-5)
-- [Top 10 Data Visualization Examples](https://medium.com/@amitkr209/10-example-1-7a63ddba252d?source=rss------data_science-5)
-- [Building a Successful Career as a Data Analyst](https://medium.com/@arunpandeycdac/building-a-successful-career-as-a-data-analyst-18c22391cd33?source=rss------data_science-5)
-- [A Comprehensive Guide to Building a Career in Data Science](https://medium.com/@arunpandeycdac/a-comprehensive-guide-to-building-a-career-in-data-science-57863cf329d8?source=rss------data_science-5)
-- [The Rise of Citizen Data Scientists in Finance: A Catalyst for Transformation](https://medium.datadriveninvestor.com/the-rise-of-citizen-data-scientists-in-finance-a-catalyst-for-transformation-49eb01e456e7?source=rss------data_science-5)
-- [Embracing Python Decorators: A Beginner’s Path to Mastery](https://medium.com/@pngts93/embracing-python-decorators-a-beginners-path-to-mastery-264cb243f31c?source=rss------data_science-5)
-- [Beginner’s Guide to SQL: Creating &amp; Retrieving Data!](https://medium.datadriveninvestor.com/beginners-guide-to-sql-creating-retrieving-data-42a2ab1a06bd?source=rss------data_science-5)
+- [Como consegui meu primeiro emprego na área de data science](https://davidatascientist.medium.com/como-consegui-meu-primeiro-emprego-na-%C3%A1rea-de-data-science-96d9c370f36e?source=rss------data_science-5)
+- [Embracing Data Analysis: A Game-Changer in the Business World](https://medium.com/@kristianparadamoreno/embracing-data-analysis-a-game-changer-in-the-business-world-5565886e26dd?source=rss------data_science-5)
+- [Stop Using Print&lpar;&rpar;](https://pub.towardsai.net/stop-using-print-d334f2499742?source=rss------data_science-5)
+- [Streamlining Inventory Management in Manufacturing with R Simmer](https://medium.com/@daniel.lundy.analyst/streamlining-inventory-management-in-manufacturing-with-r-simmer-7e1d21ca16ea?source=rss------data_science-5)
+- [Decoding AI Regulations: Striking the Right Balance for Preventing and Remediating Harms](https://medium.com/seek-blog/decoding-ai-regulations-striking-the-right-balance-for-preventing-and-remediating-harms-b899d1af8c0e?source=rss------data_science-5)
+- [Dealing with Sequence Data: Unraveling the Patterns of the World](https://medium.com/@evertongomede/dealing-with-sequence-data-unraveling-the-patterns-of-the-world-ca59149097b6?source=rss------data_science-5)
+- [The Complete Guide to Regression Analysis: Understanding, Implementing, and Optimizing Regression…](https://medium.com/analysts-corner/the-complete-guide-to-regression-analysis-understanding-implementing-and-optimizing-regression-993ead8b2d5e?source=rss------data_science-5)
+- [Exploring Julia Programming Language: Unit Testing](https://pub.towardsai.net/exploring-julia-programming-language-unit-testing-48026849ca57?source=rss------data_science-5)
+- [Python: Deep and Shallow Copy](https://aaweg-i.medium.com/python-deep-and-shallow-copy-65db028c9a78?source=rss------data_science-5)
+- [A Guide to Becoming an ETL Developer: Skills, Tools, and Strategies](https://mohammed-khan.medium.com/a-guide-to-becoming-an-etl-developer-skills-tools-and-strategies-5f02ca323f8b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
