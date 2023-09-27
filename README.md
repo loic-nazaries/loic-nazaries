@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Como consegui meu primeiro emprego na área de data science](https://davidatascientist.medium.com/como-consegui-meu-primeiro-emprego-na-%C3%A1rea-de-data-science-96d9c370f36e?source=rss------data_science-5)
-- [Embracing Data Analysis: A Game-Changer in the Business World](https://medium.com/@kristianparadamoreno/embracing-data-analysis-a-game-changer-in-the-business-world-5565886e26dd?source=rss------data_science-5)
-- [Stop Using Print&lpar;&rpar;](https://pub.towardsai.net/stop-using-print-d334f2499742?source=rss------data_science-5)
-- [Streamlining Inventory Management in Manufacturing with R Simmer](https://medium.com/@daniel.lundy.analyst/streamlining-inventory-management-in-manufacturing-with-r-simmer-7e1d21ca16ea?source=rss------data_science-5)
-- [Decoding AI Regulations: Striking the Right Balance for Preventing and Remediating Harms](https://medium.com/seek-blog/decoding-ai-regulations-striking-the-right-balance-for-preventing-and-remediating-harms-b899d1af8c0e?source=rss------data_science-5)
-- [Dealing with Sequence Data: Unraveling the Patterns of the World](https://medium.com/@evertongomede/dealing-with-sequence-data-unraveling-the-patterns-of-the-world-ca59149097b6?source=rss------data_science-5)
-- [The Complete Guide to Regression Analysis: Understanding, Implementing, and Optimizing Regression…](https://medium.com/analysts-corner/the-complete-guide-to-regression-analysis-understanding-implementing-and-optimizing-regression-993ead8b2d5e?source=rss------data_science-5)
-- [Exploring Julia Programming Language: Unit Testing](https://pub.towardsai.net/exploring-julia-programming-language-unit-testing-48026849ca57?source=rss------data_science-5)
-- [Python: Deep and Shallow Copy](https://aaweg-i.medium.com/python-deep-and-shallow-copy-65db028c9a78?source=rss------data_science-5)
-- [A Guide to Becoming an ETL Developer: Skills, Tools, and Strategies](https://mohammed-khan.medium.com/a-guide-to-becoming-an-etl-developer-skills-tools-and-strategies-5f02ca323f8b?source=rss------data_science-5)
+- [Lenovo IdeaCentre AIO 3-2022: A Versatile All-in-One Desktop for the Modern User](https://medium.com/@loydenz10/lenovo-ideacentre-aio-3-2022-a-versatile-all-in-one-desktop-for-the-modern-user-b92426aa7b2e?source=rss------data_science-5)
+- [Unleash the Power of Music with BERIBES Bluetooth Headphones Over Ear](https://medium.com/@loydenz10/unleash-the-power-of-music-with-beribes-bluetooth-headphones-over-ear-f8fbbc30a0e5?source=rss------data_science-5)
+- [Is OpenAI still a good choice for fine-tuning?](https://ivibudh.medium.com/is-openai-still-a-good-choice-for-fine-tuning-b866e8038ab8?source=rss------data_science-5)
+- [Product Analytics: A New Frontier for Data Scientists](https://medium.com/@michael.shepard8/product-analytics-a-new-frontier-for-data-scientists-87b139d705ef?source=rss------data_science-5)
+- [Python Type Hinting in Data Science Projects: A Must, a Maybe, or a No-No?](https://towardsdatascience.com/python-type-hinting-in-data-science-projects-a-must-a-maybe-or-a-no-no-d76b8a53e37b?source=rss------data_science-5)
+- [Unlocking the Secrets of Student Performance: A Deep Dive Using the SEMMA Methodology](https://medium.com/@krushika.gujarati/unlocking-the-secrets-of-student-performance-a-deep-dive-using-the-semma-methodology-eb8323ca9d5d?source=rss------data_science-5)
+- [Mengeksplorasi Supervised Machine Learning dengan AutoML](https://medium.com/@syahidamd/mengeksplorasi-supervised-machine-learning-dengan-automl-7d8ff95f4a59?source=rss------data_science-5)
+- [Four Possible Approaches for Reversing a String in a Coding Interview](https://medium.com/@data.dev.backyard/four-possible-approaches-for-reversing-a-string-in-a-coding-interview-96b17cc26e02?source=rss------data_science-5)
+- [10 Aspects Of The Data-Driven Financial Revolution](https://medium.com/@salmanhili/10-aspects-of-the-data-driven-financial-revolution-a2d98d989e60?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله تهران پارس شماره خاله اسلامشهر شماره خاله صیغه شماره خاله حضوری شماره…](https://medium.com/@jwnfryba617/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e824d50a9645?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
