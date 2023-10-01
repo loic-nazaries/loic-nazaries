@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Teste A/B: Comparando Estratégias de Licitação para Aumentar Conversões](https://medium.com/@crisianemarinhos/teste-a-b-comparando-estrat%C3%A9gias-de-licita%C3%A7%C3%A3o-para-aumentar-convers%C3%B5es-3065a0138be0?source=rss------data_science-5)
-- [5 Things Every Data Scientists and Machine Learning Engineers should Know](https://medium.com/@shedrack4raregem/5-things-every-data-scientists-and-machine-learning-engineers-should-know-b6ad81404de1?source=rss------data_science-5)
-- [Etiquette Lessons for AI](https://medium.com/swlh/etiquette-lessons-for-ai-61565313ae85?source=rss------data_science-5)
-- [Online Python Compiler for Data Science](https://medium.com/@adamfosterq/online-python-compiler-for-data-science-9d874a9f4b49?source=rss------data_science-5)
-- [From Paradox to Praxis](https://neverforget-1975.medium.com/from-paradox-to-praxis-b9ab4c2824a1?source=rss------data_science-5)
-- [Leveraging Dependency Graphs to Enable Causal Reasoning in LLMs for Critical Decisions : A…](https://medium.com/@alcarazanthony1/leveraging-dependency-graphs-to-enable-causal-reasoning-in-llms-for-critical-decisions-a-35b986f36d7?source=rss------data_science-5)
-- [Mastering Flock Simulation with Boids, C++, OpenGL and ImGui](https://betterprogramming.pub/mastering-flock-simulation-with-boids-c-opengl-and-imgui-5a3ddd9cb958?source=rss------data_science-5)
-- [Demystifying Indian House Prices: A Deep Dive with the KDD Process](https://medium.com/@aagamshah0812/demystifying-indian-house-prices-a-deep-dive-with-the-kdd-process-402789e63b7?source=rss------data_science-5)
-- [“The Five Classification Metrics You MUST Know to Avoid Costly Type I and Type II Errors!”](https://pub.aimind.so/the-five-classification-metrics-you-must-know-to-avoid-costly-type-i-and-type-ii-errors-f834a1ee308e?source=rss------data_science-5)
-- [Data Science for Beginners: 2023–2024 Complete Road Map.](https://medium.com/@ngechamike26/data-science-for-beginners-2023-2024-complete-road-map-89d709fad777?source=rss------data_science-5)
+- [Delving into News Categories with KDD](https://medium.com/@shreyareddy.edulakanti/delving-into-news-categories-with-kdd-e6cae4b053cd?source=rss------data_science-5)
+- [Bye Bye Llama-2, Mistral 7B is Taking Over: Get Started With Mistral 7B Instruct](https://medium.com/@qendelai/bye-bye-llama-2-mistral-7b-is-taking-over-get-started-with-mistral-7b-instruct-1504ff5f373c?source=rss------data_science-5)
+- [Unveiling Marketing Campaign Insights through SEMMA](https://medium.com/@shreyareddy.edulakanti/unveiling-marketing-campaign-insights-through-semma-463f0a9aa9df?source=rss------data_science-5)
+- [Silence Please!!](https://therealkarmensanti.medium.com/silence-please-9f4bd9fed398?source=rss------data_science-5)
+- [Simplicidade e poder: Porque a Regressão Logística merece mais atenção dos cientistas de dados](https://medium.com/@marcoseilert/simplicidade-e-poder-porque-a-regress%C3%A3o-log%C3%ADstica-merece-mais-aten%C3%A7%C3%A3o-dos-cientistas-de-dados-88fc8e8f490f?source=rss------data_science-5)
+- [Kafka: An introduction to a production-ready deployment into Kubernetes](https://matheusneuhaus.medium.com/kafka-an-introduction-to-a-production-ready-deployment-into-kubernetes-243259d57c20?source=rss------data_science-5)
+- [PROYECTO FINAL MODULO FUNDAMENTOS DATA ANALYST](https://medium.com/@juliandavidm99/proyecto-final-modulo-fundamentos-data-analyst-2126b490fdfe?source=rss------data_science-5)
+- [Which Data Science Certification is the Best? [2023 Update]](https://medium.com/@fahdforr/which-data-science-certification-is-the-best-2023-update-555c0e219e0f?source=rss------data_science-5)
+- [Do this 5 things before building your ML model!](https://medium.com/@oluwatimilehinogidan/do-this-5-things-before-building-your-ml-model-7a7aa887c62b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
