@@ -105,15 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Delving into News Categories with KDD](https://medium.com/@shreyareddy.edulakanti/delving-into-news-categories-with-kdd-e6cae4b053cd?source=rss------data_science-5)
-- [Bye Bye Llama-2, Mistral 7B is Taking Over: Get Started With Mistral 7B Instruct](https://medium.com/@qendelai/bye-bye-llama-2-mistral-7b-is-taking-over-get-started-with-mistral-7b-instruct-1504ff5f373c?source=rss------data_science-5)
-- [Unveiling Marketing Campaign Insights through SEMMA](https://medium.com/@shreyareddy.edulakanti/unveiling-marketing-campaign-insights-through-semma-463f0a9aa9df?source=rss------data_science-5)
-- [Silence Please!!](https://therealkarmensanti.medium.com/silence-please-9f4bd9fed398?source=rss------data_science-5)
-- [Simplicidade e poder: Porque a Regressão Logística merece mais atenção dos cientistas de dados](https://medium.com/@marcoseilert/simplicidade-e-poder-porque-a-regress%C3%A3o-log%C3%ADstica-merece-mais-aten%C3%A7%C3%A3o-dos-cientistas-de-dados-88fc8e8f490f?source=rss------data_science-5)
-- [Kafka: An introduction to a production-ready deployment into Kubernetes](https://matheusneuhaus.medium.com/kafka-an-introduction-to-a-production-ready-deployment-into-kubernetes-243259d57c20?source=rss------data_science-5)
-- [PROYECTO FINAL MODULO FUNDAMENTOS DATA ANALYST](https://medium.com/@juliandavidm99/proyecto-final-modulo-fundamentos-data-analyst-2126b490fdfe?source=rss------data_science-5)
-- [Which Data Science Certification is the Best? [2023 Update]](https://medium.com/@fahdforr/which-data-science-certification-is-the-best-2023-update-555c0e219e0f?source=rss------data_science-5)
-- [Do this 5 things before building your ML model!](https://medium.com/@oluwatimilehinogidan/do-this-5-things-before-building-your-ml-model-7a7aa887c62b?source=rss------data_science-5)
+- [Another 10 Brilliant Data Visualization Instances](https://medium.com/@amitkr209/10-example-2-5199bc54314e?source=rss------data_science-5)
+- [A Guide to Prompting and Teaching your Personal AI](https://blog.personal.ai/a-guide-to-prompting-and-teaching-your-personal-ai-b37eae823fc5?source=rss------data_science-5)
+- [A Guide to Prompting and Teaching your Personal AI](https://medium.com/@brandonfrazierjd/a-guide-to-prompting-and-teaching-your-personal-ai-2740338c973f?source=rss------data_science-5)
+- [Important: SWEAT wallet backup code ❗Do not delete or share ❗](https://medium.com/@ebrahemhkmi09/important-sweat-wallet-backup-code-do-not-delete-or-share-4546febae74a?source=rss------data_science-5)
+- [Developing Machine Learning Models for Anomaly Detection in Time Series Data](https://thepythonlab.medium.com/developing-machine-learning-models-for-anomaly-detection-in-time-series-data-50adace5dd32?source=rss------data_science-5)
+- [Top Python Packages Every Data Engineer and Data Scientist should know](https://medium.com/@kakatur/top-python-packages-every-data-engineer-and-data-scientist-should-know-3e88da22a6bc?source=rss------data_science-5)
+- [Hello, Data Science!](https://medium.com/@andrew.hushcha/hello-data-science-54155997ff9a?source=rss------data_science-5)
+- [Empowering College Professors: Step by Step Guide to Creating Interactive Learning Environments…](https://ernestodotnet.medium.com/empowering-college-professors-step-by-step-guide-to-creating-interactive-learning-environments-614dfa4b3636?source=rss------data_science-5)
+- [How To Create Bins  in R Programming](https://zimanaanalytics.medium.com/how-to-create-bins-in-r-programming-dbd2e4991126?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
