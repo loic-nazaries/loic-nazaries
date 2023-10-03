@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Another 10 Brilliant Data Visualization Instances](https://medium.com/@amitkr209/10-example-2-5199bc54314e?source=rss------data_science-5)
-- [A Guide to Prompting and Teaching your Personal AI](https://blog.personal.ai/a-guide-to-prompting-and-teaching-your-personal-ai-b37eae823fc5?source=rss------data_science-5)
-- [A Guide to Prompting and Teaching your Personal AI](https://medium.com/@brandonfrazierjd/a-guide-to-prompting-and-teaching-your-personal-ai-2740338c973f?source=rss------data_science-5)
-- [Important: SWEAT wallet backup code ❗Do not delete or share ❗](https://medium.com/@ebrahemhkmi09/important-sweat-wallet-backup-code-do-not-delete-or-share-4546febae74a?source=rss------data_science-5)
-- [Developing Machine Learning Models for Anomaly Detection in Time Series Data](https://thepythonlab.medium.com/developing-machine-learning-models-for-anomaly-detection-in-time-series-data-50adace5dd32?source=rss------data_science-5)
-- [Top Python Packages Every Data Engineer and Data Scientist should know](https://medium.com/@kakatur/top-python-packages-every-data-engineer-and-data-scientist-should-know-3e88da22a6bc?source=rss------data_science-5)
-- [Hello, Data Science!](https://medium.com/@andrew.hushcha/hello-data-science-54155997ff9a?source=rss------data_science-5)
-- [Empowering College Professors: Step by Step Guide to Creating Interactive Learning Environments…](https://ernestodotnet.medium.com/empowering-college-professors-step-by-step-guide-to-creating-interactive-learning-environments-614dfa4b3636?source=rss------data_science-5)
-- [How To Create Bins  in R Programming](https://zimanaanalytics.medium.com/how-to-create-bins-in-r-programming-dbd2e4991126?source=rss------data_science-5)
+- [A Tableau Calculus for the Analysis of Experiments](https://towardsdatascience.com/a-tableau-calculus-for-the-analysis-of-experiments-53655dd04eb8?source=rss------data_science-5)
+- [Importance of understanding the data](https://medium.com/@amruthashetty3899/importance-of-understanding-the-data-3b13910cfc09?source=rss------data_science-5)
+- [A Beginner’s Guide to Data Analytics: Understanding the Fundamentals](https://medium.com/@ceonyema/a-beginners-guide-to-data-analytics-understanding-the-fundamentals-aea25ebd3dac?source=rss------data_science-5)
+- [SQL Templates: Best Practices for Data Science](https://python.plainenglish.io/sql-templates-best-practices-for-data-science-cf7d3d5740f9?source=rss------data_science-5)
+- [Practical Uses of Document Classification: Streamlining Workflows and Extracting Valuable Insights](https://medium.com/@blog.docubaat/practical-uses-of-document-classification-streamlining-workflows-and-extracting-valuable-insights-a75826e56f02?source=rss------data_science-5)
+- [When to Use Inferential Stats for Business Insights](https://medium.com/@oluwaferanmiadetomiwa7/when-to-use-inferential-stats-for-business-insights-9db6a63a75d3?source=rss------data_science-5)
+- [make full ai website and mobile applications powered with machine learning saas](https://medium.com/@ValuableThings/make-full-ai-website-and-mobile-applications-powered-with-machine-learning-saas-f5644b5c1f07?source=rss------data_science-5)
+- [5 Day SQL Day Study Plan: Master your SQL interview](https://medium.com/@datasciencenexus/5-day-sql-day-study-plan-master-your-sql-interview-cc4a0922a0b7?source=rss------data_science-5)
+- [Building a Robust Portfolio Optimization Framework using cvxpy](https://medium.com/@tomydinero2727/building-a-robust-portfolio-optimization-framework-using-cvxpy-ae8a84382dbd?source=rss------data_science-5)
+- [Career Fair Interview Tips: How to Stand Out in a 10 minute chat &lpar;with cute dog pictures&rpar;](https://medium.com/@nanditakrishnan/career-fair-interview-tips-how-to-stand-out-in-a-10-minute-chat-with-cute-dog-pictures-9b338dce7514?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
