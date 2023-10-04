@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Tableau Calculus for the Analysis of Experiments](https://towardsdatascience.com/a-tableau-calculus-for-the-analysis-of-experiments-53655dd04eb8?source=rss------data_science-5)
-- [Importance of understanding the data](https://medium.com/@amruthashetty3899/importance-of-understanding-the-data-3b13910cfc09?source=rss------data_science-5)
-- [A Beginner’s Guide to Data Analytics: Understanding the Fundamentals](https://medium.com/@ceonyema/a-beginners-guide-to-data-analytics-understanding-the-fundamentals-aea25ebd3dac?source=rss------data_science-5)
-- [SQL Templates: Best Practices for Data Science](https://python.plainenglish.io/sql-templates-best-practices-for-data-science-cf7d3d5740f9?source=rss------data_science-5)
-- [Practical Uses of Document Classification: Streamlining Workflows and Extracting Valuable Insights](https://medium.com/@blog.docubaat/practical-uses-of-document-classification-streamlining-workflows-and-extracting-valuable-insights-a75826e56f02?source=rss------data_science-5)
-- [When to Use Inferential Stats for Business Insights](https://medium.com/@oluwaferanmiadetomiwa7/when-to-use-inferential-stats-for-business-insights-9db6a63a75d3?source=rss------data_science-5)
-- [make full ai website and mobile applications powered with machine learning saas](https://medium.com/@ValuableThings/make-full-ai-website-and-mobile-applications-powered-with-machine-learning-saas-f5644b5c1f07?source=rss------data_science-5)
-- [5 Day SQL Day Study Plan: Master your SQL interview](https://medium.com/@datasciencenexus/5-day-sql-day-study-plan-master-your-sql-interview-cc4a0922a0b7?source=rss------data_science-5)
-- [Building a Robust Portfolio Optimization Framework using cvxpy](https://medium.com/@tomydinero2727/building-a-robust-portfolio-optimization-framework-using-cvxpy-ae8a84382dbd?source=rss------data_science-5)
-- [Career Fair Interview Tips: How to Stand Out in a 10 minute chat &lpar;with cute dog pictures&rpar;](https://medium.com/@nanditakrishnan/career-fair-interview-tips-how-to-stand-out-in-a-10-minute-chat-with-cute-dog-pictures-9b338dce7514?source=rss------data_science-5)
+- [Master Your Finances: A Guide to Wealth Creation Through Smart Trading](https://medium.com/@Suzicasamo/master-your-finances-a-guide-to-wealth-creation-through-smart-trading-f2ead46c9c88?source=rss------data_science-5)
+- [Pandas for Seamless Analysis: Part I-Inner Joins](https://medium.com/@baidoomaameekua18/pandas-for-seamless-analysis-part-i-inner-joins-2f5651cb3340?source=rss------data_science-5)
+- [10 simple data analytics project ideas](https://medium.com/@christinekenneth5/10-simple-data-analytics-project-ideas-f6529fc6133c?source=rss------data_science-5)
+- [What is Data Lake](https://medium.com/@okezten/what-is-data-lake-2a743c96386b?source=rss------data_science-5)
+- [What I learned in my first 60 days working with LLM?](https://medium.com/@filipespacheco/what-i-learned-in-my-first-60-days-working-with-llm-6bc7f825dcc1?source=rss------data_science-5)
+- [LDCRS Tesla Model Y Floor Mats - The Ultimate All-Weather Mats Set](https://medium.com/@loydenz10/ldcrs-tesla-model-y-floor-mats-the-ultimate-all-weather-mats-set-9c303691408d?source=rss------data_science-5)
+- [Your Ultimate Guide to Dodging Dumb Moves in the First Months of Your Analytics Job](https://medium.com/@annettedolph/your-ultimate-guide-to-dodging-dumb-moves-in-the-first-months-of-your-analytics-job-f365eab014ba?source=rss------data_science-5)
+- [The Roadmap to Mastering Data Science for Dummies](https://medium.com/@shaliniduttaofficial/the-roadmap-to-mastering-data-science-for-dummies-37a77c91726d?source=rss------data_science-5)
+- [How To Use LLMs To Turn English Instructions Into Executable SQL](https://levelup.gitconnected.com/how-to-use-llms-to-turn-english-instructions-into-executable-sql-8cfd7992d5b6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
