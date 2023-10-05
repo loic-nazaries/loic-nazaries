@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Master Your Finances: A Guide to Wealth Creation Through Smart Trading](https://medium.com/@Suzicasamo/master-your-finances-a-guide-to-wealth-creation-through-smart-trading-f2ead46c9c88?source=rss------data_science-5)
-- [Pandas for Seamless Analysis: Part I-Inner Joins](https://medium.com/@baidoomaameekua18/pandas-for-seamless-analysis-part-i-inner-joins-2f5651cb3340?source=rss------data_science-5)
-- [10 simple data analytics project ideas](https://medium.com/@christinekenneth5/10-simple-data-analytics-project-ideas-f6529fc6133c?source=rss------data_science-5)
-- [What is Data Lake](https://medium.com/@okezten/what-is-data-lake-2a743c96386b?source=rss------data_science-5)
-- [What I learned in my first 60 days working with LLM?](https://medium.com/@filipespacheco/what-i-learned-in-my-first-60-days-working-with-llm-6bc7f825dcc1?source=rss------data_science-5)
-- [LDCRS Tesla Model Y Floor Mats - The Ultimate All-Weather Mats Set](https://medium.com/@loydenz10/ldcrs-tesla-model-y-floor-mats-the-ultimate-all-weather-mats-set-9c303691408d?source=rss------data_science-5)
-- [Your Ultimate Guide to Dodging Dumb Moves in the First Months of Your Analytics Job](https://medium.com/@annettedolph/your-ultimate-guide-to-dodging-dumb-moves-in-the-first-months-of-your-analytics-job-f365eab014ba?source=rss------data_science-5)
-- [The Roadmap to Mastering Data Science for Dummies](https://medium.com/@shaliniduttaofficial/the-roadmap-to-mastering-data-science-for-dummies-37a77c91726d?source=rss------data_science-5)
-- [How To Use LLMs To Turn English Instructions Into Executable SQL](https://levelup.gitconnected.com/how-to-use-llms-to-turn-english-instructions-into-executable-sql-8cfd7992d5b6?source=rss------data_science-5)
+- [The Master Guide to Understand Machine Learning For Dummies](https://medium.com/@shaliniduttaofficial/the-master-guide-to-understand-machine-learning-for-dummies-079907413729?source=rss------data_science-5)
+- [Soshalyze: Psychographic Statistics, Graph Theory, and the Future of Strategic Communications](https://medium.com/@CollinParan/soshalyze-psychographic-statistics-graph-theory-and-the-future-of-strategic-communications-2bd8abd302d2?source=rss------data_science-5)
+- [SVG: How to add Charts to your Business Data Visualization KPIs](https://medium.com/learning-data/svg-how-to-add-charts-to-your-business-data-visualization-kpis-9d58f634be69?source=rss------data_science-5)
+- [Data Analyst Fundamentals Course](https://medium.com/@jpmayoral/data-analyst-fundamentals-course-586270652343?source=rss------data_science-5)
+- [Do shared-bike ridership patterns reveal income disparities in the District of Columbia?](https://medium.com/@ilgitoprak/do-shared-bike-ridership-patterns-reveal-income-disparities-in-the-district-of-columbia-ed8bbc2609cf?source=rss------data_science-5)
+- [A Guide to Data Science Project Management Methodologies](https://medium.com/@Divithraju/a-guide-to-data-science-project-management-methodologies-b35ffa6d8fee?source=rss------data_science-5)
+- [How Should Your Portfolio Data Science Projects Take Advantage of ChatGPT?](https://medium.datadriveninvestor.com/how-should-your-portfolio-data-science-projects-take-advantage-of-chatgpt-58438a9f6ca4?source=rss------data_science-5)
+- [Why is aha moment wrong?](https://medium.com/pragmatic-data-scientists/why-is-aha-moment-wrong-ed96ae493a01?source=rss------data_science-5)
+- [【重點整理】IoT 系統組成元素](https://medium.com/@st000320.eed06/%E9%87%8D%E9%BB%9E%E6%95%B4%E7%90%86-iot-%E7%B3%BB%E7%B5%B1%E7%B5%84%E6%88%90%E5%85%83%E7%B4%A0-cb0f6f722c77?source=rss------data_science-5)
+- [Running Asynchronous Code in Jupyter Notebooks: Managing Event Loops](https://medium.com/@dpzhcmy/running-asynchronous-code-in-jupyter-notebooks-managing-event-loops-b9696a596ce4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
