@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Master Guide to Understand Machine Learning For Dummies](https://medium.com/@shaliniduttaofficial/the-master-guide-to-understand-machine-learning-for-dummies-079907413729?source=rss------data_science-5)
-- [Soshalyze: Psychographic Statistics, Graph Theory, and the Future of Strategic Communications](https://medium.com/@CollinParan/soshalyze-psychographic-statistics-graph-theory-and-the-future-of-strategic-communications-2bd8abd302d2?source=rss------data_science-5)
-- [SVG: How to add Charts to your Business Data Visualization KPIs](https://medium.com/learning-data/svg-how-to-add-charts-to-your-business-data-visualization-kpis-9d58f634be69?source=rss------data_science-5)
-- [Data Analyst Fundamentals Course](https://medium.com/@jpmayoral/data-analyst-fundamentals-course-586270652343?source=rss------data_science-5)
-- [Do shared-bike ridership patterns reveal income disparities in the District of Columbia?](https://medium.com/@ilgitoprak/do-shared-bike-ridership-patterns-reveal-income-disparities-in-the-district-of-columbia-ed8bbc2609cf?source=rss------data_science-5)
-- [A Guide to Data Science Project Management Methodologies](https://medium.com/@Divithraju/a-guide-to-data-science-project-management-methodologies-b35ffa6d8fee?source=rss------data_science-5)
-- [How Should Your Portfolio Data Science Projects Take Advantage of ChatGPT?](https://medium.datadriveninvestor.com/how-should-your-portfolio-data-science-projects-take-advantage-of-chatgpt-58438a9f6ca4?source=rss------data_science-5)
-- [Why is aha moment wrong?](https://medium.com/pragmatic-data-scientists/why-is-aha-moment-wrong-ed96ae493a01?source=rss------data_science-5)
-- [【重點整理】IoT 系統組成元素](https://medium.com/@st000320.eed06/%E9%87%8D%E9%BB%9E%E6%95%B4%E7%90%86-iot-%E7%B3%BB%E7%B5%B1%E7%B5%84%E6%88%90%E5%85%83%E7%B4%A0-cb0f6f722c77?source=rss------data_science-5)
-- [Running Asynchronous Code in Jupyter Notebooks: Managing Event Loops](https://medium.com/@dpzhcmy/running-asynchronous-code-in-jupyter-notebooks-managing-event-loops-b9696a596ce4?source=rss------data_science-5)
+- [O Segredo das Celebridades para Cabelos Mais Lindos, Brilhantes e Saudáveis](https://medium.com/@ojoel.rodrigues.yt/o-segredo-das-celebridades-para-cabelos-mais-lindos-brilhantes-e-saud%C3%A1veis-235ab31755b0?source=rss------data_science-5)
+- [Mastering Art and Code: A Journey into Generative Adversarial Networks &lpar;GAN&rpar; for Handwritten Digit…](https://medium.com/@abin_varghese/mastering-art-and-code-a-journey-into-generative-adversarial-networks-for-handwritten-digit-8913d2e511c8?source=rss------data_science-5)
+- [Revolutionizing Stock Markets: The Power of AI](https://medium.com/@anka_97543/revolutionizing-stock-markets-the-power-of-ai-129bc2dc446f?source=rss------data_science-5)
+- [Sony’s Video Games Recommendations: In-Depth Analysis &lpar;Part 2&rpar;](https://medium.com/@nguyenngominhdang/sonys-video-games-recommendations-in-depth-analysis-part-2-8dc5ff55da28?source=rss------data_science-5)
+- [Sony’s Video Games Recommendations: Exploring the Code &lpar;Part 1&rpar;](https://medium.com/@nguyenngominhdang/sonys-video-games-recommendations-exploring-the-code-part-1-6a8bc90e127?source=rss------data_science-5)
+- [I will craft a professional data science, data analysis, and business analysis resume](https://medium.com/@adebisitijanikudroh/i-will-craft-a-professional-data-science-data-analysis-and-business-analysis-resume-dbf8b55abeab?source=rss------data_science-5)
+- [I will craft a professional data science, data analysis, and business analysis resume](https://medium.com/@adebisitijanikudroh/i-will-craft-a-professional-data-science-data-analysis-and-business-analysis-resume-131888159f30?source=rss------data_science-5)
+- [Philosophy of Science #6: John Locke brought faith and reason closer to a lock](https://medium.com/datafrens-sg/philosophy-of-science-6-john-locke-brought-faith-and-reason-closer-to-a-lock-f2f022781e55?source=rss------data_science-5)
+- [“Always Try One More Time” — Reflections of the Last Two Months: Marriage, a Capstone Data Science…](https://medium.com/@lillian.lakes/always-try-one-more-time-reflections-of-the-last-two-months-marriage-a-capstone-data-science-3d1588c19cf5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
