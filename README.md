@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [O Segredo das Celebridades para Cabelos Mais Lindos, Brilhantes e Saudáveis](https://medium.com/@ojoel.rodrigues.yt/o-segredo-das-celebridades-para-cabelos-mais-lindos-brilhantes-e-saud%C3%A1veis-235ab31755b0?source=rss------data_science-5)
-- [Mastering Art and Code: A Journey into Generative Adversarial Networks &lpar;GAN&rpar; for Handwritten Digit…](https://medium.com/@abin_varghese/mastering-art-and-code-a-journey-into-generative-adversarial-networks-for-handwritten-digit-8913d2e511c8?source=rss------data_science-5)
-- [Revolutionizing Stock Markets: The Power of AI](https://medium.com/@anka_97543/revolutionizing-stock-markets-the-power-of-ai-129bc2dc446f?source=rss------data_science-5)
-- [Sony’s Video Games Recommendations: In-Depth Analysis &lpar;Part 2&rpar;](https://medium.com/@nguyenngominhdang/sonys-video-games-recommendations-in-depth-analysis-part-2-8dc5ff55da28?source=rss------data_science-5)
-- [Sony’s Video Games Recommendations: Exploring the Code &lpar;Part 1&rpar;](https://medium.com/@nguyenngominhdang/sonys-video-games-recommendations-exploring-the-code-part-1-6a8bc90e127?source=rss------data_science-5)
-- [I will craft a professional data science, data analysis, and business analysis resume](https://medium.com/@adebisitijanikudroh/i-will-craft-a-professional-data-science-data-analysis-and-business-analysis-resume-dbf8b55abeab?source=rss------data_science-5)
-- [I will craft a professional data science, data analysis, and business analysis resume](https://medium.com/@adebisitijanikudroh/i-will-craft-a-professional-data-science-data-analysis-and-business-analysis-resume-131888159f30?source=rss------data_science-5)
-- [Philosophy of Science #6: John Locke brought faith and reason closer to a lock](https://medium.com/datafrens-sg/philosophy-of-science-6-john-locke-brought-faith-and-reason-closer-to-a-lock-f2f022781e55?source=rss------data_science-5)
-- [“Always Try One More Time” — Reflections of the Last Two Months: Marriage, a Capstone Data Science…](https://medium.com/@lillian.lakes/always-try-one-more-time-reflections-of-the-last-two-months-marriage-a-capstone-data-science-3d1588c19cf5?source=rss------data_science-5)
+- [From Linear Regression to Shapley — A Journey into Model Interpretability](https://medium.com/illumination/from-linear-regression-to-shapley-a-journey-into-model-interpretability-d77ab04e91b9?source=rss------data_science-5)
+- [Extracting Dominant Image Colors in Flutter with the K-means++ Algorithm](https://medium.com/@natasa.misic10/extracting-dominant-image-colors-in-flutter-with-the-k-means-algorithm-bdf2b829bde5?source=rss------data_science-5)
+- [Advanced Python: Metaclasses](https://towardsdatascience.com/advanced-python-metaclasses-e32d46e0ebe3?source=rss------data_science-5)
+- [Teste de Hipótese: uma ferramenta poderosa para tomadas de decisão baseadas em evidências](https://medium.com/@ejunior029/teste-de-hip%C3%B3tese-uma-ferramenta-poderosa-para-tomadas-de-decis%C3%A3o-baseadas-em-evid%C3%AAncias-6e260d3067ba?source=rss------data_science-5)
+- [5 Things that Helped Me Get an Offer in the Midst of the 2023 Recession](https://medium.com/@himabindu790/5-things-that-helped-me-get-an-offer-in-the-midst-of-the-2023-recession-59669fb037a2?source=rss------data_science-5)
+- [A Comparative Analysis of Power BI Connection Types: Live Connection vs. Direct Query](https://medium.com/@vxgtkrr/a-comparative-analysis-of-power-bi-connection-types-live-connection-vs-direct-query-8367f26e65b8?source=rss------data_science-5)
+- [Satiresoft: Catching bugs](https://blog.developerpurpose.com/satiresoft-catching-bugs-bc875cb73b53?source=rss------data_science-5)
+- [Q#95: Reaching out to past candidates](https://medium.com/foundational-data-science-interview-questions/q-95-reaching-out-to-past-candidates-2f6bb9aedddb?source=rss------data_science-5)
+- [do machine learning, natural language processing using python](https://medium.com/@Digitalspaceo/do-machine-learning-natural-language-processing-using-python-c8e4f49355f0?source=rss------data_science-5)
+- [Unlocking the Secrets of Meat Authenticity with Near-Infrared Spectroscopy &lpar;NIR&rpar;](https://medium.com/@chrisjpulliam/unlocking-the-secrets-of-meat-authenticity-with-near-infrared-spectroscopy-nir-9f8081c84807?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
