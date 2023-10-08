@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [From Linear Regression to Shapley — A Journey into Model Interpretability](https://medium.com/illumination/from-linear-regression-to-shapley-a-journey-into-model-interpretability-d77ab04e91b9?source=rss------data_science-5)
-- [Extracting Dominant Image Colors in Flutter with the K-means++ Algorithm](https://medium.com/@natasa.misic10/extracting-dominant-image-colors-in-flutter-with-the-k-means-algorithm-bdf2b829bde5?source=rss------data_science-5)
-- [Advanced Python: Metaclasses](https://towardsdatascience.com/advanced-python-metaclasses-e32d46e0ebe3?source=rss------data_science-5)
-- [Teste de Hipótese: uma ferramenta poderosa para tomadas de decisão baseadas em evidências](https://medium.com/@ejunior029/teste-de-hip%C3%B3tese-uma-ferramenta-poderosa-para-tomadas-de-decis%C3%A3o-baseadas-em-evid%C3%AAncias-6e260d3067ba?source=rss------data_science-5)
-- [5 Things that Helped Me Get an Offer in the Midst of the 2023 Recession](https://medium.com/@himabindu790/5-things-that-helped-me-get-an-offer-in-the-midst-of-the-2023-recession-59669fb037a2?source=rss------data_science-5)
-- [A Comparative Analysis of Power BI Connection Types: Live Connection vs. Direct Query](https://medium.com/@vxgtkrr/a-comparative-analysis-of-power-bi-connection-types-live-connection-vs-direct-query-8367f26e65b8?source=rss------data_science-5)
-- [Satiresoft: Catching bugs](https://blog.developerpurpose.com/satiresoft-catching-bugs-bc875cb73b53?source=rss------data_science-5)
-- [Q#95: Reaching out to past candidates](https://medium.com/foundational-data-science-interview-questions/q-95-reaching-out-to-past-candidates-2f6bb9aedddb?source=rss------data_science-5)
-- [do machine learning, natural language processing using python](https://medium.com/@Digitalspaceo/do-machine-learning-natural-language-processing-using-python-c8e4f49355f0?source=rss------data_science-5)
-- [Unlocking the Secrets of Meat Authenticity with Near-Infrared Spectroscopy &lpar;NIR&rpar;](https://medium.com/@chrisjpulliam/unlocking-the-secrets-of-meat-authenticity-with-near-infrared-spectroscopy-nir-9f8081c84807?source=rss------data_science-5)
+- [Welcome To My Blog](https://medium.com/@twolfegang/welcome-to-my-blog-fffe9e2629b8?source=rss------data_science-5)
+- [Data Privacy and Security Challenges in Adult Entertainment](https://medium.com/@topbosstalk/data-privacy-and-security-challenges-in-adult-entertainment-5882bd69c302?source=rss------data_science-5)
+- [A Fool-Proof Guide on What Decision Trees Are and the Differences Between the Popular Types](https://medium.com/@ninachen_51372/a-fool-proof-guide-on-what-decision-trees-are-and-the-differences-between-the-popular-types-8ee581d1c212?source=rss------data_science-5)
+- [Stiker Ion Negatif EMFDEFENSE&rpar;](https://medium.com/@aderamlan083812345/stiker-ion-negatif-emfdefense-8c0264de3be9?source=rss------data_science-5)
+- [Data Science Essentials: The Top 10 NumPy Functions You Can’t Ignore](https://medium.com/@trilogicalshelp/data-science-essentials-the-top-10-numpy-functions-you-cant-ignore-7a8a3b5c42a3?source=rss------data_science-5)
+- [How I became a FAANG Data Engineer With No Technical Knowledge: The Power of Self-Learning](https://medium.com/@the_anonymous_data_engineer/how-i-became-a-faang-data-engineer-with-no-technical-knowledge-the-power-of-self-learning-9abfcee2eef2?source=rss------data_science-5)
+- [Exploratory Data Analysis using Data Visualization Techniques](https://medium.com/@stevenokanda/exploratory-data-analysis-using-data-visualization-techniques-1e25397e2da5?source=rss------data_science-5)
+- [From Graduate in Engineering to Data Scientist: Navigating the Transition](https://medium.com/@zac.hamida/from-graduate-in-engineering-to-data-scientist-navigating-the-transition-c662b9c25e33?source=rss------data_science-5)
+- [Dashboard rápido com Python e Streamlit](https://medium.com/@coutinholps/dashboard-r%C3%A1pido-com-python-e-streamlit-6aa7df1fda49?source=rss------data_science-5)
+- [شماره خاله شماره خاله تهران09037004904شماره خاله اندیشه شماره خاله اصفهان شماره خاله اردبیل داف…](https://medium.com/@jmrym9471/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%8609037004904%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84-%D8%AF%D8%A7%D9%81-c8162890d4f5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
