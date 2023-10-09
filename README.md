@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Welcome To My Blog](https://medium.com/@twolfegang/welcome-to-my-blog-fffe9e2629b8?source=rss------data_science-5)
-- [Data Privacy and Security Challenges in Adult Entertainment](https://medium.com/@topbosstalk/data-privacy-and-security-challenges-in-adult-entertainment-5882bd69c302?source=rss------data_science-5)
-- [A Fool-Proof Guide on What Decision Trees Are and the Differences Between the Popular Types](https://medium.com/@ninachen_51372/a-fool-proof-guide-on-what-decision-trees-are-and-the-differences-between-the-popular-types-8ee581d1c212?source=rss------data_science-5)
-- [Stiker Ion Negatif EMFDEFENSE&rpar;](https://medium.com/@aderamlan083812345/stiker-ion-negatif-emfdefense-8c0264de3be9?source=rss------data_science-5)
-- [Data Science Essentials: The Top 10 NumPy Functions You Can’t Ignore](https://medium.com/@trilogicalshelp/data-science-essentials-the-top-10-numpy-functions-you-cant-ignore-7a8a3b5c42a3?source=rss------data_science-5)
-- [How I became a FAANG Data Engineer With No Technical Knowledge: The Power of Self-Learning](https://medium.com/@the_anonymous_data_engineer/how-i-became-a-faang-data-engineer-with-no-technical-knowledge-the-power-of-self-learning-9abfcee2eef2?source=rss------data_science-5)
-- [Exploratory Data Analysis using Data Visualization Techniques](https://medium.com/@stevenokanda/exploratory-data-analysis-using-data-visualization-techniques-1e25397e2da5?source=rss------data_science-5)
-- [From Graduate in Engineering to Data Scientist: Navigating the Transition](https://medium.com/@zac.hamida/from-graduate-in-engineering-to-data-scientist-navigating-the-transition-c662b9c25e33?source=rss------data_science-5)
-- [Dashboard rápido com Python e Streamlit](https://medium.com/@coutinholps/dashboard-r%C3%A1pido-com-python-e-streamlit-6aa7df1fda49?source=rss------data_science-5)
-- [شماره خاله شماره خاله تهران09037004904شماره خاله اندیشه شماره خاله اصفهان شماره خاله اردبیل داف…](https://medium.com/@jmrym9471/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%8609037004904%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84-%D8%AF%D8%A7%D9%81-c8162890d4f5?source=rss------data_science-5)
+- [Title: &quot;Managing Blood Sugar Levels with Gula Darah Cerdas: A Smart Approach to Diabetes Care&quot;](https://medium.com/@doteuwarobens/title-managing-blood-sugar-levels-with-gula-darah-cerdas-a-smart-approach-to-diabetes-care-2ab33e74b548?source=rss------data_science-5)
+- [The Importance of Data Preprocessing in Machine Learning](https://medium.com/@waseemsaeed/the-importance-of-data-preprocessing-in-machine-learning-23618e838b97?source=rss------data_science-5)
+- [Unveiling Data Patterns: Creating a Petal Length Histogram with Tableau Using the Iris Dataset](https://medium.com/@samiajannat/unveiling-data-patterns-creating-a-petal-length-histogram-with-tableau-using-the-iris-dataset-c21415ab51ac?source=rss------data_science-5)
+- [How Dashboards Help You Make Smarter Choices in Analysis](https://medium.com/@amitkr209/dashboard-24a799a87be5?source=rss------data_science-5)
+- [Teacher Chronicles: Living a Double Life](https://sqlbelle.medium.com/teacher-chronicles-living-a-double-life-d599ac737647?source=rss------data_science-5)
+- [Neural Networks](https://medium.com/@prakathi/neural-networks-cc7398e14b46?source=rss------data_science-5)
+- [Differences between Data lake and Data warehouse](https://medium.com/@okezten/differences-between-data-lake-and-data-warehouse-57bc528aca9c?source=rss------data_science-5)
+- [facebook](https://medium.com/@sumonsingapore42/facebook-656ad5e809bd?source=rss------data_science-5)
+- [AI in Healthcare: Transforming Medicine’s Future](https://medium.com/@wagnerdsc/ai-in-healthcare-transforming-medicines-future-b62aa2f5087f?source=rss------data_science-5)
+- [Spatio-Temporal Data Visualization: My Top 3 techniques by experience.](https://medium.com/@samvardhanvishnoi2026/spatio-temporal-data-visualization-my-top-3-techniques-by-experience-4b92113b97ea?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
