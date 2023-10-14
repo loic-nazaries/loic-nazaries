@@ -105,15 +105,12 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Understanding Exponentially Weighted Moving Averages &lpar;EWMA&rpar;](https://medium.com/@evertongomede/understanding-exponentially-weighted-moving-averages-ewma-cc8e78b01184?source=rss------data_science-5)
-- [Mock Interview with ChatGPT on 15 Typical Data Science Questions](https://czzgrace.medium.com/mock-interview-with-chatgpt-on-15-typical-data-science-questions-3c159fcf72b4?source=rss------data_science-5)
-- [Data Analyst Trained with Generative AI](https://medium.com/@minnatalam6075/data-analyst-trained-with-generative-ai-32408fbac207?source=rss------data_science-5)
-- [Google Data Analytics Capstone Project](https://medium.com/@jerryade75/google-data-analytics-capstone-project-6647ad9abdaf?source=rss------data_science-5)
-- [사내 데이터 플랫폼 개발, 처음이라면?](https://medium.com/naver-dna-tech-blog/dna-qip-efa7c5b3e949?source=rss------data_science-5)
-- [Rupee Fly Loan Customer Care Number//9123891649+9883366131//Rupee Fly Loan Customer Care…](https://medium.com/@taslimkhan379399/rupee-fly-loan-customer-care-number-9123891649-9883366131-rupee-fly-loan-customer-care-34de3e0f3228?source=rss------data_science-5)
-- [Rupee Fly Loan Customer Care Number//9123891649+9883366131//Rupee Fly Loan Customer Care…](https://medium.com/@taslimkhan379399/rupee-fly-loan-customer-care-number-9123891649-9883366131-rupee-fly-loan-customer-care-aa17b5840f5f?source=rss------data_science-5)
-- [Rupee Fly Loan Customer Care Number//9123891649+9883366131//Rupee Fly Loan Customer Care…](https://medium.com/@taslimkhan379399/rupee-fly-loan-customer-care-number-9123891649-9883366131-rupee-fly-loan-customer-care-8f921fc67f58?source=rss------data_science-5)
-- [Rupee Fly Loan Customer Care Number//9123891649+9883366131//Rupee Fly Loan Customer Care…](https://medium.com/@taslimkhan379399/rupee-fly-loan-customer-care-number-9123891649-9883366131-rupee-fly-loan-customer-care-6878a596bbda?source=rss------data_science-5)
+- [Rupee Fly Loan C U S T O M E R Care Number +91 9123891649_-+/*-9-8-8-3-3-6-6-1-3-1✔️Call Me 24X7…](https://medium.com/@loanclose10/rupee-fly-loan-c-u-s-t-o-m-e-r-care-number-91-9123891649-9-8-8-3-3-6-6-1-3-1-%EF%B8%8Fcall-me-24x7-492a1b180995?source=rss------data_science-5)
+- [Rupee Fly Loan C U S T O M E R Care Number +91 9123891649_-+/*-9-8-8-3-3-6-6-1-3-1✔️Call Me 24X7…](https://medium.com/@loanclose10/rupee-fly-loan-c-u-s-t-o-m-e-r-care-number-91-9123891649-9-8-8-3-3-6-6-1-3-1-%EF%B8%8Fcall-me-24x7-fdcb5e2ffc84?source=rss------data_science-5)
+- [Rupee Fly Loan C U S T O M E R Care Number +91 9123891649_-+/*-9-8-8-3-3-6-6-1-3-1✔️Call Me 24X7…](https://medium.com/@loanclose10/rupee-fly-loan-c-u-s-t-o-m-e-r-care-number-91-9123891649-9-8-8-3-3-6-6-1-3-1-%EF%B8%8Fcall-me-24x7-57bcc0ce5f41?source=rss------data_science-5)
+- [Rupee Fly Loan C U S T O M E R Care Number +91 9123891649_-+/*-9-8-8-3-3-6-6-1-3-1✔️Call Me 24X7…](https://medium.com/@loanclose10/rupee-fly-loan-c-u-s-t-o-m-e-r-care-number-91-9123891649-9-8-8-3-3-6-6-1-3-1-%EF%B8%8Fcall-me-24x7-c7a35747eb7e?source=rss------data_science-5)
+- [Rupee Fly Loan C U S T O M E R Care Number +91 9123891649_-+/*-9-8-8-3-3-6-6-1-3-1✔️Call Me 24X7…](https://medium.com/@loanclose10/rupee-fly-loan-c-u-s-t-o-m-e-r-care-number-91-9123891649-9-8-8-3-3-6-6-1-3-1-%EF%B8%8Fcall-me-24x7-b792616f98ff?source=rss------data_science-5)
+- [Rupee Fly Loan C U S T O M E R Care Number +91 9123891649_-+/*-9-8-8-3-3-6-6-1-3-1✔️Call Me 24X7…](https://medium.com/@loanclose10/rupee-fly-loan-c-u-s-t-o-m-e-r-care-number-91-9123891649-9-8-8-3-3-6-6-1-3-1-%EF%B8%8Fcall-me-24x7-0243ae49dc17?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
