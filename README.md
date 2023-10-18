@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Lord of Vectors: One Embedder to Rule Them All](https://levelup.gitconnected.com/lord-of-vectors-one-embedder-to-rule-them-all-205d22ca6a0a?source=rss------data_science-5)
-- [Are SQL Queries Case Sensitive?](https://code.likeagirl.io/are-sql-queries-case-sensitive-436203df66a4?source=rss------data_science-5)
-- [Exploring NoSQL Databases: Types and Use Cases](https://levelup.gitconnected.com/exploring-nosql-databases-types-and-use-cases-137b43347492?source=rss------data_science-5)
-- [Unleashing the Power of Data: A Beginner’s Guide to the Data Science Lifecycle](https://levelup.gitconnected.com/unleashing-the-power-of-data-a-beginners-guide-to-the-data-science-lifecycle-9a40ecd9fd5a?source=rss------data_science-5)
-- [Joining Data Can Be A Pain in SQL](https://medium.com/@bennettmo16/joining-data-can-be-a-pain-16988d4870be?source=rss------data_science-5)
-- [What is FBProphet?](https://medium.com/@JuliusAI/what-is-fbprophet-503b646f892e?source=rss------data_science-5)
-- [Let Us Help You: Using the PaLM 2 and Cody LLMs for Graph Data Science](https://medium.com/@bukowski.daniel/let-us-help-you-using-the-palm-2-and-cody-llms-for-graph-data-science-422ad44d79c4?source=rss------data_science-5)
-- [Understanding Indonesian Skincare Trends with Data](https://medium.com/@ramawijaya.business/understanding-indonesian-skincare-trends-with-data-56bfd6f41eda?source=rss------data_science-5)
-- [شماره خاله تهران شماره خاله حضوری شماره خاله بندرعباس شماره خاله اصفهان ممه کون کوس داف دختر دختر…](https://medium.com/@jmrym9471/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D9%85%D9%85%D9%87-%DA%A9%D9%88%D9%86-%DA%A9%D9%88%D8%B3-%D8%AF%D8%A7%D9%81-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%AF%D8%AE%D8%AA%D8%B1-b7f73e896ba6?source=rss------data_science-5)
+- [Navigating the Skies with Data: An Intro to Time Series Analysis in R](https://johnvastola.medium.com/navigating-the-skies-with-data-an-intro-to-time-series-analysis-in-r-cac97c8b3ba7?source=rss------data_science-5)
+- [Artificial Intelligence to expand reach](https://medium.com/@martareyessuarez25/artificial-intelligence-to-expand-reach-4487be48d61e?source=rss------data_science-5)
+- [Your Ultimate Guide to Simple Linear Regression](https://medium.com/@kirubasagar82/your-ultimate-guide-to-simple-linear-regression-383c32688370?source=rss------data_science-5)
+- [Why SQL is the Social Media of Programming Languages?](https://medium.com/@bennettmo16/why-sql-is-the-social-media-of-programming-languages-aee8ff188580?source=rss------data_science-5)
+- [This is how generative artificial intelligence will revolutionize the future of your brand](https://medium.com/@martareyessuarez25/this-is-how-generative-artificial-intelligence-will-revolutionize-the-future-of-your-brand-28444f1b18ad?source=rss------data_science-5)
+- [Diferenças entre Bagging and Boosting em Ciência de Dados](https://medium.com/@8ugomes/diferen%C3%A7as-entre-bagging-and-boosting-em-ci%C3%AAncia-de-dados-ae5cd0f672ce?source=rss------data_science-5)
+- [Turnkey Model and Data Marketplace?](https://medium.com/@safelishare/turnkey-model-and-data-marketplace-fc8fbe7c0395?source=rss------data_science-5)
+- [Solving Nairobi Expressway’s Payment Woes: Building an AI Model&lpar;WakasiakaPay&rpar; to automate toll…](https://medium.com/@johnwakks2/solving-nairobi-expressways-payment-woes-building-an-ai-model-wakasiakapay-to-automate-toll-5cc9979e674b?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-ceeffecaf306?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-72666136ee53?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
