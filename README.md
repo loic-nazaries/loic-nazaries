@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [Cleaning a Messy Car Dataset with Python Pandas](https://towardsdatascience.com/cleaning-a-messy-car-dataset-with-python-pandas-700fe10a7180?source=rss-2cf6b549448------2)
 - [3 Types of Data Distribution Shifts in ML Systems](https://sonery.medium.com/3-types-of-data-distribution-shifts-in-ml-systems-18e1360cf4d?source=rss-2cf6b549448------2)
 - [Asking ChatGPT to Evaluate Its Own Performance is Not a Bad Idea](https://python.plainenglish.io/asking-chatgpt-to-evaluate-its-own-performance-is-not-a-bad-idea-d08c22561143?source=rss-2cf6b549448------2)
 - [3 Silent Pandas Mistakes You Should Be Aware Of](https://towardsdatascience.com/3-silent-pandas-mistakes-you-should-be-aware-of-80d0112de6b5?source=rss-2cf6b549448------2)
 - [Treasury in Old Pull Requests](https://sonery.medium.com/treasury-in-old-pull-requests-2d0d9dd2446c?source=rss-2cf6b549448------2)
-- [Are You Too Late to Start Your Data Science Journey?— 2023 edition](https://sonery.medium.com/are-you-too-late-to-start-your-data-science-journey-2023-edition-5dddfb4ce2e0?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
