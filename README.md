@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Customer Segmentation Report for Arvato Financial Solutions](https://medium.com/@junior.junior.castro1/customer-segmentation-report-for-arvato-financial-solutions-b70df6b48fb8?source=rss------data_science-5)
-- [Ways to Remove Duplicates in SQL by Difficulty Level](https://medium.com/@bennettmo16/ways-to-remove-duplicates-in-sql-by-difficulty-level-c1aeab1ed2be?source=rss------data_science-5)
-- [Creating a Scatter Plot with Club Badges using Python](https://medium.com/@ricardoandreom/creating-a-scatter-plot-with-club-badges-using-python-27d4a05d9582?source=rss------data_science-5)
-- [شماره خاله تهران کرج شیراز اصفهان مشهد کرمان 09339722058](https://medium.com/@nnlnttt01/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%DA%A9%D8%B1%D8%AC-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D9%85%D8%B4%D9%87%D8%AF-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-09339722058-74fdf2138768?source=rss------data_science-5)
-- [شماره خاله تهران کرج شیراز اصفهان مشهد کرمان 09339722058](https://medium.com/@nnlnttt01/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%DA%A9%D8%B1%D8%AC-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D9%85%D8%B4%D9%87%D8%AF-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-09339722058-3d2af6d6fdd5?source=rss------data_science-5)
-- [شماره خاله تهران کرج شیراز اصفهان مشهد کرمان 09339722058](https://medium.com/@nnlnttt01/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%DA%A9%D8%B1%D8%AC-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D9%85%D8%B4%D9%87%D8%AF-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-09339722058-829ac29a20a8?source=rss------data_science-5)
-- [شماره خاله تهران کرج شیراز اصفهان مشهد کرمان 09339722058](https://medium.com/@nnlnttt01/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%DA%A9%D8%B1%D8%AC-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D9%85%D8%B4%D9%87%D8%AF-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-09339722058-ed81e1701f33?source=rss------data_science-5)
-- [شماره خاله تهران کرج شیراز اصفهان مشهد کرمان 09339722058](https://medium.com/@nnlnttt01/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%DA%A9%D8%B1%D8%AC-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D9%85%D8%B4%D9%87%D8%AF-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-09339722058-1ce8ff5dcbd1?source=rss------data_science-5)
-- [How to evaluate unsupervised anomaly detection models?](https://medium.com/@luanaebio/how-to-evaluate-unsupervised-anomaly-detection-models-38a2fe300969?source=rss------data_science-5)
-- [Earning a Certification is a Great Accomplishment, but it&#39;s not the Endgame](https://medium.com/learning-data/earning-a-certification-is-a-great-accomplishment-but-its-not-the-endgame-68cd980a729e?source=rss------data_science-5)
+- [Humble Yourself if in Data Science](https://medium.com/@bennettmo16/humble-yourself-if-in-data-science-a0d8597db1b5?source=rss------data_science-5)
+- [Title: Bridging the Gap: Cryptocurrency and Science](https://medium.com/@nwabuezea32/title-bridging-the-gap-cryptocurrency-and-science-b8b94abdac3c?source=rss------data_science-5)
+- [Data Structures for Data Engineers: Linked Lists — Doubly Linked List](https://medium.com/@SaiParvathaneni/data-structures-for-data-engineers-linked-lists-doubly-linked-list-fea5df6f30cf?source=rss------data_science-5)
+- [If You Want to Be a Creator, Delete All &lpar;But Two&rpar; Social Media Platforms](https://medium.com/@Suzicasamo/if-you-want-to-be-a-creator-delete-all-but-two-social-media-platforms-8cdd0cf74666?source=rss------data_science-5)
+- [Understanding Retention with Gradio](https://towardsdatascience.com/understanding-retention-with-gradio-c288b48918af?source=rss------data_science-5)
+- [Data Breach: Understanding the Cause and Impact in Cybersecurity](https://medium.com/coded-tech-talk/data-breach-understanding-the-cause-and-impact-in-cybersecurity-8902912467f3?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-a56eb0b6a26a?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-7d05287f769c?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-075438105190?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-3f8323b027d1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
