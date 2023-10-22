@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Humble Yourself if in Data Science](https://medium.com/@bennettmo16/humble-yourself-if-in-data-science-a0d8597db1b5?source=rss------data_science-5)
-- [Title: Bridging the Gap: Cryptocurrency and Science](https://medium.com/@nwabuezea32/title-bridging-the-gap-cryptocurrency-and-science-b8b94abdac3c?source=rss------data_science-5)
-- [Data Structures for Data Engineers: Linked Lists — Doubly Linked List](https://medium.com/@SaiParvathaneni/data-structures-for-data-engineers-linked-lists-doubly-linked-list-fea5df6f30cf?source=rss------data_science-5)
-- [If You Want to Be a Creator, Delete All &lpar;But Two&rpar; Social Media Platforms](https://medium.com/@Suzicasamo/if-you-want-to-be-a-creator-delete-all-but-two-social-media-platforms-8cdd0cf74666?source=rss------data_science-5)
-- [Understanding Retention with Gradio](https://towardsdatascience.com/understanding-retention-with-gradio-c288b48918af?source=rss------data_science-5)
-- [Data Breach: Understanding the Cause and Impact in Cybersecurity](https://medium.com/coded-tech-talk/data-breach-understanding-the-cause-and-impact-in-cybersecurity-8902912467f3?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-a56eb0b6a26a?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-7d05287f769c?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-075438105190?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-3f8323b027d1?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-bb6a2ed7a88f?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-e4dc56466e1c?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-9978836a466e?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-6a55a467431c?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-5e7581bd00bc?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-3f56fd32e1dc?source=rss------data_science-5)
+- [Demystifying Deep Learning: Evolution, Basics, and Why It’s Accessible to All](https://medium.com/@shaikshareef7537/demystifying-deep-learning-evolution-basics-and-why-its-accessible-to-all-5f8e172d57e0?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-acd051da7093?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-f52cf30e4195?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-0f7ef9d830c3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
