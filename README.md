@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-bb6a2ed7a88f?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-e4dc56466e1c?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-9978836a466e?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-6a55a467431c?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-5e7581bd00bc?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-3f56fd32e1dc?source=rss------data_science-5)
-- [Demystifying Deep Learning: Evolution, Basics, and Why It’s Accessible to All](https://medium.com/@shaikshareef7537/demystifying-deep-learning-evolution-basics-and-why-its-accessible-to-all-5f8e172d57e0?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-acd051da7093?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-f52cf30e4195?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-0f7ef9d830c3?source=rss------data_science-5)
+- [Table-GPT: Empower LLMs To Understand Tables](https://medium.com/@aipapers/table-gpt-empower-llms-to-understand-tables-9b60a3df1eae?source=rss------data_science-5)
+- [A Symphony of Algorithms: Vector Databases and Generative AI in Finance](https://medium.datadriveninvestor.com/a-symphony-of-algorithms-vector-databases-and-generative-ai-in-finance-9a357546265e?source=rss------data_science-5)
+- [5 Opportunities and Pitfalls of GenAI &lpar;ChatGPT and LLMs&rpar;](https://medium.datadriveninvestor.com/5-opportunities-and-pitfalls-of-genai-chatgpt-and-llms-8989249b196d?source=rss------data_science-5)
+- [Recurrent Neural Networks: Techniques, Architectures, and Applications](https://medium.datadriveninvestor.com/recurrent-neural-networks-techniques-architectures-and-applications-1d4becdc611e?source=rss------data_science-5)
+- [Microsoft Azure DP-100 Exam: My Experience and Tips](https://medium.datadriveninvestor.com/microsoft-azure-dp-100-exam-tips-c5272a372aa3?source=rss------data_science-5)
+- [Responisble AI in Finance](https://medium.datadriveninvestor.com/responisble-ai-in-finance-faadb508925b?source=rss------data_science-5)
+- [Automated Stock Trading Platform](https://medium.com/@murali.balcha/automated-stock-trading-platform-cd07473f6a12?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-b22f805e1250?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-366c0ae56779?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-0ddb219379ed?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
