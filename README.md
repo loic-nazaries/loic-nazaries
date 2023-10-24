@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Table-GPT: Empower LLMs To Understand Tables](https://medium.com/@aipapers/table-gpt-empower-llms-to-understand-tables-9b60a3df1eae?source=rss------data_science-5)
-- [A Symphony of Algorithms: Vector Databases and Generative AI in Finance](https://medium.datadriveninvestor.com/a-symphony-of-algorithms-vector-databases-and-generative-ai-in-finance-9a357546265e?source=rss------data_science-5)
-- [5 Opportunities and Pitfalls of GenAI &lpar;ChatGPT and LLMs&rpar;](https://medium.datadriveninvestor.com/5-opportunities-and-pitfalls-of-genai-chatgpt-and-llms-8989249b196d?source=rss------data_science-5)
-- [Recurrent Neural Networks: Techniques, Architectures, and Applications](https://medium.datadriveninvestor.com/recurrent-neural-networks-techniques-architectures-and-applications-1d4becdc611e?source=rss------data_science-5)
-- [Microsoft Azure DP-100 Exam: My Experience and Tips](https://medium.datadriveninvestor.com/microsoft-azure-dp-100-exam-tips-c5272a372aa3?source=rss------data_science-5)
-- [Responisble AI in Finance](https://medium.datadriveninvestor.com/responisble-ai-in-finance-faadb508925b?source=rss------data_science-5)
-- [Automated Stock Trading Platform](https://medium.com/@murali.balcha/automated-stock-trading-platform-cd07473f6a12?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-b22f805e1250?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-366c0ae56779?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-0ddb219379ed?source=rss------data_science-5)
+- [Analyzing Human Performance Data: A Proactive Approach to Preventing Workplace Accidents and…](https://medium.com/@sensorisafety/analyzing-human-performance-data-a-proactive-approach-to-preventing-workplace-accidents-and-9373aa41e4a7?source=rss------data_science-5)
+- [Common Problems Encountered in Data Analytics and Science](https://deepanshu-jain.medium.com/common-problems-encountered-in-data-analytics-and-science-d7d19d83892f?source=rss------data_science-5)
+- [The Research Lab Presents: NBA Prediction App v1.0 Beta](https://medium.com/@theresearchlab/the-research-lab-presents-nba-prediction-app-v1-0-beta-f16cc5b0f303?source=rss------data_science-5)
+- [Database Relationships for Beginners](https://medium.com/@bennettmo16/database-relationships-for-beginners-bdfe71e06788?source=rss------data_science-5)
+- [Q#97: Large numbers in a raffle](https://medium.com/foundational-data-science-interview-questions/q-97-large-numbers-in-a-raffle-2f970d6af9b2?source=rss------data_science-5)
+- [Unlock Your Data Superpowers with “The Complete Excel, AI, and Data Science Mega Bundle”](https://medium.com/@basoriahmad1006/unlock-your-data-superpowers-with-the-complete-excel-ai-and-data-science-mega-bundle-3e20b8dc8f26?source=rss------data_science-5)
+- [Exploring the Sounds of 2023: A Data-Driven Dive into Spotify’s Top Hits](https://medium.com/@todimupitan/exploring-the-sounds-of-2023-a-data-driven-dive-into-spotifys-top-hits-d63eb8c23592?source=rss------data_science-5)
+- [Master SQL in 7 Days: Unleash Your Data Superpowers for Beginners](https://medium.com/@miguelrodrigueznovelo/master-sql-in-7-days-unleash-your-data-superpowers-for-beginners-63a4abbcf246?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@jdjjdified/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-48647bed8daa?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
