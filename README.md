@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Inteligência aplicada em previsão de vendas](https://medium.com/@matheusdeoliveiraalves/intelig%C3%AAncia-aplicada-em-previs%C3%A3o-de-vendas-30c5cec418c9?source=rss------data_science-5)
-- [How generative artificial intelligence could radically change video games](https://medium.com/@martareyessuarez25/how-generative-artificial-intelligence-could-radically-change-video-games-b3bdc82e856d?source=rss------data_science-5)
-- [Recomendador de Imóveis](https://medium.com/@matheusdeoliveiraalves/recomendador-de-im%C3%B3veis-2fa9bc3cce5f?source=rss------data_science-5)
-- [10 Essential Pandas Hacks Every Python Data Analyst Should Know](https://levelup.gitconnected.com/10-essential-pandas-hacks-every-python-data-analyst-should-know-1c1d34901580?source=rss------data_science-5)
-- [Quantum Computing: The Next Frontier in Data Analytics](https://medium.com/@lean.araque/quantum-computing-the-next-frontier-in-data-analytics-be80db33193f?source=rss------data_science-5)
-- [Credit Kum Loan Customer Care Helpline Number// 9883366131☎️9123891649✍️Call Me Credit Kum Loan…](https://medium.com/@hjsshwhxjzbs/credit-kum-loan-customer-care-helpline-number-9883366131-%EF%B8%8F9123891649-%EF%B8%8Fcall-me-credit-kum-loan-e00f5f6bb54b?source=rss------data_science-5)
-- [Credit Kum Loan Customer Care Helpline Number// 9883366131☎️9123891649✍️Call Me Credit Kum Loan…](https://medium.com/@hjsshwhxjzbs/credit-kum-loan-customer-care-helpline-number-9883366131-%EF%B8%8F9123891649-%EF%B8%8Fcall-me-credit-kum-loan-39f412c433c9?source=rss------data_science-5)
-- [Pandas vs. Excel: Which Is the Ultimate Data Analysis Tool?](https://levelup.gitconnected.com/pandas-vs-excel-which-is-the-ultimate-data-analysis-tool-9173d47a0b56?source=rss------data_science-5)
-- [How to Handle Big Data Like a Pro with Pandas](https://python.plainenglish.io/how-to-handle-big-data-like-a-pro-with-pandas-6fd64295601a?source=rss------data_science-5)
-- [FNV-1a Hashing Paradigm: Implementing High-Speed Textual Retrieval in Relational Databases](https://ninoarsov.medium.com/fnv-1a-hashing-paradigm-implementing-high-speed-textual-retrieval-in-relational-databases-fb4f2ffe5f51?source=rss------data_science-5)
+- [The Future of Video Games.](https://medium.com/@aaronclark182/the-future-of-video-games-d7b42a987e99?source=rss------data_science-5)
+- [Demystifying AI Decisions: The Power of Explainable AI &lpar;XAI&rpar;](https://kdagiit.medium.com/demystifying-ai-decisions-the-power-of-explainable-ai-xai-9aca5d373299?source=rss------data_science-5)
+- [The Lincoln Method: Master Leadership as a Techie with 4 Steps to Build Trust, Inspire Action, and…](https://medium.com/illumination/the-lincoln-method-master-leadership-as-a-techie-with-4-steps-to-build-trust-inspire-action-and-c74e5ed69470?source=rss------data_science-5)
+- [Analyzing wOBA For Qualified Hitters Based On Their Primary Position](https://medium.com/@amritvignesh/analyzing-woba-for-qualified-hitters-based-on-their-primary-position-38e8d78e3e6b?source=rss------data_science-5)
+- [Will there be Magic in Orlando?](https://medium.com/@Ryan_Resnick/will-there-be-magic-in-orlando-9976eb2b8c8e?source=rss------data_science-5)
+- [Wu Tang P.U.N.K. paswa &lpar;Swahili inflection&rpar; Infinitive](https://leemcclymont.medium.com/wu-tang-p-u-n-k-paswa-swahili-inflection-infinitive-a6c0e0d9477d?source=rss------data_science-5)
+- [What is Log Odds in Logistic Regression?](https://akankshapaliwal.medium.com/what-is-log-odds-in-logistic-regression-3f5996efefc4?source=rss------data_science-5)
+- [Stubbs — Google’s answer to AutoGen and ChatDev powered by Gemini?](https://medium.com/@pareto_investor/stubbs-googles-answer-to-autogen-and-chatdev-powered-by-gemini-92d95876254c?source=rss------data_science-5)
+- [Q#98: Flagging increasing stock prices in SQL](https://medium.com/foundational-data-science-interview-questions/q-98-flagging-increasing-stock-prices-in-sql-0aa0f0392177?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
