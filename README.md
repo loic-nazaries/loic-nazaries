@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Future of Video Games.](https://medium.com/@aaronclark182/the-future-of-video-games-d7b42a987e99?source=rss------data_science-5)
-- [Demystifying AI Decisions: The Power of Explainable AI &lpar;XAI&rpar;](https://kdagiit.medium.com/demystifying-ai-decisions-the-power-of-explainable-ai-xai-9aca5d373299?source=rss------data_science-5)
-- [The Lincoln Method: Master Leadership as a Techie with 4 Steps to Build Trust, Inspire Action, and…](https://medium.com/illumination/the-lincoln-method-master-leadership-as-a-techie-with-4-steps-to-build-trust-inspire-action-and-c74e5ed69470?source=rss------data_science-5)
-- [Analyzing wOBA For Qualified Hitters Based On Their Primary Position](https://medium.com/@amritvignesh/analyzing-woba-for-qualified-hitters-based-on-their-primary-position-38e8d78e3e6b?source=rss------data_science-5)
-- [Will there be Magic in Orlando?](https://medium.com/@Ryan_Resnick/will-there-be-magic-in-orlando-9976eb2b8c8e?source=rss------data_science-5)
-- [Wu Tang P.U.N.K. paswa &lpar;Swahili inflection&rpar; Infinitive](https://leemcclymont.medium.com/wu-tang-p-u-n-k-paswa-swahili-inflection-infinitive-a6c0e0d9477d?source=rss------data_science-5)
-- [What is Log Odds in Logistic Regression?](https://akankshapaliwal.medium.com/what-is-log-odds-in-logistic-regression-3f5996efefc4?source=rss------data_science-5)
-- [Stubbs — Google’s answer to AutoGen and ChatDev powered by Gemini?](https://medium.com/@pareto_investor/stubbs-googles-answer-to-autogen-and-chatdev-powered-by-gemini-92d95876254c?source=rss------data_science-5)
-- [Q#98: Flagging increasing stock prices in SQL](https://medium.com/foundational-data-science-interview-questions/q-98-flagging-increasing-stock-prices-in-sql-0aa0f0392177?source=rss------data_science-5)
+- [ChatGPT is old news.](https://medium.com/@mariajosevaldesescobar/chatgpt-is-old-news-94a12654d37a?source=rss------data_science-5)
+- [Breast Cancer Subtypes Analysis with R](https://medium.com/@taylorschneider_61189/breast-cancer-subtypes-analysis-with-r-e1d090ab151a?source=rss------data_science-5)
+- [*Creating a Complex NFT System for Tokenized Models with Fractional Ownership*](https://medium.com/@nscio/creating-a-complex-nft-system-for-tokenized-models-with-fractional-ownership-547aa2c6d536?source=rss------data_science-5)
+- [¿Para qué sirve, cómo funciona y cómo utilizar AIRPM en el Chat GPT?](https://medium.com/@mariajosevaldesescobar/para-qu%C3%A9-sirve-c%C3%B3mo-funciona-y-c%C3%B3mo-utilizar-airpm-en-el-chat-gpt-3133bba46450?source=rss------data_science-5)
+- [Coleta de Dados: A Base da Tomada de Decisões Inteligentes](https://medium.com/@jvborges25/coleta-de-dados-a-base-da-tomada-de-decis%C3%B5es-inteligentes-e43bd43b5279?source=rss------data_science-5)
+- [LLemma: a Model Speaking Math](https://levelup.gitconnected.com/llemma-a-model-speaking-math-c8c07e1c001c?source=rss------data_science-5)
+- [Data Analysts: Why You’ll Laugh at Today’s Best Practices in a Decade](https://levelup.gitconnected.com/data-analysts-why-youll-laugh-at-today-s-best-practices-in-a-decade-0d051d2ee2c5?source=rss------data_science-5)
+- [Effective Use of Design Patterns in Software Development: Best Practices - Part 1](https://levelup.gitconnected.com/effective-use-of-design-patterns-in-software-development-best-practices-part-1-8759c67af217?source=rss------data_science-5)
+- [Unraveling the Magic of Bootstrapping and Bagging](https://medium.com/@bhardwajjagjot/unraveling-the-magic-of-bootstrapping-and-bagging-aa67cd313c6a?source=rss------data_science-5)
+- [Load, Transform and Create a Star Schema in Power BI](https://ernestodotnet.medium.com/load-transform-and-create-a-star-schema-in-power-bi-bf1ef145ebdb?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
