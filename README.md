@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [ChatGPT is old news.](https://medium.com/@mariajosevaldesescobar/chatgpt-is-old-news-94a12654d37a?source=rss------data_science-5)
-- [Breast Cancer Subtypes Analysis with R](https://medium.com/@taylorschneider_61189/breast-cancer-subtypes-analysis-with-r-e1d090ab151a?source=rss------data_science-5)
-- [*Creating a Complex NFT System for Tokenized Models with Fractional Ownership*](https://medium.com/@nscio/creating-a-complex-nft-system-for-tokenized-models-with-fractional-ownership-547aa2c6d536?source=rss------data_science-5)
-- [¿Para qué sirve, cómo funciona y cómo utilizar AIRPM en el Chat GPT?](https://medium.com/@mariajosevaldesescobar/para-qu%C3%A9-sirve-c%C3%B3mo-funciona-y-c%C3%B3mo-utilizar-airpm-en-el-chat-gpt-3133bba46450?source=rss------data_science-5)
-- [Coleta de Dados: A Base da Tomada de Decisões Inteligentes](https://medium.com/@jvborges25/coleta-de-dados-a-base-da-tomada-de-decis%C3%B5es-inteligentes-e43bd43b5279?source=rss------data_science-5)
-- [LLemma: a Model Speaking Math](https://levelup.gitconnected.com/llemma-a-model-speaking-math-c8c07e1c001c?source=rss------data_science-5)
-- [Data Analysts: Why You’ll Laugh at Today’s Best Practices in a Decade](https://levelup.gitconnected.com/data-analysts-why-youll-laugh-at-today-s-best-practices-in-a-decade-0d051d2ee2c5?source=rss------data_science-5)
-- [Effective Use of Design Patterns in Software Development: Best Practices - Part 1](https://levelup.gitconnected.com/effective-use-of-design-patterns-in-software-development-best-practices-part-1-8759c67af217?source=rss------data_science-5)
-- [Unraveling the Magic of Bootstrapping and Bagging](https://medium.com/@bhardwajjagjot/unraveling-the-magic-of-bootstrapping-and-bagging-aa67cd313c6a?source=rss------data_science-5)
-- [Load, Transform and Create a Star Schema in Power BI](https://ernestodotnet.medium.com/load-transform-and-create-a-star-schema-in-power-bi-bf1ef145ebdb?source=rss------data_science-5)
+- [#NBA: Grizzlies&#39; Adams out for season with knee injury](https://medium.com/@jaysonreyramos/nba-grizzlies-adams-out-for-season-with-knee-injury-3cf9ce58d09f?source=rss------data_science-5)
+- [The ROC Curve: Application and Interpretation in the Health Context](https://medium.com/@evertongomede/the-roc-curve-application-and-interpretation-in-the-health-context-cc06af05a6ec?source=rss------data_science-5)
+- [The Hidden Power of Group By in SQL](https://medium.com/@bennettmo16/the-hidden-power-of-group-by-in-sql-109e001eaa04?source=rss------data_science-5)
+- [Data Science for Social Good: Highlights from DIYA’s Summer Research Program](https://medium.com/@info_66457/data-science-for-social-good-highlights-from-diyas-summer-research-program-578c27ffc298?source=rss------data_science-5)
+- [The VACUUM Model: Valid, Accurate, Consistent, Uniform, and Unified](https://medium.com/@evertongomede/the-vacuum-model-valid-accurate-consistent-uniform-and-unified-da885bf9c622?source=rss------data_science-5)
+- [Fast and Reliable SQL Engine for Data Analytics: The Open Lakehouse Presto](https://medium.com/@evertongomede/fast-and-reliable-sql-engine-for-data-analytics-the-open-lakehouse-presto-8c0504ad37c0?source=rss------data_science-5)
+- [Data Science: Essential for High Schoolers](https://medium.com/@info_66457/data-science-essential-for-high-schoolers-e1a30ae41a5b?source=rss------data_science-5)
+- [The Machine Learning Life Cycle: From Data to Deployment](https://medium.com/@evertongomede/the-machine-learning-life-cycle-from-data-to-deployment-bf91d9df541d?source=rss------data_science-5)
+- [Understanding Data Normalization and Denormalization in Data Warehousing](https://medium.com/@ebojacky/understanding-data-normalization-and-denormalization-in-data-warehousing-5a06efc2b208?source=rss------data_science-5)
+- [Understanding File Formatting in Unix: The Power of cat -A and cat -E](https://medium.com/@ebojacky/understanding-file-formatting-in-unix-the-power-of-cat-a-and-cat-e-50225e993ff1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
