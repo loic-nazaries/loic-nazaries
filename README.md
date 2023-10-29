@@ -105,16 +105,24 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [#NBA: Grizzlies&#39; Adams out for season with knee injury](https://medium.com/@jaysonreyramos/nba-grizzlies-adams-out-for-season-with-knee-injury-3cf9ce58d09f?source=rss------data_science-5)
-- [The ROC Curve: Application and Interpretation in the Health Context](https://medium.com/@evertongomede/the-roc-curve-application-and-interpretation-in-the-health-context-cc06af05a6ec?source=rss------data_science-5)
-- [The Hidden Power of Group By in SQL](https://medium.com/@bennettmo16/the-hidden-power-of-group-by-in-sql-109e001eaa04?source=rss------data_science-5)
-- [Data Science for Social Good: Highlights from DIYA’s Summer Research Program](https://medium.com/@info_66457/data-science-for-social-good-highlights-from-diyas-summer-research-program-578c27ffc298?source=rss------data_science-5)
-- [The VACUUM Model: Valid, Accurate, Consistent, Uniform, and Unified](https://medium.com/@evertongomede/the-vacuum-model-valid-accurate-consistent-uniform-and-unified-da885bf9c622?source=rss------data_science-5)
-- [Fast and Reliable SQL Engine for Data Analytics: The Open Lakehouse Presto](https://medium.com/@evertongomede/fast-and-reliable-sql-engine-for-data-analytics-the-open-lakehouse-presto-8c0504ad37c0?source=rss------data_science-5)
-- [Data Science: Essential for High Schoolers](https://medium.com/@info_66457/data-science-essential-for-high-schoolers-e1a30ae41a5b?source=rss------data_science-5)
-- [The Machine Learning Life Cycle: From Data to Deployment](https://medium.com/@evertongomede/the-machine-learning-life-cycle-from-data-to-deployment-bf91d9df541d?source=rss------data_science-5)
-- [Understanding Data Normalization and Denormalization in Data Warehousing](https://medium.com/@ebojacky/understanding-data-normalization-and-denormalization-in-data-warehousing-5a06efc2b208?source=rss------data_science-5)
-- [Understanding File Formatting in Unix: The Power of cat -A and cat -E](https://medium.com/@ebojacky/understanding-file-formatting-in-unix-the-power-of-cat-a-and-cat-e-50225e993ff1?source=rss------data_science-5)
+- [Mastering Probability Puzzles — Dice &lpar;Day 3&rpar;](https://medium.com/@quachmaiboi/mastering-probability-puzzles-dice-day-3-e641b031c816?source=rss------data_science-5)
+- [The Era of the Mathematician Has Arrived](https://keith-mcnulty.medium.com/the-era-of-the-mathematician-has-arrived-19eca30e59c6?source=rss------data_science-5)
+- [شماره خاله 
+09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-ac6be22d932e?source=rss------data_science-5)
+- [شماره خاله 
+09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-2fd0fb1c03c4?source=rss------data_science-5)
+- [شماره خاله 
+09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-8fd629358741?source=rss------data_science-5)
+- [شماره خاله 
+09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-d56e9b37d70f?source=rss------data_science-5)
+- [شماره خاله 
+09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-f6da36d4caaf?source=rss------data_science-5)
+- [شماره خاله 
+09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-7284475bd3e7?source=rss------data_science-5)
+- [شماره خاله 
+09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-c339da1b784e?source=rss------data_science-5)
+- [شماره خاله 
+09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-aed277c59aec?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
