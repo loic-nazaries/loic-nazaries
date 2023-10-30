@@ -105,24 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Mastering Probability Puzzles — Dice &lpar;Day 3&rpar;](https://medium.com/@quachmaiboi/mastering-probability-puzzles-dice-day-3-e641b031c816?source=rss------data_science-5)
-- [The Era of the Mathematician Has Arrived](https://keith-mcnulty.medium.com/the-era-of-the-mathematician-has-arrived-19eca30e59c6?source=rss------data_science-5)
-- [شماره خاله 
-09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-ac6be22d932e?source=rss------data_science-5)
-- [شماره خاله 
-09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-2fd0fb1c03c4?source=rss------data_science-5)
-- [شماره خاله 
-09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-8fd629358741?source=rss------data_science-5)
-- [شماره خاله 
-09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-d56e9b37d70f?source=rss------data_science-5)
-- [شماره خاله 
-09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-f6da36d4caaf?source=rss------data_science-5)
-- [شماره خاله 
-09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-7284475bd3e7?source=rss------data_science-5)
-- [شماره خاله 
-09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-c339da1b784e?source=rss------data_science-5)
-- [شماره خاله 
-09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-aed277c59aec?source=rss------data_science-5)
+- [Building Interactive Dashboards with Pyodide and Python](https://medium.com/@parktwin2/building-interactive-dashboards-with-pyodide-and-python-e58a60fa47c9?source=rss------data_science-5)
+- [The Keys in Your Data](https://medium.com/@bennettmo16/the-keys-in-your-data-1050376ec35d?source=rss------data_science-5)
+- [Deploying Python Models: From Development to Production](https://bootcamp.uxdesign.cc/deploying-python-models-from-development-to-production-83b3a72d40c1?source=rss------data_science-5)
+- [Principles of Data Analysis](https://medium.com/@raydonmedia/principles-of-data-analysis-292799b34262?source=rss------data_science-5)
+- [Spark : How to debug Malformed CSV record Error](https://medium.com/@rongalinaidu/spark-how-to-debug-malformed-csv-record-error-3c9841553cc6?source=rss------data_science-5)
+- [Stop Writing All Your Data Science Code in .ipynb!](https://medium.com/@santosluiza/stop-writing-all-your-data-science-code-in-ipynb-34988840be71?source=rss------data_science-5)
+- [Human Pose Estimation with Deep Learning: Decoding the Language of Body](https://medium.com/@kavyagandhi1223/human-pose-estimation-with-deep-learning-decoding-the-language-of-body-f96fbed06e03?source=rss------data_science-5)
+- [شماره خاله 09300268108 شماره خاله اسلامشهر شماره خاله تهران شماره خاله بابلسر شماره خاله رامسر…](https://medium.com/@maryam.taleii700/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09300268108-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%A7%D9%85%D8%B3%D8%B1-5332987c454b?source=rss------data_science-5)
+- [شماره خاله 09300268108 شماره خاله اسلامشهر شماره خاله تهران شماره خاله بابلسر شماره خاله رامسر…](https://medium.com/@maryam.taleii700/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09300268108-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%A7%D9%85%D8%B3%D8%B1-78f1b3ba2812?source=rss------data_science-5)
+- [شماره خاله 09300268108 شماره خاله اسلامشهر شماره خاله تهران شماره خاله بابلسر شماره خاله رامسر…](https://medium.com/@maryam.taleii700/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09300268108-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%A7%D9%85%D8%B3%D8%B1-2d732b53c8c8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
