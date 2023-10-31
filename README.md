@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Building Interactive Dashboards with Pyodide and Python](https://medium.com/@parktwin2/building-interactive-dashboards-with-pyodide-and-python-e58a60fa47c9?source=rss------data_science-5)
-- [The Keys in Your Data](https://medium.com/@bennettmo16/the-keys-in-your-data-1050376ec35d?source=rss------data_science-5)
-- [Deploying Python Models: From Development to Production](https://bootcamp.uxdesign.cc/deploying-python-models-from-development-to-production-83b3a72d40c1?source=rss------data_science-5)
-- [Principles of Data Analysis](https://medium.com/@raydonmedia/principles-of-data-analysis-292799b34262?source=rss------data_science-5)
-- [Spark : How to debug Malformed CSV record Error](https://medium.com/@rongalinaidu/spark-how-to-debug-malformed-csv-record-error-3c9841553cc6?source=rss------data_science-5)
-- [Stop Writing All Your Data Science Code in .ipynb!](https://medium.com/@santosluiza/stop-writing-all-your-data-science-code-in-ipynb-34988840be71?source=rss------data_science-5)
-- [Human Pose Estimation with Deep Learning: Decoding the Language of Body](https://medium.com/@kavyagandhi1223/human-pose-estimation-with-deep-learning-decoding-the-language-of-body-f96fbed06e03?source=rss------data_science-5)
-- [شماره خاله 09300268108 شماره خاله اسلامشهر شماره خاله تهران شماره خاله بابلسر شماره خاله رامسر…](https://medium.com/@maryam.taleii700/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09300268108-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%A7%D9%85%D8%B3%D8%B1-5332987c454b?source=rss------data_science-5)
-- [شماره خاله 09300268108 شماره خاله اسلامشهر شماره خاله تهران شماره خاله بابلسر شماره خاله رامسر…](https://medium.com/@maryam.taleii700/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09300268108-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%A7%D9%85%D8%B3%D8%B1-78f1b3ba2812?source=rss------data_science-5)
-- [شماره خاله 09300268108 شماره خاله اسلامشهر شماره خاله تهران شماره خاله بابلسر شماره خاله رامسر…](https://medium.com/@maryam.taleii700/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09300268108-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%A7%D9%85%D8%B3%D8%B1-2d732b53c8c8?source=rss------data_science-5)
+- [Data Science From Scratch](https://medium.data4sci.com/data-science-from-scratch-e3ee490f6493?source=rss------data_science-5)
+- [Midjourney new upscaling power](https://medium.datadriveninvestor.com/midjourney-new-upscaling-power-bdb8cbab4050?source=rss------data_science-5)
+- [Top 10 Frameworks Every Python Developer Should Know for Improved Productivity](https://medium.com/@everythingprogramming/top-10-frameworks-every-python-developer-should-know-for-improved-productivity-ea115f953ee5?source=rss------data_science-5)
+- [Top 10 Libraries Every Python Developer Should Know for Improved Productivity](https://medium.com/@everythingprogramming/top-10-libraries-every-python-developer-should-know-for-improved-productivity-1bbb0c958173?source=rss------data_science-5)
+- [Mapping Our Universe: Breaking Ground in Land Use Prediction Modeling](https://medium.com/@reidjoseph201/mapping-our-universe-breaking-ground-in-land-use-prediction-modeling-8da7361af40b?source=rss------data_science-5)
+- [Top 10 Ways I Became More Productive by Learning Programming](https://medium.com/@everythingprogramming/top-10-ways-i-become-more-productive-by-learning-programming-df88c5bfa532?source=rss------data_science-5)
+- [Top 10 Ways I Make Extra Income with Programming](https://medium.com/@everythingprogramming/top-10-ways-i-make-extra-income-with-programming-f2e735379c99?source=rss------data_science-5)
+- [Double Your Programming Income with These 10 Productivity Tips](https://python.plainenglish.io/double-your-programming-income-with-these-10-productivity-tips-5f1af4205fce?source=rss------data_science-5)
+- [10 Things I Stopped Doing After Learning SQL](https://levelup.gitconnected.com/10-things-i-stopped-doing-after-learning-sql-9eb3f576374c?source=rss------data_science-5)
+- [10 Things I Stopped Doing After Learning Decorators in Python](https://levelup.gitconnected.com/10-things-i-stopped-doing-after-learning-decorators-in-python-9874f4ddd65d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
