@@ -105,16 +105,19 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Science From Scratch](https://medium.data4sci.com/data-science-from-scratch-e3ee490f6493?source=rss------data_science-5)
-- [Midjourney new upscaling power](https://medium.datadriveninvestor.com/midjourney-new-upscaling-power-bdb8cbab4050?source=rss------data_science-5)
-- [Top 10 Frameworks Every Python Developer Should Know for Improved Productivity](https://medium.com/@everythingprogramming/top-10-frameworks-every-python-developer-should-know-for-improved-productivity-ea115f953ee5?source=rss------data_science-5)
-- [Top 10 Libraries Every Python Developer Should Know for Improved Productivity](https://medium.com/@everythingprogramming/top-10-libraries-every-python-developer-should-know-for-improved-productivity-1bbb0c958173?source=rss------data_science-5)
-- [Mapping Our Universe: Breaking Ground in Land Use Prediction Modeling](https://medium.com/@reidjoseph201/mapping-our-universe-breaking-ground-in-land-use-prediction-modeling-8da7361af40b?source=rss------data_science-5)
-- [Top 10 Ways I Became More Productive by Learning Programming](https://medium.com/@everythingprogramming/top-10-ways-i-become-more-productive-by-learning-programming-df88c5bfa532?source=rss------data_science-5)
-- [Top 10 Ways I Make Extra Income with Programming](https://medium.com/@everythingprogramming/top-10-ways-i-make-extra-income-with-programming-f2e735379c99?source=rss------data_science-5)
-- [Double Your Programming Income with These 10 Productivity Tips](https://python.plainenglish.io/double-your-programming-income-with-these-10-productivity-tips-5f1af4205fce?source=rss------data_science-5)
-- [10 Things I Stopped Doing After Learning SQL](https://levelup.gitconnected.com/10-things-i-stopped-doing-after-learning-sql-9eb3f576374c?source=rss------data_science-5)
-- [10 Things I Stopped Doing After Learning Decorators in Python](https://levelup.gitconnected.com/10-things-i-stopped-doing-after-learning-decorators-in-python-9874f4ddd65d?source=rss------data_science-5)
+- [Beyond Real Data: Leveraging GPT-4 for Synthetic Graph Generation and Analysis](https://medium.com/@dhshah1112/beyond-real-data-leveraging-gpt-4-for-synthetic-graph-generation-and-analysis-255998a866b1?source=rss------data_science-5)
+- [Text Summarization with Large Language Models](https://medium.com/@luuisotorres/text-summarization-with-large-language-models-c9ae4be96863?source=rss------data_science-5)
+- [AWS Glue Table Serde Settings for reading Escaped CSV file](https://medium.com/@rongalinaidu/aws-glue-table-serde-settings-for-reading-escaped-csv-file-5097693ab77e?source=rss------data_science-5)
+- [Meta Data Science, Analytics Screening: Interview Cheat Sheet](https://medium.com/@pmannuel/meta-data-science-analytics-screening-interview-cheat-sheet-735abb17fc8e?source=rss------data_science-5)
+- [Producer-Consumer Design Pattern in Golang with Unit Tests](https://levelup.gitconnected.com/producer-consumer-design-pattern-in-golang-with-unit-tests-d8e93410ba4b?source=rss------data_science-5)
+- [Leveraging GPT-4 for Rapid Data Preprocessing, Analysis, and Modeling in Audio Data](https://medium.com/@dhshah1112/leveraging-gpt-4-for-rapid-data-preprocessing-analysis-and-modeling-in-audio-data-e235e7c9e71c?source=rss------data_science-5)
+- [Leveraging GPT-4 for Rapid Data Exploration and Modeling: A Journey with Fashion MNIST](https://medium.com/@dhshah1112/leveraging-gpt-4-for-rapid-data-exploration-and-modeling-a-journey-with-fashion-mnist-55abb1d9be5c?source=rss------data_science-5)
+- [شماره خاله 
+09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-1f9af48935ad?source=rss------data_science-5)
+- [شماره خاله 
+09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-8a4af7335912?source=rss------data_science-5)
+- [شماره خاله 
+09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-c40d12ec2fd2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
