@@ -105,19 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Beyond Real Data: Leveraging GPT-4 for Synthetic Graph Generation and Analysis](https://medium.com/@dhshah1112/beyond-real-data-leveraging-gpt-4-for-synthetic-graph-generation-and-analysis-255998a866b1?source=rss------data_science-5)
-- [Text Summarization with Large Language Models](https://medium.com/@luuisotorres/text-summarization-with-large-language-models-c9ae4be96863?source=rss------data_science-5)
-- [AWS Glue Table Serde Settings for reading Escaped CSV file](https://medium.com/@rongalinaidu/aws-glue-table-serde-settings-for-reading-escaped-csv-file-5097693ab77e?source=rss------data_science-5)
-- [Meta Data Science, Analytics Screening: Interview Cheat Sheet](https://medium.com/@pmannuel/meta-data-science-analytics-screening-interview-cheat-sheet-735abb17fc8e?source=rss------data_science-5)
-- [Producer-Consumer Design Pattern in Golang with Unit Tests](https://levelup.gitconnected.com/producer-consumer-design-pattern-in-golang-with-unit-tests-d8e93410ba4b?source=rss------data_science-5)
-- [Leveraging GPT-4 for Rapid Data Preprocessing, Analysis, and Modeling in Audio Data](https://medium.com/@dhshah1112/leveraging-gpt-4-for-rapid-data-preprocessing-analysis-and-modeling-in-audio-data-e235e7c9e71c?source=rss------data_science-5)
-- [Leveraging GPT-4 for Rapid Data Exploration and Modeling: A Journey with Fashion MNIST](https://medium.com/@dhshah1112/leveraging-gpt-4-for-rapid-data-exploration-and-modeling-a-journey-with-fashion-mnist-55abb1d9be5c?source=rss------data_science-5)
-- [شماره خاله 
-09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-1f9af48935ad?source=rss------data_science-5)
-- [شماره خاله 
-09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-8a4af7335912?source=rss------data_science-5)
-- [شماره خاله 
-09367743135](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09367743135-c40d12ec2fd2?source=rss------data_science-5)
+- [ChatGPT: A In-Depth One-Year Review of It’s Impact and Evolution](https://medium.datadriveninvestor.com/chatgpt-a-in-depth-one-year-review-of-its-impact-and-evolution-d2aa986e2c09?source=rss------data_science-5)
+- [How to use LLama2 and Zephyr in an offline environment with Python](https://medium.datadriveninvestor.com/how-to-use-llama2-and-zephyr-in-an-offline-environment-with-python-eb235fea2aba?source=rss------data_science-5)
+- [Leveraging Predictive Analytics to Measure AI Solutions](https://medium.datadriveninvestor.com/leveraging-predictive-analytics-to-measure-ai-solutions-e514b44a39d4?source=rss------data_science-5)
+- [Unraveling the Mysteries: Large Language Models and AlphaFold in Action](https://medium.com/@yadishahryary/unraveling-the-mysteries-large-language-models-and-alphafold-in-action-54055ebe5993?source=rss------data_science-5)
+- [Unlocking Spatial Data Science with Python: A Seamless Journey into ArcGIS](https://medium.com/geospatial-intelligence/unlocking-spatial-data-science-with-python-a-seamless-journey-into-arcgis-75c6303b370a?source=rss------data_science-5)
+- [Mastering the Art of P&amp;L Analysis in Financial Services Analytics](https://medium.com/@joshiakash89/mastering-the-art-of-p-l-analysis-in-financial-services-analytics-9eef85e26ade?source=rss------data_science-5)
+- [What Is Data Science, Data Engineering, Data Analysis, and Business Intelligence?](https://medium.com/@networkcindy/what-is-data-science-data-engineering-data-analysis-and-business-intelligence-0ad1fc075708?source=rss------data_science-5)
+- [How to Conduct Stock Analysis with Python in Google Colab](https://ernestodotnet.medium.com/how-to-conduct-stock-analysis-with-python-in-google-colab-06dcc458c677?source=rss------data_science-5)
+- [# شماره خاله # شماره خاله تهران #تهرانپارس پونک ونک اسلامشهر #شماره خاله شیوا # شماره خاله واقعی #…](https://medium.com/@khwppddtkhnwpp/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D9%BE%D9%88%D9%86%DA%A9-%D9%88%D9%86%DA%A9-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D9%88%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%88%D8%A7%D9%82%D8%B9%DB%8C-783250923f0d?source=rss------data_science-5)
+- [No ‘Science’ in Data Science?](https://towardsdatascience.com/no-science-in-data-science-361ee914dc27?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
