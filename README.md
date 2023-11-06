@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [30 Data Analyst SQL Interview Questions and Answers.](https://medium.com/@sajzathossain/30-data-analyst-sql-interview-questions-and-answers-b7cf981adc22?source=rss------data_science-5)
-- [Mastering the Art of Netflix Recommendations: How It Works and How to Build Your Own — Using NLP.](https://medium.com/@sgunda6/mastering-the-art-of-netflix-recommendations-how-it-works-and-how-to-build-your-own-using-nlp-c758c0f03248?source=rss------data_science-5)
-- [Choosing Between Python and R for Data Science](https://blog.tdg.international/choosing-between-python-and-r-for-data-science-afd003aa908e?source=rss------data_science-5)
-- [Deploying Machine Learning Pipelines: A Comprehensive Overview](https://medium.com/@evertongomede/deploying-machine-learning-pipelines-a-comprehensive-overview-fd1248cf2cfe?source=rss------data_science-5)
-- [DMT: Exploring the Enigmatic Spirit Molecule](https://trueslice.medium.com/dmt-exploring-the-enigmatic-spirit-molecule-bacdc4809013?source=rss------data_science-5)
-- [Making Smart Decisions with Tree Pruning in Machine Learning ✂️](https://medium.com/@bhimarasettycherish/making-smart-decisions-with-tree-pruning-in-machine-learning-%EF%B8%8F-f962f21b238b?source=rss------data_science-5)
-- [12 SQL String Functions You Should Know as a Data Analyst or Data Scientist](https://medium.com/@SQLprogramming/12-sql-string-functions-you-should-know-as-a-data-analyst-or-data-scientist-31ae0ad6cf2e?source=rss------data_science-5)
-- [Getting Started with Go — Maps, Structs, Error Handling, Logging &amp; Testing](https://levelup.gitconnected.com/getting-started-with-go-maps-structs-error-handling-logging-testing-304e86e70cde?source=rss------data_science-5)
-- [Les auto-encodeurs en data mining : un guide initiatique et pratique pour débutants](https://medium.com/@abderrahmane.roumane.ext/les-auto-encodeurs-en-data-mining-un-guide-initiatique-et-pratique-pour-d%C3%A9butants-494d6078f789?source=rss------data_science-5)
+- [“SQL vs. Spark: A Simplified Comparison for Your Data Needs”](https://code.likeagirl.io/sql-vs-spark-a-simplified-comparison-for-your-data-needs-b02e3b3dde1f?source=rss------data_science-5)
+- [Building a RAG based Blog AI assistant using Streamlit, OpenAI and LlamaIndex](https://vinodhini-sd.medium.com/building-a-rag-based-blog-ai-assistant-using-streamlit-openai-and-llamaindex-304f6ffe6757?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-797f2eeb6106?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-1e60c28163bf?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-9cbb02b53194?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-3de7a0d7af89?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-34773c824aa8?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-03ba4c4c86a2?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-d3b7c6af6491?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-b340077b6629?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
