@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [7 Examples to Master Categorical Data Operations with Python Pandas](https://towardsdatascience.com/7-examples-to-master-categorical-data-operations-with-python-pandas-51cdcb0228ba?source=rss-2cf6b549448------2)
 - [Only Use LLMs If You Know How to Do the Task on Your Own](https://towardsdatascience.com/only-use-llms-if-you-know-how-to-do-the-task-on-your-own-0d56e0d07572?source=rss-2cf6b549448------2)
 - [3 Important “vs.” Among Python Functions and Methods](https://sonery.medium.com/3-important-vs-among-python-functions-and-methods-5669817ea7dc?source=rss-2cf6b549448------2)
 - [I Tested ChatGPT ADA for a Data Cleaning Task. It’s Super Helpful but Fails Logical Reasoning](https://pub.towardsai.net/i-tested-chatgpt-ada-for-a-data-cleaning-task-its-super-helpful-but-fails-logical-reasoning-ec2485d6e780?source=rss-2cf6b549448------2)
 - [Cleaning a Messy Car Dataset with Python Pandas](https://towardsdatascience.com/cleaning-a-messy-car-dataset-with-python-pandas-700fe10a7180?source=rss-2cf6b549448------2)
-- [3 Types of Data Distribution Shifts in ML Systems](https://sonery.medium.com/3-types-of-data-distribution-shifts-in-ml-systems-18e1360cf4d?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
