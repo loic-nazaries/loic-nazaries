@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Brief History of an AI Revolution — Key milestones in AI history leading up to the current…](https://medium.com/@chaplainhogan/the-brief-history-of-an-ai-revolution-key-milestones-in-ai-history-leading-up-to-the-current-e887718411ca?source=rss------data_science-5)
-- [Vector Databases: The Engine Behind Today’s AI Revolution](https://medium.com/@valerierose2610/vector-databases-the-engine-behind-todays-ai-revolution-d8e83675075c?source=rss------data_science-5)
-- [Amazon SageMaker: Revolutionizing Machine Learning and Artificial Intelligence](https://medium.com/@evertongomede/amazon-sagemaker-revolutionizing-machine-learning-and-artificial-intelligence-cd780a50a27c?source=rss------data_science-5)
-- [Епізод 1: Хто потрібен бізнесу? Data Engineer vs Data Analyst vs Data Scientist!](https://medium.com/@ihorbetlei/%D0%B5%D0%BF%D1%96%D0%B7%D0%BE%D0%B4-1-%D1%85%D1%82%D0%BE-%D0%BF%D0%BE%D1%82%D1%80%D1%96%D0%B1%D0%B5%D0%BD-%D0%B1%D1%96%D0%B7%D0%BD%D0%B5%D1%81%D1%83-data-engineer-vs-data-analyst-vs-data-scientist-fc28115be485?source=rss------data_science-5)
-- [Machine Learning Interview Quiz 11: K-Nearest Neighbors &lpar;KNN&rpar;](https://kawsar34.medium.com/machine-learning-interview-quiz-11-k-nearest-neighbors-knn-09eac050cbdf?source=rss------data_science-5)
-- [A Complete Data Science Roadmap for 2024](https://medium.com/@polinacsv/a-complete-data-science-roadmap-for-2024-ca35a5d16f5b?source=rss------data_science-5)
-- [The Rise of AI Democratization](https://medium.com/@chaplainhogan/the-rise-of-ai-democratization-b4483b8cf423?source=rss------data_science-5)
-- [شماره خاله داف تهرانی دختر دافکده دختر ایرانی همسریابی دختر تهران دافی_نازدخترانه استقلال پرپسپولیس…](https://medium.com/@jmrym9471/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AF%D8%A7%D9%81-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%AF%D8%A7%D9%81%DA%A9%D8%AF%D9%87-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%87%D9%85%D8%B3%D8%B1%DB%8C%D8%A7%D8%A8%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AF%D8%A7%D9%81%DB%8C-%D9%86%D8%A7%D8%B2%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86%D9%87-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D9%BE%D8%B1%D9%BE%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3-a40004dd83aa?source=rss------data_science-5)
-- [What are LLMs: A Beginner’s Guide &lpar;Unleashing the Magic of Big Talkers&rpar;](https://medium.com/@simbatmotsi/what-are-llms-a-beginners-guide-unleashing-the-magic-of-big-talkers-061a3be5b35a?source=rss------data_science-5)
-- [شماره خاله شماره خاله تهران09037004904شماره خاله اندیشه شماره خاله اصفهان شماره خاله اردبیل داف…](https://medium.com/@jmrym9471/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%8609037004904%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84-%D8%AF%D8%A7%D9%81-f1511679a2b5?source=rss------data_science-5)
+- [Anthropic Claude: Pioneering the Future of AI](https://medium.com/@jorgecardete/anthropic-claude-pioneering-the-future-of-ai-6c863b3e8454?source=rss------data_science-5)
+- [Unraveling Selection Bias: A Guide to Robust Causal Inference](https://medium.com/@gorfein1/unraveling-selection-bias-a-guide-to-robust-causal-inference-e08298e2255e?source=rss------data_science-5)
+- [“Futurologists” should replace “Teachers”](https://mayabechi.medium.com/futurologists-should-replace-teachers-aed9b87cebd5?source=rss------data_science-5)
+- [Get Real-Time Options Data with Python in Seconds!](https://medium.datadriveninvestor.com/get-real-time-options-data-with-python-in-seconds-10be10198865?source=rss------data_science-5)
+- [Train and deploy your XGBoost model in Amazon SageMaker](https://medium.datadriveninvestor.com/train-and-deploy-your-xgboost-model-in-amazon-sagemaker-b5283cf6609d?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-c3483c98ee3b?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-fd347ac315ac?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-108a74f2a88e?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-7445cbde5294?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-86443440abd3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
