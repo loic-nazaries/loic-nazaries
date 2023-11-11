@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Anthropic Claude: Pioneering the Future of AI](https://medium.com/@jorgecardete/anthropic-claude-pioneering-the-future-of-ai-6c863b3e8454?source=rss------data_science-5)
-- [Unraveling Selection Bias: A Guide to Robust Causal Inference](https://medium.com/@gorfein1/unraveling-selection-bias-a-guide-to-robust-causal-inference-e08298e2255e?source=rss------data_science-5)
-- [“Futurologists” should replace “Teachers”](https://mayabechi.medium.com/futurologists-should-replace-teachers-aed9b87cebd5?source=rss------data_science-5)
-- [Get Real-Time Options Data with Python in Seconds!](https://medium.datadriveninvestor.com/get-real-time-options-data-with-python-in-seconds-10be10198865?source=rss------data_science-5)
-- [Train and deploy your XGBoost model in Amazon SageMaker](https://medium.datadriveninvestor.com/train-and-deploy-your-xgboost-model-in-amazon-sagemaker-b5283cf6609d?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-c3483c98ee3b?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-fd347ac315ac?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-108a74f2a88e?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-7445cbde5294?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-86443440abd3?source=rss------data_science-5)
+- [Neural Network: Hyperparameters](https://baotramduong.medium.com/neural-network-hyperparameters-0bcba44b61d8?source=rss------data_science-5)
+- [A Comparative Analysis of Dimensionality Reduction Techniques in Machine Learning](https://medium.com/@evertongomede/a-comparative-analysis-of-dimensionality-reduction-techniques-in-machine-learning-3389c5103348?source=rss------data_science-5)
+- [Machine Learning: Regularization Techniques](https://baotramduong.medium.com/machine-learning-regularization-techniques-5eec39af6d0b?source=rss------data_science-5)
+- [Neural Network: Recurrent Neural Network &lpar;RNN&rpar;](https://baotramduong.medium.com/neural-network-recurrent-neural-network-rnn-49c5934df9a8?source=rss------data_science-5)
+- [Understanding Multinomial Naive Bayes Classifier](https://medium.com/@evertongomede/understanding-multinomial-naive-bayes-classifier-fdbd41b405bf?source=rss------data_science-5)
+- [Neural Network: Convolutional Neural Net &lpar;CNN&rpar;](https://baotramduong.medium.com/neural-network-convolutional-neural-net-cnn-17a1daf7de80?source=rss------data_science-5)
+- [Neural Network: Multilayer Perceptron &lpar;MLP&rpar;](https://baotramduong.medium.com/neural-network-multilayer-perceptron-mlp-2b2a832c15c6?source=rss------data_science-5)
+- [Machine Learning: k-fold Cross Validation](https://baotramduong.medium.com/machine-learning-k-fold-cross-validation-b8f0758c47d1?source=rss------data_science-5)
+- [Regression Analysis: Homoscedasticity](https://baotramduong.medium.com/regression-analysis-homoscedasticity-a76e592f19f2?source=rss------data_science-5)
+- [Facebook as an innovative platform](https://medium.com/@itahmid/facebook-as-an-innovative-platform-85b14f4cfffb?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
