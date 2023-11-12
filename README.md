@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Neural Network: Hyperparameters](https://baotramduong.medium.com/neural-network-hyperparameters-0bcba44b61d8?source=rss------data_science-5)
-- [A Comparative Analysis of Dimensionality Reduction Techniques in Machine Learning](https://medium.com/@evertongomede/a-comparative-analysis-of-dimensionality-reduction-techniques-in-machine-learning-3389c5103348?source=rss------data_science-5)
-- [Machine Learning: Regularization Techniques](https://baotramduong.medium.com/machine-learning-regularization-techniques-5eec39af6d0b?source=rss------data_science-5)
-- [Neural Network: Recurrent Neural Network &lpar;RNN&rpar;](https://baotramduong.medium.com/neural-network-recurrent-neural-network-rnn-49c5934df9a8?source=rss------data_science-5)
-- [Understanding Multinomial Naive Bayes Classifier](https://medium.com/@evertongomede/understanding-multinomial-naive-bayes-classifier-fdbd41b405bf?source=rss------data_science-5)
-- [Neural Network: Convolutional Neural Net &lpar;CNN&rpar;](https://baotramduong.medium.com/neural-network-convolutional-neural-net-cnn-17a1daf7de80?source=rss------data_science-5)
-- [Neural Network: Multilayer Perceptron &lpar;MLP&rpar;](https://baotramduong.medium.com/neural-network-multilayer-perceptron-mlp-2b2a832c15c6?source=rss------data_science-5)
-- [Machine Learning: k-fold Cross Validation](https://baotramduong.medium.com/machine-learning-k-fold-cross-validation-b8f0758c47d1?source=rss------data_science-5)
-- [Regression Analysis: Homoscedasticity](https://baotramduong.medium.com/regression-analysis-homoscedasticity-a76e592f19f2?source=rss------data_science-5)
-- [Facebook as an innovative platform](https://medium.com/@itahmid/facebook-as-an-innovative-platform-85b14f4cfffb?source=rss------data_science-5)
+- [Money Revealed](https://medium.com/@faiksabih/money-revealed-b5ec1849782e?source=rss------data_science-5)
+- [Unlocking Linear Regression: The Role of Normal Distribution](https://medium.com/@mahmoudadel200215/unlocking-linear-regression-the-role-of-normal-distribution-f74470a771c3?source=rss------data_science-5)
+- [SQL: Window Functions](https://baotramduong.medium.com/sql-window-functions-0e2b34ffba92?source=rss------data_science-5)
+- [SQL: Types of Join](https://baotramduong.medium.com/sql-types-of-join-bef20968bcf8?source=rss------data_science-5)
+- [The art of data analytics](https://medium.com/@ranadheer0306/the-art-of-data-analytics-0798b21d8be3?source=rss------data_science-5)
+- [SQL: Query Execution Order](https://baotramduong.medium.com/sql-query-execution-order-7171edf5463e?source=rss------data_science-5)
+- [Python for Accessing and Manipulating Various Types of Documen](https://baotramduong.medium.com/python-for-accessing-and-manipulating-various-types-of-documen-6010d4a0288a?source=rss------data_science-5)
+- [دينا نقل عفش خارج الرياض 0537380614
+دينا نقل اثاث خارج الرياض.](https://nglafshriyadh0561847131.medium.com/%D8%AF%D9%8A%D9%86%D8%A7-%D9%86%D9%82%D9%84-%D8%B9%D9%81%D8%B4-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-0537380614-%D8%AF%D9%8A%D9%86%D8%A7-%D9%86%D9%82%D9%84-%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-f34ee57fd3e1?source=rss------data_science-5)
+- [Web Scraping](https://baotramduong.medium.com/web-scraping-948defdc28c9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
