@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Money Revealed](https://medium.com/@faiksabih/money-revealed-b5ec1849782e?source=rss------data_science-5)
-- [Unlocking Linear Regression: The Role of Normal Distribution](https://medium.com/@mahmoudadel200215/unlocking-linear-regression-the-role-of-normal-distribution-f74470a771c3?source=rss------data_science-5)
-- [SQL: Window Functions](https://baotramduong.medium.com/sql-window-functions-0e2b34ffba92?source=rss------data_science-5)
-- [SQL: Types of Join](https://baotramduong.medium.com/sql-types-of-join-bef20968bcf8?source=rss------data_science-5)
-- [The art of data analytics](https://medium.com/@ranadheer0306/the-art-of-data-analytics-0798b21d8be3?source=rss------data_science-5)
-- [SQL: Query Execution Order](https://baotramduong.medium.com/sql-query-execution-order-7171edf5463e?source=rss------data_science-5)
-- [Python for Accessing and Manipulating Various Types of Documen](https://baotramduong.medium.com/python-for-accessing-and-manipulating-various-types-of-documen-6010d4a0288a?source=rss------data_science-5)
-- [دينا نقل عفش خارج الرياض 0537380614
-دينا نقل اثاث خارج الرياض.](https://nglafshriyadh0561847131.medium.com/%D8%AF%D9%8A%D9%86%D8%A7-%D9%86%D9%82%D9%84-%D8%B9%D9%81%D8%B4-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-0537380614-%D8%AF%D9%8A%D9%86%D8%A7-%D9%86%D9%82%D9%84-%D8%A7%D8%AB%D8%A7%D8%AB-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-f34ee57fd3e1?source=rss------data_science-5)
-- [Web Scraping](https://baotramduong.medium.com/web-scraping-948defdc28c9?source=rss------data_science-5)
+- [The Pyramids: Ancient Power Generators Harnessing Resonant Frequencies](https://trueslice.medium.com/the-pyramids-ancient-power-generators-harnessing-resonant-frequencies-25a4cc929630?source=rss------data_science-5)
+- [SQL: Analytic Functions](https://baotramduong.medium.com/sql-analytic-functions-270ecc95016c?source=rss------data_science-5)
+- [A Wizardry Solution for GPTs: One File to Rule Them All!](https://medium.com/@jh.baek.sd/a-wizardry-solution-for-gpts-one-file-to-rule-them-all-debd2aca19b3?source=rss------data_science-5)
+- [SQL: Filtering with HAVING Clause — HAVING vs. WHERE](https://baotramduong.medium.com/sql-filtering-with-having-clause-having-vs-where-67c710243766?source=rss------data_science-5)
+- [Filtering Reality: A Closer Look at Attention Mechanisms from Theory to Practice](https://medium.com/@catarinabcarvalho/filtering-reality-a-closer-look-at-attention-mechanisms-from-theory-to-practice-10df4e1432b6?source=rss------data_science-5)
+- [Buiding an AI Speech Recognition App in Your Browser](https://levelup.gitconnected.com/buiding-an-ai-speech-recognition-app-in-your-browser-9a1fa5b1a933?source=rss------data_science-5)
+- [Guerrero Method For Accurate Forecasting](https://levelup.gitconnected.com/guerrero-method-for-accurate-forecasting-658855bf61b4?source=rss------data_science-5)
+- [Finding the Best Sector to Invest in using Python](https://levelup.gitconnected.com/finding-the-best-sector-to-invest-in-using-python-936934fea7d0?source=rss------data_science-5)
+- [Parameter-Efficient Fine-Tuning &lpar;PEFT&rpar;: Fine-tune Large Language Models with Limited Resources](https://levelup.gitconnected.com/parameter-efficient-fine-tuning-peft-fine-tune-large-language-models-with-limited-resources-a42439196d34?source=rss------data_science-5)
+- [Crafting Your Own AI Agent— A Guide to Personalizing ChatGPT](https://medium.com/forcodesake/crafting-your-own-ai-agent-guide-personalize-tutorial-chat-gpt-gpts-new-artificial-intelligence-7ca161cf3308?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
