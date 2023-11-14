@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Pyramids: Ancient Power Generators Harnessing Resonant Frequencies](https://trueslice.medium.com/the-pyramids-ancient-power-generators-harnessing-resonant-frequencies-25a4cc929630?source=rss------data_science-5)
-- [SQL: Analytic Functions](https://baotramduong.medium.com/sql-analytic-functions-270ecc95016c?source=rss------data_science-5)
-- [A Wizardry Solution for GPTs: One File to Rule Them All!](https://medium.com/@jh.baek.sd/a-wizardry-solution-for-gpts-one-file-to-rule-them-all-debd2aca19b3?source=rss------data_science-5)
-- [SQL: Filtering with HAVING Clause — HAVING vs. WHERE](https://baotramduong.medium.com/sql-filtering-with-having-clause-having-vs-where-67c710243766?source=rss------data_science-5)
-- [Filtering Reality: A Closer Look at Attention Mechanisms from Theory to Practice](https://medium.com/@catarinabcarvalho/filtering-reality-a-closer-look-at-attention-mechanisms-from-theory-to-practice-10df4e1432b6?source=rss------data_science-5)
-- [Buiding an AI Speech Recognition App in Your Browser](https://levelup.gitconnected.com/buiding-an-ai-speech-recognition-app-in-your-browser-9a1fa5b1a933?source=rss------data_science-5)
-- [Guerrero Method For Accurate Forecasting](https://levelup.gitconnected.com/guerrero-method-for-accurate-forecasting-658855bf61b4?source=rss------data_science-5)
-- [Finding the Best Sector to Invest in using Python](https://levelup.gitconnected.com/finding-the-best-sector-to-invest-in-using-python-936934fea7d0?source=rss------data_science-5)
-- [Parameter-Efficient Fine-Tuning &lpar;PEFT&rpar;: Fine-tune Large Language Models with Limited Resources](https://levelup.gitconnected.com/parameter-efficient-fine-tuning-peft-fine-tune-large-language-models-with-limited-resources-a42439196d34?source=rss------data_science-5)
-- [Crafting Your Own AI Agent— A Guide to Personalizing ChatGPT](https://medium.com/forcodesake/crafting-your-own-ai-agent-guide-personalize-tutorial-chat-gpt-gpts-new-artificial-intelligence-7ca161cf3308?source=rss------data_science-5)
+- [Artificial intelligence is the co-pilot of managers in performance management](https://medium.com/@martareyessuarez25/artificial-intelligence-is-the-co-pilot-of-managers-in-performance-management-c82f9cf727c7?source=rss------data_science-5)
+- [Sitting so close that between us, it’s dark.](https://medium.com/@emd.limit/sitting-so-close-that-between-us-its-dark-bb61aa6c0b49?source=rss------data_science-5)
+- [Here Is a Common Mistake Python Coders Should Avoid](https://medium.com/@dannydata/here-is-a-common-mistake-python-coders-should-avoid-3a9e627495e8?source=rss------data_science-5)
+- [Neural Network: Types of Neuron](https://baotramduong.medium.com/neural-network-types-of-neuron-db79a911f5a3?source=rss------data_science-5)
+- [Machine Learning: Evaluation Metrics](https://baotramduong.medium.com/machine-learning-evaluation-metrics-eb5e1579801c?source=rss------data_science-5)
+- [Comprehensive Data Analysis with ChatGPT-4 Turbo Data Analysis Tool](https://medium.com/@rts_16853/comprehensive-data-analysis-with-chatgpt-4-turbo-data-analysis-tool-35b429afb265?source=rss------data_science-5)
+- [Time-Poor Python Developer’s Guide: Edition IX.](https://medium.com/mustardseedsconsultingpublications/time-poor-python-developers-guide-edition-ix-e3827c9522bf?source=rss------data_science-5)
+- [Machine Learning: Classification vs. Regression](https://baotramduong.medium.com/machine-learning-classification-vs-regression-fe90d594a9c5?source=rss------data_science-5)
+- [Deep Learning: Why? vs. Why Not?](https://baotramduong.medium.com/deep-learning-why-37f07492c950?source=rss------data_science-5)
+- [Deep Neural Network with Keras](https://baotramduong.medium.com/deep-neural-network-with-keras-b4118216e990?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
