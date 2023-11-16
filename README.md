@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Comparing Two NFL QB-MVP Models](https://medium.com/@amritvignesh/comparing-two-nfl-qb-mvp-models-60efe9fd3891?source=rss------data_science-5)
-- [Part 2 — Scaling with the Distributed Data Parallel &lpar;DDP&rpar; Algorithm](https://medium.com/@MLAlchemy/part-2-scaling-with-the-distributed-data-parallel-ddp-algorithm-ad793c42bc1b?source=rss------data_science-5)
-- [Machine Learning: Class Imbalance](https://baotramduong.medium.com/machine-learning-class-imbalance-cca1137c8a84?source=rss------data_science-5)
-- [Navigating the Data Science Landscape: From Novice Mistakes to Expert Insights](https://medium.com/@thisisanhle/navigating-the-data-science-landscape-from-novice-mistakes-to-expert-insights-a5c327da168f?source=rss------data_science-5)
-- [Unleashing the Power of Language Models: Balancing Scale and Specialization](https://baotramduong.medium.com/unleashing-the-power-of-language-models-balancing-scale-and-specialization-6c6ab0fc32b6?source=rss------data_science-5)
-- [Data Scientist: Why You Need to Know About Domain Knowledge and Industry Dataset](https://baotramduong.medium.com/data-scientist-why-you-need-to-know-about-domain-knowledge-and-industry-dataset-8c15ab0523bd?source=rss------data_science-5)
-- [Modernizzando la mia impresa](https://medium.com/@anurnberg_45997/modernizzando-la-mia-impresa-cb1d161ebaba?source=rss------data_science-5)
-- [Estimating Market Share and Price Elasticity with OLS](https://medium.com/@gustavodavalos/estimating-market-share-and-price-elasticity-with-ols-f5670de36b12?source=rss------data_science-5)
-- [Common Types of Clustering Algorithms &lpar;Part 1&rpar;](https://medium.com/@justdinhnq/common-types-of-clustering-algorithms-part-1-f971d35868dc?source=rss------data_science-5)
-- [The Hardest Part: Defining A Target For Classification](https://towardsdatascience.com/the-hardest-part-defining-a-target-for-classification-50c34d37e0b8?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-d5e7e8b0ef57?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-e6a68ab5b243?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-84961ecda43a?source=rss------data_science-5)
+- [Time Series Analysis](https://baotramduong.medium.com/time-series-analysis-e4b4f56b0f75?source=rss------data_science-5)
+- [هاتف شاومي ريدمي نوت 13. المواصفات والسعر والمميزات في الدول العربية](https://medium.com/@saddamalkumaim/%D9%87%D8%A7%D8%AA%D9%81-%D8%B4%D8%A7%D9%88%D9%85%D9%8A-%D8%B1%D9%8A%D8%AF%D9%85%D9%8A-%D9%86%D9%88%D8%AA-13-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D9%85%D9%8A%D8%B2%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-5a3f1bad9a0f?source=rss------data_science-5)
+- [AI’s Human Touch: Empowering Everyone in the No-Code Revolution](https://priyansupattanaik.medium.com/ais-human-touch-empowering-everyone-in-the-no-code-revolution-c6b07af8aa05?source=rss------data_science-5)
+- [How to make money in next crypto bull run](https://medium.com/@yueminzhao213/how-to-make-money-in-next-crypto-bull-run-7733a7261bf4?source=rss------data_science-5)
+- [Natural Language Processing: Word Embedding](https://baotramduong.medium.com/natural-language-processing-word-embedding-c3aedff0a7e7?source=rss------data_science-5)
+- [Natural Language Processing: Name Entity Recognition &lpar;NER&rpar;](https://baotramduong.medium.com/natural-language-processing-name-entity-recognition-ner-9143a70e5925?source=rss------data_science-5)
+- [Survival Analysis — A Self-Learning Notes](https://medium.com/@qwang34/survival-analysis-a-self-learning-notes-17ef7353986a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
