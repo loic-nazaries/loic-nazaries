@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-d5e7e8b0ef57?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-e6a68ab5b243?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-84961ecda43a?source=rss------data_science-5)
-- [Time Series Analysis](https://baotramduong.medium.com/time-series-analysis-e4b4f56b0f75?source=rss------data_science-5)
-- [هاتف شاومي ريدمي نوت 13. المواصفات والسعر والمميزات في الدول العربية](https://medium.com/@saddamalkumaim/%D9%87%D8%A7%D8%AA%D9%81-%D8%B4%D8%A7%D9%88%D9%85%D9%8A-%D8%B1%D9%8A%D8%AF%D9%85%D9%8A-%D9%86%D9%88%D8%AA-13-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D8%B1-%D9%88%D8%A7%D9%84%D9%85%D9%85%D9%8A%D8%B2%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-5a3f1bad9a0f?source=rss------data_science-5)
-- [AI’s Human Touch: Empowering Everyone in the No-Code Revolution](https://priyansupattanaik.medium.com/ais-human-touch-empowering-everyone-in-the-no-code-revolution-c6b07af8aa05?source=rss------data_science-5)
-- [How to make money in next crypto bull run](https://medium.com/@yueminzhao213/how-to-make-money-in-next-crypto-bull-run-7733a7261bf4?source=rss------data_science-5)
-- [Natural Language Processing: Word Embedding](https://baotramduong.medium.com/natural-language-processing-word-embedding-c3aedff0a7e7?source=rss------data_science-5)
-- [Natural Language Processing: Name Entity Recognition &lpar;NER&rpar;](https://baotramduong.medium.com/natural-language-processing-name-entity-recognition-ner-9143a70e5925?source=rss------data_science-5)
-- [Survival Analysis — A Self-Learning Notes](https://medium.com/@qwang34/survival-analysis-a-self-learning-notes-17ef7353986a?source=rss------data_science-5)
+- [Am I Ready For a Job As a Programmer?](https://gabrielbonfim1.medium.com/am-i-ready-for-a-job-as-a-programmer-fcf8ed243156?source=rss------data_science-5)
+- [Introducing a new Approach for Revenue Prediction Utilizing the Cobb-Douglas Production Function](https://medium.com/@503823696/introducing-a-new-approach-for-revenue-prediction-utilizing-the-cobb-douglas-production-function-7098aa2cc40d?source=rss------data_science-5)
+- [Movies Recommendation System with Similarity Based Recommender System](https://baotramduong.medium.com/movies-recommendation-system-with-similarity-based-recommender-system-b13d1701a54e?source=rss------data_science-5)
+- [Music Recommender System using Pyspark](https://baotramduong.medium.com/music-recommender-system-using-pyspark-4e5d0c0990b2?source=rss------data_science-5)
+- [And now, guys..](https://medium.com/@stasdyakov69/and-now-guys-2266b8122d4d?source=rss------data_science-5)
+- [An Exploration of Major Tennis Matches of the 21st Century](https://medium.com/@derry_50750/an-exploration-of-major-tennis-matches-of-the-21st-century-1be3de5986c0?source=rss------data_science-5)
+- [Cutting Through the Noise: Chain-of-Note’s &lpar;CoN&rpar; Robust Approach to super power your RAG pipelines](https://medium.com/@praveengovi/cutting-through-the-noise-chain-of-notes-con-robust-approach-to-super-power-your-rag-pipelines-0df5f1ce7952?source=rss------data_science-5)
+- [PySpark DataFrames: a Comprehensive Guide](https://ai.gopubby.com/pyspark-dataframes-a-comprehensive-guide-6cac34964c02?source=rss------data_science-5)
+- [Unleashing the Power of Data Analytics: A Blueprint for Business Success](https://medium.com/@farazmubeen902/unleashing-the-power-of-data-analytics-a-blueprint-for-business-success-dad91135211d?source=rss------data_science-5)
+- [Unveiling Insights: An In-Depth Analysis of Rider Behavior in April 2023](https://medium.com/@jpmyronart/unveiling-insights-an-in-depth-analysis-of-rider-behavior-in-april-2023-d39db4e3ff56?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
