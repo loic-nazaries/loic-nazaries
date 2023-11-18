@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Am I Ready For a Job As a Programmer?](https://gabrielbonfim1.medium.com/am-i-ready-for-a-job-as-a-programmer-fcf8ed243156?source=rss------data_science-5)
-- [Introducing a new Approach for Revenue Prediction Utilizing the Cobb-Douglas Production Function](https://medium.com/@503823696/introducing-a-new-approach-for-revenue-prediction-utilizing-the-cobb-douglas-production-function-7098aa2cc40d?source=rss------data_science-5)
-- [Movies Recommendation System with Similarity Based Recommender System](https://baotramduong.medium.com/movies-recommendation-system-with-similarity-based-recommender-system-b13d1701a54e?source=rss------data_science-5)
-- [Music Recommender System using Pyspark](https://baotramduong.medium.com/music-recommender-system-using-pyspark-4e5d0c0990b2?source=rss------data_science-5)
-- [And now, guys..](https://medium.com/@stasdyakov69/and-now-guys-2266b8122d4d?source=rss------data_science-5)
-- [An Exploration of Major Tennis Matches of the 21st Century](https://medium.com/@derry_50750/an-exploration-of-major-tennis-matches-of-the-21st-century-1be3de5986c0?source=rss------data_science-5)
-- [Cutting Through the Noise: Chain-of-Note’s &lpar;CoN&rpar; Robust Approach to super power your RAG pipelines](https://medium.com/@praveengovi/cutting-through-the-noise-chain-of-notes-con-robust-approach-to-super-power-your-rag-pipelines-0df5f1ce7952?source=rss------data_science-5)
-- [PySpark DataFrames: a Comprehensive Guide](https://ai.gopubby.com/pyspark-dataframes-a-comprehensive-guide-6cac34964c02?source=rss------data_science-5)
-- [Unleashing the Power of Data Analytics: A Blueprint for Business Success](https://medium.com/@farazmubeen902/unleashing-the-power-of-data-analytics-a-blueprint-for-business-success-dad91135211d?source=rss------data_science-5)
-- [Unveiling Insights: An In-Depth Analysis of Rider Behavior in April 2023](https://medium.com/@jpmyronart/unveiling-insights-an-in-depth-analysis-of-rider-behavior-in-april-2023-d39db4e3ff56?source=rss------data_science-5)
+- [رسائل Instagram المباشرة: 7 نصائح للمحادثات على Instagram](https://medium.com/@saddamalkumaim/%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-instagram-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%D8%A9-7-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%84%D9%84%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-instagram-8da94a6a4ccf?source=rss------data_science-5)
+- [OpenAI’s Unexpected Turn: Sam Altman’s Farewell](https://medium.com/@napsaga/openais-unexpected-turn-sam-altman-s-farewell-f8694f7f7b63?source=rss------data_science-5)
+- [The Biggest Cybersecurity Threats You Should Know About](https://medium.com/@yemiaboki/the-biggest-cybersecurity-threats-you-should-know-about-8b81954ced20?source=rss------data_science-5)
+- [Optimizing Scikit-Learn Models for Large Datasets and Deployment: Unveiling Incremental Learning…](https://medium.com/@dannydata/optimizing-scikit-learn-models-for-large-datasets-and-deployment-unveiling-incremental-learning-9c344b0da6d7?source=rss------data_science-5)
+- [The Data Analytics and Data Science Sectors Have Matured](https://medium.com/@spencerantoniomarlenstarr/the-data-analytics-and-data-science-sectors-have-matured-787eff481522?source=rss------data_science-5)
+- [Unleashing the Power of Cloud Computing: Exploring Endless Possibilities](https://medium.com/@yemiaboki/title-unleashing-the-power-of-cloud-computing-exploring-endless-possibilities-c6c2bc48dd57?source=rss------data_science-5)
+- [SQL’s Order of Execution.](https://code.likeagirl.io/sqls-order-of-execution-f64d639ce4ec?source=rss------data_science-5)
+- [WA 0838–6556–1663 Jasa Kirim Paket Malaysia Murah di Kabupaten Sampang](https://medium.com/@larismanisiklangratis/wa-0838-6556-1663-jasa-kirim-paket-malaysia-murah-di-kabupaten-sampang-e23db1bc2ecf?source=rss------data_science-5)
+- [الاكتئاب وفقدان الشهية: ما العلاقة بينهما؟](https://medium.com/@saddamalkumaim/%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D8%A6%D8%A7%D8%A8-%D9%88%D9%81%D9%82%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D8%B4%D9%87%D9%8A%D8%A9-%D9%85%D8%A7-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7-5cb04ed39c9d?source=rss------data_science-5)
+- [20 Advanced Data Manipulation in R with dplyr and data.table](https://baotramduong.medium.com/20-advanced-data-manipulation-in-r-with-dplyr-and-data-table-f0261f0991bc?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
