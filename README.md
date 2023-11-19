@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [رسائل Instagram المباشرة: 7 نصائح للمحادثات على Instagram](https://medium.com/@saddamalkumaim/%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-instagram-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%D8%A9-7-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%84%D9%84%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-instagram-8da94a6a4ccf?source=rss------data_science-5)
-- [OpenAI’s Unexpected Turn: Sam Altman’s Farewell](https://medium.com/@napsaga/openais-unexpected-turn-sam-altman-s-farewell-f8694f7f7b63?source=rss------data_science-5)
-- [The Biggest Cybersecurity Threats You Should Know About](https://medium.com/@yemiaboki/the-biggest-cybersecurity-threats-you-should-know-about-8b81954ced20?source=rss------data_science-5)
-- [Optimizing Scikit-Learn Models for Large Datasets and Deployment: Unveiling Incremental Learning…](https://medium.com/@dannydata/optimizing-scikit-learn-models-for-large-datasets-and-deployment-unveiling-incremental-learning-9c344b0da6d7?source=rss------data_science-5)
-- [The Data Analytics and Data Science Sectors Have Matured](https://medium.com/@spencerantoniomarlenstarr/the-data-analytics-and-data-science-sectors-have-matured-787eff481522?source=rss------data_science-5)
-- [Unleashing the Power of Cloud Computing: Exploring Endless Possibilities](https://medium.com/@yemiaboki/title-unleashing-the-power-of-cloud-computing-exploring-endless-possibilities-c6c2bc48dd57?source=rss------data_science-5)
-- [SQL’s Order of Execution.](https://code.likeagirl.io/sqls-order-of-execution-f64d639ce4ec?source=rss------data_science-5)
-- [WA 0838–6556–1663 Jasa Kirim Paket Malaysia Murah di Kabupaten Sampang](https://medium.com/@larismanisiklangratis/wa-0838-6556-1663-jasa-kirim-paket-malaysia-murah-di-kabupaten-sampang-e23db1bc2ecf?source=rss------data_science-5)
-- [الاكتئاب وفقدان الشهية: ما العلاقة بينهما؟](https://medium.com/@saddamalkumaim/%D8%A7%D9%84%D8%A7%D9%83%D8%AA%D8%A6%D8%A7%D8%A8-%D9%88%D9%81%D9%82%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D8%B4%D9%87%D9%8A%D8%A9-%D9%85%D8%A7-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D8%A8%D9%8A%D9%86%D9%87%D9%85%D8%A7-5cb04ed39c9d?source=rss------data_science-5)
-- [20 Advanced Data Manipulation in R with dplyr and data.table](https://baotramduong.medium.com/20-advanced-data-manipulation-in-r-with-dplyr-and-data-table-f0261f0991bc?source=rss------data_science-5)
+- [Facial Recognition and Support Vector Machines](https://medium.com/mlearning-ai/facial-recognition-and-support-vector-machines-46720b95526c?source=rss------data_science-5)
+- [Extraordinary Parenting](https://medium.com/@faiksabih/extraordinary-parenting-70f126d6ed38?source=rss------data_science-5)
+- [ML Feature Engineering: Feature Crosses](https://medium.com/@chuntcdj/ml-feature-engineering-feature-crosses-131c4d68fdd1?source=rss------data_science-5)
+- [Effortlessly Sync Your Google Colab or Jupyter Notebook Data Projects with GitHub: A Step-by-Step…](https://vishal-lingineni.medium.com/effortlessly-sync-your-google-colab-or-jupyter-notebook-data-projects-with-github-a-step-by-step-61fb5019abc5?source=rss------data_science-5)
+- [⚡ Empowering Power BI: Unlocking efficiency with Power BI Telemetry for Faster Dataset Refreshes…](https://medium.com/@giancarllo.torres/empowering-power-bi-unlocking-efficiency-with-power-bi-telemetry-for-faster-dataset-refreshes-abeff8e17321?source=rss------data_science-5)
+- [Human-in-the-Loop: Incorporating Subjectivity in Model Evaluation Metrics](https://baotramduong.medium.com/human-in-the-loop-incorporating-subjectivity-in-model-evaluation-metrics-299273874d97?source=rss------data_science-5)
+- [Adapting Error Metrics for Changing Model Requirements](https://baotramduong.medium.com/adapting-error-metrics-for-changing-model-requirements-d776f4c091d5?source=rss------data_science-5)
+- [Iterating the Process of Model Development with Error Metrics](https://baotramduong.medium.com/iterating-the-process-of-model-development-with-error-metrics-d0be22a96c73?source=rss------data_science-5)
+- [Transforming Audio to Text with OpenAI’s Speech-to-Text API: A Practical Step by Step Guide.](https://ernestodotnet.medium.com/transforming-audio-to-text-with-openais-speech-to-text-api-a-practical-step-by-step-guide-8139e4e65fdf?source=rss------data_science-5)
+- [Balancing Error Metrics in Ensemble Learning](https://baotramduong.medium.com/error-metrics-in-ensemble-learning-a66514d6f320?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
