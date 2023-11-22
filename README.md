@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Learning Crisis: Why Our Education System Is Failing Students](https://medium.com/@pranava.manthena/the-learning-crisis-why-our-education-system-is-failing-students-e084fe5b0fd4?source=rss------data_science-5)
-- [Statistical Stories - Bayesian Optimization](https://medium.com/@Currie32/statistical-stories-bayesian-optimization-5106914cd495?source=rss------data_science-5)
-- [From Logic to Empathy: The Groundbreaking Impact of SIM ToM Prompting technique in LLM](https://medium.com/@praveengovi/from-logic-to-empathy-the-groundbreaking-impact-of-sim-tom-prompting-technique-in-llm-f2dabb81ef00?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-b73e73ba6e60?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-210e9830a936?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-c9d64d74c168?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-200110b7a4d8?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-b5148bf1ce7d?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-851707429e61?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-418fc96d399a?source=rss------data_science-5)
+- [What I Learned: Successful ML Models in Production](https://nathanhanks.medium.com/what-i-learned-successful-ml-models-in-production-9a06a907961e?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله شماره خاله اهواز شماره خاله اصفهان شماره خاله کرج شماره خاله تبریز…](https://medium.com/@sanazhsyny02/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-c9e982cc5bb9?source=rss------data_science-5)
+- [Diabetes Alert: Predicting Diabetes with Machine Learning](https://medium.com/@fabioolivei/diabetes-alert-predicting-diabetes-with-machine-learning-2d4bce09878b?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-a6e905e4f001?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-3557b1f3a331?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-b1a62d012640?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-82080bd6dcf2?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-7ab5f62a9554?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-797d37b0defc?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@thranshmarhkhalh4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-87aa9a22107c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
