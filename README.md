@@ -105,25 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [شماره خاله 
-09373896988](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09373896988-b0cea5afc836?source=rss------data_science-5)
-- [شماره خاله 
-09373896988](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09373896988-11f36daa1563?source=rss------data_science-5)
-- [شماره خاله 
-09373896988](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09373896988-96631f1bfd30?source=rss------data_science-5)
-- [Explainable AI: Model-Agnostic Approaches to Explainability - Pros and Cons](https://baotramduong.medium.com/explainable-ai-model-agnostic-approaches-to-explainability-pros-and-cons-bcd8fbf5b29b?source=rss------data_science-5)
-- [شماره خاله 
-09373896988](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09373896988-7f94a2ba0032?source=rss------data_science-5)
-- [شماره خاله 
-09373896988](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09373896988-882940a98c6f?source=rss------data_science-5)
-- [شماره خاله 
-09373896988](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09373896988-45b5023d3f72?source=rss------data_science-5)
-- [شماره خاله 
-09373896988](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09373896988-10c08ae33a64?source=rss------data_science-5)
-- [شماره خاله 
-09373896988](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09373896988-1e0bad9b54c9?source=rss------data_science-5)
-- [شماره خاله 
-09373896988](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09373896988-5f9aa391784a?source=rss------data_science-5)
+- [Understanding Cardiac Disease](https://medium.com/@chancmiu814/understanding-cardiac-disease-a0d9e35f876a?source=rss------data_science-5)
+- [Data Science in a Nutshell: 100 Quick Python Commands](https://baotramduong.medium.com/data-science-in-a-nutshell-100-quick-python-commands-4d3949eb8fbd?source=rss------data_science-5)
+- [Data Science in a Nutshell: 100 Quick R Commands](https://baotramduong.medium.com/data-science-in-a-nutshell-100-quick-r-commands-8d7a9aec46a7?source=rss------data_science-5)
+- [Deja de usar Dict[Key] para consultar datos en diccionarios de Python](https://medium.com/@kevin.zepeda/deja-de-usar-dict-key-para-consultar-datos-en-diccionarios-de-python-6d40f25576b5?source=rss------data_science-5)
+- [Rapid R: 100 Quick One-Liners for Everyday Tasks](https://baotramduong.medium.com/rapid-r-100-quick-one-liners-for-everyday-tasks-96490d85e81b?source=rss------data_science-5)
+- [شماره خاله 09010712940](https://medium.com/@azjalkhshs/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09010712940-8f7249f1a81a?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله شیراز شماره خاله بندر شماره خاله اصفهان شماره خاله چابهار شماره خاله…](https://medium.com/@azjalkhshs/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-943cad46e448?source=rss------data_science-5)
+- [Complex Intersection of Software Engineering and Data: A Critical Perspective](https://medium.com/@mohalinks/complex-intersection-of-software-engineering-and-data-a-critical-perspective-8cade35aaa65?source=rss------data_science-5)
+- [شماره خاله 09010712940](https://medium.com/@azjalkhshs/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09010712940-844c3af51060?source=rss------data_science-5)
+- [How to Ace Your Data Analyst Interview: A Comprehensive Guide](https://medium.com/@keshavgupta0499/how-to-ace-your-data-analyst-interview-a-comprehensive-guide-4662025ea5c5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
