@@ -105,16 +105,20 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Understanding Cardiac Disease](https://medium.com/@chancmiu814/understanding-cardiac-disease-a0d9e35f876a?source=rss------data_science-5)
-- [Data Science in a Nutshell: 100 Quick Python Commands](https://baotramduong.medium.com/data-science-in-a-nutshell-100-quick-python-commands-4d3949eb8fbd?source=rss------data_science-5)
-- [Data Science in a Nutshell: 100 Quick R Commands](https://baotramduong.medium.com/data-science-in-a-nutshell-100-quick-r-commands-8d7a9aec46a7?source=rss------data_science-5)
-- [Deja de usar Dict[Key] para consultar datos en diccionarios de Python](https://medium.com/@kevin.zepeda/deja-de-usar-dict-key-para-consultar-datos-en-diccionarios-de-python-6d40f25576b5?source=rss------data_science-5)
-- [Rapid R: 100 Quick One-Liners for Everyday Tasks](https://baotramduong.medium.com/rapid-r-100-quick-one-liners-for-everyday-tasks-96490d85e81b?source=rss------data_science-5)
-- [شماره خاله 09010712940](https://medium.com/@azjalkhshs/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09010712940-8f7249f1a81a?source=rss------data_science-5)
-- [شماره خاله تهران شماره خاله شیراز شماره خاله بندر شماره خاله اصفهان شماره خاله چابهار شماره خاله…](https://medium.com/@azjalkhshs/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-943cad46e448?source=rss------data_science-5)
-- [Complex Intersection of Software Engineering and Data: A Critical Perspective](https://medium.com/@mohalinks/complex-intersection-of-software-engineering-and-data-a-critical-perspective-8cade35aaa65?source=rss------data_science-5)
-- [شماره خاله 09010712940](https://medium.com/@azjalkhshs/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09010712940-844c3af51060?source=rss------data_science-5)
-- [How to Ace Your Data Analyst Interview: A Comprehensive Guide](https://medium.com/@keshavgupta0499/how-to-ace-your-data-analyst-interview-a-comprehensive-guide-4662025ea5c5?source=rss------data_science-5)
+- [Wikipedia Toxic Comments Classification with CNN](https://baotramduong.medium.com/wikipedia-toxic-comments-classification-with-cnn-2b9a55d21abf?source=rss------data_science-5)
+- [https://nplink.net/ednhiy18](https://medium.com/@paulatane77/https-nplink-net-ednhiy18-fe8a6c99ee28?source=rss------data_science-5)
+- [Data Science in R: Building Probabilistic Models with bnlearn, igraph, and gRain Packages](https://baotramduong.medium.com/data-science-in-r-building-probabilistic-models-with-bnlearn-igraph-and-grain-packages-0fe4ddc7852c?source=rss------data_science-5)
+- [Whenever Possible, Use the Mean Absolute Deviation Instead of the So-Called “Standard” Deviation](https://medium.com/@spencerantoniomarlenstarr/whenever-possible-use-the-mean-absolute-deviation-instead-of-the-so-called-standard-deviation-b824c7f0686a?source=rss------data_science-5)
+- [Mastering Conditional Logic in SQL: A Deep Dive into “CASE WHEN” Statements](https://medium.com/illumination/mastering-conditional-logic-in-sql-a-deep-dive-into-case-when-statements-52f0aca9890c?source=rss------data_science-5)
+- [شماره خاله 
+‎0903 400 8108](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-0903-400-8108-448ccf3d1c29?source=rss------data_science-5)
+- [How to build an Image-to-Image search tool using CLIP &amp; Pinecone](https://medium.com/@tenyks_blogger/how-to-build-an-image-to-image-search-tool-using-clip-pinecone-b7b70c44faac?source=rss------data_science-5)
+- [شماره خاله 
+‎0903 400 8108](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-0903-400-8108-b3d3b7000102?source=rss------data_science-5)
+- [شماره خاله 
+‎0903 400 8108](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-0903-400-8108-d789e9e6a902?source=rss------data_science-5)
+- [شماره خاله 
+‎0903 400 8108](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-0903-400-8108-df7b6b6fb246?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
