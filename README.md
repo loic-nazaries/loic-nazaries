@@ -105,20 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Wikipedia Toxic Comments Classification with CNN](https://baotramduong.medium.com/wikipedia-toxic-comments-classification-with-cnn-2b9a55d21abf?source=rss------data_science-5)
-- [https://nplink.net/ednhiy18](https://medium.com/@paulatane77/https-nplink-net-ednhiy18-fe8a6c99ee28?source=rss------data_science-5)
-- [Data Science in R: Building Probabilistic Models with bnlearn, igraph, and gRain Packages](https://baotramduong.medium.com/data-science-in-r-building-probabilistic-models-with-bnlearn-igraph-and-grain-packages-0fe4ddc7852c?source=rss------data_science-5)
-- [Whenever Possible, Use the Mean Absolute Deviation Instead of the So-Called “Standard” Deviation](https://medium.com/@spencerantoniomarlenstarr/whenever-possible-use-the-mean-absolute-deviation-instead-of-the-so-called-standard-deviation-b824c7f0686a?source=rss------data_science-5)
-- [Mastering Conditional Logic in SQL: A Deep Dive into “CASE WHEN” Statements](https://medium.com/illumination/mastering-conditional-logic-in-sql-a-deep-dive-into-case-when-statements-52f0aca9890c?source=rss------data_science-5)
-- [شماره خاله 
-‎0903 400 8108](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-0903-400-8108-448ccf3d1c29?source=rss------data_science-5)
-- [How to build an Image-to-Image search tool using CLIP &amp; Pinecone](https://medium.com/@tenyks_blogger/how-to-build-an-image-to-image-search-tool-using-clip-pinecone-b7b70c44faac?source=rss------data_science-5)
-- [شماره خاله 
-‎0903 400 8108](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-0903-400-8108-b3d3b7000102?source=rss------data_science-5)
-- [شماره خاله 
-‎0903 400 8108](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-0903-400-8108-d789e9e6a902?source=rss------data_science-5)
-- [شماره خاله 
-‎0903 400 8108](https://medium.com/@nynny595/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-0903-400-8108-df7b6b6fb246?source=rss------data_science-5)
+- [Mastering Various Candlestick Charts: Uncovering the Language of Price Action for Strategic Trading…](https://medium.com/@senadnmzky/mastering-variouscandlestick-charts-uncovering-the-language-of-price-action-for-strategic-trading-1b484405bafc?source=rss------data_science-5)
+- [Data Shaping Query Language: A Comprehensive Guide](https://medium.com/@Divinz/data-shaping-query-language-a-comprehensive-guide-45351df08d2b?source=rss------data_science-5)
+- [Navigating Vector Operations in Azure SQL for Better Data Insights: A Guide How to Use Generative…](https://medium.com/@lawrenceteixeira/navigating-vector-operations-in-azure-sql-for-better-data-insights-a-guide-how-to-use-generative-93a3b9cc277b?source=rss------data_science-5)
+- [Decoding LLMs: Unveiling Transformer Architecture](https://medium.com/@priyanka.boddapati/decoding-llms-unveiling-transformer-architecture-2642ef20c750?source=rss------data_science-5)
+- [Ignoring ChatGPT in 2024? It’s a Bigger Mistake Than You Realize](https://medium.com/predict/ignoring-chatgpt-in-2024-its-a-bigger-mistake-than-you-realize-0cee25f48366?source=rss------data_science-5)
+- [Profitable Marketing: Less Ads, Not More](https://medium.com/@khalil.kafrouni/profitable-marketing-less-ads-not-more-3726112405be?source=rss------data_science-5)
+- [Data Collection Techniques: Web Scraping, APIs, and Databases](https://carlos-miguel-pereira.medium.com/data-collection-techniques-web-scraping-apis-and-databases-4feba2f9c649?source=rss------data_science-5)
+- [Essential Data Science Tools and Libraries: A Basic Guide](https://carlos-miguel-pereira.medium.com/essential-data-science-tools-and-libraries-a-basic-guide-955d614d5974?source=rss------data_science-5)
+- [It is impressive, this artificial intelligence will house all the scientific knowledge in the world](https://medium.com/@martareyessuarez25/it-is-impressive-this-artificial-intelligence-will-house-all-the-scientific-knowledge-in-the-world-d8acfd045220?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
