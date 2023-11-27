@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Mastering Various Candlestick Charts: Uncovering the Language of Price Action for Strategic Trading…](https://medium.com/@senadnmzky/mastering-variouscandlestick-charts-uncovering-the-language-of-price-action-for-strategic-trading-1b484405bafc?source=rss------data_science-5)
-- [Data Shaping Query Language: A Comprehensive Guide](https://medium.com/@Divinz/data-shaping-query-language-a-comprehensive-guide-45351df08d2b?source=rss------data_science-5)
-- [Navigating Vector Operations in Azure SQL for Better Data Insights: A Guide How to Use Generative…](https://medium.com/@lawrenceteixeira/navigating-vector-operations-in-azure-sql-for-better-data-insights-a-guide-how-to-use-generative-93a3b9cc277b?source=rss------data_science-5)
-- [Decoding LLMs: Unveiling Transformer Architecture](https://medium.com/@priyanka.boddapati/decoding-llms-unveiling-transformer-architecture-2642ef20c750?source=rss------data_science-5)
-- [Ignoring ChatGPT in 2024? It’s a Bigger Mistake Than You Realize](https://medium.com/predict/ignoring-chatgpt-in-2024-its-a-bigger-mistake-than-you-realize-0cee25f48366?source=rss------data_science-5)
-- [Profitable Marketing: Less Ads, Not More](https://medium.com/@khalil.kafrouni/profitable-marketing-less-ads-not-more-3726112405be?source=rss------data_science-5)
-- [Data Collection Techniques: Web Scraping, APIs, and Databases](https://carlos-miguel-pereira.medium.com/data-collection-techniques-web-scraping-apis-and-databases-4feba2f9c649?source=rss------data_science-5)
-- [Essential Data Science Tools and Libraries: A Basic Guide](https://carlos-miguel-pereira.medium.com/essential-data-science-tools-and-libraries-a-basic-guide-955d614d5974?source=rss------data_science-5)
-- [It is impressive, this artificial intelligence will house all the scientific knowledge in the world](https://medium.com/@martareyessuarez25/it-is-impressive-this-artificial-intelligence-will-house-all-the-scientific-knowledge-in-the-world-d8acfd045220?source=rss------data_science-5)
+- [K-Means Clustering With Python](https://medium.com/@kelvinlinBU/k-means-clustering-with-python-4b0068a47d70?source=rss------data_science-5)
+- [GAN Mastery: 100 Advanced Tips for Building Robust GAN Models](https://baotramduong.medium.com/generative-adversarial-networks-gans-1048d9b88ab1?source=rss------data_science-5)
+- [Autoencoder Mastery: A Guide to 100 Tips for Unsupervised Learning and Dimensionality Reduction](https://baotramduong.medium.com/autoencoder-mastery-a-guide-to-100-tips-for-unsupervised-learning-and-dimensionality-reduction-96f9aaab2211?source=rss------data_science-5)
+- [Confidence Interval: A Guide to 100 Tips for Robust Statistical Estimation](https://baotramduong.medium.com/confidence-interval-a-guide-to-100-tips-for-robust-statistical-estimation-a20bea83b2f1?source=rss------data_science-5)
+- [ZÍSKEJTE SVÉ DOKUMENTY &lpar;PASY, IDS, ŘIDIČSKÝ PRŮKAZ, TOEFL, IELTS&rpar; ONLINE.](https://medium.com/@boriswalker33/z%C3%ADskejte-sv%C3%A9-dokumenty-pasy-ids-%C5%99idi%C4%8Dsk%C3%BD-pr%C5%AFkaz-toefl-ielts-online-ee5de79cad67?source=rss------data_science-5)
+- [Logistic Regression](https://baotramduong.medium.com/logistic-regression-01fc3e042ac7?source=rss------data_science-5)
+- [100 Tips for Working With Different Types of Data](https://baotramduong.medium.com/100-tips-for-working-with-different-types-of-data-75ebaaba4877?source=rss------data_science-5)
+- [OTTAVA I VOSTRI DOCUMENTI &lpar; PASSAPORTI , IDS , PERMESSA DI CONDUCE , TOEFL , IELTS &rpar; ONLINE.](https://medium.com/@boriswalker33/ottava-i-vostri-documenti-passaporti-ids-permessa-di-conduce-toefl-ielts-online-2579c93d87f9?source=rss------data_science-5)
+- [Designing Informative Data Reports: 100 Tips for Building Persuasive Reports](https://baotramduong.medium.com/designing-informative-data-reports-100-tips-for-building-persuasive-reports-8c0074b037cc?source=rss------data_science-5)
+- [Stages of Machine Learning: 100 Tips for Getting Started and Setting Up](https://baotramduong.medium.com/stages-of-machine-learning-100-tips-for-getting-started-and-setting-up-125752b9d585?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
