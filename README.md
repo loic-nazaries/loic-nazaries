@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [K-Means Clustering With Python](https://medium.com/@kelvinlinBU/k-means-clustering-with-python-4b0068a47d70?source=rss------data_science-5)
-- [GAN Mastery: 100 Advanced Tips for Building Robust GAN Models](https://baotramduong.medium.com/generative-adversarial-networks-gans-1048d9b88ab1?source=rss------data_science-5)
-- [Autoencoder Mastery: A Guide to 100 Tips for Unsupervised Learning and Dimensionality Reduction](https://baotramduong.medium.com/autoencoder-mastery-a-guide-to-100-tips-for-unsupervised-learning-and-dimensionality-reduction-96f9aaab2211?source=rss------data_science-5)
-- [Confidence Interval: A Guide to 100 Tips for Robust Statistical Estimation](https://baotramduong.medium.com/confidence-interval-a-guide-to-100-tips-for-robust-statistical-estimation-a20bea83b2f1?source=rss------data_science-5)
-- [ZÍSKEJTE SVÉ DOKUMENTY &lpar;PASY, IDS, ŘIDIČSKÝ PRŮKAZ, TOEFL, IELTS&rpar; ONLINE.](https://medium.com/@boriswalker33/z%C3%ADskejte-sv%C3%A9-dokumenty-pasy-ids-%C5%99idi%C4%8Dsk%C3%BD-pr%C5%AFkaz-toefl-ielts-online-ee5de79cad67?source=rss------data_science-5)
-- [Logistic Regression](https://baotramduong.medium.com/logistic-regression-01fc3e042ac7?source=rss------data_science-5)
-- [100 Tips for Working With Different Types of Data](https://baotramduong.medium.com/100-tips-for-working-with-different-types-of-data-75ebaaba4877?source=rss------data_science-5)
-- [OTTAVA I VOSTRI DOCUMENTI &lpar; PASSAPORTI , IDS , PERMESSA DI CONDUCE , TOEFL , IELTS &rpar; ONLINE.](https://medium.com/@boriswalker33/ottava-i-vostri-documenti-passaporti-ids-permessa-di-conduce-toefl-ielts-online-2579c93d87f9?source=rss------data_science-5)
-- [Designing Informative Data Reports: 100 Tips for Building Persuasive Reports](https://baotramduong.medium.com/designing-informative-data-reports-100-tips-for-building-persuasive-reports-8c0074b037cc?source=rss------data_science-5)
-- [Stages of Machine Learning: 100 Tips for Getting Started and Setting Up](https://baotramduong.medium.com/stages-of-machine-learning-100-tips-for-getting-started-and-setting-up-125752b9d585?source=rss------data_science-5)
+- [100 Facts About Generative Adversarial Networks &lpar;GANs&rpar;](https://baotramduong.medium.com/100-facts-about-generative-adversarial-networks-gans-28462ad4df7a?source=rss------data_science-5)
+- [100 Facts About Trade-offs in Machine Learning](https://baotramduong.medium.com/100-facts-about-trade-offs-in-machine-learning-09a7e7f3589f?source=rss------data_science-5)
+- [Global AI Security Standards: A Review of Recent Developments](https://medium.com/@oluwafemidiakhoa/global-ai-security-standards-a-review-of-recent-developments-d366f7a0c015?source=rss------data_science-5)
+- [Revolutionizing Healthcare with NLP: The Promise and Perils of Reinforcement Learning](https://medium.com/@omkarnagarkar55/revolutionizing-healthcare-with-nlp-the-promise-and-perils-of-reinforcement-learning-63a5db70eefa?source=rss------data_science-5)
+- [100 Facts About Clustering](https://baotramduong.medium.com/100-facts-about-clustering-c2f8d0ba822b?source=rss------data_science-5)
+- [100 Facts About Machine Learning](https://baotramduong.medium.com/100-facts-about-machine-learning-cf898a21aa3f?source=rss------data_science-5)
+- [100 Facts About Decision Trees](https://baotramduong.medium.com/100-facts-about-decision-trees-3cb89bbaee62?source=rss------data_science-5)
+- [100 Facts About Random Forest](https://baotramduong.medium.com/100-facts-about-random-forest-ba09ffc8de3a?source=rss------data_science-5)
+- [Unveiling the Foundations of Data Science Methodologies](https://athiramolps.medium.com/unveiling-the-foundations-of-data-science-methodologies-49e53d9e3e39?source=rss------data_science-5)
+- [100 Facts About Support Vector Machines &lpar;SVMs&rpar;](https://baotramduong.medium.com/100-facts-about-support-vector-machines-svms-5d6e21649b9c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
