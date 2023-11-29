@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [100 Facts About Generative Adversarial Networks &lpar;GANs&rpar;](https://baotramduong.medium.com/100-facts-about-generative-adversarial-networks-gans-28462ad4df7a?source=rss------data_science-5)
-- [100 Facts About Trade-offs in Machine Learning](https://baotramduong.medium.com/100-facts-about-trade-offs-in-machine-learning-09a7e7f3589f?source=rss------data_science-5)
-- [Global AI Security Standards: A Review of Recent Developments](https://medium.com/@oluwafemidiakhoa/global-ai-security-standards-a-review-of-recent-developments-d366f7a0c015?source=rss------data_science-5)
-- [Revolutionizing Healthcare with NLP: The Promise and Perils of Reinforcement Learning](https://medium.com/@omkarnagarkar55/revolutionizing-healthcare-with-nlp-the-promise-and-perils-of-reinforcement-learning-63a5db70eefa?source=rss------data_science-5)
-- [100 Facts About Clustering](https://baotramduong.medium.com/100-facts-about-clustering-c2f8d0ba822b?source=rss------data_science-5)
-- [100 Facts About Machine Learning](https://baotramduong.medium.com/100-facts-about-machine-learning-cf898a21aa3f?source=rss------data_science-5)
-- [100 Facts About Decision Trees](https://baotramduong.medium.com/100-facts-about-decision-trees-3cb89bbaee62?source=rss------data_science-5)
-- [100 Facts About Random Forest](https://baotramduong.medium.com/100-facts-about-random-forest-ba09ffc8de3a?source=rss------data_science-5)
-- [Unveiling the Foundations of Data Science Methodologies](https://athiramolps.medium.com/unveiling-the-foundations-of-data-science-methodologies-49e53d9e3e39?source=rss------data_science-5)
-- [100 Facts About Support Vector Machines &lpar;SVMs&rpar;](https://baotramduong.medium.com/100-facts-about-support-vector-machines-svms-5d6e21649b9c?source=rss------data_science-5)
+- [Python Open Source AutoML with LightAutoML &lpar;*Code Example Included&rpar;](https://medium.com/chat-gpt-now-writes-all-my-articles/python-open-source-automl-with-lightautoml-code-example-included-bbb3761a5c45?source=rss------data_science-5)
+- [Courage to Learn ML: Demystifying L1 &amp; L2 Regularization &lpar;part 3&rpar;](https://towardsdatascience.com/courage-to-learn-ml-demystifying-l1-l2-regularization-part-3-ee27cd4b557a?source=rss------data_science-5)
+- [Audio Classification: Eastern African Bird Species Identification and Conservation](https://baotramduong.medium.com/machine-learning-for-eastern-african-bird-species-identification-and-conservation-fd2959c42f94?source=rss------data_science-5)
+- [Ciência de dados para não cientistas de dados](https://medium.com/ufrj-analytica/ci%C3%AAncia-de-dados-para-n%C3%A3o-cientistas-de-dados-0793b9e1c2a8?source=rss------data_science-5)
+- [Blazing Fast Triple Barrier Labeling With Polars for Better ML Models](https://medium.datadriveninvestor.com/blazing-fast-triple-barrier-labeling-with-polars-for-better-ml-models-eb09203d973d?source=rss------data_science-5)
+- [Nailing the MLOps Engineer Interview](https://medium.datadriveninvestor.com/nailing-the-mlops-engineer-interview-54f717497d22?source=rss------data_science-5)
+- [Balancing Act: Mastering Feature Scaling With Python and R](https://medium.com/@ai.mlresearcher/balancing-act-mastering-feature-scaling-with-python-and-r-4dc0748b3faf?source=rss------data_science-5)
+- [Choosing the Cutoff Value](https://medium.com/@MarkVirag/choosing-the-cutoff-value-3f7bd554e712?source=rss------data_science-5)
+- [Dash Tutorial](https://medium.com/@seelcs12/dash-tutorial-e4696599377d?source=rss------data_science-5)
+- [ML Zoomcamp — Week 4 Recap &lpar;Part I&rpar;](https://medium.com/@goran.dijak/ml-zoomcamp-week-4-recap-part-i-b8a602f78a48?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
