@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Python Open Source AutoML with LightAutoML &lpar;*Code Example Included&rpar;](https://medium.com/chat-gpt-now-writes-all-my-articles/python-open-source-automl-with-lightautoml-code-example-included-bbb3761a5c45?source=rss------data_science-5)
-- [Courage to Learn ML: Demystifying L1 &amp; L2 Regularization &lpar;part 3&rpar;](https://towardsdatascience.com/courage-to-learn-ml-demystifying-l1-l2-regularization-part-3-ee27cd4b557a?source=rss------data_science-5)
-- [Audio Classification: Eastern African Bird Species Identification and Conservation](https://baotramduong.medium.com/machine-learning-for-eastern-african-bird-species-identification-and-conservation-fd2959c42f94?source=rss------data_science-5)
-- [Ciência de dados para não cientistas de dados](https://medium.com/ufrj-analytica/ci%C3%AAncia-de-dados-para-n%C3%A3o-cientistas-de-dados-0793b9e1c2a8?source=rss------data_science-5)
-- [Blazing Fast Triple Barrier Labeling With Polars for Better ML Models](https://medium.datadriveninvestor.com/blazing-fast-triple-barrier-labeling-with-polars-for-better-ml-models-eb09203d973d?source=rss------data_science-5)
-- [Nailing the MLOps Engineer Interview](https://medium.datadriveninvestor.com/nailing-the-mlops-engineer-interview-54f717497d22?source=rss------data_science-5)
-- [Balancing Act: Mastering Feature Scaling With Python and R](https://medium.com/@ai.mlresearcher/balancing-act-mastering-feature-scaling-with-python-and-r-4dc0748b3faf?source=rss------data_science-5)
-- [Choosing the Cutoff Value](https://medium.com/@MarkVirag/choosing-the-cutoff-value-3f7bd554e712?source=rss------data_science-5)
-- [Dash Tutorial](https://medium.com/@seelcs12/dash-tutorial-e4696599377d?source=rss------data_science-5)
-- [ML Zoomcamp — Week 4 Recap &lpar;Part I&rpar;](https://medium.com/@goran.dijak/ml-zoomcamp-week-4-recap-part-i-b8a602f78a48?source=rss------data_science-5)
+- [QuantumRealityArchitect](https://kosasihcorp.medium.com/quantumrealityarchitect-63de95528b67?source=rss------data_science-5)
+- [Mastering Mathematical Operations and Repetition Structures in Python for Data Science](https://medium.com/latinxinai/mastering-mathematical-operations-and-repetition-structures-in-python-for-data-science-dd8c32ea3e20?source=rss------data_science-5)
+- [Best classified website in Europe](https://medium.com/@charanjeet.stg/best-classified-website-in-europe-26662aa8b3b7?source=rss------data_science-5)
+- [Mathematics is the Universal language](https://medium.com/@emanfatima5321/mathematics-is-the-universal-language-fca60bfe3a2e?source=rss------data_science-5)
+- [Creating a Win-Win: Personalized Offers for Maximized Customer Satisfaction](https://medium.com/@elijah_89308/creating-a-win-win-personalized-offers-for-maximized-customer-satisfaction-c27180feb122?source=rss------data_science-5)
+- [Enhance Your Data Science, Computational Thinking, and Cognitive Science Skills with These 15 Free…](https://matthewk84.medium.com/enhance-your-data-science-computational-thinking-and-cognitive-science-skills-with-these-15-free-eca272e777b8?source=rss------data_science-5)
+- [ML Zoomcamp — Week 4 Recap &lpar;Part II&rpar;](https://medium.com/@goran.dijak/ml-zoomcamp-week-4-recap-part-ii-31a5c673078e?source=rss------data_science-5)
+- [Artificial Intelligence as a strategy to equalize business competitiveness](https://medium.com/@martareyessuarez25/artificial-intelligence-as-a-strategy-to-equalize-business-competitiveness-de139750aceb?source=rss------data_science-5)
+- [Students use artificial intelligence to predict rain](https://medium.com/@martareyessuarez25/students-use-artificial-intelligence-to-predict-rain-c433e67d096e?source=rss------data_science-5)
+- [all good things come to an end.](https://medium.com/@mocdata/all-good-things-come-to-an-end-28bdcf1d5b23?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
