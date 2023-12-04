@@ -105,16 +105,14 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Creating an Automated Stock Trading System using Reinforcement Learning](https://medium.com/@samuelerickson977/creating-an-automated-stock-trading-system-using-reinforcement-learning-e1dbe1a305fd?source=rss------data_science-5)
-- [Data Science Project: A/B Testing For Ad Campaign in Python](https://baotramduong.medium.com/data-science-project-a-b-testing-for-ad-campaign-in-python-ffaca9170bc4?source=rss------data_science-5)
-- [Do Conservatives Really Believe in Equal Opportunity?](https://medium.com/bouncin-and-behavin-blogs/do-conservatives-really-believe-in-equal-opportunity-1487fe77cf55?source=rss------data_science-5)
-- [Windmill Money Loan Customer Care Service For Hilpilne Number91102394537855864281Call Me…](https://medium.com/@cotaf99634/windmill-money-loan-customer-care-service-for-hilpilne-number-9110239453-7855864281-call-me-23196544e6eb?source=rss------data_science-5)
-- [Windmill Money Loan Customer Care Service For Hilpilne Number91102394537855864281Call Me…](https://medium.com/@cotaf99634/windmill-money-loan-customer-care-service-for-hilpilne-number-9110239453-7855864281-call-me-2f85f59a977e?source=rss------data_science-5)
-- [Windmill Money Loan Customer Care Service For Hilpilne Number91102394537855864281Call Me…](https://medium.com/@cotaf99634/windmill-money-loan-customer-care-service-for-hilpilne-number-9110239453-7855864281-call-me-c5f433410e56?source=rss------data_science-5)
-- [Windmill Money Loan Customer Care Service For Hilpilne Number91102394537855864281Call Me…](https://medium.com/@cotaf99634/windmill-money-loan-customer-care-service-for-hilpilne-number-9110239453-7855864281-call-me-7b6dc4a00cec?source=rss------data_science-5)
-- [Socialcap: Spotify wrapped for Facebook Messenger](https://medium.com/@sri33/socialcap-spotify-wrapped-for-facebook-messenger-c755fd80dd2d?source=rss------data_science-5)
-- [Data Science Project: Emotion Recognition in Social Media Posts using Bi-directional LSTM RNN with…](https://baotramduong.medium.com/data-science-project-post-tweet-emotion-recognition-on-x-with-tensorflow-c4564714b8d?source=rss------data_science-5)
-- [Architecting the IoE &lpar;Internet of Everything&rpar; with 6D Model Leveraging DePIN](https://medium.com/@ros6716/architecting-the-ioe-internet-of-everything-with-6d-model-leveraging-depin-a8f6e513a050?source=rss------data_science-5)
+- [Data Science Project: Building a Machine Learning Pipeline for a Predictive Car Price Model with…](https://baotramduong.medium.com/data-science-project-building-a-machine-learning-pipeline-for-a-predictive-car-price-model-with-1656ffe76758?source=rss------data_science-5)
+- [Naive Bayes Algorithm](https://medium.com/@amanda.rnds18/naive-bayes-algorithm-b07868616c8e?source=rss------data_science-5)
+- [Predicting Strike-to-Pitch Ratio and Quantifying SROE](https://medium.com/@amritvignesh/predicting-strike-to-pitch-ratio-and-quantifying-sroe-13acb9dd0175?source=rss------data_science-5)
+- [ML Zoomcamp — Week 5 Recap](https://medium.com/@goran.dijak/ml-zoomcamp-week-5-recap-cb3c9f2323cb?source=rss------data_science-5)
+- [Jhandi Munda King &lpar;Early Access&rpar; Customer care helpline number 8354870917&lpar;✔️☑️&rpar;8264483536=all game…](https://medium.com/@cominoabtigeronline/jhandi-munda-king-early-access-customer-care-helpline-number-8354870917-%EF%B8%8F-%EF%B8%8F-8264483536-all-game-a451d9c38d12?source=rss------data_science-5)
+- [The Art of maintaining data pipelines and production applications](https://medium.com/@arturo.white14/the-are-of-maintaining-data-pipelines-and-production-applications-63a9011ed6e5?source=rss------data_science-5)
+- [Jhandi Munda King &lpar;Early Access&rpar; Customer care helpline number 8354870917&lpar;✔️☑️&rpar;8264483536=all game…](https://medium.com/@kumaririya34521/jhandi-munda-king-early-access-customer-care-helpline-number-8354870917-%EF%B8%8F-%EF%B8%8F-8264483536-all-game-49b4346905e3?source=rss------data_science-5)
+- [شماره خاله 09010712940](https://medium.com/@azjalkhshs/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09010712940-614d328ad2c7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
