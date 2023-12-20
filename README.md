@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [TECHNOFAB LOAN CUSTOMER CARE HELPLINE NUMBER// 9398786939.](https://medium.com/@technofabloan/technofab-loan-customer-care-helpline-number-9398786939-6dbd2cf3fed8?source=rss------data_science-5)
-- [TECHNOFAB LOAN CUSTOMER CARE HELPLINE NUMBER// 9398786939.](https://medium.com/@technofabloan/technofab-loan-customer-care-helpline-number-9398786939-fac2eaaba51c?source=rss------data_science-5)
-- [Are You Ready to Coexist with Robots?](https://medium.com/@eric_68465/are-you-ready-to-coexist-with-robots-874e6357ed5b?source=rss------data_science-5)
-- [TECHNOFAB LOAN CUSTOMER CARE HELPLINE NUMBER// 9398786939.](https://medium.com/@technofabloan/technofab-loan-customer-care-helpline-number-9398786939-67ce1a2d732b?source=rss------data_science-5)
-- [TECHNOFAB LOAN CUSTOMER CARE HELPLINE NUMBER// 9398786939.](https://medium.com/@technofabloan/technofab-loan-customer-care-helpline-number-9398786939-04b9ea7a8ff8?source=rss------data_science-5)
-- [TECHNOFAB LOAN CUSTOMER CARE HELPLINE NUMBER// 9398786939.](https://medium.com/@technofabloan/technofab-loan-customer-care-helpline-number-9398786939-eb36ab32c7fb?source=rss------data_science-5)
-- [Cash Box CUSTOMER care Number ❽❸❽❾❽❻⓿❹⓿❶ //-6201048881 Call.8144096342 just call](https://medium.com/@singhdapak7/cash-box-customer-care-number-%E2%9D%BD%E2%9D%B8%E2%9D%BD%E2%9D%BE%E2%9D%BD%E2%9D%BB%E2%93%BF%E2%9D%B9%E2%93%BF%E2%9D%B6-6201048881-call-8144096342-just-call-a80f2ddfb0a9?source=rss------data_science-5)
-- [TECHNOFAB LOAN CUSTOMER CARE HELPLINE NUMBER// 9398786939.](https://medium.com/@technofabloan/technofab-loan-customer-care-helpline-number-9398786939-5dc94722105a?source=rss------data_science-5)
-- [TECHNOFAB LOAN CUSTOMER CARE HELPLINE NUMBER// 9398786939.](https://medium.com/@technofabloan/technofab-loan-customer-care-helpline-number-9398786939-ceb75a56277c?source=rss------data_science-5)
-- [TECHNOFAB LOAN CUSTOMER CARE HELPLINE NUMBER// 9398786939.](https://medium.com/@technofabloan/technofab-loan-customer-care-helpline-number-9398786939-06ff41fd11a3?source=rss------data_science-5)
+- [The Power of Regression Analysis in Real Estate: Predicting Home Prices with Data](https://medium.com/@a01570975/the-power-of-regression-analysis-in-real-estate-predicting-home-prices-with-data-b99decd16ea9?source=rss------data_science-5)
+- [Древо жизни](https://medium.com/@johnnnydstone/%D0%B4%D1%80%D0%B5%D0%B2%D0%BE-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8-d7172c133cd5?source=rss------data_science-5)
+- [Transformation of Data](https://medium.com/@sunyoung73ji/transformation-of-data-4d795d67f860?source=rss------data_science-5)
+- [Tesla Stock Prediction with LSTM](https://medium.com/@pelletierhaden/tesla-stock-prediction-with-lstm-325457b80e7b?source=rss------data_science-5)
+- [How Do Inherently Interpretable AI Models Work? — GAMINET](https://pub.towardsai.net/how-do-inherently-interpretable-ai-models-work-gaminet-dcbd27b863c?source=rss------data_science-5)
+- [Title: Unraveling the Complexity: GPT and AI Models Struggle to Analyze SEC Filings.](https://medium.com/@pereiradomnic44/title-unraveling-the-complexity-gpt-and-ai-models-struggle-to-analyze-sec-filings-c4cdb6ddbf05?source=rss------data_science-5)
+- [MLZoomcamp — Week 6.5: A Brief Introduction to Asynchronous Programming… with Python.](https://medium.com/@goran.dijak/mlzoomcamp-week-6-5-a-brief-introduction-to-asynchronous-programming-with-python-c2586d475d5a?source=rss------data_science-5)
+- [https://www.tiktok.com/@smartkingak9?_t=8iKFM1I6vUD&amp;_r=1](https://medium.com/@smartkingak9/https-www-tiktok-com-smartkingak9-t-8ikfm1i6vud-r-1-e9c82d86f5fa?source=rss------data_science-5)
+- [Data Science’s Symphony: Shaping the Future of Movies and Music](https://medium.com/@pjala/data-sciences-symphony-shaping-the-future-of-movies-and-music-0a39f7d1e14b?source=rss------data_science-5)
+- [UNRAVELING THE MYSTERY: WHY PLUTO LOST ITS PLANETARY STATUS](https://medium.com/@kwotboksundayhenry11/unraveling-the-mystery-why-pluto-lost-its-planetary-status-597214778e0c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
