@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [3 Cool Things You Can Do With Python Standard Library](https://sonery.medium.com/3-cool-things-you-can-do-with-python-standard-library-35f773019497?source=rss-2cf6b549448------2)
 - [3 Python Operations for Solving Specific Data Processing Tasks Efficiently](https://towardsdatascience.com/3-python-operations-for-solving-specific-data-processing-tasks-efficiently-551c8ed41c02?source=rss-2cf6b549448------2)
 - [4 Pandas One-Liners That Solve Particular Tasks Efficiently](https://towardsdatascience.com/4-pandas-one-liners-that-surprised-me-in-a-good-way-b67955211f81?source=rss-2cf6b549448------2)
 - [2 Tasks to Boost Your Python Data Wrangling Skills](https://towardsdatascience.com/2-tasks-to-boost-your-python-data-wrangling-skills-3daf6c1c0528?source=rss-2cf6b549448------2)
 - [Efficiency Matters](https://sonery.medium.com/efficiency-matters-5e35b482a858?source=rss-2cf6b549448------2)
-- [7 Examples to Master Categorical Data Operations with Python Pandas](https://towardsdatascience.com/7-examples-to-master-categorical-data-operations-with-python-pandas-51cdcb0228ba?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
