@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Title: My Journey: From 0 to 1000 Followers on Medium.](https://medium.com/@pereiradomnic44/title-my-journey-from-0-to-1000-followers-on-medium-0697817052b4?source=rss------data_science-5)
-- [GEBBS Loan Customer Care Helpline Number∆&lpar;➑➊⓿➋➌⓿➊➎➏➑&rpar;&rpar; 7870592408 / 7061107023 \=∆ Call Now.](https://medium.com/@nk8327684/gebbs-loan-customer-care-helpline-number-%E2%9E%91%E2%9E%8A%E2%93%BF%E2%9E%8B%E2%9E%8C%E2%93%BF%E2%9E%8A%E2%9E%8E%E2%9E%8F%E2%9E%91-7870592408-7061107023-call-now-2dff50521393?source=rss------data_science-5)
-- [GEBBS Loan Customer Care Helpline Number∆&lpar;➑➊⓿➋➌⓿➊➎➏➑&rpar;&rpar; 7870592408 / 7061107023 \=∆ Call Now.](https://medium.com/@nk8327684/gebbs-loan-customer-care-helpline-number-%E2%9E%91%E2%9E%8A%E2%93%BF%E2%9E%8B%E2%9E%8C%E2%93%BF%E2%9E%8A%E2%9E%8E%E2%9E%8F%E2%9E%91-7870592408-7061107023-call-now-957400a3f0a4?source=rss------data_science-5)
-- [The best data professionals don’t lead with graphs or code](https://medium.com/@tremon.mcgrath/the-best-data-professionals-dont-lead-with-graphs-or-code-2d1af3cbf83c?source=rss------data_science-5)
-- [GEBBS Loan Customer Care Helpline Number∆&lpar;➑➊⓿➋➌⓿➊➎➏➑&rpar;&rpar; 7870592408 / 7061107023 \=∆ Call Now.](https://medium.com/@nk8327684/gebbs-loan-customer-care-helpline-number-%E2%9E%91%E2%9E%8A%E2%93%BF%E2%9E%8B%E2%9E%8C%E2%93%BF%E2%9E%8A%E2%9E%8E%E2%9E%8F%E2%9E%91-7870592408-7061107023-call-now-0c7657051df5?source=rss------data_science-5)
-- [20% of EDA Plots Data Scientists Use 80% of the Time](https://medium.com/gdsc-babcock-dataverse/20-of-eda-plots-data-scientists-use-80-of-the-time-abe7b2ff5cc2?source=rss------data_science-5)
-- [Data Science Sundays Episode 56](https://medium.com/@oyesinaoyerinde/data-science-sundays-episode-56-b64fab63dc20?source=rss------data_science-5)
-- [Amp Credit Loan CUSTOMER ☎️Care Helpline Number Call ➑➑⓿➐➐➋➐⓿➊➒+//*8807727019&lpar;&lpar;&lpar;7302196021 .All](https://medium.com/@raserrast51/amp-credit-loan-customer-%EF%B8%8Fcare-helpline-number-call-%E2%9E%91%E2%9E%91%E2%93%BF%E2%9E%90%E2%9E%90%E2%9E%8B%E2%9E%90%E2%93%BF%E2%9E%8A%E2%9E%92-8807727019-7302196021-all-ac4d6975ba5b?source=rss------data_science-5)
-- [Levels of Data Analysis](https://medium.com/@chandanravi/levels-of-data-analysis-7e761bd946fc?source=rss------data_science-5)
-- [Basic Stats for Data Science &lpar;pt. 1&rpar;](https://medium.com/@brigitte.xyan/basic-stats-for-data-science-pt-1-7fd26b43405b?source=rss------data_science-5)
+- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-887ce8018111?source=rss------data_science-5)
+- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-115c7e817976?source=rss------data_science-5)
+- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-babd21efd012?source=rss------data_science-5)
+- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-c0c214a9911a?source=rss------data_science-5)
+- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-c0e11d8aeb05?source=rss------data_science-5)
+- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-4f071f498a53?source=rss------data_science-5)
+- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-280c7eebc163?source=rss------data_science-5)
+- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-580ac0d846cc?source=rss------data_science-5)
+- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-86ddd6abdc06?source=rss------data_science-5)
+- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-119a8b43a749?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
