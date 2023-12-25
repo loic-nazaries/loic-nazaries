@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-887ce8018111?source=rss------data_science-5)
-- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-115c7e817976?source=rss------data_science-5)
-- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-babd21efd012?source=rss------data_science-5)
-- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-c0c214a9911a?source=rss------data_science-5)
-- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-c0e11d8aeb05?source=rss------data_science-5)
-- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-4f071f498a53?source=rss------data_science-5)
-- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-280c7eebc163?source=rss------data_science-5)
-- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-580ac0d846cc?source=rss------data_science-5)
-- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-86ddd6abdc06?source=rss------data_science-5)
-- [Teen Patti Royal club Customer.Care](https://medium.com/@hdtvudkumar/teen-patti-royal-club-customer-care-119a8b43a749?source=rss------data_science-5)
+- [#corona](https://medium.com/@pradipekshinge9896/corona-fb393a51cb73?source=rss------data_science-5)
+- [The Art of Dashboard Design: 15 Rules for Perfecting Your Interface](https://medium.com/@yogeshpol/the-art-of-dashboard-design-15-rules-for-perfecting-your-interface-6fdd67eac833?source=rss------data_science-5)
+- [Unlock Insights: Excel Dashboard Reveals 2022 Mass Layoff Trends](https://medium.com/@amitkr209/company-layoffs-analysis-6924b1a0be7a-92404c1ff142?source=rss------data_science-5)
+- [&lpar;PAY ATTENTION ⚘&rpar;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&#39;&#39;&#39;&#39;&#39;&quot;&quot;&quot;&quot;&#39;&#39;&#39;](https://medium.com/@smartkingak9/pay-attention-5faa6102cd20?source=rss------data_science-5)
+- [شماره خاله شیراز 09048678386](https://medium.com/@mzhganwhydy36/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-09048678386-5545f12b78c8?source=rss------data_science-5)
+- [شماره خاله رشت رامسر 09038678486](https://medium.com/@mzhganwhydy36/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-%D8%B1%D8%A7%D9%85%D8%B3%D8%B1-09038678486-30fd083a8f8c?source=rss------data_science-5)
+- [شماره خاله اسلامشهر 09038678386](https://medium.com/@mzhganwhydy36/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-09038678386-b067988e5b9b?source=rss------data_science-5)
+- [شماره خاله مشهدی 09038678386](https://medium.com/@mzhganwhydy36/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B4%D9%87%D8%AF%DB%8C-09038678386-229ea8804736?source=rss------data_science-5)
+- [شماره خاله تهران 09038678386](https://medium.com/@mzhganwhydy36/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09038678386-2c241153ebf2?source=rss------data_science-5)
+- [Enough with Prompting; Thoughts about Prompt2Prompt Concept](https://medium.com/@sahar.millis/enough-with-prompting-thoughts-about-prompt2prompt-concept-7a2258856bea?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
