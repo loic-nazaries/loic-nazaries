@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [#corona](https://medium.com/@pradipekshinge9896/corona-fb393a51cb73?source=rss------data_science-5)
-- [The Art of Dashboard Design: 15 Rules for Perfecting Your Interface](https://medium.com/@yogeshpol/the-art-of-dashboard-design-15-rules-for-perfecting-your-interface-6fdd67eac833?source=rss------data_science-5)
-- [Unlock Insights: Excel Dashboard Reveals 2022 Mass Layoff Trends](https://medium.com/@amitkr209/company-layoffs-analysis-6924b1a0be7a-92404c1ff142?source=rss------data_science-5)
-- [&lpar;PAY ATTENTION ⚘&rpar;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&#39;&#39;&#39;&#39;&#39;&quot;&quot;&quot;&quot;&#39;&#39;&#39;](https://medium.com/@smartkingak9/pay-attention-5faa6102cd20?source=rss------data_science-5)
-- [شماره خاله شیراز 09048678386](https://medium.com/@mzhganwhydy36/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-09048678386-5545f12b78c8?source=rss------data_science-5)
-- [شماره خاله رشت رامسر 09038678486](https://medium.com/@mzhganwhydy36/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-%D8%B1%D8%A7%D9%85%D8%B3%D8%B1-09038678486-30fd083a8f8c?source=rss------data_science-5)
-- [شماره خاله اسلامشهر 09038678386](https://medium.com/@mzhganwhydy36/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-09038678386-b067988e5b9b?source=rss------data_science-5)
-- [شماره خاله مشهدی 09038678386](https://medium.com/@mzhganwhydy36/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B4%D9%87%D8%AF%DB%8C-09038678386-229ea8804736?source=rss------data_science-5)
-- [شماره خاله تهران 09038678386](https://medium.com/@mzhganwhydy36/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09038678386-2c241153ebf2?source=rss------data_science-5)
-- [Enough with Prompting; Thoughts about Prompt2Prompt Concept](https://medium.com/@sahar.millis/enough-with-prompting-thoughts-about-prompt2prompt-concept-7a2258856bea?source=rss------data_science-5)
+- [If you gonna quit anything next year…
+quit Hating ️](https://medium.com/@smartkingak9/if-you-gonna-quit-anything-next-year-quit-hating-%EF%B8%8F-db4398ad6347?source=rss------data_science-5)
+- [Azure Synapse Analytics: A Step-By-Step Guide For Data Analytics Beginners](https://medium.com/@ansam.yousry/azure-synapse-analytics-a-step-by-step-guide-for-data-analytics-beginners-1092d9b8859b?source=rss------data_science-5)
+- [Perceptron Learning Algorithm](https://medium.com/@powenhsu1019/perceptron-learning-algorithm-63d11fbfba84?source=rss------data_science-5)
+- [Hina Rupee Loan CusTomer Care Helpline Number/❼❾❼❽❻❶❽❾❼❹//™7978618974-//®™7978618974√√ call Now.](https://medium.com/@hlobookhi/hina-rupee-loan-customer-care-helpline-number-%E2%9D%BC%E2%9D%BE%E2%9D%BC%E2%9D%BD%E2%9D%BB%E2%9D%B6%E2%9D%BD%E2%9D%BE%E2%9D%BC%E2%9D%B9-7978618974-7978618974-call-now-669f94b90b20?source=rss------data_science-5)
+- [Hina Rupee Loan CusTomer Care Helpline Number/❼❾❼❽❻❶❽❾❼❹//™7978618974-//®™7978618974√√ call Now.](https://medium.com/@hlobookhi/hina-rupee-loan-customer-care-helpline-number-%E2%9D%BC%E2%9D%BE%E2%9D%BC%E2%9D%BD%E2%9D%BB%E2%9D%B6%E2%9D%BD%E2%9D%BE%E2%9D%BC%E2%9D%B9-7978618974-7978618974-call-now-6e3e275a8c9a?source=rss------data_science-5)
+- [What do you need learn if you want to be DE, BIE, BA or DS?](https://medium.com/@llizhang0122/what-do-you-need-learn-if-you-want-to-be-de-bie-ba-or-ds-731b6d16455d?source=rss------data_science-5)
+- [Hina Rupee Loan CusTomer Care Helpline Number/❼❾❼❽❻❶❽❾❼❹//™7978618974-//®™7978618974√√ call Now.](https://medium.com/@hlobookhi/hina-rupee-loan-customer-care-helpline-number-%E2%9D%BC%E2%9D%BE%E2%9D%BC%E2%9D%BD%E2%9D%BB%E2%9D%B6%E2%9D%BD%E2%9D%BE%E2%9D%BC%E2%9D%B9-7978618974-7978618974-call-now-7d42b1c0380e?source=rss------data_science-5)
+- [TECHNOFAB loan CusTomer Care Helpline Number/⑦⑨⑦⑧⑥①⑧⑨⑦④/ 7321970513 // 7978618974 ✓✓/ contact…](https://medium.com/@rahul748998/technofab-loan-customer-care-helpline-number-%E2%91%A6%E2%91%A8%E2%91%A6%E2%91%A7%E2%91%A5%E2%91%A0%E2%91%A7%E2%91%A8%E2%91%A6%E2%91%A3-7321970513-7978618974-contact-2be8a0e15a16?source=rss------data_science-5)
+- [Buddy loan CusTomer Care Helpline Number/⑦⑨⑦⑧⑥①⑧⑨⑦④/ 7321970513 // 7978618974 ✓✓/ contact number…tr](https://medium.com/@qq336404/buddy-loan-customer-care-helpline-number-%E2%91%A6%E2%91%A8%E2%91%A6%E2%91%A7%E2%91%A5%E2%91%A0%E2%91%A7%E2%91%A8%E2%91%A6%E2%91%A3-7321970513-7978618974-contact-number-tr-34a8c29f7a32?source=rss------data_science-5)
+- [Budget tree loan CusTomer Care Helpline Number/⑦⑨⑦⑧⑥①⑧⑨⑦④/ 7321970513 // 7978618974 ✓✓/ contact…](https://medium.com/@wca5265/budget-tree-loan-customer-care-helpline-number-%E2%91%A6%E2%91%A8%E2%91%A6%E2%91%A7%E2%91%A5%E2%91%A0%E2%91%A7%E2%91%A8%E2%91%A6%E2%91%A3-7321970513-7978618974-contact-d5979792dec4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
