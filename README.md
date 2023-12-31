@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [DASHBOARD RECYCLING 
-                                             You might be wondering what’s…](https://excelgirl19.medium.com/dashboard-recycling-you-might-be-wondering-whats-7e8816b709c8?source=rss------data_science-5)
-- [quick cash Loan CusTomer Care Helpline NuMbeR/❼❾❼❽❻❶❽❾❼❹ / 7978618974 // 7978618974 ✓✓/ Call Now.](https://medium.com/@ughh6991/quick-cash-loan-customer-care-helpline-number-%E2%9D%BC%E2%9D%BE%E2%9D%BC%E2%9D%BD%E2%9D%BB%E2%9D%B6%E2%9D%BD%E2%9D%BE%E2%9D%BC%E2%9D%B9-7978618974-7978618974-call-now-005e846ceec2?source=rss------data_science-5)
-- [quick cash Loan CusTomer Care Helpline NuMbeR/❼❾❼❽❻❶❽❾❼❹ / 7978618974 // 7978618974 ✓✓/ Call Now.Rdd](https://medium.com/@ughh6991/quick-cash-loan-customer-care-helpline-number-%E2%9D%BC%E2%9D%BE%E2%9D%BC%E2%9D%BD%E2%9D%BB%E2%9D%B6%E2%9D%BD%E2%9D%BE%E2%9D%BC%E2%9D%B9-7978618974-7978618974-call-now-rdd-7a0ba3fd1dde?source=rss------data_science-5)
-- [Amil baba In UK/ Australia/ Canada !](https://medium.com/@amilabbas68/amil-baba-in-uk-australia-canada-abcc4ffe34d2?source=rss------data_science-5)
-- [Dog Breed Classification using Convolutional Neural Networks](https://medium.com/@jockyeving/dog-breed-classification-using-convolutional-neural-networks-bd9005189104?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@jdjjdified/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-aebfbe493f80?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@jdjjdified/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-606010229b52?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@jdjjdified/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-124b4c2c217b?source=rss------data_science-5)
-- [What limits does Artificial Intelligence have?](https://medium.com/@martareyessuarez25/what-limits-does-artificial-intelligence-have-ecd1f7b8d821?source=rss------data_science-5)
+- [DJs: Unveiling the Data Science Behind Rhythm](https://medium.com/@g.mosis/djs-unveiling-the-data-science-behind-rhythm-55820a1d2b47?source=rss------data_science-5)
+- [Circuit Breaker Concurrency Pattern in Golang Two Examples with Unit Tests](https://medium.com/@ramseyjiang_22278/circuit-breaker-concurrency-pattern-in-golang-two-examples-with-unit-tests-ad4d43f47bd4?source=rss------data_science-5)
+- [Foundations of Big Data](https://medium.com/@sungmg16/foundations-of-big-data-82a052a84fc8?source=rss------data_science-5)
+- [Technology trends of 2024](https://medium.com/@marinasanchez_87766/technology-trends-of-2024-1c275eefeaf5?source=rss------data_science-5)
+- [Crack the Code to Your Dream Job: How I Supercharged My Resume with Data Science Magic!](https://medium.com/@adrian.t.jr.93/crack-the-code-to-your-dream-job-how-i-supercharged-my-resume-with-data-science-magic-e4c436be5e2f?source=rss------data_science-5)
+- [شماره خاله](https://medium.com/@jdjjdified/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-f7b1e5029aa9?source=rss------data_science-5)
+- [شماره خاله](https://medium.com/@jdjjdified/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-4fd782e4b59e?source=rss------data_science-5)
+- [شماره خاله](https://medium.com/@jdjjdified/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-c937d4b43c97?source=rss------data_science-5)
+- [شماره خاله](https://medium.com/@jdjjdified/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-88b073def581?source=rss------data_science-5)
+- [شماره خاله](https://medium.com/@jdjjdified/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-ed82c3222822?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
