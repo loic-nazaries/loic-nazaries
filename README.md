@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Amp credit loan CusTomer Care Helpline NuMbeR/❼⑨❼❽➅❶8❾❼➃/ 7978618974 // 797❽➅➅❶❽97 ➃  ✓✓/ Call Now.f](https://medium.com/@rahul748998/amp-credit-loan-customer-care-helpline-number-%E2%9D%BC%E2%91%A8%E2%9D%BC%E2%9D%BD%E2%9E%85%E2%9D%B68%E2%9D%BE%E2%9D%BC%E2%9E%83-7978618974-797%E2%9D%BD%E2%9E%85%E2%9E%85%E2%9D%B6%E2%9D%BD97-%E2%9E%83-call-now-f-ef7e639a7dc7?source=rss------data_science-5)
-- [Amp credit loan CusTomer Care Helpline NuMbeR/❼⑨❼❽➅❶8❾❼➃/ 7978618974 // 797❽➅➅❶❽97 ➃  ✓✓/ Call Now.f](https://medium.com/@rahul748998/amp-credit-loan-customer-care-helpline-number-%E2%9D%BC%E2%91%A8%E2%9D%BC%E2%9D%BD%E2%9E%85%E2%9D%B68%E2%9D%BE%E2%9D%BC%E2%9E%83-7978618974-797%E2%9D%BD%E2%9E%85%E2%9E%85%E2%9D%B6%E2%9D%BD97-%E2%9E%83-call-now-f-943c9f350faa?source=rss------data_science-5)
-- [Rush cash loan CusTomer Care Helpline NuMbeR/➐③➋1➒➐⓪➎➊➌/ ⑦32➊97⓪513 // 7978618974 ✓✓/ Call Now.](https://medium.com/@wca5265/rush-cash-loan-customer-care-helpline-number-%E2%9E%90%E2%91%A2%E2%9E%8B1%E2%9E%92%E2%9E%90%E2%93%AA%E2%9E%8E%E2%9E%8A%E2%9E%8C-%E2%91%A632%E2%9E%8A97%E2%93%AA513-7978618974-call-now-a29afa3221cc?source=rss------data_science-5)
-- [#darkweb #darknet #darkwebpron](https://medium.com/@darkwebagency1/darkweb-darknet-darkwebpron-f98b7814bf5d?source=rss------data_science-5)
-- [Rush cash loan CusTomer Care Helpline NuMbeR/➐③➋1➒➐⓪➎➊➌/ ⑦32➊97⓪513 // 7978618974 ✓✓/ Call Now.esbb](https://medium.com/@wca5265/rush-cash-loan-customer-care-helpline-number-%E2%9E%90%E2%91%A2%E2%9E%8B1%E2%9E%92%E2%9E%90%E2%93%AA%E2%9E%8E%E2%9E%8A%E2%9E%8C-%E2%91%A632%E2%9E%8A97%E2%93%AA513-7978618974-call-now-esbb-b2202e268ffb?source=rss------data_science-5)
-- [Rush cash loan CusTomer Care Helpline NuMbeR/➐③➋1➒➐⓪➎➊➌/ ⑦32➊97⓪513 // 7978618974 ✓✓/ Call Now.ffgg](https://medium.com/@wca5265/rush-cash-loan-customer-care-helpline-number-%E2%9E%90%E2%91%A2%E2%9E%8B1%E2%9E%92%E2%9E%90%E2%93%AA%E2%9E%8E%E2%9E%8A%E2%9E%8C-%E2%91%A632%E2%9E%8A97%E2%93%AA513-7978618974-call-now-ffgg-5b3d531f46e9?source=rss------data_science-5)
-- [Rush cash loan CusTomer Care Helpline NuMbeR/➐③➋1➒➐⓪➎➊➌/ ⑦32➊97⓪513 // 7978618974 ✓✓/ Call Now.fefgf](https://medium.com/@wca5265/rush-cash-loan-customer-care-helpline-number-%E2%9E%90%E2%91%A2%E2%9E%8B1%E2%9E%92%E2%9E%90%E2%93%AA%E2%9E%8E%E2%9E%8A%E2%9E%8C-%E2%91%A632%E2%9E%8A97%E2%93%AA513-7978618974-call-now-fefgf-9e8f29599d61?source=rss------data_science-5)
-- [Cash wallet loan CusTomer Care Helpline NuMbeR/➐③➋1➒➐⓪➎➊➌/ ⑦32➊97⓪513 // 7978618974 ✓✓/ Call Now.](https://medium.com/@hy5183169/cash-wallet-loan-customer-care-helpline-number-%E2%9E%90%E2%91%A2%E2%9E%8B1%E2%9E%92%E2%9E%90%E2%93%AA%E2%9E%8E%E2%9E%8A%E2%9E%8C-%E2%91%A632%E2%9E%8A97%E2%93%AA513-7978618974-call-now-322123abb94b?source=rss------data_science-5)
-- [شماره خاله](https://medium.com/@znnb6010/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-a11432b8b359?source=rss------data_science-5)
-- [Bellabeat App Behavior Analysis: Insights &amp; Trends](https://medium.com/@amitkr209/bellabeat-analysis-0751cf917c91?source=rss------data_science-5)
+- [Marketing Science, what is it and what could it be? &lpar;Part 1&rpar;](https://medium.com/@dani.jerman/marketing-science-what-is-it-and-what-could-it-be-part-1-1368ea9efa63?source=rss------data_science-5)
+- [Learn 42Data Analyst Concepts In 10Minutes](https://bootcamp.uxdesign.cc/learn-42data-analyst-concepts-in-10minutes-e0e2584526c7?source=rss------data_science-5)
+- [Minimal one-way and two-way summary tables using in R](https://infoart.medium.com/minimal-one-way-and-two-way-summary-tables-using-in-r-127a204d8139?source=rss------data_science-5)
+- [“Pandas: Data Wrangling Made Easy with Python”](https://medium.datadriveninvestor.com/pandas-playbook-data-wrangling-made-easy-with-python-bc639d4f04d3?source=rss------data_science-5)
+- [What is Data-Matric](https://medium.com/@datamatricwithabhijitshare/what-is-data-matric-0296ccdcdc49?source=rss------data_science-5)
+- [شماره خاله](https://medium.com/@znnb6010/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-0176aaa8206f?source=rss------data_science-5)
+- [شماره خاله](https://medium.com/@znnb6010/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-ba558fcd3552?source=rss------data_science-5)
+- [شماره خاله](https://medium.com/@znnb6010/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-259d66a4df13?source=rss------data_science-5)
+- [The Future of AI: Innovations from 2024 to 2030 Expected !](https://earngave.medium.com/the-future-of-ai-innovations-from-2024-to-2030-expected-7e43b927c015?source=rss------data_science-5)
+- [Nge-Dive ke Dunia Data Science: Gak Ribet Kok!](https://medium.com/@stoqdata/nge-dive-ke-dunia-data-science-gak-ribet-kok-5d36c2d771c9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
