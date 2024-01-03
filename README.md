@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Marketing Science, what is it and what could it be? &lpar;Part 1&rpar;](https://medium.com/@dani.jerman/marketing-science-what-is-it-and-what-could-it-be-part-1-1368ea9efa63?source=rss------data_science-5)
-- [Learn 42Data Analyst Concepts In 10Minutes](https://bootcamp.uxdesign.cc/learn-42data-analyst-concepts-in-10minutes-e0e2584526c7?source=rss------data_science-5)
-- [Minimal one-way and two-way summary tables using in R](https://infoart.medium.com/minimal-one-way-and-two-way-summary-tables-using-in-r-127a204d8139?source=rss------data_science-5)
-- [“Pandas: Data Wrangling Made Easy with Python”](https://medium.datadriveninvestor.com/pandas-playbook-data-wrangling-made-easy-with-python-bc639d4f04d3?source=rss------data_science-5)
-- [What is Data-Matric](https://medium.com/@datamatricwithabhijitshare/what-is-data-matric-0296ccdcdc49?source=rss------data_science-5)
-- [شماره خاله](https://medium.com/@znnb6010/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-0176aaa8206f?source=rss------data_science-5)
-- [شماره خاله](https://medium.com/@znnb6010/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-ba558fcd3552?source=rss------data_science-5)
-- [شماره خاله](https://medium.com/@znnb6010/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-259d66a4df13?source=rss------data_science-5)
-- [The Future of AI: Innovations from 2024 to 2030 Expected !](https://earngave.medium.com/the-future-of-ai-innovations-from-2024-to-2030-expected-7e43b927c015?source=rss------data_science-5)
-- [Nge-Dive ke Dunia Data Science: Gak Ribet Kok!](https://medium.com/@stoqdata/nge-dive-ke-dunia-data-science-gak-ribet-kok-5d36c2d771c9?source=rss------data_science-5)
+- [How LGBM deals with missing values?](https://medium.com/@andrywmarques/how-lgbm-deals-with-missing-values-bd361636357f?source=rss------data_science-5)
+- [❾❺⓿⑧③⑤❾❻❸❹∆∆√Personal Finance Assistant Loan  Care  Number✔️∆∆∆//&lpar;.9](https://medium.com/@vmvdbfbynv/%E2%9D%BE%E2%9D%BA%E2%93%BF%E2%91%A7%E2%91%A2%E2%91%A4%E2%9D%BE%E2%9D%BB%E2%9D%B8%E2%9D%B9-personal-finance-assistant-loan-care-number-%EF%B8%8F-9-980165698a1a?source=rss------data_science-5)
+- [❾❺⓿⑧③⑤❾❻❸❹∆∆√Personal Finance Assistant Loan  Care  Number✔️∆∆∆//&lpar;.9](https://medium.com/@vmvdbfbynv/%E2%9D%BE%E2%9D%BA%E2%93%BF%E2%91%A7%E2%91%A2%E2%91%A4%E2%9D%BE%E2%9D%BB%E2%9D%B8%E2%9D%B9-personal-finance-assistant-loan-care-number-%EF%B8%8F-9-54af2ad35789?source=rss------data_science-5)
+- [❾❺⓿⑧③⑤❾❻❸❹∆∆√Personal Finance Assistant Loan  Care  Number✔️∆∆∆//&lpar;.9](https://medium.com/@vmvdbfbynv/%E2%9D%BE%E2%9D%BA%E2%93%BF%E2%91%A7%E2%91%A2%E2%91%A4%E2%9D%BE%E2%9D%BB%E2%9D%B8%E2%9D%B9-personal-finance-assistant-loan-care-number-%EF%B8%8F-9-4284298f0995?source=rss------data_science-5)
+- [❾❺⓿⑧③⑤❾❻❸❹∆∆√Personal Finance Assistant Loan  Care  Number✔️∆∆∆//&lpar;.9](https://medium.com/@vmvdbfbynv/%E2%9D%BE%E2%9D%BA%E2%93%BF%E2%91%A7%E2%91%A2%E2%91%A4%E2%9D%BE%E2%9D%BB%E2%9D%B8%E2%9D%B9-personal-finance-assistant-loan-care-number-%EF%B8%8F-9-d2143c47c957?source=rss------data_science-5)
+- [❾❺⓿⑧③⑤❾❻❸❹∆∆√Personal Finance Assistant Loan  Care  Number✔️∆∆∆//&lpar;.9](https://medium.com/@vmvdbfbynv/%E2%9D%BE%E2%9D%BA%E2%93%BF%E2%91%A7%E2%91%A2%E2%91%A4%E2%9D%BE%E2%9D%BB%E2%9D%B8%E2%9D%B9-personal-finance-assistant-loan-care-number-%EF%B8%8F-9-6f6564acccc4?source=rss------data_science-5)
+- [❾❺⓿⑧③⑤❾❻❸❹∆∆√Personal Finance Assistant Loan  Care  Number✔️∆∆∆//&lpar;.9](https://medium.com/@vmvdbfbynv/%E2%9D%BE%E2%9D%BA%E2%93%BF%E2%91%A7%E2%91%A2%E2%91%A4%E2%9D%BE%E2%9D%BB%E2%9D%B8%E2%9D%B9-personal-finance-assistant-loan-care-number-%EF%B8%8F-9-4a86c90f813d?source=rss------data_science-5)
+- [❾❺⓿⑧③⑤❾❻❸❹∆∆√Personal Finance Assistant Loan  Care  Number✔️∆∆∆//&lpar;.9](https://medium.com/@vmvdbfbynv/%E2%9D%BE%E2%9D%BA%E2%93%BF%E2%91%A7%E2%91%A2%E2%91%A4%E2%9D%BE%E2%9D%BB%E2%9D%B8%E2%9D%B9-personal-finance-assistant-loan-care-number-%EF%B8%8F-9-2d51a7c35aec?source=rss------data_science-5)
+- [❾❺⓿⑧③⑤❾❻❸❹∆∆√Personal Finance Assistant Loan  Care  Number✔️∆∆∆//&lpar;.9](https://medium.com/@vmvdbfbynv/%E2%9D%BE%E2%9D%BA%E2%93%BF%E2%91%A7%E2%91%A2%E2%91%A4%E2%9D%BE%E2%9D%BB%E2%9D%B8%E2%9D%B9-personal-finance-assistant-loan-care-number-%EF%B8%8F-9-e2623635144f?source=rss------data_science-5)
+- [Photo by eberhard  grossgasteiger on Unsplash](https://medium.com/@vmvdbfbynv/photo-by-eberhard-grossgasteiger-on-unsplash-85d839df9cbd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
