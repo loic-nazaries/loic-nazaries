@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Cab Industry G2M Analysis and Comparison](https://medium.com/@rohitguptha/cab-industry-g2m-analysis-and-comparison-9f41b11225c2?source=rss------data_science-5)
-- [HAPPY RUPEE LOAN CusTomer Care Helpline NuMbeR/❼⑨❼❽➅❶8❾❼➃/ 7978618974 // 797❽6189❼4 ✓✓/ Call Now.](https://medium.com/@yhs960895/happy-rupee-loan-customer-care-helpline-number-%E2%9D%BC%E2%91%A8%E2%9D%BC%E2%9D%BD%E2%9E%85%E2%9D%B68%E2%9D%BE%E2%9D%BC%E2%9E%83-7978618974-797%E2%9D%BD6189%E2%9D%BC4-call-now-b2fef74049ba?source=rss------data_science-5)
-- [The Unseen Boundaries of Generative AI like ChatGPT — and why the robots will not take our jobs……](https://ernestodotnet.medium.com/the-unseen-boundaries-of-generative-ai-like-chatgpt-and-why-the-robots-will-not-take-our-jobs-cf4e0bdc84e5?source=rss------data_science-5)
-- [TURAT FUND LOAN CusTomer Care Helpline NuMbeR/❼⑨❼❽➅❶8❾❼➃/ 7978618974 // 797❽6189❼4 ✓✓/ Call Now.](https://medium.com/@ysbl39475/turat-fund-loan-customer-care-helpline-number-%E2%9D%BC%E2%91%A8%E2%9D%BC%E2%9D%BD%E2%9E%85%E2%9D%B68%E2%9D%BE%E2%9D%BC%E2%9E%83-7978618974-797%E2%9D%BD6189%E2%9D%BC4-call-now-367fad42a69b?source=rss------data_science-5)
-- [ZYPE LOAN CusTomer Care Helpline NuMbeR/❼⑨❼❽➅❶8❾❼➃/ 7978618974 // 797❽6189❼4 ✓✓/ Call Now. ACC](https://medium.com/@unn941787/zype-loan-customer-care-helpline-number-%E2%9D%BC%E2%91%A8%E2%9D%BC%E2%9D%BD%E2%9E%85%E2%9D%B68%E2%9D%BE%E2%9D%BC%E2%9E%83-7978618974-797%E2%9D%BD6189%E2%9D%BC4-call-now-acc-9cd67b37e39e?source=rss------data_science-5)
-- [TEX WALLET LOAN CusTomer Care Helpline NuMbeR/❼⑨❼❽➅❶8❾❼➃/ 7978618974 // 797❽6189❼4 ✓✓/ Call Now.](https://medium.com/@aapp87716/tex-wallet-loan-customer-care-helpline-number-%E2%9D%BC%E2%91%A8%E2%9D%BC%E2%9D%BD%E2%9E%85%E2%9D%B68%E2%9D%BE%E2%9D%BC%E2%9E%83-7978618974-797%E2%9D%BD6189%E2%9D%BC4-call-now-77a78b90f8e8?source=rss------data_science-5)
-- [3 Ways to Earn $1,000 Daily With ChatGPT: AI-Powered Money-Making Secrets](https://medium.com/@Suzicasamo/3-ways-to-earn-1-000-daily-with-chatgpt-ai-powered-money-making-secrets-e43844fb7f01?source=rss------data_science-5)
-- [ChatGPT AI: Unveiling the Top Money-Making AI of 2024](https://medium.com/@Suzicasamo/chatgpt-ai-unveiling-the-top-money-making-ai-of-2024-06cec67c57bd?source=rss------data_science-5)
-- [Unlocking Creativity: Trending Searches in the World of Creative Expression](https://medium.com/@Suzicasamo/unlocking-creativity-trending-searches-in-the-world-of-creative-expression-a5822336c5ec?source=rss------data_science-5)
-- [Unveiling Patterns in Time: Discovering Motifs in Time Series Data with TSLEARN](https://medium.com/@ashishjsharda/unveiling-patterns-in-time-discovering-motifs-in-time-series-data-with-tslearn-c77ee160defb?source=rss------data_science-5)
+- [Setup HADOOP — macOS M1-M2](https://medium.com/@toygun.ozyurek/setup-hadoop-macos-m1-m2-61de978eb0ac?source=rss------data_science-5)
+- [Unveiling the Salaries of Data Professionals: A Comprehensive Guide](https://medium.com/@s4saurabh4/unveiling-the-salaries-of-data-professionals-a-comprehensive-guide-b982765655a5?source=rss------data_science-5)
+- [Mastering the Markets: How Wall Street Wolf is Revolutionizing Trading with A](https://medium.com/@wallstreetwolfpro/mastering-the-markets-how-wall-street-wolf-is-revolutionizing-trading-with-a-69018bfa0852?source=rss------data_science-5)
+- [How to Clean Your Excel Data Like Pro with Power Query — Project](https://medium.com/@amitkr209/clean-your-excel-data-with-power-query-32248479c70f-a6db45374693?source=rss------data_science-5)
+- [The Power of Frobenius Norms in Deep Learning.](https://medium.com/@kirubasagar82/the-power-of-frobenius-norms-in-deep-learning-7afe589aaf2b?source=rss------data_science-5)
+- [Transforming Mechanical Engineering: The Synergy of Data Science and Advanced Materials](https://medium.com/@ashwinpalo/transforming-mechanical-engineering-the-synergy-of-data-science-and-advanced-materials-fc26122eaaee?source=rss------data_science-5)
+- [AI Trends of November-December you need to know!](https://medium.com/@gonredo/ai-trends-of-november-december-you-need-to-know-000037bc00c9?source=rss------data_science-5)
+- [Deep Learning Konsep dan Penerapannya.](https://medium.com/@mjundihakim/deep-learning-konsep-dan-penerapannya-d62616e36c33?source=rss------data_science-5)
+- [“Tai, I feel uncomfortable in filling this, shall I?”](https://medium.com/@taijiayee/tai-i-feel-uncomfortable-in-filling-this-shall-i-2c42c9bb1567?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
