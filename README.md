@@ -105,15 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Setup HADOOP — macOS M1-M2](https://medium.com/@toygun.ozyurek/setup-hadoop-macos-m1-m2-61de978eb0ac?source=rss------data_science-5)
-- [Unveiling the Salaries of Data Professionals: A Comprehensive Guide](https://medium.com/@s4saurabh4/unveiling-the-salaries-of-data-professionals-a-comprehensive-guide-b982765655a5?source=rss------data_science-5)
-- [Mastering the Markets: How Wall Street Wolf is Revolutionizing Trading with A](https://medium.com/@wallstreetwolfpro/mastering-the-markets-how-wall-street-wolf-is-revolutionizing-trading-with-a-69018bfa0852?source=rss------data_science-5)
-- [How to Clean Your Excel Data Like Pro with Power Query — Project](https://medium.com/@amitkr209/clean-your-excel-data-with-power-query-32248479c70f-a6db45374693?source=rss------data_science-5)
-- [The Power of Frobenius Norms in Deep Learning.](https://medium.com/@kirubasagar82/the-power-of-frobenius-norms-in-deep-learning-7afe589aaf2b?source=rss------data_science-5)
-- [Transforming Mechanical Engineering: The Synergy of Data Science and Advanced Materials](https://medium.com/@ashwinpalo/transforming-mechanical-engineering-the-synergy-of-data-science-and-advanced-materials-fc26122eaaee?source=rss------data_science-5)
-- [AI Trends of November-December you need to know!](https://medium.com/@gonredo/ai-trends-of-november-december-you-need-to-know-000037bc00c9?source=rss------data_science-5)
-- [Deep Learning Konsep dan Penerapannya.](https://medium.com/@mjundihakim/deep-learning-konsep-dan-penerapannya-d62616e36c33?source=rss------data_science-5)
-- [“Tai, I feel uncomfortable in filling this, shall I?”](https://medium.com/@taijiayee/tai-i-feel-uncomfortable-in-filling-this-shall-i-2c42c9bb1567?source=rss------data_science-5)
+- [How to Use Backdoor Criterion to Select Control Variables](https://towardsdatascience.com/how-to-use-backdoor-criterion-to-select-control-variables-1ff8e657f297?source=rss------data_science-5)
+- [A Swift Introduction to Deep Learning with PyTorch and TensorFlow](https://pub.towardsai.net/deep-learning-441bc31f2ace?source=rss------data_science-5)
+- [Understand Data Warehouse: Query Performance](https://towardsdatascience.com/understand-data-warehouse-query-performance-23f53a30cc9f?source=rss------data_science-5)
+- [7978138656Grand Finserv Loan CusTomer Care Helpline Number ➐➒➐➑➊➌➑➏➎➏/ 7978138656 // 7978138656…](https://medium.com/@sw7dw8fsi6/7978138656grand-finserv-loan-customer-care-helpline-number-%E2%9E%90%E2%9E%92%E2%9E%90%E2%9E%91%E2%9E%8A%E2%9E%8C%E2%9E%91%E2%9E%8F%E2%9E%8E%E2%9E%8F-7978138656-7978138656-11a25192ef4b?source=rss------data_science-5)
+- [Regressão e Classificação em Machine Learning: A Importância de Escolher a Ferramenta Certa](https://medium.com/@omirandavictor/regress%C3%A3o-e-classifica%C3%A7%C3%A3o-em-machine-learning-a-import%C3%A2ncia-de-escolher-a-ferramenta-certa-6c39120e1442?source=rss------data_science-5)
+- [How to Find a Data Science Job](https://davidjblaszka.medium.com/how-to-find-a-data-science-job-477729f569be?source=rss------data_science-5)
+- [Day-to-Day Challenges as a Data Engineer or Data Scientist](https://medium.com/dcsfamily/day-to-day-challenges-as-a-data-engineer-or-data-scientist-2f60172e68f9?source=rss------data_science-5)
+- [Exploring the Dynamics of Complex Systems: A Deep Dive into Agent-Based Modeling](https://medium.com/@data-overload/exploring-the-dynamics-of-complex-systems-a-deep-dive-into-agent-based-modeling-ff2291678d55?source=rss------data_science-5)
+- [Master SQL Interviews](https://medium.com/@vishalbarvaliya/master-sql-interviews-caf5bf2058ac?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
