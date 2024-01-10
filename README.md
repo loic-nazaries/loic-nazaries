@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Use Backdoor Criterion to Select Control Variables](https://towardsdatascience.com/how-to-use-backdoor-criterion-to-select-control-variables-1ff8e657f297?source=rss------data_science-5)
-- [A Swift Introduction to Deep Learning with PyTorch and TensorFlow](https://pub.towardsai.net/deep-learning-441bc31f2ace?source=rss------data_science-5)
-- [Understand Data Warehouse: Query Performance](https://towardsdatascience.com/understand-data-warehouse-query-performance-23f53a30cc9f?source=rss------data_science-5)
-- [7978138656Grand Finserv Loan CusTomer Care Helpline Number ➐➒➐➑➊➌➑➏➎➏/ 7978138656 // 7978138656…](https://medium.com/@sw7dw8fsi6/7978138656grand-finserv-loan-customer-care-helpline-number-%E2%9E%90%E2%9E%92%E2%9E%90%E2%9E%91%E2%9E%8A%E2%9E%8C%E2%9E%91%E2%9E%8F%E2%9E%8E%E2%9E%8F-7978138656-7978138656-11a25192ef4b?source=rss------data_science-5)
-- [Regressão e Classificação em Machine Learning: A Importância de Escolher a Ferramenta Certa](https://medium.com/@omirandavictor/regress%C3%A3o-e-classifica%C3%A7%C3%A3o-em-machine-learning-a-import%C3%A2ncia-de-escolher-a-ferramenta-certa-6c39120e1442?source=rss------data_science-5)
-- [How to Find a Data Science Job](https://davidjblaszka.medium.com/how-to-find-a-data-science-job-477729f569be?source=rss------data_science-5)
-- [Day-to-Day Challenges as a Data Engineer or Data Scientist](https://medium.com/dcsfamily/day-to-day-challenges-as-a-data-engineer-or-data-scientist-2f60172e68f9?source=rss------data_science-5)
-- [Exploring the Dynamics of Complex Systems: A Deep Dive into Agent-Based Modeling](https://medium.com/@data-overload/exploring-the-dynamics-of-complex-systems-a-deep-dive-into-agent-based-modeling-ff2291678d55?source=rss------data_science-5)
-- [Master SQL Interviews](https://medium.com/@vishalbarvaliya/master-sql-interviews-caf5bf2058ac?source=rss------data_science-5)
+- [#شماره.خاله09908194421 #شمارخاله تهران شماره خاله پردیس شماره خاله شماره خاله تهران شماره خاله…](https://medium.com/@elijoon196/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%8709908194421-%D8%B4%D9%85%D8%A7%D8%B1%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%BE%D8%B1%D8%AF%DB%8C%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-07357b58e8db?source=rss------data_science-5)
+- [Tableau Data Analyst Professional Certificate Full Review](https://medium.com/@parvezshah.shaik/tableau-data-analyst-professional-certificate-full-review-91a4612c4065?source=rss------data_science-5)
+- [The Interplay Between Economic and Political Forces](https://medium.com/@hades75/the-interplay-between-economic-and-political-forces-5af4349dc4bc?source=rss------data_science-5)
+- [Sklean Tutorial: Module 5](https://towardsdatascience.com/sklean-tutorial-module-5-b30e08a4c746?source=rss------data_science-5)
+- [Optimizing Your Power BI and Excel Power Query Workflow: Putting Expensive Operations Last](https://medium.com/@rogerfsilva1/optimizing-your-power-bi-and-excel-power-query-workflow-putting-expensive-operations-last-afc651771bcc?source=rss------data_science-5)
+- [上海聯想數據分析兩年的工作回顧](https://theryanlin.medium.com/%E4%B8%8A%E6%B5%B7%E8%81%AF%E6%83%B3%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E5%85%A9%E5%B9%B4%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%9B%9E%E9%A1%A7-330d97a60f0c?source=rss------data_science-5)
+- [Top 7 Data Analytics Certifications 2024](https://bootcamp.uxdesign.cc/top-7-best-data-analytics-certifications-2024-6ffd1372c59a?source=rss------data_science-5)
+- [“AI ain’t going to take over my job.”](https://medium.com/@taijiayee/ai-aint-going-to-take-over-my-job-500f0b855faf?source=rss------data_science-5)
+- [Group Equivariant Self-Attention](https://towardsdatascience.com/group-equivariant-self-attention-19e47f0b786e?source=rss------data_science-5)
+- [شماره خاله 09908194421شماره خاله تهران شماره خاله پردیس شماره خاله دماوند شماره خاله اسلامشهر شماره…](https://medium.com/@elijoon196/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09908194421%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%BE%D8%B1%D8%AF%DB%8C%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AF%D9%85%D8%A7%D9%88%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a0d539ca87e7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
