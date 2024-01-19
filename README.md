@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Uncovering Hidden Patterns: Exploring the Impact of Feature Engineering in Data Science](https://medium.com/@keshow1/uncovering-hidden-patterns-exploring-the-impact-of-feature-engineering-in-data-science-f60b186a0d02?source=rss------data_science-5)
-- [Data Scientist vs Data Analyst | Which Is Right For You?](https://medium.com/@parvezshah.shaik/data-scientist-vs-data-analyst-which-is-right-for-you-042bb8609424?source=rss------data_science-5)
-- [AI Ethics and the Hidden Risks of Bias](https://medium.com/@AlexanderObregon/ai-ethics-and-the-hidden-risks-of-bias-77e38b2640e4?source=rss------data_science-5)
-- [A Complete Data Analytics Project with Excel](https://medium.com/@abdullaahyaseen/a-complete-data-analytics-project-with-excel-95af8ed0dc02?source=rss------data_science-5)
-- [The Importance of Video-Based Data in Neurological Care](https://medium.com/@mindly_care/the-importance-of-video-based-data-in-neurological-care-bf7fd7c61748?source=rss------data_science-5)
-- [The Analyst’s Guide to Using a Waterfall Chart](https://medium.com/@sodeeqakorede/the-analysts-guide-to-using-a-waterfall-chart-b90a71ef154c?source=rss------data_science-5)
-- [What Does a Data Analyst Actually Do?](https://medium.com/@parvezshah.shaik/what-does-a-data-analyst-actually-do-e8dd323c8ff7?source=rss------data_science-5)
-- [MLOps: A Practical Guide to Building a Streaming Data Pipeline on GCP](https://medium.com/@gbonanato/mlops-a-practical-guide-to-building-a-streaming-data-pipeline-on-gcp-cccffc7cf261?source=rss------data_science-5)
-- [Five significant developments in AI and Data Science anticipated for 2024](https://medium.com/@thewealthgeek/five-significant-developments-in-ai-and-data-science-anticipated-for-2024-3ba49ea9b620?source=rss------data_science-5)
-- [How to Tailor A Column Chart for Communication](https://pub.towardsai.net/how-to-tailor-a-column-chart-for-communication-3e36e452113b?source=rss------data_science-5)
+- [Probability Theory #10 — Logit-Normal Distribution](https://medium.com/datafrens-sg/probability-theory-10-logit-normal-distribution-e77a0ea28a11?source=rss------data_science-5)
+- [Kalman Filter Deep Dive: a sequential/iterative weighted average adaptive linear filter.](https://medium.com/@xiaoshi_4553/kalman-filter-a-sequential-iterative-weighted-average-adaptive-linear-filter-explained-bd715ed33426?source=rss------data_science-5)
+- [HONEYCOMB CREDIT LOAN Customer Care Helpline Number &lpar;❽❾❹❹❾❼❸❺❹❽&rpar; Toll-Free +&lpar;8944973548&rpar; Call…](https://medium.com/@gerafe1163/honeycomb-credit-loan-customer-care-helpline-number-%E2%9D%BD%E2%9D%BE%E2%9D%B9%E2%9D%B9%E2%9D%BE%E2%9D%BC%E2%9D%B8%E2%9D%BA%E2%9D%B9%E2%9D%BD-toll-free-8944973548-call-45650dec9d54?source=rss------data_science-5)
+- [Apache Spark&#39;s reduceByKey and reduce Transformations](https://medium.com/@vishalbarvaliya/apache-sparks-reducebykey-and-reduce-transformations-42b3bd80e32e?source=rss------data_science-5)
+- [Comparing Data Scientist vs Data Analyst: Highlights and Career Paths](https://medium.com/@Ronald_B_Scott/comparing-data-scientist-vs-data-analyst-highlights-and-career-paths-540150a44b17?source=rss------data_science-5)
+- [Data Analyst vs. Data Scientist: Understanding the Key Differences and Career Paths](https://medium.com/@rogeremitchell/data-analyst-vs-data-scientist-understanding-the-key-differences-and-career-paths-4fe98b0bf7ca?source=rss------data_science-5)
+- [Building, Evaluating and Tracking a Local Advanced RAG System | Mistral 7b + LlamaIndex + W&amp;B](https://towardsdatascience.com/building-evaluating-and-tracking-a-local-advanced-rag-system-mistral-7b-llamaindex-w-b-5c9c69059f92?source=rss------data_science-5)
+- [Why can’t robots check the box that says ‘I’m not a robot’?](https://medium.com/@parvezshah.shaik/why-cant-robots-check-the-box-that-says-i-m-not-a-robot-e32d18b1e4bd?source=rss------data_science-5)
+- [Mastering the Basics-Part 8: Must-Learn Python Concepts for Data and AI](https://medium.com/@curiousmind1786/mastering-the-basics-part-8-must-learn-python-concepts-for-data-and-ai-4173322a1ddc?source=rss------data_science-5)
+- [شماره خاله شماره خاله تهران 09014931639شماره خاله تهران شماره خاله کرج شماره خاله شیراز شمارهشماره…](https://medium.com/@p3973733/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09014931639%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6a58271f3a9f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
