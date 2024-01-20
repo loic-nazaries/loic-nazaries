@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Probability Theory #10 — Logit-Normal Distribution](https://medium.com/datafrens-sg/probability-theory-10-logit-normal-distribution-e77a0ea28a11?source=rss------data_science-5)
-- [Kalman Filter Deep Dive: a sequential/iterative weighted average adaptive linear filter.](https://medium.com/@xiaoshi_4553/kalman-filter-a-sequential-iterative-weighted-average-adaptive-linear-filter-explained-bd715ed33426?source=rss------data_science-5)
-- [HONEYCOMB CREDIT LOAN Customer Care Helpline Number &lpar;❽❾❹❹❾❼❸❺❹❽&rpar; Toll-Free +&lpar;8944973548&rpar; Call…](https://medium.com/@gerafe1163/honeycomb-credit-loan-customer-care-helpline-number-%E2%9D%BD%E2%9D%BE%E2%9D%B9%E2%9D%B9%E2%9D%BE%E2%9D%BC%E2%9D%B8%E2%9D%BA%E2%9D%B9%E2%9D%BD-toll-free-8944973548-call-45650dec9d54?source=rss------data_science-5)
-- [Apache Spark&#39;s reduceByKey and reduce Transformations](https://medium.com/@vishalbarvaliya/apache-sparks-reducebykey-and-reduce-transformations-42b3bd80e32e?source=rss------data_science-5)
-- [Comparing Data Scientist vs Data Analyst: Highlights and Career Paths](https://medium.com/@Ronald_B_Scott/comparing-data-scientist-vs-data-analyst-highlights-and-career-paths-540150a44b17?source=rss------data_science-5)
-- [Data Analyst vs. Data Scientist: Understanding the Key Differences and Career Paths](https://medium.com/@rogeremitchell/data-analyst-vs-data-scientist-understanding-the-key-differences-and-career-paths-4fe98b0bf7ca?source=rss------data_science-5)
-- [Building, Evaluating and Tracking a Local Advanced RAG System | Mistral 7b + LlamaIndex + W&amp;B](https://towardsdatascience.com/building-evaluating-and-tracking-a-local-advanced-rag-system-mistral-7b-llamaindex-w-b-5c9c69059f92?source=rss------data_science-5)
-- [Why can’t robots check the box that says ‘I’m not a robot’?](https://medium.com/@parvezshah.shaik/why-cant-robots-check-the-box-that-says-i-m-not-a-robot-e32d18b1e4bd?source=rss------data_science-5)
-- [Mastering the Basics-Part 8: Must-Learn Python Concepts for Data and AI](https://medium.com/@curiousmind1786/mastering-the-basics-part-8-must-learn-python-concepts-for-data-and-ai-4173322a1ddc?source=rss------data_science-5)
-- [شماره خاله شماره خاله تهران 09014931639شماره خاله تهران شماره خاله کرج شماره خاله شیراز شمارهشماره…](https://medium.com/@p3973733/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09014931639%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6a58271f3a9f?source=rss------data_science-5)
+- [“Latest and Environmentally Friendly: Charging Cell Phones with a Solar Energy System&quot;](https://medium.com/@reviewbarang78/latest-and-environmentally-friendly-charging-cell-phones-with-a-solar-energy-system-fbca2fdb28af?source=rss------data_science-5)
+- [Top rup Loan Customer Care Helpline Number &lpar;❼０❾０➀❼❺➇０❺&rpar; Toll-Free +&lpar;7090175805&rpar; Call +&lpar; 9608751671…](https://medium.com/@linidod167/top-rup-loan-customer-care-helpline-number-%E2%9D%BC%EF%BC%90%E2%9D%BE%EF%BC%90%E2%9E%80%E2%9D%BC%E2%9D%BA%E2%9E%87%EF%BC%90%E2%9D%BA-toll-free-7090175805-call-9608751671-dd4aaf6e4f33?source=rss------data_science-5)
+- [The Secret of Becoming Mentally Strong](https://medium.com/@parvezshah.shaik/the-secret-of-becoming-mentally-strong-0b2cc9c89910?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@hfyhfivfuvji/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-3d798dc1887b?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@hfyhfivfuvji/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-a7b9de77a76c?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@hfyhfivfuvji/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-b9685c6ba99c?source=rss------data_science-5)
+- [شماره خاله شماره خاله تهران](https://medium.com/@hfyhfivfuvji/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-04c1b9a29740?source=rss------data_science-5)
+- [Nvidia’s New “Super”  GPUs Set to Revolutionize AI and Machine Learning](https://medium.com/@aimlds987/nvidias-new-super-gpus-set-to-revolutionize-ai-and-machine-learning-d56644c677a2?source=rss------data_science-5)
+- [شماره خاله شماره خاله تهران](https://medium.com/@hfyhfivfuvji/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-f8206e5b100d?source=rss------data_science-5)
+- [The Marketing Reporting Gap](https://towardsdatascience.com/the-marketing-reporting-gap-9efc2d2a9ccc?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
