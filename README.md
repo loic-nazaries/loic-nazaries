@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [“Latest and Environmentally Friendly: Charging Cell Phones with a Solar Energy System&quot;](https://medium.com/@reviewbarang78/latest-and-environmentally-friendly-charging-cell-phones-with-a-solar-energy-system-fbca2fdb28af?source=rss------data_science-5)
-- [Top rup Loan Customer Care Helpline Number &lpar;❼０❾０➀❼❺➇０❺&rpar; Toll-Free +&lpar;7090175805&rpar; Call +&lpar; 9608751671…](https://medium.com/@linidod167/top-rup-loan-customer-care-helpline-number-%E2%9D%BC%EF%BC%90%E2%9D%BE%EF%BC%90%E2%9E%80%E2%9D%BC%E2%9D%BA%E2%9E%87%EF%BC%90%E2%9D%BA-toll-free-7090175805-call-9608751671-dd4aaf6e4f33?source=rss------data_science-5)
-- [The Secret of Becoming Mentally Strong](https://medium.com/@parvezshah.shaik/the-secret-of-becoming-mentally-strong-0b2cc9c89910?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@hfyhfivfuvji/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-3d798dc1887b?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@hfyhfivfuvji/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-a7b9de77a76c?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@hfyhfivfuvji/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-b9685c6ba99c?source=rss------data_science-5)
-- [شماره خاله شماره خاله تهران](https://medium.com/@hfyhfivfuvji/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-04c1b9a29740?source=rss------data_science-5)
-- [Nvidia’s New “Super”  GPUs Set to Revolutionize AI and Machine Learning](https://medium.com/@aimlds987/nvidias-new-super-gpus-set-to-revolutionize-ai-and-machine-learning-d56644c677a2?source=rss------data_science-5)
-- [شماره خاله شماره خاله تهران](https://medium.com/@hfyhfivfuvji/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-f8206e5b100d?source=rss------data_science-5)
-- [The Marketing Reporting Gap](https://towardsdatascience.com/the-marketing-reporting-gap-9efc2d2a9ccc?source=rss------data_science-5)
+- [Data Preprocessing in a Nutshell](https://medium.com/@sanjanashivananda07/data-preprocessing-in-a-nutshell-9bde92fe7469?source=rss------data_science-5)
+- [Intricacies Unveiled: Single-Cell Analysis and the Influence of Machine Learning](https://medium.com/@vishnu.vasan.r.21/intricacies-unveiled-single-cell-analysis-and-the-influence-of-machine-learning-c448e5a398e5?source=rss------data_science-5)
+- [Australian Open Day 7: Insights on Zheng v Wang](https://medium.com/@beyondtop10tennis/australian-open-day-7-insights-on-zheng-v-wang-8a9090a1c764?source=rss------data_science-5)
+- [Naïve Bayes ALGORITHM](https://medium.com/@prasannathatamalapakula/na%C3%AFve-bayes-algorithm-0993ff20e463?source=rss------data_science-5)
+- [From Algorithms to Impact: How to Communicate Data Science Results Across Audiences](https://pub.towardsai.net/from-algorithms-to-impact-how-to-communicate-data-science-results-across-audiences-7de4f620ca2a?source=rss------data_science-5)
+- [➐➒➐➑➊➌➑➏➎➏☎️✔️cash box loan app customer care number7978138656](https://medium.com/@gemj4pdi53/%E2%9E%90%E2%9E%92%E2%9E%90%E2%9E%91%E2%9E%8A%E2%9E%8C%E2%9E%91%E2%9E%8F%E2%9E%8E%E2%9E%8F-%EF%B8%8F-%EF%B8%8Fcash-box-loan-app-customer-care-number7978138656-b3a46ea7b874?source=rss------data_science-5)
+- [➐➒➐➑➊➌➑➏➎➏☎️✔️cash box loan app customer care number7978138656](https://medium.com/@gemj4pdi53/%E2%9E%90%E2%9E%92%E2%9E%90%E2%9E%91%E2%9E%8A%E2%9E%8C%E2%9E%91%E2%9E%8F%E2%9E%8E%E2%9E%8F-%EF%B8%8F-%EF%B8%8Fcash-box-loan-app-customer-care-number7978138656-bac42d91ffab?source=rss------data_science-5)
+- [➐➒➐➑➊➌➑➏➎➏☎️✔️cash box loan app customer care number7978138656](https://medium.com/@gemj4pdi53/%E2%9E%90%E2%9E%92%E2%9E%90%E2%9E%91%E2%9E%8A%E2%9E%8C%E2%9E%91%E2%9E%8F%E2%9E%8E%E2%9E%8F-%EF%B8%8F-%EF%B8%8Fcash-box-loan-app-customer-care-number7978138656-61e1760c4cfd?source=rss------data_science-5)
+- [➐➒➐➑➊➌➑➏➎➏☎️✔️cash box loan app customer care number7978138656](https://medium.com/@gemj4pdi53/%E2%9E%90%E2%9E%92%E2%9E%90%E2%9E%91%E2%9E%8A%E2%9E%8C%E2%9E%91%E2%9E%8F%E2%9E%8E%E2%9E%8F-%EF%B8%8F-%EF%B8%8Fcash-box-loan-app-customer-care-number7978138656-26283cd69158?source=rss------data_science-5)
+- [➐➒➐➑➊➌➑➏➎➏☎️✔️cash box loan app customer care number7978138656](https://medium.com/@gemj4pdi53/%E2%9E%90%E2%9E%92%E2%9E%90%E2%9E%91%E2%9E%8A%E2%9E%8C%E2%9E%91%E2%9E%8F%E2%9E%8E%E2%9E%8F-%EF%B8%8F-%EF%B8%8Fcash-box-loan-app-customer-care-number7978138656-efcb7c602a07?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
