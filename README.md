@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Kickstart Your Multi-Class Classification Project with this Python Template](https://ernestodotnet.medium.com/kickstart-your-multi-class-classification-project-with-this-python-template-805c11a6d6be?source=rss------data_science-5)
-- [Formatos de Dados &lpar;part. 1&rpar; — Parquet](https://medium.com/@nelson.anchite/formatos-de-dados-part-1-parquet-a5351dc395e8?source=rss------data_science-5)
-- [Rápido overview — Correlações&lpar;Associações&rpar;](https://filipeaguiarrod.medium.com/r%C3%A1pido-overview-correla%C3%A7%C3%B5es-associa%C3%A7%C3%B5es-a6c74fe03c2d?source=rss------data_science-5)
-- [أفضل أدوات وبرامج إنشاء المحتوى 2024](https://medium.com/@zaiud8x/%D8%A3%D9%81%D8%B6%D9%84-%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%88%D8%A8%D8%B1%D8%A7%D9%85%D8%AC-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%88%D9%89-2024-d77219d19fa0?source=rss------data_science-5)
-- [How to Handle with Imbalanced Datasets](https://medium.com/@jpnunesoliv/how-to-handle-with-imbalanced-datasets-42c6989b4296?source=rss------data_science-5)
-- [Gaussian Random Vectors: A Detailed Analysis and Its Importance in Statistic learning](https://medium.com/@xiaoshi_4553/gaussian-random-vectors-a-detailed-analysis-9ee47f301e1d?source=rss------data_science-5)
-- [dbt command line essentials: your go-to reference for everyday data building](https://medium.com/@doedlingerwolfgang/dbt-command-line-essentials-your-go-to-reference-for-everyday-data-building-88ae3b4c6ab7?source=rss------data_science-5)
-- [Photo by nilufar nattaq on Unsplash](https://medium.com/@wfyjhwzddn/photo-by-nilufar-nattaq-on-unsplash-107555f18d34?source=rss------data_science-5)
-- [Measuring Migration: Old Challenges, New Opportunities](https://medium.com/@dlab-berkeley/measuring-migration-old-challenges-new-opportunities-176180df830a?source=rss------data_science-5)
-- [How to improve RAG results in your LLM apps: from basics to advanced](https://bootcamp.uxdesign.cc/how-to-improve-rag-results-in-your-llm-apps-from-basics-to-advanced-822818014144?source=rss------data_science-5)
+- [Berachain est une blockchain L1 axée sur DeFi, compatible EVM, construite sur le SDK Cosmos…](https://medium.com/@ibsecent1/berachain-est-une-blockchain-l1-ax%C3%A9e-sur-defi-compatible-evm-construite-sur-le-sdk-cosmos-c81c19ea3dea?source=rss------data_science-5)
+- [Que sont les jetons BRC-20 ?](https://medium.com/@ibsecent1/que-sont-les-jetons-brc-20-788ec5db6e90?source=rss------data_science-5)
+- [5 Steps to Transform Messy Functions into Production-Ready Code](https://towardsdatascience.com/5-steps-to-transform-messy-functions-into-production-ready-code-57088b9a9f75?source=rss------data_science-5)
+- [Empowering Your Chatbot: Unveiling Dynamic Knowledge Sources with Advanced Integration](https://medium.com/@marco.bertelli/empowering-your-chatbot-unveiling-dynamic-knowledge-sources-with-advanced-integration-e8353e85099c?source=rss------data_science-5)
+- [Top Important LLM Papers for the Week from 15/01 to 21/01](https://pub.towardsai.net/top-important-llm-papers-for-the-week-from-15-01-to-21-01-b10c9eb8dcdc?source=rss------data_science-5)
+- [شماره خاله 09010712940](https://medium.com/@nypbnln/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09010712940-f6c97e706606?source=rss------data_science-5)
+- [شماره خاله الهام 09335095936](https://medium.com/@nypbnln/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%84%D9%87%D8%A7%D9%85-09335095936-e9debd177ec9?source=rss------data_science-5)
+- [Why Python is a great choice for AI and ML applications](https://medium.com/@oladokedamilola7/why-python-is-a-great-choice-for-ai-and-ml-applications-e687711a301c?source=rss------data_science-5)
+- [14 Data Analytics Terms Every Data Analyst Should Know](https://medium.com/@olivechiamaka64/14-data-analytics-terms-every-data-analyst-should-know-4867de0dfbec?source=rss------data_science-5)
+- [A Tutorial on Multi-step Time Series Forecasts](https://dataman-ai.medium.com/a-tutorial-on-multi-step-time-series-forecasts-61707b1bb042?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
