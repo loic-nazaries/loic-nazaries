@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [This is How I Automated Tons of Certificates Using Python](https://medium.com/@axel.em.casas/this-is-how-i-automated-tons-of-certificates-using-python-29364968b748?source=rss------data_science-5)
-- [Here’s What AI says about Cathie Wood’s ARK Invest](https://medium.datadriveninvestor.com/heres-what-ai-says-about-cathie-wood-s-ark-invest-791778795d81?source=rss------data_science-5)
-- [Programming is like going to the gym!](https://medium.com/@Misslamide/programming-is-like-going-to-the-gym-8a28a28bd0ed?source=rss------data_science-5)
-- [Comparing R And Python: Which Is Better For Data Science?](https://medium.com/@rogeremitchell/comparing-r-and-python-which-is-better-for-data-science-c8ca2ab7c74a?source=rss------data_science-5)
-- [Unveiling the Wonders of Data Science](https://medium.com/@zidantech4/unveiling-the-wonders-of-data-science-aa5a8c96263a?source=rss------data_science-5)
-- [Data Ethics](https://abour.medium.com/data-ethics-7a69a02a9c87?source=rss------data_science-5)
-- [Monitoring Endangered Species with Python and iNaturalist API](https://medium.com/@axel.em.casas/monitoring-endangered-species-with-python-and-inaturalist-api-7de4f7582853?source=rss------data_science-5)
-- [Probability Density Functions- Some Q &amp; A](https://medium.com/@kavya8a/probability-density-functions-some-q-a-563d36f21629?source=rss------data_science-5)
-- [“Não adianta termos bons dados se não fizermos boas perguntas”](https://medium.com/@elvis.oliv/n%C3%A3o-adianta-termos-bons-dados-se-n%C3%A3o-fizermos-boas-perguntas-f91d9dbebe2f?source=rss------data_science-5)
-- [Understanding Probability Density Functions: A Beginner’s Guide](https://medium.com/@kavya8a/understanding-probability-density-functions-a-beginners-guide-06c9821ed5c0?source=rss------data_science-5)
+- [Understanding and Measuring Center and Variability in Statistical Analysis](https://medium.com/datazdataz/understanding-and-measuring-center-and-variability-in-statistical-analysis-f0903988e94b?source=rss------data_science-5)
+- [Multivalued Dimensions and Bridge Tables](https://medium.com/@meruert.sm/multivalued-dimensions-and-bridge-tables-9dde5001988c?source=rss------data_science-5)
+- [Demystifying AI, ML, Deep Learning, and Data Science: A Beginner’s Guide](https://medium.com/@abhishekjainindore24/demystifying-ai-ml-deep-learning-and-data-science-a-beginners-guide-887e39d172db?source=rss------data_science-5)
+- [Aerial Robotics: Tello Drone Redefining Liquid Level Monitoring](https://medium.com/@rich.tsai1103/aerial-robotics-tello-drone-redefining-liquid-level-monitoring-7019f0d361d6?source=rss------data_science-5)
+- [Dimensionality Reduction for Machine Learning](https://medium.com/@srishtis1996/dimensionality-reduction-for-machine-learning-4f7a44238f09?source=rss------data_science-5)
+- [M capital Loan customer care Helpline Number 7090175805 9608751671 All Related support Call M…](https://medium.com/@havomax954/m-capital-loan-customer-care-helpline-number-7090175805-9608751671-all-related-support-call-m-6e6799decad5?source=rss------data_science-5)
+- [M capital Loan customer care Helpline Number 7090175805 9608751671 All Related support Call M…](https://medium.com/@havomax954/m-capital-loan-customer-care-helpline-number-7090175805-9608751671-all-related-support-call-m-d0a38fe05359?source=rss------data_science-5)
+- [Charting a New Course in Healthcare: My Data Analysis Journey](https://medium.com/@melaniearmijo/untitled-2625a8aa7e35?source=rss------data_science-5)
+- [ML Series: Linear Regression](https://medium.com/@hyojoo1531/ml-series-linear-regression-f550aea5bb0a?source=rss------data_science-5)
+- [@amir shakori](https://medium.com/@salartoken/amir-shakori-697732a32a82?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
