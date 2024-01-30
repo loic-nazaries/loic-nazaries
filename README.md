@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Do You Really Know *args In Python?](https://towardsdatascience.com/do-you-really-know-args-in-python-1e3402c77190?source=rss------data_science-5)
-- [Having a Comprehensive Dashboard Strategy for Analytics Managers](https://towardsdatascience.com/having-a-comprehensive-dashboard-strategy-for-analytics-managers-94dd9c62fd62?source=rss------data_science-5)
-- [Analyzing Employee Data with SQL: Uncovering Hidden Insights](https://medium.com/@amitkr209/sql-project-1-356d1fd37c17?source=rss------data_science-5)
-- [Data Warehouse Design Patterns](https://towardsdatascience.com/data-warehouse-design-patterns-d7c1c140c18b?source=rss------data_science-5)
-- [Text Processing with Python for NLP: Fundamental Techniques &lpar;part 2&rpar;](https://medium.com/@alexeystepanov3005/fundamental-text-processing-techniques-in-python-for-nlp-tasks-412791c4bcf2?source=rss------data_science-5)
-- [Creating Neo4J Graphs using Python](https://medium.com/@herambh/creating-neo4j-graphs-using-python-bd59662cbad6?source=rss------data_science-5)
-- [Billions Of People Still Breathe Unhealthy Air ~ WHO Data](https://medium.com/eco-news/billions-of-people-still-breathe-unhealthy-air-who-data-6d0e5cc5cfcd?source=rss------data_science-5)
-- [SQL Básico: Apelidos](https://medium.com/@lidson.mendes/sql-b%C3%A1sico-apelidos-62b7485dc6f8?source=rss------data_science-5)
-- [Improving Diversity for an Ensemble of Classifiers](https://medium.com/@peterson.leif.e/improving-diversity-for-an-ensemble-of-classifiers-7593667510a2?source=rss------data_science-5)
-- [Deciphering Correlation in Data Science: Unveiling Relationships in Statistics](https://medium.com/@HalderNilimesh/deciphering-correlation-in-data-science-unveiling-relationships-in-statistics-1cf0b2af81b7?source=rss------data_science-5)
+- [7 Proven Strategies to Safeguard Your Financial Data in the AI Era](https://medium.datadriveninvestor.com/7-proven-strategies-to-safeguard-your-financial-data-in-the-ai-era-55d6397f7f23?source=rss------data_science-5)
+- [纽约 长岛 新泽西 热水炉漏水换新、热水炉维修、热水炉熄火维修、热水炉保养维护、热水炉安装、AO Smith 维修 Rheem 维修](https://medium.com/@linxingzhong1990/%E7%BA%BD%E7%BA%A6-%E9%95%BF%E5%B2%9B-%E6%96%B0%E6%B3%BD%E8%A5%BF-%E7%83%AD%E6%B0%B4%E7%82%89%E6%BC%8F%E6%B0%B4%E6%8D%A2%E6%96%B0-%E7%83%AD%E6%B0%B4%E7%82%89%E7%BB%B4%E4%BF%AE-%E7%83%AD%E6%B0%B4%E7%82%89%E7%86%84%E7%81%AB%E7%BB%B4%E4%BF%AE-%E7%83%AD%E6%B0%B4%E7%82%89%E4%BF%9D%E5%85%BB%E7%BB%B4%E6%8A%A4-%E7%83%AD%E6%B0%B4%E7%82%89%E5%AE%89%E8%A3%85-ao-smith-%E7%BB%B4%E4%BF%AE-rheem-%E7%BB%B4%E4%BF%AE-409ad4e0fd2e?source=rss------data_science-5)
+- [DataScienceMustNeededSkills blog on Quora: Celebrating 1 Million Views](https://medium.com/datasciencemustneededskills/datasciencemustneededskills-blog-on-quora-celebrating-1-million-views-b15287f7e93e?source=rss------data_science-5)
+- [Read Drive Characteristics Easily with ULINK DA Portal](https://medium.com/@ulinkdadriveanalyzer/read-drive-characteristics-easily-with-ulink-da-portal-ba6afc1e2ff5?source=rss------data_science-5)
+- [Designing Machine Learning Systems: Essential Guide for Beginners](https://medium.com/@ayush18.agarwal/designing-machine-learning-systems-essential-guide-for-beginners-6d6a2c3d64c4?source=rss------data_science-5)
+- [Creating Customized PowerPoint Slides Using R Officer Library](https://medium.com/@bao.character/creating-customized-powerpoint-slides-using-r-officer-library-225875268f83?source=rss------data_science-5)
+- [How improper feature scaling leads to inaccurate results](https://shadibalandeh.medium.com/how-improper-feature-scaling-leads-to-inaccurate-results-81ce58b2fb52?source=rss------data_science-5)
+- [Who’s On First? &lpar;2/5&rpar; — Building a Character-level Recurrent Neural Network to Generate Fake…](https://medium.com/@datasciencefilmmaker/whos-on-first-2-8a857f887124?source=rss------data_science-5)
+- [Maixtchup: Make Your Own Mixture of Experts with Mergekit](https://towardsdatascience.com/maixtchup-make-your-own-mixture-of-experts-with-mergekit-87cc46401587?source=rss------data_science-5)
+- [HackerGPT](https://snoop-ghost.medium.com/hackergpt-d0fddd42addc?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
