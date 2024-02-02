@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [AMP Credit Loan Customer Care Helpline Number &lpar;➊⓿➋➌⓿➊➎➏➑&rpar; Toll-Free +&lpar;9121681184&rpar; Call…](https://medium.com/@kreditteust/amp-credit-loan-customer-care-helpline-number-%E2%9E%8A%E2%93%BF%E2%9E%8B%E2%9E%8C%E2%93%BF%E2%9E%8A%E2%9E%8E%E2%9E%8F%E2%9E%91-toll-free-9121681184-call-b3f01331c430?source=rss------data_science-5)
-- [AMP Credit Loan Customer Care Helpline Number &lpar;➊⓿➋➌⓿➊➎➏➑&rpar; Toll-Free +&lpar;9121681184&rpar; Call…](https://medium.com/@kreditteust/amp-credit-loan-customer-care-helpline-number-%E2%9E%8A%E2%93%BF%E2%9E%8B%E2%9E%8C%E2%93%BF%E2%9E%8A%E2%9E%8E%E2%9E%8F%E2%9E%91-toll-free-9121681184-call-a9ff81d7ef3c?source=rss------data_science-5)
-- [Matplotlib: Zero to Hero](https://materialdatascience.medium.com/matplotlib-zero-to-hero-53ccc37778f7?source=rss------data_science-5)
-- [Matplotlib: Zero to Hero](https://blog.devgenius.io/matplotlib-zero-to-hero-0d468b3c6526?source=rss------data_science-5)
-- [Matplotlib: Zero to Hero](https://blog.stackademic.com/matplotlib-zero-to-hero-9d1bdca389a6?source=rss------data_science-5)
-- [Matplotlib: Zero to Hero](https://blog.stackademic.com/matplotlib-zero-to-hero-026bc98490f6?source=rss------data_science-5)
-- [Matplotlib: Zero to Hero](https://ai.plainenglish.io/matplotlib-zero-to-hero-0723630bbf56?source=rss------data_science-5)
-- [Matplotlib: Zero to Hero](https://python.plainenglish.io/matplotlib-zero-to-hero-3b6f83bb3a57?source=rss------data_science-5)
-- [Regularization in Machine Learning](https://medium.com/@Hassane_01/regularization-in-machine-learning-a1df09b677fa?source=rss------data_science-5)
-- [Navigating Cinematic Seas: Building a Movie Recommender System](https://medium.com/@yashpratap914/navigating-cinematic-seas-building-a-movie-recommender-system-12c7ba8d6300?source=rss------data_science-5)
+- [Navigating the Data Revolution: Lessons from Jérémy Ravenel’s Journey to Naas.ai](https://medium.com/openteams/navigating-the-data-revolution-lessons-from-j%C3%A9r%C3%A9my-ravenels-journey-to-naas-ai-b7a1a6c1f29b?source=rss------data_science-5)
+- [6366480414call  shree loan CUSTOMER Care Helpline Number/✓☎❾❷❸❸❶❶❼❺❷❶√ 9777933738 / 9233117521…](https://medium.com/@nehruali904/6366480414call-shree-loan-customer-care-helpline-number-%E2%9D%BE%E2%9D%B7%E2%9D%B8%E2%9D%B8%E2%9D%B6%E2%9D%B6%E2%9D%BC%E2%9D%BA%E2%9D%B7%E2%9D%B6-9777933738-9233117521-b082fdf91bef?source=rss------data_science-5)
+- [6366480414call  shree loan CUSTOMER Care Helpline Number/✓☎❾❷❸❸❶❶❼❺❷❶√ 9777933738 / 9233117521…](https://medium.com/@nehruali904/6366480414call-shree-loan-customer-care-helpline-number-%E2%9D%BE%E2%9D%B7%E2%9D%B8%E2%9D%B8%E2%9D%B6%E2%9D%B6%E2%9D%BC%E2%9D%BA%E2%9D%B7%E2%9D%B6-9777933738-9233117521-374cf015fb20?source=rss------data_science-5)
+- [Artificial intelligence, the best ally of the language of the Incas](https://medium.com/@martareyessuarez25/artificial-intelligence-the-best-ally-of-the-language-of-the-incas-a4ba56630d79?source=rss------data_science-5)
+- [Volkswagen launches new artificial intelligence company](https://medium.com/@martareyessuarez25/volkswagen-launches-new-artificial-intelligence-company-a74164fbee25?source=rss------data_science-5)
+- [Artificial intelligence and your health](https://medium.com/@martareyessuarez25/artificial-intelligence-and-your-health-4867c6ce1325?source=rss------data_science-5)
+- [Fake images of Taylor Swift push laws to regulate artificial intelligence](https://medium.com/@martareyessuarez25/fake-images-of-taylor-swift-push-laws-to-regulate-artificial-intelligence-350381ca32d5?source=rss------data_science-5)
+- [COVID Analysis &lpar;Tableau&rpar;](https://medium.com/@creamer.dylan/covid-analysis-tableau-de252691e89b?source=rss------data_science-5)
+- [Data Science Series [2] — Molten.nvim Transforms NeoVim into a Jupyter-Like Experience](https://medium.com/@CompXBio/data-science-series-2-molten-nvim-transforms-neovim-into-a-jupyter-like-experience-a6435e6f2db7?source=rss------data_science-5)
+- [7 Boas Práticas com o Git para Cientistas de Dados](https://medium.com/@christianoDS/7-boas-pr%C3%A1ticas-com-o-git-para-cientistas-de-dados-2c1b43102a3f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
