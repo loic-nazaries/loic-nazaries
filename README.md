@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Navigating the Data Revolution: Lessons from Jérémy Ravenel’s Journey to Naas.ai](https://medium.com/openteams/navigating-the-data-revolution-lessons-from-j%C3%A9r%C3%A9my-ravenels-journey-to-naas-ai-b7a1a6c1f29b?source=rss------data_science-5)
-- [6366480414call  shree loan CUSTOMER Care Helpline Number/✓☎❾❷❸❸❶❶❼❺❷❶√ 9777933738 / 9233117521…](https://medium.com/@nehruali904/6366480414call-shree-loan-customer-care-helpline-number-%E2%9D%BE%E2%9D%B7%E2%9D%B8%E2%9D%B8%E2%9D%B6%E2%9D%B6%E2%9D%BC%E2%9D%BA%E2%9D%B7%E2%9D%B6-9777933738-9233117521-b082fdf91bef?source=rss------data_science-5)
-- [6366480414call  shree loan CUSTOMER Care Helpline Number/✓☎❾❷❸❸❶❶❼❺❷❶√ 9777933738 / 9233117521…](https://medium.com/@nehruali904/6366480414call-shree-loan-customer-care-helpline-number-%E2%9D%BE%E2%9D%B7%E2%9D%B8%E2%9D%B8%E2%9D%B6%E2%9D%B6%E2%9D%BC%E2%9D%BA%E2%9D%B7%E2%9D%B6-9777933738-9233117521-374cf015fb20?source=rss------data_science-5)
-- [Artificial intelligence, the best ally of the language of the Incas](https://medium.com/@martareyessuarez25/artificial-intelligence-the-best-ally-of-the-language-of-the-incas-a4ba56630d79?source=rss------data_science-5)
-- [Volkswagen launches new artificial intelligence company](https://medium.com/@martareyessuarez25/volkswagen-launches-new-artificial-intelligence-company-a74164fbee25?source=rss------data_science-5)
-- [Artificial intelligence and your health](https://medium.com/@martareyessuarez25/artificial-intelligence-and-your-health-4867c6ce1325?source=rss------data_science-5)
-- [Fake images of Taylor Swift push laws to regulate artificial intelligence](https://medium.com/@martareyessuarez25/fake-images-of-taylor-swift-push-laws-to-regulate-artificial-intelligence-350381ca32d5?source=rss------data_science-5)
-- [COVID Analysis &lpar;Tableau&rpar;](https://medium.com/@creamer.dylan/covid-analysis-tableau-de252691e89b?source=rss------data_science-5)
-- [Data Science Series [2] — Molten.nvim Transforms NeoVim into a Jupyter-Like Experience](https://medium.com/@CompXBio/data-science-series-2-molten-nvim-transforms-neovim-into-a-jupyter-like-experience-a6435e6f2db7?source=rss------data_science-5)
-- [7 Boas Práticas com o Git para Cientistas de Dados](https://medium.com/@christianoDS/7-boas-pr%C3%A1ticas-com-o-git-para-cientistas-de-dados-2c1b43102a3f?source=rss------data_science-5)
+- [Unlocking Geospatial Data Analysis with GeoPandas: A Comprehensive Python Tutorial and Analysis](https://medium.com/@data95/unlocking-geospatial-data-analysis-with-geopandas-a-comprehensive-python-tutorial-and-analysis-6e131c44dda3?source=rss------data_science-5)
+- [Cutting-Edge Clustering Techniques: A Spark-Driven Approach to K-Means Clustering Optimization](https://medium.com/operations-research-bit/cutting-edge-clustering-techniques-a-spark-driven-approach-to-k-means-clustering-optimization-96f15b1f68ad?source=rss------data_science-5)
+- [Ideas to improve regression analysis #2 — feature selection](https://medium.com/@alex.kirkup/ideas-to-improve-regression-analysis-2-feature-selection-218225a9ed1c?source=rss------data_science-5)
+- [Model Monitoring — Essential Concepts for Beginners](https://limszezhong.medium.com/model-monitoring-essential-concepts-for-beginners-eafb6e430525?source=rss------data_science-5)
+- [“Unlocking Insights: Exploring Client-Server Architecture for Business and Data Science”](https://medium.com/@shubavarma/unlocking-insights-exploring-client-server-architecture-for-business-and-data-science-78d4344b877d?source=rss------data_science-5)
+- [Start 2024 with the “Data Driven Organizations” Amazon Audible &amp; Kindle Book Series from Genesys…](https://internetdigitalentrepreneur.medium.com/start-2024-with-the-data-driven-organizations-amazon-audible-kindle-book-series-from-genesys-b6a3f8301750?source=rss------data_science-5)
+- [How to Deploy Your NLTK NLP App on Streamlit Cloud](https://ernestodotnet.medium.com/how-to-deploy-your-nltk-nlp-app-on-streamlit-cloud-06ff912b03ac?source=rss------data_science-5)
+- [Mastering Pytest Series 3: Exploring pytest Fixtures: Optimizing Test Setup and Tear Down](https://medium.com/@yuxuzi/mastering-pytest-series-3-exploring-pytest-fixtures-optimizing-test-setup-and-tear-down-9a094bf4c31f?source=rss------data_science-5)
+- [Applying Data Science for Pricing](https://universidadedosdados.medium.com/applying-data-science-for-pricing-c4ad6f4513fe?source=rss------data_science-5)
+- [شماره خاله سمنان.](https://medium.com/@hlta87818/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D9%85%D9%86%D8%A7%D9%86-55cb433160c4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
