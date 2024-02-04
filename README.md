@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Unlocking Geospatial Data Analysis with GeoPandas: A Comprehensive Python Tutorial and Analysis](https://medium.com/@data95/unlocking-geospatial-data-analysis-with-geopandas-a-comprehensive-python-tutorial-and-analysis-6e131c44dda3?source=rss------data_science-5)
-- [Cutting-Edge Clustering Techniques: A Spark-Driven Approach to K-Means Clustering Optimization](https://medium.com/operations-research-bit/cutting-edge-clustering-techniques-a-spark-driven-approach-to-k-means-clustering-optimization-96f15b1f68ad?source=rss------data_science-5)
-- [Ideas to improve regression analysis #2 — feature selection](https://medium.com/@alex.kirkup/ideas-to-improve-regression-analysis-2-feature-selection-218225a9ed1c?source=rss------data_science-5)
-- [Model Monitoring — Essential Concepts for Beginners](https://limszezhong.medium.com/model-monitoring-essential-concepts-for-beginners-eafb6e430525?source=rss------data_science-5)
-- [“Unlocking Insights: Exploring Client-Server Architecture for Business and Data Science”](https://medium.com/@shubavarma/unlocking-insights-exploring-client-server-architecture-for-business-and-data-science-78d4344b877d?source=rss------data_science-5)
-- [Start 2024 with the “Data Driven Organizations” Amazon Audible &amp; Kindle Book Series from Genesys…](https://internetdigitalentrepreneur.medium.com/start-2024-with-the-data-driven-organizations-amazon-audible-kindle-book-series-from-genesys-b6a3f8301750?source=rss------data_science-5)
-- [How to Deploy Your NLTK NLP App on Streamlit Cloud](https://ernestodotnet.medium.com/how-to-deploy-your-nltk-nlp-app-on-streamlit-cloud-06ff912b03ac?source=rss------data_science-5)
-- [Mastering Pytest Series 3: Exploring pytest Fixtures: Optimizing Test Setup and Tear Down](https://medium.com/@yuxuzi/mastering-pytest-series-3-exploring-pytest-fixtures-optimizing-test-setup-and-tear-down-9a094bf4c31f?source=rss------data_science-5)
-- [Applying Data Science for Pricing](https://universidadedosdados.medium.com/applying-data-science-for-pricing-c4ad6f4513fe?source=rss------data_science-5)
-- [شماره خاله سمنان.](https://medium.com/@hlta87818/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D9%85%D9%86%D8%A7%D9%86-55cb433160c4?source=rss------data_science-5)
+- [Mastering the Basics-Part 18: Must-Learn SQL Concepts for Data and AI](https://medium.com/@curiousmind1786/mastering-the-basics-part-18-must-learn-sql-concepts-for-data-and-ai-1027f6511777?source=rss------data_science-5)
+- [The Acronym for Data in 2024](https://medium.com/@bennettmo16/the-acronym-for-data-in-2024-7bf8a685dce6?source=rss------data_science-5)
+- [The Integration of Data Science in AI](https://medium.com/@pranaymate36/the-integration-of-data-science-in-ai-eef597ce8a68?source=rss------data_science-5)
+- [Mastering the Basics-Part 17: Must-Learn SQL Concepts for Data and AI](https://medium.com/@curiousmind1786/mastering-the-basics-part-17-must-learn-sql-concepts-for-data-and-ai-c08dce30d3af?source=rss------data_science-5)
+- [Simple Explanation of XGBoost without Complicated Mathematics](https://medium.com/@soyoungluna/simple-explanation-of-xgboost-without-complicated-mathematics-622c9c54c8a9?source=rss------data_science-5)
+- [AB Testing and Experimental Design From a Data Scientist in Fintech](https://medium.com/@thisisanhle/ab-testing-and-experimental-design-from-a-data-scientist-in-fintech-3498a639a53f?source=rss------data_science-5)
+- [Advanced ETL Techniques for Beginners](https://towardsdatascience.com/advanced-etl-techniques-for-beginners-03c404f0f0ac?source=rss------data_science-5)
+- [The AI role almost nobody talks about](https://medium.com/@marcelorinesi/the-ai-role-almost-nobody-talks-about-216e82af4c7b?source=rss------data_science-5)
+- [Beyond Binary Classification — Breaking down Multiple Logistic Regression to its basics](https://towardsdatascience.com/classification-multiple-logistic-regression-basics-ml-machine-learning-algorithm-classification-4acf6097ae1a?source=rss------data_science-5)
+- [Why Being or Becoming a Data Analyst Can Stress You Out](https://adithsreeram.medium.com/why-being-or-becoming-a-data-analyst-can-stress-you-out-64bc69d91c5f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
