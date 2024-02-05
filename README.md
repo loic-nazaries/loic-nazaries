@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Mastering the Basics-Part 18: Must-Learn SQL Concepts for Data and AI](https://medium.com/@curiousmind1786/mastering-the-basics-part-18-must-learn-sql-concepts-for-data-and-ai-1027f6511777?source=rss------data_science-5)
-- [The Acronym for Data in 2024](https://medium.com/@bennettmo16/the-acronym-for-data-in-2024-7bf8a685dce6?source=rss------data_science-5)
-- [The Integration of Data Science in AI](https://medium.com/@pranaymate36/the-integration-of-data-science-in-ai-eef597ce8a68?source=rss------data_science-5)
-- [Mastering the Basics-Part 17: Must-Learn SQL Concepts for Data and AI](https://medium.com/@curiousmind1786/mastering-the-basics-part-17-must-learn-sql-concepts-for-data-and-ai-c08dce30d3af?source=rss------data_science-5)
-- [Simple Explanation of XGBoost without Complicated Mathematics](https://medium.com/@soyoungluna/simple-explanation-of-xgboost-without-complicated-mathematics-622c9c54c8a9?source=rss------data_science-5)
-- [AB Testing and Experimental Design From a Data Scientist in Fintech](https://medium.com/@thisisanhle/ab-testing-and-experimental-design-from-a-data-scientist-in-fintech-3498a639a53f?source=rss------data_science-5)
-- [Advanced ETL Techniques for Beginners](https://towardsdatascience.com/advanced-etl-techniques-for-beginners-03c404f0f0ac?source=rss------data_science-5)
-- [The AI role almost nobody talks about](https://medium.com/@marcelorinesi/the-ai-role-almost-nobody-talks-about-216e82af4c7b?source=rss------data_science-5)
-- [Beyond Binary Classification — Breaking down Multiple Logistic Regression to its basics](https://towardsdatascience.com/classification-multiple-logistic-regression-basics-ml-machine-learning-algorithm-classification-4acf6097ae1a?source=rss------data_science-5)
-- [Why Being or Becoming a Data Analyst Can Stress You Out](https://adithsreeram.medium.com/why-being-or-becoming-a-data-analyst-can-stress-you-out-64bc69d91c5f?source=rss------data_science-5)
+- [Transforming Brand Stories Through Data-Driven Narratives](https://medium.com/@jmcleanarthur/transforming-brand-stories-through-data-driven-narratives-a4c23578d558?source=rss------data_science-5)
+- [Encoding Categorical Variables: A Deep Dive into Target Encoding](https://towardsdatascience.com/encoding-categorical-variables-a-deep-dive-into-target-encoding-2862217c2753?source=rss------data_science-5)
+- [Bellabeat Case Study on User Activity with SQL &amp; Tableau](https://medium.com/@amitkr209/bellabeat-case-study-on-user-activity-with-sql-tableau-d738b7d7384a?source=rss------data_science-5)
+- [Tagging Mountaineering Accident Reports Using bart-large-mnli](https://towardsdatascience.com/tagging-mountaineering-accident-reports-using-bart-large-mnli-1b1f6d97756a?source=rss------data_science-5)
+- [2023 NFL Receiver YPROE &lpar;Yards Per Reception Over Expected&rpar;](https://medium.com/@amritvignesh/2023-nfl-receiver-yproe-yards-per-reception-over-expected-9849df8575ca?source=rss------data_science-5)
+- [Don’t Know What is Python GIL? This May be the Easiest Tutorial](https://towardsdatascience.com/dont-know-what-is-python-gil-this-may-be-the-easiest-tutorial-3b99805d2225?source=rss------data_science-5)
+- [6 Mistakes Beginner Data Science Students Make](https://towardsdatascience.com/6-mistakes-beginner-data-science-students-make-db6f570f8a0e?source=rss------data_science-5)
+- [Explorando o Poder da IA Generativa: Ferramentas para Impulsionar sua Criatividade](https://medium.com/data-hackers/explorando-o-poder-da-ia-generativa-ferramentas-para-impulsionar-sua-criatividade-43679160fd32?source=rss------data_science-5)
+- [شماره زنان صیغه ای همسریابی۰ شماره خاله۰تهران۰ شماره خاله چالوس.](https://medium.com/@khalhrwdky/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B2%D9%86%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A7%DB%8C-%D9%87%D9%85%D8%B3%D8%B1%DB%8C%D8%A7%D8%A8%DB%8C%DB%B0-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87%DB%B0%D8%AA%D9%87%D8%B1%D8%A7%D9%86%DB%B0-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%86%D8%A7%D9%84%D9%88%D8%B3-ba751a3bbe1a?source=rss------data_science-5)
+- [شماره زنان صیغه ای همسریابی۰ شماره خاله۰تهران۰ شماره خاله چالوس.](https://medium.com/@khalhrwdky/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B2%D9%86%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A7%DB%8C-%D9%87%D9%85%D8%B3%D8%B1%DB%8C%D8%A7%D8%A8%DB%8C%DB%B0-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87%DB%B0%D8%AA%D9%87%D8%B1%D8%A7%D9%86%DB%B0-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%86%D8%A7%D9%84%D9%88%D8%B3-4e7cb4cd1ff1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
