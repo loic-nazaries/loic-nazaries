@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Transforming Brand Stories Through Data-Driven Narratives](https://medium.com/@jmcleanarthur/transforming-brand-stories-through-data-driven-narratives-a4c23578d558?source=rss------data_science-5)
-- [Encoding Categorical Variables: A Deep Dive into Target Encoding](https://towardsdatascience.com/encoding-categorical-variables-a-deep-dive-into-target-encoding-2862217c2753?source=rss------data_science-5)
-- [Bellabeat Case Study on User Activity with SQL &amp; Tableau](https://medium.com/@amitkr209/bellabeat-case-study-on-user-activity-with-sql-tableau-d738b7d7384a?source=rss------data_science-5)
-- [Tagging Mountaineering Accident Reports Using bart-large-mnli](https://towardsdatascience.com/tagging-mountaineering-accident-reports-using-bart-large-mnli-1b1f6d97756a?source=rss------data_science-5)
-- [2023 NFL Receiver YPROE &lpar;Yards Per Reception Over Expected&rpar;](https://medium.com/@amritvignesh/2023-nfl-receiver-yproe-yards-per-reception-over-expected-9849df8575ca?source=rss------data_science-5)
-- [Don’t Know What is Python GIL? This May be the Easiest Tutorial](https://towardsdatascience.com/dont-know-what-is-python-gil-this-may-be-the-easiest-tutorial-3b99805d2225?source=rss------data_science-5)
-- [6 Mistakes Beginner Data Science Students Make](https://towardsdatascience.com/6-mistakes-beginner-data-science-students-make-db6f570f8a0e?source=rss------data_science-5)
-- [Explorando o Poder da IA Generativa: Ferramentas para Impulsionar sua Criatividade](https://medium.com/data-hackers/explorando-o-poder-da-ia-generativa-ferramentas-para-impulsionar-sua-criatividade-43679160fd32?source=rss------data_science-5)
-- [شماره زنان صیغه ای همسریابی۰ شماره خاله۰تهران۰ شماره خاله چالوس.](https://medium.com/@khalhrwdky/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B2%D9%86%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A7%DB%8C-%D9%87%D9%85%D8%B3%D8%B1%DB%8C%D8%A7%D8%A8%DB%8C%DB%B0-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87%DB%B0%D8%AA%D9%87%D8%B1%D8%A7%D9%86%DB%B0-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%86%D8%A7%D9%84%D9%88%D8%B3-ba751a3bbe1a?source=rss------data_science-5)
-- [شماره زنان صیغه ای همسریابی۰ شماره خاله۰تهران۰ شماره خاله چالوس.](https://medium.com/@khalhrwdky/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B2%D9%86%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A7%DB%8C-%D9%87%D9%85%D8%B3%D8%B1%DB%8C%D8%A7%D8%A8%DB%8C%DB%B0-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87%DB%B0%D8%AA%D9%87%D8%B1%D8%A7%D9%86%DB%B0-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%86%D8%A7%D9%84%D9%88%D8%B3-4e7cb4cd1ff1?source=rss------data_science-5)
+- [شماره خاله 0903.752.1639](https://medium.com/@rdyt9990/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-0903-752-1639-17ab4cf2df34?source=rss------data_science-5)
+- [شماره خاله 0903.752.1639](https://medium.com/@rdyt9990/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-0903-752-1639-24961f7eee37?source=rss------data_science-5)
+- [شماره خاله 0903.752‌1639](https://medium.com/@rdyt9990/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-0903-752-1639-592b76fa34ca?source=rss------data_science-5)
+- [شماره خاله 0903.752‌.1639](https://medium.com/@rdyt9990/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-0903-752-1639-4a341d32c515?source=rss------data_science-5)
+- [Using Forest Plots to Report Regression Estimates: A Useful Data Visualization Technique](https://medium.com/@dlab-berkeley/using-forest-plots-to-report-regression-estimates-a-useful-data-visualization-technique-2511491763f2?source=rss------data_science-5)
+- [Top Important Computer Vision Papers for the Week from 29/01 to 04/02](https://yousefhosni.medium.com/top-important-computer-vision-papers-for-the-week-from-29-01-to-04-02-1566b4b0fe32?source=rss------data_science-5)
+- [Beyond the P-Value: Navigating Statistical Significance in Your Career](https://medium.com/@nathanaeljdj/beyond-the-p-value-navigating-statistical-significance-in-your-career-dd1a14c38388?source=rss------data_science-5)
+- [Shipstreak Com customer care helpline number 7439881760 ❾❻➍❶❻❽❽❻➍❼☎️ 7439881760 Shipstreak Com…](https://medium.com/@customercareshipstreak/shipstreak-com-customer-care-helpline-number-7439881760-%E2%9D%BE%E2%9D%BB%E2%9E%8D%E2%9D%B6%E2%9D%BB%E2%9D%BD%E2%9D%BD%E2%9D%BB%E2%9E%8D%E2%9D%BC-%EF%B8%8F-7439881760-shipstreak-com-d2ace7a564de?source=rss------data_science-5)
+- [Shipstreak Com customer care helpline number 7439881760 ❾❻➍❶❻❽❽❻➍❼☎️ 7439881760 Shipstreak Com…](https://medium.com/@customercareshipstreak/shipstreak-com-customer-care-helpline-number-7439881760-%E2%9D%BE%E2%9D%BB%E2%9E%8D%E2%9D%B6%E2%9D%BB%E2%9D%BD%E2%9D%BD%E2%9D%BB%E2%9E%8D%E2%9D%BC-%EF%B8%8F-7439881760-shipstreak-com-1c3318b7d59e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
