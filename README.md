@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [¿Qué hay detrás de una recomendación realizada por una plataforma?](https://medium.com/@suarez.juandavid96/qu%C3%A9-hay-detr%C3%A1s-de-una-recomendaci%C3%B3n-realizada-por-una-plataforma-a31f1bd7143c?source=rss------data_science-5)
-- [Apples &amp; Oranges](https://medium.com/illumination/apples-oranges-bf7e957744b6?source=rss------data_science-5)
-- [Your Guide to the LLM Ecosystem](https://pub.aimind.so/your-guide-to-the-llm-ecosystem-f67826c84be8?source=rss------data_science-5)
-- [شماره خاله 09010712940](https://medium.com/@llafghbb/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09010712940-3263b4cf4ecf?source=rss------data_science-5)
-- [شماره خاله شیراز شماره خاله زرند شماره خاله رفسنجان شماره خاله سیرجان شماره خاله کرمان شماره خاله…](https://medium.com/@llafghbb/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B2%D8%B1%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-0a04479e02b4?source=rss------data_science-5)
-- [شماره خاله 09010712940](https://medium.com/@llafghbb/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09010712940-68b1f884260f?source=rss------data_science-5)
-- [The Harsh Reality of Being an ML Researcher](https://pub.towardsai.net/the-harsh-reality-of-being-an-ml-researcher-e8e7441e21c5?source=rss------data_science-5)
-- [شماره خاله تهران 09055770486](https://medium.com/@llafghbb/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09055770486-0ea350c30895?source=rss------data_science-5)
-- [شماره خاله 09010712940ماره خاله تهران شماره خاله اسلامشهر شماره خاله کرمان شماره خاله کرمانشاه…](https://medium.com/@llafghbb/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09010712940%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-66c8f3ebecd0?source=rss------data_science-5)
-- [MDMA- UND ECSTASY-PILLEN.
-Kontakt; thegame2370@gmail.com.](https://medium.com/@dimray2ak/mdma-und-ecstasy-pillen-kontakt-thegame2370-gmail-com-00cb0a263c09?source=rss------data_science-5)
+- [https://biohackingconondas.home.blog/](https://medium.com/@mariolumia81/https-biohackingconondas-home-blog-492349b2f8cb?source=rss------data_science-5)
+- [Practicum Spotlight](https://medium.com/usf-msds/practicum-spotlight-224e191790e5?source=rss------data_science-5)
+- [Do You Really Understand How to Print Messages in R?](https://medium.com/@bao.character/do-you-really-understand-how-to-print-messages-in-r-57a96226949a?source=rss------data_science-5)
+- [Getting to know better one form of AI Part 5— Generative AI](https://medium.com/@curiousmind1786/getting-to-know-better-one-form-of-ai-part-5-generative-ai-d5b0ad98ccf5?source=rss------data_science-5)
+- [AI or Not AI..? The Surprising Skepticism of its Engineers](https://medium.com/@lauren.hernandez.m/ai-or-not-ai-the-surprising-skepticism-of-its-engineers-1553d10c83f2?source=rss------data_science-5)
+- [Llamaindex Query Pipelines: Quickstart Guide to the Declarative Query API](https://pub.towardsai.net/llamaindex-query-pipelines-quickstart-guide-to-the-declarative-query-api-b949c041c95c?source=rss------data_science-5)
+- [THE SECRET SAUCE: HOW FEATURE ENGINEERING TRANSFORMS MODEL PERFORMANCE](https://medium.com/@sneha.ahens12/the-secret-sauce-how-feature-engineering-transforms-model-performance-c4e5ca554335?source=rss------data_science-5)
+- [Predicting Profits with Linear Regression and Gradient Descent](https://rutikkpatel.medium.com/predicting-profits-with-linear-regression-and-gradient-descent-6d9e73c2bc42?source=rss------data_science-5)
+- [FINANCE AND TECH, A POWERFUL PAIR: LEVERAGING DATA SCIENCE TO DETECT CREDIT CARD FRAUD](https://medium.com/@sneha.ahens12/finance-and-tech-a-powerful-pair-leveraging-data-science-to-detect-credit-card-fraud-dd538b93d3c0?source=rss------data_science-5)
+- [A.I. Unscripted: An Unscripted View From the Writer and Researcher](https://medium.com/read-or-die/a-i-unscripted-an-unscripted-view-from-the-writer-and-researcher-18d646d904fe?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
