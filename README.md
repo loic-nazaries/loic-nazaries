@@ -105,16 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [https://biohackingconondas.home.blog/](https://medium.com/@mariolumia81/https-biohackingconondas-home-blog-492349b2f8cb?source=rss------data_science-5)
-- [Practicum Spotlight](https://medium.com/usf-msds/practicum-spotlight-224e191790e5?source=rss------data_science-5)
-- [Do You Really Understand How to Print Messages in R?](https://medium.com/@bao.character/do-you-really-understand-how-to-print-messages-in-r-57a96226949a?source=rss------data_science-5)
-- [Getting to know better one form of AI Part 5— Generative AI](https://medium.com/@curiousmind1786/getting-to-know-better-one-form-of-ai-part-5-generative-ai-d5b0ad98ccf5?source=rss------data_science-5)
-- [AI or Not AI..? The Surprising Skepticism of its Engineers](https://medium.com/@lauren.hernandez.m/ai-or-not-ai-the-surprising-skepticism-of-its-engineers-1553d10c83f2?source=rss------data_science-5)
-- [Llamaindex Query Pipelines: Quickstart Guide to the Declarative Query API](https://pub.towardsai.net/llamaindex-query-pipelines-quickstart-guide-to-the-declarative-query-api-b949c041c95c?source=rss------data_science-5)
-- [THE SECRET SAUCE: HOW FEATURE ENGINEERING TRANSFORMS MODEL PERFORMANCE](https://medium.com/@sneha.ahens12/the-secret-sauce-how-feature-engineering-transforms-model-performance-c4e5ca554335?source=rss------data_science-5)
-- [Predicting Profits with Linear Regression and Gradient Descent](https://rutikkpatel.medium.com/predicting-profits-with-linear-regression-and-gradient-descent-6d9e73c2bc42?source=rss------data_science-5)
-- [FINANCE AND TECH, A POWERFUL PAIR: LEVERAGING DATA SCIENCE TO DETECT CREDIT CARD FRAUD](https://medium.com/@sneha.ahens12/finance-and-tech-a-powerful-pair-leveraging-data-science-to-detect-credit-card-fraud-dd538b93d3c0?source=rss------data_science-5)
-- [A.I. Unscripted: An Unscripted View From the Writer and Researcher](https://medium.com/read-or-die/a-i-unscripted-an-unscripted-view-from-the-writer-and-researcher-18d646d904fe?source=rss------data_science-5)
+- [Shirtmaniaa Shop CusTomer Care Number♂️➏➌➐➋➊➍➌➐➊⑥//✔️ 6372143716 /☄️/
+Shirtmaniaa Shop CusTomer…](https://medium.com/@citaca2540/shirtmaniaa-shop-customer-care-number-%EF%B8%8F%E2%9E%8F%E2%9E%8C%E2%9E%90%E2%9E%8B%E2%9E%8A%E2%9E%8D%E2%9E%8C%E2%9E%90%E2%9E%8A%E2%91%A5-%EF%B8%8F-6372143716-%EF%B8%8F-shirtmaniaa-shop-customer-faa9733af23a?source=rss------data_science-5)
+- [Shirtmaniaa Shop CusTomer Care Number♂️➏➌➐➋➊➍➌➐➊⑥//✔️ 6372143716 /☄️/
+Shirtmaniaa Shop CusTomer…](https://medium.com/@citaca2540/shirtmaniaa-shop-customer-care-number-%EF%B8%8F%E2%9E%8F%E2%9E%8C%E2%9E%90%E2%9E%8B%E2%9E%8A%E2%9E%8D%E2%9E%8C%E2%9E%90%E2%9E%8A%E2%91%A5-%EF%B8%8F-6372143716-%EF%B8%8F-shirtmaniaa-shop-customer-25492a4ec6ad?source=rss------data_science-5)
+- [HESIS: IN SEARCH OF EVOLUTION WITH RUBYX: EFFICIENCY IN BLOCK CHAIN AND QUANTUM COMPUTING](https://medium.com/@rubyxi.o/hesis-in-search-of-evolution-with-rubyx-efficiency-in-block-chain-and-quantum-computing-c9b023452683?source=rss------data_science-5)
+- [Título: Como os recursos avançados de segurança impedem a falsificação de moeda: o papel dos…](https://medium.com/@hernandezkings937/t%C3%ADtulo-como-os-recursos-avan%C3%A7ados-de-seguran%C3%A7a-impedem-a-falsifica%C3%A7%C3%A3o-de-moeda-o-papel-dos-45b8173f9f94?source=rss------data_science-5)
+- [Título: MOEDA DE EUROS FALSIFICADA](https://medium.com/@hernandezkings937/t%C3%ADtulo-moeda-de-euros-falsificada-e42a0472e775?source=rss------data_science-5)
+- [Need to detect outliers? Take a shortcut with PyOD](https://medium.com/chat-gpt-now-writes-all-my-articles/need-to-detect-outliers-take-a-shortcut-with-pyod-32449ec57b51?source=rss------data_science-5)
+- [This is Tong Tong, the first child with artificial intelligence that imitates a three-year-old…](https://medium.com/@martareyessuarez25/this-is-tong-tong-the-first-child-with-artificial-intelligence-that-imitates-a-three-year-old-f156be4306c1?source=rss------data_science-5)
+- [Getting Started with Orca Bioacoustics](https://medium.com/@davidkebert1/getting-started-with-orca-bioacoustics-2fddd765aefb?source=rss------data_science-5)
+- [Mastering Python: First Step to Data Science](https://medium.com/@cyberwoman/mastering-python-first-step-to-data-science-5ffdee04abe9?source=rss------data_science-5)
+- [Se vende dinero falso que parece real:[Telegram………&lpar; @topnotesquality&rpar; £CA$$€¥ £-](https://medium.com/@hernandezkings937/se-vende-dinero-falso-que-parece-real-telegram-topnotesquality-ca-5ab8ddddd73b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
