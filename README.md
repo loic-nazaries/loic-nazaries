@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Big Data Architect Masters Program](https://internetdigitalentrepreneur.medium.com/big-data-architect-masters-program-b088214e66f6?source=rss------data_science-5)
-- [AI and Accountability: Navigating the Complexities of Intelligent Systems](https://pub.aimind.so/ai-and-accountability-navigating-the-complexities-of-intelligent-systems-e213150ab7ab?source=rss------data_science-5)
-- [Top 5 Technologies in Demand in 2024](https://medium.com/@1stepGrow_academy/top-5-technologies-in-demand-in-2024-90a88fe06c7b?source=rss------data_science-5)
-- [Build an Interactive Stock Performance Heatmap for your Portfolio Across Countries and Sectors](https://medium.datadriveninvestor.com/build-an-interactive-stock-performance-heatmap-for-your-portfolio-across-countries-and-sectors-3588555a5ac8?source=rss------data_science-5)
-- [Improve Your Data Science Workflow with Rolling Functions in Pandas](https://medium.datadriveninvestor.com/improve-your-data-science-workflow-with-rolling-functions-in-pandas-f2c74fff04a8?source=rss------data_science-5)
-- [5 String-Based Filtering Methods Every Pandas User Should Know](https://medium.datadriveninvestor.com/5-string-based-filtering-methods-every-pandas-user-should-know-bb534c2eb126?source=rss------data_science-5)
-- [Titolo: In che modo le funzionalità di sicurezza avanzate scoraggiano la valuta contraffatta: il…](https://medium.com/@kingshernandez441/titolo-in-che-modo-le-funzionalit%C3%A0-di-sicurezza-avanzate-scoraggiano-la-valuta-contraffatta-il-d8eccae0ed61?source=rss------data_science-5)
-- [GitHub Copilot: A 55% Speed Boost in Development — Myth or Reality?](https://medium.datadriveninvestor.com/github-copilot-a-55-speed-boost-in-development-myth-or-reality-d1e618dc783c?source=rss------data_science-5)
-- [3 Mistakes Candidates Make To Ruin Their Next Data Science Job Interview](https://medium.datadriveninvestor.com/3-mistakes-candidates-make-to-ruin-their-next-data-science-job-interview-b03ff7094cb3?source=rss------data_science-5)
-- [Derivada is All You Need — Uma aplicação com o algoritmo do gradiente descendente](https://medium.com/@anwarhermuche/derivada-is-all-you-need-uma-aplica%C3%A7%C3%A3o-com-o-algoritmo-do-gradiente-descendente-a29510e63cb4?source=rss------data_science-5)
+- [Credit spark loan customer care number&rpar;&lpar; 7090175805 &lpar;@&rpar; 6379440792 cal now me..](https://medium.com/@tinosal491/credit-spark-loan-customer-care-number-7090175805-6379440792-cal-now-me-1f0e11f84852?source=rss------data_science-5)
+- [Credit spark loan customer care number&rpar;&lpar; 7090175805 &lpar;@&rpar; 6379440792 cal now me..](https://medium.com/@tinosal491/credit-spark-loan-customer-care-number-7090175805-6379440792-cal-now-me-81b073ce7089?source=rss------data_science-5)
+- [Bibliotecas e Pacotes em Análise de dados : Qual é a sua importância ?](https://medium.com/@nielcostadev/bibliotecas-e-pacotes-em-an%C3%A1lise-de-dados-qual-%C3%A9-a-sua-import%C3%A2ncia-0d436c447fe2?source=rss------data_science-5)
+- [Exploring the Fundamentals and Applications of Raster Data in Geospatial Analysis](https://medium.com/aimonks/exploring-the-fundamentals-and-applications-of-raster-data-in-geospatial-analysis-2327046438a9?source=rss------data_science-5)
+- [The Man Technology Is Creating](https://medium.com/illumination/the-man-technology-is-creating-cab803db672e?source=rss------data_science-5)
+- [The Subtle Art of Data Structures in search: Draft](https://medium.com/@ikrishnakatari/the-subtle-art-of-data-structures-in-search-draft-b94e464d22f7?source=rss------data_science-5)
+- [Title: &quot;Beyond Algorithms: Leveraging AI to Master the Art of Sales with Authenticity and…](https://medium.com/@davidmajasan23/title-beyond-algorithms-leveraging-ai-to-master-the-art-of-sales-with-authenticity-and-a24849476fb1?source=rss------data_science-5)
+- [Analyzing Patterns in Space: An Essay on Clustering Geospatial Data](https://medium.com/@evertongomede/analyzing-patterns-in-space-an-essay-on-clustering-geospatial-data-40abd3c9443d?source=rss------data_science-5)
+- [Research Graph 101](https://medium.com/@researchgraph/research-graph-101-0e1ab5df4497?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
