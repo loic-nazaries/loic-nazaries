@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Make Your Data Visualization More Fancy with Python: Tips and Tricks!](https://python.plainenglish.io/how-to-make-your-data-visualization-more-fancy-with-python-tips-and-tricks-a821b27b532a?source=rss------data_science-5)
-- [Explore the “Data Driven Organizations” Amazon Audible &amp; Kindle Book Series](https://internetdigitalentrepreneur.medium.com/explore-the-data-driven-organizations-amazon-audible-kindle-book-series-59163f53598d?source=rss------data_science-5)
-- [How a Former Google Engineer Stole AI Trade Secrets](https://medium.com/@prxshetty/how-a-former-google-engineer-stole-ai-trade-secrets-a9a698eefb31?source=rss------data_science-5)
-- [Anjani Loan CusTomer Care Helpline Number/➒⓿➊➐➎➑⓿➎/ 9234161563 // 9234161563 ✓✓✍️/ contact number…](https://medium.com/@isnailkhan466456/anjani-loan-customer-care-helpline-number-%E2%9E%92%E2%93%BF%E2%9E%8A%E2%9E%90%E2%9E%8E%E2%9E%91%E2%93%BF%E2%9E%8E-9234161563-9234161563-%EF%B8%8F-contact-number-dc35e0f1e4a4?source=rss------data_science-5)
-- [Anjani Loan CusTomer Care Helpline Number/➒⓿➊➐➎➑⓿➎/ 9234161563 // 9234161563 ✓✓✍️/ contact number…](https://medium.com/@isnailkhan466456/anjani-loan-customer-care-helpline-number-%E2%9E%92%E2%93%BF%E2%9E%8A%E2%9E%90%E2%9E%8E%E2%9E%91%E2%93%BF%E2%9E%8E-9234161563-9234161563-%EF%B8%8F-contact-number-667f7c0265ba?source=rss------data_science-5)
-- [How I organized a one-week university course on Deep Learning](https://pub.towardsai.net/how-i-organized-a-one-week-university-course-on-deep-learning-3bf99432f31c?source=rss------data_science-5)
-- [How to use Python’s re.match, re.search, and re.compile for Pattern Matching](https://medium.com/@bao.character/how-to-use-pythons-re-match-re-search-and-re-compile-for-pattern-matching-ad8bfd8f2e3b?source=rss------data_science-5)
-- [Deciphering Data Diversity: A Comprehensive Guide to Measures of Dispersion with Python](https://levelup.gitconnected.com/deciphering-data-diversity-a-comprehensive-guide-to-measures-of-dispersion-with-python-11310647cf8e?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@chfgjcfhbvfj/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-21cadee2c40b?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@chfgjcfhbvfj/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-95b9676981c9?source=rss------data_science-5)
+- [Developing and Evaluating Siamese Neural Networks: A Comprehensive Guide to Architecture…](https://medium.com/the-modern-scientist/developing-and-evaluating-siamese-neural-networks-a-comprehensive-guide-to-architecture-b91f0e8b1318?source=rss------data_science-5)
+- [How to get good results when your data has class imbalances.](https://amolmavuduru.medium.com/how-to-get-good-results-when-your-data-has-class-imbalances-8dacf979d1f4?source=rss------data_science-5)
+- [A Look Back at Key Trends in Data Infrastructure in 2023 by Four Industry Founders](https://medium.com/illuminations-mirror/a-look-back-at-key-trends-in-data-infrastructure-in-2023-by-four-industry-founders-7d1f7ae0d46f?source=rss------data_science-5)
+- [Clarity in Complexity: A Guide to Simplifying Technical Content for General Audiences](https://medium.com/@oleksandr.kliets/clarity-in-complexity-a-guide-to-simplifying-technical-content-for-general-audiences-1230cf980d61?source=rss------data_science-5)
+- [Web Scraping Using Jupyter](https://medium.com/@ronak.d.sharma111/web-scraping-using-jupyter-b7aace016d38?source=rss------data_science-5)
+- [LLMs surpass humans in predicting which neuroscience experiments will succeed &lpar;81% vs 64%&rpar;](https://medium.com/@mikeyoung_97230/llms-surpass-humans-in-predicting-which-neuroscience-experiments-will-succeed-81-vs-64-9cc227924cd1?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله09370673570](https://medium.com/@ebrahimmansoorri/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%8709370673570-4c39dd3b5ccc?source=rss------data_science-5)
+- [Basic Area Chart in Power BI :POST #117](https://medium.com/@sravanmonty/basic-area-chart-in-power-bi-post-117-6df1f6e4316d?source=rss------data_science-5)
+- [What roles exist in the modern data team?](https://medium.com/@robdoesdata/what-roles-exist-in-the-modern-data-team-571f934f78c1?source=rss------data_science-5)
+- [شماره خاله رشت 09037735073](https://medium.com/@khalsaraam13/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-09037735073-bc42657806bf?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
