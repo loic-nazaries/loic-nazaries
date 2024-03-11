@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Developing and Evaluating Siamese Neural Networks: A Comprehensive Guide to Architecture…](https://medium.com/the-modern-scientist/developing-and-evaluating-siamese-neural-networks-a-comprehensive-guide-to-architecture-b91f0e8b1318?source=rss------data_science-5)
-- [How to get good results when your data has class imbalances.](https://amolmavuduru.medium.com/how-to-get-good-results-when-your-data-has-class-imbalances-8dacf979d1f4?source=rss------data_science-5)
-- [A Look Back at Key Trends in Data Infrastructure in 2023 by Four Industry Founders](https://medium.com/illuminations-mirror/a-look-back-at-key-trends-in-data-infrastructure-in-2023-by-four-industry-founders-7d1f7ae0d46f?source=rss------data_science-5)
-- [Clarity in Complexity: A Guide to Simplifying Technical Content for General Audiences](https://medium.com/@oleksandr.kliets/clarity-in-complexity-a-guide-to-simplifying-technical-content-for-general-audiences-1230cf980d61?source=rss------data_science-5)
-- [Web Scraping Using Jupyter](https://medium.com/@ronak.d.sharma111/web-scraping-using-jupyter-b7aace016d38?source=rss------data_science-5)
-- [LLMs surpass humans in predicting which neuroscience experiments will succeed &lpar;81% vs 64%&rpar;](https://medium.com/@mikeyoung_97230/llms-surpass-humans-in-predicting-which-neuroscience-experiments-will-succeed-81-vs-64-9cc227924cd1?source=rss------data_science-5)
-- [شماره خاله تهران شماره خاله09370673570](https://medium.com/@ebrahimmansoorri/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%8709370673570-4c39dd3b5ccc?source=rss------data_science-5)
-- [Basic Area Chart in Power BI :POST #117](https://medium.com/@sravanmonty/basic-area-chart-in-power-bi-post-117-6df1f6e4316d?source=rss------data_science-5)
-- [What roles exist in the modern data team?](https://medium.com/@robdoesdata/what-roles-exist-in-the-modern-data-team-571f934f78c1?source=rss------data_science-5)
-- [شماره خاله رشت 09037735073](https://medium.com/@khalsaraam13/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-09037735073-bc42657806bf?source=rss------data_science-5)
+- [Mastering Parametric Estimations: A deep dive into the Statistics](https://medium.com/@padmanabhbutala03/mastering-parametric-estimations-a-deep-dive-into-the-statistics-2d6aae8322c3?source=rss------data_science-5)
+- [Essential Actions for Career Advancement in Data Science](https://medium.com/@parasrupani/essential-actions-for-career-advancement-in-data-science-8d44de48a09b?source=rss------data_science-5)
+- [The secret behind how galaxy is from.](https://medium.com/@liuhelin41/the-secret-behind-how-galaxy-is-from-80e820014d56?source=rss------data_science-5)
+- [Memperkenalkan Io. net Project Crypto yg memanfaatkan teknologi GPU](https://medium.com/@zenrayhan00/memperkenalkan-io-net-0f59737138c0?source=rss------data_science-5)
+- [Embarking on my Python Journey](https://medium.com/@alexanderochuba7/embarking-on-my-python-journey-0bd5500337d9?source=rss------data_science-5)
+- [Resolving SQL state: 42501 error.](https://medium.com/@ariyibipeter69/resolving-sql-state-42501-error-b365b5a16eca?source=rss------data_science-5)
+- [Is Excel Still Relevant for Data Analysis?](https://medium.com/@wisnupo/is-excel-still-relevant-for-data-analysis-91ef810e53d7?source=rss------data_science-5)
+- [Why GPT-4 Is a Game-Changer: A Comprehensive Analysis](https://medium.com/@prxshetty/why-gpt-4-is-a-game-changer-a-comprehensive-analysis-7a27d3afcbac?source=rss------data_science-5)
+- [Exploring the Evolution: From ChatGPT 4 to 4.5](https://ernestodotnet.medium.com/exploring-the-evolution-from-chatgpt-4-to-4-5-a25b47f42b16?source=rss------data_science-5)
+- [What if ai never existed](https://medium.com/@liuhelin41/what-if-ai-never-existed-f54da5d6986a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
