@@ -105,16 +105,25 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Puppy Love](https://medium.com/@aakankshya002/puppy-love-4f385ad0c7fe?source=rss------data_science-5)
-- [Parte 2: De Ingeniero de Software a Científico de Datos: Fundamentos Matemáticos, Herramientas y…](https://medium.com/@williamaguilar327/parte-2-de-ingeniero-de-software-a-cient%C3%ADfico-de-datos-fundamentos-matem%C3%A1ticos-herramientas-y-33c2ec0d5a3a?source=rss------data_science-5)
-- [After AI: The Current Impact of ChatGPT on Algorithmic Trading](https://medium.datadriveninvestor.com/after-ai-the-current-impact-of-chatgpt-on-algorithmic-trading-813c1bb30c53?source=rss------data_science-5)
-- [SUPERPOSITION :  First DeFi-Native Layer-3](https://medium.com/@adedokuntimothy9/superposition-first-defi-native-layer-3-2be92991d03f?source=rss------data_science-5)
-- [شماره خاله شماره خاله حضوری شماره خاله انقلاب شماره خاله ارومیه شماره خاله اصفهان شماره خاله…](https://medium.com/@jhhkh947/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86-408a7c5adf04?source=rss------data_science-5)
-- [HOW I RECOVER MY LOST FUNDS](https://medium.com/@kiab3359/how-i-recover-my-lost-funds-34d58b07a964?source=rss------data_science-5)
-- [All about Strings in Python](https://medium.com/@datasciencejourney100_83560/all-about-strings-in-python-83772b9f2900?source=rss------data_science-5)
-- [MAKE MONEY USING YOUR MOBILE PHONE](https://medium.com/@ahmadshehuahmaduwa/make-money-using-your-mobile-phone-90bfd91309fc?source=rss------data_science-5)
-- [The quickest way to generate your Requirements.txt file](https://medium.com/@romanbessouat/the-quickest-way-to-generate-your-requirements-txt-file-ade3fd1a76cd?source=rss------data_science-5)
-- [Google Data Analytics Capstone Case Study](https://medium.com/@a.basit33300/google-data-analytics-capstone-case-study-795d0a7949e7?source=rss------data_science-5)
+- [Adesso si vende pure in Italia
+
+Boxer unici ON THAT ASS, non disponibili altrove
+Sfida te stesso e…](https://medium.com/@abdelghanighicha91/adesso-si-vende-pure-in-italia-boxer-unici-on-that-ass-non-disponibili-altrove-sfida-te-stesso-e-685be218502d?source=rss------data_science-5)
+- [Adesso si vende pure in Italia
+
+Boxer unici ON THAT ASS, non disponibili altrove
+Sfida te stesso e…](https://medium.com/@abdelghanighicha91/adesso-si-vende-pure-in-italia-boxer-unici-on-that-ass-non-disponibili-altrove-sfida-te-stesso-e-7fbbc9902040?source=rss------data_science-5)
+- [The Two Kinds Of ML Models](https://medium.com/@emin.okic/the-two-kinds-of-ml-models-730edb714093?source=rss------data_science-5)
+- [شماره خاله تهران 09055770486](https://medium.com/@m47170558/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09055770486-6e781312c99f?source=rss------data_science-5)
+- [شماره خاله شماره خاله شیراز شماره خاله اصفهان شماره خاله تهران شماره خاله تهران پارس شماره خاله…](https://medium.com/@m47170558/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-354a46cecc41?source=rss------data_science-5)
+- [شماره خاله تهران 09335095936](https://medium.com/@m47170558/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09335095936-19165545a2a4?source=rss------data_science-5)
+- [شماره خاله گلپایگان شماره خاله خوانسار شماره خاله داران شماره خاله فریدونشهر شماره خاله الیگودرز…](https://medium.com/@m47170558/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2-d95dbb9fe421?source=rss------data_science-5)
+- [➡️شماره خاله الهام ➡️  شماره خاله تهران 09335095936
+رابطه صیغه همراه با ماساژ 
+کیس جدید 
+فقط تماس](https://medium.com/@m47170558/%EF%B8%8F%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%84%D9%87%D8%A7%D9%85-%EF%B8%8F-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09335095936-%D8%B1%D8%A7%D8%A8%D8%B7%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%DA%A9%DB%8C%D8%B3-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%81%D9%82%D8%B7-%D8%AA%D9%85%D8%A7%D8%B3-41d13429d477?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله تهران 09335095936](https://medium.com/@m47170558/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09335095936-ca96ff6b1122?source=rss------data_science-5)
+- [The six most painstaking steps in machine learning — what your team isn’t telling you](https://medium.com/delphina/the-six-most-painstaking-steps-in-machine-learning-what-your-team-isnt-telling-you-cd222b22e6d0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
