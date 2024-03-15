@@ -105,25 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Adesso si vende pure in Italia
-
-Boxer unici ON THAT ASS, non disponibili altrove
-Sfida te stesso e…](https://medium.com/@abdelghanighicha91/adesso-si-vende-pure-in-italia-boxer-unici-on-that-ass-non-disponibili-altrove-sfida-te-stesso-e-685be218502d?source=rss------data_science-5)
-- [Adesso si vende pure in Italia
-
-Boxer unici ON THAT ASS, non disponibili altrove
-Sfida te stesso e…](https://medium.com/@abdelghanighicha91/adesso-si-vende-pure-in-italia-boxer-unici-on-that-ass-non-disponibili-altrove-sfida-te-stesso-e-7fbbc9902040?source=rss------data_science-5)
-- [The Two Kinds Of ML Models](https://medium.com/@emin.okic/the-two-kinds-of-ml-models-730edb714093?source=rss------data_science-5)
-- [شماره خاله تهران 09055770486](https://medium.com/@m47170558/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09055770486-6e781312c99f?source=rss------data_science-5)
-- [شماره خاله شماره خاله شیراز شماره خاله اصفهان شماره خاله تهران شماره خاله تهران پارس شماره خاله…](https://medium.com/@m47170558/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-354a46cecc41?source=rss------data_science-5)
-- [شماره خاله تهران 09335095936](https://medium.com/@m47170558/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09335095936-19165545a2a4?source=rss------data_science-5)
-- [شماره خاله گلپایگان شماره خاله خوانسار شماره خاله داران شماره خاله فریدونشهر شماره خاله الیگودرز…](https://medium.com/@m47170558/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%84%DB%8C%DA%AF%D9%88%D8%AF%D8%B1%D8%B2-d95dbb9fe421?source=rss------data_science-5)
-- [➡️شماره خاله الهام ➡️  شماره خاله تهران 09335095936
-رابطه صیغه همراه با ماساژ 
-کیس جدید 
-فقط تماس](https://medium.com/@m47170558/%EF%B8%8F%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%84%D9%87%D8%A7%D9%85-%EF%B8%8F-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09335095936-%D8%B1%D8%A7%D8%A8%D8%B7%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%DA%A9%DB%8C%D8%B3-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%81%D9%82%D8%B7-%D8%AA%D9%85%D8%A7%D8%B3-41d13429d477?source=rss------data_science-5)
-- [شماره خاله تهران شماره خاله تهران 09335095936](https://medium.com/@m47170558/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09335095936-ca96ff6b1122?source=rss------data_science-5)
-- [The six most painstaking steps in machine learning — what your team isn’t telling you](https://medium.com/delphina/the-six-most-painstaking-steps-in-machine-learning-what-your-team-isnt-telling-you-cd222b22e6d0?source=rss------data_science-5)
+- [How to analyze Google Trends data in R: a guide comparing worldwide interest in foreign conflict…](https://medium.com/@wtc2189/how-to-analyze-google-trends-data-in-r-a-guide-comparing-worldwide-interest-in-foreign-conflict-e87ed50ab106?source=rss------data_science-5)
+- [BE A FORCE FOR GOOD](https://medium.com/@david-analytics/be-a-force-for-good-f31095e0ce93?source=rss------data_science-5)
+- [Building a Question-Answering System Using LLM on ‘Private Text’](https://krishna-yogik.medium.com/building-a-question-answering-system-using-llm-on-private-text-437125cd05ff?source=rss------data_science-5)
+- [Best Laptop for Data Science in 2024](https://medium.com/@desks/best-laptop-for-data-science-in-2024-f62ba19a9468?source=rss------data_science-5)
+- [VANI Cash Loan CusTomer Care Helpline Number/❽➁❻0➁❸56➅/ 7620293860 // 7620293860 ✓✓✍️/ contact…](https://medium.com/@wacim33906/vani-cash-loan-customer-care-helpline-number-%E2%9D%BD%E2%9E%81%E2%9D%BB0%E2%9E%81%E2%9D%B856%E2%9E%85-7620293860-7620293860-%EF%B8%8F-contact-5314b319f93e?source=rss------data_science-5)
+- [VANI Cash Loan CusTomer Care Helpline Number/❽➁❻0➁❸56➅/ 7620293860 // 7620293860 ✓✓✍️/ contact…](https://medium.com/@wacim33906/vani-cash-loan-customer-care-helpline-number-%E2%9D%BD%E2%9E%81%E2%9D%BB0%E2%9E%81%E2%9D%B856%E2%9E%85-7620293860-7620293860-%EF%B8%8F-contact-24201e0337b9?source=rss------data_science-5)
+- [VANI Cash Loan CusTomer Care Helpline Number/❽➁❻0➁❸56➅/ 7620293860 // 7620293860 ✓✓✍️/ contact…](https://medium.com/@wacim33906/vani-cash-loan-customer-care-helpline-number-%E2%9D%BD%E2%9E%81%E2%9D%BB0%E2%9E%81%E2%9D%B856%E2%9E%85-7620293860-7620293860-%EF%B8%8F-contact-a24350b5cfc5?source=rss------data_science-5)
+- [VANI Cash Loan CusTomer Care Helpline Number/❽➁❻0➁❸56➅/ 7620293860 // 7620293860 ✓✓✍️/ contact…](https://medium.com/@wacim33906/vani-cash-loan-customer-care-helpline-number-%E2%9D%BD%E2%9E%81%E2%9D%BB0%E2%9E%81%E2%9D%B856%E2%9E%85-7620293860-7620293860-%EF%B8%8F-contact-2b07bc738f0e?source=rss------data_science-5)
+- [VANI Cash Loan CusTomer Care Helpline Number/❽➁❻0➁❸56➅/ 7620293860 // 7620293860 ✓✓✍️/ contact…](https://medium.com/@wacim33906/vani-cash-loan-customer-care-helpline-number-%E2%9D%BD%E2%9E%81%E2%9D%BB0%E2%9E%81%E2%9D%B856%E2%9E%85-7620293860-7620293860-%EF%B8%8F-contact-274f4536f239?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
