@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to analyze Google Trends data in R: a guide comparing worldwide interest in foreign conflict…](https://medium.com/@wtc2189/how-to-analyze-google-trends-data-in-r-a-guide-comparing-worldwide-interest-in-foreign-conflict-e87ed50ab106?source=rss------data_science-5)
-- [BE A FORCE FOR GOOD](https://medium.com/@david-analytics/be-a-force-for-good-f31095e0ce93?source=rss------data_science-5)
-- [Building a Question-Answering System Using LLM on ‘Private Text’](https://krishna-yogik.medium.com/building-a-question-answering-system-using-llm-on-private-text-437125cd05ff?source=rss------data_science-5)
-- [Best Laptop for Data Science in 2024](https://medium.com/@desks/best-laptop-for-data-science-in-2024-f62ba19a9468?source=rss------data_science-5)
-- [VANI Cash Loan CusTomer Care Helpline Number/❽➁❻0➁❸56➅/ 7620293860 // 7620293860 ✓✓✍️/ contact…](https://medium.com/@wacim33906/vani-cash-loan-customer-care-helpline-number-%E2%9D%BD%E2%9E%81%E2%9D%BB0%E2%9E%81%E2%9D%B856%E2%9E%85-7620293860-7620293860-%EF%B8%8F-contact-5314b319f93e?source=rss------data_science-5)
-- [VANI Cash Loan CusTomer Care Helpline Number/❽➁❻0➁❸56➅/ 7620293860 // 7620293860 ✓✓✍️/ contact…](https://medium.com/@wacim33906/vani-cash-loan-customer-care-helpline-number-%E2%9D%BD%E2%9E%81%E2%9D%BB0%E2%9E%81%E2%9D%B856%E2%9E%85-7620293860-7620293860-%EF%B8%8F-contact-24201e0337b9?source=rss------data_science-5)
-- [VANI Cash Loan CusTomer Care Helpline Number/❽➁❻0➁❸56➅/ 7620293860 // 7620293860 ✓✓✍️/ contact…](https://medium.com/@wacim33906/vani-cash-loan-customer-care-helpline-number-%E2%9D%BD%E2%9E%81%E2%9D%BB0%E2%9E%81%E2%9D%B856%E2%9E%85-7620293860-7620293860-%EF%B8%8F-contact-a24350b5cfc5?source=rss------data_science-5)
-- [VANI Cash Loan CusTomer Care Helpline Number/❽➁❻0➁❸56➅/ 7620293860 // 7620293860 ✓✓✍️/ contact…](https://medium.com/@wacim33906/vani-cash-loan-customer-care-helpline-number-%E2%9D%BD%E2%9E%81%E2%9D%BB0%E2%9E%81%E2%9D%B856%E2%9E%85-7620293860-7620293860-%EF%B8%8F-contact-2b07bc738f0e?source=rss------data_science-5)
-- [VANI Cash Loan CusTomer Care Helpline Number/❽➁❻0➁❸56➅/ 7620293860 // 7620293860 ✓✓✍️/ contact…](https://medium.com/@wacim33906/vani-cash-loan-customer-care-helpline-number-%E2%9D%BD%E2%9E%81%E2%9D%BB0%E2%9E%81%E2%9D%B856%E2%9E%85-7620293860-7620293860-%EF%B8%8F-contact-274f4536f239?source=rss------data_science-5)
+- [Photo Yunus Loan CusTomer Care Helpline Number/➐➏➋➋➒➏⓿/ 8260793145 // 8260793145 ✓✓✍️/ contact…](https://medium.com/@layegim428/photo-yunus-loan-customer-care-helpline-number-%E2%9E%90%E2%9E%8F%E2%9E%8B%E2%9E%8B%E2%9E%92%E2%9E%8F%E2%93%BF-8260793145-8260793145-%EF%B8%8F-contact-91f769e3f4c0?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله09370673570](https://medium.com/@ebrahimmansoorri/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%8709370673570-29a4ef908c63?source=rss------data_science-5)
+- [شماره خاله رشت 09037735073](https://medium.com/@khalsaraam3/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-09037735073-ea3dc5775bf6?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله09370673570](https://medium.com/@ebrahimmansoorri/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%8709370673570-08ab311e6bb6?source=rss------data_science-5)
+- [شماره خاله گیلان 09037735073](https://medium.com/@khalsaraam3/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%DB%8C%D9%84%D8%A7%D9%86-09037735073-002cc3593574?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@ebrahimmansoorri/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-4a6b267a7bb3?source=rss------data_science-5)
+- [شماره خاله اهواز 09037735073](https://medium.com/@khalsaraam3/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-09037735073-4c1f59873351?source=rss------data_science-5)
+- [Simple Explanation of LightGBM without Complicated Mathematics](https://medium.com/@soyoungluna/simple-explanation-of-lightgbm-without-complicated-mathematics-973998ec848f?source=rss------data_science-5)
+- [شماره خاله اهواز 09037735073](https://medium.com/@khalsaraam2/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-09037735073-a693b0837126?source=rss------data_science-5)
+- [شماره خاله همدان 09037735073](https://medium.com/@khalsaraam2/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-09037735073-784ed21c62f5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
