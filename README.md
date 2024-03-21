@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Best 20 Inspiring Small Entryway Ideas](https://medium.com/@tano87511/the-best-20-inspiring-small-entryway-ideas-a684a5e5c78c?source=rss------data_science-5)
-- [What Is The Chic And Compact Home Gym Equipment?](https://medium.com/@tano87511/what-is-the-chic-and-compact-home-gym-equipment-00026dd19e10?source=rss------data_science-5)
-- [How to Art Decor For Small Space Decorating?](https://medium.com/@tano87511/how-to-art-decor-for-small-space-decorating-706c45f7d4d2?source=rss------data_science-5)
-- [Hello, my name is Vasily, I am 30 years old, this happened in my life.](https://medium.com/@copyp7777/hello-my-name-is-vasily-i-am-30-years-old-this-happened-in-my-life-5df2654c1d77?source=rss------data_science-5)
-- [How To Make Small Bathroom Feel Luxurious ?](https://medium.com/@tano87511/how-to-make-small-bathroom-feel-luxurious-2ea1dc375491?source=rss------data_science-5)
-- [Why is TikTok is bad for you?](https://medium.com/@breoncayden/why-is-tiktok-is-bad-for-you-4e335ec1105b?source=rss------data_science-5)
-- [Revitalise Your Body: Unlock Your Hip Flexors VSL Review](https://medium.com/@saazarmaankhn/revitalise-your-body-unlock-your-hip-flexors-vsl-review-968acc72ff41?source=rss------data_science-5)
-- [AWS Cloud Practitioner cheat sheet](https://ashanksm.medium.com/aws-cloud-practitioner-cheat-sheet-0611e606a47e?source=rss------data_science-5)
-- [شماره خاله قزوین شماره خاله مریوان شماره خاله سقز شماره خاله کامیاران شماره خاله بانه شماره خاله…](https://medium.com/@knazy57/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D8%B2%D9%88%DB%8C%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B1%DB%8C%D9%88%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D9%82%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%A7%D9%85%DB%8C%D8%A7%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D9%86%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-a156881a2a5b?source=rss------data_science-5)
-- [شماره زنان صیغه ای همسریابی۰ شماره خاله۰تهران۰ شماره خاله چالوس.](https://medium.com/@knazy57/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B2%D9%86%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A7%DB%8C-%D9%87%D9%85%D8%B3%D8%B1%DB%8C%D8%A7%D8%A8%DB%8C%DB%B0-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87%DB%B0%D8%AA%D9%87%D8%B1%D8%A7%D9%86%DB%B0-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%86%D8%A7%D9%84%D9%88%D8%B3-ec6d53eaab58?source=rss------data_science-5)
+- [شماره خاله تهران 09335095936](https://medium.com/@s47934631/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09335095936-48b69957b830?source=rss------data_science-5)
+- [Predicting Starbucks Customers’ Response to Offers](https://medium.com/@yaser.ahmad.jaber/predicting-starbucks-customers-response-to-offers-773232afa58a?source=rss------data_science-5)
+- [Yunus Loan CusTomer Care Helpline Number/❽➁❻0➁856➅/ 7620293860 // 6379440792 ✓✓✍️/ contact number…](https://medium.com/@tisox15164/yunus-loan-customer-care-helpline-number-%E2%9D%BD%E2%9E%81%E2%9D%BB0%E2%9E%81856%E2%9E%85-7620293860-6379440792-%EF%B8%8F-contact-number-77ff4068769d?source=rss------data_science-5)
+- [Day 8 of #100DaysofComputerVision](https://medium.com/@riyachhikara/day-8-of-100daysofcomputervision-e985ffd25327?source=rss------data_science-5)
+- [Yunus Loan CusTomer Care Helpline Number/❽➁❻0➁856➅/ 7620293860 // 6379440792 ✓✓✍️/ contact number…](https://medium.com/@tisox15164/yunus-loan-customer-care-helpline-number-%E2%9D%BD%E2%9E%81%E2%9D%BB0%E2%9E%81856%E2%9E%85-7620293860-6379440792-%EF%B8%8F-contact-number-b0efa03135a8?source=rss------data_science-5)
+- [Day 7 of #100DaysofComputerVision](https://medium.com/@riyachhikara/day-7-of-100daysofcomputervision-ab2448e873b1?source=rss------data_science-5)
+- [Day 6 of #100DaysofComputerVision](https://medium.com/@riyachhikara/day-6-of-100daysofcomputervision-f96df6504b63?source=rss------data_science-5)
+- [Day5 of #100DaysofComputerVision](https://medium.com/@riyachhikara/day5-of-100daysofcomputervision-32d04783e463?source=rss------data_science-5)
+- [Day4 of #100DaysofComputerVision](https://medium.com/@riyachhikara/day4-of-100daysofcomputervision-151d98bf6671?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
