@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [شماره خاله تهران 09335095936](https://medium.com/@s47934631/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09335095936-48b69957b830?source=rss------data_science-5)
-- [Predicting Starbucks Customers’ Response to Offers](https://medium.com/@yaser.ahmad.jaber/predicting-starbucks-customers-response-to-offers-773232afa58a?source=rss------data_science-5)
-- [Yunus Loan CusTomer Care Helpline Number/❽➁❻0➁856➅/ 7620293860 // 6379440792 ✓✓✍️/ contact number…](https://medium.com/@tisox15164/yunus-loan-customer-care-helpline-number-%E2%9D%BD%E2%9E%81%E2%9D%BB0%E2%9E%81856%E2%9E%85-7620293860-6379440792-%EF%B8%8F-contact-number-77ff4068769d?source=rss------data_science-5)
-- [Day 8 of #100DaysofComputerVision](https://medium.com/@riyachhikara/day-8-of-100daysofcomputervision-e985ffd25327?source=rss------data_science-5)
-- [Yunus Loan CusTomer Care Helpline Number/❽➁❻0➁856➅/ 7620293860 // 6379440792 ✓✓✍️/ contact number…](https://medium.com/@tisox15164/yunus-loan-customer-care-helpline-number-%E2%9D%BD%E2%9E%81%E2%9D%BB0%E2%9E%81856%E2%9E%85-7620293860-6379440792-%EF%B8%8F-contact-number-b0efa03135a8?source=rss------data_science-5)
-- [Day 7 of #100DaysofComputerVision](https://medium.com/@riyachhikara/day-7-of-100daysofcomputervision-ab2448e873b1?source=rss------data_science-5)
-- [Day 6 of #100DaysofComputerVision](https://medium.com/@riyachhikara/day-6-of-100daysofcomputervision-f96df6504b63?source=rss------data_science-5)
-- [Day5 of #100DaysofComputerVision](https://medium.com/@riyachhikara/day5-of-100daysofcomputervision-32d04783e463?source=rss------data_science-5)
-- [Day4 of #100DaysofComputerVision](https://medium.com/@riyachhikara/day4-of-100daysofcomputervision-151d98bf6671?source=rss------data_science-5)
+- [Eco credit Loan app CusTomer Care Helpline Number/❽➁❻0/ 7620293860 // 6379440792 ✓✓✍️/ contact…](https://medium.com/@lojatar102/eco-credit-loan-app-customer-care-helpline-number-%E2%9D%BD%E2%9E%81%E2%9D%BB0-7620293860-6379440792-%EF%B8%8F-contact-b0348517e93a?source=rss------data_science-5)
+- [Eco credit Loan app CusTomer Care Helpline Number/❽➁❻0/ 7620293860 // 6379440792 ✓✓✍️/ contact…](https://medium.com/@lojatar102/eco-credit-loan-app-customer-care-helpline-number-%E2%9D%BD%E2%9E%81%E2%9D%BB0-7620293860-6379440792-%EF%B8%8F-contact-25321f428be4?source=rss------data_science-5)
+- [شماره خاله](https://medium.com/@chfgjcfhbvfj/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-835963a152b2?source=rss------data_science-5)
+- [شماره خاله](https://medium.com/@chfgjcfhbvfj/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-8df8ec5ddb8d?source=rss------data_science-5)
+- [شماره خاله](https://medium.com/@chfgjcfhbvfj/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-e751e5252319?source=rss------data_science-5)
+- [شماره خاله](https://medium.com/@chfgjcfhbvfj/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-fef0e9705912?source=rss------data_science-5)
+- [شماره خاله](https://medium.com/@chfgjcfhbvfj/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-43fad946a94e?source=rss------data_science-5)
+- [Eco credit Loan app CusTomer Care Helpline Number/9542669349/ 9542669349 // 9542669349 ✓✓✍️/…](https://medium.com/@werag41535/eco-credit-loan-app-customer-care-helpline-number-9542669349-9542669349-9542669349-%EF%B8%8F-d9f39b1501bd?source=rss------data_science-5)
+- [Eco credit Loan app CusTomer Care Helpline Number/9542669349/ 9542669349 // 9542669349 ✓✓✍️/…](https://medium.com/@werag41535/eco-credit-loan-app-customer-care-helpline-number-9542669349-9542669349-9542669349-%EF%B8%8F-68e69990cf3a?source=rss------data_science-5)
+- [Eco credit Loan app CusTomer Care Helpline Number/9542669349/ 9542669349 // 9542669349 ✓✓✍️/…](https://medium.com/@werag41535/eco-credit-loan-app-customer-care-helpline-number-9542669349-9542669349-9542669349-%EF%B8%8F-963e1125d787?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
