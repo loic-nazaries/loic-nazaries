@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Chapter Three: Designing Good Data Architecture](https://medium.com/@youssef.hussein272001/chapter-three-designing-good-data-architecture-2f94905266f5?source=rss------data_science-5)
-- [I will write professional data science, business analysis, and financial analyst resume](https://medium.com/@louisdanie838/i-will-write-professional-data-science-business-analysis-and-financial-analyst-resume-76c06ce0f145?source=rss------data_science-5)
-- [No One Should Use Hadoop](https://johnvastola.medium.com/no-one-should-use-hadoop-baa29dbcb8c5?source=rss------data_science-5)
-- [Is Data Science Still in Demand Or is it Dead?](https://medium.com/@m.j.maldonil/is-data-science-still-in-demand-or-is-it-dead-7bedb8fc6bdf?source=rss------data_science-5)
-- [Geocoding Unveiled: Navigating Spatial Challenges with Open-Source Innovation](https://medium.com/the-modern-scientist/geocoding-unveiled-navigating-spatial-challenges-with-open-source-innovation-0fa76cda0ebc?source=rss------data_science-5)
-- [Secrets of PCA: A Comprehensive Guide to Principal Component Analysis with Python and Colab](https://ernestodotnet.medium.com/secrets-of-pca-a-comprehensive-guide-to-principal-component-analysis-with-python-and-colab-6f7f3142e721?source=rss------data_science-5)
-- [Neurai — Artificial Intelligence Elementor Template Kit &lpar;WordPress / Template Kits&rpar;](https://medium.com/@pixelprophet99/neurai-artificial-intelligence-elementor-template-kit-wordpress-template-kits-f29365e47e93?source=rss------data_science-5)
-- [@Just dail call girls in gurgaon @9999840021 doorstep service](https://medium.com/@lalitajha616/just-dail-call-girls-in-gurgaon-9999840021-doorstep-service-f8c5b5266ed8?source=rss------data_science-5)
-- [Pro Template for Data Science Projects](https://medium.com/@jgrygolec/pro-template-for-data-science-projects-aab07bcc499d?source=rss------data_science-5)
-- [Our Rare Moment Under the Sun](https://avi-loeb.medium.com/our-rare-moment-under-the-sun-5560deb6ce24?source=rss------data_science-5)
+- [Analyzing Apple vs. Samsung Stock Prices: Data Analysis](https://medium.com/@jason.shan55/analyzing-apple-vs-samsung-stock-prices-data-analysis-54522d72d6bd?source=rss------data_science-5)
+- [25 Best AI and ChatGPT Courses You Can Take Online for Free](https://medium.com/@cmitimes_35156/25-best-ai-and-chatgpt-courses-you-can-take-online-for-free-8c7e9c171ccc?source=rss------data_science-5)
+- [The Rise of Datafication: Transforming Industries and Societies](https://medium.com/@shubhampandey_85061/the-rise-of-datafication-transforming-industries-and-societies-4bb21aecb547?source=rss------data_science-5)
+- [Desenvolvendo um projeto de DataViz com o Power BI — Minha experiência](https://medium.com/@luisamuzzi/desenvolvendo-um-projeto-de-dataviz-com-o-power-bi-minha-experi%C3%AAncia-8309f2b14f9c?source=rss------data_science-5)
+- [Unveiling the Power of Love: A Tribute to The Beatles](https://medium.com/@ysntns/unveiling-the-power-of-love-a-tribute-to-the-beatles-605f9e568cac?source=rss------data_science-5)
+- [Generating post recommendations for social media sites](https://annettechiu.medium.com/generating-post-recommendations-for-social-media-sites-91665ac91471?source=rss------data_science-5)
+- [Data Visualization Project: Movie Database](https://annettechiu.medium.com/data-visualization-project-movie-database-59ca3fb03388?source=rss------data_science-5)
+- [Synergistic Intelligence: Enhancing Robustness and Reliability in Deep Learning Through Ensemble…](https://medium.com/aimonks/synergistic-intelligence-enhancing-robustness-and-reliability-in-deep-learning-through-ensemble-08b77875753a?source=rss------data_science-5)
+- [An Introduction to Series, DataFrame, and Index: The Pillars of Pandas](https://medium.com/@bao.character/an-introduction-to-series-dataframe-and-index-the-pillars-of-pandas-cd99ef2415f9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
