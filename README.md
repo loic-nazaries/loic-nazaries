@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Analyzing Apple vs. Samsung Stock Prices: Data Analysis](https://medium.com/@jason.shan55/analyzing-apple-vs-samsung-stock-prices-data-analysis-54522d72d6bd?source=rss------data_science-5)
-- [25 Best AI and ChatGPT Courses You Can Take Online for Free](https://medium.com/@cmitimes_35156/25-best-ai-and-chatgpt-courses-you-can-take-online-for-free-8c7e9c171ccc?source=rss------data_science-5)
-- [The Rise of Datafication: Transforming Industries and Societies](https://medium.com/@shubhampandey_85061/the-rise-of-datafication-transforming-industries-and-societies-4bb21aecb547?source=rss------data_science-5)
-- [Desenvolvendo um projeto de DataViz com o Power BI — Minha experiência](https://medium.com/@luisamuzzi/desenvolvendo-um-projeto-de-dataviz-com-o-power-bi-minha-experi%C3%AAncia-8309f2b14f9c?source=rss------data_science-5)
-- [Unveiling the Power of Love: A Tribute to The Beatles](https://medium.com/@ysntns/unveiling-the-power-of-love-a-tribute-to-the-beatles-605f9e568cac?source=rss------data_science-5)
-- [Generating post recommendations for social media sites](https://annettechiu.medium.com/generating-post-recommendations-for-social-media-sites-91665ac91471?source=rss------data_science-5)
-- [Data Visualization Project: Movie Database](https://annettechiu.medium.com/data-visualization-project-movie-database-59ca3fb03388?source=rss------data_science-5)
-- [Synergistic Intelligence: Enhancing Robustness and Reliability in Deep Learning Through Ensemble…](https://medium.com/aimonks/synergistic-intelligence-enhancing-robustness-and-reliability-in-deep-learning-through-ensemble-08b77875753a?source=rss------data_science-5)
-- [An Introduction to Series, DataFrame, and Index: The Pillars of Pandas](https://medium.com/@bao.character/an-introduction-to-series-dataframe-and-index-the-pillars-of-pandas-cd99ef2415f9?source=rss------data_science-5)
+- [Linear Regression in a minute](https://medium.com/@asusrishabh/linear-regression-in-a-minute-c298faf54238?source=rss------data_science-5)
+- [Resolving Data Chaos: A Step-by-Step Guide to Data Cleaning Using Excel and SQL](https://medium.com/@ayomideuthman89/resolving-data-chaos-a-step-by-step-guide-to-data-cleaning-using-excel-and-sql-4a31b7338788?source=rss------data_science-5)
+- [Data Analysis Vs Business Analysis](https://medium.com/@dossieranalysis/data-analysis-vs-business-analysis-70779711f147?source=rss------data_science-5)
+- [Finding tradable edges in 0DTEs](https://medium.datadriveninvestor.com/finding-tradable-edges-in-0dtes-d82679e16f6f?source=rss------data_science-5)
+- [Army dog center khanewal](https://medium.com/@kali89050/army-dog-center-khanewal-d4cbe1acc35e?source=rss------data_science-5)
+- [Unveiling the Dynamics of Prediction: A Deep Dive into Monte Carlo Cross-Validation for Robust…](https://pub.aimind.so/unveiling-the-dynamics-of-prediction-a-deep-dive-into-monte-carlo-cross-validation-for-robust-2697c97d37f2?source=rss------data_science-5)
+- [Data Science Learning Plan 2024](https://premvishnoi.medium.com/data-science-learning-plan-2024-7e40b46a6c99?source=rss------data_science-5)
+- [Network Data and Graphing in Python: A Comprehensive Guide](https://ernestodotnet.medium.com/network-data-and-graphing-in-python-a-comprehensive-guide-ed66e55f6972?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@chfgjcfhbvfj/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-754a6808e987?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@chfgjcfhbvfj/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-0c7ece0aad30?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
