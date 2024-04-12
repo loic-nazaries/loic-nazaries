@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Linear Regression in a minute](https://medium.com/@asusrishabh/linear-regression-in-a-minute-c298faf54238?source=rss------data_science-5)
-- [Resolving Data Chaos: A Step-by-Step Guide to Data Cleaning Using Excel and SQL](https://medium.com/@ayomideuthman89/resolving-data-chaos-a-step-by-step-guide-to-data-cleaning-using-excel-and-sql-4a31b7338788?source=rss------data_science-5)
-- [Data Analysis Vs Business Analysis](https://medium.com/@dossieranalysis/data-analysis-vs-business-analysis-70779711f147?source=rss------data_science-5)
-- [Finding tradable edges in 0DTEs](https://medium.datadriveninvestor.com/finding-tradable-edges-in-0dtes-d82679e16f6f?source=rss------data_science-5)
-- [Army dog center khanewal](https://medium.com/@kali89050/army-dog-center-khanewal-d4cbe1acc35e?source=rss------data_science-5)
-- [Unveiling the Dynamics of Prediction: A Deep Dive into Monte Carlo Cross-Validation for Robust…](https://pub.aimind.so/unveiling-the-dynamics-of-prediction-a-deep-dive-into-monte-carlo-cross-validation-for-robust-2697c97d37f2?source=rss------data_science-5)
-- [Data Science Learning Plan 2024](https://premvishnoi.medium.com/data-science-learning-plan-2024-7e40b46a6c99?source=rss------data_science-5)
-- [Network Data and Graphing in Python: A Comprehensive Guide](https://ernestodotnet.medium.com/network-data-and-graphing-in-python-a-comprehensive-guide-ed66e55f6972?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@chfgjcfhbvfj/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-754a6808e987?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@chfgjcfhbvfj/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-0c7ece0aad30?source=rss------data_science-5)
+- [money fine customer care service toll free number 9666109337 call 9666109337 call.](https://medium.com/@razasingh3986/money-fine-customer-care-service-toll-free-number-9666109337-call-9666109337-call-d0069d9d5a3f?source=rss------data_science-5)
+- [money fine customer care service toll free number 9666109337 call 9666109337 call.](https://medium.com/@razasingh3986/money-fine-customer-care-service-toll-free-number-9666109337-call-9666109337-call-60e0da134ff6?source=rss------data_science-5)
+- [money fine customer care service toll free number 9666109337 call 9666109337 call.](https://medium.com/@razasingh3986/money-fine-customer-care-service-toll-free-number-9666109337-call-9666109337-call-d621e09652e6?source=rss------data_science-5)
+- [money fine customer care service toll free number 9666109337 call 9666109337 call.](https://medium.com/@razasingh3986/money-fine-customer-care-service-toll-free-number-9666109337-call-9666109337-call-f3435ef7271c?source=rss------data_science-5)
+- [Reparametrization is Fine-tuning, but the Inverse is Not True: Understanding the Evolution of Model…](https://carlosemorais.medium.com/reparametrization-is-fine-tuning-but-the-inverse-is-not-true-understanding-the-evolution-of-model-025f663ae6c2?source=rss------data_science-5)
+- [Intelligent Cryptocurrency VIP](https://medium.com/@iwanmulyana604/intelligent-cryptocurrency-vip-f4640b0b0fa9?source=rss------data_science-5)
+- [The Importance Role of Data Governance in Today’s Digital Landscape](https://10xers.medium.com/the-importance-role-of-data-governance-in-todays-digital-landscape-f69fcd3ab4c2?source=rss------data_science-5)
+- [شماره خاله بهشهر09013027390شماره خاله سمنان شماره خاله گرمسار شماره خاله ورامین شماره خاله اسلامشهر…](https://medium.com/@shmarhkhalhshmarhkhalh736/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%87%D8%B4%D9%87%D8%B109013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-d1b220a4e74b?source=rss------data_science-5)
+- [A journey through Data Science —  III&rpar; Exploratory Data Analysis &lpar;EDA&rpar; on a Bitcoin dataset](https://ritagomes97494.medium.com/a-journey-through-data-science-iii-exploratory-data-analysis-eda-on-a-bitcoin-dataset-e5aa09fffeb7?source=rss------data_science-5)
+- [Percentiles and Z Scores for Marathon Performances From Updated 2023 Performance Data](https://medium.com/runners-life/percentiles-and-z-scores-for-marathon-performances-from-updated-2023-performance-data-bdde85cc3c7c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
