@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Machine Learning Approach to Geoguessr-Style Location Prediction](https://medium.com/@panditsiddhant.sp_78380/a-machine-learning-approach-to-geoguessr-style-location-prediction-0a5dffc1179e?source=rss------data_science-5)
-- [NLP with Machine Learning](https://medium.com/@jyoti1308/nlp-with-machine-learning-7e78faa8738f?source=rss------data_science-5)
-- [Word Embeddings](https://medium.com/@jyoti1308/word-embeddings-998c2daac683?source=rss------data_science-5)
-- [Clickbait: YouTube Thumbnail Analysis](https://medium.com/@kiwi.avr/clickbait-youtube-thumbnail-analysis-13314da7a061?source=rss------data_science-5)
-- [BizLoan Customer Care Helpline Number &lpar;❾❼❸&rpar; Toll-Free +&lpar;6379440792&rpar; ✓ Call +&lpar;7004577219&rpar; All…](https://medium.com/@singein/bizloan-customer-care-helpline-number-%E2%9D%BE%E2%9D%BC%E2%9D%B8-toll-free-6379440792-call-7004577219-all-ab03f43c5edd?source=rss------data_science-5)
-- [BizLoan Customer Care Helpline Number &lpar;❾❼❸&rpar; Toll-Free +&lpar;6379440792&rpar; ✓ Call +&lpar;7004577219&rpar; All…](https://medium.com/@singein/bizloan-customer-care-helpline-number-%E2%9D%BE%E2%9D%BC%E2%9D%B8-toll-free-6379440792-call-7004577219-all-9c6a55ead9e5?source=rss------data_science-5)
-- [BizLoan Customer Care Helpline Number &lpar;❾❼❸&rpar; Toll-Free +&lpar;6379440792&rpar; ✓ Call +&lpar;7004577219&rpar; All…](https://medium.com/@singein/bizloan-customer-care-helpline-number-%E2%9D%BE%E2%9D%BC%E2%9D%B8-toll-free-6379440792-call-7004577219-all-a93aa1c34932?source=rss------data_science-5)
-- [BizLoan Customer Care Helpline Number &lpar;❾❼❸&rpar; Toll-Free +&lpar;6379440792&rpar; ✓ Call +&lpar;7004577219&rpar; All…](https://medium.com/@singein/bizloan-customer-care-helpline-number-%E2%9D%BE%E2%9D%BC%E2%9D%B8-toll-free-6379440792-call-7004577219-all-52e7212af841?source=rss------data_science-5)
-- [BizLoan Customer Care Helpline Number &lpar;❾❼❸&rpar; Toll-Free +&lpar;6379440792&rpar; ✓ Call +&lpar;7004577219&rpar; All…](https://medium.com/@singein/bizloan-customer-care-helpline-number-%E2%9D%BE%E2%9D%BC%E2%9D%B8-toll-free-6379440792-call-7004577219-all-ae7ad5bba6c8?source=rss------data_science-5)
-- [BizLoan Customer Care Helpline Number &lpar;❾❼❸&rpar; Toll-Free +&lpar;6379440792&rpar; ✓ Call +&lpar;7004577219&rpar; All…](https://medium.com/@singein/bizloan-customer-care-helpline-number-%E2%9D%BE%E2%9D%BC%E2%9D%B8-toll-free-6379440792-call-7004577219-all-8b27e95e0e73?source=rss------data_science-5)
+- [Sex in ancient Egypt](https://medium.com/predict/sex-in-ancient-egypt-3a66fd5af03f?source=rss------data_science-5)
+- [A/B Testing and Canary Releases: Exploring ConfigCat for an ML-Enabled System](https://medium.com/@shash.nk97/a-b-testing-and-canary-releases-exploring-configcat-for-an-ml-enabled-system-9cd1a698d49a?source=rss------data_science-5)
+- [Mastering AWS Polly: Top Five Interview Questions Explained](https://medium.com/double-pointer/mastering-aws-polly-top-five-interview-questions-explained-b5454a9042fb?source=rss------data_science-5)
+- [A Comprehensive Guide to Data Analysis Using Python](https://kasata.medium.com/a-comprehensive-guide-to-data-analysis-using-python-013fc4628661?source=rss------data_science-5)
+- [Poco Credit Loan CUSTOMER Care helpline Number♂️9734517315//✔️ 9734517315 // 9734517315 ✓✓/gsj](https://medium.com/@difaye/poco-credit-loan-customer-care-helpline-number-%EF%B8%8F9734517315-%EF%B8%8F-9734517315-9734517315-gsj-15660a926c86?source=rss------data_science-5)
+- [finscore loan CUSTOMER Care helpline Number♂️9734517315//✔️ 9734517315 // 9734517315 ✓✓/gsj](https://medium.com/@voyaw/finscore-loan-customer-care-helpline-number-%EF%B8%8F9734517315-%EF%B8%8F-9734517315-9734517315-gsj-1f2dbd2defb4?source=rss------data_science-5)
+- [finscore loan CUSTOMER Care helpline Number♂️9734517315//✔️ 9734517315 // 9734517315 ✓✓/gsj](https://medium.com/@voyaw/finscore-loan-customer-care-helpline-number-%EF%B8%8F9734517315-%EF%B8%8F-9734517315-9734517315-gsj-a5f1a52903c3?source=rss------data_science-5)
+- [finscore loan CUSTOMER Care helpline Number♂️9734517315//✔️ 9734517315 // 9734517315 ✓✓/gsj](https://medium.com/@voyaw/finscore-loan-customer-care-helpline-number-%EF%B8%8F9734517315-%EF%B8%8F-9734517315-9734517315-gsj-bbdfdb680cb3?source=rss------data_science-5)
+- [finscore loan CUSTOMER Care helpline Number♂️9734517315//✔️ 9734517315 // 9734517315 ✓✓/gsj](https://medium.com/@voyaw/finscore-loan-customer-care-helpline-number-%EF%B8%8F9734517315-%EF%B8%8F-9734517315-9734517315-gsj-e0dfb123b240?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
