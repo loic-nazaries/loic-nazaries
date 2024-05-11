@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [You are doing ‘Variables’ Wrong In Python](https://python.plainenglish.io/you-are-doing-variables-wrong-in-python-1b8761ba09b2?source=rss------data_science-5)
-- [A Beginner-Friendly Introduction to LLMs](https://towardsdatascience.com/a-beginner-friendly-introduction-to-llms-1b8dbdd628a0?source=rss------data_science-5)
-- [How To Read Data From Google Sheets In Google Colab](https://blog.stackademic.com/how-to-read-data-from-google-sheets-in-google-colab-2370f54a7fff?source=rss------data_science-5)
-- [History of “Hello, World!” in Python: First Steps in Learning Programming](https://python.plainenglish.io/history-of-hello-world-in-python-first-steps-in-learning-programming-d67a20da04c2?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@idjjsjs61/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-c75dc67c3906?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@idjjsjs61/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-5523425fbe56?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@idjjsjs61/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-c49983d0e74b?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@idjjsjs61/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-37b416b93d63?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@idjjsjs61/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-85d147167b0f?source=rss------data_science-5)
-- [شماره خاله شماره خاله کرج شماره خاله رشت شماره خاله همدان شماره خاله اصفهان شماره خاله تهران شماره…](https://medium.com/@shmarhkhalhs734/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-258b5ded55d1?source=rss------data_science-5)
+- [Design a Multi-Layer Perceptron &lpar;MLP&rpar; Neural Network for Classification](https://medium.com/@ayoakinkugbe/design-a-multi-layer-perceptron-mlp-neural-network-for-classification-fcd7d6a342e6?source=rss------data_science-5)
+- [Unraveling the Mysteries of the K-means Clustering Algorithm: A Beginner’s Guide](https://medium.com/@rahulkanth.inspire/unraveling-the-mysteries-of-the-k-means-clustering-algorithm-a-beginners-guide-ca4f9aea7dc0?source=rss------data_science-5)
+- [**Syndbuddy AI Bundle Agency+ Information: Unleashing the Power of Social Syndication**](https://medium.com/@ravishrazdan/syndbuddy-ai-bundle-agency-information-unleashing-the-power-of-social-syndication-7cf0d874a63a?source=rss------data_science-5)
+- [SLC Bits: &lpar;3&rpar; Seven Common Procedures &lpar;proc’s&rpar;](https://medium.com/@Mamdouh.Refaat/slc-bits-3-seven-common-procedures-procs-5810da97048b?source=rss------data_science-5)
+- [Financial Data Visualization for Finance Professionals and Data Analysts](https://medium.com/@a.bahanshal/financial-data-visualization-for-finance-professionals-and-data-analysts-39a8126353df?source=rss------data_science-5)
+- [شماره تماس گذاشتم که چت نکنی 09356243900شماره زنان صیغه ای همسریابی۰ شماره خاله۰تهران۰ شماره خاله…](https://medium.com/@royabakhtyari30/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AA%D9%85%D8%A7%D8%B3-%DA%AF%D8%B0%D8%A7%D8%B4%D8%AA%D9%85-%DA%A9%D9%87-%DA%86%D8%AA-%D9%86%DA%A9%D9%86%DB%8C-09356243900%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B2%D9%86%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A7%DB%8C-%D9%87%D9%85%D8%B3%D8%B1%DB%8C%D8%A7%D8%A8%DB%8C%DB%B0-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87%DB%B0%D8%AA%D9%87%D8%B1%D8%A7%D9%86%DB%B0-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-c04e95d7ef60?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@idjjsjs61/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-4a2b0432155f?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@idjjsjs61/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-a5cd27bf4efb?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@idjjsjs61/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-8f85e31c8bc9?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@idjjsjs61/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-4bd9a580a362?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
