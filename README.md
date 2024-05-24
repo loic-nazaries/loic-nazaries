@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Parallel Coordinate Plot Explained &lpar;3/3&rpar;](https://medium.com/@tatsurokawamoto/parallel-coordinate-plot-explained-3-3-3f172ffeb479?source=rss------data_science-5)
-- [Data Science Sunday Episode 20, 2024](https://medium.com/@oyesinaoyerinde/data-science-sunday-episode-20-2024-c34f844ede4a?source=rss------data_science-5)
-- [Bring Ya’ Ass](https://medium.com/@dcousin/bring-ya-ass-055ce3f1a74b?source=rss------data_science-5)
-- [Powerful Love Spell Caster In Poland - Powerful Witch Doctor In Poland From Africa](https://medium.com/@witchdoctorke/powerful-love-spell-caster-in-poland-powerful-witch-doctor-in-poland-from-africa-d70b515330f7?source=rss------data_science-5)
-- [Powerful Love Spell Caster In Switzerland - Powerful Witch Doctor In Switzerland From Africa](https://medium.com/@witchdoctorke/powerful-love-spell-caster-in-switzerland-powerful-witch-doctor-in-switzerland-from-africa-9bbdf3133d58?source=rss------data_science-5)
-- [Powerful Love Spell Caster In Sweden - Powerful Witch Doctor In Sweden From Africa](https://medium.com/@witchdoctorke/powerful-love-spell-caster-in-sweden-powerful-witch-doctor-in-sweden-from-africa-2e52d667ee47?source=rss------data_science-5)
-- [Powerful Love Spell Caster In Saudi Arabia - Powerful Witch Doctor In Saudi Arabia From Africa](https://medium.com/@witchdoctorke/powerful-love-spell-caster-in-saudi-arabia-powerful-witch-doctor-in-saudi-arabia-from-africa-6a866432f0b2?source=rss------data_science-5)
-- [Powerful Love Spell Caster In Dubai - Powerful Witch Doctor In Dubai From Africa](https://medium.com/@witchdoctorke/powerful-love-spell-caster-in-dubai-powerful-witch-doctor-in-dubai-from-africa-5e9736ba51f7?source=rss------data_science-5)
-- [Powerful Love Spell Caster In Qatar — Powerful Witch Doctor In Qatar From Africa](https://medium.com/@witchdoctorke/powerful-love-spell-caster-in-qatar-powerful-witch-doctor-in-qatar-from-africa-b08c2c3c6fa4?source=rss------data_science-5)
+- [Crud C#](https://medium.com/@well_rafa/crud-c-02211a11da1d?source=rss------data_science-5)
+- [HOW YOU CAN BE RICH IN 2024?](https://medium.com/@johnny10baki/how-you-can-be-rich-in-2024-1349cd1a31fd?source=rss------data_science-5)
+- [CLLMs: Consistency Large Language Models | AI Paper Explained](https://medium.com/@aipapers/cllms-consistency-large-language-models-ai-paper-explained-042b6b81401b?source=rss------data_science-5)
+- [Deep Dive into Image Classification with PyTorch: A CIFAR-10 Tutorial](https://medium.com/@saitejamummadi/deep-dive-into-image-classification-with-pytorch-a-cifar-10-tutorial-4151f9c4c7b1?source=rss------data_science-5)
+- [Data Poisoning](https://medium.com/@ssarswat/data-poisoning-09b965e53168?source=rss------data_science-5)
+- [Difference between Data Analyst &amp; Data Scientist](https://medium.com/@jeongseohan1004/difference-between-data-analyst-data-scientist-91de6b1b7f31?source=rss------data_science-5)
+- [Machine Learning: Problem Setting](https://medium.com/@mitchparker99/machine-learning-problem-setting-c3ac1178b0fe?source=rss------data_science-5)
+- [Journey Through Data: From Insights to Impact](https://medium.com/@anitmathew0371/journey-through-data-from-insights-to-impact-990e0e30631d?source=rss------data_science-5)
+- [Data Fellows 2024 Profile](https://blog.deltanalytics.org/data-fellows-2024-profile-e27a5093a4c8?source=rss------data_science-5)
+- [R2: An Open Online Data Science Platform for Biomedical Researchers](https://medium.com/@koster.jan/r2-an-open-online-data-science-platform-for-biomedical-researchers-9d300bd8841e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
