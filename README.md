@@ -105,16 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Crud C#](https://medium.com/@well_rafa/crud-c-02211a11da1d?source=rss------data_science-5)
-- [HOW YOU CAN BE RICH IN 2024?](https://medium.com/@johnny10baki/how-you-can-be-rich-in-2024-1349cd1a31fd?source=rss------data_science-5)
-- [CLLMs: Consistency Large Language Models | AI Paper Explained](https://medium.com/@aipapers/cllms-consistency-large-language-models-ai-paper-explained-042b6b81401b?source=rss------data_science-5)
-- [Deep Dive into Image Classification with PyTorch: A CIFAR-10 Tutorial](https://medium.com/@saitejamummadi/deep-dive-into-image-classification-with-pytorch-a-cifar-10-tutorial-4151f9c4c7b1?source=rss------data_science-5)
-- [Data Poisoning](https://medium.com/@ssarswat/data-poisoning-09b965e53168?source=rss------data_science-5)
-- [Difference between Data Analyst &amp; Data Scientist](https://medium.com/@jeongseohan1004/difference-between-data-analyst-data-scientist-91de6b1b7f31?source=rss------data_science-5)
-- [Machine Learning: Problem Setting](https://medium.com/@mitchparker99/machine-learning-problem-setting-c3ac1178b0fe?source=rss------data_science-5)
-- [Journey Through Data: From Insights to Impact](https://medium.com/@anitmathew0371/journey-through-data-from-insights-to-impact-990e0e30631d?source=rss------data_science-5)
-- [Data Fellows 2024 Profile](https://blog.deltanalytics.org/data-fellows-2024-profile-e27a5093a4c8?source=rss------data_science-5)
-- [R2: An Open Online Data Science Platform for Biomedical Researchers](https://medium.com/@koster.jan/r2-an-open-online-data-science-platform-for-biomedical-researchers-9d300bd8841e?source=rss------data_science-5)
+- [3 Simple &lpar;But Effective&rpar; Pieces Of Advice I’d Give Anyone Who Wants To Get Started In Data Science](https://medium.com/@leandroguarnieri/3-simple-but-effective-pieces-of-advice-id-give-anyone-who-wants-to-get-started-in-data-science-f5c8078c039d?source=rss------data_science-5)
+- [Mastering Fast Arriving Dimensions &lpar;FAD&rpar;: Lessons from My Experience](https://medium.com/@kushalshr/mastering-fast-arriving-dimensions-fad-lessons-from-my-experience-c94375570f7e?source=rss------data_science-5)
+- [Reflections on the Data Science Initiative Spring Research Workshop 2024](https://medium.com/@laurennellanderson/reflections-on-the-data-science-initiative-spring-research-workshop-2024-f5b9d9ce6bfa?source=rss------data_science-5)
+- [Beast of the East](https://medium.com/@dcousin/beast-of-the-east-6549372e075f?source=rss------data_science-5)
+- [Painted Door Tests](https://prerit-saxena.medium.com/painted-door-tests-533a92c8602c?source=rss------data_science-5)
+- [شماره خاله فارس شماره خاله آباده شماره ارسنجان شماره خاله استهبان شماره خاله اقلید شماره خاله…](https://medium.com/@shmarhkhalhthranhdwry13/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%81%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A2%D8%A8%D8%A7%D8%AF%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D8%AA%D9%87%D8%A8%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%82%D9%84%DB%8C%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-2b9feaa7c731?source=rss------data_science-5)
+- [شماره خاله سردشت  شماره خاله سفیددشت  شماره خاله سلمان شهر  شماره خاله سوسنگرد  شماره خاله سیاهکل…](https://medium.com/@shmarhkhalhthranhdwry13/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%B1%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D9%81%DB%8C%D8%AF%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D9%84%D9%85%D8%A7%D9%86-%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D9%88%D8%B3%D9%86%DA%AF%D8%B1%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%DB%8C%D8%A7%D9%87%DA%A9%D9%84-8df942fed298?source=rss------data_science-5)
+- [شماره خاله ری شماره خاله باقرشهر شماره خاله تجریش شماره خاله ماهدشت شماره خاله رباط کریم شماره خاله…](https://medium.com/@shmarhkhalhthranhdwry13/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D9%82%D8%B1%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D8%AC%D8%B1%DB%8C%D8%B4-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%A7%D9%87%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%A8%D8%A7%D8%B7-%DA%A9%D8%B1%DB%8C%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-86ec8db75614?source=rss------data_science-5)
+- [شماره خاله تهران 09382539984
+شماره خاله کرج09382539984 
+شماره خاله رشت 09382539984
+شماره خاله…](https://medium.com/@shmarhkhalhthranhdwry13/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09382539984-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC09382539984-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-09382539984-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-2b16175afd6b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
