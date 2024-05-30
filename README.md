@@ -105,16 +105,14 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Entity Relationship Diagrams Using MySQL Reverse Engineering](https://medium.com/@yuyunusa0/entity-relationship-diagrams-using-mysql-reverse-engineering-cf6baa322df9?source=rss------data_science-5)
-- [Classifying Song Genres with Machine Learning](https://medium.com/@baraq/classifying-song-genres-with-machine-learning-37258250504a?source=rss------data_science-5)
-- [Bridging the Gap in Text Generation: Evaluating the Potential of Pointer-Generator Networks](https://blog.devgenius.io/bridging-the-gap-in-text-generation-evaluating-the-potential-of-pointer-generator-networks-9477072f332a?source=rss------data_science-5)
-- [The Untold Story of Apollo 18](https://medium.com/@worldofmystery/the-untold-story-of-apollo-18-49c28962bfcb?source=rss------data_science-5)
-- [Optimizing Airbnb Pricing Strategies: A Data Science Case Study &lpar;Part 1&rpar;](https://medium.com/@stellawym/optimizing-airbnb-pricing-strategies-a-data-science-case-study-part-1-c5691b79d005?source=rss------data_science-5)
-- [DAOs and how the concept would be applicable/relates to Sierra Leone](https://medium.com/@mliskjohnson/daos-and-how-the-concept-would-be-applicable-relates-to-sierra-leone-0adaf55faf93?source=rss------data_science-5)
-- [Decomposição e Análise de Séries Temporais: Tendência, Sazonalidade e Estacionaridade](https://medium.com/@hugogome40/decomposi%C3%A7%C3%A3o-e-an%C3%A1lise-de-s%C3%A9ries-temporais-tend%C3%AAncia-sazonalidade-e-estacionaridade-28f507cf3e25?source=rss------data_science-5)
-- [An NHL Surebet?](https://medium.com/@dcousin/an-nhl-surebet-189589412826?source=rss------data_science-5)
-- [Advanced SQL: Conditional Aggregation](https://medium.com/@sqlfundamentals/advanced-sql-conditional-aggregation-2d55270db3ef?source=rss------data_science-5)
-- [UFO is filmed on a flight from Bogotá to Salento, Colombia](https://medium.com/@TheInfiniteMystery/ufo-is-filmed-on-a-flight-from-bogot%C3%A1-to-salento-colombia-23d7986ed3ee?source=rss------data_science-5)
+- [Machine Learning with Genomic Data using OakVar and scikit-learn](https://medium.com/oakvar/machine-learning-with-genomic-data-using-oakvar-and-scikit-learn-a6078552a229?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله تهرانپارس شماره خاله تهرانسر شماره خاله اصفهان شماره خاله آزادی شماره…](https://medium.com/@sshmarhkhalh548/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e0dc9911a59b?source=rss------data_science-5)
+- [شماره خاله شماره خاله تهران 09013027390خاله سحر شماره خاله شيوا شماره خاله مهناز شماره خاله مژگان…](https://medium.com/@sshmarhkhalh548/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09013027390%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%AD%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%8A%D9%88%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D9%87%D9%86%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%DA%98%DA%AF%D8%A7%D9%86-b5fca10da338?source=rss------data_science-5)
+- [Is Data Science Dead?](https://medium.com/@jmrollins36/is-data-science-dead-4e6bfca28aba?source=rss------data_science-5)
+- [I will draft compliance resume, loan officer, governance, cybersecurity and cover letter](https://medium.com/@ahmedoluwakemi375/i-will-draft-compliance-resume-loan-officer-governance-cybersecurity-and-cover-letter-528678fe2c0f?source=rss------data_science-5)
+- [Mengenal Apa Itu Dashboard](https://medium.com/@ali-fauzi14/mengenal-apa-itu-dashboard-b2c03cc33745?source=rss------data_science-5)
+- [SSTFPL CASH LOAN Customer Care Helpline Number &lpar;❾❼❸&rpar; Toll-Free +// 9330325413%//Call +//…](https://medium.com/@jsiejh/sstfpl-cash-loan-customer-care-helpline-number-%E2%9D%BE%E2%9D%BC%E2%9D%B8-toll-free-9330325413-call-cd749b1abd31?source=rss------data_science-5)
+- [SSTFPL CASH LOAN Customer Care Helpline Number &lpar;❾❼❸&rpar; Toll-Free +// 9330325413%//Call +//…](https://medium.com/@jsiejh/sstfpl-cash-loan-customer-care-helpline-number-%E2%9D%BE%E2%9D%BC%E2%9D%B8-toll-free-9330325413-call-8b10a829392b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
