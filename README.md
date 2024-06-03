@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [ITL RUPee loan customer care helpline number &rpar;+ 9330325413 ✓ 8797981120 call now](https://medium.com/@kisnuwn/itl-rupee-loan-customer-care-helpline-number-9330325413-8797981120-call-now-09ca2dfd8d92?source=rss------data_science-5)
-- [SSTFPL CASH LOAN APP customer care helpline number &rpar;&lpar; 8080900255✓✓ 8707094999 call now.](https://medium.com/@ebebusgwb/sstfpl-cash-loan-app-customer-care-helpline-number-8080900255-8707094999-call-now-ab57b8e2cc70?source=rss------data_science-5)
-- [SSTFPL CASH LOAN APP customer care helpline number &rpar;&lpar; 8080900255✓✓ 8707094999 call now.](https://medium.com/@ebebusgwb/sstfpl-cash-loan-app-customer-care-helpline-number-8080900255-8707094999-call-now-2443f07264bc?source=rss------data_science-5)
-- [SSTFPL CASH LOAN APP customer care helpline number &rpar;&lpar; 8080900255✓✓ 8707094999 call now.](https://medium.com/@ebebusgwb/sstfpl-cash-loan-app-customer-care-helpline-number-8080900255-8707094999-call-now-50249b5ec150?source=rss------data_science-5)
-- [SSTFPL CASH LOAN APP customer care helpline number &rpar;&lpar; 8080900255✓✓ 8707094999 call now.](https://medium.com/@ebebusgwb/sstfpl-cash-loan-app-customer-care-helpline-number-8080900255-8707094999-call-now-2a341abce9ce?source=rss------data_science-5)
-- [SSTFPL CASH LOAN APP customer care helpline number &rpar;&lpar; 8080900255✓✓ 8707094999 call now.](https://medium.com/@tabanamisb/sstfpl-cash-loan-app-customer-care-helpline-number-8080900255-8707094999-call-now-7687b4a948ab?source=rss------data_science-5)
-- [SSTFPL CASH LOAN APP customer care helpline number &rpar;&lpar; 8080900255✓✓ 8707094999 call now.](https://medium.com/@tabanamisb/sstfpl-cash-loan-app-customer-care-helpline-number-8080900255-8707094999-call-now-9f7d250571e0?source=rss------data_science-5)
-- [SSTFPL CASH LOAN APP customer care helpline number &rpar;&lpar; 8080900255✓✓ 8707094999 call now.](https://medium.com/@tabanamisb/sstfpl-cash-loan-app-customer-care-helpline-number-8080900255-8707094999-call-now-08f53b34acc6?source=rss------data_science-5)
-- [SSTFPL CASH LOAN APP customer care helpline number &rpar;&lpar; 8080900255✓✓ 8707094999 call now.](https://medium.com/@tabanamisb/sstfpl-cash-loan-app-customer-care-helpline-number-8080900255-8707094999-call-now-e1300fb51b6f?source=rss------data_science-5)
-- [SSTFPL CASH LOAN APP customer care helpline number &rpar;&lpar; 8080900255✓✓ 8707094999 call now.](https://medium.com/@tabanamisb/sstfpl-cash-loan-app-customer-care-helpline-number-8080900255-8707094999-call-now-d97e7b4bcba9?source=rss------data_science-5)
+- [CANDY CASh LOAN APP customer care helpline number &rpar;&lpar; 8080900255✓✓ 8707094999 call now.](https://medium.com/@shswbaja/candy-cash-loan-app-customer-care-helpline-number-8080900255-8707094999-call-now-02109b98c7e3?source=rss------data_science-5)
+- [CANDY CASh LOAN APP customer care helpline number &rpar;&lpar; 8080900255✓✓ 8707094999 call now.](https://medium.com/@shswbaja/candy-cash-loan-app-customer-care-helpline-number-8080900255-8707094999-call-now-a68aeb845b7c?source=rss------data_science-5)
+- [CANDY CASh LOAN APP customer care helpline number &rpar;&lpar; 8080900255✓✓ 8707094999 call now.](https://medium.com/@shswbaja/candy-cash-loan-app-customer-care-helpline-number-8080900255-8707094999-call-now-3ee66e763a1a?source=rss------data_science-5)
+- [Além dos números: Estatística Inferencial como ferramenta na gestão de investimentos](https://medium.com/@ducadux/al%C3%A9m-dos-n%C3%BAmeros-estat%C3%ADstica-inferencial-como-ferramenta-na-gest%C3%A3o-de-investimentos-858b0dc2b46e?source=rss------data_science-5)
+- [Optimizing Memory Consumption for Data Analytics Using Python — From 400 to 0.1](https://towardsdatascience.com/optimizing-memory-consumption-for-data-analytics-using-python-from-400-to-0-1-4085108af497?source=rss------data_science-5)
+- [ML Engineering 101: A Thorough Explanation of The Error “DataLoader worker &lpar;pid&lpar;s&rpar; xxx&rpar; exited…](https://towardsdatascience.com/ml-engineering-101-a-thorough-explanation-of-the-error-dataloader-worker-pid-s-xxx-exited-f3a6a983911e?source=rss------data_science-5)
+- [HMM….](https://medium.com/@mompatiseete/hmm-47ddd8cfbffa?source=rss------data_science-5)
+- [The Curiosity Rover Photographed A UFO On Mars](https://medium.com/@UnexplainedFiles1/the-curiosity-rover-photographed-a-ufo-on-mars-c9239ab5024f?source=rss------data_science-5)
+- [Recurrent All Pairs Field Transform&lpar;RAFT&rpar; Model](https://medium.com/@akp83540/recurrent-all-pairs-field-transform-raft-model-f5ddfd79fe96?source=rss------data_science-5)
+- [Untitled](https://medium.com/@ff2653336/untitled-dea92f00ee38?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
