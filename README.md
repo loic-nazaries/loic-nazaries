@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Gold pocket LOAN Loan CusTomer Care Helpline Number/➐➌⓿➎➋➒➏⓿➋➊/ 7439698803// 7439698803 ✓✓/ Call…](https://medium.com/@singluna257/gold-pocket-loan-loan-customer-care-helpline-number-%E2%9E%90%E2%9E%8C%E2%93%BF%E2%9E%8E%E2%9E%8B%E2%9E%92%E2%9E%8F%E2%93%BF%E2%9E%8B%E2%9E%8A-7439698803-7439698803-call-2f8e5b22328d?source=rss------data_science-5)
-- [Gold pocket LOAN Loan CusTomer Care Helpline Number/➐➌⓿➎➋➒➏⓿➋➊/ 7439698803// 7439698803 ✓✓/ Call…](https://medium.com/@singluna257/gold-pocket-loan-loan-customer-care-helpline-number-%E2%9E%90%E2%9E%8C%E2%93%BF%E2%9E%8E%E2%9E%8B%E2%9E%92%E2%9E%8F%E2%93%BF%E2%9E%8B%E2%9E%8A-7439698803-7439698803-call-4ee86007ce8a?source=rss------data_science-5)
-- [Gold pocket LOAN Loan CusTomer Care Helpline Number/➐➌⓿➎➋➒➏⓿➋➊/ 7439698803// 7439698803 ✓✓/ Call…](https://medium.com/@singluna257/gold-pocket-loan-loan-customer-care-helpline-number-%E2%9E%90%E2%9E%8C%E2%93%BF%E2%9E%8E%E2%9E%8B%E2%9E%92%E2%9E%8F%E2%93%BF%E2%9E%8B%E2%9E%8A-7439698803-7439698803-call-3642348f506c?source=rss------data_science-5)
-- [How to Split your 24 hours for optimal productivity and well being.](https://medium.com/@sohail01/how-to-split-your-24-hours-for-optimal-productivity-and-well-being-c662f4aa42ef?source=rss------data_science-5)
-- [How I Fixed A Batching Selenium Problem](https://medium.com/@geekhibrid/how-i-fixed-a-batching-selenium-problem-3d068664d009?source=rss------data_science-5)
-- [Teoria dos Conjuntos](https://medium.com/@reisvictor16/teoria-dos-conjuntos-4dcc4593fb06?source=rss------data_science-5)
-- [Hi, everyone, this is my first post in medium.](https://medium.com/@varshasinha662/hi-everyone-this-is-my-first-post-in-medium-493dfcbabc20?source=rss------data_science-5)
-- [Desvendando a Técnica RFM: O Segredo para Conhecer Melhor Seus Clientes e Alavancar Seu Negócio](https://thiagoramos20042.medium.com/desvendando-a-t%C3%A9cnica-rfm-o-segredo-para-conhecer-melhor-seus-clientes-e-alavancar-seu-neg%C3%B3cio-a441b8a5eac0?source=rss------data_science-5)
-- [Predicting Chicago Taxi Trips with R Time Series Model — BSTS](https://medium.com/@leaw77172/predicting-chicago-taxi-trips-with-r-time-series-model-bsts-f857efe38bb4?source=rss------data_science-5)
-- [The Value of Public Land in Salt Lake City](https://medium.com/@zander.holleran/the-value-of-public-land-in-salt-lake-city-d09100818551?source=rss------data_science-5)
+- [Google to detect fraud apps?](https://medium.com/@AngelMalaika/google-to-detect-fraud-apps-35bf5a3882a4?source=rss------data_science-5)
+- [Why I Chose a Coding Bootcamp](https://medium.com/@allisonmiriamward/why-i-chose-a-coding-bootcamp-93f78af09cc4?source=rss------data_science-5)
+- [Musical Foundations that Help Me in My Data Science Bootcamp](https://medium.com/@allisonmiriamward/musical-foundations-that-help-me-in-my-data-science-bootcamp-9004d84b337a?source=rss------data_science-5)
+- [Kasus Tapera, Dugaan Korupsi Hingga 1 Triliun](https://medium.com/@umam8212/kasus-tapera-dugaan-korupsi-hingga-1-triliun-5df38bc58ab4?source=rss------data_science-5)
+- [La educación del futuro :D](https://medium.com/@mb.ulises/untitled-a5f9efe73c79?source=rss------data_science-5)
+- [Coffee production prediction](https://medium.com/@sottoflavio/coffee-production-prediction-5966f493bc5f?source=rss------data_science-5)
+- [Understanding Triton Tutorials Part 2](https://isamu-website.medium.com/understanding-triton-tutorials-part-2-f6839ce50ae7?source=rss------data_science-5)
+- [Episode 2: Uncovering Insights: Exploratory Data Analysis &lpar;EDA&rpar;](https://medium.com/@saisriharshakumbam/episode-2-uncovering-insights-exploratory-data-analysis-eda-2fa1192cdfc9?source=rss------data_science-5)
+- [Gold pokket Loan Customer Care Helpline Number 91-➕8080900255➕Toll-Free➕870–7094–999 Public Refund…](https://medium.com/@wywannadh/gold-pokket-loan-customer-care-helpline-number-91-8080900255-toll-free-870-7094-999-public-refund-d1154cd249b2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
