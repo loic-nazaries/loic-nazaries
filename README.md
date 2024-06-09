@@ -105,16 +105,20 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Syncs park loan App Customer Care Helpline Number➕ ➑➋➒➌⓿➑+91* 7898813493 :// 7033341366 Call Now…](https://medium.com/@nofam_55438/syncs-park-loan-app-customer-care-helpline-number-%E2%9E%91%E2%9E%8B%E2%9E%92%E2%9E%8C%E2%93%BF%E2%9E%91-91-7898813493-7033341366-call-now-30795e1ed4fd?source=rss------data_science-5)
-- [Kaushal corporate loan App Customer Care Helpline Number➕ ➑➋➒➌⓿➑+91* 7898813493 :// 7033341366 Call…](https://medium.com/@firetox/kaushal-corporate-loan-app-customer-care-helpline-number-%E2%9E%91%E2%9E%8B%E2%9E%92%E2%9E%8C%E2%93%BF%E2%9E%91-91-7898813493-7033341366-call-310b572026df?source=rss------data_science-5)
-- [SSTFPL CASH LOAN Customer Care Helpline Number &lpar;❾❼❸&rpar; Toll-Free +// 7898813493//Call +//…](https://medium.com/@xonehwsneoncom/sstfpl-cash-loan-customer-care-helpline-number-%E2%9D%BE%E2%9D%BC%E2%9D%B8-toll-free-7898813493-call-1db30c354030?source=rss------data_science-5)
-- [Temporal Data in LSTM Time Series Forecasting](https://medium.com/@srmousavi25/temporal-data-in-lstm-time-series-forecasting-c6c61633f915?source=rss------data_science-5)
-- [The Hidden Flaws: Why Even the Smartest AI Struggles with Simple Tasks](https://medium.com/@rtales/the-hidden-flaws-why-even-the-smartest-ai-struggles-with-simple-tasks-cde574cf02f3?source=rss------data_science-5)
-- [Estancia La Dulce Case: UFO encounter with the presence of amorphous entities](https://medium.com/@UnexplainedFiles1/estancia-la-dulce-case-ufo-encounter-with-the-presence-of-amorphous-entities-4abee32e8d5d?source=rss------data_science-5)
-- [Variational Inference and the method of Normalizing Flows to approximate posteriors distributions](https://medium.com/@vitorffpires/variational-inference-and-the-method-of-normalizing-flows-to-approximate-posteriors-distributions-f7d6ada51d0f?source=rss------data_science-5)
-- [Seattle Airbnb Listing Data Analysis](https://medium.com/@miraclekasigwa/seattle-airbnb-listing-data-analysis-a0a572ebcb93?source=rss------data_science-5)
-- [East Coast — West Coast.. Who’s the Best?](https://medium.com/@dcousin/east-coast-west-coast-whos-the-best-63b4637fbae3?source=rss------data_science-5)
-- [Mind Meld: Brain-Computer Interfaces and the Dawn of a New Era](https://medium.com/@jamesasantana/mind-meld-brain-computer-interfaces-and-the-dawn-of-a-new-era-d8ba5cf36c5d?source=rss------data_science-5)
+- [Untitled](https://medium.com/@nazypwrsmyra/untitled-7d0f43d678ef?source=rss------data_science-5)
+- [What “Dream Big” Meant for Data Science Innovation at LinkedIn](https://towardsdatascience.com/what-dream-big-meant-for-data-science-innovation-at-linkedin-ac4786aa546e?source=rss------data_science-5)
+- [GREENSTONE Credit Loan Customer Care Helpline Number➕ ➑➋➒➌⓿➑ ➕9343286593➕9330325413 Call Now.](https://medium.com/@sybvtjh/greenstone-credit-loan-customer-care-helpline-number-%E2%9E%91%E2%9E%8B%E2%9E%92%E2%9E%8C%E2%93%BF%E2%9E%91-9343286593-9330325413-call-now-436b2d190a67?source=rss------data_science-5)
+- [Supernatural Beings Throughout History: Spirit Materializations](https://medium.com/@UnexplainedFiles1/supernatural-beings-throughout-history-spirit-materializations-ae4e50080335?source=rss------data_science-5)
+- [SQL Origins: why and how of initial design decisions of the language](https://fahadthedatascientist.medium.com/sql-origins-why-and-how-of-initial-design-decisions-of-the-language-574b31addffd?source=rss------data_science-5)
+- [DI BACKUP LANGSUNG OLEH $MANTA 
+➡️ DeFi, Web3, AI
+➖MINING
+➖SELESAIN TASK
+➖DONE](https://medium.com/@Bulak_pro/di-backup-langsung-oleh-manta-%EF%B8%8F-defi-web3-ai-mining-selesain-task-done-c0c3f516f22a?source=rss------data_science-5)
+- [Nigeria Economy Dashboard Analysis](https://medium.com/@holadimeji2/nigeria-economy-dashboard-analysis-914c2f21bd84?source=rss------data_science-5)
+- [Streamlit: Data Science App的好工具](https://medium.com/@kobe24abc/streamlit-data-science-app%E7%9A%84%E5%A5%BD%E5%B7%A5%E5%85%B7-5802a0dde498?source=rss------data_science-5)
+- [How to Build a Datalake using opensource tools and cloud services](https://fahadthedatascientist.medium.com/how-to-build-a-datalake-using-opensource-tools-and-cloud-services-c43ef64dba0d?source=rss------data_science-5)
+- [Why Airbyte? Everything You Need to Know About Airbyte](https://medium.com/@ansam.yousry/why-airbyte-everything-you-need-to-know-about-airbyte-276be6562bc9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
