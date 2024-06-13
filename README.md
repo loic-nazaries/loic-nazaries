@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Fleet Management 2.0: Achieving Peak Performance and Fuel Efficiency](https://jvilleres3.medium.com/fleet-management-2-0-achieving-peak-performance-and-fuel-efficiency-613a2fc2ade7?source=rss------data_science-5)
-- [A Sad Statistic](https://medium.com/predict/a-sad-statistic-5e61c4768416?source=rss------data_science-5)
-- [Funções do 1 e 2 Graus](https://medium.com/@reisvictor16/fun%C3%A7%C3%B5es-do-1-e-2-graus-87a467cde5af?source=rss------data_science-5)
-- [MLOps: Building a CI/CD Pipeline for Machine Learning Models](https://blog.stackademic.com/mlops-building-a-ci-cd-pipeline-for-machine-learning-models-c4229552c513?source=rss------data_science-5)
-- [شماره خاله بجنورد شماره خاله اسفراین شماره خاله اشخانه شماره خاله فاروج شماره خاله گرمه شماره خاله…](https://medium.com/@nazypwrsmyra/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B4%D8%AE%D8%A7%D9%86%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%81%D8%A7%D8%B1%D9%88%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%D9%85%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-47228969cacb?source=rss------data_science-5)
-- [The NFT market has grown rapidly, but counterfeit assets pose a significant threat.](https://medium.com/@noahimumolen/the-nft-market-has-grown-rapidly-but-counterfeit-assets-pose-a-significant-threat-c187e12f81af?source=rss------data_science-5)
-- [شماره خاله بجنورد شماره خاله اسفراین شماره خاله اشخانه شماره خاله فاروج شماره خاله گرمه شماره خاله…](https://medium.com/@nazypwrsmyra/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B4%D8%AE%D8%A7%D9%86%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%81%D8%A7%D8%B1%D9%88%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%D9%85%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-585068769041?source=rss------data_science-5)
-- [Introduction to Objective Bayesian Hypothesis Testing](https://towardsdatascience.com/introduction-to-objective-bayesian-hypothesis-testing-06c9e98eb90b?source=rss------data_science-5)
-- [The Trancas Case: An Incredible Close Encounter of the Third Kind](https://medium.com/@UnexplainedFiles1/the-trancas-case-an-incredible-close-encounter-of-the-third-kind-ef7271e150c2?source=rss------data_science-5)
-- [Evakuator şirketi 055 971 01 31 evakuasiya Evakuator Evakuator dayman xidmeti manipulyator  xidməti…](https://medium.com/@isa5703339/evakuator-%C5%9Firketi-055-971-01-31-evakuasiya-evakuator-evakuator-dayman-xidmeti-manipulyator-xidm%C9%99ti-5536b4536aaa?source=rss------data_science-5)
+- [Who lives in this dome on Mars?](https://medium.com/@worldofmystery/who-lives-in-this-dome-on-mars-2cdbe9f8ca05?source=rss------data_science-5)
+- [AI Agent Unit Testing in Langfuse](https://towardsdatascience.com/ai-agent-unit-testing-in-langfuse-00d21a680ddc?source=rss------data_science-5)
+- [شماره خاله](https://medium.com/@jfjnxj386/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-10f1c3c0e621?source=rss------data_science-5)
+- [Cash Assist loan C U S T O M E R care number _7569714050–⚔️//⚔️//7569714050/Cash Assist loan C U S…](https://medium.com/@rajakhan0987612/cash-assist-loan-c-u-s-t-o-m-e-r-care-number-7569714050-%EF%B8%8F-%EF%B8%8F-7569714050-cash-assist-loan-c-u-s-4b31c9eb50fc?source=rss------data_science-5)
+- [Cash Assist loan C U S T O M E R care number _7569714050–⚔️//⚔️//7569714050/Cash Assist loan C U S…](https://medium.com/@rajakhan0987612/cash-assist-loan-c-u-s-t-o-m-e-r-care-number-7569714050-%EF%B8%8F-%EF%B8%8F-7569714050-cash-assist-loan-c-u-s-98372e8f019c?source=rss------data_science-5)
+- [The Ancestor of Days: Deity or Mana Machine?](https://medium.com/@UnexplainedFiles1/the-ancestor-of-days-deity-or-mana-machine-32f43c08176e?source=rss------data_science-5)
+- [What is Row-Level Concurrency in Databricks?](https://medium.com/@urazaliev_f/what-is-row-level-concurrency-in-databricks-419236d66140?source=rss------data_science-5)
+- [Transformative Innovation:](https://internetdigitalentrepreneur.medium.com/transformative-innovation-8d779349c7ad?source=rss------data_science-5)
+- [Cutting-Edge Methods for Saving Your Computer from Melting Down with large Datasets in Python](https://medium.com/@ivanrseptian/cutting-edge-methods-for-saving-your-computer-from-melting-down-with-large-datasets-in-python-8173ea970c40?source=rss------data_science-5)
+- [NBA Finals Score Prediction for Star Players](https://dingjamma.medium.com/nba-finals-score-prediction-for-star-players-5c1165641127?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
