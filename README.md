@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [Let’s Revisit Case-When in Different Libraries Including the New Player: Pandas](https://towardsdatascience.com/lets-revisit-case-when-in-different-libraries-including-the-new-player-pandas-8c4febb979ba?source=rss-2cf6b549448------2)
 - [2 Silent PySpark Mistakes You Should Be Aware Of](https://towardsdatascience.com/2-silent-pyspark-mistakes-you-should-be-aware-of-de52c3a188c4?source=rss-2cf6b549448------2)
 - [4 Examples to Take Your PySpark Skills to Next Level](https://towardsdatascience.com/4-examples-to-take-your-pyspark-skills-to-next-level-2a04cbe6e630?source=rss-2cf6b549448------2)
 - [5 Examples to Master PySpark Window Operations](https://towardsdatascience.com/5-examples-to-master-pyspark-window-operations-26583066e227?source=rss-2cf6b549448------2)
 - [4 Functions to Know If You Are Planning to Switch from Pandas to Polars](https://towardsdatascience.com/4-functions-to-know-if-you-are-planning-to-switch-from-pandas-to-polars-094a04bb4ec8?source=rss-2cf6b549448------2)
-- [3 Cool Things You Can Do With Python Standard Library](https://sonery.medium.com/3-cool-things-you-can-do-with-python-standard-library-35f773019497?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
