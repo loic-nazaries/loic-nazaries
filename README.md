@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [**Revolutionizing Industry: How I3AS, Web3, Blockchain, and Tokenization are Shaping the Future**](https://medium.com/@bretthaack/revolutionizing-industry-how-i3as-web3-blockchain-and-tokenization-are-shaping-the-future-90c5373836d8?source=rss------data_science-5)
-- [Simplifying Simple Linear Regression](https://medium.com/@akshaj0910/simplifying-simple-linear-regression-d02396a16fab?source=rss------data_science-5)
-- [Mastering Density Plots and Estimates in Data Science and Statistics: Comprehensive Guide with…](https://medium.com/analytics-mastery/mastering-density-plots-and-estimates-in-data-science-and-statistics-comprehensive-guide-with-15e2d8407451?source=rss------data_science-5)
-- [Things I wish I knew before becoming a Data Analyst](https://medium.com/@asma.sithi/things-i-wish-i-knew-before-becoming-a-data-analyst-9dc92d0a3fdc?source=rss------data_science-5)
-- [O Erro Secreto: O Erro Tipo M em Testes A/B](https://matcomdados.medium.com/o-erro-secreto-o-erro-tipo-m-em-testes-a-b-e5593833bc01?source=rss------data_science-5)
-- [Embedding-Based Retrieval: Our Journey and Learnings around Semantic Search at Faire](https://craft.faire.com/embedding-based-retrieval-our-journey-and-learnings-around-semantic-search-at-faire-2aa44f969994?source=rss------data_science-5)
-- [Navigating the Green Frontier: Revolutionizing Enterprise Cloud Architecture with FinOps](https://medium.com/azure-cloud/navigating-the-green-frontier-revolutionizing-enterprise-cloud-architecture-with-finops-b81bb13b6f27?source=rss------data_science-5)
-- [Data Analysis: Basic Concepts and Processes](https://medium.com/@durmazerefnan/data-analysis-basic-concepts-and-processes-1339053d2461?source=rss------data_science-5)
-- [5 Tips before start your next Data &amp; Analytics Projects](https://medium.com/@filipespacheco/5-tips-before-start-your-next-data-analytics-projects-0d177c5212cf?source=rss------data_science-5)
-- [The Anatomy of Black Swans](https://avi-loeb.medium.com/the-anatomy-of-black-swans-0a98f85771c0?source=rss------data_science-5)
+- [New radar images recently disclosed depict a UFO encircling a US Navy vessel.](https://medium.com/@worldofmystery/new-radar-images-recently-disclosed-depict-a-ufo-encircling-a-us-navy-vessel-fb5c2871ce65?source=rss------data_science-5)
+- [Leveraging ChatGPT in the Daily Life of a Data Scientist](https://medium.com/gumgum-tech/leveraging-chatgpt-in-the-daily-life-of-a-data-scientist-531cd1bb6f97?source=rss------data_science-5)
+- [Gold pocket loan customer care helpline number*/7749018543*//9205106447 call me now anytime for any…](https://medium.com/@rsfhgfyv/gold-pocket-loan-customer-care-helpline-number-7749018543-9205106447-call-me-now-anytime-for-any-2f562be6e197?source=rss------data_science-5)
+- [Gold pocket loan customer care helpline number*/7749018543*//9205106447 call me now anytime for any…](https://medium.com/@rsfhgfyv/gold-pocket-loan-customer-care-helpline-number-7749018543-9205106447-call-me-now-anytime-for-any-5ea2e21380a7?source=rss------data_science-5)
+- [Gold pocket loan customer care helpline number*/7749018543*//9205106447 call me now anytime for any…](https://medium.com/@rsfhgfyv/gold-pocket-loan-customer-care-helpline-number-7749018543-9205106447-call-me-now-anytime-for-any-5df8badca6d4?source=rss------data_science-5)
+- [Gold pocket loan customer care helpline number*/7749018543*//9205106447 call me now anytime for any…](https://medium.com/@rsfhgfyv/gold-pocket-loan-customer-care-helpline-number-7749018543-9205106447-call-me-now-anytime-for-any-bf955e61aaca?source=rss------data_science-5)
+- [Gold pocket loan customer care helpline number*/7749018543*//9205106447 call me now anytime for any…](https://medium.com/@rsfhgfyv/gold-pocket-loan-customer-care-helpline-number-7749018543-9205106447-call-me-now-anytime-for-any-172ef928e8f2?source=rss------data_science-5)
+- [Gold pocket loan customer care helpline number*/7749018543*//9205106447 call me now anytime for any…](https://medium.com/@rsfhgfyv/gold-pocket-loan-customer-care-helpline-number-7749018543-9205106447-call-me-now-anytime-for-any-19b22547346e?source=rss------data_science-5)
+- [Gold pocket loan customer care helpline number*/7749018543*//9205106447 call me now anytime for any…](https://medium.com/@rsfhgfyv/gold-pocket-loan-customer-care-helpline-number-7749018543-9205106447-call-me-now-anytime-for-any-9af324088864?source=rss------data_science-5)
+- [Gold pocket loan customer care helpline number*/7749018543*//9205106447 call me now anytime for any…](https://medium.com/@rsfhgfyv/gold-pocket-loan-customer-care-helpline-number-7749018543-9205106447-call-me-now-anytime-for-any-be6d25ce25a8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
