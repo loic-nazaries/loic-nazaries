@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Imbee fund loan Customer Care Helpline Number &lpar;❾❼❸&rpar; Toll-Free +// 9330325413//Call +// 8797981120…](https://medium.com/@kumeb/imbee-fund-loan-customer-care-helpline-number-%E2%9D%BE%E2%9D%BC%E2%9D%B8-toll-free-9330325413-call-8797981120-83c5b9e24ed6?source=rss------data_science-5)
-- [Imbee fund loan Customer Care Helpline Number &lpar;❾❼❸&rpar; Toll-Free +// 9330325413//Call +// 8797981120…](https://medium.com/@kumeb/imbee-fund-loan-customer-care-helpline-number-%E2%9D%BE%E2%9D%BC%E2%9D%B8-toll-free-9330325413-call-8797981120-356a88a3b0f4?source=rss------data_science-5)
-- [Imbee fund loan Customer Care Helpline Number &lpar;❾❼❸&rpar; Toll-Free +// 9330325413//Call +// 8797981120…](https://medium.com/@kumeb/imbee-fund-loan-customer-care-helpline-number-%E2%9D%BE%E2%9D%BC%E2%9D%B8-toll-free-9330325413-call-8797981120-305e94cdd71f?source=rss------data_science-5)
-- [Imbee fund loan Customer Care Helpline Number &lpar;❾❼❸&rpar; Toll-Free +// 9330325413//Call +// 8797981120…](https://medium.com/@kumeb/imbee-fund-loan-customer-care-helpline-number-%E2%9D%BE%E2%9D%BC%E2%9D%B8-toll-free-9330325413-call-8797981120-144886a475a3?source=rss------data_science-5)
-- [Imbee fund loan Customer Care Helpline Number &lpar;❾❼❸&rpar; Toll-Free +// 9330325413//Call +// 8797981120…](https://medium.com/@kumeb/imbee-fund-loan-customer-care-helpline-number-%E2%9D%BE%E2%9D%BC%E2%9D%B8-toll-free-9330325413-call-8797981120-1be5d4723e8b?source=rss------data_science-5)
-- [Imbee fund loan Customer Care Helpline Number &lpar;❾❼❸&rpar; Toll-Free +// 9330325413//Call +// 8797981120…](https://medium.com/@kumeb/imbee-fund-loan-customer-care-helpline-number-%E2%9D%BE%E2%9D%BC%E2%9D%B8-toll-free-9330325413-call-8797981120-502b726b399c?source=rss------data_science-5)
-- [Customer Churn Analysis](https://medium.com/@amaraozokwelu1512/customer-churn-analysis-340673474a88?source=rss------data_science-5)
-- [Graduating Flatiron and Thoughts Moving Forward](https://medium.com/@davidkebert1/graduating-flatiron-and-thoughts-moving-forward-784fdc5b06e2?source=rss------data_science-5)
-- [Pattern Matching: How to Substitute Characters in R Programming with The gsub&lpar;&rpar; Function](https://zimanaanalytics.medium.com/pattern-matching-how-to-substitute-characters-in-r-programming-with-the-gsub-function-5079731d067c?source=rss------data_science-5)
-- [I really appreciate the recovery support I got from {hacktechspy at gmalL com}, when I was trying…](https://medium.com/@raulandrea84/i-really-appreciate-the-recovery-support-i-got-from-hacktechspy-at-gmall-com-when-i-was-trying-ed2467bdd809?source=rss------data_science-5)
+- [The Trust Paradox: Why AI is Like That One Friend Who’s Always Late](https://medium.com/brass-for-brain/the-trust-paradox-why-ai-is-like-that-one-friend-whos-always-late-3eedd957baff?source=rss------data_science-5)
+- [Curiosity Rover Captures Cylindrical UFO in Martian Sky](https://medium.com/@worldofmystery/curiosity-rover-captures-cylindrical-ufo-in-martian-sky-ef96b3b6e240?source=rss------data_science-5)
+- [DATSCIENCE AND MACHINE LEARNING](https://medium.com/@yusufmain20070517/datscience-and-machine-learning-c841543a174f?source=rss------data_science-5)
+- [Understanding R-Squared: A Comprehensive Guide](https://medium.com/@samarthx04/understanding-r-squared-a-comprehensive-guide-5f4b043909cc?source=rss------data_science-5)
+- [Tips for building muscle: know them
+Tips for building muscle: know them
+WhatsApp, share, tweet…](https://medium.com/@rdaalmrany5/tips-for-building-muscle-know-them-tips-for-building-muscle-know-them-whatsapp-share-tweet-681c481cf9fd?source=rss------data_science-5)
+- [Did the Webb Space Telescope Capture Evidence of ‘Giant ET Motherships’ in Jupiter’s Atmosphere?](https://medium.com/@worldofmystery/did-the-webb-space-telescope-capture-evidence-of-giant-et-motherships-in-jupiter-s-atmosphere-86b92b825ba5?source=rss------data_science-5)
+- [AI Diaries: Outlines of Project](https://medium.com/@arda_fnc/ai-diaries-outlines-of-project-dca88bf82e08?source=rss------data_science-5)
+- [Gauss-Jordan Elimination: A Crucial Tool for Machine Learning Practitioners](https://ai.plainenglish.io/gauss-jordan-elimination-a-crucial-tool-for-machine-learning-practitioners-91cbd71fdeae?source=rss------data_science-5)
+- [How I Created a Kaggle-Like Platform for My Students Using Streamlit and How You Can Do It as Well](https://towardsdatascience.com/how-i-created-a-kaggle-like-platform-for-my-students-using-streamlit-and-how-you-can-do-it-as-well-5fd10671f559?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
