@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Trust Paradox: Why AI is Like That One Friend Who’s Always Late](https://medium.com/brass-for-brain/the-trust-paradox-why-ai-is-like-that-one-friend-whos-always-late-3eedd957baff?source=rss------data_science-5)
-- [Curiosity Rover Captures Cylindrical UFO in Martian Sky](https://medium.com/@worldofmystery/curiosity-rover-captures-cylindrical-ufo-in-martian-sky-ef96b3b6e240?source=rss------data_science-5)
-- [DATSCIENCE AND MACHINE LEARNING](https://medium.com/@yusufmain20070517/datscience-and-machine-learning-c841543a174f?source=rss------data_science-5)
-- [Understanding R-Squared: A Comprehensive Guide](https://medium.com/@samarthx04/understanding-r-squared-a-comprehensive-guide-5f4b043909cc?source=rss------data_science-5)
-- [Tips for building muscle: know them
-Tips for building muscle: know them
-WhatsApp, share, tweet…](https://medium.com/@rdaalmrany5/tips-for-building-muscle-know-them-tips-for-building-muscle-know-them-whatsapp-share-tweet-681c481cf9fd?source=rss------data_science-5)
-- [Did the Webb Space Telescope Capture Evidence of ‘Giant ET Motherships’ in Jupiter’s Atmosphere?](https://medium.com/@worldofmystery/did-the-webb-space-telescope-capture-evidence-of-giant-et-motherships-in-jupiter-s-atmosphere-86b92b825ba5?source=rss------data_science-5)
-- [AI Diaries: Outlines of Project](https://medium.com/@arda_fnc/ai-diaries-outlines-of-project-dca88bf82e08?source=rss------data_science-5)
-- [Gauss-Jordan Elimination: A Crucial Tool for Machine Learning Practitioners](https://ai.plainenglish.io/gauss-jordan-elimination-a-crucial-tool-for-machine-learning-practitioners-91cbd71fdeae?source=rss------data_science-5)
-- [How I Created a Kaggle-Like Platform for My Students Using Streamlit and How You Can Do It as Well](https://towardsdatascience.com/how-i-created-a-kaggle-like-platform-for-my-students-using-streamlit-and-how-you-can-do-it-as-well-5fd10671f559?source=rss------data_science-5)
+- [https://review-with-mehedi.blogspot.com/2024/06/hostdaddy-review-low-price-hosting-site_21.html](https://medium.com/@Mehedisms258456/https-review-with-mehedi-blogspot-com-2024-06-hostdaddy-review-low-price-hosting-site-21-html-1281897e8730?source=rss------data_science-5)
+- [Scope of software engineering 2024 and trending topics of software engineering 2024](https://medium.com/@adeesakhalid/scope-of-software-engineering-2024-and-trending-topics-of-software-engineering-2024-f03b3a9af923?source=rss------data_science-5)
+- [From Data to Insights: My Journey in Business Analytics and AI](https://medium.com/@mscharan2004/from-data-to-insights-my-journey-in-business-analytics-and-ai-7825cd32a9f4?source=rss------data_science-5)
+- [Top Coding School in Akure: VOKS Institute](https://medium.com/@vokstechnologies/top-coding-school-in-akure-voks-institute-a39d170aec59?source=rss------data_science-5)
+- [Top Important LLMs Papers for the Week from 10/06 to 16/06](https://yousefhosni.medium.com/top-important-llms-papers-for-the-week-from-10-06-to-16-06-0610596ae712?source=rss------data_science-5)
+- [The Role of Big Data in AI Development](https://blog.ai-evergreen.club/the-role-of-big-data-in-ai-development-ae8c5ac26da1?source=rss------data_science-5)
+- [Aliens and UFOs on the Moon And Mars](https://medium.com/@worldofmystery/aliens-and-ufos-on-the-moon-and-mars-09ffee53e355?source=rss------data_science-5)
+- [Começando pelo começo: Python](https://medium.com/@jhenyffer.tech/come%C3%A7ando-pelo-come%C3%A7o-python-bb1dae532081?source=rss------data_science-5)
+- [Dark Matter is Not Electrically Charged!](https://avi-loeb.medium.com/dark-matter-is-not-electrically-charged-c3a15ff642c3?source=rss------data_science-5)
+- [Understanding P-Value: A Comprehensive Guide](https://medium.com/@samarthx04/understanding-p-value-a-comprehensive-guide-d68a23214d9b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
