@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [https://review-with-mehedi.blogspot.com/2024/06/hostdaddy-review-low-price-hosting-site_21.html](https://medium.com/@Mehedisms258456/https-review-with-mehedi-blogspot-com-2024-06-hostdaddy-review-low-price-hosting-site-21-html-1281897e8730?source=rss------data_science-5)
-- [Scope of software engineering 2024 and trending topics of software engineering 2024](https://medium.com/@adeesakhalid/scope-of-software-engineering-2024-and-trending-topics-of-software-engineering-2024-f03b3a9af923?source=rss------data_science-5)
-- [From Data to Insights: My Journey in Business Analytics and AI](https://medium.com/@mscharan2004/from-data-to-insights-my-journey-in-business-analytics-and-ai-7825cd32a9f4?source=rss------data_science-5)
-- [Top Coding School in Akure: VOKS Institute](https://medium.com/@vokstechnologies/top-coding-school-in-akure-voks-institute-a39d170aec59?source=rss------data_science-5)
-- [Top Important LLMs Papers for the Week from 10/06 to 16/06](https://yousefhosni.medium.com/top-important-llms-papers-for-the-week-from-10-06-to-16-06-0610596ae712?source=rss------data_science-5)
-- [The Role of Big Data in AI Development](https://blog.ai-evergreen.club/the-role-of-big-data-in-ai-development-ae8c5ac26da1?source=rss------data_science-5)
-- [Aliens and UFOs on the Moon And Mars](https://medium.com/@worldofmystery/aliens-and-ufos-on-the-moon-and-mars-09ffee53e355?source=rss------data_science-5)
-- [Começando pelo começo: Python](https://medium.com/@jhenyffer.tech/come%C3%A7ando-pelo-come%C3%A7o-python-bb1dae532081?source=rss------data_science-5)
-- [Dark Matter is Not Electrically Charged!](https://avi-loeb.medium.com/dark-matter-is-not-electrically-charged-c3a15ff642c3?source=rss------data_science-5)
-- [Understanding P-Value: A Comprehensive Guide](https://medium.com/@samarthx04/understanding-p-value-a-comprehensive-guide-d68a23214d9b?source=rss------data_science-5)
+- [شماره خاله زاهدان](https://medium.com/@shmarhkhalhshyraz662/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86-111b5795445c?source=rss------data_science-5)
+- [What if we recaption billions of images?](https://medium.com/@mikeyoung_97230/what-if-we-recaption-billions-of-images-a26a06c3266b?source=rss------data_science-5)
+- [Storing and Analyzing Data by Using Amazon Redshift](https://medium.com/@2211110029/storing-and-analyzing-data-by-using-amazon-redshift-41f0b57c72df?source=rss------data_science-5)
+- [Revolutionize Your Python Code: Embrace the New Result Package for Error Handling](https://medium.com/@yuxuzi/revolutionize-your-python-code-embrace-the-new-result-package-for-error-handling-fdd463ca5b7f?source=rss------data_science-5)
+- [10 Useful Python Snippets to Code Like a Pro](https://medium.com/@Betterreads/10-useful-python-snippets-to-code-like-a-pro-47ac2b0a8834?source=rss------data_science-5)
+- [Mastering Microsoft Excel: Advanced Formulas and Functions](https://medium.com/@gnfusion/mastering-microsoft-excel-advanced-formulas-and-functions-4c7a7a919d01?source=rss------data_science-5)
+- [MLB is Getting Smarter: Braves and Yankees Set to Meet in the Bronx](https://medium.com/@dcousin/mlb-is-getting-smarter-braves-and-yankees-set-to-meet-in-the-bronx-9348fdd2ad9f?source=rss------data_science-5)
+- [Achieving Robust Model Evaluation: Harnessing the Power of Chebyshev’s Inequality](https://medium.com/codex/achieving-robust-model-evaluation-harnessing-the-power-of-chebyshevs-inequality-13c344135f62?source=rss------data_science-5)
+- [DATA SCIENCE AND SUPPLY CHAIN MANAGEMENT](https://medium.com/@badejoadedayo21/data-science-and-supply-chain-management-bcd1fef13f3b?source=rss------data_science-5)
+- [Understanding Chi-Square Test: A Comprehensive Guide](https://medium.com/@samarthx04/understanding-chi-square-test-a-comprehensive-guide-13fe309d7a87?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
