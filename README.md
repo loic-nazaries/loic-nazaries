@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [شماره خاله زاهدان](https://medium.com/@shmarhkhalhshyraz662/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86-111b5795445c?source=rss------data_science-5)
-- [What if we recaption billions of images?](https://medium.com/@mikeyoung_97230/what-if-we-recaption-billions-of-images-a26a06c3266b?source=rss------data_science-5)
-- [Storing and Analyzing Data by Using Amazon Redshift](https://medium.com/@2211110029/storing-and-analyzing-data-by-using-amazon-redshift-41f0b57c72df?source=rss------data_science-5)
-- [Revolutionize Your Python Code: Embrace the New Result Package for Error Handling](https://medium.com/@yuxuzi/revolutionize-your-python-code-embrace-the-new-result-package-for-error-handling-fdd463ca5b7f?source=rss------data_science-5)
-- [10 Useful Python Snippets to Code Like a Pro](https://medium.com/@Betterreads/10-useful-python-snippets-to-code-like-a-pro-47ac2b0a8834?source=rss------data_science-5)
-- [Mastering Microsoft Excel: Advanced Formulas and Functions](https://medium.com/@gnfusion/mastering-microsoft-excel-advanced-formulas-and-functions-4c7a7a919d01?source=rss------data_science-5)
-- [MLB is Getting Smarter: Braves and Yankees Set to Meet in the Bronx](https://medium.com/@dcousin/mlb-is-getting-smarter-braves-and-yankees-set-to-meet-in-the-bronx-9348fdd2ad9f?source=rss------data_science-5)
-- [Achieving Robust Model Evaluation: Harnessing the Power of Chebyshev’s Inequality](https://medium.com/codex/achieving-robust-model-evaluation-harnessing-the-power-of-chebyshevs-inequality-13c344135f62?source=rss------data_science-5)
-- [DATA SCIENCE AND SUPPLY CHAIN MANAGEMENT](https://medium.com/@badejoadedayo21/data-science-and-supply-chain-management-bcd1fef13f3b?source=rss------data_science-5)
-- [Understanding Chi-Square Test: A Comprehensive Guide](https://medium.com/@samarthx04/understanding-chi-square-test-a-comprehensive-guide-13fe309d7a87?source=rss------data_science-5)
+- [Certainly! Here&#39;s a concise summary of Shahid Afridi&#39;s career in five parts:](https://medium.com/@hashirbangash.11/certainly-heres-a-concise-summary-of-shahid-afridi-s-career-in-five-parts-97474793564b?source=rss------data_science-5)
+- [Window Functions Help You LOCK Level of Detail in SQL](https://medium.com/@bennettmo16/window-functions-help-you-lock-level-of-detail-in-sql-10e95625b678?source=rss------data_science-5)
+- [WESTFIELD MARION SHOPPING CENTRE INCIDENT LOCKDOWN](https://medium.com/@mrbigwealth/westfield-marion-shopping-centre-incident-lockdown-8db7e3d6abbd?source=rss------data_science-5)
+- [Creating Progressive Playmaking Values For Passing and Carrying For EURO 2024](https://medium.com/@amritvignesh/creating-progressive-playmaking-values-for-passing-and-carrying-for-euro-2024-3a01241faf1c?source=rss------data_science-5)
+- [The Cheatsheet for Solving Overfitting &amp; Under-fitting: Elevate Your Machine Learning Interview](https://medium.com/@dataducking/the-cheatsheet-for-solving-overfitting-under-fitting-elevate-your-machine-learning-interview-70c56bc79209?source=rss------data_science-5)
+- [COVID-19 Impact: Transforming Raw Data into Actionable Insights](https://medium.com/@cristophermr28/covid-19-impact-transforming-raw-data-into-actionable-insights-5183aa5ec685?source=rss------data_science-5)
+- [BitBall: Setting Expectations for the Future Post-Euros2024](https://medium.com/@daraabasiudoabba/bitball-setting-expectations-for-the-future-post-euros2024-86a7e31a6bf1?source=rss------data_science-5)
+- [How I built my first ML prediction app on Streamlit](https://medium.com/@fancythird/how-i-built-my-first-ml-prediction-app-on-streamlit-2079df053f04?source=rss------data_science-5)
+- [Master Tail Bounds Theorem for Machine Learning: Ensuring Robustness and Reliability](https://medium.com/aimonks/master-tail-bounds-theorem-for-machine-learning-ensuring-robustness-and-reliability-609254b2e15e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
