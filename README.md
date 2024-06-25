@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Certainly! Here&#39;s a concise summary of Shahid Afridi&#39;s career in five parts:](https://medium.com/@hashirbangash.11/certainly-heres-a-concise-summary-of-shahid-afridi-s-career-in-five-parts-97474793564b?source=rss------data_science-5)
-- [Window Functions Help You LOCK Level of Detail in SQL](https://medium.com/@bennettmo16/window-functions-help-you-lock-level-of-detail-in-sql-10e95625b678?source=rss------data_science-5)
-- [WESTFIELD MARION SHOPPING CENTRE INCIDENT LOCKDOWN](https://medium.com/@mrbigwealth/westfield-marion-shopping-centre-incident-lockdown-8db7e3d6abbd?source=rss------data_science-5)
-- [Creating Progressive Playmaking Values For Passing and Carrying For EURO 2024](https://medium.com/@amritvignesh/creating-progressive-playmaking-values-for-passing-and-carrying-for-euro-2024-3a01241faf1c?source=rss------data_science-5)
-- [The Cheatsheet for Solving Overfitting &amp; Under-fitting: Elevate Your Machine Learning Interview](https://medium.com/@dataducking/the-cheatsheet-for-solving-overfitting-under-fitting-elevate-your-machine-learning-interview-70c56bc79209?source=rss------data_science-5)
-- [COVID-19 Impact: Transforming Raw Data into Actionable Insights](https://medium.com/@cristophermr28/covid-19-impact-transforming-raw-data-into-actionable-insights-5183aa5ec685?source=rss------data_science-5)
-- [BitBall: Setting Expectations for the Future Post-Euros2024](https://medium.com/@daraabasiudoabba/bitball-setting-expectations-for-the-future-post-euros2024-86a7e31a6bf1?source=rss------data_science-5)
-- [How I built my first ML prediction app on Streamlit](https://medium.com/@fancythird/how-i-built-my-first-ml-prediction-app-on-streamlit-2079df053f04?source=rss------data_science-5)
-- [Master Tail Bounds Theorem for Machine Learning: Ensuring Robustness and Reliability](https://medium.com/aimonks/master-tail-bounds-theorem-for-machine-learning-ensuring-robustness-and-reliability-609254b2e15e?source=rss------data_science-5)
+- [Why My Training Loss is Higher Than Validation Loss? Is the reported Loss even accurate?](https://medium.com/@siddiqueabusaleh/why-my-training-loss-is-higher-than-validation-loss-is-the-reported-loss-even-accurate-8843e14a0756?source=rss------data_science-5)
+- [Bayesian Time Series Models: A Practitioner’s Guide to Forecasting with Confidence](https://pub.aimind.so/bayesian-time-series-models-a-practitioners-guide-to-forecasting-with-confidence-eb4263eaf97e?source=rss------data_science-5)
+- [A Data Dashboard in Pure Python with Taipy](https://towardsdatascience.com/a-data-dashboard-in-pure-python-with-taipy-bdb164a62b8b?source=rss------data_science-5)
+- [Unlocking Stock Market Predictions with Genetic Algorithms: Part 1](https://medium.com/@rohaan2614/unlocking-stock-market-predictions-with-genetic-algorithms-part-1-c9034a6a7bf3?source=rss------data_science-5)
+- [A 34,000-year-old Bosnian Pyramids and Their Ancient Technological Mysteries](https://medium.com/@UnexplainedFiles1/a-34-000-year-old-bosnian-pyramids-and-their-ancient-technological-mysteries-33b0ce5568f7?source=rss------data_science-5)
+- [From Chaos to Clarity: Transforming Unstructured Data into Usable Formats Without High-Level Python…](https://medium.com/@dhruvmojila098/from-chaos-to-clarity-transforming-unstructured-data-into-usable-formats-without-high-level-python-fb3bcf6f8c03?source=rss------data_science-5)
+- [I will do data science, machine learning, penetration testing, full-stack developer resume](https://medium.com/@samuelugiagbe476/i-will-do-data-science-machine-learning-penetration-testing-full-stack-developer-resume-3fc93e01069d?source=rss------data_science-5)
+- [From Data to Insights: How to Tell a Story with Your Data](https://medium.com/@diganta.dey/from-data-to-insights-how-to-tell-a-story-with-your-data-21fb04948537?source=rss------data_science-5)
+- [Artificial Intelligence benefits service management](https://medium.com/@martareyessuarez25/artificial-intelligence-benefits-service-management-5319eb3847e7?source=rss------data_science-5)
+- [Demián Reidel, presidential advisor: “The planets aligned for Argentina to be the fourth world…](https://medium.com/@martareyessuarez25/demi%C3%A1n-reidel-presidential-advisor-the-planets-aligned-for-argentina-to-be-the-fourth-world-a0e11d7b12cc?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
