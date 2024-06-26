@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why My Training Loss is Higher Than Validation Loss? Is the reported Loss even accurate?](https://medium.com/@siddiqueabusaleh/why-my-training-loss-is-higher-than-validation-loss-is-the-reported-loss-even-accurate-8843e14a0756?source=rss------data_science-5)
-- [Bayesian Time Series Models: A Practitioner’s Guide to Forecasting with Confidence](https://pub.aimind.so/bayesian-time-series-models-a-practitioners-guide-to-forecasting-with-confidence-eb4263eaf97e?source=rss------data_science-5)
-- [A Data Dashboard in Pure Python with Taipy](https://towardsdatascience.com/a-data-dashboard-in-pure-python-with-taipy-bdb164a62b8b?source=rss------data_science-5)
-- [Unlocking Stock Market Predictions with Genetic Algorithms: Part 1](https://medium.com/@rohaan2614/unlocking-stock-market-predictions-with-genetic-algorithms-part-1-c9034a6a7bf3?source=rss------data_science-5)
-- [A 34,000-year-old Bosnian Pyramids and Their Ancient Technological Mysteries](https://medium.com/@UnexplainedFiles1/a-34-000-year-old-bosnian-pyramids-and-their-ancient-technological-mysteries-33b0ce5568f7?source=rss------data_science-5)
-- [From Chaos to Clarity: Transforming Unstructured Data into Usable Formats Without High-Level Python…](https://medium.com/@dhruvmojila098/from-chaos-to-clarity-transforming-unstructured-data-into-usable-formats-without-high-level-python-fb3bcf6f8c03?source=rss------data_science-5)
-- [I will do data science, machine learning, penetration testing, full-stack developer resume](https://medium.com/@samuelugiagbe476/i-will-do-data-science-machine-learning-penetration-testing-full-stack-developer-resume-3fc93e01069d?source=rss------data_science-5)
-- [From Data to Insights: How to Tell a Story with Your Data](https://medium.com/@diganta.dey/from-data-to-insights-how-to-tell-a-story-with-your-data-21fb04948537?source=rss------data_science-5)
-- [Artificial Intelligence benefits service management](https://medium.com/@martareyessuarez25/artificial-intelligence-benefits-service-management-5319eb3847e7?source=rss------data_science-5)
-- [Demián Reidel, presidential advisor: “The planets aligned for Argentina to be the fourth world…](https://medium.com/@martareyessuarez25/demi%C3%A1n-reidel-presidential-advisor-the-planets-aligned-for-argentina-to-be-the-fourth-world-a0e11d7b12cc?source=rss------data_science-5)
+- [Q&amp;A With a Melbourne Data Analyst](https://medium.com/@robyn.preston_78904/q-a-with-a-melbourne-data-analyst-d5aaa54bce35?source=rss------data_science-5)
+- [AI in Fashion Design: Revolutionizing Creativity and Innovation](https://medium.com/@snigdhak.63/ai-in-fashion-design-revolutionizing-creativity-and-innovation-946671f9535e?source=rss------data_science-5)
+- [The Alien Woman Who Came To Japan In 1803](https://medium.com/@UnexplainedFiles1/the-alien-woman-who-came-to-japan-in-1803-0fbbba9c3265?source=rss------data_science-5)
+- [Cognitive Biases in Decision Intelligence](https://medium.com/@harimenon0207/cognitive-biases-in-decision-intelligence-2e7a046fa27b?source=rss------data_science-5)
+- [Decision intelligence: Peeling the layers](https://medium.com/@harimenon0207/decision-intelligence-peeling-the-layers-8bc2abe91668?source=rss------data_science-5)
+- [Daily Data 2: NYS Prison Admissions](https://medium.com/@yuseif445/daily-data-2-nys-prison-admissions-997727414ec8?source=rss------data_science-5)
+- [Contest-leaderboard problem — SQL Hacker Rank](https://medium.com/@mehrnoosh.hasanzade/contest-leaderboard-problem-sql-hacker-rank-10e5483192e8?source=rss------data_science-5)
+- [Unlocking Hidden Dimensions: The Transformative Power of Photogrammetry](https://blog.devgenius.io/unlocking-hidden-dimensions-the-transformative-power-of-photogrammetry-9a5793ce12a1?source=rss------data_science-5)
+- [Title: Unlocking Mysteries: How Children Remember Past Lives](https://medium.com/@jayadhari17/title-unlocking-mysteries-how-children-remember-past-lives-0d8eb89c8f06?source=rss------data_science-5)
+- [شماره خاله شیرازشماره 09356243900شماره خاله تهران 09356243900شماره خاله مهاباد 09356243900شماره…](https://medium.com/@mooridmryam/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2%D8%B4%D9%85%D8%A7%D8%B1%D9%87-09356243900%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09356243900%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D9%87%D8%A7%D8%A8%D8%A7%D8%AF-09356243900%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8f63b265b9ff?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
