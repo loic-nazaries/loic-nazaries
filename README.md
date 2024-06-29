@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Math Behind Risk — Part 1](https://towardsdatascience.com/the-math-behind-risk-part-1-35ed4e1f542d?source=rss------data_science-5)
-- [I Invented a Way to Speak to an AI, Keeping Your Privacy](https://towardsdatascience.com/i-invented-a-way-to-speak-to-an-ai-keeping-your-privacy-ddbca5f24e4a?source=rss------data_science-5)
-- [شماره خاله شماره خاله شیراز 09038678386](https://medium.com/@kshmarh30/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-09038678386-bc3e63824d25?source=rss------data_science-5)
-- [شماره خاله شماره خاله 09038678386](https://medium.com/@kshmarh30/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09038678386-278eb9af2aff?source=rss------data_science-5)
-- [شماره خاله شماره خاله مشهدی 09038678386](https://medium.com/@kshmarh30/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B4%D9%87%D8%AF%DB%8C-09038678386-b4574baf6d81?source=rss------data_science-5)
-- [شماره خاله  شماره خاله 09038678386](https://medium.com/@kshmarh30/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09038678386-48771ca96584?source=rss------data_science-5)
-- [How to Make Your Data Visualizations Tell a Story](https://medium.com/@sdbutalla/how-to-make-your-data-visualizations-tell-a-story-58472d40fa2d?source=rss------data_science-5)
-- [Unlocking Student Potential](https://medium.com/@steven.silvestre.2303/unlocking-student-potential-d456d77a20ea?source=rss------data_science-5)
-- [Welcome to my computer science, data analysis, analytics, science, machine learning and artificial…](https://medium.com/@coziscollections/welcome-to-my-computer-science-data-analysis-analytics-science-machine-learning-and-artificial-d49b68b9b1e3?source=rss------data_science-5)
-- [Who Will Win Euro 2024? Prediction from Data Science](https://medium.com/@maycocastellanos/who-will-win-euro-2024-prediction-from-data-science-4760519bdc1f?source=rss------data_science-5)
+- [LUCKY DRAGON GAME CUSTOMER CARE HELPLINE NUMBER 9356593039//❼❸❻❹❾❶❷❾❻❷](https://medium.com/@jctuccfig/lucky-dragon-game-customer-care-helpline-number-9356593039-%E2%9D%BC%E2%9D%B8%E2%9D%BB%E2%9D%B9%E2%9D%BE%E2%9D%B6%E2%9D%B7%E2%9D%BE%E2%9D%BB%E2%9D%B7-043f21dbd3a2?source=rss------data_science-5)
+- [LUCKY DRAGON GAME CUSTOMER CARE HELPLINE NUMBER 9356593039//❼❸❻❹❾❶❷❾❻❷](https://medium.com/@jctuccfig/lucky-dragon-game-customer-care-helpline-number-9356593039-%E2%9D%BC%E2%9D%B8%E2%9D%BB%E2%9D%B9%E2%9D%BE%E2%9D%B6%E2%9D%B7%E2%9D%BE%E2%9D%BB%E2%9D%B7-d01c1ea7a6bf?source=rss------data_science-5)
+- [Introducing Technical Report On The Titanic Passenger List](https://medium.com/@echezuvictoria/introducing-technical-report-on-the-titanic-passenger-list-c7b242111e10?source=rss------data_science-5)
+- [Deep Learning Part 2 — Neural Network and the critical Activation Functions](https://medium.com/@lokwa780/deep-learning-part-2-neural-network-and-the-critical-activation-functions-c11dca1afce6?source=rss------data_science-5)
+- [Building a LLM program using Web Scraping and RAG in Python](https://medium.com/@p.coopr09/building-a-llm-program-using-web-scraping-and-rag-in-python-981677472328?source=rss------data_science-5)
+- [ARTIFICIAL INTELLIGENCE CAN BE APPLIED IN ALL AREAS OF THE MINING INDUSTRY](https://medium.com/@martareyessuarez25/artificial-intelligence-can-be-applied-in-all-areas-of-the-mining-industry-d2f9f177b153?source=rss------data_science-5)
+- [USE OF ARTIFICIAL INTELLIGENCE NEEDS PRODUCTIVE AND REAL DATA](https://medium.com/@martareyessuarez25/use-of-artificial-intelligence-needs-productive-and-real-data-85fb946ad3a5?source=rss------data_science-5)
+- [ARTIFICIAL INTELLIGENCE IS AN ENABLER THAT ACCELERATES PROCESSES AND IMPROVE THE LEVEL OF WORK](https://medium.com/@martareyessuarez25/artificial-intelligence-is-an-enabler-that-accelerates-processes-and-improve-the-level-of-work-0c10cfd454bf?source=rss------data_science-5)
+- [Google anticipates that artificial intelligence will give people back 80% of their time](https://medium.com/@martareyessuarez25/google-anticipates-that-artificial-intelligence-will-give-people-back-80-of-their-time-e1580bbb64b7?source=rss------data_science-5)
+- [Modeling the Extinction of the Catalan Language](https://towardsdatascience.com/modeling-the-extinction-of-the-catalan-language-01eda1527f5d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
