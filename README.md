@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [شماره خاله دهدشت دهلران رامسر رامشیر شاهینشهر](https://medium.com/@mmm921533/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AF%D9%87%D8%AF%D8%B4%D8%AA-%D8%AF%D9%87%D9%84%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7%D9%85%D8%B3%D8%B1-%D8%B1%D8%A7%D9%85%D8%B4%DB%8C%D8%B1-%D8%B4%D8%A7%D9%87%DB%8C%D9%86%D8%B4%D9%87%D8%B1-0e881f0bb8fa?source=rss------data_science-5)
-- [The billion-dollar Consequence of Data Cleaning in Clinical Trials: A Case Study](https://medium.com/@joseoayala/the-billion-dollar-consequence-of-data-cleaning-in-clinical-trials-a-case-study-d05a28f55903?source=rss------data_science-5)
-- [Hello](https://medium.com/@Baghrar/hello-6ad27a3bcc25?source=rss------data_science-5)
-- [Blog #3 Internship Experience](https://medium.com/@aravde2004/blog-3-internship-experience-145111921fa6?source=rss------data_science-5)
-- [The Semigroup of Exponentially Weighted Moving Averages](https://cdsmithus.medium.com/the-semigroup-of-exponentially-weighted-moving-averages-860a3e28409d?source=rss------data_science-5)
-- [Best External Analytics Tools You Can Use with Power BI: Part 1— Amazon Web Services &lpar;AWS&rpar;](https://medium.com/technology-hits/best-external-analytics-tools-you-can-use-with-power-bi-part-1-amazon-web-services-aws-6845762c2e43?source=rss------data_science-5)
-- [Integrating Data Science and AI: Paving the Way for Next-Generation Business Models](https://kasata.medium.com/integrating-data-science-and-ai-paving-the-way-for-next-generation-business-models-15c397f9206f?source=rss------data_science-5)
-- [Effective Project Management Tips for Successful Data Science Projects](https://kasata.medium.com/effective-project-management-tips-for-successful-data-science-projects-0557fcdaf7c5?source=rss------data_science-5)
-- [Retail Sales Dataset “Analysis At First Glance”](https://medium.com/@aminahalaka/retail-sales-dataset-analysis-at-first-glance-3629ff886fc9?source=rss------data_science-5)
-- [“Investing in Health”: The Rise of MedTech](https://medium.com/@baderintejuoso/investing-in-health-the-rise-of-medtech-b97446d07811?source=rss------data_science-5)
+- [Dados: O ouro digital](https://medium.com/@lucasfmachado./dados-o-ouro-digital-a332c16d93af?source=rss------data_science-5)
+- [Computing Distant Connections in Financial Knowledge Graphs](https://medium.com/@j.joseph.rusnak/computing-distant-connections-in-financial-knowledge-graphs-59a10ddd3a41?source=rss------data_science-5)
+- [Implementation of gradient descent in linear regression using Python](https://medium.com/@algezoly2020/implementation-of-gradient-descent-in-linear-regression-using-python-b52fb26d9a04?source=rss------data_science-5)
+- [Commercializing Home Appliances with Power BI: Strategies and Analysis](https://medium.com/@castro.datas/commercializing-home-appliances-with-power-bi-strategies-and-analysis-fab300822b6c?source=rss------data_science-5)
+- [Reproducibility in academic research &lpar;1/3&rpar;: Key components of a Reproducible Research](https://medium.com/@valentin.guigon/reproducibility-in-academic-research-1-3-key-components-of-a-reproducible-research-413f27cd0886?source=rss------data_science-5)
+- [A Technical Report](https://medium.com/@izenegud/a-technical-report-da5c3541af66?source=rss------data_science-5)
+- [Dev colleagues, the Python: Data Science and Machine Learning Recipes training offers a hands-on…](https://internetdigitalentrepreneur.medium.com/dev-colleagues-the-python-data-science-and-machine-learning-recipes-training-offers-a-hands-on-85130a10ebf8?source=rss------data_science-5)
+- [Introducing ‘Think Artificial Intelligence’ by Jerry Cuomo](https://medium.com/@JerryCuomo/introducing-think-artificial-intelligence-by-jerry-cuomo-2477ef606f36?source=rss------data_science-5)
+- [Using Python with Kubernetes](https://medium.com/codex/using-python-with-kubernetes-f201ae9f9342?source=rss------data_science-5)
+- [The Tale of Two Computers: From Pockets to Palaces](https://medium.com/@nkevinmegan/the-tale-of-two-computers-from-pockets-to-palaces-0fe649eaf4e9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
