@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What everybody ought to know about a Data Scientist](https://medium.com/@manujeevanprakash/what-everybody-ought-to-know-about-a-data-scientist-407ec391f9c0?source=rss------data_science-5)
-- [AI Training Simplified: The Essential Mathematics Explained](https://towardsdatascience.com/ai-training-simplified-the-essential-mathematics-explained-3a94ebeb4a3e?source=rss------data_science-5)
-- [Iterator Types in Python: An Overview](https://medium.com/@thanhnx1209/iterator-types-in-python-an-overview-12dfcaba24be?source=rss------data_science-5)
-- [The Myth of the Perfect Partner: Lessons Learned in Modern Dating](https://medium.com/@thisisanhle/the-myth-of-the-perfect-partner-lessons-learned-in-modern-dating-7ddc480ea683?source=rss------data_science-5)
-- [Deep Dive into Python Numeric Types](https://medium.com/@thanhnx1209/deep-dive-into-python-numeric-types-b82d4828d300?source=rss------data_science-5)
-- [IndWin7 Game CusTomer Care Helpline Number/❽❾❽❶❼❼❹❹❺❽/ 8981774458 // 8981774458 ✓✓/ contact number…](https://medium.com/@thankful_opal_gnu_196/indwin7-game-customer-care-helpline-number-%E2%9D%BD%E2%9D%BE%E2%9D%BD%E2%9D%B6%E2%9D%BC%E2%9D%BC%E2%9D%B9%E2%9D%B9%E2%9D%BA%E2%9D%BD-8981774458-8981774458-contact-number-690dd2713330?source=rss------data_science-5)
-- [IndWin7 Game CusTomer Care Helpline Number/❽❾❽❶❼❼❹❹❺❽/ 8981774458 // 8981774458 ✓✓/ contact number…](https://medium.com/@thankful_opal_gnu_196/indwin7-game-customer-care-helpline-number-%E2%9D%BD%E2%9D%BE%E2%9D%BD%E2%9D%B6%E2%9D%BC%E2%9D%BC%E2%9D%B9%E2%9D%B9%E2%9D%BA%E2%9D%BD-8981774458-8981774458-contact-number-631ab0aa3157?source=rss------data_science-5)
-- [IndWin7 Game CusTomer Care Helpline Number/❽❾❽❶❼❼❹❹❺❽/ 8981774458 // 8981774458 ✓✓/ contact number…](https://medium.com/@thankful_opal_gnu_196/indwin7-game-customer-care-helpline-number-%E2%9D%BD%E2%9D%BE%E2%9D%BD%E2%9D%B6%E2%9D%BC%E2%9D%BC%E2%9D%B9%E2%9D%B9%E2%9D%BA%E2%9D%BD-8981774458-8981774458-contact-number-8572372d9e19?source=rss------data_science-5)
-- [IndWin7 Game CusTomer Care Helpline Number/❽❾❽❶❼❼❹❹❺❽/ 8981774458 // 8981774458 ✓✓/ contact number…](https://medium.com/@thankful_opal_gnu_196/indwin7-game-customer-care-helpline-number-%E2%9D%BD%E2%9D%BE%E2%9D%BD%E2%9D%B6%E2%9D%BC%E2%9D%BC%E2%9D%B9%E2%9D%B9%E2%9D%BA%E2%9D%BD-8981774458-8981774458-contact-number-050a9d71f20b?source=rss------data_science-5)
-- [IndWin7 Game CusTomer Care Helpline Number/❽❾❽❶❼❼❹❹❺❽/ 8981774458 // 8981774458 ✓✓/ contact number…](https://medium.com/@thankful_opal_gnu_196/indwin7-game-customer-care-helpline-number-%E2%9D%BD%E2%9D%BE%E2%9D%BD%E2%9D%B6%E2%9D%BC%E2%9D%BC%E2%9D%B9%E2%9D%B9%E2%9D%BA%E2%9D%BD-8981774458-8981774458-contact-number-f233c2fdd797?source=rss------data_science-5)
+- [Swap Lends Loan CUSTOMER Care Helpline Number // 7569714050 /☎️/✔️&lpar;7569714050&rpar; /☎️/…](https://medium.com/@asefa_52909/swap-lends-loan-customer-care-helpline-number-7569714050-%EF%B8%8F-%EF%B8%8F-7569714050-%EF%B8%8F-c875eaa40a5a?source=rss------data_science-5)
+- [Do they reject Artificial Intelligence?](https://medium.com/@martareyessuarez25/do-they-reject-artificial-intelligence-e9809cb54ac2?source=rss------data_science-5)
+- [Germany surprised with artificial intelligence at the Euro Cup: This is how it analyzed its…](https://medium.com/@martareyessuarez25/germany-surprised-with-artificial-intelligence-at-the-euro-cup-this-is-how-it-analyzed-its-ee30e6a5f876?source=rss------data_science-5)
+- [Web Development Wonderland: Tales of Triumph and Terrors in Code](https://medium.com/@nkevinmegan/web-development-wonderland-tales-of-triumph-and-terrors-in-code-3521862d8ced?source=rss------data_science-5)
+- [Oscar da educação, Estatística e aviões danificados](https://medium.com/@samuel197lopes/oscar-da-educa%C3%A7%C3%A3o-estat%C3%ADstica-e-avi%C3%B5es-danificados-18b6f2faf6e8?source=rss------data_science-5)
+- [My Data Analytics Tribe](https://eric-sandosham.medium.com/my-data-analytics-tribe-921590c62c61?source=rss------data_science-5)
+- [Mastering the Basics: Essential SQL Commands for Beginners](https://medium.com/@hello_34246/mastering-the-basics-essential-sql-commands-for-beginners-492a7db942b7?source=rss------data_science-5)
+- [In 333 Gsme Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me In 333 Game Customer…](https://medium.com/@ingsmecustomercarenumber/in-333-gsme-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-in-333-game-customer-d91375a14e6e?source=rss------data_science-5)
+- [In 333 Gsme Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me In 333 Game Customer…](https://medium.com/@ingsmecustomercarenumber/in-333-gsme-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-in-333-game-customer-acc130641294?source=rss------data_science-5)
+- [In 333 Gsme Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me In 333 Game Customer…](https://medium.com/@ingsmecustomercarenumber/in-333-gsme-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-in-333-game-customer-4267d4c8ac8e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
