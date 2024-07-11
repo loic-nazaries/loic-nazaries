@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Building a Standout Data Science Portfolio: A Comprehensive Guide](https://towardsdatascience.com/building-a-standout-data-science-portfolio-a-comprehensive-guide-6dabd0ec7059?source=rss------data_science-5)
-- [IMFA loan app customer care helpline number 91//- 90564991117-}9332638424 }{call Now](https://medium.com/@hjnrww/imfa-loan-app-customer-care-helpline-number-91-90564991117-9332638424-call-now-19aa222bfaba?source=rss------data_science-5)
-- [IMFA loan app customer care helpline number 91//- 90564991117-}9332638424 }{call Now](https://medium.com/@hjnrww/imfa-loan-app-customer-care-helpline-number-91-90564991117-9332638424-call-now-861d60e097b2?source=rss------data_science-5)
-- [Delta Lake Optimistic Concurrency Control — to lock or not to lock!](https://towardsdatascience.com/delta-lake-optimistic-concurrency-control-to-lock-or-not-to-lock-9b6458821a52?source=rss------data_science-5)
-- [Mastering Data Preprocessing in Python for Machine Learning](https://medium.com/@rajataha062/mastering-data-preprocessing-in-python-for-machine-learning-af54c68d4b20?source=rss------data_science-5)
-- [شماره خاله تهران شماره خاله حضوری09389632898](https://medium.com/@mrjanrjw/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C09389632898-ce897bf93b72?source=rss------data_science-5)
-- [Unleashing the Power of Pandas: A Brief Guide for Data Manipulation and Analysis in Python](https://medium.com/@areesh-ali/unleashing-the-power-of-pandas-a-brief-guide-for-data-manipulation-and-analysis-in-python-d300675f61c1?source=rss------data_science-5)
-- [Running GraphRag by Microsoft Locally for Free: The Ultimate Tutorial Part 1](https://medium.com/@lompojeanolivier/running-graphrag-by-microsoft-locally-for-free-the-ultimate-tutorial-part-1-7bd113937465?source=rss------data_science-5)
-- [The UFO Testimony To Congress: USA Has Alien Vehicles And Beings, The CIA Knows!](https://medium.com/@UnexplainedFiles1/the-ufo-testimony-to-congress-usa-has-alien-vehicles-and-beings-the-cia-knows-2e6b81d3e380?source=rss------data_science-5)
-- [Aumente sua produtividade e ganhe tempo usando automações personalizadas.](https://medium.com/@lguilhermemazeto/aumente-sua-produtividade-e-ganhe-tempo-usando-automa%C3%A7%C3%B5es-personalizadas-c4771392ce51?source=rss------data_science-5)
+- [Amazon .customer .care](https://medium.com/@saseram10763/amazon-customer-care-4f58decded6c?source=rss------data_science-5)
+- [Amazon .customer .care](https://medium.com/@saseram10763/amazon-customer-care-b73392664316?source=rss------data_science-5)
+- [Stop Coding and You’ll Be RICH](https://waqas-shami.medium.com/stop-coding-and-youll-be-rich-cd48fef09ffc?source=rss------data_science-5)
+- [Skyace Club Gsme Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me In.](https://medium.com/@fulfilled_bean_mule_155/skyace-club-gsme-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-in-46c13f320834?source=rss------data_science-5)
+- [Skyace Club Gsme Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me In.](https://medium.com/@fulfilled_bean_mule_155/skyace-club-gsme-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-in-2f1c05320c5f?source=rss------data_science-5)
+- [Skyace Club Gsme Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me In.](https://medium.com/@fulfilled_bean_mule_155/skyace-club-gsme-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-in-fdcd62f1dc1a?source=rss------data_science-5)
+- [Skyace Club Gsme Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me In.](https://medium.com/@fulfilled_bean_mule_155/skyace-club-gsme-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-in-c0673c9ed800?source=rss------data_science-5)
+- [Skyace Club Gsme Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me In.](https://medium.com/@fulfilled_bean_mule_155/skyace-club-gsme-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-in-d4e9db6d594c?source=rss------data_science-5)
+- [Skyace Club Gsme Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me In.](https://medium.com/@fulfilled_bean_mule_155/skyace-club-gsme-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-in-cec5f25e0c8a?source=rss------data_science-5)
+- [Skyace Club Gsme Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me In.](https://medium.com/@fulfilled_bean_mule_155/skyace-club-gsme-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-in-e47539bb3631?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
