@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Amazon .customer .care](https://medium.com/@saseram10763/amazon-customer-care-4f58decded6c?source=rss------data_science-5)
-- [Amazon .customer .care](https://medium.com/@saseram10763/amazon-customer-care-b73392664316?source=rss------data_science-5)
-- [Stop Coding and You’ll Be RICH](https://waqas-shami.medium.com/stop-coding-and-youll-be-rich-cd48fef09ffc?source=rss------data_science-5)
-- [Skyace Club Gsme Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me In.](https://medium.com/@fulfilled_bean_mule_155/skyace-club-gsme-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-in-46c13f320834?source=rss------data_science-5)
-- [Skyace Club Gsme Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me In.](https://medium.com/@fulfilled_bean_mule_155/skyace-club-gsme-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-in-2f1c05320c5f?source=rss------data_science-5)
-- [Skyace Club Gsme Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me In.](https://medium.com/@fulfilled_bean_mule_155/skyace-club-gsme-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-in-fdcd62f1dc1a?source=rss------data_science-5)
-- [Skyace Club Gsme Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me In.](https://medium.com/@fulfilled_bean_mule_155/skyace-club-gsme-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-in-c0673c9ed800?source=rss------data_science-5)
-- [Skyace Club Gsme Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me In.](https://medium.com/@fulfilled_bean_mule_155/skyace-club-gsme-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-in-d4e9db6d594c?source=rss------data_science-5)
-- [Skyace Club Gsme Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me In.](https://medium.com/@fulfilled_bean_mule_155/skyace-club-gsme-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-in-cec5f25e0c8a?source=rss------data_science-5)
-- [Skyace Club Gsme Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me In.](https://medium.com/@fulfilled_bean_mule_155/skyace-club-gsme-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-in-e47539bb3631?source=rss------data_science-5)
+- [Zero-Shot Learning: Bridging the Gap Between Known and Unknown](https://blog.devgenius.io/zero-shot-learning-bridging-the-gap-between-known-and-unknown-5059a7c89460?source=rss------data_science-5)
+- [Iniciación en SQL: Todo lo que Necesitas Saber para Empezar](https://medium.com/@castro.datas/iniciaci%C3%B3n-en-sql-todo-lo-que-necesitas-saber-para-empezar-4ae0a188b9a2?source=rss------data_science-5)
+- [Exploring the Wonders of Evolution- Uncovering Natures Intriguing Secrets](https://medium.com/@wrkwrkwrk86/exploring-the-wonders-of-evolution-uncovering-natures-intriguing-secrets-c0e6ade43a21?source=rss------data_science-5)
+- [Create a Network Graph in Power BI &lpar;2024 Edition&rpar;](https://datasciencenerd.us/create-a-network-graph-in-power-bi-2024-edition-2257c88dd1bf?source=rss------data_science-5)
+- [File I/O in Python: Best Practices](https://blog.scriptserpent.club/file-i-o-in-python-best-practices-241259df598e?source=rss------data_science-5)
+- [How green is your Data Centre and how is Google innovating in the cloud sustainability space?](https://medium.com/@innablr.au/how-green-is-your-data-centre-and-how-is-google-innovating-in-the-cloud-sustainability-space-ad3d9b732f7b?source=rss------data_science-5)
+- [Pioneer loan c u s t o m e r care helpline Number 9356593039 /*-/❼❸❻❹❾❶❷❾❻❷Pioneer loan c u s t o m…](https://medium.com/@jvvjjvvjjgvjhv/pioneer-loan-c-u-s-t-o-m-e-r-care-helpline-number-9356593039-%E2%9D%BC%E2%9D%B8%E2%9D%BB%E2%9D%B9%E2%9D%BE%E2%9D%B6%E2%9D%B7%E2%9D%BE%E2%9D%BB%E2%9D%B7pioneer-loan-c-u-s-t-o-m-d4cf0d3b3e39?source=rss------data_science-5)
+- [Effective Management and Execution of Machine Learning Projects](https://kasata.medium.com/effective-management-and-execution-of-machine-learning-projects-828cd4f720fd?source=rss------data_science-5)
+- [How to Make Your Machine Learning Application Stand Out: 6 Practical Tips](https://medium.com/latinxinai/how-to-make-your-machine-learning-application-stand-out-6-practical-tips-6fdc3f633c77?source=rss------data_science-5)
+- [Pioneer loan c u s t o m e r care helpline Number 9356593039 /*-/❼❸❻❹❾❶❷❾❻❷Pioneer loan c u s t o m…](https://medium.com/@manisha_9780/pioneer-loan-c-u-s-t-o-m-e-r-care-helpline-number-9356593039-%E2%9D%BC%E2%9D%B8%E2%9D%BB%E2%9D%B9%E2%9D%BE%E2%9D%B6%E2%9D%B7%E2%9D%BE%E2%9D%BB%E2%9D%B7pioneer-loan-c-u-s-t-o-m-f0e4d5209557?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
