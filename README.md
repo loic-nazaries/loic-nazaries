@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Zero-Shot Learning: Bridging the Gap Between Known and Unknown](https://blog.devgenius.io/zero-shot-learning-bridging-the-gap-between-known-and-unknown-5059a7c89460?source=rss------data_science-5)
-- [Iniciación en SQL: Todo lo que Necesitas Saber para Empezar](https://medium.com/@castro.datas/iniciaci%C3%B3n-en-sql-todo-lo-que-necesitas-saber-para-empezar-4ae0a188b9a2?source=rss------data_science-5)
-- [Exploring the Wonders of Evolution- Uncovering Natures Intriguing Secrets](https://medium.com/@wrkwrkwrk86/exploring-the-wonders-of-evolution-uncovering-natures-intriguing-secrets-c0e6ade43a21?source=rss------data_science-5)
-- [Create a Network Graph in Power BI &lpar;2024 Edition&rpar;](https://datasciencenerd.us/create-a-network-graph-in-power-bi-2024-edition-2257c88dd1bf?source=rss------data_science-5)
-- [File I/O in Python: Best Practices](https://blog.scriptserpent.club/file-i-o-in-python-best-practices-241259df598e?source=rss------data_science-5)
-- [How green is your Data Centre and how is Google innovating in the cloud sustainability space?](https://medium.com/@innablr.au/how-green-is-your-data-centre-and-how-is-google-innovating-in-the-cloud-sustainability-space-ad3d9b732f7b?source=rss------data_science-5)
-- [Pioneer loan c u s t o m e r care helpline Number 9356593039 /*-/❼❸❻❹❾❶❷❾❻❷Pioneer loan c u s t o m…](https://medium.com/@jvvjjvvjjgvjhv/pioneer-loan-c-u-s-t-o-m-e-r-care-helpline-number-9356593039-%E2%9D%BC%E2%9D%B8%E2%9D%BB%E2%9D%B9%E2%9D%BE%E2%9D%B6%E2%9D%B7%E2%9D%BE%E2%9D%BB%E2%9D%B7pioneer-loan-c-u-s-t-o-m-d4cf0d3b3e39?source=rss------data_science-5)
-- [Effective Management and Execution of Machine Learning Projects](https://kasata.medium.com/effective-management-and-execution-of-machine-learning-projects-828cd4f720fd?source=rss------data_science-5)
-- [How to Make Your Machine Learning Application Stand Out: 6 Practical Tips](https://medium.com/latinxinai/how-to-make-your-machine-learning-application-stand-out-6-practical-tips-6fdc3f633c77?source=rss------data_science-5)
-- [Pioneer loan c u s t o m e r care helpline Number 9356593039 /*-/❼❸❻❹❾❶❷❾❻❷Pioneer loan c u s t o m…](https://medium.com/@manisha_9780/pioneer-loan-c-u-s-t-o-m-e-r-care-helpline-number-9356593039-%E2%9D%BC%E2%9D%B8%E2%9D%BB%E2%9D%B9%E2%9D%BE%E2%9D%B6%E2%9D%B7%E2%9D%BE%E2%9D%BB%E2%9D%B7pioneer-loan-c-u-s-t-o-m-f0e4d5209557?source=rss------data_science-5)
+- [You Don’t Need an LLM Agent](https://towardsdatascience.com/you-dont-need-an-llm-agent-333bf0eb1019?source=rss------data_science-5)
+- [Getting Started with SQL: Everything You Need to Know to Begin](https://medium.com/@castro.datas/getting-started-with-sql-everything-you-need-to-know-to-begin-af464d2dbcee?source=rss------data_science-5)
+- [Shift Left approach in GenAI application development life cycle](https://medium.com/@praveengovi/shift-left-approach-in-genai-development-life-cycle-c77752a19127?source=rss------data_science-5)
+- [Exploring Pingouin: A Comprehensive Statistical Package for Python](https://medium.com/@amanjoshi1399/exploring-pingouin-a-comprehensive-statistical-package-for-python-66abfd4b420a?source=rss------data_science-5)
+- [Linear Regression Modeling: NFL Play-By-Play Win Probability](https://medium.com/@aishaneew/linear-regression-modeling-nfl-play-by-play-win-probability-d4a8343b3d1b?source=rss------data_science-5)
+- [Leaked Photo shed light on Pentagon’s UFO-Tracking Activities](https://medium.com/@UnexplainedFiles1/leaked-photo-shed-light-on-pentagons-ufo-tracking-activities-b243ba3007ed?source=rss------data_science-5)
+- [Understanding AI: A Comprehensive Guide](https://blog.ai-evergreen.club/understanding-ai-a-comprehensive-guide-005aaa8e44ef?source=rss------data_science-5)
+- [Are We Half Dead While Sleeping?](https://medium.com/@mshayankyz/are-we-half-dead-while-sleeping-9a181b1d325e?source=rss------data_science-5)
+- [Polynomial Regression comparison on Advertising data](https://medium.com/devtechie/polynomial-regression-comparison-on-advertising-data-e0382b5c8091?source=rss------data_science-5)
+- [Clash of Titans: State of Play and Xbox Games Showcase](https://medium.com/@sheltonelias992/clash-of-titans-state-of-play-and-xbox-games-showcase-302693239a4b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
