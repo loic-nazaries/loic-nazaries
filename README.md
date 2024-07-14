@@ -105,16 +105,40 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [You Don’t Need an LLM Agent](https://towardsdatascience.com/you-dont-need-an-llm-agent-333bf0eb1019?source=rss------data_science-5)
-- [Getting Started with SQL: Everything You Need to Know to Begin](https://medium.com/@castro.datas/getting-started-with-sql-everything-you-need-to-know-to-begin-af464d2dbcee?source=rss------data_science-5)
-- [Shift Left approach in GenAI application development life cycle](https://medium.com/@praveengovi/shift-left-approach-in-genai-development-life-cycle-c77752a19127?source=rss------data_science-5)
-- [Exploring Pingouin: A Comprehensive Statistical Package for Python](https://medium.com/@amanjoshi1399/exploring-pingouin-a-comprehensive-statistical-package-for-python-66abfd4b420a?source=rss------data_science-5)
-- [Linear Regression Modeling: NFL Play-By-Play Win Probability](https://medium.com/@aishaneew/linear-regression-modeling-nfl-play-by-play-win-probability-d4a8343b3d1b?source=rss------data_science-5)
-- [Leaked Photo shed light on Pentagon’s UFO-Tracking Activities](https://medium.com/@UnexplainedFiles1/leaked-photo-shed-light-on-pentagons-ufo-tracking-activities-b243ba3007ed?source=rss------data_science-5)
-- [Understanding AI: A Comprehensive Guide](https://blog.ai-evergreen.club/understanding-ai-a-comprehensive-guide-005aaa8e44ef?source=rss------data_science-5)
-- [Are We Half Dead While Sleeping?](https://medium.com/@mshayankyz/are-we-half-dead-while-sleeping-9a181b1d325e?source=rss------data_science-5)
-- [Polynomial Regression comparison on Advertising data](https://medium.com/devtechie/polynomial-regression-comparison-on-advertising-data-e0382b5c8091?source=rss------data_science-5)
-- [Clash of Titans: State of Play and Xbox Games Showcase](https://medium.com/@sheltonelias992/clash-of-titans-state-of-play-and-xbox-games-showcase-302693239a4b?source=rss------data_science-5)
+- [Como entender o Impacto da Tecnologia na Produtividade na Educação?](https://medium.com/@profgerlancsilva/como-entender-o-impacto-da-tecnologia-na-produtividade-na-educa%C3%A7%C3%A3o-04fcb74ee64c?source=rss------data_science-5)
+- [MLOps](https://medium.com/@akshayhitendrashah/mlops-48900a25868a?source=rss------data_science-5)
+- [What Makes A Good Data Science Leader?](https://jthedatascientist.medium.com/what-makes-a-good-data-science-leader-7ebe08a808c8?source=rss------data_science-5)
+- [شماره خاله لار
+شماره کوص لار
+شماره جنده لار
+شماره داف لار
+شماره سکس لار](https://medium.com/@zdzd3002/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D9%84%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D9%84%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D9%84%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D9%84%D8%A7%D8%B1-0a201c757ec6?source=rss------data_science-5)
+- [شماره خاله گناباد
+شماره کوص گناباد
+شماره جنده گناباد
+شماره داف گناباد
+شماره سکس گناباد](https://medium.com/@zdzd3002/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-b4298ff196b4?source=rss------data_science-5)
+- [شماره خاله گلدشت
+شماره کوص گلدشت
+شماره جنده گلدشت
+شماره داف گلدشت 
+شماره سکس گلدشت](https://medium.com/@zdzd3002/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D9%84%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%DA%AF%D9%84%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%DA%AF%D9%84%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%DA%AF%D9%84%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%DA%AF%D9%84%D8%AF%D8%B4%D8%AA-8babb3619907?source=rss------data_science-5)
+- [شماره خاله گرمسار
+شماره کوص گرمسار
+شماره جنده گرمسار
+شماره داف گرمسار
+شماره سکس گرمسار](https://medium.com/@zdzd3002/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1-1dabd9e098a5?source=rss------data_science-5)
+- [The Problem with ESG](https://eric-sandosham.medium.com/the-problem-with-esg-722f43f0e356?source=rss------data_science-5)
+- [شماره خاله چابکسر
+شماره کوص چابکسر
+شماره جنده چابکسر
+شماره داف چابکسر
+شماره سکس چابکسر](https://medium.com/@zdzd3002/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%86%D8%A7%D8%A8%DA%A9%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%DA%86%D8%A7%D8%A8%DA%A9%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%DA%86%D8%A7%D8%A8%DA%A9%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%DA%86%D8%A7%D8%A8%DA%A9%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%DA%86%D8%A7%D8%A8%DA%A9%D8%B3%D8%B1-3735323814a3?source=rss------data_science-5)
+- [شماره خاله چالوس
+شماره کوص چالوس
+شماره جنده چالوس
+شماره داف چالوس
+شماره سکس چالوس](https://medium.com/@zdzd3002/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%86%D8%A7%D9%84%D9%88%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%DA%86%D8%A7%D9%84%D9%88%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%DA%86%D8%A7%D9%84%D9%88%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%DA%86%D8%A7%D9%84%D9%88%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%DA%86%D8%A7%D9%84%D9%88%D8%B3-6bca84b58820?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
