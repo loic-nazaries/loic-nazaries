@@ -105,40 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Como entender o Impacto da Tecnologia na Produtividade na Educação?](https://medium.com/@profgerlancsilva/como-entender-o-impacto-da-tecnologia-na-produtividade-na-educa%C3%A7%C3%A3o-04fcb74ee64c?source=rss------data_science-5)
-- [MLOps](https://medium.com/@akshayhitendrashah/mlops-48900a25868a?source=rss------data_science-5)
-- [What Makes A Good Data Science Leader?](https://jthedatascientist.medium.com/what-makes-a-good-data-science-leader-7ebe08a808c8?source=rss------data_science-5)
-- [شماره خاله لار
-شماره کوص لار
-شماره جنده لار
-شماره داف لار
-شماره سکس لار](https://medium.com/@zdzd3002/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D9%84%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D9%84%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D9%84%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D9%84%D8%A7%D8%B1-0a201c757ec6?source=rss------data_science-5)
-- [شماره خاله گناباد
-شماره کوص گناباد
-شماره جنده گناباد
-شماره داف گناباد
-شماره سکس گناباد](https://medium.com/@zdzd3002/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-b4298ff196b4?source=rss------data_science-5)
-- [شماره خاله گلدشت
-شماره کوص گلدشت
-شماره جنده گلدشت
-شماره داف گلدشت 
-شماره سکس گلدشت](https://medium.com/@zdzd3002/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D9%84%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%DA%AF%D9%84%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%DA%AF%D9%84%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%DA%AF%D9%84%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%DA%AF%D9%84%D8%AF%D8%B4%D8%AA-8babb3619907?source=rss------data_science-5)
-- [شماره خاله گرمسار
-شماره کوص گرمسار
-شماره جنده گرمسار
-شماره داف گرمسار
-شماره سکس گرمسار](https://medium.com/@zdzd3002/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1-1dabd9e098a5?source=rss------data_science-5)
-- [The Problem with ESG](https://eric-sandosham.medium.com/the-problem-with-esg-722f43f0e356?source=rss------data_science-5)
-- [شماره خاله چابکسر
-شماره کوص چابکسر
-شماره جنده چابکسر
-شماره داف چابکسر
-شماره سکس چابکسر](https://medium.com/@zdzd3002/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%86%D8%A7%D8%A8%DA%A9%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%DA%86%D8%A7%D8%A8%DA%A9%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%DA%86%D8%A7%D8%A8%DA%A9%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%DA%86%D8%A7%D8%A8%DA%A9%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%DA%86%D8%A7%D8%A8%DA%A9%D8%B3%D8%B1-3735323814a3?source=rss------data_science-5)
-- [شماره خاله چالوس
-شماره کوص چالوس
-شماره جنده چالوس
-شماره داف چالوس
-شماره سکس چالوس](https://medium.com/@zdzd3002/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%86%D8%A7%D9%84%D9%88%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%DA%86%D8%A7%D9%84%D9%88%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%DA%86%D8%A7%D9%84%D9%88%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%DA%86%D8%A7%D9%84%D9%88%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%DA%86%D8%A7%D9%84%D9%88%D8%B3-6bca84b58820?source=rss------data_science-5)
+- [The Unsung Heroes of the Data Revolution: Data Analysts as Storytellers](https://medium.com/@jeffcheung115231/the-unsung-heroes-of-the-data-revolution-data-analysts-as-storytellers-6b6bb4fb7a51?source=rss------data_science-5)
+- [شماره خاله کاشان09933670272شماره خاله شاهین شهرشماره خاله شاهین دژشماره خاله نطنزشماره خاله…](https://medium.com/@shomarekhalenasimahar/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%A7%D8%B4%D8%A7%D9%8609933670272%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D8%B4%D9%87%D8%B1%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D8%AF%DA%98%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%D8%B7%D9%86%D8%B2%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-0736854908ed?source=rss------data_science-5)
+- [شماره خاله کاشان09933670272شماره خاله شاهین شهرشماره خاله شاهین دژشماره خاله نطنز](https://medium.com/@shomarekhalenasimahar/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%A7%D8%B4%D8%A7%D9%8609933670272%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D8%B4%D9%87%D8%B1%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D8%AF%DA%98%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%D8%B7%D9%86%D8%B2-055233380e1c?source=rss------data_science-5)
+- [Beating the Odds: The Mathematics Behind Casino Profits](https://medium.com/@ezhillragesh/beating-the-odds-the-mathematics-behind-casino-profits-4ee5543edf7e?source=rss------data_science-5)
+- [How to master effective Charts: Scatter, Histogram, Area, Map &amp; Gantt](https://medium.com/@amitkr209/visualization-3-ecab09c3037b?source=rss------data_science-5)
+- [#خوشگل #خوشگلای_ایران #خوشگلا_باید_برقصن #خوشگلترین_دختر #خوشگلترین #دخترخوشگل #خوشگلا #خوشگلم…](https://medium.com/@sthrany33/%D8%AE%D9%88%D8%B4%DA%AF%D9%84-%D8%AE%D9%88%D8%B4%DA%AF%D9%84%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AE%D9%88%D8%B4%DA%AF%D9%84%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D8%B1%D9%82%D8%B5%D9%86-%D8%AE%D9%88%D8%B4%DA%AF%D9%84%D8%AA%D8%B1%DB%8C%D9%86-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%AE%D9%88%D8%B4%DA%AF%D9%84%D8%AA%D8%B1%DB%8C%D9%86-%D8%AF%D8%AE%D8%AA%D8%B1%D8%AE%D9%88%D8%B4%DA%AF%D9%84-%D8%AE%D9%88%D8%B4%DA%AF%D9%84%D8%A7-%D8%AE%D9%88%D8%B4%DA%AF%D9%84%D9%85-e623388b30ab?source=rss------data_science-5)
+- [Metro İstasyonlarından Galaya: WTWY&#39;nin Veriye Dayalı Yaklaşımı](https://medium.com/@berkeilbay/metro-i%CC%87stasyonlar%C4%B1ndan-galaya-wtwynin-veriye-dayal%C4%B1-yakla%C5%9F%C4%B1m%C4%B1-11e0261e9ee4?source=rss------data_science-5)
+- [The Python Atmosphere Day 1: Web Scraping Tools](https://medium.com/@apokolipsu/the-python-atmosphere-day-1-web-scraping-tools-8bfeb7dc8cee?source=rss------data_science-5)
+- [SoftMax Layer — Confidence to the output](https://medium.com/@shilpathota1408/softmax-layer-confidence-to-the-output-96cbd79b55d6?source=rss------data_science-5)
+- [How 6 Methods REVAMPED The Long Failing West African High School Experiments](https://medium.com/@faithutuat/how-6-methods-revamped-the-long-failing-west-african-high-school-experiments-aedee3b84211?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
