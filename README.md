@@ -105,16 +105,32 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Unsung Heroes of the Data Revolution: Data Analysts as Storytellers](https://medium.com/@jeffcheung115231/the-unsung-heroes-of-the-data-revolution-data-analysts-as-storytellers-6b6bb4fb7a51?source=rss------data_science-5)
-- [شماره خاله کاشان09933670272شماره خاله شاهین شهرشماره خاله شاهین دژشماره خاله نطنزشماره خاله…](https://medium.com/@shomarekhalenasimahar/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%A7%D8%B4%D8%A7%D9%8609933670272%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D8%B4%D9%87%D8%B1%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D8%AF%DA%98%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%D8%B7%D9%86%D8%B2%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-0736854908ed?source=rss------data_science-5)
-- [شماره خاله کاشان09933670272شماره خاله شاهین شهرشماره خاله شاهین دژشماره خاله نطنز](https://medium.com/@shomarekhalenasimahar/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%A7%D8%B4%D8%A7%D9%8609933670272%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D8%B4%D9%87%D8%B1%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D8%AF%DA%98%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%D8%B7%D9%86%D8%B2-055233380e1c?source=rss------data_science-5)
-- [Beating the Odds: The Mathematics Behind Casino Profits](https://medium.com/@ezhillragesh/beating-the-odds-the-mathematics-behind-casino-profits-4ee5543edf7e?source=rss------data_science-5)
-- [How to master effective Charts: Scatter, Histogram, Area, Map &amp; Gantt](https://medium.com/@amitkr209/visualization-3-ecab09c3037b?source=rss------data_science-5)
-- [#خوشگل #خوشگلای_ایران #خوشگلا_باید_برقصن #خوشگلترین_دختر #خوشگلترین #دخترخوشگل #خوشگلا #خوشگلم…](https://medium.com/@sthrany33/%D8%AE%D9%88%D8%B4%DA%AF%D9%84-%D8%AE%D9%88%D8%B4%DA%AF%D9%84%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AE%D9%88%D8%B4%DA%AF%D9%84%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D8%B1%D9%82%D8%B5%D9%86-%D8%AE%D9%88%D8%B4%DA%AF%D9%84%D8%AA%D8%B1%DB%8C%D9%86-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%AE%D9%88%D8%B4%DA%AF%D9%84%D8%AA%D8%B1%DB%8C%D9%86-%D8%AF%D8%AE%D8%AA%D8%B1%D8%AE%D9%88%D8%B4%DA%AF%D9%84-%D8%AE%D9%88%D8%B4%DA%AF%D9%84%D8%A7-%D8%AE%D9%88%D8%B4%DA%AF%D9%84%D9%85-e623388b30ab?source=rss------data_science-5)
-- [Metro İstasyonlarından Galaya: WTWY&#39;nin Veriye Dayalı Yaklaşımı](https://medium.com/@berkeilbay/metro-i%CC%87stasyonlar%C4%B1ndan-galaya-wtwynin-veriye-dayal%C4%B1-yakla%C5%9F%C4%B1m%C4%B1-11e0261e9ee4?source=rss------data_science-5)
-- [The Python Atmosphere Day 1: Web Scraping Tools](https://medium.com/@apokolipsu/the-python-atmosphere-day-1-web-scraping-tools-8bfeb7dc8cee?source=rss------data_science-5)
-- [SoftMax Layer — Confidence to the output](https://medium.com/@shilpathota1408/softmax-layer-confidence-to-the-output-96cbd79b55d6?source=rss------data_science-5)
-- [How 6 Methods REVAMPED The Long Failing West African High School Experiments](https://medium.com/@faithutuat/how-6-methods-revamped-the-long-failing-west-african-high-school-experiments-aedee3b84211?source=rss------data_science-5)
+- [Hello Beginners!](https://medium.com/@hola2ranjani/hello-beginners-a344892e1a80?source=rss------data_science-5)
+- [I spent 5 hours studied about DuckDB, here’s what I found](https://medium.com/@haiqingchen2020/i-spent-5-hours-studied-about-duckdb-heres-what-i-found-075be8a5ab1b?source=rss------data_science-5)
+- [Heart Disease Prediction](https://medium.com/@tayyabariasat/heart-disease-prediction-6be49de71b59?source=rss------data_science-5)
+- [Discover Boston’s Airbnb Gold Rush](https://medium.com/@mosakuayo/discover-bostons-airbnb-gold-rush-977077bb900b?source=rss------data_science-5)
+- [SQL Made Simple: Understanding the WHERE Clause](https://medium.com/@valanarasu20/sql-made-simple-understanding-the-where-clause-ff730a54b3a3?source=rss------data_science-5)
+- [شماره خاله اسفراین
+شماره کوص اسفراین
+شماره جنده اسفراین
+شماره داف اسفراین
+شماره سکس اسفراین](https://medium.com/@zdzd3002/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86-e5a356207be7?source=rss------data_science-5)
+- [شماره خاله اسلامشهر
+شماره کوصاسلامشهر 
+شماره جنده اسلامشهر
+شماره داف اسلامشهر
+شماره سکس اسلامشهر](https://medium.com/@zdzd3002/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-6dfd2b99f83c?source=rss------data_science-5)
+- [شماره خاله ابهر
+شماره کوص ابهر 
+شماره جنده ابهر 
+شماره داف ابهر
+شماره سکس ابهر](https://medium.com/@zdzd3002/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%A8%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D8%A7%D8%A8%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D8%A7%D8%A8%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%A7%D8%A8%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D8%A7%D8%A8%D9%87%D8%B1-17b285e8da1a?source=rss------data_science-5)
+- [شماره خاله آباده
+شماره کوص آباده
+شماره جنده آباده
+شماره داف آباده
+شماره سکس آباده](https://medium.com/@zdzd3002/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A2%D8%A8%D8%A7%D8%AF%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D8%A2%D8%A8%D8%A7%D8%AF%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D8%A2%D8%A8%D8%A7%D8%AF%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%A2%D8%A8%D8%A7%D8%AF%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D8%A2%D8%A8%D8%A7%D8%AF%D9%87-52f68cfc48bd?source=rss------data_science-5)
+- [Patch Gradient Descent &lpar;PatchGD&rpar;: Optimizing Locally, Impacting Globally](https://ai.plainenglish.io/patch-gradient-descent-patchgd-optimizing-locally-impacting-globally-f9747d958fa0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
