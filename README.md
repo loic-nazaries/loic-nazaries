@@ -105,16 +105,40 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How Modular Pipelines are Changing Bioinformatics](https://medium.com/viascientificpub/how-modular-pipelines-are-changing-bioinformatics-35654d4d9a2f?source=rss------data_science-5)
-- [#شماره خاله #شماره خاله تهران #شماره خاله اصفهان #شماره خاله یزد #شماره خاله شهریار #شماره خاله…](https://medium.com/@sthrany33/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DB%8C%D8%B2%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%87%D8%B1%DB%8C%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-557a987f1df7?source=rss------data_science-5)
-- [شماره خاله نوراباد شماره خاله هفت چشمه شماره خاله سراب شماره خاله صحنه شماره خاله بیستون شماره خاله…](https://medium.com/@shmarhkhalhs867/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%D9%88%D8%B1%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%81%D8%AA-%DA%86%D8%B4%D9%85%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%B1%D8%A7%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%D8%AD%D9%86%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-4f740d5897c3?source=rss------data_science-5)
-- [شماره خاله نوراباد شماره خاله هفت چشمه شماره خاله سراب شماره خاله صحنه شماره خاله بیستون شماره خاله…](https://medium.com/@shmarhkhalhs867/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%D9%88%D8%B1%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%81%D8%AA-%DA%86%D8%B4%D9%85%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%B1%D8%A7%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%D8%AD%D9%86%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-4db8003712a9?source=rss------data_science-5)
-- [شماره خاله نوراباد شماره خاله هفت چشمه شماره خاله سراب شماره خاله صحنه شماره خاله بیستون شماره خاله…](https://medium.com/@shmarhkhalhs867/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%D9%88%D8%B1%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%81%D8%AA-%DA%86%D8%B4%D9%85%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%B1%D8%A7%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%D8%AD%D9%86%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-f9baf8d745f9?source=rss------data_science-5)
-- [Token Sampling Methods — Temperature to heat things up.](https://medium.com/@chitrakumarsai/token-sampling-methods-temperature-to-heat-things-up-af0c1e36dafc?source=rss------data_science-5)
-- [I will write data science, data analytics, business analyst resume and linkedin opt https://www.five](https://medium.com/@oladirink/i-will-write-data-science-data-analytics-business-analyst-resume-and-linkedin-opt-https-www-five-b1221adf9b49?source=rss------data_science-5)
-- [In-depth Analysis of a Bike Store Sales Using Power BI](https://medium.com/@komboyeoyinlayefa/in-depth-analysis-of-a-bike-store-sales-using-power-bi-9e18a1c3046e?source=rss------data_science-5)
-- [BULL X : The Advanced DEX Trading System](https://medium.com/@tee_jay_/bull-x-the-advanced-dex-trading-system-e659de860c59?source=rss------data_science-5)
-- [Why Do L1 and L2 Regularizations Reduce Weights Differently?](https://medium.com/@annasavitskaya.ds/why-do-l1-and-l2-regularizations-reduce-weights-differently-f9b223ab7bde?source=rss------data_science-5)
+- [شماره خاله چابهار09389632898شماره خاله تهران شماره خاله اورمیه شماره خاله تبریز شماره خاله شیراز…](https://medium.com/@mhmdnahyd1/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B109389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%88%D8%B1%D9%85%DB%8C%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-c972550770fd?source=rss------data_science-5)
+- [Enhancing Walmart’s Operational Efficiency: Achieving Accurate Weekly Sales Predictions with…](https://medium.com/@asheogunleye02/enhancing-walmarts-operational-efficiency-achieving-accurate-weekly-sales-predictions-with-b88678c5abaf?source=rss------data_science-5)
+- [شماره خاله مرودشت
+شماره کوص مرودشت
+شماره جنده مرودشت
+شماره داف مرودشت
+شماره سکس مرودشت](https://medium.com/@osm886444/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA-fda5e7b4d369?source=rss------data_science-5)
+- [شماره خاله مرند
+شماره کوص مرند
+شماره جنده مرند
+شماره داف مرند
+شماره سکس مرند](https://medium.com/@osm886444/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B1%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D9%85%D8%B1%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D9%85%D8%B1%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D9%85%D8%B1%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D9%85%D8%B1%D9%86%D8%AF-bb678f8507bf?source=rss------data_science-5)
+- [شماره خاله لردگان
+شماره کوص لردگان
+شماره جنده لردگان
+شماره داف لردگان
+شماره سکس لردگان](https://medium.com/@osm886444/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86-4907fece2ce6?source=rss------data_science-5)
+- [شماره خاله گناباد
+شماره کوص گناباد
+شماره جنده گناباد
+شماره داف گناباد
+شماره سکس گناباد](https://medium.com/@ala222638/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-622a2c7d7207?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله شماره داف شماره داف تهران شماره دختر شماره دخترسکسی شماره دختر تهران…](https://medium.com/@mhmdnahyd1/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%AE%D8%AA%D8%B1%D8%B3%DA%A9%D8%B3%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-8ede8ecd904e?source=rss------data_science-5)
+- [شماره خاله گلوگاه
+شماره کوص گلوگاه
+شماره جنده گلوگاه
+شماره داف گلوگاه
+شماره سکس گلوگاه](https://medium.com/@ala222638/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D9%84%D9%88%DA%AF%D8%A7%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%DA%AF%D9%84%D9%88%DA%AF%D8%A7%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%DA%AF%D9%84%D9%88%DA%AF%D8%A7%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%DA%AF%D9%84%D9%88%DA%AF%D8%A7%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%DA%AF%D9%84%D9%88%DA%AF%D8%A7%D9%87-72b73077d8b5?source=rss------data_science-5)
+- [Colleagues, “The Promise of Data-Driven Decision Making” is a powerful resource that has the…](https://internetdigitalentrepreneur.medium.com/colleagues-the-promise-of-data-driven-decision-making-is-a-powerful-resource-that-has-the-3ebdf051b9c7?source=rss------data_science-5)
+- [شماره خاله گلپایگان
+شماره کوص گلپایگان
+شماره جنده گلپایگان
+شماره داف گلپایگان
+شماره سکس گلپایگان](https://medium.com/@ala222638/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-3a4e777f8028?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
