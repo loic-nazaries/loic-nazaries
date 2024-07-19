@@ -105,40 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [شماره خاله چابهار09389632898شماره خاله تهران شماره خاله اورمیه شماره خاله تبریز شماره خاله شیراز…](https://medium.com/@mhmdnahyd1/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B109389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%88%D8%B1%D9%85%DB%8C%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-c972550770fd?source=rss------data_science-5)
-- [Enhancing Walmart’s Operational Efficiency: Achieving Accurate Weekly Sales Predictions with…](https://medium.com/@asheogunleye02/enhancing-walmarts-operational-efficiency-achieving-accurate-weekly-sales-predictions-with-b88678c5abaf?source=rss------data_science-5)
-- [شماره خاله مرودشت
-شماره کوص مرودشت
-شماره جنده مرودشت
-شماره داف مرودشت
-شماره سکس مرودشت](https://medium.com/@osm886444/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA-fda5e7b4d369?source=rss------data_science-5)
-- [شماره خاله مرند
-شماره کوص مرند
-شماره جنده مرند
-شماره داف مرند
-شماره سکس مرند](https://medium.com/@osm886444/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B1%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D9%85%D8%B1%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D9%85%D8%B1%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D9%85%D8%B1%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D9%85%D8%B1%D9%86%D8%AF-bb678f8507bf?source=rss------data_science-5)
-- [شماره خاله لردگان
-شماره کوص لردگان
-شماره جنده لردگان
-شماره داف لردگان
-شماره سکس لردگان](https://medium.com/@osm886444/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86-4907fece2ce6?source=rss------data_science-5)
-- [شماره خاله گناباد
-شماره کوص گناباد
-شماره جنده گناباد
-شماره داف گناباد
-شماره سکس گناباد](https://medium.com/@ala222638/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%DA%AF%D9%86%D8%A7%D8%A8%D8%A7%D8%AF-622a2c7d7207?source=rss------data_science-5)
-- [شماره خاله تهران شماره خاله شماره داف شماره داف تهران شماره دختر شماره دخترسکسی شماره دختر تهران…](https://medium.com/@mhmdnahyd1/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%AE%D8%AA%D8%B1%D8%B3%DA%A9%D8%B3%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-8ede8ecd904e?source=rss------data_science-5)
-- [شماره خاله گلوگاه
-شماره کوص گلوگاه
-شماره جنده گلوگاه
-شماره داف گلوگاه
-شماره سکس گلوگاه](https://medium.com/@ala222638/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D9%84%D9%88%DA%AF%D8%A7%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%DA%AF%D9%84%D9%88%DA%AF%D8%A7%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%DA%AF%D9%84%D9%88%DA%AF%D8%A7%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%DA%AF%D9%84%D9%88%DA%AF%D8%A7%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%DA%AF%D9%84%D9%88%DA%AF%D8%A7%D9%87-72b73077d8b5?source=rss------data_science-5)
-- [Colleagues, “The Promise of Data-Driven Decision Making” is a powerful resource that has the…](https://internetdigitalentrepreneur.medium.com/colleagues-the-promise-of-data-driven-decision-making-is-a-powerful-resource-that-has-the-3ebdf051b9c7?source=rss------data_science-5)
-- [شماره خاله گلپایگان
-شماره کوص گلپایگان
-شماره جنده گلپایگان
-شماره داف گلپایگان
-شماره سکس گلپایگان](https://medium.com/@ala222638/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-3a4e777f8028?source=rss------data_science-5)
+- [The Importance of Real-World Projects in Data Science Education in Coimbatore](https://medium.com/@sakshibhatt.co/the-importance-of-real-world-projects-in-data-science-education-in-coimbatore-c3a1dd210d61?source=rss------data_science-5)
+- [Best Data Science Courses at Yess Infotech](https://medium.com/@yessinfotechdm/best-data-science-courses-at-yess-infotech-35be8d4b12b9?source=rss------data_science-5)
+- [Research on Multi-Scale Convolution part3&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/research-on-multi-scale-convolution-part3-artificial-intelligence-82eac350108c?source=rss------data_science-5)
+- [Research on Multi-Scale Convolution part2&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/research-on-multi-scale-convolution-part2-artificial-intelligence-94509fcd4f2b?source=rss------data_science-5)
+- [Research on Multi-Scale Convolution part1&lpar;Artificial Intelligence &rpar;](https://medium.com/@monocosmo77/research-on-multi-scale-convolution-part1-artificial-intelligence-7c49500b3f2e?source=rss------data_science-5)
+- [Revisiting Capsule Networks part7&lpar;Machine Learning 2024&rpar;](https://medium.com/@monocosmo77/revisiting-capsule-networks-part7-machine-learning-2024-4fbf830a8abf?source=rss------data_science-5)
+- [Revisiting Capsule Networks part6&lpar;Machine Learning 2024&rpar;](https://medium.com/@monocosmo77/revisiting-capsule-networks-part6-machine-learning-2024-1189528faa0b?source=rss------data_science-5)
+- [Quadratic Weighted Kappa &lpar;QWK&rpar; Metric and How to Optimize It](https://medium.com/@nlztrk/quadratic-weighted-kappa-qwk-metric-and-how-to-optimize-it-062cc9121baa?source=rss------data_science-5)
+- [Revisiting Capsule Networks part5&lpar;Machine Learning 2024&rpar;](https://medium.com/@monocosmo77/revisiting-capsule-networks-part5-machine-learning-2024-4f17fa76bd60?source=rss------data_science-5)
+- [Revisiting Capsule Networks part4&lpar;Machine Learning 2024&rpar;](https://medium.com/@monocosmo77/revisiting-capsule-networks-part4-machine-learning-2024-cd13dbc0582d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
