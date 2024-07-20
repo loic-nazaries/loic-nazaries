@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Importance of Real-World Projects in Data Science Education in Coimbatore](https://medium.com/@sakshibhatt.co/the-importance-of-real-world-projects-in-data-science-education-in-coimbatore-c3a1dd210d61?source=rss------data_science-5)
-- [Best Data Science Courses at Yess Infotech](https://medium.com/@yessinfotechdm/best-data-science-courses-at-yess-infotech-35be8d4b12b9?source=rss------data_science-5)
-- [Research on Multi-Scale Convolution part3&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/research-on-multi-scale-convolution-part3-artificial-intelligence-82eac350108c?source=rss------data_science-5)
-- [Research on Multi-Scale Convolution part2&lpar;Artificial Intelligence&rpar;](https://medium.com/@monocosmo77/research-on-multi-scale-convolution-part2-artificial-intelligence-94509fcd4f2b?source=rss------data_science-5)
-- [Research on Multi-Scale Convolution part1&lpar;Artificial Intelligence &rpar;](https://medium.com/@monocosmo77/research-on-multi-scale-convolution-part1-artificial-intelligence-7c49500b3f2e?source=rss------data_science-5)
-- [Revisiting Capsule Networks part7&lpar;Machine Learning 2024&rpar;](https://medium.com/@monocosmo77/revisiting-capsule-networks-part7-machine-learning-2024-4fbf830a8abf?source=rss------data_science-5)
-- [Revisiting Capsule Networks part6&lpar;Machine Learning 2024&rpar;](https://medium.com/@monocosmo77/revisiting-capsule-networks-part6-machine-learning-2024-1189528faa0b?source=rss------data_science-5)
-- [Quadratic Weighted Kappa &lpar;QWK&rpar; Metric and How to Optimize It](https://medium.com/@nlztrk/quadratic-weighted-kappa-qwk-metric-and-how-to-optimize-it-062cc9121baa?source=rss------data_science-5)
-- [Revisiting Capsule Networks part5&lpar;Machine Learning 2024&rpar;](https://medium.com/@monocosmo77/revisiting-capsule-networks-part5-machine-learning-2024-4f17fa76bd60?source=rss------data_science-5)
-- [Revisiting Capsule Networks part4&lpar;Machine Learning 2024&rpar;](https://medium.com/@monocosmo77/revisiting-capsule-networks-part4-machine-learning-2024-cd13dbc0582d?source=rss------data_science-5)
+- [Harnessing Data Science: The Quest to Cure Alzheimer’s](https://python.plainenglish.io/harnessing-data-science-the-quest-to-cure-alzheimers-f04f983524ff?source=rss------data_science-5)
+- [Unleashing the Power of Fully Sharded Data Parallel &lpar;FSDP&rpar; in PyTorch](https://python.plainenglish.io/unleashing-the-power-of-fully-sharded-data-parallel-fsdp-in-pytorch-b0a294c1af39?source=rss------data_science-5)
+- [Empowering Machine Learning Workflows with DVC and Git: Best Practices for Team Collaboration](https://medium.com/@arohanaday/empowering-machine-learning-workflows-with-dvc-and-git-best-practices-for-team-collaboration-eef09298b9c0?source=rss------data_science-5)
+- [Advanced Lane Detection Using Machine Learning: A Comprehensive Study](https://medium.com/@yexander524/advanced-lane-detection-using-machine-learning-a-comprehensive-study-8fa92c659b4b?source=rss------data_science-5)
+- [Owning 0.1 bitcoin will be a great deal in October](https://medium.com/@abdulrahimwong1982/owning-0-1-bitcoin-will-be-a-great-deal-in-october-4fc994042953?source=rss------data_science-5)
+- [AI-Powered Marketing Analytics: Unlock Future Insights and Skyrocket Your ROI Today](https://blog.venturemagazine.net/ai-powered-marketing-analytics-unlock-future-insights-and-skyrocket-your-roi-today-d59199b5c493?source=rss------data_science-5)
+- [Data Cleaning Techniques That Stand the Test of Time](https://blog.datadecoded.club/data-cleaning-techniques-that-stand-the-test-of-time-23735256ba49?source=rss------data_science-5)
+- [Battling Open Book Exams with Open Source LLMs](https://towardsdatascience.com/battling-open-book-exams-with-open-source-llms-c2225f3002d0?source=rss------data_science-5)
+- [Mastering Python Dataclasses](https://tutorials.botsfloor.com/mastering-python-dataclasses-743eeb6feaaa?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@djjnxn73/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-de002b1f187b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
