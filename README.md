@@ -105,24 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [AI-Powered Recipe Generator: Solving the “What’s for Dinner?” Dilemma](https://akimfitzinnovative.medium.com/ai-powered-recipe-generator-solving-the-whats-for-dinner-dilemma-97918ee3cdb3?source=rss------data_science-5)
-- [شماره خاله گیلانغرب
-شماره کوص گیلانغرب
-شماره جنده گیلانغرب
-شماره داف گیلانغرب
-شماره سکس گیلانغرب](https://medium.com/@zdzd3002/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%DB%8C%D9%84%D8%A7%D9%86%D8%BA%D8%B1%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%DA%AF%DB%8C%D9%84%D8%A7%D9%86%D8%BA%D8%B1%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%DA%AF%DB%8C%D9%84%D8%A7%D9%86%D8%BA%D8%B1%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%DA%AF%DB%8C%D9%84%D8%A7%D9%86%D8%BA%D8%B1%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%DA%AF%DB%8C%D9%84%D8%A7%D9%86%D8%BA%D8%B1%D8%A8-8c7a7a1e7c30?source=rss------data_science-5)
-- [شماره خاله گرماب
-شماره کوص گرماب
-شماره جنده گرماب
-شماره داف گرماب
-شماره سکس گرماب](https://medium.com/@zdzd3002/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%D9%85%D8%A7%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%DA%AF%D8%B1%D9%85%D8%A7%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%DA%AF%D8%B1%D9%85%D8%A7%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%DA%AF%D8%B1%D9%85%D8%A7%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%DA%AF%D8%B1%D9%85%D8%A7%D8%A8-8741af01e1eb?source=rss------data_science-5)
-- [Mastering Data Frames in R for Beginners](https://medium.com/@marcuspmp/mastering-data-frames-in-r-for-beginners-d71642e6d3fd?source=rss------data_science-5)
-- [How to Improve Performance of a Retrieval Augmented Generative &lpar;RAG&rpar; Model](https://generativeai.pub/how-to-improve-performance-of-a-retrieval-augmented-generative-rag-model-5b15927c0646?source=rss------data_science-5)
-- [Creating an End-to-End Data Science Project with CrewAI Agents](https://generativeai.pub/creating-an-end-to-end-data-science-project-with-crewai-agents-f98d02b4e203?source=rss------data_science-5)
-- [Optimizing Offline A/B Test Design: Case Study and Simulation Technique](https://medium.com/@Masatakehirono/optimizing-offline-a-b-test-design-case-study-and-simulation-technique-bd3006a45fb6?source=rss------data_science-5)
-- [SQL 101 | Chapter 2: Setting Up Your Database Environment](https://yujinov.medium.com/sql-101-chapter-2-setting-up-your-database-environment-fe5398c05e10?source=rss------data_science-5)
-- [SQL 101 | Bab 2: Menyiapkan Lingkungan Basis Data Anda](https://yujinov.medium.com/sql-101-bab-2-menyiapkan-lingkungan-basis-data-anda-0b7bb2a5b3d0?source=rss------data_science-5)
-- [شماره دختران فراری شماره خاله بندرعباس شماره خاله کرج شماره خاله مشهد شماره خاله بابل شماره خاله…](https://medium.com/@djbdhdhdus/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86-%D9%81%D8%B1%D8%A7%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B4%D9%87%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-c98d8a7348b5?source=rss------data_science-5)
+- [Simply Simple Linear Regression](https://medium.com/@nitika.kataria/simply-simple-linear-regression-c243e488e76e?source=rss------data_science-5)
+- [Hidden patterns in your time series data?](https://medium.com/@katygenuine/hidden-patterns-in-your-time-series-data-00d58210e724?source=rss------data_science-5)
+- [Understanding Similarity Measures in Data Science and Analytics](https://medium.com/@lohithprasannateja/understanding-similarity-measures-metrics-in-data-science-d6b4a686676b?source=rss------data_science-5)
+- [Millenaensus](https://medium.com/@david_17220/millenaensus-a96bab6575f2?source=rss------data_science-5)
+- [AWS Glue vs Apache Airflow, choose the right one](https://medium.com/@mohshuyeb/aws-glue-vs-apache-airflow-choose-the-right-one-de749e6ce35e?source=rss------data_science-5)
+- [Expanding Language, Expanding Thought: Vocabulary Size in LLM Scaling](https://levelup.gitconnected.com/expanding-language-expanding-thought-vocabulary-size-in-llm-scaling-82dc98235b49?source=rss------data_science-5)
+- [Affordable Platforms for Fine-Tuning &amp; Training Large Language Models &lpar;LLMs&rpar;](https://levelup.gitconnected.com/affordable-platforms-for-fine-tuning-training-large-language-models-llms-1812cdb8e592?source=rss------data_science-5)
+- [شماره خاله شماره خاله تهران شماره خاله کرج شماره خاله شیراز شماره خاله فسا شماره خاله اصفهان شماره…](https://medium.com/@pwiejbxbx08/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%81%D8%B3%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-690a272fbef9?source=rss------data_science-5)
+- [شماره خاله شماره خاله تهران شماره خاله کرج شماره خاله شیراز شماره خاله فسا شماره خاله اصفهان شماره…](https://medium.com/@pwiejbxbx08/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%81%D8%B3%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e8669df0a0a5?source=rss------data_science-5)
+- [شماره خاله شماره خاله تهران شماره خاله کرج شماره خاله شیراز شماره خاله فسا شماره خاله اصفهان شماره…](https://medium.com/@pwiejbxbx08/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%81%D8%B3%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-79f98b16ead8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
