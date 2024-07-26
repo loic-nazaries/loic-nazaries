@@ -105,16 +105,32 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Simply Simple Linear Regression](https://medium.com/@nitika.kataria/simply-simple-linear-regression-c243e488e76e?source=rss------data_science-5)
-- [Hidden patterns in your time series data?](https://medium.com/@katygenuine/hidden-patterns-in-your-time-series-data-00d58210e724?source=rss------data_science-5)
-- [Understanding Similarity Measures in Data Science and Analytics](https://medium.com/@lohithprasannateja/understanding-similarity-measures-metrics-in-data-science-d6b4a686676b?source=rss------data_science-5)
-- [Millenaensus](https://medium.com/@david_17220/millenaensus-a96bab6575f2?source=rss------data_science-5)
-- [AWS Glue vs Apache Airflow, choose the right one](https://medium.com/@mohshuyeb/aws-glue-vs-apache-airflow-choose-the-right-one-de749e6ce35e?source=rss------data_science-5)
-- [Expanding Language, Expanding Thought: Vocabulary Size in LLM Scaling](https://levelup.gitconnected.com/expanding-language-expanding-thought-vocabulary-size-in-llm-scaling-82dc98235b49?source=rss------data_science-5)
-- [Affordable Platforms for Fine-Tuning &amp; Training Large Language Models &lpar;LLMs&rpar;](https://levelup.gitconnected.com/affordable-platforms-for-fine-tuning-training-large-language-models-llms-1812cdb8e592?source=rss------data_science-5)
-- [شماره خاله شماره خاله تهران شماره خاله کرج شماره خاله شیراز شماره خاله فسا شماره خاله اصفهان شماره…](https://medium.com/@pwiejbxbx08/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%81%D8%B3%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-690a272fbef9?source=rss------data_science-5)
-- [شماره خاله شماره خاله تهران شماره خاله کرج شماره خاله شیراز شماره خاله فسا شماره خاله اصفهان شماره…](https://medium.com/@pwiejbxbx08/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%81%D8%B3%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e8669df0a0a5?source=rss------data_science-5)
-- [شماره خاله شماره خاله تهران شماره خاله کرج شماره خاله شیراز شماره خاله فسا شماره خاله اصفهان شماره…](https://medium.com/@pwiejbxbx08/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%81%D8%B3%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-79f98b16ead8?source=rss------data_science-5)
+- [Review Super Champs: Airdrop, Game, dan Potensi Besar
+Super Champs adalah platform game blockchain…](https://medium.com/@jek_cryptoQBX/review-super-champs-airdrop-game-dan-potensi-besar-super-champs-adalah-platform-game-blockchain-8fac2d44ff6e?source=rss------data_science-5)
+- [SQL 101 | Chapter 4: SQL Aliases — Learn How to Improve Query Readability and Maintainability](https://yujinov.medium.com/sql-101-chapter-4-sql-aliases-learn-how-to-improve-query-readability-and-maintainability-7f3569fbd4e7?source=rss------data_science-5)
+- [SQL 101 | Bab 4: Alias ​​​​​​SQL — Pelajari Cara Mempermudah Keterbacaan dan Pemeliharaan Kueri](https://yujinov.medium.com/sql-101-bab-4-alias-sql-pelajari-cara-mempermudah-keterbacaan-dan-pemeliharaan-kueri-c31ca007c61f?source=rss------data_science-5)
+- [How to Work with Environment Variables in Python](https://blog.scriptserpent.club/how-to-work-with-environment-variables-in-python-68578a815371?source=rss------data_science-5)
+- [شماره صیغه زاهدان 09332549796
+شماره صیغه کرمان09332549796
+شماره صیغه چابهار 09332549796
+شماره صیغه…](https://medium.com/@nzhadymhmwd609/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%8609332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-6c0fb32ca153?source=rss------data_science-5)
+- [شماره صیغه مشهد09332549796 شماره صیغه سمنان 09332549796شماره صیغه بجنورد09332549796 شماره صیغه…](https://medium.com/@nzhadymhmwd609/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D9%85%D8%B4%D9%87%D8%AF09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B3%D9%85%D9%86%D8%A7%D9%86-09332549796%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-3e2a63803325?source=rss------data_science-5)
+- [شماره صیغه زاهدان 09332549796
+شماره صیغه کرمان09332549796
+شماره صیغه چابهار 09332549796
+شماره صیغه…](https://medium.com/@nzhadymhmwd609/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%8609332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-63fc807838d5?source=rss------data_science-5)
+- [شماره صیغه اراک 09332549796
+شماره صیغه محلات 09332549796
+شماره صیغه خمین 09332549796
+شماره صیغه…](https://medium.com/@nzhadymhmwd609/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A7%D8%B1%D8%A7%DA%A9-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D9%85%D8%AD%D9%84%D8%A7%D8%AA-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AE%D9%85%DB%8C%D9%86-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-70ef0cbd04bd?source=rss------data_science-5)
+- [شماره صیغه اراک 09332549796
+شماره صیغه محلات 09332549796
+شماره صیغه خمین 09332549796
+شماره صیغه…](https://medium.com/@yasrnasry487/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A7%D8%B1%D8%A7%DA%A9-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D9%85%D8%AD%D9%84%D8%A7%D8%AA-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AE%D9%85%DB%8C%D9%86-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-09a8390c1e14?source=rss------data_science-5)
+- [شماره صیغه تهران 09332549796
+شماره صیغه کرج 09332549796
+شماره صیغه قم 09332549796
+شماره صیغه ساوه…](https://medium.com/@yasrnasry487/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%DA%A9%D8%B1%D8%AC-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D9%82%D9%85-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B3%D8%A7%D9%88%D9%87-19b1f2664699?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
