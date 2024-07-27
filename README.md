@@ -105,32 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Review Super Champs: Airdrop, Game, dan Potensi Besar
-Super Champs adalah platform game blockchain…](https://medium.com/@jek_cryptoQBX/review-super-champs-airdrop-game-dan-potensi-besar-super-champs-adalah-platform-game-blockchain-8fac2d44ff6e?source=rss------data_science-5)
-- [SQL 101 | Chapter 4: SQL Aliases — Learn How to Improve Query Readability and Maintainability](https://yujinov.medium.com/sql-101-chapter-4-sql-aliases-learn-how-to-improve-query-readability-and-maintainability-7f3569fbd4e7?source=rss------data_science-5)
-- [SQL 101 | Bab 4: Alias ​​​​​​SQL — Pelajari Cara Mempermudah Keterbacaan dan Pemeliharaan Kueri](https://yujinov.medium.com/sql-101-bab-4-alias-sql-pelajari-cara-mempermudah-keterbacaan-dan-pemeliharaan-kueri-c31ca007c61f?source=rss------data_science-5)
-- [How to Work with Environment Variables in Python](https://blog.scriptserpent.club/how-to-work-with-environment-variables-in-python-68578a815371?source=rss------data_science-5)
-- [شماره صیغه زاهدان 09332549796
-شماره صیغه کرمان09332549796
-شماره صیغه چابهار 09332549796
-شماره صیغه…](https://medium.com/@nzhadymhmwd609/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%8609332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-6c0fb32ca153?source=rss------data_science-5)
-- [شماره صیغه مشهد09332549796 شماره صیغه سمنان 09332549796شماره صیغه بجنورد09332549796 شماره صیغه…](https://medium.com/@nzhadymhmwd609/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D9%85%D8%B4%D9%87%D8%AF09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B3%D9%85%D9%86%D8%A7%D9%86-09332549796%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A8%D8%AC%D9%86%D9%88%D8%B1%D8%AF09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-3e2a63803325?source=rss------data_science-5)
-- [شماره صیغه زاهدان 09332549796
-شماره صیغه کرمان09332549796
-شماره صیغه چابهار 09332549796
-شماره صیغه…](https://medium.com/@nzhadymhmwd609/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%8609332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-63fc807838d5?source=rss------data_science-5)
-- [شماره صیغه اراک 09332549796
-شماره صیغه محلات 09332549796
-شماره صیغه خمین 09332549796
-شماره صیغه…](https://medium.com/@nzhadymhmwd609/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A7%D8%B1%D8%A7%DA%A9-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D9%85%D8%AD%D9%84%D8%A7%D8%AA-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AE%D9%85%DB%8C%D9%86-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-70ef0cbd04bd?source=rss------data_science-5)
-- [شماره صیغه اراک 09332549796
-شماره صیغه محلات 09332549796
-شماره صیغه خمین 09332549796
-شماره صیغه…](https://medium.com/@yasrnasry487/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A7%D8%B1%D8%A7%DA%A9-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D9%85%D8%AD%D9%84%D8%A7%D8%AA-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AE%D9%85%DB%8C%D9%86-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-09a8390c1e14?source=rss------data_science-5)
-- [شماره صیغه تهران 09332549796
-شماره صیغه کرج 09332549796
-شماره صیغه قم 09332549796
-شماره صیغه ساوه…](https://medium.com/@yasrnasry487/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%DA%A9%D8%B1%D8%AC-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D9%82%D9%85-09332549796-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B3%D8%A7%D9%88%D9%87-19b1f2664699?source=rss------data_science-5)
+- [Avoid Regrets](https://medium.com/@billmillaire/avoid-regrets-bfead9158bcc?source=rss------data_science-5)
+- [&lpar;Day: 12&rpar; This post will be updated as I accomplish my tasks.](https://medium.com/@alialtuntas.stat/day-12-this-post-will-be-updated-as-i-accomplish-my-tasks-ce19b620e3d3?source=rss------data_science-5)
+- [55 Ace Game Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me Customer Care.Customer](https://medium.com/@kwgwkwc/55-ace-game-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-customer-care-customer-71a3f3696181?source=rss------data_science-5)
+- [55 Ace Game Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me Customer Care.Customer](https://medium.com/@kwgwkwc/55-ace-game-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-customer-care-customer-e03b7800937d?source=rss------data_science-5)
+- [55 Ace Game Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me Customer Care.Customer](https://medium.com/@kwgwkwc/55-ace-game-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-customer-care-customer-a63bf1bb32ba?source=rss------data_science-5)
+- [55 Ace Game Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me Customer Care.Customer](https://medium.com/@kwgwkwc/55-ace-game-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-customer-care-customer-f3e0a828e73b?source=rss------data_science-5)
+- [55 Ace Game Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me Customer Care.Customer](https://medium.com/@kwgwkwc/55-ace-game-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-customer-care-customer-ff55320520d1?source=rss------data_science-5)
+- [55 Ace Game Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me Customer Care.Customer](https://medium.com/@kwgwkwc/55-ace-game-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-customer-care-customer-2b8a9df392d7?source=rss------data_science-5)
+- [55 Ace Game Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me Customer Care.Customer](https://medium.com/@kwgwkwc/55-ace-game-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-customer-care-customer-075ad5cd9e74?source=rss------data_science-5)
+- [55 Ace Game Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me Customer Care.Customer](https://medium.com/@kwgwkwc/55-ace-game-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-customer-care-customer-571075fbaafc?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
