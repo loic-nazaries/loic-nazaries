@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Avoid Regrets](https://medium.com/@billmillaire/avoid-regrets-bfead9158bcc?source=rss------data_science-5)
-- [&lpar;Day: 12&rpar; This post will be updated as I accomplish my tasks.](https://medium.com/@alialtuntas.stat/day-12-this-post-will-be-updated-as-i-accomplish-my-tasks-ce19b620e3d3?source=rss------data_science-5)
-- [55 Ace Game Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me Customer Care.Customer](https://medium.com/@kwgwkwc/55-ace-game-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-customer-care-customer-71a3f3696181?source=rss------data_science-5)
-- [55 Ace Game Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me Customer Care.Customer](https://medium.com/@kwgwkwc/55-ace-game-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-customer-care-customer-e03b7800937d?source=rss------data_science-5)
-- [55 Ace Game Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me Customer Care.Customer](https://medium.com/@kwgwkwc/55-ace-game-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-customer-care-customer-a63bf1bb32ba?source=rss------data_science-5)
-- [55 Ace Game Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me Customer Care.Customer](https://medium.com/@kwgwkwc/55-ace-game-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-customer-care-customer-f3e0a828e73b?source=rss------data_science-5)
-- [55 Ace Game Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me Customer Care.Customer](https://medium.com/@kwgwkwc/55-ace-game-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-customer-care-customer-ff55320520d1?source=rss------data_science-5)
-- [55 Ace Game Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me Customer Care.Customer](https://medium.com/@kwgwkwc/55-ace-game-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-customer-care-customer-2b8a9df392d7?source=rss------data_science-5)
-- [55 Ace Game Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me Customer Care.Customer](https://medium.com/@kwgwkwc/55-ace-game-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-customer-care-customer-075ad5cd9e74?source=rss------data_science-5)
-- [55 Ace Game Customer Care Helpline Number✒️8981774458+91 ☎️8981774458 call me Customer Care.Customer](https://medium.com/@kwgwkwc/55-ace-game-customer-care-helpline-number-%EF%B8%8F8981774458-91-%EF%B8%8F8981774458-call-me-customer-care-customer-571075fbaafc?source=rss------data_science-5)
+- [Use PCA to explore data with Python code](https://towardsdev.com/use-pca-to-explore-data-with-python-code-ec03b2918939?source=rss------data_science-5)
+- [Data Job Market 2024: Trends, Opportunities, and Strategies for Success](https://medium.com/@dataducking/2024-data-job-market-better-or-worse-66975e0755a5?source=rss------data_science-5)
+- [おお](https://medium.com/@hirohikoinada/%E3%81%8A%E3%81%8A-d06d0f985fda?source=rss------data_science-5)
+- [SQL 101 | Bab 6: Meningkatkan Penyajian Data — Teknik Penyortiran Tingkat Lanjut untuk Wawasan…](https://yujinov.medium.com/sql-101-bab-6-meningkatkan-penyajian-data-teknik-penyortiran-tingkat-lanjut-untuk-wawasan-942063608c0a?source=rss------data_science-5)
+- [SQL 101 | Chapter 6: Elevating Data Presentation — Advanced Sorting Techniques for Deeper Insights](https://yujinov.medium.com/sql-101-chapter-6-elevating-data-presentation-advanced-sorting-techniques-for-deeper-insights-741d3b7b5f46?source=rss------data_science-5)
+- [I found a hidden gem in Matplotlib’s library: Packed Bubble Charts in Python](https://towardsdatascience.com/i-found-a-hidden-gem-in-matplotlibs-library-packed-bubble-charts-in-python-d0f5d892beb7?source=rss------data_science-5)
+- [Intriguing UFO Sighting in Sweden: The Mysterious Case of “S4”](https://medium.com/@WorldOfMystery/intriguing-ufo-sighting-in-sweden-the-mysterious-case-of-s4-97b0c180e5c7?source=rss------data_science-5)
+- [Whale that appeared on New Zealand ocean side might be world’s most extraordinary](https://medium.com/@lisaozon/whale-that-appeared-on-new-zealand-ocean-side-might-be-worlds-most-extraordinary-76707a48e4f3?source=rss------data_science-5)
+- [Tipe Data Python: Pahami Jenis dan Penggunaannya dengan Mudah](https://medium.com/@mrahmathidayat98/tipe-data-python-pahami-jenis-dan-penggunaannya-dengan-mudah-463b4e85cf28?source=rss------data_science-5)
+- [55 Ace Game Customer Care Helpline Number &lpar;❾❽❶❼❼❹❹❺❽&rpar; Toll-Free +&lpar;8981774458&rpar; Call +&lpar;8981774458&rpar;…](https://medium.com/@wondrous_tropical_weasel_521/55-ace-game-customer-care-helpline-number-%E2%9D%BE%E2%9D%BD%E2%9D%B6%E2%9D%BC%E2%9D%BC%E2%9D%B9%E2%9D%B9%E2%9D%BA%E2%9D%BD-toll-free-8981774458-call-8981774458-df731f68ff45?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
