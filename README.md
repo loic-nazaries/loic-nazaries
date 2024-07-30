@@ -105,16 +105,24 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Wealth Snap loan Customer Care Helpline number 91+♂️8981774458☎️8981774458 All RELATED Toll-FREE…](https://medium.com/@sensible_mauvelous_hamster_136/wealth-snap-loan-customer-care-helpline-number-91-%EF%B8%8F8981774458-%EF%B8%8F-8981774458-all-related-toll-free-d073621a8a7b?source=rss------data_science-5)
-- [Wealth Snap loan Customer Care Helpline number 91+♂️8981774458☎️8981774458 All RELATED Toll-FREE…](https://medium.com/@sensible_mauvelous_hamster_136/wealth-snap-loan-customer-care-helpline-number-91-%EF%B8%8F8981774458-%EF%B8%8F-8981774458-all-related-toll-free-52494cc3f409?source=rss------data_science-5)
-- [Wealth Snap loan Customer Care Helpline number 91+♂️8981774458☎️8981774458 All RELATED Toll-FREE…](https://medium.com/@sensible_mauvelous_hamster_136/wealth-snap-loan-customer-care-helpline-number-91-%EF%B8%8F8981774458-%EF%B8%8F-8981774458-all-related-toll-free-2c49f597f625?source=rss------data_science-5)
-- [Top 10 Data Visualization Examples](https://medium.com/@amitkr209/visualization-examples-1-21f15e0304db?source=rss------data_science-5)
-- [Wealth Snap loan Customer Care Helpline number 91+♂️8981774458☎️8981774458 All RELATED Toll-FREE…](https://medium.com/@sensible_mauvelous_hamster_136/wealth-snap-loan-customer-care-helpline-number-91-%EF%B8%8F8981774458-%EF%B8%8F-8981774458-all-related-toll-free-7766a02e3993?source=rss------data_science-5)
-- [Wealth Snap loan Customer Care Helpline number 91+♂️8981774458☎️8981774458 All RELATED Toll-FREE…](https://medium.com/@kehg/wealth-snap-loan-customer-care-helpline-number-91-%EF%B8%8F8981774458-%EF%B8%8F-8981774458-all-related-toll-free-5d9ebaf8d4f2?source=rss------data_science-5)
-- [Wealth Snap loan Customer Care Helpline number 91+♂️8981774458☎️8981774458 All RELATED Toll-FREE…](https://medium.com/@kehg/wealth-snap-loan-customer-care-helpline-number-91-%EF%B8%8F8981774458-%EF%B8%8F-8981774458-all-related-toll-free-4351cb240f4c?source=rss------data_science-5)
-- [Wealth Snap loan Customer Care Helpline number 91+♂️8981774458☎️8981774458 All RELATED Toll-FREE…](https://medium.com/@kehg/wealth-snap-loan-customer-care-helpline-number-91-%EF%B8%8F8981774458-%EF%B8%8F-8981774458-all-related-toll-free-23ea47d98c51?source=rss------data_science-5)
-- [Wealth Snap loan Customer Care Helpline number 91+♂️8981774458☎️8981774458 All RELATED Toll-FREE…](https://medium.com/@kehg/wealth-snap-loan-customer-care-helpline-number-91-%EF%B8%8F8981774458-%EF%B8%8F-8981774458-all-related-toll-free-51b61ad8a8d5?source=rss------data_science-5)
-- [Wealth Snap loan Customer Care Helpline number 91+♂️8981774458☎️8981774458 All RELATED Toll-FREE…](https://medium.com/@kehg/wealth-snap-loan-customer-care-helpline-number-91-%EF%B8%8F8981774458-%EF%B8%8F-8981774458-all-related-toll-free-f334352db8e3?source=rss------data_science-5)
+- [Making a House Price Predicting model](https://medium.com/@khananns24/making-a-house-price-predicting-model-b44ee812e60c?source=rss------data_science-5)
+- [شماره خاله سمنان
+شماره کوص سمنان
+شماره جنده سمنان
+شماره داف سمنان
+شماره سکس سمنان](https://medium.com/@osm886444/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D8%B3%D9%85%D9%86%D8%A7%D9%86-38df3568fc59?source=rss------data_science-5)
+- [شماره خاله سمنان
+شماره کوص سمنان
+شماره جنده سمنان
+شماره داف سمنان
+شماره سکس سمنان](https://medium.com/@osm886444/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D8%B3%D9%85%D9%86%D8%A7%D9%86-c1c655db2a08?source=rss------data_science-5)
+- [SearchGPT Beta Testing, OpenAI Challenges Google and Baidu with Visualization](https://generativeai.pub/searchgpt-beta-testing-openai-challenges-google-and-baidu-with-visualization-bd21a3429e21?source=rss------data_science-5)
+- [Auto Service Sales Analysis](https://medium.com/@onyesorochisom/auto-service-sales-analysis-63194fb85680?source=rss------data_science-5)
+- [Best AI Tools for Data Analysts Review](https://medium.com/@makaritis/best-ai-tools-for-data-analysts-review-ff1249f302c7?source=rss------data_science-5)
+- [How I scraped data of a Property website..](https://medium.com/@khananns24/how-i-scraped-data-of-a-property-website-b9ee3b02349c?source=rss------data_science-5)
+- [Guia prático de como sanitizar seus prompts com a Open AI](https://medium.com/@daniele.santiago/guia-pr%C3%A1tico-de-como-sanitizar-seus-prompts-com-a-open-ai-84ac1b5cd7a4?source=rss------data_science-5)
+- [Working of a sequence-sequence/ encoder-decoder architecture](https://sambhavm22.medium.com/working-of-a-sequence-sequence-encoder-decoder-architecture-e87eae454faf?source=rss------data_science-5)
+- [Email Analysis Dashboard Documentation](https://medium.com/@Awololatundeyusuff/email-analysis-dashboard-documentation-184e44bdde71?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
