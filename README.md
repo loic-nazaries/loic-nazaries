@@ -105,24 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Making a House Price Predicting model](https://medium.com/@khananns24/making-a-house-price-predicting-model-b44ee812e60c?source=rss------data_science-5)
-- [شماره خاله سمنان
-شماره کوص سمنان
-شماره جنده سمنان
-شماره داف سمنان
-شماره سکس سمنان](https://medium.com/@osm886444/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D8%B3%D9%85%D9%86%D8%A7%D9%86-38df3568fc59?source=rss------data_science-5)
-- [شماره خاله سمنان
-شماره کوص سمنان
-شماره جنده سمنان
-شماره داف سمنان
-شماره سکس سمنان](https://medium.com/@osm886444/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D8%B3%D9%85%D9%86%D8%A7%D9%86-c1c655db2a08?source=rss------data_science-5)
-- [SearchGPT Beta Testing, OpenAI Challenges Google and Baidu with Visualization](https://generativeai.pub/searchgpt-beta-testing-openai-challenges-google-and-baidu-with-visualization-bd21a3429e21?source=rss------data_science-5)
-- [Auto Service Sales Analysis](https://medium.com/@onyesorochisom/auto-service-sales-analysis-63194fb85680?source=rss------data_science-5)
-- [Best AI Tools for Data Analysts Review](https://medium.com/@makaritis/best-ai-tools-for-data-analysts-review-ff1249f302c7?source=rss------data_science-5)
-- [How I scraped data of a Property website..](https://medium.com/@khananns24/how-i-scraped-data-of-a-property-website-b9ee3b02349c?source=rss------data_science-5)
-- [Guia prático de como sanitizar seus prompts com a Open AI](https://medium.com/@daniele.santiago/guia-pr%C3%A1tico-de-como-sanitizar-seus-prompts-com-a-open-ai-84ac1b5cd7a4?source=rss------data_science-5)
-- [Working of a sequence-sequence/ encoder-decoder architecture](https://sambhavm22.medium.com/working-of-a-sequence-sequence-encoder-decoder-architecture-e87eae454faf?source=rss------data_science-5)
-- [Email Analysis Dashboard Documentation](https://medium.com/@Awololatundeyusuff/email-analysis-dashboard-documentation-184e44bdde71?source=rss------data_science-5)
+- [Creating a RAG Chatbot with Llama 3.1: A Step-by-Step Guide](https://medium.com/@isaiah_bjork/creating-a-rag-chatbot-with-llama-3-1-a-step-by-step-guide-05695422c69e?source=rss------data_science-5)
+- [Web Scraping Sonrası Verileri Düzenleme ve Temizleme İşlemleri](https://ozern.medium.com/web-scraping-sonras%C4%B1-verileri-d%C3%BCzenleme-ve-temizleme-i%CC%87%C5%9Flemleri-27b1c81d6090?source=rss------data_science-5)
+- [Limited-Time Offer: How to Earn 16% APR with Toncoin &lpar;TON&rpar; from July 22 to July 31](https://medium.com/@daraabasiudoabba/limited-time-offer-how-to-earn-16-apr-with-toncoin-ton-from-july-22-to-july-31-3b93106e6962?source=rss------data_science-5)
+- [The Benefits of Staking Toncoin &lpar;TON&rpar; in XBANKING: A Guide to Earning Passive Income at 16% APR](https://medium.com/@daraabasiudoabba/the-benefits-of-staking-toncoin-ton-in-xbanking-a-guide-to-earning-passive-income-at-16-apr-02386934b98c?source=rss------data_science-5)
+- [Sunny day](https://medium.com/@smitchpunk/sunny-day-7f4f1b2cde14?source=rss------data_science-5)
+- [Join the Lends Ambassador Program and Help Shape the Future of Lending](https://medium.com/@daraabasiudoabba/join-the-lends-ambassador-program-and-help-shape-the-future-of-lending-f6edb7ed3318?source=rss------data_science-5)
+- [Unlock Attractive Rates with Liquidity Provision on Lends dApp](https://medium.com/@daraabasiudoabba/unlock-attractive-rates-with-liquidity-provision-on-lends-dapp-321179f03e40?source=rss------data_science-5)
+- [Experience the Future of DeFi with Lends: Streaming Swaps Feature](https://medium.com/@daraabasiudoabba/experience-the-future-of-defi-with-lends-streaming-swaps-feature-8e7043d04d55?source=rss------data_science-5)
+- [Harnessing Big Data: The Revolution in the Global Hotel Industry](https://medium.com/@utkarshnigam1/harnessing-big-data-the-revolution-in-the-global-hotel-industry-961ee8e215f1?source=rss------data_science-5)
+- [A Guide to Time Series Analysis Using Neural Networks](https://kaabar-sofien.medium.com/a-guide-to-time-series-analysis-using-neural-networks-57eebcbc7654?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
