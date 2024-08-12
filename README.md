@@ -105,48 +105,20 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [شماره خاله بندرلنگه
-شماره کوص بندرلنگه
-شماره جنده بندرلنگه
-شماره داف بندرلنگه
-شماره سکس بندرلنگه](https://medium.com/@nmm602924/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D9%84%D9%86%DA%AF%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D8%A8%D9%86%D8%AF%D8%B1%D9%84%D9%86%DA%AF%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D9%84%D9%86%DA%AF%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%A8%D9%86%D8%AF%D8%B1%D9%84%D9%86%DA%AF%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D8%A8%D9%86%D8%AF%D8%B1%D9%84%D9%86%DA%AF%D9%87-452da665c011?source=rss------data_science-5)
-- [شماره خاله بندرکنگان
-شماره کوص بندرکنگان
-شماره جنده بندرکنگان
-شماره داف بندرکنگان
-شماره سکس…](https://medium.com/@nmm602924/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%DA%A9%D9%86%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D8%A8%D9%86%D8%AF%D8%B1%DA%A9%D9%86%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%DA%A9%D9%86%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%A8%D9%86%D8%AF%D8%B1%DA%A9%D9%86%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-aa07c620706b?source=rss------data_science-5)
-- [Starting your journey in Optimization](https://medium.com/@ak.email86/starting-your-journey-in-optimization-a36ca43e58fe?source=rss------data_science-5)
-- [My Trading Journey: Mistakes, Lessons, and Mentorship — How I Turned Losses into 5 to 6-Figure…](https://medium.com/@dhruvilpatel834/my-trading-journey-mistakes-lessons-and-mentorship-how-i-turned-losses-into-5-to-6-figure-5781f75a64fe?source=rss------data_science-5)
-- [شماره خاله بم
-شماره کوص بم
-شماره جنده بم
-شماره داف بم
-شماره سکس بم](https://medium.com/@nmm602924/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D8%A8%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D8%A8%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%A8%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D8%A8%D9%85-1e56f8f21900?source=rss------data_science-5)
-- [شماره خاله بوشهر
-شماره کوص بوشهر
-شماره جنده بوشهر
-شماره داف بوشهر
-شماره سکس بوشهر](https://medium.com/@nmm602924/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-e368c7b35fe1?source=rss------data_science-5)
-- [شماره خاله بیرجند
-شماره کوص بیرجند
-شماره جنده بیرجند
-شماره داف بیرجند
-شماره سکس بیرجند](https://medium.com/@mmm921533/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF-98d11df50d90?source=rss------data_science-5)
-- [شماره خاله فولادشهر
-شماره کوص فولادشهر
-شماره جنده فولادشهر
-شماره داف فولادشهر
-شماره سکس فولادشهر](https://medium.com/@mmm921533/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%81%D9%88%D9%84%D8%A7%D8%AF%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D9%81%D9%88%D9%84%D8%A7%D8%AF%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D9%81%D9%88%D9%84%D8%A7%D8%AF%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D9%81%D9%88%D9%84%D8%A7%D8%AF%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D9%81%D9%88%D9%84%D8%A7%D8%AF%D8%B4%D9%87%D8%B1-6e273cb481b2?source=rss------data_science-5)
-- [شماره خاله فسا
-شماره کوص فسا
-شماره جنده فسا
-شماره داف فسا
-شماره سکس فسا](https://medium.com/@mmm921533/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%81%D8%B3%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D9%81%D8%B3%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D9%81%D8%B3%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D9%81%D8%B3%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D9%81%D8%B3%D8%A7-83847655788f?source=rss------data_science-5)
-- [شماره خاله فریدونکنار
-شماره کوص فریدونکنار
-شماره جنده فریدونکنار
-شماره داف فریدونکنار
-شماره سکس…](https://medium.com/@mmm921533/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%DA%A9%D9%86%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%DA%A9%D9%86%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%DA%A9%D9%86%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%DA%A9%D9%86%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-b698d4bcca39?source=rss------data_science-5)
+- [شماره خاله بوکان 09962364918](https://medium.com/@kalenastaran19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%88%DA%A9%D8%A7%D9%86-09962364918-5d9f8db610b9?source=rss------data_science-5)
+- [Python: A Simple Yet Powerful Programming Language](https://medium.com/@shaheershaik81/python-a-simple-yet-powerful-programming-language-daef22707e90?source=rss------data_science-5)
+- [Practical Guide to Data Visualization with Matplotlib](https://towardsdev.com/practical-guide-to-data-visualization-with-matplotlib-feaa6e9a26c3?source=rss------data_science-5)
+- [Guia Prático de Visualização de Dados com Matplotlib](https://medium.com/@ernanedomingues/guia-pr%C3%A1tico-de-visualiza%C3%A7%C3%A3o-de-dados-com-matplotlib-f610a3b46567?source=rss------data_science-5)
+- [12 Python Automation Scripts That Skyrocketed Productivity as a Data &amp; AI Engineer](https://medium.com/@bijit211987/12-python-automation-scripts-that-skyrocketed-productivity-as-a-data-ai-engineer-0f61948df270?source=rss------data_science-5)
+- [Modeling Mindsets — How to Think Like a Statistician With Half a Braincell](https://medium.com/@celinehohzm/modeling-mindsets-how-to-think-like-a-statistician-with-half-a-braincell-f972dd066681?source=rss------data_science-5)
+- [Getting Started with PyIceberg](https://medium.com/@tglawless/getting-started-with-pyiceberg-a2fc1caffdab?source=rss------data_science-5)
+- [Argentina’s New AI Law: A Double-Edged Sword for Crime Prevention](https://medium.com/@michalmikuli/argentinas-new-ai-law-a-double-edged-sword-for-crime-prevention-e06304bf7b0a?source=rss------data_science-5)
+- [Exploring the Key Features of Python Programming](https://medium.com/@shaheershaik81/exploring-the-key-features-of-python-programming-555f7e638733?source=rss------data_science-5)
+- [شماره خاله لاهیجان
+شماره کوص لاهیجان
+شماره جنده لاهیجان
+شماره داف لاهیجان
+شماره سکس لاهیجان](https://medium.com/@ttat09005/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%D8%AF%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B3%DA%A9%D8%B3-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-4427172d79d7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
