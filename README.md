@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Unlocking the Power of Orthogonality: The Gram-Schmidt Process in Practice](https://ai.gopubby.com/unlocking-the-power-of-orthogonality-the-gram-schmidt-process-in-practice-a59510d54d59?source=rss------data_science-5)
-- [32 legit websites offering high-paying data entry jobs](https://medium.com/@therjrajesh/32-legit-websites-offering-high-paying-data-entry-jobs-5bd5eed4675c?source=rss------data_science-5)
-- [Python Community Anguished: Core Developer Banned For A Dan Akroyd Reference](https://tomaszs2.medium.com/python-community-anguished-core-developer-banned-for-a-dan-akroyd-reference-1c17b2ff1568?source=rss------data_science-5)
-- [A diferença entre atendimentos virtuais: pesquisas, questionários e formulários.](https://flaviagravina.medium.com/a-diferen%C3%A7a-entre-atendimentos-virtuais-pesquisas-question%C3%A1rios-e-formul%C3%A1rios-a90132fe54a8?source=rss------data_science-5)
-- [Mathematics for Data Science Part 1: Understanding Vectors in Linear Algebra](https://pub.towardsai.net/mathematics-for-data-science-part-1-understanding-vectors-in-linear-algebra-2448ca6a696a?source=rss------data_science-5)
-- [Top 5 Data Science Projects to Showcase on Your Resume](https://medium.com/@kuva0772756745/top-5-data-science-projects-to-showcase-on-your-resume-d03f6c3d26ba?source=rss------data_science-5)
-- [Title: Every American Social Security Number Potentially Stolen by Hackers: The Alarming Reality…](https://medium.com/@metanjo/title-every-american-social-security-number-potentially-stolen-by-hackers-the-alarming-reality-9768a23b1166?source=rss------data_science-5)
-- [“The Promise of Data-Driven Decision Making — From Analytics to Visualization and Beyond” &lpar;new…](https://internetdigitalentrepreneur.medium.com/the-promise-of-data-driven-decision-making-from-analytics-to-visualization-and-beyond-new-cf8fef399a01?source=rss------data_science-5)
-- [What is TinyChain?](https://medium.com/@tinychain/what-is-tinychain-a8d0ef413242?source=rss------data_science-5)
-- [The Winner of the “Worst Place to Talk About Finance” award goes to Reddit.com!](https://medium.com/@austin-starks/the-winner-of-the-worst-place-to-talk-about-finance-award-goes-to-reddit-com-4ae3649015b2?source=rss------data_science-5)
+- [Improving my NBA stats SQL Agent Part 2](https://fukumaruuu.medium.com/improving-my-nba-stats-sql-agent-part-2-5234c9e4b474?source=rss------data_science-5)
+- [DV Cash Loan customer care helpline number / 8092625820*//8084483355*//✍️/Call me -.](https://medium.com/@ksusggs/dv-cash-loan-customer-care-helpline-number-8092625820-8084483355-%EF%B8%8F-call-me-f154334a2883?source=rss------data_science-5)
+- [DV Cash Loan customer care helpline number / 8092625820*//8084483355*//✍️/Call me -.](https://medium.com/@ksusggs/dv-cash-loan-customer-care-helpline-number-8092625820-8084483355-%EF%B8%8F-call-me-b5ed8d75c332?source=rss------data_science-5)
+- [DV Cash Loan customer care helpline number / 9056499117*//8797981120*//✍️/Call me -.](https://medium.com/@tahsjsgs/dv-cash-loan-customer-care-helpline-number-9056499117-8797981120-%EF%B8%8F-call-me-f7c354c7d498?source=rss------data_science-5)
+- [DV Cash Loan customer care helpline number / 9056499117*//8797981120*//✍️/Call me -.](https://medium.com/@tahsjsgs/dv-cash-loan-customer-care-helpline-number-9056499117-8797981120-%EF%B8%8F-call-me-1c0126cf4547?source=rss------data_science-5)
+- [DV Cash Loan customer care helpline number / 9056499117*//8797981120*//✍️/Call me -.](https://medium.com/@tahsjsgs/dv-cash-loan-customer-care-helpline-number-9056499117-8797981120-%EF%B8%8F-call-me-1f1c4ac7cdda?source=rss------data_science-5)
+- [DV Cash Loan customer care helpline number / 9056499117*//8797981120*//✍️/Call me -.](https://medium.com/@tahsjsgs/dv-cash-loan-customer-care-helpline-number-9056499117-8797981120-%EF%B8%8F-call-me-fcf6b96dcbc6?source=rss------data_science-5)
+- [Multivariate Timeseries Forecasting for Air Quality Prediction](https://medium.com/@seelcs12/multivariate-timeseries-forecasting-for-air-quality-prediction-f5bc772bc8a6?source=rss------data_science-5)
+- [Step-by-Step Guide for Building Interactive Calendars in Plotly](https://towardsdatascience.com/step-by-step-guide-for-building-interactive-calendars-in-plotly-277053f6ee7c?source=rss------data_science-5)
+- [MatplotLib](https://medium.com/@felipecmelo/matplotlib-06a3c7e8a9e0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
