@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Improving my NBA stats SQL Agent Part 2](https://fukumaruuu.medium.com/improving-my-nba-stats-sql-agent-part-2-5234c9e4b474?source=rss------data_science-5)
-- [DV Cash Loan customer care helpline number / 8092625820*//8084483355*//✍️/Call me -.](https://medium.com/@ksusggs/dv-cash-loan-customer-care-helpline-number-8092625820-8084483355-%EF%B8%8F-call-me-f154334a2883?source=rss------data_science-5)
-- [DV Cash Loan customer care helpline number / 8092625820*//8084483355*//✍️/Call me -.](https://medium.com/@ksusggs/dv-cash-loan-customer-care-helpline-number-8092625820-8084483355-%EF%B8%8F-call-me-b5ed8d75c332?source=rss------data_science-5)
-- [DV Cash Loan customer care helpline number / 9056499117*//8797981120*//✍️/Call me -.](https://medium.com/@tahsjsgs/dv-cash-loan-customer-care-helpline-number-9056499117-8797981120-%EF%B8%8F-call-me-f7c354c7d498?source=rss------data_science-5)
-- [DV Cash Loan customer care helpline number / 9056499117*//8797981120*//✍️/Call me -.](https://medium.com/@tahsjsgs/dv-cash-loan-customer-care-helpline-number-9056499117-8797981120-%EF%B8%8F-call-me-1c0126cf4547?source=rss------data_science-5)
-- [DV Cash Loan customer care helpline number / 9056499117*//8797981120*//✍️/Call me -.](https://medium.com/@tahsjsgs/dv-cash-loan-customer-care-helpline-number-9056499117-8797981120-%EF%B8%8F-call-me-1f1c4ac7cdda?source=rss------data_science-5)
-- [DV Cash Loan customer care helpline number / 9056499117*//8797981120*//✍️/Call me -.](https://medium.com/@tahsjsgs/dv-cash-loan-customer-care-helpline-number-9056499117-8797981120-%EF%B8%8F-call-me-fcf6b96dcbc6?source=rss------data_science-5)
-- [Multivariate Timeseries Forecasting for Air Quality Prediction](https://medium.com/@seelcs12/multivariate-timeseries-forecasting-for-air-quality-prediction-f5bc772bc8a6?source=rss------data_science-5)
-- [Step-by-Step Guide for Building Interactive Calendars in Plotly](https://towardsdatascience.com/step-by-step-guide-for-building-interactive-calendars-in-plotly-277053f6ee7c?source=rss------data_science-5)
-- [MatplotLib](https://medium.com/@felipecmelo/matplotlib-06a3c7e8a9e0?source=rss------data_science-5)
+- [How the Pandemic Led Me to Design a Hospital Database](https://medium.com/@hamzamsalahds/how-the-pandemic-led-me-to-design-a-hospital-database-d9bb643c44af?source=rss------data_science-5)
+- [Large Language Models &lpar;LLMs&rpar; vs. Traditional NLP Approaches](https://medium.com/large-language-models/large-language-models-llms-vs-traditional-nlp-approaches-556b1e82444d?source=rss------data_science-5)
+- [MICROSEO credit loan customer care helpline number &rpar;&lpar;. 8092625820 ./ 8084483355 / Call.](https://medium.com/@shcfb/microseo-credit-loan-customer-care-helpline-number-8092625820-8084483355-call-c4bc9cfa0f68?source=rss------data_science-5)
+- [MICROSEO credit loan customer care helpline number &rpar;&lpar;. 8092625820 ./ 8084483355 / Call.](https://medium.com/@shcfb/microseo-credit-loan-customer-care-helpline-number-8092625820-8084483355-call-639366f7dc78?source=rss------data_science-5)
+- [MICROSEO credit loan customer care helpline number &rpar;&lpar;. 8092625820 ./ 8084483355 / Call.](https://medium.com/@shcfb/microseo-credit-loan-customer-care-helpline-number-8092625820-8084483355-call-107132cd13b5?source=rss------data_science-5)
+- [Random Forest](https://medium.com/@fernandasampaio_74014/random-forest-d4b31978f327?source=rss------data_science-5)
+- [“ STRAHINJA PAVLOVIC from SABAC to MILANELLO “](https://medium.com/@amin.haridu/strahinja-pavlovic-from-sabac-to-milanello-de1d4e5109cf?source=rss------data_science-5)
+- [شماره خاله خوی](https://medium.com/@kalenastaran19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AE%D9%88%DB%8C-330c3673189a?source=rss------data_science-5)
+- [The AI Expertise Dilemma: Navigating the Flood of Self-Proclaimed Experts](https://medium.com/@hassan.s.alkhatib/the-ai-expertise-dilemma-navigating-the-flood-of-self-proclaimed-experts-f0b39e6a8aba?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
