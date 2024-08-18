@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How the Pandemic Led Me to Design a Hospital Database](https://medium.com/@hamzamsalahds/how-the-pandemic-led-me-to-design-a-hospital-database-d9bb643c44af?source=rss------data_science-5)
-- [Large Language Models &lpar;LLMs&rpar; vs. Traditional NLP Approaches](https://medium.com/large-language-models/large-language-models-llms-vs-traditional-nlp-approaches-556b1e82444d?source=rss------data_science-5)
-- [MICROSEO credit loan customer care helpline number &rpar;&lpar;. 8092625820 ./ 8084483355 / Call.](https://medium.com/@shcfb/microseo-credit-loan-customer-care-helpline-number-8092625820-8084483355-call-c4bc9cfa0f68?source=rss------data_science-5)
-- [MICROSEO credit loan customer care helpline number &rpar;&lpar;. 8092625820 ./ 8084483355 / Call.](https://medium.com/@shcfb/microseo-credit-loan-customer-care-helpline-number-8092625820-8084483355-call-639366f7dc78?source=rss------data_science-5)
-- [MICROSEO credit loan customer care helpline number &rpar;&lpar;. 8092625820 ./ 8084483355 / Call.](https://medium.com/@shcfb/microseo-credit-loan-customer-care-helpline-number-8092625820-8084483355-call-107132cd13b5?source=rss------data_science-5)
-- [Random Forest](https://medium.com/@fernandasampaio_74014/random-forest-d4b31978f327?source=rss------data_science-5)
-- [“ STRAHINJA PAVLOVIC from SABAC to MILANELLO “](https://medium.com/@amin.haridu/strahinja-pavlovic-from-sabac-to-milanello-de1d4e5109cf?source=rss------data_science-5)
-- [شماره خاله خوی](https://medium.com/@kalenastaran19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AE%D9%88%DB%8C-330c3673189a?source=rss------data_science-5)
-- [The AI Expertise Dilemma: Navigating the Flood of Self-Proclaimed Experts](https://medium.com/@hassan.s.alkhatib/the-ai-expertise-dilemma-navigating-the-flood-of-self-proclaimed-experts-f0b39e6a8aba?source=rss------data_science-5)
+- [Creating weapons with artificial intelligence, the new global debate on mass destruction](https://medium.com/@martareyessuarez25/creating-weapons-with-artificial-intelligence-the-new-global-debate-on-mass-destruction-c1b50164536e?source=rss------data_science-5)
+- [Research Data Retrieval: Elevating Academic and Corporate Research with Advanced Tools](https://medium.com/aimonks/research-data-retrieval-elevating-academic-and-corporate-research-with-advanced-tools-985c95b2d04b?source=rss------data_science-5)
+- [Getting to Know Jensen-Shannon Divergence &lpar;JSD&rpar;](https://medium.com/@_prinsh_u/getting-to-know-jensen-shannon-divergence-jsd-5c96720a4434?source=rss------data_science-5)
+- [Non-technical books for technical people](https://fukumaruuu.medium.com/non-technical-books-for-technical-people-8bcf8faf95b5?source=rss------data_science-5)
+- [The Nth Highest &amp; The Top N Data Retrieval Concept in SQL.](https://pub.towardsai.net/the-nth-highest-the-top-n-data-retrieval-concept-in-sql-9d5cc7f8b896?source=rss------data_science-5)
+- [Using Surrogate Gradients and STE in Machine Learning](https://machine-learning-made-simple.medium.com/using-surrogate-gradients-and-ste-in-machine-learning-0f949d01dd78?source=rss------data_science-5)
+- [Enhancing Deep Learning Model Evaluation for Stock Market Forecasting](https://ostiguyphilippe.medium.com/enhancing-deep-learning-model-evaluation-for-stock-market-forecasting-bea30b905b80?source=rss------data_science-5)
+- [Day 15: Unsupervised Learning Algorithms — Part 2](https://medium.com/@nikhil16kulkarni/day-15-unsupervised-learning-algorithms-part-2-cf9fa7cd38c3?source=rss------data_science-5)
+- [Improve python code for Machine Learning in production](https://medium.com/@javilazarogarcia/improve-python-for-machine-learning-in-production-47c5309aa67c?source=rss------data_science-5)
+- [Cracking the Weibull Code: Understanding Failure Patterns with easy intution](https://medium.com/@erangadarora/cracking-the-weibull-code-understanding-failure-patterns-with-easy-intution-e0c64dec7a42?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
