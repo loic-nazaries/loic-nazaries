@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Optimizations in Apache Spark](https://medium.com/@ismaelhenzel33/optimizations-in-apache-spark-ac428a6a961d?source=rss------data_science-5)
-- [Bees and Alcohol   The Bittersweet Tale from the Amazing World of Insects](https://medium.com/@didikurniawanmade/bees-and-alcohol-the-bittersweet-tale-from-the-amazing-world-of-insects-6ccdbcb8df16?source=rss------data_science-5)
-- [Clasificación de Comentarios con Python y OpenAI GPT-4-mini](https://medium.com/@noyomedicen/clasificaci%C3%B3n-de-comentarios-con-python-y-openai-gpt-4-mini-e2caed78edcf?source=rss------data_science-5)
-- [What is Data Science? A Beginner’s Perspective](https://medium.com/@amarnath965985/what-is-data-science-a-beginners-perspective-65f3a0641e77?source=rss------data_science-5)
-- [Day 19: Association Rule Learning](https://medium.com/@nikhil16kulkarni/day-19-association-rule-learning-e7d857d4a583?source=rss------data_science-5)
-- [Transforming Data into Stories: A Journey Towards Deeper Understanding in Data Science](https://python.plainenglish.io/transforming-data-into-stories-a-journey-towards-deeper-understanding-in-data-science-b9e2e8d22b65?source=rss------data_science-5)
-- [I will write grc analyst, data analyst, data science, cybersecurity, sales tech resume](https://medium.com/@samanthagenius963/i-will-write-grc-analyst-data-analyst-data-science-cybersecurity-sales-tech-resume-a451d01fce6c?source=rss------data_science-5)
-- [Logistic Regression for Diagnosis of Gestational Diabetes using Binary Classification Methods](https://medium.com/@snehamurali005/logistic-regression-to-identify-the-leading-cause-of-gestational-diabetes-d84baafbcfd3?source=rss------data_science-5)
-- [Do We Really Need Dedicated Guardrails for Generative AI?](https://medium.com/seek-blog/do-we-really-need-dedicated-guardrails-for-generative-ai-f9b486c7f096?source=rss------data_science-5)
-- [What To Expect When You Work For Small Or Large Tech Companies](https://medium.com/engineering-managers-journal/what-to-expect-when-you-work-for-small-or-large-tech-companies-2b3cc5208329?source=rss------data_science-5)
+- [شماره خاله لار](https://medium.com/@kalesadaf4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D8%B1-d3ad45d6cb2e?source=rss------data_science-5)
+- [Unleashing the Power of DPLYR: Mastering Data Manipulation in R](https://medium.com/@akashchauhan1930/unleashing-the-power-of-dplyr-mastering-data-manipulation-in-r-ac1dd91630c1?source=rss------data_science-5)
+- [KRAKEN TOR ССЫЛКА “KRA2.ME” 20 АВГУСТ 2024 “KRA2.ME”](https://medium.com/@balat88936/kraken-tor-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0-kra2-me-20-%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82-2024-kra2-me-639557c1b450?source=rss------data_science-5)
+- [Day 20: Neural Networks and Deep Learning](https://medium.com/@nikhil16kulkarni/day-20-neural-networks-and-deep-learning-b920a82d44dd?source=rss------data_science-5)
+- [Hands-on Time Series Anomaly Detection using Autoencoders, with Python](https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122?source=rss------data_science-5)
+- [شماره خاله مرودشت](https://medium.com/@kalenastaran19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA-9c3ade67ccc2?source=rss------data_science-5)
+- [Ultimate DSA Interview Prep: 3/12 2 Pointers](https://saiparvathaneni.medium.com/ultimate-dsa-interview-prep-3-12-2-pointers-6b5b6d86cbb5?source=rss------data_science-5)
+- [شماره خاله بانه](https://medium.com/@kalenastaran19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D9%86%D9%87-30b5c19f5259?source=rss------data_science-5)
+- [56 Steps, 1 Complete Marketing Project: From Data to Strategy](https://towardsdatascience.com/56-steps-1-complete-marketing-project-from-data-to-strategy-20c0ce995f1b?source=rss------data_science-5)
+- [My Data Story](https://medium.com/@mrgabby0/my-data-story-0c6eeab590f8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
