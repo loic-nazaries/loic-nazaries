@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [شماره خاله لار](https://medium.com/@kalesadaf4/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D8%B1-d3ad45d6cb2e?source=rss------data_science-5)
-- [Unleashing the Power of DPLYR: Mastering Data Manipulation in R](https://medium.com/@akashchauhan1930/unleashing-the-power-of-dplyr-mastering-data-manipulation-in-r-ac1dd91630c1?source=rss------data_science-5)
-- [KRAKEN TOR ССЫЛКА “KRA2.ME” 20 АВГУСТ 2024 “KRA2.ME”](https://medium.com/@balat88936/kraken-tor-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0-kra2-me-20-%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82-2024-kra2-me-639557c1b450?source=rss------data_science-5)
-- [Day 20: Neural Networks and Deep Learning](https://medium.com/@nikhil16kulkarni/day-20-neural-networks-and-deep-learning-b920a82d44dd?source=rss------data_science-5)
-- [Hands-on Time Series Anomaly Detection using Autoencoders, with Python](https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122?source=rss------data_science-5)
-- [شماره خاله مرودشت](https://medium.com/@kalenastaran19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA-9c3ade67ccc2?source=rss------data_science-5)
-- [Ultimate DSA Interview Prep: 3/12 2 Pointers](https://saiparvathaneni.medium.com/ultimate-dsa-interview-prep-3-12-2-pointers-6b5b6d86cbb5?source=rss------data_science-5)
-- [شماره خاله بانه](https://medium.com/@kalenastaran19/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D9%86%D9%87-30b5c19f5259?source=rss------data_science-5)
-- [56 Steps, 1 Complete Marketing Project: From Data to Strategy](https://towardsdatascience.com/56-steps-1-complete-marketing-project-from-data-to-strategy-20c0ce995f1b?source=rss------data_science-5)
-- [My Data Story](https://medium.com/@mrgabby0/my-data-story-0c6eeab590f8?source=rss------data_science-5)
+- [Transformando una pasión en carrera profesional con la Ciencia de Datos](https://lewagonlatam.medium.com/transformando-una-pasi%C3%B3n-en-carrera-profesional-con-la-ciencia-de-datos-360fbeb3f40e?source=rss------data_science-5)
+- [Central Limit Theorem](https://medium.com/@syoussefi600/central-limit-theorem-a870885b529d?source=rss------data_science-5)
+- [The Manises UFO incident](https://medium.com/@WorldOfMystery/the-manises-ufo-incident-26e2c644d575?source=rss------data_science-5)
+- [Statistics: Part 2](https://medium.com/@sayedebad.777/statistics-part-2-93250debbb69?source=rss------data_science-5)
+- [Bitcoin Mining: What is it &amp; How Does it Work?](https://medium.com/@hubert_daniel9117/bitcoin-mining-what-is-it-how-does-it-work-ff77d5dee2ff?source=rss------data_science-5)
+- [Nümunə Seçmə &lpar;Sampling&rpar; nədir və onun üsulları/metodları hansılardır ?](https://medium.com/@solmazdataworld/n%C3%BCmun%C9%99-se%C3%A7m%C9%99-sampling-n%C9%99dir-v%C9%99-onun-%C3%BCsullar%C4%B1-metodlar%C4%B1-hans%C4%B1lard%C4%B1r-497e2175eae9?source=rss------data_science-5)
+- [“Visualizing Insights: Analyzing Book Data with Python”](https://medium.com/@visualizersandhya/visualizing-insights-analyzing-book-data-with-python-8a8b22983955?source=rss------data_science-5)
+- [Veri Yapıları Temel Bilgiler](https://medium.com/@alinebier138/veri-yap%C4%B1lar%C4%B1-temel-bilgiler-274029b9a75f?source=rss------data_science-5)
+- [Secret Interviews with Extraterrestrials: The Hidden Truths of EBE’s Encounters](https://medium.com/@WorldOfMystery/secret-interviews-with-extraterrestrials-the-hidden-truths-of-ebes-encounters-baa1be2f7050?source=rss------data_science-5)
+- [Food at your Fingertips — Exploratory Data Analysis](https://medium.com/@visualizersandhya/food-at-your-fingertips-exploratory-data-analysis-9b34f9dc4088?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
