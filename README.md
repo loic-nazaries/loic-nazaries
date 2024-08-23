@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Transformando una pasión en carrera profesional con la Ciencia de Datos](https://lewagonlatam.medium.com/transformando-una-pasi%C3%B3n-en-carrera-profesional-con-la-ciencia-de-datos-360fbeb3f40e?source=rss------data_science-5)
-- [Central Limit Theorem](https://medium.com/@syoussefi600/central-limit-theorem-a870885b529d?source=rss------data_science-5)
-- [The Manises UFO incident](https://medium.com/@WorldOfMystery/the-manises-ufo-incident-26e2c644d575?source=rss------data_science-5)
-- [Statistics: Part 2](https://medium.com/@sayedebad.777/statistics-part-2-93250debbb69?source=rss------data_science-5)
-- [Bitcoin Mining: What is it &amp; How Does it Work?](https://medium.com/@hubert_daniel9117/bitcoin-mining-what-is-it-how-does-it-work-ff77d5dee2ff?source=rss------data_science-5)
-- [Nümunə Seçmə &lpar;Sampling&rpar; nədir və onun üsulları/metodları hansılardır ?](https://medium.com/@solmazdataworld/n%C3%BCmun%C9%99-se%C3%A7m%C9%99-sampling-n%C9%99dir-v%C9%99-onun-%C3%BCsullar%C4%B1-metodlar%C4%B1-hans%C4%B1lard%C4%B1r-497e2175eae9?source=rss------data_science-5)
-- [“Visualizing Insights: Analyzing Book Data with Python”](https://medium.com/@visualizersandhya/visualizing-insights-analyzing-book-data-with-python-8a8b22983955?source=rss------data_science-5)
-- [Veri Yapıları Temel Bilgiler](https://medium.com/@alinebier138/veri-yap%C4%B1lar%C4%B1-temel-bilgiler-274029b9a75f?source=rss------data_science-5)
-- [Secret Interviews with Extraterrestrials: The Hidden Truths of EBE’s Encounters](https://medium.com/@WorldOfMystery/secret-interviews-with-extraterrestrials-the-hidden-truths-of-ebes-encounters-baa1be2f7050?source=rss------data_science-5)
-- [Food at your Fingertips — Exploratory Data Analysis](https://medium.com/@visualizersandhya/food-at-your-fingertips-exploratory-data-analysis-9b34f9dc4088?source=rss------data_science-5)
+- [CEOs: 6 Game-Changing Ways AI Can Supercharge Your Revenue](https://medium.com/@lucaswolland/ceos-6-game-changing-ways-ai-can-supercharge-your-revenue-991bbd3768ed?source=rss------data_science-5)
+- [Data Visualisation Evolution: How Python Libraries Evolve Without Leaving Their Roots Behind [Part…](https://medium.com/@vikrantsakharwade_18562/data-visualisation-evolution-how-python-libraries-evolve-without-leaving-their-roots-behind-part-8ab5fe7a7952?source=rss------data_science-5)
+- [With the Economy on the Fritz, is this the New Best Option?](https://wire.insiderfinance.io/with-the-economy-on-the-fritz-is-this-the-new-best-option-329abb93b148?source=rss------data_science-5)
+- [How a Single Innovation is Revolutionizing AI Forever](https://medium.com/@lucaswolland/how-a-single-innovation-is-revolutionizing-ai-forever-77e8e9bc92a1?source=rss------data_science-5)
+- [Unlock SQL Window Functions: 10 Minutes to Pro Level!](https://blog.det.life/unlock-sql-window-functions-10-minutes-to-pro-level-d35951c1ca1d?source=rss------data_science-5)
+- [Ultimate DSA Interview Prep: 4/12 Stacks](https://saiparvathaneni.medium.com/ultimate-dsa-interview-prep-4-12-stacks-7965caad5163?source=rss------data_science-5)
+- [AWS CDK Practical Notes: Lessons and Best Practices from Real-World Projects](https://medium.com/@SiqiLi/aws-cdk-practical-notes-lessons-and-best-practices-from-real-world-projects-8881f7759c55?source=rss------data_science-5)
+- [Desafíos en el Entrenamiento de Modelos de IA](https://es.ai-evergreen.club/desaf%C3%ADos-en-el-entrenamiento-de-modelos-de-ia-f502b70cc878?source=rss------data_science-5)
+- [&lpar;Day: 34&rpar; I Will Start Over](https://medium.com/@alialtuntas.stat/day-34-i-will-start-over-bda701b2f71c?source=rss------data_science-5)
+- [Day 22: Model Deployment](https://medium.com/@nikhil16kulkarni/day-22-model-deployment-75e52d9580d3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
