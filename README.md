@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [CEOs: 6 Game-Changing Ways AI Can Supercharge Your Revenue](https://medium.com/@lucaswolland/ceos-6-game-changing-ways-ai-can-supercharge-your-revenue-991bbd3768ed?source=rss------data_science-5)
-- [Data Visualisation Evolution: How Python Libraries Evolve Without Leaving Their Roots Behind [Part…](https://medium.com/@vikrantsakharwade_18562/data-visualisation-evolution-how-python-libraries-evolve-without-leaving-their-roots-behind-part-8ab5fe7a7952?source=rss------data_science-5)
-- [With the Economy on the Fritz, is this the New Best Option?](https://wire.insiderfinance.io/with-the-economy-on-the-fritz-is-this-the-new-best-option-329abb93b148?source=rss------data_science-5)
-- [How a Single Innovation is Revolutionizing AI Forever](https://medium.com/@lucaswolland/how-a-single-innovation-is-revolutionizing-ai-forever-77e8e9bc92a1?source=rss------data_science-5)
-- [Unlock SQL Window Functions: 10 Minutes to Pro Level!](https://blog.det.life/unlock-sql-window-functions-10-minutes-to-pro-level-d35951c1ca1d?source=rss------data_science-5)
-- [Ultimate DSA Interview Prep: 4/12 Stacks](https://saiparvathaneni.medium.com/ultimate-dsa-interview-prep-4-12-stacks-7965caad5163?source=rss------data_science-5)
-- [AWS CDK Practical Notes: Lessons and Best Practices from Real-World Projects](https://medium.com/@SiqiLi/aws-cdk-practical-notes-lessons-and-best-practices-from-real-world-projects-8881f7759c55?source=rss------data_science-5)
-- [Desafíos en el Entrenamiento de Modelos de IA](https://es.ai-evergreen.club/desaf%C3%ADos-en-el-entrenamiento-de-modelos-de-ia-f502b70cc878?source=rss------data_science-5)
-- [&lpar;Day: 34&rpar; I Will Start Over](https://medium.com/@alialtuntas.stat/day-34-i-will-start-over-bda701b2f71c?source=rss------data_science-5)
-- [Day 22: Model Deployment](https://medium.com/@nikhil16kulkarni/day-22-model-deployment-75e52d9580d3?source=rss------data_science-5)
+- [The Keyboard](https://medium.com/@gy118/the-keyboard-61c5cc27a536?source=rss------data_science-5)
+- [Day 23: Natural Language Processing — Part 1](https://medium.com/@nikhil16kulkarni/day-23-natural-language-processing-part-1-3bfea8cc5e7a?source=rss------data_science-5)
+- [Feature Extraction for Time Series, from Theory to Practice, with Python](https://towardsdatascience.com/feature-extraction-for-time-series-from-theory-to-practice-with-python-25631c6d8fcb?source=rss------data_science-5)
+- [Never Write SQL again…](https://databasely.medium.com/how-to-chat-with-your-databases-825a28d5c41c?source=rss------data_science-5)
+- [Wormhole ?](https://medium.com/@TommyPete/wormhole-9530127cfedd?source=rss------data_science-5)
+- [How I Transitioned From Analyst to Data Scientist In Less Than 12 Months](https://towardsdatascience.com/how-i-transitioned-from-analyst-to-data-scientist-in-less-than-12-months-8414d2c86a02?source=rss------data_science-5)
+- [YouTube Unveils New Tool to Help Creators Regain Control of Hacked Channels!](https://medium.com/@realahmedmoses/youtube-unveils-new-tool-to-help-creators-regain-control-of-hacked-channels-943b4fffcb25?source=rss------data_science-5)
+- [How Embracing Failure Led Me to Success in the Tech Industry](https://medium.com/@1ahmadhnayaya/how-embracing-failure-led-me-to-success-in-the-tech-industry-88f4284f3125?source=rss------data_science-5)
+- [Initial tutorial for junior data scientists to start AWS, Azure or GCP &lpar;1/2&rpar; — IAM](https://medium.com/@ryosukeiimura/initial-tutorial-for-junior-data-scientists-to-start-aws-azure-or-gcp-1-2-iam-037381f22946?source=rss------data_science-5)
+- [Is the Universe Made of Information?](https://medium.com/@prmj2187/is-the-universe-made-of-information-7d1e8c64ed40?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
