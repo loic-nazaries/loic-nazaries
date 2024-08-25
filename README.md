@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Keyboard](https://medium.com/@gy118/the-keyboard-61c5cc27a536?source=rss------data_science-5)
-- [Day 23: Natural Language Processing — Part 1](https://medium.com/@nikhil16kulkarni/day-23-natural-language-processing-part-1-3bfea8cc5e7a?source=rss------data_science-5)
-- [Feature Extraction for Time Series, from Theory to Practice, with Python](https://towardsdatascience.com/feature-extraction-for-time-series-from-theory-to-practice-with-python-25631c6d8fcb?source=rss------data_science-5)
-- [Never Write SQL again…](https://databasely.medium.com/how-to-chat-with-your-databases-825a28d5c41c?source=rss------data_science-5)
-- [Wormhole ?](https://medium.com/@TommyPete/wormhole-9530127cfedd?source=rss------data_science-5)
-- [How I Transitioned From Analyst to Data Scientist In Less Than 12 Months](https://towardsdatascience.com/how-i-transitioned-from-analyst-to-data-scientist-in-less-than-12-months-8414d2c86a02?source=rss------data_science-5)
-- [YouTube Unveils New Tool to Help Creators Regain Control of Hacked Channels!](https://medium.com/@realahmedmoses/youtube-unveils-new-tool-to-help-creators-regain-control-of-hacked-channels-943b4fffcb25?source=rss------data_science-5)
-- [How Embracing Failure Led Me to Success in the Tech Industry](https://medium.com/@1ahmadhnayaya/how-embracing-failure-led-me-to-success-in-the-tech-industry-88f4284f3125?source=rss------data_science-5)
-- [Initial tutorial for junior data scientists to start AWS, Azure or GCP &lpar;1/2&rpar; — IAM](https://medium.com/@ryosukeiimura/initial-tutorial-for-junior-data-scientists-to-start-aws-azure-or-gcp-1-2-iam-037381f22946?source=rss------data_science-5)
-- [Is the Universe Made of Information?](https://medium.com/@prmj2187/is-the-universe-made-of-information-7d1e8c64ed40?source=rss------data_science-5)
+- [How To Use Sort_by&lpar;&rpar;, The New Data Sorting Function in R 4.4](https://zimanaanalytics.medium.com/how-to-use-sort-by-the-new-data-sorting-function-in-r-4-4-059603ca353c?source=rss------data_science-5)
+- [Rich Dad Poor Dad: A Tale of Two Financial Mindsets](https://medium.com/@rehmankamran891/rich-dad-poor-dad-a-tale-of-two-financial-mindsets-f19e81665631?source=rss------data_science-5)
+- [https://healthcenter1188.blogspot.com/?m=1](https://medium.com/@afaqbahtti508/https-healthcenter1188-blogspot-com-m-1-ee2d6ea29f3d?source=rss------data_science-5)
+- [&lpar;Day: 36&rpar; I Completed Google Data Analytics Specialization](https://medium.com/@alialtuntas.stat/day-36-i-completed-google-data-analytics-specialization-6d394be0acda?source=rss------data_science-5)
+- [My Python Learning Journey: From Basics to Advanced Programming and Beyond….](https://pratikalkutkar.medium.com/my-python-learning-journey-from-basics-to-advanced-programming-and-beyond-ad66d7e22f7a?source=rss------data_science-5)
+- [My mom&#39;s business failed thrice.](https://sigmaquinn.medium.com/my-moms-business-failed-thrice-6ff9052558aa?source=rss------data_science-5)
+- [I will write data science resume, data analyst, business analyst, data analytics resume](https://medium.com/@arokanmiibrahim/i-will-write-data-science-resume-data-analyst-business-analyst-data-analytics-resume-2e63b1419cd4?source=rss------data_science-5)
+- [Unlocking Business Value in Oil &amp; Gas: The Essential Skills for Data Engineers and Scientists](https://medium.com/@chattatoumaima/unlocking-business-value-in-oil-gas-the-essential-skills-for-data-engineers-and-scientists-f4ebb4ebfbdb?source=rss------data_science-5)
+- [“Understanding Error Metrics in Machine Learning: A Comprehensive Guide”](https://medium.com/@abubakkarsiddiq5497/understanding-error-metrics-in-machine-learning-a-comprehensive-guide-b61e379aa994?source=rss------data_science-5)
+- [Simple Explanation of Overfitting, Cross Entropy, and Regularization in Model Training](https://medium.com/@adila.babayevaa/simple-explanation-of-overfitting-cross-entropy-and-regularization-in-model-training-871444895e3f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
