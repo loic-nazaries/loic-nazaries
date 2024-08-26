@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How To Use Sort_by&lpar;&rpar;, The New Data Sorting Function in R 4.4](https://zimanaanalytics.medium.com/how-to-use-sort-by-the-new-data-sorting-function-in-r-4-4-059603ca353c?source=rss------data_science-5)
-- [Rich Dad Poor Dad: A Tale of Two Financial Mindsets](https://medium.com/@rehmankamran891/rich-dad-poor-dad-a-tale-of-two-financial-mindsets-f19e81665631?source=rss------data_science-5)
-- [https://healthcenter1188.blogspot.com/?m=1](https://medium.com/@afaqbahtti508/https-healthcenter1188-blogspot-com-m-1-ee2d6ea29f3d?source=rss------data_science-5)
-- [&lpar;Day: 36&rpar; I Completed Google Data Analytics Specialization](https://medium.com/@alialtuntas.stat/day-36-i-completed-google-data-analytics-specialization-6d394be0acda?source=rss------data_science-5)
-- [My Python Learning Journey: From Basics to Advanced Programming and Beyond….](https://pratikalkutkar.medium.com/my-python-learning-journey-from-basics-to-advanced-programming-and-beyond-ad66d7e22f7a?source=rss------data_science-5)
-- [My mom&#39;s business failed thrice.](https://sigmaquinn.medium.com/my-moms-business-failed-thrice-6ff9052558aa?source=rss------data_science-5)
-- [I will write data science resume, data analyst, business analyst, data analytics resume](https://medium.com/@arokanmiibrahim/i-will-write-data-science-resume-data-analyst-business-analyst-data-analytics-resume-2e63b1419cd4?source=rss------data_science-5)
-- [Unlocking Business Value in Oil &amp; Gas: The Essential Skills for Data Engineers and Scientists](https://medium.com/@chattatoumaima/unlocking-business-value-in-oil-gas-the-essential-skills-for-data-engineers-and-scientists-f4ebb4ebfbdb?source=rss------data_science-5)
-- [“Understanding Error Metrics in Machine Learning: A Comprehensive Guide”](https://medium.com/@abubakkarsiddiq5497/understanding-error-metrics-in-machine-learning-a-comprehensive-guide-b61e379aa994?source=rss------data_science-5)
-- [Simple Explanation of Overfitting, Cross Entropy, and Regularization in Model Training](https://medium.com/@adila.babayevaa/simple-explanation-of-overfitting-cross-entropy-and-regularization-in-model-training-871444895e3f?source=rss------data_science-5)
+- [Optimizing PySpark Performance: Using select&lpar;&rpar; Over withColumn&lpar;&rpar;](https://medium.com/@mukovhe.justice/optimizing-pyspark-performance-using-select-over-withcolumn-1e1c71c041bb?source=rss------data_science-5)
+- [Dealing with Messy Data in Machine Learning Projects](https://medium.datadriveninvestor.com/dealing-with-messy-data-in-machine-learning-projects-f94e44f4f5c1?source=rss------data_science-5)
+- [OMSCS &lpar;CS 7632&rpar; Game AI: My Engineering Milestone in the World of Gaming](https://medium.datadriveninvestor.com/omscs-cs-7632-game-ai-my-engineering-milestone-in-the-world-of-gaming-648bc8d6bc70?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله اصفهان شماره خاله یزد شماره خاله شیراز 09373711502](https://medium.com/@hffhvnvfhvc/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DB%8C%D8%B2%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-09373711502-33b0426e44ea?source=rss------data_science-5)
+- [Do Dogs Get Jealous? Understanding Canine Emotions and Behaviour](https://lvad.medium.com/canines-dogs-behaviours-when-their-owners-and-strangers-interact-with-other-objects-fc2964c830d8?source=rss------data_science-5)
+- [Thoughts about Modeling on Clustered Data &lpar;1/2&rpar;](https://medium.com/@JuanPabloHerrera/thoughts-about-modeling-on-clustered-data-1-2-fbfb7c2645b0?source=rss------data_science-5)
+- [A Comprehensive Guide to Data Preprocessing for Structured Data](https://medium.com/@dr.jacquelinegoh/a-comprehensive-guide-to-data-preprocessing-for-structured-data-82f8dc233a85?source=rss------data_science-5)
+- [A 25-Year-Old Insight About the First Billion Years of the Cosmos](https://avi-loeb.medium.com/a-25-year-old-insight-about-the-first-billion-years-of-the-cosmos-5ab1ca82bce2?source=rss------data_science-5)
+- [The Intersection of AI Development, Data Consent, and Social Impact](https://medium.com/@lorenamelo.engr/the-intersection-of-ai-development-data-consent-and-social-impact-c6b6b6d846c6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
