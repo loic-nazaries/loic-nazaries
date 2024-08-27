@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Optimizing PySpark Performance: Using select&lpar;&rpar; Over withColumn&lpar;&rpar;](https://medium.com/@mukovhe.justice/optimizing-pyspark-performance-using-select-over-withcolumn-1e1c71c041bb?source=rss------data_science-5)
-- [Dealing with Messy Data in Machine Learning Projects](https://medium.datadriveninvestor.com/dealing-with-messy-data-in-machine-learning-projects-f94e44f4f5c1?source=rss------data_science-5)
-- [OMSCS &lpar;CS 7632&rpar; Game AI: My Engineering Milestone in the World of Gaming](https://medium.datadriveninvestor.com/omscs-cs-7632-game-ai-my-engineering-milestone-in-the-world-of-gaming-648bc8d6bc70?source=rss------data_science-5)
-- [شماره خاله تهران شماره خاله اصفهان شماره خاله یزد شماره خاله شیراز 09373711502](https://medium.com/@hffhvnvfhvc/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DB%8C%D8%B2%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-09373711502-33b0426e44ea?source=rss------data_science-5)
-- [Do Dogs Get Jealous? Understanding Canine Emotions and Behaviour](https://lvad.medium.com/canines-dogs-behaviours-when-their-owners-and-strangers-interact-with-other-objects-fc2964c830d8?source=rss------data_science-5)
-- [Thoughts about Modeling on Clustered Data &lpar;1/2&rpar;](https://medium.com/@JuanPabloHerrera/thoughts-about-modeling-on-clustered-data-1-2-fbfb7c2645b0?source=rss------data_science-5)
-- [A Comprehensive Guide to Data Preprocessing for Structured Data](https://medium.com/@dr.jacquelinegoh/a-comprehensive-guide-to-data-preprocessing-for-structured-data-82f8dc233a85?source=rss------data_science-5)
-- [A 25-Year-Old Insight About the First Billion Years of the Cosmos](https://avi-loeb.medium.com/a-25-year-old-insight-about-the-first-billion-years-of-the-cosmos-5ab1ca82bce2?source=rss------data_science-5)
-- [The Intersection of AI Development, Data Consent, and Social Impact](https://medium.com/@lorenamelo.engr/the-intersection-of-ai-development-data-consent-and-social-impact-c6b6b6d846c6?source=rss------data_science-5)
+- [Mpox Outbreak Analysis: A descriptive Study of Cases from 2022–2024](https://medium.com/@adewumihassan73/mpox-outbreak-analysis-a-descriptive-study-of-cases-from-2022-2024-115bb81d1f21?source=rss------data_science-5)
+- [Quartz Core Images: Object Detection](https://medium.com/@Fehintiti/quartz-core-images-object-detection-af15b1c6c3fa?source=rss------data_science-5)
+- [Principal Component Analysis &lpar;PCA&rpar;](https://medium.com/@codyspark/principal-component-analysis-pca-ecaa31c663b3?source=rss------data_science-5)
+- [How to Implement Image Compression with PCA](https://medium.com/@codyspark/how-to-implement-image-compression-with-pca-844da4eb227d?source=rss------data_science-5)
+- [Understanding Machine Translation](https://medium.com/@ainatemiloluwa6/understanding-machine-translation-fc692b7a4dbe?source=rss------data_science-5)
+- [How to Color Polars DataFrame](https://towardsdatascience.com/how-to-color-polars-dataframe-8ada66161226?source=rss------data_science-5)
+- [MASTERING NEURAL NETWORK PROPAGATION](https://medium.com/@ainatemiloluwa6/mastering-neural-network-propagation-fdca1a13e288?source=rss------data_science-5)
+- [Why Feature Engineering is the Science Behind Data Science](https://medium.com/@filipespacheco/why-feature-engineering-is-the-science-behind-data-science-b8a3b7a1de80?source=rss------data_science-5)
+- [Exploring the Strategic Capabilities of LLMs in a Risk Game Setting](https://towardsdatascience.com/exploring-the-strategic-capabilities-of-llms-in-a-risk-game-setting-43c868d83c3b?source=rss------data_science-5)
+- [The weird relationship between Life Expectancy and GDP](https://bruno-mt.medium.com/the-weird-relationship-between-life-expectancy-and-gdp-e39049396ea0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
