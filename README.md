@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Mpox Outbreak Analysis: A descriptive Study of Cases from 2022–2024](https://medium.com/@adewumihassan73/mpox-outbreak-analysis-a-descriptive-study-of-cases-from-2022-2024-115bb81d1f21?source=rss------data_science-5)
-- [Quartz Core Images: Object Detection](https://medium.com/@Fehintiti/quartz-core-images-object-detection-af15b1c6c3fa?source=rss------data_science-5)
-- [Principal Component Analysis &lpar;PCA&rpar;](https://medium.com/@codyspark/principal-component-analysis-pca-ecaa31c663b3?source=rss------data_science-5)
-- [How to Implement Image Compression with PCA](https://medium.com/@codyspark/how-to-implement-image-compression-with-pca-844da4eb227d?source=rss------data_science-5)
-- [Understanding Machine Translation](https://medium.com/@ainatemiloluwa6/understanding-machine-translation-fc692b7a4dbe?source=rss------data_science-5)
-- [How to Color Polars DataFrame](https://towardsdatascience.com/how-to-color-polars-dataframe-8ada66161226?source=rss------data_science-5)
-- [MASTERING NEURAL NETWORK PROPAGATION](https://medium.com/@ainatemiloluwa6/mastering-neural-network-propagation-fdca1a13e288?source=rss------data_science-5)
-- [Why Feature Engineering is the Science Behind Data Science](https://medium.com/@filipespacheco/why-feature-engineering-is-the-science-behind-data-science-b8a3b7a1de80?source=rss------data_science-5)
-- [Exploring the Strategic Capabilities of LLMs in a Risk Game Setting](https://towardsdatascience.com/exploring-the-strategic-capabilities-of-llms-in-a-risk-game-setting-43c868d83c3b?source=rss------data_science-5)
-- [The weird relationship between Life Expectancy and GDP](https://bruno-mt.medium.com/the-weird-relationship-between-life-expectancy-and-gdp-e39049396ea0?source=rss------data_science-5)
+- [A Beginner’s Handbook to Learning Machine Learning: From Fundamentals to Real-World Applications —…](https://medium.com/@debopamwork/a-beginners-handbook-to-learning-machine-learning-from-fundamentals-to-real-world-applications-f1baafbf1b00?source=rss------data_science-5)
+- [Analytics Frameworks Every Data Scientist Should Know](https://towardsdatascience.com/analytics-frameworks-every-data-scientist-should-know-f6822f2272af?source=rss------data_science-5)
+- [Need for Speed: Streamlit vs Functool Caching](https://towardsdatascience.com/need-for-speed-streamlit-vs-functool-caching-eb3b7426f209?source=rss------data_science-5)
+- [How to Explain Data Science Projects in Interviews](https://medium.com/@parth.m1413/how-to-explain-data-science-projects-in-interviews-2dc60dc2728f?source=rss------data_science-5)
+- [How Data Scientists Are Mapping the Human Body with the Medical VectorMap](https://medium.com/@itmstart2022/how-data-scientists-are-mapping-the-human-body-with-the-medical-vectormap-cc7e8c6f69b5?source=rss------data_science-5)
+- [Python code to randomly select my weekend plan](https://medium.com/@bhumishah000.bs/python-code-to-randomly-select-my-weekend-plan-781d977e124e?source=rss------data_science-5)
+- [Part 1: Developing and Visualizing a Time Series Model with ARIMA](https://medium.com/@tzhaonj/part-1-developing-and-visualizing-a-time-series-model-with-arima-21c973d7fb1b?source=rss------data_science-5)
+- [ML Hackathon: Restaurant Turnover Prediction](https://medium.com/@prashanttyagi_61445/ml-hackathon-restaurant-turnover-prediction-ad19df37be3c?source=rss------data_science-5)
+- [Introducing Ocean Nodes: The New Foundation of Ocean Protocol](https://medium.com/@oladimejiyemi4231/introducing-ocean-nodes-the-new-foundation-of-ocean-protocol-f23d94a07f78?source=rss------data_science-5)
+- [How to Download Any SoundCloud and YouTube Song Using Python Code](https://medium.com/@ayoproduction7/how-to-download-any-soundcloud-and-youtube-song-using-python-code-c0634a9c3b07?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
