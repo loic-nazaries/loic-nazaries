@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Beginner’s Handbook to Learning Machine Learning: From Fundamentals to Real-World Applications —…](https://medium.com/@debopamwork/a-beginners-handbook-to-learning-machine-learning-from-fundamentals-to-real-world-applications-f1baafbf1b00?source=rss------data_science-5)
-- [Analytics Frameworks Every Data Scientist Should Know](https://towardsdatascience.com/analytics-frameworks-every-data-scientist-should-know-f6822f2272af?source=rss------data_science-5)
-- [Need for Speed: Streamlit vs Functool Caching](https://towardsdatascience.com/need-for-speed-streamlit-vs-functool-caching-eb3b7426f209?source=rss------data_science-5)
-- [How to Explain Data Science Projects in Interviews](https://medium.com/@parth.m1413/how-to-explain-data-science-projects-in-interviews-2dc60dc2728f?source=rss------data_science-5)
-- [How Data Scientists Are Mapping the Human Body with the Medical VectorMap](https://medium.com/@itmstart2022/how-data-scientists-are-mapping-the-human-body-with-the-medical-vectormap-cc7e8c6f69b5?source=rss------data_science-5)
-- [Python code to randomly select my weekend plan](https://medium.com/@bhumishah000.bs/python-code-to-randomly-select-my-weekend-plan-781d977e124e?source=rss------data_science-5)
-- [Part 1: Developing and Visualizing a Time Series Model with ARIMA](https://medium.com/@tzhaonj/part-1-developing-and-visualizing-a-time-series-model-with-arima-21c973d7fb1b?source=rss------data_science-5)
-- [ML Hackathon: Restaurant Turnover Prediction](https://medium.com/@prashanttyagi_61445/ml-hackathon-restaurant-turnover-prediction-ad19df37be3c?source=rss------data_science-5)
-- [Introducing Ocean Nodes: The New Foundation of Ocean Protocol](https://medium.com/@oladimejiyemi4231/introducing-ocean-nodes-the-new-foundation-of-ocean-protocol-f23d94a07f78?source=rss------data_science-5)
-- [How to Download Any SoundCloud and YouTube Song Using Python Code](https://medium.com/@ayoproduction7/how-to-download-any-soundcloud-and-youtube-song-using-python-code-c0634a9c3b07?source=rss------data_science-5)
+- [List Comprehensions in Python Make Changes to List Much Easier](https://medium.com/@bennettmo16/list-comprehensions-in-python-make-changes-to-list-much-easier-3f3a4438edb5?source=rss------data_science-5)
+- [DBeaver ile Veri Yönetiminin Sihirli Dünyasına Hoş Geldiniz!](https://medium.com/academy-team/dbeaver-ile-veri-y%C3%B6netiminin-sihirli-d%C3%BCnyas%C4%B1na-ho%C5%9F-geldiniz-ad23401eb8a4?source=rss------data_science-5)
+- [Week 3](https://medium.com/@jgfriedman99/week-3-cc8a1e825072?source=rss------data_science-5)
+- [Breaking down how to solve an optimization problem step by step](https://dhruvalexander.medium.com/breaking-down-how-to-solve-an-optimization-problem-step-by-step-48b37808a657?source=rss------data_science-5)
+- [How to read a csv file in data science in Google Colab.](https://medium.com/@tusharlenovo20/how-to-read-a-csv-file-in-data-science-in-google-colab-d2108a9f6891?source=rss------data_science-5)
+- [Books 2024: Factfulness](https://soumonsou.medium.com/books-2024-factfulness-b7522db08e6f?source=rss------data_science-5)
+- [Breaking Into Machine Learning and Data Science: Steps to Secure Your First Job](https://medium.com/@islammuqsit7/breaking-into-machine-learning-and-data-science-steps-to-secure-your-first-job-593837d1184b?source=rss------data_science-5)
+- [Uncovering the Mind of Artificial Intelligence: Insights behind Chat GPT](https://medium.com/@martareyessuarez25/uncovering-the-mind-of-artificial-intelligence-insights-behind-chat-gpt-9aa2229f9e73?source=rss------data_science-5)
+- [Conversational Data Wrangling with PandasAI in Google Colab](https://ernestodotnet.medium.com/conversational-data-wrangling-with-pandasai-in-google-colab-07e86297d7de?source=rss------data_science-5)
+- [Artificial Intelligence and its contribution to improving the used car market](https://medium.com/@martareyessuarez25/artificial-intelligence-and-its-contribution-to-improving-the-used-car-market-6fcbbe49acd8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
