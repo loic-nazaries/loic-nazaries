@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [List Comprehensions in Python Make Changes to List Much Easier](https://medium.com/@bennettmo16/list-comprehensions-in-python-make-changes-to-list-much-easier-3f3a4438edb5?source=rss------data_science-5)
-- [DBeaver ile Veri Yönetiminin Sihirli Dünyasına Hoş Geldiniz!](https://medium.com/academy-team/dbeaver-ile-veri-y%C3%B6netiminin-sihirli-d%C3%BCnyas%C4%B1na-ho%C5%9F-geldiniz-ad23401eb8a4?source=rss------data_science-5)
-- [Week 3](https://medium.com/@jgfriedman99/week-3-cc8a1e825072?source=rss------data_science-5)
-- [Breaking down how to solve an optimization problem step by step](https://dhruvalexander.medium.com/breaking-down-how-to-solve-an-optimization-problem-step-by-step-48b37808a657?source=rss------data_science-5)
-- [How to read a csv file in data science in Google Colab.](https://medium.com/@tusharlenovo20/how-to-read-a-csv-file-in-data-science-in-google-colab-d2108a9f6891?source=rss------data_science-5)
-- [Books 2024: Factfulness](https://soumonsou.medium.com/books-2024-factfulness-b7522db08e6f?source=rss------data_science-5)
-- [Breaking Into Machine Learning and Data Science: Steps to Secure Your First Job](https://medium.com/@islammuqsit7/breaking-into-machine-learning-and-data-science-steps-to-secure-your-first-job-593837d1184b?source=rss------data_science-5)
-- [Uncovering the Mind of Artificial Intelligence: Insights behind Chat GPT](https://medium.com/@martareyessuarez25/uncovering-the-mind-of-artificial-intelligence-insights-behind-chat-gpt-9aa2229f9e73?source=rss------data_science-5)
-- [Conversational Data Wrangling with PandasAI in Google Colab](https://ernestodotnet.medium.com/conversational-data-wrangling-with-pandasai-in-google-colab-07e86297d7de?source=rss------data_science-5)
-- [Artificial Intelligence and its contribution to improving the used car market](https://medium.com/@martareyessuarez25/artificial-intelligence-and-its-contribution-to-improving-the-used-car-market-6fcbbe49acd8?source=rss------data_science-5)
+- [PRODUCTOS FARMACÉUTICOS.](https://medium.com/@bestexportcompanylimited/productos-farmac%C3%A9uticos-2d85b9385434?source=rss------data_science-5)
+- [Paper Digest: Mixture of LoRA Experts &lpar;ICLR’24&rpar;](https://generativeai.pub/paper-digest-mixture-of-lora-experts-iclr24-4c59332b23db?source=rss------data_science-5)
+- [GYÓGYSZERÉSZETI TERMÉKEK.](https://medium.com/@bestexportcompanylimited/gy%C3%B3gyszer%C3%A9szeti-term%C3%A9kek-d53979f05e64?source=rss------data_science-5)
+- [PHARMAZEUTISCHE PRODUKTE.
+Kontakt-E-Mails: thegame2370@gmail.com.
+Telegramm; +4915212522086](https://medium.com/@bestexportcompanylimited/pharmazeutische-produkte-kontakt-e-mails-thegame2370-gmail-com-telegramm-4915212522086-a6198252fa1b?source=rss------data_science-5)
+- [How to Build a Genetic Algorithm from Scratch in Python](https://towardsdatascience.com/how-to-build-a-genetic-algorithm-from-scratch-in-python-289d895787e2?source=rss------data_science-5)
+- [Stop Being Data-Driven](https://towardsdatascience.com/stop-being-data-driven-583b5e7abe7b?source=rss------data_science-5)
+- [شمارع خاله اردبیل شماره خاله رامسرشماره خاله یزد09333709804](https://medium.com/@nda405916/%D8%B4%D9%85%D8%A7%D8%B1%D8%B9-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%A7%D9%85%D8%B3%D8%B1%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DB%8C%D8%B2%D8%AF09333709804-9abd0e0d8db2?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله اصفهان شماره خاله زاهدان 09333709804](https://medium.com/@nda405916/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86-09333709804-70449c2cf56f?source=rss------data_science-5)
+- [Deep Learning 101: Lesson 11: Data Preparation for Training Models](https://muneebsa.medium.com/deep-learning-101-lesson-10-data-preparation-for-training-models-2668de9afac0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
