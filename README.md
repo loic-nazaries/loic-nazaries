@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [PRODUCTOS FARMACÉUTICOS.](https://medium.com/@bestexportcompanylimited/productos-farmac%C3%A9uticos-2d85b9385434?source=rss------data_science-5)
-- [Paper Digest: Mixture of LoRA Experts &lpar;ICLR’24&rpar;](https://generativeai.pub/paper-digest-mixture-of-lora-experts-iclr24-4c59332b23db?source=rss------data_science-5)
-- [GYÓGYSZERÉSZETI TERMÉKEK.](https://medium.com/@bestexportcompanylimited/gy%C3%B3gyszer%C3%A9szeti-term%C3%A9kek-d53979f05e64?source=rss------data_science-5)
-- [PHARMAZEUTISCHE PRODUKTE.
-Kontakt-E-Mails: thegame2370@gmail.com.
-Telegramm; +4915212522086](https://medium.com/@bestexportcompanylimited/pharmazeutische-produkte-kontakt-e-mails-thegame2370-gmail-com-telegramm-4915212522086-a6198252fa1b?source=rss------data_science-5)
-- [How to Build a Genetic Algorithm from Scratch in Python](https://towardsdatascience.com/how-to-build-a-genetic-algorithm-from-scratch-in-python-289d895787e2?source=rss------data_science-5)
-- [Stop Being Data-Driven](https://towardsdatascience.com/stop-being-data-driven-583b5e7abe7b?source=rss------data_science-5)
-- [شمارع خاله اردبیل شماره خاله رامسرشماره خاله یزد09333709804](https://medium.com/@nda405916/%D8%B4%D9%85%D8%A7%D8%B1%D8%B9-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%A7%D9%85%D8%B3%D8%B1%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DB%8C%D8%B2%D8%AF09333709804-9abd0e0d8db2?source=rss------data_science-5)
-- [شماره خاله تهران شماره خاله اصفهان شماره خاله زاهدان 09333709804](https://medium.com/@nda405916/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%86-09333709804-70449c2cf56f?source=rss------data_science-5)
-- [Deep Learning 101: Lesson 11: Data Preparation for Training Models](https://muneebsa.medium.com/deep-learning-101-lesson-10-data-preparation-for-training-models-2668de9afac0?source=rss------data_science-5)
+- [Mastering SQL with Real-World Examples: Exploring a Company Database](https://medium.com/@jaaveriashah99/mastering-sql-with-real-world-examples-exploring-a-company-database-40102e8de10e?source=rss------data_science-5)
+- [How to Deal with Time Series Outliers](https://towardsdatascience.com/how-to-deal-with-time-series-outliers-28b217c7f6c2?source=rss------data_science-5)
+- [Essential Guide to Continuous Ranked Probability Score &lpar;CRPS&rpar; for Forecasting](https://towardsdatascience.com/essential-guide-to-continuous-ranked-probability-score-crps-for-forecasting-ac0a55dcb30d?source=rss------data_science-5)
+- [⚡️ Turbocharge Your Algorithms: Understanding Big O Notation in Data Science](https://medium.com/@vinaykumarmaanyvar/%EF%B8%8F-turbocharge-your-algorithms-understanding-big-o-notation-in-data-science-dd45d47be190?source=rss------data_science-5)
+- [Demystifying Evolutionary Algorithms](https://medium.com/@okpalan/demystifying-evolutionary-algorithms-f350cf1b74bc?source=rss------data_science-5)
+- [LEGJOBB HAMISÍTOTT BANKJEGYEK, VEZETŐI ENGEDÉLY, ÚTVELEK ÉS KLÓN KÁRTYÁK.](https://medium.com/@thegame237000000000000/legjobb-hamis%C3%ADtott-bankjegyek-vezet%C5%91i-enged%C3%A9ly-%C3%BAtvelek-%C3%A9s-kl%C3%B3n-k%C3%A1rty%C3%A1k-859fc3e7aaf4?source=rss------data_science-5)
+- [TOP GEFÄLSCHTE BANKNOTEN, FÜHRERSCHEIN, REISEPÄSSE UND KLONKARTEN.](https://medium.com/@thegame237000000000000/top-gef%C3%A4lschte-banknoten-f%C3%BChrerschein-reisep%C3%A4sse-und-klonkarten-e2c5dc63bc1b?source=rss------data_science-5)
+- [Strategic Data Splitting: Crafting Effective Validation and Test Sets in Machine and Deep learning](https://medium.com/@bayeroa65/strategic-data-splitting-crafting-effective-validation-and-test-sets-in-machine-and-deep-learning-17021a0546d8?source=rss------data_science-5)
+- [About Me — Gelanalytics](https://medium.com/@gelanalytics/about-me-gelanalytics-bf063d058b3f?source=rss------data_science-5)
+- [I will write data science resume, data analyst, business analyst, data analytics resume](https://medium.com/@arokanmiibrahim/i-will-write-data-science-resume-data-analyst-business-analyst-data-analytics-resume-b2f2ef296421?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
