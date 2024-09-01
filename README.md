@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Mastering SQL with Real-World Examples: Exploring a Company Database](https://medium.com/@jaaveriashah99/mastering-sql-with-real-world-examples-exploring-a-company-database-40102e8de10e?source=rss------data_science-5)
-- [How to Deal with Time Series Outliers](https://towardsdatascience.com/how-to-deal-with-time-series-outliers-28b217c7f6c2?source=rss------data_science-5)
-- [Essential Guide to Continuous Ranked Probability Score &lpar;CRPS&rpar; for Forecasting](https://towardsdatascience.com/essential-guide-to-continuous-ranked-probability-score-crps-for-forecasting-ac0a55dcb30d?source=rss------data_science-5)
-- [⚡️ Turbocharge Your Algorithms: Understanding Big O Notation in Data Science](https://medium.com/@vinaykumarmaanyvar/%EF%B8%8F-turbocharge-your-algorithms-understanding-big-o-notation-in-data-science-dd45d47be190?source=rss------data_science-5)
-- [Demystifying Evolutionary Algorithms](https://medium.com/@okpalan/demystifying-evolutionary-algorithms-f350cf1b74bc?source=rss------data_science-5)
-- [LEGJOBB HAMISÍTOTT BANKJEGYEK, VEZETŐI ENGEDÉLY, ÚTVELEK ÉS KLÓN KÁRTYÁK.](https://medium.com/@thegame237000000000000/legjobb-hamis%C3%ADtott-bankjegyek-vezet%C5%91i-enged%C3%A9ly-%C3%BAtvelek-%C3%A9s-kl%C3%B3n-k%C3%A1rty%C3%A1k-859fc3e7aaf4?source=rss------data_science-5)
-- [TOP GEFÄLSCHTE BANKNOTEN, FÜHRERSCHEIN, REISEPÄSSE UND KLONKARTEN.](https://medium.com/@thegame237000000000000/top-gef%C3%A4lschte-banknoten-f%C3%BChrerschein-reisep%C3%A4sse-und-klonkarten-e2c5dc63bc1b?source=rss------data_science-5)
-- [Strategic Data Splitting: Crafting Effective Validation and Test Sets in Machine and Deep learning](https://medium.com/@bayeroa65/strategic-data-splitting-crafting-effective-validation-and-test-sets-in-machine-and-deep-learning-17021a0546d8?source=rss------data_science-5)
-- [About Me — Gelanalytics](https://medium.com/@gelanalytics/about-me-gelanalytics-bf063d058b3f?source=rss------data_science-5)
-- [I will write data science resume, data analyst, business analyst, data analytics resume](https://medium.com/@arokanmiibrahim/i-will-write-data-science-resume-data-analyst-business-analyst-data-analytics-resume-b2f2ef296421?source=rss------data_science-5)
+- [JavaScript array methods: Hidden gems that can improve the quality of your code!](https://medium.com/@sanjaysharmajw/javascript-array-methods-hidden-gems-that-can-improve-the-quality-of-your-code-f773283ac6aa?source=rss------data_science-5)
+- [Ciência de Dados — Prática nível Fofo](https://efifeliix.medium.com/ci%C3%AAncia-de-dados-pr%C3%A1tica-n%C3%ADvel-fofo-21e2560a81aa?source=rss------data_science-5)
+- [Personalized Shopping: The Power of SAAS vs. Traditional Retail](https://medium.com/@shopping_saas/personalized-shopping-the-power-of-saas-vs-traditional-retail-b603d236c9cf?source=rss------data_science-5)
+- [Data Science Chronicles: Anchoring, Analysing Ship Engine Health With Predicitive Maintenance](https://oo16774.medium.com/data-science-chronicles-anchoring-analysing-ship-engine-health-with-predicitive-maintenance-926f10d482e7?source=rss------data_science-5)
+- [Leveraging Machine Learning for Anti-Money Laundering &lpar;AML&rpar; — Part 2&lpar;Data Sources &amp; Importance&rpar;](https://medium.com/@contentbyd4/leveraging-machine-learning-for-anti-money-laundering-aml-part-2-data-sources-importance-7e887906fdad?source=rss------data_science-5)
+- [Excel Advance VLOOKUP in detail](https://towardsaws.com/excel-advance-vlookup-in-detail-bffe2ed18a98?source=rss------data_science-5)
+- [Leveraging Machine Learning for Anti-Money Laundering &lpar;AML&rpar; — Part 1&lpar;Objective and Solution&rpar;](https://medium.com/@contentbyd4/leveraging-machine-learning-for-anti-money-laundering-aml-part-1-objective-and-solution-7e98813a498f?source=rss------data_science-5)
+- [Belgian Wave UFO Sightings and the Controversy Surrounding Them.](https://medium.com/@WorldOfMystery/belgian-wave-ufo-sightings-and-the-controversy-surrounding-them-46af69e12d4a?source=rss------data_science-5)
+- [The AI Developer’s Toolkit: Essential Skills and Resources for 2023  [October 2023]](https://jett-black.medium.com/the-ai-developers-toolkit-essential-skills-and-resources-for-2023-october-2023-81f69a4306d0?source=rss------data_science-5)
+- [56243900 اسلامشهر شماره خاله56243900 بندرعباس شماره خاله کازرون شماره خاله کرج 09356243900](https://medium.com/@mwnashqy89/56243900-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%8756243900-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%A7%D8%B2%D8%B1%D9%88%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-09356243900-fa96e7d87d51?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
