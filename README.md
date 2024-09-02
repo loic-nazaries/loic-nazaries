@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [JavaScript array methods: Hidden gems that can improve the quality of your code!](https://medium.com/@sanjaysharmajw/javascript-array-methods-hidden-gems-that-can-improve-the-quality-of-your-code-f773283ac6aa?source=rss------data_science-5)
-- [Ciência de Dados — Prática nível Fofo](https://efifeliix.medium.com/ci%C3%AAncia-de-dados-pr%C3%A1tica-n%C3%ADvel-fofo-21e2560a81aa?source=rss------data_science-5)
-- [Personalized Shopping: The Power of SAAS vs. Traditional Retail](https://medium.com/@shopping_saas/personalized-shopping-the-power-of-saas-vs-traditional-retail-b603d236c9cf?source=rss------data_science-5)
-- [Data Science Chronicles: Anchoring, Analysing Ship Engine Health With Predicitive Maintenance](https://oo16774.medium.com/data-science-chronicles-anchoring-analysing-ship-engine-health-with-predicitive-maintenance-926f10d482e7?source=rss------data_science-5)
-- [Leveraging Machine Learning for Anti-Money Laundering &lpar;AML&rpar; — Part 2&lpar;Data Sources &amp; Importance&rpar;](https://medium.com/@contentbyd4/leveraging-machine-learning-for-anti-money-laundering-aml-part-2-data-sources-importance-7e887906fdad?source=rss------data_science-5)
-- [Excel Advance VLOOKUP in detail](https://towardsaws.com/excel-advance-vlookup-in-detail-bffe2ed18a98?source=rss------data_science-5)
-- [Leveraging Machine Learning for Anti-Money Laundering &lpar;AML&rpar; — Part 1&lpar;Objective and Solution&rpar;](https://medium.com/@contentbyd4/leveraging-machine-learning-for-anti-money-laundering-aml-part-1-objective-and-solution-7e98813a498f?source=rss------data_science-5)
-- [Belgian Wave UFO Sightings and the Controversy Surrounding Them.](https://medium.com/@WorldOfMystery/belgian-wave-ufo-sightings-and-the-controversy-surrounding-them-46af69e12d4a?source=rss------data_science-5)
-- [The AI Developer’s Toolkit: Essential Skills and Resources for 2023  [October 2023]](https://jett-black.medium.com/the-ai-developers-toolkit-essential-skills-and-resources-for-2023-october-2023-81f69a4306d0?source=rss------data_science-5)
-- [56243900 اسلامشهر شماره خاله56243900 بندرعباس شماره خاله کازرون شماره خاله کرج 09356243900](https://medium.com/@mwnashqy89/56243900-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%8756243900-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%A7%D8%B2%D8%B1%D9%88%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-09356243900-fa96e7d87d51?source=rss------data_science-5)
+- [The Convergence of Graph and Vector RAGs: A New Era in Information Retrieval](https://levelup.gitconnected.com/the-convergence-of-graph-and-vector-rags-a-new-era-in-information-retrieval-b5773a723615?source=rss------data_science-5)
+- [Training GPT-2 From Scratch: A Step-by-Step Guide](https://levelup.gitconnected.com/training-gpt-2-from-scratch-a-step-by-step-guide-844bb7fc5f94?source=rss------data_science-5)
+- [What is Prompt Chaining, and How to Use It?](https://levelup.gitconnected.com/what-is-prompt-chaining-and-how-to-use-it-2f4311cf0b44?source=rss------data_science-5)
+- [What are AI Agents, and how are they built?](https://levelup.gitconnected.com/what-are-ai-agents-and-how-are-they-built-4ae0fe5d5203?source=rss------data_science-5)
+- [7 Game-Changing Prompting Techniques from Meta &lpar;Wait Until You See the Final One!&rpar;](https://levelup.gitconnected.com/7-game-changing-prompting-techniques-from-meta-wait-until-you-see-the-final-one-a2a0c37d9fe0?source=rss------data_science-5)
+- [Java Stream API: Mastering Collectors](https://levelup.gitconnected.com/java-stream-api-mastering-collectors-bf504551024a?source=rss------data_science-5)
+- [Machine Learning Bias: How can algorithms be more “fair”?](https://levelup.gitconnected.com/machine-learning-bias-how-can-algorithms-be-more-fair-53616be83b9a?source=rss------data_science-5)
+- [Personal Data Insights from Lightweight Data Analysis](https://medium.com/@rajadurai80/personal-data-insights-from-lightweight-data-analysis-28c03a824584?source=rss------data_science-5)
+- [Here’s a straightforward method to assist you in sharing a story daily.](https://medium.com/mind-talk/heres-a-straightforward-method-to-assist-you-in-sharing-a-story-daily-1812d11966b2?source=rss------data_science-5)
+- [Why Machine Learning is the Best Career Choice in Data](https://premvishnoi.medium.com/why-machine-learning-is-the-best-career-choice-in-data-980829931b31?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
