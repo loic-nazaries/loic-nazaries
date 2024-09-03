@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Convergence of Graph and Vector RAGs: A New Era in Information Retrieval](https://levelup.gitconnected.com/the-convergence-of-graph-and-vector-rags-a-new-era-in-information-retrieval-b5773a723615?source=rss------data_science-5)
-- [Training GPT-2 From Scratch: A Step-by-Step Guide](https://levelup.gitconnected.com/training-gpt-2-from-scratch-a-step-by-step-guide-844bb7fc5f94?source=rss------data_science-5)
-- [What is Prompt Chaining, and How to Use It?](https://levelup.gitconnected.com/what-is-prompt-chaining-and-how-to-use-it-2f4311cf0b44?source=rss------data_science-5)
-- [What are AI Agents, and how are they built?](https://levelup.gitconnected.com/what-are-ai-agents-and-how-are-they-built-4ae0fe5d5203?source=rss------data_science-5)
-- [7 Game-Changing Prompting Techniques from Meta &lpar;Wait Until You See the Final One!&rpar;](https://levelup.gitconnected.com/7-game-changing-prompting-techniques-from-meta-wait-until-you-see-the-final-one-a2a0c37d9fe0?source=rss------data_science-5)
-- [Java Stream API: Mastering Collectors](https://levelup.gitconnected.com/java-stream-api-mastering-collectors-bf504551024a?source=rss------data_science-5)
-- [Machine Learning Bias: How can algorithms be more “fair”?](https://levelup.gitconnected.com/machine-learning-bias-how-can-algorithms-be-more-fair-53616be83b9a?source=rss------data_science-5)
-- [Personal Data Insights from Lightweight Data Analysis](https://medium.com/@rajadurai80/personal-data-insights-from-lightweight-data-analysis-28c03a824584?source=rss------data_science-5)
-- [Here’s a straightforward method to assist you in sharing a story daily.](https://medium.com/mind-talk/heres-a-straightforward-method-to-assist-you-in-sharing-a-story-daily-1812d11966b2?source=rss------data_science-5)
-- [Why Machine Learning is the Best Career Choice in Data](https://premvishnoi.medium.com/why-machine-learning-is-the-best-career-choice-in-data-980829931b31?source=rss------data_science-5)
+- [KCPL Rupee Loan app customer care helpline number / 9056499117✓//933287–1425*//✍️/Call now.](https://medium.com/@seeingdonb/kcpl-rupee-loan-app-customer-care-helpline-number-9056499117-933287-1425-%EF%B8%8F-call-now-91b089c23f40?source=rss------data_science-5)
+- [KCPL Rupee Loan app customer care helpline number / 9056499117✓//933287–1425*//✍️/Call now.](https://medium.com/@seeingdonb/kcpl-rupee-loan-app-customer-care-helpline-number-9056499117-933287-1425-%EF%B8%8F-call-now-91b7a3674180?source=rss------data_science-5)
+- [KCPL Rupee Loan app customer care helpline number / 9056499117✓//933287–1425*//✍️/Call now.](https://medium.com/@seeingdonb/kcpl-rupee-loan-app-customer-care-helpline-number-9056499117-933287-1425-%EF%B8%8F-call-now-49dedd80bf48?source=rss------data_science-5)
+- [KCPL Rupee Loan app customer care helpline number / 9056499117✓//933287–1425*//✍️/Call now](https://medium.com/@seeingdonb/kcpl-rupee-loan-app-customer-care-helpline-number-9056499117-933287-1425-%EF%B8%8F-call-now-82724cd938e0?source=rss------data_science-5)
+- [How to Build, Manage, and Measure a Sales Funnel](https://medium.com/@marketingdatascience/how-to-build-manage-and-measure-a-sales-funnel-51dab683f426?source=rss------data_science-5)
+- [Running Machine Learning on Apache Spark in AWS: A Comprehensive Guide](https://medium.com/@siladityaghosh/running-machine-learning-on-apache-spark-in-aws-a-comprehensive-guide-5943a6f077f4?source=rss------data_science-5)
+- [Federated Learning: Unlocking the Power of Decentralized Data](https://medium.com/@jamesasantana/federated-learning-unlocking-the-power-of-decentralized-data-599d80db3d51?source=rss------data_science-5)
+- [Weather Analysis and Prediction with Python](https://medium.com/@binhho3042007/weather-analysis-and-prediction-with-python-ee3ac2e8d755?source=rss------data_science-5)
+- [Is Generative AI Overhyped? Discover 6 Major Flaws](https://generativeai.pub/is-generative-ai-overhyped-discover-6-major-flaws-c06e2fa28236?source=rss------data_science-5)
+- [Strength in Weakness: How ‘Weak’ Models Can Be a Better Teacher than Large LLMs](https://ai.gopubby.com/strength-in-weakness-how-weak-models-can-be-a-better-teacher-than-large-llms-c31494057c67?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
