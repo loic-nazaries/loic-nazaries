@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [KCPL Rupee Loan app customer care helpline number / 9056499117✓//933287–1425*//✍️/Call now.](https://medium.com/@seeingdonb/kcpl-rupee-loan-app-customer-care-helpline-number-9056499117-933287-1425-%EF%B8%8F-call-now-91b089c23f40?source=rss------data_science-5)
-- [KCPL Rupee Loan app customer care helpline number / 9056499117✓//933287–1425*//✍️/Call now.](https://medium.com/@seeingdonb/kcpl-rupee-loan-app-customer-care-helpline-number-9056499117-933287-1425-%EF%B8%8F-call-now-91b7a3674180?source=rss------data_science-5)
-- [KCPL Rupee Loan app customer care helpline number / 9056499117✓//933287–1425*//✍️/Call now.](https://medium.com/@seeingdonb/kcpl-rupee-loan-app-customer-care-helpline-number-9056499117-933287-1425-%EF%B8%8F-call-now-49dedd80bf48?source=rss------data_science-5)
-- [KCPL Rupee Loan app customer care helpline number / 9056499117✓//933287–1425*//✍️/Call now](https://medium.com/@seeingdonb/kcpl-rupee-loan-app-customer-care-helpline-number-9056499117-933287-1425-%EF%B8%8F-call-now-82724cd938e0?source=rss------data_science-5)
-- [How to Build, Manage, and Measure a Sales Funnel](https://medium.com/@marketingdatascience/how-to-build-manage-and-measure-a-sales-funnel-51dab683f426?source=rss------data_science-5)
-- [Running Machine Learning on Apache Spark in AWS: A Comprehensive Guide](https://medium.com/@siladityaghosh/running-machine-learning-on-apache-spark-in-aws-a-comprehensive-guide-5943a6f077f4?source=rss------data_science-5)
-- [Federated Learning: Unlocking the Power of Decentralized Data](https://medium.com/@jamesasantana/federated-learning-unlocking-the-power-of-decentralized-data-599d80db3d51?source=rss------data_science-5)
-- [Weather Analysis and Prediction with Python](https://medium.com/@binhho3042007/weather-analysis-and-prediction-with-python-ee3ac2e8d755?source=rss------data_science-5)
-- [Is Generative AI Overhyped? Discover 6 Major Flaws](https://generativeai.pub/is-generative-ai-overhyped-discover-6-major-flaws-c06e2fa28236?source=rss------data_science-5)
-- [Strength in Weakness: How ‘Weak’ Models Can Be a Better Teacher than Large LLMs](https://ai.gopubby.com/strength-in-weakness-how-weak-models-can-be-a-better-teacher-than-large-llms-c31494057c67?source=rss------data_science-5)
+- [☁ Google Cloud Platform &lpar;GCP&rpar; มีประโยชน์ต่อธุรกิจหลากหลายรูปแบบ …](https://medium.com/@com7business/google-cloud-platform-gcp-%E0%B8%A1%E0%B8%B5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B9%81%E0%B8%9A%E0%B8%9A-dd0860808229?source=rss------data_science-5)
+- [Data Professionals Needs an Oath](https://medium.com/@aladdin.shamoug/data-professionals-needs-an-oath-f9d9331635bf?source=rss------data_science-5)
+- [End-to-End Time Series Forecasting: A Comprehensive Guide](https://medium.com/@devarshpatel15062001/end-to-end-time-series-forecasting-a-comprehensive-guide-9cdb5abdeffe?source=rss------data_science-5)
+- [Data Structures in Machine Learning: A Comprehensive Guide to Efficiency and Scalability](https://pub.towardsai.net/data-structures-in-machine-learning-a-comprehensive-guide-to-efficiency-and-scalability-f7429919c9c5?source=rss------data_science-5)
+- [Mudah Membuat Query dengan AI pakai BigQuery Code Assist — Seri AI untuk Data: Part 1](https://rendybjunior.medium.com/mudah-membuat-query-dengan-ai-pakai-bigquery-code-assist-seri-ai-untuk-data-part-1-d388f3363e12?source=rss------data_science-5)
+- [Advances in Voynich Manuscript Deciphering: A Comprehensive Overview](https://medium.com/@00gentrycw/advances-in-voynich-manuscript-deciphering-a-comprehensive-overview-43c7977c288f?source=rss------data_science-5)
+- [Rhombus AI Revolutionises Data Cleansing](https://medium.com/@chetna.dawda/rhombus-ai-revolutionises-data-cleansing-768510bc8fe9?source=rss------data_science-5)
+- [Automating Video Analysis with Vertex AI and BQFlow](https://medium.com/bqflow/automating-video-analysis-with-vertex-ai-and-bqflow-076b3e4e43fc?source=rss------data_science-5)
+- [Boost Data Processing Efficiency with SQL and LLM Integration](https://medium.com/@fleak.ai/boost-data-processing-efficiency-with-sql-and-llm-integration-a60fe7aa4d75?source=rss------data_science-5)
+- [Building Reliable and Scalable API Endpoints on Fleak](https://medium.com/@fleak.ai/building-reliable-and-scalable-api-endpoints-on-fleak-d5c71d065943?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
