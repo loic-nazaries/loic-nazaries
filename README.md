@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Fix your Blurry Images for Free with AI](https://medium.com/data-science-in-your-pocket/how-to-fix-your-blurry-images-for-free-with-ai-10d46c3c89f3?source=rss------data_science-5)
-- [Path to a High-Paying AI Jobs: Key Interview Questions and Expert Answers](https://medium.com/@mark.kara/path-to-a-high-paying-ai-jobs-key-interview-questions-and-expert-answers-fbdbc036665e?source=rss------data_science-5)
-- [Storing an Entire, Readable Book in One Image.](https://medium.com/@kylehuangmonochronix/storing-an-entire-readable-book-in-one-image-69c85844e7a5?source=rss------data_science-5)
-- [شماره خاله 09013027390شماره خاله تهران شماره خاله رامسر شماره خاله قزوین شماره خاله دزفول شماره…](https://medium.com/@ss0232781/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%A7%D9%85%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D8%B2%D9%88%DB%8C%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AF%D8%B2%D9%81%D9%88%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9d9461d6d1e9?source=rss------data_science-5)
-- [شماره خاله تهران شماره خاله شیراز شماره خاله تهرانپارس شماره خاله اسلامشهر شماره خاله کرج شماره…](https://medium.com/@ss0232781/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f9036d23f560?source=rss------data_science-5)
-- [#شماره خاله تهران# شماره خاله تهرانپارس# شماره خاله تهرانسر# شماره خاله انقلاب شماره خاله ونک…](https://medium.com/@ss0232781/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%88%D9%86%DA%A9-afe8e6e48e01?source=rss------data_science-5)
-- [AI agents can collude using hidden messages](https://ai.plainenglish.io/ai-agents-can-collude-using-hidden-messages-767d25642af3?source=rss------data_science-5)
-- [Paypal Fraud Detector](https://medium.com/@haroldulrich/paypal-fraud-detector-c3ae0e3cf99d?source=rss------data_science-5)
-- [An Introduction to Data Science](https://saanvi-datascience.medium.com/an-introduction-to-data-science-eb97b7ea53ee?source=rss------data_science-5)
+- [Mastering SQL Window Functions: Unlocking Advanced Query Power](https://medium.com/@elghazisoufiane02/mastering-sql-window-functions-unlocking-advanced-query-power-45161c3782bf?source=rss------data_science-5)
+- [Apache Flink Architecture](https://medium.com/@crok07.benahmed/apache-flink-architecture-a973e1222c5c?source=rss------data_science-5)
+- [Cashapp Glitch sauce still active!! Im active now](https://medium.com/@bettyhowe8/cashapp-glitch-sauce-still-active-im-active-now-5200ce6e069d?source=rss------data_science-5)
+- [Still smacking Apple Pay](https://medium.com/@bettyhowe8/still-smacking-apple-pay-61369d3dbebb?source=rss------data_science-5)
+- [Cashapp flips available](https://medium.com/@bettyhowe8/cashapp-flips-available-7fbac7709dc1?source=rss------data_science-5)
+- [Apple Pay transfer available](https://medium.com/@bettyhowe8/apple-pay-transfer-available-a9dcd6fecbe0?source=rss------data_science-5)
+- [Detecting Credit Card Fraud: An Exploratory Data Analysis and Model Comparison](https://medium.com/@jason.shan55/detecting-credit-card-fraud-an-exploratory-data-analysis-and-model-comparison-0e76a2da3e91?source=rss------data_science-5)
+- [Cashapp glitch wave Bussin](https://medium.com/@bettyhowe8/cashapp-glitch-wave-bussin-a9b709079c63?source=rss------data_science-5)
+- [Introduction to Data Science: What You Need to Know](https://medium.com/@ramyasreekodati/introduction-to-data-science-what-you-need-to-know-e0f2fcbc9a7c?source=rss------data_science-5)
+- [Big Data and Business Intelligence: The Secret Recipe for Better Decision Making](https://medium.com/@galaderio0/big-data-and-business-intelligence-the-secret-recipe-for-better-decision-making-f55b90446d42?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
