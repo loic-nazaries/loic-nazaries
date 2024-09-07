@@ -105,16 +105,26 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Mastering SQL Window Functions: Unlocking Advanced Query Power](https://medium.com/@elghazisoufiane02/mastering-sql-window-functions-unlocking-advanced-query-power-45161c3782bf?source=rss------data_science-5)
-- [Apache Flink Architecture](https://medium.com/@crok07.benahmed/apache-flink-architecture-a973e1222c5c?source=rss------data_science-5)
-- [Cashapp Glitch sauce still active!! Im active now](https://medium.com/@bettyhowe8/cashapp-glitch-sauce-still-active-im-active-now-5200ce6e069d?source=rss------data_science-5)
-- [Still smacking Apple Pay](https://medium.com/@bettyhowe8/still-smacking-apple-pay-61369d3dbebb?source=rss------data_science-5)
-- [Cashapp flips available](https://medium.com/@bettyhowe8/cashapp-flips-available-7fbac7709dc1?source=rss------data_science-5)
-- [Apple Pay transfer available](https://medium.com/@bettyhowe8/apple-pay-transfer-available-a9dcd6fecbe0?source=rss------data_science-5)
-- [Detecting Credit Card Fraud: An Exploratory Data Analysis and Model Comparison](https://medium.com/@jason.shan55/detecting-credit-card-fraud-an-exploratory-data-analysis-and-model-comparison-0e76a2da3e91?source=rss------data_science-5)
-- [Cashapp glitch wave Bussin](https://medium.com/@bettyhowe8/cashapp-glitch-wave-bussin-a9b709079c63?source=rss------data_science-5)
-- [Introduction to Data Science: What You Need to Know](https://medium.com/@ramyasreekodati/introduction-to-data-science-what-you-need-to-know-e0f2fcbc9a7c?source=rss------data_science-5)
-- [Big Data and Business Intelligence: The Secret Recipe for Better Decision Making](https://medium.com/@galaderio0/big-data-and-business-intelligence-the-secret-recipe-for-better-decision-making-f55b90446d42?source=rss------data_science-5)
+- [Analyzing Cryptocurrency Trends: Insights from Advanced Data Modelling](https://medium.com/@theparamjaswal/analyzing-cryptocurrency-trends-insights-from-advanced-data-modelling-ed5e83ca921e?source=rss------data_science-5)
+- [Numpy2 brings few performance gains.](https://ai.gopubby.com/numpy2-brings-few-performance-gains-30b5bdfb67c6?source=rss------data_science-5)
+- [Green Revolution: Recycling and Reuse for Sustainable Agriculture](https://medium.com/@didikurniawanmade/green-revolution-recycling-and-reuse-for-sustainable-agriculture-0166e3109579?source=rss------data_science-5)
+- [#거래내역위조 
+#영수증제작
+#통장위조
+#통장잔액수정 
+#입출금내역수정
+#소득금액증명원제작
+#잔액증명서제작
+#납세증명서제작 
+#서류제작실 
+#재직증명서제작
+#잔고증명당일
+#증제작](https://medium.com/@jihunh893/%EA%B1%B0%EB%9E%98%EB%82%B4%EC%97%AD%EC%9C%84%EC%A1%B0-%EC%98%81%EC%88%98%EC%A6%9D%EC%A0%9C%EC%9E%91-%ED%86%B5%EC%9E%A5%EC%9C%84%EC%A1%B0-%ED%86%B5%EC%9E%A5%EC%9E%94%EC%95%A1%EC%88%98%EC%A0%95-%EC%9E%85%EC%B6%9C%EA%B8%88%EB%82%B4%EC%97%AD%EC%88%98%EC%A0%95-%EC%86%8C%EB%93%9D%EA%B8%88%EC%95%A1%EC%A6%9D%EB%AA%85%EC%9B%90%EC%A0%9C%EC%9E%91-%EC%9E%94%EC%95%A1%EC%A6%9D%EB%AA%85%EC%84%9C%EC%A0%9C%EC%9E%91-%EB%82%A9%EC%84%B8%EC%A6%9D%EB%AA%85%EC%84%9C%EC%A0%9C%EC%9E%91-%EC%84%9C%EB%A5%98%EC%A0%9C%EC%9E%91%EC%8B%A4-%EC%9E%AC%EC%A7%81%EC%A6%9D%EB%AA%85%EC%84%9C%EC%A0%9C%EC%9E%91-%EC%9E%94%EA%B3%A0%EC%A6%9D%EB%AA%85%EB%8B%B9%EC%9D%BC-%EC%A6%9D%EC%A0%9C%EC%9E%91-7312d5c653a8?source=rss------data_science-5)
+- [TOP KRIVOTVOREN NOVČANICA, VOZAČKE DOZVOLE, KLONIRANJE KARTICA I PUTOVNICA.](https://medium.com/@peter243567/top-krivotvoren-nov%C4%8Danica-voza%C4%8Dke-dozvole-kloniranje-kartica-i-putovnica-9a16b06486b2?source=rss------data_science-5)
+- [Achieve Better Classification Results with ClassificationThresholdTuner](https://towardsdatascience.com/achieve-better-classification-results-with-classificationthresholdtuner-39c5d454637e?source=rss------data_science-5)
+- [fooGYÓGYSZERÉSZETI TERMÉKEK.](https://medium.com/@sandraburinyuy009/foogy%C3%B3gyszer%C3%A9szeti-term%C3%A9kek-61d9beca69c4?source=rss------data_science-5)
+- [What Is The Tilde Operator in R Programming?](https://medium.com/codex/what-is-the-tilde-operator-in-r-programming-864fb1379fc9?source=rss------data_science-5)
+- [Vatican Library joins Web3 revolution with tokenization of historical manuscripts](https://medium.com/@leonmorales1590/vatican-library-joins-web3-revolution-with-tokenization-of-historical-manuscripts-49a134451c45?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
