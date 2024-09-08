@@ -105,26 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Analyzing Cryptocurrency Trends: Insights from Advanced Data Modelling](https://medium.com/@theparamjaswal/analyzing-cryptocurrency-trends-insights-from-advanced-data-modelling-ed5e83ca921e?source=rss------data_science-5)
-- [Numpy2 brings few performance gains.](https://ai.gopubby.com/numpy2-brings-few-performance-gains-30b5bdfb67c6?source=rss------data_science-5)
-- [Green Revolution: Recycling and Reuse for Sustainable Agriculture](https://medium.com/@didikurniawanmade/green-revolution-recycling-and-reuse-for-sustainable-agriculture-0166e3109579?source=rss------data_science-5)
-- [#거래내역위조 
-#영수증제작
-#통장위조
-#통장잔액수정 
-#입출금내역수정
-#소득금액증명원제작
-#잔액증명서제작
-#납세증명서제작 
-#서류제작실 
-#재직증명서제작
-#잔고증명당일
-#증제작](https://medium.com/@jihunh893/%EA%B1%B0%EB%9E%98%EB%82%B4%EC%97%AD%EC%9C%84%EC%A1%B0-%EC%98%81%EC%88%98%EC%A6%9D%EC%A0%9C%EC%9E%91-%ED%86%B5%EC%9E%A5%EC%9C%84%EC%A1%B0-%ED%86%B5%EC%9E%A5%EC%9E%94%EC%95%A1%EC%88%98%EC%A0%95-%EC%9E%85%EC%B6%9C%EA%B8%88%EB%82%B4%EC%97%AD%EC%88%98%EC%A0%95-%EC%86%8C%EB%93%9D%EA%B8%88%EC%95%A1%EC%A6%9D%EB%AA%85%EC%9B%90%EC%A0%9C%EC%9E%91-%EC%9E%94%EC%95%A1%EC%A6%9D%EB%AA%85%EC%84%9C%EC%A0%9C%EC%9E%91-%EB%82%A9%EC%84%B8%EC%A6%9D%EB%AA%85%EC%84%9C%EC%A0%9C%EC%9E%91-%EC%84%9C%EB%A5%98%EC%A0%9C%EC%9E%91%EC%8B%A4-%EC%9E%AC%EC%A7%81%EC%A6%9D%EB%AA%85%EC%84%9C%EC%A0%9C%EC%9E%91-%EC%9E%94%EA%B3%A0%EC%A6%9D%EB%AA%85%EB%8B%B9%EC%9D%BC-%EC%A6%9D%EC%A0%9C%EC%9E%91-7312d5c653a8?source=rss------data_science-5)
-- [TOP KRIVOTVOREN NOVČANICA, VOZAČKE DOZVOLE, KLONIRANJE KARTICA I PUTOVNICA.](https://medium.com/@peter243567/top-krivotvoren-nov%C4%8Danica-voza%C4%8Dke-dozvole-kloniranje-kartica-i-putovnica-9a16b06486b2?source=rss------data_science-5)
-- [Achieve Better Classification Results with ClassificationThresholdTuner](https://towardsdatascience.com/achieve-better-classification-results-with-classificationthresholdtuner-39c5d454637e?source=rss------data_science-5)
-- [fooGYÓGYSZERÉSZETI TERMÉKEK.](https://medium.com/@sandraburinyuy009/foogy%C3%B3gyszer%C3%A9szeti-term%C3%A9kek-61d9beca69c4?source=rss------data_science-5)
-- [What Is The Tilde Operator in R Programming?](https://medium.com/codex/what-is-the-tilde-operator-in-r-programming-864fb1379fc9?source=rss------data_science-5)
-- [Vatican Library joins Web3 revolution with tokenization of historical manuscripts](https://medium.com/@leonmorales1590/vatican-library-joins-web3-revolution-with-tokenization-of-historical-manuscripts-49a134451c45?source=rss------data_science-5)
+- [Why is data mining important?](https://medium.com/@mark.kara/why-is-data-mining-important-274f8c4accd7?source=rss------data_science-5)
+- [Batch API: OpenAI](https://medium.com/@sukalp.here/batch-api-openai-831a0b09690c?source=rss------data_science-5)
+- [Moneyball in Football: How Underdogs Use Data to Outperform Giants](https://medium.com/@rehaaysay/moneyball-in-football-how-underdogs-use-data-to-outperform-giants-ce883e652e9a?source=rss------data_science-5)
+- [Provide examples of weak AI and strong AI.](https://medium.com/@mark.kara/provide-examples-of-weak-ai-and-strong-ai-ecfbc441172a?source=rss------data_science-5)
+- [Understanding Array Bisection Algorithm](https://medium.com/@2katecheng/understanding-array-bisection-algorithm-4a0960d43253?source=rss------data_science-5)
+- [How does Natural Language Processing &lpar;NLP&rpar; differ from Natural Language Understanding &lpar;NLU&rpar;?](https://medium.com/@mark.kara/how-does-natural-language-processing-nlp-differ-from-natural-language-understanding-nlu-65ff21e37943?source=rss------data_science-5)
+- [What are the advantages of cognitive computing?](https://medium.com/@mark.kara/what-are-the-advantages-of-cognitive-computing-d7404518f1c0?source=rss------data_science-5)
+- [What is Expected Goals &lpar;xG&rpar;in Football?](https://medium.com/@rehaaysay/what-is-expected-goals-xg-in-football-7d00e3ed1d14?source=rss------data_science-5)
+- [How Data Analytics Changed Football](https://medium.com/@rehaaysay/how-data-analytics-changed-football-5ddf947bdea6?source=rss------data_science-5)
+- [The Rise of Machine Learning: What to Expect in a Machine Learning Interview and How to Prepare](https://medium.com/@NextGenML/the-rise-of-machine-learning-what-to-expect-in-a-machine-learning-interview-and-how-to-prepare-b6e29a71cbda?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
