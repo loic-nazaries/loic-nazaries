@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why is data mining important?](https://medium.com/@mark.kara/why-is-data-mining-important-274f8c4accd7?source=rss------data_science-5)
-- [Batch API: OpenAI](https://medium.com/@sukalp.here/batch-api-openai-831a0b09690c?source=rss------data_science-5)
-- [Moneyball in Football: How Underdogs Use Data to Outperform Giants](https://medium.com/@rehaaysay/moneyball-in-football-how-underdogs-use-data-to-outperform-giants-ce883e652e9a?source=rss------data_science-5)
-- [Provide examples of weak AI and strong AI.](https://medium.com/@mark.kara/provide-examples-of-weak-ai-and-strong-ai-ecfbc441172a?source=rss------data_science-5)
-- [Understanding Array Bisection Algorithm](https://medium.com/@2katecheng/understanding-array-bisection-algorithm-4a0960d43253?source=rss------data_science-5)
-- [How does Natural Language Processing &lpar;NLP&rpar; differ from Natural Language Understanding &lpar;NLU&rpar;?](https://medium.com/@mark.kara/how-does-natural-language-processing-nlp-differ-from-natural-language-understanding-nlu-65ff21e37943?source=rss------data_science-5)
-- [What are the advantages of cognitive computing?](https://medium.com/@mark.kara/what-are-the-advantages-of-cognitive-computing-d7404518f1c0?source=rss------data_science-5)
-- [What is Expected Goals &lpar;xG&rpar;in Football?](https://medium.com/@rehaaysay/what-is-expected-goals-xg-in-football-7d00e3ed1d14?source=rss------data_science-5)
-- [How Data Analytics Changed Football](https://medium.com/@rehaaysay/how-data-analytics-changed-football-5ddf947bdea6?source=rss------data_science-5)
-- [The Rise of Machine Learning: What to Expect in a Machine Learning Interview and How to Prepare](https://medium.com/@NextGenML/the-rise-of-machine-learning-what-to-expect-in-a-machine-learning-interview-and-how-to-prepare-b6e29a71cbda?source=rss------data_science-5)
+- [Unlocking the Power of Retrieval-Augmented Generation &lpar;RAG&rpar; for Smarter AI](https://nikita-kohli.medium.com/unlocking-the-power-of-retrieval-augmented-generation-rag-for-smarter-ai-802c51e8c301?source=rss------data_science-5)
+- [Data Science Cheat Sheet — Simple and Clear](https://medium.com/@karam.almnajed1/data-science-cheat-sheet-simple-and-clear-fe77fa159135?source=rss------data_science-5)
+- [Boost App Performance | Mobile App Testing Services | 5Data Inc.](https://voiletgracevoilet.medium.com/boost-app-performance-mobile-app-testing-services-5data-inc-24fa34093036?source=rss------data_science-5)
+- [The Silent Breakdown](https://medium.com/@dairyqueenking/the-silent-breakdown-2dda0125456a?source=rss------data_science-5)
+- [Interview: What Happens During the Execution of a SQL Query Statement?](https://medium.com/@junfeng0828/interview-what-happens-during-the-execution-of-a-sql-query-statement-fd5a037535f4?source=rss------data_science-5)
+- [Balancing Act: How Working Moms Can Thrive in Higher Education](https://medium.com/@marduff21/balancing-act-how-working-moms-can-thrive-in-higher-education-32c240d8deea?source=rss------data_science-5)
+- [TASK 1: Data Analysing Market Trends](https://medium.com/@icodewithben/tasks-analysing-market-trends-46ce3968781b?source=rss------data_science-5)
+- [Time Series Visualization — Do It Better](https://medium.com/@nate.schweizer/time-series-visualization-do-it-better-3c7d62fbda9e?source=rss------data_science-5)
+- [Making My Medium Blogs Free for Everyone](https://medium.com/@vishalbarvaliya/making-my-medium-blogs-free-for-everyone-57fde751bb94?source=rss------data_science-5)
+- [Consider The Source:](https://medium.com/@LYGAS/consider-the-source-c1e5891ed249?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
