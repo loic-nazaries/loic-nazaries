@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Unlocking the Power of Retrieval-Augmented Generation &lpar;RAG&rpar; for Smarter AI](https://nikita-kohli.medium.com/unlocking-the-power-of-retrieval-augmented-generation-rag-for-smarter-ai-802c51e8c301?source=rss------data_science-5)
-- [Data Science Cheat Sheet — Simple and Clear](https://medium.com/@karam.almnajed1/data-science-cheat-sheet-simple-and-clear-fe77fa159135?source=rss------data_science-5)
-- [Boost App Performance | Mobile App Testing Services | 5Data Inc.](https://voiletgracevoilet.medium.com/boost-app-performance-mobile-app-testing-services-5data-inc-24fa34093036?source=rss------data_science-5)
-- [The Silent Breakdown](https://medium.com/@dairyqueenking/the-silent-breakdown-2dda0125456a?source=rss------data_science-5)
-- [Interview: What Happens During the Execution of a SQL Query Statement?](https://medium.com/@junfeng0828/interview-what-happens-during-the-execution-of-a-sql-query-statement-fd5a037535f4?source=rss------data_science-5)
-- [Balancing Act: How Working Moms Can Thrive in Higher Education](https://medium.com/@marduff21/balancing-act-how-working-moms-can-thrive-in-higher-education-32c240d8deea?source=rss------data_science-5)
-- [TASK 1: Data Analysing Market Trends](https://medium.com/@icodewithben/tasks-analysing-market-trends-46ce3968781b?source=rss------data_science-5)
-- [Time Series Visualization — Do It Better](https://medium.com/@nate.schweizer/time-series-visualization-do-it-better-3c7d62fbda9e?source=rss------data_science-5)
-- [Making My Medium Blogs Free for Everyone](https://medium.com/@vishalbarvaliya/making-my-medium-blogs-free-for-everyone-57fde751bb94?source=rss------data_science-5)
-- [Consider The Source:](https://medium.com/@LYGAS/consider-the-source-c1e5891ed249?source=rss------data_science-5)
+- [Is Multi-Collinearity Destroying Your Causal Inferences In Marketing Mix Modelling?](https://towardsdatascience.com/is-multi-collinearity-destroying-your-causal-inferences-in-marketing-mix-modelling-78cb56017c73?source=rss------data_science-5)
+- [Implementing Monte Carlo simulations in Python](https://medium.com/@katygenuine/implementing-monte-carlo-simulations-in-python-c942d8fb636e?source=rss------data_science-5)
+- [Why you should NEVER skip EDA in your ML Projects: End-to-End ML &lpar;Part 1/3&rpar;](https://thrimanne.medium.com/why-you-should-never-skip-eda-in-your-ml-projects-end-to-end-ml-part-1-3-5f8b5c8c0086?source=rss------data_science-5)
+- [[Project 最前線] 商業分析-不只你想像的那樣](https://medium.com/dk-opinion/project-%E6%9C%80%E5%89%8D%E7%B7%9A-%E5%95%86%E6%A5%AD%E5%88%86%E6%9E%90-%E4%B8%8D%E5%8F%AA%E4%BD%A0%E6%83%B3%E5%83%8F%E7%9A%84%E9%82%A3%E6%A8%A3-e1581d6a6ee6?source=rss------data_science-5)
+- [Comp Sci? ❌ Data Sci? ✅ 10 Books to Help You](https://medium.com/@babreviews/comp-sci-data-sci-10-books-to-help-you-6cd72bb2e498?source=rss------data_science-5)
+- [Data-Driven Branding: How to Build Stronger Brands with Data Science](https://poornamsai.medium.com/data-driven-branding-how-to-build-stronger-brands-with-data-science-08cbff130bd8?source=rss------data_science-5)
+- [Mastering Personal Finance: Building Predictive Budgeting Models with Data Science](https://medium.com/@theartofdatascience/mastering-personal-finance-building-predictive-budgeting-models-with-data-science-6fb3fea12eb3?source=rss------data_science-5)
+- [Are chatbots a product of NLP?](https://medium.com/@mark.kara/are-chatbots-a-product-of-nlp-926ed8089cdf?source=rss------data_science-5)
+- [The Mental Health Industry: A For-Profit Wheel of Destruction Masquerading as Healing](https://medium.com/@cpcbllc/the-mental-health-industry-a-for-profit-wheel-of-destruction-masquerading-as-healing-89bfaee6c823?source=rss------data_science-5)
+- [What are some of the best tools for NLP?](https://medium.com/@mark.kara/what-are-some-of-the-best-tools-for-nlp-da8a5c0a9ce3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
