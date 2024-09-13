@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Build a Competency Framework for Data Science Teams](https://towardsdatascience.com/how-to-build-a-competency-framework-for-data-science-teams-9b5271fd2b8e?source=rss------data_science-5)
-- [Deploying Your Llama Model via vLLM using SageMaker Endpoint](https://towardsdatascience.com/deploying-your-llama-model-via-vllm-using-sagemaker-endpoint-f02b424da124?source=rss------data_science-5)
-- [Day 11: Building and Evaluating Advanced RAG Systems](https://blog.gopenai.com/day-11-building-and-evaluating-advanced-rag-systems-4daf1c62125c?source=rss------data_science-5)
-- [[VIDEO] The Untold Story of Alex Kim — Financial Statement Analysis with Large Language Models](https://medium.com/@austin-starks/video-the-untold-story-of-alex-kim-financial-statement-analysis-with-large-language-models-f978f6e2ed89?source=rss------data_science-5)
-- [How I 5x’d My Income Working in AI/ML with a Non-Technical Background](https://medium.com/@gratitudedriven/how-i-5xd-my-income-working-in-ai-ml-with-a-non-technical-background-4f3bd181cb3a?source=rss------data_science-5)
-- [&quot;Artificial Intelligence in Everyday Life: Practical Applications and Ethical Considerations&quot;](https://medium.com/@sohanchysa/artificial-intelligence-in-everyday-life-practical-applications-and-ethical-considerations-4786e8baaad3?source=rss------data_science-5)
-- [Java Burn: Elevate Your Coffee into a Fat-Burning Dynamo!](https://medium.com/@jkxvbcsfw/java-burn-elevate-your-coffee-into-a-fat-burning-dynamo-0f0c34b67d38?source=rss------data_science-5)
-- [4rabet Game Customer care helpline number☎️8128169695//all/8128169695// call me jdho](https://medium.com/@tigerking50021/4rabet-game-customer-care-helpline-number-%EF%B8%8F8128169695-all-8128169695-call-me-jdho-9c95f53d12b4?source=rss------data_science-5)
-- [An Education Goes Beyond Indoctrination](https://medium.com/@dairyqueenking/an-education-goes-beyond-indoctrination-04cda923ec66?source=rss------data_science-5)
-- [4rabet Game Customer care helpline number☎️8128169695//all/8128169695// call me jdho](https://medium.com/@tigerking50021/4rabet-game-customer-care-helpline-number-%EF%B8%8F8128169695-all-8128169695-call-me-jdho-308d3141e38d?source=rss------data_science-5)
+- [Lessons Learned from Developing an Open Source Software](https://towardsdatascience.com/lessons-learned-from-developing-an-open-source-software-9760eb18d1b2?source=rss------data_science-5)
+- [From Theory to Practice: Operationalizing AI Transparency for Trust and Innovation](https://medium.com/seek-blog/from-theory-to-practice-operationalizing-ai-transparency-for-trust-and-innovation-a70d1b854e70?source=rss------data_science-5)
+- [Unveiling Spatial Dependence: The Power of Variograms in Geostatistical Analysis](https://medium.com/operations-research-bit/unveiling-spatial-dependence-the-power-of-variograms-in-geostatistical-analysis-f14ea40505d2?source=rss------data_science-5)
+- [Creating Project Environments in Python with VSCode](https://towardsdatascience.com/creating-project-environments-in-python-with-vscode-b95b530cd627?source=rss------data_science-5)
+- [The Role of IT in Today’s World](https://medium.com/@adeesakhalid/the-role-of-it-in-todays-world-45f0bf793a06?source=rss------data_science-5)
+- [77 Best Game Custmbre Care Helpline Number&lpar;8128169695&rpar; Toll-free☎️8128169695 All Relate number call…](https://medium.com/@kuch_10420/77-best-game-custmbre-care-helpline-number-8128169695-toll-free-%EF%B8%8F8128169695-all-relate-number-call-be5dee154126?source=rss------data_science-5)
+- [77 Best Game Custmbre Care Helpline Number&lpar;8128169695&rpar; Toll-free☎️8128169695 All Relate number call…](https://medium.com/@kuch_10420/77-best-game-custmbre-care-helpline-number-8128169695-toll-free-%EF%B8%8F8128169695-all-relate-number-call-83f6125c0871?source=rss------data_science-5)
+- [77 Best Game Custmbre Care Helpline Number&lpar;8128169695&rpar; Toll-free☎️8128169695 All Relate number call…](https://medium.com/@kuch_10420/77-best-game-custmbre-care-helpline-number-8128169695-toll-free-%EF%B8%8F8128169695-all-relate-number-call-8f6e9e7b771a?source=rss------data_science-5)
+- [77 Best Game Custmbre Care Helpline Number&lpar;8128169695&rpar; Toll-free☎️8128169695 All Relate number call…](https://medium.com/@kuch_10420/77-best-game-custmbre-care-helpline-number-8128169695-toll-free-%EF%B8%8F8128169695-all-relate-number-call-2f5dfa3dfb0a?source=rss------data_science-5)
+- [77 Best Game Custmbre Care Helpline Number&lpar;8128169695&rpar; Toll-free☎️8128169695 All Relate number call…](https://medium.com/@kuch_10420/77-best-game-custmbre-care-helpline-number-8128169695-toll-free-%EF%B8%8F8128169695-all-relate-number-call-a9e02bd9dc09?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
