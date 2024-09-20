@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [55 ACE Game Customer Care Helpline NUMBER,,,❽❸⓿❾❻❼❶❺❹❹///7318819453 call me 55 ACE Game Customer…](https://medium.com/@digital_15083/55-ace-game-customer-care-helpline-number-%E2%9D%BD%E2%9D%B8%E2%93%BF%E2%9D%BE%E2%9D%BB%E2%9D%BC%E2%9D%B6%E2%9D%BA%E2%9D%B9%E2%9D%B9-7318819453-call-me-55-ace-game-customer-92dbef5a8ce0?source=rss------data_science-5)
-- [شماره خاله همدان](https://medium.com/@s65594133/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-d64b726873c0?source=rss------data_science-5)
-- [شماره خاله نهاوند 09962364918](https://medium.com/@s65594133/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%D9%87%D8%A7%D9%88%D9%86%D8%AF-09962364918-329c2853e14d?source=rss------data_science-5)
-- [شماره خاله نوشهر](https://medium.com/@s65594133/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%D9%88%D8%B4%D9%87%D8%B1-becd0aa6dcb3?source=rss------data_science-5)
-- [شماره خاله نورآباد](https://medium.com/@s65594133/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%D9%88%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF-32debd4ad5a8?source=rss------data_science-5)
-- [Indwin7 Game Custmbre Care Helpline Number ☎️ &lpar;8128169695&rpar;//&lpar;8128169695&rpar;all call meIndwin7 Game…](https://medium.com/@indwingamecustmbrecarenumber/indwin7-game-custmbre-care-helpline-number-%EF%B8%8F-8128169695-8128169695-all-call-meindwin7-game-82a84cec77db?source=rss------data_science-5)
-- [Indwin7 Game Custmbre Care Helpline Number ☎️ &lpar;8128169695&rpar;//&lpar;8128169695&rpar;all call meIndwin7 Game…](https://medium.com/@indwingamecustmbrecarenumber/indwin7-game-custmbre-care-helpline-number-%EF%B8%8F-8128169695-8128169695-all-call-meindwin7-game-3dcd92b8ccb8?source=rss------data_science-5)
-- [Indwin7 Game Custmbre Care Helpline Number ☎️ &lpar;8128169695&rpar;//&lpar;8128169695&rpar;all call meIndwin7 Game…](https://medium.com/@indwingamecustmbrecarenumber/indwin7-game-custmbre-care-helpline-number-%EF%B8%8F-8128169695-8128169695-all-call-meindwin7-game-4790c41095fe?source=rss------data_science-5)
-- [Photo by Jeremy Bishop on Unsplash](https://medium.com/@indwingamecustmbrecarenumber/photo-by-jeremy-bishop-on-unsplash-432fe56db6d9?source=rss------data_science-5)
-- [FreshLLMs and Dappier: Real-Time Data for Accurate AI Responses](https://medium.com/dappier/freshllms-and-dappier-real-time-data-for-accurate-ai-responses-9922ffc604cc?source=rss------data_science-5)
+- [Baha No More: Draining Manila’s Flood Problem with Network Science](https://medium.com/@jed.soliman/baha-no-more-draining-manilas-flood-problem-with-network-science-f508fdeba7d4?source=rss------data_science-5)
+- [Book 768 Game Customer Care Helpline Number =❽❶⓿-❻⓿❺-⓿❾⓿❼=91+8106050907 //8327732110 Call Me](https://medium.com/@raqah/book-768-game-customer-care-helpline-number-%E2%9D%BD%E2%9D%B6%E2%93%BF-%E2%9D%BB%E2%93%BF%E2%9D%BA-%E2%93%BF%E2%9D%BE%E2%93%BF%E2%9D%BC-91-8106050907-8327732110-call-me-483892d7bec3?source=rss------data_science-5)
+- [Book 768 Game Customer Care Helpline Number =❽❶⓿-❻⓿❺-⓿❾⓿❼=91+8106050907 //8327732110 Call Me](https://medium.com/@raqah/book-768-game-customer-care-helpline-number-%E2%9D%BD%E2%9D%B6%E2%93%BF-%E2%9D%BB%E2%93%BF%E2%9D%BA-%E2%93%BF%E2%9D%BE%E2%93%BF%E2%9D%BC-91-8106050907-8327732110-call-me-ca612da03dfd?source=rss------data_science-5)
+- [Book 768 Game Customer Care Helpline Number =❽❶⓿-❻⓿❺-⓿❾⓿❼=91+8106050907 //8327732110 Call Me](https://medium.com/@raqah/book-768-game-customer-care-helpline-number-%E2%9D%BD%E2%9D%B6%E2%93%BF-%E2%9D%BB%E2%93%BF%E2%9D%BA-%E2%93%BF%E2%9D%BE%E2%93%BF%E2%9D%BC-91-8106050907-8327732110-call-me-22557d61aaf7?source=rss------data_science-5)
+- [شماره خاله سیرجان](https://medium.com/@shmarhkhalh605/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86-a0491b0b758f?source=rss------data_science-5)
+- [شماره خاله خمینی‌شهر](https://medium.com/@shmarhkhalh605/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AE%D9%85%DB%8C%D9%86%DB%8C-%D8%B4%D9%87%D8%B1-494c806d202e?source=rss------data_science-5)
+- [SQL: Mastering Data Engineering Essentials &lpar;Part. I&rpar;](https://towardsdatascience.com/sql-mastering-data-engineering-essentials-part-i-693d683c5b54?source=rss------data_science-5)
+- [You Don’t need to know everything to call yourself Gen AI Practitioner.](https://medium.com/@naveenkumarmurugan/you-dont-need-to-know-everything-to-call-yourself-gen-ai-practitioner-70304dc0df1a?source=rss------data_science-5)
+- [شماره خاله شاهین شهر](https://medium.com/@shmarhkhalh605/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D8%B4%D9%87%D8%B1-cdecd50c00ef?source=rss------data_science-5)
+- [Book 768 Game Customer Care Helpline Number =❽❶⓿-❻⓿❺-⓿❾⓿❼=91+8106050907 //8327732110 Call Me](https://medium.com/@raqah/book-768-game-customer-care-helpline-number-%E2%9D%BD%E2%9D%B6%E2%93%BF-%E2%9D%BB%E2%93%BF%E2%9D%BA-%E2%93%BF%E2%9D%BE%E2%93%BF%E2%9D%BC-91-8106050907-8327732110-call-me-eb9c0f27285e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
