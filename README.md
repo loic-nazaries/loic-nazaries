@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Baha No More: Draining Manila’s Flood Problem with Network Science](https://medium.com/@jed.soliman/baha-no-more-draining-manilas-flood-problem-with-network-science-f508fdeba7d4?source=rss------data_science-5)
-- [Book 768 Game Customer Care Helpline Number =❽❶⓿-❻⓿❺-⓿❾⓿❼=91+8106050907 //8327732110 Call Me](https://medium.com/@raqah/book-768-game-customer-care-helpline-number-%E2%9D%BD%E2%9D%B6%E2%93%BF-%E2%9D%BB%E2%93%BF%E2%9D%BA-%E2%93%BF%E2%9D%BE%E2%93%BF%E2%9D%BC-91-8106050907-8327732110-call-me-483892d7bec3?source=rss------data_science-5)
-- [Book 768 Game Customer Care Helpline Number =❽❶⓿-❻⓿❺-⓿❾⓿❼=91+8106050907 //8327732110 Call Me](https://medium.com/@raqah/book-768-game-customer-care-helpline-number-%E2%9D%BD%E2%9D%B6%E2%93%BF-%E2%9D%BB%E2%93%BF%E2%9D%BA-%E2%93%BF%E2%9D%BE%E2%93%BF%E2%9D%BC-91-8106050907-8327732110-call-me-ca612da03dfd?source=rss------data_science-5)
-- [Book 768 Game Customer Care Helpline Number =❽❶⓿-❻⓿❺-⓿❾⓿❼=91+8106050907 //8327732110 Call Me](https://medium.com/@raqah/book-768-game-customer-care-helpline-number-%E2%9D%BD%E2%9D%B6%E2%93%BF-%E2%9D%BB%E2%93%BF%E2%9D%BA-%E2%93%BF%E2%9D%BE%E2%93%BF%E2%9D%BC-91-8106050907-8327732110-call-me-22557d61aaf7?source=rss------data_science-5)
-- [شماره خاله سیرجان](https://medium.com/@shmarhkhalh605/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86-a0491b0b758f?source=rss------data_science-5)
-- [شماره خاله خمینی‌شهر](https://medium.com/@shmarhkhalh605/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AE%D9%85%DB%8C%D9%86%DB%8C-%D8%B4%D9%87%D8%B1-494c806d202e?source=rss------data_science-5)
-- [SQL: Mastering Data Engineering Essentials &lpar;Part. I&rpar;](https://towardsdatascience.com/sql-mastering-data-engineering-essentials-part-i-693d683c5b54?source=rss------data_science-5)
-- [You Don’t need to know everything to call yourself Gen AI Practitioner.](https://medium.com/@naveenkumarmurugan/you-dont-need-to-know-everything-to-call-yourself-gen-ai-practitioner-70304dc0df1a?source=rss------data_science-5)
-- [شماره خاله شاهین شهر](https://medium.com/@shmarhkhalh605/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D8%B4%D9%87%D8%B1-cdecd50c00ef?source=rss------data_science-5)
-- [Book 768 Game Customer Care Helpline Number =❽❶⓿-❻⓿❺-⓿❾⓿❼=91+8106050907 //8327732110 Call Me](https://medium.com/@raqah/book-768-game-customer-care-helpline-number-%E2%9D%BD%E2%9D%B6%E2%93%BF-%E2%9D%BB%E2%93%BF%E2%9D%BA-%E2%93%BF%E2%9D%BE%E2%93%BF%E2%9D%BC-91-8106050907-8327732110-call-me-eb9c0f27285e?source=rss------data_science-5)
+- [How Consistent Hashing Minimizes Data Movement in Scalable Systems?](https://medium.com/@_sidharth_m_/how-consistent-hashing-minimizes-data-movement-in-scalable-systems-0dbd2b0001c4?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@xdhdh739/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-292b8782ef61?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@xdhdh739/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-e22eef146071?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@xdhdh739/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-72192a194bdc?source=rss------data_science-5)
+- [Teen Patti Boom Game Custmbre Care Helpline Number&lpar;8128169695&rpar;all &lpar;8128169695&rpar;☎️ call me…](https://medium.com/@remarkable_apricot_goldfish_82/teen-patti-boom-game-custmbre-care-helpline-number-8128169695-all-8128169695-%EF%B8%8F-call-me-92df9e92ffc5?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@xdhdh739/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-ca656ba030c0?source=rss------data_science-5)
+- [Teen Patti Boom Game Custmbre Care Helpline Number&lpar;8128169695&rpar;all &lpar;8128169695&rpar;☎️ call me…](https://medium.com/@remarkable_apricot_goldfish_82/teen-patti-boom-game-custmbre-care-helpline-number-8128169695-all-8128169695-%EF%B8%8F-call-me-d4716e2c3340?source=rss------data_science-5)
+- [Teen Patti Boom Game Custmbre Care Helpline Number&lpar;8128169695&rpar;all &lpar;8128169695&rpar;☎️ call me…](https://medium.com/@remarkable_apricot_goldfish_82/teen-patti-boom-game-custmbre-care-helpline-number-8128169695-all-8128169695-%EF%B8%8F-call-me-8439c2cc02a6?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@xdhdh739/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-9f98b2c5f3b2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
