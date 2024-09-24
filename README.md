@@ -105,16 +105,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [prompt funds loan Customer Care Helpline Number➕ ➑➋➒➌⓿➑ ➕9056499117➕ 9332871425 Call Now](https://medium.com/@feoekj/prompt-funds-loan-customer-care-helpline-number-%E2%9E%91%E2%9E%8B%E2%9E%92%E2%9E%8C%E2%93%BF%E2%9E%91-9056499117-9332871425-call-now-ef87a98a422b?source=rss------data_science-5)
-- [prompt funds loan Customer Care Helpline Number➕ ➑➋➒➌⓿➑ ➕9056499117➕ 9332871425 Call Now](https://medium.com/@feoekj/prompt-funds-loan-customer-care-helpline-number-%E2%9E%91%E2%9E%8B%E2%9E%92%E2%9E%8C%E2%93%BF%E2%9E%91-9056499117-9332871425-call-now-ad406fac2718?source=rss------data_science-5)
-- [prompt funds loan Customer Care Helpline Number➕ ➑➋➒➌⓿➑ ➕9056499117➕ 9332871425 Call Now](https://medium.com/@feoekj/prompt-funds-loan-customer-care-helpline-number-%E2%9E%91%E2%9E%8B%E2%9E%92%E2%9E%8C%E2%93%BF%E2%9E%91-9056499117-9332871425-call-now-a2b140d7f1c2?source=rss------data_science-5)
-- [prompt funds loan Customer Care Helpline Number➕ ➑➋➒➌⓿➑ ➕9056499117➕ 9332871425 Call Now](https://medium.com/@feoekj/prompt-funds-loan-customer-care-helpline-number-%E2%9E%91%E2%9E%8B%E2%9E%92%E2%9E%8C%E2%93%BF%E2%9E%91-9056499117-9332871425-call-now-9c44084b51af?source=rss------data_science-5)
-- [prompt funds loan Customer Care Helpline Number➕ ➑➋➒➌⓿➑ ➕9056499117➕ 9332871425 Call Now](https://medium.com/@feoekj/prompt-funds-loan-customer-care-helpline-number-%E2%9E%91%E2%9E%8B%E2%9E%92%E2%9E%8C%E2%93%BF%E2%9E%91-9056499117-9332871425-call-now-32dfda555093?source=rss------data_science-5)
-- [Kolmogorov-Arnold Transformer &lpar;KAT&rpar;: Is the MLP Headed for Retirement?](https://levelup.gitconnected.com/kolmogorov-arnold-transformer-kat-is-the-mlp-headed-for-retirement-d5958ea8da71?source=rss------data_science-5)
-- [Exploring Sacred Geometry With Python: My Journey with the Yantra Diagram Generator](https://levelup.gitconnected.com/exploring-sacred-geometry-with-python-my-journey-with-the-yantra-diagram-generator-7711d27f6168?source=rss------data_science-5)
-- [Como Usar Distribuições Estatísticas para Resolver Problemas de Negócios](https://medium.com/data-hackers/como-usar-distribui%C3%A7%C3%B5es-estat%C3%ADsticas-para-resolver-problemas-de-neg%C3%B3cios-65ee1aadcf17?source=rss------data_science-5)
-- [SQL vs NoSQL: A Comparative Guide to Database Operations](https://medium.com/@arjunkhatiwadaarjun/sql-vs-nosql-a-comparative-guide-to-database-operations-5e2f9e83c357?source=rss------data_science-5)
-- [How Autonomous Vehicles use synthetic data](https://medium.com/amelias-blog/how-autonomous-vehicles-use-synthetic-data-9b3d1e0b60d7?source=rss------data_science-5)
+- [資料科學10 -平均數假設檢定](https://medium.com/@leesabiki/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B810-%E5%B9%B3%E5%9D%87%E6%95%B8%E5%81%87%E8%A8%AD%E6%AA%A2%E5%AE%9A-ca355faaa5ff?source=rss------data_science-5)
+- [12 Key Insights on Python Type Hints Every Developer Should Know](https://medium.com/@vinaykumarmaanyvar/12-key-insights-on-python-type-hints-every-developer-should-know-7923251f4518?source=rss------data_science-5)
+- [Enhanced Customer Churn Prediction Using Machine Learning via The Random Forest](https://medium.com/dig-it-a-chronicle-of-business-intelligence-data/enhanced-customer-churn-prediction-using-machine-learning-via-the-random-forest-1e24d5e7a299?source=rss------data_science-5)
+- [شماره خاله سمنان](https://medium.com/@yadhthfvc/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D9%85%D9%86%D8%A7%D9%86-e1cd8bba9096?source=rss------data_science-5)
+- [A morte de Rafael](https://medium.com/@hermonskenny/a-morte-de-rafael-e57eb3a8eff3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
