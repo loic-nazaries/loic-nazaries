@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Seaborn: A Comprehensive Guide to Statistical Data Visualization in Python](https://medium.com/@RobuRishabh/seaborn-a-comprehensive-guide-to-statistical-data-visualization-in-python-60f0d7c1de33?source=rss------data_science-5)
-- [Dummy Regressor, Explained: A Visual Guide with Code Examples for Beginners](https://towardsdatascience.com/dummy-regressor-explained-a-visual-guide-with-code-examples-for-beginners-4007c3d16629?source=rss------data_science-5)
-- [How To Use AI in Dark Web](https://medium.com/@suparnabengal112/how-to-use-ai-in-dark-web-6cfe8198b2c3?source=rss------data_science-5)
-- [Simulate the Challenges of a Circular Economy for Fashion Retail](https://towardsdatascience.com/simulate-the-challenges-of-a-circular-economy-for-fashion-retail-5c7e269f0706?source=rss------data_science-5)
-- [VisionTS: Building Superior Forecasting Models from Images](https://towardsdatascience.com/visionts-building-superior-forecasting-models-from-images-cb06257c7ef9?source=rss------data_science-5)
-- [Experience from Teaching with AI Knowledge Twin](https://pjurcys.medium.com/experience-from-teaching-with-ai-knowledge-twin-2dcb189a9507?source=rss------data_science-5)
-- [amil baba contact number in karachi](https://medium.com/@amilbabainkarachi3/amil-baba-contact-number-in-karachi-108a61be261b?source=rss------data_science-5)
-- [Bangali baba in Pakistan 03099128150 bangali baba near me , amil baba in Karachi](https://medium.com/@amilbabainkarachi3/bangali-baba-in-pakistan-03099128150-bangali-baba-near-me-amil-baba-in-karachi-bfbbd94a1b0b?source=rss------data_science-5)
-- [Unveiling the Uniqueness of Credit Card Fraud Detection: A Machine Learning Approach](https://medium.com/@melchilegion/unveiling-the-uniqueness-of-credit-card-fraud-detection-a-machine-learning-approach-98ed67c21a2b?source=rss------data_science-5)
-- [R Programming Basics in 24 Hours](https://medium.com/@gohminghui88/r-programming-basics-in-24-hours-162753d884d8?source=rss------data_science-5)
+- [AI in Clinical Data Cleaning and Standardization](https://medium.com/@ajangili/ai-in-clinical-data-cleaning-and-standardization-cb13781e0fbd?source=rss------data_science-5)
+- [Heat Map Visualization in Python- Seaborn library](https://medium.com/@kalyankranthim/heat-map-visualization-in-python-seaborn-library-fe97024f16fb?source=rss------data_science-5)
+- [All you need to know about SQL in a data science interview](https://lzhangstat.medium.com/all-you-need-to-know-about-sql-in-a-data-science-interview-b57134887946?source=rss------data_science-5)
+- [Violin Plot in Python using Seaborn Library](https://medium.com/@kalyankranthim/violin-plot-in-python-using-seaborn-library-dc43e077ba9f?source=rss------data_science-5)
+- [Predicting Stock Prices with Machine Learning](https://medium.com/@14duttatanushreeya/predicting-stock-prices-with-machine-learning-cde2c13198fd?source=rss------data_science-5)
+- [Programming Machine Learning Applications in Python — Part 1](https://medium.com/@bhatianeha/programming-machine-learning-applications-in-python-part-1-43df8969acb6?source=rss------data_science-5)
+- [Best Stock? Using ETL and Data Science to make a decision](https://medium.com/@chapagainsapal/best-stock-using-etl-and-data-science-to-make-a-decision-716898031ac7?source=rss------data_science-5)
+- [Error 404: Title Not Found](https://medium.com/@suparnabengal112/error-404-title-not-found-8425259e4683?source=rss------data_science-5)
+- [“The Intersection of AI and IoT: Transforming Industries and Everyday Life”](https://medium.com/@blogsaimlcampus/the-intersection-of-ai-and-iot-transforming-industries-and-everyday-life-3caf9f04c8ed?source=rss------data_science-5)
+- [The fundamental contradictions promoted by AGI](https://medium.com/@mbdvmgt/the-fundamental-contradictions-promoted-by-agi-a39760b2be60?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
