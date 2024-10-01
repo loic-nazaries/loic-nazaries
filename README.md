@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Let’s know more about ETL](https://medium.com/@j.shinray/lets-know-more-about-etl-e7531c54357e?source=rss------data_science-5)
-- [How an AI Assistant used CRISP-DM to solve Data Science problems](https://medium.com/@yash.arunkumar/how-an-ai-assistant-used-crisp-dm-to-solve-data-science-problems-27df4d904608?source=rss------data_science-5)
-- [please drow a er diagram base on these classes](https://medium.com/@nsu22k/please-drow-a-er-diagram-base-on-these-classes-80834f431c7f?source=rss------data_science-5)
-- [Which of these careers is less stressful: Data scientist, Data engineer or software engineer? Why?](https://medium.com/@shahidulislamraj222/which-of-these-careers-is-less-stressful-data-scientist-data-engineer-or-software-engineer-why-2044d88c409b?source=rss------data_science-5)
-- [a](https://medium.com/@shahidulislamraj222/a-34ac4346c169?source=rss------data_science-5)
-- [Automating SQL Table Schema Creation Using GPT API and Pandas](https://medium.com/@tzhaonj/automating-sql-table-schema-creation-using-gpt-api-and-pandas-4066b6544aa5?source=rss------data_science-5)
-- [Hidden Secrets Within the Fig: Unraveling the Complexities of the Fig-Wasp Relationship in the…](https://medium.com/@didikurniawanmade/hidden-secrets-within-the-fig-unraveling-the-complexities-of-the-fig-wasp-relationship-in-the-4b98f8b9d814?source=rss------data_science-5)
-- [Mental Health in Tech: A Data-Driven Approach Inspired by Real-Life Events](https://medium.com/@apurva.karne/mental-health-in-tech-a-data-driven-approach-inspired-by-real-life-events-638efa3a9462?source=rss------data_science-5)
-- [How can I join Google as a data scientist?](https://medium.com/@shahidulislamraj222/how-can-i-join-google-as-a-data-scientist-9fb8dd92e7bd?source=rss------data_science-5)
-- [Ten from the weekend 9/29: A few interesting reads that I came across:](https://gopivikranth.medium.com/ten-from-the-weekend-9-29-a-few-interesting-reads-that-i-came-across-172fbcaa8472?source=rss------data_science-5)
+- [Five Engineering Skills Every Data Scientist Should Learn](https://towardsdatascience.com/five-engineering-skills-every-data-scientist-should-learn-e7a347fada6f?source=rss------data_science-5)
+- [Why Explainable AI &lpar;XAI&rpar; Matters: Step by Step with RFE, Shap, and LIME](https://ernestodotnet.medium.com/why-explainable-ai-xai-matters-step-by-step-with-rfe-shap-and-lime-a26ee66b9688?source=rss------data_science-5)
+- [Where should you put your next data center?](https://medium.com/alphageo/where-should-you-put-your-next-data-center-174494039f14?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@jbn4370/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-544b9f65a94b?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@jbn4370/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-bd1731ebbd9a?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@jbn4370/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-11079d21c9ff?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@jbn4370/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-a8963b3cf4fd?source=rss------data_science-5)
+- [The Complete SQL Bootcamp: Go from Zero to Hero](https://medium.com/@lwilson747/the-complete-sql-bootcamp-go-from-zero-to-hero-e64dc405e0f5?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@bhgkhh44/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-ca84989911e6?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@bhgkhh44/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-59324a79617f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
