@@ -105,16 +105,14 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Building a Recommender System Using Word2Vec and Cosine Similarity with IMDb Dataset](https://ernestodotnet.medium.com/building-a-recommender-system-using-word2vec-and-cosine-similarity-with-imdb-dataset-bc842976f0b8?source=rss------data_science-5)
-- [A Dive into Docker &lpar;w/ code&rpar;](https://medium.com/@jrday3/a-dive-into-docker-bb3b2806f3f7?source=rss------data_science-5)
-- [How NoSQL Databases Speed-Up Write-Heavy Workloads?](https://medium.com/@_sidharth_m_/how-nosql-databases-speed-up-write-heavy-workloads-49c41dceb849?source=rss------data_science-5)
-- [شماره خاله اهواز](https://medium.com/@bhvcffgh/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-3176223b8db7?source=rss------data_science-5)
-- [شماره خاله اهواز](https://medium.com/@bhvcffgh/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-da3acaa3510a?source=rss------data_science-5)
-- [شماره خاله اهواز](https://medium.com/@bhvcffgh/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-876256714a5a?source=rss------data_science-5)
-- [شماره خاله اهواز](https://medium.com/@bhvcffgh/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-7e5075d2c713?source=rss------data_science-5)
-- [شماره خاله اهواز](https://medium.com/@bhvcffgh/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-89fa96fa9a87?source=rss------data_science-5)
-- [شماره خاله اهواز](https://medium.com/@bhvcffgh/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-a0878c4bd48b?source=rss------data_science-5)
-- [شماره خاله اهواز](https://medium.com/@bhvcffgh/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-9f53ca20d4a0?source=rss------data_science-5)
+- [Model Deployment: Bringing Your Machine Learning Models into Production](https://medium.com/@antolourdu12/model-deployment-bringing-your-machine-learning-models-into-production-281136cfa5ab?source=rss------data_science-5)
+- [Explore Udacity Nanodegree Program “Data Analysis” course](https://medium.com/@lindaliuAus/explore-udacity-nanodegree-program-data-analysis-course-8c9c6872228b?source=rss------data_science-5)
+- [Prediction and Inference — two different ways of thinking with data](https://medium.com/@shriyaejanthker/prediction-and-inference-two-different-ways-of-thinking-with-data-655629cc2275?source=rss------data_science-5)
+- [شماره خاله شیراز](https://medium.com/@khmzhgan6/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-15ab81db3cc0?source=rss------data_science-5)
+- [شماره خاله شیراز](https://medium.com/@khmzhgan6/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-122ef3f8e9d9?source=rss------data_science-5)
+- [شماره خاله شیراز](https://medium.com/@khmzhgan6/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-df08dc4ce93f?source=rss------data_science-5)
+- [شماره خاله شیراز](https://medium.com/@khmzhgan6/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-72617eeff5ea?source=rss------data_science-5)
+- [شماره خاله شیراز](https://medium.com/@khmzhgan6/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-1fa9e7377859?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
