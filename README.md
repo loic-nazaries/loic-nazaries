@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [شماره خاله اسد اباد شماره خاله بهار شماره خاله تویسرکان شماره خاله کبودراهنگ شماره خاله ملایر شماره…](https://medium.com/@shmarhkhalhshr8/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D8%AF-%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%87%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%A8%D9%88%D8%AF%D8%B1%D8%A7%D9%87%D9%86%DA%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D9%84%D8%A7%DB%8C%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-496ca8646326?source=rss------data_science-5)
-- [Before the Data: The Power of Asking the Right Questions](https://medium.com/@ayushisharma.profile/before-the-data-the-power-of-asking-the-right-questions-1f722c6a61ed?source=rss------data_science-5)
-- [Math1.25 - ZPHCCS Gravitational Molecular Evolution: Earth-Moon Tidal Orchestration of Life](https://medium.com/@rantnrave31/math1-25-zphccs-gravitational-molecular-evolution-earth-moon-tidal-orchestration-of-life-6b76c9d648eb?source=rss------data_science-5)
-- [How to Open Multi-Image DICOM Files in Python](https://medium.com/@protobioengineering/how-to-open-multi-image-dicom-files-in-python-9174422f1f45?source=rss------data_science-5)
-- [Why is it so hard to find data scientists despite there being thousands of PhD’s and masters…](https://medium.com/@shahidulislamraj222/why-is-it-so-hard-to-find-data-scientists-despite-there-being-thousands-of-phds-and-masters-426cd383e161?source=rss------data_science-5)
-- [Business Intelligence: A journey of Insights](https://mariamoramora.medium.com/business-intelligence-a-journey-of-insights-c817d7d00aee?source=rss------data_science-5)
-- [Nobel Prize in Physiology or Medicine Awarded for the Discovery of MicroRNA Molecules](https://medium.com/@johnpascualkumar077/nobel-prize-in-physiology-or-medicine-awarded-for-the-discovery-of-microrna-molecules-6703a9b1455c?source=rss------data_science-5)
-- [Math1.22 - ZPHCCS and the Quantum Nature of Time: A New Framework for Causality and Information…](https://medium.com/@rantnrave31/zphccs-and-the-quantum-nature-of-time-a-new-framework-for-causality-and-information-flow-cde25fff7f30?source=rss------data_science-5)
-- [Math1.21 - Fractal Geometry through the Lens of ZPHCCS and Quantum Pi: An Enhanced Perspective](https://medium.com/@rantnrave31/math1-25-fractal-geometry-through-the-lens-of-zphccs-and-quantum-pi-an-enhanced-perspective-5893908c8e97?source=rss------data_science-5)
-- [[實務札記] ML 模型從訓練到部署後的監控](https://medium.com/@yenlinwu1112/ml-performance-monitoring-6f414194bed3?source=rss------data_science-5)
+- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-0346d08ff5ed?source=rss------data_science-5)
+- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-815c986747bb?source=rss------data_science-5)
+- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-f073f4fa91c3?source=rss------data_science-5)
+- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-61731bfe1cef?source=rss------data_science-5)
+- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-9c727e928f65?source=rss------data_science-5)
+- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-f6820d6c8c0c?source=rss------data_science-5)
+- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-2a14eed154af?source=rss------data_science-5)
+- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-2b369707f2fd?source=rss------data_science-5)
+- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-1e264c87f0e8?source=rss------data_science-5)
+- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-a2d512735de5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
