@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-0346d08ff5ed?source=rss------data_science-5)
-- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-815c986747bb?source=rss------data_science-5)
-- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-f073f4fa91c3?source=rss------data_science-5)
-- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-61731bfe1cef?source=rss------data_science-5)
-- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-9c727e928f65?source=rss------data_science-5)
-- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-f6820d6c8c0c?source=rss------data_science-5)
-- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-2a14eed154af?source=rss------data_science-5)
-- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-2b369707f2fd?source=rss------data_science-5)
-- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-1e264c87f0e8?source=rss------data_science-5)
-- [شماره خاله کرج](https://medium.com/@zman07879/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-a2d512735de5?source=rss------data_science-5)
+- [شماره خاله شیراز](https://medium.com/@skxn93647/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-f4e6df5efe5d?source=rss------data_science-5)
+- [شماره خاله شیراز](https://medium.com/@skxn93647/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-2296c917f436?source=rss------data_science-5)
+- [شماره خاله شیراز](https://medium.com/@skxn93647/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-0ce9888a0bde?source=rss------data_science-5)
+- [شماره خاله شیراز](https://medium.com/@skxn93647/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-97b69af7508c?source=rss------data_science-5)
+- [شماره خاله شیراز](https://medium.com/@skxn93647/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-f07058734313?source=rss------data_science-5)
+- [شماره خاله شیراز](https://medium.com/@skxn93647/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-54bf9ae7b2d9?source=rss------data_science-5)
+- [شماره خاله شیراز](https://medium.com/@skxn93647/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-d8d9628ce6cf?source=rss------data_science-5)
+- [شماره خاله شیراز](https://medium.com/@skxn93647/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-2344639bf3b5?source=rss------data_science-5)
+- [شماره خاله شیراز](https://medium.com/@skxn93647/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-0f020ca74579?source=rss------data_science-5)
+- [Unlocking the Power of Data Visualization with Matplotlib and Seaborn: A Deep Dive into displot](https://medium.com/@Arashhadad/unlocking-the-power-of-data-visualization-with-matplotlib-and-seaborn-a-deep-dive-into-displot-08ec77db40c1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
