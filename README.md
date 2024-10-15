@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Credit go loan app customer care helpline number₹!8128169695√®✓8128169695 call me..](https://medium.com/@jddhjhddh55/credit-go-loan-app-customer-care-helpline-number-8128169695-8128169695-call-me-222e60df35ef?source=rss------data_science-5)
-- [Credit go loan app customer care helpline number₹!8128169695√®✓8128169695 call me..](https://medium.com/@jddhjhddh55/credit-go-loan-app-customer-care-helpline-number-8128169695-8128169695-call-me-5ae4c15ea8cc?source=rss------data_science-5)
-- [Credit go loan app customer care helpline number₹!8128169695√®✓8128169695 call me..](https://medium.com/@jddhjhddh55/credit-go-loan-app-customer-care-helpline-number-8128169695-8128169695-call-me-8128f22f5e55?source=rss------data_science-5)
-- [Credit go loan app customer care helpline number₹!8128169695√®✓8128169695 call me..](https://medium.com/@jddhjhddh55/credit-go-loan-app-customer-care-helpline-number-8128169695-8128169695-call-me-6f3e2317c04f?source=rss------data_science-5)
-- [Credit go loan app customer care helpline number₹!8128169695√®✓8128169695 call me..](https://medium.com/@jddhjhddh55/credit-go-loan-app-customer-care-helpline-number-8128169695-8128169695-call-me-5ee282e83012?source=rss------data_science-5)
-- [Credit go loan app customer care helpline number₹!8128169695√®✓8128169695 call me..](https://medium.com/@jddhjhddh55/credit-go-loan-app-customer-care-helpline-number-8128169695-8128169695-call-me-198ff141dceb?source=rss------data_science-5)
-- [Credit go loan app customer care helpline number₹!8128169695√®✓8128169695 call me..](https://medium.com/@jddhjhddh55/credit-go-loan-app-customer-care-helpline-number-8128169695-8128169695-call-me-e6de49871761?source=rss------data_science-5)
-- [Credit go loan app customer care helpline number₹!8128169695√®✓8128169695 call me..](https://medium.com/@jddhjhddh55/credit-go-loan-app-customer-care-helpline-number-8128169695-8128169695-call-me-4a71eb82bfe6?source=rss------data_science-5)
-- [Let’s know more about Supervised Learning](https://medium.com/@j.shinray/lets-know-more-about-supervised-learning-372de7863b78?source=rss------data_science-5)
-- [Credit go loan app customer care helpline number₹!8128169695√®✓8128169695 call me..](https://medium.com/@jddhjhddh55/credit-go-loan-app-customer-care-helpline-number-8128169695-8128169695-call-me-0585aea706a1?source=rss------data_science-5)
+- [Kidney Failure](https://medium.com/@onyiiuc22/kidney-failure-bb499f95db33?source=rss------data_science-5)
+- [Capstone project for the Coursera Data Analytics course](https://medium.com/@yevhenii.lim27/capstone-project-for-the-coursera-data-analytics-course-5995e18e0edf?source=rss------data_science-5)
+- [PDF &amp; CDF](https://dhirajpatra.medium.com/pdf-cdf-74ff50db88b8?source=rss------data_science-5)
+- [Prompt Engineering is Not AI Translation: The Rise of True AI Translators](https://medium.com/@chaplainhogan/prompt-engineering-is-not-ai-translation-the-rise-of-true-ai-translators-6b902d4d67ae?source=rss------data_science-5)
+- [Underfitting, Overfitting, and How to Solve Them](https://andreda-mind.medium.com/underfitting-overfitting-and-how-to-solve-them-943908439359?source=rss------data_science-5)
+- [Ramifications of machine learning in the manufacturing sector, RTCSE’17, Kuala Lumpur, Malaysia](https://medium.com/@ashishgupta63966/ramifications-of-machine-learning-in-the-manufacturing-sector-rtcse17-kuala-lumpur-malaysia-e2146d40620e?source=rss------data_science-5)
+- [Domain Adaptation using ML Transfer Techniques](https://medium.com/@ashishgupta63966/domain-adaptation-using-ml-transfer-techniques-956a4e68ace4?source=rss------data_science-5)
+- [How I Kickstarted My LLM Journey in Just 10 Hours with Kaggle and ChatGPT](https://medium.com/@mchen9191/how-i-kickstarted-my-llm-journey-in-just-10-hours-with-kaggle-and-chatgpt-eeb4dd62f90f?source=rss------data_science-5)
+- [Top 10 Python Job Interview Questions You Must Be Ready to Answer in 2025](https://medium.com/@Arashhadad/top-10-python-job-interview-questions-you-must-be-ready-to-answer-in-2025-67f647197789?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
