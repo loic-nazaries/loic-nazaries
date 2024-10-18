@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [New App, Who Dis? &lpar;Authentication&rpar;](https://levelup.gitconnected.com/new-app-who-dis-authentication-c61095e156fa?source=rss------data_science-5)
-- [ISL: Prediction Vs Inference In Statistical Modeling](https://medium.com/@rohan.krishnan/isl-prediction-vs-inference-in-statistical-modeling-e004e48d09d6?source=rss------data_science-5)
-- [RICE Scoring: an economic model](https://medium.com/@zlflynn/rice-scoring-an-economic-model-99c7ce1a3a95?source=rss------data_science-5)
-- [شماره خاله واقعی تهران کرج اسلامشهر تهرانپارس شهرری 0930.074.8672](https://medium.com/@monahamidi0123/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%88%D8%A7%D9%82%D8%B9%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%DA%A9%D8%B1%D8%AC-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%87%D8%B1%D8%B1%DB%8C-0930-074-8672-1a3ea18d3fd7?source=rss------data_science-5)
-- [Unlocking Better Forecasts: Useful Concepts for Data Scientists to consider for their next project](https://dhruvalexander.medium.com/unlocking-better-forecasts-useful-concepts-for-data-scientists-to-consider-for-their-next-project-e8efc48f2839?source=rss------data_science-5)
-- [شماره خاله حضوری تهران 0930.074.8672](https://medium.com/@monahamidi0123/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-0930-074-8672-73c050f5682e?source=rss------data_science-5)
-- [Fairness in Machine Learning: Analyzing Bias with the Adult Census Dataset](https://ernestodotnet.medium.com/fairness-in-machine-learning-analyzing-bias-with-the-adult-census-dataset-4699fe5809da?source=rss------data_science-5)
-- [شماره خاله حضوری تهران 0930.074.8672](https://medium.com/@monahamidi0123/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-0930-074-8672-279e8b2eb647?source=rss------data_science-5)
-- [Exploring granger causality to analyze relationships in time series data](https://blog.gopenai.com/exploring-granger-causality-to-analyze-relationships-in-time-series-data-3c07cd59d54e?source=rss------data_science-5)
+- [Understanding Parametric and Non-Parametric Statistics](https://medium.com/@ardiansyahnasir56/understanding-parametric-and-non-parametric-statistics-137e7e089929?source=rss------data_science-5)
+- [My “Secret Sauce” for the Inaugural Singapore Nationwide AWS Large Language Models League &lpar;LLML&rpar;…](https://medium.com/@andyphuawc/my-secret-sauce-for-the-inaugural-singapore-nationwide-aws-large-language-models-league-llml-983d02e63cb3?source=rss------data_science-5)
+- [From Data to AI: How Data Engineers, Analysts, Scientists, and ML Engineers Work Together ?](https://medium.com/@wiemks408/from-data-to-ai-how-data-engineers-analysts-scientists-and-ml-engineers-work-together-19f8260282fa?source=rss------data_science-5)
+- [AI-Powered Climate Solutions: A Blueprint for a Better Future for Everyone](https://medium.com/@keerthanak96/ai-powered-climate-solutions-a-blueprint-for-a-better-future-for-everyone-e80885a7d358?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@wwtptdndt/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-017e40f9cda4?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@wwtptdndt/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-e285dbaff080?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@wwtptdndt/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-ca8fc3772b45?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@wwtptdndt/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-4a1247cc316e?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@wwtptdndt/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-cd4e029845ca?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@wwtptdndt/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-7afa660b4287?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
