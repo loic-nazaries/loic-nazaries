@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Understanding Parametric and Non-Parametric Statistics](https://medium.com/@ardiansyahnasir56/understanding-parametric-and-non-parametric-statistics-137e7e089929?source=rss------data_science-5)
-- [My “Secret Sauce” for the Inaugural Singapore Nationwide AWS Large Language Models League &lpar;LLML&rpar;…](https://medium.com/@andyphuawc/my-secret-sauce-for-the-inaugural-singapore-nationwide-aws-large-language-models-league-llml-983d02e63cb3?source=rss------data_science-5)
-- [From Data to AI: How Data Engineers, Analysts, Scientists, and ML Engineers Work Together ?](https://medium.com/@wiemks408/from-data-to-ai-how-data-engineers-analysts-scientists-and-ml-engineers-work-together-19f8260282fa?source=rss------data_science-5)
-- [AI-Powered Climate Solutions: A Blueprint for a Better Future for Everyone](https://medium.com/@keerthanak96/ai-powered-climate-solutions-a-blueprint-for-a-better-future-for-everyone-e80885a7d358?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@wwtptdndt/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-017e40f9cda4?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@wwtptdndt/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-e285dbaff080?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@wwtptdndt/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-ca8fc3772b45?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@wwtptdndt/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-4a1247cc316e?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@wwtptdndt/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-cd4e029845ca?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@wwtptdndt/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-7afa660b4287?source=rss------data_science-5)
+- [Predicting Baseball Pitch Outcomes with Transformer Models: Data Collection](https://medium.com/@declanslp/predicting-baseball-pitch-outcomes-with-transformer-models-data-collection-29a4132ddc7d?source=rss------data_science-5)
+- [How to Convert a DICOM File to a PNG](https://medium.com/@protobioengineering/how-to-convert-a-dicom-file-to-a-png-ecd85c726bba?source=rss------data_science-5)
+- [Data Insights: Unlocking the Power of Data Visualization](https://medium.com/nerd-for-tech/data-insights-unlocking-the-power-of-data-visualization-5a2e59a9e257?source=rss------data_science-5)
+- [How GitHub Scaled Push Flow Using Apache Kafka to Handle Millions of Pushes?](https://medium.com/@_sidharth_m_/how-github-scaled-push-flow-using-apache-kafka-to-handle-millions-of-pushes-2336e8f4cb24?source=rss------data_science-5)
+- [How I Studied LLMs in Two Weeks: A Comprehensive Roadmap](https://towardsdatascience.com/how-i-studied-llms-in-two-weeks-a-comprehensive-roadmap-e8ac19667a31?source=rss------data_science-5)
+- [Math Art You’ve Never Seen Before](https://globalmaxima.medium.com/math-art-youve-never-seen-before-40706b999097?source=rss------data_science-5)
+- [Confidence Intervals in Statistics and Data Science: A Beginner’s Guide](https://medium.com/@mounikagandla/confidence-intervals-in-statistics-and-data-science-a-beginners-guide-8bc11d614e14?source=rss------data_science-5)
+- [ISL: Supervised Vs Unsupervised Learning](https://medium.com/@rohan.krishnan/isl-supervised-vs-unsupervised-learning-1daa15b682b0?source=rss------data_science-5)
+- [How to Make Infinite Money in GTA 5 Online Without Glitches in 2024](https://medium.com/@ezekielukpur/how-to-make-infinite-money-in-gta-5-online-without-glitches-in-2024-75142e3bfee9?source=rss------data_science-5)
+- [My First Steps into Data Science](https://russelldatascience.medium.com/my-first-steps-into-data-science-96de6f6716f9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
