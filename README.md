@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Redefining AI’s Future: Why Public Access and Transparency Must Lead the Way](https://medium.com/@marcuspalmer/redefining-ais-future-why-public-access-and-transparency-must-lead-the-way-826610d15679?source=rss------data_science-5)
-- [Beyond the Status Quo: Object-Centric Service Delivery Drives Efficiency and Outcomes in Public and…](https://medium.com/@alfred_15192/beyond-the-status-quo-object-centric-service-delivery-drives-efficiency-and-outcomes-in-public-and-64a1ead11364?source=rss------data_science-5)
-- [Air K Nearest Neighbors](https://medium.com/@sebastiancajamarca/air-k-nearest-neighbors-d9ce281ab66e?source=rss------data_science-5)
-- [The Power Dynamics of Data Science: Who Holds the Keys? &lpar;Opinion&rpar;](https://medium.com/@codewithpj/the-power-dynamics-of-data-science-who-holds-the-keys-opinion-d5721eadae49?source=rss------data_science-5)
-- [The universal data science student formula.](https://medium.com/@shahidulislamraj222/the-universal-data-science-student-formula-799667f8e7b5?source=rss------data_science-5)
-- [One Important Reason NOT to Pursue a Master’s Degree in Data Analytics or Data Science](https://medium.com/@spencerantoniomarlenstarr/one-important-reason-not-to-pursue-a-masters-degree-in-data-analytics-or-data-science-b3d0c387ed91?source=rss------data_science-5)
-- [From Actions to Rewards: Understanding Reinforcement Learning](https://medium.com/@Mounica_Kommajosyula/from-actions-to-rewards-understanding-reinforcement-learning-7d22c95a87cd?source=rss------data_science-5)
-- [150 Tips for Analysts #3: Forecasting](https://medium.com/@Splittingwisdom/150-tips-for-analysts-3-forecasting-56c7a9f9b0b2?source=rss------data_science-5)
-- [Logistic Regression &lpar;Best binary classification algorithm in machine learning&rpar;](https://medium.com/@mehmetalitor/logistic-regression-best-binary-classification-algorithm-in-machine-learning-ff87df68acbb?source=rss------data_science-5)
-- [0905.087.4128شماره خاله لنگرود شماره خاله گلستان شماره خاله آستارا شماره خاله همدان شماره خاله رشت…](https://medium.com/@winedapvavaxacom/0905-087-4128%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D9%86%DA%AF%D8%B1%D9%88%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A2%D8%B3%D8%AA%D8%A7%D8%B1%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-9435ddd8efbd?source=rss------data_science-5)
+- [Amazing Things Happen When Attention Heads Are Supercharged Using Mixture-Of-Experts](https://levelup.gitconnected.com/amazing-things-happen-when-attention-heads-are-supercharged-using-mixture-of-experts-b55a6b9a0ac8?source=rss------data_science-5)
+- [PyCUDA from Ground Up: A Comprehensive Guide](https://levelup.gitconnected.com/pycuda-from-ground-up-a-comprehensive-guide-6458f0c5df0e?source=rss------data_science-5)
+- [Be Yourself: Does Assigning Roles Hurt AI Performance?](https://levelup.gitconnected.com/be-yourself-does-assigning-roles-hurt-ai-performance-ae4b7f74602f?source=rss------data_science-5)
+- [AI Python 6 — Python Data Structures for Data Science: Lists, Tuples, and Dictionaries](https://levelup.gitconnected.com/ai-python-6-python-data-structures-for-data-science-lists-tuples-and-dictionaries-7f490a2bbc93?source=rss------data_science-5)
+- [Why You’re Struggling to Break into Data Science](https://levelup.gitconnected.com/why-youre-struggling-to-break-into-data-science-f1fbe3e3adb1?source=rss------data_science-5)
+- [Data Engineering: Building the Foundation for Big Data Insights](https://levelup.gitconnected.com/data-engineering-building-the-foundation-for-big-data-insights-94fa432f7900?source=rss------data_science-5)
+- [6 Kaggle Notebooks to Build RAG Applications In LangChain](https://levelup.gitconnected.com/6-kaggle-notebooks-to-build-rag-applications-in-langchain-24c5ab0c8363?source=rss------data_science-5)
+- [Aprendizado de Máquina: Conceitos, Tipos e Aplicações Práticas](https://medium.com/@joseitaloss12/aprendizado-de-m%C3%A1quina-conceitos-tipos-e-aplica%C3%A7%C3%B5es-pr%C3%A1ticas-61c44ae41568?source=rss------data_science-5)
+- [Welcome to the New Era of Finance: Babe Finance&#39;s Ecosystem is Now Live!](https://medium.com/@babe_inu/welcome-to-the-new-era-of-finance-babe-finances-ecosystem-is-now-live-a92892f5b7f7?source=rss------data_science-5)
+- [SQL 101 | Chapter 4: SQL Aliases — Learn How to Improve Query Readability and Maintainability](https://yujinov.medium.com/sql-101-chapter-4-sql-aliases-learn-how-to-improve-query-readability-and-maintainability-d8d02346e80c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
