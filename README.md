@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Amazing Things Happen When Attention Heads Are Supercharged Using Mixture-Of-Experts](https://levelup.gitconnected.com/amazing-things-happen-when-attention-heads-are-supercharged-using-mixture-of-experts-b55a6b9a0ac8?source=rss------data_science-5)
-- [PyCUDA from Ground Up: A Comprehensive Guide](https://levelup.gitconnected.com/pycuda-from-ground-up-a-comprehensive-guide-6458f0c5df0e?source=rss------data_science-5)
-- [Be Yourself: Does Assigning Roles Hurt AI Performance?](https://levelup.gitconnected.com/be-yourself-does-assigning-roles-hurt-ai-performance-ae4b7f74602f?source=rss------data_science-5)
-- [AI Python 6 — Python Data Structures for Data Science: Lists, Tuples, and Dictionaries](https://levelup.gitconnected.com/ai-python-6-python-data-structures-for-data-science-lists-tuples-and-dictionaries-7f490a2bbc93?source=rss------data_science-5)
-- [Why You’re Struggling to Break into Data Science](https://levelup.gitconnected.com/why-youre-struggling-to-break-into-data-science-f1fbe3e3adb1?source=rss------data_science-5)
-- [Data Engineering: Building the Foundation for Big Data Insights](https://levelup.gitconnected.com/data-engineering-building-the-foundation-for-big-data-insights-94fa432f7900?source=rss------data_science-5)
-- [6 Kaggle Notebooks to Build RAG Applications In LangChain](https://levelup.gitconnected.com/6-kaggle-notebooks-to-build-rag-applications-in-langchain-24c5ab0c8363?source=rss------data_science-5)
-- [Aprendizado de Máquina: Conceitos, Tipos e Aplicações Práticas](https://medium.com/@joseitaloss12/aprendizado-de-m%C3%A1quina-conceitos-tipos-e-aplica%C3%A7%C3%B5es-pr%C3%A1ticas-61c44ae41568?source=rss------data_science-5)
-- [Welcome to the New Era of Finance: Babe Finance&#39;s Ecosystem is Now Live!](https://medium.com/@babe_inu/welcome-to-the-new-era-of-finance-babe-finances-ecosystem-is-now-live-a92892f5b7f7?source=rss------data_science-5)
-- [SQL 101 | Chapter 4: SQL Aliases — Learn How to Improve Query Readability and Maintainability](https://yujinov.medium.com/sql-101-chapter-4-sql-aliases-learn-how-to-improve-query-readability-and-maintainability-d8d02346e80c?source=rss------data_science-5)
+- [The Era Where Both Economic And Environmental Sustainability Are More Critical Than Ever](https://medium.com/@AndyField93/the-era-where-both-economic-and-environmental-sustainability-are-more-critical-than-ever-4851b04b2b14?source=rss------data_science-5)
+- [Prediction of Loan Approval using Tabular Data](https://medium.com/@jmaniscalco30/prediction-of-loan-approval-using-tabular-data-95cb1b9c22fc?source=rss------data_science-5)
+- [Python na Ciência de Dados e Visão Computacional: Desvendando o Poder dos Dados](https://medium.com/@vitorgaleccki/python-na-ci%C3%AAncia-de-dados-e-vis%C3%A3o-computacional-desvendando-o-poder-dos-dados-6f96223ff890?source=rss------data_science-5)
+- [Credit Card Approval Prediction Using Machine Learning](https://medium.com/@vhemanthkumar091/credit-card-approval-prediction-using-machine-learning-58d01ab4d429?source=rss------data_science-5)
+- [Divide and Conquer: A  Stategy for Success with AI](https://medium.com/@TheBeingCo/divide-and-conquer-a-stategy-for-success-with-ai-3a33e16559fd?source=rss------data_science-5)
+- [NEWRGY IMEX review : it’s a scam platform stay away from this hoax broker if you’ve already fallen…](https://medium.com/@shannonhorcasitas/newrgy-imex-review-its-a-scam-platform-stay-away-from-this-hoax-broker-if-you-ve-already-fallen-a77a53b615f9?source=rss------data_science-5)
+- [The Ultimate Productivity System for Data Science Leaders](https://towardsdatascience.com/the-ultimate-productivity-system-for-data-science-leaders-81941be86308?source=rss------data_science-5)
+- [Nvidia’s Llama-3.1-Nemotron-70B-Instruct Model](https://medium.com/@meisshaily/nvidias-llama-3-1-nemotron-70b-instruct-model-4faff33578e5?source=rss------data_science-5)
+- [From Insights to Impact: Presentation Skills Every Data Scientist Needs](https://towardsdatascience.com/from-insights-to-impact-presentation-skills-every-data-scientist-needs-045945a681f2?source=rss------data_science-5)
+- [Principal Component Analysis in Machine Learning: A Comprehensive Guide](https://medium.com/@mertsukrupehlivan/principal-component-analysis-in-machine-learning-a-comprehensive-guide-7872f4756261?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
