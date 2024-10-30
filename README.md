@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Era Where Both Economic And Environmental Sustainability Are More Critical Than Ever](https://medium.com/@AndyField93/the-era-where-both-economic-and-environmental-sustainability-are-more-critical-than-ever-4851b04b2b14?source=rss------data_science-5)
-- [Prediction of Loan Approval using Tabular Data](https://medium.com/@jmaniscalco30/prediction-of-loan-approval-using-tabular-data-95cb1b9c22fc?source=rss------data_science-5)
-- [Python na Ciência de Dados e Visão Computacional: Desvendando o Poder dos Dados](https://medium.com/@vitorgaleccki/python-na-ci%C3%AAncia-de-dados-e-vis%C3%A3o-computacional-desvendando-o-poder-dos-dados-6f96223ff890?source=rss------data_science-5)
-- [Credit Card Approval Prediction Using Machine Learning](https://medium.com/@vhemanthkumar091/credit-card-approval-prediction-using-machine-learning-58d01ab4d429?source=rss------data_science-5)
-- [Divide and Conquer: A  Stategy for Success with AI](https://medium.com/@TheBeingCo/divide-and-conquer-a-stategy-for-success-with-ai-3a33e16559fd?source=rss------data_science-5)
-- [NEWRGY IMEX review : it’s a scam platform stay away from this hoax broker if you’ve already fallen…](https://medium.com/@shannonhorcasitas/newrgy-imex-review-its-a-scam-platform-stay-away-from-this-hoax-broker-if-you-ve-already-fallen-a77a53b615f9?source=rss------data_science-5)
-- [The Ultimate Productivity System for Data Science Leaders](https://towardsdatascience.com/the-ultimate-productivity-system-for-data-science-leaders-81941be86308?source=rss------data_science-5)
-- [Nvidia’s Llama-3.1-Nemotron-70B-Instruct Model](https://medium.com/@meisshaily/nvidias-llama-3-1-nemotron-70b-instruct-model-4faff33578e5?source=rss------data_science-5)
-- [From Insights to Impact: Presentation Skills Every Data Scientist Needs](https://towardsdatascience.com/from-insights-to-impact-presentation-skills-every-data-scientist-needs-045945a681f2?source=rss------data_science-5)
-- [Principal Component Analysis in Machine Learning: A Comprehensive Guide](https://medium.com/@mertsukrupehlivan/principal-component-analysis-in-machine-learning-a-comprehensive-guide-7872f4756261?source=rss------data_science-5)
+- [Power BI Dataflows: Your Friendly Guide to Mastering Data Preparation](https://medium.com/@liles.eric/power-bi-dataflows-your-friendly-guide-to-mastering-data-preparation-e909a2f7efe5?source=rss------data_science-5)
+- [Data Science 101: Understanding the Foundations of a Data-Driven World Part 3](https://medium.com/@jeffrey.martinmba/data-science-101-understanding-the-foundations-of-a-data-driven-world-part-3-378cd2eae66c?source=rss------data_science-5)
+- [شماره خاله اصفهان](https://medium.com/@qsxd25564/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-82491147d3fe?source=rss------data_science-5)
+- [شماره خاله اصفهان](https://medium.com/@qsxd25564/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-332cbd6746f5?source=rss------data_science-5)
+- [شماره خاله اصفهان](https://medium.com/@qsxd25564/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-b2e14439a11a?source=rss------data_science-5)
+- [شماره خاله اصفهان](https://medium.com/@qsxd25564/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-702cb4cfccab?source=rss------data_science-5)
+- [شماره خاله اصفهان](https://medium.com/@qsxd25564/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-5ed640eab083?source=rss------data_science-5)
+- [شماره خاله اصفهان](https://medium.com/@qsxd25564/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-bc6067895827?source=rss------data_science-5)
+- [شماره خاله اصفهان](https://medium.com/@qsxd25564/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-d3142003c429?source=rss------data_science-5)
+- [شماره خاله اصفهان](https://medium.com/@qsxd25564/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-435ff1007644?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
