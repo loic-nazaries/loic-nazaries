@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Power BI Dataflows: Your Friendly Guide to Mastering Data Preparation](https://medium.com/@liles.eric/power-bi-dataflows-your-friendly-guide-to-mastering-data-preparation-e909a2f7efe5?source=rss------data_science-5)
-- [Data Science 101: Understanding the Foundations of a Data-Driven World Part 3](https://medium.com/@jeffrey.martinmba/data-science-101-understanding-the-foundations-of-a-data-driven-world-part-3-378cd2eae66c?source=rss------data_science-5)
-- [شماره خاله اصفهان](https://medium.com/@qsxd25564/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-82491147d3fe?source=rss------data_science-5)
-- [شماره خاله اصفهان](https://medium.com/@qsxd25564/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-332cbd6746f5?source=rss------data_science-5)
-- [شماره خاله اصفهان](https://medium.com/@qsxd25564/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-b2e14439a11a?source=rss------data_science-5)
-- [شماره خاله اصفهان](https://medium.com/@qsxd25564/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-702cb4cfccab?source=rss------data_science-5)
-- [شماره خاله اصفهان](https://medium.com/@qsxd25564/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-5ed640eab083?source=rss------data_science-5)
-- [شماره خاله اصفهان](https://medium.com/@qsxd25564/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-bc6067895827?source=rss------data_science-5)
-- [شماره خاله اصفهان](https://medium.com/@qsxd25564/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-d3142003c429?source=rss------data_science-5)
-- [شماره خاله اصفهان](https://medium.com/@qsxd25564/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-435ff1007644?source=rss------data_science-5)
+- [Data: Data Preprocessing— Datanın İşlənməsi](https://medium.com/@jamellhamzayev/data-data-preprocessing-datan%C4%B1n-i%CC%87%C5%9Fl%C9%99nm%C9%99si-1c80f2081f1f?source=rss------data_science-5)
+- [Predictive Data Mining: A Structured Path to Cleaner Data and Stronger Models](https://ernestodotnet.medium.com/predictive-data-mining-a-structured-path-to-cleaner-data-and-stronger-models-0e1afad4b2ea?source=rss------data_science-5)
+- [From Data to Decisions: The Role of Data Science in Enhancing Public Health Initiatives](https://python.plainenglish.io/from-data-to-decisions-the-role-of-data-science-in-enhancing-public-health-initiatives-650db1e33db5?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@ynmy979/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-bda67aaf1536?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@ynmy979/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-e1d872acd4ac?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@ynmy979/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-5ed31cc31a79?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@ynmy979/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-142e4ce5b64b?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@ynmy979/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-7522d8f88cdc?source=rss------data_science-5)
+- [شماره خاله زهک 09376568274شماره خاله ایرانشهر شماره خاله چابهار شماره خاله خاش شماره خاله زابل…](https://medium.com/@shmarhdaf/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B2%D9%87%DA%A9-09376568274%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AE%D8%A7%D8%B4-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B2%D8%A7%D8%A8%D9%84-35a69947bb7a?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@ynmy979/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-2ebcc4a12d5a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
