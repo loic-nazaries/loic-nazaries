@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data: Data Preprocessing— Datanın İşlənməsi](https://medium.com/@jamellhamzayev/data-data-preprocessing-datan%C4%B1n-i%CC%87%C5%9Fl%C9%99nm%C9%99si-1c80f2081f1f?source=rss------data_science-5)
-- [Predictive Data Mining: A Structured Path to Cleaner Data and Stronger Models](https://ernestodotnet.medium.com/predictive-data-mining-a-structured-path-to-cleaner-data-and-stronger-models-0e1afad4b2ea?source=rss------data_science-5)
-- [From Data to Decisions: The Role of Data Science in Enhancing Public Health Initiatives](https://python.plainenglish.io/from-data-to-decisions-the-role-of-data-science-in-enhancing-public-health-initiatives-650db1e33db5?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@ynmy979/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-bda67aaf1536?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@ynmy979/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-e1d872acd4ac?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@ynmy979/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-5ed31cc31a79?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@ynmy979/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-142e4ce5b64b?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@ynmy979/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-7522d8f88cdc?source=rss------data_science-5)
-- [شماره خاله زهک 09376568274شماره خاله ایرانشهر شماره خاله چابهار شماره خاله خاش شماره خاله زابل…](https://medium.com/@shmarhdaf/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B2%D9%87%DA%A9-09376568274%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AE%D8%A7%D8%B4-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B2%D8%A7%D8%A8%D9%84-35a69947bb7a?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@ynmy979/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-2ebcc4a12d5a?source=rss------data_science-5)
+- [Intelligent House Pricing Using Linear Regression](https://medium.com/@vinicius.lanes00/intelligent-house-pricing-using-linear-regression-7fff66e0aaae?source=rss------data_science-5)
+- [Important LLMs Papers for the Week from 21/10 to 27/10](https://medium.com/to-data-beyond/important-llms-papers-for-the-week-from-21-10-to-27-10-c72db3711b35?source=rss------data_science-5)
+- [شماره خاله حضوری سراوان](https://medium.com/@bnsryn997/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B3%D8%B1%D8%A7%D9%88%D8%A7%D9%86-48bd173503f7?source=rss------data_science-5)
+- [شماره خاله تهران](https://medium.com/@shmarhkhalhshmarhkhalh098/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-1b942d5589df?source=rss------data_science-5)
+- [شماره خاله حضوری](https://medium.com/@bnsryn997/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-82e47511afd6?source=rss------data_science-5)
+- [شماره خاله حضوری مردشت](https://medium.com/@bnsryn997/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D9%85%D8%B1%D8%AF%D8%B4%D8%AA-7a4c95707f88?source=rss------data_science-5)
+- [Data Transformation for Maternal and Child Health: Data Science Strategies to Prevent Stunting and…](https://python.plainenglish.io/data-transformation-for-maternal-and-child-health-data-science-strategies-to-prevent-stunting-and-d52a5eb2f56e?source=rss------data_science-5)
+- [شماره خاله حضوری ملایر](https://medium.com/@bnsryn997/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D9%85%D9%84%D8%A7%DB%8C%D8%B1-6e6f41c9aeac?source=rss------data_science-5)
+- [شماره خاله حضوری پونک](https://medium.com/@bnsryn997/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D9%BE%D9%88%D9%86%DA%A9-2a12adc208a2?source=rss------data_science-5)
+- [شماره خاله حضوری تهرانپارس](https://medium.com/@bnsryn997/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-8276c957bd87?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
