@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Intelligent House Pricing Using Linear Regression](https://medium.com/@vinicius.lanes00/intelligent-house-pricing-using-linear-regression-7fff66e0aaae?source=rss------data_science-5)
-- [Important LLMs Papers for the Week from 21/10 to 27/10](https://medium.com/to-data-beyond/important-llms-papers-for-the-week-from-21-10-to-27-10-c72db3711b35?source=rss------data_science-5)
-- [شماره خاله حضوری سراوان](https://medium.com/@bnsryn997/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B3%D8%B1%D8%A7%D9%88%D8%A7%D9%86-48bd173503f7?source=rss------data_science-5)
-- [شماره خاله تهران](https://medium.com/@shmarhkhalhshmarhkhalh098/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-1b942d5589df?source=rss------data_science-5)
-- [شماره خاله حضوری](https://medium.com/@bnsryn997/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-82e47511afd6?source=rss------data_science-5)
-- [شماره خاله حضوری مردشت](https://medium.com/@bnsryn997/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D9%85%D8%B1%D8%AF%D8%B4%D8%AA-7a4c95707f88?source=rss------data_science-5)
-- [Data Transformation for Maternal and Child Health: Data Science Strategies to Prevent Stunting and…](https://python.plainenglish.io/data-transformation-for-maternal-and-child-health-data-science-strategies-to-prevent-stunting-and-d52a5eb2f56e?source=rss------data_science-5)
-- [شماره خاله حضوری ملایر](https://medium.com/@bnsryn997/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D9%85%D9%84%D8%A7%DB%8C%D8%B1-6e6f41c9aeac?source=rss------data_science-5)
-- [شماره خاله حضوری پونک](https://medium.com/@bnsryn997/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D9%BE%D9%88%D9%86%DA%A9-2a12adc208a2?source=rss------data_science-5)
-- [شماره خاله حضوری تهرانپارس](https://medium.com/@bnsryn997/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-8276c957bd87?source=rss------data_science-5)
+- [شماره خاله واقعی](https://medium.com/@vth6941/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%88%D8%A7%D9%82%D8%B9%DB%8C-0b1a0c61270b?source=rss------data_science-5)
+- [شماره خاله واقعی](https://medium.com/@vth6941/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%88%D8%A7%D9%82%D8%B9%DB%8C-873ac0efc509?source=rss------data_science-5)
+- [شماره خاله واقعی](https://medium.com/@vth6941/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%88%D8%A7%D9%82%D8%B9%DB%8C-786cb01bceb4?source=rss------data_science-5)
+- [شماره خاله واقعی](https://medium.com/@vth6941/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%88%D8%A7%D9%82%D8%B9%DB%8C-2b0876f206ea?source=rss------data_science-5)
+- [شماره خاله واقعی](https://medium.com/@vth6941/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%88%D8%A7%D9%82%D8%B9%DB%8C-908673c7f7ea?source=rss------data_science-5)
+- [شماره خاله واقعی](https://medium.com/@vth6941/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%88%D8%A7%D9%82%D8%B9%DB%8C-62140f49ca82?source=rss------data_science-5)
+- [شماره خاله واقعی](https://medium.com/@vth6941/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%88%D8%A7%D9%82%D8%B9%DB%8C-2ed7a1e971bc?source=rss------data_science-5)
+- [Would Technology Really Take Over People’s Jobs?](https://medium.com/@courageokey1/would-technology-really-take-over-peoples-jobs-a11d013925be?source=rss------data_science-5)
+- [INdWin7 Game Customer care helpline number&lpar;8128169695&rpar;&lpar;8128169695&rpar;ALL&rpar;8128169695&rpar; call. SSC](https://medium.com/@lovaxop226/indwin7-game-customer-care-helpline-number-8128169695-8128169695-all-8128169695-call-ssc-a09d7867e55d?source=rss------data_science-5)
+- [INdWin7 Game Customer care helpline number&lpar;8128169695&rpar;&lpar;8128169695&rpar;ALL&rpar;8128169695&rpar; call. Eff](https://medium.com/@lovaxop226/indwin7-game-customer-care-helpline-number-8128169695-8128169695-all-8128169695-call-eff-bb3907cbaa59?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
