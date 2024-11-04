@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to draw an ordered binary presence/absence dot plot &lpar;or heat map&rpar; in R?](https://medium.com/@one-more-step/how-to-draw-an-ordered-binary-presence-absence-dot-plot-or-heat-map-in-r-512feebd19d8?source=rss------data_science-5)
-- [Step-by-Step Guide to Predicting IMDb Ratings with R and Regression](https://medium.com/@sethiyash87/step-by-step-guide-to-predicting-imdb-ratings-with-r-and-regression-b493501736d1?source=rss------data_science-5)
-- [Trust is a powerful quality that describes integrity in interpersonal relationships and…](https://medium.com/@patrasaslam777/trust-is-a-powerful-quality-that-describes-integrity-in-interpersonal-relationships-and-bc9fd352c8a5?source=rss------data_science-5)
-- [How Uber Handles TRILLIONS of Transactions — The Secret](https://medium.com/@teenageprogrammer/how-uber-handles-trillions-of-transactions-the-secret-5cc14afcb7ac?source=rss------data_science-5)
-- [برنامه&lpar;ص. ی. غ. ه&rpar; شرعی حلال موقت دائم خانمهای پاکدامن حاج اقازاهدی09391318810](https://medium.com/@syghhmwqthlalkrmansyghhdaymhla/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B5-%DB%8C-%D8%BA-%D9%87-%D8%B4%D8%B1%D8%B9%DB%8C-%D8%AD%D9%84%D8%A7%D9%84-%D9%85%D9%88%D9%82%D8%AA-%D8%AF%D8%A7%D8%A6%D9%85-%D8%AE%D8%A7%D9%86%D9%85%D9%87%D8%A7%DB%8C-%D9%BE%D8%A7%DA%A9%D8%AF%D8%A7%D9%85%D9%86-%D8%AD%D8%A7%D8%AC-%D8%A7%D9%82%D8%A7%D8%B2%D8%A7%D9%87%D8%AF%DB%8C09391318810-7225f2ed472c?source=rss------data_science-5)
-- [برنامه&lpar;ص. ی. غ. ه&rpar; شرعی حلال موقت دائم خانمهای پاکدامن حاج اقازاهدی09391318810](https://medium.com/@syghhmwqthlalkrmansyghhdaymhla/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B5-%DB%8C-%D8%BA-%D9%87-%D8%B4%D8%B1%D8%B9%DB%8C-%D8%AD%D9%84%D8%A7%D9%84-%D9%85%D9%88%D9%82%D8%AA-%D8%AF%D8%A7%D8%A6%D9%85-%D8%AE%D8%A7%D9%86%D9%85%D9%87%D8%A7%DB%8C-%D9%BE%D8%A7%DA%A9%D8%AF%D8%A7%D9%85%D9%86-%D8%AD%D8%A7%D8%AC-%D8%A7%D9%82%D8%A7%D8%B2%D8%A7%D9%87%D8%AF%DB%8C09391318810-54d7ced429d1?source=rss------data_science-5)
-- [For anyone starting out in IT, finding the right tools and resources can make a huge difference.](https://medium.com/@hafidhafid1244/1-online-learning-platforms-6064d402f47b?source=rss------data_science-5)
-- [Top Remote Data Entry Jobs in 2024](https://medium.com/@batuhanodabas/top-remote-data-entry-jobs-in-2024-f089d25ae6a9?source=rss------data_science-5)
-- [شماره خاله حضوری رشت](https://medium.com/@rhtmyzhra/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B1%D8%B4%D8%AA-e4a0d35384d1?source=rss------data_science-5)
-- [شماره خاله واقعی](https://medium.com/@rhtmyzhra/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%88%D8%A7%D9%82%D8%B9%DB%8C-da0a7423bd40?source=rss------data_science-5)
+- [Mastering the Skies: Will Humanity Tame the Weather?](https://medium.com/@didikurniawanmade/mastering-the-skies-will-humanity-tame-the-weather-2a8eafad1f42?source=rss------data_science-5)
+- [DIKEMBE MUTOMBO : Stories, performances, and tribute to a basketball legend](https://medium.com/@contact_6144/dikembe-mutombo-stories-performances-and-tribute-to-a-basketball-legend-5dea250e180f?source=rss------data_science-5)
+- [How Transfer Learning Is Revolutionizing Computer Vision](https://medium.com/@meisshaily/how-transfer-learning-is-revolutionizing-computer-vision-0153f6c85c91?source=rss------data_science-5)
+- [Beyond Blockchain: Building the Future with Decentralized AI Networks](https://medium.com/@hermosillo.jessie/beyond-blockchain-building-the-future-with-decentralized-ai-networks-1fa938f6e305?source=rss------data_science-5)
+- [How Hard is the Math Problem in Good Will Hunting?](https://medium.com/science-spectrum/how-hard-is-the-math-problem-in-good-will-hunting-76e4cb00b6f9?source=rss------data_science-5)
+- [Navigating Uncertainty: Self-Reflection on the Books of Nassim Taleb](https://medium.com/@bsnsus0205/navigating-uncertainty-self-reflection-on-the-books-of-nassim-taleb-ccd1e64ca29f?source=rss------data_science-5)
+- [Titanic Survival Prediction Model: Exploring Predictive Modeling](https://medium.com/@kimiringsandra/titanic-survival-prediction-model-exploring-predictive-modeling-be574ef28019?source=rss------data_science-5)
+- [I built a platform that automate any investing idea you can think of. Here’s how it works.](https://medium.datadriveninvestor.com/i-built-a-platform-that-automate-any-investing-idea-you-can-think-of-heres-how-bbee2c07b6b8?source=rss------data_science-5)
+- [An AI Can Now Operate Your Computer &lpar;And It’s Being Built Open Source!&rpar;](https://levelup.gitconnected.com/an-ai-can-now-operate-your-computer-and-its-being-built-open-source-be34a3e82c00?source=rss------data_science-5)
+- [Mastering Duck Typing in Python](https://levelup.gitconnected.com/mastering-duck-typing-in-python-78f25214dbee?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
