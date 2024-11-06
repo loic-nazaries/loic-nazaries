@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [7 GitHub Repos to Transform You into a Pro ML/AI Engineer](https://medium.com/@riteshgupta.ai/7-github-repos-to-transform-you-into-a-pro-ml-ai-engineer-996d0f201b06?source=rss------data_science-5)
-- [I will write a targeted ats analyst resume with unique cover letter and LinkedIn opt](https://medium.com/@ahmadopeyemirufai/i-will-write-a-targeted-ats-analyst-resume-with-unique-cover-letter-and-linkedin-opt-6462d18b4c16?source=rss------data_science-5)
-- [Customer Insights with RFM Analysis: A Step-by-Step Guide in Colab](https://ernestodotnet.medium.com/customer-insights-with-rfm-analysis-a-step-by-step-guide-in-colab-b3bfaf884427?source=rss------data_science-5)
-- [From Data to Action: The Role of Data Science in Monitoring and Responding to Mount Lewotobi’s…](https://python.plainenglish.io/from-data-to-action-the-role-of-data-science-in-monitoring-and-responding-to-mount-lewotobis-307881cce356?source=rss------data_science-5)
-- [Intro to Data Cleaning: Making Sense of Messy Data](https://medium.com/@mariaeloisa.088/intro-to-data-cleaning-making-sense-of-messy-data-669c7a60cf9d?source=rss------data_science-5)
-- [شماره خاله برنامه حضوری بندرانزلی](https://medium.com/@smyrabkhtyary98/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%A8%D9%86%D8%AF%D8%B1%D8%A7%D9%86%D8%B2%D9%84%DB%8C-ac813c54110e?source=rss------data_science-5)
-- [شماره خاله برنامه حضوری بندرلنگه](https://medium.com/@smyrabkhtyary98/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%A8%D9%86%D8%AF%D8%B1%D9%84%D9%86%DA%AF%D9%87-e8c27f8bf7ca?source=rss------data_science-5)
-- [شماره خاله برنامه حضوری کیش](https://medium.com/@smyrabkhtyary98/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%DA%A9%DB%8C%D8%B4-d5edd46806f0?source=rss------data_science-5)
-- [شماره خاله برنامه حضوری اقلیم](https://medium.com/@smyrabkhtyary98/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%A7%D9%82%D9%84%DB%8C%D9%85-43ab2b21586a?source=rss------data_science-5)
-- [شماره خاله برنامه حضوری کردستان](https://medium.com/@smyrabkhtyary98/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-47fe3b03234f?source=rss------data_science-5)
+- [5 Tips on How to Organize Your Data Effectively](https://medium.com/@mariaeloisa.088/how-to-organize-your-data-effectively-9f1bcfd45e50?source=rss------data_science-5)
+- [شماره خاله قم](https://medium.com/@fhjbf5561/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-53bfa472fa3e?source=rss------data_science-5)
+- [شماره خاله قم](https://medium.com/@fhjbf5561/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-a398bad84ff0?source=rss------data_science-5)
+- [شماره خاله قم](https://medium.com/@fhjbf5561/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-88eea0dbd60c?source=rss------data_science-5)
+- [شماره خاله قم](https://medium.com/@fhjbf5561/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-028fa7bc7388?source=rss------data_science-5)
+- [شماره خاله قم](https://medium.com/@fhjbf5561/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-3c91dae0891b?source=rss------data_science-5)
+- [شماره خاله قم](https://medium.com/@fhjbf5561/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-45e7bec013d7?source=rss------data_science-5)
+- [شماره خاله قم](https://medium.com/@fhjbf5561/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-e2e8fab70688?source=rss------data_science-5)
+- [شماره خاله قم](https://medium.com/@fhjbf5561/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-04ab7370438c?source=rss------data_science-5)
+- [شماره خاله قم](https://medium.com/@fhjbf5561/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-38c0a5a94cfe?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
