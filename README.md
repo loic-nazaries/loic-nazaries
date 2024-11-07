@@ -105,16 +105,14 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [5 Tips on How to Organize Your Data Effectively](https://medium.com/@mariaeloisa.088/how-to-organize-your-data-effectively-9f1bcfd45e50?source=rss------data_science-5)
-- [شماره خاله قم](https://medium.com/@fhjbf5561/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-53bfa472fa3e?source=rss------data_science-5)
-- [شماره خاله قم](https://medium.com/@fhjbf5561/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-a398bad84ff0?source=rss------data_science-5)
-- [شماره خاله قم](https://medium.com/@fhjbf5561/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-88eea0dbd60c?source=rss------data_science-5)
-- [شماره خاله قم](https://medium.com/@fhjbf5561/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-028fa7bc7388?source=rss------data_science-5)
-- [شماره خاله قم](https://medium.com/@fhjbf5561/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-3c91dae0891b?source=rss------data_science-5)
-- [شماره خاله قم](https://medium.com/@fhjbf5561/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-45e7bec013d7?source=rss------data_science-5)
-- [شماره خاله قم](https://medium.com/@fhjbf5561/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-e2e8fab70688?source=rss------data_science-5)
-- [شماره خاله قم](https://medium.com/@fhjbf5561/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-04ab7370438c?source=rss------data_science-5)
-- [شماره خاله قم](https://medium.com/@fhjbf5561/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-38c0a5a94cfe?source=rss------data_science-5)
+- [Finding the Right Balance: Better Choices with Lasso Regression](https://code.likeagirl.io/finding-the-right-balance-better-choices-with-lasso-regression-d55615c850c2?source=rss------data_science-5)
+- [Predicting Customer Lifetime Value &lpar;CLV&rpar;: An Easy Guide with Python](https://ernestodotnet.medium.com/predicting-customer-lifetime-value-clv-an-easy-guide-with-python-233a0095a224?source=rss------data_science-5)
+- [Cos’è il Data feminism?](https://medium.com/@annapaolakennysalustro/cos%C3%A8-il-data-feminism-0bf38a61cf5e?source=rss------data_science-5)
+- [Next Edition of I Am Datapedia! Arrives in 2025!](https://medium.com/@mustafaisonline/next-edition-of-i-am-datapedia-arrives-in-2025-078432f6dc35?source=rss------data_science-5)
+- [So beheben Sie den DirectX-Fehler in Call of Duty: Black Ops 6](https://medium.com/@sirtrends/so-beheben-sie-den-directx-fehler-in-call-of-duty-black-ops-6-7e70eb755018?source=rss------data_science-5)
+- [Freischaltung der Dark Ops Herausforderungen in Call of Duty: Black Ops 6](https://medium.com/@sirtrends/freischaltung-der-dark-ops-herausforderungen-in-call-of-duty-black-ops-6-4e5c37acd368?source=rss------data_science-5)
+- [Guía del Evento de Lanzamiento de Lapras EX en Pokémon TCG Pocket](https://medium.com/@sirtrends/gu%C3%ADa-del-evento-de-lanzamiento-de-lapras-ex-en-pok%C3%A9mon-tcg-pocket-0a4fe30dfc38?source=rss------data_science-5)
+- [Workday Interview Experience — Data Scientist](https://medium.com/@raghuteja9966/workday-interview-experience-data-scientist-8d8c5dfeffe4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
