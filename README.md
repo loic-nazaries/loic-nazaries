@@ -105,14 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Finding the Right Balance: Better Choices with Lasso Regression](https://code.likeagirl.io/finding-the-right-balance-better-choices-with-lasso-regression-d55615c850c2?source=rss------data_science-5)
-- [Predicting Customer Lifetime Value &lpar;CLV&rpar;: An Easy Guide with Python](https://ernestodotnet.medium.com/predicting-customer-lifetime-value-clv-an-easy-guide-with-python-233a0095a224?source=rss------data_science-5)
-- [Cos’è il Data feminism?](https://medium.com/@annapaolakennysalustro/cos%C3%A8-il-data-feminism-0bf38a61cf5e?source=rss------data_science-5)
-- [Next Edition of I Am Datapedia! Arrives in 2025!](https://medium.com/@mustafaisonline/next-edition-of-i-am-datapedia-arrives-in-2025-078432f6dc35?source=rss------data_science-5)
-- [So beheben Sie den DirectX-Fehler in Call of Duty: Black Ops 6](https://medium.com/@sirtrends/so-beheben-sie-den-directx-fehler-in-call-of-duty-black-ops-6-7e70eb755018?source=rss------data_science-5)
-- [Freischaltung der Dark Ops Herausforderungen in Call of Duty: Black Ops 6](https://medium.com/@sirtrends/freischaltung-der-dark-ops-herausforderungen-in-call-of-duty-black-ops-6-4e5c37acd368?source=rss------data_science-5)
-- [Guía del Evento de Lanzamiento de Lapras EX en Pokémon TCG Pocket](https://medium.com/@sirtrends/gu%C3%ADa-del-evento-de-lanzamiento-de-lapras-ex-en-pok%C3%A9mon-tcg-pocket-0a4fe30dfc38?source=rss------data_science-5)
-- [Workday Interview Experience — Data Scientist](https://medium.com/@raghuteja9966/workday-interview-experience-data-scientist-8d8c5dfeffe4?source=rss------data_science-5)
+- [Important Computer Vision Papers for the Week from 28/10 to 03/11](https://medium.com/to-data-beyond/important-computer-vision-papers-for-the-week-from-28-10-to-03-11-2288d7220fd8?source=rss------data_science-5)
+- [Guía de Regalos y Compañeros en Dragon Age: The Veilguard](https://medium.com/@sirtrends/gu%C3%ADa-de-regalos-y-compa%C3%B1eros-en-dragon-age-the-veilguard-dc450a8bcb6b?source=rss------data_science-5)
+- [A Disciplined Approach to Truth-Seeking: Applying the Principles](https://medium.com/@Johannbeukes/a-disciplined-approach-to-truth-seeking-applying-the-principles-6975299040b9?source=rss------data_science-5)
+- [Mejor mazo Pikachu EX en Pokémon TCG Pocket](https://medium.com/@sirtrends/mejor-mazo-pikachu-ex-en-pok%C3%A9mon-tcg-pocket-950a721556ed?source=rss------data_science-5)
+- [A Comprehensive Guide to Pandas Cheat Sheet for Data Science Enthusiasts](https://python.plainenglish.io/a-comprehensive-guide-to-pandas-cheat-sheet-for-data-science-enthusiasts-b6f131ab5284?source=rss------data_science-5)
+- [Conseguir tickets premium en Pokémon TCG Pocket](https://medium.com/@sirtrends/conseguir-tickets-premium-en-pok%C3%A9mon-tcg-pocket-7b065bdb7232?source=rss------data_science-5)
+- [How Meta Created a Beast -P1](https://medium.com/@ppbhatt500/how-meta-created-a-beast-p1-2d76453cf3e5?source=rss------data_science-5)
+- [Event Registration Analytics Dashboard](https://medium.com/@GoMunster/event-registration-analytics-dashboard-2378dcf15f30?source=rss------data_science-5)
+- [Estas son Las Cartas Más Raras de Pokémon TCG Pocket: cómo conseguirlas](https://medium.com/@sirtrends/estas-son-las-cartas-m%C3%A1s-raras-de-pok%C3%A9mon-tcg-pocket-c%C3%B3mo-conseguirlas-a898fffa4906?source=rss------data_science-5)
+- [Dragon Age: The Veilguard – localización de las armas y escudos únicos](https://medium.com/@sirtrends/dragon-age-the-veilguard-localizaci%C3%B3n-de-las-armas-y-escudos-%C3%BAnicos-1c3913bae42d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
