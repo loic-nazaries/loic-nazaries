@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Important Computer Vision Papers for the Week from 28/10 to 03/11](https://medium.com/to-data-beyond/important-computer-vision-papers-for-the-week-from-28-10-to-03-11-2288d7220fd8?source=rss------data_science-5)
-- [Guía de Regalos y Compañeros en Dragon Age: The Veilguard](https://medium.com/@sirtrends/gu%C3%ADa-de-regalos-y-compa%C3%B1eros-en-dragon-age-the-veilguard-dc450a8bcb6b?source=rss------data_science-5)
-- [A Disciplined Approach to Truth-Seeking: Applying the Principles](https://medium.com/@Johannbeukes/a-disciplined-approach-to-truth-seeking-applying-the-principles-6975299040b9?source=rss------data_science-5)
-- [Mejor mazo Pikachu EX en Pokémon TCG Pocket](https://medium.com/@sirtrends/mejor-mazo-pikachu-ex-en-pok%C3%A9mon-tcg-pocket-950a721556ed?source=rss------data_science-5)
-- [A Comprehensive Guide to Pandas Cheat Sheet for Data Science Enthusiasts](https://python.plainenglish.io/a-comprehensive-guide-to-pandas-cheat-sheet-for-data-science-enthusiasts-b6f131ab5284?source=rss------data_science-5)
-- [Conseguir tickets premium en Pokémon TCG Pocket](https://medium.com/@sirtrends/conseguir-tickets-premium-en-pok%C3%A9mon-tcg-pocket-7b065bdb7232?source=rss------data_science-5)
-- [How Meta Created a Beast -P1](https://medium.com/@ppbhatt500/how-meta-created-a-beast-p1-2d76453cf3e5?source=rss------data_science-5)
-- [Event Registration Analytics Dashboard](https://medium.com/@GoMunster/event-registration-analytics-dashboard-2378dcf15f30?source=rss------data_science-5)
-- [Estas son Las Cartas Más Raras de Pokémon TCG Pocket: cómo conseguirlas](https://medium.com/@sirtrends/estas-son-las-cartas-m%C3%A1s-raras-de-pok%C3%A9mon-tcg-pocket-c%C3%B3mo-conseguirlas-a898fffa4906?source=rss------data_science-5)
-- [Dragon Age: The Veilguard – localización de las armas y escudos únicos](https://medium.com/@sirtrends/dragon-age-the-veilguard-localizaci%C3%B3n-de-las-armas-y-escudos-%C3%BAnicos-1c3913bae42d?source=rss------data_science-5)
+- [Tarotkarten von Lady Ravendancer in Die Sims 4: Leben und mehr](https://medium.com/@sirtrends/tarotkarten-von-lady-ravendancer-in-die-sims-4-leben-und-mehr-069cd9e95107?source=rss------data_science-5)
+- [Besten Pikachu EX-Decks in Pokémon TCG Pocket](https://medium.com/@sirtrends/besten-pikachu-ex-decks-in-pok%C3%A9mon-tcg-pocket-4b6b9e2bc95b?source=rss------data_science-5)
+- [Códigos Roblox Fisch actualizados a diario](https://medium.com/@sirtrends/c%C3%B3digos-roblox-fisch-actualizados-a-diario-e3dbbfbc8ff6?source=rss------data_science-5)
+- [Horario y localizaciones del festival en Los Sims 4: vida y más allá](https://medium.com/@sirtrends/horario-y-localizaciones-del-festival-en-los-sims-4-vida-y-m%C3%A1s-all%C3%A1-ab152518eaae?source=rss------data_science-5)
+- [Battleground State Polls Are Useless &lpar;And Math Can Prove It&rpar;](https://medium.com/data-science-rabbit-hole/battleground-state-polls-are-useless-and-math-can-prove-it-6272c8e08fd2?source=rss------data_science-5)
+- [Important LLMs Papers for the Week from 28/10 to 03/11](https://medium.com/to-data-beyond/important-llms-papers-for-the-week-from-28-10-to-03-11-f8b660b095e9?source=rss------data_science-5)
+- [Guía mejor mazo y baraja de Starmie EX en Pokémon TCG Pocket](https://medium.com/@sirtrends/gu%C3%ADa-mejor-mazo-y-baraja-de-starmie-ex-en-pok%C3%A9mon-tcg-pocket-0ab75f3860a5?source=rss------data_science-5)
+- [NLP Basics Explained](https://medium.com/@riteshgupta.ai/nlp-basics-explained-f4309ce98949?source=rss------data_science-5)
+- [Mejor build para el mago en Dragon Age The Veilguard](https://medium.com/@sirtrends/mejor-build-para-el-mago-en-dragon-age-the-veilguard-18b08e8d3e59?source=rss------data_science-5)
+- [Dónde encontrar todas las Reliquias de Neuras en Metaphor: ReFantazio](https://medium.com/@sirtrends/d%C3%B3nde-encontrar-todas-las-reliquias-de-neuras-en-metaphor-refantazio-8aaeae965130?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
