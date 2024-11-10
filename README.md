@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Tarotkarten von Lady Ravendancer in Die Sims 4: Leben und mehr](https://medium.com/@sirtrends/tarotkarten-von-lady-ravendancer-in-die-sims-4-leben-und-mehr-069cd9e95107?source=rss------data_science-5)
-- [Besten Pikachu EX-Decks in Pokémon TCG Pocket](https://medium.com/@sirtrends/besten-pikachu-ex-decks-in-pok%C3%A9mon-tcg-pocket-4b6b9e2bc95b?source=rss------data_science-5)
-- [Códigos Roblox Fisch actualizados a diario](https://medium.com/@sirtrends/c%C3%B3digos-roblox-fisch-actualizados-a-diario-e3dbbfbc8ff6?source=rss------data_science-5)
-- [Horario y localizaciones del festival en Los Sims 4: vida y más allá](https://medium.com/@sirtrends/horario-y-localizaciones-del-festival-en-los-sims-4-vida-y-m%C3%A1s-all%C3%A1-ab152518eaae?source=rss------data_science-5)
-- [Battleground State Polls Are Useless &lpar;And Math Can Prove It&rpar;](https://medium.com/data-science-rabbit-hole/battleground-state-polls-are-useless-and-math-can-prove-it-6272c8e08fd2?source=rss------data_science-5)
-- [Important LLMs Papers for the Week from 28/10 to 03/11](https://medium.com/to-data-beyond/important-llms-papers-for-the-week-from-28-10-to-03-11-f8b660b095e9?source=rss------data_science-5)
-- [Guía mejor mazo y baraja de Starmie EX en Pokémon TCG Pocket](https://medium.com/@sirtrends/gu%C3%ADa-mejor-mazo-y-baraja-de-starmie-ex-en-pok%C3%A9mon-tcg-pocket-0ab75f3860a5?source=rss------data_science-5)
-- [NLP Basics Explained](https://medium.com/@riteshgupta.ai/nlp-basics-explained-f4309ce98949?source=rss------data_science-5)
-- [Mejor build para el mago en Dragon Age The Veilguard](https://medium.com/@sirtrends/mejor-build-para-el-mago-en-dragon-age-the-veilguard-18b08e8d3e59?source=rss------data_science-5)
-- [Dónde encontrar todas las Reliquias de Neuras en Metaphor: ReFantazio](https://medium.com/@sirtrends/d%C3%B3nde-encontrar-todas-las-reliquias-de-neuras-en-metaphor-refantazio-8aaeae965130?source=rss------data_science-5)
+- [Análisis de la Felicidad Global: Un Enfoque con Scala y Spark](https://medium.com/@rosinuya/an%C3%A1lisis-de-la-felicidad-global-un-enfoque-con-scala-y-spark-dc963b0889c1?source=rss------data_science-5)
+- [Build a Job-Winning Data Science Portfolio](https://medium.com/@riteshgupta.ai/build-a-job-winning-data-science-portfolio-02e7b7a39e9f?source=rss------data_science-5)
+- [30 Days of Applied Generative AI: Building Real-World Applications with LangChain, LlamaIndex, and…](https://tonydain.medium.com/30-days-of-applied-generative-ai-building-real-world-applications-with-langchain-llamaindex-and-53aa8669f8fe?source=rss------data_science-5)
+- [Unlocking Data Potential: My Ongoing Journey with Arewa Data Science](https://medium.com/@koughteryilagabriel/unlocking-data-potential-my-ongoing-journey-with-arewa-data-science-18c005f0a6a4?source=rss------data_science-5)
+- [The Nature of Dark Energy](https://avi-loeb.medium.com/the-nature-of-dark-energy-60a448b244be?source=rss------data_science-5)
+- [Digital Transformation Requires Cultural Change at NASA](https://medium.com/majordigest/digital-transformation-requires-cultural-change-at-nasa-e163b82bcdfe?source=rss------data_science-5)
+- [User Centered Design &lpar;UCD&rpar; &amp; Goal Directed Design &lpar;GDD&rpar;](https://medium.com/@olivdump/user-centered-design-ucd-goal-directed-design-gdd-4850b4681fd4?source=rss------data_science-5)
+- [Bias Mitigation in 2024: Evolving Techniques for Fair and Balanced AI Models](https://medium.com/majordigest/bias-mitigation-in-2024-evolving-techniques-for-fair-and-balanced-ai-models-c135689b68ea?source=rss------data_science-5)
+- [Why Deep Learning?](https://medium.com/@namangarg1805/why-deep-learning-df279bd831ed?source=rss------data_science-5)
+- [Algoritmos de Machine Learning](https://medium.com/@ljmor/algoritmos-de-machine-learning-c7662d64ab5a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
