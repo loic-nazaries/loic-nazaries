@@ -105,16 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Análisis de la Felicidad Global: Un Enfoque con Scala y Spark](https://medium.com/@rosinuya/an%C3%A1lisis-de-la-felicidad-global-un-enfoque-con-scala-y-spark-dc963b0889c1?source=rss------data_science-5)
-- [Build a Job-Winning Data Science Portfolio](https://medium.com/@riteshgupta.ai/build-a-job-winning-data-science-portfolio-02e7b7a39e9f?source=rss------data_science-5)
-- [30 Days of Applied Generative AI: Building Real-World Applications with LangChain, LlamaIndex, and…](https://tonydain.medium.com/30-days-of-applied-generative-ai-building-real-world-applications-with-langchain-llamaindex-and-53aa8669f8fe?source=rss------data_science-5)
-- [Unlocking Data Potential: My Ongoing Journey with Arewa Data Science](https://medium.com/@koughteryilagabriel/unlocking-data-potential-my-ongoing-journey-with-arewa-data-science-18c005f0a6a4?source=rss------data_science-5)
-- [The Nature of Dark Energy](https://avi-loeb.medium.com/the-nature-of-dark-energy-60a448b244be?source=rss------data_science-5)
-- [Digital Transformation Requires Cultural Change at NASA](https://medium.com/majordigest/digital-transformation-requires-cultural-change-at-nasa-e163b82bcdfe?source=rss------data_science-5)
-- [User Centered Design &lpar;UCD&rpar; &amp; Goal Directed Design &lpar;GDD&rpar;](https://medium.com/@olivdump/user-centered-design-ucd-goal-directed-design-gdd-4850b4681fd4?source=rss------data_science-5)
-- [Bias Mitigation in 2024: Evolving Techniques for Fair and Balanced AI Models](https://medium.com/majordigest/bias-mitigation-in-2024-evolving-techniques-for-fair-and-balanced-ai-models-c135689b68ea?source=rss------data_science-5)
-- [Why Deep Learning?](https://medium.com/@namangarg1805/why-deep-learning-df279bd831ed?source=rss------data_science-5)
-- [Algoritmos de Machine Learning](https://medium.com/@ljmor/algoritmos-de-machine-learning-c7662d64ab5a?source=rss------data_science-5)
+- [Ejemplo de uso de Scala para procesamiento de datos masivos](https://medium.com/@kendy.sarcco/ejemplo-de-uso-de-scala-para-procesamiento-de-datos-masivos-d01747d3bd5c?source=rss------data_science-5)
+- [2.5 Years of MLflow Knowledge in 8 Tips](https://towardsdatascience.com/2-5-years-of-mlflow-knowledge-in-8-tips-b6023dd168df?source=rss------data_science-5)
+- [import pandas as pd
+import numpy as np
+from statsmodels.tsa.holtwinters](https://medium.com/@bhargavichettupalli/import-pandas-as-pd-import-numpy-as-np-from-statsmodels-tsa-holtwinters-72df3ad8920f?source=rss------data_science-5)
+- [Refleksi Terhadap Kebijakan Publik Tata Kelola Sampah yang Telah Berhasil Diterapkan di Negara dan…](https://medium.com/@kevinjoel01/refleksi-terhadap-kebijakan-publik-tata-kelola-sampah-yang-telah-berhasil-diterapkan-di-negara-dan-54c41e46abb3?source=rss------data_science-5)
+- [How To Create An AI Model?](https://medium.com/@LoganJames220/how-to-create-an-ai-model-31fd1b9b5178?source=rss------data_science-5)
+- [The Television:](https://medium.com/@star_5644/the-television-f775d79920c0?source=rss------data_science-5)
+- [Análise de Churn no Setor de Telecomunicações: Como Reduzir Perdas e Aumentar a Receita com Modelos…](https://medium.com/@Kaio-Gaspar/an%C3%A1lise-de-churn-no-setor-de-telecomunica%C3%A7%C3%B5es-como-reduzir-perdas-e-aumentar-a-receita-com-modelos-e52b2fce47e7?source=rss------data_science-5)
+- [SQL 101 | Chapter 6: Elevating Data Presentation — Advanced Sorting Techniques for Deeper Insights](https://yujinov.medium.com/sql-101-chapter-6-elevating-data-presentation-advanced-sorting-techniques-for-deeper-insights-9a896fa033c2?source=rss------data_science-5)
+- [Machine Learning for Hyperlocal Temperature Prediction](https://medium.com/@weatherpy/machine-learning-for-hyperlocal-temperature-prediction-24388e34b8cd?source=rss------data_science-5)
+- [From Ashes to Algorithms: How GOES Satellites and Python Can Protect Wildlife and Communities](https://pub.towardsai.net/from-ashes-to-algorithms-how-goes-satellites-and-python-can-protect-wildlife-and-communities-22cc22572c0c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
