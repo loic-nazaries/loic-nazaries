@@ -105,18 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Ejemplo de uso de Scala para procesamiento de datos masivos](https://medium.com/@kendy.sarcco/ejemplo-de-uso-de-scala-para-procesamiento-de-datos-masivos-d01747d3bd5c?source=rss------data_science-5)
-- [2.5 Years of MLflow Knowledge in 8 Tips](https://towardsdatascience.com/2-5-years-of-mlflow-knowledge-in-8-tips-b6023dd168df?source=rss------data_science-5)
-- [import pandas as pd
-import numpy as np
-from statsmodels.tsa.holtwinters](https://medium.com/@bhargavichettupalli/import-pandas-as-pd-import-numpy-as-np-from-statsmodels-tsa-holtwinters-72df3ad8920f?source=rss------data_science-5)
-- [Refleksi Terhadap Kebijakan Publik Tata Kelola Sampah yang Telah Berhasil Diterapkan di Negara dan…](https://medium.com/@kevinjoel01/refleksi-terhadap-kebijakan-publik-tata-kelola-sampah-yang-telah-berhasil-diterapkan-di-negara-dan-54c41e46abb3?source=rss------data_science-5)
-- [How To Create An AI Model?](https://medium.com/@LoganJames220/how-to-create-an-ai-model-31fd1b9b5178?source=rss------data_science-5)
-- [The Television:](https://medium.com/@star_5644/the-television-f775d79920c0?source=rss------data_science-5)
-- [Análise de Churn no Setor de Telecomunicações: Como Reduzir Perdas e Aumentar a Receita com Modelos…](https://medium.com/@Kaio-Gaspar/an%C3%A1lise-de-churn-no-setor-de-telecomunica%C3%A7%C3%B5es-como-reduzir-perdas-e-aumentar-a-receita-com-modelos-e52b2fce47e7?source=rss------data_science-5)
-- [SQL 101 | Chapter 6: Elevating Data Presentation — Advanced Sorting Techniques for Deeper Insights](https://yujinov.medium.com/sql-101-chapter-6-elevating-data-presentation-advanced-sorting-techniques-for-deeper-insights-9a896fa033c2?source=rss------data_science-5)
-- [Machine Learning for Hyperlocal Temperature Prediction](https://medium.com/@weatherpy/machine-learning-for-hyperlocal-temperature-prediction-24388e34b8cd?source=rss------data_science-5)
-- [From Ashes to Algorithms: How GOES Satellites and Python Can Protect Wildlife and Communities](https://pub.towardsai.net/from-ashes-to-algorithms-how-goes-satellites-and-python-can-protect-wildlife-and-communities-22cc22572c0c?source=rss------data_science-5)
+- [Cómo Desbloquear y Usar el Cóctel en Roblox Pets Go](https://medium.com/@mrprofesormisterio/c%C3%B3mo-desbloquear-y-usar-el-c%C3%B3ctel-en-roblox-pets-go-1aa0c537db1a?source=rss------data_science-5)
+- [Cómo conseguir Combustible en Manor Lords: Guía Completa](https://medium.com/@mrprofesormisterio/c%C3%B3mo-conseguir-combustible-en-manor-lords-gu%C3%ADa-completa-ba1b2c0f231d?source=rss------data_science-5)
+- [Conseguir fragmentos de ataque en Attack On Titan Revolution](https://medium.com/@mrprofesormisterio/conseguir-fragmentos-de-ataque-en-attack-on-titan-revolution-5a8c38f02844?source=rss------data_science-5)
+- [Unlocking the Secrets of JavaScript: Why It’s Essential for Today’s Web](https://medium.com/codex/unlocking-the-secrets-of-javascript-why-its-essential-for-today-s-web-25c0279fa755?source=rss------data_science-5)
+- [Baldurs Gate 3: cómo destruir la calavera maldita en la mansión de Lady Jannath](https://medium.com/@mrprofesormisterio/baldurs-gate-3-c%C3%B3mo-destruir-la-calavera-maldita-en-la-mansi%C3%B3n-de-lady-jannath-3045e8de5439?source=rss------data_science-5)
+- [Dive into Greenland’s Ice: Unwrapping Bedrock, Ice Thickness, and Data Magic](https://medium.com/@zachrykwan/dive-into-greenlands-ice-unwrapping-bedrock-ice-thickness-and-data-magic-be2be6e127a4?source=rss------data_science-5)
+- [El mejor mazo y baraja para Alakazam que tienes en Pokémon TCG Pocket](https://medium.com/@sirtrends/el-mejor-mazo-y-baraja-para-alakazam-que-tienes-en-pok%C3%A9mon-tcg-pocket-b2105722862f?source=rss------data_science-5)
+- [Pokémon TCG Pocket: todas las cartas inmersivas y cómo conseguirlas](https://medium.com/@sirtrends/pok%C3%A9mon-tcg-pocket-todas-las-cartas-inmersivas-y-c%C3%B3mo-conseguirlas-92f07bad3b78?source=rss------data_science-5)
+- [What is Research Methodology? Explain its types](https://medium.com/@aarunbhardwaj/what-is-research-methodology-explain-its-types-c871128a30a6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
