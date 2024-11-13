@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Cómo Desbloquear y Usar el Cóctel en Roblox Pets Go](https://medium.com/@mrprofesormisterio/c%C3%B3mo-desbloquear-y-usar-el-c%C3%B3ctel-en-roblox-pets-go-1aa0c537db1a?source=rss------data_science-5)
-- [Cómo conseguir Combustible en Manor Lords: Guía Completa](https://medium.com/@mrprofesormisterio/c%C3%B3mo-conseguir-combustible-en-manor-lords-gu%C3%ADa-completa-ba1b2c0f231d?source=rss------data_science-5)
-- [Conseguir fragmentos de ataque en Attack On Titan Revolution](https://medium.com/@mrprofesormisterio/conseguir-fragmentos-de-ataque-en-attack-on-titan-revolution-5a8c38f02844?source=rss------data_science-5)
-- [Unlocking the Secrets of JavaScript: Why It’s Essential for Today’s Web](https://medium.com/codex/unlocking-the-secrets-of-javascript-why-its-essential-for-today-s-web-25c0279fa755?source=rss------data_science-5)
-- [Baldurs Gate 3: cómo destruir la calavera maldita en la mansión de Lady Jannath](https://medium.com/@mrprofesormisterio/baldurs-gate-3-c%C3%B3mo-destruir-la-calavera-maldita-en-la-mansi%C3%B3n-de-lady-jannath-3045e8de5439?source=rss------data_science-5)
-- [Dive into Greenland’s Ice: Unwrapping Bedrock, Ice Thickness, and Data Magic](https://medium.com/@zachrykwan/dive-into-greenlands-ice-unwrapping-bedrock-ice-thickness-and-data-magic-be2be6e127a4?source=rss------data_science-5)
-- [El mejor mazo y baraja para Alakazam que tienes en Pokémon TCG Pocket](https://medium.com/@sirtrends/el-mejor-mazo-y-baraja-para-alakazam-que-tienes-en-pok%C3%A9mon-tcg-pocket-b2105722862f?source=rss------data_science-5)
-- [Pokémon TCG Pocket: todas las cartas inmersivas y cómo conseguirlas](https://medium.com/@sirtrends/pok%C3%A9mon-tcg-pocket-todas-las-cartas-inmersivas-y-c%C3%B3mo-conseguirlas-92f07bad3b78?source=rss------data_science-5)
-- [What is Research Methodology? Explain its types](https://medium.com/@aarunbhardwaj/what-is-research-methodology-explain-its-types-c871128a30a6?source=rss------data_science-5)
+- [Weight Loss, Setbacks, and Big Dreams](https://medium.com/@drleoreal01/weight-loss-setbacks-and-big-dreams-5f1e497b629b?source=rss------data_science-5)
+- [Game Theory, Part 3 — You are the average of the five people you spend the most time with](https://towardsdatascience.com/game-theory-part-3-you-are-the-average-of-the-five-people-you-spend-the-most-time-with-a595ee221e43?source=rss------data_science-5)
+- [Basics of Artificial Intelligence](https://medium.com/@digitalproductssale89/basics-of-artificial-intelligence-3dad8c658455?source=rss------data_science-5)
+- [The Future of Fashion Tech: Where Data Science Meets Personalization](https://krishnaprasad-nair.medium.com/the-future-of-fashion-tech-where-data-science-meets-personalization-dbd1ddee33cd?source=rss------data_science-5)
+- [Guía del Evento  “Amazing Partners” en Monopoly Go](https://medium.com/@mrprofesormisterio/gu%C3%ADa-del-evento-amazing-partners-en-monopoly-go-51baf24f6b26?source=rss------data_science-5)
+- [Dónde están todos los peluches en Black Ops 6 Zombies](https://medium.com/@mrprofesormisterio/d%C3%B3nde-est%C3%A1n-todos-los-peluches-en-black-ops-6-zombies-fe77138210a4?source=rss------data_science-5)
+- [Guía mejor baraja y mazo de Machamp EX Pokémon TCG Pocket](https://medium.com/@sirtrends/gu%C3%ADa-mejor-baraja-y-mazo-de-machamp-ex-pok%C3%A9mon-tcg-pocket-9abc2e857992?source=rss------data_science-5)
+- [Códigos Roblox juego de boxeo sin título y sus recompensas](https://medium.com/@sirtrends/c%C3%B3digos-roblox-juego-de-boxeo-sin-t%C3%ADtulo-y-sus-recompensas-cf286aaf3329?source=rss------data_science-5)
+- [Roblox Fisch: todos los cebos y anzuelos y cómo conseguirlos](https://medium.com/@sirtrends/roblox-fisch-todos-los-cebos-y-anzuelos-y-c%C3%B3mo-conseguirlos-d12c6b389c27?source=rss------data_science-5)
+- [Roblox Fisch: conseguir la caña de pescar de magma](https://medium.com/@sirtrends/roblox-fisch-conseguir-la-ca%C3%B1a-de-pescar-de-magma-ff62cdf54b40?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
