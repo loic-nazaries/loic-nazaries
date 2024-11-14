@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Weight Loss, Setbacks, and Big Dreams](https://medium.com/@drleoreal01/weight-loss-setbacks-and-big-dreams-5f1e497b629b?source=rss------data_science-5)
-- [Game Theory, Part 3 — You are the average of the five people you spend the most time with](https://towardsdatascience.com/game-theory-part-3-you-are-the-average-of-the-five-people-you-spend-the-most-time-with-a595ee221e43?source=rss------data_science-5)
-- [Basics of Artificial Intelligence](https://medium.com/@digitalproductssale89/basics-of-artificial-intelligence-3dad8c658455?source=rss------data_science-5)
-- [The Future of Fashion Tech: Where Data Science Meets Personalization](https://krishnaprasad-nair.medium.com/the-future-of-fashion-tech-where-data-science-meets-personalization-dbd1ddee33cd?source=rss------data_science-5)
-- [Guía del Evento  “Amazing Partners” en Monopoly Go](https://medium.com/@mrprofesormisterio/gu%C3%ADa-del-evento-amazing-partners-en-monopoly-go-51baf24f6b26?source=rss------data_science-5)
-- [Dónde están todos los peluches en Black Ops 6 Zombies](https://medium.com/@mrprofesormisterio/d%C3%B3nde-est%C3%A1n-todos-los-peluches-en-black-ops-6-zombies-fe77138210a4?source=rss------data_science-5)
-- [Guía mejor baraja y mazo de Machamp EX Pokémon TCG Pocket](https://medium.com/@sirtrends/gu%C3%ADa-mejor-baraja-y-mazo-de-machamp-ex-pok%C3%A9mon-tcg-pocket-9abc2e857992?source=rss------data_science-5)
-- [Códigos Roblox juego de boxeo sin título y sus recompensas](https://medium.com/@sirtrends/c%C3%B3digos-roblox-juego-de-boxeo-sin-t%C3%ADtulo-y-sus-recompensas-cf286aaf3329?source=rss------data_science-5)
-- [Roblox Fisch: todos los cebos y anzuelos y cómo conseguirlos](https://medium.com/@sirtrends/roblox-fisch-todos-los-cebos-y-anzuelos-y-c%C3%B3mo-conseguirlos-d12c6b389c27?source=rss------data_science-5)
-- [Roblox Fisch: conseguir la caña de pescar de magma](https://medium.com/@sirtrends/roblox-fisch-conseguir-la-ca%C3%B1a-de-pescar-de-magma-ff62cdf54b40?source=rss------data_science-5)
+- [Prospero Markets Review : legit or hoax](https://medium.com/@karenreed34/prospero-markets-review-legit-or-hoax-e7adf99d573d?source=rss------data_science-5)
+- [Data Science Cheat Sheet: Matplotlib &amp; Seaborn for Visualization in Python](https://python.plainenglish.io/data-science-cheat-sheet-matplotlib-seaborn-for-visualization-in-python-a31aba82b5ec?source=rss------data_science-5)
+- [Earn Passive Income with Blast &lpar;BLAST&rpar; Staking on XBANKING](https://medium.com/@ebimosmile/earn-passive-income-with-blast-blast-staking-on-xbanking-a94a713d7f49?source=rss------data_science-5)
+- [There are a lot of “easy fixes” in data that aren’t the right solution.](https://medium.com/@glaucioalmeida9/there-are-a-lot-of-easy-fixes-in-data-that-arent-the-right-solution-e1da3be82bdc?source=rss------data_science-5)
+- [Types of Data](https://medium.com/@mustafaisonline/types-of-data-e15ab63b7ec1?source=rss------data_science-5)
+- [NumPy Cheat Sheet for Data Science](https://python.plainenglish.io/numpy-cheat-sheet-for-data-science-cce7d3122597?source=rss------data_science-5)
+- [How to Build a Successful Freelance Tech Career](https://medium.com/@youness.azzamok/how-to-build-a-successful-freelance-tech-career-2a17a9b21aba?source=rss------data_science-5)
+- [Mejor build para Acheron en Honkai Star Rail](https://medium.com/@mrprofesormisterio/mejor-build-para-acheron-en-honkai-star-rail-e90cc779f019?source=rss------data_science-5)
+- [Data Breaches in 2023: What We Learned](https://medium.com/@youness.azzamok/data-breaches-in-2023-what-we-learned-f7032cef7402?source=rss------data_science-5)
+- [Is Remote Work Really Here to Stay? A Data-Driven Look](https://medium.com/@youness.azzamok/is-remote-work-really-here-to-stay-a-data-driven-look-ffdca3ec36b3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
