@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Prospero Markets Review : legit or hoax](https://medium.com/@karenreed34/prospero-markets-review-legit-or-hoax-e7adf99d573d?source=rss------data_science-5)
-- [Data Science Cheat Sheet: Matplotlib &amp; Seaborn for Visualization in Python](https://python.plainenglish.io/data-science-cheat-sheet-matplotlib-seaborn-for-visualization-in-python-a31aba82b5ec?source=rss------data_science-5)
-- [Earn Passive Income with Blast &lpar;BLAST&rpar; Staking on XBANKING](https://medium.com/@ebimosmile/earn-passive-income-with-blast-blast-staking-on-xbanking-a94a713d7f49?source=rss------data_science-5)
-- [There are a lot of “easy fixes” in data that aren’t the right solution.](https://medium.com/@glaucioalmeida9/there-are-a-lot-of-easy-fixes-in-data-that-arent-the-right-solution-e1da3be82bdc?source=rss------data_science-5)
-- [Types of Data](https://medium.com/@mustafaisonline/types-of-data-e15ab63b7ec1?source=rss------data_science-5)
-- [NumPy Cheat Sheet for Data Science](https://python.plainenglish.io/numpy-cheat-sheet-for-data-science-cce7d3122597?source=rss------data_science-5)
-- [How to Build a Successful Freelance Tech Career](https://medium.com/@youness.azzamok/how-to-build-a-successful-freelance-tech-career-2a17a9b21aba?source=rss------data_science-5)
-- [Mejor build para Acheron en Honkai Star Rail](https://medium.com/@mrprofesormisterio/mejor-build-para-acheron-en-honkai-star-rail-e90cc779f019?source=rss------data_science-5)
-- [Data Breaches in 2023: What We Learned](https://medium.com/@youness.azzamok/data-breaches-in-2023-what-we-learned-f7032cef7402?source=rss------data_science-5)
-- [Is Remote Work Really Here to Stay? A Data-Driven Look](https://medium.com/@youness.azzamok/is-remote-work-really-here-to-stay-a-data-driven-look-ffdca3ec36b3?source=rss------data_science-5)
+- [Automate Git Branch Cleanup with Python: Say Goodbye to Manual Tidying](https://tomaszs2.medium.com/automate-git-branch-cleanup-with-python-say-goodbye-to-manual-tidying-e79e8a2e3155?source=rss------data_science-5)
+- [URANUS](https://medium.com/@star_5644/uranus-8da1592c95c2?source=rss------data_science-5)
+- [I will do project manager, cyber security, software developer, data scientist resume](https://medium.com/@aliyah010011/i-will-do-project-manager-cyber-security-software-developer-data-scientist-resume-b05621a9d3e4?source=rss------data_science-5)
+- [Data Science SQL for Data Science Cheat Sheet](https://python.plainenglish.io/data-science-sql-for-data-science-cheat-sheet-f962b9a3540f?source=rss------data_science-5)
+- [Códigos de Roblox Doors Floor 2](https://medium.com/@mrprofesormisterio/c%C3%B3digos-de-roblox-doors-floor-2-4474bea5b14d?source=rss------data_science-5)
+- [What is Data Science and What’s the future like for Data Scientists?](https://allaboutcode.medium.com/what-is-data-science-and-whats-the-future-like-for-data-scientists-cf557fb4002a?source=rss------data_science-5)
+- [Guía Mejores loadouts de Rifles de Asalto en Black Ops 6](https://medium.com/@mrprofesormisterio/gu%C3%ADa-mejores-loadouts-de-rifles-de-asalto-en-black-ops-6-90a2e0e0ad17?source=rss------data_science-5)
+- [Dónde encontrar Resina en Enshrouded y como usarla](https://medium.com/@mrprofesormisterio/d%C3%B3nde-encontrar-resina-en-enshrouded-y-como-usarla-426a7dc86cbb?source=rss------data_science-5)
+- [Model Evaluation in Data Science](https://medium.com/@digitalproductssale89/model-evaluation-in-data-science-c079cf4d25e7?source=rss------data_science-5)
+- [Dónde están todas las piezas de Intel en el mapa Terminus de Black Ops 6 Zombies](https://medium.com/@sirtrends/d%C3%B3nde-est%C3%A1n-todas-las-piezas-de-intel-en-el-mapa-terminus-de-black-ops-6-zombies-3699bf0f4293?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
