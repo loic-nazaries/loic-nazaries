@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Automate Git Branch Cleanup with Python: Say Goodbye to Manual Tidying](https://tomaszs2.medium.com/automate-git-branch-cleanup-with-python-say-goodbye-to-manual-tidying-e79e8a2e3155?source=rss------data_science-5)
-- [URANUS](https://medium.com/@star_5644/uranus-8da1592c95c2?source=rss------data_science-5)
-- [I will do project manager, cyber security, software developer, data scientist resume](https://medium.com/@aliyah010011/i-will-do-project-manager-cyber-security-software-developer-data-scientist-resume-b05621a9d3e4?source=rss------data_science-5)
-- [Data Science SQL for Data Science Cheat Sheet](https://python.plainenglish.io/data-science-sql-for-data-science-cheat-sheet-f962b9a3540f?source=rss------data_science-5)
-- [Códigos de Roblox Doors Floor 2](https://medium.com/@mrprofesormisterio/c%C3%B3digos-de-roblox-doors-floor-2-4474bea5b14d?source=rss------data_science-5)
-- [What is Data Science and What’s the future like for Data Scientists?](https://allaboutcode.medium.com/what-is-data-science-and-whats-the-future-like-for-data-scientists-cf557fb4002a?source=rss------data_science-5)
-- [Guía Mejores loadouts de Rifles de Asalto en Black Ops 6](https://medium.com/@mrprofesormisterio/gu%C3%ADa-mejores-loadouts-de-rifles-de-asalto-en-black-ops-6-90a2e0e0ad17?source=rss------data_science-5)
-- [Dónde encontrar Resina en Enshrouded y como usarla](https://medium.com/@mrprofesormisterio/d%C3%B3nde-encontrar-resina-en-enshrouded-y-como-usarla-426a7dc86cbb?source=rss------data_science-5)
-- [Model Evaluation in Data Science](https://medium.com/@digitalproductssale89/model-evaluation-in-data-science-c079cf4d25e7?source=rss------data_science-5)
-- [Dónde están todas las piezas de Intel en el mapa Terminus de Black Ops 6 Zombies](https://medium.com/@sirtrends/d%C3%B3nde-est%C3%A1n-todas-las-piezas-de-intel-en-el-mapa-terminus-de-black-ops-6-zombies-3699bf0f4293?source=rss------data_science-5)
+- [Is Tech Addiction Real? Here’s What the Data Says](https://medium.com/@youness.azzamok/is-tech-addiction-real-heres-what-the-data-says-febca69c2bfe?source=rss------data_science-5)
+- [Edge Computing vs. Cloud Computing: Pros and Cons](https://medium.com/@youness.azzamok/edge-computing-vs-cloud-computing-pros-and-cons-c513f63a58d8?source=rss------data_science-5)
+- [Why AI Still Struggles to Understand Human Language](https://medium.com/@youness.azzamok/why-ai-still-struggles-to-understand-human-language-8ae32258258d?source=rss------data_science-5)
+- [How to Use Git Like a Pro: Advanced Techniques](https://medium.com/@youness.azzamok/how-to-use-git-like-a-pro-advanced-techniques-c5a22abb207b?source=rss------data_science-5)
+- [The Science of Recommendation Algorithms](https://medium.com/@youness.azzamok/the-science-of-recommendation-algorithms-257cebcaca8e?source=rss------data_science-5)
+- [Building Your First RAG Chatbot](https://ai.gopubby.com/building-your-first-rag-chatbot-72864a23e5e0?source=rss------data_science-5)
+- [Why Tech Companies Are Investing in Mental Health](https://medium.com/@youness.azzamok/why-tech-companies-are-investing-in-mental-health-2c42e82f14d1?source=rss------data_science-5)
+- [The Case for Decentralized Autonomous Organizations &lpar;DAOs&rpar;](https://medium.com/@youness.azzamok/the-case-for-decentralized-autonomous-organizations-daos-faa5de348dad?source=rss------data_science-5)
+- [5 Tech Skills You Can Learn in Under a Month](https://medium.com/@youness.azzamok/5-tech-skills-you-can-learn-in-under-a-month-19c4f81c6494?source=rss------data_science-5)
+- [Why the Role of the Data Engineer is Growing Fast](https://medium.com/@youness.azzamok/why-the-role-of-the-data-engineer-is-growing-fast-cc3bee0c1f18?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
