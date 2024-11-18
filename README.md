@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How Snowflake’s Unique Architecture Powers the Future of AI and Machine Learning](https://ai.gopubby.com/how-snowflakes-unique-architecture-powers-the-future-of-ai-and-machine-learning-2e78712555c2?source=rss------data_science-5)
-- [WAVTOKENIZER: Tokenizer For Audio Language Modeling](https://medium.com/@thethoughtpalette/wavtokenizer-tokenizer-for-audio-language-modeling-0fda4cb3c868?source=rss------data_science-5)
-- [Why is PACCAR a Smart Investment?](https://medium.com/@edgar.bmztech/why-paccar-is-a-smart-investment-3b175de2fffc?source=rss------data_science-5)
-- [Day 1: Mathematical Foundations of Machine Learning](https://medium.com/@kerasgirl/day-1-mathematical-foundations-of-machine-learning-836893df3f44?source=rss------data_science-5)
-- [Data Quality, Integration, and the Foundation for AI](https://medium.com/@maxdallingawork/data-integration-creating-the-modern-foundation-for-data-quality-and-ai-9ef71f062917?source=rss------data_science-5)
-- [Understanding Lists in Python: A Beginner’s Guide](https://medium.com/@thomas1995/understanding-lists-in-python-a-beginners-guide-7ef0b1280912?source=rss------data_science-5)
-- [CHAMPION OF OPEN SOURCE AND DISTRIBUTED WORK](https://medium.com/@equickmart28/champion-of-open-source-and-distributed-work-c955dad1a7d6?source=rss------data_science-5)
-- [Step-by-Step Guide to become Data Engineer in 2025](https://medium.com/@raracodes/step-by-step-guide-to-become-data-engineer-in-2025-a20561159679?source=rss------data_science-5)
-- [The XB Token: Pioneering the Future of DeFi Profit-Sharing](https://medium.com/@vibesck4/the-xb-token-pioneering-the-future-of-defi-profit-sharing-e1e9e8830ddd?source=rss------data_science-5)
+- [Data Science Tableau Cheat Sheet](https://python.plainenglish.io/data-science-tableau-cheat-sheet-84429f7a9718?source=rss------data_science-5)
+- [ADO.NET mi Entity Framework mü? C# ile Veritabanı Bağlantı Rehberi](https://medium.com/@berkay.gmrk/ado-net-mi-entity-framework-m%C3%BC-c-ile-veritaban%C4%B1-ba%C4%9Flant%C4%B1-rehberi-4189153ea92d?source=rss------data_science-5)
+- [Empowering Data Literacy with DataCamp Donates: GDG_on_campus FSS Partnership Success](https://medium.com/@gdgcampusfss/empowering-data-literacy-with-datacamp-donates-gdg-on-campus-fss-partnership-success-6deeb4f99b78?source=rss------data_science-5)
+- [](https://medium.com/@mustafaisonline/-608152762ec1?source=rss------data_science-5)
+- [Unravelling Uncertainty: A Monte Carlo Simulation](https://medium.datadriveninvestor.com/unravelling-uncertainty-a-monte-carlo-simulation-be04952b7c0b?source=rss------data_science-5)
+- [Building an SEC 10-K Analyst with Mem0: Leveraging Memory Layers for Enhanced Financial Analysis](https://medium.datadriveninvestor.com/building-an-sec-10-k-analyst-with-mem0-leveraging-memory-layers-for-enhanced-financial-analysis-e02dcd0a2d94?source=rss------data_science-5)
+- [Ultimate Roadmap to Learn Data Science in 2024 &lpar;For Free!&rpar;](https://medium.datadriveninvestor.com/ultimate-roadmap-to-learn-data-science-in-2024-for-free-ec139718eab7?source=rss------data_science-5)
+- [Regression, Clustering, and Tree-Based Models](https://medium.com/@digitalproductssale89/regression-clustering-and-tree-based-models-b30fe055889b?source=rss------data_science-5)
+- [Substansi Genetik dan Penyakit: Apa Hubungannya?](https://medium.com/@mozaramadhani2930/substansi-genetik-dan-penyakit-apa-hubungannya-fa0f94314f06?source=rss------data_science-5)
+- [SQL 101 | Chapter 7: Using Joins to Combine and Unify Data](https://yujinov.medium.com/sql-101-chapter-7-using-joins-to-combine-and-unify-data-e795ac15f299?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
