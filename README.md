@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Science Tableau Cheat Sheet](https://python.plainenglish.io/data-science-tableau-cheat-sheet-84429f7a9718?source=rss------data_science-5)
-- [ADO.NET mi Entity Framework mü? C# ile Veritabanı Bağlantı Rehberi](https://medium.com/@berkay.gmrk/ado-net-mi-entity-framework-m%C3%BC-c-ile-veritaban%C4%B1-ba%C4%9Flant%C4%B1-rehberi-4189153ea92d?source=rss------data_science-5)
-- [Empowering Data Literacy with DataCamp Donates: GDG_on_campus FSS Partnership Success](https://medium.com/@gdgcampusfss/empowering-data-literacy-with-datacamp-donates-gdg-on-campus-fss-partnership-success-6deeb4f99b78?source=rss------data_science-5)
-- [](https://medium.com/@mustafaisonline/-608152762ec1?source=rss------data_science-5)
-- [Unravelling Uncertainty: A Monte Carlo Simulation](https://medium.datadriveninvestor.com/unravelling-uncertainty-a-monte-carlo-simulation-be04952b7c0b?source=rss------data_science-5)
-- [Building an SEC 10-K Analyst with Mem0: Leveraging Memory Layers for Enhanced Financial Analysis](https://medium.datadriveninvestor.com/building-an-sec-10-k-analyst-with-mem0-leveraging-memory-layers-for-enhanced-financial-analysis-e02dcd0a2d94?source=rss------data_science-5)
-- [Ultimate Roadmap to Learn Data Science in 2024 &lpar;For Free!&rpar;](https://medium.datadriveninvestor.com/ultimate-roadmap-to-learn-data-science-in-2024-for-free-ec139718eab7?source=rss------data_science-5)
-- [Regression, Clustering, and Tree-Based Models](https://medium.com/@digitalproductssale89/regression-clustering-and-tree-based-models-b30fe055889b?source=rss------data_science-5)
-- [Substansi Genetik dan Penyakit: Apa Hubungannya?](https://medium.com/@mozaramadhani2930/substansi-genetik-dan-penyakit-apa-hubungannya-fa0f94314f06?source=rss------data_science-5)
-- [SQL 101 | Chapter 7: Using Joins to Combine and Unify Data](https://yujinov.medium.com/sql-101-chapter-7-using-joins-to-combine-and-unify-data-e795ac15f299?source=rss------data_science-5)
+- [Dónde leer Blue Lock capítulo 284 fecha y hora y resumen](https://medium.com/@mrprofesormisterio/d%C3%B3nde-leer-blue-lock-cap%C3%ADtulo-284-fecha-y-hora-y-resumen-1fd68140a132?source=rss------data_science-5)
+- [Customer Behavior Analysis: How Product Quality, Service Speed, and Pricing Drive Loyalty](https://medium.com/@agbontaeneseosa/customer-behavior-analysis-how-product-quality-service-speed-and-pricing-drive-loyalty-56d8f7afd072?source=rss------data_science-5)
+- [Data As A Product](https://medium.com/@mustafaisonline/data-as-a-product-49362bc0036b?source=rss------data_science-5)
+- [Guía para Salir y Cambiar de Cuenta en Pokémon TCG Pocket](https://medium.com/@sirtrends/gu%C3%ADa-para-salir-y-cambiar-de-cuenta-en-pok%C3%A9mon-tcg-pocket-8d483c96e856?source=rss------data_science-5)
+- [CNN for Image-Based Tasks](https://medium.com/@digitalproductssale89/cnn-for-image-based-tasks-63f2b459d059?source=rss------data_science-5)
+- [Mejor mazo y baraja para Mankey y Primeape en Pokémon TCG Pocket](https://medium.com/@sirtrends/mejor-mazo-y-baraja-para-mankey-y-primeape-en-pok%C3%A9mon-tcg-pocket-675cb30ab4e7?source=rss------data_science-5)
+- [Guía Completa para Conseguir Poké Lingotes en Pokémon TCG Pocket](https://medium.com/@sirtrends/gu%C3%ADa-completa-para-conseguir-pok%C3%A9-lingotes-en-pok%C3%A9mon-tcg-pocket-a29b9492b2b2?source=rss------data_science-5)
+- [Una vida perfecta capítulo 69 en español](https://medium.com/@mrprofesormisterio/una-vida-perfecta-cap%C3%ADtulo-69-en-espa%C3%B1ol-99baf1594f9d?source=rss------data_science-5)
+- [Ver Historias De Instagram Oculto](https://medium.com/@sirtrends/ver-historias-de-instagram-oculto-f20da75e9778?source=rss------data_science-5)
+- [Una nueva vida capítulo 11 en español](https://medium.com/@mrprofesormisterio/una-nueva-vida-cap%C3%ADtulo-11-en-espa%C3%B1ol-6bc0c7367bcf?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
