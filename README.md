@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Dónde leer Blue Lock capítulo 284 fecha y hora y resumen](https://medium.com/@mrprofesormisterio/d%C3%B3nde-leer-blue-lock-cap%C3%ADtulo-284-fecha-y-hora-y-resumen-1fd68140a132?source=rss------data_science-5)
-- [Customer Behavior Analysis: How Product Quality, Service Speed, and Pricing Drive Loyalty](https://medium.com/@agbontaeneseosa/customer-behavior-analysis-how-product-quality-service-speed-and-pricing-drive-loyalty-56d8f7afd072?source=rss------data_science-5)
-- [Data As A Product](https://medium.com/@mustafaisonline/data-as-a-product-49362bc0036b?source=rss------data_science-5)
-- [Guía para Salir y Cambiar de Cuenta en Pokémon TCG Pocket](https://medium.com/@sirtrends/gu%C3%ADa-para-salir-y-cambiar-de-cuenta-en-pok%C3%A9mon-tcg-pocket-8d483c96e856?source=rss------data_science-5)
-- [CNN for Image-Based Tasks](https://medium.com/@digitalproductssale89/cnn-for-image-based-tasks-63f2b459d059?source=rss------data_science-5)
-- [Mejor mazo y baraja para Mankey y Primeape en Pokémon TCG Pocket](https://medium.com/@sirtrends/mejor-mazo-y-baraja-para-mankey-y-primeape-en-pok%C3%A9mon-tcg-pocket-675cb30ab4e7?source=rss------data_science-5)
-- [Guía Completa para Conseguir Poké Lingotes en Pokémon TCG Pocket](https://medium.com/@sirtrends/gu%C3%ADa-completa-para-conseguir-pok%C3%A9-lingotes-en-pok%C3%A9mon-tcg-pocket-a29b9492b2b2?source=rss------data_science-5)
-- [Una vida perfecta capítulo 69 en español](https://medium.com/@mrprofesormisterio/una-vida-perfecta-cap%C3%ADtulo-69-en-espa%C3%B1ol-99baf1594f9d?source=rss------data_science-5)
-- [Ver Historias De Instagram Oculto](https://medium.com/@sirtrends/ver-historias-de-instagram-oculto-f20da75e9778?source=rss------data_science-5)
-- [Una nueva vida capítulo 11 en español](https://medium.com/@mrprofesormisterio/una-nueva-vida-cap%C3%ADtulo-11-en-espa%C3%B1ol-6bc0c7367bcf?source=rss------data_science-5)
+- [The Seas Run Dry: Will Earth Become the Next Red Planet?](https://medium.com/@didikurniawanmade/the-seas-run-dry-will-earth-become-the-next-red-planet-5a73ad05f335?source=rss------data_science-5)
+- [Techniques in Feature Engineering:](https://towardsdatascience.com/techniques-in-feature-engineering-fc05fd486bc8?source=rss------data_science-5)
+- [Interpretin Spark Query Plans for Debugging](https://medium.com/@er.abhishektrehan/interpretin-spark-query-plans-for-debugging-ae01f701342e?source=rss------data_science-5)
+- [Optimized Pathfinding in Graphs Using Graph Attention Networks &lpar;GATs&rpar; and Geometrical Partitioning…](https://medium.com/@lex32lex02/optimized-pathfinding-in-graphs-using-graph-attention-networks-gats-and-geometrical-partitioning-63145ba09012?source=rss------data_science-5)
+- [SQL Query Performance Optimization](https://medium.com/@er.abhishektrehan/sql-query-performance-optimization-a2d270253a91?source=rss------data_science-5)
+- [Tokenization, Stemming, and Applications](https://medium.com/@digitalproductssale89/tokenization-stemming-and-applications-e624d1663dfe?source=rss------data_science-5)
+- [Mastering AI and Machine Learning: Your Beginner&#39;s Guide to a Wealthy and Tech-Savvy Future](https://medium.com/@anessulrehman/mastering-ai-and-machine-learning-your-beginners-guide-to-a-wealthy-and-tech-savvy-future-1218cfab0364?source=rss------data_science-5)
+- [Lista de códigos Monopoly Go con todas las recompensas gratis](https://medium.com/@sirtrends/lista-de-c%C3%B3digos-monopoly-go-con-todas-las-recompensas-gratis-895a865df002?source=rss------data_science-5)
+- [Machine Learning using PySpark](https://medium.com/@er.abhishektrehan/machine-learning-using-pyspark-385453c89de3?source=rss------data_science-5)
+- [Dicas para apresentações focadas em dados — Parte 1](https://medium.com/@gabriel.cabral.guimaraes/dicas-para-apresenta%C3%A7%C3%B5es-focadas-em-dados-parte-1-f376d534ee26?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
