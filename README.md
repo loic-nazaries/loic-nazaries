@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Seas Run Dry: Will Earth Become the Next Red Planet?](https://medium.com/@didikurniawanmade/the-seas-run-dry-will-earth-become-the-next-red-planet-5a73ad05f335?source=rss------data_science-5)
-- [Techniques in Feature Engineering:](https://towardsdatascience.com/techniques-in-feature-engineering-fc05fd486bc8?source=rss------data_science-5)
-- [Interpretin Spark Query Plans for Debugging](https://medium.com/@er.abhishektrehan/interpretin-spark-query-plans-for-debugging-ae01f701342e?source=rss------data_science-5)
-- [Optimized Pathfinding in Graphs Using Graph Attention Networks &lpar;GATs&rpar; and Geometrical Partitioning…](https://medium.com/@lex32lex02/optimized-pathfinding-in-graphs-using-graph-attention-networks-gats-and-geometrical-partitioning-63145ba09012?source=rss------data_science-5)
-- [SQL Query Performance Optimization](https://medium.com/@er.abhishektrehan/sql-query-performance-optimization-a2d270253a91?source=rss------data_science-5)
-- [Tokenization, Stemming, and Applications](https://medium.com/@digitalproductssale89/tokenization-stemming-and-applications-e624d1663dfe?source=rss------data_science-5)
-- [Mastering AI and Machine Learning: Your Beginner&#39;s Guide to a Wealthy and Tech-Savvy Future](https://medium.com/@anessulrehman/mastering-ai-and-machine-learning-your-beginners-guide-to-a-wealthy-and-tech-savvy-future-1218cfab0364?source=rss------data_science-5)
-- [Lista de códigos Monopoly Go con todas las recompensas gratis](https://medium.com/@sirtrends/lista-de-c%C3%B3digos-monopoly-go-con-todas-las-recompensas-gratis-895a865df002?source=rss------data_science-5)
-- [Machine Learning using PySpark](https://medium.com/@er.abhishektrehan/machine-learning-using-pyspark-385453c89de3?source=rss------data_science-5)
-- [Dicas para apresentações focadas em dados — Parte 1](https://medium.com/@gabriel.cabral.guimaraes/dicas-para-apresenta%C3%A7%C3%B5es-focadas-em-dados-parte-1-f376d534ee26?source=rss------data_science-5)
+- [#شماره خاله #شماره خاله تهران #شماره خاله اصفهان #شماره خاله یزد #شماره خاله شهریار #شماره خاله…](https://medium.com/@ztrtrbkhb/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DB%8C%D8%B2%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%87%D8%B1%DB%8C%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-1078fee3448d?source=rss------data_science-5)
+- [Assessing the Accuracy of Coefficient Estimates](https://medium.com/@neuralrow/assessing-the-accuracy-of-coefficient-estimates-608a7000fb77?source=rss------data_science-5)
+- [Digital Camera](https://medium.com/@syedhaideralirizvi1/digital-camera-8bca5360501d?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله کرج](https://medium.com/@gioffofiid/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-af2c32593cb0?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله کرج](https://medium.com/@gioffofiid/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-2e18cc60fc0a?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله کرج](https://medium.com/@gioffofiid/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-c9e4d005ba94?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله کرج](https://medium.com/@gioffofiid/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-85a88dcfd240?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله کرج](https://medium.com/@gioffofiid/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-97ed6ec369f2?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله کرج](https://medium.com/@gioffofiid/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-f9a1c380cc94?source=rss------data_science-5)
+- [Data Product Owner](https://medium.com/@mustafaisonline/data-product-owner-079990aeda8f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
