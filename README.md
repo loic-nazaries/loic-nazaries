@@ -105,16 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [#شماره خاله #شماره خاله تهران #شماره خاله اصفهان #شماره خاله یزد #شماره خاله شهریار #شماره خاله…](https://medium.com/@ztrtrbkhb/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DB%8C%D8%B2%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%87%D8%B1%DB%8C%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-1078fee3448d?source=rss------data_science-5)
-- [Assessing the Accuracy of Coefficient Estimates](https://medium.com/@neuralrow/assessing-the-accuracy-of-coefficient-estimates-608a7000fb77?source=rss------data_science-5)
-- [Digital Camera](https://medium.com/@syedhaideralirizvi1/digital-camera-8bca5360501d?source=rss------data_science-5)
-- [شماره خاله تهران شماره خاله کرج](https://medium.com/@gioffofiid/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-af2c32593cb0?source=rss------data_science-5)
-- [شماره خاله تهران شماره خاله کرج](https://medium.com/@gioffofiid/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-2e18cc60fc0a?source=rss------data_science-5)
-- [شماره خاله تهران شماره خاله کرج](https://medium.com/@gioffofiid/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-c9e4d005ba94?source=rss------data_science-5)
-- [شماره خاله تهران شماره خاله کرج](https://medium.com/@gioffofiid/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-85a88dcfd240?source=rss------data_science-5)
-- [شماره خاله تهران شماره خاله کرج](https://medium.com/@gioffofiid/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-97ed6ec369f2?source=rss------data_science-5)
-- [شماره خاله تهران شماره خاله کرج](https://medium.com/@gioffofiid/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-f9a1c380cc94?source=rss------data_science-5)
-- [Data Product Owner](https://medium.com/@mustafaisonline/data-product-owner-079990aeda8f?source=rss------data_science-5)
+- [شماره صیغه زاهدان09365149355
+شماره صیغه کرمان09365149355
+شماره صیغه چابهار09365149355
+شماره صیغه…](https://medium.com/@halall96900/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%8609365149355-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%8609365149355-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B109365149355-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-ecccd9d95a34?source=rss------data_science-5)
+- [My Thoughts on Data Centers: The Backbone of the Digital Era](https://medium.com/@ijahan.student/my-thoughts-on-data-centers-the-backbone-of-the-digital-era-0a91e8e65178?source=rss------data_science-5)
+- [From Probability to Profit: A Python Backtest of $12K Investment in High-Probability Return Stocks](https://medium.com/@wl8380/from-probability-to-profit-a-python-backtest-of-12k-investment-in-high-probability-return-stocks-e32a63f51627?source=rss------data_science-5)
+- [The Unofficial Start of My Data Science Journey](https://medium.com/@maixuankhoi05/the-unofficial-start-of-my-data-science-journey-10437dc21372?source=rss------data_science-5)
+- [All We Should Know About Microsoft Fabric](https://medium.com/@mahendraee204/all-you-should-know-about-microsoft-fabric-2c1569072aed?source=rss------data_science-5)
+- [Ants: Tiny Heroes Supporting Our Planet](https://medium.com/@didikurniawanmade/ants-tiny-heroes-supporting-our-planet-c0522bebe046?source=rss------data_science-5)
+- [Installing CUDA is not that hard!](https://medium.com/@harshithdr10/installing-cuda-is-not-that-hard-5886deff812c?source=rss------data_science-5)
+- [&quot;The Lost Road&quot;](https://medium.com/@kareemrawan2/the-lost-road-cb747a7f7ed3?source=rss------data_science-5)
+- [Enterprise Search: Gen AI’s Killer App or Pandora’s Box?](https://medium.com/@husenis/enterprise-search-gen-ais-killer-app-or-pandora-s-box-701a6ab5b196?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
