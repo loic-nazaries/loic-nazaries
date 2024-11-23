@@ -105,18 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [شماره صیغه زاهدان09365149355
-شماره صیغه کرمان09365149355
-شماره صیغه چابهار09365149355
-شماره صیغه…](https://medium.com/@halall96900/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B2%D8%A7%D9%87%D8%AF%D8%A7%D9%8609365149355-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%8609365149355-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B109365149355-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-ecccd9d95a34?source=rss------data_science-5)
-- [My Thoughts on Data Centers: The Backbone of the Digital Era](https://medium.com/@ijahan.student/my-thoughts-on-data-centers-the-backbone-of-the-digital-era-0a91e8e65178?source=rss------data_science-5)
-- [From Probability to Profit: A Python Backtest of $12K Investment in High-Probability Return Stocks](https://medium.com/@wl8380/from-probability-to-profit-a-python-backtest-of-12k-investment-in-high-probability-return-stocks-e32a63f51627?source=rss------data_science-5)
-- [The Unofficial Start of My Data Science Journey](https://medium.com/@maixuankhoi05/the-unofficial-start-of-my-data-science-journey-10437dc21372?source=rss------data_science-5)
-- [All We Should Know About Microsoft Fabric](https://medium.com/@mahendraee204/all-you-should-know-about-microsoft-fabric-2c1569072aed?source=rss------data_science-5)
-- [Ants: Tiny Heroes Supporting Our Planet](https://medium.com/@didikurniawanmade/ants-tiny-heroes-supporting-our-planet-c0522bebe046?source=rss------data_science-5)
-- [Installing CUDA is not that hard!](https://medium.com/@harshithdr10/installing-cuda-is-not-that-hard-5886deff812c?source=rss------data_science-5)
-- [&quot;The Lost Road&quot;](https://medium.com/@kareemrawan2/the-lost-road-cb747a7f7ed3?source=rss------data_science-5)
-- [Enterprise Search: Gen AI’s Killer App or Pandora’s Box?](https://medium.com/@husenis/enterprise-search-gen-ais-killer-app-or-pandora-s-box-701a6ab5b196?source=rss------data_science-5)
+- [Age of Information](https://medium.com/@LYGAS/age-of-information-8938d8de9cd4?source=rss------data_science-5)
+- [The Digital Alchemist: How One Man’s Vision Could Turn Data Into the World’s Most Valuable…](https://medium.com/@usamas0008/the-digital-alchemist-how-one-mans-vision-could-turn-data-into-the-world-s-most-valuable-f0451434d805?source=rss------data_science-5)
+- [&lpar;10–4&rpar; Ways AI is Transforming Science, A Study by Google](https://medium.com/@samkuttyabrahami6/10-4-ways-ai-is-transforming-science-a-study-by-google-6b136e3e81b8?source=rss------data_science-5)
+- [Unlocking the World of Large Language Models &lpar;LLMs&rpar; with Together.ai](https://ernestodotnet.medium.com/unlocking-the-world-of-large-language-models-llms-with-together-ai-e046a6f78335?source=rss------data_science-5)
+- [Fine-Tuning a Pre-Trained RoBERTa Model to Improve Performance on Domain Specific Sentiment…](https://medium.com/@parkermo_86729/fine-tuning-a-pre-trained-roberta-model-to-improve-performance-on-domain-specific-sentiment-e6fcd89a1546?source=rss------data_science-5)
+- [How Facebook Sets Goals](https://medium.com/@AnalyticsAtMeta/how-facebook-sets-goals-94cee1c7f44f?source=rss------data_science-5)
+- [Emendas Pix no Ceará](https://medium.com/@wllyssys.alves/emendas-pix-no-cear%C3%A1-b8c0c00dfcd1?source=rss------data_science-5)
+- [100 days of Data Science: Day 83 — Natural Language Processing &lpar;NLP&rpar; Basics](https://medium.com/@rgr5882/100-days-of-data-science-day-83-natural-language-processing-nlp-basics-397eb2bbab6d?source=rss------data_science-5)
+- [Stored Procedures vs Functions: A Comprehensive Guide to SQL Essentials](https://medium.com/@kiranvutukuri999/stored-procedures-vs-functions-a-comprehensive-guide-to-sql-essentials-d9fadd83614f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
