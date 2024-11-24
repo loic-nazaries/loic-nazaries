@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Age of Information](https://medium.com/@LYGAS/age-of-information-8938d8de9cd4?source=rss------data_science-5)
-- [The Digital Alchemist: How One Man’s Vision Could Turn Data Into the World’s Most Valuable…](https://medium.com/@usamas0008/the-digital-alchemist-how-one-mans-vision-could-turn-data-into-the-world-s-most-valuable-f0451434d805?source=rss------data_science-5)
-- [&lpar;10–4&rpar; Ways AI is Transforming Science, A Study by Google](https://medium.com/@samkuttyabrahami6/10-4-ways-ai-is-transforming-science-a-study-by-google-6b136e3e81b8?source=rss------data_science-5)
-- [Unlocking the World of Large Language Models &lpar;LLMs&rpar; with Together.ai](https://ernestodotnet.medium.com/unlocking-the-world-of-large-language-models-llms-with-together-ai-e046a6f78335?source=rss------data_science-5)
-- [Fine-Tuning a Pre-Trained RoBERTa Model to Improve Performance on Domain Specific Sentiment…](https://medium.com/@parkermo_86729/fine-tuning-a-pre-trained-roberta-model-to-improve-performance-on-domain-specific-sentiment-e6fcd89a1546?source=rss------data_science-5)
-- [How Facebook Sets Goals](https://medium.com/@AnalyticsAtMeta/how-facebook-sets-goals-94cee1c7f44f?source=rss------data_science-5)
-- [Emendas Pix no Ceará](https://medium.com/@wllyssys.alves/emendas-pix-no-cear%C3%A1-b8c0c00dfcd1?source=rss------data_science-5)
-- [100 days of Data Science: Day 83 — Natural Language Processing &lpar;NLP&rpar; Basics](https://medium.com/@rgr5882/100-days-of-data-science-day-83-natural-language-processing-nlp-basics-397eb2bbab6d?source=rss------data_science-5)
-- [Stored Procedures vs Functions: A Comprehensive Guide to SQL Essentials](https://medium.com/@kiranvutukuri999/stored-procedures-vs-functions-a-comprehensive-guide-to-sql-essentials-d9fadd83614f?source=rss------data_science-5)
+- [Chekan maga Factory Chekan egg
+Incubation technologies](https://medium.com/@farhantabassum179/chekan-maga-factory-chekan-egg-incubation-technologies-649d1c1208d2?source=rss------data_science-5)
+- [Information Representation and Transformation](https://raheelanjum151.medium.com/information-representation-and-transformation-fb178419c0bb?source=rss------data_science-5)
+- [Build an AI Agent to Analyse Your Data Using Plain English](https://medium.com/aimonks/build-an-ai-agent-to-analyse-your-data-using-plain-english-ed7b038c7df8?source=rss------data_science-5)
+- [The Latest in Artificial Intelligence: From Tech Giants to Everyday Lives](https://medium.com/@mwolfhart284/the-latest-in-artificial-intelligence-from-tech-giants-to-everyday-lives-63b153a7de33?source=rss------data_science-5)
+- [Anscombe’s Quartet: A Lesson in the Power of Data Visualization](https://danieljude1992.medium.com/anscombes-quartet-a-lesson-in-the-power-of-data-visualization-92d4004877ec?source=rss------data_science-5)
+- [AIMS CAP &lpar; AIMS Fx &rpar; Review : a legit trading platform or a hoax](https://medium.com/@joyceborunda/aims-cap-aims-fx-review-a-legit-trading-platform-or-a-hoax-a7e01af2c906?source=rss------data_science-5)
+- [Experience of BDLI program 2024 As Edited by Goodluck Tonison](https://medium.com/@goodlucktonison4/experience-of-bdli-program-2024-as-edited-by-goodluck-tonison-54ffa7e2c553?source=rss------data_science-5)
+- [Python or AI: Which One Will Rule the Future?](https://medium.com/@nafraj3/python-or-ai-which-one-will-rule-the-future-b7fed11979c4?source=rss------data_science-5)
+- [How to Format Charts for Clarity and Impact](https://medium.com/@mariaeloisa.088/how-to-format-charts-for-clarity-and-impact-f16255f40b2b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
