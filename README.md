@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Chekan maga Factory Chekan egg
-Incubation technologies](https://medium.com/@farhantabassum179/chekan-maga-factory-chekan-egg-incubation-technologies-649d1c1208d2?source=rss------data_science-5)
-- [Information Representation and Transformation](https://raheelanjum151.medium.com/information-representation-and-transformation-fb178419c0bb?source=rss------data_science-5)
-- [Build an AI Agent to Analyse Your Data Using Plain English](https://medium.com/aimonks/build-an-ai-agent-to-analyse-your-data-using-plain-english-ed7b038c7df8?source=rss------data_science-5)
-- [The Latest in Artificial Intelligence: From Tech Giants to Everyday Lives](https://medium.com/@mwolfhart284/the-latest-in-artificial-intelligence-from-tech-giants-to-everyday-lives-63b153a7de33?source=rss------data_science-5)
-- [Anscombe’s Quartet: A Lesson in the Power of Data Visualization](https://danieljude1992.medium.com/anscombes-quartet-a-lesson-in-the-power-of-data-visualization-92d4004877ec?source=rss------data_science-5)
-- [AIMS CAP &lpar; AIMS Fx &rpar; Review : a legit trading platform or a hoax](https://medium.com/@joyceborunda/aims-cap-aims-fx-review-a-legit-trading-platform-or-a-hoax-a7e01af2c906?source=rss------data_science-5)
-- [Experience of BDLI program 2024 As Edited by Goodluck Tonison](https://medium.com/@goodlucktonison4/experience-of-bdli-program-2024-as-edited-by-goodluck-tonison-54ffa7e2c553?source=rss------data_science-5)
-- [Python or AI: Which One Will Rule the Future?](https://medium.com/@nafraj3/python-or-ai-which-one-will-rule-the-future-b7fed11979c4?source=rss------data_science-5)
-- [How to Format Charts for Clarity and Impact](https://medium.com/@mariaeloisa.088/how-to-format-charts-for-clarity-and-impact-f16255f40b2b?source=rss------data_science-5)
+- [Loops](https://raheelanjum151.medium.com/loops-816a060a1ba7?source=rss------data_science-5)
+- [O que é dbt e como ele pode acelerar &lpar;e otimizar&rpar; o seu desenvolvimento](https://medium.com/@joaopedrog.pin/o-que-%C3%A9-dbt-e-como-ele-pode-acelerar-ou-otimizar-o-seu-desenvolvimento-ee90b9697de6?source=rss------data_science-5)
+- [I have never worked on this.](https://medium.com/skillalley/i-have-never-worked-on-this-1079e7a46f14?source=rss------data_science-5)
+- [Mastering Data Science Roadmap](https://medium.com/@meisshaily/mastering-data-science-roadmap-98ddc850ca06?source=rss------data_science-5)
+- [Agentes virtuais podem ser VOCÊ em apenas 2 horas](https://medium.com/@rtales/agentes-virtuais-que-pensam-como-n%C3%B3s-o-futuro-das-simula%C3%A7%C3%B5es-comportamentais-com-ia-2aa6ed16d560?source=rss------data_science-5)
+- [SQL 101 | Chapter 8: Using Subqueries for Improved Modularity and Dynamic Calculations](https://yujinov.medium.com/sql-101-chapter-8-using-subqueries-for-improved-modularity-and-dynamic-calculations-d8929c9d1113?source=rss------data_science-5)
+- [The Python Module That Saved Me Hours of Work](https://python.plainenglish.io/the-python-module-that-saved-me-hours-of-work-b3516aede862?source=rss------data_science-5)
+- [Reinforcement Learning From Human Feedback &lpar;RLHF&rpar; Doesn’t Need To Be Complex Anymore](https://levelup.gitconnected.com/reinforcement-learning-from-human-feedback-rlhf-doesnt-need-to-be-complex-anymore-7ce6c4ddc8e6?source=rss------data_science-5)
+- [Yet another new experimental Gemini model tops the Chatbot Arena](https://levelup.gitconnected.com/yet-another-new-experimental-gemini-model-tops-the-chatbot-arena-b524b0f93ef7?source=rss------data_science-5)
+- [Use Meta’s 405B LLM with OpenAI’s compatible API for FREE](https://levelup.gitconnected.com/use-metas-405b-llm-with-openai-s-compatible-api-for-free-0f90879a3daf?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
