@@ -105,16 +105,14 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Loops](https://raheelanjum151.medium.com/loops-816a060a1ba7?source=rss------data_science-5)
-- [O que é dbt e como ele pode acelerar &lpar;e otimizar&rpar; o seu desenvolvimento](https://medium.com/@joaopedrog.pin/o-que-%C3%A9-dbt-e-como-ele-pode-acelerar-ou-otimizar-o-seu-desenvolvimento-ee90b9697de6?source=rss------data_science-5)
-- [I have never worked on this.](https://medium.com/skillalley/i-have-never-worked-on-this-1079e7a46f14?source=rss------data_science-5)
-- [Mastering Data Science Roadmap](https://medium.com/@meisshaily/mastering-data-science-roadmap-98ddc850ca06?source=rss------data_science-5)
-- [Agentes virtuais podem ser VOCÊ em apenas 2 horas](https://medium.com/@rtales/agentes-virtuais-que-pensam-como-n%C3%B3s-o-futuro-das-simula%C3%A7%C3%B5es-comportamentais-com-ia-2aa6ed16d560?source=rss------data_science-5)
-- [SQL 101 | Chapter 8: Using Subqueries for Improved Modularity and Dynamic Calculations](https://yujinov.medium.com/sql-101-chapter-8-using-subqueries-for-improved-modularity-and-dynamic-calculations-d8929c9d1113?source=rss------data_science-5)
-- [The Python Module That Saved Me Hours of Work](https://python.plainenglish.io/the-python-module-that-saved-me-hours-of-work-b3516aede862?source=rss------data_science-5)
-- [Reinforcement Learning From Human Feedback &lpar;RLHF&rpar; Doesn’t Need To Be Complex Anymore](https://levelup.gitconnected.com/reinforcement-learning-from-human-feedback-rlhf-doesnt-need-to-be-complex-anymore-7ce6c4ddc8e6?source=rss------data_science-5)
-- [Yet another new experimental Gemini model tops the Chatbot Arena](https://levelup.gitconnected.com/yet-another-new-experimental-gemini-model-tops-the-chatbot-arena-b524b0f93ef7?source=rss------data_science-5)
-- [Use Meta’s 405B LLM with OpenAI’s compatible API for FREE](https://levelup.gitconnected.com/use-metas-405b-llm-with-openai-s-compatible-api-for-free-0f90879a3daf?source=rss------data_science-5)
+- [REVOLUTIONIZING DEFI YIELDS FARMING THROUGH XBANKING](https://medium.com/@Boyloner/revolutionizing-defi-yields-farming-through-xbanking-8c3dc8642f38?source=rss------data_science-5)
+- [Spinal Cord:](https://medium.com/@star_5644/spinal-cord-ed46a6b8b41e?source=rss------data_science-5)
+- [I will write construction, architectural, consultant, site engineer, engineering resume](https://medium.com/@jt2260625/i-will-write-construction-architectural-consultant-site-engineer-engineering-resume-9a6048fd2855?source=rss------data_science-5)
+- [I will write federal, government, executive, USA jobs, military, nasa, irs resume, ksa](https://medium.com/@howardbriana403/i-will-write-federal-government-executive-usa-jobs-military-nasa-irs-resume-ksa-cbc084067851?source=rss------data_science-5)
+- [I asked Chat GPT to assess its intelligence against humans… it’s reply surprised me](https://medium.com/@michaeljt14/i-asked-chat-gpt-to-assess-its-intelligence-against-humans-its-reply-surprised-me-c00fd502ed28?source=rss------data_science-5)
+- [I will write engineering construction mechanical architectural software engineer resume](https://medium.com/@saiduabdulkabir1/i-will-write-engineering-construction-mechanical-architectural-software-engineer-resume-13950288e122?source=rss------data_science-5)
+- [How AI might be the next big thing](https://medium.com/@idrisfdnypd/how-ai-might-be-the-next-big-thing-25bc0a5f1963?source=rss------data_science-5)
+- [Revolution in the Fields: The Socio-Economic Transformation of Farmers in the Modern Era](https://medium.com/@didikurniawanmade/revolution-in-the-fields-the-socio-economic-transformation-of-farmers-in-the-modern-era-e659a547eb2a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
