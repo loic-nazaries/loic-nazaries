@@ -105,14 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [REVOLUTIONIZING DEFI YIELDS FARMING THROUGH XBANKING](https://medium.com/@Boyloner/revolutionizing-defi-yields-farming-through-xbanking-8c3dc8642f38?source=rss------data_science-5)
-- [Spinal Cord:](https://medium.com/@star_5644/spinal-cord-ed46a6b8b41e?source=rss------data_science-5)
-- [I will write construction, architectural, consultant, site engineer, engineering resume](https://medium.com/@jt2260625/i-will-write-construction-architectural-consultant-site-engineer-engineering-resume-9a6048fd2855?source=rss------data_science-5)
-- [I will write federal, government, executive, USA jobs, military, nasa, irs resume, ksa](https://medium.com/@howardbriana403/i-will-write-federal-government-executive-usa-jobs-military-nasa-irs-resume-ksa-cbc084067851?source=rss------data_science-5)
-- [I asked Chat GPT to assess its intelligence against humans… it’s reply surprised me](https://medium.com/@michaeljt14/i-asked-chat-gpt-to-assess-its-intelligence-against-humans-its-reply-surprised-me-c00fd502ed28?source=rss------data_science-5)
-- [I will write engineering construction mechanical architectural software engineer resume](https://medium.com/@saiduabdulkabir1/i-will-write-engineering-construction-mechanical-architectural-software-engineer-resume-13950288e122?source=rss------data_science-5)
-- [How AI might be the next big thing](https://medium.com/@idrisfdnypd/how-ai-might-be-the-next-big-thing-25bc0a5f1963?source=rss------data_science-5)
-- [Revolution in the Fields: The Socio-Economic Transformation of Farmers in the Modern Era](https://medium.com/@didikurniawanmade/revolution-in-the-fields-the-socio-economic-transformation-of-farmers-in-the-modern-era-e659a547eb2a?source=rss------data_science-5)
+- [Unlock LowFruits’ Black Friday Secret: Low Competition Keywords Await!](https://medium.com/@thewat999/unlock-lowfruits-black-friday-secret-low-competition-keywords-await-0cc9096dcd0f?source=rss------data_science-5)
+- [Unlock Elementor AI’s Unbeatable Black Friday Offer for Web Creators!](https://medium.com/@thewat999/unlock-elementor-ais-unbeatable-black-friday-offer-for-web-creators-56120697e11f?source=rss------data_science-5)
+- [Intro to Seaborn for Beautiful Data Visualizations](https://medium.com/@mariaeloisa.088/intro-to-seaborn-for-beautiful-data-visualizations-5c8ba0274cea?source=rss------data_science-5)
+- [Uncover Game-Changing Framer Deals This Black Friday — Create Stunning Sites!](https://medium.com/@thewat999/uncover-game-changing-framer-deals-this-black-friday-create-stunning-sites-7c2b834b8696?source=rss------data_science-5)
+- [Data Engineering: Powering the Data-Driven World](https://medium.com/@adityasharmah27/data-engineering-powering-the-data-driven-world-dd11d275878d?source=rss------data_science-5)
+- [Data Engineering 2.0: Trends That Are Shaping the Industry’s Future](https://medium.com/towards-data-engineering/data-engineering-2-0-trends-that-are-shaping-the-industrys-future-8d9415ddaa1d?source=rss------data_science-5)
+- [NLP Illustrated, Part 2: Word Embeddings](https://towardsdatascience.com/nlp-illustrated-part-2-word-embeddings-6d718ac40b7d?source=rss------data_science-5)
+- [صیغه یابی صیغه شرعی صیغه حلال صیغه مدتی صیغه همسریابی صیغه قم صیغه یزد صیغه اردکان صیغه تبریز صیغه](https://medium.com/@lacanevenfeecom/%D8%B5%DB%8C%D8%BA%D9%87-%DB%8C%D8%A7%D8%A8%DB%8C-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D8%B1%D8%B9%DB%8C-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AD%D9%84%D8%A7%D9%84-%D8%B5%DB%8C%D8%BA%D9%87-%D9%85%D8%AF%D8%AA%DB%8C-%D8%B5%DB%8C%D8%BA%D9%87-%D9%87%D9%85%D8%B3%D8%B1%DB%8C%D8%A7%D8%A8%DB%8C-%D8%B5%DB%8C%D8%BA%D9%87-%D9%82%D9%85-%D8%B5%DB%8C%D8%BA%D9%87-%DB%8C%D8%B2%D8%AF-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A7%D8%B1%D8%AF%DA%A9%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-%D8%B5%DB%8C%D8%BA%D9%87-f9f5b565dc90?source=rss------data_science-5)
+- [صیغه شرعی صیغه موقت صیغه دائمی صیغه حلال صیغه ماهانه صیغه هفتگی صیغه ماهانه صیغه هفتگی همسرم یابی…](https://medium.com/@lacanevenfeecom/%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D8%B1%D8%B9%DB%8C-%D8%B5%DB%8C%D8%BA%D9%87-%D9%85%D9%88%D9%82%D8%AA-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AD%D9%84%D8%A7%D9%84-%D8%B5%DB%8C%D8%BA%D9%87-%D9%85%D8%A7%D9%87%D8%A7%D9%86%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D9%87%D9%81%D8%AA%DA%AF%DB%8C-%D8%B5%DB%8C%D8%BA%D9%87-%D9%85%D8%A7%D9%87%D8%A7%D9%86%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D9%87%D9%81%D8%AA%DA%AF%DB%8C-%D9%87%D9%85%D8%B3%D8%B1%D9%85-%DB%8C%D8%A7%D8%A8%DB%8C-935b63d4d252?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
