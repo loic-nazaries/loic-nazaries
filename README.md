@@ -105,15 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Unlock LowFruits’ Black Friday Secret: Low Competition Keywords Await!](https://medium.com/@thewat999/unlock-lowfruits-black-friday-secret-low-competition-keywords-await-0cc9096dcd0f?source=rss------data_science-5)
-- [Unlock Elementor AI’s Unbeatable Black Friday Offer for Web Creators!](https://medium.com/@thewat999/unlock-elementor-ais-unbeatable-black-friday-offer-for-web-creators-56120697e11f?source=rss------data_science-5)
-- [Intro to Seaborn for Beautiful Data Visualizations](https://medium.com/@mariaeloisa.088/intro-to-seaborn-for-beautiful-data-visualizations-5c8ba0274cea?source=rss------data_science-5)
-- [Uncover Game-Changing Framer Deals This Black Friday — Create Stunning Sites!](https://medium.com/@thewat999/uncover-game-changing-framer-deals-this-black-friday-create-stunning-sites-7c2b834b8696?source=rss------data_science-5)
-- [Data Engineering: Powering the Data-Driven World](https://medium.com/@adityasharmah27/data-engineering-powering-the-data-driven-world-dd11d275878d?source=rss------data_science-5)
-- [Data Engineering 2.0: Trends That Are Shaping the Industry’s Future](https://medium.com/towards-data-engineering/data-engineering-2-0-trends-that-are-shaping-the-industrys-future-8d9415ddaa1d?source=rss------data_science-5)
-- [NLP Illustrated, Part 2: Word Embeddings](https://towardsdatascience.com/nlp-illustrated-part-2-word-embeddings-6d718ac40b7d?source=rss------data_science-5)
-- [صیغه یابی صیغه شرعی صیغه حلال صیغه مدتی صیغه همسریابی صیغه قم صیغه یزد صیغه اردکان صیغه تبریز صیغه](https://medium.com/@lacanevenfeecom/%D8%B5%DB%8C%D8%BA%D9%87-%DB%8C%D8%A7%D8%A8%DB%8C-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D8%B1%D8%B9%DB%8C-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AD%D9%84%D8%A7%D9%84-%D8%B5%DB%8C%D8%BA%D9%87-%D9%85%D8%AF%D8%AA%DB%8C-%D8%B5%DB%8C%D8%BA%D9%87-%D9%87%D9%85%D8%B3%D8%B1%DB%8C%D8%A7%D8%A8%DB%8C-%D8%B5%DB%8C%D8%BA%D9%87-%D9%82%D9%85-%D8%B5%DB%8C%D8%BA%D9%87-%DB%8C%D8%B2%D8%AF-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A7%D8%B1%D8%AF%DA%A9%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-%D8%B5%DB%8C%D8%BA%D9%87-f9f5b565dc90?source=rss------data_science-5)
-- [صیغه شرعی صیغه موقت صیغه دائمی صیغه حلال صیغه ماهانه صیغه هفتگی صیغه ماهانه صیغه هفتگی همسرم یابی…](https://medium.com/@lacanevenfeecom/%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D8%B1%D8%B9%DB%8C-%D8%B5%DB%8C%D8%BA%D9%87-%D9%85%D9%88%D9%82%D8%AA-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AD%D9%84%D8%A7%D9%84-%D8%B5%DB%8C%D8%BA%D9%87-%D9%85%D8%A7%D9%87%D8%A7%D9%86%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D9%87%D9%81%D8%AA%DA%AF%DB%8C-%D8%B5%DB%8C%D8%BA%D9%87-%D9%85%D8%A7%D9%87%D8%A7%D9%86%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D9%87%D9%81%D8%AA%DA%AF%DB%8C-%D9%87%D9%85%D8%B3%D8%B1%D9%85-%DB%8C%D8%A7%D8%A8%DB%8C-935b63d4d252?source=rss------data_science-5)
+- [Day 1: Basic Statistics Analysis](https://medium.com/@annycool2009/day-1-basic-statistics-analysis-3cfddc4845a9?source=rss------data_science-5)
+- [Comparing Matplotlib and Seaborn: When to Use Each](https://medium.com/@mariaeloisa.088/comparing-matplotlib-and-seaborn-when-to-use-each-3bae630a510d?source=rss------data_science-5)
+- [Data Wrapping](https://medium.com/@mustafaisonline/data-wrapping-567e4001110d?source=rss------data_science-5)
+- [Layanan service Ariston jawa timur 0812–6488–7677 Surabaya](https://medium.com/@infoaristonsurabaya/layanan-service-ariston-jawa-timur-0812-6488-7677-surabaya-1f993b73bf98?source=rss------data_science-5)
+- [Composability is DeFi’s superpower.](https://medium.com/@babatundebabs235/composability-is-defis-superpower-4110fde21836?source=rss------data_science-5)
+- [A Beginner’s Approach to Using Python’s Logging Module](https://medium.com/h7w/a-beginners-approach-to-using-python-s-logging-module-94e2743190ea?source=rss------data_science-5)
+- [Spark SQL Engine and Query Planning process&lpar;Part -05&rpar;](https://medium.com/@kiranvutukuri999/spark-sql-engine-and-query-planning-process-part-05-1d49314970e0?source=rss------data_science-5)
+- [I will write and edit scrum master project management product manager agile safe resume](https://medium.com/@sandygilliam190/i-will-write-and-edit-scrum-master-project-management-product-manager-agile-safe-resume-6093d4ae34a3?source=rss------data_science-5)
+- [How to Transition from Engineering to Data Science](https://towardsdatascience.com/how-to-transition-from-engineering-to-data-science-87c2ecee9bd1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
