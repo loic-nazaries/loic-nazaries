@@ -105,15 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Day 1: Basic Statistics Analysis](https://medium.com/@annycool2009/day-1-basic-statistics-analysis-3cfddc4845a9?source=rss------data_science-5)
-- [Comparing Matplotlib and Seaborn: When to Use Each](https://medium.com/@mariaeloisa.088/comparing-matplotlib-and-seaborn-when-to-use-each-3bae630a510d?source=rss------data_science-5)
-- [Data Wrapping](https://medium.com/@mustafaisonline/data-wrapping-567e4001110d?source=rss------data_science-5)
-- [Layanan service Ariston jawa timur 0812–6488–7677 Surabaya](https://medium.com/@infoaristonsurabaya/layanan-service-ariston-jawa-timur-0812-6488-7677-surabaya-1f993b73bf98?source=rss------data_science-5)
-- [Composability is DeFi’s superpower.](https://medium.com/@babatundebabs235/composability-is-defis-superpower-4110fde21836?source=rss------data_science-5)
-- [A Beginner’s Approach to Using Python’s Logging Module](https://medium.com/h7w/a-beginners-approach-to-using-python-s-logging-module-94e2743190ea?source=rss------data_science-5)
-- [Spark SQL Engine and Query Planning process&lpar;Part -05&rpar;](https://medium.com/@kiranvutukuri999/spark-sql-engine-and-query-planning-process-part-05-1d49314970e0?source=rss------data_science-5)
-- [I will write and edit scrum master project management product manager agile safe resume](https://medium.com/@sandygilliam190/i-will-write-and-edit-scrum-master-project-management-product-manager-agile-safe-resume-6093d4ae34a3?source=rss------data_science-5)
-- [How to Transition from Engineering to Data Science](https://towardsdatascience.com/how-to-transition-from-engineering-to-data-science-87c2ecee9bd1?source=rss------data_science-5)
+- [Functional and Non-Functional Testing](https://medium.com/@mustafaisonline/functional-and-non-functional-testing-339c13a095ca?source=rss------data_science-5)
+- [Data Science Strategies for Enhancing Customer Retention: A Practical Guide](https://blog.stackademic.com/data-science-strategies-for-enhancing-customer-retention-a-practical-guide-2a765d234afb?source=rss------data_science-5)
+- [SUPERSTORE SALES ANALYSIS DASHBOARD](https://medium.com/@richardmegbele_9341/superstore-sales-analysis-dashboard-aa69c346909a?source=rss------data_science-5)
+- [Significância Estatística vs. Significância para o Negócio: Muito Além dos Números](https://medium.com/@mateus.xavier/signific%C3%A2ncia-estat%C3%ADstica-vs-signific%C3%A2ncia-para-o-neg%C3%B3cio-muito-al%C3%A9m-dos-n%C3%BAmeros-07be193b3fa3?source=rss------data_science-5)
+- [Managing Modern Data Systems: Five Key Management Concepts Every CTO Should Master](https://medium.com/@alexpongpech/managing-modern-data-systems-five-key-management-concepts-every-cto-should-master-713b6a28abbc?source=rss------data_science-5)
+- [The Creepy &lpar;But Cool&rpar; Thing Called the “Artificial Intelligence Death Calculator”](https://medium.com/@g85308770/the-creepy-but-cool-thing-called-the-artificial-intelligence-death-calculator-f303f7f8752e?source=rss------data_science-5)
+- [8 Tips for Creating Effective and Simple Data Visualizations](https://medium.com/@mariaeloisa.088/8-tips-for-creating-effective-and-simple-data-visualizations-fc6940b4e495?source=rss------data_science-5)
+- [Documentando Projetos Python com MkDocs](https://medium.com/data-hackers/documentando-projetos-python-com-mkdocs-c34d654192f0?source=rss------data_science-5)
+- [Aesthetic Data Visualization with Seaborn](https://medium.com/@aarafat27/aesthetic-data-visualization-with-seaborn-020643675ad8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
