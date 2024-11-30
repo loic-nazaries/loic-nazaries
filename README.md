@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Functional and Non-Functional Testing](https://medium.com/@mustafaisonline/functional-and-non-functional-testing-339c13a095ca?source=rss------data_science-5)
-- [Data Science Strategies for Enhancing Customer Retention: A Practical Guide](https://blog.stackademic.com/data-science-strategies-for-enhancing-customer-retention-a-practical-guide-2a765d234afb?source=rss------data_science-5)
-- [SUPERSTORE SALES ANALYSIS DASHBOARD](https://medium.com/@richardmegbele_9341/superstore-sales-analysis-dashboard-aa69c346909a?source=rss------data_science-5)
-- [Significância Estatística vs. Significância para o Negócio: Muito Além dos Números](https://medium.com/@mateus.xavier/signific%C3%A2ncia-estat%C3%ADstica-vs-signific%C3%A2ncia-para-o-neg%C3%B3cio-muito-al%C3%A9m-dos-n%C3%BAmeros-07be193b3fa3?source=rss------data_science-5)
-- [Managing Modern Data Systems: Five Key Management Concepts Every CTO Should Master](https://medium.com/@alexpongpech/managing-modern-data-systems-five-key-management-concepts-every-cto-should-master-713b6a28abbc?source=rss------data_science-5)
-- [The Creepy &lpar;But Cool&rpar; Thing Called the “Artificial Intelligence Death Calculator”](https://medium.com/@g85308770/the-creepy-but-cool-thing-called-the-artificial-intelligence-death-calculator-f303f7f8752e?source=rss------data_science-5)
-- [8 Tips for Creating Effective and Simple Data Visualizations](https://medium.com/@mariaeloisa.088/8-tips-for-creating-effective-and-simple-data-visualizations-fc6940b4e495?source=rss------data_science-5)
-- [Documentando Projetos Python com MkDocs](https://medium.com/data-hackers/documentando-projetos-python-com-mkdocs-c34d654192f0?source=rss------data_science-5)
-- [Aesthetic Data Visualization with Seaborn](https://medium.com/@aarafat27/aesthetic-data-visualization-with-seaborn-020643675ad8?source=rss------data_science-5)
+- [I’m not going to approve it,](https://medium.com/@preciousoyewole62/im-not-going-to-approve-it-2e0fb75afb16?source=rss------data_science-5)
+- [Sliding Window Technique in Apache Spark&lpar;Part-7&rpar;](https://medium.com/@kiranvutukuri999/sliding-window-technique-in-apache-spark-part-7-a6bab6d09403?source=rss------data_science-5)
+- [I will write tech, IT, engineering, data science, data analyst, cyber security resume](https://medium.com/@saiduabdulkabir1/i-will-write-tech-it-engineering-data-science-data-analyst-cyber-security-resume-ea306add76db?source=rss------data_science-5)
+- [Trigger Modes in Apache Spark Structured Streaming&lpar;Part-6&rpar;](https://medium.com/@kiranvutukuri999/trigger-modes-in-apache-spark-structured-streaming-part-6-91107a69de39?source=rss------data_science-5)
+- [Mastering Feed Ranking Models with Machine Learning](https://medium.com/nextgenllm/ml-feed-ranking-model-105703c63c40?source=rss------data_science-5)
+- [The Powerful cipher Master “Engima Machine”](https://medium.com/@adinesh02/the-powerful-cipher-master-engima-machine-dcf89df664c6?source=rss------data_science-5)
+- [SCALE: A Framework for Responsible AI Deployment](https://medium.com/@ghit2012/scale-a-framework-for-responsible-ai-deployment-58639d8008b7?source=rss------data_science-5)
+- [Basic Understanding of Vectors for Data Science](https://medium.com/@sahn1998/basic-understanding-of-vectors-for-data-science-a485a65d1d41?source=rss------data_science-5)
+- [Classroom to Chaos: Getting Your Hands Dirty with Data Preparation — Data Cleaning, Wrangling…](https://medium.com/@khhaledahmaad/classroom-to-chaos-getting-your-hands-dirty-with-data-preparation-data-cleaning-wrangling-17086f0f96db?source=rss------data_science-5)
+- [Reading Books with Data Science Part 2: Community Detection and More in the Lord of the Rings](https://medium.com/@katykas/reading-books-with-data-science-part-2-knowledge-retrieval-relation-mining-and-community-ffd25ee07f57?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
