@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I’m not going to approve it,](https://medium.com/@preciousoyewole62/im-not-going-to-approve-it-2e0fb75afb16?source=rss------data_science-5)
-- [Sliding Window Technique in Apache Spark&lpar;Part-7&rpar;](https://medium.com/@kiranvutukuri999/sliding-window-technique-in-apache-spark-part-7-a6bab6d09403?source=rss------data_science-5)
-- [I will write tech, IT, engineering, data science, data analyst, cyber security resume](https://medium.com/@saiduabdulkabir1/i-will-write-tech-it-engineering-data-science-data-analyst-cyber-security-resume-ea306add76db?source=rss------data_science-5)
-- [Trigger Modes in Apache Spark Structured Streaming&lpar;Part-6&rpar;](https://medium.com/@kiranvutukuri999/trigger-modes-in-apache-spark-structured-streaming-part-6-91107a69de39?source=rss------data_science-5)
-- [Mastering Feed Ranking Models with Machine Learning](https://medium.com/nextgenllm/ml-feed-ranking-model-105703c63c40?source=rss------data_science-5)
-- [The Powerful cipher Master “Engima Machine”](https://medium.com/@adinesh02/the-powerful-cipher-master-engima-machine-dcf89df664c6?source=rss------data_science-5)
-- [SCALE: A Framework for Responsible AI Deployment](https://medium.com/@ghit2012/scale-a-framework-for-responsible-ai-deployment-58639d8008b7?source=rss------data_science-5)
-- [Basic Understanding of Vectors for Data Science](https://medium.com/@sahn1998/basic-understanding-of-vectors-for-data-science-a485a65d1d41?source=rss------data_science-5)
-- [Classroom to Chaos: Getting Your Hands Dirty with Data Preparation — Data Cleaning, Wrangling…](https://medium.com/@khhaledahmaad/classroom-to-chaos-getting-your-hands-dirty-with-data-preparation-data-cleaning-wrangling-17086f0f96db?source=rss------data_science-5)
-- [Reading Books with Data Science Part 2: Community Detection and More in the Lord of the Rings](https://medium.com/@katykas/reading-books-with-data-science-part-2-knowledge-retrieval-relation-mining-and-community-ffd25ee07f57?source=rss------data_science-5)
+- [Why Small Business Needs Data Scientists](https://medium.com/@linked.lauren/why-small-business-needs-data-scientists-e77bfa820781?source=rss------data_science-5)
+- [Title: Top 10 Python Libraries You Need to Know in 2024](https://medium.com/@abdallhr649/title-top-10-python-libraries-you-need-to-know-in-2024-ee7bb74e3ef1?source=rss------data_science-5)
+- [Fiverr Gig seller](https://medium.com/@nodesdamallana37/fiverr-gig-seller-d1a0ea75097f?source=rss------data_science-5)
+- [Reigniting a Love for Reading in the Digital Age](https://medium.com/@itsmaria/reigniting-a-love-for-reading-in-the-digital-age-1f734369ec07?source=rss------data_science-5)
+- [Top 10 Charts to Master Matplotlib &lpar;Part 1/2&rpar;](https://python.plainenglish.io/top-10-charts-to-master-matplotlib-part-1-2-d1729638b4e6?source=rss------data_science-5)
+- [Tech-Savvy Hiking: Leveraging Technology for a Healthier, More Informed Outdoor Experience](https://medium.com/@karamtejkaur06/tech-savvy-hiking-leveraging-technology-for-a-healthier-more-informed-outdoor-experience-0949b0298073?source=rss------data_science-5)
+- [¿De Qué Hablan Tus Artistas Favoritos?](https://medium.com/@jrojasconstain/de-qu%C3%A9-hablan-tus-artistas-favoritos-4f09c02ba7d6?source=rss------data_science-5)
+- [5 Essential Excel Shortcuts for Data Analysts](https://medium.com/@mariaeloisa.088/5-essential-excel-shortcuts-for-data-analysts-0070999ebed2?source=rss------data_science-5)
+- [How would you design a highly available and scalable data infrastructure on AWS/Azure/GCP?](https://leonidasgorgo.medium.com/how-would-you-design-a-highly-available-and-scalable-data-infrastructure-on-aws-azure-gcp-4928b2689bee?source=rss------data_science-5)
+- [Unlocking Scientific Frontiers with AI](https://medium.com/@meisshaily/unlocking-scientific-frontiers-with-ai-c61e289887cc?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
