@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why Small Business Needs Data Scientists](https://medium.com/@linked.lauren/why-small-business-needs-data-scientists-e77bfa820781?source=rss------data_science-5)
-- [Title: Top 10 Python Libraries You Need to Know in 2024](https://medium.com/@abdallhr649/title-top-10-python-libraries-you-need-to-know-in-2024-ee7bb74e3ef1?source=rss------data_science-5)
-- [Fiverr Gig seller](https://medium.com/@nodesdamallana37/fiverr-gig-seller-d1a0ea75097f?source=rss------data_science-5)
-- [Reigniting a Love for Reading in the Digital Age](https://medium.com/@itsmaria/reigniting-a-love-for-reading-in-the-digital-age-1f734369ec07?source=rss------data_science-5)
-- [Top 10 Charts to Master Matplotlib &lpar;Part 1/2&rpar;](https://python.plainenglish.io/top-10-charts-to-master-matplotlib-part-1-2-d1729638b4e6?source=rss------data_science-5)
-- [Tech-Savvy Hiking: Leveraging Technology for a Healthier, More Informed Outdoor Experience](https://medium.com/@karamtejkaur06/tech-savvy-hiking-leveraging-technology-for-a-healthier-more-informed-outdoor-experience-0949b0298073?source=rss------data_science-5)
-- [¿De Qué Hablan Tus Artistas Favoritos?](https://medium.com/@jrojasconstain/de-qu%C3%A9-hablan-tus-artistas-favoritos-4f09c02ba7d6?source=rss------data_science-5)
-- [5 Essential Excel Shortcuts for Data Analysts](https://medium.com/@mariaeloisa.088/5-essential-excel-shortcuts-for-data-analysts-0070999ebed2?source=rss------data_science-5)
-- [How would you design a highly available and scalable data infrastructure on AWS/Azure/GCP?](https://leonidasgorgo.medium.com/how-would-you-design-a-highly-available-and-scalable-data-infrastructure-on-aws-azure-gcp-4928b2689bee?source=rss------data_science-5)
-- [Unlocking Scientific Frontiers with AI](https://medium.com/@meisshaily/unlocking-scientific-frontiers-with-ai-c61e289887cc?source=rss------data_science-5)
+- [Mengapa Proyek Data Science Sering Gagal?](https://medium.com/@indobotads/mengapa-proyek-data-science-sering-gagal-d1f7a0178e8d?source=rss------data_science-5)
+- [My Data Guest — An Interview with Ángel Molina](https://angelmolinalaguna.medium.com/my-data-guest-an-interview-with-%C3%A1ngel-molina-029a4eae5aac?source=rss------data_science-5)
+- [Is my occupation affected by a sleep disorder?](https://medium.com/@jesace19/is-my-occupation-affected-by-a-sleep-disorder-1834421ee71e?source=rss------data_science-5)
+- [Ayham Aloulabi: Why Canada is the Ultimate Destination for AI Data Centers](https://medium.com/@heshall/ayham-aloulabi-why-canada-is-the-ultimate-destination-for-ai-data-centers-497afea96786?source=rss------data_science-5)
+- [MetaGraph](https://medium.com/@mustafaisonline/metagraph-ee435b0c344b?source=rss------data_science-5)
+- [Mastering PivotTables: A Step-by-Step Guide](https://medium.com/@mariaeloisa.088/mastering-pivottables-a-step-by-step-guide-9800e626c5d9?source=rss------data_science-5)
+- [O que é um Modelo de Ciência de Dados?](https://medium.com/@ioannis.eleftheriou.design/o-que-%C3%A9-um-modelo-de-ci%C3%AAncia-de-dados-732b7aba0d4a?source=rss------data_science-5)
+- [NOT A TAP TO EARN](https://medium.com/@chazey02/not-a-tap-to-earn-107648ca5ab8?source=rss------data_science-5)
+- [Top 10 Charts to Master Matplotlib &lpar;Part 2/2&rpar;](https://medium.com/@Mounica_Kommajosyula/top-10-charts-to-master-matplotlib-part-2-2-a851bf4bc69a?source=rss------data_science-5)
+- [Doer of Things…Master of None](https://medium.com/@robinsonjason761/doer-of-things-master-of-none-3c698f45eb81?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
