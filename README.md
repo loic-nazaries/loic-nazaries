@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Heroic Action or Dangerous Overreaction? The Subway Incident Explained](https://medium.com/@pauljacob601/heroic-action-or-dangerous-overreaction-the-subway-incident-explained-dab71e4ae657?source=rss------data_science-5)
-- [How AI is Revolutionizing Education: A Data Analyst’s Perspective](https://medium.com/@babup777/how-ai-is-revolutionizing-education-a-data-analysts-perspective-aa04e3d465f6?source=rss------data_science-5)
-- [Data Validation: Ensuring Accuracy in Your Excel Sheets](https://medium.com/@mariaeloisa.088/data-validation-ensuring-accuracy-in-your-excel-sheets-c831c73c21cb?source=rss------data_science-5)
-- [Public Dealing Skills](https://medium.com/@ramyakrishna2592/public-dealing-skills-ea1e2d1b0804?source=rss------data_science-5)
-- [Colleagues, in the “Databases and SQL for Data Science with Python” program you will learn to…](https://medium.com/@lwilson747/colleagues-in-the-databases-and-sql-for-data-science-with-python-program-you-will-learn-to-ccde795a58ad?source=rss------data_science-5)
-- [Green Revolution from the East: PR23 Perennial Rice, China&#39;s Innovation Transforming Global Rice…](https://medium.com/@didikurniawanmade/green-revolution-from-the-east-pr23-perennial-rice-chinas-innovation-transforming-global-rice-804995d40535?source=rss------data_science-5)
-- [Overcoming Security Challenges in Protecting Shared Generative AI Environments](https://medium.com/@ramyakrishna2592/overcoming-security-challenges-in-protecting-shared-generative-ai-environments-1bc93e67a65b?source=rss------data_science-5)
-- [The Monkey](https://khalifakhanlives.medium.com/the-monkey-005c8dcbe7fe?source=rss------data_science-5)
-- [The Importance of Human Rights and Their Protection](https://medium.com/@ramyakrishna2592/the-importance-of-human-rights-and-their-protection-907c12c124b9?source=rss------data_science-5)
-- [In-Depth Review: Leveraging Data Science for Global Health](https://python.plainenglish.io/in-depth-review-leveraging-data-science-for-global-health-20293772bca0?source=rss------data_science-5)
+- [Web Development For Data Scientists](https://chifi.dev/web-development-for-data-scientists-8baf00d3e199?source=rss------data_science-5)
+- [Clustering 101: Exploring Density-Based Methods](https://python.plainenglish.io/clustering-101-exploring-density-based-methods-e2055ce65d2f?source=rss------data_science-5)
+- [How to Make Peace With Your Face](https://medium.com/@ramyakrishna2592/how-to-make-peace-with-your-face-162ca09cde1f?source=rss------data_science-5)
+- [The Ultimate Guide to Choosing the Right Programming Language in 2025](https://medium.com/@anessulrehman/the-ultimate-guide-to-choosing-the-right-programming-language-in-2025-e99186646804?source=rss------data_science-5)
+- [Automating Expense Tracking: Simplifying How I Categorize and Analyze My Spending](https://medium.com/@sathisekanayake/automating-expense-tracking-simplifying-how-i-categorize-and-analyze-my-spending-7db3973d8d2b?source=rss------data_science-5)
+- [I will write cyber security, IT, technical, data analyst, data science, business resume](https://medium.com/@stellaconan7/i-will-write-cyber-security-it-technical-data-analyst-data-science-business-resume-426d1848d1c3?source=rss------data_science-5)
+- [The Cost of Education Injustice](https://medium.com/@ramyakrishna2592/the-cost-of-education-injustice-5fa97509bd31?source=rss------data_science-5)
+- [Life of a Maid: The warrior lady!!!](https://medium.com/@ramyakrishna2592/life-of-a-maid-the-warrior-lady-9e139653f8b4?source=rss------data_science-5)
+- [Makine Öğrenimi Temel Kavramlar — Doğrusal Regresyon: Basit Model, Güçlü Sonuçlar](https://medium.com/@akay989/makine-%C3%B6%C4%9Frenimi-temel-kavramlar-do%C4%9Frusal-regresyon-basit-model-g%C3%BC%C3%A7l%C3%BC-sonu%C3%A7lar-c4aa5935dea8?source=rss------data_science-5)
+- [7 Essential Tips and Tricks for a Perfect Dataset in Excel](https://medium.com/@mariaeloisa.088/7-essential-tips-and-tricks-for-a-perfect-dataset-in-excel-dcdf40ece19f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
