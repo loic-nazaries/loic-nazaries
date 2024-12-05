@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Web Development For Data Scientists](https://chifi.dev/web-development-for-data-scientists-8baf00d3e199?source=rss------data_science-5)
-- [Clustering 101: Exploring Density-Based Methods](https://python.plainenglish.io/clustering-101-exploring-density-based-methods-e2055ce65d2f?source=rss------data_science-5)
-- [How to Make Peace With Your Face](https://medium.com/@ramyakrishna2592/how-to-make-peace-with-your-face-162ca09cde1f?source=rss------data_science-5)
-- [The Ultimate Guide to Choosing the Right Programming Language in 2025](https://medium.com/@anessulrehman/the-ultimate-guide-to-choosing-the-right-programming-language-in-2025-e99186646804?source=rss------data_science-5)
-- [Automating Expense Tracking: Simplifying How I Categorize and Analyze My Spending](https://medium.com/@sathisekanayake/automating-expense-tracking-simplifying-how-i-categorize-and-analyze-my-spending-7db3973d8d2b?source=rss------data_science-5)
-- [I will write cyber security, IT, technical, data analyst, data science, business resume](https://medium.com/@stellaconan7/i-will-write-cyber-security-it-technical-data-analyst-data-science-business-resume-426d1848d1c3?source=rss------data_science-5)
-- [The Cost of Education Injustice](https://medium.com/@ramyakrishna2592/the-cost-of-education-injustice-5fa97509bd31?source=rss------data_science-5)
-- [Life of a Maid: The warrior lady!!!](https://medium.com/@ramyakrishna2592/life-of-a-maid-the-warrior-lady-9e139653f8b4?source=rss------data_science-5)
-- [Makine Öğrenimi Temel Kavramlar — Doğrusal Regresyon: Basit Model, Güçlü Sonuçlar](https://medium.com/@akay989/makine-%C3%B6%C4%9Frenimi-temel-kavramlar-do%C4%9Frusal-regresyon-basit-model-g%C3%BC%C3%A7l%C3%BC-sonu%C3%A7lar-c4aa5935dea8?source=rss------data_science-5)
-- [7 Essential Tips and Tricks for a Perfect Dataset in Excel](https://medium.com/@mariaeloisa.088/7-essential-tips-and-tricks-for-a-perfect-dataset-in-excel-dcdf40ece19f?source=rss------data_science-5)
+- [Premier Doug Ford’s Government Passes Bill 212: Should the Bike Lanes be Removed?](https://medium.com/@hackstreetboyz/premier-doug-fords-government-passes-bill-212-should-the-bike-lanes-be-removed-3a7439b62cd9?source=rss------data_science-5)
+- [An ETL pipeline using Pyspark for a Bank](https://medium.com/@sharmapushpendra342/an-etl-pipeline-using-pyspark-for-a-bank-3004f824d277?source=rss------data_science-5)
+- [Difference Between MetaGraph, Ontology and Taxonomy](https://medium.com/@mustafaisonline/difference-between-metagraph-ontology-and-taxonomy-793601d85eb1?source=rss------data_science-5)
+- [Machine Learning Forecasting with Meta Prophet](https://medium.com/@nia036/machine-learning-forecasting-with-meta-prophet-f7b3e1e50017?source=rss------data_science-5)
+- [Data Scientist Interview Guide](https://mounicag.medium.com/data-scientist-interview-guide-11637d499696?source=rss------data_science-5)
+- [Is AI in danger?…](https://medium.com/@venkatsaisantosh.3012/is-ai-in-danger-6a6588921843?source=rss------data_science-5)
+- [Data Wrangling and Exploration using Pyspark](https://medium.com/@sharmapushpendra342/data-wrangling-and-exploration-using-pyspark-7237c38b7bf8?source=rss------data_science-5)
+- [Designing a Data Lake House for a Big Bank](https://medium.com/@sharmapushpendra342/designing-a-data-lake-house-for-a-big-bank-48c0156d844f?source=rss------data_science-5)
+- [15 Python Built-in Functions You’ll Wish You Knew Sooner](https://python.plainenglish.io/15-python-built-in-functions-youll-wish-you-knew-sooner-c8cf98d6c51a?source=rss------data_science-5)
+- [How knowing the execution order of a SQL query helps in troubleshooting](https://medium.com/@gutiedra/how-knowing-the-execution-order-of-a-sql-query-helps-in-troubleshooting-139d486ac2f9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
