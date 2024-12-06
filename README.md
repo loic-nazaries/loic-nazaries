@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Premier Doug Ford’s Government Passes Bill 212: Should the Bike Lanes be Removed?](https://medium.com/@hackstreetboyz/premier-doug-fords-government-passes-bill-212-should-the-bike-lanes-be-removed-3a7439b62cd9?source=rss------data_science-5)
-- [An ETL pipeline using Pyspark for a Bank](https://medium.com/@sharmapushpendra342/an-etl-pipeline-using-pyspark-for-a-bank-3004f824d277?source=rss------data_science-5)
-- [Difference Between MetaGraph, Ontology and Taxonomy](https://medium.com/@mustafaisonline/difference-between-metagraph-ontology-and-taxonomy-793601d85eb1?source=rss------data_science-5)
-- [Machine Learning Forecasting with Meta Prophet](https://medium.com/@nia036/machine-learning-forecasting-with-meta-prophet-f7b3e1e50017?source=rss------data_science-5)
-- [Data Scientist Interview Guide](https://mounicag.medium.com/data-scientist-interview-guide-11637d499696?source=rss------data_science-5)
-- [Is AI in danger?…](https://medium.com/@venkatsaisantosh.3012/is-ai-in-danger-6a6588921843?source=rss------data_science-5)
-- [Data Wrangling and Exploration using Pyspark](https://medium.com/@sharmapushpendra342/data-wrangling-and-exploration-using-pyspark-7237c38b7bf8?source=rss------data_science-5)
-- [Designing a Data Lake House for a Big Bank](https://medium.com/@sharmapushpendra342/designing-a-data-lake-house-for-a-big-bank-48c0156d844f?source=rss------data_science-5)
-- [15 Python Built-in Functions You’ll Wish You Knew Sooner](https://python.plainenglish.io/15-python-built-in-functions-youll-wish-you-knew-sooner-c8cf98d6c51a?source=rss------data_science-5)
-- [How knowing the execution order of a SQL query helps in troubleshooting](https://medium.com/@gutiedra/how-knowing-the-execution-order-of-a-sql-query-helps-in-troubleshooting-139d486ac2f9?source=rss------data_science-5)
+- [Kelas Online Data Science &amp; Analytics Course](https://medium.com/@denoz99/kelas-online-data-science-analytics-course-3cea7c92fd13?source=rss------data_science-5)
+- [If a software vendor is selling you something with an arrow, they’re selling you a future problem.](https://medium.com/@occam.works/if-a-software-vendor-is-selling-you-something-with-an-arrow-theyre-selling-you-a-future-problem-96de944fa97e?source=rss------data_science-5)
+- [Data Science Leadership is Like Painting, Not Construction](https://medium.com/@micahmelling/data-science-leadership-is-like-painting-not-construction-49a8083a5747?source=rss------data_science-5)
+- [Web Scraping Tutorial: Automating Data Extraction &lpar;Part 4&rpar;](https://medium.com/@capr1989/web-scraping-tutorial-automating-data-extraction-part-4-24bd44322f2a?source=rss------data_science-5)
+- [Amostragem estratificada com Sklearn](https://medium.com/@gustavoalbertoalbino/amostragem-estratificada-com-sklearn-efd6c51ac9a9?source=rss------data_science-5)
+- [Clustering 101: A Beginner’s Guide to DBSCAN &lpar;Part 2/3&rpar;](https://python.plainenglish.io/clustering-101-a-beginners-guide-to-dbscan-part-2-3-d7153f638a17?source=rss------data_science-5)
+- [“Hacking the System Design: How Search Engines Understand and Deliever Results”](https://medium.com/@chemanthkarna/hacking-the-system-design-how-search-engines-understand-and-deliever-results-8b3e9e0f24f0?source=rss------data_science-5)
+- [Designing a Data Model for a Cloud Storage App&lpar;Dropbox/GoogleDrive&rpar;: A Comprehensive Guide](https://medium.com/@rewqppklt/designing-a-data-model-for-a-cloud-storage-app-dropbox-googledrive-a-comprehensive-guide-88069fe87f0b?source=rss------data_science-5)
+- [Digital Marketing Certificate 2025](https://medium.com/@umairasattar2/digital-marketing-certificate-2025-81ceb6cd6086?source=rss------data_science-5)
+- [Failure due to “extreme originality”](https://medium.com/@todbotts.triangles/failure-due-to-extreme-originality-6e3abc075a01?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
