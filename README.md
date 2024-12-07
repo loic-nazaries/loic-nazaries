@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Kelas Online Data Science &amp; Analytics Course](https://medium.com/@denoz99/kelas-online-data-science-analytics-course-3cea7c92fd13?source=rss------data_science-5)
-- [If a software vendor is selling you something with an arrow, they’re selling you a future problem.](https://medium.com/@occam.works/if-a-software-vendor-is-selling-you-something-with-an-arrow-theyre-selling-you-a-future-problem-96de944fa97e?source=rss------data_science-5)
-- [Data Science Leadership is Like Painting, Not Construction](https://medium.com/@micahmelling/data-science-leadership-is-like-painting-not-construction-49a8083a5747?source=rss------data_science-5)
-- [Web Scraping Tutorial: Automating Data Extraction &lpar;Part 4&rpar;](https://medium.com/@capr1989/web-scraping-tutorial-automating-data-extraction-part-4-24bd44322f2a?source=rss------data_science-5)
-- [Amostragem estratificada com Sklearn](https://medium.com/@gustavoalbertoalbino/amostragem-estratificada-com-sklearn-efd6c51ac9a9?source=rss------data_science-5)
-- [Clustering 101: A Beginner’s Guide to DBSCAN &lpar;Part 2/3&rpar;](https://python.plainenglish.io/clustering-101-a-beginners-guide-to-dbscan-part-2-3-d7153f638a17?source=rss------data_science-5)
-- [“Hacking the System Design: How Search Engines Understand and Deliever Results”](https://medium.com/@chemanthkarna/hacking-the-system-design-how-search-engines-understand-and-deliever-results-8b3e9e0f24f0?source=rss------data_science-5)
-- [Designing a Data Model for a Cloud Storage App&lpar;Dropbox/GoogleDrive&rpar;: A Comprehensive Guide](https://medium.com/@rewqppklt/designing-a-data-model-for-a-cloud-storage-app-dropbox-googledrive-a-comprehensive-guide-88069fe87f0b?source=rss------data_science-5)
-- [Digital Marketing Certificate 2025](https://medium.com/@umairasattar2/digital-marketing-certificate-2025-81ceb6cd6086?source=rss------data_science-5)
-- [Failure due to “extreme originality”](https://medium.com/@todbotts.triangles/failure-due-to-extreme-originality-6e3abc075a01?source=rss------data_science-5)
+- [Clustering 101: A Beginner’s Guide to DBSCAN &lpar;Part 3/4&rpar;](https://medium.com/@Mounica_Kommajosyula/clustering-101-a-beginners-guide-to-dbscan-part-3-4-93cd40674cec?source=rss------data_science-5)
+- [NASA’s Artemis Campaign: Bold Steps Toward Lunar and Martian Frontiers](https://medium.com/@sirtrends/nasas-artemis-campaign-bold-steps-toward-lunar-and-martian-frontiers-2edb78659401?source=rss------data_science-5)
+- [Untitled](https://medium.com/@nnshsnjdnnd/untitled-e56ad1e630fa?source=rss------data_science-5)
+- [Untitled](https://medium.com/@nnshsnjdnnd/untitled-85c8a348834b?source=rss------data_science-5)
+- [Untitled](https://medium.com/@nnshsnjdnnd/untitled-776148080136?source=rss------data_science-5)
+- [Untitled](https://medium.com/@nnshsnjdnnd/untitled-1a9b85ab0a5c?source=rss------data_science-5)
+- [Untitled](https://medium.com/@nnshsnjdnnd/untitled-920caa04a5dd?source=rss------data_science-5)
+- [Untitled](https://medium.com/@nnshsnjdnnd/untitled-65dbb87c2634?source=rss------data_science-5)
+- [Untitled](https://medium.com/@nnshsnjdnnd/untitled-f0085752748f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
