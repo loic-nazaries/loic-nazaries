@@ -105,16 +105,32 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Jsjdjxhxhx](https://medium.com/@mstyshmarhkhalh/jsjdjxhxhx-fdd34cb3962f?source=rss------data_science-5)
-- [Wnsjvwbwbhs](https://medium.com/@mstyshmarhkhalh/wnsjvwbwbhs-faa084be89ed?source=rss------data_science-5)
-- [Isjsjdhdhd](https://medium.com/@mstyshmarhkhalh/isjsjdhdhd-cc6f6d1e9c5d?source=rss------data_science-5)
-- [Jdisjdhdhnsndhd](https://medium.com/@mstyshmarhkhalh/jdisjdhdhnsndhd-a558668681b4?source=rss------data_science-5)
-- [Idhdjdjsusj](https://medium.com/@mstyshmarhkhalh/idhdjdjsusj-62131be03f34?source=rss------data_science-5)
-- [Jshddadvh](https://medium.com/@mstyshmarhkhalh/jshddadvh-0a7f413af933?source=rss------data_science-5)
-- [Mastering IF Statements: Nested Formulas and More](https://medium.com/@mariaeloisa.088/mastering-if-statements-nested-formulas-and-more-f44a4fe23c6d?source=rss------data_science-5)
-- [hxkcgkxgkitx](https://medium.com/@lpakdd922/hxkcgkxgkitx-ee0e07aa4fbf?source=rss------data_science-5)
-- [cbcbcmcbm](https://medium.com/@lpakdd922/cbcbcmcbm-4f45b19055c6?source=rss------data_science-5)
-- [bdmchcbmmvxkgx](https://medium.com/@lpakdd922/bdmchcbmmvxkgx-9bafd3c0b20f?source=rss------data_science-5)
+- [برنامه 09309022560حضوری
+دختر 09309022560 دانشجو
+همرا 09309022560 با مکان](https://medium.com/@mrymkylw0/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-09309022560%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-09309022560-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88-%D9%87%D9%85%D8%B1%D8%A7-09309022560-%D8%A8%D8%A7-%D9%85%DA%A9%D8%A7%D9%86-e1acc8fb5d49?source=rss------data_science-5)
+- [برنامه 09309022560حضوری
+دختر 09309022560 دانشجو
+همرا 09309022560 با مکان](https://medium.com/@mrymkylw0/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-09309022560%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-09309022560-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88-%D9%87%D9%85%D8%B1%D8%A7-09309022560-%D8%A8%D8%A7-%D9%85%DA%A9%D8%A7%D9%86-7a6ddf214f60?source=rss------data_science-5)
+- [برنامه 09309022560حضوری
+دختر 09309022560 دانشجو
+همرا 09309022560 با مکان](https://medium.com/@mrymkylw0/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-09309022560%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-09309022560-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88-%D9%87%D9%85%D8%B1%D8%A7-09309022560-%D8%A8%D8%A7-%D9%85%DA%A9%D8%A7%D9%86-68bd0cef0b3f?source=rss------data_science-5)
+- [برنامه 09309022560حضوری
+دختر 09309022560 دانشجو
+همرا 09309022560 با مکان](https://medium.com/@mrymkylw0/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-09309022560%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-09309022560-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88-%D9%87%D9%85%D8%B1%D8%A7-09309022560-%D8%A8%D8%A7-%D9%85%DA%A9%D8%A7%D9%86-11eb2f38daa2?source=rss------data_science-5)
+- [برنامه 09309022560حضوری
+دختر 09309022560 دانشجو
+همرا 09309022560 با مکان](https://medium.com/@mrymkylw0/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-09309022560%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-09309022560-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88-%D9%87%D9%85%D8%B1%D8%A7-09309022560-%D8%A8%D8%A7-%D9%85%DA%A9%D8%A7%D9%86-c9edf40d1136?source=rss------data_science-5)
+- [برنامه 09309022560حضوری
+دختر 09309022560 دانشجو
+همرا 09309022560 با مکان](https://medium.com/@mrymkylw0/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-09309022560%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-09309022560-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88-%D9%87%D9%85%D8%B1%D8%A7-09309022560-%D8%A8%D8%A7-%D9%85%DA%A9%D8%A7%D9%86-5e5f01e80b56?source=rss------data_science-5)
+- [برنامه 09309022560حضوری
+دختر 09309022560 دانشجو
+همرا 09309022560 با مکان](https://medium.com/@mrymkylw0/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-09309022560%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-09309022560-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88-%D9%87%D9%85%D8%B1%D8%A7-09309022560-%D8%A8%D8%A7-%D9%85%DA%A9%D8%A7%D9%86-f46bb4f91b7a?source=rss------data_science-5)
+- [برنامه 09309022560حضوری
+دختر 09309022560 دانشجو
+همرا 09309022560 با مکان](https://medium.com/@mrymkylw0/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-09309022560%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-09309022560-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88-%D9%87%D9%85%D8%B1%D8%A7-09309022560-%D8%A8%D8%A7-%D9%85%DA%A9%D8%A7%D9%86-24d98fa87c72?source=rss------data_science-5)
+- [nv bcnchhcch](https://medium.com/@mrymkylw0/nv-bcnchhcch-004f53ca2437?source=rss------data_science-5)
+- [The Ultimate Guide to Zero ETL: Real-Time Insights, Benefits, Challenges, and Best Practices](https://blog.det.life/the-ultimate-guide-to-zero-etl-real-time-insights-benefits-challenges-and-best-practices-94cb294f219d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
