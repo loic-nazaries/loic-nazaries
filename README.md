@@ -105,32 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [برنامه 09309022560حضوری
-دختر 09309022560 دانشجو
-همرا 09309022560 با مکان](https://medium.com/@mrymkylw0/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-09309022560%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-09309022560-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88-%D9%87%D9%85%D8%B1%D8%A7-09309022560-%D8%A8%D8%A7-%D9%85%DA%A9%D8%A7%D9%86-e1acc8fb5d49?source=rss------data_science-5)
-- [برنامه 09309022560حضوری
-دختر 09309022560 دانشجو
-همرا 09309022560 با مکان](https://medium.com/@mrymkylw0/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-09309022560%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-09309022560-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88-%D9%87%D9%85%D8%B1%D8%A7-09309022560-%D8%A8%D8%A7-%D9%85%DA%A9%D8%A7%D9%86-7a6ddf214f60?source=rss------data_science-5)
-- [برنامه 09309022560حضوری
-دختر 09309022560 دانشجو
-همرا 09309022560 با مکان](https://medium.com/@mrymkylw0/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-09309022560%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-09309022560-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88-%D9%87%D9%85%D8%B1%D8%A7-09309022560-%D8%A8%D8%A7-%D9%85%DA%A9%D8%A7%D9%86-68bd0cef0b3f?source=rss------data_science-5)
-- [برنامه 09309022560حضوری
-دختر 09309022560 دانشجو
-همرا 09309022560 با مکان](https://medium.com/@mrymkylw0/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-09309022560%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-09309022560-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88-%D9%87%D9%85%D8%B1%D8%A7-09309022560-%D8%A8%D8%A7-%D9%85%DA%A9%D8%A7%D9%86-11eb2f38daa2?source=rss------data_science-5)
-- [برنامه 09309022560حضوری
-دختر 09309022560 دانشجو
-همرا 09309022560 با مکان](https://medium.com/@mrymkylw0/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-09309022560%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-09309022560-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88-%D9%87%D9%85%D8%B1%D8%A7-09309022560-%D8%A8%D8%A7-%D9%85%DA%A9%D8%A7%D9%86-c9edf40d1136?source=rss------data_science-5)
-- [برنامه 09309022560حضوری
-دختر 09309022560 دانشجو
-همرا 09309022560 با مکان](https://medium.com/@mrymkylw0/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-09309022560%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-09309022560-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88-%D9%87%D9%85%D8%B1%D8%A7-09309022560-%D8%A8%D8%A7-%D9%85%DA%A9%D8%A7%D9%86-5e5f01e80b56?source=rss------data_science-5)
-- [برنامه 09309022560حضوری
-دختر 09309022560 دانشجو
-همرا 09309022560 با مکان](https://medium.com/@mrymkylw0/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-09309022560%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-09309022560-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88-%D9%87%D9%85%D8%B1%D8%A7-09309022560-%D8%A8%D8%A7-%D9%85%DA%A9%D8%A7%D9%86-f46bb4f91b7a?source=rss------data_science-5)
-- [برنامه 09309022560حضوری
-دختر 09309022560 دانشجو
-همرا 09309022560 با مکان](https://medium.com/@mrymkylw0/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-09309022560%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-09309022560-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88-%D9%87%D9%85%D8%B1%D8%A7-09309022560-%D8%A8%D8%A7-%D9%85%DA%A9%D8%A7%D9%86-24d98fa87c72?source=rss------data_science-5)
-- [nv bcnchhcch](https://medium.com/@mrymkylw0/nv-bcnchhcch-004f53ca2437?source=rss------data_science-5)
-- [The Ultimate Guide to Zero ETL: Real-Time Insights, Benefits, Challenges, and Best Practices](https://blog.det.life/the-ultimate-guide-to-zero-etl-real-time-insights-benefits-challenges-and-best-practices-94cb294f219d?source=rss------data_science-5)
+- [&quot;Chainlink to Skyrocket to $500? Inside Coinbase&#39;s Project Diamond Integration&quot;](https://medium.com/@whoisWenz1k/chainlink-to-skyrocket-to-500-inside-coinbases-project-diamond-integration-e785209c608a?source=rss------data_science-5)
+- [Role of the Skeletal System](https://medium.com/@star_5644/role-of-the-skeletal-system-78fe96ee69f2?source=rss------data_science-5)
+- [The Building Blocks of Neural Networks: Understanding Layers and Activation Functions](https://nilkanthahire.medium.com/the-building-blocks-of-neural-networks-understanding-layers-and-activation-functions-303b6c126a97?source=rss------data_science-5)
+- [ndksksksk](https://medium.com/@gkjcfncjjcf/ndksksksk-2eb7a07ee4b9?source=rss------data_science-5)
+- [hdsjjsjs](https://medium.com/@gkjcfncjjcf/hdsjjsjs-39ccbccf2c1c?source=rss------data_science-5)
+- [,. m, m, jxnxnxh](https://medium.com/@bcchchgjhghc/m-m-jxnxnxh-8ac6efcde496?source=rss------data_science-5)
+- [.., kk, nxnkxkbx](https://medium.com/@bcchchgjhghc/kk-nxnkxkbx-8e42fd8d2eb1?source=rss------data_science-5)
+- [mxmxmkzx](https://medium.com/@bcchchgjhghc/mxmxmkzx-2cebab202426?source=rss------data_science-5)
+- [hsbsjsja](https://medium.com/@gkjcfncjjcf/hsbsjsja-6232f7f3cb36?source=rss------data_science-5)
+- [akkakamsnz](https://medium.com/@gkjcfncjjcf/akkakamsnz-157565753ab9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
