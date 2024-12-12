@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [&quot;Chainlink to Skyrocket to $500? Inside Coinbase&#39;s Project Diamond Integration&quot;](https://medium.com/@whoisWenz1k/chainlink-to-skyrocket-to-500-inside-coinbases-project-diamond-integration-e785209c608a?source=rss------data_science-5)
-- [Role of the Skeletal System](https://medium.com/@star_5644/role-of-the-skeletal-system-78fe96ee69f2?source=rss------data_science-5)
-- [The Building Blocks of Neural Networks: Understanding Layers and Activation Functions](https://nilkanthahire.medium.com/the-building-blocks-of-neural-networks-understanding-layers-and-activation-functions-303b6c126a97?source=rss------data_science-5)
-- [ndksksksk](https://medium.com/@gkjcfncjjcf/ndksksksk-2eb7a07ee4b9?source=rss------data_science-5)
-- [hdsjjsjs](https://medium.com/@gkjcfncjjcf/hdsjjsjs-39ccbccf2c1c?source=rss------data_science-5)
-- [,. m, m, jxnxnxh](https://medium.com/@bcchchgjhghc/m-m-jxnxnxh-8ac6efcde496?source=rss------data_science-5)
-- [.., kk, nxnkxkbx](https://medium.com/@bcchchgjhghc/kk-nxnkxkbx-8e42fd8d2eb1?source=rss------data_science-5)
-- [mxmxmkzx](https://medium.com/@bcchchgjhghc/mxmxmkzx-2cebab202426?source=rss------data_science-5)
-- [hsbsjsja](https://medium.com/@gkjcfncjjcf/hsbsjsja-6232f7f3cb36?source=rss------data_science-5)
-- [akkakamsnz](https://medium.com/@gkjcfncjjcf/akkakamsnz-157565753ab9?source=rss------data_science-5)
+- [Demystifying LLM Reasoning: A Deep Dive with Denny Zhou](https://medium.com/@tanay_baswa/demystifying-llm-reasoning-a-deep-dive-with-denny-zhou-eb4069b59759?source=rss------data_science-5)
+- [The Future Is Here: 7 AI Technologies You Should Know About](https://medium.com/majordigest/the-future-is-here-7-ai-technologies-you-should-know-about-498142632982?source=rss------data_science-5)
+- [Quantization and Pruning: The Secret Sauce to Slimming Down Neural Networks](https://medium.com/majordigest/quantization-and-pruning-the-secret-sauce-to-slimming-down-neural-networks-8eab875d53a6?source=rss------data_science-5)
+- [AI in Healthcare](https://medium.com/@sanyam3010/ai-in-healthcare-5d9fdf917d87?source=rss------data_science-5)
+- [Probability Notations: A way to write the likelihood of events](https://medium.com/@sahn1998/probability-notations-a-way-to-write-the-likelihood-of-events-9e97233a7e1c?source=rss------data_science-5)
+- [cuhxhxzg](https://medium.com/@shmarhkhalhkrjshyraz/cuhxhxzg-43e83c1ac2b7?source=rss------data_science-5)
+- [jvxhgzg](https://medium.com/@shmarhkhalhkrjshyraz/jvxhgzg-65aa11597598?source=rss------data_science-5)
+- [nlczyi](https://medium.com/@shmarhkhalhkrjshyraz/nlczyi-50361d9094f3?source=rss------data_science-5)
+- [chxggzfs](https://medium.com/@shmarhkhalhkrjshyraz/chxggzfs-5af233deb189?source=rss------data_science-5)
+- [bchxsy](https://medium.com/@shmarhkhalhkrjshyraz/bchxsy-8a19b6878107?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
