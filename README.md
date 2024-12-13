@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Demystifying LLM Reasoning: A Deep Dive with Denny Zhou](https://medium.com/@tanay_baswa/demystifying-llm-reasoning-a-deep-dive-with-denny-zhou-eb4069b59759?source=rss------data_science-5)
-- [The Future Is Here: 7 AI Technologies You Should Know About](https://medium.com/majordigest/the-future-is-here-7-ai-technologies-you-should-know-about-498142632982?source=rss------data_science-5)
-- [Quantization and Pruning: The Secret Sauce to Slimming Down Neural Networks](https://medium.com/majordigest/quantization-and-pruning-the-secret-sauce-to-slimming-down-neural-networks-8eab875d53a6?source=rss------data_science-5)
-- [AI in Healthcare](https://medium.com/@sanyam3010/ai-in-healthcare-5d9fdf917d87?source=rss------data_science-5)
-- [Probability Notations: A way to write the likelihood of events](https://medium.com/@sahn1998/probability-notations-a-way-to-write-the-likelihood-of-events-9e97233a7e1c?source=rss------data_science-5)
-- [cuhxhxzg](https://medium.com/@shmarhkhalhkrjshyraz/cuhxhxzg-43e83c1ac2b7?source=rss------data_science-5)
-- [jvxhgzg](https://medium.com/@shmarhkhalhkrjshyraz/jvxhgzg-65aa11597598?source=rss------data_science-5)
-- [nlczyi](https://medium.com/@shmarhkhalhkrjshyraz/nlczyi-50361d9094f3?source=rss------data_science-5)
-- [chxggzfs](https://medium.com/@shmarhkhalhkrjshyraz/chxggzfs-5af233deb189?source=rss------data_science-5)
-- [bchxsy](https://medium.com/@shmarhkhalhkrjshyraz/bchxsy-8a19b6878107?source=rss------data_science-5)
+- [Cómo conseguir y usar vehículos en Lego Fortnite Brick Life](https://medium.com/@sirtrends/c%C3%B3mo-conseguir-y-usar-veh%C3%ADculos-en-lego-fortnite-brick-life-01634c497c65?source=rss------data_science-5)
+- [Cómo ganar dinero en Lego Fortnite Brick Life](https://medium.com/@sirtrends/c%C3%B3mo-ganar-dinero-en-lego-fortnite-brick-life-7fa4b457d9fb?source=rss------data_science-5)
+- [How to Retrieve Data Efficiently in Pandas for Python](https://medium.com/@bao.character/how-to-retrieve-data-efficiently-in-pandas-for-python-8445e8b81934?source=rss------data_science-5)
+- [Graycommit Architecture: AI-Powered Sales Intelligence](https://medium.com/@sudheer.sandu/graycommit-architecture-ai-powered-sales-intelligence-59730da4424b?source=rss------data_science-5)
+- [Late Deliveries and Ratings: Propensity Score Matching Approach](https://medium.com/@JuanPabloHerrera/late-deliveries-and-ratings-propensity-score-matching-approach-dfa333b330ec?source=rss------data_science-5)
+- [The Willow Chip Revolution: Transforming Blockchain Infrastructure and Career Trends](https://medium.com/@shubhadajoshipande/the-willow-chip-revolution-transforming-blockchain-infrastructure-and-career-trends-96870abb93ef?source=rss------data_science-5)
+- [YOMAEX Review : a legit platform or potential scam](https://medium.com/@helentrojan/yomaex-review-a-legit-platform-or-potential-scam-8efe4e7b829b?source=rss------data_science-5)
+- [Understanding Causal Inference in Advanced Data Analytics](https://adithsreeram.medium.com/understanding-causal-inference-in-advanced-data-analytics-a4b97ac35922?source=rss------data_science-5)
+- [The Dynamic Duo: Python and SQL in Data Analysis](https://rajuhemanth456.medium.com/the-dynamic-duo-python-and-sql-in-data-analysis-ee9454f49fb1?source=rss------data_science-5)
+- [Light for your camping](https://medium.com/@t87828973/light-for-your-camping-ede63efa305c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
