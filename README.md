@@ -105,16 +105,14 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Cómo conseguir y usar vehículos en Lego Fortnite Brick Life](https://medium.com/@sirtrends/c%C3%B3mo-conseguir-y-usar-veh%C3%ADculos-en-lego-fortnite-brick-life-01634c497c65?source=rss------data_science-5)
-- [Cómo ganar dinero en Lego Fortnite Brick Life](https://medium.com/@sirtrends/c%C3%B3mo-ganar-dinero-en-lego-fortnite-brick-life-7fa4b457d9fb?source=rss------data_science-5)
-- [How to Retrieve Data Efficiently in Pandas for Python](https://medium.com/@bao.character/how-to-retrieve-data-efficiently-in-pandas-for-python-8445e8b81934?source=rss------data_science-5)
-- [Graycommit Architecture: AI-Powered Sales Intelligence](https://medium.com/@sudheer.sandu/graycommit-architecture-ai-powered-sales-intelligence-59730da4424b?source=rss------data_science-5)
-- [Late Deliveries and Ratings: Propensity Score Matching Approach](https://medium.com/@JuanPabloHerrera/late-deliveries-and-ratings-propensity-score-matching-approach-dfa333b330ec?source=rss------data_science-5)
-- [The Willow Chip Revolution: Transforming Blockchain Infrastructure and Career Trends](https://medium.com/@shubhadajoshipande/the-willow-chip-revolution-transforming-blockchain-infrastructure-and-career-trends-96870abb93ef?source=rss------data_science-5)
-- [YOMAEX Review : a legit platform or potential scam](https://medium.com/@helentrojan/yomaex-review-a-legit-platform-or-potential-scam-8efe4e7b829b?source=rss------data_science-5)
-- [Understanding Causal Inference in Advanced Data Analytics](https://adithsreeram.medium.com/understanding-causal-inference-in-advanced-data-analytics-a4b97ac35922?source=rss------data_science-5)
-- [The Dynamic Duo: Python and SQL in Data Analysis](https://rajuhemanth456.medium.com/the-dynamic-duo-python-and-sql-in-data-analysis-ee9454f49fb1?source=rss------data_science-5)
-- [Light for your camping](https://medium.com/@t87828973/light-for-your-camping-ede63efa305c?source=rss------data_science-5)
+- [Attention Economy and Artificial Intelligence: The Digital Atomic Bomb That’s About to Explode”](https://medium.com/@leandrorehem/attention-economy-and-artificial-intelligence-the-digital-atomic-bomb-thats-about-to-explode-d163a2ed1ab6?source=rss------data_science-5)
+- [Digital Signals for Dumb*sses &lpar;Part 5: How to Fill in Missing Data with Interpolation&rpar;](https://medium.com/@protobioengineering/digital-signals-for-dumb-sses-part-5-how-to-fill-in-missing-data-with-interpolation-8b1dcdb9bb1b?source=rss------data_science-5)
+- [Most common Errors in Data Processing and Preparation for Machine Learning](https://medium.com/@khalil.blm/most-common-errors-in-data-processing-and-preparation-for-machine-learning-b7809922e58a?source=rss------data_science-5)
+- [mdmcmkx](https://medium.com/@ntnsnyn/mdmcmkx-6d4de161db55?source=rss------data_science-5)
+- [mxknskd](https://medium.com/@ntnsnyn/mxknskd-5ffd6bd0f6e8?source=rss------data_science-5)
+- [dkkdkdnxnxnx](https://medium.com/@ntnsnyn/dkkdkdnxnxnx-08e70aef4d48?source=rss------data_science-5)
+- [cncnncjcxj](https://medium.com/@bcchchgjhghc/cncnncjcxj-614d196cdf77?source=rss------data_science-5)
+- [ckkxjcncjc](https://medium.com/@bcchchgjhghc/ckkxjcncjc-347436aeb60f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
