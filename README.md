@@ -105,14 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Attention Economy and Artificial Intelligence: The Digital Atomic Bomb That’s About to Explode”](https://medium.com/@leandrorehem/attention-economy-and-artificial-intelligence-the-digital-atomic-bomb-thats-about-to-explode-d163a2ed1ab6?source=rss------data_science-5)
-- [Digital Signals for Dumb*sses &lpar;Part 5: How to Fill in Missing Data with Interpolation&rpar;](https://medium.com/@protobioengineering/digital-signals-for-dumb-sses-part-5-how-to-fill-in-missing-data-with-interpolation-8b1dcdb9bb1b?source=rss------data_science-5)
-- [Most common Errors in Data Processing and Preparation for Machine Learning](https://medium.com/@khalil.blm/most-common-errors-in-data-processing-and-preparation-for-machine-learning-b7809922e58a?source=rss------data_science-5)
-- [mdmcmkx](https://medium.com/@ntnsnyn/mdmcmkx-6d4de161db55?source=rss------data_science-5)
-- [mxknskd](https://medium.com/@ntnsnyn/mxknskd-5ffd6bd0f6e8?source=rss------data_science-5)
-- [dkkdkdnxnxnx](https://medium.com/@ntnsnyn/dkkdkdnxnxnx-08e70aef4d48?source=rss------data_science-5)
-- [cncnncjcxj](https://medium.com/@bcchchgjhghc/cncnncjcxj-614d196cdf77?source=rss------data_science-5)
-- [ckkxjcncjc](https://medium.com/@bcchchgjhghc/ckkxjcncjc-347436aeb60f?source=rss------data_science-5)
+- [10 Everyday Problems Python Can Solve in Under 10 Lines of Code](https://python.plainenglish.io/10-everyday-problems-python-can-solve-in-under-10-lines-of-code-efb6ffd3e860?source=rss------data_science-5)
+- [Data-Driven Scouting Report: Shortlisting 5 Midfielders and 5 Forwards from EFL Championship ⚽️](https://ricardoheredia94.medium.com/data-driven-scouting-report-shortlisting-5-midfielders-and-5-forwards-from-efl-championship-%EF%B8%8F-971fca3e2256?source=rss------data_science-5)
+- [Exploring Advanced Pandas: Sorting, Aggregation, and Ranking](https://medium.com/@seshasai39/exploring-advanced-pandas-sorting-aggregation-and-ranking-dabc388159ae?source=rss------data_science-5)
+- [Why Privacy Matters: Lessons from Superheroes, Real-Life Threats, and the Warning of Black Mirror](https://medium.com/@fahad_abalkhail/why-privacy-matters-lessons-from-superheroes-real-life-threats-and-the-warning-of-black-mirror-c6235a6c46ab?source=rss------data_science-5)
+- [Hjobi](https://medium.com/@hgtng/hjobi-6e92beeca213?source=rss------data_science-5)
+- [Hojjo](https://medium.com/@hgtng/hojjo-a0d013294e01?source=rss------data_science-5)
+- [Hiojv](https://medium.com/@hgtng/hiojv-5b9bb50a918d?source=rss------data_science-5)
+- [Hijboj](https://medium.com/@mnmkhwbmnz/hijboj-bcb794a9e1ae?source=rss------data_science-5)
+- [Hijhoh](https://medium.com/@mnmkhwbmnz/hijhoh-dcb701835861?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
