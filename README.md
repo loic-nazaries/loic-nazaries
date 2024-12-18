@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Machine Learning Series](https://medium.com/@rohanreddyT/machine-learning-series-907d5f40f64c?source=rss------data_science-5)
-- [ufufgcgx](https://medium.com/@shmarhkhalhasfhan678/ufufgcgx-c026220c69a0?source=rss------data_science-5)
-- [giufcyyx](https://medium.com/@shmarhkhalhasfhan678/giufcyyx-efac050ab497?source=rss------data_science-5)
-- [vhhccyyx](https://medium.com/@shmarhkhalhasfhan678/vhhccyyx-2a58b4bb46b0?source=rss------data_science-5)
-- [Four Signs It’s Time to Leave Your Data Science Job](https://towardsdatascience.com/four-signs-its-time-to-leave-your-data-science-job-7b56818a95d2?source=rss------data_science-5)
-- [namamamajj](https://medium.com/@tdtdhrlgh/namamamajj-aca0540929bd?source=rss------data_science-5)
-- [A Case for Bagging and Boosting as Data Scientists’ Best Friends](https://towardsdatascience.com/a-case-for-bagging-and-boosting-as-data-scientists-best-friends-3acdd74d28e0?source=rss------data_science-5)
-- [nznamamam](https://medium.com/@tdtdhrlgh/nznamamam-ee7f678f9a6e?source=rss------data_science-5)
-- [nzjskaja](https://medium.com/@tdtdhrlgh/nzjskaja-1b287583dd5d?source=rss------data_science-5)
-- [I will write resume for sales, finance, accounting, marketing, banking, ceo, sales rep](https://medium.com/@olaboyet1/i-will-write-resume-for-sales-finance-accounting-marketing-banking-ceo-sales-rep-542305fcf5c7?source=rss------data_science-5)
+- [How Using SoundWaves AI Increased My Online Engagement](https://medium.com/@Alera-Sky/how-using-soundwaves-ai-increased-my-online-engagement-f58175408a25?source=rss------data_science-5)
+- [End to End Gen AI project with Deployment with LLAMA 3.1](https://medium.com/@s4saurabh4/end-to-end-gen-ai-project-with-deployment-with-llama-3-1-251e78dfba00?source=rss------data_science-5)
+- [Recursive Neural Network for Language Modeling — An intuitive approach &lpar;Part 1 / 3&rpar;](https://medium.com/betaflow/recursive-neural-network-for-language-modeling-an-intuitive-approach-part-1-3-05d0da737f1c?source=rss------data_science-5)
+- [Simplifying Regular Expressions with PRegEx](https://python.plainenglish.io/simplifying-regular-expressions-with-pregex-feb3a1d8d368?source=rss------data_science-5)
+- [December 18: National Day in Qatar &lpar;1878&rpar; — A Data Science Perspective on Technological Evolution](https://python.plainenglish.io/december-18-national-day-in-qatar-1878-a-data-science-perspective-on-technological-evolution-058a912d8b3e?source=rss------data_science-5)
+- [How a Simple Data Dashboard Changed My Productivity Forever](https://medium.com/@babup777/how-a-simple-data-dashboard-changed-my-productivity-forever-854e9dbba197?source=rss------data_science-5)
+- [Analyse des performances des gardiens de but en Botola Pro : Saison 2023–2024](https://medium.com/@abdellahmaghous17/analyse-des-performances-des-gardiens-de-but-en-botola-pro-saison-2023-2024-14ccd057bed8?source=rss------data_science-5)
+- [Data Modelling with Graph Theory](https://medium.com/@mustafaisonline/data-modelling-with-graph-theory-030e5fc5f675?source=rss------data_science-5)
+- [How this Multipreneur makes $10M/Year With 6 Businesses](https://medium.com/@s4saurabh4/how-this-multipreneur-makes-10m-year-with-6-businesses-d2f2dfef03b6?source=rss------data_science-5)
+- [Want to upskill yourself and grow your career,](https://medium.com/@kabirabbakar0/want-to-upskill-yourself-and-grow-your-career-320634604e60?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
