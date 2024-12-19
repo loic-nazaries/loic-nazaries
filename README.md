@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How Using SoundWaves AI Increased My Online Engagement](https://medium.com/@Alera-Sky/how-using-soundwaves-ai-increased-my-online-engagement-f58175408a25?source=rss------data_science-5)
-- [End to End Gen AI project with Deployment with LLAMA 3.1](https://medium.com/@s4saurabh4/end-to-end-gen-ai-project-with-deployment-with-llama-3-1-251e78dfba00?source=rss------data_science-5)
-- [Recursive Neural Network for Language Modeling — An intuitive approach &lpar;Part 1 / 3&rpar;](https://medium.com/betaflow/recursive-neural-network-for-language-modeling-an-intuitive-approach-part-1-3-05d0da737f1c?source=rss------data_science-5)
-- [Simplifying Regular Expressions with PRegEx](https://python.plainenglish.io/simplifying-regular-expressions-with-pregex-feb3a1d8d368?source=rss------data_science-5)
-- [December 18: National Day in Qatar &lpar;1878&rpar; — A Data Science Perspective on Technological Evolution](https://python.plainenglish.io/december-18-national-day-in-qatar-1878-a-data-science-perspective-on-technological-evolution-058a912d8b3e?source=rss------data_science-5)
-- [How a Simple Data Dashboard Changed My Productivity Forever](https://medium.com/@babup777/how-a-simple-data-dashboard-changed-my-productivity-forever-854e9dbba197?source=rss------data_science-5)
-- [Analyse des performances des gardiens de but en Botola Pro : Saison 2023–2024](https://medium.com/@abdellahmaghous17/analyse-des-performances-des-gardiens-de-but-en-botola-pro-saison-2023-2024-14ccd057bed8?source=rss------data_science-5)
-- [Data Modelling with Graph Theory](https://medium.com/@mustafaisonline/data-modelling-with-graph-theory-030e5fc5f675?source=rss------data_science-5)
-- [How this Multipreneur makes $10M/Year With 6 Businesses](https://medium.com/@s4saurabh4/how-this-multipreneur-makes-10m-year-with-6-businesses-d2f2dfef03b6?source=rss------data_science-5)
-- [Want to upskill yourself and grow your career,](https://medium.com/@kabirabbakar0/want-to-upskill-yourself-and-grow-your-career-320634604e60?source=rss------data_science-5)
+- [Human in the loop and Google Search with Langgraph](https://medium.com/google-cloud/human-in-the-loop-and-google-search-with-langgraph-1af5ff2d4e89?source=rss------data_science-5)
+- [Plb Cash Loan CusTomer.](https://medium.com/@rajeshkumar667853256543/plb-cash-loan-customer-0d92e34a3daa?source=rss------data_science-5)
+- [Top 10 AI Tools for Small Businesses](https://medium.com/@dossieranalysis/top-10-ai-tools-for-small-businesses-7a03f9be544e?source=rss------data_science-5)
+- [Mapping Dengue Fever in Indonesia: A Biplot Analysis of Regional Risk Factors​​​​​​​​​​​​​​​​](https://medium.com/@amyliwrites/mapping-dengue-fever-in-indonesia-a-biplot-analysis-of-regional-risk-factors-fae2dcb6f6c4?source=rss------data_science-5)
+- [Making Health Insurance Work for All: A Regional Analysis of Indonesia&#39;s JKN…](https://medium.com/@amyliwrites/making-health-insurance-work-for-all-a-regional-analysis-of-indonesias-jkn-854a304a24be?source=rss------data_science-5)
+- [BandEdge Strategy: Using Bollinger Bands for Quantitative Trading](https://medium.com/@kridtapon/bandedge-strategy-using-bollinger-bands-for-quantitative-trading-a805417607be?source=rss------data_science-5)
+- [Python: Snowflake + S3 AWS- Crear tabla dinamica y carga de datos](https://medium.com/@edgarosvaldo.munozabad/python-snowflake-s3-aws-crear-tabla-dinamica-y-carga-de-datos-56371b6d0f3d?source=rss------data_science-5)
+- [Colleagues, the “IBM Data Engineering Professional Certificate” will prepare you for a career as a…](https://medium.com/@lwilson747/colleagues-the-ibm-data-engineering-professional-certificate-will-prepare-you-for-a-career-as-a-9d386a54fa76?source=rss------data_science-5)
+- [How I Transformed University Projects into a Winning Data Science Portfolio](https://code.likeagirl.io/how-i-transformed-university-projects-into-a-winning-data-science-portfolio-ab0ac62bc819?source=rss------data_science-5)
+- [$WMTX most bought token that is still not listed in any major exchanges](https://medium.com/@onyekachigeorge22/wmtx-most-bought-token-that-is-still-not-listed-in-any-major-exchanges-c65679d80af7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
