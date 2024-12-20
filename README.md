@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Human in the loop and Google Search with Langgraph](https://medium.com/google-cloud/human-in-the-loop-and-google-search-with-langgraph-1af5ff2d4e89?source=rss------data_science-5)
-- [Plb Cash Loan CusTomer.](https://medium.com/@rajeshkumar667853256543/plb-cash-loan-customer-0d92e34a3daa?source=rss------data_science-5)
-- [Top 10 AI Tools for Small Businesses](https://medium.com/@dossieranalysis/top-10-ai-tools-for-small-businesses-7a03f9be544e?source=rss------data_science-5)
-- [Mapping Dengue Fever in Indonesia: A Biplot Analysis of Regional Risk Factors​​​​​​​​​​​​​​​​](https://medium.com/@amyliwrites/mapping-dengue-fever-in-indonesia-a-biplot-analysis-of-regional-risk-factors-fae2dcb6f6c4?source=rss------data_science-5)
-- [Making Health Insurance Work for All: A Regional Analysis of Indonesia&#39;s JKN…](https://medium.com/@amyliwrites/making-health-insurance-work-for-all-a-regional-analysis-of-indonesias-jkn-854a304a24be?source=rss------data_science-5)
-- [BandEdge Strategy: Using Bollinger Bands for Quantitative Trading](https://medium.com/@kridtapon/bandedge-strategy-using-bollinger-bands-for-quantitative-trading-a805417607be?source=rss------data_science-5)
-- [Python: Snowflake + S3 AWS- Crear tabla dinamica y carga de datos](https://medium.com/@edgarosvaldo.munozabad/python-snowflake-s3-aws-crear-tabla-dinamica-y-carga-de-datos-56371b6d0f3d?source=rss------data_science-5)
-- [Colleagues, the “IBM Data Engineering Professional Certificate” will prepare you for a career as a…](https://medium.com/@lwilson747/colleagues-the-ibm-data-engineering-professional-certificate-will-prepare-you-for-a-career-as-a-9d386a54fa76?source=rss------data_science-5)
-- [How I Transformed University Projects into a Winning Data Science Portfolio](https://code.likeagirl.io/how-i-transformed-university-projects-into-a-winning-data-science-portfolio-ab0ac62bc819?source=rss------data_science-5)
-- [$WMTX most bought token that is still not listed in any major exchanges](https://medium.com/@onyekachigeorge22/wmtx-most-bought-token-that-is-still-not-listed-in-any-major-exchanges-c65679d80af7?source=rss------data_science-5)
+- [El Gobierno prorrogará los descuentos al transporte en 2025](https://medium.com/@sirtrends/el-gobierno-prorrogar%C3%A1-los-descuentos-al-transporte-en-2025-d30c45a5d259?source=rss------data_science-5)
+- [naked girl Masturbate collections videos](https://medium.com/@TheresaFleck/naked-girl-masturbate-collections-videos-37120c37b8e5?source=rss------data_science-5)
+- [sexy girl masturbate videos collections](https://medium.com/@TheresaFleck/sexy-girl-masturbate-videos-collections-da9638848cd2?source=rss------data_science-5)
+- [Dbdhdh](https://medium.com/@skgwshy/dbdhdh-b0782cb41c36?source=rss------data_science-5)
+- [Mastering Python Projects and Git Workflows: A Beginner’s Guide to Setting Up Your Dev Environment](https://medium.com/@bwagh_8057/mastering-python-projects-and-git-workflows-a-beginners-guide-to-setting-up-your-dev-environment-c473b6ae9359?source=rss------data_science-5)
+- [Shdhueye](https://medium.com/@skgwshy/shdhueye-910ca7c049c6?source=rss------data_science-5)
+- [Dhdhdhdh](https://medium.com/@skgwshy/dhdhdhdh-e981929307df?source=rss------data_science-5)
+- [How Data Scientists Maintain Personal Hygiene: An In-Depth Guide](https://python.plainenglish.io/how-data-scientists-maintain-personal-hygiene-an-in-depth-guide-9e9775e42f5d?source=rss------data_science-5)
+- [Multiple Regression for Correlational Research](https://medium.com/@HewYeh/multiple-regression-for-correlational-research-7f1edbea96f9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
