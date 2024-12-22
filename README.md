@@ -105,15 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [under](https://medium.com/@wymypsps/under-c44191e3c922?source=rss------data_science-5)
-- [fududuud](https://medium.com/@wymypsps/fududuud-b37545c39619?source=rss------data_science-5)
-- [sjjajqjq](https://medium.com/@wymypsps/sjjajqjq-ddb1fa96e377?source=rss------data_science-5)
-- [Generative AI: More Than Creativity -The Hidden Data Mining Powerhouse](https://blog.gopenai.com/generative-ai-more-than-creativity-the-hidden-data-mining-powerhouse-fde66537ff5a?source=rss------data_science-5)
-- [Kskwlqlql](https://medium.com/@shmrhkhlhthrnshmarhkhalhthran/kskwlqlql-8b1301fd6a9c?source=rss------data_science-5)
-- [SafeAIStats — a vision for a future of democratized data analysis](https://ai.gopubby.com/safeaistats-a-vision-for-a-future-of-democratized-data-analysis-03a19ae8db6f?source=rss------data_science-5)
-- [Kskskajjq](https://medium.com/@shmrhkhlhthrnshmarhkhalhthran/kskskajjq-7053a562025a?source=rss------data_science-5)
-- [Hajajwj](https://medium.com/@shmrhkhlhthrnshmarhkhalhthran/hajajwj-b8023bb602ec?source=rss------data_science-5)
-- [Future of Data Analytics: Trends to Watch in 2025](https://medium.com/@tajamulk/future-of-data-analytics-trends-to-watch-in-2025-d3205571f4e1?source=rss------data_science-5)
+- [What We Can Do with Python Programming](https://medium.com/@ajengsukirman/what-we-can-do-with-python-programming-c2d4358b049b?source=rss------data_science-5)
+- [Maximizing Returns with Fibonacci and MACD: Reducing Drawdowns and Enhancing Profits](https://medium.com/@kridtapon/maximizing-returns-with-fibonacci-and-macd-reducing-drawdowns-and-enhancing-profits-7ff1e5d56d70?source=rss------data_science-5)
+- [Spark vs Hadoop — Comparativa de herramientas](https://medium.com/@jocyroman/spark-vs-hadoop-comparativa-de-herramientas-4f3fd1f0a237?source=rss------data_science-5)
+- [How to Use Transfer Learning the Right Way: A Beginner’s Guide](https://medium.com/majordigest/how-to-use-transfer-learning-the-right-way-a-beginners-guide-291488eed31d?source=rss------data_science-5)
+- [Fyfycuhc](https://medium.com/@s45481616/fyfycuhc-3c1e88be613a?source=rss------data_science-5)
+- [The One Python Debugging Tool You’re Not Using &lpar;But Should Be&rpar;](https://medium.com/h7w/the-one-python-debugging-tool-youre-not-using-but-should-be-84b21875c33d?source=rss------data_science-5)
+- [Ydfhxhxyyc](https://medium.com/@s45481616/ydfhxhxyyc-c255216c4b84?source=rss------data_science-5)
+- [Ydduyduf](https://medium.com/@s45481616/ydduyduf-3a3b31da4c3d?source=rss------data_science-5)
+- [akkaka](https://medium.com/@shmarhkhalhkrjshyraz/akkaka-57514cc09a07?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
