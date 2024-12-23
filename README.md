@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What We Can Do with Python Programming](https://medium.com/@ajengsukirman/what-we-can-do-with-python-programming-c2d4358b049b?source=rss------data_science-5)
-- [Maximizing Returns with Fibonacci and MACD: Reducing Drawdowns and Enhancing Profits](https://medium.com/@kridtapon/maximizing-returns-with-fibonacci-and-macd-reducing-drawdowns-and-enhancing-profits-7ff1e5d56d70?source=rss------data_science-5)
-- [Spark vs Hadoop — Comparativa de herramientas](https://medium.com/@jocyroman/spark-vs-hadoop-comparativa-de-herramientas-4f3fd1f0a237?source=rss------data_science-5)
-- [How to Use Transfer Learning the Right Way: A Beginner’s Guide](https://medium.com/majordigest/how-to-use-transfer-learning-the-right-way-a-beginners-guide-291488eed31d?source=rss------data_science-5)
-- [Fyfycuhc](https://medium.com/@s45481616/fyfycuhc-3c1e88be613a?source=rss------data_science-5)
-- [The One Python Debugging Tool You’re Not Using &lpar;But Should Be&rpar;](https://medium.com/h7w/the-one-python-debugging-tool-youre-not-using-but-should-be-84b21875c33d?source=rss------data_science-5)
-- [Ydfhxhxyyc](https://medium.com/@s45481616/ydfhxhxyyc-c255216c4b84?source=rss------data_science-5)
-- [Ydduyduf](https://medium.com/@s45481616/ydduyduf-3a3b31da4c3d?source=rss------data_science-5)
-- [akkaka](https://medium.com/@shmarhkhalhkrjshyraz/akkaka-57514cc09a07?source=rss------data_science-5)
+- [lalalal](https://medium.com/@s9456431/lalalal-85b4feb9f090?source=rss------data_science-5)
+- [kw](https://medium.com/@s9456431/kw-65dd83ef4287?source=rss------data_science-5)
+- [zfgxgx](https://medium.com/@s9456431/zfgxgx-8874fa374e3f?source=rss------data_science-5)
+- [igcjhz](https://medium.com/@shmarhkhalhkrjshyraz/igcjhz-9c534aed2226?source=rss------data_science-5)
+- [ucxyzz](https://medium.com/@shmarhkhalhkrjshyraz/ucxyzz-001cb47b017a?source=rss------data_science-5)
+- [ygufyx](https://medium.com/@shmarhkhalhkrjshyraz/ygufyx-1e869b9d5ebb?source=rss------data_science-5)
+- [university](https://medium.com/@s68526992/university-b60ee302b5fd?source=rss------data_science-5)
+- [iucn](https://medium.com/@s68526992/iucn-bea3aea268e3?source=rss------data_science-5)
+- [use](https://medium.com/@s68526992/use-76e185c21b12?source=rss------data_science-5)
+- [Benefits of Trading OTC?](https://medium.com/@stewart_gary1176663763/benefits-of-trading-otc-efc96dff68ef?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
