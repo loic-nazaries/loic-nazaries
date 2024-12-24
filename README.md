@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [lalalal](https://medium.com/@s9456431/lalalal-85b4feb9f090?source=rss------data_science-5)
-- [kw](https://medium.com/@s9456431/kw-65dd83ef4287?source=rss------data_science-5)
-- [zfgxgx](https://medium.com/@s9456431/zfgxgx-8874fa374e3f?source=rss------data_science-5)
-- [igcjhz](https://medium.com/@shmarhkhalhkrjshyraz/igcjhz-9c534aed2226?source=rss------data_science-5)
-- [ucxyzz](https://medium.com/@shmarhkhalhkrjshyraz/ucxyzz-001cb47b017a?source=rss------data_science-5)
-- [ygufyx](https://medium.com/@shmarhkhalhkrjshyraz/ygufyx-1e869b9d5ebb?source=rss------data_science-5)
-- [university](https://medium.com/@s68526992/university-b60ee302b5fd?source=rss------data_science-5)
-- [iucn](https://medium.com/@s68526992/iucn-bea3aea268e3?source=rss------data_science-5)
-- [use](https://medium.com/@s68526992/use-76e185c21b12?source=rss------data_science-5)
-- [Benefits of Trading OTC?](https://medium.com/@stewart_gary1176663763/benefits-of-trading-otc-efc96dff68ef?source=rss------data_science-5)
+- [Data Analysis using Python 04 — Finding One of Competitive Strategy of Disney Movies ： Product…](https://medium.com/@tkuzener/data-analysis-using-python-04-finding-one-of-competitive-strategy-of-disney-movies-product-21af71da2faa?source=rss------data_science-5)
+- [Will First Contact Be a Nightmare or a New Dawn?](https://medium.com/@didikurniawanmade/will-first-contact-be-a-nightmare-or-a-new-dawn-29f8fff2fe05?source=rss------data_science-5)
+- [Deploy Math OCR ONNX Model In Python Flask Web App](https://towardsdatascience.com/deploy-math-ocr-onnx-model-in-python-flask-web-app-fd2aab576eb0?source=rss------data_science-5)
+- [The Allure of Jasmine Flowers](https://medium.com/@zeemalik708/the-allure-of-jasmine-flowers-5f979ef51f54?source=rss------data_science-5)
+- [The Brutal Truth About My Journey; And How I’m Redefining Agriculture Forever.](https://medium.com/@paulokoyeofficial/the-brutal-truth-about-my-journey-and-how-im-redefining-agriculture-forever-03a911af6952?source=rss------data_science-5)
+- [Gjfgjhkl](https://medium.com/@nwtw7317/gjfgjhkl-553fbc80740a?source=rss------data_science-5)
+- [Gjfytkj](https://medium.com/@nwtw7317/gjfytkj-77470deb560f?source=rss------data_science-5)
+- [Fghfgh](https://medium.com/@nwtw7317/fghfgh-8f56d9b12723?source=rss------data_science-5)
+- [Building Your Perfect Portfolio with Modern Portfolio Theory &lpar;MPT&rpar;](https://medium.com/@kridtapon/building-your-perfect-portfolio-with-modern-portfolio-theory-mpt-0bd973b57d65?source=rss------data_science-5)
+- [Building a Diabetes Prediction System: A Step-by-Step Guide](https://medium.com/@shashankmankala/building-a-diabetes-prediction-system-a-step-by-step-guide-a293e4b9a9fd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
