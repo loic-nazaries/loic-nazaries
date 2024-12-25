@@ -123,11 +123,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [I’m Doing the Advent of Code 2024 in Python — Day 4](https://towardsdatascience.com/im-doing-the-advent-of-code-2024-in-python-day-4-f0dacf4529a6?source=rss-2cf6b549448------2)
 - [I’m Doing the Advent of Code 2024 in Python — Day 3](https://towardsdatascience.com/im-doing-the-advent-of-code-2024-in-python-day-3-3a3bdf845685?source=rss-2cf6b549448------2)
 - [I’m Doing the Advent of Code 2024 in Python — Day 2](https://towardsdatascience.com/im-doing-the-advent-of-code-2024-in-python-day-2-6d452447ba0f?source=rss-2cf6b549448------2)
 - [I’m Doing the Advent of Code 2024 in Python — Day 1](https://towardsdatascience.com/im-doing-the-advent-of-code-2024-in-python-day-1-8a9ea6ca6d3f?source=rss-2cf6b549448------2)
 - [How to Get Pull Request Data Using GitHub API](https://towardsdatascience.com/how-to-get-pull-request-data-using-github-api-b91891cbd54c?source=rss-2cf6b549448------2)
-- [Let’s Revisit Case-When in Different Libraries Including the New Player: Pandas](https://towardsdatascience.com/lets-revisit-case-when-in-different-libraries-including-the-new-player-pandas-8c4febb979ba?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
