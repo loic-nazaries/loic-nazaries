@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Analysis using Python 04 — Finding One of Competitive Strategy of Disney Movies ： Product…](https://medium.com/@tkuzener/data-analysis-using-python-04-finding-one-of-competitive-strategy-of-disney-movies-product-21af71da2faa?source=rss------data_science-5)
-- [Will First Contact Be a Nightmare or a New Dawn?](https://medium.com/@didikurniawanmade/will-first-contact-be-a-nightmare-or-a-new-dawn-29f8fff2fe05?source=rss------data_science-5)
-- [Deploy Math OCR ONNX Model In Python Flask Web App](https://towardsdatascience.com/deploy-math-ocr-onnx-model-in-python-flask-web-app-fd2aab576eb0?source=rss------data_science-5)
-- [The Allure of Jasmine Flowers](https://medium.com/@zeemalik708/the-allure-of-jasmine-flowers-5f979ef51f54?source=rss------data_science-5)
-- [The Brutal Truth About My Journey; And How I’m Redefining Agriculture Forever.](https://medium.com/@paulokoyeofficial/the-brutal-truth-about-my-journey-and-how-im-redefining-agriculture-forever-03a911af6952?source=rss------data_science-5)
-- [Gjfgjhkl](https://medium.com/@nwtw7317/gjfgjhkl-553fbc80740a?source=rss------data_science-5)
-- [Gjfytkj](https://medium.com/@nwtw7317/gjfytkj-77470deb560f?source=rss------data_science-5)
-- [Fghfgh](https://medium.com/@nwtw7317/fghfgh-8f56d9b12723?source=rss------data_science-5)
-- [Building Your Perfect Portfolio with Modern Portfolio Theory &lpar;MPT&rpar;](https://medium.com/@kridtapon/building-your-perfect-portfolio-with-modern-portfolio-theory-mpt-0bd973b57d65?source=rss------data_science-5)
-- [Building a Diabetes Prediction System: A Step-by-Step Guide](https://medium.com/@shashankmankala/building-a-diabetes-prediction-system-a-step-by-step-guide-a293e4b9a9fd?source=rss------data_science-5)
+- [یہ دنیا کے مختلف ممالک کے بہترین کہاوتیں ہیں:
+&lpar;1&rpar; : &quot;جو اپنے پڑوسی کے گھر کو ہلاتا ہے، اس کا اپنا…](https://medium.com/@adi.5591122/%DB%8C%DB%81-%D8%AF%D9%86%DB%8C%D8%A7-%DA%A9%DB%92-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D9%85%D9%85%D8%A7%D9%84%DA%A9-%DA%A9%DB%92-%D8%A8%DB%81%D8%AA%D8%B1%DB%8C%D9%86-%DA%A9%DB%81%D8%A7%D9%88%D8%AA%DB%8C%DA%BA-%DB%81%DB%8C%DA%BA-1-%D8%AC%D9%88-%D8%A7%D9%BE%D9%86%DB%92-%D9%BE%DA%91%D9%88%D8%B3%DB%8C-%DA%A9%DB%92-%DA%AF%DA%BE%D8%B1-%DA%A9%D9%88-%DB%81%D9%84%D8%A7%D8%AA%D8%A7-%DB%81%DB%92-%D8%A7%D8%B3-%DA%A9%D8%A7-%D8%A7%D9%BE%D9%86%D8%A7-63a2954df212?source=rss------data_science-5)
+- [Five programing Languages for Data Science](https://medium.com/@fiazbaloch255/five-programing-languages-for-data-science-2e92be768df5?source=rss------data_science-5)
+- [AI in Edge Computing](https://medium.com/@digitalproductssale89/ai-in-edge-computing-7d0d7b47861a?source=rss------data_science-5)
+- [What is Data science?](https://medium.com/@hajiali2345098/what-is-data-science-d5f201696f91?source=rss------data_science-5)
+- [gdhddhhdhdhdd](https://medium.com/@narwynahyd2/gdhddhhdhdhdd-b7600de7c34c?source=rss------data_science-5)
+- [#شماره خاله #شماره خاله تهران #شماره خاله اصفهان #شماره خاله شیراز #شماره خاله کرج #شماره خاله…](https://medium.com/@narwynahyd2/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-533efc36211b?source=rss------data_science-5)
+- [sghdhdhjdjdjddj](https://medium.com/@narwynahyd2/sghdhdhjdjdjddj-c91ba230ab6a?source=rss------data_science-5)
+- [Optimizing Bitcoin Trading Strategies with MACD](https://medium.com/@kridtapon/optimizing-bitcoin-trading-strategies-with-macd-24299044b8d7?source=rss------data_science-5)
+- [#شماره خاله تهران #شماره خاله اصفهان #شماره خاله شاهرود شماره #خاله شیراز #شماره خاله گرگان #شماره…](https://medium.com/@shmarhkhalhasfp071/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-951e94d4f151?source=rss------data_science-5)
+- [#شماره خاله تهران #شماره خاله اصفهان #شماره خاله شاهرود شماره #خاله شیراز #شماره خاله گرگان #شماره…](https://medium.com/@shmarhkhalhasfp071/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5e17db757985?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
