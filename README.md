@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [یہ دنیا کے مختلف ممالک کے بہترین کہاوتیں ہیں:
-&lpar;1&rpar; : &quot;جو اپنے پڑوسی کے گھر کو ہلاتا ہے، اس کا اپنا…](https://medium.com/@adi.5591122/%DB%8C%DB%81-%D8%AF%D9%86%DB%8C%D8%A7-%DA%A9%DB%92-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D9%85%D9%85%D8%A7%D9%84%DA%A9-%DA%A9%DB%92-%D8%A8%DB%81%D8%AA%D8%B1%DB%8C%D9%86-%DA%A9%DB%81%D8%A7%D9%88%D8%AA%DB%8C%DA%BA-%DB%81%DB%8C%DA%BA-1-%D8%AC%D9%88-%D8%A7%D9%BE%D9%86%DB%92-%D9%BE%DA%91%D9%88%D8%B3%DB%8C-%DA%A9%DB%92-%DA%AF%DA%BE%D8%B1-%DA%A9%D9%88-%DB%81%D9%84%D8%A7%D8%AA%D8%A7-%DB%81%DB%92-%D8%A7%D8%B3-%DA%A9%D8%A7-%D8%A7%D9%BE%D9%86%D8%A7-63a2954df212?source=rss------data_science-5)
-- [Five programing Languages for Data Science](https://medium.com/@fiazbaloch255/five-programing-languages-for-data-science-2e92be768df5?source=rss------data_science-5)
-- [AI in Edge Computing](https://medium.com/@digitalproductssale89/ai-in-edge-computing-7d0d7b47861a?source=rss------data_science-5)
-- [What is Data science?](https://medium.com/@hajiali2345098/what-is-data-science-d5f201696f91?source=rss------data_science-5)
-- [gdhddhhdhdhdd](https://medium.com/@narwynahyd2/gdhddhhdhdhdd-b7600de7c34c?source=rss------data_science-5)
-- [#شماره خاله #شماره خاله تهران #شماره خاله اصفهان #شماره خاله شیراز #شماره خاله کرج #شماره خاله…](https://medium.com/@narwynahyd2/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-533efc36211b?source=rss------data_science-5)
-- [sghdhdhjdjdjddj](https://medium.com/@narwynahyd2/sghdhdhjdjdjddj-c91ba230ab6a?source=rss------data_science-5)
-- [Optimizing Bitcoin Trading Strategies with MACD](https://medium.com/@kridtapon/optimizing-bitcoin-trading-strategies-with-macd-24299044b8d7?source=rss------data_science-5)
-- [#شماره خاله تهران #شماره خاله اصفهان #شماره خاله شاهرود شماره #خاله شیراز #شماره خاله گرگان #شماره…](https://medium.com/@shmarhkhalhasfp071/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-951e94d4f151?source=rss------data_science-5)
-- [#شماره خاله تهران #شماره خاله اصفهان #شماره خاله شاهرود شماره #خاله شیراز #شماره خاله گرگان #شماره…](https://medium.com/@shmarhkhalhasfp071/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5e17db757985?source=rss------data_science-5)
+- [Python in 2024: Faster, more powerful, and more popular than ever](https://medium.com/majordigest/python-in-2024-faster-more-powerful-and-more-popular-than-ever-74e778654761?source=rss------data_science-5)
+- [Shd](https://medium.com/@danshjwdkhtr484/shd-ee514991a06b?source=rss------data_science-5)
+- [Djdh](https://medium.com/@thranparsshmarhkhalh76/djdh-e54cf1434553?source=rss------data_science-5)
+- [Dhfx](https://medium.com/@thranparsshmarhkhalh76/dhfx-7f66e3e836f3?source=rss------data_science-5)
+- [Cybersecurity and AI](https://medium.com/@digitalproductssale89/cybersecurity-and-ai-187f5953292b?source=rss------data_science-5)
+- [Dhdh](https://medium.com/@thranparsshmarhkhalh76/dhdh-b610b13d26c9?source=rss------data_science-5)
+- [Food that rids the body of toxins..](https://medium.com/@rashid786/food-that-rids-the-body-of-toxins-ecb6feceb7fc?source=rss------data_science-5)
+- [The Fate of the Universe: Will Everything End?](https://medium.com/@didikurniawanmade/the-fate-of-the-universe-will-everything-end-2b65d0128739?source=rss------data_science-5)
+- [Cloud Security: Is Your Data Really Safe in the Cloud?](https://medium.com/@olubowalejohn/cloud-security-is-your-data-really-safe-in-the-cloud-bfb318d982a6?source=rss------data_science-5)
+- [Shhs](https://medium.com/@mhmdrdashhr/shhs-a4afd9877044?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
