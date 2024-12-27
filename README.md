@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Python in 2024: Faster, more powerful, and more popular than ever](https://medium.com/majordigest/python-in-2024-faster-more-powerful-and-more-popular-than-ever-74e778654761?source=rss------data_science-5)
-- [Shd](https://medium.com/@danshjwdkhtr484/shd-ee514991a06b?source=rss------data_science-5)
-- [Djdh](https://medium.com/@thranparsshmarhkhalh76/djdh-e54cf1434553?source=rss------data_science-5)
-- [Dhfx](https://medium.com/@thranparsshmarhkhalh76/dhfx-7f66e3e836f3?source=rss------data_science-5)
-- [Cybersecurity and AI](https://medium.com/@digitalproductssale89/cybersecurity-and-ai-187f5953292b?source=rss------data_science-5)
-- [Dhdh](https://medium.com/@thranparsshmarhkhalh76/dhdh-b610b13d26c9?source=rss------data_science-5)
-- [Food that rids the body of toxins..](https://medium.com/@rashid786/food-that-rids-the-body-of-toxins-ecb6feceb7fc?source=rss------data_science-5)
-- [The Fate of the Universe: Will Everything End?](https://medium.com/@didikurniawanmade/the-fate-of-the-universe-will-everything-end-2b65d0128739?source=rss------data_science-5)
-- [Cloud Security: Is Your Data Really Safe in the Cloud?](https://medium.com/@olubowalejohn/cloud-security-is-your-data-really-safe-in-the-cloud-bfb318d982a6?source=rss------data_science-5)
-- [Shhs](https://medium.com/@mhmdrdashhr/shhs-a4afd9877044?source=rss------data_science-5)
+- [Manmohan Singh](https://medium.com/@syedalthaf_59/manmohan-singh-cfcf75c7eea0?source=rss------data_science-5)
+- [jjxjc](https://medium.com/@mmnwnzn97/jjxjc-bc9891d886b5?source=rss------data_science-5)
+- [kxkxk,](https://medium.com/@mmnwnzn97/kxkxk-31cedfa8886b?source=rss------data_science-5)
+- [nxjxj](https://medium.com/@mmnwnzn97/nxjxj-2b62663859f9?source=rss------data_science-5)
+- [mxnxj](https://medium.com/@pwkchnxkc/mxnxj-c46a537ba36b?source=rss------data_science-5)
+- [bvnb](https://medium.com/@pwkchnxkc/bvnb-3a6833f0f439?source=rss------data_science-5)
+- [nxbxj](https://medium.com/@pwkchnxkc/nxbxj-0e331685929c?source=rss------data_science-5)
+- [Smart Cities and AI](https://medium.com/@digitalproductssale89/smart-cities-and-ai-ea0378810662?source=rss------data_science-5)
+- [Top 10 SQL Questions To Ace EVERY Data Analytics Interview!](https://anmol3015.medium.com/top-10-sql-questions-to-ace-every-data-analytics-interview-d417ecd2fb0d?source=rss------data_science-5)
+- [How Data Science Transforms You into an Experimenter Extraordinaire: A Candid Rant](https://medium.com/@Chioma_Kamalu/how-data-science-transforms-you-into-an-experimenter-extraordinaire-a-candid-rant-4bc1e4f08d92?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
