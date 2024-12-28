@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Manmohan Singh](https://medium.com/@syedalthaf_59/manmohan-singh-cfcf75c7eea0?source=rss------data_science-5)
-- [jjxjc](https://medium.com/@mmnwnzn97/jjxjc-bc9891d886b5?source=rss------data_science-5)
-- [kxkxk,](https://medium.com/@mmnwnzn97/kxkxk-31cedfa8886b?source=rss------data_science-5)
-- [nxjxj](https://medium.com/@mmnwnzn97/nxjxj-2b62663859f9?source=rss------data_science-5)
-- [mxnxj](https://medium.com/@pwkchnxkc/mxnxj-c46a537ba36b?source=rss------data_science-5)
-- [bvnb](https://medium.com/@pwkchnxkc/bvnb-3a6833f0f439?source=rss------data_science-5)
-- [nxbxj](https://medium.com/@pwkchnxkc/nxbxj-0e331685929c?source=rss------data_science-5)
-- [Smart Cities and AI](https://medium.com/@digitalproductssale89/smart-cities-and-ai-ea0378810662?source=rss------data_science-5)
-- [Top 10 SQL Questions To Ace EVERY Data Analytics Interview!](https://anmol3015.medium.com/top-10-sql-questions-to-ace-every-data-analytics-interview-d417ecd2fb0d?source=rss------data_science-5)
-- [How Data Science Transforms You into an Experimenter Extraordinaire: A Candid Rant](https://medium.com/@Chioma_Kamalu/how-data-science-transforms-you-into-an-experimenter-extraordinaire-a-candid-rant-4bc1e4f08d92?source=rss------data_science-5)
+- [Can image models understand what we’re asking for?](https://medium.com/@mikeyoung_97230/can-image-models-understand-what-were-asking-for-159188290874?source=rss------data_science-5)
+- [In the ever-evolving landscape of technology, the fusion of Artificial Intelligence &lpar;AI&rpar; and Data…](https://medium.com/@r.premprasad/in-the-ever-evolving-landscape-of-technology-the-fusion-of-artificial-intelligence-ai-and-data-0db2aeff7ac8?source=rss------data_science-5)
+- [Dónde están los árboles de Navidad en Escape From Tarkow](https://medium.com/@sirtrends/d%C3%B3nde-est%C3%A1n-los-%C3%A1rboles-de-navidad-en-escape-from-tarkow-d4c397cb4eee?source=rss------data_science-5)
+- [How I Made $500 a Week with AI Influencers](https://medium.com/@Wealth-Link/how-i-made-500-a-week-with-ai-influencers-1d47526da370?source=rss------data_science-5)
+- [“Why Shell Scripting is the Superpower You Didn’t Know You Needed in Tech”](https://medium.com/aardvark-infinity/why-shell-scripting-is-the-superpower-you-didnt-know-you-needed-in-tech-5565c4c842cf?source=rss------data_science-5)
+- [How to Create a Mapping in Informatica Cloud Between Salesforce Account Object and a Flat File](https://medium.com/cloud-integration-tech-talks/how-to-create-a-mapping-in-informatica-cloud-between-salesforce-account-object-and-a-flat-file-1de476d97f60?source=rss------data_science-5)
+- [No-Code, No Problem? Unpacking the Hype and Challenges of Analytics Tools with David Sweenor](https://medium.com/@gib.bassett/no-code-no-problem-unpacking-the-hype-and-challenges-of-analytics-tools-with-david-sweenor-6f664182a739?source=rss------data_science-5)
+- [Different Ways to Create PySpark DataFrames: A Comprehensive Guide](https://medium.com/@omkarkatta/different-ways-to-create-pyspark-dataframes-a-comprehensive-guide-31ee5ebb773d?source=rss------data_science-5)
+- [Descriptive Statistics using Python](https://medium.com/@zh-lin/descriptive-statistics-using-python-2a3930c32b64?source=rss------data_science-5)
+- [Stock Data and Forecast App Powered by  LSTM and Streamlit](https://medium.com/@nelson-ng/stock-data-and-forecast-app-powered-by-lstm-and-streamlit-3fae679443c7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
