@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Can image models understand what we’re asking for?](https://medium.com/@mikeyoung_97230/can-image-models-understand-what-were-asking-for-159188290874?source=rss------data_science-5)
-- [In the ever-evolving landscape of technology, the fusion of Artificial Intelligence &lpar;AI&rpar; and Data…](https://medium.com/@r.premprasad/in-the-ever-evolving-landscape-of-technology-the-fusion-of-artificial-intelligence-ai-and-data-0db2aeff7ac8?source=rss------data_science-5)
-- [Dónde están los árboles de Navidad en Escape From Tarkow](https://medium.com/@sirtrends/d%C3%B3nde-est%C3%A1n-los-%C3%A1rboles-de-navidad-en-escape-from-tarkow-d4c397cb4eee?source=rss------data_science-5)
-- [How I Made $500 a Week with AI Influencers](https://medium.com/@Wealth-Link/how-i-made-500-a-week-with-ai-influencers-1d47526da370?source=rss------data_science-5)
-- [“Why Shell Scripting is the Superpower You Didn’t Know You Needed in Tech”](https://medium.com/aardvark-infinity/why-shell-scripting-is-the-superpower-you-didnt-know-you-needed-in-tech-5565c4c842cf?source=rss------data_science-5)
-- [How to Create a Mapping in Informatica Cloud Between Salesforce Account Object and a Flat File](https://medium.com/cloud-integration-tech-talks/how-to-create-a-mapping-in-informatica-cloud-between-salesforce-account-object-and-a-flat-file-1de476d97f60?source=rss------data_science-5)
-- [No-Code, No Problem? Unpacking the Hype and Challenges of Analytics Tools with David Sweenor](https://medium.com/@gib.bassett/no-code-no-problem-unpacking-the-hype-and-challenges-of-analytics-tools-with-david-sweenor-6f664182a739?source=rss------data_science-5)
-- [Different Ways to Create PySpark DataFrames: A Comprehensive Guide](https://medium.com/@omkarkatta/different-ways-to-create-pyspark-dataframes-a-comprehensive-guide-31ee5ebb773d?source=rss------data_science-5)
-- [Descriptive Statistics using Python](https://medium.com/@zh-lin/descriptive-statistics-using-python-2a3930c32b64?source=rss------data_science-5)
-- [Stock Data and Forecast App Powered by  LSTM and Streamlit](https://medium.com/@nelson-ng/stock-data-and-forecast-app-powered-by-lstm-and-streamlit-3fae679443c7?source=rss------data_science-5)
+- [Say Goodbye to Loops in Python, and Welcome Vectorization!](https://medium.com/codex/say-goodbye-to-loops-in-python-and-welcome-vectorization-c4f4f629334f?source=rss------data_science-5)
+- [Insights from Stack Overflow Surveys &lpar;2021–2024&rpar;](https://medium.com/@gracorabello/insights-from-stack-overflow-surveys-2021-2024-7a3dff8d7e2c?source=rss------data_science-5)
+- [One way ANOVA made Easy](https://medium.com/@llvloath/one-way-anova-made-easy-54621488e944?source=rss------data_science-5)
+- [Stock Trading Made Simple](https://medium.com/@kridtapon/stock-trading-made-simple-2553b1645226?source=rss------data_science-5)
+- [Predictive Modeling for Lung Cancer Survival: A Technical Approach](https://medium.com/@mdmahin3/predictive-modeling-for-lung-cancer-survival-a-technical-approach-3b10ee31e81f?source=rss------data_science-5)
+- [Here’s how I created a satellite tracker for free!](https://medium.com/@prashant.tandan528/heres-how-i-created-a-satellite-tracker-for-free-bea1d12bfb6a?source=rss------data_science-5)
+- [Step by Step: Becoming a Data Analyst by 2025](https://medium.com/@riteshgupta.ai/step-by-step-becoming-a-data-analyst-by-2025-ef3627d05af2?source=rss------data_science-5)
+- [Mastering PySpark: A Comprehensive Guide to Key Syntax and Concepts‍](https://medium.com/@akshathakulal/mastering-pyspark-a-comprehensive-guide-to-key-syntax-and-concepts-81574da63fc1?source=rss------data_science-5)
+- [nxnxhx](https://medium.com/@slamtzwdgmailcom/nxnxhx-2e5eb9f7273a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
