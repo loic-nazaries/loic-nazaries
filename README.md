@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Say Goodbye to Loops in Python, and Welcome Vectorization!](https://medium.com/codex/say-goodbye-to-loops-in-python-and-welcome-vectorization-c4f4f629334f?source=rss------data_science-5)
-- [Insights from Stack Overflow Surveys &lpar;2021–2024&rpar;](https://medium.com/@gracorabello/insights-from-stack-overflow-surveys-2021-2024-7a3dff8d7e2c?source=rss------data_science-5)
-- [One way ANOVA made Easy](https://medium.com/@llvloath/one-way-anova-made-easy-54621488e944?source=rss------data_science-5)
-- [Stock Trading Made Simple](https://medium.com/@kridtapon/stock-trading-made-simple-2553b1645226?source=rss------data_science-5)
-- [Predictive Modeling for Lung Cancer Survival: A Technical Approach](https://medium.com/@mdmahin3/predictive-modeling-for-lung-cancer-survival-a-technical-approach-3b10ee31e81f?source=rss------data_science-5)
-- [Here’s how I created a satellite tracker for free!](https://medium.com/@prashant.tandan528/heres-how-i-created-a-satellite-tracker-for-free-bea1d12bfb6a?source=rss------data_science-5)
-- [Step by Step: Becoming a Data Analyst by 2025](https://medium.com/@riteshgupta.ai/step-by-step-becoming-a-data-analyst-by-2025-ef3627d05af2?source=rss------data_science-5)
-- [Mastering PySpark: A Comprehensive Guide to Key Syntax and Concepts‍](https://medium.com/@akshathakulal/mastering-pyspark-a-comprehensive-guide-to-key-syntax-and-concepts-81574da63fc1?source=rss------data_science-5)
-- [nxnxhx](https://medium.com/@slamtzwdgmailcom/nxnxhx-2e5eb9f7273a?source=rss------data_science-5)
+- [Hhjhjyy](https://medium.com/@hjj167697/hhjhhhj-c54b7822411f?source=rss------data_science-5)
+- [Hjjyyyi](https://medium.com/@hjj167697/hjjyyyi-40c5791c94a0?source=rss------data_science-5)
+- [Ghhghhh](https://medium.com/@hjj167697/hhjhhjkj-57ddf6aca5d2?source=rss------data_science-5)
+- [5 Fascinating Facts About Data Science](https://medium.com/@justuscrum36/5-fascinating-facts-about-data-science-8aaf71a882a9?source=rss------data_science-5)
+- [भारत के प्रधानमंत्री](https://medium.com/@Veeru_303/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4-%E0%A4%95%E0%A5%87-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80-e22c90151a1a?source=rss------data_science-5)
+- [Uyrewdghcxz](https://medium.com/@dafkhalhkwchk/uyrewdghcxz-e6c14579758c?source=rss------data_science-5)
+- [Society is Dead: The Fragmentation of Human Connection](https://medium.com/@omprakash_sau01/society-is-dead-the-fragmentation-of-human-connection-e75916440d92?source=rss------data_science-5)
+- [Utreqafgvcxz](https://medium.com/@dafkhalhkwchk/utreqafgvcxz-b82fe1355ddd?source=rss------data_science-5)
+- [Nbvxzssghgd](https://medium.com/@dafkhalhkwchk/nbvxzssghgd-ba89bb5b3e37?source=rss------data_science-5)
+- [Hshs](https://medium.com/@mhmdrdashhr/hshs-7df39f1f11a5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
