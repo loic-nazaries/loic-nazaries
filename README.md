@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Hhjhjyy](https://medium.com/@hjj167697/hhjhhhj-c54b7822411f?source=rss------data_science-5)
-- [Hjjyyyi](https://medium.com/@hjj167697/hjjyyyi-40c5791c94a0?source=rss------data_science-5)
-- [Ghhghhh](https://medium.com/@hjj167697/hhjhhjkj-57ddf6aca5d2?source=rss------data_science-5)
-- [5 Fascinating Facts About Data Science](https://medium.com/@justuscrum36/5-fascinating-facts-about-data-science-8aaf71a882a9?source=rss------data_science-5)
-- [भारत के प्रधानमंत्री](https://medium.com/@Veeru_303/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4-%E0%A4%95%E0%A5%87-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80-e22c90151a1a?source=rss------data_science-5)
-- [Uyrewdghcxz](https://medium.com/@dafkhalhkwchk/uyrewdghcxz-e6c14579758c?source=rss------data_science-5)
-- [Society is Dead: The Fragmentation of Human Connection](https://medium.com/@omprakash_sau01/society-is-dead-the-fragmentation-of-human-connection-e75916440d92?source=rss------data_science-5)
-- [Utreqafgvcxz](https://medium.com/@dafkhalhkwchk/utreqafgvcxz-b82fe1355ddd?source=rss------data_science-5)
-- [Nbvxzssghgd](https://medium.com/@dafkhalhkwchk/nbvxzssghgd-ba89bb5b3e37?source=rss------data_science-5)
-- [Hshs](https://medium.com/@mhmdrdashhr/hshs-7df39f1f11a5?source=rss------data_science-5)
+- [The New Year is the time or day at which a new calendar year begins and the calendar’s year count…](https://medium.com/@netrambujot/the-new-year-is-the-time-or-day-at-which-a-new-calendar-year-begins-and-the-calendars-year-count-1d867b13f3f0?source=rss------data_science-5)
+- [Data Science Roadmap 2025](https://python.plainenglish.io/data-science-roadmap-2025-a0e9f40a9877?source=rss------data_science-5)
+- [Automating Electrical Engineering Text Analysis with Named Entity Recognition &lpar;NER&rpar; — Part 2](https://medium.com/@d.isham.ai93/automating-electrical-engineering-text-analysis-with-named-entity-recognition-ner-part-2-add03cd99982?source=rss------data_science-5)
+- [Unlock the Power of Deep Learning with PyTorch](https://blog.stackademic.com/unlock-the-power-of-deep-learning-with-pytorch-598f66373954?source=rss------data_science-5)
+- [The Rise Of AI Personal Assistants](https://medium.com/@alisonpedrini/the-rise-of-ai-personal-assistants-ea514fa80892?source=rss------data_science-5)
+- [Driving the Future: How AI Powers Autonomous Vehicles](https://medium.com/@Tech_Titans/driving-the-future-how-ai-powers-autonomous-vehicles-b0ea08e2960d?source=rss------data_science-5)
+- [Object Detection, Tracking and Counting Using YOLOv11, ByteTrack, and Supervision](https://ai.gopubby.com/object-detection-tracking-and-counting-using-yolov11-bytetrack-and-supervision-c1eb88c2f5c9?source=rss------data_science-5)
+- [How I Built a Profitable Newsletter Business in 30 Days](https://medium.com/@Smart-Income/how-i-built-a-profitable-newsletter-business-in-30-days-356f3ab5c7c7?source=rss------data_science-5)
+- [Inside Snowflake Notebooks: A Data Professional’s Honest Review](https://staszkiewicz.medium.com/inside-snowflake-notebooks-a-data-professionals-honest-review-1e4c41bc048f?source=rss------data_science-5)
+- [Techniques to Fine-Tune Large Language Models &lpar;LLMs&rpar;](https://python.plainenglish.io/techniques-to-fine-tune-large-language-models-llms-f349d2d7dd08?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
