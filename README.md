@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The New Year is the time or day at which a new calendar year begins and the calendar’s year count…](https://medium.com/@netrambujot/the-new-year-is-the-time-or-day-at-which-a-new-calendar-year-begins-and-the-calendars-year-count-1d867b13f3f0?source=rss------data_science-5)
-- [Data Science Roadmap 2025](https://python.plainenglish.io/data-science-roadmap-2025-a0e9f40a9877?source=rss------data_science-5)
-- [Automating Electrical Engineering Text Analysis with Named Entity Recognition &lpar;NER&rpar; — Part 2](https://medium.com/@d.isham.ai93/automating-electrical-engineering-text-analysis-with-named-entity-recognition-ner-part-2-add03cd99982?source=rss------data_science-5)
-- [Unlock the Power of Deep Learning with PyTorch](https://blog.stackademic.com/unlock-the-power-of-deep-learning-with-pytorch-598f66373954?source=rss------data_science-5)
-- [The Rise Of AI Personal Assistants](https://medium.com/@alisonpedrini/the-rise-of-ai-personal-assistants-ea514fa80892?source=rss------data_science-5)
-- [Driving the Future: How AI Powers Autonomous Vehicles](https://medium.com/@Tech_Titans/driving-the-future-how-ai-powers-autonomous-vehicles-b0ea08e2960d?source=rss------data_science-5)
-- [Object Detection, Tracking and Counting Using YOLOv11, ByteTrack, and Supervision](https://ai.gopubby.com/object-detection-tracking-and-counting-using-yolov11-bytetrack-and-supervision-c1eb88c2f5c9?source=rss------data_science-5)
-- [How I Built a Profitable Newsletter Business in 30 Days](https://medium.com/@Smart-Income/how-i-built-a-profitable-newsletter-business-in-30-days-356f3ab5c7c7?source=rss------data_science-5)
-- [Inside Snowflake Notebooks: A Data Professional’s Honest Review](https://staszkiewicz.medium.com/inside-snowflake-notebooks-a-data-professionals-honest-review-1e4c41bc048f?source=rss------data_science-5)
-- [Techniques to Fine-Tune Large Language Models &lpar;LLMs&rpar;](https://python.plainenglish.io/techniques-to-fine-tune-large-language-models-llms-f349d2d7dd08?source=rss------data_science-5)
+- [How One App Helped Me Create Engaging Kids’ Books](https://medium.com/@Alera-Sky/how-one-app-helped-me-create-engaging-kids-books-6472978cf4e5?source=rss------data_science-5)
+- [2024 Data Science Trends — Using These to Grow Smarter in 2025](https://medium.com/@ensun.pak/2024-data-science-trends-using-these-to-grow-smarter-in-2025-2573e48ff0cd?source=rss------data_science-5)
+- [Data Science Setup Guide for “M” series Macs &lpar;Commentary Free&rpar;](https://maribolton.medium.com/data-science-setup-guide-for-m-series-macs-commentary-free-7441829aed00?source=rss------data_science-5)
+- [Hkghjvnk](https://medium.com/@krsmysmyra/hkghjvnk-46f09641f94a?source=rss------data_science-5)
+- [Hfjjvjmk](https://medium.com/@krsmysmyra/hfjjvjmk-a8acdf01e47d?source=rss------data_science-5)
+- [Hkhgknb](https://medium.com/@krsmysmyra/hkhgknb-b5e3fc8deba8?source=rss------data_science-5)
+- [Reflections 2024: Insights from a Data &amp; IT Consulting Career](https://medium.com/@cristinaps25/reflections-2024-insights-from-a-data-it-consulting-career-76cdd7704171?source=rss------data_science-5)
+- [Udue](https://medium.com/@thrandkhtr/udue-dbb90973ca7c?source=rss------data_science-5)
+- [Chi-Squared Test: Comparing Variations Through Soccer](https://towardsdatascience.com/chi-squared-test-comparing-variations-through-soccer-e291ffe22c2f?source=rss------data_science-5)
+- [Fjdj](https://medium.com/@thrandkhtr/fjdj-7b0e90d10738?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
