@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How One App Helped Me Create Engaging Kids’ Books](https://medium.com/@Alera-Sky/how-one-app-helped-me-create-engaging-kids-books-6472978cf4e5?source=rss------data_science-5)
-- [2024 Data Science Trends — Using These to Grow Smarter in 2025](https://medium.com/@ensun.pak/2024-data-science-trends-using-these-to-grow-smarter-in-2025-2573e48ff0cd?source=rss------data_science-5)
-- [Data Science Setup Guide for “M” series Macs &lpar;Commentary Free&rpar;](https://maribolton.medium.com/data-science-setup-guide-for-m-series-macs-commentary-free-7441829aed00?source=rss------data_science-5)
-- [Hkghjvnk](https://medium.com/@krsmysmyra/hkghjvnk-46f09641f94a?source=rss------data_science-5)
-- [Hfjjvjmk](https://medium.com/@krsmysmyra/hfjjvjmk-a8acdf01e47d?source=rss------data_science-5)
-- [Hkhgknb](https://medium.com/@krsmysmyra/hkhgknb-b5e3fc8deba8?source=rss------data_science-5)
-- [Reflections 2024: Insights from a Data &amp; IT Consulting Career](https://medium.com/@cristinaps25/reflections-2024-insights-from-a-data-it-consulting-career-76cdd7704171?source=rss------data_science-5)
-- [Udue](https://medium.com/@thrandkhtr/udue-dbb90973ca7c?source=rss------data_science-5)
-- [Chi-Squared Test: Comparing Variations Through Soccer](https://towardsdatascience.com/chi-squared-test-comparing-variations-through-soccer-e291ffe22c2f?source=rss------data_science-5)
-- [Fjdj](https://medium.com/@thrandkhtr/fjdj-7b0e90d10738?source=rss------data_science-5)
+- [shshhs](https://medium.com/@s29586546/shshhs-85a5fc29fcc3?source=rss------data_science-5)
+- [yegye](https://medium.com/@s29586546/yegye-2875230b6007?source=rss------data_science-5)
+- [बरबल की कहानी:](https://medium.com/@pramodjangir46/%E0%A4%AC%E0%A4%B0%E0%A4%AC%E0%A4%B2-%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A5%80-f9b1a2fbce61?source=rss------data_science-5)
+- [How Using AI MovieMaker Can Change Your Video Game](https://medium.com/@Alera-Sky/how-using-ai-moviemaker-can-change-your-video-game-86d9c0af0830?source=rss------data_science-5)
+- [hcxyyx](https://medium.com/@shmarhkhalhkrjshmarhkhalhqm30/hcxyyx-10bc1a54e869?source=rss------data_science-5)
+- [fuyfdy](https://medium.com/@shmarhkhalhkrjshmarhkhalhqm30/fuyfdy-17f939d2c952?source=rss------data_science-5)
+- [jcxy](https://medium.com/@shmarhkhalhkrjshmarhkhalhqm30/jcxy-3cae065332e1?source=rss------data_science-5)
+- [In today&#39;s fast-paced world, it&#39;s easy to get swept up in the constant rush of deadlines…](https://medium.com/@hoppermark433/in-todays-fast-paced-world-it-s-easy-to-get-swept-up-in-the-constant-rush-of-deadlines-04ac2c2df7e6?source=rss------data_science-5)
+- [शेयर मार्केट का सबसे बडा स्कैम &gt; = हर्षद मेहता स्कैम](https://medium.com/@vikrampalbishnoi/%E0%A4%B6%E0%A5%87%E0%A4%AF%E0%A4%B0-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%87%E0%A4%9F-%E0%A4%95%E0%A4%BE-%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87-%E0%A4%AC%E0%A4%A1%E0%A4%BE-%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%88%E0%A4%AE-%E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%A6-%E0%A4%AE%E0%A5%87%E0%A4%B9%E0%A4%A4%E0%A4%BE-%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%88%E0%A4%AE-1bda08ab4d36?source=rss------data_science-5)
+- [How to Become a Data Scientist in 2025](https://medium.com/@zlflynn/how-to-become-a-data-scientist-in-2025-643f4f8cab4b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
