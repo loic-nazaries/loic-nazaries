@@ -105,16 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [shshhs](https://medium.com/@s29586546/shshhs-85a5fc29fcc3?source=rss------data_science-5)
-- [yegye](https://medium.com/@s29586546/yegye-2875230b6007?source=rss------data_science-5)
-- [बरबल की कहानी:](https://medium.com/@pramodjangir46/%E0%A4%AC%E0%A4%B0%E0%A4%AC%E0%A4%B2-%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A5%80-f9b1a2fbce61?source=rss------data_science-5)
-- [How Using AI MovieMaker Can Change Your Video Game](https://medium.com/@Alera-Sky/how-using-ai-moviemaker-can-change-your-video-game-86d9c0af0830?source=rss------data_science-5)
-- [hcxyyx](https://medium.com/@shmarhkhalhkrjshmarhkhalhqm30/hcxyyx-10bc1a54e869?source=rss------data_science-5)
-- [fuyfdy](https://medium.com/@shmarhkhalhkrjshmarhkhalhqm30/fuyfdy-17f939d2c952?source=rss------data_science-5)
-- [jcxy](https://medium.com/@shmarhkhalhkrjshmarhkhalhqm30/jcxy-3cae065332e1?source=rss------data_science-5)
-- [In today&#39;s fast-paced world, it&#39;s easy to get swept up in the constant rush of deadlines…](https://medium.com/@hoppermark433/in-todays-fast-paced-world-it-s-easy-to-get-swept-up-in-the-constant-rush-of-deadlines-04ac2c2df7e6?source=rss------data_science-5)
-- [शेयर मार्केट का सबसे बडा स्कैम &gt; = हर्षद मेहता स्कैम](https://medium.com/@vikrampalbishnoi/%E0%A4%B6%E0%A5%87%E0%A4%AF%E0%A4%B0-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%87%E0%A4%9F-%E0%A4%95%E0%A4%BE-%E0%A4%B8%E0%A4%AC%E0%A4%B8%E0%A5%87-%E0%A4%AC%E0%A4%A1%E0%A4%BE-%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%88%E0%A4%AE-%E0%A4%B9%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%A6-%E0%A4%AE%E0%A5%87%E0%A4%B9%E0%A4%A4%E0%A4%BE-%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%88%E0%A4%AE-1bda08ab4d36?source=rss------data_science-5)
-- [How to Become a Data Scientist in 2025](https://medium.com/@zlflynn/how-to-become-a-data-scientist-in-2025-643f4f8cab4b?source=rss------data_science-5)
+- [The Science Behind Hallmark Movies: What Data from 478 Movies Tells Us](https://medium.com/@andrewnord/the-science-behind-hallmark-movies-what-data-from-478-movies-tells-us-4e7a61ad8901?source=rss------data_science-5)
+- [&quot;आज की दो हाइलाइट खबरें&quot;](https://medium.com/@manu_143/%E0%A4%86%E0%A4%9C-%E0%A4%95%E0%A5%80-%E0%A4%A6%E0%A5%8B-%E0%A4%B9%E0%A4%BE%E0%A4%87%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%9F-%E0%A4%96%E0%A4%AC%E0%A4%B0%E0%A5%87%E0%A4%82-0e3e8e62698c?source=rss------data_science-5)
+- [A Practical Example of How To Feature Engineer Messy Data for Binary Classification](https://medium.com/@a.paros8947/a-practical-example-of-how-to-feature-engineer-messy-data-for-binary-classification-69375038636b?source=rss------data_science-5)
+- [The Transformative Benefits of Meditation: Unlocking Inner Peace and Clarity](https://medium.com/@omprakash_sau01/the-transformative-benefits-of-meditation-unlocking-inner-peace-and-clarity-55b0ffbe59ad?source=rss------data_science-5)
+- [I just transformed “trading with AI” into a video game](https://medium.datadriveninvestor.com/i-just-transformed-trading-with-ai-into-a-video-game-537f64ff86a2?source=rss------data_science-5)
+- [Data Science Demystified: Daily Dose](https://python.plainenglish.io/data-science-demystified-daily-dose-6f4cfbb251aa?source=rss------data_science-5)
+- [The Role of Human Error in Plane Crashes
+*Introduction*
+Plane crashes are devastating events that…](https://medium.com/@azowenubic/the-role-of-human-error-in-plane-crashes-introduction-plane-crashes-are-devastating-events-that-8ea986150933?source=rss------data_science-5)
+- [qwerty](https://medium.com/@rthdytfryba/qwerty-d889600b9c20?source=rss------data_science-5)
+- [qwerty](https://medium.com/@rthdytfryba/qwerty-ec27cd320191?source=rss------data_science-5)
+- [poiuyt](https://medium.com/@rthdytfryba/poiuyt-c6acc61712d3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
