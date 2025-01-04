@@ -105,18 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Science Behind Hallmark Movies: What Data from 478 Movies Tells Us](https://medium.com/@andrewnord/the-science-behind-hallmark-movies-what-data-from-478-movies-tells-us-4e7a61ad8901?source=rss------data_science-5)
-- [&quot;आज की दो हाइलाइट खबरें&quot;](https://medium.com/@manu_143/%E0%A4%86%E0%A4%9C-%E0%A4%95%E0%A5%80-%E0%A4%A6%E0%A5%8B-%E0%A4%B9%E0%A4%BE%E0%A4%87%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%9F-%E0%A4%96%E0%A4%AC%E0%A4%B0%E0%A5%87%E0%A4%82-0e3e8e62698c?source=rss------data_science-5)
-- [A Practical Example of How To Feature Engineer Messy Data for Binary Classification](https://medium.com/@a.paros8947/a-practical-example-of-how-to-feature-engineer-messy-data-for-binary-classification-69375038636b?source=rss------data_science-5)
-- [The Transformative Benefits of Meditation: Unlocking Inner Peace and Clarity](https://medium.com/@omprakash_sau01/the-transformative-benefits-of-meditation-unlocking-inner-peace-and-clarity-55b0ffbe59ad?source=rss------data_science-5)
-- [I just transformed “trading with AI” into a video game](https://medium.datadriveninvestor.com/i-just-transformed-trading-with-ai-into-a-video-game-537f64ff86a2?source=rss------data_science-5)
-- [Data Science Demystified: Daily Dose](https://python.plainenglish.io/data-science-demystified-daily-dose-6f4cfbb251aa?source=rss------data_science-5)
-- [The Role of Human Error in Plane Crashes
-*Introduction*
-Plane crashes are devastating events that…](https://medium.com/@azowenubic/the-role-of-human-error-in-plane-crashes-introduction-plane-crashes-are-devastating-events-that-8ea986150933?source=rss------data_science-5)
-- [qwerty](https://medium.com/@rthdytfryba/qwerty-d889600b9c20?source=rss------data_science-5)
-- [qwerty](https://medium.com/@rthdytfryba/qwerty-ec27cd320191?source=rss------data_science-5)
-- [poiuyt](https://medium.com/@rthdytfryba/poiuyt-c6acc61712d3?source=rss------data_science-5)
+- [How I Built a $149K Faceless Newsletter Business in 30 Days](https://medium.com/@Alera-Sky/how-i-built-a-149k-faceless-newsletter-business-in-30-days-a6084bf7718f?source=rss------data_science-5)
+- [2024: O Ano em que os Dados Transformaram a Estratégia na RedMaxx](https://medium.com/@marcio.lins/2024-o-ano-em-que-os-dados-transformaram-a-estrat%C3%A9gia-na-redmaxx-e07907c80cca?source=rss------data_science-5)
+- [Fungi could unlock the recycling of carbon fiber](https://medium.com/@gulshanmadhur33/fungi-could-unlock-the-recycling-of-carbon-fiber-bf92cd33a624?source=rss------data_science-5)
+- [Machine Learning](https://medium.com/@akshayhitendrashah/machine-learning-ce825d5cc25d?source=rss------data_science-5)
+- [How I Built a Profitable Newsletter Business in 30 Days](https://medium.com/@Smart-Income/how-i-built-a-profitable-newsletter-business-in-30-days-4bc0e0ea6de3?source=rss------data_science-5)
+- [Machine Learning with Pycaret and the Home Price Dataset](https://medium.com/@ericbrownaustin/machine-learning-with-pycaret-and-the-home-price-dataset-cc3c199cfa1a?source=rss------data_science-5)
+- [hkcfh](https://medium.com/@bcchchgjhghc/hkcfh-af46c28f71c4?source=rss------data_science-5)
+- [ffjl](https://medium.com/@bcchchgjhghc/ffjl-1a76b13e5446?source=rss------data_science-5)
+- [cmhkcg](https://medium.com/@bcchchgjhghc/cmhkcg-f188a596ad9b?source=rss------data_science-5)
+- [cnfcj](https://medium.com/@sgmailcom_80195/cnfcj-3e391632b912?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
