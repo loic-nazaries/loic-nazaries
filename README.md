@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How I Built a $149K Faceless Newsletter Business in 30 Days](https://medium.com/@Alera-Sky/how-i-built-a-149k-faceless-newsletter-business-in-30-days-a6084bf7718f?source=rss------data_science-5)
-- [2024: O Ano em que os Dados Transformaram a Estratégia na RedMaxx](https://medium.com/@marcio.lins/2024-o-ano-em-que-os-dados-transformaram-a-estrat%C3%A9gia-na-redmaxx-e07907c80cca?source=rss------data_science-5)
-- [Fungi could unlock the recycling of carbon fiber](https://medium.com/@gulshanmadhur33/fungi-could-unlock-the-recycling-of-carbon-fiber-bf92cd33a624?source=rss------data_science-5)
-- [Machine Learning](https://medium.com/@akshayhitendrashah/machine-learning-ce825d5cc25d?source=rss------data_science-5)
-- [How I Built a Profitable Newsletter Business in 30 Days](https://medium.com/@Smart-Income/how-i-built-a-profitable-newsletter-business-in-30-days-4bc0e0ea6de3?source=rss------data_science-5)
-- [Machine Learning with Pycaret and the Home Price Dataset](https://medium.com/@ericbrownaustin/machine-learning-with-pycaret-and-the-home-price-dataset-cc3c199cfa1a?source=rss------data_science-5)
-- [hkcfh](https://medium.com/@bcchchgjhghc/hkcfh-af46c28f71c4?source=rss------data_science-5)
-- [ffjl](https://medium.com/@bcchchgjhghc/ffjl-1a76b13e5446?source=rss------data_science-5)
-- [cmhkcg](https://medium.com/@bcchchgjhghc/cmhkcg-f188a596ad9b?source=rss------data_science-5)
-- [cnfcj](https://medium.com/@sgmailcom_80195/cnfcj-3e391632b912?source=rss------data_science-5)
+- [भारत में अंग्रेजी शासन](https://medium.com/@gmsghbhtrjpt/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%85%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%9C%E0%A5%80-%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8-9ca740ba4df3?source=rss------data_science-5)
+- [### Green Technology: A Sustainable Future for the Planet](https://medium.com/@aabubaker00011/green-technology-a-sustainable-future-for-the-planet-f470e255bfea?source=rss------data_science-5)
+- [महारानी गायत्री देवी और राजा मानसिंह द्वितीय की राॅयल लव स्टोरी ♥️](https://medium.com/@manu_143/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%80-%E0%A4%97%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A5%80-%E0%A4%94%E0%A4%B0-%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%BE-%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9-%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%95%E0%A5%80-%E0%A4%B0%E0%A4%BE%E0%A5%85%E0%A4%AF%E0%A4%B2-%E0%A4%B2%E0%A4%B5-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A5%80-%EF%B8%8F-1f968d75ecdc?source=rss------data_science-5)
+- [vhchyc](https://medium.com/@shmarhkhalhshyraz973/vhchyc-bf0b3b4da48a?source=rss------data_science-5)
+- [hvhv](https://medium.com/@shmarhkhalhshyraz973/hvhv-5aac3a0e1f9c?source=rss------data_science-5)
+- [chchc](https://medium.com/@shmarhkhalhshyraz973/chchc-c22ae44c47db?source=rss------data_science-5)
+- [nanaja](https://medium.com/@shmarhkhalhardbyl43/nanaja-abb92908ca40?source=rss------data_science-5)
+- [Retail Analytics: A Power BI Solution Using Azure Cloud](https://medium.com/@ankitasaha34/retail-analytics-a-power-bi-solution-using-azure-cloud-f36536daa052?source=rss------data_science-5)
+- [jajaja](https://medium.com/@shmarhkhalhardbyl43/jajaja-6a03c01326ab?source=rss------data_science-5)
+- [namakaj](https://medium.com/@shmarhkhalhardbyl43/namakaj-cbe55a79189c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
