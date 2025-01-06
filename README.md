@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [भारत में अंग्रेजी शासन](https://medium.com/@gmsghbhtrjpt/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%85%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%9C%E0%A5%80-%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8-9ca740ba4df3?source=rss------data_science-5)
-- [### Green Technology: A Sustainable Future for the Planet](https://medium.com/@aabubaker00011/green-technology-a-sustainable-future-for-the-planet-f470e255bfea?source=rss------data_science-5)
-- [महारानी गायत्री देवी और राजा मानसिंह द्वितीय की राॅयल लव स्टोरी ♥️](https://medium.com/@manu_143/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%80-%E0%A4%97%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A5%80-%E0%A4%94%E0%A4%B0-%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%BE-%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9-%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%95%E0%A5%80-%E0%A4%B0%E0%A4%BE%E0%A5%85%E0%A4%AF%E0%A4%B2-%E0%A4%B2%E0%A4%B5-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A5%80-%EF%B8%8F-1f968d75ecdc?source=rss------data_science-5)
-- [vhchyc](https://medium.com/@shmarhkhalhshyraz973/vhchyc-bf0b3b4da48a?source=rss------data_science-5)
-- [hvhv](https://medium.com/@shmarhkhalhshyraz973/hvhv-5aac3a0e1f9c?source=rss------data_science-5)
-- [chchc](https://medium.com/@shmarhkhalhshyraz973/chchc-c22ae44c47db?source=rss------data_science-5)
-- [nanaja](https://medium.com/@shmarhkhalhardbyl43/nanaja-abb92908ca40?source=rss------data_science-5)
-- [Retail Analytics: A Power BI Solution Using Azure Cloud](https://medium.com/@ankitasaha34/retail-analytics-a-power-bi-solution-using-azure-cloud-f36536daa052?source=rss------data_science-5)
-- [jajaja](https://medium.com/@shmarhkhalhardbyl43/jajaja-6a03c01326ab?source=rss------data_science-5)
-- [namakaj](https://medium.com/@shmarhkhalhardbyl43/namakaj-cbe55a79189c?source=rss------data_science-5)
+- [tffctc](https://medium.com/@shmarhkhalhardbyl43/tffctc-7ea023d16e99?source=rss------data_science-5)
+- [wsswz](https://medium.com/@shmarhkhalhbndrbas38/wsswz-fb19e270a51d?source=rss------data_science-5)
+- [esssed](https://medium.com/@shmarhkhalhbndrbas38/esssed-7b761b764d3c?source=rss------data_science-5)
+- [ygygfy](https://medium.com/@shmarhkhalhqm63/ygygfy-42062b4a798d?source=rss------data_science-5)
+- [दानवीर कर्ण :
+कर्ण कुंती का पुत्र था| पाण्डु के साथ कुंती का विवाह होने से पहले ही इसका जन्म हो…](https://medium.com/@akhandthakur91/%E0%A4%A6%E0%A4%BE%E0%A4%A8%E0%A4%B5%E0%A5%80%E0%A4%B0-%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A3-%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A3-%E0%A4%95%E0%A5%81%E0%A4%82%E0%A4%A4%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%AA%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%A5%E0%A4%BE-%E0%A4%AA%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A5%81-%E0%A4%95%E0%A5%87-%E0%A4%B8%E0%A4%BE%E0%A4%A5-%E0%A4%95%E0%A5%81%E0%A4%82%E0%A4%A4%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9-%E0%A4%B9%E0%A5%8B%E0%A4%A8%E0%A5%87-%E0%A4%B8%E0%A5%87-%E0%A4%AA%E0%A4%B9%E0%A4%B2%E0%A5%87-%E0%A4%B9%E0%A5%80-%E0%A4%87%E0%A4%B8%E0%A4%95%E0%A4%BE-%E0%A4%9C%E0%A4%A8%E0%A5%8D%E0%A4%AE-%E0%A4%B9%E0%A5%8B-8bd9b18444ce?source=rss------data_science-5)
+- [gyggyf](https://medium.com/@shmarhkhalhqm63/gyggyf-85f7e56a6992?source=rss------data_science-5)
+- [cyvyfy](https://medium.com/@shmarhkhalhqm63/cyvyfy-41dc915deab3?source=rss------data_science-5)
+- [yfgfy](https://medium.com/@shmarhkhalhshyraz973/yfgfy-e9a0dfd7c444?source=rss------data_science-5)
+- [guhu](https://medium.com/@shmarhkhalhshyraz973/guhu-3a657228b2f2?source=rss------data_science-5)
+- [fuyyfdy](https://medium.com/@shmarhkhalhshyraz973/fuyyfdy-75fcaa94f154?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
