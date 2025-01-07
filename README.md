@@ -105,17 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [tffctc](https://medium.com/@shmarhkhalhardbyl43/tffctc-7ea023d16e99?source=rss------data_science-5)
-- [wsswz](https://medium.com/@shmarhkhalhbndrbas38/wsswz-fb19e270a51d?source=rss------data_science-5)
-- [esssed](https://medium.com/@shmarhkhalhbndrbas38/esssed-7b761b764d3c?source=rss------data_science-5)
-- [ygygfy](https://medium.com/@shmarhkhalhqm63/ygygfy-42062b4a798d?source=rss------data_science-5)
-- [दानवीर कर्ण :
-कर्ण कुंती का पुत्र था| पाण्डु के साथ कुंती का विवाह होने से पहले ही इसका जन्म हो…](https://medium.com/@akhandthakur91/%E0%A4%A6%E0%A4%BE%E0%A4%A8%E0%A4%B5%E0%A5%80%E0%A4%B0-%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A3-%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A3-%E0%A4%95%E0%A5%81%E0%A4%82%E0%A4%A4%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%AA%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%A5%E0%A4%BE-%E0%A4%AA%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A5%81-%E0%A4%95%E0%A5%87-%E0%A4%B8%E0%A4%BE%E0%A4%A5-%E0%A4%95%E0%A5%81%E0%A4%82%E0%A4%A4%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B9-%E0%A4%B9%E0%A5%8B%E0%A4%A8%E0%A5%87-%E0%A4%B8%E0%A5%87-%E0%A4%AA%E0%A4%B9%E0%A4%B2%E0%A5%87-%E0%A4%B9%E0%A5%80-%E0%A4%87%E0%A4%B8%E0%A4%95%E0%A4%BE-%E0%A4%9C%E0%A4%A8%E0%A5%8D%E0%A4%AE-%E0%A4%B9%E0%A5%8B-8bd9b18444ce?source=rss------data_science-5)
-- [gyggyf](https://medium.com/@shmarhkhalhqm63/gyggyf-85f7e56a6992?source=rss------data_science-5)
-- [cyvyfy](https://medium.com/@shmarhkhalhqm63/cyvyfy-41dc915deab3?source=rss------data_science-5)
-- [yfgfy](https://medium.com/@shmarhkhalhshyraz973/yfgfy-e9a0dfd7c444?source=rss------data_science-5)
-- [guhu](https://medium.com/@shmarhkhalhshyraz973/guhu-3a657228b2f2?source=rss------data_science-5)
-- [fuyyfdy](https://medium.com/@shmarhkhalhshyraz973/fuyyfdy-75fcaa94f154?source=rss------data_science-5)
+- [Data Mining vs Data Analysis In Simple Terms](https://medium.com/@graceguo0708/data-mining-vs-data-analysis-in-simple-terms-f0e4178afdd8?source=rss------data_science-5)
+- [hsgssg](https://medium.com/@dwstymrym67/hsgssg-c0a0f824bab7?source=rss------data_science-5)
+- [hddhdhsh](https://medium.com/@dwstymrym67/hddhdhsh-bdf85d198712?source=rss------data_science-5)
+- [wggsgh](https://medium.com/@dwstymrym67/wggsgh-845989ead45f?source=rss------data_science-5)
+- [Jodhpur](https://medium.com/@pari_7019/jodhpur-7d93682594a6?source=rss------data_science-5)
+- [Feature Selection in Machine Learning: Recursive Feature Elimination vs.](https://medium.com/@tzhaonj/feature-selection-in-machine-learning-recursive-feature-elimination-vs-235faddc1604?source=rss------data_science-5)
+- [सूर्य नमस्कार: एक सम्पूर्ण योगाभ्यास](https://medium.com/@Manisha311/%E0%A4%B8%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%AF-%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%8F%E0%A4%95-%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3-%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%BE%E0%A4%AD%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8-d86f3fe5139d?source=rss------data_science-5)
+- [Building Out Of Memory File Readers In Julia](https://medium.com/chifi-media/building-out-of-memory-file-readers-in-julia-0f17beca1242?source=rss------data_science-5)
+- [Streams In Julia: Working With Data On Disk](https://medium.com/chifi-media/streams-in-julia-working-with-data-on-disk-d72777ace14f?source=rss------data_science-5)
+- [Har har mahadev 
+Boliye Jai shree ram](https://medium.com/@chandakumarijha/har-har-mahadev-boliye-jai-shree-ram-dfc32b75be53?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
