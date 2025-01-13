@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The GPT Pokédex: Catching Every Evolution from GPT-1 to GPT-4](https://medium.com/@rickboelen98/the-gpt-pok%C3%A9dex-catching-every-evolution-from-gpt-1-to-gpt-4-f8b43438197e?source=rss------data_science-5)
-- [Everything you need for Understanding Data Quality Assessment: The Cornerstone of Reliable Data…](https://medium.com/@kishanraj41/everything-you-need-for-understanding-data-quality-assessment-the-cornerstone-of-reliable-data-7871bfe529d0?source=rss------data_science-5)
-- [Celestial Regeneration Suite: Transformative Healing Technologies](https://medium.com/@mkznelson/celestial-regeneration-suite-transformative-healing-technologies-b01d11bd1cfb?source=rss------data_science-5)
-- [Restaurants SQL Project with Python](https://medium.com/h7w/restaurants-sql-project-with-python-4e7951d59d6e?source=rss------data_science-5)
-- [Uhy](https://medium.com/@shmarhkhalhthran456/uhy-3a8c3a27564b?source=rss------data_science-5)
-- [Yig](https://medium.com/@shmarhkhalhthran456/yig-943f3c81fc9c?source=rss------data_science-5)
-- [Uky](https://medium.com/@shmarhkhalhthran456/uky-fddcca2b7af4?source=rss------data_science-5)
-- [Ith](https://medium.com/@thranshmarhkhalh508/ith-61f5cca3f7f6?source=rss------data_science-5)
-- [Jty](https://medium.com/@thranshmarhkhalh508/jty-89892ed4106c?source=rss------data_science-5)
-- [Hgh](https://medium.com/@thranshmarhkhalh508/hgh-74d29ed17417?source=rss------data_science-5)
+- [How I Built a 7-Figure Business in Less Than a Year](https://medium.com/@Alera-Sky/how-i-built-a-7-figure-business-in-less-than-a-year-64cab92312ab?source=rss------data_science-5)
+- [Mastering Data Cleaning with Python: Techniques and Best Practices](https://medium.com/@erichoward_83349/mastering-data-cleaning-with-python-techniques-and-best-practices-99ccf8de7e74?source=rss------data_science-5)
+- [Unraveling Time: Multi-Layer Feature Extraction in Time-Series Analysis](https://blog.devgenius.io/unraveling-time-multi-layer-feature-extraction-in-time-series-analysis-526c49ee10a5?source=rss------data_science-5)
+- [Common Pitfalls in Data Modeling and How to Avoid Them](https://medium.com/itversity/common-pitfalls-in-data-modeling-and-how-to-avoid-them-5160a9bb382d?source=rss------data_science-5)
+- [Advanced Data Modeling for NoSQL and Big Data](https://medium.com/itversity/advanced-data-modeling-for-nosql-and-big-data-96aceea4acf0?source=rss------data_science-5)
+- [Data Modeling for Data Warehousing and Analytics](https://medium.com/itversity/data-modeling-for-data-warehousing-and-analytics-74d67fb68bfa?source=rss------data_science-5)
+- [Hxhxg](https://medium.com/@nsowok/hxhxg-19399ffeb44c?source=rss------data_science-5)
+- [Dhgdgd](https://medium.com/@nsowok/dhgdgd-a98c179adaa0?source=rss------data_science-5)
+- [Dhzddz](https://medium.com/@nsowok/dhzddz-ad581b5e3154?source=rss------data_science-5)
+- [Exploring the Relationship Between GDP and Life Expectancy — A Codecademy Portfolio Project for…](https://medium.com/@ribeiro.andrefp/exploring-the-relationship-between-gdp-and-life-expectancy-a-codecademy-portfolio-project-for-459c4bd8afa6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
