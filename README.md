@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [jskwkw](https://medium.com/@shmarhkhalhrsht18/jskwkw-41bf0cc16844?source=rss------data_science-5)
-- [jkwkw](https://medium.com/@shmarhkhalhshyraz66/jkwkw-6ef8cd66e60b?source=rss------data_science-5)
-- [jajwj](https://medium.com/@shmarhkhalhshyraz66/jajwj-8a5d173061f4?source=rss------data_science-5)
-- [skakkw](https://medium.com/@shmarhkhalhshyraz66/skakkw-0b5ccf370fea?source=rss------data_science-5)
-- [gufuf](https://medium.com/@s09974698/gufuf-c31e7472c980?source=rss------data_science-5)
-- [cuyfxy](https://medium.com/@s09974698/cuyfxy-13d2bcd1c5ef?source=rss------data_science-5)
-- [gifuyf](https://medium.com/@s09974698/gifuyf-d17b71e6907d?source=rss------data_science-5)
-- [iguguf](https://medium.com/@shmarhkhalhshyraz38/iguguf-ac26d03a2892?source=rss------data_science-5)
-- [vuvhug](https://medium.com/@shmarhkhalhshyraz38/vuvhug-0b7486f3707b?source=rss------data_science-5)
-- [wjjwkw](https://medium.com/@shmarhkhalhshyraz38/wjjwkw-d7d22613515f?source=rss------data_science-5)
+- [hxhdjxjj](https://medium.com/@s09599358/hxhdjxjj-5fb94643af80?source=rss------data_science-5)
+- [Giuikk](https://medium.com/@yugh23828/giuikk-81bd8d3b4660?source=rss------data_science-5)
+- [Guviol](https://medium.com/@yugh23828/guviol-ce0faf219e4d?source=rss------data_science-5)
+- [How I Built a 7-Figure Business from Scratch](https://medium.com/@Alera-Sky/how-i-built-a-7-figure-business-from-scratch-22159ab9fe2a?source=rss------data_science-5)
+- [Guuk](https://medium.com/@yugh23828/guuk-0808c8358445?source=rss------data_science-5)
+- [gftdt](https://medium.com/@shmarhkhalhkrj35/gftdt-ec0ac385345b?source=rss------data_science-5)
+- [skwkka](https://medium.com/@shmarhkhalhkrj35/skwkka-6425a4679e19?source=rss------data_science-5)
+- [I will write resume for sales, finance, accounting, marketing, banking, ceo, sales rep](https://medium.com/@olaboyet1/i-will-write-resume-for-sales-finance-accounting-marketing-banking-ceo-sales-rep-c5c3d4024086?source=rss------data_science-5)
+- [How Writing Every Day on Medium Changed My Life.](https://medium.com/@pereiradomnic44/how-writing-every-day-on-medium-changed-my-life-c4e1966e1f22?source=rss------data_science-5)
+- [Unveiling the Impact of Velocity in Big Data](https://medium.com/@vneelraj.n/unveiling-the-impact-of-velocity-in-big-data-56af14e552d8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
