@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [hxhdjxjj](https://medium.com/@s09599358/hxhdjxjj-5fb94643af80?source=rss------data_science-5)
-- [Giuikk](https://medium.com/@yugh23828/giuikk-81bd8d3b4660?source=rss------data_science-5)
-- [Guviol](https://medium.com/@yugh23828/guviol-ce0faf219e4d?source=rss------data_science-5)
-- [How I Built a 7-Figure Business from Scratch](https://medium.com/@Alera-Sky/how-i-built-a-7-figure-business-from-scratch-22159ab9fe2a?source=rss------data_science-5)
-- [Guuk](https://medium.com/@yugh23828/guuk-0808c8358445?source=rss------data_science-5)
-- [gftdt](https://medium.com/@shmarhkhalhkrj35/gftdt-ec0ac385345b?source=rss------data_science-5)
-- [skwkka](https://medium.com/@shmarhkhalhkrj35/skwkka-6425a4679e19?source=rss------data_science-5)
-- [I will write resume for sales, finance, accounting, marketing, banking, ceo, sales rep](https://medium.com/@olaboyet1/i-will-write-resume-for-sales-finance-accounting-marketing-banking-ceo-sales-rep-c5c3d4024086?source=rss------data_science-5)
-- [How Writing Every Day on Medium Changed My Life.](https://medium.com/@pereiradomnic44/how-writing-every-day-on-medium-changed-my-life-c4e1966e1f22?source=rss------data_science-5)
-- [Unveiling the Impact of Velocity in Big Data](https://medium.com/@vneelraj.n/unveiling-the-impact-of-velocity-in-big-data-56af14e552d8?source=rss------data_science-5)
+- [Avoid These Common Mistakes When Training Large Language Models](https://medium.com/@riteshgupta.ai/avoid-these-common-mistakes-when-training-large-language-models-229a25e3ee7a?source=rss------data_science-5)
+- [Future of Living Intelligence: Tech Convergence](https://aiplusinfo.medium.com/future-of-living-intelligence-tech-convergence-d0ff5200a5cc?source=rss------data_science-5)
+- [7 Essential Skills to Master for 2025](https://aiplusinfo.medium.com/7-essential-skills-to-master-for-2025-c31db2326f16?source=rss------data_science-5)
+- [Role of Cluster Managers in Pyspark | Pyspark Architecture — 6](https://muttinenisairohith.medium.com/role-of-cluster-managers-in-pyspark-pyspark-architecture-6-ce0a846979f6?source=rss------data_science-5)
+- [AI Transformers for Beginners: No Jargon, Just Clarity](https://medium.com/@riteshgupta.ai/ai-transformers-for-beginners-no-jargon-just-clarity-2d89084e52c8?source=rss------data_science-5)
+- [fuhfhf](https://medium.com/@abdoenne41/fuhfhf-d41f1b18d980?source=rss------data_science-5)
+- [gddggd](https://medium.com/@abdoenne41/gddggd-06f1bb111c06?source=rss------data_science-5)
+- [hfgdg](https://medium.com/@abdoenne41/hfgdg-14a0fe326f12?source=rss------data_science-5)
+- [gdgdyddy](https://medium.com/@ahcjvyy/gdgdyddy-620f80110ab8?source=rss------data_science-5)
+- [hdgdgd](https://medium.com/@ahcjvyy/hdgdgd-824e4a4d1863?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
