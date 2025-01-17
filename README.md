@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Avoid These Common Mistakes When Training Large Language Models](https://medium.com/@riteshgupta.ai/avoid-these-common-mistakes-when-training-large-language-models-229a25e3ee7a?source=rss------data_science-5)
-- [Future of Living Intelligence: Tech Convergence](https://aiplusinfo.medium.com/future-of-living-intelligence-tech-convergence-d0ff5200a5cc?source=rss------data_science-5)
-- [7 Essential Skills to Master for 2025](https://aiplusinfo.medium.com/7-essential-skills-to-master-for-2025-c31db2326f16?source=rss------data_science-5)
-- [Role of Cluster Managers in Pyspark | Pyspark Architecture — 6](https://muttinenisairohith.medium.com/role-of-cluster-managers-in-pyspark-pyspark-architecture-6-ce0a846979f6?source=rss------data_science-5)
-- [AI Transformers for Beginners: No Jargon, Just Clarity](https://medium.com/@riteshgupta.ai/ai-transformers-for-beginners-no-jargon-just-clarity-2d89084e52c8?source=rss------data_science-5)
-- [fuhfhf](https://medium.com/@abdoenne41/fuhfhf-d41f1b18d980?source=rss------data_science-5)
-- [gddggd](https://medium.com/@abdoenne41/gddggd-06f1bb111c06?source=rss------data_science-5)
-- [hfgdg](https://medium.com/@abdoenne41/hfgdg-14a0fe326f12?source=rss------data_science-5)
-- [gdgdyddy](https://medium.com/@ahcjvyy/gdgdyddy-620f80110ab8?source=rss------data_science-5)
-- [hdgdgd](https://medium.com/@ahcjvyy/hdgdgd-824e4a4d1863?source=rss------data_science-5)
+- [I will write legal, attorney, public defender, judge, MBA, law school, lawyer resume](https://medium.com/@intelligentw3/i-will-write-legal-attorney-public-defender-judge-mba-law-school-lawyer-resume-7421d2f1a77f?source=rss------data_science-5)
+- [I will write resume for grc analyst resume, data analyst, cybersecurity, compliance soc](https://medium.com/@ajaoalowonle5/i-will-write-resume-for-grc-analyst-resume-data-analyst-cybersecurity-compliance-soc-9826dce45917?source=rss------data_science-5)
+- [jxjfnfnf](https://medium.com/@w13105947/jxjfnfnf-cb3dbc149f1f?source=rss------data_science-5)
+- [jcjfjf](https://medium.com/@w13105947/jcjfjf-05d3749587c1?source=rss------data_science-5)
+- [SAINS MISTERI](https://medium.com/@johandename/sains-misteri-28586c0a3683?source=rss------data_science-5)
+- [fgyuf](https://medium.com/@mhmdrdasara589/fgyuf-508021fd0c88?source=rss------data_science-5)
+- [hgcd](https://medium.com/@mhmdrdasara589/hgcd-787e78cf982b?source=rss------data_science-5)
+- [vgfhf](https://medium.com/@mhmdrdasara589/vgfhf-81a51f97c909?source=rss------data_science-5)
+- [hdhb](https://medium.com/@zyzymdynh950/hdhb-c88d96f17e69?source=rss------data_science-5)
+- [bcbxb](https://medium.com/@zyzymdynh950/bcbxb-40d97838d78e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
