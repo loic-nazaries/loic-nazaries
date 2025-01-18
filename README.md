@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I will write legal, attorney, public defender, judge, MBA, law school, lawyer resume](https://medium.com/@intelligentw3/i-will-write-legal-attorney-public-defender-judge-mba-law-school-lawyer-resume-7421d2f1a77f?source=rss------data_science-5)
-- [I will write resume for grc analyst resume, data analyst, cybersecurity, compliance soc](https://medium.com/@ajaoalowonle5/i-will-write-resume-for-grc-analyst-resume-data-analyst-cybersecurity-compliance-soc-9826dce45917?source=rss------data_science-5)
-- [jxjfnfnf](https://medium.com/@w13105947/jxjfnfnf-cb3dbc149f1f?source=rss------data_science-5)
-- [jcjfjf](https://medium.com/@w13105947/jcjfjf-05d3749587c1?source=rss------data_science-5)
-- [SAINS MISTERI](https://medium.com/@johandename/sains-misteri-28586c0a3683?source=rss------data_science-5)
-- [fgyuf](https://medium.com/@mhmdrdasara589/fgyuf-508021fd0c88?source=rss------data_science-5)
-- [hgcd](https://medium.com/@mhmdrdasara589/hgcd-787e78cf982b?source=rss------data_science-5)
-- [vgfhf](https://medium.com/@mhmdrdasara589/vgfhf-81a51f97c909?source=rss------data_science-5)
-- [hdhb](https://medium.com/@zyzymdynh950/hdhb-c88d96f17e69?source=rss------data_science-5)
-- [bcbxb](https://medium.com/@zyzymdynh950/bcbxb-40d97838d78e?source=rss------data_science-5)
+- [Building a Network of Advocates: A Blueprint for Data Strategy Adoption](https://benthng.medium.com/building-a-network-of-advocates-a-blueprint-for-data-strategy-adoption-1b63e705bc7e?source=rss------data_science-5)
+- [The Role of Data in Modern Cybersecurity: Empowering Organizations and
+Customers to Stay Ahead of…](https://medium.com/@hriteshyadav.2021/the-role-of-data-in-modern-cybersecurity-empowering-organizations-and-customers-to-stay-ahead-of-5d78729feba2?source=rss------data_science-5)
+- [chcfuuf](https://medium.com/@shmarhkhalhtbryz8/chcfuuf-52c3b319fa81?source=rss------data_science-5)
+- [guhvig](https://medium.com/@shmarhkhalhtbryz8/guhvig-a7eafb54286c?source=rss------data_science-5)
+- [jgfigi](https://medium.com/@shmarhkhalhtbryz8/jgfigi-5256d508a345?source=rss------data_science-5)
+- [hshshe](https://medium.com/@shmarhkhalhgrgan929/hshshe-a7afc69b417e?source=rss------data_science-5)
+- [kvjgfi](https://medium.com/@shmarhkhalhgrgan929/kvjgfi-9dd5ba460812?source=rss------data_science-5)
+- [ihgiuf](https://medium.com/@shmarhkhalhgrgan929/ihgiuf-1a53a3474971?source=rss------data_science-5)
+- [jvjggi](https://medium.com/@shmarhkhalhay8/jvjggi-8d5ba27d9def?source=rss------data_science-5)
+- [hchcjg](https://medium.com/@shmarhkhalhay8/hchcjg-692fb6b2daf9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
