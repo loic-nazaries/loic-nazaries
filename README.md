@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Building a Network of Advocates: A Blueprint for Data Strategy Adoption](https://benthng.medium.com/building-a-network-of-advocates-a-blueprint-for-data-strategy-adoption-1b63e705bc7e?source=rss------data_science-5)
-- [The Role of Data in Modern Cybersecurity: Empowering Organizations and
-Customers to Stay Ahead of…](https://medium.com/@hriteshyadav.2021/the-role-of-data-in-modern-cybersecurity-empowering-organizations-and-customers-to-stay-ahead-of-5d78729feba2?source=rss------data_science-5)
-- [chcfuuf](https://medium.com/@shmarhkhalhtbryz8/chcfuuf-52c3b319fa81?source=rss------data_science-5)
-- [guhvig](https://medium.com/@shmarhkhalhtbryz8/guhvig-a7eafb54286c?source=rss------data_science-5)
-- [jgfigi](https://medium.com/@shmarhkhalhtbryz8/jgfigi-5256d508a345?source=rss------data_science-5)
-- [hshshe](https://medium.com/@shmarhkhalhgrgan929/hshshe-a7afc69b417e?source=rss------data_science-5)
-- [kvjgfi](https://medium.com/@shmarhkhalhgrgan929/kvjgfi-9dd5ba460812?source=rss------data_science-5)
-- [ihgiuf](https://medium.com/@shmarhkhalhgrgan929/ihgiuf-1a53a3474971?source=rss------data_science-5)
-- [jvjggi](https://medium.com/@shmarhkhalhay8/jvjggi-8d5ba27d9def?source=rss------data_science-5)
-- [hchcjg](https://medium.com/@shmarhkhalhay8/hchcjg-692fb6b2daf9?source=rss------data_science-5)
+- [gfy](https://medium.com/@shmarhkhalhgrgan929/gfy-85d225a5e548?source=rss------data_science-5)
+- [hgy](https://medium.com/@shmarhkhalhgrgan929/hgy-866abe84f498?source=rss------data_science-5)
+- [hgy](https://medium.com/@shmarhkhalhgrgan929/hgy-02596858a2e3?source=rss------data_science-5)
+- [hgy](https://medium.com/@shmarhkhalhay8/hgy-a0403ae3dbe1?source=rss------data_science-5)
+- [hgy](https://medium.com/@shmarhkhalhay8/hgy-9aa6993e86ab?source=rss------data_science-5)
+- [hgy](https://medium.com/@shmarhkhalhay8/hgy-86dbebd57761?source=rss------data_science-5)
+- [gft](https://medium.com/@akksjw95/gft-37571a0bff17?source=rss------data_science-5)
+- [hgy](https://medium.com/@akksjw95/hgy-84c85266f9c2?source=rss------data_science-5)
+- [hgy](https://medium.com/@akksjw95/hgy-8fa0fa07f170?source=rss------data_science-5)
+- [hgy](https://medium.com/@shmarhkhalhqm218/hgy-09b072642bb4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
