@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Hdhdb](https://medium.com/@shmarhkhalh902/hdhdb-3fdd8a62f42b?source=rss------data_science-5)
-- [Day 02 — Logistic Regression](https://medium.com/@etimfonime/day-02-logistic-regression-615dd0f74c16?source=rss------data_science-5)
-- [How I Started Earning $547 Daily with Simple Automation](https://medium.com/@Smart-Income/how-i-started-earning-547-daily-with-simple-automation-bfc9f9f234e7?source=rss------data_science-5)
-- [How Vector Stores Drive AI Innovation](https://medium.com/ds3ucsd/how-vector-stores-drive-ai-innovation-e876f2ae9a44?source=rss------data_science-5)
-- [Yiy](https://medium.com/@hmdynaznyn85/yiy-35450a4597c8?source=rss------data_science-5)
-- [Jih](https://medium.com/@hmdynaznyn85/jih-00c8d478dadd?source=rss------data_science-5)
-- [Uuy](https://medium.com/@hmdynaznyn85/uuy-bbe3fb6d5c4d?source=rss------data_science-5)
-- [Yut](https://medium.com/@thrandkhtr/yut-4be711d6955a?source=rss------data_science-5)
-- [Yit](https://medium.com/@thrandkhtr/yit-be56884766be?source=rss------data_science-5)
-- [Jhg](https://medium.com/@thrandkhtr/jhg-bde0b55ec2aa?source=rss------data_science-5)
+- [Lo que Callamos los ETLeros](https://davidregalado255.medium.com/lo-que-callamos-los-etleros-2086a6b32d99?source=rss------data_science-5)
+- [What ETLers Keep Quiet About](https://davidregalado255.medium.com/what-etlers-keep-quiet-about-b600cc3d2492?source=rss------data_science-5)
+- [फ्रांस का एकीकरण: एक संक्षिप्त विवरण
+फ्रांस का एकीकरण एक ऐतिहासिक प्रक्रिया थी जिसके दौरान विभिन्न…](https://adityayd9717.medium.com/%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%B8-%E0%A4%95%E0%A4%BE-%E0%A4%8F%E0%A4%95%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3-%E0%A4%8F%E0%A4%95-%E0%A4%B8%E0%A4%82%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%A4-%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3-%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%B8-%E0%A4%95%E0%A4%BE-%E0%A4%8F%E0%A4%95%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3-%E0%A4%8F%E0%A4%95-%E0%A4%90%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8%E0%A4%BF%E0%A4%95-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%A5%E0%A5%80-%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%95%E0%A5%87-%E0%A4%A6%E0%A5%8C%E0%A4%B0%E0%A4%BE%E0%A4%A8-%E0%A4%B5%E0%A4%BF%E0%A4%AD%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A8-38e6ea4d5154?source=rss------data_science-5)
+- [Stop Being Racist! Just Use DeepSeek Dammit!](https://medium.com/@austin-starks/stop-being-racist-just-use-deepseek-dammit-b2a7f2a35cf4?source=rss------data_science-5)
+- [Getting More Out of Pandas: A Guide for SQL Users](https://medium.com/@eduard_aiunts/getting-more-out-of-pandas-a-guide-for-sql-users-f5b3683e1ea9?source=rss------data_science-5)
+- [Day 03 — Decision Trees](https://medium.com/@etimfonime/day-03-decision-trees-9ed453d7fc06?source=rss------data_science-5)
+- [How to Become an AI Expert in 5 minutes](https://medium.com/swlh/how-to-become-an-ai-expert-in-5-minutes-7099cca9d585?source=rss------data_science-5)
+- [Djdjjfjr](https://medium.com/@hij_97953/djdjjfjr-78735a0b2b5c?source=rss------data_science-5)
+- [Gihehjej](https://medium.com/@hij_97953/gihehjej-ceb777465afd?source=rss------data_science-5)
+- [Hodiikk](https://medium.com/@hij_97953/hodiikk-7b9c011ff1d8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
