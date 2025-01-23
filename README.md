@@ -105,17 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Lo que Callamos los ETLeros](https://davidregalado255.medium.com/lo-que-callamos-los-etleros-2086a6b32d99?source=rss------data_science-5)
-- [What ETLers Keep Quiet About](https://davidregalado255.medium.com/what-etlers-keep-quiet-about-b600cc3d2492?source=rss------data_science-5)
-- [फ्रांस का एकीकरण: एक संक्षिप्त विवरण
-फ्रांस का एकीकरण एक ऐतिहासिक प्रक्रिया थी जिसके दौरान विभिन्न…](https://adityayd9717.medium.com/%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%B8-%E0%A4%95%E0%A4%BE-%E0%A4%8F%E0%A4%95%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3-%E0%A4%8F%E0%A4%95-%E0%A4%B8%E0%A4%82%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%A4-%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3-%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%B8-%E0%A4%95%E0%A4%BE-%E0%A4%8F%E0%A4%95%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3-%E0%A4%8F%E0%A4%95-%E0%A4%90%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8%E0%A4%BF%E0%A4%95-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%A5%E0%A5%80-%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%95%E0%A5%87-%E0%A4%A6%E0%A5%8C%E0%A4%B0%E0%A4%BE%E0%A4%A8-%E0%A4%B5%E0%A4%BF%E0%A4%AD%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A8-38e6ea4d5154?source=rss------data_science-5)
-- [Stop Being Racist! Just Use DeepSeek Dammit!](https://medium.com/@austin-starks/stop-being-racist-just-use-deepseek-dammit-b2a7f2a35cf4?source=rss------data_science-5)
-- [Getting More Out of Pandas: A Guide for SQL Users](https://medium.com/@eduard_aiunts/getting-more-out-of-pandas-a-guide-for-sql-users-f5b3683e1ea9?source=rss------data_science-5)
-- [Day 03 — Decision Trees](https://medium.com/@etimfonime/day-03-decision-trees-9ed453d7fc06?source=rss------data_science-5)
-- [How to Become an AI Expert in 5 minutes](https://medium.com/swlh/how-to-become-an-ai-expert-in-5-minutes-7099cca9d585?source=rss------data_science-5)
-- [Djdjjfjr](https://medium.com/@hij_97953/djdjjfjr-78735a0b2b5c?source=rss------data_science-5)
-- [Gihehjej](https://medium.com/@hij_97953/gihehjej-ceb777465afd?source=rss------data_science-5)
-- [Hodiikk](https://medium.com/@hij_97953/hodiikk-7b9c011ff1d8?source=rss------data_science-5)
+- [Part 3: Azure Authorization Chaos](https://python.plainenglish.io/part-3-azure-authorization-chaos-adc37d5bcdb0?source=rss------data_science-5)
+- [jdjsilm](https://medium.com/@zawyhnaznyn/jdjsilm-0cdb936f5a3c?source=rss------data_science-5)
+- [jdjdks](https://medium.com/@zawyhnaznyn/jdjdks-ae40f70044bd?source=rss------data_science-5)
+- [kdjdm](https://medium.com/@zawyhnaznyn/kdjdm-daeb50a2f6d9?source=rss------data_science-5)
+- [Unlocking the Future of Global Trade: Revolutionizing Cross-Border Freight with Data-Driven…](https://medium.com/@elizabethnuomaakossey/unlocking-the-future-of-global-trade-revolutionizing-cross-border-freight-with-data-driven-7d43a506b47d?source=rss------data_science-5)
+- [Text classification with vector embeddings — and no ML model](https://david-gilbertson.medium.com/text-classification-with-vector-embeddings-and-no-ml-model-c793c09698f0?source=rss------data_science-5)
+- [jxjskf](https://medium.com/@nahydtwrw/jxjskf-ce89a99800ec?source=rss------data_science-5)
+- [jdsfd](https://medium.com/@nahydtwrw/jdsfd-63559d62851f?source=rss------data_science-5)
+- [djjdl](https://medium.com/@tajhmhmdyzhra/djjdl-04106aa04add?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
