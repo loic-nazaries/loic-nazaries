@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Part 3: Azure Authorization Chaos](https://python.plainenglish.io/part-3-azure-authorization-chaos-adc37d5bcdb0?source=rss------data_science-5)
-- [jdjsilm](https://medium.com/@zawyhnaznyn/jdjsilm-0cdb936f5a3c?source=rss------data_science-5)
-- [jdjdks](https://medium.com/@zawyhnaznyn/jdjdks-ae40f70044bd?source=rss------data_science-5)
-- [kdjdm](https://medium.com/@zawyhnaznyn/kdjdm-daeb50a2f6d9?source=rss------data_science-5)
-- [Unlocking the Future of Global Trade: Revolutionizing Cross-Border Freight with Data-Driven…](https://medium.com/@elizabethnuomaakossey/unlocking-the-future-of-global-trade-revolutionizing-cross-border-freight-with-data-driven-7d43a506b47d?source=rss------data_science-5)
-- [Text classification with vector embeddings — and no ML model](https://david-gilbertson.medium.com/text-classification-with-vector-embeddings-and-no-ml-model-c793c09698f0?source=rss------data_science-5)
-- [jxjskf](https://medium.com/@nahydtwrw/jxjskf-ce89a99800ec?source=rss------data_science-5)
-- [jdsfd](https://medium.com/@nahydtwrw/jdsfd-63559d62851f?source=rss------data_science-5)
-- [djjdl](https://medium.com/@tajhmhmdyzhra/djjdl-04106aa04add?source=rss------data_science-5)
+- [Rahasia Tersembunyi di Balik Stiker Buah: Jangan Sampai Salah Pilih!](https://medium.com/@didikurniawanmade/rahasia-tersembunyi-di-balik-stiker-buah-jangan-sampai-salah-pilih-079eab44ac96?source=rss------data_science-5)
+- [How I Earned $300 a Day with AI Voice Cloning](https://medium.com/@Alera-Sky/how-i-earned-300-a-day-with-ai-voice-cloning-3924a2f70836?source=rss------data_science-5)
+- [I am among the first people to gain access to OpenAI’s “Operator” Agent. Here are my thoughts.](https://ai.plainenglish.io/i-am-among-the-first-people-to-gain-access-to-openais-operator-agent-here-are-my-thoughts-65a5116e5eaa?source=rss------data_science-5)
+- [AI as political warfare: DeepSeek AI advances the global interests of the Communist Party of China](https://medium.com/the-generator/deepseek-hidden-china-political-bias-5d838bbf3ef9?source=rss------data_science-5)
+- [From Versailles and Washington to Davos: How Power is Built and Borrowed](https://medium.com/@captured_zeitgeist/from-versailles-to-washington-and-davos-how-power-is-built-and-borrowed-35f65f69d264?source=rss------data_science-5)
+- [Reflections](https://medium.com/@chidinmandubuisi/reflections-a1916fa3013a?source=rss------data_science-5)
+- [Developing a Bitcoin Trading Strategy with Chande Momentum Oscillator&lpar;CMO&rpar; and Ease of…](https://medium.com/@kridtapon/developing-a-bitcoin-trading-strategy-with-chande-momentum-oscillator-cmo-and-ease-of-a38d5cef9a7a?source=rss------data_science-5)
+- [8 Ways to Set Boundaries Without Saying a Word, According to Psychology.](https://medium.com/@pereiradomnic44/8-ways-to-set-boundaries-without-saying-a-word-according-to-psychology-c7dcaa3b05e1?source=rss------data_science-5)
+- [88CEPAT](https://medium.com/@adaBonus88/88cepat-53bb142d9b6b?source=rss------data_science-5)
+- [شماره خاله اردبیل#شماره خاله تبریز#شماره خاله قم#](https://medium.com/@hntkhhthn/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-917c8351a4ce?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
