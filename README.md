@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Rahasia Tersembunyi di Balik Stiker Buah: Jangan Sampai Salah Pilih!](https://medium.com/@didikurniawanmade/rahasia-tersembunyi-di-balik-stiker-buah-jangan-sampai-salah-pilih-079eab44ac96?source=rss------data_science-5)
-- [How I Earned $300 a Day with AI Voice Cloning](https://medium.com/@Alera-Sky/how-i-earned-300-a-day-with-ai-voice-cloning-3924a2f70836?source=rss------data_science-5)
-- [I am among the first people to gain access to OpenAI’s “Operator” Agent. Here are my thoughts.](https://ai.plainenglish.io/i-am-among-the-first-people-to-gain-access-to-openais-operator-agent-here-are-my-thoughts-65a5116e5eaa?source=rss------data_science-5)
-- [AI as political warfare: DeepSeek AI advances the global interests of the Communist Party of China](https://medium.com/the-generator/deepseek-hidden-china-political-bias-5d838bbf3ef9?source=rss------data_science-5)
-- [From Versailles and Washington to Davos: How Power is Built and Borrowed](https://medium.com/@captured_zeitgeist/from-versailles-to-washington-and-davos-how-power-is-built-and-borrowed-35f65f69d264?source=rss------data_science-5)
-- [Reflections](https://medium.com/@chidinmandubuisi/reflections-a1916fa3013a?source=rss------data_science-5)
-- [Developing a Bitcoin Trading Strategy with Chande Momentum Oscillator&lpar;CMO&rpar; and Ease of…](https://medium.com/@kridtapon/developing-a-bitcoin-trading-strategy-with-chande-momentum-oscillator-cmo-and-ease-of-a38d5cef9a7a?source=rss------data_science-5)
-- [8 Ways to Set Boundaries Without Saying a Word, According to Psychology.](https://medium.com/@pereiradomnic44/8-ways-to-set-boundaries-without-saying-a-word-according-to-psychology-c7dcaa3b05e1?source=rss------data_science-5)
-- [88CEPAT](https://medium.com/@adaBonus88/88cepat-53bb142d9b6b?source=rss------data_science-5)
-- [شماره خاله اردبیل#شماره خاله تبریز#شماره خاله قم#](https://medium.com/@hntkhhthn/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-917c8351a4ce?source=rss------data_science-5)
+- [Building an AI Chatbot with DeepSeek and Streamlit](https://medium.com/@cameronjosephjones/building-an-ai-chatbot-with-deepseek-and-streamlit-aec2bab82928?source=rss------data_science-5)
+- [भारत का डीप ओशन मिशन &lpar;DOM&rpar; और ब्लू इकोनॉमी की दिशा में एक महत्वपूर्ण कदम✅](https://medium.com/@skchouhan/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4-%E0%A4%95%E0%A4%BE-%E0%A4%A1%E0%A5%80%E0%A4%AA-%E0%A4%93%E0%A4%B6%E0%A4%A8-%E0%A4%AE%E0%A4%BF%E0%A4%B6%E0%A4%A8-dom-%E0%A4%94%E0%A4%B0-%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A5%82-%E0%A4%87%E0%A4%95%E0%A5%8B%E0%A4%A8%E0%A5%89%E0%A4%AE%E0%A5%80-%E0%A4%95%E0%A5%80-%E0%A4%A6%E0%A4%BF%E0%A4%B6%E0%A4%BE-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%8F%E0%A4%95-%E0%A4%AE%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3-%E0%A4%95%E0%A4%A6%E0%A4%AE-b34a9ddef9f6?source=rss------data_science-5)
+- [Don’t Write Python One-Liners That Nobody Understands &lpar;Including You Later!!&rpar;](https://python.plainenglish.io/dont-write-python-one-liners-that-nobody-understands-including-you-later-1a6d741bd951?source=rss------data_science-5)
+- [Hdhduduh](https://medium.com/@dfg244127/hdhduduh-bb121b4fc892?source=rss------data_science-5)
+- [Hidjhuyc](https://medium.com/@dfg244127/hidjhuyc-6473631d05e7?source=rss------data_science-5)
+- [Fjffhdehhe](https://medium.com/@dfg244127/fjffhdehhe-c70b7f0930ff?source=rss------data_science-5)
+- [Hjgfjh](https://medium.com/@fvb45578/hjgfjh-a22cb7d6f85c?source=rss------data_science-5)
+- [Hjffjjsdgg](https://medium.com/@fvb45578/hjffjjsdgg-ec3e746b0870?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله کرج شماره خاله اردبیل شماره خاله قم](https://medium.com/@fvb45578/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-9060e2add8b9?source=rss------data_science-5)
+- [Data Science: An Overview](https://medium.com/@fatima_akhtar21/data-science-an-overview-6d96cd1ffe5a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
