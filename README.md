@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Debris In The Matrix](https://medium.com/@yusufabolarinwa/debris-in-the-matrix-0ae923a39f0d?source=rss------data_science-5)
-- [Limpeza e Processamento dos Dados com Python](https://medium.com/@eduardo.eira/limpeza-e-processamento-dos-dados-com-python-386c3a6ddd7d?source=rss------data_science-5)
-- [شماره خاله رشت شماره خاله فومن شماره خاله بندرانزل](https://medium.com/@dhdhsjjshdhd24/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%81%D9%88%D9%85%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%A7%D9%86%D8%B2%D9%84-018ccdef55eb?source=rss------data_science-5)
-- [شماره خاله رشت شماره خاله فومن شماره خاله بندرانزل](https://medium.com/@dhdhsjjshdhd24/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%81%D9%88%D9%85%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%A7%D9%86%D8%B2%D9%84-cfddd97f51aa?source=rss------data_science-5)
-- [KAG, CAG ve RAG: Hangi Yaklaşım Ne İşe Yarar?](https://medium.com/@cembikmaz.ie/kag-cag-ve-rag-hangi-yakla%C5%9F%C4%B1m-ne-i%CC%87%C5%9Fe-yarar-ff033df1c8ca?source=rss------data_science-5)
-- [شماره خاله رشت شماره خاله فومن شماره خاله بندرانزل](https://medium.com/@dhdhsjjshdhd24/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%81%D9%88%D9%85%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%A7%D9%86%D8%B2%D9%84-253eaaf2ce50?source=rss------data_science-5)
-- [Creating a Industry-Specific Dictionary Using GPT: A Step-by-Step Guide](https://medium.com/shipping-intel/creating-a-industry-specific-dictionary-using-gpt-a-step-by-step-guide-4ec7f3ed4a5a?source=rss------data_science-5)
-- [#شماره خاله تهران#شماره خاله کرج#شماره خاله اصفهان](https://medium.com/@partyshbanh567/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-83928a120141?source=rss------data_science-5)
-- [DBRX Is the New King of AI: A Deep Dive Into Databricks’ Revolutionary Game-Changing Model!](https://nicholascammarata.medium.com/dbrx-is-the-new-king-of-ai-a-deep-dive-into-databricks-revolutionary-game-changing-model-f4a3162d207d?source=rss------data_science-5)
-- [#شماره خاله تهران#شماره خاله کرج#شماره خاله اصفهان](https://medium.com/@partyshbanh567/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-551c19a37a42?source=rss------data_science-5)
+- [Dydydy](https://medium.com/@hffhhthdhfhfhfhgmailcom/dydydy-02036a2e3062?source=rss------data_science-5)
+- [Dyydyd](https://medium.com/@hffhhthdhfhfhfhgmailcom/dyydyd-1fb4efbd4795?source=rss------data_science-5)
+- [Fufhfy](https://medium.com/@hffhhthdhfhfhfhgmailcom/fufhfy-320a4d2fa60b?source=rss------data_science-5)
+- [Futuru](https://medium.com/@shmarhkhalhkrmangmailcom/futuru-ab2b62631b56?source=rss------data_science-5)
+- [Fjhgfh](https://medium.com/@shmarhkhalhkrmangmailcom/fjhgfh-0114320367a6?source=rss------data_science-5)
+- [Hfhffufh](https://medium.com/@shmarhkhalhkrmangmailcom/hfhffufh-e96a39f98345?source=rss------data_science-5)
+- [Gaby Solves the Climate Crisis](https://medium.com/@kayflanagan67/gaby-solves-the-climate-crisis-d8a8695cc275?source=rss------data_science-5)
+- [From Courtrooms to Code: My Son Ditched Law for Machine Learning - Now Earns $10K+ Monthly at 21](https://medium.com/write-a-catalyst/from-courtrooms-to-code-my-son-ditched-law-for-machine-learning-now-earns-10k-monthly-at-21-5b3ea999f392?source=rss------data_science-5)
+- [Log Loss’s Advantage For Determining Overfitting vs AUC](https://medium.com/@chahnapatel2798/log-losss-advantage-for-determining-overfitting-vs-auc-dad90cb5c61c?source=rss------data_science-5)
+- [Overview of Data Engineering in Azure Cloud Environment](https://medium.com/@pvvishal96.vv/overview-of-data-engineering-in-azure-cloud-environment-c4a135091d2d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
