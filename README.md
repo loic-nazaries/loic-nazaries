@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان](https://medium.com/@shmarhkhalhgrgan665/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-36c36786dc8b?source=rss------data_science-5)
-- [شماره خاله همدان# شماره خاله همدان#شماره خاله رشت](https://medium.com/@shmarhkhalhaslamshhr31/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-5b38ec4c95a1?source=rss------data_science-5)
-- [شماره خاله همدان# شماره خاله همدان#شماره خاله رشت](https://medium.com/@shmarhkhalhaslamshhr31/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-0da7d831aa2e?source=rss------data_science-5)
-- [شماره خاله همدان# شماره خاله همدان#شماره خاله رشت](https://medium.com/@shmarhkhalhaslamshhr31/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-388353210246?source=rss------data_science-5)
-- [How I Earned $300 Daily Using Voice Cloning Tools](https://medium.com/@Alera-Sky/how-i-earned-300-daily-using-voice-cloning-tools-0ae4b294fa5e?source=rss------data_science-5)
-- [شماره خاله شیراز#شماره خاله شیراز#شماره خاله شیراز](https://medium.com/@khalhshyraz027/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-7cc2ac360535?source=rss------data_science-5)
-- [شماره خاله شیراز#شماره خاله شیراز#شماره خاله شیراز](https://medium.com/@khalhshyraz027/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-9f942df6864f?source=rss------data_science-5)
-- [شماره خاله شیراز#شماره خاله شیراز#شماره خاله شیراز](https://medium.com/@khalhshyraz027/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-b7f4a596084b?source=rss------data_science-5)
-- [Creating Viral Videos in Minutes: How I Did It](https://medium.com/@Smart-Income/creating-viral-videos-in-minutes-how-i-did-it-d88f582a7165?source=rss------data_science-5)
-- [Day 09 — Principal Component Analysis &lpar;PCA&rpar;](https://medium.com/@etimfonime/day-09-principal-component-analysis-pca-19db4aa1bf7c?source=rss------data_science-5)
+- [How to Build a $527 Daily Income Stream with This New AI App](https://medium.com/@Smart-Income/how-to-build-a-527-daily-income-stream-with-this-new-ai-app-865d87bfef48?source=rss------data_science-5)
+- [Fjfjfj](https://medium.com/@shmarh098/fjfjfj-89ffa8ff8d87?source=rss------data_science-5)
+- [Jfjfuf](https://medium.com/@shmarh098/jfjfuf-cd4a41405824?source=rss------data_science-5)
+- [Uffufuf](https://medium.com/@shmarh098/uffufuf-f5aa8549f15a?source=rss------data_science-5)
+- [Day 10 — K-Means Clustering](https://medium.com/@etimfonime/day-10-k-means-clustering-838015d21b21?source=rss------data_science-5)
+- [以下に日本語訳を提供します：](https://medium.com/@tokyostore93/%E4%BB%A5%E4%B8%8B%E3%81%AB%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%97%E3%81%BE%E3%81%99-6f8208b4708e?source=rss------data_science-5)
+- [How to Do Effective Data Visualization: A Comprehensive Guide](https://medium.com/@cdq11boyz/how-to-do-effective-data-visualization-a-comprehensive-guide-5f216161c73a?source=rss------data_science-5)
+- [Fixing Unexpected Layout Issues in Matplotlib Using np.ravel&lpar;&rpar;](https://medium.com/@joshikoloj/fixing-unexpected-layout-issues-in-matplotlib-using-np-ravel-b5f02ab94683?source=rss------data_science-5)
+- [Wake Vision: Solving the TinyML Dataset Crisis](https://medium.com/packt-hub/wake-vision-solving-the-tinyml-dataset-crisis-bae95c7c8706?source=rss------data_science-5)
+- [Normalização de Dados em Python: Como e Por Que Utilizar](https://medium.com/@chrysbrw.contato/normaliza%C3%A7%C3%A3o-de-dados-em-python-como-e-por-que-utilizar-72d3afbf2aad?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
