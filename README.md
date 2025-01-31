@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Build a $527 Daily Income Stream with This New AI App](https://medium.com/@Smart-Income/how-to-build-a-527-daily-income-stream-with-this-new-ai-app-865d87bfef48?source=rss------data_science-5)
-- [Fjfjfj](https://medium.com/@shmarh098/fjfjfj-89ffa8ff8d87?source=rss------data_science-5)
-- [Jfjfuf](https://medium.com/@shmarh098/jfjfuf-cd4a41405824?source=rss------data_science-5)
-- [Uffufuf](https://medium.com/@shmarh098/uffufuf-f5aa8549f15a?source=rss------data_science-5)
-- [Day 10 — K-Means Clustering](https://medium.com/@etimfonime/day-10-k-means-clustering-838015d21b21?source=rss------data_science-5)
-- [以下に日本語訳を提供します：](https://medium.com/@tokyostore93/%E4%BB%A5%E4%B8%8B%E3%81%AB%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%97%E3%81%BE%E3%81%99-6f8208b4708e?source=rss------data_science-5)
-- [How to Do Effective Data Visualization: A Comprehensive Guide](https://medium.com/@cdq11boyz/how-to-do-effective-data-visualization-a-comprehensive-guide-5f216161c73a?source=rss------data_science-5)
-- [Fixing Unexpected Layout Issues in Matplotlib Using np.ravel&lpar;&rpar;](https://medium.com/@joshikoloj/fixing-unexpected-layout-issues-in-matplotlib-using-np-ravel-b5f02ab94683?source=rss------data_science-5)
-- [Wake Vision: Solving the TinyML Dataset Crisis](https://medium.com/packt-hub/wake-vision-solving-the-tinyml-dataset-crisis-bae95c7c8706?source=rss------data_science-5)
-- [Normalização de Dados em Python: Como e Por Que Utilizar](https://medium.com/@chrysbrw.contato/normaliza%C3%A7%C3%A3o-de-dados-em-python-como-e-por-que-utilizar-72d3afbf2aad?source=rss------data_science-5)
+- [Qkqkjq](https://medium.com/@e92807030/qkqkjq-6c6a9d627639?source=rss------data_science-5)
+- [Isiw](https://medium.com/@e92807030/isiw-970943efec7b?source=rss------data_science-5)
+- [Wiiw](https://medium.com/@e92807030/wiiw-6d8ce2231a2f?source=rss------data_science-5)
+- [Python in Medical Imaging: A ROI Extraction Example](https://medium.com/@lamunozs/python-in-medical-imaging-a-roi-extraction-example-0f315336dd6d?source=rss------data_science-5)
+- [nxjxhhz](https://medium.com/@mhmdrdasara589/nxjxhhz-f0719f13573c?source=rss------data_science-5)
+- [xnnxjx](https://medium.com/@mhmdrdasara589/xnnxjx-a8a15d789aca?source=rss------data_science-5)
+- [xnnx](https://medium.com/@mhmdrdasara589/xnnx-184361ac4b90?source=rss------data_science-5)
+- [Predicting Bitcoin Prices: A Data-Driven Approach to Crypto Trends](https://medium.com/@sithuaung2263/predicting-bitcoin-prices-a-data-driven-approach-to-crypto-trends-5179f0b9594b?source=rss------data_science-5)
+- [Machine Learning for Bank Loan Approval Prediction: A Comparative Analysis](https://medium.com/@ezejaracheal/machine-learning-for-bank-loan-approval-prediction-a-comparative-analysis-5cbfa3d3dea8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
