@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [ChatGPT’s Deep Research: The New Gold Standard in AI-Powered Academic Discovery](https://medium.com/@napsaga/chatgpts-deep-research-the-new-gold-standard-in-ai-powered-academic-discovery-236d8e26c8b0?source=rss------data_science-5)
-- [The danger of over simplifying complex requirements](https://medium.com/@occam.works/the-danger-of-over-simplifying-complex-requirements-bc4c07c3e9c3?source=rss------data_science-5)
-- [Bdhdj](https://medium.com/@jdhsjsbsdjsjj/bdhdj-ef8f97adb645?source=rss------data_science-5)
-- [From Undergrad to Job to an Ivy League Grad: My Journey to Finding the Right Path](https://anaghasridhar.medium.com/from-undergrad-to-job-to-an-ivy-league-grad-my-journey-to-finding-the-right-path-fc0c6cedb741?source=rss------data_science-5)
-- [5 Practical Ways In Which Non-Data Analysts Can Support Their Data Teams.](https://sb-escribe.medium.com/5-practical-ways-in-which-non-data-analysts-can-support-their-data-teams-b195e1589e16?source=rss------data_science-5)
-- [wjakwkwksks](https://medium.com/@shmarhkhalhthranshmarhkhalh7/wjakwkwksks-6a61909ac981?source=rss------data_science-5)
-- [akkakaka](https://medium.com/@shmarhkhalhthranshmarhkhalh7/akkakaka-c40e7750dc49?source=rss------data_science-5)
-- [skkwkwkw](https://medium.com/@shmarhkhalhthranshmarhkhalh7/skkwkwkw-9bce5f0e9051?source=rss------data_science-5)
-- [Siacoin — the Filecoin Killer](https://medium.com/@jake.e.rubin/siacoin-the-filecoin-killer-c87eff2a8715?source=rss------data_science-5)
-- [kalalalak](https://medium.com/@s64482638/kalalalak-60b2de3ea977?source=rss------data_science-5)
+- [gjcgsffg](https://medium.com/@jzjsm649/gjcgsffg-e98cfd581305?source=rss------data_science-5)
+- [vhfhhfch](https://medium.com/@jzjsm649/vhfhhfch-9bef4b3aaf48?source=rss------data_science-5)
+- [gujgghfh](https://medium.com/@jzjsm649/gujgghfh-338d5da2274f?source=rss------data_science-5)
+- [Using Embeddings and Self-Attention to Detect Anomalies in Tabular Data](https://medium.com/@konrad.jagusiak/using-embeddings-and-self-attention-to-detect-anomalies-in-tabular-data-40561486047c?source=rss------data_science-5)
+- [Hdhhd](https://medium.com/@shmarh098/hdhhd-d2b02c3fb817?source=rss------data_science-5)
+- [I will write compliance, risk management, financial analyst, data analyst grc resume](https://medium.com/@sandygilliam190/i-will-write-compliance-risk-management-financial-analyst-data-analyst-grc-resume-fff1e0887400?source=rss------data_science-5)
+- [Dyry](https://medium.com/@dyudydydydudyd/dyry-a95370453ae2?source=rss------data_science-5)
+- [Ufufdy](https://medium.com/@dyudydydydudyd/ufufdy-1744606e6f8e?source=rss------data_science-5)
+- [Hdhdhd](https://medium.com/@dyudydydydudyd/hdhdhd-e29f26820ac3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
