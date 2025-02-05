@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [gjcgsffg](https://medium.com/@jzjsm649/gjcgsffg-e98cfd581305?source=rss------data_science-5)
-- [vhfhhfch](https://medium.com/@jzjsm649/vhfhhfch-9bef4b3aaf48?source=rss------data_science-5)
-- [gujgghfh](https://medium.com/@jzjsm649/gujgghfh-338d5da2274f?source=rss------data_science-5)
-- [Using Embeddings and Self-Attention to Detect Anomalies in Tabular Data](https://medium.com/@konrad.jagusiak/using-embeddings-and-self-attention-to-detect-anomalies-in-tabular-data-40561486047c?source=rss------data_science-5)
-- [Hdhhd](https://medium.com/@shmarh098/hdhhd-d2b02c3fb817?source=rss------data_science-5)
-- [I will write compliance, risk management, financial analyst, data analyst grc resume](https://medium.com/@sandygilliam190/i-will-write-compliance-risk-management-financial-analyst-data-analyst-grc-resume-fff1e0887400?source=rss------data_science-5)
-- [Dyry](https://medium.com/@dyudydydydudyd/dyry-a95370453ae2?source=rss------data_science-5)
-- [Ufufdy](https://medium.com/@dyudydydydudyd/ufufdy-1744606e6f8e?source=rss------data_science-5)
-- [Hdhdhd](https://medium.com/@dyudydydydudyd/hdhdhd-e29f26820ac3?source=rss------data_science-5)
+- [Exploratory Data Analysis&lpar;EDA&rpar;: The Art of Understanding Data-&lpar;Stat-101&rpar;](https://medium.com/@padalaarvindchary1/exploratory-data-analysis-eda-the-art-of-understanding-data-stat-101-fff83b298377?source=rss------data_science-5)
+- [Being unemployed for 8 months](https://medium.com/@karleen.AI/being-unemployed-for-8-months-b60af1827a55?source=rss------data_science-5)
+- [Understanding the Root System: Functions, Types, and Importance.](https://medium.com/@maharkashif1qr/understanding-the-root-system-functions-types-and-importance-46b3bb0812d9?source=rss------data_science-5)
+- [Building My First ChatBot with AI: Python, Ollama, and DeepSeek](https://medium.com/@martin.jurado.p/building-my-first-chatbot-with-ai-python-ollama-and-deepseek-68c57fcc1e38?source=rss------data_science-5)
+- [ASAL USUL KATA ALLAH](https://medium.com/@johandename/asal-usul-kata-allah-ac3ba7128a8b?source=rss------data_science-5)
+- [How AI Can Revolutionize Your Diet: Smarter Meal Planning in Seconds](https://medium.com/@joey_montoya/how-ai-can-revolutionize-your-diet-smarter-meal-planning-in-seconds-c2359f7406ae?source=rss------data_science-5)
+- [Statistically Significant](https://medium.com/@muhammadshoaibmuhammadlatif/statistically-significant-bd65dfeaabec?source=rss------data_science-5)
+- [Teaching AI to Think — The Journey of Reasoning in Language Models](https://medium.com/@jshaik2452/teaching-ai-to-think-the-journey-of-reasoning-in-language-models-4f550ef6ef57?source=rss------data_science-5)
+- [Data Science for Product Managers in the Payments Industry: Basic Concepts and How to Apply Them](https://medium.com/@giovana.biasetti/data-science-for-product-managers-in-the-payments-industry-basic-concepts-and-how-to-apply-them-cfa495bde4c2?source=rss------data_science-5)
+- [Automatic Error Detection in Tabular Datasets with Python: A Comprehensive Guide](https://medium.com/@silva.f.francis/automatic-error-detection-in-tabular-datasets-with-python-a-comprehensive-guide-9d3676b67885?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
