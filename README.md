@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Exploratory Data Analysis&lpar;EDA&rpar;: The Art of Understanding Data-&lpar;Stat-101&rpar;](https://medium.com/@padalaarvindchary1/exploratory-data-analysis-eda-the-art-of-understanding-data-stat-101-fff83b298377?source=rss------data_science-5)
-- [Being unemployed for 8 months](https://medium.com/@karleen.AI/being-unemployed-for-8-months-b60af1827a55?source=rss------data_science-5)
-- [Understanding the Root System: Functions, Types, and Importance.](https://medium.com/@maharkashif1qr/understanding-the-root-system-functions-types-and-importance-46b3bb0812d9?source=rss------data_science-5)
-- [Building My First ChatBot with AI: Python, Ollama, and DeepSeek](https://medium.com/@martin.jurado.p/building-my-first-chatbot-with-ai-python-ollama-and-deepseek-68c57fcc1e38?source=rss------data_science-5)
-- [ASAL USUL KATA ALLAH](https://medium.com/@johandename/asal-usul-kata-allah-ac3ba7128a8b?source=rss------data_science-5)
-- [How AI Can Revolutionize Your Diet: Smarter Meal Planning in Seconds](https://medium.com/@joey_montoya/how-ai-can-revolutionize-your-diet-smarter-meal-planning-in-seconds-c2359f7406ae?source=rss------data_science-5)
-- [Statistically Significant](https://medium.com/@muhammadshoaibmuhammadlatif/statistically-significant-bd65dfeaabec?source=rss------data_science-5)
-- [Teaching AI to Think — The Journey of Reasoning in Language Models](https://medium.com/@jshaik2452/teaching-ai-to-think-the-journey-of-reasoning-in-language-models-4f550ef6ef57?source=rss------data_science-5)
-- [Data Science for Product Managers in the Payments Industry: Basic Concepts and How to Apply Them](https://medium.com/@giovana.biasetti/data-science-for-product-managers-in-the-payments-industry-basic-concepts-and-how-to-apply-them-cfa495bde4c2?source=rss------data_science-5)
-- [Automatic Error Detection in Tabular Datasets with Python: A Comprehensive Guide](https://medium.com/@silva.f.francis/automatic-error-detection-in-tabular-datasets-with-python-a-comprehensive-guide-9d3676b67885?source=rss------data_science-5)
+- [Understanding Electrical Motors: Types, Working Principles, and Applications.](https://medium.com/@maharkashif1qr/understanding-electrical-motors-types-working-principles-and-applications-e17305a0a306?source=rss------data_science-5)
+- [New AG Bondi Establishes ‘Weaponization Working Group’](https://medium.com/@kujou3150/new-ag-bondi-establishes-weaponization-working-group-4eeeb154a061?source=rss------data_science-5)
+- [A Review of The Subtle Art of Not Giving a F*ck – A Refreshing Take on Self-Help.](https://medium.com/@pereiradomnic44/a-review-of-the-subtle-art-of-not-giving-a-f-ck-a-refreshing-take-on-self-help-aeb5759a5df9?source=rss------data_science-5)
+- [¿Qué sabemos y entendemos acerca de la librería Surprise de Python?](https://medium.com/@david.alejandro.jurado/qu%C3%A9-sabemos-y-entendemos-acerca-de-la-librer%C3%ADa-surprise-de-python-1843e0ec7bb0?source=rss------data_science-5)
+- [Motivating vs. Demotivating Phrases That Define Great Leadership.](https://medium.com/@pereiradomnic44/motivating-vs-demotivating-phrases-that-define-great-leadership-856fc38fbec3?source=rss------data_science-5)
+- [Shjshe](https://medium.com/@jdjshisuis/shjshe-26dfd0b5fa2c?source=rss------data_science-5)
+- [Jdhdh](https://medium.com/@jxhdushsj/jdhdh-8f8380765480?source=rss------data_science-5)
+- [Jshsus](https://medium.com/@jxhdushsj/jshsus-701fbfa0e43a?source=rss------data_science-5)
+- [From Overwhelmed to Efficient: 4 ChatGPT-Powered Data Analysis Shortcuts](https://medium.com/@hla346/from-overwhelmed-to-efficient-4-chatgpt-powered-data-analysis-shortcuts-4b27851a5e0a?source=rss------data_science-5)
+- [10 Bizarre Competitions You’d Never Guess Are Real](https://medium.com/@kujou3150/10-bizarre-competitions-youd-never-guess-are-real-e9f9f8b1d724?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
