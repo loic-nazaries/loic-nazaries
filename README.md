@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Understanding Electrical Motors: Types, Working Principles, and Applications.](https://medium.com/@maharkashif1qr/understanding-electrical-motors-types-working-principles-and-applications-e17305a0a306?source=rss------data_science-5)
-- [New AG Bondi Establishes ‘Weaponization Working Group’](https://medium.com/@kujou3150/new-ag-bondi-establishes-weaponization-working-group-4eeeb154a061?source=rss------data_science-5)
-- [A Review of The Subtle Art of Not Giving a F*ck – A Refreshing Take on Self-Help.](https://medium.com/@pereiradomnic44/a-review-of-the-subtle-art-of-not-giving-a-f-ck-a-refreshing-take-on-self-help-aeb5759a5df9?source=rss------data_science-5)
-- [¿Qué sabemos y entendemos acerca de la librería Surprise de Python?](https://medium.com/@david.alejandro.jurado/qu%C3%A9-sabemos-y-entendemos-acerca-de-la-librer%C3%ADa-surprise-de-python-1843e0ec7bb0?source=rss------data_science-5)
-- [Motivating vs. Demotivating Phrases That Define Great Leadership.](https://medium.com/@pereiradomnic44/motivating-vs-demotivating-phrases-that-define-great-leadership-856fc38fbec3?source=rss------data_science-5)
-- [Shjshe](https://medium.com/@jdjshisuis/shjshe-26dfd0b5fa2c?source=rss------data_science-5)
-- [Jdhdh](https://medium.com/@jxhdushsj/jdhdh-8f8380765480?source=rss------data_science-5)
-- [Jshsus](https://medium.com/@jxhdushsj/jshsus-701fbfa0e43a?source=rss------data_science-5)
-- [From Overwhelmed to Efficient: 4 ChatGPT-Powered Data Analysis Shortcuts](https://medium.com/@hla346/from-overwhelmed-to-efficient-4-chatgpt-powered-data-analysis-shortcuts-4b27851a5e0a?source=rss------data_science-5)
-- [10 Bizarre Competitions You’d Never Guess Are Real](https://medium.com/@kujou3150/10-bizarre-competitions-youd-never-guess-are-real-e9f9f8b1d724?source=rss------data_science-5)
+- [Turuud](https://medium.com/@agvuvcc118/turuud-c7f7d9126273?source=rss------data_science-5)
+- [Uffuffuru](https://medium.com/@s61448901/uffuffuru-570b6aecc576?source=rss------data_science-5)
+- [Hffufy](https://medium.com/@s61448901/hffufy-b1be096ffdd3?source=rss------data_science-5)
+- [Fyydydy](https://medium.com/@s61448901/fyydydy-78c61d0088ef?source=rss------data_science-5)
+- [Deep Seek: The Next Big Thing in AI &amp; Search Technology](https://medium.com/@victorhorlly22/deep-seek-the-next-big-thing-in-ai-search-technology-c6ca2ca14345?source=rss------data_science-5)
+- [Fydyyd](https://medium.com/@dyudydydydudyd/fydyyd-f130de99ccf1?source=rss------data_science-5)
+- [Dyyddyyd](https://medium.com/@dyudydydydudyd/dyyddyyd-471959d0d696?source=rss------data_science-5)
+- [Tdyrryyd](https://medium.com/@dyudydydydudyd/tdyrryyd-da9b7a369ab0?source=rss------data_science-5)
+- [Best app Monetization tool](https://medium.com/@victorhorlly22/best-app-monetization-tool-af3e4544ea14?source=rss------data_science-5)
+- [Gemini 2.0: Google’s Unexpected Leap in the AI Race](https://pub.towardsai.net/gemini-2-0-googles-unexpected-leap-in-the-ai-race-6990b6d08c52?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
