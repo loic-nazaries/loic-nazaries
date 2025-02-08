@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Turuud](https://medium.com/@agvuvcc118/turuud-c7f7d9126273?source=rss------data_science-5)
-- [Uffuffuru](https://medium.com/@s61448901/uffuffuru-570b6aecc576?source=rss------data_science-5)
-- [Hffufy](https://medium.com/@s61448901/hffufy-b1be096ffdd3?source=rss------data_science-5)
-- [Fyydydy](https://medium.com/@s61448901/fyydydy-78c61d0088ef?source=rss------data_science-5)
-- [Deep Seek: The Next Big Thing in AI &amp; Search Technology](https://medium.com/@victorhorlly22/deep-seek-the-next-big-thing-in-ai-search-technology-c6ca2ca14345?source=rss------data_science-5)
-- [Fydyyd](https://medium.com/@dyudydydydudyd/fydyyd-f130de99ccf1?source=rss------data_science-5)
-- [Dyyddyyd](https://medium.com/@dyudydydydudyd/dyyddyyd-471959d0d696?source=rss------data_science-5)
-- [Tdyrryyd](https://medium.com/@dyudydydydudyd/tdyrryyd-da9b7a369ab0?source=rss------data_science-5)
-- [Best app Monetization tool](https://medium.com/@victorhorlly22/best-app-monetization-tool-af3e4544ea14?source=rss------data_science-5)
-- [Gemini 2.0: Google’s Unexpected Leap in the AI Race](https://pub.towardsai.net/gemini-2-0-googles-unexpected-leap-in-the-ai-race-6990b6d08c52?source=rss------data_science-5)
+- [jfhdm](https://medium.com/@tajykpwrkwthr/jfhdm-0154abacb8e5?source=rss------data_science-5)
+- [شماره خاله تهران پارس شماره خاله تهران شماره خاله شیراز شماره خاله اندیشه شماره خاله ارومیه](https://medium.com/@ngarhnkh/klvkkgh-a610f149e240?source=rss------data_science-5)
+- [Crunching the Numbers: Who Wins Super Bowl 59?](https://medium.com/@atalukder2014/crunching-the-numbers-who-wins-super-bowl-59-99c7efd584da?source=rss------data_science-5)
+- [شماره خاله تهران پارس شماره خاله تهران شماره خاله شیراز شماره خاله اندیشه شماره خاله ارومیه](https://medium.com/@mmang3063/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87-ca6bee7d808f?source=rss------data_science-5)
+- [شماره خاله تهران پارس شماره خاله تهران شماره خاله شیراز شماره خاله اندیشه شماره خاله ارومیه](https://medium.com/@mmang3063/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87-3917dc0db4f2?source=rss------data_science-5)
+- [شماره خاله تهران پارس شماره خاله تهران شماره خاله شیراز شماره خاله اندیشه شماره خاله ارومیه](https://medium.com/@mmang3063/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87-8cbec89df8d5?source=rss------data_science-5)
+- [Introduction to GenAI for Data Engineering: A New Era of Data Processing](https://medium.com/@dislevekanku7/introduction-to-genai-for-data-engineering-a-new-era-of-data-processing-fa2eded73b44?source=rss------data_science-5)
+- [Seaborn — Histogram Plot](https://dr-alvin-ang.medium.com/seaborn-histogram-plot-5c589a136cfb?source=rss------data_science-5)
+- [kjcjnh](https://medium.com/@zyzymdynh950/kjcjnh-bd90e85ffb82?source=rss------data_science-5)
+- [Different Meta Data Science Roles](https://medium.com/@kaylaxie/different-meta-data-science-roles-fc7654d1317f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
