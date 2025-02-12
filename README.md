@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Acceptance-Rejection Sampling Method Illustrated with Python](https://medium.com/@WeiranLin/acceptance-rejection-sampling-method-illustrated-with-python-0552c0eb27d2?source=rss------data_science-5)
-- [Tabby appears to have made a significant decision regarding its IPO by selecting investment banks…](https://medium.com/@a48985907/tabby-appears-to-have-made-a-significant-decision-regarding-its-ipo-by-selecting-investment-banks-718ee9eb7d4a?source=rss------data_science-5)
-- [What NHL Teams Need at the Trade Deadline: Insights from HC Clusters and Data Analysis](https://medium.com/@adam.basalay/what-nhl-teams-need-at-the-trade-deadline-insights-from-hc-clusters-and-data-analysis-ef082067b502?source=rss------data_science-5)
-- [ChatGPT vs. DeepSeek](https://medium.com/@mrbrown098613/untitled-af3f3200caba?source=rss------data_science-5)
-- [The Great Rewrite Debate of 2025 &lpar;Part 2&rpar; | The Reality Check](https://levelup.gitconnected.com/the-great-rewrite-debate-of-2025-part-2-the-reality-check-f508a2df0d61?source=rss------data_science-5)
-- [[SAS] 資料轉置 Transpose](https://medium.com/@YC_notes/sas-%E8%B3%87%E6%96%99%E8%BD%89%E7%BD%AE-transpose-622d79335cc5?source=rss------data_science-5)
-- [How a Unique AI App Helped Me Create Engaging Kids’ Books](https://medium.com/@Smart-Income/how-a-unique-ai-app-helped-me-create-engaging-kids-books-6fbe0f43d50d?source=rss------data_science-5)
-- [mknjh](https://medium.com/@tajykfryba719/mknjh-41b35267f970?source=rss------data_science-5)
-- [mkdnm](https://medium.com/@tajykfryba719/mkdnm-945534fd3b84?source=rss------data_science-5)
-- [mcjcnk](https://medium.com/@tajykfryba719/mcjcnk-6662cd33680e?source=rss------data_science-5)
+- [Nostalgia — Insiden Pelemparan Kepala Babi untuk Sang Pengkhianat, Luis Figo](https://medium.com/@adaBonus88/nostalgia-insiden-pelemparan-kepala-babi-untuk-sang-pengkhianat-luis-figo-e93d8ba26bcc?source=rss------data_science-5)
+- [Perbedaan Data Analysis, Data Scientist, dan Data Engineer](https://medium.com/@khalif.umar.af/perbedaan-data-analysis-data-scientist-dan-data-engineer-56d797548c5d?source=rss------data_science-5)
+- [Discover How I Started Earning $300 Daily with My Voice!](https://medium.com/@Smart-Income/discover-how-i-started-earning-300-daily-with-my-voice-306f361ae8db?source=rss------data_science-5)
+- [xghdughjjf](https://medium.com/@jzjsm649/xghdughjjf-1443479afcc2?source=rss------data_science-5)
+- [gjydtsdt](https://medium.com/@jzjsm649/gjydtsdt-5badeba86833?source=rss------data_science-5)
+- [fhdggihj](https://medium.com/@jzjsm649/fhdggihj-e7a1ad2143c9?source=rss------data_science-5)
+- [Gini vs. Entropy: A Deep Dive into Classification Impurity Measures](https://medium.com/@natanschons/gini-vs-entropy-a-deep-dive-into-classification-impurity-measures-20dd4663b187?source=rss------data_science-5)
+- [Python by Examples: Developing Parametric Distribution Functions for Judgmental Forecasting &lpar;1 of…](https://medium.com/@mb20261/python-by-examples-developing-parametric-distribution-functions-for-judgmental-forecasting-1-of-a0988898acd6?source=rss------data_science-5)
+- [Python by Examples: Developing Parametric Distribution Functions for Judgmental Forecasting &lpar;2 of…](https://medium.com/@mb20261/python-by-examples-developing-parametric-distribution-functions-for-judgmental-forecasting-2-of-e401787e040b?source=rss------data_science-5)
+- [Hehshd](https://medium.com/@s03823328/hehshd-85b03d8fe259?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
