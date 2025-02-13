@@ -105,16 +105,12 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Nostalgia — Insiden Pelemparan Kepala Babi untuk Sang Pengkhianat, Luis Figo](https://medium.com/@adaBonus88/nostalgia-insiden-pelemparan-kepala-babi-untuk-sang-pengkhianat-luis-figo-e93d8ba26bcc?source=rss------data_science-5)
-- [Perbedaan Data Analysis, Data Scientist, dan Data Engineer](https://medium.com/@khalif.umar.af/perbedaan-data-analysis-data-scientist-dan-data-engineer-56d797548c5d?source=rss------data_science-5)
-- [Discover How I Started Earning $300 Daily with My Voice!](https://medium.com/@Smart-Income/discover-how-i-started-earning-300-daily-with-my-voice-306f361ae8db?source=rss------data_science-5)
-- [xghdughjjf](https://medium.com/@jzjsm649/xghdughjjf-1443479afcc2?source=rss------data_science-5)
-- [gjydtsdt](https://medium.com/@jzjsm649/gjydtsdt-5badeba86833?source=rss------data_science-5)
-- [fhdggihj](https://medium.com/@jzjsm649/fhdggihj-e7a1ad2143c9?source=rss------data_science-5)
-- [Gini vs. Entropy: A Deep Dive into Classification Impurity Measures](https://medium.com/@natanschons/gini-vs-entropy-a-deep-dive-into-classification-impurity-measures-20dd4663b187?source=rss------data_science-5)
-- [Python by Examples: Developing Parametric Distribution Functions for Judgmental Forecasting &lpar;1 of…](https://medium.com/@mb20261/python-by-examples-developing-parametric-distribution-functions-for-judgmental-forecasting-1-of-a0988898acd6?source=rss------data_science-5)
-- [Python by Examples: Developing Parametric Distribution Functions for Judgmental Forecasting &lpar;2 of…](https://medium.com/@mb20261/python-by-examples-developing-parametric-distribution-functions-for-judgmental-forecasting-2-of-e401787e040b?source=rss------data_science-5)
-- [Hehshd](https://medium.com/@s03823328/hehshd-85b03d8fe259?source=rss------data_science-5)
+- [شماره خاله شماره خاله تهران شماره خاله شیراز شماره خاله کرج شماره داف شماره داف تهران شماره کوص…](https://medium.com/@hjj167697/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-ce46477520ad?source=rss------data_science-5)
+- [شماره خاله شماره خاله تهران شماره خاله شیراز شماره خاله کرج شماره داف شماره داف تهران شماره کوص…](https://medium.com/@hjj167697/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-48c9fe0ff8f7?source=rss------data_science-5)
+- [شماره خاله شماره خاله تهران شماره خاله شیراز شماره خاله کرج شماره داف شماره داف تهران شماره کوص…](https://medium.com/@hjj167697/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D9%81-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%D8%B5-bb5e4d855992?source=rss------data_science-5)
+- [jhkgjbvcnb](https://medium.com/@fylm47816/jhkgjbvcnb-fb9cc86e67ae?source=rss------data_science-5)
+- [ksknxkxjnxjc](https://medium.com/@fylm47816/ksknxkxjnxjc-574a13511a13?source=rss------data_science-5)
+- [jxkxmcmxm](https://medium.com/@fylm47816/jxkxmcmxm-a20255ca8533?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
