@@ -105,13 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [AI can fix bugs — but can’t find them: OpenAI’s study highlights limits of LLMs in software…](https://medium.com/@smathanamohan2003/ai-can-fix-bugs-but-cant-find-them-openai-s-study-highlights-limits-of-llms-in-software-b3cccfcf71a1?source=rss------data_science-5)
-- [Trading the Bollinger Band Squeeze: A Python-Based Strategy](https://medium.com/@kridtapon/trading-the-bollinger-band-squeeze-a-python-based-strategy-1ccb8871c1a6?source=rss------data_science-5)
-- [Les Memecoins : Entre Humour et Opportunités de Trading](https://medium.com/@modjibib/les-memecoins-entre-humour-et-opportunit%C3%A9s-de-trading-f272c373a6d9?source=rss------data_science-5)
-- [Think Beyond EXTRACT&lpar;&rpar;: Why Data Professionals Needs a Date Dimension](https://blog.det.life/think-beyond-extract-why-data-professionals-needs-a-date-dimension-4cc92ec3c264?source=rss------data_science-5)
-- [ieejieejwu](https://medium.com/@jsbsownsowsb/ieejieejwu-d923de9c5a76?source=rss------data_science-5)
-- [jwneksbw](https://medium.com/@jsbsownsowsb/jwneksbw-f266f726783b?source=rss------data_science-5)
-- [sniwbsiwb](https://medium.com/@jsbsownsowsb/sniwbsiwb-ef6add9f1bbe?source=rss------data_science-5)
+- [Malaysia Healthcare Expo 2025: Strengthening the Health Bridge Between Malaysia and Indonesia](https://medium.com/@didikurniawanmade/malaysia-healthcare-expo-2025-strengthening-the-health-bridge-between-malaysia-and-indonesia-a9d2a3afdaab?source=rss------data_science-5)
+- [chfhch](https://medium.com/@s95912746/chfhch-ece0d4dbe1dd?source=rss------data_science-5)
+- [hxgdyf](https://medium.com/@s95912746/hxgdyf-657e9a4d19f8?source=rss------data_science-5)
+- [Run a Media Mixed Model with No Code in Minutes!](https://aayush19.medium.com/run-a-media-mixed-model-with-no-code-in-minutes-dbdc18ad8723?source=rss------data_science-5)
+- [aklal](https://medium.com/@shmarhkhalhasfhan489/aklal-946d507d0bc9?source=rss------data_science-5)
+- [sjke](https://medium.com/@shmarhkhalhasfhan489/sjke-585e40117140?source=rss------data_science-5)
+- [sksk](https://medium.com/@shmarhkhalhasfhan489/sksk-aaba5aae9562?source=rss------data_science-5)
+- [wywgشماره خاله همدان شماره خاله نهاوند شماره خاله ملایر شماره خاله تویسرکان شماره خاله اسد آباد…](https://medium.com/@fsl959238/wywg%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%D9%87%D8%A7%D9%88%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D9%84%D8%A7%DB%8C%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D8%AF-%D8%A2%D8%A8%D8%A7%D8%AF-ec49b95c5b73?source=rss------data_science-5)
+- [atafشماره خاله همدان شماره خاله نهاوند شماره خاله ملایر شماره خاله تویسرکان شماره خاله اسد آباد…](https://medium.com/@fsl959238/ataf%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%D9%87%D8%A7%D9%88%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D9%84%D8%A7%DB%8C%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D8%AF-%D8%A2%D8%A8%D8%A7%D8%AF-009d9156c278?source=rss------data_science-5)
+- [ataagشماره خاله همدان شماره خاله نهاوند شماره خاله ملایر شماره خاله تویسرکان شماره خاله اسد آباد…](https://medium.com/@fsl67150/ataag%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%D9%87%D8%A7%D9%88%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D9%84%D8%A7%DB%8C%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D8%AF-%D8%A2%D8%A8%D8%A7%D8%AF-ee38c63a1035?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
