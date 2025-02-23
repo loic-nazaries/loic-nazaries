@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Malaysia Healthcare Expo 2025: Strengthening the Health Bridge Between Malaysia and Indonesia](https://medium.com/@didikurniawanmade/malaysia-healthcare-expo-2025-strengthening-the-health-bridge-between-malaysia-and-indonesia-a9d2a3afdaab?source=rss------data_science-5)
-- [chfhch](https://medium.com/@s95912746/chfhch-ece0d4dbe1dd?source=rss------data_science-5)
-- [hxgdyf](https://medium.com/@s95912746/hxgdyf-657e9a4d19f8?source=rss------data_science-5)
-- [Run a Media Mixed Model with No Code in Minutes!](https://aayush19.medium.com/run-a-media-mixed-model-with-no-code-in-minutes-dbdc18ad8723?source=rss------data_science-5)
-- [aklal](https://medium.com/@shmarhkhalhasfhan489/aklal-946d507d0bc9?source=rss------data_science-5)
-- [sjke](https://medium.com/@shmarhkhalhasfhan489/sjke-585e40117140?source=rss------data_science-5)
-- [sksk](https://medium.com/@shmarhkhalhasfhan489/sksk-aaba5aae9562?source=rss------data_science-5)
-- [wywgشماره خاله همدان شماره خاله نهاوند شماره خاله ملایر شماره خاله تویسرکان شماره خاله اسد آباد…](https://medium.com/@fsl959238/wywg%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%D9%87%D8%A7%D9%88%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D9%84%D8%A7%DB%8C%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D8%AF-%D8%A2%D8%A8%D8%A7%D8%AF-ec49b95c5b73?source=rss------data_science-5)
-- [atafشماره خاله همدان شماره خاله نهاوند شماره خاله ملایر شماره خاله تویسرکان شماره خاله اسد آباد…](https://medium.com/@fsl959238/ataf%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%D9%87%D8%A7%D9%88%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D9%84%D8%A7%DB%8C%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D8%AF-%D8%A2%D8%A8%D8%A7%D8%AF-009d9156c278?source=rss------data_science-5)
-- [ataagشماره خاله همدان شماره خاله نهاوند شماره خاله ملایر شماره خاله تویسرکان شماره خاله اسد آباد…](https://medium.com/@fsl67150/ataag%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%D9%87%D8%A7%D9%88%D9%86%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D9%84%D8%A7%DB%8C%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%88%DB%8C%D8%B3%D8%B1%DA%A9%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D8%AF-%D8%A2%D8%A8%D8%A7%D8%AF-ee38c63a1035?source=rss------data_science-5)
+- [Discover Jeeter Juice Vapes: The Ultimate Flavor Experience](https://medium.com/@alfgreg1950/discover-jeeter-juice-vapes-the-ultimate-flavor-experience-6fa5e8697ba6?source=rss------data_science-5)
+- [What techniques would you use to optimize SQL queries in a data warehouse environment?](https://leonidasgorgo.medium.com/what-techniques-would-you-use-to-optimize-sql-queries-in-a-data-warehouse-environment-2ca0094190b9?source=rss------data_science-5)
+- [I won’t be buying an iPhone 16e for anyone in my family, here’s why](https://medium.com/@mtomcrack/i-wont-be-buying-an-iphone-16e-for-anyone-in-my-family-here-s-why-55affa8e3eea?source=rss------data_science-5)
+- [Gold at Record Highs: A Systematic Trading Experiment](https://medium.com/@kridtapon/gold-at-record-highs-a-systematic-trading-experiment-398fd2888f24?source=rss------data_science-5)
+- [Data Science Lessons from an Inspirational Leader: What I Learned from one of my favorite podcasts](https://medium.com/@mansisharma.8.k/data-science-lessons-from-an-inspirational-leader-what-i-learned-from-one-of-my-favorite-podcasts-1ef083fae855?source=rss------data_science-5)
+- [hcvgigg](https://medium.com/@fylm61590/hcvgigg-10e01b5d3dc1?source=rss------data_science-5)
+- [hccch](https://medium.com/@fylm61590/hccch-b50279409bc1?source=rss------data_science-5)
+- [Stay Focused, Stay Productive, Stay Ahead!](https://medium.com/@ask06111994/stay-focused-stay-productive-stay-ahead-e9e3f62b480c?source=rss------data_science-5)
+- [From Prototype to Production: Securing Enterprise Gen AI with NeMo Guardrails](https://medium.com/@shubham.shardul2019/from-prototype-to-production-securing-enterprise-gen-ai-with-nemo-guardrails-9bf76cb86069?source=rss------data_science-5)
+- [Digital Twins Driving ROI and CO2 Reduction: Evidence from Global Energy Implementations](https://medium.com/@alanmossinger/digital-twins-driving-roi-and-co2-reduction-evidence-from-global-energy-implementations-c1eb057c99c3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
