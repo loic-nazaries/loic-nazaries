@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Discover Jeeter Juice Vapes: The Ultimate Flavor Experience](https://medium.com/@alfgreg1950/discover-jeeter-juice-vapes-the-ultimate-flavor-experience-6fa5e8697ba6?source=rss------data_science-5)
-- [What techniques would you use to optimize SQL queries in a data warehouse environment?](https://leonidasgorgo.medium.com/what-techniques-would-you-use-to-optimize-sql-queries-in-a-data-warehouse-environment-2ca0094190b9?source=rss------data_science-5)
-- [I won’t be buying an iPhone 16e for anyone in my family, here’s why](https://medium.com/@mtomcrack/i-wont-be-buying-an-iphone-16e-for-anyone-in-my-family-here-s-why-55affa8e3eea?source=rss------data_science-5)
-- [Gold at Record Highs: A Systematic Trading Experiment](https://medium.com/@kridtapon/gold-at-record-highs-a-systematic-trading-experiment-398fd2888f24?source=rss------data_science-5)
-- [Data Science Lessons from an Inspirational Leader: What I Learned from one of my favorite podcasts](https://medium.com/@mansisharma.8.k/data-science-lessons-from-an-inspirational-leader-what-i-learned-from-one-of-my-favorite-podcasts-1ef083fae855?source=rss------data_science-5)
-- [hcvgigg](https://medium.com/@fylm61590/hcvgigg-10e01b5d3dc1?source=rss------data_science-5)
-- [hccch](https://medium.com/@fylm61590/hccch-b50279409bc1?source=rss------data_science-5)
-- [Stay Focused, Stay Productive, Stay Ahead!](https://medium.com/@ask06111994/stay-focused-stay-productive-stay-ahead-e9e3f62b480c?source=rss------data_science-5)
-- [From Prototype to Production: Securing Enterprise Gen AI with NeMo Guardrails](https://medium.com/@shubham.shardul2019/from-prototype-to-production-securing-enterprise-gen-ai-with-nemo-guardrails-9bf76cb86069?source=rss------data_science-5)
-- [Digital Twins Driving ROI and CO2 Reduction: Evidence from Global Energy Implementations](https://medium.com/@alanmossinger/digital-twins-driving-roi-and-co2-reduction-evidence-from-global-energy-implementations-c1eb057c99c3?source=rss------data_science-5)
+- [Jrufufu](https://medium.com/@shmarhkhalhsyghh0/jrufufu-28e3cfd4bbe6?source=rss------data_science-5)
+- [Ufjfhfh](https://medium.com/@shmarhkhalhsyghh0/ufjfhfh-ab9e65abd514?source=rss------data_science-5)
+- [Hdhfhf](https://medium.com/@shmarhkhalhsyghh0/hdhfhf-5852f1c50d71?source=rss------data_science-5)
+- [Rudhhdh](https://medium.com/@azfffzfzdz/rudhhdh-55844199ec09?source=rss------data_science-5)
+- [Fjuffuu](https://medium.com/@azfffzfzdz/fjuffuu-c727e3261877?source=rss------data_science-5)
+- [Cfjfh](https://medium.com/@hgcghh090/cfjfh-94ac12ee53ac?source=rss------data_science-5)
+- [Zddzdzzzd](https://medium.com/@azfffzfzdz/zddzdzzzd-5175ac15c9aa?source=rss------data_science-5)
+- [Fhdyfh](https://medium.com/@hgcghh090/fhdyfh-287a725bf02c?source=rss------data_science-5)
+- [Yfdhdhfh](https://medium.com/@hgcghh090/yfdhdhfh-0436aa947161?source=rss------data_science-5)
+- [Hehshs](https://medium.com/@jjggkljb/hehshs-b02757fc1457?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
