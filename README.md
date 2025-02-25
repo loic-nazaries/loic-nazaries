@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Jrufufu](https://medium.com/@shmarhkhalhsyghh0/jrufufu-28e3cfd4bbe6?source=rss------data_science-5)
-- [Ufjfhfh](https://medium.com/@shmarhkhalhsyghh0/ufjfhfh-ab9e65abd514?source=rss------data_science-5)
-- [Hdhfhf](https://medium.com/@shmarhkhalhsyghh0/hdhfhf-5852f1c50d71?source=rss------data_science-5)
-- [Rudhhdh](https://medium.com/@azfffzfzdz/rudhhdh-55844199ec09?source=rss------data_science-5)
-- [Fjuffuu](https://medium.com/@azfffzfzdz/fjuffuu-c727e3261877?source=rss------data_science-5)
-- [Cfjfh](https://medium.com/@hgcghh090/cfjfh-94ac12ee53ac?source=rss------data_science-5)
-- [Zddzdzzzd](https://medium.com/@azfffzfzdz/zddzdzzzd-5175ac15c9aa?source=rss------data_science-5)
-- [Fhdyfh](https://medium.com/@hgcghh090/fhdyfh-287a725bf02c?source=rss------data_science-5)
-- [Yfdhdhfh](https://medium.com/@hgcghh090/yfdhdhfh-0436aa947161?source=rss------data_science-5)
-- [Hehshs](https://medium.com/@jjggkljb/hehshs-b02757fc1457?source=rss------data_science-5)
+- [Why panic over misinformation is just as harmful as believing it &lpar;and how to protect yourself&rpar;](https://medium.com/@mrwfhgvgh/why-panic-over-misinformation-is-just-as-harmful-as-believing-it-and-how-to-protect-yourself-ff6740114957?source=rss------data_science-5)
+- [R: Pacote dplyr](https://medium.com/@moraeslamazales/r-pacote-dplyr-ff5e1fdbb3f5?source=rss------data_science-5)
+- [GitHub Explained: The Superhero Hideout for Your Code! ‍♂️](https://medium.com/@abhisheksalunke/github-explained-the-superhero-hideout-for-your-code-%EF%B8%8F-7685a57495aa?source=rss------data_science-5)
+- [Implied Volatility Analysis for Insights on Market Sentiment](https://medium.com/@crisvelasquez/implied-volatility-analysis-for-insights-on-market-sentiment-525fef5daf03?source=rss------data_science-5)
+- [Pendidikan Pasca-Pandemi: Menavigasi Realitas Baru dan Membangun Masa Depan yang Tangguh](https://medium.com/@didikurniawanmade/pendidikan-pasca-pandemi-menavigasi-realitas-baru-dan-membangun-masa-depan-yang-tangguh-33dfbe3642c0?source=rss------data_science-5)
+- [Python by Examples: Calculating Conditional Probabilities from a Contingency Table &lpar;1 of 3&rpar;](https://medium.com/@mb20261/python-by-examples-calculating-conditional-probabilities-from-a-contingency-table-1-of-3-5fc4c11b5d20?source=rss------data_science-5)
+- [Python by Examples: Calculating Conditional Probabilities from a Contingency Table &lpar;2 of 3&rpar;](https://medium.com/@mb20261/python-by-examples-calculating-conditional-probabilities-from-a-contingency-table-2-of-3-efa93426e76c?source=rss------data_science-5)
+- [Big Data Storage Concepts](https://medium.com/@isurusandaruwan3840/big-data-storage-concepts-5e7272856e0c?source=rss------data_science-5)
+- [‍Shaving In A Hot Tub: 5 Ways Coding Ruins Our Brains](https://tomaszs2.medium.com/shaving-in-a-hot-tub-5-ways-coding-ruins-our-brains-5dbf272ed045?source=rss------data_science-5)
+- [Palantir Stock Crash – February 24, 2025](https://medium.com/@thanusan940s/palantir-stock-crash-february-24-2025-c900e9501de8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
