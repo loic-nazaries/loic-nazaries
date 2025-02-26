@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why panic over misinformation is just as harmful as believing it &lpar;and how to protect yourself&rpar;](https://medium.com/@mrwfhgvgh/why-panic-over-misinformation-is-just-as-harmful-as-believing-it-and-how-to-protect-yourself-ff6740114957?source=rss------data_science-5)
-- [R: Pacote dplyr](https://medium.com/@moraeslamazales/r-pacote-dplyr-ff5e1fdbb3f5?source=rss------data_science-5)
-- [GitHub Explained: The Superhero Hideout for Your Code! ‍♂️](https://medium.com/@abhisheksalunke/github-explained-the-superhero-hideout-for-your-code-%EF%B8%8F-7685a57495aa?source=rss------data_science-5)
-- [Implied Volatility Analysis for Insights on Market Sentiment](https://medium.com/@crisvelasquez/implied-volatility-analysis-for-insights-on-market-sentiment-525fef5daf03?source=rss------data_science-5)
-- [Pendidikan Pasca-Pandemi: Menavigasi Realitas Baru dan Membangun Masa Depan yang Tangguh](https://medium.com/@didikurniawanmade/pendidikan-pasca-pandemi-menavigasi-realitas-baru-dan-membangun-masa-depan-yang-tangguh-33dfbe3642c0?source=rss------data_science-5)
-- [Python by Examples: Calculating Conditional Probabilities from a Contingency Table &lpar;1 of 3&rpar;](https://medium.com/@mb20261/python-by-examples-calculating-conditional-probabilities-from-a-contingency-table-1-of-3-5fc4c11b5d20?source=rss------data_science-5)
-- [Python by Examples: Calculating Conditional Probabilities from a Contingency Table &lpar;2 of 3&rpar;](https://medium.com/@mb20261/python-by-examples-calculating-conditional-probabilities-from-a-contingency-table-2-of-3-efa93426e76c?source=rss------data_science-5)
-- [Big Data Storage Concepts](https://medium.com/@isurusandaruwan3840/big-data-storage-concepts-5e7272856e0c?source=rss------data_science-5)
-- [‍Shaving In A Hot Tub: 5 Ways Coding Ruins Our Brains](https://tomaszs2.medium.com/shaving-in-a-hot-tub-5-ways-coding-ruins-our-brains-5dbf272ed045?source=rss------data_science-5)
-- [Palantir Stock Crash – February 24, 2025](https://medium.com/@thanusan940s/palantir-stock-crash-february-24-2025-c900e9501de8?source=rss------data_science-5)
+- [Dự án Eco Retreat – Không gian sống xanh đẳng cấp tại Long An](https://medium.com/@trinhanbds/d%E1%BB%B1-%C3%A1n-eco-retreat-kh%C3%B4ng-gian-s%E1%BB%91ng-xanh-%C4%91%E1%BA%B3ng-c%E1%BA%A5p-t%E1%BA%A1i-long-an-0d985b509e1c?source=rss------data_science-5)
+- [Gyشماره خاله تهران شماره خاله کرج شماره خاله اصفهان شماره خاله شیراز شماره خاله کرمانشاه شماره خاله…](https://medium.com/@sshmarhkhalh602/gy%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-1dc00105e265?source=rss------data_science-5)
+- [The Evolution and Impact of Artificial Intelligence &lpar;AI&rpar;](https://medium.com/@meklatianis/the-evolution-and-impact-of-artificial-intelligence-ai-52adc70bef9f?source=rss------data_science-5)
+- [What is Data Engineering?](https://medium.com/@jsong_49820/what-is-data-engineering-be05c7391eea?source=rss------data_science-5)
+- [DataSciBench: An LLM Agent Benchmark for Data Science](https://medium.com/@mdpman/datascibench-an-llm-agent-benchmark-for-data-science-4afbe70fbdf8?source=rss------data_science-5)
+- [Amazon Drops New Apple Mac Mini M4 to Lowest Price of 2025 So Far](https://medium.com/@mathanamohanmathanamohan2003/amazon-drops-new-apple-mac-mini-m4-to-lowest-price-of-2025-so-far-9d85331b8dd8?source=rss------data_science-5)
+- [Identify Absenteeism Patterns — Cluster Analysis](https://medium.com/low-code-for-advanced-data-science/identify-absenteeism-patterns-cluster-analysis-9a96b163ca13?source=rss------data_science-5)
+- [Understand tokenization in natural language processing&lpar;NLP&rpar;. Application to search engine](https://latawarren.medium.com/understand-tokenization-in-natural-language-computing-nlp-application-to-search-engine-8f43b7506960?source=rss------data_science-5)
+- [wuhsshشماره خاله تهران پارس شماره خاله تهران شماره خاله شیراز شماره خاله اندیشه شماره خاله ارومیه](https://medium.com/@htkhttnakh/wuhssh%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87-f9b5928f12d9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
