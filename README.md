@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Scraping a Tricky Website Part 2: Visualizing Data and Building a Dynamic Dashboard](https://medium.com/@zubayrr1011/scraping-a-tricky-website-part-2-visualizing-data-and-building-a-dynamic-dashboard-481bc10b353a?source=rss------data_science-5)
-- [Predicting the Next 2 Years of Development Using UBT-Tech](https://medium.com/@myquest321666/predicting-the-next-2-years-of-development-using-ubt-tech-236e9d5e7418?source=rss------data_science-5)
-- [Apache Pinot?](https://leonidasgorgo.medium.com/apache-pinot-eadb13da5252?source=rss------data_science-5)
-- [hdjshzcخاله تهران خاله اصفهان خاله شیراز خاله تهرانپارس خاله همدان خاله کرج خاله رشت خاله قزوین…](https://medium.com/@dwst939/hdjshzc%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D8%B2%D9%88%DB%8C%D9%86-0bccecf4b4eb?source=rss------data_science-5)
-- [Fbbfbffjrj](https://medium.com/@khalhshmarh07/fbbfbffjrj-e71d81e04d84?source=rss------data_science-5)
-- [sjjshdشماره خاله اصفهان شماره خاله شهرضا شماره خاله گلپایگان شماره فلاورجان شماره خاله نایین شماره…](https://medium.com/@dwst939/sjjshd%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%87%D8%B1%D8%B6%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D9%81%D9%84%D8%A7%D9%88%D8%B1%D8%AC%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%D8%A7%DB%8C%DB%8C%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-dea07c004f54?source=rss------data_science-5)
-- [idkdjxشماره خاله زنجان شماره خاله خدابنده شماره خاله ماه نشان شماره خاله ایجرود شماره خاله خرمدره…](https://medium.com/@dwst939/idkdjx%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B2%D9%86%D8%AC%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AE%D8%AF%D8%A7%D8%A8%D9%86%D8%AF%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%A7%D9%87-%D9%86%D8%B4%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%DB%8C%D8%AC%D8%B1%D9%88%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AE%D8%B1%D9%85%D8%AF%D8%B1%D9%87-c4fc5b06bcea?source=rss------data_science-5)
-- [Idujdfjrj](https://medium.com/@khalhshmarh07/idujdfjrj-91c1dcafd259?source=rss------data_science-5)
-- [Dhhddhrjdsje](https://medium.com/@khalhshmarh07/dhhddhrjdsje-e5ce0fa324bd?source=rss------data_science-5)
-- [euudhxشماره خاله تالش شماره خاله آستارا شماره خاله بندر انزلی شماره خاله رضوانشهر شماره خاله ماسال…](https://medium.com/@dwst64167/euudhx%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D8%A7%D9%84%D8%B4-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A2%D8%B3%D8%AA%D8%A7%D8%B1%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1-%D8%A7%D9%86%D8%B2%D9%84%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%A7%D8%B3%D8%A7%D9%84-9971a3bfd389?source=rss------data_science-5)
+- [kkhg](https://medium.com/@s64482638/kkhg-4f64ac568365?source=rss------data_science-5)
+- [kkh](https://medium.com/@shmarhkhalhardbyl56/kkh-dcc8506e6fe1?source=rss------data_science-5)
+- [khc](https://medium.com/@shmarhkhalhardbyl56/khc-a58b44164752?source=rss------data_science-5)
+- [klhf](https://medium.com/@shmarhkhalhardbyl56/klhf-467bbff5b769?source=rss------data_science-5)
+- [kkh](https://medium.com/@s95912746/kkh-3a166db25b0e?source=rss------data_science-5)
+- [khgg](https://medium.com/@s95912746/khgg-ad186a38582b?source=rss------data_science-5)
+- [kjvj](https://medium.com/@s95912746/kjvj-d9730fe47803?source=rss------data_science-5)
+- [jbjh](https://medium.com/@shmarhkhalhasfhan489/jbjh-2e0e2c57af49?source=rss------data_science-5)
+- [kvf](https://medium.com/@shmarhkhalhasfhan489/kvf-05af861937cd?source=rss------data_science-5)
+- [ivjjh](https://medium.com/@shmarhkhalhasfhan489/ivjjh-24bb140f001a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
