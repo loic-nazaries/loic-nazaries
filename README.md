@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [kkhg](https://medium.com/@s64482638/kkhg-4f64ac568365?source=rss------data_science-5)
-- [kkh](https://medium.com/@shmarhkhalhardbyl56/kkh-dcc8506e6fe1?source=rss------data_science-5)
-- [khc](https://medium.com/@shmarhkhalhardbyl56/khc-a58b44164752?source=rss------data_science-5)
-- [klhf](https://medium.com/@shmarhkhalhardbyl56/klhf-467bbff5b769?source=rss------data_science-5)
-- [kkh](https://medium.com/@s95912746/kkh-3a166db25b0e?source=rss------data_science-5)
-- [khgg](https://medium.com/@s95912746/khgg-ad186a38582b?source=rss------data_science-5)
-- [kjvj](https://medium.com/@s95912746/kjvj-d9730fe47803?source=rss------data_science-5)
-- [jbjh](https://medium.com/@shmarhkhalhasfhan489/jbjh-2e0e2c57af49?source=rss------data_science-5)
-- [kvf](https://medium.com/@shmarhkhalhasfhan489/kvf-05af861937cd?source=rss------data_science-5)
-- [ivjjh](https://medium.com/@shmarhkhalhasfhan489/ivjjh-24bb140f001a?source=rss------data_science-5)
+- [Dudzddzd](https://medium.com/@ufurfhdhrhdh/dudzddzd-f11430f1b547?source=rss------data_science-5)
+- [Introduction to CRM Analysis: Basic Concepts and Application Methods](https://medium.com/global-ai-hub/introduction-to-crm-analysis-basic-concepts-and-application-methods-f9da5a2811d8?source=rss------data_science-5)
+- [mubtveckvx](https://medium.com/@shmarhkhalhthran510/mubtveckvx-e50b62067d90?source=rss------data_science-5)
+- [nubfvjfdfjbv](https://medium.com/@shmarhkhalhthran510/nubfvjfdfjbv-1954032e590f?source=rss------data_science-5)
+- [munybecjf](https://medium.com/@shmarhkhalhthran510/munybecjf-6ee4a9de0476?source=rss------data_science-5)
+- [Apple’s new TV+ app for Android has one feature I want on my iPhone](https://medium.com/@mtomcrack/apples-new-tv-app-for-android-has-one-feature-i-want-on-my-iphone-ab1ff49f522e?source=rss------data_science-5)
+- [09136604819](https://medium.com/@fylm668/09136604819-a0f48e857e34?source=rss------data_science-5)
+- [09136604819](https://medium.com/@fylm668/09136604819-0c5a6022dcf1?source=rss------data_science-5)
+- [09136604819](https://medium.com/@fylm668/09136604819-cf83f72eb164?source=rss------data_science-5)
+- [09136604819](https://medium.com/@fylm1953/09136604819-48bdabf263f5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
