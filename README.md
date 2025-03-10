@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Dudzddzd](https://medium.com/@ufurfhdhrhdh/dudzddzd-f11430f1b547?source=rss------data_science-5)
-- [Introduction to CRM Analysis: Basic Concepts and Application Methods](https://medium.com/global-ai-hub/introduction-to-crm-analysis-basic-concepts-and-application-methods-f9da5a2811d8?source=rss------data_science-5)
-- [mubtveckvx](https://medium.com/@shmarhkhalhthran510/mubtveckvx-e50b62067d90?source=rss------data_science-5)
-- [nubfvjfdfjbv](https://medium.com/@shmarhkhalhthran510/nubfvjfdfjbv-1954032e590f?source=rss------data_science-5)
-- [munybecjf](https://medium.com/@shmarhkhalhthran510/munybecjf-6ee4a9de0476?source=rss------data_science-5)
-- [Apple’s new TV+ app for Android has one feature I want on my iPhone](https://medium.com/@mtomcrack/apples-new-tv-app-for-android-has-one-feature-i-want-on-my-iphone-ab1ff49f522e?source=rss------data_science-5)
-- [09136604819](https://medium.com/@fylm668/09136604819-a0f48e857e34?source=rss------data_science-5)
-- [09136604819](https://medium.com/@fylm668/09136604819-0c5a6022dcf1?source=rss------data_science-5)
-- [09136604819](https://medium.com/@fylm668/09136604819-cf83f72eb164?source=rss------data_science-5)
-- [09136604819](https://medium.com/@fylm1953/09136604819-48bdabf263f5?source=rss------data_science-5)
+- [Fhuguffuf](https://medium.com/@ufurfhdhrhdh/fhuguffuf-af6c5f2e6c7e?source=rss------data_science-5)
+- [How LLMs are Reshaping Financial Services: Real-World Examples](https://medium.datadriveninvestor.com/how-llms-are-reshaping-financial-services-real-world-examples-d07bc74ad4bd?source=rss------data_science-5)
+- [Backtesting a MACD Trading Strategy in Seconds with BacktestZone &amp; ChatGPT](https://medium.datadriveninvestor.com/backtesting-a-macd-trading-strategy-in-seconds-with-backtestzone-chatgpt-ac50bf0b9232?source=rss------data_science-5)
+- [Itfffd](https://medium.com/@ufurfhdhrhdh/itfffd-aed7de16a9b1?source=rss------data_science-5)
+- [Model Selection 9 — Practical Guide to Using Training and Test Sets for Model Evaluation](https://medium.datadriveninvestor.com/model-selection-9-practical-guide-to-using-training-and-test-sets-for-model-evaluation-adff2f513ce0?source=rss------data_science-5)
+- [Jfhffuffh](https://medium.com/@ufurfhdhrhdh/jfhffuffh-694a7457260e?source=rss------data_science-5)
+- [Introducing PyNarrative: A Python Library for Data Storytelling](https://medium.datadriveninvestor.com/introducing-pynarrative-a-python-library-for-data-storytelling-ad4cb3643861?source=rss------data_science-5)
+- [Apple’s Long-Promised AI Overhaul for Siri Runs Into Bugs, Possible Delays](https://medium.com/@mtomcrack/apples-long-promised-ai-overhaul-for-siri-runs-into-bugs-possible-delays-2c96b8c3bf5f?source=rss------data_science-5)
+- [Unlocking Spatial Intelligence with H3: A Practitioner’s Guide to Hexagonal Hierarchical Spatial…](https://medium.com/codex/unlocking-spatial-intelligence-with-h3-a-practitioners-guide-to-hexagonal-hierarchical-spatial-45be909008ae?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
