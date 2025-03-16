@@ -105,16 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Bvczsxcvvnn](https://medium.com/@hhgfdsqsfvbbcx25/bvczsxcvvnn-ae51d4786cb5?source=rss------data_science-5)
-- [Bbxzsadcvbb](https://medium.com/@hhgfdsqsfvbbcx25/bbxzsadcvbb-b4438067761c?source=rss------data_science-5)
-- [Bbvxzscbbn](https://medium.com/@hhgfdsqsfvbbcx25/bbvxzscbbn-02400043a414?source=rss------data_science-5)
-- [gxgxghddh](https://medium.com/@hdzdruur/gxgxghddh-e14d39c5fe1f?source=rss------data_science-5)
-- [hffhfhhf](https://medium.com/@hdzdruur/hffhfhhf-634f46fe0564?source=rss------data_science-5)
-- [hfyfydhddgxg](https://medium.com/@hdzdruur/hfyfydhddgxg-6c74091bc52f?source=rss------data_science-5)
-- [Time Series Forecasting with Moirai](https://medium.com/@kylejones_47003/time-series-forecasting-with-moirai-5d063a40e9ed?source=rss------data_science-5)
-- [ماساژ حضوری همراه با برنامه جلسه ایی فول ماساژهمدان09398300686](https://medium.com/@yaxedoocenlcom/%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%AC%D9%84%D8%B3%D9%87-%D8%A7%DB%8C%DB%8C-%D9%81%D9%88%D9%84-%D9%85%D8%A7%D8%B3%D8%A7%DA%98%D9%87%D9%85%D8%AF%D8%A7%D9%8609398300686-b703e0a0b057?source=rss------data_science-5)
-- [ماساژ حضوری همراه با برنامه جلسه ایی فول ماساژهمدان09398300686](https://medium.com/@yaxedoocenlcom/%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%AC%D9%84%D8%B3%D9%87-%D8%A7%DB%8C%DB%8C-%D9%81%D9%88%D9%84-%D9%85%D8%A7%D8%B3%D8%A7%DA%98%D9%87%D9%85%D8%AF%D8%A7%D9%8609398300686-9e9e89518468?source=rss------data_science-5)
-- [Xemacsشماره خاله تهران پارس شماره خاله تهران شماره خاله شیراز شماره خاله اندیشه شماره خاله ارومیه](https://medium.com/@f53242335/xemacs%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87-7ef32c321155?source=rss------data_science-5)
+- [ChChatGP vs Claude AI](https://medium.com/@finwiz.money/chchatgp-vs-claude-ai-ebf28d5c42a6?source=rss------data_science-5)
+- [09389010538](https://medium.com/@fhtjfhfhfh/09389010538-c81519a4a531?source=rss------data_science-5)
+- [09389010538](https://medium.com/@fhtjfhfhfh/09389010538-a7f714f26a01?source=rss------data_science-5)
+- [09389010538](https://medium.com/@fhtjfhfhfh/09389010538-baefa387732b?source=rss------data_science-5)
+- [Rhjfffjjjf](https://medium.com/@skhalh07/rhjfffjjjf-d68038b40864?source=rss------data_science-5)
+- [Fjfjjffjjfj](https://medium.com/@skhalh07/fjfjjffjjfj-1e33d469fcec?source=rss------data_science-5)
+- [Fhhfhffhjf](https://medium.com/@skhalh07/fhhfhffhjf-57780142f5b2?source=rss------data_science-5)
+- [Dhffjfh](https://medium.com/@khalhshmarh41/dhffjfh-35bb057cef63?source=rss------data_science-5)
+- [Aluno: Lucas Barcia López Hellmann
+Revisão Bibliográfica: API, HTML5 e WebComponents
+1.](https://medium.com/@lucash772004/aluno-lucas-barcia-l%C3%B3pez-hellmann-revis%C3%A3o-bibliogr%C3%A1fica-api-html5-e-webcomponents-1-4ca934ec86ba?source=rss------data_science-5)
+- [fhhffhhd](https://medium.com/@sddrddd23/fhhffhhd-43461efa20a1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
