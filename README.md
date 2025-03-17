@@ -105,18 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [ChChatGP vs Claude AI](https://medium.com/@finwiz.money/chchatgp-vs-claude-ai-ebf28d5c42a6?source=rss------data_science-5)
-- [09389010538](https://medium.com/@fhtjfhfhfh/09389010538-c81519a4a531?source=rss------data_science-5)
-- [09389010538](https://medium.com/@fhtjfhfhfh/09389010538-a7f714f26a01?source=rss------data_science-5)
-- [09389010538](https://medium.com/@fhtjfhfhfh/09389010538-baefa387732b?source=rss------data_science-5)
-- [Rhjfffjjjf](https://medium.com/@skhalh07/rhjfffjjjf-d68038b40864?source=rss------data_science-5)
-- [Fjfjjffjjfj](https://medium.com/@skhalh07/fjfjjffjjfj-1e33d469fcec?source=rss------data_science-5)
-- [Fhhfhffhjf](https://medium.com/@skhalh07/fhhfhffhjf-57780142f5b2?source=rss------data_science-5)
-- [Dhffjfh](https://medium.com/@khalhshmarh41/dhffjfh-35bb057cef63?source=rss------data_science-5)
-- [Aluno: Lucas Barcia López Hellmann
-Revisão Bibliográfica: API, HTML5 e WebComponents
-1.](https://medium.com/@lucash772004/aluno-lucas-barcia-l%C3%B3pez-hellmann-revis%C3%A3o-bibliogr%C3%A1fica-api-html5-e-webcomponents-1-4ca934ec86ba?source=rss------data_science-5)
-- [fhhffhhd](https://medium.com/@sddrddd23/fhhffhhd-43461efa20a1?source=rss------data_science-5)
+- [Ghhhhh](https://medium.com/@khalhshmarh83/ghhhhh-f8718e80e7c4?source=rss------data_science-5)
+- [Dghuii](https://medium.com/@khalhshmarh83/dghuii-f7363a2ae4e9?source=rss------data_science-5)
+- [خاله تهران خاله اصفهان خاله شیراز](https://medium.com/@dwst4841/%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-bf4ddefaeea3?source=rss------data_science-5)
+- [خاله تهران خاله اصفهان خاله شیراز](https://medium.com/@dwst4841/%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-ea51dfdad9e8?source=rss------data_science-5)
+- [Jdjdjخاله تهران خاله اصفهان خاله شیراز](https://medium.com/@dwst4841/jdjdj%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-637d88233459?source=rss------data_science-5)
+- [شماره خاله شماره خاله تهران شماره خاله اصفهان](https://medium.com/@dwst694/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-3e4cdbc26cf8?source=rss------data_science-5)
+- [شماره خاله شماره خاله تهران شماره خاله اصفهان](https://medium.com/@dwst694/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-f36e49121995?source=rss------data_science-5)
+- [Hdjdjشماره خاله شماره خاله تهران شماره خاله اصفهان](https://medium.com/@dwst694/hdjdj%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-6a6fff544f88?source=rss------data_science-5)
+- [Mastering Arrays in Python: The Ultimate Guide for Beginners](https://python.plainenglish.io/mastering-arrays-in-python-the-ultimate-guide-for-beginners-99810546f571?source=rss------data_science-5)
+- [Master NumPy Comparisons or Risk Buggy Data — Your Choice!](https://python.plainenglish.io/master-numpy-comparisons-or-risk-buggy-data-your-choice-7a52081fb4b6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
