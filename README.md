@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [PyNarrative Makes Data Speak — No More Boring Reports](https://analystuttam.medium.com/pynarrative-makes-data-speak-no-more-boring-reports-430d1e630a55?source=rss------data_science-5)
-- [Analisis Churn Pelanggan: Identifikasi Penyebab dan Strategi Retensi untuk Meningkatkan Repeat…](https://medium.com/@m_iqbalhrs/analisis-churn-pelanggan-identifikasi-penyebab-dan-strategi-retensi-untuk-meningkatkan-repeat-f8ca151ecd14?source=rss------data_science-5)
-- [Fdh](https://medium.com/@drsa08882/fdh-d00f53accae9?source=rss------data_science-5)
-- [Hshd](https://medium.com/@drsa08882/hshd-b7a4c9aadc48?source=rss------data_science-5)
-- [Fhfghf](https://medium.com/@drsa08882/fhfghf-e9d9a5cc6fa6?source=rss------data_science-5)
-- [hxjxj](https://medium.com/@sgugisgsjv/hxjxj-3dbe5dc2983f?source=rss------data_science-5)
-- [Revolutionizing Event Engagement: Treasure Hunts with NFT 3D Animations and NFC Integration](https://medium.com/@web3dev.world/revolutionizing-event-engagement-treasure-hunts-with-nft-3d-animations-and-nfc-integration-ff5947a69347?source=rss------data_science-5)
-- [Revolutionizing Financial Analysis with AI: How Tools Like the Financial Statement Analyzer…](https://medium.com/@bhavna25sinha/revolutionizing-financial-analysis-with-ai-how-tools-like-the-financial-statement-analyzer-2c4364bc54e2?source=rss------data_science-5)
-- [bxbxnx](https://medium.com/@sgugisgsjv/bxbxnx-b1708940783a?source=rss------data_science-5)
+- [Combating AI Hallucinations in LLM Applications](https://suchibrata.medium.com/combating-ai-hallucinations-in-llm-applications-44dc58c70b69?source=rss------data_science-5)
+- [Why Every New Data Analyst Should Start with Retail Sales Analysis](https://medium.com/@jpaullasisi/why-every-new-data-analyst-should-start-with-retail-sales-analysis-b9e7038ae911?source=rss------data_science-5)
+- [hfuffujfh](https://medium.com/@fhtjfhfhfh/hfuffujfh-29b5d3a3f791?source=rss------data_science-5)
+- [fhfhffh](https://medium.com/@fhtjfhfhfh/fhfhffh-95ffebf6fee3?source=rss------data_science-5)
+- [fhhffhdy](https://medium.com/@fhtjfhfhfh/fhhffhdy-80b0ea329ad4?source=rss------data_science-5)
+- [How to make your own AI software engineer &lpar;like Devin&rpar;](https://ai.gopubby.com/how-to-make-your-own-ai-software-engineer-like-devin-67ffc7153040?source=rss------data_science-5)
+- [GTC 2025 — NVIDIA DGX Spark for Local LLM and Agents](https://medium.com/@abbasi.alain/gtc-2025-nvidia-dgx-spark-for-local-llm-and-agents-1689b473243b?source=rss------data_science-5)
+- [Kjgvشماره خاله شماره خاله تهران تهرانپارس پونک ونک اسلامشهر قیروکارزین یزد شماره خاله داف کون…](https://medium.com/@wiwjejdhdhx/kjgv%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D9%BE%D9%88%D9%86%DA%A9-%D9%88%D9%86%DA%A9-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D9%82%DB%8C%D8%B1%D9%88%DA%A9%D8%A7%D8%B1%D8%B2%DB%8C%D9%86-%DB%8C%D8%B2%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AF%D8%A7%D9%81-%DA%A9%D9%88%D9%86-fee5bef62133?source=rss------data_science-5)
+- [Djddhشماره خاله تهران شماره خاله تهران پارس شماره خاله اسلامشهر شماره خاله صیغه شماره خاله حضوری…](https://medium.com/@wiwjejdhdhx/djddh%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-1ed35a591e96?source=rss------data_science-5)
+- [Djjjvvشماره خاله اصفهان شماره خاله شهرضا شماره خاله گلپایگان شماره فلاورجان شماره خاله نایین شماره…](https://medium.com/@wiwjejdhdhx/djjjvv%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%87%D8%B1%D8%B6%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D9%81%D9%84%D8%A7%D9%88%D8%B1%D8%AC%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%D8%A7%DB%8C%DB%8C%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f3ff6fa8f72e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
