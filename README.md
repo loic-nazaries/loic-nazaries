@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [mkoj](https://medium.com/@kwthrblwchy26/mkoj-2e5e6b46badc?source=rss------data_science-5)
-- [mkhb](https://medium.com/@kwthrblwchy26/mkhb-32c14806c262?source=rss------data_science-5)
-- [mkoj](https://medium.com/@kwthrblwchy26/mkoj-451c5dbd7af8?source=rss------data_science-5)
-- [Data Science in 2 minutes](https://medium.com/@cehenderson/data-science-in-2-minutes-b395672917f8?source=rss------data_science-5)
-- [The Power of Technology: Transforming Our World](https://medium.com/@Aleenaahmed33/the-power-of-technology-transforming-our-world-cf4a3091be8d?source=rss------data_science-5)
-- [Monte Carlo Simulation Made Easy](https://medium.com/@nair.rahul90/monte-carlo-simulation-made-easy-894edd848d6b?source=rss------data_science-5)
-- [Bvcxzssxv](https://medium.com/@shmarhkhalhshmarh3/bvcxzssxv-7af3fbb67d5f?source=rss------data_science-5)
-- [Bvcxzszcv](https://medium.com/@shmarhkhalhshmarh3/bvcxzszcv-5e9b3c09afe9?source=rss------data_science-5)
-- [Bvxzsxcvb](https://medium.com/@shmarhkhalhshmarh3/bvxzsxcvb-afac4f6bdac6?source=rss------data_science-5)
-- [mkoih](https://medium.com/@tajyknahyd07/mkoih-7bef7ecb4c7b?source=rss------data_science-5)
+- [Owie](https://medium.com/@shmarhk607/owie-41d6b7967738?source=rss------data_science-5)
+- [Qoieu](https://medium.com/@shmarhk607/qoieu-0cab737b05b7?source=rss------data_science-5)
+- [OqisSj](https://medium.com/@shmarhk607/oqissj-d0ae140ec943?source=rss------data_science-5)
+- [Eiidh](https://medium.com/@khalhshmarh67/eiidh-cb2a1442b168?source=rss------data_science-5)
+- [Eoid](https://medium.com/@khalhshmarh67/eoid-4de23c0fb0df?source=rss------data_science-5)
+- [AEidi](https://medium.com/@khalhshmarh67/aeidi-3949590b1c7d?source=rss------data_science-5)
+- [SDjh](https://medium.com/@khalh1188/sdjh-e27571fa1ad0?source=rss------data_science-5)
+- [ASSh](https://medium.com/@khalh1188/assh-00f15e08a03c?source=rss------data_science-5)
+- [Ayygg](https://medium.com/@khalh1188/ayygg-9171d37f7f28?source=rss------data_science-5)
+- [5 Expert Tips for Making Impactful Dashboards](https://analystuttam.medium.com/5-expert-tips-for-making-impactful-dashboards-49ad102a5b3c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
