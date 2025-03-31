@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Measures of Disproportionality in Pharmacovigilance](https://gauravkantgoel.medium.com/measures-of-disproportionality-in-pharmacovigilance-dbf4e2758c6c?source=rss------data_science-5)
-- [Bcxzscvb](https://medium.com/@shmarhkhalhkrmanshahw/bcxzscvb-66c53bb56f75?source=rss------data_science-5)
-- [Bvxzsxvbb](https://medium.com/@shmarhkhalhkrmanshahw/bvxzsxvbb-49d6d8695ddc?source=rss------data_science-5)
-- [Bvxzsxvb](https://medium.com/@shmarhkhalhkrmanshahw/bvxzsxvb-6be5fa9ee3a1?source=rss------data_science-5)
-- [How to Become a Top 1% Data Analyst in 2025](https://analystuttam.medium.com/how-to-become-a-top-1-data-analyst-in-2025-cf33c0009b31?source=rss------data_science-5)
-- [Invest in Life: The Opportunity to Save Lives and Build Generational Wealth](https://medium.com/@davidtunde23/invest-in-life-the-opportunity-to-save-lives-and-build-generational-wealth-1aff686c3862?source=rss------data_science-5)
-- [Building a Modern Data Pipeline: ETL from MySQL to Amazon S3 &lpar;Part 1&rpar;](https://medium.com/@xavierdev16/building-a-modern-data-pipeline-etl-from-mysql-to-amazon-s3-part-1-9c6d237a1710?source=rss------data_science-5)
-- [&quot;power vs. tailor ✂️⚡&quot;](https://mattarehman.medium.com/power-vs-tailor-%EF%B8%8F-829ad15cbe0a?source=rss------data_science-5)
-- [What are some of the best ways to learn programming?](https://medium.com/powerbi-microsoft-fabric/what-are-some-of-the-best-ways-to-learn-programming-f045861ac504?source=rss------data_science-5)
+- [xyfvn](https://medium.com/@k00218592/xyfvn-e10a011ed336?source=rss------data_science-5)
+- [qezx](https://medium.com/@k00218592/qezx-03226676cab5?source=rss------data_science-5)
+- [tyud](https://medium.com/@k00218592/tyud-7017df233dbf?source=rss------data_science-5)
+- [AI Developers Are People Too: Why Humanism Must Include Everyone](https://medium.com/@brendanbaker_33498/ai-developers-are-people-too-why-humanism-must-include-everyone-d342d631b8e5?source=rss------data_science-5)
+- [RONIL VILLACARLOS HUMSS-A](https://medium.com/@villacarlosronil36/ronil-villacarlos-humss-a-3686cde260fd?source=rss------data_science-5)
+- [My Interview Was a Joke… They Asked Me to Code a CPU Scheduler… For an AI Role.](https://medium.com/@aymen.elloumi_62272/my-interview-was-a-joke-they-asked-me-to-code-a-cpu-scheduler-for-an-ai-role-2ca1be939746?source=rss------data_science-5)
+- [Stop Copy-Pasting Email Files—There’s a Python Script for That](https://python.plainenglish.io/stop-copy-pasting-email-files-theres-a-python-script-for-that-41d55a72da3e?source=rss------data_science-5)
+- [09309022560](https://medium.com/@kdnckbskdle/09309022560-0bbc0ac2db93?source=rss------data_science-5)
+- [09309022560](https://medium.com/@kdnckbskdle/09309022560-398548650fda?source=rss------data_science-5)
+- [09309022560](https://medium.com/@kdnckbskdle/09309022560-263fd3b257a3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
