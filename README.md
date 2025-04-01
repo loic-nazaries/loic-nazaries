@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [xyfvn](https://medium.com/@k00218592/xyfvn-e10a011ed336?source=rss------data_science-5)
-- [qezx](https://medium.com/@k00218592/qezx-03226676cab5?source=rss------data_science-5)
-- [tyud](https://medium.com/@k00218592/tyud-7017df233dbf?source=rss------data_science-5)
-- [AI Developers Are People Too: Why Humanism Must Include Everyone](https://medium.com/@brendanbaker_33498/ai-developers-are-people-too-why-humanism-must-include-everyone-d342d631b8e5?source=rss------data_science-5)
-- [RONIL VILLACARLOS HUMSS-A](https://medium.com/@villacarlosronil36/ronil-villacarlos-humss-a-3686cde260fd?source=rss------data_science-5)
-- [My Interview Was a Joke… They Asked Me to Code a CPU Scheduler… For an AI Role.](https://medium.com/@aymen.elloumi_62272/my-interview-was-a-joke-they-asked-me-to-code-a-cpu-scheduler-for-an-ai-role-2ca1be939746?source=rss------data_science-5)
-- [Stop Copy-Pasting Email Files—There’s a Python Script for That](https://python.plainenglish.io/stop-copy-pasting-email-files-theres-a-python-script-for-that-41d55a72da3e?source=rss------data_science-5)
-- [09309022560](https://medium.com/@kdnckbskdle/09309022560-0bbc0ac2db93?source=rss------data_science-5)
-- [09309022560](https://medium.com/@kdnckbskdle/09309022560-398548650fda?source=rss------data_science-5)
-- [09309022560](https://medium.com/@kdnckbskdle/09309022560-263fd3b257a3?source=rss------data_science-5)
+- [How AI is Revolutionizing Software Engineering &lpar;And How to Stay Ahead!&rpar;](https://medium.com/@javaScriptwithvinay/how-ai-is-revolutionizing-software-engineering-and-how-to-stay-ahead-35ec0684436d?source=rss------data_science-5)
+- [Top 15 Essential Python Scripts Every Data Professional Should Know](https://mayursurani.medium.com/top-15-essential-python-scripts-every-data-professional-should-know-a5c25b61efd5?source=rss------data_science-5)
+- [Combating Click Fraud: Leveraging Machine Learning for Secure Digital Advertising &lpar;using Pyspark…](https://medium.com/@phanindraanagam/combating-click-fraud-leveraging-machine-learning-for-secure-digital-advertising-using-pyspark-c055efee640c?source=rss------data_science-5)
+- [How to Run Local LLMs with Ollama](https://medium.com/@nppedronp/how-to-run-local-llms-with-ollama-9e4a84bd6fcf?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله کرج شماره خاله قم شماره خاله اندیشه…](https://medium.com/@jffjgggfudhfh/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%D9%87-852e1a6ab623?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله کرج شماره خاله قم شماره خاله اندیشه…](https://medium.com/@jffjgggfudhfh/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%D9%87-9ff4ab3c7ffc?source=rss------data_science-5)
+- [شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله کرج شماره خاله قم شماره خاله اندیشه…](https://medium.com/@jffjgggfudhfh/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%D9%87-01d505b28beb?source=rss------data_science-5)
+- [The Importance of Statistics for Data Analysts](https://medium.com/@w.annu.ms06/the-importance-of-statistics-for-data-analysts-c7b26975e758?source=rss------data_science-5)
+- [Bagaimana Data Mempengaruhi Hasil Model dalam Data Science](https://medium.com/@nisfu07/bagaimana-data-mempengaruhi-hasil-model-dalam-data-science-3468d93fb69f?source=rss------data_science-5)
+- [Best apps for the month — April 2025](https://medium.com/@kaushiknune5/best-apps-for-the-month-april-2025-175e4766dd40?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
