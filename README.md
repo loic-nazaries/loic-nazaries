@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [ETL vs ELT: Let&#39;s Break This Down](https://alixaprodev.medium.com/etl-vs-elt-lets-break-this-down-36138f8a51b5?source=rss------data_science-5)
-- [Aaj Ka Sankalp](https://medium.com/@rajvinderkur7/aaj-ka-sankalp-be17e48496fe?source=rss------data_science-5)
-- [Python Version Upgrade Guide](https://medium.com/software-test-automation-by-rr/python-version-upgrade-guide-b3ccb5b03663?source=rss------data_science-5)
-- [Is Polars the New Pandas? A Data Scientist’s Guide With Side-by-Side Code Examples](https://medium.com/@thedataguy239/is-polars-the-new-pandas-a-data-scientists-guide-with-side-by-side-code-examples-4ffa0eaf2a32?source=rss------data_science-5)
-- [What Are Large Language Models &lpar;LLMs&rpar;? A Visual Introduction](https://medium.com/@deepshikha0097/what-are-large-language-models-llms-a-visual-introduction-f7be4e7452aa?source=rss------data_science-5)
-- [✨ The Miracle of Human Fingerprints in the Light of the Quran ️](https://mattarehman.medium.com/the-miracle-of-human-fingerprints-in-the-light-of-the-quran-%EF%B8%8F-6748af953365?source=rss------data_science-5)
-- [Why Quantum Collapse May Not Be Random After All](https://medium.com/@fghidan/why-quantum-collapse-may-not-be-random-after-all-3a2968414e67?source=rss------data_science-5)
-- [Sdas](https://medium.com/@hzudxhfhhd/sdas-037c15884f14?source=rss------data_science-5)
-- [Sggs](https://medium.com/@hzudxhfhhd/sggs-b8e2e3bce81e?source=rss------data_science-5)
+- [uu](https://medium.com/@cghchfchhc/uu-a9e69dc5ad75?source=rss------data_science-5)
+- [uguv](https://medium.com/@cghchfchhc/uguv-aea063d60162?source=rss------data_science-5)
+- [ksk](https://medium.com/@cghchfchhc/ksk-13ace8ee3312?source=rss------data_science-5)
+- [wkkw](https://medium.com/@nsjsjsnsbssjjs/wkkw-b43915fc1962?source=rss------data_science-5)
+- [kwn](https://medium.com/@nsjsjsnsbssjjs/kwn-0c5d8d867f80?source=rss------data_science-5)
+- [wkw](https://medium.com/@nsjsjsnsbssjjs/wkw-5d46db4265b7?source=rss------data_science-5)
+- [own](https://medium.com/@sjjsbssbbdbd/own-4ac96e740746?source=rss------data_science-5)
+- [snj](https://medium.com/@sjjsbssbbdbd/snj-0edff1a2d44e?source=rss------data_science-5)
+- [ksks](https://medium.com/@sjjsbssbbdbd/ksks-87607a3a64dc?source=rss------data_science-5)
+- [Top Machine Learning Algorithms Explained Simply &lpar;with Use Cases&rpar;](https://medium.com/@deolesopan/top-machine-learning-algorithms-explained-simply-with-use-cases-3f42ac448599?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
