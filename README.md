@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [uu](https://medium.com/@cghchfchhc/uu-a9e69dc5ad75?source=rss------data_science-5)
-- [uguv](https://medium.com/@cghchfchhc/uguv-aea063d60162?source=rss------data_science-5)
-- [ksk](https://medium.com/@cghchfchhc/ksk-13ace8ee3312?source=rss------data_science-5)
-- [wkkw](https://medium.com/@nsjsjsnsbssjjs/wkkw-b43915fc1962?source=rss------data_science-5)
-- [kwn](https://medium.com/@nsjsjsnsbssjjs/kwn-0c5d8d867f80?source=rss------data_science-5)
-- [wkw](https://medium.com/@nsjsjsnsbssjjs/wkw-5d46db4265b7?source=rss------data_science-5)
-- [own](https://medium.com/@sjjsbssbbdbd/own-4ac96e740746?source=rss------data_science-5)
-- [snj](https://medium.com/@sjjsbssbbdbd/snj-0edff1a2d44e?source=rss------data_science-5)
-- [ksks](https://medium.com/@sjjsbssbbdbd/ksks-87607a3a64dc?source=rss------data_science-5)
-- [Top Machine Learning Algorithms Explained Simply &lpar;with Use Cases&rpar;](https://medium.com/@deolesopan/top-machine-learning-algorithms-explained-simply-with-use-cases-3f42ac448599?source=rss------data_science-5)
+- [Resuelve ecuaciones cuadráticas con confianza: Fórmula resolvente, discriminante y raíces…](https://medium.com/@ProyectoR_/resuelve-ecuaciones-cuadr%C3%A1ticas-con-confianza-f%C3%B3rmula-resolvente-discriminante-y-ra%C3%ADces-592c8f64267c?source=rss------data_science-5)
+- [5 Python Libraries That Will Save You Hundreds of Lines of Code](https://medium.com/top-1-devs/5-python-libraries-that-will-save-you-hundreds-of-lines-of-code-6fcece6aa651?source=rss------data_science-5)
+- [Technologies Enabling Effective Exploratory Data Analysis &lpar;EDA&rpar;](https://medium.com/@faizyrim.114978/technologies-enabling-effective-exploratory-data-analysis-eda-47d4c4bbdc81?source=rss------data_science-5)
+- [The Vital Role of Exploratory Data Analysis in Data Science and Its Impact on Successful AI…](https://medium.com/@faizyrim.114978/the-vital-role-of-exploratory-data-analysis-in-data-science-and-its-impact-on-successful-ai-dc9e4839b91e?source=rss------data_science-5)
+- [09309022560](https://medium.com/@kdmnckcm/09309022560-81549090376b?source=rss------data_science-5)
+- [09309022560](https://medium.com/@kdmnckcm/09309022560-5c301d71d0ec?source=rss------data_science-5)
+- [09309022560](https://medium.com/@mxkxnxmxmx/09309022560-8655ec6c95cf?source=rss------data_science-5)
+- [09309022560](https://medium.com/@mxkxnxmxmx/09309022560-080885bb2ea9?source=rss------data_science-5)
+- [What If AI Could Remember the Best Ideas It co Invents?](https://medium.com/@jesseholmeskodi/what-if-ai-could-remember-the-best-ideas-it-co-invents-0623cf72313a?source=rss------data_science-5)
+- [09309022560](https://medium.com/@mxkxnxmxmx/09309022560-c904215bdaf7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
