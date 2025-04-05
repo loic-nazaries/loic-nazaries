@@ -105,16 +105,19 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Resuelve ecuaciones cuadráticas con confianza: Fórmula resolvente, discriminante y raíces…](https://medium.com/@ProyectoR_/resuelve-ecuaciones-cuadr%C3%A1ticas-con-confianza-f%C3%B3rmula-resolvente-discriminante-y-ra%C3%ADces-592c8f64267c?source=rss------data_science-5)
-- [5 Python Libraries That Will Save You Hundreds of Lines of Code](https://medium.com/top-1-devs/5-python-libraries-that-will-save-you-hundreds-of-lines-of-code-6fcece6aa651?source=rss------data_science-5)
-- [Technologies Enabling Effective Exploratory Data Analysis &lpar;EDA&rpar;](https://medium.com/@faizyrim.114978/technologies-enabling-effective-exploratory-data-analysis-eda-47d4c4bbdc81?source=rss------data_science-5)
-- [The Vital Role of Exploratory Data Analysis in Data Science and Its Impact on Successful AI…](https://medium.com/@faizyrim.114978/the-vital-role-of-exploratory-data-analysis-in-data-science-and-its-impact-on-successful-ai-dc9e4839b91e?source=rss------data_science-5)
-- [09309022560](https://medium.com/@kdmnckcm/09309022560-81549090376b?source=rss------data_science-5)
-- [09309022560](https://medium.com/@kdmnckcm/09309022560-5c301d71d0ec?source=rss------data_science-5)
-- [09309022560](https://medium.com/@mxkxnxmxmx/09309022560-8655ec6c95cf?source=rss------data_science-5)
-- [09309022560](https://medium.com/@mxkxnxmxmx/09309022560-080885bb2ea9?source=rss------data_science-5)
-- [What If AI Could Remember the Best Ideas It co Invents?](https://medium.com/@jesseholmeskodi/what-if-ai-could-remember-the-best-ideas-it-co-invents-0623cf72313a?source=rss------data_science-5)
-- [09309022560](https://medium.com/@mxkxnxmxmx/09309022560-c904215bdaf7?source=rss------data_science-5)
+- [49-Day Data Analytics Learning Plan](https://analystuttam.medium.com/49-day-data-analytics-learning-plan-120a312ce6b2?source=rss------data_science-5)
+- [Resignation on Your Mind? The Algorithm’s One Step Ahead.](https://medium.com/@anggundwil/resignation-on-your-mind-the-algorithms-one-step-ahead-6bd6a76b3861?source=rss------data_science-5)
+- [A Vision of Truth: AI Beyond Borders
+Author: Anonymous](https://medium.com/@tisiphone192/a-vision-of-truth-ai-beyond-borders-author-anonymous-25b642cad180?source=rss------data_science-5)
+- [Federated Learning for Anomaly Detection in E-commerce: A ML- SQL Approach](https://medium.com/@amalkani/federated-learning-for-anomaly-detection-in-e-commerce-a-ml-sql-approach-d7cd1ac86eb8?source=rss------data_science-5)
+- [Modern Data Warehouse Architecture: The Lambda vs. Kappa Debate](https://medium.com/@chamsi/modern-data-warehouse-architecture-the-lambda-vs-kappa-debate-f51a73790f21?source=rss------data_science-5)
+- [Hfشماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره خاله#…](https://medium.com/@jdhshdjdndi/hf%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-7c886911fe7a?source=rss------data_science-5)
+- [Hfشماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره خاله#…](https://medium.com/@heshshsbw/hf%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-d49956624c60?source=rss------data_science-5)
+- [Hcfuhb](https://medium.com/@ngynrhmty82/hcfuhb-99b26679fdd7?source=rss------data_science-5)
+- [Hiugvj](https://medium.com/@ngynrhmty82/hiugvj-b7d7009ca32e?source=rss------data_science-5)
+- [Hfthbj](https://medium.com/@ngynrhmty82/hfthbj-af1acfe6a0f0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
