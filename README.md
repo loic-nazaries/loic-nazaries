@@ -105,19 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [49-Day Data Analytics Learning Plan](https://analystuttam.medium.com/49-day-data-analytics-learning-plan-120a312ce6b2?source=rss------data_science-5)
-- [Resignation on Your Mind? The Algorithm’s One Step Ahead.](https://medium.com/@anggundwil/resignation-on-your-mind-the-algorithms-one-step-ahead-6bd6a76b3861?source=rss------data_science-5)
-- [A Vision of Truth: AI Beyond Borders
-Author: Anonymous](https://medium.com/@tisiphone192/a-vision-of-truth-ai-beyond-borders-author-anonymous-25b642cad180?source=rss------data_science-5)
-- [Federated Learning for Anomaly Detection in E-commerce: A ML- SQL Approach](https://medium.com/@amalkani/federated-learning-for-anomaly-detection-in-e-commerce-a-ml-sql-approach-d7cd1ac86eb8?source=rss------data_science-5)
-- [Modern Data Warehouse Architecture: The Lambda vs. Kappa Debate](https://medium.com/@chamsi/modern-data-warehouse-architecture-the-lambda-vs-kappa-debate-f51a73790f21?source=rss------data_science-5)
-- [Hfشماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره خاله#…](https://medium.com/@jdhshdjdndi/hf%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-7c886911fe7a?source=rss------data_science-5)
-- [Hfشماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره خاله#…](https://medium.com/@heshshsbw/hf%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-d49956624c60?source=rss------data_science-5)
-- [Hcfuhb](https://medium.com/@ngynrhmty82/hcfuhb-99b26679fdd7?source=rss------data_science-5)
-- [Hiugvj](https://medium.com/@ngynrhmty82/hiugvj-b7d7009ca32e?source=rss------data_science-5)
-- [Hfthbj](https://medium.com/@ngynrhmty82/hfthbj-af1acfe6a0f0?source=rss------data_science-5)
+- [kaksk](https://medium.com/@jsnjjfmdn/kaksk-30fd703aee42?source=rss------data_science-5)
+- [kskw](https://medium.com/@jsnjjfmdn/kskw-66b75311c93c?source=rss------data_science-5)
+- [Aaj Ka Sankalp](https://medium.com/@edufreestore/aaj-ka-sankalp-0063357f5648?source=rss------data_science-5)
+- [Compression Algorithms: How To Zip Files &amp; Save Space](https://medium.com/@air_lab/compression-algorithms-how-to-zip-files-save-space-aefc36173dd3?source=rss------data_science-5)
+- [Aaj Ki Soch](https://medium.com/@rajvinderkur7/aaj-ki-soch-5fd11880367f?source=rss------data_science-5)
+- [Understanding AutoEncoder&lpar;Part 2&rpar;: Navigating the Tesseract](https://medium.com/@maercaestro/understanding-autoencoder-part-2-navigating-the-tesseract-128b0ee39311?source=rss------data_science-5)
+- [09045080282](https://medium.com/@wkkwhwkwkwn/09045080282-cbe4a0aa636d?source=rss------data_science-5)
+- [09045080282](https://medium.com/@wkkwhwkwkwn/09045080282-cb193ca95833?source=rss------data_science-5)
+- [09045080282](https://medium.com/@wkkwhwkwkwn/09045080282-f19a605036ed?source=rss------data_science-5)
+- [09045080282](https://medium.com/@kwownsnskam/09045080282-6a9b47985855?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
