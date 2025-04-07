@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [kaksk](https://medium.com/@jsnjjfmdn/kaksk-30fd703aee42?source=rss------data_science-5)
-- [kskw](https://medium.com/@jsnjjfmdn/kskw-66b75311c93c?source=rss------data_science-5)
-- [Aaj Ka Sankalp](https://medium.com/@edufreestore/aaj-ka-sankalp-0063357f5648?source=rss------data_science-5)
-- [Compression Algorithms: How To Zip Files &amp; Save Space](https://medium.com/@air_lab/compression-algorithms-how-to-zip-files-save-space-aefc36173dd3?source=rss------data_science-5)
-- [Aaj Ki Soch](https://medium.com/@rajvinderkur7/aaj-ki-soch-5fd11880367f?source=rss------data_science-5)
-- [Understanding AutoEncoder&lpar;Part 2&rpar;: Navigating the Tesseract](https://medium.com/@maercaestro/understanding-autoencoder-part-2-navigating-the-tesseract-128b0ee39311?source=rss------data_science-5)
-- [09045080282](https://medium.com/@wkkwhwkwkwn/09045080282-cbe4a0aa636d?source=rss------data_science-5)
-- [09045080282](https://medium.com/@wkkwhwkwkwn/09045080282-cb193ca95833?source=rss------data_science-5)
-- [09045080282](https://medium.com/@wkkwhwkwkwn/09045080282-f19a605036ed?source=rss------data_science-5)
-- [09045080282](https://medium.com/@kwownsnskam/09045080282-6a9b47985855?source=rss------data_science-5)
+- [Brain Stroke Prediction — Data Science](https://medium.com/@somu.shekarv/brain-stroke-prediction-data-science-f33122513a31?source=rss------data_science-5)
+- [American Spending and the Rural vs Urban Price Gap](https://medium.com/@darbys_82237/american-spending-and-the-rural-vs-urban-price-gap-0302cc27fc9b?source=rss------data_science-5)
+- [You’re Wasting 90% of NumPy’s Power — Here’s the Fix](https://python.plainenglish.io/youre-wasting-90-of-numpy-s-power-here-s-the-fix-78cf1cfb722c?source=rss------data_science-5)
+- [99% of Python Developers Make This NumPy Reshape Mistake!](https://python.plainenglish.io/99-of-python-developers-make-this-numpy-reshape-mistake-9e6aa29e16d8?source=rss------data_science-5)
+- [Data Science: Extracting Insight from Data](https://medium.com/@hwexiou/data-science-mencari-insight-dari-data-e606c4100643?source=rss------data_science-5)
+- [What a Cooling Tower Taught Me About Data Science](https://medium.com/@jpaullasisi/what-a-cooling-tower-taught-me-about-data-science-64a330c7a150?source=rss------data_science-5)
+- [Fundamental Data Manipulation Operations in Both Python and SQL](https://medium.com/@cwdwiggins/fundamental-data-manipulation-operations-in-both-python-and-sql-0fdc5033c2cf?source=rss------data_science-5)
+- [From Swamp to Stream: How Apache Hudi Transforms the Modern Data Lake](https://medium.com/aimonks/from-swamp-to-stream-how-apache-hudi-transforms-the-modern-data-lake-8a938f517ea1?source=rss------data_science-5)
+- [Thirukural — As a Dashboard](https://medium.com/@ashwinsingaram579/thirukural-as-a-dashboard-b202ef3ed202?source=rss------data_science-5)
+- [Machine Learning Jargon: A Comprehensive Guide for Beginners](https://medium.com/learn-ml-with-me/machine-learning-jargon-a-comprehensive-list-for-beginners-2d38104572a7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
