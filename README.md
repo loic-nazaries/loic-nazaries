@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Rise of Generative AI Beyond Text](https://analystuttam.medium.com/rise-of-generative-ai-beyond-text-f2c8878adb52?source=rss------data_science-5)
-- [Ditching Dollars: Can You Live on Bitcoin Alone?](https://medium.com/thecapital/ditching-dollars-can-you-live-on-bitcoin-alone-8457d40b3c52?source=rss------data_science-5)
-- [How One Simple App Helped Me Earn $300 a Day](https://medium.com/@Smart-Income/how-one-simple-app-helped-me-earn-300-a-day-e59e78bed50d?source=rss------data_science-5)
-- [Extracting Future Price Expectations from Options](https://medium.com/@crisvelasquez/extracting-future-price-expectations-from-options-675589543da9?source=rss------data_science-5)
-- [0x620b70123fb810f6c653da7644b5dd0b6312e4d8](https://medium.com/@b.u.tms57/0x620b70123fb810f6c653da7644b5dd0b6312e4d8-c8dac1c44bd0?source=rss------data_science-5)
-- [How to Evaluate Machine Learning Models: A Beginner’s Guide to Metrics That Matter](https://medium.com/@deolesopan/how-to-evaluate-machine-learning-models-a-beginners-guide-to-metrics-that-matter-10bd0b74ade0?source=rss------data_science-5)
-- [Is Your Data Safe? Unveiling the Real Reasons Behind the TikTok Ban](https://medium.com/@vedanaikt/is-your-data-safe-unveiling-the-real-reasons-behind-the-tiktok-ban-f39495619043?source=rss------data_science-5)
-- [09389010538](https://medium.com/@hcydxhc1/09389010538-870532408251?source=rss------data_science-5)
-- [09389010538](https://medium.com/@hcydxhc1/09389010538-79fdd4cf3f06?source=rss------data_science-5)
-- [09389010538](https://medium.com/@hcydxhc1/09389010538-a0d0260bcfa3?source=rss------data_science-5)
+- [I Read Over 20 Books on Data Science; Here’s the 7 Best Ones in 2025](https://medium.com/@thedataguy239/i-read-over-20-books-on-data-science-heres-the-7-best-ones-in-2025-dbe39543ed03?source=rss------data_science-5)
+- [0933 509 5936](https://medium.com/@atwny6470/0933-509-5936-57c7aab8dd96?source=rss------data_science-5)
+- [09335095936](https://medium.com/@atwny6470/09335095936-7c182c49403d?source=rss------data_science-5)
+- [Understanding Supervised Learning — Classification &lpar;Part 2&rpar;](https://medium.com/@rvora3/understanding-supervised-learning-classification-part-2-7f53ac6a5952?source=rss------data_science-5)
+- [One-Hot Encoding in NLP: A Gentle Introduction](https://medium.com/@harsuminder/one-hot-encoding-in-nlp-a-gentle-introduction-bb212f58def4?source=rss------data_science-5)
+- [✅ Comprehensive Review&lpar;2&rpar;: Top Articles on Hypothesis Testing with Examples](https://medium.com/@Bayeslab/comprehensive-review-2-top-articles-on-hypothesis-testing-with-examples-ad35a514bce4?source=rss------data_science-5)
+- [Unlocking the Secrets of Artificial Intelligence in Cybersecurity](https://medium.com/@meisshaily/unlocking-the-secrets-of-artificial-intelligence-in-cybersecurity-e8681dab0681?source=rss------data_science-5)
+- [Only the Beginning Matters: How the LLM Decides Where to Focus Attention](https://levelup.gitconnected.com/only-the-beginning-matters-how-the-llm-decides-where-to-focus-attention-5048d1a265be?source=rss------data_science-5)
+- [Structured Query Language — Intuitively and Exhaustively Explained](https://levelup.gitconnected.com/structured-query-language-intuitively-and-exhaustively-explained-a0c0c2ae9667?source=rss------data_science-5)
+- [Web Scraping with an LLM? Here’s How I Did It Using Claude + Firecrawl](https://levelup.gitconnected.com/web-scraping-with-an-llm-heres-how-i-did-it-using-claude-firecrawl-911c36ccc326?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
