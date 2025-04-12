@@ -105,16 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I Read Over 20 Books on Data Science; Here’s the 7 Best Ones in 2025](https://medium.com/@thedataguy239/i-read-over-20-books-on-data-science-heres-the-7-best-ones-in-2025-dbe39543ed03?source=rss------data_science-5)
-- [0933 509 5936](https://medium.com/@atwny6470/0933-509-5936-57c7aab8dd96?source=rss------data_science-5)
-- [09335095936](https://medium.com/@atwny6470/09335095936-7c182c49403d?source=rss------data_science-5)
-- [Understanding Supervised Learning — Classification &lpar;Part 2&rpar;](https://medium.com/@rvora3/understanding-supervised-learning-classification-part-2-7f53ac6a5952?source=rss------data_science-5)
-- [One-Hot Encoding in NLP: A Gentle Introduction](https://medium.com/@harsuminder/one-hot-encoding-in-nlp-a-gentle-introduction-bb212f58def4?source=rss------data_science-5)
-- [✅ Comprehensive Review&lpar;2&rpar;: Top Articles on Hypothesis Testing with Examples](https://medium.com/@Bayeslab/comprehensive-review-2-top-articles-on-hypothesis-testing-with-examples-ad35a514bce4?source=rss------data_science-5)
-- [Unlocking the Secrets of Artificial Intelligence in Cybersecurity](https://medium.com/@meisshaily/unlocking-the-secrets-of-artificial-intelligence-in-cybersecurity-e8681dab0681?source=rss------data_science-5)
-- [Only the Beginning Matters: How the LLM Decides Where to Focus Attention](https://levelup.gitconnected.com/only-the-beginning-matters-how-the-llm-decides-where-to-focus-attention-5048d1a265be?source=rss------data_science-5)
-- [Structured Query Language — Intuitively and Exhaustively Explained](https://levelup.gitconnected.com/structured-query-language-intuitively-and-exhaustively-explained-a0c0c2ae9667?source=rss------data_science-5)
-- [Web Scraping with an LLM? Here’s How I Did It Using Claude + Firecrawl](https://levelup.gitconnected.com/web-scraping-with-an-llm-heres-how-i-did-it-using-claude-firecrawl-911c36ccc326?source=rss------data_science-5)
+- [09304098140](https://medium.com/@nbvcc276/09304098140-b3808e74c6fb?source=rss------data_science-5)
+- [09304098140](https://medium.com/@nbvcc276/09304098140-1a913630a75d?source=rss------data_science-5)
+- [09304098140](https://medium.com/@nbvcc276/09304098140-462af99c4b86?source=rss------data_science-5)
+- [09335095936](https://medium.com/@atwny6470/09335095936-fdd893e7d873?source=rss------data_science-5)
+- [09304098140](https://medium.com/@drududdhdhg/09304098140-30d8192b5c13?source=rss------data_science-5)
+- [09304098140](https://medium.com/@drududdhdhg/09304098140-2b0a455c8ad4?source=rss------data_science-5)
+- [09304098140](https://medium.com/@drududdhdhg/09304098140-9e6b39bedb11?source=rss------data_science-5)
+- [Design Thinking dalam Data Science: Menyatukan Data, Empati, dan Solusi Nyata](https://medium.com/@chintiahilda10/design-thinking-dalam-data-science-menyatukan-data-empati-dan-solusi-nyata-ba66bd2bdaa1?source=rss------data_science-5)
+- [SkyTrade USDT &lpar;SUSDT&rpar; – Market Update | April 12
+We’re climbing stronger every day!](https://medium.com/@skytradeproSUSDT/skytrade-usdt-susdt-market-update-april-12-were-climbing-stronger-every-day-f91302becffd?source=rss------data_science-5)
+- [09360627233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@htkhttnakh/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-82d6bb51ffd2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
