@@ -105,18 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [09304098140](https://medium.com/@nbvcc276/09304098140-b3808e74c6fb?source=rss------data_science-5)
-- [09304098140](https://medium.com/@nbvcc276/09304098140-1a913630a75d?source=rss------data_science-5)
-- [09304098140](https://medium.com/@nbvcc276/09304098140-462af99c4b86?source=rss------data_science-5)
-- [09335095936](https://medium.com/@atwny6470/09335095936-fdd893e7d873?source=rss------data_science-5)
-- [09304098140](https://medium.com/@drududdhdhg/09304098140-30d8192b5c13?source=rss------data_science-5)
-- [09304098140](https://medium.com/@drududdhdhg/09304098140-2b0a455c8ad4?source=rss------data_science-5)
-- [09304098140](https://medium.com/@drududdhdhg/09304098140-9e6b39bedb11?source=rss------data_science-5)
-- [Design Thinking dalam Data Science: Menyatukan Data, Empati, dan Solusi Nyata](https://medium.com/@chintiahilda10/design-thinking-dalam-data-science-menyatukan-data-empati-dan-solusi-nyata-ba66bd2bdaa1?source=rss------data_science-5)
-- [SkyTrade USDT &lpar;SUSDT&rpar; – Market Update | April 12
-We’re climbing stronger every day!](https://medium.com/@skytradeproSUSDT/skytrade-usdt-susdt-market-update-april-12-were-climbing-stronger-every-day-f91302becffd?source=rss------data_science-5)
-- [09360627233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@htkhttnakh/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-82d6bb51ffd2?source=rss------data_science-5)
+- [Non Clinical Data Analysis using TxGemma](https://medium.com/@8thcross/non-clinical-data-analysis-using-txgemma-278003b7f67c?source=rss------data_science-5)
+- [Evaluation Metrics in Regression](https://medium.com/@vamshikrishnamatsa/evaluation-metrics-in-regression-9d6c3500a610?source=rss------data_science-5)
+- [Assessing the Risk of DEI Roll-Backs](https://eric-sandosham.medium.com/assessing-the-risk-of-dei-roll-backs-c4430950fd1b?source=rss------data_science-5)
+- [From P-Values to Probabilities: Embracing Bayesian A/B Testing in Modern Industry​](https://medium.com/@thedatabeast/from-p-values-to-probabilities-embracing-bayesian-a-b-testing-in-modern-industry-0b6e97a4229d?source=rss------data_science-5)
+- [5 Things Data Scientists Should Learn in 2025](https://medium.com/@shantanudebnath/5-things-data-scientists-should-learn-in-2025-a4f36f33c9f0?source=rss------data_science-5)
+- [Haidar Alwi: The Achievements of Indonesia’s National Police as a Mandate of Reformasi](https://erha88.medium.com/haidar-alwi-the-achievements-of-indonesias-national-police-as-a-mandate-of-reformasi-69af8b626783?source=rss------data_science-5)
+- [Crime Rate Analysis Dashboard: A Deep Dive into Washington DC’s Safety Trends](https://medium.com/@Awololatundeyusuff/crime-rate-analysis-dashboard-a-deep-dive-into-washington-dcs-safety-trends-6dff24d55e59?source=rss------data_science-5)
+- [【EuroLeague Game Preview】FC Bayern Munich vs Crvena Zvezda Meridianbet【Play-In】](https://medium.com/@b.data.lab.5x5/euroleague-game-preview-fc-bayern-munich-vs-crvena-zvezda-meridianbet-play-in-1a9e542051cb?source=rss------data_science-5)
+- [The Ultimate Blueprint for AI Talent Development in India](https://medium.com/@meisshaily/the-ultimate-blueprint-for-ai-talent-development-in-india-96226ce307ef?source=rss------data_science-5)
+- [How I Made $500 in My First Week with This AI Bot](https://medium.com/@Ben-Lowe/how-i-made-500-in-my-first-week-with-this-ai-bot-962582a7cf3e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
