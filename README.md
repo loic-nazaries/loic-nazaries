@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Non Clinical Data Analysis using TxGemma](https://medium.com/@8thcross/non-clinical-data-analysis-using-txgemma-278003b7f67c?source=rss------data_science-5)
-- [Evaluation Metrics in Regression](https://medium.com/@vamshikrishnamatsa/evaluation-metrics-in-regression-9d6c3500a610?source=rss------data_science-5)
-- [Assessing the Risk of DEI Roll-Backs](https://eric-sandosham.medium.com/assessing-the-risk-of-dei-roll-backs-c4430950fd1b?source=rss------data_science-5)
-- [From P-Values to Probabilities: Embracing Bayesian A/B Testing in Modern Industry​](https://medium.com/@thedatabeast/from-p-values-to-probabilities-embracing-bayesian-a-b-testing-in-modern-industry-0b6e97a4229d?source=rss------data_science-5)
-- [5 Things Data Scientists Should Learn in 2025](https://medium.com/@shantanudebnath/5-things-data-scientists-should-learn-in-2025-a4f36f33c9f0?source=rss------data_science-5)
-- [Haidar Alwi: The Achievements of Indonesia’s National Police as a Mandate of Reformasi](https://erha88.medium.com/haidar-alwi-the-achievements-of-indonesias-national-police-as-a-mandate-of-reformasi-69af8b626783?source=rss------data_science-5)
-- [Crime Rate Analysis Dashboard: A Deep Dive into Washington DC’s Safety Trends](https://medium.com/@Awololatundeyusuff/crime-rate-analysis-dashboard-a-deep-dive-into-washington-dcs-safety-trends-6dff24d55e59?source=rss------data_science-5)
-- [【EuroLeague Game Preview】FC Bayern Munich vs Crvena Zvezda Meridianbet【Play-In】](https://medium.com/@b.data.lab.5x5/euroleague-game-preview-fc-bayern-munich-vs-crvena-zvezda-meridianbet-play-in-1a9e542051cb?source=rss------data_science-5)
-- [The Ultimate Blueprint for AI Talent Development in India](https://medium.com/@meisshaily/the-ultimate-blueprint-for-ai-talent-development-in-india-96226ce307ef?source=rss------data_science-5)
-- [How I Made $500 in My First Week with This AI Bot](https://medium.com/@Ben-Lowe/how-i-made-500-in-my-first-week-with-this-ai-bot-962582a7cf3e?source=rss------data_science-5)
+- [09309022560](https://medium.com/@jakansj89/09309022560-403bde4d83d8?source=rss------data_science-5)
+- [09309022560](https://medium.com/@jakansj89/09309022560-afd5c1e78f0c?source=rss------data_science-5)
+- [09309022560](https://medium.com/@jakansj89/09309022560-96a72d33adac?source=rss------data_science-5)
+- [09309022560](https://medium.com/@ajks8wk/09309022560-b27f24906a97?source=rss------data_science-5)
+- [09309022560](https://medium.com/@ajks8wk/09309022560-16838f2eeaf2?source=rss------data_science-5)
+- [09309022560](https://medium.com/@ajks8wk/09309022560-87c31c0b714d?source=rss------data_science-5)
+- [Cybersecurity &amp; AI-Driven Threat Detection: Locking Down the Future](https://medium.com/@javaScriptwithvinay/cybersecurity-ai-driven-threat-detection-locking-down-the-future-26382712fd4b?source=rss------data_science-5)
+- [I Spent 30+ Days Studying A Programmer Turned Billionaire— What I Learned About High-Ticket B2B…](https://levelup.gitconnected.com/i-spent-30-days-studying-a-programmer-turned-billionaire-what-i-learned-about-high-ticket-b2b-8c42b477d7a4?source=rss------data_science-5)
+- [From Pixels to Masterpieces: Your Journey into Image Generation](https://levelup.gitconnected.com/from-pixels-to-masterpieces-your-journey-into-image-generation-56e47d453544?source=rss------data_science-5)
+- [I Asked Gemini Deep Research To Be My AI Researcher and It Delivered a Full Report for Free!](https://levelup.gitconnected.com/i-asked-gemini-deep-research-to-be-my-ai-researcher-and-it-delivered-a-full-report-for-free-ee85ff35640b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
