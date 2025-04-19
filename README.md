@@ -105,13 +105,12 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [09012464200](https://medium.com/@dydyryyfdy/09012464200-8dd0a1e37252?source=rss------data_science-5)
-- [09012464200](https://medium.com/@dydyryyfdy/09012464200-be0c8cc3be40?source=rss------data_science-5)
-- [Understanding NOIR: The Foundation of Data Interpretation in Data Science](https://medium.com/@medha.cu/understanding-noir-the-foundation-of-data-interpretation-in-data-science-ee3bdb519b8f?source=rss------data_science-5)
-- [09012464200](https://medium.com/@dydyryyfdy/09012464200-f7c393a112c3?source=rss------data_science-5)
-- [09012464200](https://medium.com/@r7ddhdufufuf/09012464200-875a7ab5996f?source=rss------data_science-5)
-- [09012464200](https://medium.com/@r7ddhdufufuf/09012464200-39fb44eae80b?source=rss------data_science-5)
-- [09012464200](https://medium.com/@r7ddhdufufuf/09012464200-ba03e4fc7730?source=rss------data_science-5)
+- [12 AI Superpowers Every Entrepreneur Needs to Generate Cash Fast](https://medium.com/@cjimenez.diaz/12-ai-superpowers-every-entrepreneur-needs-to-generate-cash-fast-951ecad7a1bb?source=rss------data_science-5)
+- [From Numbers to Strategy: How Financial Analytics Powers Business Growth](https://medium.com/@murali.vishnu1605/from-numbers-to-strategy-how-financial-analytics-powers-business-growth-b735fa97c77a?source=rss------data_science-5)
+- [20 DAX Queries That Saved My Power BI &lpar;and Sanity&rpar;](https://analystuttam.medium.com/20-dax-queries-that-saved-my-power-bi-and-sanity-247af3144a80?source=rss------data_science-5)
+- [09309022560](https://medium.com/@ihihviucivucxy/09309022560-c7776cf15b42?source=rss------data_science-5)
+- [“That was a good talk”: How we derive meaning from conversations](https://samanthafongg.medium.com/that-was-a-good-talk-how-we-derive-meaning-from-conversations-a4ec60d20ac5?source=rss------data_science-5)
+- [09309022560](https://medium.com/@ihihviucivucxy/09309022560-a73c2eef2455?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
