@@ -105,12 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [12 AI Superpowers Every Entrepreneur Needs to Generate Cash Fast](https://medium.com/@cjimenez.diaz/12-ai-superpowers-every-entrepreneur-needs-to-generate-cash-fast-951ecad7a1bb?source=rss------data_science-5)
-- [From Numbers to Strategy: How Financial Analytics Powers Business Growth](https://medium.com/@murali.vishnu1605/from-numbers-to-strategy-how-financial-analytics-powers-business-growth-b735fa97c77a?source=rss------data_science-5)
-- [20 DAX Queries That Saved My Power BI &lpar;and Sanity&rpar;](https://analystuttam.medium.com/20-dax-queries-that-saved-my-power-bi-and-sanity-247af3144a80?source=rss------data_science-5)
-- [09309022560](https://medium.com/@ihihviucivucxy/09309022560-c7776cf15b42?source=rss------data_science-5)
-- [“That was a good talk”: How we derive meaning from conversations](https://samanthafongg.medium.com/that-was-a-good-talk-how-we-derive-meaning-from-conversations-a4ec60d20ac5?source=rss------data_science-5)
-- [09309022560](https://medium.com/@ihihviucivucxy/09309022560-a73c2eef2455?source=rss------data_science-5)
+- [Enhancing Large Language Models with Knowledge Graphs](https://medium.com/ai-simplified-in-plain-english/enhancing-large-language-models-with-knowledge-graphs-afd5714dee81?source=rss------data_science-5)
+- [Deep Dive Study in Datadog](https://medium.com/@kevinchwong/deep-dive-study-in-datadog-b2c9a6df193a?source=rss------data_science-5)
+- [Inbox Whisperer — An NLP-Powered CX Insights Toolkit&lpar;Yes&rpar;](https://medium.com/@ishita.vasishth/inbox-whisperer-an-nlp-powered-cx-insights-toolkit-yes-6e8bee4cbbe0?source=rss------data_science-5)
+- [09304098140](https://medium.com/@huuyfchjjffuuff/09304098140-8742a911ee74?source=rss------data_science-5)
+- [09304098140](https://medium.com/@huuyfchjjffuuff/09304098140-25b95adc3db2?source=rss------data_science-5)
+- [09304098140](https://medium.com/@huuyfchjjffuuff/09304098140-7c3cad104d73?source=rss------data_science-5)
+- [Developing apps with Gemini and Streamlit using Hack2skill and @googleskillboost , Google Cloud is…](https://medium.com/@likhi.d14/developing-apps-with-gemini-and-streamlit-using-hack2skill-and-googleskillboost-google-cloud-is-5d3f296ac055?source=rss------data_science-5)
+- [Understanding Hadoop MapReduce with a Log File Example](https://medium.com/@sahn1998/understanding-hadoop-mapreduce-with-a-log-file-example-a98c2a090132?source=rss------data_science-5)
+- [09304098140](https://medium.com/@ydsfsdhhxffh/09304098140-1b2d5c4e3246?source=rss------data_science-5)
+- [09304098140](https://medium.com/@ydsfsdhhxffh/09304098140-6f79aa6bb411?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
