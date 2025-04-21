@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Enhancing Large Language Models with Knowledge Graphs](https://medium.com/ai-simplified-in-plain-english/enhancing-large-language-models-with-knowledge-graphs-afd5714dee81?source=rss------data_science-5)
-- [Deep Dive Study in Datadog](https://medium.com/@kevinchwong/deep-dive-study-in-datadog-b2c9a6df193a?source=rss------data_science-5)
-- [Inbox Whisperer — An NLP-Powered CX Insights Toolkit&lpar;Yes&rpar;](https://medium.com/@ishita.vasishth/inbox-whisperer-an-nlp-powered-cx-insights-toolkit-yes-6e8bee4cbbe0?source=rss------data_science-5)
-- [09304098140](https://medium.com/@huuyfchjjffuuff/09304098140-8742a911ee74?source=rss------data_science-5)
-- [09304098140](https://medium.com/@huuyfchjjffuuff/09304098140-25b95adc3db2?source=rss------data_science-5)
-- [09304098140](https://medium.com/@huuyfchjjffuuff/09304098140-7c3cad104d73?source=rss------data_science-5)
-- [Developing apps with Gemini and Streamlit using Hack2skill and @googleskillboost , Google Cloud is…](https://medium.com/@likhi.d14/developing-apps-with-gemini-and-streamlit-using-hack2skill-and-googleskillboost-google-cloud-is-5d3f296ac055?source=rss------data_science-5)
-- [Understanding Hadoop MapReduce with a Log File Example](https://medium.com/@sahn1998/understanding-hadoop-mapreduce-with-a-log-file-example-a98c2a090132?source=rss------data_science-5)
-- [09304098140](https://medium.com/@ydsfsdhhxffh/09304098140-1b2d5c4e3246?source=rss------data_science-5)
-- [09304098140](https://medium.com/@ydsfsdhhxffh/09304098140-6f79aa6bb411?source=rss------data_science-5)
+- [How I Made $500 a Week Selling eBooks](https://medium.com/@Smart-Income/how-i-made-500-a-week-selling-ebooks-1bc2218e62bc?source=rss------data_science-5)
+- [7 Data Visualization Techniques That Instantly Make Your Analysis More Compelling](https://medium.com/@orami98/7-data-visualization-techniques-that-instantly-make-your-analysis-more-compelling-ab85c1f0bcd7?source=rss------data_science-5)
+- [AI in HR: Shaping the Future of Talent Management](https://medium.com/ai-simplified-in-plain-english/ai-in-hr-shaping-the-future-of-talent-management-46d1a6bf0b93?source=rss------data_science-5)
+- [Online Quran Classes in USA: Learn the Quran with Certified Teachers](https://medium.com/@onlinemathacademy.us/online-quran-classes-in-usa-learn-the-quran-with-certified-teachers-c804dcc959ce?source=rss------data_science-5)
+- [The Non-Programmer’s Roadmap to Data Science Mastery](https://medium.com/@orami98/the-non-programmers-roadmap-to-data-science-mastery-c4072282e04d?source=rss------data_science-5)
+- [5 AI Design Patterns That Solve 90% of Real-World Problems](https://medium.com/@orami98/5-ai-design-patterns-that-solve-90-of-real-world-problems-7e60082792fd?source=rss------data_science-5)
+- [The 7-Step Framework to Build Machine Learning Models That Actually Work in Production](https://medium.com/@orami98/the-7-step-framework-to-build-machine-learning-models-that-actually-work-in-production-3ac6a9c7829e?source=rss------data_science-5)
+- [09309022560](https://medium.com/@gjhkgjvnhv/09309022560-503c3fe239c3?source=rss------data_science-5)
+- [09309022560](https://medium.com/@gjhkgjvnhv/09309022560-1a788e86e55f?source=rss------data_science-5)
+- [Understanding the Central Limit Theorem in Data Science](https://mookpreeyanuch.medium.com/understanding-the-central-limit-theorem-in-data-science-6d471b56fef5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
