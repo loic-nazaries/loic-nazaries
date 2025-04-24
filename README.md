@@ -105,18 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Spark Interview Series — Difference between Narrow and Wide Transformations](https://medium.com/@ghoshsiddharth25/spark-interview-series-difference-between-narrow-and-wide-transformations-5d7c4d28c676?source=rss------data_science-5)
-- [Day 50: Advanced NLP — An Overview of Transformer Models](https://ianclemence.medium.com/day-50-advanced-nlp-an-overview-of-transformer-models-7dfb9c4cf9f4?source=rss------data_science-5)
-- [Fruits](https://medium.com/@aribaatta786/fruits-2cef922ae0f7?source=rss------data_science-5)
-- [The Superpower of Seeing the Invisible: How Cognitive Science Transforms Data Into Stories](https://medium.com/@olimiemma/the-superpower-of-seeing-the-invisible-how-cognitive-science-transforms-data-into-stories-f07b50983a48?source=rss------data_science-5)
-- [Essential Array Methods &amp; Attributes in NumPy](https://medium.com/@kaflerustam/essential-array-methods-attributes-in-numpy-14e38a2a2a4d?source=rss------data_science-5)
-- [Power Query Trick That Cleaned 1 Million Rows in 30 Seconds](https://analystuttam.medium.com/power-query-clean-1-million-rows-fast-599b488bc760?source=rss------data_science-5)
-- [InsightIQ: Democratizing Data Analysis with AI](https://medium.com/@hrishikesh19202/insightiq-democratizing-data-analysis-with-ai-3da6577f0725?source=rss------data_science-5)
-- [Digitalisasi Merusak Generasi?](https://medium.com/@imardzuki61/digitalisasi-merusak-generasi-a78b4f7114b2?source=rss------data_science-5)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jfhghhcjg/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-85587d9685df?source=rss------data_science-5)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jfhghhcjg/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8390a0b54117?source=rss------data_science-5)
+- [09051012897](https://medium.com/@ncjfczzwee037/09051012897-61a0a33a9064?source=rss------data_science-5)
+- [Recommender System With Python](https://medium.com/@sefzaaumaa/recommender-system-with-python-7cde6965b169?source=rss------data_science-5)
+- [09051012897](https://medium.com/@ncjfczzwee037/09051012897-e691cdeb55d9?source=rss------data_science-5)
+- [09051012897](https://medium.com/@ncjfczzwee037/09051012897-e4e0e20a081a?source=rss------data_science-5)
+- [From Zero to Data Science Portfolio in 4 Hours? How AI Transformed My Workflow](https://medium.com/@davidkebert1/from-zero-to-data-science-portfolio-in-4-hours-how-ai-transformed-my-workflow-7fc9c65a2685?source=rss------data_science-5)
+- [Iwwkw](https://medium.com/@partyyazadyy17/iwwkw-fe453b7d883a?source=rss------data_science-5)
+- [Wkow](https://medium.com/@partyyazadyy17/wkow-401d83e69dbe?source=rss------data_science-5)
+- [Skei](https://medium.com/@partyyazadyy17/skei-6a0a650b7801?source=rss------data_science-5)
+- [Enke](https://medium.com/@ooiutrreddcc78/enke-9098ca798bef?source=rss------data_science-5)
+- [Kdke](https://medium.com/@ooiutrreddcc78/kdke-64f2b13d9ae5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
