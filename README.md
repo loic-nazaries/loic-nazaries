@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Meta-analysis: Transitioning from Effect Size to Omega Squared &lpar;ω2&rpar;](https://medium.com/@Bayeslab/meta-analysis-transitioning-from-effect-size-to-omega-squared-%CF%892-d23b92399f70?source=rss------data_science-5)
-- [09335095936شماره خاله بندرعباس.شماره](https://medium.com/@kskwkskskkskksks/09335095936%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e9459dbf4210?source=rss------data_science-5)
-- [09335095936شماره خاله بندرعباس.شماره](https://medium.com/@kskwkskskkskksks/09335095936%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2e4e6e4a8fbd?source=rss------data_science-5)
-- [09335095936شماره خاله بندرعباس.شماره](https://medium.com/@kskwkskskkskksks/09335095936%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6093633dbfe7?source=rss------data_science-5)
-- [What a Dice Roll Taught My Son &lpar;and Reminded Me&rpar; About Machine Learning](https://medium.com/@sanjaynegi_1976/what-a-dice-roll-taught-my-son-and-reminded-me-about-machine-learning-e60981a2d8f9?source=rss------data_science-5)
-- [How I Started Earning Bitcoin Effortlessly Every Day](https://medium.com/@Wealth-Link/how-i-started-earning-bitcoin-effortlessly-every-day-d873741c9c2b?source=rss------data_science-5)
-- [【NBA Game Preview】 Golden State Warriors vs Minnesota Timberwolves — Western Conference Semifinals](https://medium.com/@b.data.lab.5x5/nba-game-preview-golden-state-warriors-vs-minnesota-timberwolves-western-conference-semifinals-1a78e2593ebb?source=rss------data_science-5)
-- [5-Min Knowledge: RAG for LLM](https://medium.com/@yin.ma3993/5-min-knowledge-rag-for-llm-97d83bde1eaa?source=rss------data_science-5)
-- [09051012897](https://medium.com/@a25519720/09051012897-37a8a3be604d?source=rss------data_science-5)
-- [09051012897](https://medium.com/@a25519720/09051012897-4c32a74d6e6a?source=rss------data_science-5)
+- [Forecasting, but make it Modern](https://medium.com/@krishna1072/forecasting-but-make-it-modern-49691c420563?source=rss------data_science-5)
+- [09360627233](https://medium.com/@mshtry376/09360627233-98a09aaf5eca?source=rss------data_science-5)
+- [09360627233](https://medium.com/@mshtry376/09360627233-cda64a1dcdc9?source=rss------data_science-5)
+- [09360627233](https://medium.com/@mshtry376/09360627233-e91b5dcf98a4?source=rss------data_science-5)
+- [09360627233](https://medium.com/@mshtry787/09360627233-2c5252c5b023?source=rss------data_science-5)
+- [09360627233](https://medium.com/@mshtry787/09360627233-080127a794cf?source=rss------data_science-5)
+- [09360627233](https://medium.com/@mshtry787/09360627233-7d699322ed7b?source=rss------data_science-5)
+- [bvxzsvbn](https://medium.com/@shmarhkhalh692/bvxzsvbn-9d3d2ddd609b?source=rss------data_science-5)
+- [bvcgdhhd](https://medium.com/@shmarhkhalh692/bvcgdhhd-235a886af186?source=rss------data_science-5)
+- [09360627233](https://medium.com/@khalhshmarh67/09360627233-022ac2223e80?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
