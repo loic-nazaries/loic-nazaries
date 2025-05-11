@@ -105,19 +105,14 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [From Chaos to Automation: The 5 Levels of MLOps Maturity](https://medium.com/@Iceman_subzero/from-chaos-to-automation-the-5-levels-of-mlops-maturity-c22c548f7710?source=rss------data_science-5)
-- [7 Tricks That Will Level Up Your Power BI Dashboard](https://analystuttam.medium.com/7-tricks-that-will-level-up-your-power-bi-dashboard-d3dad1829316?source=rss------data_science-5)
-- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mzhganyhydry/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d0bcfd1789d3?source=rss------data_science-5)
-- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mzhganyhydry/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-92b8a67e798c?source=rss------data_science-5)
-- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mzhganyhydry/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-aba56c6dac47?source=rss------data_science-5)
-- [The Law of Karma: What You Sow, What You Reap](https://medium.com/@aribaatta786/the-law-of-karma-what-you-sow-what-you-reap-02bff85e96e3?source=rss------data_science-5)
-- [How I Made $2,000 a Month with AI Prompts](https://medium.com/@Smart-Income/how-i-made-2-000-a-month-with-ai-prompts-5ebba81d41fe?source=rss------data_science-5)
-- [File Arrival Triggers in Databricks](https://muttinenisairohith.medium.com/file-arrival-triggers-in-databricks-f2450cb24474?source=rss------data_science-5)
-- [0923.217.4161شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@djdindjdndnxnxwiwi24848/0923-217-4161%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-07af481b7520?source=rss------data_science-5)
-- [0923.217.4161شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@djdindjdndnxnxwiwi24848/0923-217-4161%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-89423c172551?source=rss------data_science-5)
+- [0933.608.6822](https://medium.com/@jfjcjfjfjdjmxjxj/0933-608-6822-5f17da81bbd3?source=rss------data_science-5)
+- [0933.608.6822](https://medium.com/@jfjcjfjfjdjmxjxj/0933-608-6822-7c9cdbf538ae?source=rss------data_science-5)
+- [0933.608.6822](https://medium.com/@jfjcjfjfjdjmxjxj/0933-608-6822-5f581ddc719a?source=rss------data_science-5)
+- [Spark Interview Series — Difference between map&lpar;&rpar; &amp; flatmap&lpar;&rpar;](https://medium.com/@ghoshsiddharth25/spark-interview-series-difference-between-map-flatmap-31cbee3d7ccd?source=rss------data_science-5)
+- [Deep Learning Design Patterns in Practice](https://medium.com/codex/deep-learning-design-patterns-in-practice-f90911624f71?source=rss------data_science-5)
+- [Regressão Linear Simples](https://medium.com/@gabrielavianadearaujo/regress%C3%A3o-linear-simples-10a92f0a2e38?source=rss------data_science-5)
+- [Discovering My Path to $547 Daily with This Simple Tool](https://medium.com/@Smart-Income/discovering-my-path-to-547-daily-with-this-simple-tool-5cd3abcafc13?source=rss------data_science-5)
+- [Boosting Algoritmaları Üzerine](https://medium.com/@atakanakin1009/boosting-algoritmalar%C4%B1-%C3%BCzerine-cb130a6f6db1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
