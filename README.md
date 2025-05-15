@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@4wnwkwowkwnnw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5b9610e525f1?source=rss------data_science-5)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@4wnwkwowkwnnw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c44d8325e2fd?source=rss------data_science-5)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@3jfiivyvcgczgcgc/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-74c6668156f8?source=rss------data_science-5)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@3jfiivyvcgczgcgc/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ac14ec440c86?source=rss------data_science-5)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@3jfiivyvcgczgcgc/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e94940ee96c9?source=rss------data_science-5)
-- [You Don’t Need to Know Everything About Python &lpar;And That’s Totally Fine!&rpar;](https://mayursurani.medium.com/you-dont-need-to-know-everything-about-python-and-that-s-totally-fine-d291458aa594?source=rss------data_science-5)
+- [Mastering SQL for Data Engineering: The Ultimate Guide to Ace Your 2025 Interviews](https://mayursurani.medium.com/mastering-sql-for-data-engineering-the-ultimate-guide-to-ace-your-2025-interviews-a2ca2d2bd7b8?source=rss------data_science-5)
+- [klccs](https://medium.com/@nnxkxkkxj/klccs-2eabfdf90a00?source=rss------data_science-5)
+- [nkb](https://medium.com/@nnxkxkkxj/nkb-71278fafd189?source=rss------data_science-5)
+- [vkb](https://medium.com/@nnxkxkkxj/vkb-7ddeead3b2f3?source=rss------data_science-5)
+- [Why No One Talks About Memory = Life Because They’re Afraid It’s True](https://medium.com/@jimmyfallen39/why-no-one-talks-about-memory-life-because-theyre-afraid-it-s-true-721a713ef37b?source=rss------data_science-5)
+- [Day 72: Graph Analytics — Unveiling Hidden Patterns in Networks](https://ianclemence.medium.com/day-72-graph-analytics-unveiling-hidden-patterns-in-networks-37202f845b1c?source=rss------data_science-5)
+- [09304098140](https://medium.com/@hdudyddydydy5/09304098140-2d5ff1f40a09?source=rss------data_science-5)
+- [How Does OCR Work?](https://iamshobhitagarwal.medium.com/how-does-ocr-work-a8b371426cba?source=rss------data_science-5)
+- [09304098140](https://medium.com/@hdudyddydydy5/09304098140-edad064f7ac3?source=rss------data_science-5)
+- [When Machines Dream:](https://medium.com/@thauptrief/when-machines-dream-d478dec54bb5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
