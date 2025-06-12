@@ -105,19 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Remember when President Obama sang “I Say a Little Prayer” on Glee? Google AI Overview does.](https://generativeai.pub/remember-when-president-obama-sang-i-say-a-little-prayer-on-glee-google-ai-overview-does-c769583b5557?source=rss------data_science-5)
-- [Analyzing Clean vs. Dirty Air Pace Using Python &lpar;2025 Spanish GP&rpar;](https://python.plainenglish.io/analyzing-clean-vs-dirty-air-pace-using-python-2025-spanish-gp-621d8f37bb62?source=rss------data_science-5)
-- [10 Minutes That Got Me Fired &lpar;And Made Me a Better Data Analyst&rpar;](https://analystuttam.medium.com/10-minutes-that-got-me-fired-and-made-me-a-better-data-analyst-9b093e03ba97?source=rss------data_science-5)
-- [4 Best Pandas GitHub repos](https://medium.com/@DoaaA/4-best-pandas-github-repos-a3627a3c5a89?source=rss------data_science-5)
-- [How a Simple Coloring Pack Made Me $1,000 in a Month](https://medium.com/@Smart-Income/how-a-simple-coloring-pack-made-me-1-000-in-a-month-30fa101e6d3a?source=rss------data_science-5)
-- [Using Enums with Pydantic and FastAPI Cleanly](https://python.plainenglish.io/using-enums-with-pydantic-and-fastapi-cleanly-dd4c5fddbc30?source=rss------data_science-5)
-- [09360627233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dwmjdyd788/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-87ef5b45d884?source=rss------data_science-5)
-- [Stop Paying for ChatGPT: Run Powerful Language Models From Your Laptop](https://python.plainenglish.io/stop-paying-for-chatgpt-run-powerful-language-models-from-your-laptop-9811219e0a63?source=rss------data_science-5)
-- [09360627233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dwmjdyd788/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3dea673a828f?source=rss------data_science-5)
-- [09360627233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dwmjdyd788/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8f399f091c5a?source=rss------data_science-5)
+- [The Only 15-Minute Chart Strategy You’ll Need in 2025 — Turtle DNA Revamped](https://medium.com/@sayedalimi19/the-only-15-minute-chart-strategy-youll-need-in-2025-turtle-dna-revamped-52a3d37844ad?source=rss------data_science-5)
+- [15 SQL Statements for 90% of Your Tasks](https://analystuttam.medium.com/15-sql-statements-for-90-of-your-tasks-8131d39b4b2f?source=rss------data_science-5)
+- [Bayesian Brains &amp; Probable Things: A Fun, Friendly Dive into Bayesian Inference &amp; Probabilistic…](https://timkimutai.medium.com/bayesian-brains-probable-things-a-fun-friendly-dive-into-bayesian-inference-probabilistic-eccfce7ddf23?source=rss------data_science-5)
+- [Sports Data Model](https://aws.plainenglish.io/sports-data-model-c10b249a7d08?source=rss------data_science-5)
+- [09013027390](https://medium.com/@jsbsushssi/09013027390-c496c19c5879?source=rss------data_science-5)
+- [09013027390](https://medium.com/@jsbsushssi/09013027390-f20f74735bb6?source=rss------data_science-5)
+- [09013027390](https://medium.com/@jsbsushssi/09013027390-0cc6e42f12f5?source=rss------data_science-5)
+- [OrganData.com: A Digital Goldmine for the Future of Health Technologies](https://medium.com/@daseingram/organdata-com-a-digital-goldmine-for-the-future-of-health-technologies-3a15542f1491?source=rss------data_science-5)
+- [09055770486شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdjsuehnejsiskakka/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ad18cbfd32df?source=rss------data_science-5)
+- [09055770486شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdjsuehnejsiskakka/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8879b8f7f1fd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
