@@ -105,18 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Only 15-Minute Chart Strategy You’ll Need in 2025 — Turtle DNA Revamped](https://medium.com/@sayedalimi19/the-only-15-minute-chart-strategy-youll-need-in-2025-turtle-dna-revamped-52a3d37844ad?source=rss------data_science-5)
-- [15 SQL Statements for 90% of Your Tasks](https://analystuttam.medium.com/15-sql-statements-for-90-of-your-tasks-8131d39b4b2f?source=rss------data_science-5)
-- [Bayesian Brains &amp; Probable Things: A Fun, Friendly Dive into Bayesian Inference &amp; Probabilistic…](https://timkimutai.medium.com/bayesian-brains-probable-things-a-fun-friendly-dive-into-bayesian-inference-probabilistic-eccfce7ddf23?source=rss------data_science-5)
-- [Sports Data Model](https://aws.plainenglish.io/sports-data-model-c10b249a7d08?source=rss------data_science-5)
-- [09013027390](https://medium.com/@jsbsushssi/09013027390-c496c19c5879?source=rss------data_science-5)
-- [09013027390](https://medium.com/@jsbsushssi/09013027390-f20f74735bb6?source=rss------data_science-5)
-- [09013027390](https://medium.com/@jsbsushssi/09013027390-0cc6e42f12f5?source=rss------data_science-5)
-- [OrganData.com: A Digital Goldmine for the Future of Health Technologies](https://medium.com/@daseingram/organdata-com-a-digital-goldmine-for-the-future-of-health-technologies-3a15542f1491?source=rss------data_science-5)
-- [09055770486شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdjsuehnejsiskakka/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ad18cbfd32df?source=rss------data_science-5)
-- [09055770486شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdjsuehnejsiskakka/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8879b8f7f1fd?source=rss------data_science-5)
+- [09045080282](https://medium.com/@9skoalansjsnsns/09045080282-91c41f3dda47?source=rss------data_science-5)
+- [09045080282](https://medium.com/@9skoalansjsnsns/09045080282-2f8463c41a20?source=rss------data_science-5)
+- [09045080282](https://medium.com/@9skoalansjsnsns/09045080282-bf9dca3a6a1f?source=rss------data_science-5)
+- [09045080282شماره خاله بندرعباس.شماره](https://medium.com/@8ikwoakkaakajajjajw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6eae2497a330?source=rss------data_science-5)
+- [09045080282شماره خاله بندرعباس.شماره](https://medium.com/@8ikwoakkaakajajjajw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e943455ffee6?source=rss------data_science-5)
+- [09045080282شماره خاله بندرعباس.شماره](https://medium.com/@8ikwoakkaakajajjajw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e9daf063b220?source=rss------data_science-5)
+- [09045080282شماره خاله بندرعباس.شماره](https://medium.com/@7skeiwkkaksjsj/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b3e8597f5e75?source=rss------data_science-5)
+- [09045080282شماره خاله بندرعباس.شماره](https://medium.com/@7skeiwkkaksjsj/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3c1cae31dd13?source=rss------data_science-5)
+- [09045080282شماره خاله بندرعباس.شماره](https://medium.com/@7skeiwkkaksjsj/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6fb5015fd194?source=rss------data_science-5)
+- [09045080282شماره خاله بندرعباس.شماره](https://medium.com/@6iwoakaksnsnan/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-019879ea72cf?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
