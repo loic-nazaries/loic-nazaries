@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Money Making Intraday Strategy Mid 2025](https://medium.com/@sayedalimi19/money-making-intraday-strategy-mid-2025-5a644ee37aeb?source=rss------data_science-5)
-- [Hubungi WhatsApp Call Center Tokopedia](https://medium.com/@toped/hubungi-whatsapp-call-center-tokopedia-f6c88e41f42d?source=rss------data_science-5)
-- [Nomor WhatsApp Layanan Tokopedia](https://medium.com/@toped/nomor-whatsapp-layanan-tokopedia-165ca47c0000?source=rss------data_science-5)
-- [Cara Cek WhatsApp Resmi Tokopedia](https://medium.com/@toped/cara-cek-whatsapp-resmi-tokopedia-eb5a15e3ef71?source=rss------data_science-5)
-- [ODFC Webinar: RBI Guidelines for Cyber Security in NBFC](https://odfcindia.medium.com/odfc-webinar-rbi-guidelines-for-cyber-security-in-nbfc-cc55d6d67af9?source=rss------data_science-5)
-- [Berapa Nomor WhatsApp Tokopedia](https://medium.com/@toped/berapa-nomor-whatsapp-tokopedia-84becf2b8a66?source=rss------data_science-5)
-- [7 Wonders of Data Science](https://analystuttam.medium.com/7-wonders-of-data-science-4486e1b8d548?source=rss------data_science-5)
-- [Albinismo en República Dominicana: Invisibles bajo el sol](https://medium.com/@barybigay/albinismo-en-rep%C3%BAblica-dominicana-invisibles-bajo-el-sol-dde804a73de0?source=rss------data_science-5)
-- [Getting Started with Android Studio &lpar;Made Simple&rpar;](https://medium.com/@kennethsincrow/getting-started-with-android-studio-made-simple-f2e368ce44ce?source=rss------data_science-5)
-- [His Main Claims, Scientifically and Logically Examined:](https://medium.com/@kennethsincrow/his-main-claims-scientifically-and-logically-examined-80dcc4ab7df0?source=rss------data_science-5)
+- [I will do software engineer, data analyst, IT, data science, blockchain resume](https://medium.com/@tijanikudrohadebisi853/i-will-do-software-engineer-data-analyst-it-data-science-blockchain-resume-0f76b76bb661?source=rss------data_science-5)
+- [I will do web development, mobile app, data science, and cloud computing resume](https://medium.com/@tijanikudrohadebisi853/i-will-do-web-development-mobile-app-data-science-and-cloud-computing-resume-26f73bdd5cc3?source=rss------data_science-5)
+- [ChatGPT Isn’t Your Cheerleader — It’s Quietly Reinforcing Your Biases](https://analystuttam.medium.com/chatgpt-isnt-your-cheerleader-it-s-quietly-reinforcing-your-biases-53a7cd8c926d?source=rss------data_science-5)
+- [**Title: How I Study Consistently While Working a 9–5 Full-Time Job**](https://medium.com/@visghdel/title-how-i-study-consistently-while-working-a-9-5-full-time-job-6eb1fd2f49bf?source=rss------data_science-5)
+- [09013027390](https://medium.com/@hsnngar84/09013027390-6b08fd39e03a?source=rss------data_science-5)
+- [09013027390](https://medium.com/@hsnngar84/09013027390-c774b7b56eb8?source=rss------data_science-5)
+- [Adaptive Strategy Testing with Fisher Transform &amp; KST Indicators: A Failed Experiment](https://medium.com/@kridtapon/adaptive-strategy-testing-with-fisher-transform-kst-indicators-a-failed-experiment-fe4584f77248?source=rss------data_science-5)
+- [lkkjhggfd](https://medium.com/@ksjdksmwsmdndndnsn/lkkjhggfd-e9a622daa8d4?source=rss------data_science-5)
+- [poiiuytrrew](https://medium.com/@ksjdksmwsmdndndnsn/poiiuytrrew-7f1ecbebf367?source=rss------data_science-5)
+- [20 Common Data Science Interview Questions &lpar;With Clear Answers&rpar;](https://medium.com/@humna.zaidi/20-common-data-science-interview-questions-with-clear-answers-d818612e06ac?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
