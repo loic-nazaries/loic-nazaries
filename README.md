@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [09027641209شماره خاله تهران شماره خاله اهواز شماره خاله اصفهان شماره خاله شیراز شماره خاله تبریز…](https://medium.com/@zdan84860/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-782d86aacdac?source=rss------data_science-5)
-- [I Tried ActlysAI — Here’s Why I Think No-Code AI Is the Future](https://medium.com/@raphelomemmaahiwe/i-tried-actlysai-heres-why-i-think-no-code-ai-is-the-future-6ed25324d8ea?source=rss------data_science-5)
-- [Intraday Setup For Commodity Traders](https://medium.com/@sayedalimi19/intraday-setup-for-commodity-traders-c908c8d45974?source=rss------data_science-5)
-- [Parameterized Dataflows: The Proven Solution for Dynamic Filtering in Power BI Cloud Service](https://medium.com/@nitinjhaofficial/parameterized-dataflows-the-proven-solution-for-dynamic-filtering-in-power-bi-cloud-service-5394507a71e1?source=rss------data_science-5)
-- [09051012897](https://medium.com/@itdfistiskdggdits/09051012897-4ec020abfd2f?source=rss------data_science-5)
-- [09051012897](https://medium.com/@itdfistiskdggdits/09051012897-f4c4d6176cad?source=rss------data_science-5)
-- [09051012897](https://medium.com/@itdfistiskdggdits/09051012897-b4440d846ac5?source=rss------data_science-5)
-- [09051012897](https://medium.com/@jdjdjcndjdndbd/09051012897-08878e097401?source=rss------data_science-5)
-- [09051012897](https://medium.com/@jdjdjcndjdndbd/09051012897-da315091b21c?source=rss------data_science-5)
-- [09051012897](https://medium.com/@jdjdjcndjdndbd/09051012897-969914f9f855?source=rss------data_science-5)
+- [The Importance of Sports in Our Lives](https://medium.com/@AhsanMoeen/the-importance-of-sports-in-our-lives-576d8f215254?source=rss------data_science-5)
+- [Scalping Setup For ETH trading](https://medium.com/@sayedalimi19/scalping-setup-for-eth-trading-0c3e0681d5bb?source=rss------data_science-5)
+- [Magic Functions in Python: The Dunder That Runs the Thunder](https://medium.com/@uzairkbrr/magic-functions-in-python-the-dunder-that-runs-the-thunder-7a90de3aa5d2?source=rss------data_science-5)
+- [7 Machine Learning Books for Top 1% Data Scientist](https://analystuttam.medium.com/7-machine-learning-books-for-top-1-data-scientist-1df56e7490b8?source=rss------data_science-5)
+- [Macroeconomic Nowcasting](https://medium.com/predict/macroeconomic-nowcasting-f52ee239660d?source=rss------data_science-5)
+- [DDL vs DML — The SQL Question That Seems Simple… Until You Explain It in an Interview](https://blog.det.life/ddl-vs-dml-the-sql-question-that-seems-simple-until-you-explain-it-in-an-interview-46e793633dc8?source=rss------data_science-5)
+- [90% of Python Devs Misuse Jupyter Notebooks](https://python.plainenglish.io/90-of-python-devs-misuse-jupyter-notebooks-5b5f3dde4042?source=rss------data_science-5)
+- [strip&lpar;&rpar; in Python: That One-Liner That Saves You Hours Later](https://python.plainenglish.io/strip-in-python-that-one-liner-that-saves-you-hours-later-70a5fa4f5bc2?source=rss------data_science-5)
+- [Master SQL for Data Engineering: 25 Essential Interview Questions with Solutions](https://python.plainenglish.io/master-sql-for-data-engineering-25-essential-interview-questions-with-solutions-52241b81bde4?source=rss------data_science-5)
+- [VS Code Extensions That Make Coding 2x Faster](https://python.plainenglish.io/vs-code-extensions-that-make-coding-2x-faster-1fe340d1f1d0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
