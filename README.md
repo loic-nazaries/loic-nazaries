@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Importance of Sports in Our Lives](https://medium.com/@AhsanMoeen/the-importance-of-sports-in-our-lives-576d8f215254?source=rss------data_science-5)
-- [Scalping Setup For ETH trading](https://medium.com/@sayedalimi19/scalping-setup-for-eth-trading-0c3e0681d5bb?source=rss------data_science-5)
-- [Magic Functions in Python: The Dunder That Runs the Thunder](https://medium.com/@uzairkbrr/magic-functions-in-python-the-dunder-that-runs-the-thunder-7a90de3aa5d2?source=rss------data_science-5)
-- [7 Machine Learning Books for Top 1% Data Scientist](https://analystuttam.medium.com/7-machine-learning-books-for-top-1-data-scientist-1df56e7490b8?source=rss------data_science-5)
-- [Macroeconomic Nowcasting](https://medium.com/predict/macroeconomic-nowcasting-f52ee239660d?source=rss------data_science-5)
-- [DDL vs DML — The SQL Question That Seems Simple… Until You Explain It in an Interview](https://blog.det.life/ddl-vs-dml-the-sql-question-that-seems-simple-until-you-explain-it-in-an-interview-46e793633dc8?source=rss------data_science-5)
-- [90% of Python Devs Misuse Jupyter Notebooks](https://python.plainenglish.io/90-of-python-devs-misuse-jupyter-notebooks-5b5f3dde4042?source=rss------data_science-5)
-- [strip&lpar;&rpar; in Python: That One-Liner That Saves You Hours Later](https://python.plainenglish.io/strip-in-python-that-one-liner-that-saves-you-hours-later-70a5fa4f5bc2?source=rss------data_science-5)
-- [Master SQL for Data Engineering: 25 Essential Interview Questions with Solutions](https://python.plainenglish.io/master-sql-for-data-engineering-25-essential-interview-questions-with-solutions-52241b81bde4?source=rss------data_science-5)
-- [VS Code Extensions That Make Coding 2x Faster](https://python.plainenglish.io/vs-code-extensions-that-make-coding-2x-faster-1fe340d1f1d0?source=rss------data_science-5)
+- [You’re Not Getting the Best Out of ChatGPT — Here’s the Prompting Secret Pros Use](https://medium.com/@myperpuse/youre-not-getting-the-best-out-of-chatgpt-here-s-the-prompting-secret-pros-use-5d7989d5c6c4?source=rss------data_science-5)
+- [Generative AI vs Agentic AI vs AI Agents: What’s the Difference, Really?](https://analystuttam.medium.com/generative-ai-vs-agentic-ai-vs-ai-agents-whats-the-difference-really-3b76b7c1847b?source=rss------data_science-5)
+- [When Everyone’s Responsible, No One Is: The AI Hiring Shell Game](https://medium.com/@John_Spratt/when-everyones-responsible-no-one-is-the-ai-hiring-shell-game-989b19ee9f1d?source=rss------data_science-5)
+- [The Ultimate Comparison of 2025’s Top AI Models](https://medium.com/ai-simplified-in-plain-english/the-ultimate-comparison-of-2025s-top-ai-models-8fea27947caf?source=rss------data_science-5)
+- [career = [“coffee”, “keyboards”, “code”]](https://medium.com/@asisler47/career-coffee-keyboards-code-659ae986d1d7?source=rss------data_science-5)
+- [Podcast Listening Time Analysis: How Data Cleaning and EDA Reveal What Drives Audience…](https://medium.com/@supreetmutsuddi/podcast-listening-time-analysis-how-data-cleaning-and-eda-reveal-what-drives-audience-9c30abaa3d8d?source=rss------data_science-5)
+- [Silent Guardians: Advanced Threat Hunting in Critical Infrastructure](https://medium.com/@aditrizky052/silent-guardians-advanced-threat-hunting-in-critical-infrastructure-7f7716657a4f?source=rss------data_science-5)
+- [Does big data analytics have a good scope in the future?](https://medium.com/@isaacfiifik24/does-big-data-analytics-have-a-good-scope-in-the-future-858c8463832d?source=rss------data_science-5)
+- [SQL Tricks that Cut My Query Time by 99%](https://thedataengineer.medium.com/sql-tricks-that-cut-my-query-time-by-99-74edffc67f56?source=rss------data_science-5)
+- [Tarea 2: Vistas, procedimientos, funciones, triggers](https://medium.com/@manuelcbarriga/tarea-2-vistas-procedimientos-funciones-triggers-dc1ec0d70044?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
