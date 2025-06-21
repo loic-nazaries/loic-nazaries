@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [You’re Not Getting the Best Out of ChatGPT — Here’s the Prompting Secret Pros Use](https://medium.com/@myperpuse/youre-not-getting-the-best-out-of-chatgpt-here-s-the-prompting-secret-pros-use-5d7989d5c6c4?source=rss------data_science-5)
-- [Generative AI vs Agentic AI vs AI Agents: What’s the Difference, Really?](https://analystuttam.medium.com/generative-ai-vs-agentic-ai-vs-ai-agents-whats-the-difference-really-3b76b7c1847b?source=rss------data_science-5)
-- [When Everyone’s Responsible, No One Is: The AI Hiring Shell Game](https://medium.com/@John_Spratt/when-everyones-responsible-no-one-is-the-ai-hiring-shell-game-989b19ee9f1d?source=rss------data_science-5)
-- [The Ultimate Comparison of 2025’s Top AI Models](https://medium.com/ai-simplified-in-plain-english/the-ultimate-comparison-of-2025s-top-ai-models-8fea27947caf?source=rss------data_science-5)
-- [career = [“coffee”, “keyboards”, “code”]](https://medium.com/@asisler47/career-coffee-keyboards-code-659ae986d1d7?source=rss------data_science-5)
-- [Podcast Listening Time Analysis: How Data Cleaning and EDA Reveal What Drives Audience…](https://medium.com/@supreetmutsuddi/podcast-listening-time-analysis-how-data-cleaning-and-eda-reveal-what-drives-audience-9c30abaa3d8d?source=rss------data_science-5)
-- [Silent Guardians: Advanced Threat Hunting in Critical Infrastructure](https://medium.com/@aditrizky052/silent-guardians-advanced-threat-hunting-in-critical-infrastructure-7f7716657a4f?source=rss------data_science-5)
-- [Does big data analytics have a good scope in the future?](https://medium.com/@isaacfiifik24/does-big-data-analytics-have-a-good-scope-in-the-future-858c8463832d?source=rss------data_science-5)
-- [SQL Tricks that Cut My Query Time by 99%](https://thedataengineer.medium.com/sql-tricks-that-cut-my-query-time-by-99-74edffc67f56?source=rss------data_science-5)
-- [Tarea 2: Vistas, procedimientos, funciones, triggers](https://medium.com/@manuelcbarriga/tarea-2-vistas-procedimientos-funciones-triggers-dc1ec0d70044?source=rss------data_science-5)
+- [Data Analyst Guide to Aptos: Supply and Volume &lpar;pt.3&rpar;](https://aptoslabs.medium.com/data-analyst-guide-to-aptos-supply-and-volume-pt-3-535e312946ad?source=rss------data_science-5)
+- [ViralTag-C: Innovador Sistema Heredable de Marcaje para la Cura Funcional del VIH](https://medium.com/@nazziyani23/viraltag-c-innovador-sistema-heredable-de-marcaje-para-la-cura-funcional-del-vih-c5c9d2a989de?source=rss------data_science-5)
+- [Unlocking the Power of Neuro-Symbolic Data Science](https://medium.com/ai-simplified-in-plain-english/unlocking-the-power-of-neuro-symbolic-data-science-d41d18a817a9?source=rss------data_science-5)
+- [LDA, QDA, Naive Bayes: How Generative Models “Think” in Classification Tasks](https://medium.com/@yukims19/lda-qda-naive-bayes-how-generative-models-think-in-classification-tasks-e1f320d3f063?source=rss------data_science-5)
+- [Supercharging A/B tests for adaptive bitrate streaming with Bayesian Optimization](https://medium.com/@lennartpaduch99/supercharging-a-b-tests-for-adaptive-bitrate-streaming-with-bayesian-optimization-e7541073323d?source=rss------data_science-5)
+- [AI Isn’t Going to Take Your Job — But Analysts Who Use AI Will](https://analystuttam.medium.com/ai-isnt-going-to-take-your-job-but-analysts-who-use-ai-will-f67f24abb7c9?source=rss------data_science-5)
+- [AI in E-Commerce: Transforming Digital Retail with Intelligent Automation](https://medium.com/@sarat06711/ai-in-e-commerce-transforming-digital-retail-with-intelligent-automation-321ce073cdb4?source=rss------data_science-5)
+- [Unveiling a Silent Crisis: Understanding Female Child Fertility Across Africa](https://medium.com/@beyond_numbers/unveiling-a-silent-crisis-understanding-female-child-fertility-across-africa-7177ce9bcd48?source=rss------data_science-5)
+- [当AI书单混入10本假书：贪婪的效率主义，正在杀死新闻的灵魂](https://medium.com/@9635204/%E5%BD%93ai%E4%B9%A6%E5%8D%95%E6%B7%B7%E5%85%A510%E6%9C%AC%E5%81%87%E4%B9%A6-%E8%B4%AA%E5%A9%AA%E7%9A%84%E6%95%88%E7%8E%87%E4%B8%BB%E4%B9%89-%E6%AD%A3%E5%9C%A8%E6%9D%80%E6%AD%BB%E6%96%B0%E9%97%BB%E7%9A%84%E7%81%B5%E9%AD%82-d86111fcb892?source=rss------data_science-5)
+- [Bringing LLMs to the Edge: Phones and Laptops Without the Cloud](https://medium.com/@fahey_james/bringing-llms-to-the-edge-phones-and-laptops-without-the-cloud-c1d7f24dc097?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
