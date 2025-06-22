@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Analyst Guide to Aptos: Supply and Volume &lpar;pt.3&rpar;](https://aptoslabs.medium.com/data-analyst-guide-to-aptos-supply-and-volume-pt-3-535e312946ad?source=rss------data_science-5)
-- [ViralTag-C: Innovador Sistema Heredable de Marcaje para la Cura Funcional del VIH](https://medium.com/@nazziyani23/viraltag-c-innovador-sistema-heredable-de-marcaje-para-la-cura-funcional-del-vih-c5c9d2a989de?source=rss------data_science-5)
-- [Unlocking the Power of Neuro-Symbolic Data Science](https://medium.com/ai-simplified-in-plain-english/unlocking-the-power-of-neuro-symbolic-data-science-d41d18a817a9?source=rss------data_science-5)
-- [LDA, QDA, Naive Bayes: How Generative Models “Think” in Classification Tasks](https://medium.com/@yukims19/lda-qda-naive-bayes-how-generative-models-think-in-classification-tasks-e1f320d3f063?source=rss------data_science-5)
-- [Supercharging A/B tests for adaptive bitrate streaming with Bayesian Optimization](https://medium.com/@lennartpaduch99/supercharging-a-b-tests-for-adaptive-bitrate-streaming-with-bayesian-optimization-e7541073323d?source=rss------data_science-5)
-- [AI Isn’t Going to Take Your Job — But Analysts Who Use AI Will](https://analystuttam.medium.com/ai-isnt-going-to-take-your-job-but-analysts-who-use-ai-will-f67f24abb7c9?source=rss------data_science-5)
-- [AI in E-Commerce: Transforming Digital Retail with Intelligent Automation](https://medium.com/@sarat06711/ai-in-e-commerce-transforming-digital-retail-with-intelligent-automation-321ce073cdb4?source=rss------data_science-5)
-- [Unveiling a Silent Crisis: Understanding Female Child Fertility Across Africa](https://medium.com/@beyond_numbers/unveiling-a-silent-crisis-understanding-female-child-fertility-across-africa-7177ce9bcd48?source=rss------data_science-5)
-- [当AI书单混入10本假书：贪婪的效率主义，正在杀死新闻的灵魂](https://medium.com/@9635204/%E5%BD%93ai%E4%B9%A6%E5%8D%95%E6%B7%B7%E5%85%A510%E6%9C%AC%E5%81%87%E4%B9%A6-%E8%B4%AA%E5%A9%AA%E7%9A%84%E6%95%88%E7%8E%87%E4%B8%BB%E4%B9%89-%E6%AD%A3%E5%9C%A8%E6%9D%80%E6%AD%BB%E6%96%B0%E9%97%BB%E7%9A%84%E7%81%B5%E9%AD%82-d86111fcb892?source=rss------data_science-5)
-- [Bringing LLMs to the Edge: Phones and Laptops Without the Cloud](https://medium.com/@fahey_james/bringing-llms-to-the-edge-phones-and-laptops-without-the-cloud-c1d7f24dc097?source=rss------data_science-5)
+- [The Vital Role of Water in Our Lives](https://medium.com/@AhsanMoeen/the-vital-role-of-water-in-our-lives-18575ad6f0ed?source=rss------data_science-5)
+- [The Legendary Sword of Allah: Hazrat Khalid bin Waleed](https://medium.com/@AhsanMoeen/the-legendary-sword-of-allah-hazrat-khalid-bin-waleed-02b9e414175c?source=rss------data_science-5)
+- [SQL Window Functions Explained Like You’re 5 years old](https://analystuttam.medium.com/sql-window-functions-explained-like-youre-5-years-old-d6ab2648cf06?source=rss------data_science-5)
+- [The Thermal Decay of Beverages: A Casual Overanalysis](https://medium.com/@dmitriy.bolotov/the-thermal-decay-of-beverages-a-casual-overanalysis-0c9d863b861e?source=rss------data_science-5)
+- [Your Business Needs a Digital Twin: No, Seriously, It’s Not Science Fiction Anymore!](https://medium.com/@marcelomonierdeveloper/your-business-needs-a-digital-twin-no-seriously-its-not-science-fiction-anymore-57dd4ba7307f?source=rss------data_science-5)
+- [How Car Insurance Works for Hit-and-Run Accidents in the USA](https://medium.com/@rainsaber8/how-car-insurance-works-for-hit-and-run-accidents-in-the-usa-37b5f5ab77fe?source=rss------data_science-5)
+- [Analysis of the “Bazaar” Article: The Neuronal System the Ultimatum of the Living, and the Great…](https://medium.com/@x.io.alchimiste.moderne/analysis-of-the-bazaar-article-the-neuronal-system-the-ultimatum-of-the-living-and-the-great-18a54f3f6cac?source=rss------data_science-5)
+- [When CEOs Say ‘AI Can Code,’ What They Really Mean Is: You’re Fired](https://medium.com/@christianachurchill-data-coach/when-ceos-say-ai-can-code-what-they-really-mean-is-you-re-fired-4a35f0b1579e?source=rss------data_science-5)
+- [Week 5: Handling Missing Values, Resampling, and Data Encoding in Data Science](https://medium.com/@abhik12295/week-5-handling-missing-values-resampling-and-data-encoding-in-data-science-17ee69eafa54?source=rss------data_science-5)
+- [7 Weekend AI Projects to Drastically Improve Your Resume](https://python.plainenglish.io/7-weekend-ai-projects-to-drastically-improve-your-resume-525bfbd57d77?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
