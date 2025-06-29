@@ -105,22 +105,14 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [This FastAPI Pattern Finally Made My Backend Feel Clean](https://medium.com/@hadiyolworld007/this-fastapi-pattern-finally-made-my-backend-feel-clean-03e59c29eef1?source=rss------data_science-5)
-- [Decoding Bond: A Data Case Study on the Franchise’s Enduring Appeal](https://medium.com/@karennrusty/decoding-bond-a-data-case-study-on-the-franchises-enduring-appeal-201b63c89652?source=rss------data_science-5)
-- [Losing Our Voice to an human created AI](https://medium.com/@deepdive98/losing-our-voice-to-an-human-created-ai-7e57b18a43da?source=rss------data_science-5)
-- [09360627233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shr26280/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-461c851785be?source=rss------data_science-5)
-- [09360627233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shr26280/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8a7c7da707f8?source=rss------data_science-5)
-- [09360627233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shr26280/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d505a2a66036?source=rss------data_science-5)
-- [17 Secret Python Hacks You Haven’t Heard of Yet &lpar;But Should Be Using&rpar;](https://python.plainenglish.io/17-secret-python-hacks-you-havent-heard-of-yet-but-should-be-using-4e8b8985a905?source=rss------data_science-5)
-- [09360627233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mshtry376/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b6dfc1cfa496?source=rss------data_science-5)
-- [09360627233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mshtry376/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9132b9a1d414?source=rss------data_science-5)
-- [09360627233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mshtry376/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b15e4f7ea1bb?source=rss------data_science-5)
+- [How to install n8n for free for life?](https://medium.com/@antonioproductividad/how-to-install-n8n-for-free-for-life-ef791b1877f7?source=rss------data_science-5)
+- [Why I’, trying to break into Quant Finance &lpar;as a Data Science Grad&rpar;](https://medium.com/@anish10/why-i-trying-to-break-into-quant-finance-as-a-data-science-grad-e884fed0249c?source=rss------data_science-5)
+- [Can the reference object of position: fixed be modified?](https://medium.com/@bestowensss/can-the-reference-object-of-position-fixed-be-modified-fb9ba9b59976?source=rss------data_science-5)
+- [This Strategy Is My Lucky One](https://medium.com/@sayedalimi19/this-strategy-is-my-lucky-one-bc9c74988abf?source=rss------data_science-5)
+- [Continuous Fine‑Tuning with Alpaca‑LoRA and Hugging Face Endpoints](https://medium.com/@cbrackeen05/continuous-fine-tuning-with-alpaca-lora-and-hugging-face-endpoints-e2c07677f6f8?source=rss------data_science-5)
+- [Building an Explainable Classifier with SHAP on Tabular Data](https://medium.com/@cbrackeen05/building-an-explainable-classifier-with-shap-on-tabular-data-5143059f7f2e?source=rss------data_science-5)
+- [El futuro de la inmunoterapia: ¿personalización extrema o soluciones compartidas?](https://medium.com/@barybigay/el-futuro-de-la-inmunoterapia-personalizaci%C3%B3n-extrema-o-soluciones-compartidas-bf81831ddc54?source=rss------data_science-5)
+- [Logistic Regression: Zero to Hero](https://shahvihan.medium.com/logistic-regression-zero-to-hero-d3bc578d1ca5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
