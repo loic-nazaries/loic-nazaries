@@ -105,14 +105,14 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to install n8n for free for life?](https://medium.com/@antonioproductividad/how-to-install-n8n-for-free-for-life-ef791b1877f7?source=rss------data_science-5)
-- [Why I’, trying to break into Quant Finance &lpar;as a Data Science Grad&rpar;](https://medium.com/@anish10/why-i-trying-to-break-into-quant-finance-as-a-data-science-grad-e884fed0249c?source=rss------data_science-5)
-- [Can the reference object of position: fixed be modified?](https://medium.com/@bestowensss/can-the-reference-object-of-position-fixed-be-modified-fb9ba9b59976?source=rss------data_science-5)
-- [This Strategy Is My Lucky One](https://medium.com/@sayedalimi19/this-strategy-is-my-lucky-one-bc9c74988abf?source=rss------data_science-5)
-- [Continuous Fine‑Tuning with Alpaca‑LoRA and Hugging Face Endpoints](https://medium.com/@cbrackeen05/continuous-fine-tuning-with-alpaca-lora-and-hugging-face-endpoints-e2c07677f6f8?source=rss------data_science-5)
-- [Building an Explainable Classifier with SHAP on Tabular Data](https://medium.com/@cbrackeen05/building-an-explainable-classifier-with-shap-on-tabular-data-5143059f7f2e?source=rss------data_science-5)
-- [El futuro de la inmunoterapia: ¿personalización extrema o soluciones compartidas?](https://medium.com/@barybigay/el-futuro-de-la-inmunoterapia-personalizaci%C3%B3n-extrema-o-soluciones-compartidas-bf81831ddc54?source=rss------data_science-5)
-- [Logistic Regression: Zero to Hero](https://shahvihan.medium.com/logistic-regression-zero-to-hero-d3bc578d1ca5?source=rss------data_science-5)
+- [Titanic Survival Analysis: A Step-by-Step Exploratory Data Analysis Using Pandas and Seaborn](https://medium.com/@thilina.20210324/titanic-survival-analysis-a-step-by-step-exploratory-data-analysis-using-pandas-and-seaborn-d1ab4e25997a?source=rss------data_science-5)
+- [2025’s Fresh LLM Frameworks That Will Change How You Build with AI](https://medium.com/@hadiyolworld007/2025s-fresh-llm-frameworks-that-will-change-how-you-build-with-ai-ebeed65aeebf?source=rss------data_science-5)
+- [How I Built a Daily AI Research Digest with Python That Summarizes arXiv Papers and Emails Them](https://levelup.gitconnected.com/how-i-built-a-daily-ai-research-digest-with-python-that-summarizes-arxiv-papers-and-emails-them-99d46f013d3c?source=rss------data_science-5)
+- [Building a Python Workflow Engine That Automates Everything From Data Pipelines to Slack…](https://levelup.gitconnected.com/building-a-python-workflow-engine-that-automates-everything-from-data-pipelines-to-slack-8e7686d584ce?source=rss------data_science-5)
+- [Agentes que nunca duermen: El lado oscuro de la automatización 24/7](https://medium.com/@antonioproductividad/agentes-que-nunca-duermen-el-lado-oscuro-de-la-automatizaci%C3%B3n-24-7-636169604ab7?source=rss------data_science-5)
+- [A Compass for the Digital Age](https://medium.com/@wyldetj/a-compass-for-the-digital-age-89cf7b36b555?source=rss------data_science-5)
+- [Data Types Are So Important it is Scary](https://medium.com/@bennettmo16/data-types-are-so-important-it-is-scary-6eb206cb7804?source=rss------data_science-5)
+- [The SQL Query That Queries Itself](https://medium.com/@grateful_aqua_goat_147/the-sql-query-that-queries-itself-7fcfa5a8fae8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
