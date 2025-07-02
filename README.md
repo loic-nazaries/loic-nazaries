@@ -105,18 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [09013027390](https://medium.com/@ishejsksneko2/09013027390-beea33894688?source=rss------data_science-5)
-- [09013027390](https://medium.com/@ishejsksneko2/09013027390-1e2c4af9d571?source=rss------data_science-5)
-- [09013027390](https://medium.com/@kehesjwbej/09013027390-98cfd911c0a9?source=rss------data_science-5)
-- [09013027390](https://medium.com/@kehesjwbej/09013027390-a782ab3e764a?source=rss------data_science-5)
-- [How GPT-4o and Multimodal AI Are Changing Everything](https://medium.com/@krishantha7470846/how-gpt-4o-and-multimodal-ai-are-changing-everything-54c1e266fde0?source=rss------data_science-5)
-- [AI BulletIns: Build and Share AI Apps with Claude — Super Simple, No Deployment Needed!](https://medium.com/@aakash_7/ai-bulletins-build-and-share-ai-apps-with-claude-super-simple-no-deployment-needed-3c35283b207e?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnncxzsdcg2/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-de66ea877887?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnncxzsdcg2/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4913d17870f8?source=rss------data_science-5)
-- [09013027390](https://medium.com/@rjjshsushsjjs/09013027390-a95cf7aee989?source=rss------data_science-5)
-- [Building an AI Financial Analyst with Python and Gemini — Part 1: The 10-Q Data Detective](https://medium.com/@yzx105psu/building-an-ai-financial-analyst-with-python-and-gemini-part-1-the-10-q-data-detective-ed71af34ecd6?source=rss------data_science-5)
+- [The Invisible Backbone of Snowflake: “Why Snowflake’s Information Schema Is Every Developer’s…](https://medium.com/@nitinjhaofficial/the-invisible-backbone-of-snowflake-why-snowflakes-information-schema-is-every-developer-s-4ddfad11a6f9?source=rss------data_science-5)
+- [Reinforcement Pre-Training &lpar;RPT&rpar; by Microsoft Explained](https://medium.com/@aipapers/reinforcement-pre-training-rpt-by-microsoft-explained-e087806d278e?source=rss------data_science-5)
+- [Blazing-Fast ML Model Serving with FastAPI + Redis &lpar;Boost 10x Speed!&rpar;](https://medium.com/ai-simplified-in-plain-english/blazing-fast-ml-model-serving-with-fastapi-redis-boost-10x-speed-f94bc31359d4?source=rss------data_science-5)
+- [I Read 27 Data Science Books So You Don’t Have To — Here Are the Only 7 Worth Buying](https://analystuttam.medium.com/i-read-27-data-science-books-so-you-dont-have-to-here-are-the-only-7-worth-buying-49de473f120d?source=rss------data_science-5)
+- [Vaex: The Hidden Gem of Python for Big Data Explorers](https://devendrayadav2494.medium.com/vaex-the-hidden-gem-of-python-for-big-data-explorers-3de76ee26f87?source=rss------data_science-5)
+- [I Created an AI-Powered Auto Tagger That Labels My Dataset Without Manual Work](https://ai.plainenglish.io/i-created-an-ai-powered-auto-tagger-that-labels-my-dataset-without-manual-work-47bc72803bb6?source=rss------data_science-5)
+- [From Boring to Brilliant: How I Automated My Entire Python Testing Workflow with a Single CLI Tool](https://python.plainenglish.io/from-boring-to-brilliant-how-i-automated-my-entire-python-testing-workflow-with-a-single-cli-tool-018c095bf384?source=rss------data_science-5)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@s86015939/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a1289c810942?source=rss------data_science-5)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@s86015939/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f34ce355e59f?source=rss------data_science-5)
+- [Recomendando con datos: Aplicación práctica de sistemas de recomendación con Surprise y KNN](https://medium.com/@tgnarra/recomendando-con-datos-aplicaci%C3%B3n-pr%C3%A1ctica-de-sistemas-de-recomendaci%C3%B3n-con-surprise-y-knn-b2e918462a49?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
