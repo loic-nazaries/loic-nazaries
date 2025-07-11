@@ -105,17 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Winning the Shark Tank](https://medium.com/mitb-for-all/winning-the-shark-tank-0a5ceafbaa88?source=rss------data_science-5)
-- [“Who is Elmehdi Bourharoud? The Story of the Hidden Moroccan Millionaire You Should Know”](https://medium.com/@www.omisgroup/who-is-elmehdi-bourharoud-the-story-of-the-hidden-moroccan-millionaire-you-should-know-286b39881561?source=rss------data_science-5)
-- [“How to Become a Moroccan Millionaire Without Anyone Seeing You Coming”](https://medium.com/@www.omisgroup/how-to-become-a-moroccan-millionaire-without-anyone-seeing-you-coming-2fb938508257?source=rss------data_science-5)
-- [Even Senior Devs Slip on These Python Mistakes in 2025](https://medium.com/@hadiyolworld007/even-senior-devs-slip-on-these-python-mistakes-in-2025-fddf77aa6114?source=rss------data_science-5)
-- [The One Python Script That Changed How I Work Forever](https://medium.com/@hadiyolworld007/the-one-python-script-that-changed-how-i-work-forever-8f3c81e1a763?source=rss------data_science-5)
-- [✨ “I Don’t Own Just One Project — I’m Building a System: The Story of OMISGROUP”](https://medium.com/@www.omisgroup/i-dont-own-just-one-project-i-m-building-a-system-the-story-of-omisgroup-2b415cd71ef9?source=rss------data_science-5)
-- [Dmail Network: The Future of Blockchain Communication!](https://medium.com/@muhammadyakubuawaisu81/dmail-network-the-future-of-blockchain-communication-05a0b7a2fab2?source=rss------data_science-5)
-- [How I Built a Self-Improving Machine Learning System With Just Python and GPT-4o](https://generativeai.pub/how-i-built-a-self-improving-machine-learning-system-with-just-python-and-gpt-4o-24649de001aa?source=rss------data_science-5)
-- [I Built a Machine Learning Assistant That Writes, Tunes, and Deploys Models for Me](https://generativeai.pub/i-built-a-machine-learning-assistant-that-writes-tunes-and-deploys-models-for-me-8341c3ce1316?source=rss------data_science-5)
-- [09360627233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@4skksksksksk/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-151bf54f23c3?source=rss------data_science-5)
+- [Web3 Isn’t a Phase. It’s Your Foundation.](https://medium.com/@xhbvhsds/web3-isnt-a-phase-it-s-your-foundation-7022f97979e5?source=rss------data_science-5)
+- [Understanding different types of data &lpar;numerical, categorical, ordinal, etc.&rpar;.](https://medium.com/@ariefwcks303/understanding-different-types-of-data-numerical-categorical-ordinal-etc-28f0f0a34645?source=rss------data_science-5)
+- [Mutual Information vs Correlation: Finding Nonlinear Alpha](https://blog.gopenai.com/mutual-information-vs-correlation-finding-nonlinear-alpha-e21ac0d7c836?source=rss------data_science-5)
+- [09013027390](https://medium.com/@hsnngar673/09013027390-c9a710dd5ecf?source=rss------data_science-5)
+- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@nvjvjhghbjbvn/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fc971f0f0131?source=rss------data_science-5)
+- [09013027390](https://medium.com/@hsnngar673/09013027390-ac14293b8fb6?source=rss------data_science-5)
+- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@nvjvjhghbjbvn/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d4422aebcbe8?source=rss------data_science-5)
+- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@nvjvjhghbjbvn/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e413ee53bb7e?source=rss------data_science-5)
+- [Clare’s Compact](https://medium.com/@matthewsunset/clares-compact-36a68d4a1dd7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
