@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Earn $1,000 a Month Just by Tweeting? Discover Kaito and Coki](https://medium.com/@ozal145303/how-to-earn-1-000-a-month-just-by-tweeting-discover-kaito-and-coki-6495907e8212?source=rss------data_science-5)
-- [Understanding PCA: A Simple Guide for Aspiring Data Scientists](https://medium.com/@hadiyolworld007/understanding-pca-a-simple-guide-for-aspiring-data-scientists-ce4ff22f66d9?source=rss------data_science-5)
-- [How I Automated IAM Policy Audits Across AWS Accounts with Lambda and Slack Alerts](https://aws.plainenglish.io/how-i-automated-iam-policy-audits-across-aws-accounts-with-lambda-and-slack-alerts-20573aecec3e?source=rss------data_science-5)
-- [The Scheme](https://medium.com/@ozal145303/the-scheme-3f1935ca8fcf?source=rss------data_science-5)
-- [https://www.166bet42.com/?id=34250930](https://medium.com/@ricardosoliveira_62967/https-www-166bet42-com-id-34250930-a2f6bb9b857c?source=rss------data_science-5)
-- [How I Automated Image Resizing and Uploading with Python](https://python.plainenglish.io/how-i-automated-image-resizing-and-uploading-with-python-e9ec61456077?source=rss------data_science-5)
-- [09013027390](https://medium.com/@ngarhsn735/09013027390-3e3d1efa1b31?source=rss------data_science-5)
-- [09013027390](https://medium.com/@ngarhsn735/09013027390-02554fca0a17?source=rss------data_science-5)
-- [AI’s True Impact: A Marathon, Not a Sprint](https://medium.com/aimonks/ais-true-impact-a-marathon-not-a-sprint-90ee63b48c4c?source=rss------data_science-5)
+- [09336086822](https://medium.com/@atnaahrmy/09336086822-33d679cedc10?source=rss------data_science-5)
+- [09336086822](https://medium.com/@atnaahrmy/09336086822-1ac54ecb8b3f?source=rss------data_science-5)
+- [09336086822](https://medium.com/@atnaahrmy/09336086822-43b7ab493456?source=rss------data_science-5)
+- [SuperTrend Betrayed Me — Until I Discovered This Camarilla Pivot Loophole](https://medium.com/@sayedalimi19/supertrend-betrayed-me-until-i-discovered-this-camarilla-pivot-loophole-fe1c53169c2f?source=rss------data_science-5)
+- [lkkjpoiu](https://medium.com/@f57928970/lkkjpoiu-52e4b3ed4bc3?source=rss------data_science-5)
+- [pooiuyytre](https://medium.com/@f57928970/pooiuyytre-2e240b104c4c?source=rss------data_science-5)
+- [09010712940](https://medium.com/@f57928970/09010712940-b2f935f83f48?source=rss------data_science-5)
+- [How to Choose k in K-Means: Practical Tips for Data Scientists](https://medium.com/@hadiyolworld007/how-to-choose-k-in-k-means-practical-tips-for-data-scientists-b23e58f80743?source=rss------data_science-5)
+- [09336086822](https://medium.com/@kbrakrmy111/09336086822-035fe47e8793?source=rss------data_science-5)
+- [09336086822](https://medium.com/@kbrakrmy111/09336086822-c553b5a8d097?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
