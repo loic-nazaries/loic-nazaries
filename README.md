@@ -105,16 +105,19 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [09336086822](https://medium.com/@atnaahrmy/09336086822-33d679cedc10?source=rss------data_science-5)
-- [09336086822](https://medium.com/@atnaahrmy/09336086822-1ac54ecb8b3f?source=rss------data_science-5)
-- [09336086822](https://medium.com/@atnaahrmy/09336086822-43b7ab493456?source=rss------data_science-5)
-- [SuperTrend Betrayed Me — Until I Discovered This Camarilla Pivot Loophole](https://medium.com/@sayedalimi19/supertrend-betrayed-me-until-i-discovered-this-camarilla-pivot-loophole-fe1c53169c2f?source=rss------data_science-5)
-- [lkkjpoiu](https://medium.com/@f57928970/lkkjpoiu-52e4b3ed4bc3?source=rss------data_science-5)
-- [pooiuyytre](https://medium.com/@f57928970/pooiuyytre-2e240b104c4c?source=rss------data_science-5)
-- [09010712940](https://medium.com/@f57928970/09010712940-b2f935f83f48?source=rss------data_science-5)
-- [How to Choose k in K-Means: Practical Tips for Data Scientists](https://medium.com/@hadiyolworld007/how-to-choose-k-in-k-means-practical-tips-for-data-scientists-b23e58f80743?source=rss------data_science-5)
-- [09336086822](https://medium.com/@kbrakrmy111/09336086822-035fe47e8793?source=rss------data_science-5)
-- [09336086822](https://medium.com/@kbrakrmy111/09336086822-c553b5a8d097?source=rss------data_science-5)
+- [Not another RAG tutorial — But the ML Fundamentals that matter](https://medium.com/latinxinai/not-another-rag-tutorial-but-the-ml-fundamentals-that-matter-9474594e7206?source=rss------data_science-5)
+- [0905.501.9190#تهران #اصفهان #شیراز #شمال #کُرد #بلوچ #خوزستان #خوشگل #دخترایرانی #فالو_یادت_نره…](https://medium.com/@jfd_93350/0905-501-9190-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D9%84-%DA%A9%D9%8F%D8%B1%D8%AF-%D8%A8%D9%84%D9%88%DA%86-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86-%D8%AE%D9%88%D8%B4%DA%AF%D9%84-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%81%D8%A7%D9%84%D9%88-%DB%8C%D8%A7%D8%AF%D8%AA-%D9%86%D8%B1%D9%87-6484372f4959?source=rss------data_science-5)
+- [0905.501.9190#تهران #اصفهان #شیراز #شمال #کُرد #بلوچ #خوزستان #خوشگل #دخترایرانی #فالو_یادت_نره…](https://medium.com/@jfd_93350/0905-501-9190-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D9%84-%DA%A9%D9%8F%D8%B1%D8%AF-%D8%A8%D9%84%D9%88%DA%86-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86-%D8%AE%D9%88%D8%B4%DA%AF%D9%84-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%81%D8%A7%D9%84%D9%88-%DB%8C%D8%A7%D8%AF%D8%AA-%D9%86%D8%B1%D9%87-919a66d30b5f?source=rss------data_science-5)
+- [0905.501.9190#تهران #اصفهان #شیراز #شمال #کُرد #بلوچ #خوزستان #خوشگل #دخترایرانی #فالو_یادت_نره…](https://medium.com/@jfd_93350/0905-501-9190-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D9%84-%DA%A9%D9%8F%D8%B1%D8%AF-%D8%A8%D9%84%D9%88%DA%86-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86-%D8%AE%D9%88%D8%B4%DA%AF%D9%84-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%81%D8%A7%D9%84%D9%88-%DB%8C%D8%A7%D8%AF%D8%AA-%D9%86%D8%B1%D9%87-51fe77375fd8?source=rss------data_science-5)
+- [Apache Kafka For Data Engineering Real Time Data Explained in Plain English &lpar;With Python Code&rpar;](https://medium.com/@Rohan_Dutt/apache-kafka-for-data-engineering-real-time-data-explained-in-plain-english-with-python-code-19ede53e5fd8?source=rss------data_science-5)
+- [7 Essentials for Explaining Your ML Model to Stakeholders](https://medium.com/predict/7-essentials-for-explaining-your-ml-model-to-stakeholders-aa3331a30a7f?source=rss------data_science-5)
+- [09335063036شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@alnthrany65/09335063036%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8aa62ce3aaba?source=rss------data_science-5)
+- [09335063036شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dryamshhdy37/09335063036%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-99ed29995648?source=rss------data_science-5)
+- [09335063036شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@drsakrjy/09335063036%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-11495ad7c81d?source=rss------data_science-5)
+- [The Day Mathematics Entered the Soul of the Cuniglio Theory](https://medium.com/@racingmania2001/the-day-mathematics-entered-the-soul-of-the-cuniglio-theory-61df8e87d96b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
