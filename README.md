@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Codex of Eternal Dominion™: The First FlameThis is the original timestamp and…](https://medium.com/@harleystumph/codex-of-eternal-dominion-the-first-flamethis-is-the-original-timestamp-and-941500bdb9b1?source=rss------data_science-5)
-- [10 Python Libraries That Will Increase Your Development Speed](https://python.plainenglish.io/10-python-libraries-that-will-increase-your-development-speed-1ca8982b2cfc?source=rss------data_science-5)
-- [Python Evolved: Here is the Next Generation of Frameworks](https://python.plainenglish.io/python-evolved-here-is-the-next-generation-of-frameworks-db6ed7850777?source=rss------data_science-5)
-- [Flow Cytometry analysis](https://python.plainenglish.io/flow-cytometry-analysis-4a49e1054830?source=rss------data_science-5)
-- [This 3-Part Python Agent Workflow Can Replace 4 Freelancers](https://python.plainenglish.io/this-3-part-python-agent-workflow-can-replace-4-freelancers-c3da7a719b1b?source=rss------data_science-5)
-- [The Most Dangerous Python Script I Ever Wrote &lpar;And Why It Was Too Easy&rpar;](https://python.plainenglish.io/the-most-dangerous-python-script-i-ever-wrote-and-why-it-was-too-easy-77c97d43f7fa?source=rss------data_science-5)
-- [11 Python Libraries That Helped Me Become a More Confident Coder](https://python.plainenglish.io/11-python-libraries-that-helped-me-become-a-more-confident-coder-d4fd69351980?source=rss------data_science-5)
-- [5 Python Tricks That Will Genuinely Blow Your Mind &lpar;And Save You Hours&rpar;](https://python.plainenglish.io/5-python-tricks-that-will-genuinely-blow-your-mind-and-save-you-hours-3649f825ba4c?source=rss------data_science-5)
-- [10 Browser Automation Projects You Can Build With Python and Playwright](https://python.plainenglish.io/10-browser-automation-projects-you-can-build-with-python-and-playwright-87f5168ddd6b?source=rss------data_science-5)
-- [How I Built My Own URL Shortener in Python With Flask, SQLite, and Zero Fancy Frontend](https://python.plainenglish.io/how-i-built-my-own-url-shortener-in-python-with-flask-sqlite-and-zero-fancy-frontend-a59187fd023f?source=rss------data_science-5)
+- [Let’s Talk About the Work](https://medium.com/@frederickhayes3/lets-talk-about-the-work-7528893620bc?source=rss------data_science-5)
+- [500 + ChatGPT Prompts That Changed the Way I Work Forever](https://levelup.gitconnected.com/500-chatgpt-prompts-that-changed-the-way-i-work-forever-bef8f7097dd2?source=rss------data_science-5)
+- [Análisis predictivo de Burnout Laboral mediante Ciencia de Datos](https://medium.com/@mbsmmq/an%C3%A1lisis-predictivo-de-burnout-laboral-mediante-ciencia-de-datos-fb19af94dfb9?source=rss------data_science-5)
+- [Do you know about data wrangling &amp; cleaning techniques?](https://medium.com/kairi-ai/do-you-know-about-data-wrangling-cleaning-techniques-6bc6b15533c1?source=rss------data_science-5)
+- [5 pathlib Tips to Clean Up Your Python Code](https://python.plainenglish.io/5-pathlib-tips-to-clean-up-your-python-code-184c1346fd24?source=rss------data_science-5)
+- [Using Data Analysis and Cloud Computing to Better Pick NBA Players For NBA Fantasy](https://medium.com/@erich18002/using-data-analysis-and-cloud-computing-to-better-pick-nba-players-for-nba-fantasy-417389d9c70e?source=rss------data_science-5)
+- [Understanding Data Teams and their roles.](https://medium.com/@christopherjulieth/understanding-data-teams-and-their-roles-163159d52583?source=rss------data_science-5)
+- [My vibecoding adventures with Lovable as a non-developer, Part II](https://generativeai.pub/my-vibecoding-adventures-with-lovable-as-a-non-developer-part-ii-4c0b81c071e5?source=rss------data_science-5)
+- [How I Earned $300 a Day with AI Voice Cloning](https://medium.com/@Smart-Income/how-i-earned-300-a-day-with-ai-voice-cloning-651a897dd7dc?source=rss------data_science-5)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@nrgs04423/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e4a356295248?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
