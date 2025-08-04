@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The RISE and fall of Einstein and the replacement of “E=mc2” for the perfect law has taken place.](https://medium.com/@peterwhitlock/the-rise-and-fall-of-einstein-and-the-replacement-of-e-mc2-for-the-perfect-law-has-taken-place-f5c81b99381e?source=rss------data_science-5)
-- [Never Be Surprised by a Climb Again: Ride Smarter with Live Elevation Profiles](https://medium.com/@cysense/never-be-surprised-by-a-climb-again-ride-smarter-with-live-elevation-profiles-02a9747c8aa6?source=rss------data_science-5)
-- [Hierarquia de Dados](https://medium.com/@moraeslamazales/hierarquia-de-dados-94a605ee250a?source=rss------data_science-5)
-- [20 Python Project Ideas for Beginners and Experienced Developers](https://python.plainenglish.io/20-python-project-ideas-for-beginners-and-experienced-developers-ae98ae6ed927?source=rss------data_science-5)
-- [8 Subtle Python Performance Mistakes You’re Probably Making](https://python.plainenglish.io/8-subtle-python-performance-mistakes-youre-probably-making-2c8ab3ec8d40?source=rss------data_science-5)
-- [09164131429](https://medium.com/@mobinaahmadi9179/09164131429-21a4e56a9dad?source=rss------data_science-5)
-- [10 Python Libraries I Used to Automate My Entire File System](https://python.plainenglish.io/10-python-libraries-i-used-to-automate-my-entire-file-system-4183dc219554?source=rss------data_science-5)
-- [How I Handled 1 Million Requests Using Python Async](https://python.plainenglish.io/how-i-handled-1-million-requests-using-python-async-8fae17dd5d9c?source=rss------data_science-5)
-- [10 Ways The Zen of Python Can Make You a Better Developer](https://python.plainenglish.io/10-ways-the-zen-of-python-can-make-you-a-better-developer-2c5de4e4d156?source=rss------data_science-5)
-- [Data Denormalization: A Risk in Legacy Systems or a Strategic Approach in DDD and CQRS?](https://medium.com/@rodrigofurlaneti/data-denormalization-a-risk-in-legacy-systems-or-a-strategic-approach-in-ddd-and-cqrs-c7010b991ec6?source=rss------data_science-5)
+- [What is the REAL difference between MSE and R² score](https://medium.com/@keptu08/what-is-the-real-difference-between-mse-and-r%C2%B2-score-b18804342f47?source=rss------data_science-5)
+- [My 16-Step Python Automation Marathon](https://medium.com/codetodeploy/my-16-step-python-automation-marathon-cf775be0fadb?source=rss------data_science-5)
+- [09164131429](https://medium.com/@dfecfaefbbcbechotax/09164131429-d7892557525b?source=rss------data_science-5)
+- [This FREE TradingView Strategy Made Me Profitable FAST &lpar;Perfect for Beginners&rpar;](https://medium.com/@sayedalimi19/this-free-tradingview-strategy-made-me-profitable-fast-perfect-for-beginners-43b4b1441b70?source=rss------data_science-5)
+- [My Journey Into JavaScript Real-Time Frontend Magic](https://medium.com/technology-core/my-journey-into-javascript-real-time-frontend-magic-ed8485aca499?source=rss------data_science-5)
+- [Demis Hassabis: The Visionary Mind Behind DeepMind and the Future of Artificial Intelligence*](https://medium.com/@pradipkisku83/demis-hassabis-the-visionary-mind-behind-deepmind-and-the-future-of-artificial-intelligence-878352611059?source=rss------data_science-5)
+- [09335063036#شماره خاله تهران #دختر #بدنسازی #باشگاه #شراب #دخترانه #دخترایرانی #داف #رقص…](https://medium.com/@dtlhrpuxitrocfd/09335063036-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%A8%D8%AF%D9%86%D8%B3%D8%A7%D8%B2%DB%8C-%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87-%D8%B4%D8%B1%D8%A7%D8%A8-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86%D9%87-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%AF%D8%A7%D9%81-%D8%B1%D9%82%D8%B5-09aaf5df9cd0?source=rss------data_science-5)
+- [Grapes, Data and Bottles of Wine: A Food Scientist’s Perspective on Taste, Culture and Markets](https://medium.com/@kayla.liu965/grapes-data-and-bottles-of-wine-a-food-scientists-perspective-on-taste-culture-and-markets-a3b4cfdb534e?source=rss------data_science-5)
+- [09335063036#شماره خاله تهران #دختر #بدنسازی #باشگاه #شراب #دخترانه #دخترایرانی #داف #رقص…](https://medium.com/@gediworemheartcom/09335063036-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%A8%D8%AF%D9%86%D8%B3%D8%A7%D8%B2%DB%8C-%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87-%D8%B4%D8%B1%D8%A7%D8%A8-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86%D9%87-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%AF%D8%A7%D9%81-%D8%B1%D9%82%D8%B5-016b0562b89b?source=rss------data_science-5)
+- [7 New features on Python 3.14](https://medium.com/top-python-libraries/7-new-features-on-python-3-14-0d5b5c56dc00?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
