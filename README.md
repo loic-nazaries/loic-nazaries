@@ -105,21 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kxnxjncmnc/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-86c24c7f5cab?source=rss------data_science-5)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kxnxjncmnc/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-16840998cf4e?source=rss------data_science-5)
-- [Exploring Laplace’s rule in R programming.](https://medium.com/@thiscuriousquest/exploring-laplaces-rule-in-r-programming-fc1a0fbc5bf5?source=rss------data_science-5)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hdjnfjfjjfjj/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f69f9055e89f?source=rss------data_science-5)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hdjnfjfjjfjj/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f0ee6e03d053?source=rss------data_science-5)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hdjnfjfjjfjj/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ee3bb977af10?source=rss------data_science-5)
-- [The Python Script That Writes Python Scripts &lpar;and Then Automates My Life&rpar;](https://medium.com/codetodeploy/the-python-script-that-writes-python-scripts-and-then-automates-my-life-092c416d7e0e?source=rss------data_science-5)
-- [10 Color Palettes in Matplotlib That Made My Charts Go Viral](https://medium.com/@ThinkingLoop/10-color-palettes-in-matplotlib-that-made-my-charts-go-viral-4e2fed673302?source=rss------data_science-5)
-- [Why Scientific Misinformation Is Destroying Trust &lpar;And How We Can Fight Back&rpar;](https://medium.com/@rose78689/why-scientific-misinformation-is-destroying-trust-and-how-we-can-fight-back-196456e25100?source=rss------data_science-5)
-- [5 Ridiculous Python Projects I Secretly Love](https://python.plainenglish.io/5-ridiculous-python-projects-i-secretly-love-db75cce368b0?source=rss------data_science-5)
+- [10 Python Libraries That Are Secretly My Competitive Advantage](https://medium.com/top-python-libraries/10-python-libraries-that-are-secretly-my-competitive-advantage-e3bdecd8160b?source=rss------data_science-5)
+- [This Python Script Saves Me 10 Hours Every Week — And It’s Just 8 Lines Long](https://medium.com/top-python-libraries/this-python-script-saves-me-10-hours-every-week-and-its-just-8-lines-long-1240546f6416?source=rss------data_science-5)
+- [8 Python One-Liners That Replaced Half My Shell Scripts](https://medium.com/top-python-libraries/8-python-one-liners-that-replaced-half-my-shell-scripts-79e28018b3e1?source=rss------data_science-5)
+- [5 Python Libraries That Turn Raw Data Into Insights Fast](https://medium.com/top-python-libraries/5-python-libraries-that-turn-raw-data-into-insights-fast-fa2d3bf3e9b3?source=rss------data_science-5)
+- [Como Neurociência e Cultura Pop Criam Campanhas que Ficam na Cabeça](https://medium.com/@leandrorehem/como-neuroci%C3%AAncia-e-cultura-pop-criam-campanhas-que-ficam-na-cabe%C3%A7a-d7395c8dc4bf?source=rss------data_science-5)
+- [18 Years of GPU Performance: From Hundreds to 100,000+ GFLOPS](https://medium.com/@blake_67790/18-years-of-gpu-performance-from-hundreds-to-100-000-gflops-580172162640?source=rss------data_science-5)
+- [The Python Scripts I Built That Make Me Money While I Sleep](https://python.plainenglish.io/the-python-scripts-i-built-that-make-me-money-while-i-sleep-9542248c7ab5?source=rss------data_science-5)
+- [15 Python Libraries That Quietly Do the Heavy Lifting for You](https://python.plainenglish.io/15-python-libraries-that-quietly-do-the-heavy-lifting-for-you-664edfc13db9?source=rss------data_science-5)
+- [Building AI Systems That Scale: Lessons From My Most Demanding Projects](https://python.plainenglish.io/building-ai-systems-that-scale-lessons-from-my-most-demanding-projects-364cc34554e4?source=rss------data_science-5)
+- [09164131429](https://medium.com/@bcdeaaechotax/09164131429-eb38ca692824?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
