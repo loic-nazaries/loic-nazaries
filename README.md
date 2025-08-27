@@ -105,18 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Here are 15 LeetCode patterns that changed the game for me](https://medium.com/@ajit34555/here-are-15-leetcode-patterns-that-changed-the-game-for-me-343cbf3f7733?source=rss------data_science-5)
-- [Procedure Knowledge Extraction using Agentic RAG](https://medium.com/mitb-for-all/procedure-knowledge-extraction-using-agentic-rag-fdf93e028de0?source=rss------data_science-5)
-- [Classificação em Machine Learning: Guia Prático e Intuitivo](https://medium.com/@rafaelgenarovitor/classifica%C3%A7%C3%A3o-em-machine-learning-guia-pr%C3%A1tico-e-intuitivo-a909d273010e?source=rss------data_science-5)
-- [Exception Handling in Python: Catching Errors Without Losing Sleep](https://medium.com/top-python-libraries/exception-handling-in-python-catching-errors-without-losing-sleep-ab760f0b3f3e?source=rss------data_science-5)
-- [Building Smarter Automation Scripts with Python](https://medium.com/top-python-libraries/building-smarter-automation-scripts-with-python-88a6cec61c97?source=rss------data_science-5)
-- [Álgebra Linear: Vetores com Python](https://medium.com/@enniobernardo/%C3%A1lgebra-linear-vetores-com-python-cf3e6fb673ff?source=rss------data_science-5)
-- [–    
- –  – …](https://medium.com/@ajit34555/-627c0b96425e?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmbxxzsz9m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-78a2e216bc86?source=rss------data_science-5)
-- [The SQL Window Function Series — Part 5/8: Introduction to LEAD&lpar;&rpar; and LAG&lpar;&rpar;](https://theanalyticsedge.medium.com/the-sql-window-function-series-part-5-8-introduction-to-lead-and-lag-fddeeb3cfe09?source=rss------data_science-5)
-- [The SQL Window Function Series — Part 4/8: Introduction to ROW_NUMBER&lpar;&rpar;](https://theanalyticsedge.medium.com/the-sql-window-function-series-part-4-8-introduction-to-row-number-99013eeb0b74?source=rss------data_science-5)
+- [Zero Trust Architecture: Never Trust, Always Verify](https://medium.com/@mahmutyorgundag1/zero-trust-architecture-never-trust-always-verify-0bb8fc8d62ed?source=rss------data_science-5)
+- [Letting Machines Listen: My Take on Amazon Review Sentiment Analysis](https://medium.com/@bonifasiusx/letting-machines-listen-my-take-on-amazon-review-sentiment-analysis-9d2831210dc9?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbcxsvb1m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-21e06ed2fc09?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbcxsvb1m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e0bfc5b6d443?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbcxsvb1m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4187865833da?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvsscb4/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a9ed2e9c8b1c?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvsscb4/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-09cb62dca35d?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvsscb4/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a39b894ee4dc?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvxzss2m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5367d8efd935?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvxzss2m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-95d25abaa1be?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
