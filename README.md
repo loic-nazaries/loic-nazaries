@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Zero Trust Architecture: Never Trust, Always Verify](https://medium.com/@mahmutyorgundag1/zero-trust-architecture-never-trust-always-verify-0bb8fc8d62ed?source=rss------data_science-5)
-- [Letting Machines Listen: My Take on Amazon Review Sentiment Analysis](https://medium.com/@bonifasiusx/letting-machines-listen-my-take-on-amazon-review-sentiment-analysis-9d2831210dc9?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbcxsvb1m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-21e06ed2fc09?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbcxsvb1m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e0bfc5b6d443?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbcxsvb1m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4187865833da?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvsscb4/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a9ed2e9c8b1c?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvsscb4/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-09cb62dca35d?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvsscb4/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a39b894ee4dc?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvxzss2m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5367d8efd935?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvxzss2m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-95d25abaa1be?source=rss------data_science-5)
+- [0902.219.0941](https://medium.com/@fati0774k/0902-219-0941-6faa6cb20281?source=rss------data_science-5)
+- [Salesforce Data Cloud in Action: Unifying 100 Million Customer Profiles](https://medium.com/@mandeep_53569/salesforce-data-cloud-in-action-unifying-100-million-customer-profiles-905364dd489b?source=rss------data_science-5)
+- [0902.219.0941](https://medium.com/@bita05508/0902-219-0941-5d4ce82192c3?source=rss------data_science-5)
+- [0902.219.0941](https://medium.com/@bita05508/0902-219-0941-f65225a85f0c?source=rss------data_science-5)
+- [0902.219.0941](https://medium.com/@bita05508/0902-219-0941-fcece9dc7c5e?source=rss------data_science-5)
+- [09381554690](https://medium.com/@xisegelpenturicom/09381554690-5297ff87df34?source=rss------data_science-5)
+- [Why So Many Time Series Models Fail in Practice](https://medium.com/@data_science_content/time-series-forecasting-pitfalls-of-the-layman-data-scientist-99bca7f7de41?source=rss------data_science-5)
+- [How to Import, Convert, and Plot Time Series Data in R: A Beginner’s Guide](https://medium.com/@ForecastingEconomics/how-to-import-convert-and-plot-time-series-data-in-r-a-beginners-guide-f72c3315ad58?source=rss------data_science-5)
+- [Day40/200 K-Means Clustering: The Go-To for Image Segmentation ✨](https://medium.com/@adityajani7270/day40-200-k-means-clustering-the-go-to-for-image-segmentation-b1016d8c17e2?source=rss------data_science-5)
+- [Calibrated Classifiers: Making Your Model’s Probabilities Trustworthy](https://medium.com/code-applied/calibrated-classifiers-making-your-models-probabilities-trustworthy-8ccbd07c86a7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
