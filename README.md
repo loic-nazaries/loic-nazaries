@@ -105,16 +105,20 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [0902.219.0941](https://medium.com/@fati0774k/0902-219-0941-6faa6cb20281?source=rss------data_science-5)
-- [Salesforce Data Cloud in Action: Unifying 100 Million Customer Profiles](https://medium.com/@mandeep_53569/salesforce-data-cloud-in-action-unifying-100-million-customer-profiles-905364dd489b?source=rss------data_science-5)
-- [0902.219.0941](https://medium.com/@bita05508/0902-219-0941-5d4ce82192c3?source=rss------data_science-5)
-- [0902.219.0941](https://medium.com/@bita05508/0902-219-0941-f65225a85f0c?source=rss------data_science-5)
-- [0902.219.0941](https://medium.com/@bita05508/0902-219-0941-fcece9dc7c5e?source=rss------data_science-5)
-- [09381554690](https://medium.com/@xisegelpenturicom/09381554690-5297ff87df34?source=rss------data_science-5)
-- [Why So Many Time Series Models Fail in Practice](https://medium.com/@data_science_content/time-series-forecasting-pitfalls-of-the-layman-data-scientist-99bca7f7de41?source=rss------data_science-5)
-- [How to Import, Convert, and Plot Time Series Data in R: A Beginner’s Guide](https://medium.com/@ForecastingEconomics/how-to-import-convert-and-plot-time-series-data-in-r-a-beginners-guide-f72c3315ad58?source=rss------data_science-5)
-- [Day40/200 K-Means Clustering: The Go-To for Image Segmentation ✨](https://medium.com/@adityajani7270/day40-200-k-means-clustering-the-go-to-for-image-segmentation-b1016d8c17e2?source=rss------data_science-5)
-- [Calibrated Classifiers: Making Your Model’s Probabilities Trustworthy](https://medium.com/code-applied/calibrated-classifiers-making-your-models-probabilities-trustworthy-8ccbd07c86a7?source=rss------data_science-5)
+- [Data Science [DS01]— What is Data Science?](https://medium.com/@ramy.sameh.radwan/data-science-ds01-what-is-data-science-4bb2bcaa1004?source=rss------data_science-5)
+- [09055770486شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@vbnbbgiiiyrefvbg/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6b44f7e9f18a?source=rss------data_science-5)
+- [09055770486شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@vbnbbgiiiyrefvbg/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-781862035a01?source=rss------data_science-5)
+- [09055770486شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@vbnbbgiiiyrefvbg/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-30e6570ca9a0?source=rss------data_science-5)
+- [ALL YOU NEED TO KNOW ABOUT FUNDIORA](https://medium.com/@csmartrex/all-you-need-to-know-about-fundiora-2ef1c22051b5?source=rss------data_science-5)
+- [OSS Data Lake #9: Running Your First SQL Queries Against the Lake](https://medium.com/@marekczarnecki_50908/oss-data-lake-9-running-your-first-sql-queries-against-the-lake-775eae439d95?source=rss------data_science-5)
+- [Hands-On ML: Türkçe Öğrenim Notları — 6](https://mustafaatakanyucel.medium.com/hands-on-ml-t%C3%BCrk%C3%A7e-%C3%B6%C4%9Frenim-notlar%C4%B1-6-1264eba981b7?source=rss------data_science-5)
+- [09389010538شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shrsuafjfas/09389010538%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5719e3366925?source=rss------data_science-5)
+- [09389010538شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shrsuafjfas/09389010538%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ee85f21e3ca1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
