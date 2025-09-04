@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [09338812675شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@bxlymyny/09338812675%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f7c3d93aca58?source=rss------data_science-5)
-- [5 Brilliant Python Tricks I Wish Every Developer Knew](https://python.plainenglish.io/5-brilliant-python-tricks-i-wish-every-developer-knew-6356cd8aec87?source=rss------data_science-5)
-- [Uma Reflexão Sobre a Representatividade de Dados em Datasets](https://pedrofernandss.medium.com/uma-reflex%C3%A3o-sobre-a-representatividade-de-dados-em-datasets-c6933bbb3349?source=rss------data_science-5)
-- [Haven1: Building the Future of Secure DeFi](https://medium.com/@shoneyeolamilekan8/haven1-building-the-future-of-secure-defi-98e4254b9c16?source=rss------data_science-5)
-- [Demystifying AI-driven Analytics Step by Step](https://medium.com/@botumeren/demystifying-ai-driven-analytics-step-by-step-143ac81849c3?source=rss------data_science-5)
-- [Somalia’s Maternal and Child Mortality: What is beyond data..](https://medium.com/@ibiscuit168/somalias-maternal-and-child-mortality-what-is-beyond-data-c252e15a7f38?source=rss------data_science-5)
-- [Python Automation Blueprints: From Quick Hacks to Scalable Systems](https://aws.plainenglish.io/python-automation-blueprints-from-quick-hacks-to-scalable-systems-8b1063a89f0e?source=rss------data_science-5)
-- [Building AI Systems That Actually Save You Time](https://python.plainenglish.io/building-ai-systems-that-actually-save-you-time-1e470fd89575?source=rss------data_science-5)
-- [How to scrape Transfermarkt with Python?](https://medium.com/@yagizdemir/how-to-scrape-transfermarkt-with-python-237c7ab36f6a?source=rss------data_science-5)
-- [Why Python Still Feels Like Magic in 2025](https://python.plainenglish.io/why-python-still-feels-like-magic-in-2025-f54f904717a4?source=rss------data_science-5)
+- [“Garbage In, Garbage Out” Used to Be a Warning, But Now It’s a Goal](https://ai.gopubby.com/garbage-in-garbage-out-used-to-be-a-warning-but-now-its-a-goal-ba0324b8bd83?source=rss------data_science-5)
+- [How to claim bitcoin penguins reward token 2025](https://medium.com/@houseme28/how-to-claim-bitcoin-penguins-reward-token-2025-969cdf6d5511?source=rss------data_science-5)
+- [Python by Examples: Predictive Analytics with Scikit-learn](https://medium.com/@mb20261/python-by-examples-predictive-analytics-with-scikit-learn-cdf84523bbd5?source=rss------data_science-5)
+- [Deploy Your Python Apps Online with Streamlit Cloud](https://python.plainenglish.io/deploy-your-python-apps-online-with-streamlit-cloud-52a36ea3e0fc?source=rss------data_science-5)
+- [5 Pandas Anti-Patterns Killing Your Performance](https://python.plainenglish.io/5-pandas-anti-patterns-killing-your-performance-c613f71e5e76?source=rss------data_science-5)
+- [Python Tricks That Will Instantly Level Up Your Code](https://python.plainenglish.io/python-tricks-that-will-instantly-level-up-your-code-8ca802b426d0?source=rss------data_science-5)
+- [Building Smarter Workflows with Python: My Journey into Task Automation](https://python.plainenglish.io/building-smarter-workflows-with-python-my-journey-into-task-automation-79c6b75b7c88?source=rss------data_science-5)
+- [10 Python Tricks for Handling APIs Like a Pro](https://python.plainenglish.io/10-python-tricks-for-handling-apis-like-a-pro-18da015c965c?source=rss------data_science-5)
+- [7 Testing Habits That Bulletproof My Python Projects](https://python.plainenglish.io/7-testing-habits-that-bulletproof-my-python-projects-0ba47cdbe7bd?source=rss------data_science-5)
+- [Beginner’s Guide to Python CLI Development](https://python.plainenglish.io/beginners-guide-to-python-cli-development-9fa76d1d6b89?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
