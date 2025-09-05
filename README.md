@@ -105,16 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [“Garbage In, Garbage Out” Used to Be a Warning, But Now It’s a Goal](https://ai.gopubby.com/garbage-in-garbage-out-used-to-be-a-warning-but-now-its-a-goal-ba0324b8bd83?source=rss------data_science-5)
-- [How to claim bitcoin penguins reward token 2025](https://medium.com/@houseme28/how-to-claim-bitcoin-penguins-reward-token-2025-969cdf6d5511?source=rss------data_science-5)
-- [Python by Examples: Predictive Analytics with Scikit-learn](https://medium.com/@mb20261/python-by-examples-predictive-analytics-with-scikit-learn-cdf84523bbd5?source=rss------data_science-5)
-- [Deploy Your Python Apps Online with Streamlit Cloud](https://python.plainenglish.io/deploy-your-python-apps-online-with-streamlit-cloud-52a36ea3e0fc?source=rss------data_science-5)
-- [5 Pandas Anti-Patterns Killing Your Performance](https://python.plainenglish.io/5-pandas-anti-patterns-killing-your-performance-c613f71e5e76?source=rss------data_science-5)
-- [Python Tricks That Will Instantly Level Up Your Code](https://python.plainenglish.io/python-tricks-that-will-instantly-level-up-your-code-8ca802b426d0?source=rss------data_science-5)
-- [Building Smarter Workflows with Python: My Journey into Task Automation](https://python.plainenglish.io/building-smarter-workflows-with-python-my-journey-into-task-automation-79c6b75b7c88?source=rss------data_science-5)
-- [10 Python Tricks for Handling APIs Like a Pro](https://python.plainenglish.io/10-python-tricks-for-handling-apis-like-a-pro-18da015c965c?source=rss------data_science-5)
-- [7 Testing Habits That Bulletproof My Python Projects](https://python.plainenglish.io/7-testing-habits-that-bulletproof-my-python-projects-0ba47cdbe7bd?source=rss------data_science-5)
-- [Beginner’s Guide to Python CLI Development](https://python.plainenglish.io/beginners-guide-to-python-cli-development-9fa76d1d6b89?source=rss------data_science-5)
+- [09960831470](https://medium.com/@dajewtaccorcom/09960831470-7db3b5c4a8e3?source=rss------data_science-5)
+- [09960831470](https://medium.com/@dajewtaccorcom/09960831470-7cb792b9c06c?source=rss------data_science-5)
+- [09960831470](https://medium.com/@dajewtaccorcom/09960831470-48751b406327?source=rss------data_science-5)
+- [&lpar;I&rpar; Principles of Data Model Architecture: Four Layers and Seven Stages, the “First Cornerstone” of…](https://aws.plainenglish.io/i-principles-of-data-model-architecture-four-layers-and-seven-stages-the-first-cornerstone-of-63d3f4a8a89b?source=rss------data_science-5)
+- [09960831470](https://medium.com/@makecisumiricom/09960831470-d725d0f8a933?source=rss------data_science-5)
+- [09960831470](https://medium.com/@makecisumiricom/09960831470-9b5d5ffdf3da?source=rss------data_science-5)
+- [09960831470](https://medium.com/@makecisumiricom/09960831470-a2267a9cee83?source=rss------data_science-5)
+- [[R] 不使用套件畫箱形圖&lpar;Boxplot&rpar;](https://medium.com/@YC_notes/r-%E4%B8%8D%E4%BD%BF%E7%94%A8%E5%A5%97%E4%BB%B6%E7%95%AB%E7%AE%B1%E5%BD%A2%E5%9C%96-boxplot-dc00b545c834?source=rss------data_science-5)
+- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kxnxjncmnc/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-284871be1b65?source=rss------data_science-5)
+- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kxnxjncmnc/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1e3c2023edd7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
