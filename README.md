@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [09013027390](https://medium.com/@ngarh595/09013027390-bab6d51f6891?source=rss------data_science-5)
-- [09013027390](https://medium.com/@ngarh595/09013027390-f9aa937ad6a4?source=rss------data_science-5)
-- [09013027390](https://medium.com/@ngarh595/09013027390-888088ee6303?source=rss------data_science-5)
-- [09013027390](https://medium.com/@hsnngar171/09013027390-9925203ee010?source=rss------data_science-5)
-- [09013027390](https://medium.com/@hsnngar171/09013027390-ecfd9498e81b?source=rss------data_science-5)
-- [09013027390](https://medium.com/@hsnngar171/09013027390-20ddf44ba74f?source=rss------data_science-5)
-- [Ghost Towns and Vanishing Populations of Kazakhstan](https://medium.com/@bilalmukhtar106/ghost-towns-and-vanishing-populations-of-kazakhstan-a06832e64d24?source=rss------data_science-5)
-- [This Python Library Shows Where Programming Is Headed](https://python.plainenglish.io/this-python-library-shows-where-programming-is-headed-7c2c1048216f?source=rss------data_science-5)
-- [The $12 Spreadsheet Hack That Quietly Earns Me $1,200 Every Month](https://medium.com/write-a-catalyst/the-12-spreadsheet-hack-that-quietly-earns-me-1-200-every-month-c21dff904f68?source=rss------data_science-5)
-- [09013027390](https://medium.com/@ngarhsn79/09013027390-ac2566ec9699?source=rss------data_science-5)
+- [ways to claim Etherchain Ai presale token award](https://medium.com/@Solaxy335/ways-to-claim-etherchain-ai-presale-token-award-ae4346c55ff0?source=rss------data_science-5)
+- [How to claim Nexchain presale token aug 2025](https://medium.com/@Solaxy335/how-to-claim-nexchain-presale-token-aug-2025-97d44dcefa2d?source=rss------data_science-5)
+- [ways to claim nexchain presale token award](https://medium.com/@Solaxy335/ways-to-claim-nexchain-presale-token-award-0a040cd9a5ce?source=rss------data_science-5)
+- [Python Core Logic — Strings, Arrays &amp; Sorting [04/10] &lpar;12 Real Interview Questions Solved&rpar;](https://medium.com/@aicoders/python-core-logic-strings-arrays-sorting-04-10-12-real-interview-questions-solved-929417d0b344?source=rss------data_science-5)
+- [From browser hacks to CLI magic my journey turning raw JavaScript into a toolkit I can’t live…](https://medium.com/codetodeploy/from-browser-hacks-to-cli-magic-my-journey-turning-raw-javascript-into-a-toolkit-i-cant-live-4d78c219e605?source=rss------data_science-5)
+- [The Hidden Risks of Legacy Systems: How AI and Cybersecurity Are Evolving to Expose Flaws](https://medium.com/@embentil/the-hidden-risks-of-legacy-systems-how-ai-and-cybersecurity-are-evolving-to-expose-flaws-4ab73324e0d2?source=rss------data_science-5)
+- [Knowledge Brain: The Operating System for Enterprise Agentic AI](https://medium.com/genusoftechnology/knowledge-brain-the-operating-system-for-enterprise-agentic-ai-54caeaa1d087?source=rss------data_science-5)
+- [09027641209شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز شماره خاله لاهیجان…](https://medium.com/@rwz262090/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-9e83503e6c57?source=rss------data_science-5)
+- [09027641209شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز شماره خاله لاهیجان…](https://medium.com/@rwz262090/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-3e731db929bd?source=rss------data_science-5)
+- [09027641209شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز شماره خاله لاهیجان…](https://medium.com/@rwz262090/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-8b84a01b9f88?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
