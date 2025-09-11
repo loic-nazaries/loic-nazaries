@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbccxcnnn6m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2d16c3a3f1cb?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbccxcnnn6m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-eeac31bb6f8a?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbccxcnnn6m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-57a9f762242a?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvvgbbb5m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f08eaa0a2cb8?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvvgbbb5m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7a49e150ec40?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvvgbbb5m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fd4c30a4f7b7?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmnvccxx4m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3494842d13df?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmnvccxx4m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-41ff2273deed?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmnvccxx4m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-be208ee91aff?source=rss------data_science-5)
-- [The Python Hacks That Quietly Replaced My Day Job](https://python.plainenglish.io/the-python-hacks-that-quietly-replaced-my-day-job-9d2b24ef37d0?source=rss------data_science-5)
+- [09027641209شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز شماره خاله لاهیجان…](https://medium.com/@rwz968665/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-6ec177eb0513?source=rss------data_science-5)
+- [5 preprocessing steps that will make or break your ML model](https://medium.com/@puspitachy2000/5-preprocessing-steps-that-will-make-or-break-your-ml-model-631d802c184d?source=rss------data_science-5)
+- [How I Increased a Pizza Restaurant’s Sales by 15% Using SQL and Power BI: A Data-Driven Case Study](https://medium.com/@mdrabbistat18iu/how-i-increased-a-pizza-restaurants-sales-by-15-using-sql-and-power-bi-a-data-driven-case-study-a37a2f286fd6?source=rss------data_science-5)
+- [تهران](https://medium.com/@wiyajokpaovodcom/%D8%AA%D9%87%D8%B1%D8%A7%D9%86-2c12ef2d8e66?source=rss------data_science-5)
+- [How Skai &amp; Amazon Bedrock Agents Are Turning Raw Data Into Marketing Magic](https://aws.plainenglish.io/how-skai-amazon-bedrock-agents-are-turning-raw-data-into-marketing-magic-5542aa1d54a0?source=rss------data_science-5)
+- [8 Python Tools That Stop Projects From Breaking](https://python.plainenglish.io/8-python-tools-that-stop-projects-from-breaking-663ec2126303?source=rss------data_science-5)
+- [Why Correlation and Beta Matter: Tracking Changing Relationships Between Dow Components and the…](https://python.plainenglish.io/why-correlation-and-beta-matter-tracking-changing-relationships-between-dow-components-and-the-19b0098a7fd8?source=rss------data_science-5)
+- [10 Python Codes Every Data Analyst Swears By &lpar;And You Should Too!&rpar;](https://python.plainenglish.io/10-python-codes-every-data-analyst-swears-by-and-you-should-too-7dc1f8027a7f?source=rss------data_science-5)
+- [Mixture-of-Experts &lpar;MoE&rpar;: Design, Benefits &amp; LLMs](https://medium.com/fundamentals-of-artificial-intelligence/mixture-of-experts-moe-design-benefits-llms-834f720111e8?source=rss------data_science-5)
+- [Python List Comprehension Tricks Every Data Scientist Should Know](https://python.plainenglish.io/python-list-comprehension-tricks-every-data-scientist-should-know-00b26ac0ff3a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
