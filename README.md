@@ -105,29 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [09389632898
-شماره خاله #شماره خاله# تهران #
-#شماره #خاله #شماره خاله# تهران #شماره خاله# اصفهان…](https://medium.com/@nahydsalm3/09389632898-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-d9cb3145bd9f?source=rss------data_science-5)
-- [09389632898
-شماره خاله #شماره خاله# تهران #
-#شماره #خاله #شماره خاله# تهران #شماره خاله# اصفهان…](https://medium.com/@nahydsalm3/09389632898-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-9cc6320dd542?source=rss------data_science-5)
-- [09389632898
-شماره خاله #شماره خاله# تهران #
-#شماره #خاله #شماره خاله# تهران #شماره خاله# اصفهان…](https://medium.com/@nahydsalm3/09389632898-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-97cd44b81145?source=rss------data_science-5)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@4ugyvuvvghc/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5323af1fc7f4?source=rss------data_science-5)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@4ugyvuvvghc/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-05a859cbae1f?source=rss------data_science-5)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@4ugyvuvvghc/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9ee770b93b34?source=rss------data_science-5)
-- [How I Built a Document Search Engine in 47 Lines Using TF-IDF Vectorization &lpar;No AI Required&rpar;](https://ernestodotnet.medium.com/how-i-built-a-document-search-engine-in-47-lines-using-tf-idf-vectorization-no-ai-required-6aec5a0da4fa?source=rss------data_science-5)
-- [09389632898
-شماره خاله #شماره خاله# تهران #
-#شماره #خاله #شماره خاله# تهران #شماره خاله# اصفهان…](https://medium.com/@pranymawdh/09389632898-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-d75d3d0e998d?source=rss------data_science-5)
-- [Forcing JOIN Order in Snowflake: Use DIRECTED Joins to Save Time and Credits](https://medium.com/fresha-data-engineering/forcing-join-order-in-snowflake-use-directed-joins-to-save-time-and-credits-f3a29deb94ff?source=rss------data_science-5)
-- [09389632898
-شماره خاله #شماره خاله# تهران #
-#شماره #خاله #شماره خاله# تهران #شماره خاله# اصفهان…](https://medium.com/@pranymawdh/09389632898-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-0015d34b2ebe?source=rss------data_science-5)
+- [How I Learned to Build Smarter Interfaces, Faster Backends, and Interactive Worlds](https://javascript.plainenglish.io/how-i-learned-to-build-smarter-interfaces-faster-backends-and-interactive-worlds-9b8ece12dbab?source=rss------data_science-5)
+- [How I Built Smarter, Faster, and More Interactive Apps with Modern JS](https://javascript.plainenglish.io/how-i-built-smarter-faster-and-more-interactive-apps-with-modern-js-7a32ac8a4da6?source=rss------data_science-5)
+- [From $20 Bug Fixes to $10k SaaS: My JavaScript Money Journey](https://javascript.plainenglish.io/from-20-bug-fixes-to-10k-saas-my-javascript-money-journey-6b2c39b547da?source=rss------data_science-5)
+- [Migrate from $FACTR to $REAL](https://medium.com/@Solaxy_13924/migrate-from-factr-to-real-2f4e8c8b34dd?source=rss------data_science-5)
+- [The 5 Tech Skills That Will Future-Proof Your Career by 2030](https://medium.com/@amitXD/the-5-tech-skills-that-will-future-proof-your-career-by-2030-b84a4c46edc8?source=rss------data_science-5)
+- [Day 16 of 100 Days of Code — Object Oriented Programming &lpar;OOP&rpar; &amp; PyPi](https://python.plainenglish.io/day-16-of-100-days-of-code-object-oriented-programming-oop-pypi-b771d4e4ec97?source=rss------data_science-5)
+- [10 Python Regex Tricks That Don’t Make Your Head Hurt](https://medium.com/codrift/10-python-regex-tricks-that-dont-make-your-head-hurt-87c3506a2ef1?source=rss------data_science-5)
+- [Building an Offline Keyword&lpar;Voice&rpar; Detection for Raspberry Pi &amp; Computers](https://data.engineeringpy.com/building-an-offline-keyword-wake-detection-for-raspberry-pi-computers-9c1ab1a676ba?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmvcxasxvv13m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b577bc98c067?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmvcxasxvv13m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-27069ae8af96?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
