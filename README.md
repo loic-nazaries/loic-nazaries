@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Agent-First Bioinformatics: Building FastX-MCP in One Hour](https://medium.com/@sunitjain/agent-first-bioinformatics-building-fastx-mcp-in-one-hour-ed88fa731dca?source=rss------data_science-5)
-- [The Next Big Disruption Isn’t AI — It’s Neuro-Technology](https://medium.com/predict/the-next-big-disruption-isnt-ai-it-s-neuro-technology-31cda08c382e?source=rss------data_science-5)
-- [8 Python Projects That Teach You DevOps Basics](https://medium.com/codrift/8-python-projects-that-teach-you-devops-basics-044b9b8706fc?source=rss------data_science-5)
-- [AI terms are multiplying faster than AI itself](https://medium.com/@mustafaisonline/ai-terms-are-multiplying-faster-than-ai-itself-02bcd694a81a?source=rss------data_science-5)
-- [Revolutionizing Image Creation](https://medium.com/@meisshaily/revolutionizing-image-creation-ff11f020c090?source=rss------data_science-5)
-- [خاله تهران رشت مشهد اهواز](https://medium.com/@goxocahwalakatocom/%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B1%D8%B4%D8%AA-%D9%85%D8%B4%D9%87%D8%AF-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-7d4246433f61?source=rss------data_science-5)
-- [I Built a Python Dashboard That Predicts My Expenses Better Than My Bank](https://medium.com/codrift/i-built-a-python-dashboard-that-predicts-my-expenses-better-than-my-bank-eeab654649a1?source=rss------data_science-5)
-- [The JavaScript Hack That Let Me Build a Chat Feature Without a Backend](https://javascript.plainenglish.io/the-javascript-hack-that-let-me-build-a-chat-feature-without-a-backend-6d60d9cb651d?source=rss------data_science-5)
-- [How I Used Python to Build a News Aggregator That Picks Stories Just for Me](https://python.plainenglish.io/how-i-used-python-to-build-a-news-aggregator-that-picks-stories-just-for-me-473abd2b9f5b?source=rss------data_science-5)
-- [How I Used Python to Create a Personal Knowledge Search Engine](https://blog.stackademic.com/how-i-used-python-to-create-a-personal-knowledge-search-engine-fbc5f564a499?source=rss------data_science-5)
+- [BobaCat Migration](https://medium.com/@btcbull1/bobacat-migration-ced1e8b17912?source=rss------data_science-5)
+- [The shift from $AGT to $AIV &lpar;AIVille Governance Token&rpar;](https://medium.com/@btcbull1/the-shift-from-agt-to-aiv-aiville-governance-token-b289a9e9dd77?source=rss------data_science-5)
+- [10 Python Projects That Teach You Databases Without Boredom](https://medium.com/codrift/10-python-projects-that-teach-you-databases-without-boredom-d79075b7ecb1?source=rss------data_science-5)
+- [$TRIAS MIGRATION TO $NETX](https://medium.com/@bitcoinpepe23/trias-migration-to-netx-9119f8f9b578?source=rss------data_science-5)
+- [Maker&lpar;MKR&rpar; Rebrand to Sky&lpar;SKY&rpar;](https://medium.com/@bitcoinpepe23/maker-mkr-rebrand-to-sky-sky-4fa9aac46f4a?source=rss------data_science-5)
+- [DP-900 Deep Dive: Azure File Storage vs Blob Storage Explained](https://maheswararedypr.medium.com/dp-900-deep-dive-azure-file-storage-vs-blob-storage-explained-28316f2cbf8d?source=rss------data_science-5)
+- [Understanding Hydrogen Energy: The Basics Made Simple](https://medium.com/@aliawaischeema/understanding-hydrogen-energy-the-basics-made-simple-8da885df0582?source=rss------data_science-5)
+- [Building a Scalable House Price Prediction Engine with Python and FastAPI](https://medium.com/@KingHenryMorgansDiary/building-a-scalable-house-price-prediction-engine-with-python-and-fastapi-d6fdfc8b1670?source=rss------data_science-5)
+- [Omni rebrands to Nomina with new identity, token migration, and refreshed vision](https://medium.com/@bitcoinpepe20/omni-rebrands-to-nomina-with-new-identity-token-migration-and-refreshed-vision-5200b4ec3818?source=rss------data_science-5)
+- [ParaSwap Migration to Velora](https://medium.com/@bitcoinpepe20/paraswap-migration-to-velora-1cc1a0bbccf6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
