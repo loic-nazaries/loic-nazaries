@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [BobaCat Migration](https://medium.com/@btcbull1/bobacat-migration-ced1e8b17912?source=rss------data_science-5)
-- [The shift from $AGT to $AIV &lpar;AIVille Governance Token&rpar;](https://medium.com/@btcbull1/the-shift-from-agt-to-aiv-aiville-governance-token-b289a9e9dd77?source=rss------data_science-5)
-- [10 Python Projects That Teach You Databases Without Boredom](https://medium.com/codrift/10-python-projects-that-teach-you-databases-without-boredom-d79075b7ecb1?source=rss------data_science-5)
-- [$TRIAS MIGRATION TO $NETX](https://medium.com/@bitcoinpepe23/trias-migration-to-netx-9119f8f9b578?source=rss------data_science-5)
-- [Maker&lpar;MKR&rpar; Rebrand to Sky&lpar;SKY&rpar;](https://medium.com/@bitcoinpepe23/maker-mkr-rebrand-to-sky-sky-4fa9aac46f4a?source=rss------data_science-5)
-- [DP-900 Deep Dive: Azure File Storage vs Blob Storage Explained](https://maheswararedypr.medium.com/dp-900-deep-dive-azure-file-storage-vs-blob-storage-explained-28316f2cbf8d?source=rss------data_science-5)
-- [Understanding Hydrogen Energy: The Basics Made Simple](https://medium.com/@aliawaischeema/understanding-hydrogen-energy-the-basics-made-simple-8da885df0582?source=rss------data_science-5)
-- [Building a Scalable House Price Prediction Engine with Python and FastAPI](https://medium.com/@KingHenryMorgansDiary/building-a-scalable-house-price-prediction-engine-with-python-and-fastapi-d6fdfc8b1670?source=rss------data_science-5)
-- [Omni rebrands to Nomina with new identity, token migration, and refreshed vision](https://medium.com/@bitcoinpepe20/omni-rebrands-to-nomina-with-new-identity-token-migration-and-refreshed-vision-5200b4ec3818?source=rss------data_science-5)
-- [ParaSwap Migration to Velora](https://medium.com/@bitcoinpepe20/paraswap-migration-to-velora-1cc1a0bbccf6?source=rss------data_science-5)
+- [The Dual Nature of the Choose Function: Permutation and Convolution Perspectives](https://medium.com/@tomkob99_89317/the-dual-nature-of-the-choose-function-permutation-and-convolution-perspectives-c429a3467952?source=rss------data_science-5)
+- [Python Power Scripts for Everyday Development](https://medium.com/technology-core/python-power-scripts-for-everyday-development-2e4a274f008a?source=rss------data_science-5)
+- [I Built a Python Bot That Monitors Air Quality in My Room and Warns Me](https://medium.com/codrift/i-built-a-python-bot-that-monitors-air-quality-in-my-room-and-warns-me-565034ddf428?source=rss------data_science-5)
+- [09013027390](https://medium.com/@sheueebewun/09013027390-726d84fc2585?source=rss------data_science-5)
+- [09013027390](https://medium.com/@sheueebewun/09013027390-0df3c877c1bb?source=rss------data_science-5)
+- [09013027390](https://medium.com/@sheueebewun/09013027390-6ce03c92f0eb?source=rss------data_science-5)
+- [09013027390](https://medium.com/@jeishsjsjw/09013027390-e0c32370edeb?source=rss------data_science-5)
+- [09013027390](https://medium.com/@jeishsjsjw/09013027390-747863fa07f1?source=rss------data_science-5)
+- [09013027390](https://medium.com/@jeishsjsjw/09013027390-fd17c2b52dc7?source=rss------data_science-5)
+- [09013027390](https://medium.com/@jeuehseiwwh/09013027390-1c88c9c15100?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
