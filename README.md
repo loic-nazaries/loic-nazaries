@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Dual Nature of the Choose Function: Permutation and Convolution Perspectives](https://medium.com/@tomkob99_89317/the-dual-nature-of-the-choose-function-permutation-and-convolution-perspectives-c429a3467952?source=rss------data_science-5)
-- [Python Power Scripts for Everyday Development](https://medium.com/technology-core/python-power-scripts-for-everyday-development-2e4a274f008a?source=rss------data_science-5)
-- [I Built a Python Bot That Monitors Air Quality in My Room and Warns Me](https://medium.com/codrift/i-built-a-python-bot-that-monitors-air-quality-in-my-room-and-warns-me-565034ddf428?source=rss------data_science-5)
-- [09013027390](https://medium.com/@sheueebewun/09013027390-726d84fc2585?source=rss------data_science-5)
-- [09013027390](https://medium.com/@sheueebewun/09013027390-0df3c877c1bb?source=rss------data_science-5)
-- [09013027390](https://medium.com/@sheueebewun/09013027390-6ce03c92f0eb?source=rss------data_science-5)
-- [09013027390](https://medium.com/@jeishsjsjw/09013027390-e0c32370edeb?source=rss------data_science-5)
-- [09013027390](https://medium.com/@jeishsjsjw/09013027390-747863fa07f1?source=rss------data_science-5)
-- [09013027390](https://medium.com/@jeishsjsjw/09013027390-fd17c2b52dc7?source=rss------data_science-5)
-- [09013027390](https://medium.com/@jeuehseiwwh/09013027390-1c88c9c15100?source=rss------data_science-5)
+- [Why the Eddington Limit&lpar;legacy view&rpar; has to be removed from use 100%](https://medium.com/@peterwhitlock/why-the-eddington-limit-legacy-view-has-to-be-removed-from-use-100-3bbd982660af?source=rss------data_science-5)
+- [Building Dynamic and Scalable Applications](https://javascript.plainenglish.io/building-dynamic-and-scalable-applications-8781d6be440e?source=rss------data_science-5)
+- [The JavaScript Automation That Quietly Started Making Me Money](https://javascript.plainenglish.io/the-javascript-automation-that-quietly-started-making-me-money-184e69459903?source=rss------data_science-5)
+- [تهران گرگان کرج چابهار چالوس](https://medium.com/@vefoxifmangatoocom/%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%DA%A9%D8%B1%D8%AC-%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1-%DA%86%D8%A7%D9%84%D9%88%D8%B3-2b93897a5714?source=rss------data_science-5)
+- [Building a US$730M NPV model for Immunology Therapeutics — Part 2](https://medium.com/@zawanah/building-a-us-730m-npv-model-for-immunology-therapeutics-part-2-c377f4a711f5?source=rss------data_science-5)
+- [JavaScript Mastery in Building Real-Time Interfaces](https://medium.com/codrift/javascript-mastery-in-building-real-time-interfaces-89bd75d22cc6?source=rss------data_science-5)
+- [Artificial Intelligence: Revolutionizing Our Future](https://medium.com/@temecheick48/artificial-intelligence-revolutionizing-our-future-ecd0aac446e3?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mbcx8mnbbn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7c9af305de3b?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mbcx8mnbbn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4e4bb33b24ed?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mbcx8mnbbn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8bb4abda1bda?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
