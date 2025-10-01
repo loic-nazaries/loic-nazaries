@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [10 Mistakes I Made as a Beginner Data Scientist &lpar;So You Don’t Have To&rpar;](https://medium.com/codetodeploy/10-mistakes-i-made-as-a-beginner-data-scientist-so-you-dont-have-to-528122d77af6?source=rss------data_science-5)
-- [K-Nearest Neighbors &lpar;KNN&rpar; Demystified: How Computers Use “Neighbors” to Learn](https://python.plainenglish.io/k-nearest-neighbors-knn-demystified-how-computers-use-neighbors-to-learn-fc3ef825f32c?source=rss------data_science-5)
-- [From Jobs to Journeys: How Automation Will Rewrite Human Purpose](https://medium.com/predict/from-jobs-to-journeys-how-automation-will-rewrite-human-purpose-bf6808e6acce?source=rss------data_science-5)
-- [The 3-Gate AI Deployment Playbook for Data Science](https://medium.com/predict/the-3-gate-ai-deployment-playbook-for-data-science-b1cccab221ef?source=rss------data_science-5)
-- [09045080282شماره خاله اهواز by09045080282.شماره](https://medium.com/@kdnmbxgbxnn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-by09045080282-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-71c839da9c77?source=rss------data_science-5)
-- [09045080282شماره خاله اهواز by09045080282.شماره](https://medium.com/@kdnmbxgbxnn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-by09045080282-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-eb9d06fa2493?source=rss------data_science-5)
-- [09045080282شماره خاله اهواز by09045080282.شماره](https://medium.com/@kdnmbxgbxnn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-by09045080282-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-69c3f824de70?source=rss------data_science-5)
-- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@ngarhsn57/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-a36a613c62e3?source=rss------data_science-5)
-- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@ngarhsn57/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-bfb0055f2f36?source=rss------data_science-5)
+- [How to claim dust fund presale airdrop](https://medium.com/@rushme35/how-to-claim-dust-fund-presale-airdrop-fb0eceb07a67?source=rss------data_science-5)
+- [The JavaScript Hack That Let Me Add Dark Mode to My Site in Seconds](https://blog.stackademic.com/the-javascript-hack-that-let-me-add-dark-mode-to-my-site-in-seconds-e3bef85b071a?source=rss------data_science-5)
+- [09022190941](https://medium.com/@seldaa780cx/09022190941-c6b951f4bcb2?source=rss------data_science-5)
+- [Airdrop claim For BullZilla 2025](https://medium.com/@rushme25/airdrop-claim-for-bullzilla-2025-ea697ad3e817?source=rss------data_science-5)
+- [09022190941](https://medium.com/@seldaa780cx/09022190941-590bbee41b59?source=rss------data_science-5)
+- [09022190941](https://medium.com/@seldaa780cx/09022190941-af485629e645?source=rss------data_science-5)
+- [09022190941](https://medium.com/@kali55dfs/09022190941-387195b6f2bf?source=rss------data_science-5)
+- [09022190941](https://medium.com/@kali55dfs/09022190941-06695d6a4ab7?source=rss------data_science-5)
+- [09022190941](https://medium.com/@kali55dfs/09022190941-03098b36e0ca?source=rss------data_science-5)
+- [ChatGPT Pulse Update is Insane!](https://medium.com/ai-meets-ui/chatgpt-pulse-update-is-insane-fe755affbf89?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
