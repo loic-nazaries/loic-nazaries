@@ -105,21 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Reimagining the Data Engine: Why PATHSDATA Chose DataFusion, Ballista Over Spark](https://medium.com/@dshah_5673/reimagining-the-data-engine-why-pathsdata-chose-datafusion-ballista-over-spark-42b997571d2d?source=rss------data_science-5)
-- [The AI Gold Rush: Why Software Engineers Are Mining the Wrong Mountains](https://medium.com/@brianhulela/the-ai-gold-rush-why-software-engineers-are-mining-the-wrong-mountains-a6f24beec331?source=rss------data_science-5)
-- [09021901293](https://medium.com/@jcdffjfnbddjbvc/09021901293-13427cfabb17?source=rss------data_science-5)
-- [09021901293](https://medium.com/@jcdffjfnbddjbvc/09021901293-496d6174eb69?source=rss------data_science-5)
-- [09021901293](https://medium.com/@jcdffjfnbddjbvc/09021901293-8e4b336dd1b3?source=rss------data_science-5)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mfkmdmnf/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6824c66fedc8?source=rss------data_science-5)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mfkmdmnf/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fa21f78f9b14?source=rss------data_science-5)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mfkmdmnf/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2a970d60c859?source=rss------data_science-5)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@udkndmxbm/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9e614abd30e7?source=rss------data_science-5)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@udkndmxbm/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9ff43e10a45c?source=rss------data_science-5)
+- [Using ML for Surge and Overpressure Surrogate Modeling for Real-Time Pipeline Transient Analysis](https://medium.com/@kyle-t-jones/using-ml-for-surge-and-overpressure-surrogate-modeling-for-real-time-pipeline-transient-analysis-3ba2419dfd19?source=rss------data_science-5)
+- [09021901293](https://medium.com/@jsjxjxxkzjzubsvizb/09021901293-f1349a40d78d?source=rss------data_science-5)
+- [09021901293](https://medium.com/@jsjxjxxkzjzubsvizb/09021901293-fe431ece1952?source=rss------data_science-5)
+- [09021901293](https://medium.com/@jsjxjxxkzjzubsvizb/09021901293-80b71c03faae?source=rss------data_science-5)
+- [Topology Might Be the Missing Piece in Data Science — And It Starts with Truly Understanding Your…](https://medium.com/@ghezaiel.morad/topology-might-be-the-missing-piece-in-data-science-and-it-starts-with-truly-understanding-your-86b10ffe940e?source=rss------data_science-5)
+- [What Actually Happens When You Send Crypto?](https://medium.com/@djeffssource/what-actually-happens-when-you-send-crypto-375830ed5ff6?source=rss------data_science-5)
+- [09021901293](https://medium.com/@s76355318/09021901293-cc178479d0b3?source=rss------data_science-5)
+- [09021901293](https://medium.com/@s76355318/09021901293-830e614ae286?source=rss------data_science-5)
+- [09021901293](https://medium.com/@s76355318/09021901293-fc66b74507b9?source=rss------data_science-5)
+- [Mengungkap Faktor yang Mendorong Penjualan BMW: Antara Price Elasticity dan Technological Adoption](https://medium.com/@rafifazka/mengungkap-faktor-yang-mendorong-penjualan-bmw-antara-price-elasticity-dan-technological-adoption-4752bff074e6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
