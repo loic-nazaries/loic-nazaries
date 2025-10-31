@@ -105,16 +105,20 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Using ML for Surge and Overpressure Surrogate Modeling for Real-Time Pipeline Transient Analysis](https://medium.com/@kyle-t-jones/using-ml-for-surge-and-overpressure-surrogate-modeling-for-real-time-pipeline-transient-analysis-3ba2419dfd19?source=rss------data_science-5)
-- [09021901293](https://medium.com/@jsjxjxxkzjzubsvizb/09021901293-f1349a40d78d?source=rss------data_science-5)
-- [09021901293](https://medium.com/@jsjxjxxkzjzubsvizb/09021901293-fe431ece1952?source=rss------data_science-5)
-- [09021901293](https://medium.com/@jsjxjxxkzjzubsvizb/09021901293-80b71c03faae?source=rss------data_science-5)
-- [Topology Might Be the Missing Piece in Data Science — And It Starts with Truly Understanding Your…](https://medium.com/@ghezaiel.morad/topology-might-be-the-missing-piece-in-data-science-and-it-starts-with-truly-understanding-your-86b10ffe940e?source=rss------data_science-5)
-- [What Actually Happens When You Send Crypto?](https://medium.com/@djeffssource/what-actually-happens-when-you-send-crypto-375830ed5ff6?source=rss------data_science-5)
-- [09021901293](https://medium.com/@s76355318/09021901293-cc178479d0b3?source=rss------data_science-5)
-- [09021901293](https://medium.com/@s76355318/09021901293-830e614ae286?source=rss------data_science-5)
-- [09021901293](https://medium.com/@s76355318/09021901293-fc66b74507b9?source=rss------data_science-5)
-- [Mengungkap Faktor yang Mendorong Penjualan BMW: Antara Price Elasticity dan Technological Adoption](https://medium.com/@rafifazka/mengungkap-faktor-yang-mendorong-penjualan-bmw-antara-price-elasticity-dan-technological-adoption-4752bff074e6?source=rss------data_science-5)
+- [First Evidence for a Non-Gravitational Acceleration of 3I/ATLAS at Perihelion](https://avi-loeb.medium.com/first-evidence-for-a-non-gravitational-acceleration-of-3i-atlas-at-perihelion-2698f6a453fe?source=rss------data_science-5)
+- [When your LLM apparently doesn’t “want” to fulfill your request. What the?](https://medium.com/@mhopmere/when-your-llm-apparently-doesnt-want-to-fulfill-your-request-what-the-05a39e3ce458?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-bac8a6e9c1e7?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6a1ced184379?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e05897ceb451?source=rss------data_science-5)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@6sksowksnsbsjwk/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ab86221825c7?source=rss------data_science-5)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@6sksowksnsbsjwk/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-58714098994d?source=rss------data_science-5)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@6sksowksnsbsjwk/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-95969bfb29be?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mbghbhg9nj/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-be954eea20e8?source=rss------data_science-5)
+- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fffggffdddedddddddfgvt/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c74c651ce79a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
