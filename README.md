@@ -105,17 +105,19 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Finally Revealing My Black Magic Indicator](https://medium.com/@sayedalimi19/finally-revealing-my-black-magic-indicator-74b60d2d0417?source=rss------data_science-5)
-- [How to Build Feature Pipelines That Handle Terabytes of Streaming Data](https://medium.com/@Rohan_Dutt/how-to-build-feature-pipelines-that-handle-terabytes-of-streaming-data-e9f66d8dd16c?source=rss------data_science-5)
-- [Get Started with Java and AI: A Practical Guide to LLM Integration](https://osintteam.blog/get-started-with-java-and-ai-a-practical-guide-to-llm-integration-398c3fc0fd7a?source=rss------data_science-5)
-- [¿Derecho o Privilegio? Un Análisis Exploratorio de la educación privada en Sonora](https://medium.com/mcd-unison/derecho-o-privilegio-un-an%C3%A1lisis-exploratorio-de-la-educaci%C3%B3n-privada-en-sonora-a80a88000a3f?source=rss------data_science-5)
-- [When Perfect Labels Don’t Exist: Why Weakly Supervised Learning Is Becoming the Default, Not the…](https://blog.stackademic.com/when-perfect-labels-dont-exist-why-weakly-supervised-learning-is-becoming-the-default-not-the-15b5e0ca9ff4?source=rss------data_science-5)
-- [Generalized Implicit Eigenfunctions for Discretized Recursive Operators](https://medium.com/@tomkob99_89317/generalized-implicit-eigenfunctions-for-recursive-operators-51a64a5aad20?source=rss------data_science-5)
-- [Modelagem de tópicos aplicada à Recomendação: construindo perfis de usuários a partir de…](https://medium.com/@profissionalantoniofferreira/modelagem-de-t%C3%B3picos-aplicada-%C3%A0-recomenda%C3%A7%C3%A3o-construindo-perfis-de-usu%C3%A1rios-a-partir-de-68418b1cf6e2?source=rss------data_science-5)
-- [The Machine That Sees: A Deep Dive into Computer Vision](https://medium.com/@atharvpt52/the-machine-that-sees-a-deep-dive-into-computer-vision-5c46f4e81fb5?source=rss------data_science-5)
-- [Buy Stromectol Online Over The Counter](https://medium.com/@broc.keren.z.oni.49/buy-stromectol-online-over-the-counter-9a7f69d10070?source=rss------data_science-5)
-- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@z77544818/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7a36b5b1cdfb?source=rss------data_science-5)
+- [kalua viral video 19 minutes link](https://medium.com/@dignazantinge/kalua-viral-video-19-minutes-link-39847aa39b44?source=rss------data_science-5)
+- [Video Đầy Đủ chặt đầu nguyễn xuân đạt và đao phủ nguyễn xuân đạt lạng sơn clip gốc](https://medium.com/@dignazantinge/video-%C4%91%E1%BA%A7y-%C4%91%E1%BB%A7-ch%E1%BA%B7t-%C4%91%E1%BA%A7u-nguy%E1%BB%85n-xu%C3%A2n-%C4%91%E1%BA%A1t-v%C3%A0-%C4%91ao-ph%E1%BB%A7-nguy%E1%BB%85n-xu%C3%A2n-%C4%91%E1%BA%A1t-l%E1%BA%A1ng-s%C6%A1n-clip-g%E1%BB%91c-f2272a76d09f?source=rss------data_science-5)
+- [The Only Time a Programming Language Truly Surprised Me](https://blog.stackademic.com/the-only-time-a-programming-language-truly-surprised-me-bda17714ad5e?source=rss------data_science-5)
+- [Data Science 2.0: A New Era of Text Data Analysis](https://blog.exploratory.io/data-science-2-0-a-new-era-of-text-data-analysis-b6430baadba7?source=rss------data_science-5)
+- [Everyone’s Using AI Agents. I’m Not. Here’s Why.](https://reginasnotes.medium.com/everyones-using-ai-agents-i-m-not-here-s-why-534ff1b5e439?source=rss------data_science-5)
+- [Predicting Startup Success in Supervised Learning](https://medium.com/inst414-data-science-tech/predicting-startup-success-in-supervised-learning-dffa65c4e558?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8199e6f21da8?source=rss------data_science-5)
+- [Shamani Zabot-Hall | Professional Profile and Career Development Overview](https://medium.com/@shamanizabothall/shamani-zabot-hall-professional-profile-and-career-development-overview-359893d7c305?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1c19b363bc36?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1da235351f66?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
