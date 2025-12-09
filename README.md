@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Episode 740：Bitcoin has been demonstrating unsettling price movements as a leading indicator…](https://gencryptian.medium.com/episode-740-bitcoin-has-been-demonstrating-unsettling-price-movements-as-a-leading-indicator-0a522889a3e2?source=rss------data_science-5)
-- [Data Engineering: A Strange Field That Turns Out to Be Surprisingly Simple](https://medium.com/@maram72000hanafy/data-engineering-a-strange-field-that-turns-out-to-be-surprisingly-simple-fac0a7a74564?source=rss------data_science-5)
-- [I Finally Found the Only Indicator That Filters 70% Fake Signals — Traders Will Hate Me for Sharing…](https://medium.com/@sayedalimi19/i-finally-found-the-only-indicator-that-filters-70-fake-signals-traders-will-hate-me-for-sharing-a41038de1d01?source=rss------data_science-5)
-- [The SQL Trap: How Over‑Optimizing Queries Is Killing Your Data Career](https://analystuttam.medium.com/the-sql-trap-how-over-optimizing-queries-is-killing-your-data-career-19e18fc69838?source=rss------data_science-5)
-- [09335063036
-شماره خاله تهران شماره خاله کرج شماره خاله قرچک شماره خاله گرمسار شماره خاله ساوه شماره…](https://medium.com/@s90896818/09335063036-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D8%B1%DA%86%DA%A9-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%A7%D9%88%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e7db8a764027?source=rss------data_science-5)
-- [Descodificando la Informalidad: Cómo construí un Pipeline de Datos de extremo a extremo para…](https://medium.com/@joelperezd/descodificando-la-informalidad-c%C3%B3mo-constru%C3%AD-un-pipeline-de-datos-de-extremo-a-extremo-para-e154383d76fa?source=rss------data_science-5)
-- [09336086822شماره خاله تهران شماره خاله مریوان شماره خاله کرج](https://medium.com/@shrthranasfhany/09336086822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B1%DB%8C%D9%88%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-72bf4ad62ff2?source=rss------data_science-5)
-- [09336086822شماره خاله تهران شماره خاله مریوان شماره خاله کرج](https://medium.com/@shrthranasfhany/09336086822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B1%DB%8C%D9%88%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-78acb3011ea0?source=rss------data_science-5)
-- [You Say “Soft Skills”, I Say “Nice Career You Got There”](https://medium.com/@mujtabaraza09321/you-say-soft-skills-i-say-nice-career-you-got-there-8b26abc26f6c?source=rss------data_science-5)
-- [09335063036](https://medium.com/@s90896818/09335063036-3d878eadea0c?source=rss------data_science-5)
+- [Continuous Thought Machines: Why Today’s AI Might Be Stuck](https://medium.com/@jaspalsinghjhass/continuous-thought-machines-why-todays-ai-might-be-stuck-fc47dfadcf37?source=rss------data_science-5)
+- [From Weekend Experiment to Viral Sensation: The Python Project I Never Expected to Blow Up](https://python.plainenglish.io/from-weekend-experiment-to-viral-sensation-the-python-project-i-never-expected-to-blow-up-5ebfc992f47f?source=rss------data_science-5)
+- [Measuring Helpfulness Without 10,000 Labels](https://medium.com/@connect.hashblock/measuring-helpfulness-without-10-000-labels-cf947d09a86f?source=rss------data_science-5)
+- [《天才、商人與執行者：當馬斯克遇上特斯拉與愛迪生》](https://medium.com/@oldcakeincloud_69635/%E5%A4%A9%E6%89%8D-%E5%95%86%E4%BA%BA%E8%88%87%E5%9F%B7%E8%A1%8C%E8%80%85-%E7%95%B6%E9%A6%AC%E6%96%AF%E5%85%8B%E9%81%87%E4%B8%8A%E7%89%B9%E6%96%AF%E6%8B%89%E8%88%87%E6%84%9B%E8%BF%AA%E7%94%9F-47c80cc51c42?source=rss------data_science-5)
+- [Mapping Billions of Dollars of Data Center Capital Expenditure](https://blog.graphlet.ai/mapping-billions-of-dollars-of-data-center-capital-expenditure-8a6901427ccb?source=rss------data_science-5)
+- [ICX to SODA migration](https://medium.com/@barman97/icx-to-soda-migration-48cd0be5833c?source=rss------data_science-5)
+- [Predictive Modelling of Student Dropout Risk](https://medium.com/@viceigbefoh/predictive-modelling-of-student-dropout-risk-888ed7ed6c27?source=rss------data_science-5)
+- [P ≠ NP: A Thermodynamic Necessity?](https://medium.com/@snpe_71534/p-np-a-thermodynamic-necessity-e2f0ab02b528?source=rss------data_science-5)
+- [Way to migrate Zynecoin &lpar;ZYN&rpar; Contract Swap,migrate / swap Zynecoin &lpar;ZYN&rpar; following its recent…](https://medium.com/@barman94/way-to-migrate-zynecoin-zyn-contract-swap-migrate-swap-zynecoin-zyn-following-its-recent-67ab1bb1ad4b?source=rss------data_science-5)
+- [A Deep Dive into Linear Regression: Cost Functions, Gradient Descent, and Implementation](https://celalibr.medium.com/a-deep-dive-into-linear-regression-cost-functions-gradient-descent-and-implementation-f5a181e16568?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
