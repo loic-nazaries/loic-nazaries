@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Continuous Thought Machines: Why Today’s AI Might Be Stuck](https://medium.com/@jaspalsinghjhass/continuous-thought-machines-why-todays-ai-might-be-stuck-fc47dfadcf37?source=rss------data_science-5)
-- [From Weekend Experiment to Viral Sensation: The Python Project I Never Expected to Blow Up](https://python.plainenglish.io/from-weekend-experiment-to-viral-sensation-the-python-project-i-never-expected-to-blow-up-5ebfc992f47f?source=rss------data_science-5)
-- [Measuring Helpfulness Without 10,000 Labels](https://medium.com/@connect.hashblock/measuring-helpfulness-without-10-000-labels-cf947d09a86f?source=rss------data_science-5)
-- [《天才、商人與執行者：當馬斯克遇上特斯拉與愛迪生》](https://medium.com/@oldcakeincloud_69635/%E5%A4%A9%E6%89%8D-%E5%95%86%E4%BA%BA%E8%88%87%E5%9F%B7%E8%A1%8C%E8%80%85-%E7%95%B6%E9%A6%AC%E6%96%AF%E5%85%8B%E9%81%87%E4%B8%8A%E7%89%B9%E6%96%AF%E6%8B%89%E8%88%87%E6%84%9B%E8%BF%AA%E7%94%9F-47c80cc51c42?source=rss------data_science-5)
-- [Mapping Billions of Dollars of Data Center Capital Expenditure](https://blog.graphlet.ai/mapping-billions-of-dollars-of-data-center-capital-expenditure-8a6901427ccb?source=rss------data_science-5)
-- [ICX to SODA migration](https://medium.com/@barman97/icx-to-soda-migration-48cd0be5833c?source=rss------data_science-5)
-- [Predictive Modelling of Student Dropout Risk](https://medium.com/@viceigbefoh/predictive-modelling-of-student-dropout-risk-888ed7ed6c27?source=rss------data_science-5)
-- [P ≠ NP: A Thermodynamic Necessity?](https://medium.com/@snpe_71534/p-np-a-thermodynamic-necessity-e2f0ab02b528?source=rss------data_science-5)
-- [Way to migrate Zynecoin &lpar;ZYN&rpar; Contract Swap,migrate / swap Zynecoin &lpar;ZYN&rpar; following its recent…](https://medium.com/@barman94/way-to-migrate-zynecoin-zyn-contract-swap-migrate-swap-zynecoin-zyn-following-its-recent-67ab1bb1ad4b?source=rss------data_science-5)
-- [A Deep Dive into Linear Regression: Cost Functions, Gradient Descent, and Implementation](https://celalibr.medium.com/a-deep-dive-into-linear-regression-cost-functions-gradient-descent-and-implementation-f5a181e16568?source=rss------data_science-5)
+- [Data Secret: The Fastest Way to Clean Messy Datasets](https://medium.com/@patilsuraj6566/data-secret-the-fastest-way-to-clean-messy-datasets-1ba159894e73?source=rss------data_science-5)
+- [A Unified Explanation of Why 3/&lpar;π·5^&lpar;3/2&rpar;&rpar; Appears](https://medium.com/@bulanramai2558/a-unified-explanation-of-why-3-%CF%80-5-3-2-appears-63a79da2e09f?source=rss------data_science-5)
+- [Introducing the Astrophyzix Live Feed: Asteroid Tracker, Earthquake Monitoring, Space Weather…](https://www.astrophyzix.com/introducing-the-astrophyzix-live-feed-asteroid-tracker-earthquake-monitoring-space-weather-5a6be668cd44?source=rss------data_science-5)
+- [How to Build Your Own AI Chatbot in Just 10 Minutes &lpar;Beginner-Friendly Guide&rpar;](https://medium.com/@storepini4/how-to-build-your-own-ai-chatbot-in-just-10-minutes-beginner-friendly-guide-daf02377cf8e?source=rss------data_science-5)
+- [DoseWise: AI-Powered Drug Decisions in the Operating Room](https://medium.com/@seo.yj.chloe/dosewise-ai-powered-drug-decisions-in-the-operating-room-d037263bd772?source=rss------data_science-5)
+- [Deploying Machine Learning Models the Serverless Way: A Beginner-Friendly Introduction to AWS…](https://medium.com/training-models-raising-kids/deploying-machine-learning-models-the-serverless-way-a-beginner-friendly-introduction-to-aws-eafd231c9491?source=rss------data_science-5)
+- [Bagaimana Mempersiapkan Diri untuk Promosi ke Lead Data Scientist?](https://medium.com/@ditafebyindriani14/bagaimana-mempersiapkan-diri-untuk-promosi-ke-lead-data-scientist-0ed495c97a52?source=rss------data_science-5)
+- [Beyond Vanilla RAG: The 7 Modern RAG Architectures Every AI Engineer Must Know](https://medium.com/@phoenixarjun007/beyond-vanilla-rag-the-7-modern-rag-architectures-every-ai-engineer-must-know-af18679f5108?source=rss------data_science-5)
+- [Building a Prolog-Like Logic Engine in Common Lisp](https://medium.com/@batuhanayrba/building-a-prolog-like-logic-engine-in-common-lisp-1995d6168565?source=rss------data_science-5)
+- [The Tale of 3I/ATLAS and Sterile Neutrinos](https://avi-loeb.medium.com/the-tale-of-3i-atlas-and-sterile-neutrinos-296b3680dcda?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
