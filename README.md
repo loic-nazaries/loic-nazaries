@@ -105,16 +105,19 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Secret: The Fastest Way to Clean Messy Datasets](https://medium.com/@patilsuraj6566/data-secret-the-fastest-way-to-clean-messy-datasets-1ba159894e73?source=rss------data_science-5)
-- [A Unified Explanation of Why 3/&lpar;π·5^&lpar;3/2&rpar;&rpar; Appears](https://medium.com/@bulanramai2558/a-unified-explanation-of-why-3-%CF%80-5-3-2-appears-63a79da2e09f?source=rss------data_science-5)
-- [Introducing the Astrophyzix Live Feed: Asteroid Tracker, Earthquake Monitoring, Space Weather…](https://www.astrophyzix.com/introducing-the-astrophyzix-live-feed-asteroid-tracker-earthquake-monitoring-space-weather-5a6be668cd44?source=rss------data_science-5)
-- [How to Build Your Own AI Chatbot in Just 10 Minutes &lpar;Beginner-Friendly Guide&rpar;](https://medium.com/@storepini4/how-to-build-your-own-ai-chatbot-in-just-10-minutes-beginner-friendly-guide-daf02377cf8e?source=rss------data_science-5)
-- [DoseWise: AI-Powered Drug Decisions in the Operating Room](https://medium.com/@seo.yj.chloe/dosewise-ai-powered-drug-decisions-in-the-operating-room-d037263bd772?source=rss------data_science-5)
-- [Deploying Machine Learning Models the Serverless Way: A Beginner-Friendly Introduction to AWS…](https://medium.com/training-models-raising-kids/deploying-machine-learning-models-the-serverless-way-a-beginner-friendly-introduction-to-aws-eafd231c9491?source=rss------data_science-5)
-- [Bagaimana Mempersiapkan Diri untuk Promosi ke Lead Data Scientist?](https://medium.com/@ditafebyindriani14/bagaimana-mempersiapkan-diri-untuk-promosi-ke-lead-data-scientist-0ed495c97a52?source=rss------data_science-5)
-- [Beyond Vanilla RAG: The 7 Modern RAG Architectures Every AI Engineer Must Know](https://medium.com/@phoenixarjun007/beyond-vanilla-rag-the-7-modern-rag-architectures-every-ai-engineer-must-know-af18679f5108?source=rss------data_science-5)
-- [Building a Prolog-Like Logic Engine in Common Lisp](https://medium.com/@batuhanayrba/building-a-prolog-like-logic-engine-in-common-lisp-1995d6168565?source=rss------data_science-5)
-- [The Tale of 3I/ATLAS and Sterile Neutrinos](https://avi-loeb.medium.com/the-tale-of-3i-atlas-and-sterile-neutrinos-296b3680dcda?source=rss------data_science-5)
+- [Machine Learning Is Evolving — Here is What Will Matter in the Next Three Years](https://medium.com/@mrunalimane2728/machine-learning-is-evolving-here-is-what-will-matter-in-the-next-three-years-a6ef82793cb8?source=rss------data_science-5)
+- [Data Science: How Data Lifecycle Works](https://medium.com/@abishaajith95/data-science-how-data-lifecycle-works-5f055aa3836a?source=rss------data_science-5)
+- [Databricks vs Snowflake: How To Choose The Right One ?](https://medium.com/@prabhakarankanniappan/databricks-vs-snowflake-how-to-choose-the-right-one-fe64ea4f7568?source=rss------data_science-5)
+- [Day 8: Patterns of Agentic Adoption Inside Organizations](https://medium.com/@cdcore/day-8-patterns-of-agentic-adoption-inside-organizations-1df4926df9ac?source=rss------data_science-5)
+- [A Pre-Representational Framework for Emergent Machine Cognition**](https://medium.com/@tmineard/a-pre-representational-framework-for-emergent-machine-cognition-a6c3d3325b9e?source=rss------data_science-5)
+- [When AI Says “Yes” But Does “No”: The Troubling Gap Between What Large Language Models Preach and…](https://medium.com/@pns00911/when-ai-says-yes-but-does-no-the-troubling-gap-between-what-large-language-models-preach-and-4703df6d33b6?source=rss------data_science-5)
+- [How I used GPS coordinates and an exact date to prompt AI into recreating moments from history](https://generativeai.pub/ai-generates-historical-images-from-gps-coordinates-f47874fa76a4?source=rss------data_science-5)
+- [09335063036
+شماره خاله تهران شماره خاله کرج شماره خاله قرچک شماره خاله گرمسار شماره خاله ساوه شماره…](https://medium.com/@s90896818/09335063036-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D8%B1%DA%86%DA%A9-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%A7%D9%88%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5fbfe4e2ed05?source=rss------data_science-5)
+- [09335063036
+شماره خاله تهران شماره خاله کرج شماره خاله قرچک شماره خاله گرمسار شماره خاله ساوه شماره…](https://medium.com/@shomarehkhaleh123/09335063036-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D8%B1%DA%86%DA%A9-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%A7%D9%88%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a20d5e5bb7cf?source=rss------data_science-5)
+- [09335063036
+شماره خاله تهران شماره خاله کرج شماره خاله قرچک شماره خاله گرمسار شماره خاله ساوه شماره…](https://medium.com/@saharsaleii/09335063036-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D8%B1%DA%86%DA%A9-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%A7%D9%88%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e266145adfc1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
