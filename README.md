@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Predicting Taxi Travel Time &amp; Late Risk for NYC Airport Trips](https://medium.com/@abhaypuri189/predicting-taxi-travel-time-late-risk-for-nyc-airport-trips-9e0521aaa836?source=rss------data_science-5)
-- [No One Tells You This About A/B Testing: Most People Misinterpret Results](https://medium.com/@patilsuraj6566/no-one-tells-you-this-about-a-b-testing-most-people-misinterpret-results-d9196ffdc4d1?source=rss------data_science-5)
-- [How AI is Secretly Running the World Already](https://medium.com/@mrunalimane2728/how-ai-is-secretly-running-the-world-already-480f160723ea?source=rss------data_science-5)
-- [Stop Troubleshooting, Start Automating: grViz Graphs in R](https://medium.com/@kylemiller014/stop-troubleshooting-start-automating-grviz-graphs-in-r-b796ebbdf2b4?source=rss------data_science-5)
-- [Autonomous Lab-on-a-Chip for Real-Time Circulating Tumor DNA Analysis](https://medium.com/@aditrizky052/autonomous-lab-on-a-chip-for-real-time-circulating-tumor-dna-analysis-9630ab354989?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmcxzszcv36/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1e40b9a9ba95?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmcxzszcv36/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-cd2b763b825c?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvcdccc37mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e617d204bc7c?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvcdccc37mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c1c49fc8625c?source=rss------data_science-5)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbcxzsa35/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b5cc0a01ac37?source=rss------data_science-5)
+- [Micro-SaaS Niches Hiding in Exported CSVs](https://medium.com/@ThinkingLoop/micro-saas-niches-hiding-in-exported-csvs-4678d663cb28?source=rss------data_science-5)
+- [This Will Change How You Build KPIs Forever](https://medium.com/@patilsuraj6566/this-will-change-how-you-build-kpis-forever-a4f0bf3c15d5?source=rss------data_science-5)
+- [The ML Trends That Will Dominate the Next Decade](https://medium.com/@mrunalimane2728/the-ml-trends-that-will-dominate-the-next-decade-bad9594f86a7?source=rss------data_science-5)
+- [49.Transformers](https://medium.com/@kiranvutukuri/49-transformers-introduction-eb6d29886472?source=rss------data_science-5)
+- [[Important Projects Bookmark] 50+ Advanced Machine Learning and Deep Learning Projects](https://naina0412.medium.com/important-projects-bookmark-50-advanced-machine-learning-and-deep-learning-projects-6eeebdb7c332?source=rss------data_science-5)
+- [MLOps: A Comprehensive Guide to Machine Learning Operations](https://medium.com/nextgenllm/mlops-a-comprehensive-guide-to-machine-learning-operations-58bd2b29b54b?source=rss------data_science-5)
+- [The Dark Side of Trading: Why Young Traders Keep Going Broke](https://medium.com/@sayedalimi19/the-dark-side-of-trading-why-young-traders-keep-going-broke-90e2708bca8c?source=rss------data_science-5)
+- [The Fermi paradox is not a coincidence](https://medium.com/@miletapvo/the-fermi-paradox-is-not-a-coincidence-cf8b50b60585?source=rss------data_science-5)
+- [AIGARTH — l’essentiel en quelques minutes](https://medium.com/@0irisnova.ai/aigarth-lessentiel-en-quelques-minutes-ac89bcbfd8a4?source=rss------data_science-5)
+- [QUBIC — l’essentiel en quelques minutes](https://medium.com/@0irisnova.ai/qubic-lessentiel-en-quelques-minutes-2853851090a5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
