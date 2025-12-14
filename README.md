@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Micro-SaaS Niches Hiding in Exported CSVs](https://medium.com/@ThinkingLoop/micro-saas-niches-hiding-in-exported-csvs-4678d663cb28?source=rss------data_science-5)
-- [This Will Change How You Build KPIs Forever](https://medium.com/@patilsuraj6566/this-will-change-how-you-build-kpis-forever-a4f0bf3c15d5?source=rss------data_science-5)
-- [The ML Trends That Will Dominate the Next Decade](https://medium.com/@mrunalimane2728/the-ml-trends-that-will-dominate-the-next-decade-bad9594f86a7?source=rss------data_science-5)
-- [49.Transformers](https://medium.com/@kiranvutukuri/49-transformers-introduction-eb6d29886472?source=rss------data_science-5)
-- [[Important Projects Bookmark] 50+ Advanced Machine Learning and Deep Learning Projects](https://naina0412.medium.com/important-projects-bookmark-50-advanced-machine-learning-and-deep-learning-projects-6eeebdb7c332?source=rss------data_science-5)
-- [MLOps: A Comprehensive Guide to Machine Learning Operations](https://medium.com/nextgenllm/mlops-a-comprehensive-guide-to-machine-learning-operations-58bd2b29b54b?source=rss------data_science-5)
-- [The Dark Side of Trading: Why Young Traders Keep Going Broke](https://medium.com/@sayedalimi19/the-dark-side-of-trading-why-young-traders-keep-going-broke-90e2708bca8c?source=rss------data_science-5)
-- [The Fermi paradox is not a coincidence](https://medium.com/@miletapvo/the-fermi-paradox-is-not-a-coincidence-cf8b50b60585?source=rss------data_science-5)
-- [AIGARTH — l’essentiel en quelques minutes](https://medium.com/@0irisnova.ai/aigarth-lessentiel-en-quelques-minutes-ac89bcbfd8a4?source=rss------data_science-5)
-- [QUBIC — l’essentiel en quelques minutes](https://medium.com/@0irisnova.ai/qubic-lessentiel-en-quelques-minutes-2853851090a5?source=rss------data_science-5)
+- [Phase 5 — Part 4: From Local ETL to Cloud-Scale Analytics — Building the Gold Pipeline for…](https://medium.com/@hamzaparacha098/phase-5-part-4-from-local-etl-to-cloud-scale-analytics-building-the-gold-pipeline-for-36f71dea58d0?source=rss------data_science-5)
+- [No One Tells You This About Data Storytelling](https://medium.com/@patilsuraj6566/no-one-tells-you-this-about-data-storytelling-047b0062855a?source=rss------data_science-5)
+- [Top 10 AWS Free Tier Mistakes &lpar;and How to Avoid Unexpected Bills&rpar;](https://medium.com/@dr.stuta29/top-10-aws-free-tier-mistakes-and-how-to-avoid-unexpected-bills-fcc1fe918b33?source=rss------data_science-5)
+- [Departure](https://chrisperkins505.medium.com/departure-525049f52c23?source=rss------data_science-5)
+- [Doug Whitney: The ‘False Positive’ Who Challenges Data Science in Alzheimer’s Prediction](https://medium.com/@balubm_57188/doug-whitney-the-false-positive-who-challenges-data-science-in-alzheimer-s-prediction-f143be9b4b45?source=rss------data_science-5)
+- [We are Who We Lock: Mapping the Psychology of Overwatch Heroes Through Data](https://medium.com/inst414-data-science-tech/we-are-who-we-lock-mapping-the-psychology-of-overwatch-heroes-through-data-42942a2c8beb?source=rss------data_science-5)
+- [The Vibe Planning Pyramid: Why Your Thinking &lpar;Not Your Tools&rpar; Determines If Your AI Code Ships or…](https://ernestodotnet.medium.com/the-vibe-planning-pyramid-why-your-thinking-not-your-tools-determines-if-your-ai-code-ships-or-d7ef27874d45?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-96cca0948306?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a9b696c1d86c?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9fbc9a1d4bc4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
