@@ -105,16 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Science Decoded: How fatigue and surprise shape the brain’s ability to adapt](https://medium.com/@snigdhaalathur/science-decoded-how-fatigue-and-surprise-shape-the-brains-ability-to-adapt-0db0c8569032?source=rss------data_science-5)
-- [Classifying and Exploring the Structure of Stars, Galaxies, and Quasars with Machine Learning](https://medium.com/@ccengiz/classifying-and-exploring-the-structure-of-stars-galaxies-and-quasars-with-machine-learning-ee117602ec00?source=rss------data_science-5)
-- [Apache Spark Architecture](https://medium.com/@data_with_abhishek/apache-spark-architecture-aab05c14f361?source=rss------data_science-5)
-- [Machine Learning Platform](https://medium.com/@p.kunakornvong/machine-learning-platform-50a220d01e79?source=rss------data_science-5)
-- [7 Machine Learning Shifts That Will Change Your Job in 12 Months](https://medium.com/@mrunalimane2728/7-machine-learning-shifts-that-will-change-your-job-in-12-months-f11499e607a5?source=rss------data_science-5)
-- [From Mass Marketing to Precision Targeting](https://medium.com/@viceigbefoh/from-mass-marketing-to-precision-targeting-d56e0b9ef1ab?source=rss------data_science-5)
-- [SQL Chapter 37 : EV Charging Analytics](https://medium.com/coding-nexus/sql-chapter-37-ev-charging-analytics-d18d5fa58c46?source=rss------data_science-5)
-- [How Data and Coding Are Changing Basketball: A High School Player’s Perspective](https://medium.com/@kilicatasani/how-data-and-coding-are-changing-basketball-a-high-school-players-perspective-e5ddc96a8bc1?source=rss------data_science-5)
-- [Stars](https://chrisperkins505.medium.com/stars-db8b363a11dd?source=rss------data_science-5)
-- [I Spent 14 Months Tracking Russia’s War From Space — What I Found Across $50B in Secret Weapons…](https://medium.com/@Forensic-Archive/i-spent-14-months-tracking-russias-war-from-space-what-i-found-across-50b-in-secret-weapons-bbc603893780?source=rss------data_science-5)
+- [From Confusion to Clarity : Choosing the right metrics for Binary Classification Model](https://medium.com/@arpitbaranwal/from-confusion-to-clarity-choosing-the-right-metrics-for-binary-classification-model-a3eb62f20252?source=rss------data_science-5)
+- [Mastering Spatial Joins](https://medium.com/@stacyfuende/mastering-spatial-joins-ef3b753501c6?source=rss------data_science-5)
+- [This is How Much Time a Worker Saves By Using AI](https://medium.com/illumination/this-is-how-much-time-a-worker-saves-by-using-ai-6255169313f5?source=rss------data_science-5)
+- [Reddit’s Best Restaurants in LA: A Data-Scientist’s Perspective](https://jeremy-t.medium.com/reddits-best-restaurants-in-la-a-data-scientist-s-perspective-b56d9d1872df?source=rss------data_science-5)
+- [Chunking Text for Embeddings: A Practical Guide](https://medium.com/@mfbaig35r/chunking-text-for-embeddings-a-practical-guide-368842673cd6?source=rss------data_science-5)
+- [How I 10x’d My AI Products’ Performance with 10 Prompt Engineering Techniques](https://pub.towardsai.net/how-i-10xd-my-ai-products-performance-with-10-prompt-engineering-techniques-1de3b6cea896?source=rss------data_science-5)
+- [I Stopped Buying Completely — This Sell-Only Strategy Changed My Trading](https://medium.com/@sayedalimi19/i-stopped-buying-completely-this-sell-only-strategy-changed-my-trading-0dbe7d553021?source=rss------data_science-5)
+- [Claude AI turned paranoid, unkind and aggressive when I tested its mental health safety features.](https://medium.com/the-generator/claude-ai-turned-paranoid-unkind-and-aggressive-when-i-tested-its-mental-health-safety-features-d3734b591858?source=rss------data_science-5)
+- [12 Python Libraries That Turned My Half-Finished Scripts Into Complete Systems](https://python.plainenglish.io/12-python-libraries-that-turned-my-half-finished-scripts-into-complete-systems-7db99fce9c62?source=rss------data_science-5)
+- [Time
+is merely a by-phenomenon
+produced by operation](https://medium.com/@s0927841224/time-is-merely-a-by-phenomenon-produced-by-operation-a7b7e68eb52d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
