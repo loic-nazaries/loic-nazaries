@@ -105,18 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [From Confusion to Clarity : Choosing the right metrics for Binary Classification Model](https://medium.com/@arpitbaranwal/from-confusion-to-clarity-choosing-the-right-metrics-for-binary-classification-model-a3eb62f20252?source=rss------data_science-5)
-- [Mastering Spatial Joins](https://medium.com/@stacyfuende/mastering-spatial-joins-ef3b753501c6?source=rss------data_science-5)
-- [This is How Much Time a Worker Saves By Using AI](https://medium.com/illumination/this-is-how-much-time-a-worker-saves-by-using-ai-6255169313f5?source=rss------data_science-5)
-- [Reddit’s Best Restaurants in LA: A Data-Scientist’s Perspective](https://jeremy-t.medium.com/reddits-best-restaurants-in-la-a-data-scientist-s-perspective-b56d9d1872df?source=rss------data_science-5)
-- [Chunking Text for Embeddings: A Practical Guide](https://medium.com/@mfbaig35r/chunking-text-for-embeddings-a-practical-guide-368842673cd6?source=rss------data_science-5)
-- [How I 10x’d My AI Products’ Performance with 10 Prompt Engineering Techniques](https://pub.towardsai.net/how-i-10xd-my-ai-products-performance-with-10-prompt-engineering-techniques-1de3b6cea896?source=rss------data_science-5)
-- [I Stopped Buying Completely — This Sell-Only Strategy Changed My Trading](https://medium.com/@sayedalimi19/i-stopped-buying-completely-this-sell-only-strategy-changed-my-trading-0dbe7d553021?source=rss------data_science-5)
-- [Claude AI turned paranoid, unkind and aggressive when I tested its mental health safety features.](https://medium.com/the-generator/claude-ai-turned-paranoid-unkind-and-aggressive-when-i-tested-its-mental-health-safety-features-d3734b591858?source=rss------data_science-5)
-- [12 Python Libraries That Turned My Half-Finished Scripts Into Complete Systems](https://python.plainenglish.io/12-python-libraries-that-turned-my-half-finished-scripts-into-complete-systems-7db99fce9c62?source=rss------data_science-5)
-- [Time
-is merely a by-phenomenon
-produced by operation](https://medium.com/@s0927841224/time-is-merely-a-by-phenomenon-produced-by-operation-a7b7e68eb52d?source=rss------data_science-5)
+- [The Future of Risk Models: How AI and Behavioral Data Are Forging a New Era of Hyper-Personalized…](https://medium.com/@w.lacerda/the-future-of-risk-models-how-ai-and-behavioral-data-are-forging-a-new-era-of-hyper-personalized-6c4a4a716ccf?source=rss------data_science-5)
+- [**When Operation Leaves a Trace:](https://medium.com/@s0927841224/when-operation-leaves-a-trace-362da974e0a4?source=rss------data_science-5)
+- [“Comprehensive Data Preprocessing and Feature Engineering Workflow Using Pandas and Scikit-Learn”](https://medium.com/@tanya.dav5301/comprehensive-data-preprocessing-and-feature-engineering-workflow-using-pandas-and-scikit-learn-3da2d68e8ce9?source=rss------data_science-5)
+- [Looker admin folder best practices](https://medium.com/@nikhidas/looker-admin-folder-best-practices-2b4ad1f7c1f7?source=rss------data_science-5)
+- [10 Principles for Keeping the Vibe while Coding Streamlit Apps](https://medium.com/streamlit/10-principles-for-keeping-the-vibe-while-coding-streamlit-apps-b5e62cc8497d?source=rss------data_science-5)
+- [[All Crash Courses] Hands On Crash Courses with 3 Implemented Projects](https://naina0412.medium.com/all-crash-courses-hands-on-crash-courses-with-3-implemented-projects-9fe64b441ef5?source=rss------data_science-5)
+- [When Machines Pay Machines](https://medium.com/@davidngene/when-machines-pay-machines-a458df1b5109?source=rss------data_science-5)
+- [TPNPB KODAP XVI YAHUKIMO KLAIM PENEMBAKAN 1 ANGGOTA POLISI PADA 18 DESEMBER 2025 DI YAHUKIMO, PAPUA](https://faktapapua.medium.com/tpnpb-kodap-xvi-yahukimo-klaim-penembakan-1-anggota-polisi-pada-18-desember-2025-di-yahukimo-papua-5d461f1c28a8?source=rss------data_science-5)
+- [Predicting YouTube Viral Success: A Machine Learning Approach to Understanding Global Content…](https://medium.com/@mujtabashah1204/predicting-youtube-viral-success-a-machine-learning-approach-to-understanding-global-content-402cbb76d77f?source=rss------data_science-5)
+- [The Data Hoarding Trap: Why Your “Value Chain” is Broken &lpar;and How to Fix It&rpar;](https://kunal-narang.medium.com/the-data-hoarding-trap-why-your-value-chain-is-broken-and-how-to-fix-it-e22344765991?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
