@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [5 Anti-Wash Rules That Don’t Kill Volume](https://medium.com/@jickpatel611/5-anti-wash-rules-that-dont-kill-volume-fcb828dff140?source=rss------data_science-5)
-- [10 Machine Learning Trends That Will Redefine 2025 &lpar;You Are Not Ready&rpar;](https://medium.com/@mrunalimane2728/10-machine-learning-trends-that-will-redefine-2025-you-are-not-ready-7a44175edca6?source=rss------data_science-5)
-- [Peran Media Pembelajaran Dalam Pengaksesan Materi Bahasa Indonesia](https://medium.com/@salaehanis05/peran-media-pembelajaran-dalam-pengaksesan-materi-bahasa-indonesia-be53c8ab2da6?source=rss------data_science-5)
-- [On m’a demandé comment je me suis construit.](https://medium.com/@yusufsadat090/on-ma-demand%C3%A9-comment-je-me-suis-construit-45c5d46ee708?source=rss------data_science-5)
-- [Read This Before 2026](https://medium.com/ai-analytics-diaries/read-this-before-2026-fc77cfc25892?source=rss------data_science-5)
-- [Late entries. Fake breakouts. Whipsaws that hit your stop-loss and then run in your direction.](https://medium.com/@sayedalimi19/late-entries-fake-breakouts-whipsaws-that-hit-your-stop-loss-and-then-run-in-your-direction-72c47e874d20?source=rss------data_science-5)
-- [Why your computer is about to get a soul.](https://tanakahina-quant.medium.com/why-your-computer-is-about-to-get-a-soul-b46fce557db7?source=rss------data_science-5)
-- [Wait. Europa Clipper’s Data Favors the Model NASA Replaced](https://medium.com/@ContumaciouslyFeralCrone/wait-europa-clippers-data-favors-the-model-nasa-replaced-96d6e3979be2?source=rss------data_science-5)
-- [10 Python Libraries That Make Security Simple](https://python.plainenglish.io/10-python-libraries-that-make-security-simple-3a7a45e5f41d?source=rss------data_science-5)
-- [8 Python Libraries That Made My Workflow Feel Calm Instead of Chaotic](https://python.plainenglish.io/8-python-libraries-that-made-my-workflow-feel-calm-instead-of-chaotic-87b5a94c4ff5?source=rss------data_science-5)
+- [A gentle introduction to Logistic Regression](https://medium.com/@ai3blog/a-gentle-introduction-to-logistic-regression-370d0cd22aa9?source=rss------data_science-5)
+- [Why AI Still Can’t Replace Human Judgment in High-Impact Data Decisions](https://medium.com/@vivn.sun/why-ai-still-cant-replace-human-judgment-in-high-impact-data-decisions-40b87c2ca4ff?source=rss------data_science-5)
+- [EPL Matchweek 17: How FunBet.Me](https://medium.com/@reachus_48797/epl-matchweek-17-how-funbet-me-d90b56f2cdb9?source=rss------data_science-5)
+- [3I/Atlas: Is the nickel anomaly dead? long live the nickel anomaly?](https://johnmantleholder.medium.com/3i-atlas-is-the-nickel-anomaly-dead-long-live-the-nickel-anomaly-5e5448706ac0?source=rss------data_science-5)
+- [The Geometry of Exotic Options: Visual Intuition and Numerical Methods](https://medium.com/@deniskuznetsovnew23/the-geometry-of-exotic-options-visual-intuition-and-numerical-methods-4e27aa4763ee?source=rss------data_science-5)
+- [Microsoft Fabric Operation Agent: AI-Powered Operations for Modern Data Platforms](https://medium.com/@evisional/microsoft-fabric-operation-agent-ai-powered-operations-for-modern-data-platforms-14d16c13e7e8?source=rss------data_science-5)
+- [6 Python Libraries That Turned My Development Process Into a Routine](https://blog.stackademic.com/6-python-libraries-that-turned-my-development-process-into-a-routine-2cee375a5c36?source=rss------data_science-5)
+- [9 Python Tricks That Make My Code Feel “Alive”](https://blog.stackademic.com/9-python-tricks-that-make-my-code-feel-alive-9521515f73b4?source=rss------data_science-5)
+- [[Stock Market Post #09 — Part 1] FAANG Stocks — Which Ones You MUST Buy — In Depth Stock Analysis…](https://naina0412.medium.com/stock-market-post-09-part-1-faang-stocks-which-ones-you-must-buy-in-depth-stock-analysis-c9e64270e86c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
