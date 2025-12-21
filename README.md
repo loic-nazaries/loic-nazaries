@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A gentle introduction to Logistic Regression](https://medium.com/@ai3blog/a-gentle-introduction-to-logistic-regression-370d0cd22aa9?source=rss------data_science-5)
-- [Why AI Still Can’t Replace Human Judgment in High-Impact Data Decisions](https://medium.com/@vivn.sun/why-ai-still-cant-replace-human-judgment-in-high-impact-data-decisions-40b87c2ca4ff?source=rss------data_science-5)
-- [EPL Matchweek 17: How FunBet.Me](https://medium.com/@reachus_48797/epl-matchweek-17-how-funbet-me-d90b56f2cdb9?source=rss------data_science-5)
-- [3I/Atlas: Is the nickel anomaly dead? long live the nickel anomaly?](https://johnmantleholder.medium.com/3i-atlas-is-the-nickel-anomaly-dead-long-live-the-nickel-anomaly-5e5448706ac0?source=rss------data_science-5)
-- [The Geometry of Exotic Options: Visual Intuition and Numerical Methods](https://medium.com/@deniskuznetsovnew23/the-geometry-of-exotic-options-visual-intuition-and-numerical-methods-4e27aa4763ee?source=rss------data_science-5)
-- [Microsoft Fabric Operation Agent: AI-Powered Operations for Modern Data Platforms](https://medium.com/@evisional/microsoft-fabric-operation-agent-ai-powered-operations-for-modern-data-platforms-14d16c13e7e8?source=rss------data_science-5)
-- [6 Python Libraries That Turned My Development Process Into a Routine](https://blog.stackademic.com/6-python-libraries-that-turned-my-development-process-into-a-routine-2cee375a5c36?source=rss------data_science-5)
-- [9 Python Tricks That Make My Code Feel “Alive”](https://blog.stackademic.com/9-python-tricks-that-make-my-code-feel-alive-9521515f73b4?source=rss------data_science-5)
-- [[Stock Market Post #09 — Part 1] FAANG Stocks — Which Ones You MUST Buy — In Depth Stock Analysis…](https://naina0412.medium.com/stock-market-post-09-part-1-faang-stocks-which-ones-you-must-buy-in-depth-stock-analysis-c9e64270e86c?source=rss------data_science-5)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmnvhjfnfj5/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-15fc81db43d3?source=rss------data_science-5)
+- [From CRISP-DM to HC-CRISP: Relearning How to Evaluate Good Data Science](https://medium.com/@alexycliu/from-crisp-dm-to-hc-crisp-relearning-how-to-evaluate-good-data-science-7d624297d364?source=rss------data_science-5)
+- [The $1M Tweet: A Deep Dive into the 2020 Twitter Hack using Graph Data Science](https://medium.com/@evarun22/the-1m-tweet-a-deep-dive-into-the-2020-twitter-hack-using-graph-data-science-ed79940a4180?source=rss------data_science-5)
+- [Stop Using Averages: The Data Science of Route-Aware Graphs](https://medium.com/towards-explainable-ai/stop-using-averages-the-data-science-of-route-aware-graphs-5a7de1b3c695?source=rss------data_science-5)
+- [Autoregression and ARIMA Models](https://medium.com/@m.avinash/autoregression-and-arima-models-ddbf212c675d?source=rss------data_science-5)
+- [8 Python Libraries That Make Unit Testing Feel Effortless](https://python.plainenglish.io/8-python-libraries-that-make-unit-testing-feel-effortless-7f4c56103014?source=rss------data_science-5)
+- [Vector Databases Are A Trap. Why “GraphRAG” Is The Only Way Forward.](https://medium.com/@AgenticAri/vector-databases-are-a-trap-why-graphrag-is-the-only-way-forward-a242b89a9bed?source=rss------data_science-5)
+- [Price is not moving randomly. It is respecting trend structure and momentum phases.](https://medium.com/@sayedalimi19/price-is-not-moving-randomly-it-is-respecting-trend-structure-and-momentum-phases-b0ae6d5292c7?source=rss------data_science-5)
+- [From Raw Data to Business Insights: A Pizza Sales Analysis Project](https://medium.com/@oyinkansolaoyero/from-raw-data-to-business-insights-a-pizza-sales-analysis-project-cde551b20abc?source=rss------data_science-5)
+- [Mastering the donut chart in Power BI](https://medium.com/microsoft-power-bi/mastering-the-donut-chart-in-power-bi-b38676689175?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
