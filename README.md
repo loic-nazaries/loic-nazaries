@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmnvhjfnfj5/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-15fc81db43d3?source=rss------data_science-5)
-- [From CRISP-DM to HC-CRISP: Relearning How to Evaluate Good Data Science](https://medium.com/@alexycliu/from-crisp-dm-to-hc-crisp-relearning-how-to-evaluate-good-data-science-7d624297d364?source=rss------data_science-5)
-- [The $1M Tweet: A Deep Dive into the 2020 Twitter Hack using Graph Data Science](https://medium.com/@evarun22/the-1m-tweet-a-deep-dive-into-the-2020-twitter-hack-using-graph-data-science-ed79940a4180?source=rss------data_science-5)
-- [Stop Using Averages: The Data Science of Route-Aware Graphs](https://medium.com/towards-explainable-ai/stop-using-averages-the-data-science-of-route-aware-graphs-5a7de1b3c695?source=rss------data_science-5)
-- [Autoregression and ARIMA Models](https://medium.com/@m.avinash/autoregression-and-arima-models-ddbf212c675d?source=rss------data_science-5)
-- [8 Python Libraries That Make Unit Testing Feel Effortless](https://python.plainenglish.io/8-python-libraries-that-make-unit-testing-feel-effortless-7f4c56103014?source=rss------data_science-5)
-- [Vector Databases Are A Trap. Why “GraphRAG” Is The Only Way Forward.](https://medium.com/@AgenticAri/vector-databases-are-a-trap-why-graphrag-is-the-only-way-forward-a242b89a9bed?source=rss------data_science-5)
-- [Price is not moving randomly. It is respecting trend structure and momentum phases.](https://medium.com/@sayedalimi19/price-is-not-moving-randomly-it-is-respecting-trend-structure-and-momentum-phases-b0ae6d5292c7?source=rss------data_science-5)
-- [From Raw Data to Business Insights: A Pizza Sales Analysis Project](https://medium.com/@oyinkansolaoyero/from-raw-data-to-business-insights-a-pizza-sales-analysis-project-cde551b20abc?source=rss------data_science-5)
-- [Mastering the donut chart in Power BI](https://medium.com/microsoft-power-bi/mastering-the-donut-chart-in-power-bi-b38676689175?source=rss------data_science-5)
+- [Motivation Is Temporary Systems Are Permanent](https://medium.com/@adukhan.ak/motivation-is-temporary-systems-are-permanent-0d9711e607e7?source=rss------data_science-5)
+- [How to Learn Quantum Computing Without Wasting Years](https://medium.com/@jesseclement83/how-to-learn-quantum-computing-without-wasting-years-8ddddbf98e1e?source=rss------data_science-5)
+- [Lupakan Instalasi Ribet: Panduan Setup Google Colab &amp; Kaggle Kernels untuk Data Science](https://medium.com/@najibfaqihfathan/lupakan-instalasi-ribet-panduan-setup-google-colab-kaggle-kernels-untuk-data-science-2db68db0208f?source=rss------data_science-5)
+- [60. Self-Supervised Learning: Training Models Without Labeled Data](https://medium.com/@kiranvutukuri/60-self-supervised-learning-training-models-without-labeled-data-c4fc683b4937?source=rss------data_science-5)
+- [8 Python CLI Tools That Changed How I Work](https://python.plainenglish.io/8-python-cli-tools-that-changed-how-i-work-8d8f0a64be5f?source=rss------data_science-5)
+- [[Discounts] Major Discounts on Implemented Hands On Projects, Crash Courses and System Design &lpar;…](https://naina0412.medium.com/discounts-major-discounts-on-implemented-hands-on-projects-crash-courses-and-system-design-02759093cee9?source=rss------data_science-5)
+- [برنامه فول ماساژ شماره&lpar;خ.ا.ل.ه&rpar; برنامه حضوری جلسه ایی همدهمدان09387543619](https://medium.com/@lidahzongusacom/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%81%D9%88%D9%84-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE-%D8%A7-%D9%84-%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AC%D9%84%D8%B3%D9%87-%D8%A7%DB%8C%DB%8C-%D9%87%D9%85%D8%AF%D9%87%D9%85%D8%AF%D8%A7%D9%8609387543619-9db0a8ca7f88?source=rss------data_science-5)
+- [From Tool to Teammate: A Systems-Level Analysis of the S.N.E.A.C. Framework for Human-AI Teamwork](https://medium.com/@frederica.carrier/from-tool-to-teammate-a-systems-level-analysis-of-the-s-n-e-a-c-framework-for-human-ai-teamwork-e006dc61582c?source=rss------data_science-5)
+- [شماره&lpar;خ.ا.ل.ه&rpar; حضوری جلسه ایی قزوین قزوین09387543619](https://medium.com/@rometegvidvikicom/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE-%D8%A7-%D9%84-%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AC%D9%84%D8%B3%D9%87-%D8%A7%DB%8C%DB%8C-%D9%82%D8%B2%D9%88%DB%8C%D9%86-%D9%82%D8%B2%D9%88%DB%8C%D9%8609387543619-2c358ab41300?source=rss------data_science-5)
+- [شماره&lpar;خ.ا.ل.ه&rpar; حضوری جلسه ایی قزوین09387543619](https://medium.com/@rometegvidvikicom/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE-%D8%A7-%D9%84-%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AC%D9%84%D8%B3%D9%87-%D8%A7%DB%8C%DB%8C-%D9%82%D8%B2%D9%88%DB%8C%D9%8609387543619-9f015686a22d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
