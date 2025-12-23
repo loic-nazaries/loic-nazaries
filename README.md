@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Motivation Is Temporary Systems Are Permanent](https://medium.com/@adukhan.ak/motivation-is-temporary-systems-are-permanent-0d9711e607e7?source=rss------data_science-5)
-- [How to Learn Quantum Computing Without Wasting Years](https://medium.com/@jesseclement83/how-to-learn-quantum-computing-without-wasting-years-8ddddbf98e1e?source=rss------data_science-5)
-- [Lupakan Instalasi Ribet: Panduan Setup Google Colab &amp; Kaggle Kernels untuk Data Science](https://medium.com/@najibfaqihfathan/lupakan-instalasi-ribet-panduan-setup-google-colab-kaggle-kernels-untuk-data-science-2db68db0208f?source=rss------data_science-5)
-- [60. Self-Supervised Learning: Training Models Without Labeled Data](https://medium.com/@kiranvutukuri/60-self-supervised-learning-training-models-without-labeled-data-c4fc683b4937?source=rss------data_science-5)
-- [8 Python CLI Tools That Changed How I Work](https://python.plainenglish.io/8-python-cli-tools-that-changed-how-i-work-8d8f0a64be5f?source=rss------data_science-5)
-- [[Discounts] Major Discounts on Implemented Hands On Projects, Crash Courses and System Design &lpar;…](https://naina0412.medium.com/discounts-major-discounts-on-implemented-hands-on-projects-crash-courses-and-system-design-02759093cee9?source=rss------data_science-5)
-- [برنامه فول ماساژ شماره&lpar;خ.ا.ل.ه&rpar; برنامه حضوری جلسه ایی همدهمدان09387543619](https://medium.com/@lidahzongusacom/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%81%D9%88%D9%84-%D9%85%D8%A7%D8%B3%D8%A7%DA%98-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE-%D8%A7-%D9%84-%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AC%D9%84%D8%B3%D9%87-%D8%A7%DB%8C%DB%8C-%D9%87%D9%85%D8%AF%D9%87%D9%85%D8%AF%D8%A7%D9%8609387543619-9db0a8ca7f88?source=rss------data_science-5)
-- [From Tool to Teammate: A Systems-Level Analysis of the S.N.E.A.C. Framework for Human-AI Teamwork](https://medium.com/@frederica.carrier/from-tool-to-teammate-a-systems-level-analysis-of-the-s-n-e-a-c-framework-for-human-ai-teamwork-e006dc61582c?source=rss------data_science-5)
-- [شماره&lpar;خ.ا.ل.ه&rpar; حضوری جلسه ایی قزوین قزوین09387543619](https://medium.com/@rometegvidvikicom/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE-%D8%A7-%D9%84-%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AC%D9%84%D8%B3%D9%87-%D8%A7%DB%8C%DB%8C-%D9%82%D8%B2%D9%88%DB%8C%D9%86-%D9%82%D8%B2%D9%88%DB%8C%D9%8609387543619-2c358ab41300?source=rss------data_science-5)
-- [شماره&lpar;خ.ا.ل.ه&rpar; حضوری جلسه ایی قزوین09387543619](https://medium.com/@rometegvidvikicom/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE-%D8%A7-%D9%84-%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AC%D9%84%D8%B3%D9%87-%D8%A7%DB%8C%DB%8C-%D9%82%D8%B2%D9%88%DB%8C%D9%8609387543619-9f015686a22d?source=rss------data_science-5)
+- [Consistency Beats Talent Every Single Time](https://medium.com/@adukhan.ak/consistency-beats-talent-every-single-time-370408c9e82c?source=rss------data_science-5)
+- [Exploring Traffic Data for the Port Authority of NY &amp; NJ — Part 4 &lpar;Final Part&rpar;: From Analysis to…](https://medium.com/@ssrivastava09/exploring-traffic-data-for-the-port-authority-of-ny-nj-part-4-final-part-from-analysis-to-8cc62e4c641a?source=rss------data_science-5)
+- [This AI Skill Will Make You Rich in the Next 12 Months](https://medium.com/@mrunalimane2728/this-ai-skill-will-make-you-rich-in-the-next-12-months-0d5d674f5ad7?source=rss------data_science-5)
+- [Mengubah Data Mentah Menjadi Keputusan Nyata](https://medium.com/@dikawilasana/mengubah-data-mentah-menjadi-keputusan-nyata-4aca9dddad74?source=rss------data_science-5)
+- [Jumpstart your BigQuery analysis with notebook templates](https://medium.com/google-cloud/jumpstart-your-bigquery-analysis-with-notebook-templates-a8d9373bbf13?source=rss------data_science-5)
+- [Attribution Doesn’t Fail in GA4. It Quietly Rewrites Your ROI.](https://medium.com/@neilshotdeals/attribution-doesnt-fail-in-ga4-it-quietly-rewrites-your-roi-faed7ed384ec?source=rss------data_science-5)
+- [Le prompt engineering crée une nouvelle fracture numérique](https://medium.com/@albinoir2.0/le-prompt-engineering-cr%C3%A9e-une-nouvelle-fracture-num%C3%A9rique-a5c2641ce1b1?source=rss------data_science-5)
+- [Power BI for Learners—Part 9: Advanced DAX Patterns and Performance Best Practices](https://medium.com/microsoft-power-bi/power-bi-for-learners-part-9-advanced-dax-patterns-and-performance-best-practices-4e2745589696?source=rss------data_science-5)
+- [Trade Only When This Indicator Turns Green — Ignore Everything Else](https://medium.com/@sayedalimi19/trade-only-when-this-indicator-turns-green-ignore-everything-else-48c184107cde?source=rss------data_science-5)
+- [best wishes](https://medium.com/@jibrils409/best-wishes-5e449268efd8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
