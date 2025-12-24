@@ -122,11 +122,11 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories from **Soner Yıldırım** [@sonery](https://sonery.medium.com) (I really enjoy his posts!)
 
 <!-- MEDIUM-STORY-LIST-SONERY:START -->
+- [I Built an IOS App in 3 Days with Literally No Prior Swift Knowledge](https://sonery.medium.com/i-built-an-ios-app-in-3-days-with-literally-no-prior-swift-knowledge-f41d1f8db549?source=rss-2cf6b549448------2)
 - [I’ve Built 4 Products — Yet the Journey Just Begins](https://medium.com/swlh/ive-built-4-products-yet-the-journey-just-begins-c2e290dfbf82?source=rss-2cf6b549448------2)
 - [I’m Doing the Advent of Code 2024 in Python — Day 4](https://medium.com/data-science/im-doing-the-advent-of-code-2024-in-python-day-4-f0dacf4529a6?source=rss-2cf6b549448------2)
 - [I’m Doing the Advent of Code 2024 in Python — Day 3](https://medium.com/data-science/im-doing-the-advent-of-code-2024-in-python-day-3-3a3bdf845685?source=rss-2cf6b549448------2)
 - [I’m Doing the Advent of Code 2024 in Python — Day 2](https://medium.com/data-science/im-doing-the-advent-of-code-2024-in-python-day-2-6d452447ba0f?source=rss-2cf6b549448------2)
-- [I’m Doing the Advent of Code 2024 in Python — Day 1](https://medium.com/data-science/im-doing-the-advent-of-code-2024-in-python-day-1-8a9ea6ca6d3f?source=rss-2cf6b549448------2)
 <!-- MEDIUM-STORY-LIST-SONERY:END -->
 
 ---
