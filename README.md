@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Consistency Beats Talent Every Single Time](https://medium.com/@adukhan.ak/consistency-beats-talent-every-single-time-370408c9e82c?source=rss------data_science-5)
-- [Exploring Traffic Data for the Port Authority of NY &amp; NJ — Part 4 &lpar;Final Part&rpar;: From Analysis to…](https://medium.com/@ssrivastava09/exploring-traffic-data-for-the-port-authority-of-ny-nj-part-4-final-part-from-analysis-to-8cc62e4c641a?source=rss------data_science-5)
-- [This AI Skill Will Make You Rich in the Next 12 Months](https://medium.com/@mrunalimane2728/this-ai-skill-will-make-you-rich-in-the-next-12-months-0d5d674f5ad7?source=rss------data_science-5)
-- [Mengubah Data Mentah Menjadi Keputusan Nyata](https://medium.com/@dikawilasana/mengubah-data-mentah-menjadi-keputusan-nyata-4aca9dddad74?source=rss------data_science-5)
-- [Jumpstart your BigQuery analysis with notebook templates](https://medium.com/google-cloud/jumpstart-your-bigquery-analysis-with-notebook-templates-a8d9373bbf13?source=rss------data_science-5)
-- [Attribution Doesn’t Fail in GA4. It Quietly Rewrites Your ROI.](https://medium.com/@neilshotdeals/attribution-doesnt-fail-in-ga4-it-quietly-rewrites-your-roi-faed7ed384ec?source=rss------data_science-5)
-- [Le prompt engineering crée une nouvelle fracture numérique](https://medium.com/@albinoir2.0/le-prompt-engineering-cr%C3%A9e-une-nouvelle-fracture-num%C3%A9rique-a5c2641ce1b1?source=rss------data_science-5)
-- [Power BI for Learners—Part 9: Advanced DAX Patterns and Performance Best Practices](https://medium.com/microsoft-power-bi/power-bi-for-learners-part-9-advanced-dax-patterns-and-performance-best-practices-4e2745589696?source=rss------data_science-5)
-- [Trade Only When This Indicator Turns Green — Ignore Everything Else](https://medium.com/@sayedalimi19/trade-only-when-this-indicator-turns-green-ignore-everything-else-48c184107cde?source=rss------data_science-5)
-- [best wishes](https://medium.com/@jibrils409/best-wishes-5e449268efd8?source=rss------data_science-5)
+- [You’re Not Lazy You’re Unfocused](https://medium.com/@adukhan.ak/youre-not-lazy-you-re-unfocused-82805fd7c0c3?source=rss------data_science-5)
+- [AI Planning Techniques: From Classical Methods to Modern Applications](https://medium.com/@angadi.saa/ai-planning-techniques-from-classical-methods-to-modern-applications-ababada44fe8?source=rss------data_science-5)
+- [The AI Climate Bubble: Between ‘Cookbook Recipes’ and the Rocking Chair Crisis](https://medium.com/@abelem/the-ai-climate-bubble-between-cookbook-recipes-and-the-rocking-chair-crisis-2b33644b096c?source=rss------data_science-5)
+- [10 Python Tricks That Make Everyday Tasks Automatic](https://python.plainenglish.io/10-python-tricks-that-make-everyday-tasks-automatic-b434d06e9716?source=rss------data_science-5)
+- [Why Most Developer Side Hustles Fail](https://python.plainenglish.io/why-most-developer-side-hustles-fail-bed3a1d30954?source=rss------data_science-5)
+- [Thinking in Data Layout, Not Objects](https://medium.com/@michaelstebel/thinking-in-data-layout-not-objects-bfef321e083d?source=rss------data_science-5)
+- [10 Python Scripts That Will Instantly Supercharge Your Workflow](https://ai.plainenglish.io/10-python-scripts-that-will-instantly-supercharge-your-workflow-66c71953b016?source=rss------data_science-5)
+- [Building Resilient Python Systems](https://python.plainenglish.io/building-resilient-python-systems-8cf4dc74c2b9?source=rss------data_science-5)
+- [Python List Tricks](https://medium.com/@mittalikumari092/python-list-tricks-1126b57a4212?source=rss------data_science-5)
+- [9 Python Libraries That Made My Codebase Feel Lighter](https://python.plainenglish.io/9-python-libraries-that-made-my-codebase-feel-lighter-3764fa2fad6d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
