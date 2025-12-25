@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [You’re Not Lazy You’re Unfocused](https://medium.com/@adukhan.ak/youre-not-lazy-you-re-unfocused-82805fd7c0c3?source=rss------data_science-5)
-- [AI Planning Techniques: From Classical Methods to Modern Applications](https://medium.com/@angadi.saa/ai-planning-techniques-from-classical-methods-to-modern-applications-ababada44fe8?source=rss------data_science-5)
-- [The AI Climate Bubble: Between ‘Cookbook Recipes’ and the Rocking Chair Crisis](https://medium.com/@abelem/the-ai-climate-bubble-between-cookbook-recipes-and-the-rocking-chair-crisis-2b33644b096c?source=rss------data_science-5)
-- [10 Python Tricks That Make Everyday Tasks Automatic](https://python.plainenglish.io/10-python-tricks-that-make-everyday-tasks-automatic-b434d06e9716?source=rss------data_science-5)
-- [Why Most Developer Side Hustles Fail](https://python.plainenglish.io/why-most-developer-side-hustles-fail-bed3a1d30954?source=rss------data_science-5)
-- [Thinking in Data Layout, Not Objects](https://medium.com/@michaelstebel/thinking-in-data-layout-not-objects-bfef321e083d?source=rss------data_science-5)
-- [10 Python Scripts That Will Instantly Supercharge Your Workflow](https://ai.plainenglish.io/10-python-scripts-that-will-instantly-supercharge-your-workflow-66c71953b016?source=rss------data_science-5)
-- [Building Resilient Python Systems](https://python.plainenglish.io/building-resilient-python-systems-8cf4dc74c2b9?source=rss------data_science-5)
-- [Python List Tricks](https://medium.com/@mittalikumari092/python-list-tricks-1126b57a4212?source=rss------data_science-5)
-- [9 Python Libraries That Made My Codebase Feel Lighter](https://python.plainenglish.io/9-python-libraries-that-made-my-codebase-feel-lighter-3764fa2fad6d?source=rss------data_science-5)
+- [Most People Are One Skill Away From a Better Life](https://medium.com/@adukhan.ak/most-people-are-one-skill-away-from-a-better-life-1cf17960bd89?source=rss------data_science-5)
+- [The Great Brain Upgrade: Why Everyone Suddenly Wants to Optimize Their Mind](https://regiaba.medium.com/the-great-brain-upgrade-why-everyone-suddenly-wants-to-optimize-their-mind-311f9952cb66?source=rss------data_science-5)
+- [Modeling the Data Migration: Why Our Timeline is a Multiple Regression Problem](https://medium.com/@srutikumar66/modeling-the-data-migration-why-our-timeline-is-a-multiple-regression-problem-45a13eac967f?source=rss------data_science-5)
+- [Implementing Loan Approval Prediction in Python: From Applications to Decisions](https://medium.com/@deolesopan/implementing-loan-approval-prediction-in-python-from-applications-to-decisions-6df498048514?source=rss------data_science-5)
+- [10 Deep Python Features Most Senior Developers Still Don’t Use](https://python.plainenglish.io/10-deep-python-features-most-senior-developers-still-dont-use-3c9830919080?source=rss------data_science-5)
+- [Architecting the Agentic Enterprise](https://medium.com/google-cloud/architecting-the-agentic-enterprise-d2dce57e842b?source=rss------data_science-5)
+- [Why Data Curation Beats More Parameters](https://medium.com/@thekzgroupllc/why-data-curation-beats-more-parameters-e3f4ad29232b?source=rss------data_science-5)
+- [An interpretation of the maturity of data-augmented engineering teams](https://anandjagadeesh.medium.com/an-interpretation-of-the-maturity-of-data-augmented-engineering-teams-823946053f49?source=rss------data_science-5)
+- [I Called Apple, AT&amp;T, and ComEd. Three Companies, Three Very Different Wait Experiences.](https://medium.com/@b.rahulteja01/i-called-apple-at-t-and-comed-three-companies-three-very-different-wait-experiences-6839f3db4254?source=rss------data_science-5)
+- [Oil Prices vs Airline Stocks: The Relationship Everyone Gets Wrong](https://medium.com/@aekankpatel/oil-prices-vs-airline-stocks-the-relationship-everyone-gets-wrong-c493da0cf700?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
