@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Most People Are One Skill Away From a Better Life](https://medium.com/@adukhan.ak/most-people-are-one-skill-away-from-a-better-life-1cf17960bd89?source=rss------data_science-5)
-- [The Great Brain Upgrade: Why Everyone Suddenly Wants to Optimize Their Mind](https://regiaba.medium.com/the-great-brain-upgrade-why-everyone-suddenly-wants-to-optimize-their-mind-311f9952cb66?source=rss------data_science-5)
-- [Modeling the Data Migration: Why Our Timeline is a Multiple Regression Problem](https://medium.com/@srutikumar66/modeling-the-data-migration-why-our-timeline-is-a-multiple-regression-problem-45a13eac967f?source=rss------data_science-5)
-- [Implementing Loan Approval Prediction in Python: From Applications to Decisions](https://medium.com/@deolesopan/implementing-loan-approval-prediction-in-python-from-applications-to-decisions-6df498048514?source=rss------data_science-5)
-- [10 Deep Python Features Most Senior Developers Still Don’t Use](https://python.plainenglish.io/10-deep-python-features-most-senior-developers-still-dont-use-3c9830919080?source=rss------data_science-5)
-- [Architecting the Agentic Enterprise](https://medium.com/google-cloud/architecting-the-agentic-enterprise-d2dce57e842b?source=rss------data_science-5)
-- [Why Data Curation Beats More Parameters](https://medium.com/@thekzgroupllc/why-data-curation-beats-more-parameters-e3f4ad29232b?source=rss------data_science-5)
-- [An interpretation of the maturity of data-augmented engineering teams](https://anandjagadeesh.medium.com/an-interpretation-of-the-maturity-of-data-augmented-engineering-teams-823946053f49?source=rss------data_science-5)
-- [I Called Apple, AT&amp;T, and ComEd. Three Companies, Three Very Different Wait Experiences.](https://medium.com/@b.rahulteja01/i-called-apple-at-t-and-comed-three-companies-three-very-different-wait-experiences-6839f3db4254?source=rss------data_science-5)
-- [Oil Prices vs Airline Stocks: The Relationship Everyone Gets Wrong](https://medium.com/@aekankpatel/oil-prices-vs-airline-stocks-the-relationship-everyone-gets-wrong-c493da0cf700?source=rss------data_science-5)
+- [Pseudo Confirmation Bias: When Visibility Masquerades as Verification](https://medium.com/@nuno.a.lopes/pseudo-confirmation-bias-when-visibility-masquerades-as-verification-88d7c8b0f240?source=rss------data_science-5)
+- [Define Field, Record and File in Data Structure](https://medium.com/@csunfolds/define-field-record-and-file-in-data-structure-d712c830baad?source=rss------data_science-5)
+- [Technical and Clinical Analysis of Next-Generation AR-Enhanced Robotic Surgery](https://medium.com/@aditrizky052/technical-and-clinical-analysis-of-next-generation-ar-enhanced-robotic-surgery-2c7b0704b01a?source=rss------data_science-5)
+- [64. Unified Text Processing T5 and Encoder-Decoder Models:](https://medium.com/@kiranvutukuri/64-unified-text-processing-t5-and-encoder-decoder-models-89691141a83e?source=rss------data_science-5)
+- [The Open-Source Web Scraping Revolution: A Deep Dive into ScrapeGraphAI, Crawl4AI, and the Future…](https://medium.com/@tuguidragos/the-open-source-web-scraping-revolution-a-deep-dive-into-scrapegraphai-crawl4ai-and-the-future-d3a048cb448f?source=rss------data_science-5)
+- [Title: Architecting the Digital Future of Iraq: The Journey of Aryan Ali and Aryan Tech](https://medium.com/@techaryan30/title-architecting-the-digital-future-of-iraq-the-journey-of-aryan-ali-and-aryan-tech-3dce467e7210?source=rss------data_science-5)
+- [From Capability to Control: A Safety Case Compact Policymakers Can Launch Now](https://medium.com/@customers_94896/from-capability-to-control-a-safety-case-compact-policymakers-can-launch-now-d8d9494c123c?source=rss------data_science-5)
+- [09389010538شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fjldilukeyjsshjshn/09389010538%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-467132aa7ffc?source=rss------data_science-5)
+- [09389010538شماره خاله تهران#شماره خاله#شماره خاله کرج#شماره خاله اصفهان#شماره خاله شیراز#شماره خاله…](https://medium.com/@fjldilukeyjsshjshn/09389010538%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-59474362a05c?source=rss------data_science-5)
+- [Revisiting the basics is not a waste of time](https://medium.com/@ankhbayr0813/revisiting-the-basics-is-not-a-waste-of-time-c5236a53b91e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
