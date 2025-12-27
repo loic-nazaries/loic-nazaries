@@ -105,17 +105,19 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Pseudo Confirmation Bias: When Visibility Masquerades as Verification](https://medium.com/@nuno.a.lopes/pseudo-confirmation-bias-when-visibility-masquerades-as-verification-88d7c8b0f240?source=rss------data_science-5)
-- [Define Field, Record and File in Data Structure](https://medium.com/@csunfolds/define-field-record-and-file-in-data-structure-d712c830baad?source=rss------data_science-5)
-- [Technical and Clinical Analysis of Next-Generation AR-Enhanced Robotic Surgery](https://medium.com/@aditrizky052/technical-and-clinical-analysis-of-next-generation-ar-enhanced-robotic-surgery-2c7b0704b01a?source=rss------data_science-5)
-- [64. Unified Text Processing T5 and Encoder-Decoder Models:](https://medium.com/@kiranvutukuri/64-unified-text-processing-t5-and-encoder-decoder-models-89691141a83e?source=rss------data_science-5)
-- [The Open-Source Web Scraping Revolution: A Deep Dive into ScrapeGraphAI, Crawl4AI, and the Future…](https://medium.com/@tuguidragos/the-open-source-web-scraping-revolution-a-deep-dive-into-scrapegraphai-crawl4ai-and-the-future-d3a048cb448f?source=rss------data_science-5)
-- [Title: Architecting the Digital Future of Iraq: The Journey of Aryan Ali and Aryan Tech](https://medium.com/@techaryan30/title-architecting-the-digital-future-of-iraq-the-journey-of-aryan-ali-and-aryan-tech-3dce467e7210?source=rss------data_science-5)
-- [From Capability to Control: A Safety Case Compact Policymakers Can Launch Now](https://medium.com/@customers_94896/from-capability-to-control-a-safety-case-compact-policymakers-can-launch-now-d8d9494c123c?source=rss------data_science-5)
-- [09389010538شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fjldilukeyjsshjshn/09389010538%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-467132aa7ffc?source=rss------data_science-5)
-- [09389010538شماره خاله تهران#شماره خاله#شماره خاله کرج#شماره خاله اصفهان#شماره خاله شیراز#شماره خاله…](https://medium.com/@fjldilukeyjsshjshn/09389010538%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-59474362a05c?source=rss------data_science-5)
-- [Revisiting the basics is not a waste of time](https://medium.com/@ankhbayr0813/revisiting-the-basics-is-not-a-waste-of-time-c5236a53b91e?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnbvcd2hjj/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a6d9dcdd07cd?source=rss------data_science-5)
+- [09370673570](https://medium.com/@mnbvxddccvv12jjj/09370673570-4566a3b62718?source=rss------data_science-5)
+- [09370673570](https://medium.com/@mnbvxddccvv12jjj/09370673570-286e0e6acd14?source=rss------data_science-5)
+- [09370673570](https://medium.com/@mnvghjj10mk/09370673570-620c3796ec73?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-575118855d96?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4f9f3a65c5da?source=rss------data_science-5)
+- [09370673570](https://medium.com/@mbvddsvbn1/09370673570-b357e7245b5f?source=rss------data_science-5)
+- [09370673570](https://medium.com/@mmnbhgv8jjjj/09370673570-514d339d3390?source=rss------data_science-5)
+- [09370673570](https://medium.com/@mmnbhgv8jjjj/09370673570-25babde84f58?source=rss------data_science-5)
+- [09370673570](https://medium.com/@mnnvcf7n/09370673570-335ea11e62bd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
