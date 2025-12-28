@@ -105,19 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnbvcd2hjj/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a6d9dcdd07cd?source=rss------data_science-5)
-- [09370673570](https://medium.com/@mnbvxddccvv12jjj/09370673570-4566a3b62718?source=rss------data_science-5)
-- [09370673570](https://medium.com/@mnbvxddccvv12jjj/09370673570-286e0e6acd14?source=rss------data_science-5)
-- [09370673570](https://medium.com/@mnvghjj10mk/09370673570-620c3796ec73?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-575118855d96?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4f9f3a65c5da?source=rss------data_science-5)
-- [09370673570](https://medium.com/@mbvddsvbn1/09370673570-b357e7245b5f?source=rss------data_science-5)
-- [09370673570](https://medium.com/@mmnbhgv8jjjj/09370673570-514d339d3390?source=rss------data_science-5)
-- [09370673570](https://medium.com/@mmnbhgv8jjjj/09370673570-25babde84f58?source=rss------data_science-5)
-- [09370673570](https://medium.com/@mnnvcf7n/09370673570-335ea11e62bd?source=rss------data_science-5)
+- [Data Science Learning Journey: From Zero to AI](https://medium.com/@hadil.sahraoui129/data-science-learning-journey-from-zero-to-ai-50698da72eb0?source=rss------data_science-5)
+- [My Forecast for 2026](https://eric-sandosham.medium.com/my-forecast-for-2026-34b9a09ee018?source=rss------data_science-5)
+- [FoodSnap: turning a food photo into a Samsung Health meal log &lpar;without manual entry&rpar;](https://medium.com/@vardgesth/foodsnap-turning-a-food-photo-into-a-samsung-health-meal-log-without-manual-entry-265ea853e3d3?source=rss------data_science-5)
+- [Membangun Prediksi Pembelian Pelanggan Menggunakan Decision Tree](https://medium.com/@wina10222111/membangun-prediksi-pembelian-pelanggan-menggunakan-decision-tree-panduan-praktis-c74ef7b46345?source=rss------data_science-5)
+- [9 Python Libraries That Feel Like Secret Weapons](https://python.plainenglish.io/9-python-libraries-that-feel-like-secret-weapons-cbc171ffe3e2?source=rss------data_science-5)
+- [Getting Started with BigQuery 2026: BigQuery ML for Developers](https://medium.com/@kuburatuadiza/getting-started-with-bigquery-2026-bigquery-ml-for-developers-d09664824728?source=rss------data_science-5)
+- [El Cáncer de los Modelos de ML: Por Qué Tu Predicción Es Buena… Hasta Que No Lo Es](https://medium.com/@bairespython45/el-c%C3%A1ncer-de-los-modelos-de-ml-por-qu%C3%A9-tu-predicci%C3%B3n-es-buena-hasta-que-no-lo-es-05c3c7de0d82?source=rss------data_science-5)
+- [How to Make a 7B Model Faster Than Most Cloud APIs &lpar;On a Laptop&rpar;](https://medium.com/write-a-catalyst/how-to-make-a-7b-model-faster-than-most-cloud-apis-on-a-laptop-0a3e46de429e?source=rss------data_science-5)
+- [The Engineering Debt Behind “Successful” AI Projects](https://medium.com/write-a-catalyst/the-engineering-debt-behind-successful-ai-projects-d3c8d641e135?source=rss------data_science-5)
+- [I Thought My REST API Was Done — Then I Deployed It](https://medium.com/write-a-catalyst/i-thought-my-rest-api-was-done-then-i-deployed-it-78f00b2e477e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
