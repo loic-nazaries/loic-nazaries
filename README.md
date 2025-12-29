@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Science Learning Journey: From Zero to AI](https://medium.com/@hadil.sahraoui129/data-science-learning-journey-from-zero-to-ai-50698da72eb0?source=rss------data_science-5)
-- [My Forecast for 2026](https://eric-sandosham.medium.com/my-forecast-for-2026-34b9a09ee018?source=rss------data_science-5)
-- [FoodSnap: turning a food photo into a Samsung Health meal log &lpar;without manual entry&rpar;](https://medium.com/@vardgesth/foodsnap-turning-a-food-photo-into-a-samsung-health-meal-log-without-manual-entry-265ea853e3d3?source=rss------data_science-5)
-- [Membangun Prediksi Pembelian Pelanggan Menggunakan Decision Tree](https://medium.com/@wina10222111/membangun-prediksi-pembelian-pelanggan-menggunakan-decision-tree-panduan-praktis-c74ef7b46345?source=rss------data_science-5)
-- [9 Python Libraries That Feel Like Secret Weapons](https://python.plainenglish.io/9-python-libraries-that-feel-like-secret-weapons-cbc171ffe3e2?source=rss------data_science-5)
-- [Getting Started with BigQuery 2026: BigQuery ML for Developers](https://medium.com/@kuburatuadiza/getting-started-with-bigquery-2026-bigquery-ml-for-developers-d09664824728?source=rss------data_science-5)
-- [El Cáncer de los Modelos de ML: Por Qué Tu Predicción Es Buena… Hasta Que No Lo Es](https://medium.com/@bairespython45/el-c%C3%A1ncer-de-los-modelos-de-ml-por-qu%C3%A9-tu-predicci%C3%B3n-es-buena-hasta-que-no-lo-es-05c3c7de0d82?source=rss------data_science-5)
-- [How to Make a 7B Model Faster Than Most Cloud APIs &lpar;On a Laptop&rpar;](https://medium.com/write-a-catalyst/how-to-make-a-7b-model-faster-than-most-cloud-apis-on-a-laptop-0a3e46de429e?source=rss------data_science-5)
-- [The Engineering Debt Behind “Successful” AI Projects](https://medium.com/write-a-catalyst/the-engineering-debt-behind-successful-ai-projects-d3c8d641e135?source=rss------data_science-5)
-- [I Thought My REST API Was Done — Then I Deployed It](https://medium.com/write-a-catalyst/i-thought-my-rest-api-was-done-then-i-deployed-it-78f00b2e477e?source=rss------data_science-5)
+- [Memahami “Bahasa” Data &lpar;Variable, List, &amp; Dictionary&rpar;](https://medium.com/@najibfaqihfathan/memahami-bahasa-data-variable-list-dictionary-47d41680db69?source=rss------data_science-5)
+- [Fixing Pandas Memory Errors: 3 Practical Solutions for Working with Big Data](https://medium.com/coding-nexus/fixing-pandas-memory-errors-3-practical-solutions-for-working-with-big-data-cb67c2477730?source=rss------data_science-5)
+- [￼](https://medium.com/@akcdigitaltools/-bf3cf0ae0a81?source=rss------data_science-5)
+- [The AI Humanist Movement -
+Seven Principles for Keeping Humans in Charge of AI](https://medium.com/@matthasan/the-ai-humanist-movement-seven-principles-for-keeping-humans-in-charge-of-ai-0c20ad81eca2?source=rss------data_science-5)
+- [We had Gemini attempt to identify 286 maritime nautical chart symbols. Here’s what we found.](https://medium.com/@tayljordan/we-had-gemini-attempt-to-identify-286-maritime-nautical-chart-symbols-heres-what-we-found-f8e1ddcda293?source=rss------data_science-5)
+- [Evaluate Retrieval Quality in RAG Pipelines: Mean Reciprocal Rank &lpar;MRR&rpar; and Average Precision &lpar;AP&rpar;](https://medium.com/@nikhil.dharmaram/evaluate-retrieval-quality-in-rag-pipelines-mean-reciprocal-rank-mrr-and-average-precision-ap-5385486a3629?source=rss------data_science-5)
+- [The evolving “AI Engineering”](https://anandjagadeesh.medium.com/the-evolving-ai-engineering-cbf589fb8841?source=rss------data_science-5)
+- [Big Data is Overrated: Why Data-Centric is the Future of AI](https://medium.com/dare-to-be-better/big-data-is-overrated-why-data-centric-is-the-future-of-ai-83eb48527b64?source=rss------data_science-5)
+- [AI, Once You Stop Treating It Like Magic](https://medium.com/write-a-catalyst/ai-once-you-stop-treating-it-like-magic-b452b4ddfd99?source=rss------data_science-5)
+- [Host Your AI Models on Cloudflare R2: A Complete Guide](https://ernestodotnet.medium.com/host-your-ai-models-on-cloudflare-r2-a-complete-guide-d1cd92d582f0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
