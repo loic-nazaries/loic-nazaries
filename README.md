@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Memahami “Bahasa” Data &lpar;Variable, List, &amp; Dictionary&rpar;](https://medium.com/@najibfaqihfathan/memahami-bahasa-data-variable-list-dictionary-47d41680db69?source=rss------data_science-5)
-- [Fixing Pandas Memory Errors: 3 Practical Solutions for Working with Big Data](https://medium.com/coding-nexus/fixing-pandas-memory-errors-3-practical-solutions-for-working-with-big-data-cb67c2477730?source=rss------data_science-5)
-- [￼](https://medium.com/@akcdigitaltools/-bf3cf0ae0a81?source=rss------data_science-5)
-- [The AI Humanist Movement -
-Seven Principles for Keeping Humans in Charge of AI](https://medium.com/@matthasan/the-ai-humanist-movement-seven-principles-for-keeping-humans-in-charge-of-ai-0c20ad81eca2?source=rss------data_science-5)
-- [We had Gemini attempt to identify 286 maritime nautical chart symbols. Here’s what we found.](https://medium.com/@tayljordan/we-had-gemini-attempt-to-identify-286-maritime-nautical-chart-symbols-heres-what-we-found-f8e1ddcda293?source=rss------data_science-5)
-- [Evaluate Retrieval Quality in RAG Pipelines: Mean Reciprocal Rank &lpar;MRR&rpar; and Average Precision &lpar;AP&rpar;](https://medium.com/@nikhil.dharmaram/evaluate-retrieval-quality-in-rag-pipelines-mean-reciprocal-rank-mrr-and-average-precision-ap-5385486a3629?source=rss------data_science-5)
-- [The evolving “AI Engineering”](https://anandjagadeesh.medium.com/the-evolving-ai-engineering-cbf589fb8841?source=rss------data_science-5)
-- [Big Data is Overrated: Why Data-Centric is the Future of AI](https://medium.com/dare-to-be-better/big-data-is-overrated-why-data-centric-is-the-future-of-ai-83eb48527b64?source=rss------data_science-5)
-- [AI, Once You Stop Treating It Like Magic](https://medium.com/write-a-catalyst/ai-once-you-stop-treating-it-like-magic-b452b4ddfd99?source=rss------data_science-5)
-- [Host Your AI Models on Cloudflare R2: A Complete Guide](https://ernestodotnet.medium.com/host-your-ai-models-on-cloudflare-r2-a-complete-guide-d1cd92d582f0?source=rss------data_science-5)
+- [Beyond the “Black Box”: Why Governance is the Only Way to Deploy AI Safely](https://medium.com/@eudetechnology/beyond-the-black-box-why-governance-is-the-only-way-to-deploy-ai-safely-7d37fc0fd626?source=rss------data_science-5)
+- [The Systems Firms Need Now to Prepare For the Next Pandemic](https://alanmorantz.medium.com/the-systems-firms-need-now-to-prepare-for-the-next-pandemic-5fcfdbd5592d?source=rss------data_science-5)
+- [09378431470شماره خاله تهران شماره خاله اصفهان شماره خاله اهواز شماره خاله کرج شماره خاله تبریز…](https://medium.com/@enwhwhwhwhshshshshhsshhsshhaah/09378431470%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-46bc36ddc68f?source=rss------data_science-5)
+- [10 Python Features That Make You Code Like a Pro](https://python.plainenglish.io/10-python-features-that-make-you-code-like-a-pro-cd57a9d3894e?source=rss------data_science-5)
+- [09378431470شماره خاله تهران شماره خاله اصفهان شماره خاله اهواز شماره خاله کرج شماره خاله تبریز…](https://medium.com/@enwhwhwhwhshshshshhsshhsshhaah/09378431470%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-9247ca6784cc?source=rss------data_science-5)
+- [The Math Behind the Magic: How the Normal Distribution Powers Modern Machine Learning](https://medium.com/@lowva96/the-math-behind-the-magic-how-the-normal-distribution-powers-modern-machine-learning-89af4a3de4b2?source=rss------data_science-5)
+- [Two Ways SQL Combines Data: JOINs and Set Operations](https://medium.com/@bskky001/two-ways-sql-combines-data-joins-and-set-operations-3a6b0f92c1a4?source=rss------data_science-5)
+- [09370673570](https://medium.com/@bchchdjjxnxb4jcjf/09370673570-62c9eba83810?source=rss------data_science-5)
+- [09370673570](https://medium.com/@bchchdjjxnxb4jcjf/09370673570-eecbb8e7c283?source=rss------data_science-5)
+- [09370673570](https://medium.com/@mnbcxzaacvn5nji/09370673570-35d4156d25f0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
