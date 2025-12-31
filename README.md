@@ -105,16 +105,8 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Beyond the “Black Box”: Why Governance is the Only Way to Deploy AI Safely](https://medium.com/@eudetechnology/beyond-the-black-box-why-governance-is-the-only-way-to-deploy-ai-safely-7d37fc0fd626?source=rss------data_science-5)
-- [The Systems Firms Need Now to Prepare For the Next Pandemic](https://alanmorantz.medium.com/the-systems-firms-need-now-to-prepare-for-the-next-pandemic-5fcfdbd5592d?source=rss------data_science-5)
-- [09378431470شماره خاله تهران شماره خاله اصفهان شماره خاله اهواز شماره خاله کرج شماره خاله تبریز…](https://medium.com/@enwhwhwhwhshshshshhsshhsshhaah/09378431470%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-46bc36ddc68f?source=rss------data_science-5)
-- [10 Python Features That Make You Code Like a Pro](https://python.plainenglish.io/10-python-features-that-make-you-code-like-a-pro-cd57a9d3894e?source=rss------data_science-5)
-- [09378431470شماره خاله تهران شماره خاله اصفهان شماره خاله اهواز شماره خاله کرج شماره خاله تبریز…](https://medium.com/@enwhwhwhwhshshshshhsshhsshhaah/09378431470%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-9247ca6784cc?source=rss------data_science-5)
-- [The Math Behind the Magic: How the Normal Distribution Powers Modern Machine Learning](https://medium.com/@lowva96/the-math-behind-the-magic-how-the-normal-distribution-powers-modern-machine-learning-89af4a3de4b2?source=rss------data_science-5)
-- [Two Ways SQL Combines Data: JOINs and Set Operations](https://medium.com/@bskky001/two-ways-sql-combines-data-joins-and-set-operations-3a6b0f92c1a4?source=rss------data_science-5)
-- [09370673570](https://medium.com/@bchchdjjxnxb4jcjf/09370673570-62c9eba83810?source=rss------data_science-5)
-- [09370673570](https://medium.com/@bchchdjjxnxb4jcjf/09370673570-eecbb8e7c283?source=rss------data_science-5)
-- [09370673570](https://medium.com/@mnbcxzaacvn5nji/09370673570-35d4156d25f0?source=rss------data_science-5)
+- [09370673570](https://medium.com/@ncbchhcjdjdj3jficjfkk/09370673570-f80380dfc585?source=rss------data_science-5)
+- [09370673570](https://medium.com/@ncbchhcjdjdj3jficjfkk/09370673570-a9a308d11fc7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
