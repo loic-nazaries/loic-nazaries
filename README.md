@@ -105,18 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Ludic Fallacy of the Perfect Captaincy: A Data Scientist’s Guide to Losing at Fantasy Football](https://medium.com/data-science-collective/the-ludic-fallacy-of-the-perfect-captaincy-a-data-scientists-guide-to-losing-at-fantasy-football-edb8c270944c?source=rss------data_science-5)
-- [Exem — Full-stack IT Performance Management Solution Opening the AI and Cloud Era](https://medium.com/@jeonghaneom/exem-full-stack-it-performance-management-solution-opening-the-ai-and-cloud-era-b2ed01721e38?source=rss------data_science-5)
-- [[project] Spending Tracker](https://medium.com/@rickycircelli/project-spending-tracker-becf6e7729ab?source=rss------data_science-5)
-- [Decoding Serum Neurofilament Light Chain as the Universal, Dynamic, and Actionable Biomarker in…](https://medium.com/@aditrizky052/decoding-serum-neurofilament-light-chain-as-the-universal-dynamic-and-actionable-biomarker-in-7dffdf30a8ef?source=rss------data_science-5)
-- [Build A Machine Learning Project Using Linear Regression.](https://medium.com/activated-thinker/build-a-machine-learning-project-using-linear-regression-d09d9bd810d3?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shmarhkhalhthran774/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-df5950c34ead?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shmarhkhalhthran774/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-890ad39729df?source=rss------data_science-5)
-- [Uniwersalny model implozji metabolicznej: Kinetyka zatoru informacyjnego jako rozwiązanie efektu…](https://medium.com/@krytkorki/uniwersalny-model-implozji-metabolicznej-kinetyka-zatoru-informacyjnego-jako-rozwi%C4%85zanie-efektu-97b64527aab7?source=rss------data_science-5)
-- [The ML Evaluation Math You Can Actually Trust](https://pub.towardsai.net/the-ml-evaluation-math-you-can-actually-trust-b0b6b9a10d69?source=rss------data_science-5)
-- [A more detailed explanation on how to use and understand statistics in Data Science.](https://medium.com/@syurmen2/a-more-detailed-explanation-on-how-to-use-and-understand-statistics-in-data-science-7e92877eb087?source=rss------data_science-5)
+- [SQL Subqueries — From Simple to Advanced](https://medium.com/@bskky001/sql-subqueries-from-simple-to-advanced-2451e61d6c74?source=rss------data_science-5)
+- [Python for Personal Inventory Management](https://medium.com/write-a-catalyst/python-for-personal-inventory-management-614ec7044019?source=rss------data_science-5)
+- [How To Earn OpenAI’s &quot;Woman of the Year&quot;:](https://medium.com/jasira-intelligence-press-room/how-to-earn-openais-woman-of-the-year-f611b7fa9292?source=rss------data_science-5)
+- [Starting My Data Science Journey: Learning](https://medium.com/@KundanKuma/starting-my-data-science-journey-learning-in-public-f56f4a66a265?source=rss------data_science-5)
+- [Entre probabilidades e decisões: regressão logística na prática](https://medium.com/@yucavalcante/entre-probabilidades-e-decis%C3%B5es-regress%C3%A3o-log%C3%ADstica-na-pr%C3%A1tica-045a37c88f0e?source=rss------data_science-5)
+- [I Replaced Half My Workweek with One Click: A Developer’s Intro to KNIME](https://medium.com/@rhs.darmawan/i-replaced-half-my-workweek-with-one-click-a-developers-intro-to-knime-2b9d66568bd4?source=rss------data_science-5)
+- [9 Python Features I Ignored for Too Long](https://python.plainenglish.io/9-python-features-i-ignored-for-too-long-bfcc91829135?source=rss------data_science-5)
+- [WHN™ Global Institute Officially Launches —](https://medium.com/jasira-intelligence-press-room/whn-global-institute-officially-launches-2967f5681048?source=rss------data_science-5)
+- [Green Software Engineering: Measuring Energy, Not Just Performance](https://medium.com/@fady.abdelaziz.fci22308/green-software-engineering-measuring-energy-not-just-performance-08e18429e862?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
