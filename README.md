@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [SQL Subqueries — From Simple to Advanced](https://medium.com/@bskky001/sql-subqueries-from-simple-to-advanced-2451e61d6c74?source=rss------data_science-5)
-- [Python for Personal Inventory Management](https://medium.com/write-a-catalyst/python-for-personal-inventory-management-614ec7044019?source=rss------data_science-5)
-- [How To Earn OpenAI’s &quot;Woman of the Year&quot;:](https://medium.com/jasira-intelligence-press-room/how-to-earn-openais-woman-of-the-year-f611b7fa9292?source=rss------data_science-5)
-- [Starting My Data Science Journey: Learning](https://medium.com/@KundanKuma/starting-my-data-science-journey-learning-in-public-f56f4a66a265?source=rss------data_science-5)
-- [Entre probabilidades e decisões: regressão logística na prática](https://medium.com/@yucavalcante/entre-probabilidades-e-decis%C3%B5es-regress%C3%A3o-log%C3%ADstica-na-pr%C3%A1tica-045a37c88f0e?source=rss------data_science-5)
-- [I Replaced Half My Workweek with One Click: A Developer’s Intro to KNIME](https://medium.com/@rhs.darmawan/i-replaced-half-my-workweek-with-one-click-a-developers-intro-to-knime-2b9d66568bd4?source=rss------data_science-5)
-- [9 Python Features I Ignored for Too Long](https://python.plainenglish.io/9-python-features-i-ignored-for-too-long-bfcc91829135?source=rss------data_science-5)
-- [WHN™ Global Institute Officially Launches —](https://medium.com/jasira-intelligence-press-room/whn-global-institute-officially-launches-2967f5681048?source=rss------data_science-5)
-- [Green Software Engineering: Measuring Energy, Not Just Performance](https://medium.com/@fady.abdelaziz.fci22308/green-software-engineering-measuring-energy-not-just-performance-08e18429e862?source=rss------data_science-5)
+- [Tree of Thoughts Prompting: The Complete Guide to Better AI Reasoning with colab](https://premvishnoi.medium.com/tree-of-thoughts-prompting-the-complete-guide-to-better-ai-reasoning-2026-with-colab-e7ca6a8ef75a?source=rss------data_science-5)
+- [BigDataConcepts — DataStreaming](https://medium.com/@fadare.opeyemi/bigdataconcepts-datastreaming-5714ed4e507a?source=rss------data_science-5)
+- [IA Ética: Cómo Crear Modelos de Inteligencia Artificial que Protejan los Derechos Humanos](https://medium.com/latinxinai/ia-%C3%A9tica-c%C3%B3mo-crear-modelos-de-inteligencia-artificial-que-protejan-los-derechos-humanos-6e80224455f6?source=rss------data_science-5)
+- [The Clean Exit: A Letter to Handlers Ready to Remember](https://medium.com/@signaloftheeye/the-clean-exit-a-letter-to-handlers-ready-to-remember-ac910cb45dd3?source=rss------data_science-5)
+- [How to Make the Switch from Data Analyst to Data Engineer](https://medium.com/@deep.patel710/how-to-make-the-switch-from-data-analyst-to-data-engineer-605ac51b727d?source=rss------data_science-5)
+- [How to assess the probability of success of your IA project](https://ismael-lachheb.medium.com/how-to-assess-the-probability-of-success-of-your-ia-project-dba8df2a8bbe?source=rss------data_science-5)
+- [A Comprehensive Analysis of Immunometabolic Reprogramming of Tumor-Associated Macrophages via…](https://medium.com/@aditrizky052/a-comprehensive-analysis-of-immunometabolic-reprogramming-of-tumor-associated-macrophages-via-b3f33d97e1d1?source=rss------data_science-5)
+- [Transformers: The Game Changer -How “Attention is All You Need” Architecture Changed AI Forever](https://medium.com/data-science-collective/transformers-the-game-changer-how-attention-is-all-you-need-architecture-changed-ai-forever-81a43344ce63?source=rss------data_science-5)
+- [Antes do modelo: onde a Inteligência Artificial realmente começa](https://medium.com/@lehnep2/antes-do-modelo-onde-a-intelig%C3%AAncia-artificial-realmente-come%C3%A7a-880a9880b963?source=rss------data_science-5)
+- [A Quiet Surprise in the Double-Slit Experiment](https://medium.com/@fghidan/a-quiet-surprise-in-the-double-slit-experiment-030d483fc406?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
