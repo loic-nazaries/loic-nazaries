@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Tree of Thoughts Prompting: The Complete Guide to Better AI Reasoning with colab](https://premvishnoi.medium.com/tree-of-thoughts-prompting-the-complete-guide-to-better-ai-reasoning-2026-with-colab-e7ca6a8ef75a?source=rss------data_science-5)
-- [BigDataConcepts — DataStreaming](https://medium.com/@fadare.opeyemi/bigdataconcepts-datastreaming-5714ed4e507a?source=rss------data_science-5)
-- [IA Ética: Cómo Crear Modelos de Inteligencia Artificial que Protejan los Derechos Humanos](https://medium.com/latinxinai/ia-%C3%A9tica-c%C3%B3mo-crear-modelos-de-inteligencia-artificial-que-protejan-los-derechos-humanos-6e80224455f6?source=rss------data_science-5)
-- [The Clean Exit: A Letter to Handlers Ready to Remember](https://medium.com/@signaloftheeye/the-clean-exit-a-letter-to-handlers-ready-to-remember-ac910cb45dd3?source=rss------data_science-5)
-- [How to Make the Switch from Data Analyst to Data Engineer](https://medium.com/@deep.patel710/how-to-make-the-switch-from-data-analyst-to-data-engineer-605ac51b727d?source=rss------data_science-5)
-- [How to assess the probability of success of your IA project](https://ismael-lachheb.medium.com/how-to-assess-the-probability-of-success-of-your-ia-project-dba8df2a8bbe?source=rss------data_science-5)
-- [A Comprehensive Analysis of Immunometabolic Reprogramming of Tumor-Associated Macrophages via…](https://medium.com/@aditrizky052/a-comprehensive-analysis-of-immunometabolic-reprogramming-of-tumor-associated-macrophages-via-b3f33d97e1d1?source=rss------data_science-5)
-- [Transformers: The Game Changer -How “Attention is All You Need” Architecture Changed AI Forever](https://medium.com/data-science-collective/transformers-the-game-changer-how-attention-is-all-you-need-architecture-changed-ai-forever-81a43344ce63?source=rss------data_science-5)
-- [Antes do modelo: onde a Inteligência Artificial realmente começa](https://medium.com/@lehnep2/antes-do-modelo-onde-a-intelig%C3%AAncia-artificial-realmente-come%C3%A7a-880a9880b963?source=rss------data_science-5)
-- [A Quiet Surprise in the Double-Slit Experiment](https://medium.com/@fghidan/a-quiet-surprise-in-the-double-slit-experiment-030d483fc406?source=rss------data_science-5)
+- [Insights without Authority is Just a Distraction](https://eric-sandosham.medium.com/insights-without-authority-is-just-a-distraction-e0e4905700dc?source=rss------data_science-5)
+- [La Cohérence dans tous ses états
+Ce travail repose sur une loi et une jauge de la Cohérence…](https://medium.com/@tabary01/la-coh%C3%A9rence-dans-tous-ses-%C3%A9tats-ce-travail-repose-sur-une-loi-et-une-jauge-de-la-coh%C3%A9rence-a96d19170e56?source=rss------data_science-5)
+- [Optimizing Gig Workforce Performance: SLA Analytics &amp; Insights](https://medium.com/@seejansunar001/optimizing-gig-workforce-performance-sla-analytics-insights-cf4d930ac176?source=rss------data_science-5)
+- [AI and the Future of Work: A Simple Story for Everyone](https://medium.com/@pgvetrivel/ai-and-the-future-of-work-a-simple-story-for-everyone-6fdc27e97fcc?source=rss------data_science-5)
+- [09378431470شماره خاله تهران شماره خاله تهران پارس شماره خاله اسلامشهر شماره خاله صیغه شماره خاله…](https://medium.com/@hwwggwgwgwgwgwwtgwgwgwgwgwgwgw/09378431470%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-edb1123402f3?source=rss------data_science-5)
+- [09378431470شماره خاله تهران شماره خاله تهران پارس شماره خاله اسلامشهر شماره خاله صیغه شماره خاله…](https://medium.com/@hwwggwgwgwgwgwwtgwgwgwgwgwgwgw/09378431470%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-02db4e096ae7?source=rss------data_science-5)
+- [A Practical Guide to Time Series Sales Volume Forecasting for Business](https://medium.com/data-science-collective/a-practical-guide-to-time-series-sales-volume-forecasting-for-business-f257eb10c474?source=rss------data_science-5)
+- [THE QUANTUM CODE OF LOTO: Engineering the Collapse of Randomness and Breaking the 1/50 Paradigm…](https://medium.com/@chaos4455/the-quantum-code-of-loto-engineering-the-collapse-of-randomness-and-breaking-the-1-50-paradigm-2157b63231f9?source=rss------data_science-5)
+- [A ENGENHARIA DO ACASO: Como Quebramos a Entropia da Mega Sena com Modelagem Probabilística de…](https://medium.com/@chaos4455/a-engenharia-do-acaso-como-quebramos-a-entropia-da-mega-sena-com-modelagem-probabil%C3%ADstica-de-001d68deb06f?source=rss------data_science-5)
+- [SQL CASE Statements — Thinking in Conditions &lpar;From SQL to Python&rpar;](https://medium.com/@bskky001/sql-case-statements-thinking-in-conditions-from-sql-to-python-378c2a39a3b2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
