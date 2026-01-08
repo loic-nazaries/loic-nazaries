@@ -105,21 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I’m an MSc Data Science Student — Here’s How I’m Learning AI](https://medium.com/@jennifer.jd2810/im-an-msc-data-science-student-here-s-how-i-m-learning-ai-4285d3a8dd91?source=rss------data_science-5)
-- [10 System Design Topics Every Data Engineer Is Expected to Know in 2026 Interviews](https://medium.com/@Rohan_Dutt/10-system-design-topics-every-data-engineer-is-expected-to-know-in-2026-interviews-d74dc4e3b1bb?source=rss------data_science-5)
-- [10 Data Analysis Fundamentals Hiring Managers NEVER Explain &lpar;but Will 100% Test in 2026&rpar;](https://medium.com/@Rohan_Dutt/10-data-analysis-fundamentals-hiring-managers-never-explain-but-will-100-test-in-2026-fae09c8ac3cc?source=rss------data_science-5)
-- [what an ai shaman actually does and why the world needs fewer prophets and more coherence](https://medium.com/@rowlandakinduro/what-an-ai-shaman-actually-does-and-why-the-world-needs-fewer-prophets-and-more-coherence-72ad7cd0c8f7?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@zxcvbnnnj3bnmn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-de382470c7e0?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@zxcvbnnnj3bnmn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5348c782041e?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@zxcvvbnj2vnnn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-baa66a6ff9b1?source=rss------data_science-5)
-- [POV: A Data Analyst’s Take on Marketing Analysis](https://daisyms.medium.com/pov-a-data-analysts-take-on-marketing-analysis-9e40fb528ae4?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@zxcvvbnj2vnnn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ef93dc331a83?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xxcvbhhhn1bjnn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0cc7e39ab7bb?source=rss------data_science-5)
+- [Data Wrangling in Data Science](https://medium.com/@vsasf-tech-ict-academy-enugu/data-wrangling-in-data-science-243946b1c687?source=rss------data_science-5)
+- [Frequently used Pandas functions in analytics](https://medium.com/@ianchenmu/frequently-used-pandas-functions-in-analytics-1a725cca32a4?source=rss------data_science-5)
+- [As AI Moves Into Government, National Security Enters A New Era In 2026](https://medium.com/predict/as-ai-moves-into-government-national-security-enters-a-new-era-in-2026-9f04539beec5?source=rss------data_science-5)
+- [Blinkit Sales Performance Analysis Project using Excel, Python, and Power BI](https://medium.com/@abubakryabiodun/blinkit-sales-performance-analysis-project-using-excel-python-and-power-bi-98eeab36d891?source=rss------data_science-5)
+- [Poetry vs Anaconda — A Complete Guide for Data Scientists](https://medium.com/analytics-vidhya/poetry-vs-anaconda-a-complete-guide-for-data-scientists-32ee6a51b0ef?source=rss------data_science-5)
+- [The Complete Guide to Machine Learning Hyperparameters 2026](https://atul4u.medium.com/the-complete-guide-to-machine-learning-hyperparameters-2026-3d43999a595e?source=rss------data_science-5)
+- [73. Why Fine-Tuning Billion-Parameter Models Doesn’t Mean Updating Them All](https://medium.com/@kiranvutukuri/73-why-fine-tuning-billion-parameter-models-doesnt-mean-updating-them-all-a2245fd99e26?source=rss------data_science-5)
+- [Why Data Is Called the New Oil?](https://medium.com/@harshitgupta4732/why-data-is-called-the-new-oil-bf8c687312cb?source=rss------data_science-5)
+- [Understanding Z-Scores: From Theory to Implementation &lpar;C++ and Python&rpar;](https://medium.com/@shivogojohn/understanding-z-scores-from-theory-to-implementation-c-and-python-ac6f0e2338b0?source=rss------data_science-5)
+- [The Bias Debate Is Hiding a Much Bigger Problem](https://medium.com/@rere.cola/the-bias-obsession-is-making-us-worse-at-thinking-a467b8ebecb1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
