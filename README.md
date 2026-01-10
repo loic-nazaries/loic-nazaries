@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Cara Mengintegrasikan Agen AI Otonom dengan Spreadsheet untuk Analisis Saham Real-Time 2026](https://medium.com/@Panjat4D_Tech/cara-mengintegrasikan-agen-ai-otonom-dengan-spreadsheet-untuk-analisis-saham-real-time-2026-2218bed5b35a?source=rss------data_science-5)
-- [Automating Taxonomy Changes Without Breaking the System](https://medium.com/@ensleytan/automating-taxonomy-changes-without-breaking-the-system-8bf0feb4f335?source=rss------data_science-5)
-- [Data Structures Every Android Developer Should Master: Kotlin Interview Questions with Expert…](https://medium.com/@alaxhenry0121/data-structures-every-android-developer-should-master-kotlin-interview-questions-with-expert-517d274d290f?source=rss------data_science-5)
-- [Data Structures Every Mobile Developer Should Master: Flutter Interview Questions with Expert…](https://medium.com/@alaxhenry0121/data-structures-every-mobile-developer-should-master-flutter-interview-questions-with-expert-349c02d3afa8?source=rss------data_science-5)
-- [Essay 5 — Power That Refuses to Fracture the Field](https://medium.com/@dmm.research/essay-5-power-that-refuses-to-fracture-the-field-6746aa9fe598?source=rss------data_science-5)
-- [Paton Assist Why numerical simulations fail — and what “viability” actually means Andrew John Paton…](https://medium.com/@andrewjp2008/paton-assist-why-numerical-simulations-fail-and-what-viability-actually-means-andrew-john-paton-17bde70d050e?source=rss------data_science-5)
-- [Your First AWS Infrastructure in 30 Minutes: From Zero to EC2 Using Claude Code and the AWS MCP…](https://ernestodotnet.medium.com/your-first-aws-infrastructure-in-30-minutes-from-zero-to-ec2-using-claude-code-and-the-aws-mcp-60ce9ac7ff7c?source=rss------data_science-5)
-- [I Discovered My Own Formula For π !](https://www.cantorsparadise.com/i-discovered-my-own-formula-for-%CF%80-c6d3dadd174f?source=rss------data_science-5)
-- [How I Would Build a System That Makes Risk Decisions Reliably](https://medium.com/@sv.sid1033/how-i-would-build-a-system-that-makes-risk-decisions-reliably-b038ad4e6bc9?source=rss------data_science-5)
-- [Canada and Space-Based ISR](https://medium.com/@kenmcmullen/canada-and-space-based-isr-fd149ed62716?source=rss------data_science-5)
+- [How I AI as a Data Scientist: Tools in Play, What Works, and What Doesn’t &lpar;yet?&rpar; — Jan. ’26 Edition](https://medium.com/data-science-collective/how-i-ai-as-a-data-scientist-tools-in-play-what-works-and-what-doesnt-yet-jan-26-edition-5327b7878e69?source=rss------data_science-5)
+- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-143dd31a5e23?source=rss------data_science-5)
+- [Telemetry Case Study #1](https://medium.com/@aoibrahim1999/telemetry-case-study-1-53e64bb73b7e?source=rss------data_science-5)
+- [I Plotted Google’s AI Trajectory. Whether It’s an S-Curve or an Exponential, the Result is the Same](https://medium.com/@evans.malcolmc/i-plotted-googles-ai-trajectory-whether-it-s-an-s-curve-or-an-exponential-the-result-is-the-same-266360f3e0b7?source=rss------data_science-5)
+- [If Google and AI Can’t Read You: You Don’t Exist](https://medium.com/@oladeyi_us/if-google-and-ai-cant-read-you-you-don-t-exist-c457d5b8eef8?source=rss------data_science-5)
+- [10 Python Tricks That Turn Beginners Into Builders](https://python.plainenglish.io/10-python-tricks-that-turn-beginners-into-builders-ec9a5736f6d6?source=rss------data_science-5)
+- [Random Forests Explained Simply &lpar;Part 4.1: Missing Data&rpar;](https://createmomo.medium.com/random-forests-explained-simply-part-4-1-missing-data-39c98fa7a9e4?source=rss------data_science-5)
+- [The Aspiration Oracle: Predicting Life’s Parallel Dreams](https://medium.com/@ciroduro01/the-aspiration-oracle-predictive-life-strategy-513b12e84fd3?source=rss------data_science-5)
+- [The Python Habit That Quietly Eliminated Half My Bugs](https://python.plainenglish.io/the-python-habit-that-quietly-eliminated-half-my-bugs-c00aae333402?source=rss------data_science-5)
+- [Why Accuracy Alone Fails in Medical Machine Learning](https://medium.com/@noeflo8006/why-accuracy-alone-fails-in-medical-machine-learning-db918d3a81cf?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
