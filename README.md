@@ -105,16 +105,14 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How I AI as a Data Scientist: Tools in Play, What Works, and What Doesn’t &lpar;yet?&rpar; — Jan. ’26 Edition](https://medium.com/data-science-collective/how-i-ai-as-a-data-scientist-tools-in-play-what-works-and-what-doesnt-yet-jan-26-edition-5327b7878e69?source=rss------data_science-5)
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-143dd31a5e23?source=rss------data_science-5)
-- [Telemetry Case Study #1](https://medium.com/@aoibrahim1999/telemetry-case-study-1-53e64bb73b7e?source=rss------data_science-5)
-- [I Plotted Google’s AI Trajectory. Whether It’s an S-Curve or an Exponential, the Result is the Same](https://medium.com/@evans.malcolmc/i-plotted-googles-ai-trajectory-whether-it-s-an-s-curve-or-an-exponential-the-result-is-the-same-266360f3e0b7?source=rss------data_science-5)
-- [If Google and AI Can’t Read You: You Don’t Exist](https://medium.com/@oladeyi_us/if-google-and-ai-cant-read-you-you-don-t-exist-c457d5b8eef8?source=rss------data_science-5)
-- [10 Python Tricks That Turn Beginners Into Builders](https://python.plainenglish.io/10-python-tricks-that-turn-beginners-into-builders-ec9a5736f6d6?source=rss------data_science-5)
-- [Random Forests Explained Simply &lpar;Part 4.1: Missing Data&rpar;](https://createmomo.medium.com/random-forests-explained-simply-part-4-1-missing-data-39c98fa7a9e4?source=rss------data_science-5)
-- [The Aspiration Oracle: Predicting Life’s Parallel Dreams](https://medium.com/@ciroduro01/the-aspiration-oracle-predictive-life-strategy-513b12e84fd3?source=rss------data_science-5)
-- [The Python Habit That Quietly Eliminated Half My Bugs](https://python.plainenglish.io/the-python-habit-that-quietly-eliminated-half-my-bugs-c00aae333402?source=rss------data_science-5)
-- [Why Accuracy Alone Fails in Medical Machine Learning](https://medium.com/@noeflo8006/why-accuracy-alone-fails-in-medical-machine-learning-db918d3a81cf?source=rss------data_science-5)
+- [Data Architecture for the AI Era: A Practical Guide&lpar;Part-1&rpar;](https://medium.com/@kishanraj41/data-architecture-for-the-ai-era-a-practical-guide-part-1-210b1f4c61de?source=rss------data_science-5)
+- [10 Python Projects You’ll Actually Want to Build](https://python.plainenglish.io/10-python-projects-youll-actually-want-to-build-09c0c6325f91?source=rss------data_science-5)
+- [The Pandas Pattern I Avoided for Years &lpar;And Why I Use It Everywhere Now&rpar;](https://python.plainenglish.io/the-pandas-pattern-i-avoided-for-years-and-why-i-use-it-everywhere-now-4ba90a925029?source=rss------data_science-5)
+- [Gilmore Girls Data Analytics Academy](https://medium.com/@teachmehowtoduggi/gilmore-girls-data-analytics-academy-d01d392acd70?source=rss------data_science-5)
+- [Power of simplicity—Don&#39;t let the hype surrounding AI and LLM cloud your common sense.](https://medium.com/@marek.pendzik/power-of-simplicity-dont-let-the-hype-surrounding-ai-and-llm-cloud-your-common-sense-61b3a362d398?source=rss------data_science-5)
+- [How to Use Technology &amp; AI to Your Advantage in 2026](https://medium.com/@radiantauragems/how-to-use-technology-ai-to-your-advantage-in-2026-ddda63ba2f97?source=rss------data_science-5)
+- [MLOps: Bridging the Gap Between Machine Learning and Production](https://medium.com/@averageguymedianow/mlops-bridging-the-gap-between-machine-learning-and-production-397df3922faa?source=rss------data_science-5)
+- [Autoencoders Demystified: Harnessing Unsupervised Learning for Data Transformation &amp; Generative AI](https://medium.com/data-science-collective/autoencoders-demystified-harnessing-unsupervised-learning-for-data-transformation-generative-ai-f887157e5436?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
