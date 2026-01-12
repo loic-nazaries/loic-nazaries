@@ -105,14 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Architecture for the AI Era: A Practical Guide&lpar;Part-1&rpar;](https://medium.com/@kishanraj41/data-architecture-for-the-ai-era-a-practical-guide-part-1-210b1f4c61de?source=rss------data_science-5)
-- [10 Python Projects You’ll Actually Want to Build](https://python.plainenglish.io/10-python-projects-youll-actually-want-to-build-09c0c6325f91?source=rss------data_science-5)
-- [The Pandas Pattern I Avoided for Years &lpar;And Why I Use It Everywhere Now&rpar;](https://python.plainenglish.io/the-pandas-pattern-i-avoided-for-years-and-why-i-use-it-everywhere-now-4ba90a925029?source=rss------data_science-5)
-- [Gilmore Girls Data Analytics Academy](https://medium.com/@teachmehowtoduggi/gilmore-girls-data-analytics-academy-d01d392acd70?source=rss------data_science-5)
-- [Power of simplicity—Don&#39;t let the hype surrounding AI and LLM cloud your common sense.](https://medium.com/@marek.pendzik/power-of-simplicity-dont-let-the-hype-surrounding-ai-and-llm-cloud-your-common-sense-61b3a362d398?source=rss------data_science-5)
-- [How to Use Technology &amp; AI to Your Advantage in 2026](https://medium.com/@radiantauragems/how-to-use-technology-ai-to-your-advantage-in-2026-ddda63ba2f97?source=rss------data_science-5)
-- [MLOps: Bridging the Gap Between Machine Learning and Production](https://medium.com/@averageguymedianow/mlops-bridging-the-gap-between-machine-learning-and-production-397df3922faa?source=rss------data_science-5)
-- [Autoencoders Demystified: Harnessing Unsupervised Learning for Data Transformation &amp; Generative AI](https://medium.com/data-science-collective/autoencoders-demystified-harnessing-unsupervised-learning-for-data-transformation-generative-ai-f887157e5436?source=rss------data_science-5)
+- [The AI Weekly Ledger](https://medium.com/the-ai-weekly-ledger/the-ai-weekly-ledger-b4aef8660651?source=rss------data_science-5)
+- [Building Multi-Agent Systems: Lessons from a Failed Production Launch](https://medium.com/@kaklotarrahul79/building-multi-agent-systems-lessons-from-a-failed-production-launch-8a728981742e?source=rss------data_science-5)
+- [Unlocking the Magic of Adam: The Math Behind Deep Learning’s Favorite Optimizer](https://medium.com/@raajasn019/unlocking-the-magic-of-adam-the-math-behind-deep-learnings-favorite-optimizer-315adb431f82?source=rss------data_science-5)
+- [Lotus bpm AI — Technical solution Adaptive Data Protection in Retrieval-Augmented Generation](https://medium.com/@nalinipriyauppari/lotus-bpm-ai-technical-solution-adaptive-data-protection-in-retrieval-augmented-generation-86e10f4314f2?source=rss------data_science-5)
+- [77. Multi-Task Learning: Training for Multiple Objectives Simultaneously](https://medium.com/@kiranvutukuri/77-multi-task-learning-training-for-multiple-objectives-simultaneously-b353304c11e6?source=rss------data_science-5)
+- [Beyond Neutrality: Measuring AI Bias for Fairness and Responsible AI Governance](https://medium.com/@shukla.shankar.ravi/beyond-neutrality-measuring-ai-bias-for-fairness-and-responsible-ai-governance-760a2d622249?source=rss------data_science-5)
+- [I Treated Pandas Like Excel for Too Long](https://python.plainenglish.io/i-treated-pandas-like-excel-for-too-long-ad83bf13e599?source=rss------data_science-5)
+- [Codatta’s Vision for the Future of Fair Exchange in a Connected World](https://medium.com/@MiztahBarryson/codattas-vision-for-the-future-of-fair-exchange-in-a-connected-world-80ddceeffea8?source=rss------data_science-5)
+- [Power BI Secrets: DaX Formulas Made Easy with Examples](https://medium.com/@debbiefasipe/unlocking-power-bi-secrets-dax-formulas-made-easy-with-examples-8b3e33bdfd9f?source=rss------data_science-5)
+- [Is the LLM the Ultimate Empiricist?](https://jarebbng.medium.com/is-the-llm-the-ultimate-empiricist-177255926574?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
