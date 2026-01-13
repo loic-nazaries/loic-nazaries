@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The AI Weekly Ledger](https://medium.com/the-ai-weekly-ledger/the-ai-weekly-ledger-b4aef8660651?source=rss------data_science-5)
-- [Building Multi-Agent Systems: Lessons from a Failed Production Launch](https://medium.com/@kaklotarrahul79/building-multi-agent-systems-lessons-from-a-failed-production-launch-8a728981742e?source=rss------data_science-5)
-- [Unlocking the Magic of Adam: The Math Behind Deep Learning’s Favorite Optimizer](https://medium.com/@raajasn019/unlocking-the-magic-of-adam-the-math-behind-deep-learnings-favorite-optimizer-315adb431f82?source=rss------data_science-5)
-- [Lotus bpm AI — Technical solution Adaptive Data Protection in Retrieval-Augmented Generation](https://medium.com/@nalinipriyauppari/lotus-bpm-ai-technical-solution-adaptive-data-protection-in-retrieval-augmented-generation-86e10f4314f2?source=rss------data_science-5)
-- [77. Multi-Task Learning: Training for Multiple Objectives Simultaneously](https://medium.com/@kiranvutukuri/77-multi-task-learning-training-for-multiple-objectives-simultaneously-b353304c11e6?source=rss------data_science-5)
-- [Beyond Neutrality: Measuring AI Bias for Fairness and Responsible AI Governance](https://medium.com/@shukla.shankar.ravi/beyond-neutrality-measuring-ai-bias-for-fairness-and-responsible-ai-governance-760a2d622249?source=rss------data_science-5)
-- [I Treated Pandas Like Excel for Too Long](https://python.plainenglish.io/i-treated-pandas-like-excel-for-too-long-ad83bf13e599?source=rss------data_science-5)
-- [Codatta’s Vision for the Future of Fair Exchange in a Connected World](https://medium.com/@MiztahBarryson/codattas-vision-for-the-future-of-fair-exchange-in-a-connected-world-80ddceeffea8?source=rss------data_science-5)
-- [Power BI Secrets: DaX Formulas Made Easy with Examples](https://medium.com/@debbiefasipe/unlocking-power-bi-secrets-dax-formulas-made-easy-with-examples-8b3e33bdfd9f?source=rss------data_science-5)
-- [Is the LLM the Ultimate Empiricist?](https://jarebbng.medium.com/is-the-llm-the-ultimate-empiricist-177255926574?source=rss------data_science-5)
+- [Unlocking The Secrets To Using Suno Music Generation AI](https://medium.com/wonk-a-vator/unlocking-the-secrets-to-using-suno-music-generation-ai-4c73c0a8e671?source=rss------data_science-5)
+- [Bagaimana Cara Mengetahui Strengths dan Passion untuk Menentukan Karier?](https://medium.com/@ditafebywordpress/bagaimana-cara-mengetahui-strengths-dan-passion-untuk-menentukan-karier-2c843f4ddcd9?source=rss------data_science-5)
+- [Bagaimana AI dan Otomatisasi Mempengaruhi Prospek Karir di Ilmu Data?](https://medium.com/@ditafebyindriani14/bagaimana-ai-dan-otomatisasi-mempengaruhi-prospek-karir-di-ilmu-data-7463b3874934?source=rss------data_science-5)
+- [5 Strategi Networking untuk Profesional Data Science](https://medium.com/@ditafebyindriani14/5-strategi-networking-untuk-profesional-data-science-7ebbf2328c1e?source=rss------data_science-5)
+- [Emergence of Symbolic Communication and Cultural Inheritance in a Simulated Toroidal Society](https://medium.com/@mattygh01/emergence-of-symbolic-communication-and-cultural-inheritance-in-a-simulated-toroidal-society-b92408bfd20b?source=rss------data_science-5)
+- [Why Your First Data Engineer Shouldn’t Be a Full-Time Hire](https://blog.dataengineerthings.org/why-your-first-data-engineer-shouldnt-be-a-full-time-hire-82a9a75928b1?source=rss------data_science-5)
+- [Stop Using Self Joins to Calculate “Previous Value”](https://blog.dataengineerthings.org/stop-using-self-joins-to-calculate-previous-value-ee82e972a332?source=rss------data_science-5)
+- [SELECT * Nearly Bankrupted Our Startup.](https://medium.com/lets-code-future/select-nearly-bankrupted-our-startup-31f33d20314b?source=rss------data_science-5)
+- [Foreign Keys Destroyed Our Write Performance. Removing Them Was Scary.](https://medium.com/codetodeploy/foreign-keys-destroyed-our-write-performance-removing-them-was-scary-bad612c7a5f8?source=rss------data_science-5)
+- [Strong Correlations Between GDP &amp; Life Expectancy: Lessons from 6 Nations &lpar;2000–2015&rpar;](https://medium.com/@lukeparkin1/strong-correlations-between-gdp-life-expectancy-lessons-from-6-nations-2000-2015-9d1cedbdf03f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
