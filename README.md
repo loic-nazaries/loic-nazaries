@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Unlocking The Secrets To Using Suno Music Generation AI](https://medium.com/wonk-a-vator/unlocking-the-secrets-to-using-suno-music-generation-ai-4c73c0a8e671?source=rss------data_science-5)
-- [Bagaimana Cara Mengetahui Strengths dan Passion untuk Menentukan Karier?](https://medium.com/@ditafebywordpress/bagaimana-cara-mengetahui-strengths-dan-passion-untuk-menentukan-karier-2c843f4ddcd9?source=rss------data_science-5)
-- [Bagaimana AI dan Otomatisasi Mempengaruhi Prospek Karir di Ilmu Data?](https://medium.com/@ditafebyindriani14/bagaimana-ai-dan-otomatisasi-mempengaruhi-prospek-karir-di-ilmu-data-7463b3874934?source=rss------data_science-5)
-- [5 Strategi Networking untuk Profesional Data Science](https://medium.com/@ditafebyindriani14/5-strategi-networking-untuk-profesional-data-science-7ebbf2328c1e?source=rss------data_science-5)
-- [Emergence of Symbolic Communication and Cultural Inheritance in a Simulated Toroidal Society](https://medium.com/@mattygh01/emergence-of-symbolic-communication-and-cultural-inheritance-in-a-simulated-toroidal-society-b92408bfd20b?source=rss------data_science-5)
-- [Why Your First Data Engineer Shouldn’t Be a Full-Time Hire](https://blog.dataengineerthings.org/why-your-first-data-engineer-shouldnt-be-a-full-time-hire-82a9a75928b1?source=rss------data_science-5)
-- [Stop Using Self Joins to Calculate “Previous Value”](https://blog.dataengineerthings.org/stop-using-self-joins-to-calculate-previous-value-ee82e972a332?source=rss------data_science-5)
-- [SELECT * Nearly Bankrupted Our Startup.](https://medium.com/lets-code-future/select-nearly-bankrupted-our-startup-31f33d20314b?source=rss------data_science-5)
-- [Foreign Keys Destroyed Our Write Performance. Removing Them Was Scary.](https://medium.com/codetodeploy/foreign-keys-destroyed-our-write-performance-removing-them-was-scary-bad612c7a5f8?source=rss------data_science-5)
-- [Strong Correlations Between GDP &amp; Life Expectancy: Lessons from 6 Nations &lpar;2000–2015&rpar;](https://medium.com/@lukeparkin1/strong-correlations-between-gdp-life-expectancy-lessons-from-6-nations-2000-2015-9d1cedbdf03f?source=rss------data_science-5)
+- [Do High-Propensity, Recently Active Users Actually Need EDM to Convert?](https://medium.com/@ansel-lin/do-high-propensity-recently-active-users-actually-need-edm-to-convert-e931cd15ed63?source=rss------data_science-5)
+- [Introducing Ruby Reactor: Taming Complex Business Logic in Ruby](https://medium.com/@artur.panach/introducing-ruby-reactor-taming-complex-business-logic-in-ruby-1528ea87b113?source=rss------data_science-5)
+- [Life is just Hard](https://medium.com/@itsaesmark/life-is-just-hard-3c3553f29940?source=rss------data_science-5)
+- [Otak Manusia Segera Menjadi Rongsokan Sejarah](https://medium.com/@didikurniawanmade/otak-manusia-segera-menjadi-rongsokan-sejarah-6a154ca4c9f2?source=rss------data_science-5)
+- [Tableau- Understanding LOD— Using a Fruit Basket](https://medium.com/@claudiau/tableau-understanding-lod-using-a-fruit-basket-6adc23fb08a0?source=rss------data_science-5)
+- [The Ultimate Guide: Hybrid Anomaly Detection with Autoencoders &amp; XGBoost](https://medium.com/@deepthivj96/the-ultimate-guide-hybrid-anomaly-detection-with-autoencoders-xgboost-1a565bdc6710?source=rss------data_science-5)
+- [Why Returning Objects Changed How I Design Python Functions](https://python.plainenglish.io/why-returning-objects-changed-how-i-design-python-functions-622e70e7eb0f?source=rss------data_science-5)
+- [Context Engineering Is What C Was to Assembly — The Next Abstraction Layer in Programming](https://tomaszs2.medium.com/context-engineering-is-what-c-was-to-assembly-the-next-abstraction-layer-in-programming-a79a2b191db3?source=rss------data_science-5)
+- [A Simple Framework to Predict Whether Enterprise AI Will Scale](https://medium.com/@omarkafeel/a-simple-framework-to-predict-whether-enterprise-ai-will-scale-fc4ba0bb60b9?source=rss------data_science-5)
+- [How my personal data collection practice evolved over the years](https://medium.com/@artfish/how-my-personal-data-collection-practice-evolved-over-the-years-720bfa68b83f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
