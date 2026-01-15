@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Do High-Propensity, Recently Active Users Actually Need EDM to Convert?](https://medium.com/@ansel-lin/do-high-propensity-recently-active-users-actually-need-edm-to-convert-e931cd15ed63?source=rss------data_science-5)
-- [Introducing Ruby Reactor: Taming Complex Business Logic in Ruby](https://medium.com/@artur.panach/introducing-ruby-reactor-taming-complex-business-logic-in-ruby-1528ea87b113?source=rss------data_science-5)
-- [Life is just Hard](https://medium.com/@itsaesmark/life-is-just-hard-3c3553f29940?source=rss------data_science-5)
-- [Otak Manusia Segera Menjadi Rongsokan Sejarah](https://medium.com/@didikurniawanmade/otak-manusia-segera-menjadi-rongsokan-sejarah-6a154ca4c9f2?source=rss------data_science-5)
-- [Tableau- Understanding LOD— Using a Fruit Basket](https://medium.com/@claudiau/tableau-understanding-lod-using-a-fruit-basket-6adc23fb08a0?source=rss------data_science-5)
-- [The Ultimate Guide: Hybrid Anomaly Detection with Autoencoders &amp; XGBoost](https://medium.com/@deepthivj96/the-ultimate-guide-hybrid-anomaly-detection-with-autoencoders-xgboost-1a565bdc6710?source=rss------data_science-5)
-- [Why Returning Objects Changed How I Design Python Functions](https://python.plainenglish.io/why-returning-objects-changed-how-i-design-python-functions-622e70e7eb0f?source=rss------data_science-5)
-- [Context Engineering Is What C Was to Assembly — The Next Abstraction Layer in Programming](https://tomaszs2.medium.com/context-engineering-is-what-c-was-to-assembly-the-next-abstraction-layer-in-programming-a79a2b191db3?source=rss------data_science-5)
-- [A Simple Framework to Predict Whether Enterprise AI Will Scale](https://medium.com/@omarkafeel/a-simple-framework-to-predict-whether-enterprise-ai-will-scale-fc4ba0bb60b9?source=rss------data_science-5)
-- [How my personal data collection practice evolved over the years](https://medium.com/@artfish/how-my-personal-data-collection-practice-evolved-over-the-years-720bfa68b83f?source=rss------data_science-5)
+- [Why Better Logs Matter: Making Offline Evaluation Truly Reliable](https://medium.com/illumination/why-better-logs-matter-making-offline-evaluation-truly-reliable-a4547e0b0919?source=rss------data_science-5)
+- [# Your OTT Platform Doesn’t Have an AI Strategy — It Has a Data Honesty Problem](https://medium.com/@ramu_30622/your-ott-platform-doesnt-have-an-ai-strategy-it-has-a-data-honesty-problem-0f5f39953f74?source=rss------data_science-5)
+- [Exploring DSM-AI v13.1: A Simulation of Evolutionary Societies and Cultural Emergence](https://medium.com/@mattygh01/exploring-dsm-ai-v13-1-a-simulation-of-evolutionary-societies-and-cultural-emergence-693f32733657?source=rss------data_science-5)
+- [Here’s Proof That Your “Smart” AI Model Is Actually Delusional.](https://medium.com/activated-thinker/heres-proof-that-your-smart-ai-model-is-actually-delusional-0c480f300f74?source=rss------data_science-5)
+- [From Demo to Production: Build a Secure AI Web App with Supabase, Claude Code, and Google’s Live…](https://ernestodotnet.medium.com/from-demo-to-production-build-a-secure-ai-web-app-with-supabase-claude-code-and-googles-live-b2570fe0a209?source=rss------data_science-5)
+- [Organizing Data in StarRocks](https://medium.com/response42/organizing-data-in-starrocks-495af13e9562?source=rss------data_science-5)
+- [The Butterfly Effect: More Real Than It Seems](https://medium.com/@julianniviadelacruz/the-butterfly-effect-more-real-than-it-seems-e4d1a9870789?source=rss------data_science-5)
+- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-b5d620607917?source=rss------data_science-5)
+- [10 Python Tools to Replace Paid Software &amp; Save Money](https://medium.com/top-python-libraries/10-python-tools-to-replace-paid-software-save-money-963adc28a0ea?source=rss------data_science-5)
+- [The real failure in Western defence is not production. It is command and control.](https://medium.com/@axsaspty/the-real-failure-in-western-defence-is-not-production-it-is-command-and-control-843bf909377c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
