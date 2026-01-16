@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why Better Logs Matter: Making Offline Evaluation Truly Reliable](https://medium.com/illumination/why-better-logs-matter-making-offline-evaluation-truly-reliable-a4547e0b0919?source=rss------data_science-5)
-- [# Your OTT Platform Doesn’t Have an AI Strategy — It Has a Data Honesty Problem](https://medium.com/@ramu_30622/your-ott-platform-doesnt-have-an-ai-strategy-it-has-a-data-honesty-problem-0f5f39953f74?source=rss------data_science-5)
-- [Exploring DSM-AI v13.1: A Simulation of Evolutionary Societies and Cultural Emergence](https://medium.com/@mattygh01/exploring-dsm-ai-v13-1-a-simulation-of-evolutionary-societies-and-cultural-emergence-693f32733657?source=rss------data_science-5)
-- [Here’s Proof That Your “Smart” AI Model Is Actually Delusional.](https://medium.com/activated-thinker/heres-proof-that-your-smart-ai-model-is-actually-delusional-0c480f300f74?source=rss------data_science-5)
-- [From Demo to Production: Build a Secure AI Web App with Supabase, Claude Code, and Google’s Live…](https://ernestodotnet.medium.com/from-demo-to-production-build-a-secure-ai-web-app-with-supabase-claude-code-and-googles-live-b2570fe0a209?source=rss------data_science-5)
-- [Organizing Data in StarRocks](https://medium.com/response42/organizing-data-in-starrocks-495af13e9562?source=rss------data_science-5)
-- [The Butterfly Effect: More Real Than It Seems](https://medium.com/@julianniviadelacruz/the-butterfly-effect-more-real-than-it-seems-e4d1a9870789?source=rss------data_science-5)
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-b5d620607917?source=rss------data_science-5)
-- [10 Python Tools to Replace Paid Software &amp; Save Money](https://medium.com/top-python-libraries/10-python-tools-to-replace-paid-software-save-money-963adc28a0ea?source=rss------data_science-5)
-- [The real failure in Western defence is not production. It is command and control.](https://medium.com/@axsaspty/the-real-failure-in-western-defence-is-not-production-it-is-command-and-control-843bf909377c?source=rss------data_science-5)
+- [How do you start working on continuous improvement in your organization?](https://medium.com/@jayvath0/how-do-you-start-working-on-continuous-improvement-in-your-organization-732bd64f0704?source=rss------data_science-5)
+- [The $52 Million Question: Uncovering Gender Pay Disparities in Real Company Data](https://medium.com/@abubakaromonike99/the-52-million-question-uncovering-gender-pay-disparities-in-real-company-data-bc13b7eb3c1c?source=rss------data_science-5)
+- [The accessibility of the Quant profession in the age of hyper-competition](https://tanakahina-quant.medium.com/the-accessibility-of-the-quant-profession-in-the-age-of-hyper-ompetition-46a8e842195c?source=rss------data_science-5)
+- [When Data, Not Models, Moves the Metric](https://medium.com/@ay.aaron.yu/when-data-not-models-moves-the-metric-b2f588f05eb8?source=rss------data_science-5)
+- [AI iyi kod yazar, peki doğru sistemi kim ona söyleyecek?](https://medium.com/@dbusraktas/ai-iyi-kod-yazar-peki-do%C4%9Fru-sistemi-kim-ona-s%C3%B6yleyecek-f1c7a981becd?source=rss------data_science-5)
+- [Scaling Reinforcement Learning to new levels](https://medium.com/@rodolfojaamorim/scaling-reinforcement-learning-to-new-levels-32438cffeb3f?source=rss------data_science-5)
+- [GROK vs ChatGPT for Everyday Text Conversations](https://theanalyticsedge.medium.com/grok-vs-chatgpt-for-everyday-text-conversations-2fa4087584b5?source=rss------data_science-5)
+- [Are in-zone misses a check engine light for your swing?](https://medium.com/sabr-tooth-tigers/are-in-zone-misses-a-check-engine-light-for-your-swing-df110cf4cc79?source=rss------data_science-5)
+- [How Grok Is Changing the Way Users Interact on X](https://theanalyticsedge.medium.com/how-grok-is-changing-the-way-users-interact-on-x-10610534f1b0?source=rss------data_science-5)
+- [Pandas Finally Made Sense When I Stopped Thinking in Rows](https://python.plainenglish.io/pandas-finally-made-sense-when-i-stopped-thinking-in-rows-5fa135127a40?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
