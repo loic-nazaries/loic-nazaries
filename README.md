@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How do you start working on continuous improvement in your organization?](https://medium.com/@jayvath0/how-do-you-start-working-on-continuous-improvement-in-your-organization-732bd64f0704?source=rss------data_science-5)
-- [The $52 Million Question: Uncovering Gender Pay Disparities in Real Company Data](https://medium.com/@abubakaromonike99/the-52-million-question-uncovering-gender-pay-disparities-in-real-company-data-bc13b7eb3c1c?source=rss------data_science-5)
-- [The accessibility of the Quant profession in the age of hyper-competition](https://tanakahina-quant.medium.com/the-accessibility-of-the-quant-profession-in-the-age-of-hyper-ompetition-46a8e842195c?source=rss------data_science-5)
-- [When Data, Not Models, Moves the Metric](https://medium.com/@ay.aaron.yu/when-data-not-models-moves-the-metric-b2f588f05eb8?source=rss------data_science-5)
-- [AI iyi kod yazar, peki doğru sistemi kim ona söyleyecek?](https://medium.com/@dbusraktas/ai-iyi-kod-yazar-peki-do%C4%9Fru-sistemi-kim-ona-s%C3%B6yleyecek-f1c7a981becd?source=rss------data_science-5)
-- [Scaling Reinforcement Learning to new levels](https://medium.com/@rodolfojaamorim/scaling-reinforcement-learning-to-new-levels-32438cffeb3f?source=rss------data_science-5)
-- [GROK vs ChatGPT for Everyday Text Conversations](https://theanalyticsedge.medium.com/grok-vs-chatgpt-for-everyday-text-conversations-2fa4087584b5?source=rss------data_science-5)
-- [Are in-zone misses a check engine light for your swing?](https://medium.com/sabr-tooth-tigers/are-in-zone-misses-a-check-engine-light-for-your-swing-df110cf4cc79?source=rss------data_science-5)
-- [How Grok Is Changing the Way Users Interact on X](https://theanalyticsedge.medium.com/how-grok-is-changing-the-way-users-interact-on-x-10610534f1b0?source=rss------data_science-5)
-- [Pandas Finally Made Sense When I Stopped Thinking in Rows](https://python.plainenglish.io/pandas-finally-made-sense-when-i-stopped-thinking-in-rows-5fa135127a40?source=rss------data_science-5)
+- [The Future Value-Driven Data Analytics Method: Augmented Analytics](https://medium.com/@gokalp.ziya/the-future-value-driven-data-analytics-method-augmented-analytics-64c45a9a00e1?source=rss------data_science-5)
+- [Why Companies Are Not Hiring OPT / STEM OPT Students &lpar;And What I’m Doing About It&rpar;](https://medium.com/@SakshiChavan/why-companies-are-not-hiring-opt-stem-opt-students-and-what-im-doing-about-it-13cc3a23eeb9?source=rss------data_science-5)
+- [Snowflake Performance: Query Optimization](https://medium.com/data-engineering-tools-and-practices/snowflake-performance-query-optimization-62b46dfbfa3b?source=rss------data_science-5)
+- [The Afterlife Between Graduation and a Job: My Unemployment Story &lpar;And What I Learned&rpar;](https://medium.com/@SakshiChavan/the-afterlife-between-graduation-and-a-job-my-unemployment-story-and-what-i-learned-ea2aba9aefc7?source=rss------data_science-5)
+- [Why The 5th AI Revolution Didn’t Fail Like The Previous Ones?](https://tomaszs2.medium.com/why-the-5th-ai-revolution-didnt-fail-like-the-previous-ones-21070d2cbe9b?source=rss------data_science-5)
+- [Your dashboards aren’t broken. Your measurement process is.](https://medium.com/@neilshotdeals/your-dashboards-arent-broken-your-measurement-process-is-e6008ec336a7?source=rss------data_science-5)
+- [El Enigma del Café Olvidado: Un Reto de Inteligencia de Negocio](https://ajgutierrez.medium.com/el-enigma-del-caf%C3%A9-olvidado-un-reto-de-inteligencia-de-negocio-0a1dcf8c89aa?source=rss------data_science-5)
+- [The Python Project That Broke Me &lpar;And What I Do Differently Now&rpar;](https://python.plainenglish.io/the-python-project-that-broke-me-and-what-i-do-differently-now-85f00bd2d457?source=rss------data_science-5)
+- [Cosine Similarity: Understanding the Math and Why It Matters in Machine Learning](https://medium.com/predict/cosine-similarity-understanding-the-math-and-why-it-matters-in-machine-learning-73f6145fe9c0?source=rss------data_science-5)
+- [The First Dashboard I Built Was Ugly. Here’s Why It Worked](https://medium.com/@iamqacop/the-first-dashboard-i-built-was-ugly-heres-why-it-worked-42eaf0336126?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
