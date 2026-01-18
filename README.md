@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Future Value-Driven Data Analytics Method: Augmented Analytics](https://medium.com/@gokalp.ziya/the-future-value-driven-data-analytics-method-augmented-analytics-64c45a9a00e1?source=rss------data_science-5)
-- [Why Companies Are Not Hiring OPT / STEM OPT Students &lpar;And What I’m Doing About It&rpar;](https://medium.com/@SakshiChavan/why-companies-are-not-hiring-opt-stem-opt-students-and-what-im-doing-about-it-13cc3a23eeb9?source=rss------data_science-5)
-- [Snowflake Performance: Query Optimization](https://medium.com/data-engineering-tools-and-practices/snowflake-performance-query-optimization-62b46dfbfa3b?source=rss------data_science-5)
-- [The Afterlife Between Graduation and a Job: My Unemployment Story &lpar;And What I Learned&rpar;](https://medium.com/@SakshiChavan/the-afterlife-between-graduation-and-a-job-my-unemployment-story-and-what-i-learned-ea2aba9aefc7?source=rss------data_science-5)
-- [Why The 5th AI Revolution Didn’t Fail Like The Previous Ones?](https://tomaszs2.medium.com/why-the-5th-ai-revolution-didnt-fail-like-the-previous-ones-21070d2cbe9b?source=rss------data_science-5)
-- [Your dashboards aren’t broken. Your measurement process is.](https://medium.com/@neilshotdeals/your-dashboards-arent-broken-your-measurement-process-is-e6008ec336a7?source=rss------data_science-5)
-- [El Enigma del Café Olvidado: Un Reto de Inteligencia de Negocio](https://ajgutierrez.medium.com/el-enigma-del-caf%C3%A9-olvidado-un-reto-de-inteligencia-de-negocio-0a1dcf8c89aa?source=rss------data_science-5)
-- [The Python Project That Broke Me &lpar;And What I Do Differently Now&rpar;](https://python.plainenglish.io/the-python-project-that-broke-me-and-what-i-do-differently-now-85f00bd2d457?source=rss------data_science-5)
-- [Cosine Similarity: Understanding the Math and Why It Matters in Machine Learning](https://medium.com/predict/cosine-similarity-understanding-the-math-and-why-it-matters-in-machine-learning-73f6145fe9c0?source=rss------data_science-5)
-- [The First Dashboard I Built Was Ugly. Here’s Why It Worked](https://medium.com/@iamqacop/the-first-dashboard-i-built-was-ugly-heres-why-it-worked-42eaf0336126?source=rss------data_science-5)
+- [The Concept Every AI Coder Learns Too Late](https://medium.com/vibe-coding/the-concept-every-ai-coder-learns-too-late-c63dd872f923?source=rss------data_science-5)
+- [Uma Breve Imersão em Machine Learning: Prevendo o Churn de Clientes](https://medium.com/@rmaia4268/uma-breve-imers%C3%A3o-em-machine-learning-prevendo-o-churn-de-clientes-89bd572c0eb1?source=rss------data_science-5)
+- [The “2-Hour Limit” is Broken. AI Just Entered the Marathon Era.](https://medium.com/@ruler547/the-2-hour-limit-is-broken-ai-just-entered-the-marathon-era-2a005b260e0b?source=rss------data_science-5)
+- [What’s the Point of an Agentic AI Pilot?](https://eric-sandosham.medium.com/whats-the-point-of-an-agentic-ai-pilot-4afe2cc02164?source=rss------data_science-5)
+- [AI, Assessments, and the Illusion of Fairness](https://medium.com/@SakshiChavan/ai-assessments-and-the-illusion-of-fairness-d6b3ccc53a07?source=rss------data_science-5)
+- [What We Found on a “Clean” Beach: An Analysis of Our First SB-CEII Cleanup️](https://medium.com/@miaomiao789/what-we-found-on-a-clean-beach-an-analysis-of-our-first-sb-ceii-cleanup-%EF%B8%8F-e5b6038eae6b?source=rss------data_science-5)
+- [PostgreSQL Query Planner Lied to Us for 6 Months. Cost: $87K in Wasted EC2.](https://blog.stackademic.com/postgresql-query-planner-lied-to-us-for-6-months-cost-87k-in-wasted-ec2-7b956bafe0dd?source=rss------data_science-5)
+- [New Employees Hired — and It’s Far From What You Think](https://medium.com/jasira-intelligence-press-room/new-employees-hired-and-its-far-from-what-you-think-845b06a46c88?source=rss------data_science-5)
+- [AdaBoost Explained Simply &lpar;Part 2.2: Building&rpar;](https://createmomo.medium.com/adaboost-explained-simply-part-2-2-building-1abdc4df0c99?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
