@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Concept Every AI Coder Learns Too Late](https://medium.com/vibe-coding/the-concept-every-ai-coder-learns-too-late-c63dd872f923?source=rss------data_science-5)
-- [Uma Breve Imersão em Machine Learning: Prevendo o Churn de Clientes](https://medium.com/@rmaia4268/uma-breve-imers%C3%A3o-em-machine-learning-prevendo-o-churn-de-clientes-89bd572c0eb1?source=rss------data_science-5)
-- [The “2-Hour Limit” is Broken. AI Just Entered the Marathon Era.](https://medium.com/@ruler547/the-2-hour-limit-is-broken-ai-just-entered-the-marathon-era-2a005b260e0b?source=rss------data_science-5)
-- [What’s the Point of an Agentic AI Pilot?](https://eric-sandosham.medium.com/whats-the-point-of-an-agentic-ai-pilot-4afe2cc02164?source=rss------data_science-5)
-- [AI, Assessments, and the Illusion of Fairness](https://medium.com/@SakshiChavan/ai-assessments-and-the-illusion-of-fairness-d6b3ccc53a07?source=rss------data_science-5)
-- [What We Found on a “Clean” Beach: An Analysis of Our First SB-CEII Cleanup️](https://medium.com/@miaomiao789/what-we-found-on-a-clean-beach-an-analysis-of-our-first-sb-ceii-cleanup-%EF%B8%8F-e5b6038eae6b?source=rss------data_science-5)
-- [PostgreSQL Query Planner Lied to Us for 6 Months. Cost: $87K in Wasted EC2.](https://blog.stackademic.com/postgresql-query-planner-lied-to-us-for-6-months-cost-87k-in-wasted-ec2-7b956bafe0dd?source=rss------data_science-5)
-- [New Employees Hired — and It’s Far From What You Think](https://medium.com/jasira-intelligence-press-room/new-employees-hired-and-its-far-from-what-you-think-845b06a46c88?source=rss------data_science-5)
-- [AdaBoost Explained Simply &lpar;Part 2.2: Building&rpar;](https://createmomo.medium.com/adaboost-explained-simply-part-2-2-building-1abdc4df0c99?source=rss------data_science-5)
+- [The Pandemic of Cognitive Degeneration in the Age of AI](https://medium.com/@y.marutani/the-pandemic-of-cognitive-degeneration-in-the-age-of-ai-b3ffc97d6904?source=rss------data_science-5)
+- [CORE TOPIC: THE DIGITAL LEVERAGE SYSTEM](https://medium.com/@bishnugautam2061/core-topic-the-digital-leverage-system-df104255b5c2?source=rss------data_science-5)
+- [From Equations to Pixels: My Journey into Object Detection as a Mathematics Student](https://medium.com/@kyagmur842/from-equations-to-pixels-my-journey-into-object-detection-as-a-mathematics-student-7c99ec7eef43?source=rss------data_science-5)
+- [Llama 4 Just Unlocked a 10M Context Window — Why Your RAG Strategy is Officially Legacy](https://medium.com/@swayam.prem2458/llama-4-just-unlocked-a-10m-context-window-why-your-rag-strategy-is-officially-legacy-eac8e27a7d48?source=rss------data_science-5)
+- [Stop Hoarding Courses:- Master Data Science with Books and Publications](https://medium.com/@prathameshgawas45/stop-hoarding-courses-master-data-science-with-books-and-publications-89aa40336761?source=rss------data_science-5)
+- [Cute Puppy Coloring Page for Kids: Fun &amp; Creative Art](https://medium.com/@kumarasingalahiru/cute-puppy-coloring-page-for-kids-fun-creative-art-2bb31bcb4934?source=rss------data_science-5)
+- [Journal Image Reproduction | Python Drawing of Circular Correlation Heatmaps with Grouped Regions](https://medium.com/top-python-libraries/journal-image-reproduction-python-drawing-of-circular-correlation-heatmaps-with-grouped-regions-a3a3c9ebf818?source=rss------data_science-5)
+- [Build RAG Systems: 10 Essential Strategies for 2026](https://medium.com/top-python-libraries/build-rag-systems-10-essential-strategies-for-2026-fc34de793992?source=rss------data_science-5)
+- [Pandas Isn’t Hard — It’s Honest](https://ai.plainenglish.io/pandas-isnt-hard-it-s-honest-20d190632c99?source=rss------data_science-5)
+- [Building a Self-Updating Knowledge Graph From Meeting Notes With LLM Extraction and Neo4j](https://pub.towardsai.net/building-a-self-updating-knowledge-graph-from-meeting-notes-with-llm-extraction-and-neo4j-b02d3d62a251?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
