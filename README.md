@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Pandemic of Cognitive Degeneration in the Age of AI](https://medium.com/@y.marutani/the-pandemic-of-cognitive-degeneration-in-the-age-of-ai-b3ffc97d6904?source=rss------data_science-5)
-- [CORE TOPIC: THE DIGITAL LEVERAGE SYSTEM](https://medium.com/@bishnugautam2061/core-topic-the-digital-leverage-system-df104255b5c2?source=rss------data_science-5)
-- [From Equations to Pixels: My Journey into Object Detection as a Mathematics Student](https://medium.com/@kyagmur842/from-equations-to-pixels-my-journey-into-object-detection-as-a-mathematics-student-7c99ec7eef43?source=rss------data_science-5)
-- [Llama 4 Just Unlocked a 10M Context Window — Why Your RAG Strategy is Officially Legacy](https://medium.com/@swayam.prem2458/llama-4-just-unlocked-a-10m-context-window-why-your-rag-strategy-is-officially-legacy-eac8e27a7d48?source=rss------data_science-5)
-- [Stop Hoarding Courses:- Master Data Science with Books and Publications](https://medium.com/@prathameshgawas45/stop-hoarding-courses-master-data-science-with-books-and-publications-89aa40336761?source=rss------data_science-5)
-- [Cute Puppy Coloring Page for Kids: Fun &amp; Creative Art](https://medium.com/@kumarasingalahiru/cute-puppy-coloring-page-for-kids-fun-creative-art-2bb31bcb4934?source=rss------data_science-5)
-- [Journal Image Reproduction | Python Drawing of Circular Correlation Heatmaps with Grouped Regions](https://medium.com/top-python-libraries/journal-image-reproduction-python-drawing-of-circular-correlation-heatmaps-with-grouped-regions-a3a3c9ebf818?source=rss------data_science-5)
-- [Build RAG Systems: 10 Essential Strategies for 2026](https://medium.com/top-python-libraries/build-rag-systems-10-essential-strategies-for-2026-fc34de793992?source=rss------data_science-5)
-- [Pandas Isn’t Hard — It’s Honest](https://ai.plainenglish.io/pandas-isnt-hard-it-s-honest-20d190632c99?source=rss------data_science-5)
-- [Building a Self-Updating Knowledge Graph From Meeting Notes With LLM Extraction and Neo4j](https://pub.towardsai.net/building-a-self-updating-knowledge-graph-from-meeting-notes-with-llm-extraction-and-neo4j-b02d3d62a251?source=rss------data_science-5)
+- [When Reinforcement Learning Actually Wins](https://medium.com/@jickpatel611/when-reinforcement-learning-actually-wins-4b1aa84caa33?source=rss------data_science-5)
+- [The Biological Stack: Why We Are No Longer Building “Apps,” But “Digital Organisms”](https://medium.com/@w.lacerda/the-biological-stack-why-we-are-no-longer-building-apps-but-digital-organisms-d56f561991f3?source=rss------data_science-5)
+- [Why Artificial Intelligence Cannot Exist Without Humans](https://medium.com/@devdollzai/why-artificial-intelligence-cannot-exist-without-humans-db4b1ac12654?source=rss------data_science-5)
+- [Green on the Outside, Red on the Inside: Why Our AI Couldn’t See What Humans Could](https://medium.com/@jasontadams_92878/green-on-the-outside-red-on-the-inside-why-our-ai-couldnt-see-what-humans-could-583b615d323f?source=rss------data_science-5)
+- [Did Aliens Help Shape Ancient History?](https://medium.com/@abdulsattarjass11/did-aliens-help-shape-ancient-history-877faaeab82d?source=rss------data_science-5)
+- [You&#39;re Already Doing Data Science &lpar;You Just Don&#39;t Call It That&rpar;](https://medium.com/ai-ai-oh/youre-already-doing-data-science-you-just-don-t-call-it-that-60febf3bf4a4?source=rss------data_science-5)
+- [Snowflake: Data Loading and Unloading Methods in Snowflake](https://medium.com/@sushmasree_rudroju/snowflake-data-loading-and-unloading-methods-in-snowflake-36c6cdfafed2?source=rss------data_science-5)
+- [Securing Microsoft Fabric with Private Networking](https://itnext.io/securing-microsoft-fabric-with-private-networking-7d2aeb8bb37f?source=rss------data_science-5)
+- [My First Machine Learning Model Worked — And That’s When the Real Problems Started](https://python.plainenglish.io/my-first-machine-learning-model-worked-and-thats-when-the-real-problems-started-383920723e5a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
