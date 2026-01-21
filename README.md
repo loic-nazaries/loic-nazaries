@@ -105,15 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [When Reinforcement Learning Actually Wins](https://medium.com/@jickpatel611/when-reinforcement-learning-actually-wins-4b1aa84caa33?source=rss------data_science-5)
-- [The Biological Stack: Why We Are No Longer Building “Apps,” But “Digital Organisms”](https://medium.com/@w.lacerda/the-biological-stack-why-we-are-no-longer-building-apps-but-digital-organisms-d56f561991f3?source=rss------data_science-5)
-- [Why Artificial Intelligence Cannot Exist Without Humans](https://medium.com/@devdollzai/why-artificial-intelligence-cannot-exist-without-humans-db4b1ac12654?source=rss------data_science-5)
-- [Green on the Outside, Red on the Inside: Why Our AI Couldn’t See What Humans Could](https://medium.com/@jasontadams_92878/green-on-the-outside-red-on-the-inside-why-our-ai-couldnt-see-what-humans-could-583b615d323f?source=rss------data_science-5)
-- [Did Aliens Help Shape Ancient History?](https://medium.com/@abdulsattarjass11/did-aliens-help-shape-ancient-history-877faaeab82d?source=rss------data_science-5)
-- [You&#39;re Already Doing Data Science &lpar;You Just Don&#39;t Call It That&rpar;](https://medium.com/ai-ai-oh/youre-already-doing-data-science-you-just-don-t-call-it-that-60febf3bf4a4?source=rss------data_science-5)
-- [Snowflake: Data Loading and Unloading Methods in Snowflake](https://medium.com/@sushmasree_rudroju/snowflake-data-loading-and-unloading-methods-in-snowflake-36c6cdfafed2?source=rss------data_science-5)
-- [Securing Microsoft Fabric with Private Networking](https://itnext.io/securing-microsoft-fabric-with-private-networking-7d2aeb8bb37f?source=rss------data_science-5)
-- [My First Machine Learning Model Worked — And That’s When the Real Problems Started](https://python.plainenglish.io/my-first-machine-learning-model-worked-and-thats-when-the-real-problems-started-383920723e5a?source=rss------data_science-5)
+- [Analyzing Formula 1 Data &lpar;Part 2&rpar;](https://medium.com/@kenneth.agregaard.jensen/analyzing-formula-1-data-part-2-bbf791468caa?source=rss------data_science-5)
+- [Part 3: Clarity Is Our Original Intelligence](https://medium.com/@yogicintelligence07/part-3-clarity-is-our-original-intelligence-aa2bbc07b116?source=rss------data_science-5)
+- [Subqueries vs CTEs: Practical Considerations for Data Professionals](https://medium.com/@zach.mortenson7/subqueries-vs-ctes-practical-considerations-for-data-professionals-2ffa260808ed?source=rss------data_science-5)
+- [5 Things I Wish I’d Known Sooner About Machine Learning in BigQuery](https://medium.com/@kapilgarg.mnit/5-things-i-wish-id-known-sooner-about-machine-learning-in-bigquery-2720f82fb639?source=rss------data_science-5)
+- [Choosing Your Practicum: What I Wish I Knew Before Ranking Mine](https://medium.com/usf-datascience/choosing-your-practicum-what-i-wish-i-knew-before-ranking-mine-29d4b295a583?source=rss------data_science-5)
+- [I Thought My Commute Was Bad. Then I Looked at the Data.](https://2ridescent.medium.com/i-thought-my-commute-was-bad-then-i-looked-at-the-data-6521cd6174e0?source=rss------data_science-5)
+- [Why My ML Pipeline Failed Even Though My Accuracy Was High](https://python.plainenglish.io/why-my-ml-pipeline-failed-even-though-my-accuracy-was-high-feb331554460?source=rss------data_science-5)
+- [Ini Contoh Project Data Science Menggunakan Python](https://medium.com/@ditafebywordpress/ini-contoh-project-data-science-menggunakan-python-f4e5c90c3357?source=rss------data_science-5)
+- [Berikut Tips Cara Belajar Data Science dari Nol untuk Pemula](https://medium.com/@ditafebyindriani14/berikut-tips-cara-belajar-data-science-dari-nol-untuk-pemula-0575afbf7a22?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
