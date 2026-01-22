@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Analyzing Formula 1 Data &lpar;Part 2&rpar;](https://medium.com/@kenneth.agregaard.jensen/analyzing-formula-1-data-part-2-bbf791468caa?source=rss------data_science-5)
-- [Part 3: Clarity Is Our Original Intelligence](https://medium.com/@yogicintelligence07/part-3-clarity-is-our-original-intelligence-aa2bbc07b116?source=rss------data_science-5)
-- [Subqueries vs CTEs: Practical Considerations for Data Professionals](https://medium.com/@zach.mortenson7/subqueries-vs-ctes-practical-considerations-for-data-professionals-2ffa260808ed?source=rss------data_science-5)
-- [5 Things I Wish I’d Known Sooner About Machine Learning in BigQuery](https://medium.com/@kapilgarg.mnit/5-things-i-wish-id-known-sooner-about-machine-learning-in-bigquery-2720f82fb639?source=rss------data_science-5)
-- [Choosing Your Practicum: What I Wish I Knew Before Ranking Mine](https://medium.com/usf-datascience/choosing-your-practicum-what-i-wish-i-knew-before-ranking-mine-29d4b295a583?source=rss------data_science-5)
-- [I Thought My Commute Was Bad. Then I Looked at the Data.](https://2ridescent.medium.com/i-thought-my-commute-was-bad-then-i-looked-at-the-data-6521cd6174e0?source=rss------data_science-5)
-- [Why My ML Pipeline Failed Even Though My Accuracy Was High](https://python.plainenglish.io/why-my-ml-pipeline-failed-even-though-my-accuracy-was-high-feb331554460?source=rss------data_science-5)
-- [Ini Contoh Project Data Science Menggunakan Python](https://medium.com/@ditafebywordpress/ini-contoh-project-data-science-menggunakan-python-f4e5c90c3357?source=rss------data_science-5)
-- [Berikut Tips Cara Belajar Data Science dari Nol untuk Pemula](https://medium.com/@ditafebyindriani14/berikut-tips-cara-belajar-data-science-dari-nol-untuk-pemula-0575afbf7a22?source=rss------data_science-5)
+- [Exploration vs Exploitation: ML’s Most Human Dilemma](https://medium.com/@Nexumo_/exploration-vs-exploitation-mls-most-human-dilemma-1bd5d4f8942d?source=rss------data_science-5)
+- [Missing values: Learning the unknowable](https://medium.com/@nhward60/missing-values-learning-the-unknowable-467fa4b587a6?source=rss------data_science-5)
+- [Could a “Dual Sheet” Model Resolve the S₈ Tension? First Results from a Custom Boltzmann Solver](https://medium.com/@mattygh01/could-a-dual-sheet-model-resolve-the-s%E2%82%88-tension-first-results-from-a-custom-boltzmann-solver-bbff80350710?source=rss------data_science-5)
+- [Part 4: Silence Is the Highest Form of Intelligence](https://medium.com/@yogicintelligence07/part-4-silence-is-the-highest-form-of-intelligence-c72d0fd90a97?source=rss------data_science-5)
+- [Kebijakan Bunuh Diri](https://medium.com/@didikurniawanmade/kebijakan-bunuh-diri-52a2b9628a24?source=rss------data_science-5)
+- [When the Outlier is the Signal: Reimagining Anomaly Detection for High-Stakes Engineering](https://medium.com/@michaelgurule1164/when-the-outlier-is-the-signal-reimagining-anomaly-detection-for-high-stakes-engineering-92f8ee6c69ca?source=rss------data_science-5)
+- [Rekomendasi Kursus Data Science Online Bersertifikat dan Gratis](https://medium.com/@ditafebywordpress/rekomendasi-kursus-data-science-online-bersertifikat-dan-gratis-457abbc7d183?source=rss------data_science-5)
+- [5 Perbedaan Data Science dan Data Analytics Secara Lengkap](https://medium.com/@ditafebywordpress/5-perbedaan-data-science-dan-data-analytics-secara-lengkap-4fb5079be29f?source=rss------data_science-5)
+- [Semantic Inversions in Autoregressive Transformers: Understanding Co-hyponym Confusion](https://medium.com/@forestmars/semantic-inversions-in-autoregressive-transformers-understanding-co-hyponym-confusion-a6b22d281d2c?source=rss------data_science-5)
+- [From Semantics to the Complex Plane in AI’s Latent Space](https://medium.com/@bulanramai2558/from-semantics-to-the-complex-plane-in-ais-latent-space-407bdc89e2a1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
