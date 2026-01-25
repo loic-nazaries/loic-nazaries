@@ -105,20 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I Was Afraid Of Asking Dumb Questions In Meetings.](https://levelup.gitconnected.com/i-was-afraid-of-asking-dumb-questions-in-meetings-af4a7f477575?source=rss------data_science-5)
-- [Semantic Evolutionary Process in AI Systems](https://medium.com/@bulanramai2558/semantic-evolutionary-process-in-ai-systems-5ebcc9211884?source=rss------data_science-5)
-- [Python: a combined SHAP dependence plot for distribution histogram with polynomial fit…](https://medium.com/top-python-libraries/python-a-combined-shap-dependence-plot-for-distribution-histogram-with-polynomial-fit-64275136f042?source=rss------data_science-5)
-- [I Built a Voice Assistant That Actually Understands What I Mean, Not What I Said](https://generativeai.pub/i-built-a-voice-assistant-that-actually-understands-what-i-mean-not-what-i-said-3ba734de1a4c?source=rss------data_science-5)
-- [The New Role of Data Engineers in an AI-Driven World.](https://medium.com/databricks-community/the-new-role-of-data-engineers-in-an-ai-driven-world-b643c41a0e59?source=rss------data_science-5)
-- [I’m available for new opportunities!](https://medium.com/@chisomgiftc/im-available-for-new-opportunities-eeddf55a4514?source=rss------data_science-5)
-- [Teoria da Duplicidade Temporal
-Uma distinção entre Tempo Universal e Tempo Individual
-Por Heitor…](https://medium.com/@heitordantasmoreira2000/teoria-da-duplicidade-temporal-uma-distin%C3%A7%C3%A3o-entre-tempo-universal-e-tempo-individual-por-heitor-4952045d3280?source=rss------data_science-5)
-- [Jasira Intelligence™ Introduces the AI GOVERNANCE GENOME™](https://medium.com/jasira-intelligence-press-room/jasira-intelligence-introduces-the-ai-governance-genome-c9b0c8f2faf0?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnbvcd2hjj/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f4d08acd47ab?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnbvcd2hjj/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8b7f901a9eca?source=rss------data_science-5)
+- [The Python Shortcuts I Use Every Day to Write Better Code](https://blog.stackademic.com/the-python-shortcuts-i-use-every-day-to-write-better-code-ca52d60a95ab?source=rss------data_science-5)
+- [Pandas 3.0 CoW Migration in the Real World: Killing Chained Assignment Warnings Without Killing…](https://medium.com/@hjparmar1944/pandas-3-0-cow-migration-in-the-real-world-killing-chained-assignment-warnings-without-killing-6a5965821f1a?source=rss------data_science-5)
+- [Google Just Open-Sourced Tunix: A JAX Library for Post-Training LLMs](https://generativeai.pub/google-just-open-sourced-tunix-a-jax-library-for-post-training-llms-f4f3c5241628?source=rss------data_science-5)
+- [6 Common LLM Customization Strategies Briefly Explained](https://destingong.medium.com/6-common-llm-customization-strategies-briefly-explained-501bde1cf498?source=rss------data_science-5)
+- [Statistics and Data Science in Economic World](https://medium.com/@dharmateja.h21/statistics-and-data-science-in-economic-world-a88ed8dd0e46?source=rss------data_science-5)
+- [Parametric Survival Models](https://medium.com/@kelvinfoo123/parametric-survival-models-423e9e85936a?source=rss------data_science-5)
+- [Collusion Fraud in Equipment Finance: Spotting Hidden Rings with Graph Analytics](https://medium.com/@kmehta_56422/collusion-fraud-in-equipment-finance-spotting-hidden-rings-with-graph-analytics-d3ef0129d83f?source=rss------data_science-5)
+- [Sporting Events and Their Impact on Stocks](https://medium.com/@axionquant/sporting-events-and-their-impact-on-stocks-f1fb6281d95f?source=rss------data_science-5)
+- [Blue Light and Suicide Case Reduction: Shedding Hope Through Science](https://medium.com/@gedlee480/blue-light-and-suicide-case-reduction-shedding-hope-through-science-d21e70444ee1?source=rss------data_science-5)
+- [Why Agentic Workflows Are the Real Breakthrough in LLM Systems](https://medium.com/@hatheemrafeek9999/why-agentic-workflows-are-the-real-breakthrough-in-llm-systems-ff1a27c00a17?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
