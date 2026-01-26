@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Python Shortcuts I Use Every Day to Write Better Code](https://blog.stackademic.com/the-python-shortcuts-i-use-every-day-to-write-better-code-ca52d60a95ab?source=rss------data_science-5)
-- [Pandas 3.0 CoW Migration in the Real World: Killing Chained Assignment Warnings Without Killing…](https://medium.com/@hjparmar1944/pandas-3-0-cow-migration-in-the-real-world-killing-chained-assignment-warnings-without-killing-6a5965821f1a?source=rss------data_science-5)
-- [Google Just Open-Sourced Tunix: A JAX Library for Post-Training LLMs](https://generativeai.pub/google-just-open-sourced-tunix-a-jax-library-for-post-training-llms-f4f3c5241628?source=rss------data_science-5)
-- [6 Common LLM Customization Strategies Briefly Explained](https://destingong.medium.com/6-common-llm-customization-strategies-briefly-explained-501bde1cf498?source=rss------data_science-5)
-- [Statistics and Data Science in Economic World](https://medium.com/@dharmateja.h21/statistics-and-data-science-in-economic-world-a88ed8dd0e46?source=rss------data_science-5)
-- [Parametric Survival Models](https://medium.com/@kelvinfoo123/parametric-survival-models-423e9e85936a?source=rss------data_science-5)
-- [Collusion Fraud in Equipment Finance: Spotting Hidden Rings with Graph Analytics](https://medium.com/@kmehta_56422/collusion-fraud-in-equipment-finance-spotting-hidden-rings-with-graph-analytics-d3ef0129d83f?source=rss------data_science-5)
-- [Sporting Events and Their Impact on Stocks](https://medium.com/@axionquant/sporting-events-and-their-impact-on-stocks-f1fb6281d95f?source=rss------data_science-5)
-- [Blue Light and Suicide Case Reduction: Shedding Hope Through Science](https://medium.com/@gedlee480/blue-light-and-suicide-case-reduction-shedding-hope-through-science-d21e70444ee1?source=rss------data_science-5)
-- [Why Agentic Workflows Are the Real Breakthrough in LLM Systems](https://medium.com/@hatheemrafeek9999/why-agentic-workflows-are-the-real-breakthrough-in-llm-systems-ff1a27c00a17?source=rss------data_science-5)
+- [Outlier Detection in Market Data](https://medium.com/@axionquant/outlier-detection-in-market-data-b455b435777d?source=rss------data_science-5)
+- [US Politics and Market Predictions](https://medium.com/@axionquant/us-politics-and-market-predictions-59a7ffbf2e5d?source=rss------data_science-5)
+- [What Is Data Literacy? Is It Really That Important?](https://medium.com/@dribans/what-is-data-literacy-is-it-really-that-important-11e159b205ec?source=rss------data_science-5)
+- [9 Python Libraries That Simplify Machine Learning](https://python.plainenglish.io/9-python-libraries-that-simplify-machine-learning-704bc304278c?source=rss------data_science-5)
+- [Semantic Evolution and the Convergence of Intelligence, Brain, and Awareness](https://medium.com/@bulanramai2558/semantic-evolution-and-the-convergence-of-intelligence-brain-and-awareness-401bb7caff98?source=rss------data_science-5)
+- [CMU Datathon 2026!](https://aravindhan-in.medium.com/cmu-datathon-2026-b4668a36c79c?source=rss------data_science-5)
+- [Bridging the Gap Between BI and Engineering](https://medium.com/@shitangshu.maity/bridging-the-gap-between-bi-and-engineering-7ab9418c7320?source=rss------data_science-5)
+- [Project MINI SQL &amp; Insight Bisnis: Cara Data Analyst Mengunkap Pola Delay Flight](https://medium.com/@ssoassangaji16/project-mini-sql-insight-bisnis-cara-data-analyst-mengunkap-pola-delay-flight-0841230994e9?source=rss------data_science-5)
+- [What Apple and Google Couldn’t Build — One Developer Made with ClawdBot](https://medium.com/write-a-catalyst/what-apple-and-google-couldnt-build-one-developer-made-with-clawdbot-b94125633790?source=rss------data_science-5)
+- [Detecting Urban Expansion Using Satellite Imagery](https://medium.com/@memonkeyv1.0/detecting-urban-expansion-using-satellite-imagery-b2c672a1746b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
