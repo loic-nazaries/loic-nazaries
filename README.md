@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What does a Centralised Geospatial Data Platform do?](https://medium.com/@zachary.walls-terrabit/what-does-a-centralised-geospatial-data-platform-do-1e78db801543?source=rss------data_science-5)
-- [Permutation Importance as a Performance-Based Measure of Feature Contribution](https://medium.com/@debisreer/permutation-importance-as-a-performance-based-measure-of-feature-contribution-c5da64e1f16e?source=rss------data_science-5)
-- [The 7B Model That Just Proved $100 Billion of AI R&amp;D Was Overkill](https://ai.gopubby.com/falcon-h1r-7b-hybrid-ai-model-889d676096e7?source=rss------data_science-5)
-- [Act Now 48 Million Gmail Usernames And Passwords Leaked Online](https://medium.com/predict/act-now-48-million-gmail-usernames-and-passwords-leaked-online-7a42cad8d3f0?source=rss------data_science-5)
-- [The Soul Is the First Computer →](https://medium.com/@yogicintelligence07/the-soul-is-the-first-computer-01abdff08b5e?source=rss------data_science-5)
-- [THE ULTIMATE BYPASS: Why the Contact is Imminent](https://medium.com/@Aator17/the-ultimate-bypass-why-the-contact-is-imminent-f8922c4f722d?source=rss------data_science-5)
-- [Databricks: Data Processing &amp; Transformations](https://medium.com/@sushmasree_rudroju/databricks-data-processing-transformations-b1b60403685a?source=rss------data_science-5)
-- [Julius AI: How to Master Your Data Analysis](https://medium.com/@fadlallahbusiness/julius-ai-how-to-master-your-data-analysis-a173ae85986f?source=rss------data_science-5)
-- [OpenAI Prism: The End of Friction for Scientific Research?](https://pub.towardsai.net/openai-prism-the-end-of-friction-for-scientific-research-7f001c0f631c?source=rss------data_science-5)
-- [Data Science Roadmap 2026](https://medium.com/@uzmasheikh9020/data-science-roadmap-2026-d7534a757dde?source=rss------data_science-5)
+- [The $200 Billion Gamble: Is Mark Zuckerberg Buying the Future in Bulk?](https://medium.com/@gideonzik/the-200-billion-gamble-is-mark-zuckerberg-buying-the-future-in-bulk-66b2b1cd5412?source=rss------data_science-5)
+- [When AI Feels Like Your Only Friend](https://medium.com/@tkritika231/when-ai-feels-like-your-only-friend-f6d582ce84ec?source=rss------data_science-5)
+- [7 Ways Smart SaaS Teams Are Using NotebookLM as a Silent Competitive Weapon &lpar;2026&rpar;](https://medium.com/@neurominimal/7-ways-smart-saas-teams-are-using-notebooklm-as-a-silent-competitive-weapon-2026-ff6aed7a4c6a?source=rss------data_science-5)
+- [Your 4-Week Roadmap to Data Science for Marketing](https://medium.com/@khedekarpratik123/your-4-week-roadmap-to-data-science-for-marketing-141e5e8f59e5?source=rss------data_science-5)
+- [African Universities Lead Charge for Data Sovereignty with Nairobi Declaration on Sensitive Data…](https://mkamupinda.medium.com/african-universities-lead-charge-for-data-sovereignty-with-nairobi-declaration-on-sensitive-data-910975c209c0?source=rss------data_science-5)
+- [Saverin project brought excessive funding to OBN Capital under Matteus Ribeiro’s leadership.](https://medium.com/@finance.obn1/saverin-project-brought-excessive-funding-to-obn-capital-under-matteus-ribeiros-leadership-ea7c59c8b6b5?source=rss------data_science-5)
+- [Conda Is Fast Now: The Guide to Universal Environments](https://medium.com/data-science-collective/conda-is-fast-now-because-of-libmamba-the-guide-to-universal-environments-eb9b6c2883bb?source=rss------data_science-5)
+- [96. Hybrid Search: Combining BM25 and Vector Search](https://medium.com/@kiranvutukuri/96-hybrid-search-combining-bm25-and-vector-search-7a93adfd3f4e?source=rss------data_science-5)
+- [They’re Selling Chatbots to the Pentagon while I’m Building Class 5 Mitosis.](https://medium.com/@devdollzai/theyre-selling-chatbots-to-the-pentagon-while-i-m-building-class-5-mitosis-d1116e7949e0?source=rss------data_science-5)
+- [Practical Bootstrapping in Data Science](https://medium.com/@pulkitbansal016/practical-bootstrapping-in-data-science-eca27ce8fc33?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
