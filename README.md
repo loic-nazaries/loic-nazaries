@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The $200 Billion Gamble: Is Mark Zuckerberg Buying the Future in Bulk?](https://medium.com/@gideonzik/the-200-billion-gamble-is-mark-zuckerberg-buying-the-future-in-bulk-66b2b1cd5412?source=rss------data_science-5)
-- [When AI Feels Like Your Only Friend](https://medium.com/@tkritika231/when-ai-feels-like-your-only-friend-f6d582ce84ec?source=rss------data_science-5)
-- [7 Ways Smart SaaS Teams Are Using NotebookLM as a Silent Competitive Weapon &lpar;2026&rpar;](https://medium.com/@neurominimal/7-ways-smart-saas-teams-are-using-notebooklm-as-a-silent-competitive-weapon-2026-ff6aed7a4c6a?source=rss------data_science-5)
-- [Your 4-Week Roadmap to Data Science for Marketing](https://medium.com/@khedekarpratik123/your-4-week-roadmap-to-data-science-for-marketing-141e5e8f59e5?source=rss------data_science-5)
-- [African Universities Lead Charge for Data Sovereignty with Nairobi Declaration on Sensitive Data…](https://mkamupinda.medium.com/african-universities-lead-charge-for-data-sovereignty-with-nairobi-declaration-on-sensitive-data-910975c209c0?source=rss------data_science-5)
-- [Saverin project brought excessive funding to OBN Capital under Matteus Ribeiro’s leadership.](https://medium.com/@finance.obn1/saverin-project-brought-excessive-funding-to-obn-capital-under-matteus-ribeiros-leadership-ea7c59c8b6b5?source=rss------data_science-5)
-- [Conda Is Fast Now: The Guide to Universal Environments](https://medium.com/data-science-collective/conda-is-fast-now-because-of-libmamba-the-guide-to-universal-environments-eb9b6c2883bb?source=rss------data_science-5)
-- [96. Hybrid Search: Combining BM25 and Vector Search](https://medium.com/@kiranvutukuri/96-hybrid-search-combining-bm25-and-vector-search-7a93adfd3f4e?source=rss------data_science-5)
-- [They’re Selling Chatbots to the Pentagon while I’m Building Class 5 Mitosis.](https://medium.com/@devdollzai/theyre-selling-chatbots-to-the-pentagon-while-i-m-building-class-5-mitosis-d1116e7949e0?source=rss------data_science-5)
-- [Practical Bootstrapping in Data Science](https://medium.com/@pulkitbansal016/practical-bootstrapping-in-data-science-eca27ce8fc33?source=rss------data_science-5)
+- [Network Science 02: Paths and Connectivity](https://medium.com/@kelvinfoo123/network-science-02-paths-and-connectivity-92619b1e5848?source=rss------data_science-5)
+- [Network Science 01: Network Representation](https://medium.com/@kelvinfoo123/network-science-01-network-representation-99f9c2ec1438?source=rss------data_science-5)
+- [Self-Orchestrating Data Pipelines with Agentic AI](https://medium.com/@aqilraza/self-orchestrating-data-pipelines-with-agentic-ai-51c7f6af1fee?source=rss------data_science-5)
+- [When Intelligence No Longer Sleeps: Life in a Future Where AI Reaches Perfection](https://medium.com/@gedlee480/when-intelligence-no-longer-sleeps-life-in-a-future-where-ai-reaches-perfection-1ddcba31e016?source=rss------data_science-5)
+- [How to Start Learning Data Science in 2026 &lpar;Part 3&rpar;:](https://medium.com/@uzmasheikh9020/how-to-start-learning-data-science-in-2026-part-3-3efef2b3e570?source=rss------data_science-5)
+- [WN: Risk in ChatGPT Health via apple watch, DoT to produce safety rules using AI &amp; bias amplified…](https://medium.com/law-and-ethics-in-tech/wn-risk-in-chatgpt-health-via-apple-watch-dot-to-produce-safety-rules-using-ai-bias-amplified-86a8c8c52a18?source=rss------data_science-5)
+- [AI Agents
+Not a trend… a real shift in how we build AI systems](https://medium.com/@AISolutionsHub/ai-agents-not-a-trend-a-real-shift-in-how-we-build-ai-systems-633385aa2f24?source=rss------data_science-5)
+- [The Real Development of Data and AI and Their Inherent Limitations](https://medium.com/@zhaohua819/the-real-development-of-data-and-ai-and-their-inherent-limitations-10a54b4baaa2?source=rss------data_science-5)
+- [數據和AI的真實發展與存在的弊端](https://medium.com/@zhaohua819/%E6%95%B8%E6%93%9A%E5%92%8Cai%E7%9A%84%E7%9C%9F%E5%AF%A6%E7%99%BC%E5%B1%95%E8%88%87%E5%BC%8A%E7%AB%AF-a5f995607449?source=rss------data_science-5)
+- [The truth behind a positive mind](https://medium.com/@kingstonbenard/the-truth-behind-a-positive-mind-523ca7c2a65b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
