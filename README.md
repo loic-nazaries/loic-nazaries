@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Network Science 02: Paths and Connectivity](https://medium.com/@kelvinfoo123/network-science-02-paths-and-connectivity-92619b1e5848?source=rss------data_science-5)
-- [Network Science 01: Network Representation](https://medium.com/@kelvinfoo123/network-science-01-network-representation-99f9c2ec1438?source=rss------data_science-5)
-- [Self-Orchestrating Data Pipelines with Agentic AI](https://medium.com/@aqilraza/self-orchestrating-data-pipelines-with-agentic-ai-51c7f6af1fee?source=rss------data_science-5)
-- [When Intelligence No Longer Sleeps: Life in a Future Where AI Reaches Perfection](https://medium.com/@gedlee480/when-intelligence-no-longer-sleeps-life-in-a-future-where-ai-reaches-perfection-1ddcba31e016?source=rss------data_science-5)
-- [How to Start Learning Data Science in 2026 &lpar;Part 3&rpar;:](https://medium.com/@uzmasheikh9020/how-to-start-learning-data-science-in-2026-part-3-3efef2b3e570?source=rss------data_science-5)
-- [WN: Risk in ChatGPT Health via apple watch, DoT to produce safety rules using AI &amp; bias amplified…](https://medium.com/law-and-ethics-in-tech/wn-risk-in-chatgpt-health-via-apple-watch-dot-to-produce-safety-rules-using-ai-bias-amplified-86a8c8c52a18?source=rss------data_science-5)
-- [AI Agents
-Not a trend… a real shift in how we build AI systems](https://medium.com/@AISolutionsHub/ai-agents-not-a-trend-a-real-shift-in-how-we-build-ai-systems-633385aa2f24?source=rss------data_science-5)
-- [The Real Development of Data and AI and Their Inherent Limitations](https://medium.com/@zhaohua819/the-real-development-of-data-and-ai-and-their-inherent-limitations-10a54b4baaa2?source=rss------data_science-5)
-- [數據和AI的真實發展與存在的弊端](https://medium.com/@zhaohua819/%E6%95%B8%E6%93%9A%E5%92%8Cai%E7%9A%84%E7%9C%9F%E5%AF%A6%E7%99%BC%E5%B1%95%E8%88%87%E5%BC%8A%E7%AB%AF-a5f995607449?source=rss------data_science-5)
-- [The truth behind a positive mind](https://medium.com/@kingstonbenard/the-truth-behind-a-positive-mind-523ca7c2a65b?source=rss------data_science-5)
+- [Brown Master’s in Data Science &lpar;MSDS&rpar; 資料科學碩士就讀心得](https://lihengpan.medium.com/brown-masters-in-data-science-msds-%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E7%A2%A9%E5%A3%AB%E5%B0%B1%E8%AE%80%E5%BF%83%E5%BE%97-33a9c31faa2c?source=rss------data_science-5)
+- [Reverse Learning &amp; AI: Why Some Minds Start at the Answer](https://crazysquirrel511.medium.com/reverse-learning-ai-why-some-minds-start-at-the-answer-8b800def0ed0?source=rss------data_science-5)
+- [9 Python Turning Points That Took Me From Tutorials to Real Skill](https://python.plainenglish.io/9-python-turning-points-that-took-me-from-tutorials-to-real-skill-21aa603806bf?source=rss------data_science-5)
+- [OpenAI Prism Redefines Scientific Research](https://medium.com/illumination/openai-prism-redefines-scientific-research-d7bd8664c8d2?source=rss------data_science-5)
+- [Beyond Basic RAG: A Multi-Agent Strategy for Data Science](https://medium.com/towards-explainable-ai/beyond-basic-rag-a-multi-agent-strategy-for-data-science-b13f5e88f839?source=rss------data_science-5)
+- [The Pendulum of Power: A Decade of AI Org Evolution](https://medium.com/@statnikov/the-pendulum-of-power-a-decade-of-ai-org-evolution-cdd672818f45?source=rss------data_science-5)
+- [The Tragedy of the Commons: When Everyone Fishing &quot;Normally&quot; Still Breaks the Ocean](https://medium.com/@rayhanalirachman/the-tragedy-of-the-commons-when-everyone-fishing-normally-still-breaks-the-ocean-5f38b9da7324?source=rss------data_science-5)
+- [Implementing Customer Lifetime Value &lpar;CLV&rpar; Prediction in Python: From Transactions to Future Value](https://medium.com/@deolesopan/implementing-customer-lifetime-value-clv-prediction-in-python-from-transactions-to-future-value-07c8fce371b4?source=rss------data_science-5)
+- [Breaking the AI Bottleneck: How Data Masking Solves Critical Master Data Management Problems](https://medium.com/@upendrajadonusj/breaking-the-ai-bottleneck-how-data-masking-solves-critical-master-data-management-problems-3faa780f6a77?source=rss------data_science-5)
+- [The Great Unraveling: January 30, 2026](https://medium.com/@signaloftheeye/the-great-unraveling-january-30-2026-5007391051ff?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
