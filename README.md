@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Brown Master’s in Data Science &lpar;MSDS&rpar; 資料科學碩士就讀心得](https://lihengpan.medium.com/brown-masters-in-data-science-msds-%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E7%A2%A9%E5%A3%AB%E5%B0%B1%E8%AE%80%E5%BF%83%E5%BE%97-33a9c31faa2c?source=rss------data_science-5)
-- [Reverse Learning &amp; AI: Why Some Minds Start at the Answer](https://crazysquirrel511.medium.com/reverse-learning-ai-why-some-minds-start-at-the-answer-8b800def0ed0?source=rss------data_science-5)
-- [9 Python Turning Points That Took Me From Tutorials to Real Skill](https://python.plainenglish.io/9-python-turning-points-that-took-me-from-tutorials-to-real-skill-21aa603806bf?source=rss------data_science-5)
-- [OpenAI Prism Redefines Scientific Research](https://medium.com/illumination/openai-prism-redefines-scientific-research-d7bd8664c8d2?source=rss------data_science-5)
-- [Beyond Basic RAG: A Multi-Agent Strategy for Data Science](https://medium.com/towards-explainable-ai/beyond-basic-rag-a-multi-agent-strategy-for-data-science-b13f5e88f839?source=rss------data_science-5)
-- [The Pendulum of Power: A Decade of AI Org Evolution](https://medium.com/@statnikov/the-pendulum-of-power-a-decade-of-ai-org-evolution-cdd672818f45?source=rss------data_science-5)
-- [The Tragedy of the Commons: When Everyone Fishing &quot;Normally&quot; Still Breaks the Ocean](https://medium.com/@rayhanalirachman/the-tragedy-of-the-commons-when-everyone-fishing-normally-still-breaks-the-ocean-5f38b9da7324?source=rss------data_science-5)
-- [Implementing Customer Lifetime Value &lpar;CLV&rpar; Prediction in Python: From Transactions to Future Value](https://medium.com/@deolesopan/implementing-customer-lifetime-value-clv-prediction-in-python-from-transactions-to-future-value-07c8fce371b4?source=rss------data_science-5)
-- [Breaking the AI Bottleneck: How Data Masking Solves Critical Master Data Management Problems](https://medium.com/@upendrajadonusj/breaking-the-ai-bottleneck-how-data-masking-solves-critical-master-data-management-problems-3faa780f6a77?source=rss------data_science-5)
-- [The Great Unraveling: January 30, 2026](https://medium.com/@signaloftheeye/the-great-unraveling-january-30-2026-5007391051ff?source=rss------data_science-5)
+- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-c5afa50c9f2a?source=rss------data_science-5)
+- [Sex Positivity Is Not Enough.](https://medium.com/@aydrelle/sex-positivity-is-not-enough-3f60ad7dc9b4?source=rss------data_science-5)
+- [The Small Python Habit That Made My Projects Feel Professional](https://python.plainenglish.io/the-small-python-habit-that-made-my-projects-feel-professional-dad3369b5252?source=rss------data_science-5)
+- [بحران ایالات متحده-ایران به عنوان پیش‌درآمد دردهای زایمان چندقطبی: تحلیل ژئوپلیتیکی](https://medium.com/@gino.ayyoubian/%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D8%A7%DB%8C%D8%A7%D9%84%D8%A7%D8%AA-%D9%85%D8%AA%D8%AD%D8%AF%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%B9%D9%86%D9%88%D8%A7%D9%86-%D9%BE%DB%8C%D8%B4-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF-%D8%AF%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%DB%8C%D9%85%D8%A7%D9%86-%DA%86%D9%86%D8%AF%D9%82%D8%B7%D8%A8%DB%8C-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%DA%98%D8%A6%D9%88%D9%BE%D9%84%DB%8C%D8%AA%DB%8C%DA%A9%DB%8C-85e2cf091464?source=rss------data_science-5)
+- [Big Data Isn’t Just for Corporations — Sometimes It’s for Whales](https://medium.com/woman-in-the-loop/big-data-isnt-just-for-corporations-sometimes-it-s-for-whales-9b1b139e913c?source=rss------data_science-5)
+- [This Indicator Is Insane To Retail Traders](https://medium.com/@sayedalimi19/this-indicator-is-insane-to-retail-traders-d08377b276f1?source=rss------data_science-5)
+- [6 Python Libraries That Turn Logs Into Insights](https://python.plainenglish.io/6-python-libraries-that-turn-logs-into-insights-09b24a03973d?source=rss------data_science-5)
+- [Artificial Intelligence Ai News That Is ‘Drop Dead Scary’](https://medium.com/@raysdelivery1955/artificial-intelligence-ai-news-that-is-drop-dead-scary-f9d7acb6303b?source=rss------data_science-5)
+- [Build Your Own LLM: A Complete Practical Guide to Custom AI Models](https://medium.com/illumination/build-your-own-llm-a-complete-practical-guide-to-custom-ai-models-0c6665d05c35?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
