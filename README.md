@@ -105,15 +105,14 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-c5afa50c9f2a?source=rss------data_science-5)
-- [Sex Positivity Is Not Enough.](https://medium.com/@aydrelle/sex-positivity-is-not-enough-3f60ad7dc9b4?source=rss------data_science-5)
-- [The Small Python Habit That Made My Projects Feel Professional](https://python.plainenglish.io/the-small-python-habit-that-made-my-projects-feel-professional-dad3369b5252?source=rss------data_science-5)
-- [بحران ایالات متحده-ایران به عنوان پیش‌درآمد دردهای زایمان چندقطبی: تحلیل ژئوپلیتیکی](https://medium.com/@gino.ayyoubian/%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D8%A7%DB%8C%D8%A7%D9%84%D8%A7%D8%AA-%D9%85%D8%AA%D8%AD%D8%AF%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%B9%D9%86%D9%88%D8%A7%D9%86-%D9%BE%DB%8C%D8%B4-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF-%D8%AF%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%DB%8C%D9%85%D8%A7%D9%86-%DA%86%D9%86%D8%AF%D9%82%D8%B7%D8%A8%DB%8C-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%DA%98%D8%A6%D9%88%D9%BE%D9%84%DB%8C%D8%AA%DB%8C%DA%A9%DB%8C-85e2cf091464?source=rss------data_science-5)
-- [Big Data Isn’t Just for Corporations — Sometimes It’s for Whales](https://medium.com/woman-in-the-loop/big-data-isnt-just-for-corporations-sometimes-it-s-for-whales-9b1b139e913c?source=rss------data_science-5)
-- [This Indicator Is Insane To Retail Traders](https://medium.com/@sayedalimi19/this-indicator-is-insane-to-retail-traders-d08377b276f1?source=rss------data_science-5)
-- [6 Python Libraries That Turn Logs Into Insights](https://python.plainenglish.io/6-python-libraries-that-turn-logs-into-insights-09b24a03973d?source=rss------data_science-5)
-- [Artificial Intelligence Ai News That Is ‘Drop Dead Scary’](https://medium.com/@raysdelivery1955/artificial-intelligence-ai-news-that-is-drop-dead-scary-f9d7acb6303b?source=rss------data_science-5)
-- [Build Your Own LLM: A Complete Practical Guide to Custom AI Models](https://medium.com/illumination/build-your-own-llm-a-complete-practical-guide-to-custom-ai-models-0c6665d05c35?source=rss------data_science-5)
+- [A Query That Took 40 Minutes to Run Almost Got Me Fired](https://medium.com/ai-analytics-diaries/a-query-that-took-40-minutes-to-run-almost-got-me-fired-2ebb78c2bed2?source=rss------data_science-5)
+- [I Deleted RSI &amp; MACD After Testing This Strategy](https://medium.com/@sayedalimi19/i-deleted-rsi-macd-after-testing-this-strategy-20b4ecd0f45a?source=rss------data_science-5)
+- [AI 2027: The Story of the Intelligence Revolution](https://osintteam.blog/ai-2027-the-story-of-the-intelligence-revolution-aa436a387d15?source=rss------data_science-5)
+- [[Notes] 藥物動力學 — Lec 02](https://medium.com/@YC_notes/notes-%E8%97%A5%E7%89%A9%E5%8B%95%E5%8A%9B%E5%AD%B8-lec-02-e45f850b04e8?source=rss------data_science-5)
+- [Opportunities and Risks in a Strategic Resource Era](https://medium.com/@Artiscribe/opportunities-and-risks-in-a-strategic-resource-era-cc8408d9c9b0?source=rss------data_science-5)
+- [Exploring Lumera Hub Wallet: Features and Benefits for Web3 Users](https://medium.com/@Hayabu007/exploring-lumera-hub-wallet-features-and-benefits-for-web3-users-f7e2a7cc3b89?source=rss------data_science-5)
+- [Turning window functions into smarter window functions: Change Detection Logic](https://medium.com/@akshayshirsat5592/turning-window-functions-into-smarter-window-functions-change-detection-logic-7751237aa2f0?source=rss------data_science-5)
+- [Engineering Agency: How Enterprise Generative AI Is Becoming a Managed System](https://medium.com/@nalinipriyauppari/engineering-agency-how-enterprise-generative-ai-is-becoming-a-managed-system-f16a658083dd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
