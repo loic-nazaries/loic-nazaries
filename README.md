@@ -105,14 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Query That Took 40 Minutes to Run Almost Got Me Fired](https://medium.com/ai-analytics-diaries/a-query-that-took-40-minutes-to-run-almost-got-me-fired-2ebb78c2bed2?source=rss------data_science-5)
-- [I Deleted RSI &amp; MACD After Testing This Strategy](https://medium.com/@sayedalimi19/i-deleted-rsi-macd-after-testing-this-strategy-20b4ecd0f45a?source=rss------data_science-5)
-- [AI 2027: The Story of the Intelligence Revolution](https://osintteam.blog/ai-2027-the-story-of-the-intelligence-revolution-aa436a387d15?source=rss------data_science-5)
-- [[Notes] 藥物動力學 — Lec 02](https://medium.com/@YC_notes/notes-%E8%97%A5%E7%89%A9%E5%8B%95%E5%8A%9B%E5%AD%B8-lec-02-e45f850b04e8?source=rss------data_science-5)
-- [Opportunities and Risks in a Strategic Resource Era](https://medium.com/@Artiscribe/opportunities-and-risks-in-a-strategic-resource-era-cc8408d9c9b0?source=rss------data_science-5)
-- [Exploring Lumera Hub Wallet: Features and Benefits for Web3 Users](https://medium.com/@Hayabu007/exploring-lumera-hub-wallet-features-and-benefits-for-web3-users-f7e2a7cc3b89?source=rss------data_science-5)
-- [Turning window functions into smarter window functions: Change Detection Logic](https://medium.com/@akshayshirsat5592/turning-window-functions-into-smarter-window-functions-change-detection-logic-7751237aa2f0?source=rss------data_science-5)
-- [Engineering Agency: How Enterprise Generative AI Is Becoming a Managed System](https://medium.com/@nalinipriyauppari/engineering-agency-how-enterprise-generative-ai-is-becoming-a-managed-system-f16a658083dd?source=rss------data_science-5)
+- [The Attention Inflation Index: Why Content Feels Less Satisfying Every Year](https://medium.com/data-science-collective/the-attention-inflation-index-why-content-feels-less-satisfying-every-year-6e2689236fe7?source=rss------data_science-5)
+- [Why Reproducibility Matters More Than Visual Polish in Scientific Figures](https://medium.com/bench-to-byte/why-reproducibility-matters-more-than-visual-polish-in-scientific-figures-33d66127d4af?source=rss------data_science-5)
+- [There Is No “Best” BI Tool — Only the One Your Team Will Actually Use](https://medium.com/@nathan.smith.scoop/there-is-no-best-bi-tool-only-the-one-your-team-will-actually-use-0317053d0738?source=rss------data_science-5)
+- [Why the Past Is Still Your Most Valuable Data Asset](https://medium.com/@andrew.simone.scoop/why-the-past-is-still-your-most-valuable-data-asset-549aee89a9d8?source=rss------data_science-5)
+- [Customer 360 Isn’t a Dashboard](https://medium.com/@emily.rhodes.scoop/customer-360-isnt-a-dashboard-5d06b47d15db?source=rss------data_science-5)
+- [KPI Dashboards Aren’t Broken. They’re Just Not Enough Anymore](https://medium.com/@mario.rossi.scoop/kpi-dashboards-arent-broken-they-re-just-not-enough-anymore-76e83df3db65?source=rss------data_science-5)
+- [What Your Data Science Professors Want You to Know](https://medium.com/ds3ucsd/what-your-data-science-professors-want-you-to-know-8e7f111dcf0a?source=rss------data_science-5)
+- [Autonomous AI Agents: The Next Big Shift in Software Engineering](https://medium.com/illumination/autonomous-ai-agents-the-next-big-shift-in-software-engineering-f9ebda4b584f?source=rss------data_science-5)
+- [How Predictive Analytics Is Rewriting Sales Forecasting](https://medium.com/@dave.blair.scoop/how-predictive-analytics-is-rewriting-sales-forecasting-36e1688a8379?source=rss------data_science-5)
+- [7 Python Libraries That Make Working With Dates Bearable](https://python.plainenglish.io/7-python-libraries-that-make-working-with-dates-bearable-4c732c10cb57?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
