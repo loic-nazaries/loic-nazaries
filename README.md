@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Attention Inflation Index: Why Content Feels Less Satisfying Every Year](https://medium.com/data-science-collective/the-attention-inflation-index-why-content-feels-less-satisfying-every-year-6e2689236fe7?source=rss------data_science-5)
-- [Why Reproducibility Matters More Than Visual Polish in Scientific Figures](https://medium.com/bench-to-byte/why-reproducibility-matters-more-than-visual-polish-in-scientific-figures-33d66127d4af?source=rss------data_science-5)
-- [There Is No “Best” BI Tool — Only the One Your Team Will Actually Use](https://medium.com/@nathan.smith.scoop/there-is-no-best-bi-tool-only-the-one-your-team-will-actually-use-0317053d0738?source=rss------data_science-5)
-- [Why the Past Is Still Your Most Valuable Data Asset](https://medium.com/@andrew.simone.scoop/why-the-past-is-still-your-most-valuable-data-asset-549aee89a9d8?source=rss------data_science-5)
-- [Customer 360 Isn’t a Dashboard](https://medium.com/@emily.rhodes.scoop/customer-360-isnt-a-dashboard-5d06b47d15db?source=rss------data_science-5)
-- [KPI Dashboards Aren’t Broken. They’re Just Not Enough Anymore](https://medium.com/@mario.rossi.scoop/kpi-dashboards-arent-broken-they-re-just-not-enough-anymore-76e83df3db65?source=rss------data_science-5)
-- [What Your Data Science Professors Want You to Know](https://medium.com/ds3ucsd/what-your-data-science-professors-want-you-to-know-8e7f111dcf0a?source=rss------data_science-5)
-- [Autonomous AI Agents: The Next Big Shift in Software Engineering](https://medium.com/illumination/autonomous-ai-agents-the-next-big-shift-in-software-engineering-f9ebda4b584f?source=rss------data_science-5)
-- [How Predictive Analytics Is Rewriting Sales Forecasting](https://medium.com/@dave.blair.scoop/how-predictive-analytics-is-rewriting-sales-forecasting-36e1688a8379?source=rss------data_science-5)
-- [7 Python Libraries That Make Working With Dates Bearable](https://python.plainenglish.io/7-python-libraries-that-make-working-with-dates-bearable-4c732c10cb57?source=rss------data_science-5)
+- [KILT Protocol &lpar;KILT&rpar; has rebranded to Primer &lpar;PR&rpar;.](https://medium.com/@barman30_7107/kilt-protocol-kilt-has-rebranded-to-primer-pr-9f7e2c6be125?source=rss------data_science-5)
+- [BOSAGORA &lpar;BOA&rpar; Token Swap](https://medium.com/@barman30_7107/bosagora-boa-token-swap-3c60f2421e56?source=rss------data_science-5)
+- [The Shannon Entropy Generalization: A New Definition for Entropy](https://medium.com/@mathphye/the-shannon-entropy-generalization-a-new-definition-for-entropy-3fd1624380da?source=rss------data_science-5)
+- [Visualizing How AI May Impact the Grid’s Respiratory System](https://medium.com/@charlesntaggart/visualizing-how-ai-may-impact-the-grids-respiratory-system-a0b4ca500c1c?source=rss------data_science-5)
+- [Sam Altman Just Dropped 8 Hard Truths About AI’s Future](https://medium.com/ai-analytics-diaries/sam-altman-just-dropped-8-hard-truths-about-ais-future-75518097cfd6?source=rss------data_science-5)
+- [From Raw Data to Insights in Seconds: How I Built a Simple AI Visualization Tool](https://medium.com/@adelekeadekola17/from-raw-data-to-insights-in-seconds-how-i-built-a-simple-ai-visualization-tool-b2e12aaf8f80?source=rss------data_science-5)
+- [Six Types of Language Models Used Inside AI Agents](https://medium.com/@AISolutionsHub/six-types-of-language-models-used-inside-ai-agents-5d2b38b1a5d3?source=rss------data_science-5)
+- [Concrete Reimagining Onchain Finance](https://medium.com/@davidebubechukwu10/concrete-reimagining-onchain-finance-4676668e6d31?source=rss------data_science-5)
+- [How to Build Advanced RAG with LangGraph](https://pub.towardsai.net/how-to-build-advanced-rag-with-langgraph-a70350396589?source=rss------data_science-5)
+- [One Missing Index Cost Us $47K in AWS Bills. Here’s the 3-Minute Query That Would’ve Prevented It.](https://blog.stackademic.com/one-missing-index-cost-us-47k-in-aws-bills-heres-the-3-minute-query-that-would-ve-prevented-it-ba029e7cd1e6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
