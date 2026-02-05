@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [KILT Protocol &lpar;KILT&rpar; has rebranded to Primer &lpar;PR&rpar;.](https://medium.com/@barman30_7107/kilt-protocol-kilt-has-rebranded-to-primer-pr-9f7e2c6be125?source=rss------data_science-5)
-- [BOSAGORA &lpar;BOA&rpar; Token Swap](https://medium.com/@barman30_7107/bosagora-boa-token-swap-3c60f2421e56?source=rss------data_science-5)
-- [The Shannon Entropy Generalization: A New Definition for Entropy](https://medium.com/@mathphye/the-shannon-entropy-generalization-a-new-definition-for-entropy-3fd1624380da?source=rss------data_science-5)
-- [Visualizing How AI May Impact the Grid’s Respiratory System](https://medium.com/@charlesntaggart/visualizing-how-ai-may-impact-the-grids-respiratory-system-a0b4ca500c1c?source=rss------data_science-5)
-- [Sam Altman Just Dropped 8 Hard Truths About AI’s Future](https://medium.com/ai-analytics-diaries/sam-altman-just-dropped-8-hard-truths-about-ais-future-75518097cfd6?source=rss------data_science-5)
-- [From Raw Data to Insights in Seconds: How I Built a Simple AI Visualization Tool](https://medium.com/@adelekeadekola17/from-raw-data-to-insights-in-seconds-how-i-built-a-simple-ai-visualization-tool-b2e12aaf8f80?source=rss------data_science-5)
-- [Six Types of Language Models Used Inside AI Agents](https://medium.com/@AISolutionsHub/six-types-of-language-models-used-inside-ai-agents-5d2b38b1a5d3?source=rss------data_science-5)
-- [Concrete Reimagining Onchain Finance](https://medium.com/@davidebubechukwu10/concrete-reimagining-onchain-finance-4676668e6d31?source=rss------data_science-5)
-- [How to Build Advanced RAG with LangGraph](https://pub.towardsai.net/how-to-build-advanced-rag-with-langgraph-a70350396589?source=rss------data_science-5)
-- [One Missing Index Cost Us $47K in AWS Bills. Here’s the 3-Minute Query That Would’ve Prevented It.](https://blog.stackademic.com/one-missing-index-cost-us-47k-in-aws-bills-heres-the-3-minute-query-that-would-ve-prevented-it-ba029e7cd1e6?source=rss------data_science-5)
+- [The Galactic Pendulum: Is the Sun Migrating Toward the Milky Way’s Core?](https://medium.com/@shinealldaylong.blogspot.com/the-galactic-pendulum-is-the-sun-migrating-toward-the-milky-ways-core-875975b9c1be?source=rss------data_science-5)
+- [I Deleted 90% of My Indicators After Testing This ETH Strategy &lpar;Here’s the Proof&rpar;](https://medium.com/@sayedalimi19/i-deleted-90-of-my-indicators-after-testing-this-eth-strategy-heres-the-proof-d66a59fa4300?source=rss------data_science-5)
+- [Why Linear Chat Fails for Data Analysis — And How Infinite Canvas Changes Everything](https://medium.com/@cenrunzhe/why-linear-chat-fails-for-data-analysis-and-how-infinite-canvas-changes-everything-c26a64bf520b?source=rss------data_science-5)
+- [How Hackers Control Any System with Linux Processes](https://osintteam.blog/how-hackers-control-any-system-with-linux-processes-3344425e6d61?source=rss------data_science-5)
+- [9 Python Tricks I Discovered at 2AM That Completely Transformed My Code](https://medium.com/h7w/9-python-tricks-i-discovered-at-2am-that-completely-transformed-my-code-2547bb456d6c?source=rss------data_science-5)
+- [What Do Calgary Residents Ask for Most？A Data Story of 311 Service Requests](https://medium.com/@lcc9316/what-do-calgary-residents-ask-for-most-a-data-story-of-311-service-requests-e7088c58ff9b?source=rss------data_science-5)
+- [AI Agents Redefine Data Science Through Human Collaboration](https://medium.com/@vikramlingam/ai-agents-redefine-data-science-through-human-collaboration-b110143f8318?source=rss------data_science-5)
+- [Grasping the Clutch in Baseball &lpar;Leverage Index&rpar;](https://medium.com/@lukevh/grasping-the-clutch-in-baseball-leverage-index-00e810b359a4?source=rss------data_science-5)
+- [Stop Building Chatbots. Build DeepAgents Instead.](https://abhisheklogs.medium.com/stop-building-chatbots-build-data-agents-instead-173d46d885a9?source=rss------data_science-5)
+- [Кракен ссылка / кракен зеркало / кракен вход / как начать зарабатывать на р2р вместе с кракен?](https://medium.com/@gsosat/%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0-%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-%D0%B7%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%BE-%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-%D0%B2%D1%85%D0%BE%D0%B4-%D0%BA%D0%B0%D0%BA-%D0%BD%D0%B0%D1%87%D0%B0%D1%82%D1%8C-%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D1%82%D1%8C-%D0%BD%D0%B0-%D1%802%D1%80-%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B5-%D1%81-%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-c557db30f487?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
