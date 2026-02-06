@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Galactic Pendulum: Is the Sun Migrating Toward the Milky Way’s Core?](https://medium.com/@shinealldaylong.blogspot.com/the-galactic-pendulum-is-the-sun-migrating-toward-the-milky-ways-core-875975b9c1be?source=rss------data_science-5)
-- [I Deleted 90% of My Indicators After Testing This ETH Strategy &lpar;Here’s the Proof&rpar;](https://medium.com/@sayedalimi19/i-deleted-90-of-my-indicators-after-testing-this-eth-strategy-heres-the-proof-d66a59fa4300?source=rss------data_science-5)
-- [Why Linear Chat Fails for Data Analysis — And How Infinite Canvas Changes Everything](https://medium.com/@cenrunzhe/why-linear-chat-fails-for-data-analysis-and-how-infinite-canvas-changes-everything-c26a64bf520b?source=rss------data_science-5)
-- [How Hackers Control Any System with Linux Processes](https://osintteam.blog/how-hackers-control-any-system-with-linux-processes-3344425e6d61?source=rss------data_science-5)
-- [9 Python Tricks I Discovered at 2AM That Completely Transformed My Code](https://medium.com/h7w/9-python-tricks-i-discovered-at-2am-that-completely-transformed-my-code-2547bb456d6c?source=rss------data_science-5)
-- [What Do Calgary Residents Ask for Most？A Data Story of 311 Service Requests](https://medium.com/@lcc9316/what-do-calgary-residents-ask-for-most-a-data-story-of-311-service-requests-e7088c58ff9b?source=rss------data_science-5)
-- [AI Agents Redefine Data Science Through Human Collaboration](https://medium.com/@vikramlingam/ai-agents-redefine-data-science-through-human-collaboration-b110143f8318?source=rss------data_science-5)
-- [Grasping the Clutch in Baseball &lpar;Leverage Index&rpar;](https://medium.com/@lukevh/grasping-the-clutch-in-baseball-leverage-index-00e810b359a4?source=rss------data_science-5)
-- [Stop Building Chatbots. Build DeepAgents Instead.](https://abhisheklogs.medium.com/stop-building-chatbots-build-data-agents-instead-173d46d885a9?source=rss------data_science-5)
-- [Кракен ссылка / кракен зеркало / кракен вход / как начать зарабатывать на р2р вместе с кракен?](https://medium.com/@gsosat/%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0-%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-%D0%B7%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%BE-%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-%D0%B2%D1%85%D0%BE%D0%B4-%D0%BA%D0%B0%D0%BA-%D0%BD%D0%B0%D1%87%D0%B0%D1%82%D1%8C-%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D1%82%D1%8C-%D0%BD%D0%B0-%D1%802%D1%80-%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B5-%D1%81-%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-c557db30f487?source=rss------data_science-5)
+- [This NIFTY Strategy Didn’t Predict Anything — And Still Made Money](https://medium.com/@sayedalimi19/this-nifty-strategy-didnt-predict-anything-and-still-made-money-afba3fa14ea4?source=rss------data_science-5)
+- [How to Prepare for a Data Scientist Role in 2026 &lpar;Complete Roadmap&rpar;](https://medium.com/@amitsinhassj5/how-to-prepare-for-a-data-scientist-role-in-2026-complete-roadmap-9365bc1a8d54?source=rss------data_science-5)
+- [The Ancestral “Big Data” of Life and Harmony](https://medium.com/journal-kita/the-ancestral-big-data-of-life-and-harmony-6bbae70e2b15?source=rss------data_science-5)
+- [Pandas 101: Ucapkan Selamat Tinggal pada Excel yang “Not Responding”](https://medium.com/@najibfaqihfathan/pandas-101-ucapkan-selamat-tinggal-pada-excel-yang-not-responding-ffb7f943690d?source=rss------data_science-5)
+- [I’m Still Here, Even When Life Feels Too Heavy](https://medium.com/@bawougborugbo/im-still-here-even-when-life-feels-too-heavy-1432e6d8c897?source=rss------data_science-5)
+- [WN: Women in Quebec more exposed to AI, AI agents now hire human &amp; South Korea requires AI labels](https://medium.com/law-and-ethics-in-tech/wn-women-in-quebec-more-exposed-to-ai-ai-agents-now-hire-human-south-korea-requires-ai-labels-ee29c15639c5?source=rss------data_science-5)
+- [A Compendious Blueprint for Spark Optimization: Part II](https://medium.com/@david.kabii/a-compendious-blueprint-for-spark-optimization-part-ii-dd271bef03b2?source=rss------data_science-5)
+- [Life As-We-Do-Not-Know-It: AI and Alien Intelligence](https://avi-loeb.medium.com/life-as-we-do-not-know-it-ai-and-alien-intelligence-49a07ea13b59?source=rss------data_science-5)
+- [Predictive Pork: How Dickey’s Barbecue Pit Leverages Data Mining to Solve the “12-Hour Smoker”…](https://medium.com/@amalvani2003/predictive-pork-how-dickeys-barbecue-pit-leverages-data-mining-to-solve-the-12-hour-smoker-75a9a1f3e2a1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
