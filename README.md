@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [This NIFTY Strategy Didn’t Predict Anything — And Still Made Money](https://medium.com/@sayedalimi19/this-nifty-strategy-didnt-predict-anything-and-still-made-money-afba3fa14ea4?source=rss------data_science-5)
-- [How to Prepare for a Data Scientist Role in 2026 &lpar;Complete Roadmap&rpar;](https://medium.com/@amitsinhassj5/how-to-prepare-for-a-data-scientist-role-in-2026-complete-roadmap-9365bc1a8d54?source=rss------data_science-5)
-- [The Ancestral “Big Data” of Life and Harmony](https://medium.com/journal-kita/the-ancestral-big-data-of-life-and-harmony-6bbae70e2b15?source=rss------data_science-5)
-- [Pandas 101: Ucapkan Selamat Tinggal pada Excel yang “Not Responding”](https://medium.com/@najibfaqihfathan/pandas-101-ucapkan-selamat-tinggal-pada-excel-yang-not-responding-ffb7f943690d?source=rss------data_science-5)
-- [I’m Still Here, Even When Life Feels Too Heavy](https://medium.com/@bawougborugbo/im-still-here-even-when-life-feels-too-heavy-1432e6d8c897?source=rss------data_science-5)
-- [WN: Women in Quebec more exposed to AI, AI agents now hire human &amp; South Korea requires AI labels](https://medium.com/law-and-ethics-in-tech/wn-women-in-quebec-more-exposed-to-ai-ai-agents-now-hire-human-south-korea-requires-ai-labels-ee29c15639c5?source=rss------data_science-5)
-- [A Compendious Blueprint for Spark Optimization: Part II](https://medium.com/@david.kabii/a-compendious-blueprint-for-spark-optimization-part-ii-dd271bef03b2?source=rss------data_science-5)
-- [Life As-We-Do-Not-Know-It: AI and Alien Intelligence](https://avi-loeb.medium.com/life-as-we-do-not-know-it-ai-and-alien-intelligence-49a07ea13b59?source=rss------data_science-5)
-- [Predictive Pork: How Dickey’s Barbecue Pit Leverages Data Mining to Solve the “12-Hour Smoker”…](https://medium.com/@amalvani2003/predictive-pork-how-dickeys-barbecue-pit-leverages-data-mining-to-solve-the-12-hour-smoker-75a9a1f3e2a1?source=rss------data_science-5)
+- [CRITICAL PROCESS DIED Windows Server error &lpar; Blue screen error of death&rpar;](https://medium.com/@talenyemba/critical-process-died-windows-server-error-blue-screen-error-of-death-a15d02b04817?source=rss------data_science-5)
+- [Natural Gas Destroyed My Predictions — This Strategy Fixed That](https://medium.com/@sayedalimi19/natural-gas-destroyed-my-predictions-this-strategy-fixed-that-0c4a1cb97518?source=rss------data_science-5)
+- [Trade Deadline Analytics: Evaluating Moves Before the Dust Settles](https://medium.com/@getbaseline_pro/trade-deadline-analytics-evaluating-moves-before-the-dust-settles-65c7f017be1c?source=rss------data_science-5)
+- [Analyzing Repurchase Cycles: When Single Metrics Aren’t Enough](https://medium.com/@wh49hng/analyzing-repurchase-cycles-when-single-metrics-arent-enough-d7d4548ec774?source=rss------data_science-5)
+- [Ancient Technology, Human Progress &amp; Yogic Intelligence What We Forgot Along the Way](https://medium.com/@yogicintelligence07/ancient-technology-human-progress-yogic-intelligence-what-we-forgot-along-the-way-747b601c137d?source=rss------data_science-5)
+- [*&quot;Foundation and Objective of BrotherswaggStudioRecords&quot;*](https://medium.com/@BrotherswaggStudioRecords/foundation-and-objective-of-brotherswaggstudiorecords-9d509527a7ae?source=rss------data_science-5)
+- [Breaking into the World of Data in the Era of AI: My Journey](https://medium.com/@rezatayeb2016/breaking-into-the-world-of-data-in-the-era-of-ai-my-journey-f1fa83c6bc8b?source=rss------data_science-5)
+- [The Backend Interview Questions They Actually Ask &lpar;120 Real Questions&rpar;](https://medium.com/lets-code-future/the-backend-interview-questions-they-actually-ask-120-real-questions-11c89d3ea988?source=rss------data_science-5)
+- [The Earth Is Actually Round. Let Me Prove Why It’s Not Flat.](https://medium.com/wonk-a-vator/the-earth-is-actually-round-let-me-prove-why-its-not-flat-7e71243d887a?source=rss------data_science-5)
+- [Signal Supremacy:](https://medium.com/@AxonOS/signal-supremacy-5902755b19f0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
