@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [CRITICAL PROCESS DIED Windows Server error &lpar; Blue screen error of death&rpar;](https://medium.com/@talenyemba/critical-process-died-windows-server-error-blue-screen-error-of-death-a15d02b04817?source=rss------data_science-5)
-- [Natural Gas Destroyed My Predictions — This Strategy Fixed That](https://medium.com/@sayedalimi19/natural-gas-destroyed-my-predictions-this-strategy-fixed-that-0c4a1cb97518?source=rss------data_science-5)
-- [Trade Deadline Analytics: Evaluating Moves Before the Dust Settles](https://medium.com/@getbaseline_pro/trade-deadline-analytics-evaluating-moves-before-the-dust-settles-65c7f017be1c?source=rss------data_science-5)
-- [Analyzing Repurchase Cycles: When Single Metrics Aren’t Enough](https://medium.com/@wh49hng/analyzing-repurchase-cycles-when-single-metrics-arent-enough-d7d4548ec774?source=rss------data_science-5)
-- [Ancient Technology, Human Progress &amp; Yogic Intelligence What We Forgot Along the Way](https://medium.com/@yogicintelligence07/ancient-technology-human-progress-yogic-intelligence-what-we-forgot-along-the-way-747b601c137d?source=rss------data_science-5)
-- [*&quot;Foundation and Objective of BrotherswaggStudioRecords&quot;*](https://medium.com/@BrotherswaggStudioRecords/foundation-and-objective-of-brotherswaggstudiorecords-9d509527a7ae?source=rss------data_science-5)
-- [Breaking into the World of Data in the Era of AI: My Journey](https://medium.com/@rezatayeb2016/breaking-into-the-world-of-data-in-the-era-of-ai-my-journey-f1fa83c6bc8b?source=rss------data_science-5)
-- [The Backend Interview Questions They Actually Ask &lpar;120 Real Questions&rpar;](https://medium.com/lets-code-future/the-backend-interview-questions-they-actually-ask-120-real-questions-11c89d3ea988?source=rss------data_science-5)
-- [The Earth Is Actually Round. Let Me Prove Why It’s Not Flat.](https://medium.com/wonk-a-vator/the-earth-is-actually-round-let-me-prove-why-its-not-flat-7e71243d887a?source=rss------data_science-5)
-- [Signal Supremacy:](https://medium.com/@AxonOS/signal-supremacy-5902755b19f0?source=rss------data_science-5)
+- [Sistemas de Recomendación: Del filtrado colaborativo a la métrica de negocio con Python Surprise](https://medium.com/@anthonyjgn/sistemas-de-recomendaci%C3%B3n-del-filtrado-colaborativo-a-la-m%C3%A9trica-de-negocio-con-python-surprise-8c440b15670e?source=rss------data_science-5)
+- [A 6-Step Data Prep Process Before Any Visualization](https://medium.com/data-science-collective/a-6-step-data-prep-process-before-any-visualization-91f139b04411?source=rss------data_science-5)
+- [What I Have Learned from Cyber-Security in My First Week.](https://medium.com/@sayyiddzakwanpurnama/what-i-have-learned-from-cyber-security-in-my-first-week-d2e5f02d02bb?source=rss------data_science-5)
+- [I Challenged Myself to Use New Libraries — 7 That Were Totally Worth It](https://medium.com/@mariaali056/i-challenged-myself-to-use-new-libraries-7-that-were-totally-worth-it-54951ee68be0?source=rss------data_science-5)
+- [5 Python Libraries That Helped Me Automate Tasks I Used to Do Manually](https://medium.com/@maryashoukataly/5-python-libraries-that-helped-me-automate-tasks-i-used-to-do-manually-eba55208999e?source=rss------data_science-5)
+- [I Tried Building Without Libraries — Here Are 5 I’ll Never Skip Again](https://medium.com/@arslanshoukatali/i-tried-building-without-libraries-here-are-5-ill-never-skip-again-3249809e3fd9?source=rss------data_science-5)
+- [How Prompt Writing Became a Real Skill for Me — 6 Turning Points](https://medium.com/@arslanshoukatali/how-prompt-writing-became-a-real-skill-for-me-6-turning-points-3c23b769a2c3?source=rss------data_science-5)
+- [The 38-Microsecond Miracle: How NASA Synchronizes the World Daily](https://medium.com/@fghidan/the-38-microsecond-miracle-how-nasa-synchronizes-the-world-daily-dbd5ac73476d?source=rss------data_science-5)
+- [How to Create Raincloud Plots with ggrain for R Programming](https://medium.com/codex/how-to-create-raincloud-plots-with-ggrain-for-r-programming-0c7760821f6b?source=rss------data_science-5)
+- [The Gier Density Filter: Revealing the True Structure: Object 3I/ATLAS](https://medium.com/wonk-a-vator/the-gier-density-filter-revealing-the-true-structure-object-3i-atlas-2443a452b81c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
