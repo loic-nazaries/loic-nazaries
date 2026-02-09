@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Sistemas de Recomendación: Del filtrado colaborativo a la métrica de negocio con Python Surprise](https://medium.com/@anthonyjgn/sistemas-de-recomendaci%C3%B3n-del-filtrado-colaborativo-a-la-m%C3%A9trica-de-negocio-con-python-surprise-8c440b15670e?source=rss------data_science-5)
-- [A 6-Step Data Prep Process Before Any Visualization](https://medium.com/data-science-collective/a-6-step-data-prep-process-before-any-visualization-91f139b04411?source=rss------data_science-5)
-- [What I Have Learned from Cyber-Security in My First Week.](https://medium.com/@sayyiddzakwanpurnama/what-i-have-learned-from-cyber-security-in-my-first-week-d2e5f02d02bb?source=rss------data_science-5)
-- [I Challenged Myself to Use New Libraries — 7 That Were Totally Worth It](https://medium.com/@mariaali056/i-challenged-myself-to-use-new-libraries-7-that-were-totally-worth-it-54951ee68be0?source=rss------data_science-5)
-- [5 Python Libraries That Helped Me Automate Tasks I Used to Do Manually](https://medium.com/@maryashoukataly/5-python-libraries-that-helped-me-automate-tasks-i-used-to-do-manually-eba55208999e?source=rss------data_science-5)
-- [I Tried Building Without Libraries — Here Are 5 I’ll Never Skip Again](https://medium.com/@arslanshoukatali/i-tried-building-without-libraries-here-are-5-ill-never-skip-again-3249809e3fd9?source=rss------data_science-5)
-- [How Prompt Writing Became a Real Skill for Me — 6 Turning Points](https://medium.com/@arslanshoukatali/how-prompt-writing-became-a-real-skill-for-me-6-turning-points-3c23b769a2c3?source=rss------data_science-5)
-- [The 38-Microsecond Miracle: How NASA Synchronizes the World Daily](https://medium.com/@fghidan/the-38-microsecond-miracle-how-nasa-synchronizes-the-world-daily-dbd5ac73476d?source=rss------data_science-5)
-- [How to Create Raincloud Plots with ggrain for R Programming](https://medium.com/codex/how-to-create-raincloud-plots-with-ggrain-for-r-programming-0c7760821f6b?source=rss------data_science-5)
-- [The Gier Density Filter: Revealing the True Structure: Object 3I/ATLAS](https://medium.com/wonk-a-vator/the-gier-density-filter-revealing-the-true-structure-object-3i-atlas-2443a452b81c?source=rss------data_science-5)
+- [Why Time-Series Recursion in SQL Is More Powerful Than You Think &lpar;And How to Master It&rpar;](https://medium.com/@Rohan_Dutt/why-time-series-recursion-in-sql-is-more-powerful-than-you-think-and-how-to-master-it-1e0599a46fc3?source=rss------data_science-5)
+- [Indexing Mastery: Why Your Queries Are Slow &lpar;And How to Fix Them&rpar;](https://medium.com/@khedekarpratik123/indexing-mastery-why-your-queries-are-slow-and-how-to-fix-them-93e754b31499?source=rss------data_science-5)
+- [[Notes] 藥物動力學 — Lec 03](https://medium.com/@YC_notes/notes-%E8%97%A5%E7%89%A9%E5%8B%95%E5%8A%9B%E5%AD%B8-lec-03-074e64735bb0?source=rss------data_science-5)
+- [From Raw Delivery Logs to an Analytics-Ready Fact Table](https://medium.com/@xiaotong.ma.ms/from-raw-delivery-logs-to-an-analytics-ready-fact-table-641b356ea54c?source=rss------data_science-5)
+- [Cara Membaca Hasil Akurasi dan Performa Model Machine Learning untuk Pemula](https://medium.com/@ditafebywordpress/cara-membaca-hasil-akurasi-dan-performa-model-machine-learning-untuk-pemula-55572f05edbb?source=rss------data_science-5)
+- [Yann LeCun: “Building AI Agents on LLMs Is a Recipe for Disaster” — Here’s His Alternative](https://medium.com/data-science-collective/yann-lecun-building-ai-agents-on-llms-is-a-recipe-for-disaster-heres-his-alternative-0e521b2bed6c?source=rss------data_science-5)
+- [L1 vs L2 Regularization: Intuition, Geometry, and Bayesian View](https://medium.com/@iambeingferoz/l1-vs-l2-regularization-intuition-geometry-and-bayesian-view-da18a2b74de1?source=rss------data_science-5)
+- [The Structural 15: Weekly Levels for $SPY, $QQQ, $AMZN](https://arandkei-data.medium.com/the-structural-15-weekly-levels-for-spy-qqq-amzn-048fde6c8760?source=rss------data_science-5)
+- [When Optimization Works: The Role of Convexity in Business Decisions](https://pub.towardsai.net/when-optimization-works-the-role-of-convexity-in-business-decisions-c8257c618012?source=rss------data_science-5)
+- [Ten from the weekend 02/08: A few interesting reads that I came across:](https://gopivikranth.medium.com/ten-from-the-weekend-02-08-a-few-interesting-reads-that-i-came-across-cfffdf0a51e5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
