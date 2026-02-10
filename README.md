@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why Time-Series Recursion in SQL Is More Powerful Than You Think &lpar;And How to Master It&rpar;](https://medium.com/@Rohan_Dutt/why-time-series-recursion-in-sql-is-more-powerful-than-you-think-and-how-to-master-it-1e0599a46fc3?source=rss------data_science-5)
-- [Indexing Mastery: Why Your Queries Are Slow &lpar;And How to Fix Them&rpar;](https://medium.com/@khedekarpratik123/indexing-mastery-why-your-queries-are-slow-and-how-to-fix-them-93e754b31499?source=rss------data_science-5)
-- [[Notes] 藥物動力學 — Lec 03](https://medium.com/@YC_notes/notes-%E8%97%A5%E7%89%A9%E5%8B%95%E5%8A%9B%E5%AD%B8-lec-03-074e64735bb0?source=rss------data_science-5)
-- [From Raw Delivery Logs to an Analytics-Ready Fact Table](https://medium.com/@xiaotong.ma.ms/from-raw-delivery-logs-to-an-analytics-ready-fact-table-641b356ea54c?source=rss------data_science-5)
-- [Cara Membaca Hasil Akurasi dan Performa Model Machine Learning untuk Pemula](https://medium.com/@ditafebywordpress/cara-membaca-hasil-akurasi-dan-performa-model-machine-learning-untuk-pemula-55572f05edbb?source=rss------data_science-5)
-- [Yann LeCun: “Building AI Agents on LLMs Is a Recipe for Disaster” — Here’s His Alternative](https://medium.com/data-science-collective/yann-lecun-building-ai-agents-on-llms-is-a-recipe-for-disaster-heres-his-alternative-0e521b2bed6c?source=rss------data_science-5)
-- [L1 vs L2 Regularization: Intuition, Geometry, and Bayesian View](https://medium.com/@iambeingferoz/l1-vs-l2-regularization-intuition-geometry-and-bayesian-view-da18a2b74de1?source=rss------data_science-5)
-- [The Structural 15: Weekly Levels for $SPY, $QQQ, $AMZN](https://arandkei-data.medium.com/the-structural-15-weekly-levels-for-spy-qqq-amzn-048fde6c8760?source=rss------data_science-5)
-- [When Optimization Works: The Role of Convexity in Business Decisions](https://pub.towardsai.net/when-optimization-works-the-role-of-convexity-in-business-decisions-c8257c618012?source=rss------data_science-5)
-- [Ten from the weekend 02/08: A few interesting reads that I came across:](https://gopivikranth.medium.com/ten-from-the-weekend-02-08-a-few-interesting-reads-that-i-came-across-cfffdf0a51e5?source=rss------data_science-5)
+- [Best Intraday Buy and Sell Trading Strategy](https://medium.com/@sayedalimi19/best-intraday-buy-and-sell-trading-strategy-a819bcec9702?source=rss------data_science-5)
+- [Building a Customer 360 View: The Playbook Success Teams Actually Use](https://medium.com/@taylor.morgan.scoop/building-a-customer-360-view-the-playbook-success-teams-actually-use-12330e361077?source=rss------data_science-5)
+- [Will AI Replace Business Intelligence? The Real Answer Is More Useful &lpar;and a Little Uncomfortable&rpar;](https://medium.com/@jordan.blake.scoop/will-ai-replace-business-intelligence-the-real-answer-is-more-useful-and-a-little-uncomfortable-a10a9efc9b8f?source=rss------data_science-5)
+- [The Atlantic Ocean Current May Tip Within Our Lifetimes](https://medium.com/southern-winds/the-atlantic-ocean-current-may-tip-within-our-lifetimes-b116bb799b90?source=rss------data_science-5)
+- [Life or Death? Not the People’s Choice](https://medium.com/@ilovestrabismus/life-or-death-not-the-peoples-choice-73b88babfb75?source=rss------data_science-5)
+- [The Ghost in the Machine: Why Grass is the &quot;Truth Layer&quot; for Future AI](https://grasstips.medium.com/the-ghost-in-the-machine-why-grass-is-the-truth-layer-for-future-ai-614a40b16be5?source=rss------data_science-5)
+- [Bias–Variance Tradeoff &lpar;Explained Simply&rpar;: How to Diagnose Underfitting vs Overfitting](https://medium.com/@richelattafuah/bias-variance-tradeoff-explained-simply-how-to-diagnose-underfitting-vs-overfitting-77412e1c7530?source=rss------data_science-5)
+- [Top 20 Principal Component Analysis &lpar;PCA&rpar; Interview Questions and Answers &lpar;Part 2 of 2&rpar;](https://pub.towardsai.net/top-20-principal-component-analysis-pca-interview-questions-and-answers-part-2-of-2-8190c9d6a662?source=rss------data_science-5)
+- [The Hardest AI Job in 2026 Won’t Have a Job Title](https://medium.com/ai-analytics-diaries/the-hardest-ai-job-in-2026-wont-have-a-job-title-2d8be40ddd37?source=rss------data_science-5)
+- [Revenue Intelligence Starts With Input Modeling](https://medium.com/write-a-catalyst/revenue-intelligence-starts-with-input-modeling-5eea7cf6ec5f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
