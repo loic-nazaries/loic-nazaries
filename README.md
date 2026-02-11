@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Best Intraday Buy and Sell Trading Strategy](https://medium.com/@sayedalimi19/best-intraday-buy-and-sell-trading-strategy-a819bcec9702?source=rss------data_science-5)
-- [Building a Customer 360 View: The Playbook Success Teams Actually Use](https://medium.com/@taylor.morgan.scoop/building-a-customer-360-view-the-playbook-success-teams-actually-use-12330e361077?source=rss------data_science-5)
-- [Will AI Replace Business Intelligence? The Real Answer Is More Useful &lpar;and a Little Uncomfortable&rpar;](https://medium.com/@jordan.blake.scoop/will-ai-replace-business-intelligence-the-real-answer-is-more-useful-and-a-little-uncomfortable-a10a9efc9b8f?source=rss------data_science-5)
-- [The Atlantic Ocean Current May Tip Within Our Lifetimes](https://medium.com/southern-winds/the-atlantic-ocean-current-may-tip-within-our-lifetimes-b116bb799b90?source=rss------data_science-5)
-- [Life or Death? Not the People’s Choice](https://medium.com/@ilovestrabismus/life-or-death-not-the-peoples-choice-73b88babfb75?source=rss------data_science-5)
-- [The Ghost in the Machine: Why Grass is the &quot;Truth Layer&quot; for Future AI](https://grasstips.medium.com/the-ghost-in-the-machine-why-grass-is-the-truth-layer-for-future-ai-614a40b16be5?source=rss------data_science-5)
-- [Bias–Variance Tradeoff &lpar;Explained Simply&rpar;: How to Diagnose Underfitting vs Overfitting](https://medium.com/@richelattafuah/bias-variance-tradeoff-explained-simply-how-to-diagnose-underfitting-vs-overfitting-77412e1c7530?source=rss------data_science-5)
-- [Top 20 Principal Component Analysis &lpar;PCA&rpar; Interview Questions and Answers &lpar;Part 2 of 2&rpar;](https://pub.towardsai.net/top-20-principal-component-analysis-pca-interview-questions-and-answers-part-2-of-2-8190c9d6a662?source=rss------data_science-5)
-- [The Hardest AI Job in 2026 Won’t Have a Job Title](https://medium.com/ai-analytics-diaries/the-hardest-ai-job-in-2026-wont-have-a-job-title-2d8be40ddd37?source=rss------data_science-5)
-- [Revenue Intelligence Starts With Input Modeling](https://medium.com/write-a-catalyst/revenue-intelligence-starts-with-input-modeling-5eea7cf6ec5f?source=rss------data_science-5)
+- [SQL for Data Analysts &lpar;Part 2&rpar;: 5 Queries That Power Real Dashboards](https://soumyatripathy2101.medium.com/sql-for-data-analysts-part-2-5-queries-that-power-real-dashboards-7d7d95b536f7?source=rss------data_science-5)
+- [Feb11,2026 CRYPTO TREND DATA](https://medium.com/@kicchotokasoutuuka/feb11-2026-crypto-trend-data-7ab7df2b5782?source=rss------data_science-5)
+- [Think Your Model Works? Check for Class Imbalance First](https://medium.com/@its.shoryabisht/how-to-deal-with-class-imbalance-in-machine-learning-like-a-pro-d936818bc3b5?source=rss------data_science-5)
+- [9 Python Libraries That Quietly Run My Life on Autopilot](https://python.plainenglish.io/9-python-libraries-that-quietly-run-my-life-on-autopilot-9d8ece267895?source=rss------data_science-5)
+- [Beyond the Hype of New Tech](https://aaravos.medium.com/beyond-the-hype-of-new-tech-190a584d1e6a?source=rss------data_science-5)
+- [How Data Analysts Use Business Intelligence to Improve Business Performance](https://medium.com/@rabii_ben_alaya/how-data-analysts-use-business-intelligence-to-improve-business-performance-abe93faf83cc?source=rss------data_science-5)
+- [I Tried 20 AI Presentation Makers and Then Built My Own. Here’s What They All Get Wrong.](https://medium.com/@cenrunzhe/i-tried-20-ai-presentation-makers-and-then-built-my-own-heres-what-they-all-get-wrong-e4a7c042cf12?source=rss------data_science-5)
+- [Data Centers in Space: A Solution or a Deflection?](https://medium.com/@matthasan/data-centers-in-space-a-solution-or-a-deflection-94d43d7a9ac7?source=rss------data_science-5)
+- [Yogic Intelligence &amp; Inner Technology → What TensorFlow Can Teach Us About the Human Mind](https://medium.com/@yogicintelligence07/yogic-intelligence-inner-technology-what-tensorflow-can-teach-us-about-the-human-mind-31e182d36f20?source=rss------data_science-5)
+- [What Business Data Science Looks Like from the University Bench &lpar;in Germany&rpar;](https://medium.com/@mark.kuria/what-business-data-science-looks-like-from-the-university-bench-in-germany-78ddda49a2e7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
