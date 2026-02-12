@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [SQL for Data Analysts &lpar;Part 2&rpar;: 5 Queries That Power Real Dashboards](https://soumyatripathy2101.medium.com/sql-for-data-analysts-part-2-5-queries-that-power-real-dashboards-7d7d95b536f7?source=rss------data_science-5)
-- [Feb11,2026 CRYPTO TREND DATA](https://medium.com/@kicchotokasoutuuka/feb11-2026-crypto-trend-data-7ab7df2b5782?source=rss------data_science-5)
-- [Think Your Model Works? Check for Class Imbalance First](https://medium.com/@its.shoryabisht/how-to-deal-with-class-imbalance-in-machine-learning-like-a-pro-d936818bc3b5?source=rss------data_science-5)
-- [9 Python Libraries That Quietly Run My Life on Autopilot](https://python.plainenglish.io/9-python-libraries-that-quietly-run-my-life-on-autopilot-9d8ece267895?source=rss------data_science-5)
-- [Beyond the Hype of New Tech](https://aaravos.medium.com/beyond-the-hype-of-new-tech-190a584d1e6a?source=rss------data_science-5)
-- [How Data Analysts Use Business Intelligence to Improve Business Performance](https://medium.com/@rabii_ben_alaya/how-data-analysts-use-business-intelligence-to-improve-business-performance-abe93faf83cc?source=rss------data_science-5)
-- [I Tried 20 AI Presentation Makers and Then Built My Own. Here’s What They All Get Wrong.](https://medium.com/@cenrunzhe/i-tried-20-ai-presentation-makers-and-then-built-my-own-heres-what-they-all-get-wrong-e4a7c042cf12?source=rss------data_science-5)
-- [Data Centers in Space: A Solution or a Deflection?](https://medium.com/@matthasan/data-centers-in-space-a-solution-or-a-deflection-94d43d7a9ac7?source=rss------data_science-5)
-- [Yogic Intelligence &amp; Inner Technology → What TensorFlow Can Teach Us About the Human Mind](https://medium.com/@yogicintelligence07/yogic-intelligence-inner-technology-what-tensorflow-can-teach-us-about-the-human-mind-31e182d36f20?source=rss------data_science-5)
-- [What Business Data Science Looks Like from the University Bench &lpar;in Germany&rpar;](https://medium.com/@mark.kuria/what-business-data-science-looks-like-from-the-university-bench-in-germany-78ddda49a2e7?source=rss------data_science-5)
+- [AI is not breaking academia](https://medium.com/@wtc2189/ai-is-not-breaking-academia-2355e45a2135?source=rss------data_science-5)
+- [GLM-5: China’s 745B parameter open-source model that leaked before it launched](https://jpcaparas.medium.com/glm-5-chinas-745b-parameter-open-source-model-that-leaked-before-it-launched-b2cfbafe99ef?source=rss------data_science-5)
+- [Stop “Melting” Your Data: Why Polars is the Successor Pandas Needs](https://medium.com/@BryMei/stop-melting-your-data-why-polars-is-the-successor-pandas-needs-e8ada732cc87?source=rss------data_science-5)
+- [A Influência de Fatores Socioeconômicos sobre o Desempenho no ENEM](https://medium.com/@danilomarques04/a-influ%C3%AAncia-de-fatores-socioecon%C3%B4micos-sobre-o-desempenho-no-enem-645370f981fd?source=rss------data_science-5)
+- [The Hidden Impact of AI on Earth’s Oceans, Rivers, and Water Systems](https://medium.com/@gedlee480/the-hidden-impact-of-ai-on-earths-oceans-rivers-and-water-systems-1c4eda6ddc89?source=rss------data_science-5)
+- [SUBIT: Мінімальна дискретна космогонія](https://medium.com/@slavickciganec/subit-%D0%BC%D1%96%D0%BD%D1%96%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B4%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%B0-%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%B3%D0%BE%D0%BD%D1%96%D1%8F-63646192fc77?source=rss------data_science-5)
+- [The Real Software Shift Is Not AI. It Is Automation.](https://python.plainenglish.io/the-real-software-shift-is-not-ai-it-is-automation-531ba0860a77?source=rss------data_science-5)
+- [Yogic Intelligence &amp; AI-Driven Technology of Creation → The Future of Conscious Innovation](https://medium.com/@yogicintelligence07/yogic-intelligence-ai-driven-technology-of-creation-the-future-of-conscious-innovation-34652a88edc4?source=rss------data_science-5)
+- [Write Before Reading The News, Then, Watch The Birds, Instead](https://medium.com/roaring-rivers/write-before-reading-the-news-watch-the-birds-instead-ee4330b537b8?source=rss------data_science-5)
+- [From Messy Data to Meaningful Insight: The 6 Core Skills Every Data Analyst Should Master](https://medium.com/@udekontee/from-messy-data-to-meaningful-insight-the-6-core-skills-every-data-analyst-should-master-817f7a3e9864?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
