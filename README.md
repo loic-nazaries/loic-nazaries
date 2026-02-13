@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [AI is not breaking academia](https://medium.com/@wtc2189/ai-is-not-breaking-academia-2355e45a2135?source=rss------data_science-5)
-- [GLM-5: China’s 745B parameter open-source model that leaked before it launched](https://jpcaparas.medium.com/glm-5-chinas-745b-parameter-open-source-model-that-leaked-before-it-launched-b2cfbafe99ef?source=rss------data_science-5)
-- [Stop “Melting” Your Data: Why Polars is the Successor Pandas Needs](https://medium.com/@BryMei/stop-melting-your-data-why-polars-is-the-successor-pandas-needs-e8ada732cc87?source=rss------data_science-5)
-- [A Influência de Fatores Socioeconômicos sobre o Desempenho no ENEM](https://medium.com/@danilomarques04/a-influ%C3%AAncia-de-fatores-socioecon%C3%B4micos-sobre-o-desempenho-no-enem-645370f981fd?source=rss------data_science-5)
-- [The Hidden Impact of AI on Earth’s Oceans, Rivers, and Water Systems](https://medium.com/@gedlee480/the-hidden-impact-of-ai-on-earths-oceans-rivers-and-water-systems-1c4eda6ddc89?source=rss------data_science-5)
-- [SUBIT: Мінімальна дискретна космогонія](https://medium.com/@slavickciganec/subit-%D0%BC%D1%96%D0%BD%D1%96%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0-%D0%B4%D0%B8%D1%81%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%B0-%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%B3%D0%BE%D0%BD%D1%96%D1%8F-63646192fc77?source=rss------data_science-5)
-- [The Real Software Shift Is Not AI. It Is Automation.](https://python.plainenglish.io/the-real-software-shift-is-not-ai-it-is-automation-531ba0860a77?source=rss------data_science-5)
-- [Yogic Intelligence &amp; AI-Driven Technology of Creation → The Future of Conscious Innovation](https://medium.com/@yogicintelligence07/yogic-intelligence-ai-driven-technology-of-creation-the-future-of-conscious-innovation-34652a88edc4?source=rss------data_science-5)
-- [Write Before Reading The News, Then, Watch The Birds, Instead](https://medium.com/roaring-rivers/write-before-reading-the-news-watch-the-birds-instead-ee4330b537b8?source=rss------data_science-5)
-- [From Messy Data to Meaningful Insight: The 6 Core Skills Every Data Analyst Should Master](https://medium.com/@udekontee/from-messy-data-to-meaningful-insight-the-6-core-skills-every-data-analyst-should-master-817f7a3e9864?source=rss------data_science-5)
+- [How to Build an Earnings Briefing Engine Using the FMP API](https://medium.datadriveninvestor.com/how-to-build-an-earnings-briefing-engine-using-the-fmp-api-5450b18183e5?source=rss------data_science-5)
+- [Python in 2026 - Beyond Scripts to Production-Grade Systems](https://medium.com/@keshow1/python-in-2026-beyond-scripts-to-production-grade-systems-13287bffd0d6?source=rss------data_science-5)
+- [Same Question, Different Words — Do Search Rankings Stay Stable?](https://medium.com/@kaashishlalwani/same-question-different-words-do-search-rankings-stay-stable-2bf28c07cf20?source=rss------data_science-5)
+- [Best Gold Trading Strategy Using Volatility](https://medium.com/@sayedalimi19/best-gold-trading-strategy-using-volatility-d247c0d4b7ad?source=rss------data_science-5)
+- [The Unsung Hero – Documentation](https://aaravos.medium.com/the-unsung-hero-documentation-fdbb9de86088?source=rss------data_science-5)
+- [Edge Protocol: Pattern Detection Under Systemic Collapse](https://medium.com/@spamwilliamz/edge-protocol-pattern-detection-under-systemic-collapse-cffcdd6f9808?source=rss------data_science-5)
+- [Dealing With Different Facets of Self-Problems](https://medium.com/@raisamarohombsar1/dealing-with-different-facets-of-self-problems-1afa7b8f99cd?source=rss------data_science-5)
+- [Beyond Accuracy: Mastering the Confusion Matrix](https://medium.com/@OGTeam/cbeyond-accuracy-mastering-the-confusion-matrix-5181220475ba?source=rss------data_science-5)
+- [Debunking “Space is Fake”: Science, Satellites, and Conspiracies Explained](https://medium.com/@leewardill/debunking-space-is-fake-science-satellites-and-conspiracies-explained-270d398bd066?source=rss------data_science-5)
+- [Probability: from the physical world to artificial intelligence](https://francisco-rodrigues.medium.com/probability-from-the-physical-world-to-artificial-intelligence-da90a27f798a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
