@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Build an Earnings Briefing Engine Using the FMP API](https://medium.datadriveninvestor.com/how-to-build-an-earnings-briefing-engine-using-the-fmp-api-5450b18183e5?source=rss------data_science-5)
-- [Python in 2026 - Beyond Scripts to Production-Grade Systems](https://medium.com/@keshow1/python-in-2026-beyond-scripts-to-production-grade-systems-13287bffd0d6?source=rss------data_science-5)
-- [Same Question, Different Words — Do Search Rankings Stay Stable?](https://medium.com/@kaashishlalwani/same-question-different-words-do-search-rankings-stay-stable-2bf28c07cf20?source=rss------data_science-5)
-- [Best Gold Trading Strategy Using Volatility](https://medium.com/@sayedalimi19/best-gold-trading-strategy-using-volatility-d247c0d4b7ad?source=rss------data_science-5)
-- [The Unsung Hero – Documentation](https://aaravos.medium.com/the-unsung-hero-documentation-fdbb9de86088?source=rss------data_science-5)
-- [Edge Protocol: Pattern Detection Under Systemic Collapse](https://medium.com/@spamwilliamz/edge-protocol-pattern-detection-under-systemic-collapse-cffcdd6f9808?source=rss------data_science-5)
-- [Dealing With Different Facets of Self-Problems](https://medium.com/@raisamarohombsar1/dealing-with-different-facets-of-self-problems-1afa7b8f99cd?source=rss------data_science-5)
-- [Beyond Accuracy: Mastering the Confusion Matrix](https://medium.com/@OGTeam/cbeyond-accuracy-mastering-the-confusion-matrix-5181220475ba?source=rss------data_science-5)
-- [Debunking “Space is Fake”: Science, Satellites, and Conspiracies Explained](https://medium.com/@leewardill/debunking-space-is-fake-science-satellites-and-conspiracies-explained-270d398bd066?source=rss------data_science-5)
-- [Probability: from the physical world to artificial intelligence](https://francisco-rodrigues.medium.com/probability-from-the-physical-world-to-artificial-intelligence-da90a27f798a?source=rss------data_science-5)
+- [The Invariant Shadow: The Topological Physics of the Vacuum Fingerprint](https://medium.com/@zachbobby8/the-invariant-shadow-the-topological-physics-of-the-vacuum-fingerprint-af2633156e74?source=rss------data_science-5)
+- [What Shapes the Learning Process of the Ukulele?](https://medium.com/@AlejoAlvaradoBar/what-shapes-the-learning-process-of-the-ukulele-464bc9cbe59d?source=rss------data_science-5)
+- [8 Python Projects That Reignited My Love for Coding](https://blog.stackademic.com/8-python-projects-that-reignited-my-love-for-coding-fdcffbbaaae6?source=rss------data_science-5)
+- [Database as Social Media: เมื่อฐานข้อมูลไม่ได้แค่เก็บข้อมูล…](https://medium.com/@maae2517/database-as-social-media-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%9A%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5-15ddfecf8190?source=rss------data_science-5)
+- [The Death of Microservices: Why AI Will Return Us to the Golden Age of the Monolith](https://medium.com/@w.lacerda/the-death-of-microservices-why-ai-will-return-us-to-the-golden-age-of-the-monolith-83623ffde283?source=rss------data_science-5)
+- [Google Analytics 4 in 2026: Why Dashboards Aren’t Enough Anymore](https://medium.com/@Jay_Code_Life/google-analytics-4-in-2026-why-dashboards-arent-enough-anymore-b66caed1abda?source=rss------data_science-5)
+- [How We Cut Our Java GC Pauses by 80%: A Pragmatic Guide to Tuning Without Losing Your Mind](https://cachecowboy.medium.com/how-we-cut-our-java-gc-pauses-by-80-a-pragmatic-guide-to-tuning-without-losing-your-mind-a5f7c5b403ad?source=rss------data_science-5)
+- [Pharmacometabolomics of Microbiome-Drug Interaction: How Gut Bacteria Alter Drug Molecules Before…](https://medium.com/@aditrizky052/pharmacometabolomics-of-microbiome-drug-interaction-how-gut-bacteria-alter-drug-molecules-before-496ad846e908?source=rss------data_science-5)
+- [How I Think About Data Visualization as a Data Analyst](https://medium.com/@ibrahimrasidagic/how-i-think-about-data-visualization-as-a-data-analyst-dc494cf50d47?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
