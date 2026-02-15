@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Invariant Shadow: The Topological Physics of the Vacuum Fingerprint](https://medium.com/@zachbobby8/the-invariant-shadow-the-topological-physics-of-the-vacuum-fingerprint-af2633156e74?source=rss------data_science-5)
-- [What Shapes the Learning Process of the Ukulele?](https://medium.com/@AlejoAlvaradoBar/what-shapes-the-learning-process-of-the-ukulele-464bc9cbe59d?source=rss------data_science-5)
-- [8 Python Projects That Reignited My Love for Coding](https://blog.stackademic.com/8-python-projects-that-reignited-my-love-for-coding-fdcffbbaaae6?source=rss------data_science-5)
-- [Database as Social Media: เมื่อฐานข้อมูลไม่ได้แค่เก็บข้อมูล…](https://medium.com/@maae2517/database-as-social-media-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%9A%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5-15ddfecf8190?source=rss------data_science-5)
-- [The Death of Microservices: Why AI Will Return Us to the Golden Age of the Monolith](https://medium.com/@w.lacerda/the-death-of-microservices-why-ai-will-return-us-to-the-golden-age-of-the-monolith-83623ffde283?source=rss------data_science-5)
-- [Google Analytics 4 in 2026: Why Dashboards Aren’t Enough Anymore](https://medium.com/@Jay_Code_Life/google-analytics-4-in-2026-why-dashboards-arent-enough-anymore-b66caed1abda?source=rss------data_science-5)
-- [How We Cut Our Java GC Pauses by 80%: A Pragmatic Guide to Tuning Without Losing Your Mind](https://cachecowboy.medium.com/how-we-cut-our-java-gc-pauses-by-80-a-pragmatic-guide-to-tuning-without-losing-your-mind-a5f7c5b403ad?source=rss------data_science-5)
-- [Pharmacometabolomics of Microbiome-Drug Interaction: How Gut Bacteria Alter Drug Molecules Before…](https://medium.com/@aditrizky052/pharmacometabolomics-of-microbiome-drug-interaction-how-gut-bacteria-alter-drug-molecules-before-496ad846e908?source=rss------data_science-5)
-- [How I Think About Data Visualization as a Data Analyst](https://medium.com/@ibrahimrasidagic/how-i-think-about-data-visualization-as-a-data-analyst-dc494cf50d47?source=rss------data_science-5)
+- [Sexual Recession: A Threat for East Asian Countries &amp; Global Economy](https://medium.com/@salmawinola0301/sexual-recession-a-threat-for-east-asian-countries-global-economy-6e5e35346fb8?source=rss------data_science-5)
+- [8 AI Skill Gaps I Realized I Had &lpar;And the Books That Forced Me to Level Up&rpar;](https://medium.com/@neurominimal/8-ai-skill-gaps-i-realized-i-had-and-the-books-that-forced-me-to-level-up-9d29653fa2bf?source=rss------data_science-5)
+- [An Ode to Vibe Coding](https://eric-sandosham.medium.com/an-ode-to-vibe-coding-07a222eafbcb?source=rss------data_science-5)
+- [When a 20-Minute Wait Means Blindness: Building an ML Diagnostic Tool for Eye Care in Lagos.](https://medium.com/@alimbidmus57/when-a-20-minute-wait-means-blindness-building-an-ml-diagnostic-tool-for-eye-care-in-lagos-44fa79577bb5?source=rss------data_science-5)
+- [Sometimes what confirms your next step isn’t the content, but the community around it.](https://euniceeduf.medium.com/sometimes-what-confirms-your-next-step-isnt-the-content-but-the-community-around-it-27150d1617fd?source=rss------data_science-5)
+- [Vector Databases and Embeddings: The Foundation of Semantic Search](https://medium.com/data-science-collective/vector-databases-and-embeddings-the-foundation-of-semantic-search-d7db677af9ae?source=rss------data_science-5)
+- [How to claim zaddy coin reward](https://medium.com/@barman40_21650/how-to-claim-zaddy-coin-reward-76ded9b1ecc1?source=rss------data_science-5)
+- [How to purchase SONAMI &lpar;SNMI&rpar; presale tokens](https://medium.com/@barman40_21650/how-to-purchase-sonami-snmi-presale-tokens-a463c9118291?source=rss------data_science-5)
+- [The &quot;System of Governance&quot;: Why agwX is Disrupting the Global Healthcare OS](https://medium.com/@Nancythomass/the-system-of-governance-why-agwx-is-disrupting-the-global-healthcare-os-23a4f84ffef0?source=rss------data_science-5)
+- [If Anyone Builds It, Everyone Dies](https://soumonsou.medium.com/if-anyone-builds-it-everyone-dies-913c09ec00ad?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
