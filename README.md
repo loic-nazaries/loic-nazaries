@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Sexual Recession: A Threat for East Asian Countries &amp; Global Economy](https://medium.com/@salmawinola0301/sexual-recession-a-threat-for-east-asian-countries-global-economy-6e5e35346fb8?source=rss------data_science-5)
-- [8 AI Skill Gaps I Realized I Had &lpar;And the Books That Forced Me to Level Up&rpar;](https://medium.com/@neurominimal/8-ai-skill-gaps-i-realized-i-had-and-the-books-that-forced-me-to-level-up-9d29653fa2bf?source=rss------data_science-5)
-- [An Ode to Vibe Coding](https://eric-sandosham.medium.com/an-ode-to-vibe-coding-07a222eafbcb?source=rss------data_science-5)
-- [When a 20-Minute Wait Means Blindness: Building an ML Diagnostic Tool for Eye Care in Lagos.](https://medium.com/@alimbidmus57/when-a-20-minute-wait-means-blindness-building-an-ml-diagnostic-tool-for-eye-care-in-lagos-44fa79577bb5?source=rss------data_science-5)
-- [Sometimes what confirms your next step isn’t the content, but the community around it.](https://euniceeduf.medium.com/sometimes-what-confirms-your-next-step-isnt-the-content-but-the-community-around-it-27150d1617fd?source=rss------data_science-5)
-- [Vector Databases and Embeddings: The Foundation of Semantic Search](https://medium.com/data-science-collective/vector-databases-and-embeddings-the-foundation-of-semantic-search-d7db677af9ae?source=rss------data_science-5)
-- [How to claim zaddy coin reward](https://medium.com/@barman40_21650/how-to-claim-zaddy-coin-reward-76ded9b1ecc1?source=rss------data_science-5)
-- [How to purchase SONAMI &lpar;SNMI&rpar; presale tokens](https://medium.com/@barman40_21650/how-to-purchase-sonami-snmi-presale-tokens-a463c9118291?source=rss------data_science-5)
-- [The &quot;System of Governance&quot;: Why agwX is Disrupting the Global Healthcare OS](https://medium.com/@Nancythomass/the-system-of-governance-why-agwx-is-disrupting-the-global-healthcare-os-23a4f84ffef0?source=rss------data_science-5)
-- [If Anyone Builds It, Everyone Dies](https://soumonsou.medium.com/if-anyone-builds-it-everyone-dies-913c09ec00ad?source=rss------data_science-5)
+- [This NEW Indicator Detects Forex Trends Before They Start](https://medium.com/@sayedalimi19/this-new-indicator-detects-forex-trends-before-they-start-3c5412c377a8?source=rss------data_science-5)
+- [Inside a Gas Turbine: What Data Reveals About Emissions, Efficiency and Hidden Operating States](https://medium.com/@abirammohan/inside-a-gas-turbine-what-data-reveals-about-emissions-efficiency-and-hidden-operating-states-916d62663cdf?source=rss------data_science-5)
+- [Mastering Python Data Structures for Data Engineering: 60+ Production-Ready Solutions](https://mayursurani.medium.com/mastering-python-data-structures-for-data-engineering-60-production-ready-solutions-808495215324?source=rss------data_science-5)
+- [Want to be an astronaut? Join the Air Force and get a Master’s degree…maybe.](https://vivekbhookya.medium.com/want-to-be-an-astronaut-join-the-air-force-and-get-a-masters-degree-maybe-1aaa6cf19554?source=rss------data_science-5)
+- [Your AI’s Replies are Only as Smart as Your Question, Research by Anthropic Shows](https://lucianosphere.medium.com/your-ais-replies-are-only-as-smart-as-your-question-research-by-anthropic-shows-731ee11da457?source=rss------data_science-5)
+- [Exploring Rental Housing Dynamics: A Data-Driven Analysis](https://medium.com/@m.ishwaryarani/exploring-rental-housing-dynamics-a-data-driven-analysis-cb0e16e36f9e?source=rss------data_science-5)
+- [The 11 Deployment Checks That Catch ML Skew Early](https://medium.com/@ThinkingLoop/the-11-deployment-checks-that-catch-ml-skew-early-3f63295d1096?source=rss------data_science-5)
+- [The Universe Tried to Hide the Gravity Particle. Physics Found a Loophole.](https://medium.com/@plvick/the-universe-tried-to-hide-the-gravity-particle-physics-found-a-loophole-1a9c4d8d1389?source=rss------data_science-5)
+- [Topic Taxonomy: The Invisible Architecture Behind Intelligent Systems](https://blog.stackademic.com/topic-taxonomy-the-invisible-architecture-behind-intelligent-systems-493e0a98e3c1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
