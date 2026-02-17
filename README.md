@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [This NEW Indicator Detects Forex Trends Before They Start](https://medium.com/@sayedalimi19/this-new-indicator-detects-forex-trends-before-they-start-3c5412c377a8?source=rss------data_science-5)
-- [Inside a Gas Turbine: What Data Reveals About Emissions, Efficiency and Hidden Operating States](https://medium.com/@abirammohan/inside-a-gas-turbine-what-data-reveals-about-emissions-efficiency-and-hidden-operating-states-916d62663cdf?source=rss------data_science-5)
-- [Mastering Python Data Structures for Data Engineering: 60+ Production-Ready Solutions](https://mayursurani.medium.com/mastering-python-data-structures-for-data-engineering-60-production-ready-solutions-808495215324?source=rss------data_science-5)
-- [Want to be an astronaut? Join the Air Force and get a Master’s degree…maybe.](https://vivekbhookya.medium.com/want-to-be-an-astronaut-join-the-air-force-and-get-a-masters-degree-maybe-1aaa6cf19554?source=rss------data_science-5)
-- [Your AI’s Replies are Only as Smart as Your Question, Research by Anthropic Shows](https://lucianosphere.medium.com/your-ais-replies-are-only-as-smart-as-your-question-research-by-anthropic-shows-731ee11da457?source=rss------data_science-5)
-- [Exploring Rental Housing Dynamics: A Data-Driven Analysis](https://medium.com/@m.ishwaryarani/exploring-rental-housing-dynamics-a-data-driven-analysis-cb0e16e36f9e?source=rss------data_science-5)
-- [The 11 Deployment Checks That Catch ML Skew Early](https://medium.com/@ThinkingLoop/the-11-deployment-checks-that-catch-ml-skew-early-3f63295d1096?source=rss------data_science-5)
-- [The Universe Tried to Hide the Gravity Particle. Physics Found a Loophole.](https://medium.com/@plvick/the-universe-tried-to-hide-the-gravity-particle-physics-found-a-loophole-1a9c4d8d1389?source=rss------data_science-5)
-- [Topic Taxonomy: The Invisible Architecture Behind Intelligent Systems](https://blog.stackademic.com/topic-taxonomy-the-invisible-architecture-behind-intelligent-systems-493e0a98e3c1?source=rss------data_science-5)
+- [Keeping Your North Star: First Principles Thinking in the Age of AI](https://medium.com/@michaelgurule1164/keeping-your-north-star-first-principles-thinking-in-the-age-of-ai-e6cb32113c5d?source=rss------data_science-5)
+- [The “Unfair Advantage” Formula: How to Hybridize Boring Skills into a 10x Career](https://medium.com/@neurominimal/the-unfair-advantage-formula-how-to-hybridize-boring-skills-into-a-10x-career-fdc75ba9dbab?source=rss------data_science-5)
+- [I Worked 70-Hour Weeks For Eight Months at Amazon And My Manager Said I Wasn&#39;t Committed Enough.](https://medium.com/illumination/i-worked-70-hour-weeks-for-eight-months-at-amazon-and-my-manager-said-i-wasnt-committed-enough-9122ba6d73a6?source=rss------data_science-5)
+- [I Built a Transformer to Predict When Gamers Rage Quit — Here’s What It Learned](https://medium.com/@yashrajjadhav269/i-built-a-transformer-to-predict-when-gamers-rage-quit-heres-what-it-learned-80425d4ff4c8?source=rss------data_science-5)
+- [I Rebuilt My Entire Workflow Using Python. I Am Never Going Back.](https://medium.com/illumination/i-rebuilt-my-entire-workflow-using-python-i-am-never-going-back-40a1c79fb12a?source=rss------data_science-5)
+- [The Scoring Fingerprints of Elite College Basketball Teams](https://medium.com/@ghighcove/the-scoring-fingerprints-of-elite-college-basketball-teams-0228a30638e6?source=rss------data_science-5)
+- [Alibaba just open-sourced a model that rivals GPT-5.2](https://medium.com/reading-sh/alibaba-just-open-sourced-a-model-that-rivals-gpt-5-2-708502e25250?source=rss------data_science-5)
+- [Why PPDA Fails: Building a Six-Dimensional Pressing Metric](https://medium.com/@matsvaneijk/why-ppda-fails-building-a-six-dimensional-pressing-metric-6c882091f540?source=rss------data_science-5)
+- [Farewell to Paper People: From Human Simulation to Human Simulator](https://medium.com/@zhouyufan365/farewell-to-paper-people-from-human-simulation-to-human-simulator-02c06ac27fb5?source=rss------data_science-5)
+- [500 Applicants. 2 Hires. The Data Science Skill Gap No One Talks About.](https://medium.com/@TheresearchReporter/500-applicants-2-hires-the-data-science-skill-gap-no-one-talks-about-8f043faef8a2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
