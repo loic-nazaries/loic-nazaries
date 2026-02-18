@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Keeping Your North Star: First Principles Thinking in the Age of AI](https://medium.com/@michaelgurule1164/keeping-your-north-star-first-principles-thinking-in-the-age-of-ai-e6cb32113c5d?source=rss------data_science-5)
-- [The “Unfair Advantage” Formula: How to Hybridize Boring Skills into a 10x Career](https://medium.com/@neurominimal/the-unfair-advantage-formula-how-to-hybridize-boring-skills-into-a-10x-career-fdc75ba9dbab?source=rss------data_science-5)
-- [I Worked 70-Hour Weeks For Eight Months at Amazon And My Manager Said I Wasn&#39;t Committed Enough.](https://medium.com/illumination/i-worked-70-hour-weeks-for-eight-months-at-amazon-and-my-manager-said-i-wasnt-committed-enough-9122ba6d73a6?source=rss------data_science-5)
-- [I Built a Transformer to Predict When Gamers Rage Quit — Here’s What It Learned](https://medium.com/@yashrajjadhav269/i-built-a-transformer-to-predict-when-gamers-rage-quit-heres-what-it-learned-80425d4ff4c8?source=rss------data_science-5)
-- [I Rebuilt My Entire Workflow Using Python. I Am Never Going Back.](https://medium.com/illumination/i-rebuilt-my-entire-workflow-using-python-i-am-never-going-back-40a1c79fb12a?source=rss------data_science-5)
-- [The Scoring Fingerprints of Elite College Basketball Teams](https://medium.com/@ghighcove/the-scoring-fingerprints-of-elite-college-basketball-teams-0228a30638e6?source=rss------data_science-5)
-- [Alibaba just open-sourced a model that rivals GPT-5.2](https://medium.com/reading-sh/alibaba-just-open-sourced-a-model-that-rivals-gpt-5-2-708502e25250?source=rss------data_science-5)
-- [Why PPDA Fails: Building a Six-Dimensional Pressing Metric](https://medium.com/@matsvaneijk/why-ppda-fails-building-a-six-dimensional-pressing-metric-6c882091f540?source=rss------data_science-5)
-- [Farewell to Paper People: From Human Simulation to Human Simulator](https://medium.com/@zhouyufan365/farewell-to-paper-people-from-human-simulation-to-human-simulator-02c06ac27fb5?source=rss------data_science-5)
-- [500 Applicants. 2 Hires. The Data Science Skill Gap No One Talks About.](https://medium.com/@TheresearchReporter/500-applicants-2-hires-the-data-science-skill-gap-no-one-talks-about-8f043faef8a2?source=rss------data_science-5)
+- [&#39;’’Natacha Love’’&#39; is a Haitian reggaeton and hip hop singer who gained recognition in 2017 with…](https://medium.com/@BrotherswaggStudioRecords/natacha-love-is-a-haitian-reggaeton-and-hip-hop-singer-who-gained-recognition-in-2017-with-7aeae9580f02?source=rss------data_science-5)
+- [Why Most Buy Signals Are Traps &lpar;And How to Avoid Them&rpar;](https://medium.com/@sayedalimi19/why-most-buy-signals-are-traps-and-how-to-avoid-them-18cdd9cd3d88?source=rss------data_science-5)
+- [The NLP Landscape: From 1960 to 2020
+From Rule-Based Systems to Transformers: The Scientific…](https://medium.com/@swayamsikharwar/the-nlp-landscape-from-1960-to-2020-from-rule-based-systems-to-transformers-the-scientific-2782af1b4c9c?source=rss------data_science-5)
+- [The 10 Best Practices for Building Reliable AI Agents](https://medium.com/@sasikanth_36595/the-10-best-practices-for-building-reliable-ai-agents-a5f14cb737fa?source=rss------data_science-5)
+- [Claude Sonnet 4.6 Deep Dive: Opus-Level Intelligence at Sonnet Pricing](https://medium.com/@cenrunzhe/claude-sonnet-4-6-deep-dive-opus-level-intelligence-at-sonnet-pricing-a0926d608908?source=rss------data_science-5)
+- [LLM and RAG — Detail Explaination](https://medium.com/@pranavsb699/llm-and-rag-detail-explaination-08e359bbddb4?source=rss------data_science-5)
+- [De “novidade” a diferencial competitivo: o que aprendi liderando um projeto com LLM em 2023](https://medium.com/@vitor.71hugo/de-novidade-a-diferencial-competitivo-o-que-aprendi-liderando-um-projeto-com-llm-em-2023-8095254bc9f2?source=rss------data_science-5)
+- [So Apparently the “Trans Rights Backlash is Real” And its Trans People’s Fault](https://medium.com/@LizBeth1400/so-apparently-the-trans-rights-backlash-is-real-and-its-trans-peoples-fault-eea177e89cde?source=rss------data_science-5)
+- [Day 1/30&#39;](https://medium.com/@daretolu2/day-1-30-3a35022b7b03?source=rss------data_science-5)
+- [The Spreadsheet Revolution: Top 10 Apps for Data-Driven Decisions](https://medium.com/@nathan.smith.scoop/the-spreadsheet-revolution-top-10-apps-for-data-driven-decisions-443234928b56?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
