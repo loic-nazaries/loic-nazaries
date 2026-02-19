@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [&#39;’’Natacha Love’’&#39; is a Haitian reggaeton and hip hop singer who gained recognition in 2017 with…](https://medium.com/@BrotherswaggStudioRecords/natacha-love-is-a-haitian-reggaeton-and-hip-hop-singer-who-gained-recognition-in-2017-with-7aeae9580f02?source=rss------data_science-5)
-- [Why Most Buy Signals Are Traps &lpar;And How to Avoid Them&rpar;](https://medium.com/@sayedalimi19/why-most-buy-signals-are-traps-and-how-to-avoid-them-18cdd9cd3d88?source=rss------data_science-5)
-- [The NLP Landscape: From 1960 to 2020
-From Rule-Based Systems to Transformers: The Scientific…](https://medium.com/@swayamsikharwar/the-nlp-landscape-from-1960-to-2020-from-rule-based-systems-to-transformers-the-scientific-2782af1b4c9c?source=rss------data_science-5)
-- [The 10 Best Practices for Building Reliable AI Agents](https://medium.com/@sasikanth_36595/the-10-best-practices-for-building-reliable-ai-agents-a5f14cb737fa?source=rss------data_science-5)
-- [Claude Sonnet 4.6 Deep Dive: Opus-Level Intelligence at Sonnet Pricing](https://medium.com/@cenrunzhe/claude-sonnet-4-6-deep-dive-opus-level-intelligence-at-sonnet-pricing-a0926d608908?source=rss------data_science-5)
-- [LLM and RAG — Detail Explaination](https://medium.com/@pranavsb699/llm-and-rag-detail-explaination-08e359bbddb4?source=rss------data_science-5)
-- [De “novidade” a diferencial competitivo: o que aprendi liderando um projeto com LLM em 2023](https://medium.com/@vitor.71hugo/de-novidade-a-diferencial-competitivo-o-que-aprendi-liderando-um-projeto-com-llm-em-2023-8095254bc9f2?source=rss------data_science-5)
-- [So Apparently the “Trans Rights Backlash is Real” And its Trans People’s Fault](https://medium.com/@LizBeth1400/so-apparently-the-trans-rights-backlash-is-real-and-its-trans-peoples-fault-eea177e89cde?source=rss------data_science-5)
-- [Day 1/30&#39;](https://medium.com/@daretolu2/day-1-30-3a35022b7b03?source=rss------data_science-5)
-- [The Spreadsheet Revolution: Top 10 Apps for Data-Driven Decisions](https://medium.com/@nathan.smith.scoop/the-spreadsheet-revolution-top-10-apps-for-data-driven-decisions-443234928b56?source=rss------data_science-5)
+- [Why I Wrote Foundations of Wavelet Analysis](https://medium.com/@shouke.wei/why-i-wrote-foundations-of-wavelet-analysis-c08c65a0ac57?source=rss------data_science-5)
+- [Grok 4.20’s Four-Agent Architecture: How to solve AI’s Hallucination with Multi-Agent Collaboration](https://medium.com/@cenrunzhe/grok-4-20s-four-agent-architecture-how-to-solve-ai-s-hallucination-with-multi-agent-collaboration-33b20f4226e7?source=rss------data_science-5)
+- [The Future of Collaboration: AI as a Teammate](https://aaravos.medium.com/the-future-of-collaboration-ai-as-a-teammate-24da0bf0b554?source=rss------data_science-5)
+- [Why Presence is the New Marketing Currency in 2026](https://medium.com/@arinvotechsolution/why-presence-is-the-new-marketing-currency-in-2026-880ae2210fd5?source=rss------data_science-5)
+- [The Algorithm’s Sanad: Unveiling “Frankenstein Hallucinations” in Enterprise AI](https://medium.com/@fariswhitecyber/the-algorithms-sanad-unveiling-frankenstein-hallucinations-in-enterprise-ai-cd752a9ab60d?source=rss------data_science-5)
+- [Redução de dimensionalidade como engenharia do espaço](https://medium.com/@yucavalcante/redu%C3%A7%C3%A3o-de-dimensionalidade-como-engenharia-do-espa%C3%A7o-2a8d6aefec6d?source=rss------data_science-5)
+- [Solving the Parity Crisis: A Monte Carlo Analysis of the 2027 MLB Lockout](https://medium.com/@isaac.ciravolo/solving-the-parity-crisis-a-monte-carlo-analysis-of-the-2027-mlb-lockout-b9bcb1721cff?source=rss------data_science-5)
+- [11 59 one minute till midnight](https://medium.com/@chloemoretz1976/11-59-one-minute-till-midnight-5e611f40dcd2?source=rss------data_science-5)
+- [I Built RAG for Medical Records. Here’s What Actually Broke.](https://medium.com/@remi_pimpin/i-built-rag-for-medical-records-heres-what-actually-broke-91bab4b2fc3c?source=rss------data_science-5)
+- [The Marketing Frontier: AI, Agents, and the New Rules of Discovery](https://medium.com/design-bootcamp/the-marketing-frontier-ai-agents-and-the-new-rules-of-discovery-824858ea8491?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
