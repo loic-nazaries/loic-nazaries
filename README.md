@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why I Wrote Foundations of Wavelet Analysis](https://medium.com/@shouke.wei/why-i-wrote-foundations-of-wavelet-analysis-c08c65a0ac57?source=rss------data_science-5)
-- [Grok 4.20’s Four-Agent Architecture: How to solve AI’s Hallucination with Multi-Agent Collaboration](https://medium.com/@cenrunzhe/grok-4-20s-four-agent-architecture-how-to-solve-ai-s-hallucination-with-multi-agent-collaboration-33b20f4226e7?source=rss------data_science-5)
-- [The Future of Collaboration: AI as a Teammate](https://aaravos.medium.com/the-future-of-collaboration-ai-as-a-teammate-24da0bf0b554?source=rss------data_science-5)
-- [Why Presence is the New Marketing Currency in 2026](https://medium.com/@arinvotechsolution/why-presence-is-the-new-marketing-currency-in-2026-880ae2210fd5?source=rss------data_science-5)
-- [The Algorithm’s Sanad: Unveiling “Frankenstein Hallucinations” in Enterprise AI](https://medium.com/@fariswhitecyber/the-algorithms-sanad-unveiling-frankenstein-hallucinations-in-enterprise-ai-cd752a9ab60d?source=rss------data_science-5)
-- [Redução de dimensionalidade como engenharia do espaço](https://medium.com/@yucavalcante/redu%C3%A7%C3%A3o-de-dimensionalidade-como-engenharia-do-espa%C3%A7o-2a8d6aefec6d?source=rss------data_science-5)
-- [Solving the Parity Crisis: A Monte Carlo Analysis of the 2027 MLB Lockout](https://medium.com/@isaac.ciravolo/solving-the-parity-crisis-a-monte-carlo-analysis-of-the-2027-mlb-lockout-b9bcb1721cff?source=rss------data_science-5)
-- [11 59 one minute till midnight](https://medium.com/@chloemoretz1976/11-59-one-minute-till-midnight-5e611f40dcd2?source=rss------data_science-5)
-- [I Built RAG for Medical Records. Here’s What Actually Broke.](https://medium.com/@remi_pimpin/i-built-rag-for-medical-records-heres-what-actually-broke-91bab4b2fc3c?source=rss------data_science-5)
-- [The Marketing Frontier: AI, Agents, and the New Rules of Discovery](https://medium.com/design-bootcamp/the-marketing-frontier-ai-agents-and-the-new-rules-of-discovery-824858ea8491?source=rss------data_science-5)
+- [Working At Amazon Made Me Good At My Job And Bad At Being A Person.](https://medium.com/illumination/working-at-amazon-made-me-good-at-my-job-and-bad-at-being-a-person-d01360cacdc4?source=rss------data_science-5)
+- [SQL Series 2: Set Operations: UNION, UNION ALL, INTERSECT, EXCEPT in SQL— The Art of Combining…](https://mayursurani.medium.com/sql-series-2-set-operations-union-union-all-intersect-except-in-sql-the-art-of-combining-b7100112ca43?source=rss------data_science-5)
+- [Building a Production-Ready SaaS Churn Prediction System](https://medium.com/@SakshiChavan/building-a-production-ready-saas-churn-prediction-system-009559b67119?source=rss------data_science-5)
+- [Part 1 — Before Modeling: Load and Validate the Iris Dataset](https://medium.com/@nagasameer/part-1-before-modeling-load-and-validate-the-iris-dataset-511981e83345?source=rss------data_science-5)
+- [Badbox 2.0 Botnet: Digital Investigation](https://medium.com/@CyberRaya/badbox-2-0-botnet-digital-investigation-af5d15c4d5f7?source=rss------data_science-5)
+- [TikTok invisibly tracking you even if you don’t have the App, Meta using AI to resurrect the dead…](https://medium.com/law-and-ethics-in-tech/tiktok-invisibly-tracking-you-even-if-you-dont-have-the-app-meta-using-ai-to-resurrect-the-dead-704edef18a44?source=rss------data_science-5)
+- [AI for 1.4 Billion: How India Plans to Democratize Artificial Intelligence — Insights from the…](https://medium.com/@its.shoryabisht/is-india-ready-to-become-a-global-ai-powerhouse-insights-from-the-india-ai-impact-summit-2026-4250f79606d9?source=rss------data_science-5)
+- [The Rising Importance of Data Scientists in the Future](https://medium.com/@kavita.bisht0829/the-rising-importance-of-data-scientists-in-the-future-8a103888f1b5?source=rss------data_science-5)
+- [Resume Library Python](https://medium.com/@azqasyms07/resume-library-python-8b2523789b35?source=rss------data_science-5)
+- [Why Everyone Is Learning Python in 2026](https://python.plainenglish.io/why-everyone-is-learning-python-in-2026-664e43ae7aa7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
