@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Working At Amazon Made Me Good At My Job And Bad At Being A Person.](https://medium.com/illumination/working-at-amazon-made-me-good-at-my-job-and-bad-at-being-a-person-d01360cacdc4?source=rss------data_science-5)
-- [SQL Series 2: Set Operations: UNION, UNION ALL, INTERSECT, EXCEPT in SQL— The Art of Combining…](https://mayursurani.medium.com/sql-series-2-set-operations-union-union-all-intersect-except-in-sql-the-art-of-combining-b7100112ca43?source=rss------data_science-5)
-- [Building a Production-Ready SaaS Churn Prediction System](https://medium.com/@SakshiChavan/building-a-production-ready-saas-churn-prediction-system-009559b67119?source=rss------data_science-5)
-- [Part 1 — Before Modeling: Load and Validate the Iris Dataset](https://medium.com/@nagasameer/part-1-before-modeling-load-and-validate-the-iris-dataset-511981e83345?source=rss------data_science-5)
-- [Badbox 2.0 Botnet: Digital Investigation](https://medium.com/@CyberRaya/badbox-2-0-botnet-digital-investigation-af5d15c4d5f7?source=rss------data_science-5)
-- [TikTok invisibly tracking you even if you don’t have the App, Meta using AI to resurrect the dead…](https://medium.com/law-and-ethics-in-tech/tiktok-invisibly-tracking-you-even-if-you-dont-have-the-app-meta-using-ai-to-resurrect-the-dead-704edef18a44?source=rss------data_science-5)
-- [AI for 1.4 Billion: How India Plans to Democratize Artificial Intelligence — Insights from the…](https://medium.com/@its.shoryabisht/is-india-ready-to-become-a-global-ai-powerhouse-insights-from-the-india-ai-impact-summit-2026-4250f79606d9?source=rss------data_science-5)
-- [The Rising Importance of Data Scientists in the Future](https://medium.com/@kavita.bisht0829/the-rising-importance-of-data-scientists-in-the-future-8a103888f1b5?source=rss------data_science-5)
-- [Resume Library Python](https://medium.com/@azqasyms07/resume-library-python-8b2523789b35?source=rss------data_science-5)
-- [Why Everyone Is Learning Python in 2026](https://python.plainenglish.io/why-everyone-is-learning-python-in-2026-664e43ae7aa7?source=rss------data_science-5)
+- [Client Spotlight: TeenSmart International](https://blog.deltanalytics.org/client-spotlight-teensmart-international-ebfca82305cc?source=rss------data_science-5)
+- [A Tropical Flag in the Snow: Puerto Rico and the Winter Olympics, Through Data](https://medium.com/@juandes/a-tropical-flag-in-the-snow-puerto-rico-and-the-winter-olympics-through-data-630464d07fa2?source=rss------data_science-5)
+- [Daniel as Crisis Interpretation Under Empire](https://medium.com/@simonasmaidziunaite/daniel-as-crisis-interpretation-under-empire-04d2943922f1?source=rss------data_science-5)
+- [Data Science Is Not Saturated — You’re Just Competing the Wrong Way](https://medium.com/@hammadfarooq470/data-science-is-not-saturated-youre-just-competing-the-wrong-way-336c38629c03?source=rss------data_science-5)
+- [The Calculus of Ultimate Equity: The Mathematical Architecture of Cosmic Justice](https://medium.com/@bolnoir5059/the-calculus-of-ultimate-equity-the-mathematical-architecture-of-cosmic-justice-6697875539e7?source=rss------data_science-5)
+- [LLMs Count with Geometry: Claude’s 6D Helix for Line Breaks](https://medium.com/coding-nexus/llms-count-with-geometry-claudes-6d-helix-for-line-breaks-69b5aebe31a0?source=rss------data_science-5)
+- [Prompt Engineering: Saying what matters most](https://chetnakhanna.medium.com/prompt-engineering-saying-what-matters-most-a040f1f8f7c2?source=rss------data_science-5)
+- [Pruebas de Normalidad en Ciencia de Datos](https://medium.com/@gladyschoqueulloa20/pruebas-de-normalidad-en-ciencia-de-datos-f0f9775c1469?source=rss------data_science-5)
+- [How Reproducibility Drives AI Trust](https://medium.com/@meisshaily/how-reproducibility-drives-ai-trust-99d9e4d266f2?source=rss------data_science-5)
+- [Semi-Supervised Learning Explained: Learning from Small Labeled Data and Large Unlabeled Data](https://medium.com/@techie_chandan/semi-supervised-learning-explained-learning-from-small-labeled-data-and-large-unlabeled-data-cc85f5932026?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
