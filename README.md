@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Client Spotlight: TeenSmart International](https://blog.deltanalytics.org/client-spotlight-teensmart-international-ebfca82305cc?source=rss------data_science-5)
-- [A Tropical Flag in the Snow: Puerto Rico and the Winter Olympics, Through Data](https://medium.com/@juandes/a-tropical-flag-in-the-snow-puerto-rico-and-the-winter-olympics-through-data-630464d07fa2?source=rss------data_science-5)
-- [Daniel as Crisis Interpretation Under Empire](https://medium.com/@simonasmaidziunaite/daniel-as-crisis-interpretation-under-empire-04d2943922f1?source=rss------data_science-5)
-- [Data Science Is Not Saturated — You’re Just Competing the Wrong Way](https://medium.com/@hammadfarooq470/data-science-is-not-saturated-youre-just-competing-the-wrong-way-336c38629c03?source=rss------data_science-5)
-- [The Calculus of Ultimate Equity: The Mathematical Architecture of Cosmic Justice](https://medium.com/@bolnoir5059/the-calculus-of-ultimate-equity-the-mathematical-architecture-of-cosmic-justice-6697875539e7?source=rss------data_science-5)
-- [LLMs Count with Geometry: Claude’s 6D Helix for Line Breaks](https://medium.com/coding-nexus/llms-count-with-geometry-claudes-6d-helix-for-line-breaks-69b5aebe31a0?source=rss------data_science-5)
-- [Prompt Engineering: Saying what matters most](https://chetnakhanna.medium.com/prompt-engineering-saying-what-matters-most-a040f1f8f7c2?source=rss------data_science-5)
-- [Pruebas de Normalidad en Ciencia de Datos](https://medium.com/@gladyschoqueulloa20/pruebas-de-normalidad-en-ciencia-de-datos-f0f9775c1469?source=rss------data_science-5)
-- [How Reproducibility Drives AI Trust](https://medium.com/@meisshaily/how-reproducibility-drives-ai-trust-99d9e4d266f2?source=rss------data_science-5)
-- [Semi-Supervised Learning Explained: Learning from Small Labeled Data and Large Unlabeled Data](https://medium.com/@techie_chandan/semi-supervised-learning-explained-learning-from-small-labeled-data-and-large-unlabeled-data-cc85f5932026?source=rss------data_science-5)
+- [When AI Stopped Talking and Started Acting](https://medium.com/@anujagadde18/when-ai-stopped-talking-and-started-acting-98de0ff48722?source=rss------data_science-5)
+- [The Tautological Cage: Why Psychology is a Closed Circuit](https://medium.com/@electricity98/the-tautological-cage-why-psychology-is-a-closed-circuit-48ea459a0d4e?source=rss------data_science-5)
+- [Auditing the Gridlock: A Big Data Analysis of NYC’s 2025 Congestion Pricing](https://medium.com/@muawan125/auditing-the-gridlock-a-big-data-analysis-of-nycs-2025-congestion-pricing-1486c6225688?source=rss------data_science-5)
+- [The Night Before Jerusalem – The Human Side of Salahuddin Ayyubi](https://muhammadalig331106.medium.com/the-night-before-jerusalem-the-human-side-of-salahuddin-ayyubi-b5ae7e89c99e?source=rss------data_science-5)
+- [EB1A Self-Petition &amp; Self-Filing Journey for AI, Data Science &amp; ML Professionals &lpar;Beyond…](https://medium.com/@eb1aselfpetition/eb1a-self-petition-self-filing-journey-for-ai-data-science-ml-professionals-beyond-55182d58fbf0?source=rss------data_science-5)
+- [10 Regular Expressions in SQL That Instantly Solve Data Cleaning Problems](https://medium.com/@Rohan_Dutt/10-regular-expressions-in-sql-that-instantly-solve-data-cleaning-problems-2f0f0fd113f6?source=rss------data_science-5)
+- [Catching up on AI in 2026](https://medium.com/@anumanipal99/catching-up-on-ai-in-2026-0208f5e734b2?source=rss------data_science-5)
+- [Beyond Static Tests: Why Agentic AI Requires Dynamic Evaluation](https://medium.com/@statnikov/beyond-static-tests-why-agentic-ai-requires-dynamic-evaluation-bcfaed828bea?source=rss------data_science-5)
+- [The Technical Presentation Playbook: How to Tailor Your Message to Every Audience](https://the-architect-ds.medium.com/the-technical-presentation-playbook-how-to-tailor-your-message-to-every-audience-e7fa0ab8973d?source=rss------data_science-5)
+- [Why I Built PipeFrame — The dplyr-style “&gt;&gt;” pipes your pandas code has been begging for](https://medium.com/@yasser.mustafa/why-i-built-pipeframe-the-dplyr-style-pipes-your-pandas-code-has-been-begging-for-247e46cd0415?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
