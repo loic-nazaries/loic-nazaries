@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [When AI Stopped Talking and Started Acting](https://medium.com/@anujagadde18/when-ai-stopped-talking-and-started-acting-98de0ff48722?source=rss------data_science-5)
-- [The Tautological Cage: Why Psychology is a Closed Circuit](https://medium.com/@electricity98/the-tautological-cage-why-psychology-is-a-closed-circuit-48ea459a0d4e?source=rss------data_science-5)
-- [Auditing the Gridlock: A Big Data Analysis of NYC’s 2025 Congestion Pricing](https://medium.com/@muawan125/auditing-the-gridlock-a-big-data-analysis-of-nycs-2025-congestion-pricing-1486c6225688?source=rss------data_science-5)
-- [The Night Before Jerusalem – The Human Side of Salahuddin Ayyubi](https://muhammadalig331106.medium.com/the-night-before-jerusalem-the-human-side-of-salahuddin-ayyubi-b5ae7e89c99e?source=rss------data_science-5)
-- [EB1A Self-Petition &amp; Self-Filing Journey for AI, Data Science &amp; ML Professionals &lpar;Beyond…](https://medium.com/@eb1aselfpetition/eb1a-self-petition-self-filing-journey-for-ai-data-science-ml-professionals-beyond-55182d58fbf0?source=rss------data_science-5)
-- [10 Regular Expressions in SQL That Instantly Solve Data Cleaning Problems](https://medium.com/@Rohan_Dutt/10-regular-expressions-in-sql-that-instantly-solve-data-cleaning-problems-2f0f0fd113f6?source=rss------data_science-5)
-- [Catching up on AI in 2026](https://medium.com/@anumanipal99/catching-up-on-ai-in-2026-0208f5e734b2?source=rss------data_science-5)
-- [Beyond Static Tests: Why Agentic AI Requires Dynamic Evaluation](https://medium.com/@statnikov/beyond-static-tests-why-agentic-ai-requires-dynamic-evaluation-bcfaed828bea?source=rss------data_science-5)
-- [The Technical Presentation Playbook: How to Tailor Your Message to Every Audience](https://the-architect-ds.medium.com/the-technical-presentation-playbook-how-to-tailor-your-message-to-every-audience-e7fa0ab8973d?source=rss------data_science-5)
-- [Why I Built PipeFrame — The dplyr-style “&gt;&gt;” pipes your pandas code has been begging for](https://medium.com/@yasser.mustafa/why-i-built-pipeframe-the-dplyr-style-pipes-your-pandas-code-has-been-begging-for-247e46cd0415?source=rss------data_science-5)
+- [I Replaced My Old Indicator With This Advanced Indicator](https://medium.com/@sayedalimi19/i-replaced-my-old-indicator-with-this-advanced-indicator-de7af18de5a3?source=rss------data_science-5)
+- [Modeling the Structure of Uber Fares in New York City](https://medium.com/@rafaelaramadhani03/modeling-the-structure-of-uber-fares-in-new-york-city-a3a1391254b0?source=rss------data_science-5)
+- [Mastering Performance Tuning in Production with PySpark: A Comprehensive Guide](https://mayursurani.medium.com/mastering-performance-tuning-in-production-with-pyspark-a-comprehensive-guide-b753d3083160?source=rss------data_science-5)
+- [Your Data Science Portfolio Isn’t Getting You Hired — Here’s Why](https://medium.com/@hammadfarooq470/your-data-science-portfolio-isnt-getting-you-hired-here-s-why-d8d2d70340b4?source=rss------data_science-5)
+- [Prompt Repetition: Google’s Surprisingly Strong Baseline for Non-Reasoning LLMs](https://medium.com/to-data-beyond/prompt-repetition-googles-surprisingly-strong-baseline-for-non-reasoning-llms-39fdd34a603e?source=rss------data_science-5)
+- [The 12 ML Runbooks That Stop Reruns Rewriting History](https://medium.com/@connect.hashblock/the-12-ml-runbooks-that-stop-reruns-rewriting-history-63c82737f745?source=rss------data_science-5)
+- [Berikut Langkah Strategis Membangun Karier di Bidang Data dari Awal](https://medium.com/@ditafebywordpress/berikut-langkah-strategis-membangun-karier-di-bidang-data-dari-awal-507420601f7e?source=rss------data_science-5)
+- [Understanding Simulation: A Practical Guide for Data Science, and Decision‑Making](https://medium.com/@lebamgidey21/understanding-simulation-a-practical-guide-for-data-science-and-decision-making-5e584cb4f48e?source=rss------data_science-5)
+- [PYTHON LIBRARY](https://medium.com/@zakkianurr/python-library-1ffab938268b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
