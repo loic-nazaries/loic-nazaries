@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I Replaced My Old Indicator With This Advanced Indicator](https://medium.com/@sayedalimi19/i-replaced-my-old-indicator-with-this-advanced-indicator-de7af18de5a3?source=rss------data_science-5)
-- [Modeling the Structure of Uber Fares in New York City](https://medium.com/@rafaelaramadhani03/modeling-the-structure-of-uber-fares-in-new-york-city-a3a1391254b0?source=rss------data_science-5)
-- [Mastering Performance Tuning in Production with PySpark: A Comprehensive Guide](https://mayursurani.medium.com/mastering-performance-tuning-in-production-with-pyspark-a-comprehensive-guide-b753d3083160?source=rss------data_science-5)
-- [Your Data Science Portfolio Isn’t Getting You Hired — Here’s Why](https://medium.com/@hammadfarooq470/your-data-science-portfolio-isnt-getting-you-hired-here-s-why-d8d2d70340b4?source=rss------data_science-5)
-- [Prompt Repetition: Google’s Surprisingly Strong Baseline for Non-Reasoning LLMs](https://medium.com/to-data-beyond/prompt-repetition-googles-surprisingly-strong-baseline-for-non-reasoning-llms-39fdd34a603e?source=rss------data_science-5)
-- [The 12 ML Runbooks That Stop Reruns Rewriting History](https://medium.com/@connect.hashblock/the-12-ml-runbooks-that-stop-reruns-rewriting-history-63c82737f745?source=rss------data_science-5)
-- [Berikut Langkah Strategis Membangun Karier di Bidang Data dari Awal](https://medium.com/@ditafebywordpress/berikut-langkah-strategis-membangun-karier-di-bidang-data-dari-awal-507420601f7e?source=rss------data_science-5)
-- [Understanding Simulation: A Practical Guide for Data Science, and Decision‑Making](https://medium.com/@lebamgidey21/understanding-simulation-a-practical-guide-for-data-science-and-decision-making-5e584cb4f48e?source=rss------data_science-5)
-- [PYTHON LIBRARY](https://medium.com/@zakkianurr/python-library-1ffab938268b?source=rss------data_science-5)
+- [The Power of Decree: What Job 22:28 Teaches About Divine Light](https://medium.com/@simonasmaidziunaite/the-power-of-decree-what-job-22-28-teaches-about-divine-light-58c749b11346?source=rss------data_science-5)
+- [Must Have Indicator For Intraday Trading Options And Futures](https://medium.com/@sayedalimi19/must-have-indicator-for-intraday-trading-options-and-futures-641e7bcd721f?source=rss------data_science-5)
+- [Most Businesses Don’t Have a Data Problem — They Have a Clarity Problem](https://medium.com/@hammadfarooq470/most-businesses-dont-have-a-data-problem-they-have-a-clarity-problem-b75b9884f6c8?source=rss------data_science-5)
+- [SQL Developer Interview Mastery: What Recruiters Really Test](https://medium.com/@its.shoryabisht/sql-developer-interview-mastery-what-recruiters-really-test-c611374a1463?source=rss------data_science-5)
+- [Digital reconstruction shows that a real human face would have left a distorted smudge on the…](https://medium.com/@nassimakermi/digital-reconstruction-shows-that-a-real-human-face-would-have-left-a-distorted-smudge-on-the-d4e129f3136a?source=rss------data_science-5)
+- [The Alchemical Transformation of Data into Truth](https://medium.com/@rochacaiodeassis/the-alchemical-transformation-of-data-into-truth-807e73e91d3e?source=rss------data_science-5)
+- [Nanbeige4.1–3B : The SLM is Here](https://medium.com/data-science-in-your-pocket/nanbeige4-1-3b-the-slm-is-here-1e0718d22cf6?source=rss------data_science-5)
+- [Introduction](https://medium.com/@mervefiliz.710/introduction-2a7acca246db?source=rss------data_science-5)
+- [The Proactive Enterprise: How AIOps is Transforming IT from a Cost Center to a Value Driver](https://medium.com/@karenpfeifer/the-proactive-enterprise-how-aiops-is-transforming-it-from-a-cost-center-to-a-value-driver-e3752215f6c7?source=rss------data_science-5)
+- [The End of the Scientific Method: How Generative AI is Rewriting the Rules of Human Discovery](https://medium.com/@w.lacerda/the-end-of-the-scientific-method-how-generative-ai-is-rewriting-the-rules-of-human-discovery-a97851efe418?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
