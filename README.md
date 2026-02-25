@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Power of Decree: What Job 22:28 Teaches About Divine Light](https://medium.com/@simonasmaidziunaite/the-power-of-decree-what-job-22-28-teaches-about-divine-light-58c749b11346?source=rss------data_science-5)
-- [Must Have Indicator For Intraday Trading Options And Futures](https://medium.com/@sayedalimi19/must-have-indicator-for-intraday-trading-options-and-futures-641e7bcd721f?source=rss------data_science-5)
-- [Most Businesses Don’t Have a Data Problem — They Have a Clarity Problem](https://medium.com/@hammadfarooq470/most-businesses-dont-have-a-data-problem-they-have-a-clarity-problem-b75b9884f6c8?source=rss------data_science-5)
-- [SQL Developer Interview Mastery: What Recruiters Really Test](https://medium.com/@its.shoryabisht/sql-developer-interview-mastery-what-recruiters-really-test-c611374a1463?source=rss------data_science-5)
-- [Digital reconstruction shows that a real human face would have left a distorted smudge on the…](https://medium.com/@nassimakermi/digital-reconstruction-shows-that-a-real-human-face-would-have-left-a-distorted-smudge-on-the-d4e129f3136a?source=rss------data_science-5)
-- [The Alchemical Transformation of Data into Truth](https://medium.com/@rochacaiodeassis/the-alchemical-transformation-of-data-into-truth-807e73e91d3e?source=rss------data_science-5)
-- [Nanbeige4.1–3B : The SLM is Here](https://medium.com/data-science-in-your-pocket/nanbeige4-1-3b-the-slm-is-here-1e0718d22cf6?source=rss------data_science-5)
-- [Introduction](https://medium.com/@mervefiliz.710/introduction-2a7acca246db?source=rss------data_science-5)
-- [The Proactive Enterprise: How AIOps is Transforming IT from a Cost Center to a Value Driver](https://medium.com/@karenpfeifer/the-proactive-enterprise-how-aiops-is-transforming-it-from-a-cost-center-to-a-value-driver-e3752215f6c7?source=rss------data_science-5)
-- [The End of the Scientific Method: How Generative AI is Rewriting the Rules of Human Discovery](https://medium.com/@w.lacerda/the-end-of-the-scientific-method-how-generative-ai-is-rewriting-the-rules-of-human-discovery-a97851efe418?source=rss------data_science-5)
+- [Anthropic’s 10 Cowork Plugins Just Shook Wall Street: When AI Stops Chatting and Starts Working](https://medium.com/@cenrunzhe/anthropics-10-cowork-plugins-just-shook-wall-street-when-ai-stops-chatting-and-starts-working-d25bd7656a4d?source=rss------data_science-5)
+- [A rare double meteorite strike on Mars reveals the explosive physics behind twin crater formations.](https://medium.com/@nassimakermi/a-rare-double-meteorite-strike-on-mars-reveals-the-explosive-physics-behind-twin-crater-formations-6550e88ff549?source=rss------data_science-5)
+- [I launched 10 AI models to battle for the best trading strategy. The cheaper models won every time.](https://medium.datadriveninvestor.com/i-launched-10-ai-models-to-battle-for-the-best-trading-strategy-the-cheaper-models-won-every-time-2e1d016bb564?source=rss------data_science-5)
+- [This TradingView Indicator Is Going Viral for a Reason](https://medium.com/@sayedalimi19/this-tradingview-indicator-is-going-viral-for-a-reason-54375b02f17c?source=rss------data_science-5)
+- [Menjelajahi Representasi Data dari Perspektif AI dan IoT](https://medium.com/@mufidhadiabdulhakim/menjelajahi-representasi-data-dari-perspektif-ai-dan-iot-10fb5bf50b60?source=rss------data_science-5)
+- [What It Really Means for a Machine to Learn](https://medium.com/@pavankumar.s.naik/what-it-really-means-for-a-machine-to-learn-4340eaa135ca?source=rss------data_science-5)
+- [The Technological Transformation of Human Color Perception and the Epistemological Crisis](https://medium.com/@ascia/the-technological-transformation-of-human-color-perception-and-the-epistemological-crisis-e24b8bbc8499?source=rss------data_science-5)
+- [5 Red-Flag Indicators the News is Ignoring &lpar;But Reddit Isn’t&rpar;](https://medium.com/@ThePerspectivePulse/5-red-flag-indicators-the-news-is-ignoring-but-reddit-isnt-39b84ac9ec69?source=rss------data_science-5)
+- [Read Until the End.](https://medium.com/@selihalime68/read-until-the-end-3d792c4ebdcf?source=rss------data_science-5)
+- [Best of Both Worlds: How Hybrid Architectures Solved Vision Transformers’ Fatal Flaw &lpar;Part 2&rpar;](https://medium.com/data-science-collective/best-of-both-worlds-how-hybrid-architectures-solved-vision-transformers-fatal-flaw-part-2-9041258244aa?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
