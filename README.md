@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Anthropic’s 10 Cowork Plugins Just Shook Wall Street: When AI Stops Chatting and Starts Working](https://medium.com/@cenrunzhe/anthropics-10-cowork-plugins-just-shook-wall-street-when-ai-stops-chatting-and-starts-working-d25bd7656a4d?source=rss------data_science-5)
-- [A rare double meteorite strike on Mars reveals the explosive physics behind twin crater formations.](https://medium.com/@nassimakermi/a-rare-double-meteorite-strike-on-mars-reveals-the-explosive-physics-behind-twin-crater-formations-6550e88ff549?source=rss------data_science-5)
-- [I launched 10 AI models to battle for the best trading strategy. The cheaper models won every time.](https://medium.datadriveninvestor.com/i-launched-10-ai-models-to-battle-for-the-best-trading-strategy-the-cheaper-models-won-every-time-2e1d016bb564?source=rss------data_science-5)
-- [This TradingView Indicator Is Going Viral for a Reason](https://medium.com/@sayedalimi19/this-tradingview-indicator-is-going-viral-for-a-reason-54375b02f17c?source=rss------data_science-5)
-- [Menjelajahi Representasi Data dari Perspektif AI dan IoT](https://medium.com/@mufidhadiabdulhakim/menjelajahi-representasi-data-dari-perspektif-ai-dan-iot-10fb5bf50b60?source=rss------data_science-5)
-- [What It Really Means for a Machine to Learn](https://medium.com/@pavankumar.s.naik/what-it-really-means-for-a-machine-to-learn-4340eaa135ca?source=rss------data_science-5)
-- [The Technological Transformation of Human Color Perception and the Epistemological Crisis](https://medium.com/@ascia/the-technological-transformation-of-human-color-perception-and-the-epistemological-crisis-e24b8bbc8499?source=rss------data_science-5)
-- [5 Red-Flag Indicators the News is Ignoring &lpar;But Reddit Isn’t&rpar;](https://medium.com/@ThePerspectivePulse/5-red-flag-indicators-the-news-is-ignoring-but-reddit-isnt-39b84ac9ec69?source=rss------data_science-5)
-- [Read Until the End.](https://medium.com/@selihalime68/read-until-the-end-3d792c4ebdcf?source=rss------data_science-5)
-- [Best of Both Worlds: How Hybrid Architectures Solved Vision Transformers’ Fatal Flaw &lpar;Part 2&rpar;](https://medium.com/data-science-collective/best-of-both-worlds-how-hybrid-architectures-solved-vision-transformers-fatal-flaw-part-2-9041258244aa?source=rss------data_science-5)
+- [When Variance Isn’t a Signal: A Practical Guide to Interpreting Random Fluctuations](https://medium.com/learning-data/when-variance-isnt-a-signal-a-practical-guide-to-interpreting-random-fluctuations-53cc6659f522?source=rss------data_science-5)
+- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-cd006b1b0634?source=rss------data_science-5)
+- [How Claude Cowork&#39;s Scheduled Tasks Change the Automation Playbook](https://medium.com/@cenrunzhe/how-claude-coworks-scheduled-tasks-change-the-automation-playbook-3bef81466f4c?source=rss------data_science-5)
+- [A Bayesian Approach to Quantifying Soccer Possession Value](https://medium.com/@kiran_30122/a-bayesian-approach-to-quantifying-soccer-possession-value-a7d17435bf35?source=rss------data_science-5)
+- [The Post-Generative Era: Why the Next Billion-Dollar Startups are Merging LLMs with Predictive AI](https://medium.com/@w.lacerda/the-post-generative-era-why-the-next-billion-dollar-startups-are-merging-llms-with-predictive-ai-6670a7b6c291?source=rss------data_science-5)
+- [Structural Equation Modeling &lpar;SEM&rpar;: A Practical Introduction for Marketing Science and UX Research](https://medium.com/@lqiuchi/structural-equation-modeling-sem-a-practical-introduction-for-marketing-science-and-ux-research-27517ea30f76?source=rss------data_science-5)
+- [ELON CHRON: 25th of February, 2026](https://serobinsonjr.medium.com/elon-chron-25th-of-february-2026-daa57783c6e6?source=rss------data_science-5)
+- [The Great AI Divide: Classic ML Still Owns Structured Data, LLMs Own Everything Else](https://thamizhelango.medium.com/the-great-ai-divide-classic-ml-still-owns-structured-data-llms-own-everything-else-631976512347?source=rss------data_science-5)
+- [Inferential Statistics using Python](https://medium.com/@keyadobriyal/inferential-statistics-using-python-f8f94f0d1d6e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
