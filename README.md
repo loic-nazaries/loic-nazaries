@@ -105,16 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How AI Is Transforming Enterprise Analytics in 2026: What Every Professional Must Know](https://medium.com/@dmanalyticslab/how-ai-is-transforming-enterprise-analytics-in-2026-what-every-professional-must-know-e44eadfae5a9?source=rss------data_science-5)
-- [Open Data Fabric Protocol &amp; Consortium](https://medium.com/kamu-data/open-data-fabric-protocol-consortium-1d654625ca15?source=rss------data_science-5)
-- [The Holy Grail of Energy: Germany Fast-Tracks Nuclear Fusion for 2031](https://medium.com/@nassimakermi/the-holy-grail-of-energy-germany-fast-tracks-nuclear-fusion-for-2031-9bc5b1cfabfb?source=rss------data_science-5)
-- [Feeling Lost &amp; Doubting Research? : How to Find Your Purpose in a World Full of Possibilities](https://medium.com/@kentpaulordelgado/feeling-lost-doubting-research-how-to-find-your-purpose-in-a-world-full-of-possibilities-c97eff8473bf?source=rss------data_science-5)
-- [The Power of the Void: Italian Artist Sells Invisible Sculpture for $18,000](https://medium.com/@nassimakermi/the-power-of-the-void-italian-artist-sells-invisible-sculpture-for-18-000-b0cdddcc1eaf?source=rss------data_science-5)
-- [Why CSV Data Cleaning is a Nightmare — And How We Built a 200ms Solution for Everyone Cleanmydata.io](https://medium.com/@cleanmydata.app/why-csv-data-cleaning-is-a-nightmare-and-how-we-built-a-200ms-solution-for-everyone-cleanmydata-io-caaafb1855e0?source=rss------data_science-5)
-- [Nulls Don’t Break Models. Your Policy Does.](https://medium.com/@1nick1patel1/nulls-dont-break-models-your-policy-does-cb8d57ba7781?source=rss------data_science-5)
-- [The Art of Modeling](https://medium.com/@gabrielcapela/the-art-of-modeling-65251c96451c?source=rss------data_science-5)
-- [Build Your Own Cloud Lab and AI-Powered AWS Agent for $0 Using EC2, Docker, and Claude Code](https://ernestodotnet.medium.com/build-your-own-cloud-lab-and-ai-powered-aws-agent-for-0-using-ec2-docker-and-claude-code-07ae01e9b4d7?source=rss------data_science-5)
-- [How Can the Eco-Friendly Daily Living Starter Bundle Transform Your Home into a Greener Space2026?](https://medium.com/@econex23/how-can-the-eco-friendly-daily-living-starter-bundle-transform-your-home-into-a-greener-space2026-fb30c0d72ecb?source=rss------data_science-5)
+- [5 MLOps Secrets I Learned : From Rookie Deployment Disasters to Production Master](https://medium.com/@meisshaily/5-mlops-secrets-i-learned-from-rookie-deployment-disasters-to-production-master-4305ed408ae7?source=rss------data_science-5)
+- [I Built a Database That Can Crash and Recover Correctly](https://algoinsights.medium.com/i-built-a-database-that-can-crash-and-recover-correctly-4d3ec64fa94f?source=rss------data_science-5)
+- [The Most Dangerous Thing You Can Do in a Democracy Is Talk](https://medium.com/@grateful_aqua_goat_147/the-most-dangerous-thing-you-can-do-in-a-democracy-is-talk-97f71d8df0e1?source=rss------data_science-5)
+- [Building a Production-Style Data Validation Pipeline in R](https://medium.com/@kelechiagwu16/building-a-production-style-data-validation-pipeline-in-r-2985a249eab9?source=rss------data_science-5)
+- [Power BI for Learners Part 11: Performance Optimization, Best Practices, and Real-World…](https://medium.com/microsoft-power-bi/power-bi-for-learners-part-11-performance-optimization-best-practices-and-real-world-819f68e66909?source=rss------data_science-5)
+- [Peer Review — From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models](https://medium.com/@jolalf/peer-review-from-128k-to-4m-efficient-training-of-ultra-long-context-large-language-models-24bb20e87bee?source=rss------data_science-5)
+- [My Code Used 10GB RAM. Now It Uses 300MB](https://blog.stackademic.com/my-code-used-10gb-ram-now-it-uses-300mb-065759c06ee2?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-47ab6edffb1d?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f27d6320a0ec?source=rss------data_science-5)
+- [From Chaos to Clarity: Building an AI-Powered Smart Reporting System &lpar;Part 1&rpar;](https://itnext.io/from-chaos-to-clarity-building-an-ai-powered-smart-reporting-system-part-1-234b356d0b26?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
