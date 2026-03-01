@@ -105,18 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [5 MLOps Secrets I Learned : From Rookie Deployment Disasters to Production Master](https://medium.com/@meisshaily/5-mlops-secrets-i-learned-from-rookie-deployment-disasters-to-production-master-4305ed408ae7?source=rss------data_science-5)
-- [I Built a Database That Can Crash and Recover Correctly](https://algoinsights.medium.com/i-built-a-database-that-can-crash-and-recover-correctly-4d3ec64fa94f?source=rss------data_science-5)
-- [The Most Dangerous Thing You Can Do in a Democracy Is Talk](https://medium.com/@grateful_aqua_goat_147/the-most-dangerous-thing-you-can-do-in-a-democracy-is-talk-97f71d8df0e1?source=rss------data_science-5)
-- [Building a Production-Style Data Validation Pipeline in R](https://medium.com/@kelechiagwu16/building-a-production-style-data-validation-pipeline-in-r-2985a249eab9?source=rss------data_science-5)
-- [Power BI for Learners Part 11: Performance Optimization, Best Practices, and Real-World…](https://medium.com/microsoft-power-bi/power-bi-for-learners-part-11-performance-optimization-best-practices-and-real-world-819f68e66909?source=rss------data_science-5)
-- [Peer Review — From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models](https://medium.com/@jolalf/peer-review-from-128k-to-4m-efficient-training-of-ultra-long-context-large-language-models-24bb20e87bee?source=rss------data_science-5)
-- [My Code Used 10GB RAM. Now It Uses 300MB](https://blog.stackademic.com/my-code-used-10gb-ram-now-it-uses-300mb-065759c06ee2?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-47ab6edffb1d?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f27d6320a0ec?source=rss------data_science-5)
-- [From Chaos to Clarity: Building an AI-Powered Smart Reporting System &lpar;Part 1&rpar;](https://itnext.io/from-chaos-to-clarity-building-an-ai-powered-smart-reporting-system-part-1-234b356d0b26?source=rss------data_science-5)
+- [ARCHIVE REFERENCE: LOG X-1200 [THE LITURGY FOR THE INERT]
+PROTOCOL STATUS: TERMINAL INTERFACE…](https://medium.com/@electricity98/archive-reference-log-x-1200-the-liturgy-for-the-inert-protocol-status-terminal-interface-dda590ebcd64?source=rss------data_science-5)
+- [Mar1,2026 Crypto Trend Data](https://medium.com/@kicchotokasoutuuka/mar1-2026-crypto-trend-data-f60643dc722e?source=rss------data_science-5)
+- [The SQL BETWEEN Operator: More Than Just “Syntactic Sugar”](https://medium.com/@kdkunamneni/the-sql-between-operator-more-than-just-syntactic-sugar-da30aeaa1071?source=rss------data_science-5)
+- [I Built a Fitness Dashboard in Excel — Here’s What I Learned](https://medium.com/@chandsaleem07/i-built-a-fitness-dashboard-in-excel-heres-what-i-learned-e5b9a4e9612a?source=rss------data_science-5)
+- [Rutina de Estudios para Iniciantes en Data Science](https://medium.com/@gladyschoqueulloa20/rutina-de-estudios-para-iniciantes-en-data-science-ad1650c5538b?source=rss------data_science-5)
+- [Building Your First AI Agent — In 10 Lines of Code](https://medium.com/@praveengovi/building-your-first-ai-agent-in-10-lines-of-code-4df690cd504f?source=rss------data_science-5)
+- [The Man Who Invented the Point Spread](https://medium.com/@ghighcove/the-man-who-invented-the-point-spread-0dcdf83c30c3?source=rss------data_science-5)
+- [Flashcards : Travel Back in Time with Prehistoric Wonders™
+Watercolor Dinosaur Educational…](https://medium.com/@amr.bauomy.store/flashcards-travel-back-in-time-with-prehistoric-wonders-watercolor-dinosaur-educational-e5dce53db5a0?source=rss------data_science-5)
+- [What I Learned Debugging My First AI Project: It’s Not the Code, It’s the Data](https://manterapj.medium.com/what-i-learned-debugging-my-first-ai-project-its-not-the-code-it-s-the-data-3cc0ef9d7ce5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
