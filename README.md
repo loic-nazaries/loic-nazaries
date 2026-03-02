@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [ARCHIVE REFERENCE: LOG X-1200 [THE LITURGY FOR THE INERT]
-PROTOCOL STATUS: TERMINAL INTERFACE…](https://medium.com/@electricity98/archive-reference-log-x-1200-the-liturgy-for-the-inert-protocol-status-terminal-interface-dda590ebcd64?source=rss------data_science-5)
-- [Mar1,2026 Crypto Trend Data](https://medium.com/@kicchotokasoutuuka/mar1-2026-crypto-trend-data-f60643dc722e?source=rss------data_science-5)
-- [The SQL BETWEEN Operator: More Than Just “Syntactic Sugar”](https://medium.com/@kdkunamneni/the-sql-between-operator-more-than-just-syntactic-sugar-da30aeaa1071?source=rss------data_science-5)
-- [I Built a Fitness Dashboard in Excel — Here’s What I Learned](https://medium.com/@chandsaleem07/i-built-a-fitness-dashboard-in-excel-heres-what-i-learned-e5b9a4e9612a?source=rss------data_science-5)
-- [Rutina de Estudios para Iniciantes en Data Science](https://medium.com/@gladyschoqueulloa20/rutina-de-estudios-para-iniciantes-en-data-science-ad1650c5538b?source=rss------data_science-5)
-- [Building Your First AI Agent — In 10 Lines of Code](https://medium.com/@praveengovi/building-your-first-ai-agent-in-10-lines-of-code-4df690cd504f?source=rss------data_science-5)
-- [The Man Who Invented the Point Spread](https://medium.com/@ghighcove/the-man-who-invented-the-point-spread-0dcdf83c30c3?source=rss------data_science-5)
-- [Flashcards : Travel Back in Time with Prehistoric Wonders™
-Watercolor Dinosaur Educational…](https://medium.com/@amr.bauomy.store/flashcards-travel-back-in-time-with-prehistoric-wonders-watercolor-dinosaur-educational-e5dce53db5a0?source=rss------data_science-5)
-- [What I Learned Debugging My First AI Project: It’s Not the Code, It’s the Data](https://manterapj.medium.com/what-i-learned-debugging-my-first-ai-project-its-not-the-code-it-s-the-data-3cc0ef9d7ce5?source=rss------data_science-5)
+- [Data Engineer vs Data Scientist: Key Differences, Salaries, and Career Paths in 2026](https://medium.com/@babulgupta2231/data-engineer-vs-data-scientist-key-differences-salaries-and-career-paths-in-2026-dfb55712a066?source=rss------data_science-5)
+- [The Structural 15: Weekly Levels for $SPY, $QQQ, $GOOG](https://arandkei-data.medium.com/the-structural-15-weekly-levels-for-spy-qqq-goog-5d4a3b913c6b?source=rss------data_science-5)
+- [The Placebo of the First Build](https://medium.com/@iamrimibuilding.product/the-placebo-of-the-first-build-ad0ce8d76444?source=rss------data_science-5)
+- [Reflections from ViVE 2026: Building Equity into Healthcare AI](https://medium.com/@iank_46549/reflections-from-vive-2026-building-equity-into-healthcare-ai-7a1ce2cb4759?source=rss------data_science-5)
+- [PR Research: A Case-Based Analysis of Dove’s &quot;Real Beauty&quot; International PR Campaign and Its…](https://medium.com/@richkc/pr-research-a-case-based-analysis-of-doves-real-beauty-international-pr-campaign-and-its-97f20b90d9a9?source=rss------data_science-5)
+- [Monte Carlo Simulation: The Method That Turned Randomness Into Power](https://medium.com/@vplevris/monte-carlo-simulation-the-method-that-turned-randomness-into-power-64464eba6c29?source=rss------data_science-5)
+- [Middle East Conflict and how it can impact the global real estate markets](https://medium.com/@jorgeprsperodossantos/middle-east-conflict-and-how-it-can-impact-the-global-real-estate-markets-96a78d387377?source=rss------data_science-5)
+- [When P-Values Break: What Happens When Independent Domains Converge at 10⁻²⁰⁰](https://sevencubedsevenlabs.medium.com/when-p-values-break-what-happens-when-independent-domains-converge-at-10-%C2%B2%E2%81%B0%E2%81%B0-5e824b8dc400?source=rss------data_science-5)
+- [Inside the CUDA Kernel: The GPU Implementation of 3D Gaussian Splatting](https://ai.gopubby.com/inside-the-cuda-kernel-the-gpu-implementation-of-3d-gaussian-splatting-74c3261ed721?source=rss------data_science-5)
+- [What Impact Has Boston’s Downhill Results Index Had On the 2027 Cutoff?](https://medium.com/runners-life/what-impact-has-bostons-downhill-results-index-had-on-the-2027-cutoff-ea14bd1f2712?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
