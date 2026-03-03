@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Engineer vs Data Scientist: Key Differences, Salaries, and Career Paths in 2026](https://medium.com/@babulgupta2231/data-engineer-vs-data-scientist-key-differences-salaries-and-career-paths-in-2026-dfb55712a066?source=rss------data_science-5)
-- [The Structural 15: Weekly Levels for $SPY, $QQQ, $GOOG](https://arandkei-data.medium.com/the-structural-15-weekly-levels-for-spy-qqq-goog-5d4a3b913c6b?source=rss------data_science-5)
-- [The Placebo of the First Build](https://medium.com/@iamrimibuilding.product/the-placebo-of-the-first-build-ad0ce8d76444?source=rss------data_science-5)
-- [Reflections from ViVE 2026: Building Equity into Healthcare AI](https://medium.com/@iank_46549/reflections-from-vive-2026-building-equity-into-healthcare-ai-7a1ce2cb4759?source=rss------data_science-5)
-- [PR Research: A Case-Based Analysis of Dove’s &quot;Real Beauty&quot; International PR Campaign and Its…](https://medium.com/@richkc/pr-research-a-case-based-analysis-of-doves-real-beauty-international-pr-campaign-and-its-97f20b90d9a9?source=rss------data_science-5)
-- [Monte Carlo Simulation: The Method That Turned Randomness Into Power](https://medium.com/@vplevris/monte-carlo-simulation-the-method-that-turned-randomness-into-power-64464eba6c29?source=rss------data_science-5)
-- [Middle East Conflict and how it can impact the global real estate markets](https://medium.com/@jorgeprsperodossantos/middle-east-conflict-and-how-it-can-impact-the-global-real-estate-markets-96a78d387377?source=rss------data_science-5)
-- [When P-Values Break: What Happens When Independent Domains Converge at 10⁻²⁰⁰](https://sevencubedsevenlabs.medium.com/when-p-values-break-what-happens-when-independent-domains-converge-at-10-%C2%B2%E2%81%B0%E2%81%B0-5e824b8dc400?source=rss------data_science-5)
-- [Inside the CUDA Kernel: The GPU Implementation of 3D Gaussian Splatting](https://ai.gopubby.com/inside-the-cuda-kernel-the-gpu-implementation-of-3d-gaussian-splatting-74c3261ed721?source=rss------data_science-5)
-- [What Impact Has Boston’s Downhill Results Index Had On the 2027 Cutoff?](https://medium.com/runners-life/what-impact-has-bostons-downhill-results-index-had-on-the-2027-cutoff-ea14bd1f2712?source=rss------data_science-5)
+- [ENE-ME: The Art of Becoming Your Own Worst Supervillain](https://medium.com/@hazeyouth2/ene-me-the-art-of-becoming-your-own-worst-supervillain-15d74c419e8e?source=rss------data_science-5)
+- [Applying Modern Causal Inference to Medicaid Expansion: A Staggered DiD Analysis in Python and R](https://medium.com/@bhardwajaditi203/applying-modern-causal-inference-to-medicaid-expansion-a-staggered-did-analysis-in-python-and-r-0678effb5a7f?source=rss------data_science-5)
+- [The Anthill](https://medium.com/@hazeyouth2/the-anthill-aa02f952c3b8?source=rss------data_science-5)
+- [La Frontera Inteligente: Lo que los datos de 2026 nos dicen sobre el futuro que ya llegó](https://medium.com/@melapatelli/la-frontera-inteligente-lo-que-los-datos-de-2026-nos-dicen-sobre-el-futuro-que-ya-lleg%C3%B3-ea8d01930609?source=rss------data_science-5)
+- [The Case of Mistaken Identity: Agentic AI and Its Components](https://maiyabrown.medium.com/the-case-of-mistaken-identity-agentic-ai-and-its-components-77879956e205?source=rss------data_science-5)
+- [I Built 3 Stock Forecasting Models](https://medium.com/@notuearmand250/i-built-3-stock-forecasting-models-c992badb90b7?source=rss------data_science-5)
+- [Data Is the New Behavior: How AI Turns Human Patterns Into Predictive Power](https://medium.com/write-a-catalyst/data-is-the-new-behavior-how-ai-turns-human-patterns-into-predictive-power-9b3d1fa6c8c3?source=rss------data_science-5)
+- [Cookiepocalypse Afterparty: “We Don’t Track You” Is the New Dark Pattern](https://medium.com/write-a-catalyst/cookiepocalypse-afterparty-we-dont-track-you-is-the-new-dark-pattern-789183b271fc?source=rss------data_science-5)
+- [Your Sentence Has a Secret Structure. Here’s How GPT Sees It.](https://pub.towardsai.net/your-sentence-has-a-secret-structure-heres-how-gpt-sees-it-afbecbf4a0a7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
