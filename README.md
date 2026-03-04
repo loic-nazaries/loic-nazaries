@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [ENE-ME: The Art of Becoming Your Own Worst Supervillain](https://medium.com/@hazeyouth2/ene-me-the-art-of-becoming-your-own-worst-supervillain-15d74c419e8e?source=rss------data_science-5)
-- [Applying Modern Causal Inference to Medicaid Expansion: A Staggered DiD Analysis in Python and R](https://medium.com/@bhardwajaditi203/applying-modern-causal-inference-to-medicaid-expansion-a-staggered-did-analysis-in-python-and-r-0678effb5a7f?source=rss------data_science-5)
-- [The Anthill](https://medium.com/@hazeyouth2/the-anthill-aa02f952c3b8?source=rss------data_science-5)
-- [La Frontera Inteligente: Lo que los datos de 2026 nos dicen sobre el futuro que ya llegó](https://medium.com/@melapatelli/la-frontera-inteligente-lo-que-los-datos-de-2026-nos-dicen-sobre-el-futuro-que-ya-lleg%C3%B3-ea8d01930609?source=rss------data_science-5)
-- [The Case of Mistaken Identity: Agentic AI and Its Components](https://maiyabrown.medium.com/the-case-of-mistaken-identity-agentic-ai-and-its-components-77879956e205?source=rss------data_science-5)
-- [I Built 3 Stock Forecasting Models](https://medium.com/@notuearmand250/i-built-3-stock-forecasting-models-c992badb90b7?source=rss------data_science-5)
-- [Data Is the New Behavior: How AI Turns Human Patterns Into Predictive Power](https://medium.com/write-a-catalyst/data-is-the-new-behavior-how-ai-turns-human-patterns-into-predictive-power-9b3d1fa6c8c3?source=rss------data_science-5)
-- [Cookiepocalypse Afterparty: “We Don’t Track You” Is the New Dark Pattern](https://medium.com/write-a-catalyst/cookiepocalypse-afterparty-we-dont-track-you-is-the-new-dark-pattern-789183b271fc?source=rss------data_science-5)
-- [Your Sentence Has a Secret Structure. Here’s How GPT Sees It.](https://pub.towardsai.net/your-sentence-has-a-secret-structure-heres-how-gpt-sees-it-afbecbf4a0a7?source=rss------data_science-5)
+- [Data Science Öğrenirken Bilmeniz Gereken 14 Temel İstatistik Kavram](https://medium.com/@irem.melisa/data-science-%C3%B6%C4%9Frenirken-bilmeniz-gereken-14-temel-i%CC%87statistik-kavram-f047d62a1054?source=rss------data_science-5)
+- [Stop Driving Using Only Your Rearview Mirror: How Predictive Analytics is Changing the Game](https://medium.com/@adrian.hollis.scoop/stop-driving-using-only-your-rearview-mirror-how-predictive-analytics-is-changing-the-game-e520cd6bedb9?source=rss------data_science-5)
+- [P-Value dan Hypothesis Testing: Mengadili Data di “Pengadilan” Statistik](https://medium.com/gdgoc-bion/p-value-dan-hypothesis-testing-mengadili-data-di-pengadilan-statistik-c23ff9d56b1a?source=rss------data_science-5)
+- [The Rise of Artificial Intelligence in Everyday Life: How AI Is Transforming Work, Homes, and the…](https://nasar-official.medium.com/the-rise-of-artificial-intelligence-in-everyday-life-how-ai-is-transforming-work-homes-and-the-e7b7ea5923f8?source=rss------data_science-5)
+- [From Churn Prediction to Classroom Theory: My Data Mining Path](https://medium.com/@waelbenyoussef19991/from-churn-prediction-to-classroom-theory-my-data-mining-path-d306001e3da6?source=rss------data_science-5)
+- [I Used Both for Months — AirPods Pro 3 vs AirPods Pro 2: Which to Buy in 2026?](https://medium.com/@kellyshephard/airpods-pro-3-vs-airpods-pro-2-bbed54af1c9b?source=rss------data_science-5)
+- [From Broken RNNs to ChatGPT: What My Own Research Taught Me About the LLM Revolution](https://pub.towardsai.net/from-broken-rnns-to-chatgpt-what-my-own-research-taught-me-about-the-llm-revolution-bd104f750162?source=rss------data_science-5)
+- [The Video Frontier: When AI Stopped Watching and Started Understanding](https://medium.com/data-science-collective/the-video-frontier-when-ai-stopped-watching-and-started-understanding-1a918dcf5fb8?source=rss------data_science-5)
+- [The Agentic Trap](https://medium.com/@michaelgurule1164/the-agentic-trap-db73b00d53db?source=rss------data_science-5)
+- [The Spreadsheet in the Dugout](https://medium.com/the-human-element-in-sports/the-spreadsheet-in-the-dugout-078812834a89?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
