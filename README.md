@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Science Öğrenirken Bilmeniz Gereken 14 Temel İstatistik Kavram](https://medium.com/@irem.melisa/data-science-%C3%B6%C4%9Frenirken-bilmeniz-gereken-14-temel-i%CC%87statistik-kavram-f047d62a1054?source=rss------data_science-5)
-- [Stop Driving Using Only Your Rearview Mirror: How Predictive Analytics is Changing the Game](https://medium.com/@adrian.hollis.scoop/stop-driving-using-only-your-rearview-mirror-how-predictive-analytics-is-changing-the-game-e520cd6bedb9?source=rss------data_science-5)
-- [P-Value dan Hypothesis Testing: Mengadili Data di “Pengadilan” Statistik](https://medium.com/gdgoc-bion/p-value-dan-hypothesis-testing-mengadili-data-di-pengadilan-statistik-c23ff9d56b1a?source=rss------data_science-5)
-- [The Rise of Artificial Intelligence in Everyday Life: How AI Is Transforming Work, Homes, and the…](https://nasar-official.medium.com/the-rise-of-artificial-intelligence-in-everyday-life-how-ai-is-transforming-work-homes-and-the-e7b7ea5923f8?source=rss------data_science-5)
-- [From Churn Prediction to Classroom Theory: My Data Mining Path](https://medium.com/@waelbenyoussef19991/from-churn-prediction-to-classroom-theory-my-data-mining-path-d306001e3da6?source=rss------data_science-5)
-- [I Used Both for Months — AirPods Pro 3 vs AirPods Pro 2: Which to Buy in 2026?](https://medium.com/@kellyshephard/airpods-pro-3-vs-airpods-pro-2-bbed54af1c9b?source=rss------data_science-5)
-- [From Broken RNNs to ChatGPT: What My Own Research Taught Me About the LLM Revolution](https://pub.towardsai.net/from-broken-rnns-to-chatgpt-what-my-own-research-taught-me-about-the-llm-revolution-bd104f750162?source=rss------data_science-5)
-- [The Video Frontier: When AI Stopped Watching and Started Understanding](https://medium.com/data-science-collective/the-video-frontier-when-ai-stopped-watching-and-started-understanding-1a918dcf5fb8?source=rss------data_science-5)
-- [The Agentic Trap](https://medium.com/@michaelgurule1164/the-agentic-trap-db73b00d53db?source=rss------data_science-5)
-- [The Spreadsheet in the Dugout](https://medium.com/the-human-element-in-sports/the-spreadsheet-in-the-dugout-078812834a89?source=rss------data_science-5)
+- [Why Understanding Realized and Unrealized Gains &amp; Losses Is Not Optional for Any Serious Investor](https://medium.com/@sajedboujaada101/why-understanding-realized-and-unrealized-gains-losses-is-not-optional-for-any-serious-investor-1325d4b8fc05?source=rss------data_science-5)
+- [Your Smartphone Is Watching You – But Not the Way You Think &lpar;The Invisible AI Layer of 2026&rpar;](https://medium.com/@gourabkalia00/your-smartphone-is-watching-you-but-not-the-way-you-think-the-invisible-ai-layer-of-2026-7c33354f355f?source=rss------data_science-5)
+- [From Theory to Practice: Using VAEs for Anomaly Detection](https://medium.com/data-science-collective/from-theory-to-practice-using-vaes-for-anomaly-detection-bf19ca7fbe72?source=rss------data_science-5)
+- [The Mechanics of Intellectual Suppression: Status Defense in Fragile Social Hierarchies￼](https://medium.com/@devdollzai/the-mechanics-of-intellectual-suppression-status-defense-in-fragile-social-hierarchies-93e4b0fa287e?source=rss------data_science-5)
+- [Introduction to Natural Language Processing &lpar;NLP&rpar;](https://medium.com/@dulakshiabeynayake/introduction-to-natural-language-processing-nlp-bca556525035?source=rss------data_science-5)
+- [The Prompt Behind the Performance](https://medium.com/@waynept2/the-prompt-behind-the-performance-4cd79af207e5?source=rss------data_science-5)
+- [Chat with your Finances — Part 1: Automating Expense Tracking with n8n and Telegram](https://pub.towardsai.net/chat-with-your-finances-part-1-automating-expense-tracking-with-n8n-and-telegram-32d581ceb018?source=rss------data_science-5)
+- [Forget World War III: The ‘Splinternet’ War Has Already Begun.](https://medium.com/@RomaCair/forget-world-war-iii-the-splinternet-war-has-already-begun-be369af2fa7f?source=rss------data_science-5)
+- [The Game Within The Game: Visualizing Off-Ball Movement Analytics in Professional Basketball](https://medium.com/@ltetraul/the-game-within-the-game-visualizing-off-ball-movement-analytics-in-professional-basketball-4858c3dc751b?source=rss------data_science-5)
+- [TWG Group interview questions](https://medium.com/@ianchenmu/twg-group-interview-questions-324e7f81ddba?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
