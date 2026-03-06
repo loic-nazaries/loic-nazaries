@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why Understanding Realized and Unrealized Gains &amp; Losses Is Not Optional for Any Serious Investor](https://medium.com/@sajedboujaada101/why-understanding-realized-and-unrealized-gains-losses-is-not-optional-for-any-serious-investor-1325d4b8fc05?source=rss------data_science-5)
-- [Your Smartphone Is Watching You – But Not the Way You Think &lpar;The Invisible AI Layer of 2026&rpar;](https://medium.com/@gourabkalia00/your-smartphone-is-watching-you-but-not-the-way-you-think-the-invisible-ai-layer-of-2026-7c33354f355f?source=rss------data_science-5)
-- [From Theory to Practice: Using VAEs for Anomaly Detection](https://medium.com/data-science-collective/from-theory-to-practice-using-vaes-for-anomaly-detection-bf19ca7fbe72?source=rss------data_science-5)
-- [The Mechanics of Intellectual Suppression: Status Defense in Fragile Social Hierarchies￼](https://medium.com/@devdollzai/the-mechanics-of-intellectual-suppression-status-defense-in-fragile-social-hierarchies-93e4b0fa287e?source=rss------data_science-5)
-- [Introduction to Natural Language Processing &lpar;NLP&rpar;](https://medium.com/@dulakshiabeynayake/introduction-to-natural-language-processing-nlp-bca556525035?source=rss------data_science-5)
-- [The Prompt Behind the Performance](https://medium.com/@waynept2/the-prompt-behind-the-performance-4cd79af207e5?source=rss------data_science-5)
-- [Chat with your Finances — Part 1: Automating Expense Tracking with n8n and Telegram](https://pub.towardsai.net/chat-with-your-finances-part-1-automating-expense-tracking-with-n8n-and-telegram-32d581ceb018?source=rss------data_science-5)
-- [Forget World War III: The ‘Splinternet’ War Has Already Begun.](https://medium.com/@RomaCair/forget-world-war-iii-the-splinternet-war-has-already-begun-be369af2fa7f?source=rss------data_science-5)
-- [The Game Within The Game: Visualizing Off-Ball Movement Analytics in Professional Basketball](https://medium.com/@ltetraul/the-game-within-the-game-visualizing-off-ball-movement-analytics-in-professional-basketball-4858c3dc751b?source=rss------data_science-5)
-- [TWG Group interview questions](https://medium.com/@ianchenmu/twg-group-interview-questions-324e7f81ddba?source=rss------data_science-5)
+- [The Drug Lifecycle: From Lab to Patient](https://medium.com/@kanwalsingh1989/the-drug-lifecycle-from-lab-to-patient-34b5c46222b6?source=rss------data_science-5)
+- [How Climate Shifts Stir Up Bigger Ocean Storms](https://medium.com/@oceanography74/how-climate-shifts-stir-up-bigger-ocean-storms-81292a9b0453?source=rss------data_science-5)
+- [Analytical and Mathematical Skills](https://medium.com/operations-research-gig/analytical-and-mathematical-skills-b94ae691cd95?source=rss------data_science-5)
+- [My data journey so far.](https://medium.com/@gamoles/my-data-journey-so-far-9d966ee393a8?source=rss------data_science-5)
+- [If you get on the wrong train, get off at the nearest station](https://techpreneurr.medium.com/if-you-get-on-the-wrong-train-get-off-at-the-nearest-station-accd6e63dcbb?source=rss------data_science-5)
+- [Beyond the Gut Feeling: How Predictive AI is Redefining Operations &lpar;And Why You Need It Now&rpar;](https://medium.com/@taylor.morgan.scoop/beyond-the-gut-feeling-how-predictive-ai-is-redefining-operations-and-why-you-need-it-now-7d8dc39e608e?source=rss------data_science-5)
+- [The Computer Group: How a Syndicate Used Data to Beat Las Vegas Part V — FBI Raids, Mob Shadows…](https://medium.com/@ThomasNiel/the-computer-group-how-a-syndicate-used-data-to-beat-las-vegas-part-v-fbi-raids-mob-shadows-cb67d549315e?source=rss------data_science-5)
+- [10 Free AI Tools Every Student Needs in 2026](https://medium.com/@arex18657/10-free-ai-tools-every-student-needs-in-2026-dbb0f0c15253?source=rss------data_science-5)
+- [Medical chatbot Doctronic gives recipes for cooking meth](https://medium.com/@JimTheAIWhisperer/doctronic-meth-jailbreak-92e6d4e65347?source=rss------data_science-5)
+- [Why the Perfect Fit Is a Myth: When Models That Fit Everything Predict Nothing](https://medium.com/@prachipatel2597/why-the-perfect-fit-is-a-myth-when-models-that-fit-everything-predict-nothing-26555c6d1690?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
