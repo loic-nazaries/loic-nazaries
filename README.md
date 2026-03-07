@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Drug Lifecycle: From Lab to Patient](https://medium.com/@kanwalsingh1989/the-drug-lifecycle-from-lab-to-patient-34b5c46222b6?source=rss------data_science-5)
-- [How Climate Shifts Stir Up Bigger Ocean Storms](https://medium.com/@oceanography74/how-climate-shifts-stir-up-bigger-ocean-storms-81292a9b0453?source=rss------data_science-5)
-- [Analytical and Mathematical Skills](https://medium.com/operations-research-gig/analytical-and-mathematical-skills-b94ae691cd95?source=rss------data_science-5)
-- [My data journey so far.](https://medium.com/@gamoles/my-data-journey-so-far-9d966ee393a8?source=rss------data_science-5)
-- [If you get on the wrong train, get off at the nearest station](https://techpreneurr.medium.com/if-you-get-on-the-wrong-train-get-off-at-the-nearest-station-accd6e63dcbb?source=rss------data_science-5)
-- [Beyond the Gut Feeling: How Predictive AI is Redefining Operations &lpar;And Why You Need It Now&rpar;](https://medium.com/@taylor.morgan.scoop/beyond-the-gut-feeling-how-predictive-ai-is-redefining-operations-and-why-you-need-it-now-7d8dc39e608e?source=rss------data_science-5)
-- [The Computer Group: How a Syndicate Used Data to Beat Las Vegas Part V — FBI Raids, Mob Shadows…](https://medium.com/@ThomasNiel/the-computer-group-how-a-syndicate-used-data-to-beat-las-vegas-part-v-fbi-raids-mob-shadows-cb67d549315e?source=rss------data_science-5)
-- [10 Free AI Tools Every Student Needs in 2026](https://medium.com/@arex18657/10-free-ai-tools-every-student-needs-in-2026-dbb0f0c15253?source=rss------data_science-5)
-- [Medical chatbot Doctronic gives recipes for cooking meth](https://medium.com/@JimTheAIWhisperer/doctronic-meth-jailbreak-92e6d4e65347?source=rss------data_science-5)
-- [Why the Perfect Fit Is a Myth: When Models That Fit Everything Predict Nothing](https://medium.com/@prachipatel2597/why-the-perfect-fit-is-a-myth-when-models-that-fit-everything-predict-nothing-26555c6d1690?source=rss------data_science-5)
+- [DID YOU KNOW THAT THE LARGEST ROCKET IN HISTORY WILL LAUNCH IN MARCH 2026?](https://medium.com/wonk-a-vator/did-you-know-that-the-largest-rocket-in-history-will-launch-in-march-2026-771ca62d8510?source=rss------data_science-5)
+- [What the Numbers Say: A Deep Dive into Sales Performance](https://medium.com/@Araq001/what-the-numbers-say-a-deep-dive-into-sales-performance-c8683e5e0986?source=rss------data_science-5)
+- [Building a Cloud-Ready Customer Support Agent in less lines with Neam Claw](https://medium.com/@praveengovi/building-a-cloud-ready-customer-support-agent-in-less-lines-with-neam-claw-fe32018f5922?source=rss------data_science-5)
+- [I Made It to the Final Round at Yahoo](https://medium.com/@vanshika.mehta/i-made-it-to-the-final-round-at-yahoo-a88cc78658e2?source=rss------data_science-5)
+- [Speeding Up Game Collision Detection with Quadtrees](https://medium.com/@joshkaki00/speeding-up-game-collision-detection-with-quadtrees-9917948ab8e7?source=rss------data_science-5)
+- [EVIL: Does It Really Exist?](https://medium.com/@annadamsauthor/evil-does-it-really-exist-27114b357ff6?source=rss------data_science-5)
+- [The Autonomous Checkout: How Predictive AI is Erasing the Line Between E-Commerce and Finance](https://medium.com/@w.lacerda/the-autonomous-checkout-how-predictive-ai-is-erasing-the-line-between-e-commerce-and-finance-1d7b13c3c339?source=rss------data_science-5)
+- [What are some of your best beginner losing weight tips? — Scott James Reeves](https://medium.com/@scottjamesreeves/what-are-some-of-your-best-beginner-losing-weight-tips-scott-james-reeves-a44f7d2b292c?source=rss------data_science-5)
+- [Why the Future of AI Isn’t Bigger Models — It’s Smaller Ones](https://medium.com/@yashbatra11111/why-the-future-of-ai-isnt-bigger-models-it-s-smaller-ones-3f7f03313a15?source=rss------data_science-5)
+- [Introduction to word embeddings for beginners.](https://medium.com/@boluroajayia/introduction-to-word-embeddings-for-beginners-by-adediwura-boluro-ajayi-6a71b88e091d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
