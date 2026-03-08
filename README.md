@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [DID YOU KNOW THAT THE LARGEST ROCKET IN HISTORY WILL LAUNCH IN MARCH 2026?](https://medium.com/wonk-a-vator/did-you-know-that-the-largest-rocket-in-history-will-launch-in-march-2026-771ca62d8510?source=rss------data_science-5)
-- [What the Numbers Say: A Deep Dive into Sales Performance](https://medium.com/@Araq001/what-the-numbers-say-a-deep-dive-into-sales-performance-c8683e5e0986?source=rss------data_science-5)
-- [Building a Cloud-Ready Customer Support Agent in less lines with Neam Claw](https://medium.com/@praveengovi/building-a-cloud-ready-customer-support-agent-in-less-lines-with-neam-claw-fe32018f5922?source=rss------data_science-5)
-- [I Made It to the Final Round at Yahoo](https://medium.com/@vanshika.mehta/i-made-it-to-the-final-round-at-yahoo-a88cc78658e2?source=rss------data_science-5)
-- [Speeding Up Game Collision Detection with Quadtrees](https://medium.com/@joshkaki00/speeding-up-game-collision-detection-with-quadtrees-9917948ab8e7?source=rss------data_science-5)
-- [EVIL: Does It Really Exist?](https://medium.com/@annadamsauthor/evil-does-it-really-exist-27114b357ff6?source=rss------data_science-5)
-- [The Autonomous Checkout: How Predictive AI is Erasing the Line Between E-Commerce and Finance](https://medium.com/@w.lacerda/the-autonomous-checkout-how-predictive-ai-is-erasing-the-line-between-e-commerce-and-finance-1d7b13c3c339?source=rss------data_science-5)
-- [What are some of your best beginner losing weight tips? — Scott James Reeves](https://medium.com/@scottjamesreeves/what-are-some-of-your-best-beginner-losing-weight-tips-scott-james-reeves-a44f7d2b292c?source=rss------data_science-5)
-- [Why the Future of AI Isn’t Bigger Models — It’s Smaller Ones](https://medium.com/@yashbatra11111/why-the-future-of-ai-isnt-bigger-models-it-s-smaller-ones-3f7f03313a15?source=rss------data_science-5)
-- [Introduction to word embeddings for beginners.](https://medium.com/@boluroajayia/introduction-to-word-embeddings-for-beginners-by-adediwura-boluro-ajayi-6a71b88e091d?source=rss------data_science-5)
+- [What Developers Are Missing About Training Data](https://medium.com/@caden3k18/what-developers-are-missing-about-training-data-00bd4206cf71?source=rss------data_science-5)
+- [What happens when you analyze war through data? An examination of U.S.–Iran Tensions](https://medium.com/@santi49fer/what-happens-when-you-analyze-war-through-data-an-examination-of-u-s-iran-tensions-e8aae1c634da?source=rss------data_science-5)
+- [Codex 5.3 vs Opus 4.6 — Developer’s Choice Guide](https://pub.towardsai.net/codex-5-3-vs-opus-4-6-developers-choice-guide-ed797e4484cc?source=rss------data_science-5)
+- [The Math of Exploring a New Opportunity](https://emmusta.medium.com/the-math-of-exploring-a-new-opportunity-6a9a43fcf4f1?source=rss------data_science-5)
+- [Identity, Law, and the Messiah](https://medium.com/@leonsp3/identity-law-and-the-messiah-69f6cfde235a?source=rss------data_science-5)
+- [Quando a IA encontra o mundo real](https://medium.com/@thvmoura/quando-a-ia-encontra-o-mundo-real-5b4c831de96a?source=rss------data_science-5)
+- [When AI Meets the Real World](https://medium.com/@thvmoura/when-ai-meets-the-real-world-655fd897c4d4?source=rss------data_science-5)
+- [What Happens When You Send a Prompt to an LLM?](https://chetnakhanna.medium.com/what-happens-when-you-send-a-prompt-to-an-llm-d12932849609?source=rss------data_science-5)
+- [The Core Tools I Use to Build AI Systems and Automation Products](https://medium.com/@venkatasaicharanlysetty/the-core-tools-i-use-to-build-ai-systems-and-automation-products-07ca560e6191?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
