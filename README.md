@@ -105,15 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What Developers Are Missing About Training Data](https://medium.com/@caden3k18/what-developers-are-missing-about-training-data-00bd4206cf71?source=rss------data_science-5)
-- [What happens when you analyze war through data? An examination of U.S.–Iran Tensions](https://medium.com/@santi49fer/what-happens-when-you-analyze-war-through-data-an-examination-of-u-s-iran-tensions-e8aae1c634da?source=rss------data_science-5)
-- [Codex 5.3 vs Opus 4.6 — Developer’s Choice Guide](https://pub.towardsai.net/codex-5-3-vs-opus-4-6-developers-choice-guide-ed797e4484cc?source=rss------data_science-5)
-- [The Math of Exploring a New Opportunity](https://emmusta.medium.com/the-math-of-exploring-a-new-opportunity-6a9a43fcf4f1?source=rss------data_science-5)
-- [Identity, Law, and the Messiah](https://medium.com/@leonsp3/identity-law-and-the-messiah-69f6cfde235a?source=rss------data_science-5)
-- [Quando a IA encontra o mundo real](https://medium.com/@thvmoura/quando-a-ia-encontra-o-mundo-real-5b4c831de96a?source=rss------data_science-5)
-- [When AI Meets the Real World](https://medium.com/@thvmoura/when-ai-meets-the-real-world-655fd897c4d4?source=rss------data_science-5)
-- [What Happens When You Send a Prompt to an LLM?](https://chetnakhanna.medium.com/what-happens-when-you-send-a-prompt-to-an-llm-d12932849609?source=rss------data_science-5)
-- [The Core Tools I Use to Build AI Systems and Automation Products](https://medium.com/@venkatasaicharanlysetty/the-core-tools-i-use-to-build-ai-systems-and-automation-products-07ca560e6191?source=rss------data_science-5)
+- [How Do We Know a Visualization Actually Works?](https://medium.com/@anaghapradeep404/how-do-we-know-a-visualization-actually-works-aafaa4840c8b?source=rss------data_science-5)
+- [The Structural 15: Weekly Levels for $SPY, $QQQ, $AAPL](https://arandkei-data.medium.com/the-structural-15-weekly-levels-for-spy-qqq-aapl-998cdad8b306?source=rss------data_science-5)
+- [The Kill Chain Just Got an AI Upgrade. We Have No Idea What That Means.](https://medium.com/@taher2world/the-kill-chain-just-got-an-ai-upgrade-we-have-no-idea-what-that-means-a5aefa07a772?source=rss------data_science-5)
+- [Our Classifier Was 91% Accurate — Until the Data Had Memory](https://medium.com/@matiasmaquieira96/our-classifier-was-91-accurate-until-the-data-had-memory-cad565fe8cb3?source=rss------data_science-5)
+- [How I Built a Serverless Data Engineering Pipeline on AWS &lpar;And Why I Chose Parquet Over CSV&rpar;](https://medium.com/@ut2160481/how-i-built-a-serverless-data-engineering-pipeline-on-aws-and-why-i-chose-parquet-over-csv-ae881596202d?source=rss------data_science-5)
+- [The Surplus Tree Paradox: Why More Trees Don’t Always Mean Better Random Forests](https://medium.com/@rahmamahmoud872005/the-surplus-tree-paradox-why-more-trees-dont-always-mean-better-random-forests-7fd099d21758?source=rss------data_science-5)
+- [Global Data Infrastructure: How Data Centers and Undersea Cables Stay Secure Against Wars…](https://medium.com/@smirfan2025/global-data-infrastructure-how-data-centers-and-undersea-cables-stay-secure-against-wars-aab8b52c1062?source=rss------data_science-5)
+- [The AI Architecture Nobody Talks About: Retrieval Systems](https://medium.com/@yashbatra11111/the-ai-architecture-nobody-talks-about-retrieval-systems-ec0103bef4bb?source=rss------data_science-5)
+- [My Step-by-Step Walkthrough: Predicting House Prices with Machine Learning](https://medium.com/@nancy198309/my-step-by-step-walkthrough-predicting-house-prices-with-machine-learning-5e0935c3f1a6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
