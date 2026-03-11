@@ -105,16 +105,14 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [GP da Austrália 2026 — Classificação: O Novo Mundo da F1 Começa com um Temporal da Mercedes](https://medium.com/@ezk_/gp-da-austr%C3%A1lia-2026-classifica%C3%A7%C3%A3o-o-novo-mundo-da-f1-come%C3%A7a-com-um-temporal-da-mercedes-b017fa2653af?source=rss------data_science-5)
-- [The Grok Scandal Shows What Happens When AI Has No Guardrails](https://cachecowboy.medium.com/the-grok-scandal-shows-what-happens-when-ai-has-no-guardrails-fb1ce2090df8?source=rss------data_science-5)
-- [Planning a Machine Learning Project in AWS](https://medium.com/@a.paros8947/planning-a-machine-learning-project-in-aws-e44f0af6f590?source=rss------data_science-5)
-- [I Asked a Software Engineer’s AI Coding Assistant to Do Data Science.](https://medium.com/@vadera.deepak/i-asked-a-software-engineers-ai-coding-assistant-to-do-data-science-0ad7424795f0?source=rss------data_science-5)
-- [On the freakishly strong YC W26 batch](https://jaredheyman.medium.com/on-the-freakishly-strong-yc-w26-batch-056ccb666076?source=rss------data_science-5)
-- [11 Python Tools That Power Modern AI Projects](https://blog.stackademic.com/11-python-tools-that-power-modern-ai-projects-e2012041d175?source=rss------data_science-5)
-- [10 Python Skills That Separate Beginners From Professionals](https://python.plainenglish.io/10-python-skills-that-separate-beginners-from-professionals-7356ba8780ce?source=rss------data_science-5)
-- [Web Scraping Masterclass: Collect Any Dataset from the Internet Using Python](https://medium.com/@atnofordatascience/web-scraping-masterclass-collect-any-dataset-from-the-internet-using-python-ade7d5e789bf?source=rss------data_science-5)
-- [Influential Middle Eastern Leader Benjamin Netanyahu Dies in Tragic Road Accident](https://medium.com/@moviemanbd75/influential-middle-eastern-leader-benjamin-netanyahu-dies-in-tragic-road-accident-e7790ba46ad7?source=rss------data_science-5)
-- [Forget the H100: How Memory Caching Scales LSTMs to 10k Tokens on a Single GPU](https://compute-optimized.medium.com/forget-the-h100-how-memory-caching-scales-lstms-to-10k-tokens-on-a-single-gpu-242ea8d6d201?source=rss------data_science-5)
+- [Vector Databases Might Become the Next Big Tech Monopoly](https://cachecowboy.medium.com/vector-databases-might-become-the-next-big-tech-monopoly-34b59c49a68f?source=rss------data_science-5)
+- [11 Python Tricks That Make Data Processing Easier](https://blog.stackademic.com/11-python-tricks-that-make-data-processing-easier-14007d0fbe0d?source=rss------data_science-5)
+- [9 Python Productivity Tricks Every Developer Should Learn](https://python.plainenglish.io/9-python-productivity-tricks-every-developer-should-learn-029eddca8d22?source=rss------data_science-5)
+- [Criteria for Energy Efficient Design in Data Centers](https://medium.com/@yuribravo/https-yuribravo-com-en-criterios-para-un-diseno-con-eficiencia-energetica-en-data-centers-e220cedf3431?source=rss------data_science-5)
+- [From M1 Pro 16-inch to M5 Pro 14-inch](https://medium.com/on-tech/from-m1-pro-16-inch-to-m5-pro-14-inch-2b04fa2c975a?source=rss------data_science-5)
+- [Previsão de Indicadores Fisiológicos em Atletas com Scikit-Learn](https://medium.com/@erick.carlis/previs%C3%A3o-de-indicadores-fisiol%C3%B3gicos-em-atletas-com-scikit-learn-2387f67456ba?source=rss------data_science-5)
+- [I Built a Wavelet Gradient Optimizer That Beats Adam Under Noise — Here’s How](https://medium.com/@chukwudieke61/i-built-a-wavelet-gradient-optimizer-that-beats-adam-under-noise-heres-how-1dbb662c80e3?source=rss------data_science-5)
+- [Using USERELATIONSHIP in Power BI Without Breaking Other Measures: A Practical Guide for Real…](https://medium.com/microsoft-power-bi/using-userelationship-in-power-bi-without-breaking-other-measures-a-practical-guide-for-real-45e4ceb5656d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
