@@ -105,14 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Vector Databases Might Become the Next Big Tech Monopoly](https://cachecowboy.medium.com/vector-databases-might-become-the-next-big-tech-monopoly-34b59c49a68f?source=rss------data_science-5)
-- [11 Python Tricks That Make Data Processing Easier](https://blog.stackademic.com/11-python-tricks-that-make-data-processing-easier-14007d0fbe0d?source=rss------data_science-5)
-- [9 Python Productivity Tricks Every Developer Should Learn](https://python.plainenglish.io/9-python-productivity-tricks-every-developer-should-learn-029eddca8d22?source=rss------data_science-5)
-- [Criteria for Energy Efficient Design in Data Centers](https://medium.com/@yuribravo/https-yuribravo-com-en-criterios-para-un-diseno-con-eficiencia-energetica-en-data-centers-e220cedf3431?source=rss------data_science-5)
-- [From M1 Pro 16-inch to M5 Pro 14-inch](https://medium.com/on-tech/from-m1-pro-16-inch-to-m5-pro-14-inch-2b04fa2c975a?source=rss------data_science-5)
-- [Previsão de Indicadores Fisiológicos em Atletas com Scikit-Learn](https://medium.com/@erick.carlis/previs%C3%A3o-de-indicadores-fisiol%C3%B3gicos-em-atletas-com-scikit-learn-2387f67456ba?source=rss------data_science-5)
-- [I Built a Wavelet Gradient Optimizer That Beats Adam Under Noise — Here’s How](https://medium.com/@chukwudieke61/i-built-a-wavelet-gradient-optimizer-that-beats-adam-under-noise-heres-how-1dbb662c80e3?source=rss------data_science-5)
-- [Using USERELATIONSHIP in Power BI Without Breaking Other Measures: A Practical Guide for Real…](https://medium.com/microsoft-power-bi/using-userelationship-in-power-bi-without-breaking-other-measures-a-practical-guide-for-real-45e4ceb5656d?source=rss------data_science-5)
+- [Your DNA Contains 3 Billion Data Points — AI Is Finally Making Sense of Them](https://medium.com/@nandwanikuntal/your-dna-contains-3-billion-data-points-ai-is-finally-making-sense-of-them-c5e5875bd6dd?source=rss------data_science-5)
+- [Thermodynamics of Protein Aggregation in Neuro-Cardiovascular Proteotoxicity: A Unified Analysis of…](https://medium.com/@aditrizky052/thermodynamics-of-protein-aggregation-in-neuro-cardiovascular-proteotoxicity-a-unified-analysis-of-3c220c97687b?source=rss------data_science-5)
+- [Fighting Vendor Lock-in with Local LLMs](https://ondrej-popelka.medium.com/fighting-vendor-lock-in-with-local-llms-668734cec1c3?source=rss------data_science-5)
+- [How Datadog Lets AI Agents Deploy Code to Production Without Human Review](https://medium.com/data-science-collective/how-datadog-lets-ai-agents-deploy-code-to-production-without-human-review-d5ddf17782d8?source=rss------data_science-5)
+- [Asycd AI Research &lpar;March 2026&rpar;: Demos in Multi-Agent Orchestration and Bayesian Prompt Compression](https://asycd.medium.com/asycd-ai-research-march-2026-demos-in-multi-agent-orchestration-and-bayesian-prompt-compression-d8fcca03a0a7?source=rss------data_science-5)
+- [What Is Data Migration? A Practical Guide for Growing Businesses](https://medium.com/@markagjackson10/what-is-data-migration-a-practical-guide-for-growing-businesses-b7526501369a?source=rss------data_science-5)
+- [The AI Industrial Boom: How Artificial Intelligence Is Redefining Our World in 2026](https://medium.com/activated-thinker/the-ai-industrial-boom-how-artificial-intelligence-is-redefining-our-world-in-2026-85ce719d4a2c?source=rss------data_science-5)
+- [IoT Meets LLMs: Giving Your Edge Devices a ‘Brain’ with Local AI Models](https://medium.com/@snehal_singh/iot-meets-llms-giving-your-edge-devices-a-brain-with-local-ai-models-e80f74f8299f?source=rss------data_science-5)
+- [The 3-Layer Automation Stack Every Analyst Should Build in 2026](https://medium.com/activated-thinker/the-3-layer-automation-stack-every-analyst-should-build-in-2026-5ac0acb32129?source=rss------data_science-5)
+- [Claude Code vs OpenAI Codex vs Cursor: Which AI Coding Tool Should You Actually Use in 2026?](https://medium.com/@swarajshinde28152/claude-code-vs-openai-codex-vs-cursor-which-ai-coding-tool-should-you-actually-use-in-2026-8fd26985974a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
