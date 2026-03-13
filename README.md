@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Your DNA Contains 3 Billion Data Points — AI Is Finally Making Sense of Them](https://medium.com/@nandwanikuntal/your-dna-contains-3-billion-data-points-ai-is-finally-making-sense-of-them-c5e5875bd6dd?source=rss------data_science-5)
-- [Thermodynamics of Protein Aggregation in Neuro-Cardiovascular Proteotoxicity: A Unified Analysis of…](https://medium.com/@aditrizky052/thermodynamics-of-protein-aggregation-in-neuro-cardiovascular-proteotoxicity-a-unified-analysis-of-3c220c97687b?source=rss------data_science-5)
-- [Fighting Vendor Lock-in with Local LLMs](https://ondrej-popelka.medium.com/fighting-vendor-lock-in-with-local-llms-668734cec1c3?source=rss------data_science-5)
-- [How Datadog Lets AI Agents Deploy Code to Production Without Human Review](https://medium.com/data-science-collective/how-datadog-lets-ai-agents-deploy-code-to-production-without-human-review-d5ddf17782d8?source=rss------data_science-5)
-- [Asycd AI Research &lpar;March 2026&rpar;: Demos in Multi-Agent Orchestration and Bayesian Prompt Compression](https://asycd.medium.com/asycd-ai-research-march-2026-demos-in-multi-agent-orchestration-and-bayesian-prompt-compression-d8fcca03a0a7?source=rss------data_science-5)
-- [What Is Data Migration? A Practical Guide for Growing Businesses](https://medium.com/@markagjackson10/what-is-data-migration-a-practical-guide-for-growing-businesses-b7526501369a?source=rss------data_science-5)
-- [The AI Industrial Boom: How Artificial Intelligence Is Redefining Our World in 2026](https://medium.com/activated-thinker/the-ai-industrial-boom-how-artificial-intelligence-is-redefining-our-world-in-2026-85ce719d4a2c?source=rss------data_science-5)
-- [IoT Meets LLMs: Giving Your Edge Devices a ‘Brain’ with Local AI Models](https://medium.com/@snehal_singh/iot-meets-llms-giving-your-edge-devices-a-brain-with-local-ai-models-e80f74f8299f?source=rss------data_science-5)
-- [The 3-Layer Automation Stack Every Analyst Should Build in 2026](https://medium.com/activated-thinker/the-3-layer-automation-stack-every-analyst-should-build-in-2026-5ac0acb32129?source=rss------data_science-5)
-- [Claude Code vs OpenAI Codex vs Cursor: Which AI Coding Tool Should You Actually Use in 2026?](https://medium.com/@swarajshinde28152/claude-code-vs-openai-codex-vs-cursor-which-ai-coding-tool-should-you-actually-use-in-2026-8fd26985974a?source=rss------data_science-5)
+- [LangGraph vs CrewAI vs AutoGen: Which Agent Framework Should You Actually Use in 2026?](https://pub.towardsai.net/langgraph-vs-crewai-vs-autogen-which-agent-framework-should-you-actually-use-in-2026-b8b2c84f1229?source=rss------data_science-5)
+- [Why Graph RAG + Agentic RAG May Become the Dominant AI Architecture by 2027](https://medium.com/@shukla.vjs/why-graph-rag-agentic-rag-may-become-the-dominant-ai-architecture-by-2027-dbbea045b042?source=rss------data_science-5)
+- [CAROL &lpar;Mohamad Toutonji&rpar;](https://medium.com/@mohamad.toutonji/carol-mohamad-toutonji-4eb1ae607fa8?source=rss------data_science-5)
+- [Agentic Code Reasoning Is Quietly Changing How We Verify LLM Patches](https://pub.towardsai.net/agentic-code-reasoning-is-quietly-changing-how-we-verify-llm-patches-7fbb6edebdce?source=rss------data_science-5)
+- [A2A &lpar;Agent2Agent&rpar;; Explained Simply](https://pub.towardsai.net/a2a-agent2agent-explained-simply-f8c81aa01d4b?source=rss------data_science-5)
+- [The Planet Has Shifted Gears](https://medium.com/southern-winds/the-planet-has-shifted-gears-ecc6ea464883?source=rss------data_science-5)
+- [Exploratory Data Analysis &lpar;EDA&rpar; :-](https://medium.com/@nitishgiri147/exploratory-data-analysis-eda-6ef1691b22a5?source=rss------data_science-5)
+- [Marine and Buoy Observations](https://medium.com/@chriszenzel/marine-and-buoy-observations-63da2f1727d0?source=rss------data_science-5)
+- [Text-Based Aviation Formats](https://medium.com/@chriszenzel/text-based-aviation-formats-2a7813b22ab9?source=rss------data_science-5)
+- [Hidden Markov Models for regime detection look simple until your backtest silently lies to you.](https://medium.com/@NFS303/hidden-markov-models-for-regime-detection-look-simple-until-your-backtest-silently-lies-to-you-9d8d0cf02099?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
