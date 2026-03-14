@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [LangGraph vs CrewAI vs AutoGen: Which Agent Framework Should You Actually Use in 2026?](https://pub.towardsai.net/langgraph-vs-crewai-vs-autogen-which-agent-framework-should-you-actually-use-in-2026-b8b2c84f1229?source=rss------data_science-5)
-- [Why Graph RAG + Agentic RAG May Become the Dominant AI Architecture by 2027](https://medium.com/@shukla.vjs/why-graph-rag-agentic-rag-may-become-the-dominant-ai-architecture-by-2027-dbbea045b042?source=rss------data_science-5)
-- [CAROL &lpar;Mohamad Toutonji&rpar;](https://medium.com/@mohamad.toutonji/carol-mohamad-toutonji-4eb1ae607fa8?source=rss------data_science-5)
-- [Agentic Code Reasoning Is Quietly Changing How We Verify LLM Patches](https://pub.towardsai.net/agentic-code-reasoning-is-quietly-changing-how-we-verify-llm-patches-7fbb6edebdce?source=rss------data_science-5)
-- [A2A &lpar;Agent2Agent&rpar;; Explained Simply](https://pub.towardsai.net/a2a-agent2agent-explained-simply-f8c81aa01d4b?source=rss------data_science-5)
-- [The Planet Has Shifted Gears](https://medium.com/southern-winds/the-planet-has-shifted-gears-ecc6ea464883?source=rss------data_science-5)
-- [Exploratory Data Analysis &lpar;EDA&rpar; :-](https://medium.com/@nitishgiri147/exploratory-data-analysis-eda-6ef1691b22a5?source=rss------data_science-5)
-- [Marine and Buoy Observations](https://medium.com/@chriszenzel/marine-and-buoy-observations-63da2f1727d0?source=rss------data_science-5)
-- [Text-Based Aviation Formats](https://medium.com/@chriszenzel/text-based-aviation-formats-2a7813b22ab9?source=rss------data_science-5)
-- [Hidden Markov Models for regime detection look simple until your backtest silently lies to you.](https://medium.com/@NFS303/hidden-markov-models-for-regime-detection-look-simple-until-your-backtest-silently-lies-to-you-9d8d0cf02099?source=rss------data_science-5)
+- [A/B Testing Analizi: Cookie Cats Veri Seti ile Oyuncu Davranışı Üzerine](https://medium.com/@suedakzn/a-b-testing-analizi-cookie-cats-veri-seti-ile-oyuncu-davran%C4%B1%C5%9F%C4%B1-%C3%BCzerine-17b31f76831d?source=rss------data_science-5)
+- [The Mathematician Who Owned Almost Nothing: The Nomadic Genius Paul Erdős](https://medium.com/@vplevris/the-mathematician-who-owned-almost-nothing-the-nomadic-genius-paul-erd%C5%91s-242f9dd18d02?source=rss------data_science-5)
+- [Who is Formula 1’s greatest qualifier?](https://medium.com/@roberthughes1996/who-is-formula-1s-greatest-qualifier-99409b1ed55b?source=rss------data_science-5)
+- [Your Data Science Team Just Got a New Colleague — And It Never Sleeps](https://medium.com/@calvinwhlim1995/your-data-science-team-just-got-a-new-colleague-and-it-never-sleeps-42187106a267?source=rss------data_science-5)
+- [Hot take:](https://medium.com/@chefxido/hot-take-1acdcba3c13d?source=rss------data_science-5)
+- [PUBLIC STATEMENT](https://medium.com/@cixag/public-statement-70d86d26ad34?source=rss------data_science-5)
+- [Low Back Pain Using The Study Y App](https://medium.com/@parockson/low-back-pain-using-the-study-y-app-c8987be716f5?source=rss------data_science-5)
+- [How Machine Learning Helps Businesses Predict the Future](https://medium.com/@hammad-farooq/how-machine-learning-helps-businesses-predict-the-future-4ca009359e90?source=rss------data_science-5)
+- [Why Most AI Prompts Fail in Production ?](https://medium.com/@venkatasaicharanlysetty/why-most-ai-prompts-fail-in-production-7924245ed3c4?source=rss------data_science-5)
+- [First Discovery of a Magnetar’s Birth May Not Explain All Fast Radio Bursts](https://avi-loeb.medium.com/first-discovery-of-a-magnetars-birth-may-not-explain-all-fast-radio-bursts-75a3ba558c4d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
