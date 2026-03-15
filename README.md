@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A/B Testing Analizi: Cookie Cats Veri Seti ile Oyuncu Davranışı Üzerine](https://medium.com/@suedakzn/a-b-testing-analizi-cookie-cats-veri-seti-ile-oyuncu-davran%C4%B1%C5%9F%C4%B1-%C3%BCzerine-17b31f76831d?source=rss------data_science-5)
-- [The Mathematician Who Owned Almost Nothing: The Nomadic Genius Paul Erdős](https://medium.com/@vplevris/the-mathematician-who-owned-almost-nothing-the-nomadic-genius-paul-erd%C5%91s-242f9dd18d02?source=rss------data_science-5)
-- [Who is Formula 1’s greatest qualifier?](https://medium.com/@roberthughes1996/who-is-formula-1s-greatest-qualifier-99409b1ed55b?source=rss------data_science-5)
-- [Your Data Science Team Just Got a New Colleague — And It Never Sleeps](https://medium.com/@calvinwhlim1995/your-data-science-team-just-got-a-new-colleague-and-it-never-sleeps-42187106a267?source=rss------data_science-5)
-- [Hot take:](https://medium.com/@chefxido/hot-take-1acdcba3c13d?source=rss------data_science-5)
-- [PUBLIC STATEMENT](https://medium.com/@cixag/public-statement-70d86d26ad34?source=rss------data_science-5)
-- [Low Back Pain Using The Study Y App](https://medium.com/@parockson/low-back-pain-using-the-study-y-app-c8987be716f5?source=rss------data_science-5)
-- [How Machine Learning Helps Businesses Predict the Future](https://medium.com/@hammad-farooq/how-machine-learning-helps-businesses-predict-the-future-4ca009359e90?source=rss------data_science-5)
-- [Why Most AI Prompts Fail in Production ?](https://medium.com/@venkatasaicharanlysetty/why-most-ai-prompts-fail-in-production-7924245ed3c4?source=rss------data_science-5)
-- [First Discovery of a Magnetar’s Birth May Not Explain All Fast Radio Bursts](https://avi-loeb.medium.com/first-discovery-of-a-magnetars-birth-may-not-explain-all-fast-radio-bursts-75a3ba558c4d?source=rss------data_science-5)
+- [When Wind Turbines Become AI Supercomputers: The Future of Offshore Computin](https://medium.com/@vidulawickramasingha/when-wind-turbines-become-ai-supercomputers-the-future-of-offshore-computin-41549a1ce5c4?source=rss------data_science-5)
+- [How Can a Solar Motion Sensor Outdoor Light Transform Your Home Security and Save Energy2026?](https://medium.com/@econex23/how-can-a-solar-motion-sensor-outdoor-light-transform-your-home-security-and-save-energy2026-28200f123930?source=rss------data_science-5)
+- [Customer Purchase Prediction for Retail Marketing:](https://medium.com/@godstimeoigiangbe/customer-purchase-prediction-for-retail-marketing-430d8edb9046?source=rss------data_science-5)
+- [The AI Agents Stack &lpar;2026 Edition&rpar;](https://medium.com/data-science-collective/the-ai-agents-stack-2026-edition-37fa32db7a56?source=rss------data_science-5)
+- [Why Groups Go “Crazy”: The Hidden Geometry of Collective Belief](https://medium.com/@ynqdymmhcq/why-groups-go-crazy-the-hidden-geometry-of-collective-belief-268481b24a09?source=rss------data_science-5)
+- [Your LLM Judge Doesn’t Know What It Thinks](https://medium.com/@ghighcove/your-llm-judge-doesnt-know-what-it-thinks-f55bede87905?source=rss------data_science-5)
+- [Predicting House Prices with Machine Learning: An End-to-End Data Science Project](https://medium.com/@sonnguyenmau04/predicting-house-prices-with-machine-learning-an-end-to-end-data-science-project-4b5a336cb564?source=rss------data_science-5)
+- [From Chatbots to AI Workforces: The Hidden Architectures Powering Modern AI](https://datahubmate.medium.com/from-chatbots-to-ai-workforces-the-hidden-architectures-powering-modern-ai-60c58334218c?source=rss------data_science-5)
+- [Machine Learning Based Stroke Risk Prediction Using Clinical and Demographic Data](https://medium.com/@jayjorhnson/machine-learning-based-stroke-risk-prediction-using-clinical-and-demographic-data-19ad70a51ffa?source=rss------data_science-5)
+- [Feature Engineering for Production Machine Learning: From Data Transformations to Feature Stores](https://medium.com/@mjgmario/feature-engineering-for-production-machine-learning-from-data-transformations-to-feature-stores-00af3e834e4d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
