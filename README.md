@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [When Wind Turbines Become AI Supercomputers: The Future of Offshore Computin](https://medium.com/@vidulawickramasingha/when-wind-turbines-become-ai-supercomputers-the-future-of-offshore-computin-41549a1ce5c4?source=rss------data_science-5)
-- [How Can a Solar Motion Sensor Outdoor Light Transform Your Home Security and Save Energy2026?](https://medium.com/@econex23/how-can-a-solar-motion-sensor-outdoor-light-transform-your-home-security-and-save-energy2026-28200f123930?source=rss------data_science-5)
-- [Customer Purchase Prediction for Retail Marketing:](https://medium.com/@godstimeoigiangbe/customer-purchase-prediction-for-retail-marketing-430d8edb9046?source=rss------data_science-5)
-- [The AI Agents Stack &lpar;2026 Edition&rpar;](https://medium.com/data-science-collective/the-ai-agents-stack-2026-edition-37fa32db7a56?source=rss------data_science-5)
-- [Why Groups Go “Crazy”: The Hidden Geometry of Collective Belief](https://medium.com/@ynqdymmhcq/why-groups-go-crazy-the-hidden-geometry-of-collective-belief-268481b24a09?source=rss------data_science-5)
-- [Your LLM Judge Doesn’t Know What It Thinks](https://medium.com/@ghighcove/your-llm-judge-doesnt-know-what-it-thinks-f55bede87905?source=rss------data_science-5)
-- [Predicting House Prices with Machine Learning: An End-to-End Data Science Project](https://medium.com/@sonnguyenmau04/predicting-house-prices-with-machine-learning-an-end-to-end-data-science-project-4b5a336cb564?source=rss------data_science-5)
-- [From Chatbots to AI Workforces: The Hidden Architectures Powering Modern AI](https://datahubmate.medium.com/from-chatbots-to-ai-workforces-the-hidden-architectures-powering-modern-ai-60c58334218c?source=rss------data_science-5)
-- [Machine Learning Based Stroke Risk Prediction Using Clinical and Demographic Data](https://medium.com/@jayjorhnson/machine-learning-based-stroke-risk-prediction-using-clinical-and-demographic-data-19ad70a51ffa?source=rss------data_science-5)
-- [Feature Engineering for Production Machine Learning: From Data Transformations to Feature Stores](https://medium.com/@mjgmario/feature-engineering-for-production-machine-learning-from-data-transformations-to-feature-stores-00af3e834e4d?source=rss------data_science-5)
+- [9 Python Features I Wish I Knew Sooner](https://python.plainenglish.io/9-python-features-i-wish-i-knew-sooner-b6d755a6d099?source=rss------data_science-5)
+- [Predicting Stroke Risk Using Machine Learning: A Data Science Journey](https://medium.com/@loveedarl89/predicting-stroke-risk-using-machine-learning-a-data-science-journey-263322d67a10?source=rss------data_science-5)
+- [Menavigasi Dunia Big Data: Dari Rekayasa Data hingga Ketahanan Sistem Terdistribusi](https://medium.com/@irfnakmall/menavigasi-dunia-big-data-dari-rekayasa-data-hingga-ketahanan-sistem-terdistribusi-864452b9fd02?source=rss------data_science-5)
+- [How I Improved a RAG Pipeline from 0.536 to 0.983 Answer Relevance — A Production Engineering Log](https://medium.com/@sumit65kothari/how-i-improved-a-rag-pipeline-from-0-536-to-0-983-answer-relevance-a-production-engineering-log-9f7bd61e2b22?source=rss------data_science-5)
+- [WUF13-ə Doğru: Dayanıqlı Şəhər Mobilliyi üçün Kinetix AI Layihəsi](https://gurbanali.medium.com/wuf13-%C9%99-do%C4%9Fru-dayan%C4%B1ql%C4%B1-%C5%9F%C9%99h%C9%99r-mobilliyi-%C3%BC%C3%A7%C3%BCn-kinetix-ai-layih%C9%99si-62f4d5335ca6?source=rss------data_science-5)
+- [These numbers will snap your mind…](https://devfen.medium.com/these-numbers-will-snap-your-mind-83c2d14cca0f?source=rss------data_science-5)
+- [Medallion Architecture in Production: Building Enterprise-Grade Data Pipelines on Databricks](https://medium.com/@nidhin.dwh/medallion-architecture-in-production-building-enterprise-grade-data-pipelines-on-databricks-10a3fc958a72?source=rss------data_science-5)
+- [How can Data Scientists and Analysts stay relevant in 2026!](https://medium.com/@meetkamal/how-can-data-scientists-and-analysts-stay-relevant-in-2026-5d7e12666fef?source=rss------data_science-5)
+- [Bootstrap Estatístico: Do Conceito à Aplicação Prática em Python](https://medium.com/@gabriel.cabral.guimaraes/bootstrap-estat%C3%ADstico-do-conceito-%C3%A0-aplica%C3%A7%C3%A3o-pr%C3%A1tica-em-python-2bcbb6ef2a74?source=rss------data_science-5)
+- [AI from Scratch #2: Netflix Knows You Better Than Your Friends](https://medium.com/@rmudumbai/ai-from-scratch-2-netflix-knows-you-better-than-your-friends-45bade0b1f48?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
