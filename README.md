@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [9 Python Features I Wish I Knew Sooner](https://python.plainenglish.io/9-python-features-i-wish-i-knew-sooner-b6d755a6d099?source=rss------data_science-5)
-- [Predicting Stroke Risk Using Machine Learning: A Data Science Journey](https://medium.com/@loveedarl89/predicting-stroke-risk-using-machine-learning-a-data-science-journey-263322d67a10?source=rss------data_science-5)
-- [Menavigasi Dunia Big Data: Dari Rekayasa Data hingga Ketahanan Sistem Terdistribusi](https://medium.com/@irfnakmall/menavigasi-dunia-big-data-dari-rekayasa-data-hingga-ketahanan-sistem-terdistribusi-864452b9fd02?source=rss------data_science-5)
-- [How I Improved a RAG Pipeline from 0.536 to 0.983 Answer Relevance — A Production Engineering Log](https://medium.com/@sumit65kothari/how-i-improved-a-rag-pipeline-from-0-536-to-0-983-answer-relevance-a-production-engineering-log-9f7bd61e2b22?source=rss------data_science-5)
-- [WUF13-ə Doğru: Dayanıqlı Şəhər Mobilliyi üçün Kinetix AI Layihəsi](https://gurbanali.medium.com/wuf13-%C9%99-do%C4%9Fru-dayan%C4%B1ql%C4%B1-%C5%9F%C9%99h%C9%99r-mobilliyi-%C3%BC%C3%A7%C3%BCn-kinetix-ai-layih%C9%99si-62f4d5335ca6?source=rss------data_science-5)
-- [These numbers will snap your mind…](https://devfen.medium.com/these-numbers-will-snap-your-mind-83c2d14cca0f?source=rss------data_science-5)
-- [Medallion Architecture in Production: Building Enterprise-Grade Data Pipelines on Databricks](https://medium.com/@nidhin.dwh/medallion-architecture-in-production-building-enterprise-grade-data-pipelines-on-databricks-10a3fc958a72?source=rss------data_science-5)
-- [How can Data Scientists and Analysts stay relevant in 2026!](https://medium.com/@meetkamal/how-can-data-scientists-and-analysts-stay-relevant-in-2026-5d7e12666fef?source=rss------data_science-5)
-- [Bootstrap Estatístico: Do Conceito à Aplicação Prática em Python](https://medium.com/@gabriel.cabral.guimaraes/bootstrap-estat%C3%ADstico-do-conceito-%C3%A0-aplica%C3%A7%C3%A3o-pr%C3%A1tica-em-python-2bcbb6ef2a74?source=rss------data_science-5)
-- [AI from Scratch #2: Netflix Knows You Better Than Your Friends](https://medium.com/@rmudumbai/ai-from-scratch-2-netflix-knows-you-better-than-your-friends-45bade0b1f48?source=rss------data_science-5)
+- [9 Python Libraries That Make Your Code Look Professional](https://python.plainenglish.io/9-python-libraries-that-make-your-code-look-professional-4d10f277ac8b?source=rss------data_science-5)
+- [Why RAG isn’t enough: Understanding CRAG architecture](https://medium.com/@vinayak1672006/why-rag-isnt-enough-understanding-crag-architecture-532c9bdfdfff?source=rss------data_science-5)
+- [I Built an AI Agent That Monitors Our Power BI Dashboards 24/7. It Caught a $180K Error at 3 AM.](https://pub.towardsai.net/i-built-an-ai-agent-that-monitors-our-power-bi-dashboards-24-7-it-caught-a-180k-error-at-3-am-b32db378bd18?source=rss------data_science-5)
+- [AI systems: from imperative to declarative systems and higher abstraction layer](https://medium.com/@jodhernandezbemj/ai-systems-from-imperative-to-declarative-systems-and-higher-abstraction-layer-ee6292af053a?source=rss------data_science-5)
+- [Why DeFi Needs Vault Infrastructure](https://medium.com/@mdrob217/why-defi-needs-vault-infrastructure-875957fa1bf3?source=rss------data_science-5)
+- [THE JENSEN-MACROBIOLOGICAL DIVERGENCE: The Decoupling of Biological Survivability from…](https://medium.com/@ambitionmagician/the-jensen-macrobiological-divergence-the-decoupling-of-biological-survivability-from-2239f508a838?source=rss------data_science-5)
+- [Como dados de compra revelam o que sua estratégia de fidelização está errando](https://medium.com/@malbav100/como-dados-de-compra-revelam-o-que-sua-estrat%C3%A9gia-de-fideliza%C3%A7%C3%A3o-est%C3%A1-errando-bd7af65a6ad2?source=rss------data_science-5)
+- [Don’t Let Sunk Cost Decide Your Future](https://medium.com/@yadiyang/dont-let-sunk-cost-decide-your-future-231ab60ea0ab?source=rss------data_science-5)
+- [THE ENSEMBL-JENSEN SYNONYMOUS-CONSERVATION PARADOX: Structural l I’ll of Silent Polymorphisms in…](https://medium.com/@ambitionmagician/the-ensembl-jensen-synonymous-conservation-paradox-structural-l-ill-of-silent-polymorphisms-in-acedfee4370b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
