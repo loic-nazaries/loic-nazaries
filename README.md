@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [9 Python Libraries That Make Your Code Look Professional](https://python.plainenglish.io/9-python-libraries-that-make-your-code-look-professional-4d10f277ac8b?source=rss------data_science-5)
-- [Why RAG isn’t enough: Understanding CRAG architecture](https://medium.com/@vinayak1672006/why-rag-isnt-enough-understanding-crag-architecture-532c9bdfdfff?source=rss------data_science-5)
-- [I Built an AI Agent That Monitors Our Power BI Dashboards 24/7. It Caught a $180K Error at 3 AM.](https://pub.towardsai.net/i-built-an-ai-agent-that-monitors-our-power-bi-dashboards-24-7-it-caught-a-180k-error-at-3-am-b32db378bd18?source=rss------data_science-5)
-- [AI systems: from imperative to declarative systems and higher abstraction layer](https://medium.com/@jodhernandezbemj/ai-systems-from-imperative-to-declarative-systems-and-higher-abstraction-layer-ee6292af053a?source=rss------data_science-5)
-- [Why DeFi Needs Vault Infrastructure](https://medium.com/@mdrob217/why-defi-needs-vault-infrastructure-875957fa1bf3?source=rss------data_science-5)
-- [THE JENSEN-MACROBIOLOGICAL DIVERGENCE: The Decoupling of Biological Survivability from…](https://medium.com/@ambitionmagician/the-jensen-macrobiological-divergence-the-decoupling-of-biological-survivability-from-2239f508a838?source=rss------data_science-5)
-- [Como dados de compra revelam o que sua estratégia de fidelização está errando](https://medium.com/@malbav100/como-dados-de-compra-revelam-o-que-sua-estrat%C3%A9gia-de-fideliza%C3%A7%C3%A3o-est%C3%A1-errando-bd7af65a6ad2?source=rss------data_science-5)
-- [Don’t Let Sunk Cost Decide Your Future](https://medium.com/@yadiyang/dont-let-sunk-cost-decide-your-future-231ab60ea0ab?source=rss------data_science-5)
-- [THE ENSEMBL-JENSEN SYNONYMOUS-CONSERVATION PARADOX: Structural l I’ll of Silent Polymorphisms in…](https://medium.com/@ambitionmagician/the-ensembl-jensen-synonymous-conservation-paradox-structural-l-ill-of-silent-polymorphisms-in-acedfee4370b?source=rss------data_science-5)
+- [THE JENSEN DIVERGENCE: Quantifying Climate Science’s Accelerating AI Validation Gap Through…](https://medium.com/@ambitionmagician/the-jensen-divergence-quantifying-climate-sciences-accelerating-ai-validation-gap-through-b7b820c3ec66?source=rss------data_science-5)
+- [I Typed a promtp Into an AI and Got a Trading Strategy With 74.57% Returns and a 71% Win Rate](https://medium.com/@ntalegeofrey/i-typed-a-promtp-into-an-ai-and-got-a-trading-strategy-with-74-57-aa36909098db?source=rss------data_science-5)
+- [The Medical Frontier: Cis-Nonpro Peptides: Genuine Occurrences and Their Functional Roles](https://medium.com/@ambitionmagician/the-medical-frontier-cis-nonpro-peptides-genuine-occurrences-and-their-functional-roles-d22c2f95a38b?source=rss------data_science-5)
+- [رحلة الفيزياء 3 الخيط الخفي السر الذي يمنع الكون من التفكك](https://medium.com/@kian.n94/%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-3-%D8%A7%D9%84%D8%AE%D9%8A%D8%B7-%D8%A7%D9%84%D8%AE%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%B1-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D9%83%D9%88%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D9%81%D9%83%D9%83-c367f0cc0a24?source=rss------data_science-5)
+- [The Genius Who Proved the Impossible and Died Too Soon](https://medium.com/@vplevris/the-genius-who-proved-the-impossible-and-died-too-soon-bf17f89db788?source=rss------data_science-5)
+- [Model Evaluation: Measuring What Actually Matters](https://medium.com/@miqbal.izzulhaq/model-evaluation-measuring-what-actually-matters-b3a9d5fdf794?source=rss------data_science-5)
+- [Feature Engineering: The Art of Making Machines Smart](https://medium.com/@miqbal.izzulhaq/feature-engineering-the-art-of-making-machines-smart-6dcc2b1a8494?source=rss------data_science-5)
+- [Why a Giant Human Would Need 1,100 Scoops of Ice Cream Per Hour to Survive](https://medium.com/@vega42/ice-cream-vs-thermodynamics-a-spherical-human-thought-experiment-0ddddea735ed?source=rss------data_science-5)
+- [Your RAG System Isn’t Retrieving. It’s Guessing.](https://pub.towardsai.net/your-rag-system-isnt-retrieving-it-s-guessing-84fbeedb38a9?source=rss------data_science-5)
+- [رحلة الفيزياء 2 لغة السهام كيف نفهم حركة الوجود؟](https://medium.com/@kian.n94/%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-2-%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B3%D9%87%D8%A7%D9%85-%D9%83%D9%8A%D9%81-%D9%86%D9%81%D9%87%D9%85-%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%88%D8%AC%D9%88%D8%AF-5fcc9ed1556f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
