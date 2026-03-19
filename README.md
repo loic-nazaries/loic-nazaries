@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [THE JENSEN DIVERGENCE: Quantifying Climate Science’s Accelerating AI Validation Gap Through…](https://medium.com/@ambitionmagician/the-jensen-divergence-quantifying-climate-sciences-accelerating-ai-validation-gap-through-b7b820c3ec66?source=rss------data_science-5)
-- [I Typed a promtp Into an AI and Got a Trading Strategy With 74.57% Returns and a 71% Win Rate](https://medium.com/@ntalegeofrey/i-typed-a-promtp-into-an-ai-and-got-a-trading-strategy-with-74-57-aa36909098db?source=rss------data_science-5)
-- [The Medical Frontier: Cis-Nonpro Peptides: Genuine Occurrences and Their Functional Roles](https://medium.com/@ambitionmagician/the-medical-frontier-cis-nonpro-peptides-genuine-occurrences-and-their-functional-roles-d22c2f95a38b?source=rss------data_science-5)
-- [رحلة الفيزياء 3 الخيط الخفي السر الذي يمنع الكون من التفكك](https://medium.com/@kian.n94/%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-3-%D8%A7%D9%84%D8%AE%D9%8A%D8%B7-%D8%A7%D9%84%D8%AE%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%B1-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D9%83%D9%88%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D9%81%D9%83%D9%83-c367f0cc0a24?source=rss------data_science-5)
-- [The Genius Who Proved the Impossible and Died Too Soon](https://medium.com/@vplevris/the-genius-who-proved-the-impossible-and-died-too-soon-bf17f89db788?source=rss------data_science-5)
-- [Model Evaluation: Measuring What Actually Matters](https://medium.com/@miqbal.izzulhaq/model-evaluation-measuring-what-actually-matters-b3a9d5fdf794?source=rss------data_science-5)
-- [Feature Engineering: The Art of Making Machines Smart](https://medium.com/@miqbal.izzulhaq/feature-engineering-the-art-of-making-machines-smart-6dcc2b1a8494?source=rss------data_science-5)
-- [Why a Giant Human Would Need 1,100 Scoops of Ice Cream Per Hour to Survive](https://medium.com/@vega42/ice-cream-vs-thermodynamics-a-spherical-human-thought-experiment-0ddddea735ed?source=rss------data_science-5)
-- [Your RAG System Isn’t Retrieving. It’s Guessing.](https://pub.towardsai.net/your-rag-system-isnt-retrieving-it-s-guessing-84fbeedb38a9?source=rss------data_science-5)
-- [رحلة الفيزياء 2 لغة السهام كيف نفهم حركة الوجود؟](https://medium.com/@kian.n94/%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-2-%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B3%D9%87%D8%A7%D9%85-%D9%83%D9%8A%D9%81-%D9%86%D9%81%D9%87%D9%85-%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%88%D8%AC%D9%88%D8%AF-5fcc9ed1556f?source=rss------data_science-5)
+- [Why Your Coding Agent Needs More Than Grep: LSP, Semantic Search, and the Rise of the CLI](https://pub.towardsai.net/why-your-coding-agent-needs-more-than-grep-lsp-semantic-search-and-the-rise-of-the-cli-87295c0be04d?source=rss------data_science-5)
+- [O que engenheiros de software deveriam entender sobre Machine Learning](https://medium.com/@quelrufino35/o-que-engenheiros-de-software-deveriam-entender-sobre-machine-learning-bf18d2b3aa02?source=rss------data_science-5)
+- [CAPACIDADE INSTALADA, EFICIÊNCIA DO GASTO E AMPLIAÇÃO DO ACESSO NO ESPORTE MUNICIPAL](https://medium.com/@airlonjaques/capacidade-instalada-efici%C3%AAncia-do-gasto-e-amplia%C3%A7%C3%A3o-do-acesso-no-esporte-municipal-b300d1fda3d0?source=rss------data_science-5)
+- [What If AI Could Finally Read History for Us?](https://medium.com/@sudhansu.baladas/what-if-ai-could-finally-read-history-for-us-d242f810b06b?source=rss------data_science-5)
+- [I Built a Graph Neural Network for Fraud Detection.](https://medium.com/@vsrini63/i-built-a-graph-neural-network-for-fraud-detection-3774b90ec970?source=rss------data_science-5)
+- [The Day I Realized Claude AI Was Smarter Than Me](https://medium.com/activated-thinker/the-day-i-realized-claude-ai-was-smarter-than-me-09df1c96e19e?source=rss------data_science-5)
+- [Ridge vs Lasso Explained Simply: How Regularization Prevents Overfitting](https://medium.com/@richelattafuah/ridge-vs-lasso-explained-simply-how-regularization-prevents-overfitting-e6e5d815755e?source=rss------data_science-5)
+- [Your Code Works. But Is It Fast Enough?](https://medium.com/@ashokkumargurram8/your-code-works-but-is-it-fast-enough-c3b358b4b7d8?source=rss------data_science-5)
+- [Why the Most Profitable AI Workflow SaaS Already Exists — And How to Beat It](https://medium.com/write-a-catalyst/why-the-most-profitable-ai-workflow-saas-already-exists-and-how-to-beat-it-cbee8230307a?source=rss------data_science-5)
+- [Causal Inference](https://medium.com/@AILearningHub/causal-inference-45daee4b65c1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
