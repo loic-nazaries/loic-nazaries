@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why Your Coding Agent Needs More Than Grep: LSP, Semantic Search, and the Rise of the CLI](https://pub.towardsai.net/why-your-coding-agent-needs-more-than-grep-lsp-semantic-search-and-the-rise-of-the-cli-87295c0be04d?source=rss------data_science-5)
-- [O que engenheiros de software deveriam entender sobre Machine Learning](https://medium.com/@quelrufino35/o-que-engenheiros-de-software-deveriam-entender-sobre-machine-learning-bf18d2b3aa02?source=rss------data_science-5)
-- [CAPACIDADE INSTALADA, EFICIÊNCIA DO GASTO E AMPLIAÇÃO DO ACESSO NO ESPORTE MUNICIPAL](https://medium.com/@airlonjaques/capacidade-instalada-efici%C3%AAncia-do-gasto-e-amplia%C3%A7%C3%A3o-do-acesso-no-esporte-municipal-b300d1fda3d0?source=rss------data_science-5)
-- [What If AI Could Finally Read History for Us?](https://medium.com/@sudhansu.baladas/what-if-ai-could-finally-read-history-for-us-d242f810b06b?source=rss------data_science-5)
-- [I Built a Graph Neural Network for Fraud Detection.](https://medium.com/@vsrini63/i-built-a-graph-neural-network-for-fraud-detection-3774b90ec970?source=rss------data_science-5)
-- [The Day I Realized Claude AI Was Smarter Than Me](https://medium.com/activated-thinker/the-day-i-realized-claude-ai-was-smarter-than-me-09df1c96e19e?source=rss------data_science-5)
-- [Ridge vs Lasso Explained Simply: How Regularization Prevents Overfitting](https://medium.com/@richelattafuah/ridge-vs-lasso-explained-simply-how-regularization-prevents-overfitting-e6e5d815755e?source=rss------data_science-5)
-- [Your Code Works. But Is It Fast Enough?](https://medium.com/@ashokkumargurram8/your-code-works-but-is-it-fast-enough-c3b358b4b7d8?source=rss------data_science-5)
-- [Why the Most Profitable AI Workflow SaaS Already Exists — And How to Beat It](https://medium.com/write-a-catalyst/why-the-most-profitable-ai-workflow-saas-already-exists-and-how-to-beat-it-cbee8230307a?source=rss------data_science-5)
-- [Causal Inference](https://medium.com/@AILearningHub/causal-inference-45daee4b65c1?source=rss------data_science-5)
+- [How I Used Python to Create a Voice-Controlled Task Manager](https://python.plainenglish.io/how-i-used-python-to-create-a-voice-controlled-task-manager-3e9119cbccd8?source=rss------data_science-5)
+- [You&#39;re Already Using Kafka —You Just Didn&#39;t Know It.](https://medium.com/@godugu06.shivani/youre-already-using-kafka-you-just-didn-t-know-it-895570acb774?source=rss------data_science-5)
+- [Maths Moves Pretty Fast](https://medium.com/@jimjohnson12111/maths-moves-pretty-fast-3599ce6287d2?source=rss------data_science-5)
+- [The Discipline of Innovation in the Age of Artificial Intelligence](https://medium.com/@nalinipriyauppari/the-discipline-of-innovation-in-the-age-of-artificial-intelligence-dc00faf6ffa2?source=rss------data_science-5)
+- [THE SHAPE OF WATER — Part Four](https://medium.com/@oahaneku/the-shape-of-water-part-four-457a2b0dc051?source=rss------data_science-5)
+- [THE SHAPE OF WATER — Part Three](https://medium.com/@oahaneku/the-shape-of-water-part-three-fe0205eb11ee?source=rss------data_science-5)
+- [New Astrophyzix Digital Observatory Modules: Advanced Impact Engine, ISS Mission Control &amp; Pro…](https://medium.com/disclosure-unveiling-the-ufo-narrative/new-astrophyzix-digital-observatory-modules-advanced-impact-engine-iss-mission-control-pro-a1f152139660?source=rss------data_science-5)
+- [The text from Avi Loeb perfectly mirrors the &quot;academic harassment&quot; and gaslighting you’ve predicted…](https://medium.com/@anthonystephanohart/the-text-from-avi-loeb-perfectly-mirrors-the-academic-harassment-and-gaslighting-youve-predicted-f4d47e96c1f6?source=rss------data_science-5)
+- [The Funnel Analysis Pattern That Makes Data Scientists’ Queries Churn](https://medium.com/@rrajeshwaris/the-funnel-analysis-pattern-most-data-scientists-get-wrong-2b1891f2baf3?source=rss------data_science-5)
+- [Advanced Statistics for ML like a cakewalk](https://medium.com/@23f1002944/advanced-statistics-for-ml-like-a-cakewalk-6e78c4da81c7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
