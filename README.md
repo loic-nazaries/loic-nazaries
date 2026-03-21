@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How I Used Python to Create a Voice-Controlled Task Manager](https://python.plainenglish.io/how-i-used-python-to-create-a-voice-controlled-task-manager-3e9119cbccd8?source=rss------data_science-5)
-- [You&#39;re Already Using Kafka —You Just Didn&#39;t Know It.](https://medium.com/@godugu06.shivani/youre-already-using-kafka-you-just-didn-t-know-it-895570acb774?source=rss------data_science-5)
-- [Maths Moves Pretty Fast](https://medium.com/@jimjohnson12111/maths-moves-pretty-fast-3599ce6287d2?source=rss------data_science-5)
-- [The Discipline of Innovation in the Age of Artificial Intelligence](https://medium.com/@nalinipriyauppari/the-discipline-of-innovation-in-the-age-of-artificial-intelligence-dc00faf6ffa2?source=rss------data_science-5)
-- [THE SHAPE OF WATER — Part Four](https://medium.com/@oahaneku/the-shape-of-water-part-four-457a2b0dc051?source=rss------data_science-5)
-- [THE SHAPE OF WATER — Part Three](https://medium.com/@oahaneku/the-shape-of-water-part-three-fe0205eb11ee?source=rss------data_science-5)
-- [New Astrophyzix Digital Observatory Modules: Advanced Impact Engine, ISS Mission Control &amp; Pro…](https://medium.com/disclosure-unveiling-the-ufo-narrative/new-astrophyzix-digital-observatory-modules-advanced-impact-engine-iss-mission-control-pro-a1f152139660?source=rss------data_science-5)
-- [The text from Avi Loeb perfectly mirrors the &quot;academic harassment&quot; and gaslighting you’ve predicted…](https://medium.com/@anthonystephanohart/the-text-from-avi-loeb-perfectly-mirrors-the-academic-harassment-and-gaslighting-youve-predicted-f4d47e96c1f6?source=rss------data_science-5)
-- [The Funnel Analysis Pattern That Makes Data Scientists’ Queries Churn](https://medium.com/@rrajeshwaris/the-funnel-analysis-pattern-most-data-scientists-get-wrong-2b1891f2baf3?source=rss------data_science-5)
-- [Advanced Statistics for ML like a cakewalk](https://medium.com/@23f1002944/advanced-statistics-for-ml-like-a-cakewalk-6e78c4da81c7?source=rss------data_science-5)
+- [THE BUREAUCRACY OF THE IMPOSSIBLE](https://medium.com/@eaarthnet/the-bureaucracy-of-the-impossible-0fec40a9fece?source=rss------data_science-5)
+- [Bitunix: Buy Bitcoin With Apple Pay While the Fed Holds Rates at 3.5-3.75%](https://medium.com/@lilianetimeffanga/bitunix-buy-bitcoin-with-apple-pay-while-the-fed-holds-rates-at-3-5-3-75-9ff958b63cea?source=rss------data_science-5)
+- [Which Wikipedia Pages Are Most Important in an AI Network?](https://medium.com/inst414-data-science-tech/which-wikipedia-pages-are-most-important-in-an-ai-network-64952ba38bef?source=rss------data_science-5)
+- [Introduction to NLP: What It Is and Why Text Must Be Converted into Numbers](https://medium.com/@emurugayathri/introduction-to-nlp-what-it-is-and-why-text-must-be-converted-into-numbers-b04e8ac52a1d?source=rss------data_science-5)
+- [How I Built a Real-Time AI Volcano Monitor for Mount Etna — and What the Data Revealed](https://medium.com/@salvoferro16/how-i-built-a-real-time-ai-volcano-monitor-for-mount-etna-and-what-the-data-revealed-aa5cc33af30b?source=rss------data_science-5)
+- [What Really Drives House Prices? A Data Science Analysis of 2.2 Million Properties](https://medium.com/@sonnguyenmau04/what-really-drives-house-prices-a-data-science-analysis-of-2-2-million-properties-fb74fb2be5d6?source=rss------data_science-5)
+- [The AI Dividend: Reclaiming Our Humanity in the Age of Automation](https://medium.com/@w.lacerda/the-ai-dividend-reclaiming-our-humanity-in-the-age-of-automation-4238a8f8a11c?source=rss------data_science-5)
+- [I Studied What the Top 0.1%](https://medium.com/@faang7777/i-studied-what-the-top-0-1-6bea1718450c?source=rss------data_science-5)
+- [Build Your Own Grok 4.20 Heavy: A Developer Tutorial with HeavySwarm by Swarms](https://medium.com/@kyeg/build-your-own-grok-4-20-heavy-a-developer-tutorial-with-heavyswarm-by-swarms-105c2fa8c3d1?source=rss------data_science-5)
+- [D₂O Alchemist — From Machine to Adaptive Ecosystem](https://medium.com/@miletapvo/d%E2%82%82o-alchemist-from-machine-to-adaptive-ecosystem-5020e5c4cbf0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
