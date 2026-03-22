@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [THE BUREAUCRACY OF THE IMPOSSIBLE](https://medium.com/@eaarthnet/the-bureaucracy-of-the-impossible-0fec40a9fece?source=rss------data_science-5)
-- [Bitunix: Buy Bitcoin With Apple Pay While the Fed Holds Rates at 3.5-3.75%](https://medium.com/@lilianetimeffanga/bitunix-buy-bitcoin-with-apple-pay-while-the-fed-holds-rates-at-3-5-3-75-9ff958b63cea?source=rss------data_science-5)
-- [Which Wikipedia Pages Are Most Important in an AI Network?](https://medium.com/inst414-data-science-tech/which-wikipedia-pages-are-most-important-in-an-ai-network-64952ba38bef?source=rss------data_science-5)
-- [Introduction to NLP: What It Is and Why Text Must Be Converted into Numbers](https://medium.com/@emurugayathri/introduction-to-nlp-what-it-is-and-why-text-must-be-converted-into-numbers-b04e8ac52a1d?source=rss------data_science-5)
-- [How I Built a Real-Time AI Volcano Monitor for Mount Etna — and What the Data Revealed](https://medium.com/@salvoferro16/how-i-built-a-real-time-ai-volcano-monitor-for-mount-etna-and-what-the-data-revealed-aa5cc33af30b?source=rss------data_science-5)
-- [What Really Drives House Prices? A Data Science Analysis of 2.2 Million Properties](https://medium.com/@sonnguyenmau04/what-really-drives-house-prices-a-data-science-analysis-of-2-2-million-properties-fb74fb2be5d6?source=rss------data_science-5)
-- [The AI Dividend: Reclaiming Our Humanity in the Age of Automation](https://medium.com/@w.lacerda/the-ai-dividend-reclaiming-our-humanity-in-the-age-of-automation-4238a8f8a11c?source=rss------data_science-5)
-- [I Studied What the Top 0.1%](https://medium.com/@faang7777/i-studied-what-the-top-0-1-6bea1718450c?source=rss------data_science-5)
-- [Build Your Own Grok 4.20 Heavy: A Developer Tutorial with HeavySwarm by Swarms](https://medium.com/@kyeg/build-your-own-grok-4-20-heavy-a-developer-tutorial-with-heavyswarm-by-swarms-105c2fa8c3d1?source=rss------data_science-5)
-- [D₂O Alchemist — From Machine to Adaptive Ecosystem](https://medium.com/@miletapvo/d%E2%82%82o-alchemist-from-machine-to-adaptive-ecosystem-5020e5c4cbf0?source=rss------data_science-5)
+- [Reinforcement Learning From Scratch &lpar;Part 4&rpar;: Monte Carlo Methods Explained](https://medium.com/@sayedebad.777/reinforcement-learning-from-scratch-part-4-monte-carlo-methods-explained-d19c9e39cd45?source=rss------data_science-5)
+- [What an End-to-End ML System Actually Looks Like](https://medium.com/@lakshyarawal/what-an-end-to-end-ml-system-actually-looks-like-651b022f13e8?source=rss------data_science-5)
+- [Using GPT-4o-mini as an Entity Resolution Judge: 95% Precision for $0.04](https://pub.towardsai.net/using-gpt-4o-mini-as-an-entity-resolution-judge-95-precision-for-0-04-b216d44a7f20?source=rss------data_science-5)
+- [Menjelajahi Data Science: Rencana Belajar Semester Ini](https://medium.com/@nailaadzkia30/menjelajahi-data-science-rencana-belajar-semester-ini-7813a0e6eed5?source=rss------data_science-5)
+- [The Air-Gapped Chronicles: The Model Zoo Ambush — When Your ‘Pretrained’ AI Ships the Attack](https://pub.towardsai.net/the-air-gapped-chronicles-the-model-zoo-ambush-when-your-pretrained-ai-ships-the-attack-b42899640e65?source=rss------data_science-5)
+- [What You Feed the Model Matters More Than the Model](https://blog.stackademic.com/what-you-feed-the-model-matters-more-than-the-model-b910c61b0ac1?source=rss------data_science-5)
+- [Beyond Scikit-Learn: Building a Dual-GPU Hybrid Search Engine from First Principles](https://medium.com/@ranahaseeb92029/beyond-scikit-learn-building-a-dual-gpu-hybrid-search-engine-from-first-principles-12cdd468ec34?source=rss------data_science-5)
+- [Why DeFi Needs Vault Infrastructure
+The early promise of DeFi was simple: open access, high yields…](https://medium.com/@nwukwugodswillizuchukwu/why-defi-needs-vault-infrastructure-the-early-promise-of-defi-was-simple-open-access-high-yields-e722056d3048?source=rss------data_science-5)
+- [The Science of Probability in Lottery Data](https://medium.com/@raknavllc/the-science-of-probability-in-lottery-data-3f8c9f4eb56a?source=rss------data_science-5)
+- [What They Don’t Tell You About the Night Shift in a Server Room](https://medium.com/@tabithakamarunga/what-they-dont-tell-you-about-the-night-shift-in-a-server-room-b3faa2a3c5ce?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
