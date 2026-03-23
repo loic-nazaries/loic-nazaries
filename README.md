@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Reinforcement Learning From Scratch &lpar;Part 4&rpar;: Monte Carlo Methods Explained](https://medium.com/@sayedebad.777/reinforcement-learning-from-scratch-part-4-monte-carlo-methods-explained-d19c9e39cd45?source=rss------data_science-5)
-- [What an End-to-End ML System Actually Looks Like](https://medium.com/@lakshyarawal/what-an-end-to-end-ml-system-actually-looks-like-651b022f13e8?source=rss------data_science-5)
-- [Using GPT-4o-mini as an Entity Resolution Judge: 95% Precision for $0.04](https://pub.towardsai.net/using-gpt-4o-mini-as-an-entity-resolution-judge-95-precision-for-0-04-b216d44a7f20?source=rss------data_science-5)
-- [Menjelajahi Data Science: Rencana Belajar Semester Ini](https://medium.com/@nailaadzkia30/menjelajahi-data-science-rencana-belajar-semester-ini-7813a0e6eed5?source=rss------data_science-5)
-- [The Air-Gapped Chronicles: The Model Zoo Ambush — When Your ‘Pretrained’ AI Ships the Attack](https://pub.towardsai.net/the-air-gapped-chronicles-the-model-zoo-ambush-when-your-pretrained-ai-ships-the-attack-b42899640e65?source=rss------data_science-5)
-- [What You Feed the Model Matters More Than the Model](https://blog.stackademic.com/what-you-feed-the-model-matters-more-than-the-model-b910c61b0ac1?source=rss------data_science-5)
-- [Beyond Scikit-Learn: Building a Dual-GPU Hybrid Search Engine from First Principles](https://medium.com/@ranahaseeb92029/beyond-scikit-learn-building-a-dual-gpu-hybrid-search-engine-from-first-principles-12cdd468ec34?source=rss------data_science-5)
-- [Why DeFi Needs Vault Infrastructure
-The early promise of DeFi was simple: open access, high yields…](https://medium.com/@nwukwugodswillizuchukwu/why-defi-needs-vault-infrastructure-the-early-promise-of-defi-was-simple-open-access-high-yields-e722056d3048?source=rss------data_science-5)
-- [The Science of Probability in Lottery Data](https://medium.com/@raknavllc/the-science-of-probability-in-lottery-data-3f8c9f4eb56a?source=rss------data_science-5)
-- [What They Don’t Tell You About the Night Shift in a Server Room](https://medium.com/@tabithakamarunga/what-they-dont-tell-you-about-the-night-shift-in-a-server-room-b3faa2a3c5ce?source=rss------data_science-5)
+- [The Nvidia GTC Conference Thumbnail San Jose 2026](https://medium.com/@degrun8/the-nvidia-gtc-conference-thumbnail-san-jose-2026-1caa9340213d?source=rss------data_science-5)
+- [Dari Teori Ekonomi ke Visualisasi Data: Misi 3 Bulan Menguasai Tableau, SQL, dan Python](https://medium.com/@semerdekaanda/dari-teori-ekonomi-ke-visualisasi-data-misi-3-bulan-menguasai-tableau-sql-dan-python-a9d268c634f9?source=rss------data_science-5)
+- [Designing a Modern Data &amp; AI Platform on AWS: From CDC to AI-Powered Analytics](https://medium.com/@amorgante/designing-a-modern-data-ai-platform-on-aws-from-cdc-to-ai-powered-analytics-5d9fb0466bf3?source=rss------data_science-5)
+- [Cybersecurity in 2026: What Real-Time Data Tells Us About Where the Industry Is Heading](https://medium.com/@olgalipchenko/cybersecurity-in-2026-what-real-time-data-tells-us-about-where-the-industry-is-heading-a3ee878c923a?source=rss------data_science-5)
+- [The Story Behind AlzDetect AI: How I Taught an AI to Read 16,000 Alzheimer’s Papers](https://medium.com/@tpriya27/the-story-behind-alzdetect-ai-how-i-taught-an-ai-to-read-16-000-alzheimers-papers-341591badc93?source=rss------data_science-5)
+- [Beyond Prediction: How Causal Inference Delivered 262% ROI in Churn Prevention](https://medium.com/@sanskar.ss2011/beyond-prediction-how-causal-inference-delivered-262-roi-in-churn-prevention-f81f986a13b1?source=rss------data_science-5)
+- [Building a Production-Grade A/B Testing Platform: From P-Values to Bayesian Inference](https://medium.com/@sanskar.ss2011/building-a-production-grade-a-b-testing-platform-from-p-values-to-bayesian-inference-caa88fa664b0?source=rss------data_science-5)
+- [The Hidden Creativity Inside LLMs: How Recoding Decoding Unlocks Better Ideas](https://pub.towardsai.net/the-hidden-creativity-inside-llms-how-recoding-decoding-unlocks-better-ideas-d08e37396316?source=rss------data_science-5)
+- [The Advertising PM’s Holy Grail: Moving Beyond Correlation to True Causal Inference](https://medium.com/@jop6043/the-advertising-pms-holy-grail-moving-beyond-correlation-to-true-causal-inference-645007ae73fa?source=rss------data_science-5)
+- [The Silent Saboteurs: Data Errors That Fool You Quietly](https://emankhalil281.medium.com/the-silent-saboteurs-data-errors-that-fool-you-quietly-3ee427255ef2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
