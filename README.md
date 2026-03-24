@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Nvidia GTC Conference Thumbnail San Jose 2026](https://medium.com/@degrun8/the-nvidia-gtc-conference-thumbnail-san-jose-2026-1caa9340213d?source=rss------data_science-5)
-- [Dari Teori Ekonomi ke Visualisasi Data: Misi 3 Bulan Menguasai Tableau, SQL, dan Python](https://medium.com/@semerdekaanda/dari-teori-ekonomi-ke-visualisasi-data-misi-3-bulan-menguasai-tableau-sql-dan-python-a9d268c634f9?source=rss------data_science-5)
-- [Designing a Modern Data &amp; AI Platform on AWS: From CDC to AI-Powered Analytics](https://medium.com/@amorgante/designing-a-modern-data-ai-platform-on-aws-from-cdc-to-ai-powered-analytics-5d9fb0466bf3?source=rss------data_science-5)
-- [Cybersecurity in 2026: What Real-Time Data Tells Us About Where the Industry Is Heading](https://medium.com/@olgalipchenko/cybersecurity-in-2026-what-real-time-data-tells-us-about-where-the-industry-is-heading-a3ee878c923a?source=rss------data_science-5)
-- [The Story Behind AlzDetect AI: How I Taught an AI to Read 16,000 Alzheimer’s Papers](https://medium.com/@tpriya27/the-story-behind-alzdetect-ai-how-i-taught-an-ai-to-read-16-000-alzheimers-papers-341591badc93?source=rss------data_science-5)
-- [Beyond Prediction: How Causal Inference Delivered 262% ROI in Churn Prevention](https://medium.com/@sanskar.ss2011/beyond-prediction-how-causal-inference-delivered-262-roi-in-churn-prevention-f81f986a13b1?source=rss------data_science-5)
-- [Building a Production-Grade A/B Testing Platform: From P-Values to Bayesian Inference](https://medium.com/@sanskar.ss2011/building-a-production-grade-a-b-testing-platform-from-p-values-to-bayesian-inference-caa88fa664b0?source=rss------data_science-5)
-- [The Hidden Creativity Inside LLMs: How Recoding Decoding Unlocks Better Ideas](https://pub.towardsai.net/the-hidden-creativity-inside-llms-how-recoding-decoding-unlocks-better-ideas-d08e37396316?source=rss------data_science-5)
-- [The Advertising PM’s Holy Grail: Moving Beyond Correlation to True Causal Inference](https://medium.com/@jop6043/the-advertising-pms-holy-grail-moving-beyond-correlation-to-true-causal-inference-645007ae73fa?source=rss------data_science-5)
-- [The Silent Saboteurs: Data Errors That Fool You Quietly](https://emankhalil281.medium.com/the-silent-saboteurs-data-errors-that-fool-you-quietly-3ee427255ef2?source=rss------data_science-5)
+- [Most Resumes Are Static — So I Built an Interactive One from Raw Data to Dashboard](https://arbynazarian.medium.com/most-resumes-are-static-so-i-built-an-interactive-one-from-raw-data-to-dashboard-ae07989736d1?source=rss------data_science-5)
+- [What Happens When Guardrails Are Missing Three Real Incidents From the companies that made huge…](https://ai.plainenglish.io/what-happens-when-guardrails-are-missing-three-real-incidents-from-the-companies-that-made-huge-6c2bf94173e4?source=rss------data_science-5)
+- [The Biological Firewall: How We Brace Against Our History](https://medium.com/@skiloby/the-biological-firewall-how-we-brace-against-our-history-9de5740365d1?source=rss------data_science-5)
+- [From 11 Elevation Points to a 3D GIS World: Part 1](https://medium.com/@blessingobasiuzoma/from-11-elevation-points-to-a-3d-gis-world-part-1-304c44ee66a5?source=rss------data_science-5)
+- [My Study Experience: How Edubrain Becomes Your AI Helper](https://medium.com/data-science-in-your-pocket/my-study-experience-how-edubrain-becomes-your-ai-helper-568e5f4162a1?source=rss------data_science-5)
+- [Firecrawl vs Olostep: A Detailed Comparison for Scalable, LLM-Ready Web Scraping](https://medium.com/@yasserglich/firecrawl-vs-olostep-a-detailed-comparison-for-scalable-llm-ready-web-scraping-92c19d99f2d8?source=rss------data_science-5)
+- [The War Is Here. A Mathematical Framework Predicted It. Here’s What It Says Comes Next.](https://medium.com/@waseekirtefa/the-war-is-here-a-mathematical-framework-predicted-it-heres-what-it-says-comes-next-fc53721c9f4d?source=rss------data_science-5)
+- [How I Built Synthetic Data That Doesn’t Lie](https://medium.com/@prasanna1314/how-i-built-synthetic-data-that-doesnt-lie-372a5e7fea40?source=rss------data_science-5)
+- [# CAN-G-002: Discovery of an Uncataloged Galactic System](https://medium.com/@macbookwhy42/can-g-002-discovery-of-an-uncataloged-galactic-system-a83e2dfb50bf?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
