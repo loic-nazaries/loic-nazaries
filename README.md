@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Most Resumes Are Static — So I Built an Interactive One from Raw Data to Dashboard](https://arbynazarian.medium.com/most-resumes-are-static-so-i-built-an-interactive-one-from-raw-data-to-dashboard-ae07989736d1?source=rss------data_science-5)
-- [What Happens When Guardrails Are Missing Three Real Incidents From the companies that made huge…](https://ai.plainenglish.io/what-happens-when-guardrails-are-missing-three-real-incidents-from-the-companies-that-made-huge-6c2bf94173e4?source=rss------data_science-5)
-- [The Biological Firewall: How We Brace Against Our History](https://medium.com/@skiloby/the-biological-firewall-how-we-brace-against-our-history-9de5740365d1?source=rss------data_science-5)
-- [From 11 Elevation Points to a 3D GIS World: Part 1](https://medium.com/@blessingobasiuzoma/from-11-elevation-points-to-a-3d-gis-world-part-1-304c44ee66a5?source=rss------data_science-5)
-- [My Study Experience: How Edubrain Becomes Your AI Helper](https://medium.com/data-science-in-your-pocket/my-study-experience-how-edubrain-becomes-your-ai-helper-568e5f4162a1?source=rss------data_science-5)
-- [Firecrawl vs Olostep: A Detailed Comparison for Scalable, LLM-Ready Web Scraping](https://medium.com/@yasserglich/firecrawl-vs-olostep-a-detailed-comparison-for-scalable-llm-ready-web-scraping-92c19d99f2d8?source=rss------data_science-5)
-- [The War Is Here. A Mathematical Framework Predicted It. Here’s What It Says Comes Next.](https://medium.com/@waseekirtefa/the-war-is-here-a-mathematical-framework-predicted-it-heres-what-it-says-comes-next-fc53721c9f4d?source=rss------data_science-5)
-- [How I Built Synthetic Data That Doesn’t Lie](https://medium.com/@prasanna1314/how-i-built-synthetic-data-that-doesnt-lie-372a5e7fea40?source=rss------data_science-5)
-- [# CAN-G-002: Discovery of an Uncataloged Galactic System](https://medium.com/@macbookwhy42/can-g-002-discovery-of-an-uncataloged-galactic-system-a83e2dfb50bf?source=rss------data_science-5)
+- [The Two Es That AI May Never Truly Possess: Emotion and Experience](https://taiwo-adetiloye.medium.com/the-two-es-that-ai-may-never-truly-possess-emotion-and-experience-2eddeddbd9c8?source=rss------data_science-5)
+- [Lavadora Lava Jato Portátil com 2 Baterias + Maleta: Vale a Pena? Veja Tudo Antes de Comprar](https://medium.com/@rosilvasilva777/lavadora-lava-jato-port%C3%A1til-com-2-baterias-maleta-vale-a-pena-veja-tudo-antes-de-comprar-6aef5ed0edc6?source=rss------data_science-5)
+- [Risk-Aware Marketing Mix Optimization with Bayesian MMM &amp; Scenario Planning](https://medium.com/@shukla.shankar.ravi/risk-aware-marketing-mix-optimization-with-bayesian-mmm-scenario-planning-106b3e681062?source=rss------data_science-5)
+- [The Points Arbitrage: How UCI ProTeams Should Build Their 2026 Race Calendar](https://medium.com/@jonathankriertran/the-points-arbitrage-how-proteams-should-build-their-2026-race-calendar-deb38b4a0fea?source=rss------data_science-5)
+- [How Iceberg’s Metadata Tree Lets You Skip 99% of Your Data](https://medium.com/@thenextcompute/how-icebergs-metadata-tree-lets-you-skip-99-of-your-data-9e2315f8b7e1?source=rss------data_science-5)
+- [THE BIOLOGICAL RESONATOR PRINCIPLE: Morphogenesis, Neural Networks, and Ecosystems as Living Lasers](https://medium.com/@ambitionmagician/the-biological-resonator-principle-morphogenesis-neural-networks-and-ecosystems-as-living-lasers-3954a5c1737b?source=rss------data_science-5)
+- [THE GEOMORPHOLOGICAL LASER PRINCIPLE: Rivers, Oceans, and Deserts as Sediment-Wave Resonators](https://medium.com/@ambitionmagician/the-geomorphological-laser-principle-rivers-oceans-and-deserts-as-sediment-wave-resonators-a2bc8eaf6f72?source=rss------data_science-5)
+- [Bayesian Inference](https://medium.com/@mohudalbazzaz/bayesian-inference-7842d93fb2ff?source=rss------data_science-5)
+- [From Keyword Search to Intelligent Understanding: Building a Hybrid NLP Retrieval System with…](https://medium.com/@abdurrafaybaig1212/from-keyword-search-to-intelligent-understanding-building-a-hybrid-nlp-retrieval-system-with-731c6c30d0df?source=rss------data_science-5)
+- [LEOLAST 6.1 — LEO Lift Assembly Ship Tool](https://medium.com/@miletapvo/leolast-6-1-leo-lift-assembly-ship-tool-b96d921ed228?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
