@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Two Es That AI May Never Truly Possess: Emotion and Experience](https://taiwo-adetiloye.medium.com/the-two-es-that-ai-may-never-truly-possess-emotion-and-experience-2eddeddbd9c8?source=rss------data_science-5)
-- [Lavadora Lava Jato Portátil com 2 Baterias + Maleta: Vale a Pena? Veja Tudo Antes de Comprar](https://medium.com/@rosilvasilva777/lavadora-lava-jato-port%C3%A1til-com-2-baterias-maleta-vale-a-pena-veja-tudo-antes-de-comprar-6aef5ed0edc6?source=rss------data_science-5)
-- [Risk-Aware Marketing Mix Optimization with Bayesian MMM &amp; Scenario Planning](https://medium.com/@shukla.shankar.ravi/risk-aware-marketing-mix-optimization-with-bayesian-mmm-scenario-planning-106b3e681062?source=rss------data_science-5)
-- [The Points Arbitrage: How UCI ProTeams Should Build Their 2026 Race Calendar](https://medium.com/@jonathankriertran/the-points-arbitrage-how-proteams-should-build-their-2026-race-calendar-deb38b4a0fea?source=rss------data_science-5)
-- [How Iceberg’s Metadata Tree Lets You Skip 99% of Your Data](https://medium.com/@thenextcompute/how-icebergs-metadata-tree-lets-you-skip-99-of-your-data-9e2315f8b7e1?source=rss------data_science-5)
-- [THE BIOLOGICAL RESONATOR PRINCIPLE: Morphogenesis, Neural Networks, and Ecosystems as Living Lasers](https://medium.com/@ambitionmagician/the-biological-resonator-principle-morphogenesis-neural-networks-and-ecosystems-as-living-lasers-3954a5c1737b?source=rss------data_science-5)
-- [THE GEOMORPHOLOGICAL LASER PRINCIPLE: Rivers, Oceans, and Deserts as Sediment-Wave Resonators](https://medium.com/@ambitionmagician/the-geomorphological-laser-principle-rivers-oceans-and-deserts-as-sediment-wave-resonators-a2bc8eaf6f72?source=rss------data_science-5)
-- [Bayesian Inference](https://medium.com/@mohudalbazzaz/bayesian-inference-7842d93fb2ff?source=rss------data_science-5)
-- [From Keyword Search to Intelligent Understanding: Building a Hybrid NLP Retrieval System with…](https://medium.com/@abdurrafaybaig1212/from-keyword-search-to-intelligent-understanding-building-a-hybrid-nlp-retrieval-system-with-731c6c30d0df?source=rss------data_science-5)
-- [LEOLAST 6.1 — LEO Lift Assembly Ship Tool](https://medium.com/@miletapvo/leolast-6-1-leo-lift-assembly-ship-tool-b96d921ed228?source=rss------data_science-5)
+- [My Code Used 10GB RAM. Now It Uses 300MB](https://python.plainenglish.io/my-code-used-10gb-ram-now-it-uses-300mb-15fadb864b33?source=rss------data_science-5)
+- [The Death of the “Syntax Wrangler”: Why 2026 is the Year of the Value Architect](https://medium.com/@vennapusapranay1998/the-death-of-the-syntax-wrangler-why-2026-is-the-year-of-the-value-architect-79d50a2f71c0?source=rss------data_science-5)
+- [Python vs. The Prophet: A Metadata Audit of Deepak Chopra’s 2026 Epstein Files](https://medium.com/@Forensic-Archive/python-vs-the-prophet-a-metadata-audit-of-deepak-chopras-2026-epstein-files-6f3789a6f1da?source=rss------data_science-5)
+- [I’m learning finance in public and I want you to follow the journey.](https://medium.com/@riddus99/im-learning-finance-in-public-and-i-want-you-to-follow-the-journey-421664a0606e?source=rss------data_science-5)
+- [The $10 Trillion Home Infrastructure Opportunity](https://medium.com/@HVACGOD/the-10-trillion-home-infrastructure-opportunity-883df69e46f0?source=rss------data_science-5)
+- [Do “Lucky” Surnames = Expensive Real Estate? A Tokyo Analysis](https://medium.com/@_jimxu/do-lucky-surnames-expensive-real-estate-a-tokyo-analysis-b35509b046b5?source=rss------data_science-5)
+- [Often Wrong, But Always Certain:](https://steven-strauss.medium.com/often-wrong-but-always-certain-5f5d413f930a?source=rss------data_science-5)
+- [Cientista de Dados no Setor de Energia: Otimização da Cadeia de Suprimentos de Biomassa &lpar;Capítulo 2…](https://medium.com/@gabriellareboucas6/cientista-de-dados-no-setor-de-energia-otimiza%C3%A7%C3%A3o-da-cadeia-de-suprimentos-de-biomassa-cap%C3%ADtulo-2-b0e9e5536184?source=rss------data_science-5)
+- [What is an API? A Simple Guide for Beginners &lpar;With Real Examples&rpar;](https://pub.towardsai.net/what-is-an-api-a-simple-guide-for-beginners-with-real-examples-16b3be032d1f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
