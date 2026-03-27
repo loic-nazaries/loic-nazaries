@@ -105,15 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [My Code Used 10GB RAM. Now It Uses 300MB](https://python.plainenglish.io/my-code-used-10gb-ram-now-it-uses-300mb-15fadb864b33?source=rss------data_science-5)
-- [The Death of the “Syntax Wrangler”: Why 2026 is the Year of the Value Architect](https://medium.com/@vennapusapranay1998/the-death-of-the-syntax-wrangler-why-2026-is-the-year-of-the-value-architect-79d50a2f71c0?source=rss------data_science-5)
-- [Python vs. The Prophet: A Metadata Audit of Deepak Chopra’s 2026 Epstein Files](https://medium.com/@Forensic-Archive/python-vs-the-prophet-a-metadata-audit-of-deepak-chopras-2026-epstein-files-6f3789a6f1da?source=rss------data_science-5)
-- [I’m learning finance in public and I want you to follow the journey.](https://medium.com/@riddus99/im-learning-finance-in-public-and-i-want-you-to-follow-the-journey-421664a0606e?source=rss------data_science-5)
-- [The $10 Trillion Home Infrastructure Opportunity](https://medium.com/@HVACGOD/the-10-trillion-home-infrastructure-opportunity-883df69e46f0?source=rss------data_science-5)
-- [Do “Lucky” Surnames = Expensive Real Estate? A Tokyo Analysis](https://medium.com/@_jimxu/do-lucky-surnames-expensive-real-estate-a-tokyo-analysis-b35509b046b5?source=rss------data_science-5)
-- [Often Wrong, But Always Certain:](https://steven-strauss.medium.com/often-wrong-but-always-certain-5f5d413f930a?source=rss------data_science-5)
-- [Cientista de Dados no Setor de Energia: Otimização da Cadeia de Suprimentos de Biomassa &lpar;Capítulo 2…](https://medium.com/@gabriellareboucas6/cientista-de-dados-no-setor-de-energia-otimiza%C3%A7%C3%A3o-da-cadeia-de-suprimentos-de-biomassa-cap%C3%ADtulo-2-b0e9e5536184?source=rss------data_science-5)
-- [What is an API? A Simple Guide for Beginners &lpar;With Real Examples&rpar;](https://pub.towardsai.net/what-is-an-api-a-simple-guide-for-beginners-with-real-examples-16b3be032d1f?source=rss------data_science-5)
+- [Visualizing Global Car Company Ownership Using Network Analysis](https://medium.com/@SYChaudhry/visualizing-global-car-company-ownership-using-network-analysis-9c04c88944f5?source=rss------data_science-5)
+- [Why Most People Fail at Affiliate Marketing &lpar;And How Some Finally Get Their First Results&rpar;](https://medium.com/@bzkrt067115/why-most-people-fail-at-affiliate-marketing-and-how-some-finally-get-their-first-results-d35b7d729905?source=rss------data_science-5)
+- [Why Most People Avoid Crypto &lpar;And a Simpler Way to Understand It&rpar;](https://medium.com/@bzkrt067115/why-most-people-avoid-crypto-and-a-simpler-way-to-understand-it-11ef89dc22b8?source=rss------data_science-5)
+- [André Weil: The Mathematician Who Proved a Theorem in Prison](https://medium.com/@vplevris/andr%C3%A9-weil-the-mathematician-who-proved-a-theorem-in-prison-e7e593ba2153?source=rss------data_science-5)
+- [THE GENOMIC RESONATOR PRINCIPLE: Temporal Collinearity and Chromatin Loop Extrusion as Universal…](https://medium.com/@ambitionmagician/the-genomic-resonator-principle-temporal-collinearity-and-chromatin-loop-extrusion-as-universal-24cdf9b5e1d0?source=rss------data_science-5)
+- [The Myth of Slavery: How Modern Leftist Ideologies Distorted Historical Reality](https://medium.com/@waleedhagag87/the-myth-of-slavery-how-modern-leftist-ideologies-distorted-historical-reality-f45206da1992?source=rss------data_science-5)
+- [THE ECONOMIC RESONATOR PRINCIPLE: Markets, Business Cycles, and Financial Crises as Capital-Wave…](https://medium.com/@ambitionmagician/the-economic-resonator-principle-markets-business-cycles-and-financial-crises-as-capital-wave-38d8b98bfab4?source=rss------data_science-5)
+- [Making Sense of Clinical Text: A Data Science View of NLP in Healthcare](https://medium.com/@sudhansu.baladas/making-sense-of-clinical-text-a-data-science-view-of-nlp-in-healthcare-79fdb8c378bd?source=rss------data_science-5)
+- [50.000 empleos de IA sin cubrir en España y la razón es más simple de lo que parece](https://medium.com/@josefbrocki/50-000-empleos-de-ia-sin-cubrir-en-espa%C3%B1a-y-la-raz%C3%B3n-es-m%C3%A1s-simple-de-lo-que-parece-8f3ab56a6001?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
