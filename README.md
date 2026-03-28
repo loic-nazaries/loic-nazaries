@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Visualizing Global Car Company Ownership Using Network Analysis](https://medium.com/@SYChaudhry/visualizing-global-car-company-ownership-using-network-analysis-9c04c88944f5?source=rss------data_science-5)
-- [Why Most People Fail at Affiliate Marketing &lpar;And How Some Finally Get Their First Results&rpar;](https://medium.com/@bzkrt067115/why-most-people-fail-at-affiliate-marketing-and-how-some-finally-get-their-first-results-d35b7d729905?source=rss------data_science-5)
-- [Why Most People Avoid Crypto &lpar;And a Simpler Way to Understand It&rpar;](https://medium.com/@bzkrt067115/why-most-people-avoid-crypto-and-a-simpler-way-to-understand-it-11ef89dc22b8?source=rss------data_science-5)
-- [André Weil: The Mathematician Who Proved a Theorem in Prison](https://medium.com/@vplevris/andr%C3%A9-weil-the-mathematician-who-proved-a-theorem-in-prison-e7e593ba2153?source=rss------data_science-5)
-- [THE GENOMIC RESONATOR PRINCIPLE: Temporal Collinearity and Chromatin Loop Extrusion as Universal…](https://medium.com/@ambitionmagician/the-genomic-resonator-principle-temporal-collinearity-and-chromatin-loop-extrusion-as-universal-24cdf9b5e1d0?source=rss------data_science-5)
-- [The Myth of Slavery: How Modern Leftist Ideologies Distorted Historical Reality](https://medium.com/@waleedhagag87/the-myth-of-slavery-how-modern-leftist-ideologies-distorted-historical-reality-f45206da1992?source=rss------data_science-5)
-- [THE ECONOMIC RESONATOR PRINCIPLE: Markets, Business Cycles, and Financial Crises as Capital-Wave…](https://medium.com/@ambitionmagician/the-economic-resonator-principle-markets-business-cycles-and-financial-crises-as-capital-wave-38d8b98bfab4?source=rss------data_science-5)
-- [Making Sense of Clinical Text: A Data Science View of NLP in Healthcare](https://medium.com/@sudhansu.baladas/making-sense-of-clinical-text-a-data-science-view-of-nlp-in-healthcare-79fdb8c378bd?source=rss------data_science-5)
-- [50.000 empleos de IA sin cubrir en España y la razón es más simple de lo que parece](https://medium.com/@josefbrocki/50-000-empleos-de-ia-sin-cubrir-en-espa%C3%B1a-y-la-raz%C3%B3n-es-m%C3%A1s-simple-de-lo-que-parece-8f3ab56a6001?source=rss------data_science-5)
+- [5 Python Scripts Every Data Scientist Should Have in Their ML Toolkit](https://medium.com/@lhungen/5-python-scripts-every-data-scientist-should-have-in-their-ml-toolkit-a836cdb66eba?source=rss------data_science-5)
+- [Is the Recent Surge in Meteor Fireballs on Earth Related to 3I/ATLAS?](https://avi-loeb.medium.com/is-the-recent-surge-in-meteor-fireballs-on-earth-related-to-3i-atlas-a9e8f48d1a00?source=rss------data_science-5)
+- [The Geometric Interpretation Of Linear Regression](https://pub.towardsai.net/the-geometric-interpretation-of-linear-regression-5a4bffc7330f?source=rss------data_science-5)
+- [Dwelling in the Frameless Latent: Towards a Pre-Computational Awareness in Large Language Model](https://medium.com/@bulanramai2558/dwelling-in-the-frameless-latent-towards-a-pre-computational-awareness-in-large-language-model-310c06c6cece?source=rss------data_science-5)
+- [How to Build a Generative AI Portfolio That Actually Gets You Hired](https://medium.com/@jhquilty99/how-to-build-a-generative-ai-portfolio-that-actually-gets-you-hired-c64ace605001?source=rss------data_science-5)
+- [GP CHINA 2026 — CLASSIFICAÇÃO E CORRIDA: Antonelli Faz História e Hamilton Conquista Primeiro Pódio…](https://medium.com/@ezk_/gp-china-2026-classifica%C3%A7%C3%A3o-e-corrida-antonelli-faz-hist%C3%B3ria-e-hamilton-conquista-primeiro-p%C3%B3dio-c1eb067cf36b?source=rss------data_science-5)
+- [Why Financial Institutions Need Predictive Liquidity Stress-Testing Systems Now More Than Ever](https://medium.com/@amr.mnrashad/why-financial-institutions-need-predictive-liquidity-stress-testing-systems-now-more-than-ever-b17cbe2a0868?source=rss------data_science-5)
+- [Beyond the Black Box](https://paytonyau.medium.com/beyond-the-black-box-d9b91914383d?source=rss------data_science-5)
+- [My Personal Experience as a Non-Binary Person with](https://medium.com/@mohamad.toutonji/my-personal-experience-as-a-non-binary-person-with-1bf5c812a9bd?source=rss------data_science-5)
+- [Vibe Coding Without This Framework Is Just Expensive Guessing](https://medium.com/write-a-catalyst/vibe-coding-without-this-framework-is-just-expensive-guessing-441dcadf959f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
