@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [5 Python Scripts Every Data Scientist Should Have in Their ML Toolkit](https://medium.com/@lhungen/5-python-scripts-every-data-scientist-should-have-in-their-ml-toolkit-a836cdb66eba?source=rss------data_science-5)
-- [Is the Recent Surge in Meteor Fireballs on Earth Related to 3I/ATLAS?](https://avi-loeb.medium.com/is-the-recent-surge-in-meteor-fireballs-on-earth-related-to-3i-atlas-a9e8f48d1a00?source=rss------data_science-5)
-- [The Geometric Interpretation Of Linear Regression](https://pub.towardsai.net/the-geometric-interpretation-of-linear-regression-5a4bffc7330f?source=rss------data_science-5)
-- [Dwelling in the Frameless Latent: Towards a Pre-Computational Awareness in Large Language Model](https://medium.com/@bulanramai2558/dwelling-in-the-frameless-latent-towards-a-pre-computational-awareness-in-large-language-model-310c06c6cece?source=rss------data_science-5)
-- [How to Build a Generative AI Portfolio That Actually Gets You Hired](https://medium.com/@jhquilty99/how-to-build-a-generative-ai-portfolio-that-actually-gets-you-hired-c64ace605001?source=rss------data_science-5)
-- [GP CHINA 2026 — CLASSIFICAÇÃO E CORRIDA: Antonelli Faz História e Hamilton Conquista Primeiro Pódio…](https://medium.com/@ezk_/gp-china-2026-classifica%C3%A7%C3%A3o-e-corrida-antonelli-faz-hist%C3%B3ria-e-hamilton-conquista-primeiro-p%C3%B3dio-c1eb067cf36b?source=rss------data_science-5)
-- [Why Financial Institutions Need Predictive Liquidity Stress-Testing Systems Now More Than Ever](https://medium.com/@amr.mnrashad/why-financial-institutions-need-predictive-liquidity-stress-testing-systems-now-more-than-ever-b17cbe2a0868?source=rss------data_science-5)
-- [Beyond the Black Box](https://paytonyau.medium.com/beyond-the-black-box-d9b91914383d?source=rss------data_science-5)
-- [My Personal Experience as a Non-Binary Person with](https://medium.com/@mohamad.toutonji/my-personal-experience-as-a-non-binary-person-with-1bf5c812a9bd?source=rss------data_science-5)
-- [Vibe Coding Without This Framework Is Just Expensive Guessing](https://medium.com/write-a-catalyst/vibe-coding-without-this-framework-is-just-expensive-guessing-441dcadf959f?source=rss------data_science-5)
+- [Most scientific models begin by describing how systems behave.](https://medium.com/@andrewjp2008/most-scientific-models-begin-by-describing-how-systems-behave-307e1d5df404?source=rss------data_science-5)
+- [The Simple Number Puzzle No One Can Prove](https://medium.com/@vplevris/the-simple-number-puzzle-no-one-can-prove-8c203a7a3d48?source=rss------data_science-5)
+- [Fielding Uncertainty: Bayesian Probability Meets Sports Analytics](https://sciencespectrumu.com/fielding-uncertainty-bayesian-probability-meets-sports-analytics-05cf1165c925?source=rss------data_science-5)
+- [UX Research: Thanks to AI, Data Analysis Went From Checkers to 3D Chess](https://medium.com/@philipjeanpierre/ux-research-thanks-to-ai-data-analysis-went-from-checkers-to-3d-chess-f16e9f159bdf?source=rss------data_science-5)
+- [Zero-Shot vs. Few-Shot Prompting: A Quant’s Guide to Bayesian Priors and Recency Bias](https://medium.com/@blobxiaoyao/zero-shot-vs-few-shot-prompting-a-quants-guide-to-bayesian-priors-and-recency-bias-de002bab02d8?source=rss------data_science-5)
+- [A Building Sold for $1 Is Now Housing Five Families. America Has 4 Million More to Go.](https://medium.com/@grateful_aqua_goat_147/a-building-sold-for-1-is-now-housing-five-families-america-has-4-million-more-to-go-20f69d89f8f8?source=rss------data_science-5)
+- [Why “Free” Online Tools Are Costing You More Than You Realize](https://medium.com/@baflightdeck/why-free-online-tools-are-costing-you-more-than-you-realize-28ec7f6add7e?source=rss------data_science-5)
+- [Tokenization Explained: How AI Breaks Language Into Tokens](https://medium.com/itversity/tokenization-explained-how-ai-breaks-language-into-tokens-38b2ce51a1d9?source=rss------data_science-5)
+- [Building a Real-Time Orbital Debris &amp; Satellite Tracker with Python and Streamlit](https://medium.com/@furkanonur.ds/building-a-real-time-orbital-debris-satellite-tracker-with-python-and-streamlit-ba56402a3814?source=rss------data_science-5)
+- [From Full-Stack Analyst to AI-Powered Data Scientist](https://medium.com/womenintechnology/from-full-stack-analyst-to-ai-powered-data-scientist-bd4c137dd9f5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
