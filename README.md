@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Most scientific models begin by describing how systems behave.](https://medium.com/@andrewjp2008/most-scientific-models-begin-by-describing-how-systems-behave-307e1d5df404?source=rss------data_science-5)
-- [The Simple Number Puzzle No One Can Prove](https://medium.com/@vplevris/the-simple-number-puzzle-no-one-can-prove-8c203a7a3d48?source=rss------data_science-5)
-- [Fielding Uncertainty: Bayesian Probability Meets Sports Analytics](https://sciencespectrumu.com/fielding-uncertainty-bayesian-probability-meets-sports-analytics-05cf1165c925?source=rss------data_science-5)
-- [UX Research: Thanks to AI, Data Analysis Went From Checkers to 3D Chess](https://medium.com/@philipjeanpierre/ux-research-thanks-to-ai-data-analysis-went-from-checkers-to-3d-chess-f16e9f159bdf?source=rss------data_science-5)
-- [Zero-Shot vs. Few-Shot Prompting: A Quant’s Guide to Bayesian Priors and Recency Bias](https://medium.com/@blobxiaoyao/zero-shot-vs-few-shot-prompting-a-quants-guide-to-bayesian-priors-and-recency-bias-de002bab02d8?source=rss------data_science-5)
-- [A Building Sold for $1 Is Now Housing Five Families. America Has 4 Million More to Go.](https://medium.com/@grateful_aqua_goat_147/a-building-sold-for-1-is-now-housing-five-families-america-has-4-million-more-to-go-20f69d89f8f8?source=rss------data_science-5)
-- [Why “Free” Online Tools Are Costing You More Than You Realize](https://medium.com/@baflightdeck/why-free-online-tools-are-costing-you-more-than-you-realize-28ec7f6add7e?source=rss------data_science-5)
-- [Tokenization Explained: How AI Breaks Language Into Tokens](https://medium.com/itversity/tokenization-explained-how-ai-breaks-language-into-tokens-38b2ce51a1d9?source=rss------data_science-5)
-- [Building a Real-Time Orbital Debris &amp; Satellite Tracker with Python and Streamlit](https://medium.com/@furkanonur.ds/building-a-real-time-orbital-debris-satellite-tracker-with-python-and-streamlit-ba56402a3814?source=rss------data_science-5)
-- [From Full-Stack Analyst to AI-Powered Data Scientist](https://medium.com/womenintechnology/from-full-stack-analyst-to-ai-powered-data-scientist-bd4c137dd9f5?source=rss------data_science-5)
+- [Mengamankan Integritas File Tanpa Mengirim Datanya: Bagaimana VerixID Mengubah Standar “Digital…](https://medium.com/@verixid/mengamankan-integritas-file-tanpa-mengirim-datanya-bagaimana-verixid-mengubah-standar-digital-8c33e58d2bad?source=rss------data_science-5)
+- [IV. The Crossing](https://medium.com/@diamondlight/iv-the-crossing-fba00eed5d1a?source=rss------data_science-5)
+- [لماذا يخطئ الجميع في فهم معنى كلمة نظرية؟](https://medium.com/@kian.n94/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AE%D8%B7%D8%A6-%D8%A7%D9%84%D8%AC%D9%85%D9%8A%D8%B9-%D9%81%D9%8A-%D9%81%D9%87%D9%85-%D9%85%D8%B9%D9%86%D9%89-%D9%83%D9%84%D9%85%D8%A9-%D9%86%D8%B8%D8%B1%D9%8A%D8%A9-3d5aaf1cb76c?source=rss------data_science-5)
+- [I Can’t Code. So I Ran 8 Experiments on Why AI Feels Wrong.](https://medium.com/@kshyeon04/i-cant-code-so-i-ran-8-experiments-on-why-ai-feels-wrong-4bb93ed5ba39?source=rss------data_science-5)
+- [Dev Day with Sam: Episode 1: The Beginning of Something Big](https://medium.com/@nsirimsamueleberechi/dev-day-with-sam-episode-1-the-beginning-of-something-big-7598b860f4fc?source=rss------data_science-5)
+- [Stop Using Accuracy: 5 ML Metrics You Must Understand](https://pub.towardsai.net/stop-using-accuracy-5-ml-metrics-you-must-understand-81d2acbf9955?source=rss------data_science-5)
+- [Understanding KL Divergence: The Information-Theoretic Distance Between Distributions](https://medium.com/@utkrisht14/understanding-kl-divergence-the-information-theoretic-distance-between-distributions-2140a306beb2?source=rss------data_science-5)
+- [The Lost Art of Defense](https://medium.com/@emdill2008/the-lost-art-of-defense-77cb8791cd3a?source=rss------data_science-5)
+- [They Taught You the Dashboard. Nobody Told You About the Pipes.](https://medium.com/@elijah.ajala/they-taught-you-the-dashboard-nobody-told-you-about-the-pipes-18320ee7de0e?source=rss------data_science-5)
+- [The AI Inside the Dashboard: Will Claude in Power BI Help or Replace Analysts?](https://medium.com/@elijah.ajala/the-ai-inside-the-dashboard-will-claude-in-power-bi-help-or-replace-analysts-1f901f9007c7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
