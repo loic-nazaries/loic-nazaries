@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Mengamankan Integritas File Tanpa Mengirim Datanya: Bagaimana VerixID Mengubah Standar “Digital…](https://medium.com/@verixid/mengamankan-integritas-file-tanpa-mengirim-datanya-bagaimana-verixid-mengubah-standar-digital-8c33e58d2bad?source=rss------data_science-5)
-- [IV. The Crossing](https://medium.com/@diamondlight/iv-the-crossing-fba00eed5d1a?source=rss------data_science-5)
-- [لماذا يخطئ الجميع في فهم معنى كلمة نظرية؟](https://medium.com/@kian.n94/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AE%D8%B7%D8%A6-%D8%A7%D9%84%D8%AC%D9%85%D9%8A%D8%B9-%D9%81%D9%8A-%D9%81%D9%87%D9%85-%D9%85%D8%B9%D9%86%D9%89-%D9%83%D9%84%D9%85%D8%A9-%D9%86%D8%B8%D8%B1%D9%8A%D8%A9-3d5aaf1cb76c?source=rss------data_science-5)
-- [I Can’t Code. So I Ran 8 Experiments on Why AI Feels Wrong.](https://medium.com/@kshyeon04/i-cant-code-so-i-ran-8-experiments-on-why-ai-feels-wrong-4bb93ed5ba39?source=rss------data_science-5)
-- [Dev Day with Sam: Episode 1: The Beginning of Something Big](https://medium.com/@nsirimsamueleberechi/dev-day-with-sam-episode-1-the-beginning-of-something-big-7598b860f4fc?source=rss------data_science-5)
-- [Stop Using Accuracy: 5 ML Metrics You Must Understand](https://pub.towardsai.net/stop-using-accuracy-5-ml-metrics-you-must-understand-81d2acbf9955?source=rss------data_science-5)
-- [Understanding KL Divergence: The Information-Theoretic Distance Between Distributions](https://medium.com/@utkrisht14/understanding-kl-divergence-the-information-theoretic-distance-between-distributions-2140a306beb2?source=rss------data_science-5)
-- [The Lost Art of Defense](https://medium.com/@emdill2008/the-lost-art-of-defense-77cb8791cd3a?source=rss------data_science-5)
-- [They Taught You the Dashboard. Nobody Told You About the Pipes.](https://medium.com/@elijah.ajala/they-taught-you-the-dashboard-nobody-told-you-about-the-pipes-18320ee7de0e?source=rss------data_science-5)
-- [The AI Inside the Dashboard: Will Claude in Power BI Help or Replace Analysts?](https://medium.com/@elijah.ajala/the-ai-inside-the-dashboard-will-claude-in-power-bi-help-or-replace-analysts-1f901f9007c7?source=rss------data_science-5)
+- [The Comet That Broke Kepler’s Laws — and How I Found 10,000 Hiroshima Bombs Hidden Inside](https://y99257087.medium.com/the-comet-that-broke-keplers-laws-and-how-i-found-10-000-hiroshima-bombs-hidden-inside-6ac27ba75eb3?source=rss------data_science-5)
+- [A Theory of Complete Data Integrity Systems](https://medium.com/@tomkob99_89317/a-theory-of-complete-data-integrity-systems-a4251aa5636e?source=rss------data_science-5)
+- [Analyzing a Bike Store’s 6-Year Sales Performance](https://medium.com/@faladeoluwasemilore/analyzing-a-bike-stores-6-year-sales-performance-030afe85b80f?source=rss------data_science-5)
+- [Your AI Terms of Service Mean Nothing Once the Government Knocks: Lessons from Anthropic](https://techpreneurr.medium.com/your-ai-terms-of-service-mean-nothing-once-the-government-knocks-lessons-from-anthropic-598a381a4012?source=rss------data_science-5)
+- [The Inka Had No Writing System. Or Did They?](https://ai.plainenglish.io/the-inka-had-no-writing-system-or-did-they-9535e62111de?source=rss------data_science-5)
+- [How Much Does it Cost to Develop a Mobile App in 2026?](https://medium.com/@arinvotechsolution/how-much-does-it-cost-to-develop-a-mobile-app-in-2026-6e1590c3d8cf?source=rss------data_science-5)
+- [When Should a Workflow Become an AI Agent? A PM’s Practical Framework](https://medium.com/@netmohan97/when-should-a-workflow-become-an-ai-agent-a-pms-practical-framework-90b10bd56f92?source=rss------data_science-5)
+- [How you can use $2,000/month data to build an options trading bot for free](https://medium.com/@austin-starks/how-you-can-use-2-000-month-data-to-build-an-options-trading-bot-for-free-4ee41aaae7a6?source=rss------data_science-5)
+- [The Lost Technology of the Transmutation of Matter](https://medium.com/@edanror_98287/the-lost-technology-of-the-transmutation-of-matter-57ee4b370652?source=rss------data_science-5)
+- [Cleaning Reddit Text for NLP: A Practical Pipeline from Raw Posts to Model-Ready Input](https://khnsakhnm.medium.com/cleaning-reddit-text-for-nlp-a-practical-pipeline-from-raw-posts-to-model-ready-input-5f092f5e9316?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
