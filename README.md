@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Comet That Broke Kepler’s Laws — and How I Found 10,000 Hiroshima Bombs Hidden Inside](https://y99257087.medium.com/the-comet-that-broke-keplers-laws-and-how-i-found-10-000-hiroshima-bombs-hidden-inside-6ac27ba75eb3?source=rss------data_science-5)
-- [A Theory of Complete Data Integrity Systems](https://medium.com/@tomkob99_89317/a-theory-of-complete-data-integrity-systems-a4251aa5636e?source=rss------data_science-5)
-- [Analyzing a Bike Store’s 6-Year Sales Performance](https://medium.com/@faladeoluwasemilore/analyzing-a-bike-stores-6-year-sales-performance-030afe85b80f?source=rss------data_science-5)
-- [Your AI Terms of Service Mean Nothing Once the Government Knocks: Lessons from Anthropic](https://techpreneurr.medium.com/your-ai-terms-of-service-mean-nothing-once-the-government-knocks-lessons-from-anthropic-598a381a4012?source=rss------data_science-5)
-- [The Inka Had No Writing System. Or Did They?](https://ai.plainenglish.io/the-inka-had-no-writing-system-or-did-they-9535e62111de?source=rss------data_science-5)
-- [How Much Does it Cost to Develop a Mobile App in 2026?](https://medium.com/@arinvotechsolution/how-much-does-it-cost-to-develop-a-mobile-app-in-2026-6e1590c3d8cf?source=rss------data_science-5)
-- [When Should a Workflow Become an AI Agent? A PM’s Practical Framework](https://medium.com/@netmohan97/when-should-a-workflow-become-an-ai-agent-a-pms-practical-framework-90b10bd56f92?source=rss------data_science-5)
-- [How you can use $2,000/month data to build an options trading bot for free](https://medium.com/@austin-starks/how-you-can-use-2-000-month-data-to-build-an-options-trading-bot-for-free-4ee41aaae7a6?source=rss------data_science-5)
-- [The Lost Technology of the Transmutation of Matter](https://medium.com/@edanror_98287/the-lost-technology-of-the-transmutation-of-matter-57ee4b370652?source=rss------data_science-5)
-- [Cleaning Reddit Text for NLP: A Practical Pipeline from Raw Posts to Model-Ready Input](https://khnsakhnm.medium.com/cleaning-reddit-text-for-nlp-a-practical-pipeline-from-raw-posts-to-model-ready-input-5f092f5e9316?source=rss------data_science-5)
+- [The Best Agent Harness for Algorithmic Trading](https://ai.plainenglish.io/the-best-agent-harness-for-algorithmic-trading-3428b42f0ef9?source=rss------data_science-5)
+- [How to Get a Data Science Referral &lpar;Even If You Don’t Know Anyone&rpar;](https://medium.com/@datasistah/how-to-get-a-data-science-referral-even-if-you-dont-know-anyone-4c4b93e824fa?source=rss------data_science-5)
+- [A Quarterly Plan for Data Mastery](https://medium.com/@nazwakamila511/a-quarterly-plan-for-data-mastery-5ef00ba7a05e?source=rss------data_science-5)
+- [How do you score a machine translation? Meet BLEU](https://medium.com/@ayasc/how-do-you-score-a-machine-translation-meet-bleu-2a4132183c7d?source=rss------data_science-5)
+- [How Do I Buy Bitcoin In California?](https://medium.com/@keanucr537/how-do-i-buy-bitcoin-in-california-47ab58410f05?source=rss------data_science-5)
+- [If you&#39;re a non-IIT student who thinks ISRO is out of reach — this article is for you](https://medium.com/@dhanashree2311/if-youre-a-non-iit-student-who-thinks-isro-is-out-of-reach-this-article-is-written-specifically-7c3395bcefa6?source=rss------data_science-5)
+- [How do I look. Guys?](https://medium.com/@marvinmichael328/how-do-i-look-guys-589d293d45f7?source=rss------data_science-5)
+- [How I recover my $85,000 worth of bitcoin from a fake investment platform ?](https://medium.com/@alexdonald_82267/how-i-recover-my-85-000-worth-of-bitcoin-from-a-fake-investment-platform-154a6520a719?source=rss------data_science-5)
+- [Power BI Project Showcase: Virat Kohli Performance Dashboard](https://medium.com/@edits77more/power-bi-project-showcase-virat-kohli-performance-dashboard-1330c78cf145?source=rss------data_science-5)
+- [The Dual Model: The Universe Has a Mirror.](https://medium.com/@mattygh01/the-dual-model-the-universe-has-a-mirror-a33ee8401ecb?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
