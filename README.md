@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Best Agent Harness for Algorithmic Trading](https://ai.plainenglish.io/the-best-agent-harness-for-algorithmic-trading-3428b42f0ef9?source=rss------data_science-5)
-- [How to Get a Data Science Referral &lpar;Even If You Don’t Know Anyone&rpar;](https://medium.com/@datasistah/how-to-get-a-data-science-referral-even-if-you-dont-know-anyone-4c4b93e824fa?source=rss------data_science-5)
-- [A Quarterly Plan for Data Mastery](https://medium.com/@nazwakamila511/a-quarterly-plan-for-data-mastery-5ef00ba7a05e?source=rss------data_science-5)
-- [How do you score a machine translation? Meet BLEU](https://medium.com/@ayasc/how-do-you-score-a-machine-translation-meet-bleu-2a4132183c7d?source=rss------data_science-5)
-- [How Do I Buy Bitcoin In California?](https://medium.com/@keanucr537/how-do-i-buy-bitcoin-in-california-47ab58410f05?source=rss------data_science-5)
-- [If you&#39;re a non-IIT student who thinks ISRO is out of reach — this article is for you](https://medium.com/@dhanashree2311/if-youre-a-non-iit-student-who-thinks-isro-is-out-of-reach-this-article-is-written-specifically-7c3395bcefa6?source=rss------data_science-5)
-- [How do I look. Guys?](https://medium.com/@marvinmichael328/how-do-i-look-guys-589d293d45f7?source=rss------data_science-5)
-- [How I recover my $85,000 worth of bitcoin from a fake investment platform ?](https://medium.com/@alexdonald_82267/how-i-recover-my-85-000-worth-of-bitcoin-from-a-fake-investment-platform-154a6520a719?source=rss------data_science-5)
-- [Power BI Project Showcase: Virat Kohli Performance Dashboard](https://medium.com/@edits77more/power-bi-project-showcase-virat-kohli-performance-dashboard-1330c78cf145?source=rss------data_science-5)
-- [The Dual Model: The Universe Has a Mirror.](https://medium.com/@mattygh01/the-dual-model-the-universe-has-a-mirror-a33ee8401ecb?source=rss------data_science-5)
+- [Cybersecurity 101 for Backend Devs: Preventing Injection Beyond SQL](https://medium.com/@kaklotarrahul79/cybersecurity-101-for-backend-devs-preventing-injection-beyond-sql-9bc3aafba291?source=rss------data_science-5)
+- [GenAI-101](https://medium.com/@ismailhamdaoui101/genai-101-c48e35e1026c?source=rss------data_science-5)
+- [Well-Calibrated — Intro](https://akshat-porwal.medium.com/well-calibrated-intro-810a9088653e?source=rss------data_science-5)
+- [What will seem obvious in 10 years that people think is crazy today?](https://medium.com/@dannysoulas/what-will-seem-obvious-in-10-years-that-people-think-is-crazy-today-01328998e210?source=rss------data_science-5)
+- [The Intuitive ML Interview Playbook](https://medium.com/@johirbuet/the-intuitive-ml-interview-playbook-f9954e245388?source=rss------data_science-5)
+- [Nobody has done this since Apollo 17 in 1972.](https://medium.com/@rootsalert/nobody-has-done-this-since-apollo-17-in-1972-4d0527149968?source=rss------data_science-5)
+- [How to Save 10+ Hours a Week with These 20 AI Tools &lpar;2026 Ultimate Guide&rpar;](https://medium.com/@cherief.mohammed10/how-to-save-10-hours-a-week-with-these-20-ai-tools-2026-ultimate-guide-287168d9d74f?source=rss------data_science-5)
+- [How to Scrape Google Maps Business Data for Lead Generation in 2026](https://medium.com/@corbz604/how-to-scrape-google-maps-business-data-for-lead-generation-in-2026-d50c7709fe1c?source=rss------data_science-5)
+- [How Does Crypto OTC Work?](https://medium.com/@keanucr537/how-does-crypto-otc-work-50ce14e702c3?source=rss------data_science-5)
+- [I Analyzed 900 US Cities’ Water Quality — Here’s What I Found](https://medium.com/@motesmass/i-analyzed-900-us-cities-water-quality-here-s-what-i-found-69bc2292f3ca?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
