@@ -105,16 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Cybersecurity 101 for Backend Devs: Preventing Injection Beyond SQL](https://medium.com/@kaklotarrahul79/cybersecurity-101-for-backend-devs-preventing-injection-beyond-sql-9bc3aafba291?source=rss------data_science-5)
-- [GenAI-101](https://medium.com/@ismailhamdaoui101/genai-101-c48e35e1026c?source=rss------data_science-5)
-- [Well-Calibrated — Intro](https://akshat-porwal.medium.com/well-calibrated-intro-810a9088653e?source=rss------data_science-5)
-- [What will seem obvious in 10 years that people think is crazy today?](https://medium.com/@dannysoulas/what-will-seem-obvious-in-10-years-that-people-think-is-crazy-today-01328998e210?source=rss------data_science-5)
-- [The Intuitive ML Interview Playbook](https://medium.com/@johirbuet/the-intuitive-ml-interview-playbook-f9954e245388?source=rss------data_science-5)
-- [Nobody has done this since Apollo 17 in 1972.](https://medium.com/@rootsalert/nobody-has-done-this-since-apollo-17-in-1972-4d0527149968?source=rss------data_science-5)
-- [How to Save 10+ Hours a Week with These 20 AI Tools &lpar;2026 Ultimate Guide&rpar;](https://medium.com/@cherief.mohammed10/how-to-save-10-hours-a-week-with-these-20-ai-tools-2026-ultimate-guide-287168d9d74f?source=rss------data_science-5)
-- [How to Scrape Google Maps Business Data for Lead Generation in 2026](https://medium.com/@corbz604/how-to-scrape-google-maps-business-data-for-lead-generation-in-2026-d50c7709fe1c?source=rss------data_science-5)
-- [How Does Crypto OTC Work?](https://medium.com/@keanucr537/how-does-crypto-otc-work-50ce14e702c3?source=rss------data_science-5)
-- [I Analyzed 900 US Cities’ Water Quality — Here’s What I Found](https://medium.com/@motesmass/i-analyzed-900-us-cities-water-quality-here-s-what-i-found-69bc2292f3ca?source=rss------data_science-5)
+- [The Drunk Man and the Drunk Bird](https://medium.com/@vplevris/the-drunk-man-and-the-drunk-bird-85dc35441af5?source=rss------data_science-5)
+- [How to Make a Pie Chart with AI](https://medium.com/@cenrunzhe/how-to-make-a-pie-chart-with-ai-dc18c8601b96?source=rss------data_science-5)
+- [Learning to Rank: A Deep Technical Dive from Pointwise to Listwise](https://medium.com/@aj9696442118/learning-to-rank-a-deep-technical-dive-from-pointwise-to-listwise-28601aa7d951?source=rss------data_science-5)
+- [How I Built an E-Commerce Analytics Dashboard &lpar;and What I Actually Learned&rpar;](https://medium.com/@rusekd/how-i-built-an-e-commerce-analytics-dashboard-and-what-i-actually-learned-cce6ee2311c4?source=rss------data_science-5)
+- [How RefundYourSOL &lpar;RYS&rpar; Is Helping Users Recover Lost Funds in Web3
+Article:
+The Web3 space is…](https://medium.com/@catherinejoy209/how-refundyoursol-rys-is-helping-users-recover-lost-funds-in-web3-article-the-web3-space-is-6b2d9e396204?source=rss------data_science-5)
+- [I Tried Building a Multi-Agent Assistant Stack](https://medium.com/@andreblair_23391/i-tried-building-a-multi-agent-assistant-stack-31261c904af2?source=rss------data_science-5)
+- [How Data Science and Analytics Supported NASA’s Artemis II Lunar Mission?](https://medium.datadriveninvestor.com/data-science-nasa-artemis-ii-28d468e37f6b?source=rss------data_science-5)
+- [100% and Still Drowning](https://medium.com/@kanake98/100-and-still-drowning-4b4da5b2e5c6?source=rss------data_science-5)
+- [Building an AI Exam Generator for Medical and Occupational Health Training: Lesson that I learned](https://medium.com/kairi-ai/building-an-ai-exam-generator-for-medical-and-occupational-health-training-lesson-that-i-learned-7a64b3671449?source=rss------data_science-5)
+- [Building Your First Quantum Circuit Using Qiskit](https://medium.com/@batooljohn/building-your-first-quantum-circuit-using-qiskit-97a697f828a9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
