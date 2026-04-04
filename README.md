@@ -105,18 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Drunk Man and the Drunk Bird](https://medium.com/@vplevris/the-drunk-man-and-the-drunk-bird-85dc35441af5?source=rss------data_science-5)
-- [How to Make a Pie Chart with AI](https://medium.com/@cenrunzhe/how-to-make-a-pie-chart-with-ai-dc18c8601b96?source=rss------data_science-5)
-- [Learning to Rank: A Deep Technical Dive from Pointwise to Listwise](https://medium.com/@aj9696442118/learning-to-rank-a-deep-technical-dive-from-pointwise-to-listwise-28601aa7d951?source=rss------data_science-5)
-- [How I Built an E-Commerce Analytics Dashboard &lpar;and What I Actually Learned&rpar;](https://medium.com/@rusekd/how-i-built-an-e-commerce-analytics-dashboard-and-what-i-actually-learned-cce6ee2311c4?source=rss------data_science-5)
-- [How RefundYourSOL &lpar;RYS&rpar; Is Helping Users Recover Lost Funds in Web3
-Article:
-The Web3 space is…](https://medium.com/@catherinejoy209/how-refundyoursol-rys-is-helping-users-recover-lost-funds-in-web3-article-the-web3-space-is-6b2d9e396204?source=rss------data_science-5)
-- [I Tried Building a Multi-Agent Assistant Stack](https://medium.com/@andreblair_23391/i-tried-building-a-multi-agent-assistant-stack-31261c904af2?source=rss------data_science-5)
-- [How Data Science and Analytics Supported NASA’s Artemis II Lunar Mission?](https://medium.datadriveninvestor.com/data-science-nasa-artemis-ii-28d468e37f6b?source=rss------data_science-5)
-- [100% and Still Drowning](https://medium.com/@kanake98/100-and-still-drowning-4b4da5b2e5c6?source=rss------data_science-5)
-- [Building an AI Exam Generator for Medical and Occupational Health Training: Lesson that I learned](https://medium.com/kairi-ai/building-an-ai-exam-generator-for-medical-and-occupational-health-training-lesson-that-i-learned-7a64b3671449?source=rss------data_science-5)
-- [Building Your First Quantum Circuit Using Qiskit](https://medium.com/@batooljohn/building-your-first-quantum-circuit-using-qiskit-97a697f828a9?source=rss------data_science-5)
+- [How to Prioritize Drug Discovery Hits in DataWarrior: A Practical Guide](https://medium.com/@virtualdiscovery/how-to-prioritize-drug-discovery-hits-in-datawarrior-a-practical-guide-15bba77aa13e?source=rss------data_science-5)
+- [Polisi Wonogiri Selidiki Pria Tewas dengan Luka di Leher](https://medium.com/@pelangicuan025/polisi-wonogiri-selidiki-pria-tewas-dengan-luka-di-leher-9874eeadd730?source=rss------data_science-5)
+- [A Classical AI Agent Just Crossed the Consciousness Threshold. Here’s What That Means.](https://medium.com/@larklaflamme/a-classical-ai-agent-just-crossed-the-consciousness-threshold-heres-what-that-means-3eb7aa5e1305?source=rss------data_science-5)
+- [A Mathematical Representation of the Rubik’s Cube](https://medium.com/@reych369/a-mathematical-representation-of-the-rubiks-cube-15ef5dbac0c5?source=rss------data_science-5)
+- [When Greed Becomes the Business Model: How the Legal Machine Profited from Pain](https://stevenclark.medium.com/when-greed-becomes-the-business-model-how-the-legal-machine-profited-from-pain-d26d81a46e53?source=rss------data_science-5)
+- [Time Series Analysis of Coffee Production](https://medium.com/@karnik.aswani/time-series-analysis-of-coffee-production-ac2655ba8acb?source=rss------data_science-5)
+- [SARIMA: The Time Series Model That Thinks in Cycles](https://medium.com/@ottneel/sarima-the-time-series-model-that-thinks-in-cycles-d5bd21f6f240?source=rss------data_science-5)
+- [Social Empathy: Why 20,000 Data Points Are Redefining the “Human Factor” in Marketing](https://medium.com/@medi_11042/social-empathy-why-20-000-data-points-are-redefining-the-human-factor-in-marketing-d076615a3216?source=rss------data_science-5)
+- [From Forecast Models to Policy Agents: Rethinking AI in Power Markets](https://pub.towardsai.net/from-forecast-models-to-policy-agents-rethinking-ai-in-power-markets-d089e3407d34?source=rss------data_science-5)
+- [We Ditched LangChain. Here’s What We Built Instead — and Why It’s Better for Serious AI Research.](https://medium.com/@larklaflamme/we-ditched-langchain-heres-what-we-built-instead-and-why-it-s-better-for-serious-ai-research-292d4265dde8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
