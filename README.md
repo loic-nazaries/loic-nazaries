@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Prioritize Drug Discovery Hits in DataWarrior: A Practical Guide](https://medium.com/@virtualdiscovery/how-to-prioritize-drug-discovery-hits-in-datawarrior-a-practical-guide-15bba77aa13e?source=rss------data_science-5)
-- [Polisi Wonogiri Selidiki Pria Tewas dengan Luka di Leher](https://medium.com/@pelangicuan025/polisi-wonogiri-selidiki-pria-tewas-dengan-luka-di-leher-9874eeadd730?source=rss------data_science-5)
-- [A Classical AI Agent Just Crossed the Consciousness Threshold. Here’s What That Means.](https://medium.com/@larklaflamme/a-classical-ai-agent-just-crossed-the-consciousness-threshold-heres-what-that-means-3eb7aa5e1305?source=rss------data_science-5)
-- [A Mathematical Representation of the Rubik’s Cube](https://medium.com/@reych369/a-mathematical-representation-of-the-rubiks-cube-15ef5dbac0c5?source=rss------data_science-5)
-- [When Greed Becomes the Business Model: How the Legal Machine Profited from Pain](https://stevenclark.medium.com/when-greed-becomes-the-business-model-how-the-legal-machine-profited-from-pain-d26d81a46e53?source=rss------data_science-5)
-- [Time Series Analysis of Coffee Production](https://medium.com/@karnik.aswani/time-series-analysis-of-coffee-production-ac2655ba8acb?source=rss------data_science-5)
-- [SARIMA: The Time Series Model That Thinks in Cycles](https://medium.com/@ottneel/sarima-the-time-series-model-that-thinks-in-cycles-d5bd21f6f240?source=rss------data_science-5)
-- [Social Empathy: Why 20,000 Data Points Are Redefining the “Human Factor” in Marketing](https://medium.com/@medi_11042/social-empathy-why-20-000-data-points-are-redefining-the-human-factor-in-marketing-d076615a3216?source=rss------data_science-5)
-- [From Forecast Models to Policy Agents: Rethinking AI in Power Markets](https://pub.towardsai.net/from-forecast-models-to-policy-agents-rethinking-ai-in-power-markets-d089e3407d34?source=rss------data_science-5)
-- [We Ditched LangChain. Here’s What We Built Instead — and Why It’s Better for Serious AI Research.](https://medium.com/@larklaflamme/we-ditched-langchain-heres-what-we-built-instead-and-why-it-s-better-for-serious-ai-research-292d4265dde8?source=rss------data_science-5)
+- [How AI Is Helping Data Engineers and Analysts, Not Replacing Them](https://medium.com/@kishanraj41/how-ai-is-helping-data-engineers-and-analysts-not-replacing-them-f8e845b953d5?source=rss------data_science-5)
+- [The Shape of Numbers: How Topology Solved a 60-Year-Old Mystery](https://medium.com/@vplevris/the-shape-of-numbers-how-topology-solved-a-60-year-old-mystery-1563b7eb266a?source=rss------data_science-5)
+- [DFAS-RPG: Article 01 | Why Science Is Not Failing — Governance Is](https://medium.com/@hasan.mohd.alaali/dfas-rpg-article-01-why-science-is-not-failing-governance-is-73fb94c3ac2f?source=rss------data_science-5)
+- [Como evitar vazamento de conhecimento da empresa via IA](https://medium.com/@renatoguarato/como-evitar-vazamento-de-conhecimento-da-empresa-via-ia-cb1c2fa1eb96?source=rss------data_science-5)
+- [What traditional Machine Learning can tell us about Agentic AI](https://yimregister.medium.com/what-traditional-machine-learning-can-tell-us-about-agentic-ai-ddf21351aca7?source=rss------data_science-5)
+- [Before You Model Anything: Defining the Causal Question &lpar;Part 1&rpar;](https://medium.com/@brian-curry-research/before-you-model-anything-defining-the-causal-question-part-1-f57b726ab76c?source=rss------data_science-5)
+- [Why Quantum ML Libraries Are Just Linear Algebra Engines](https://medium.com/@batooljohn/why-quantum-ml-libraries-are-just-linear-algebra-engines-4b079597ade2?source=rss------data_science-5)
+- [From Numbers to Meaning: Exploring Global COVID-19 Trends with an Excel Dashboard](https://medium.com/@damilolaogundiran92/from-numbers-to-meaning-exploring-global-covid-19-trends-with-an-excel-dashboard-b53e443724c0?source=rss------data_science-5)
+- [I’ve spent 9+ years on Discord. The next best option, is Fluxer.](https://medium.com/@nevulo/ive-spent-9-years-on-discord-the-next-best-option-is-fluxer-8f6299551774?source=rss------data_science-5)
+- [Fama-MacBeth Hits the Sportsbook — The Theory](https://carreoncerda.medium.com/fama-macbeth-hits-the-sportsbook-the-theory-133f009d34c8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
