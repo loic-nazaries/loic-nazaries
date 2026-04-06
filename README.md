@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How AI Is Helping Data Engineers and Analysts, Not Replacing Them](https://medium.com/@kishanraj41/how-ai-is-helping-data-engineers-and-analysts-not-replacing-them-f8e845b953d5?source=rss------data_science-5)
-- [The Shape of Numbers: How Topology Solved a 60-Year-Old Mystery](https://medium.com/@vplevris/the-shape-of-numbers-how-topology-solved-a-60-year-old-mystery-1563b7eb266a?source=rss------data_science-5)
-- [DFAS-RPG: Article 01 | Why Science Is Not Failing — Governance Is](https://medium.com/@hasan.mohd.alaali/dfas-rpg-article-01-why-science-is-not-failing-governance-is-73fb94c3ac2f?source=rss------data_science-5)
-- [Como evitar vazamento de conhecimento da empresa via IA](https://medium.com/@renatoguarato/como-evitar-vazamento-de-conhecimento-da-empresa-via-ia-cb1c2fa1eb96?source=rss------data_science-5)
-- [What traditional Machine Learning can tell us about Agentic AI](https://yimregister.medium.com/what-traditional-machine-learning-can-tell-us-about-agentic-ai-ddf21351aca7?source=rss------data_science-5)
-- [Before You Model Anything: Defining the Causal Question &lpar;Part 1&rpar;](https://medium.com/@brian-curry-research/before-you-model-anything-defining-the-causal-question-part-1-f57b726ab76c?source=rss------data_science-5)
-- [Why Quantum ML Libraries Are Just Linear Algebra Engines](https://medium.com/@batooljohn/why-quantum-ml-libraries-are-just-linear-algebra-engines-4b079597ade2?source=rss------data_science-5)
-- [From Numbers to Meaning: Exploring Global COVID-19 Trends with an Excel Dashboard](https://medium.com/@damilolaogundiran92/from-numbers-to-meaning-exploring-global-covid-19-trends-with-an-excel-dashboard-b53e443724c0?source=rss------data_science-5)
-- [I’ve spent 9+ years on Discord. The next best option, is Fluxer.](https://medium.com/@nevulo/ive-spent-9-years-on-discord-the-next-best-option-is-fluxer-8f6299551774?source=rss------data_science-5)
-- [Fama-MacBeth Hits the Sportsbook — The Theory](https://carreoncerda.medium.com/fama-macbeth-hits-the-sportsbook-the-theory-133f009d34c8?source=rss------data_science-5)
+- [Beyond the &quot;Normal&quot;: Decoding the March 2026 Rainfall Shift and the 1977 Tipping Point](https://medium.com/@devdsp007/beyond-the-normal-decoding-the-march-2026-rainfall-shift-and-the-1977-tipping-point-9d709aff7c09?source=rss------data_science-5)
+- [Data Breaches: How They Happen, Why They Matter, and What They Cost — Joseph Sides](https://medium.com/@josephsides94/data-breaches-how-they-happen-why-they-matter-and-what-they-cost-joseph-sides-296b2200f707?source=rss------data_science-5)
+- [13 Data Tools worth a Look](https://medium.com/sourcescribes/13-data-tools-worth-a-look-836c7e44240e?source=rss------data_science-5)
+- [Work Smarter, Earn More: A Guide to Boosting Your Web Profits with AI Tools](https://medium.com/@tayrmakin/work-smarter-earn-more-a-guide-to-boosting-your-web-profits-with-ai-tools-8ea919524e93?source=rss------data_science-5)
+- [The Black Box Must Die: Why I’m Building AI That Actually Thinks](https://medium.com/@chetanchoudhary_29631/the-black-box-must-die-why-im-building-ai-that-actually-thinks-d71aca6be2d1?source=rss------data_science-5)
+- [Do not be less valuable: A message to analytics practitioners](https://michiko-wolcott.medium.com/do-not-be-less-valuable-a-message-to-analytics-practitioners-bccaf29d5009?source=rss------data_science-5)
+- [Your Vector Database Is Not Your Analytics Database &lpar;I Learned the Hard Way&rpar;](https://medium.com/@xantham/your-vector-database-is-not-your-analytics-database-i-learned-the-hard-way-e6d6c27562e6?source=rss------data_science-5)
+- [2021 WHO Guidance Turns Dead Data Into an AI Cost Line](https://medium.com/kairi-ai/2021-who-guidance-turns-dead-data-into-an-ai-cost-line-0936eb91e61c?source=rss------data_science-5)
+- [The King of Tabular Data: Gradient Boosting and XGBoost Explained](https://medium.com/data-science-collective/the-king-of-tabular-data-gradient-boosting-and-xgboost-explained-717a186dd5ce?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
