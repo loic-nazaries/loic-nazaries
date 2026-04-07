@@ -105,15 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Beyond the &quot;Normal&quot;: Decoding the March 2026 Rainfall Shift and the 1977 Tipping Point](https://medium.com/@devdsp007/beyond-the-normal-decoding-the-march-2026-rainfall-shift-and-the-1977-tipping-point-9d709aff7c09?source=rss------data_science-5)
-- [Data Breaches: How They Happen, Why They Matter, and What They Cost — Joseph Sides](https://medium.com/@josephsides94/data-breaches-how-they-happen-why-they-matter-and-what-they-cost-joseph-sides-296b2200f707?source=rss------data_science-5)
-- [13 Data Tools worth a Look](https://medium.com/sourcescribes/13-data-tools-worth-a-look-836c7e44240e?source=rss------data_science-5)
-- [Work Smarter, Earn More: A Guide to Boosting Your Web Profits with AI Tools](https://medium.com/@tayrmakin/work-smarter-earn-more-a-guide-to-boosting-your-web-profits-with-ai-tools-8ea919524e93?source=rss------data_science-5)
-- [The Black Box Must Die: Why I’m Building AI That Actually Thinks](https://medium.com/@chetanchoudhary_29631/the-black-box-must-die-why-im-building-ai-that-actually-thinks-d71aca6be2d1?source=rss------data_science-5)
-- [Do not be less valuable: A message to analytics practitioners](https://michiko-wolcott.medium.com/do-not-be-less-valuable-a-message-to-analytics-practitioners-bccaf29d5009?source=rss------data_science-5)
-- [Your Vector Database Is Not Your Analytics Database &lpar;I Learned the Hard Way&rpar;](https://medium.com/@xantham/your-vector-database-is-not-your-analytics-database-i-learned-the-hard-way-e6d6c27562e6?source=rss------data_science-5)
-- [2021 WHO Guidance Turns Dead Data Into an AI Cost Line](https://medium.com/kairi-ai/2021-who-guidance-turns-dead-data-into-an-ai-cost-line-0936eb91e61c?source=rss------data_science-5)
-- [The King of Tabular Data: Gradient Boosting and XGBoost Explained](https://medium.com/data-science-collective/the-king-of-tabular-data-gradient-boosting-and-xgboost-explained-717a186dd5ce?source=rss------data_science-5)
+- [API vs Web Scraping: Build, Buy, or Hybrid?](https://medium.com/@yasserglich/api-vs-web-scraping-build-buy-or-hybrid-3b1621dbaa2d?source=rss------data_science-5)
+- [Before You Learn Machine Learning, Understand These 5 Basics](https://pub.towardsai.net/before-you-learn-machine-learning-understand-these-5-basics-c4be249717c2?source=rss------data_science-5)
+- [Take off the tech hat: the corporate rebrand that’s really a licence to surveil you](https://kemlaurin.medium.com/take-off-the-tech-hat-the-corporate-rebrand-thats-really-a-licence-to-surveil-you-bbf4de31d878?source=rss------data_science-5)
+- [How to stake your lil Pepe presale token 2026](https://medium.com/@barman76/how-to-stake-your-lil-pepe-presale-token-2026-331f6b34944e?source=rss------data_science-5)
+- [What Happens Now That AI is the First Analyst On Your Team?](https://rashidesai2424.medium.com/what-happens-now-that-ai-is-the-first-analyst-on-your-team-fcd85483ab13?source=rss------data_science-5)
+- [Do We Really Believe a Workshop Will Change Organizational Culture?](https://keilamunoz.medium.com/do-we-really-believe-a-workshop-will-change-organizational-culture-ba33af9d7284?source=rss------data_science-5)
+- [Transatlantic Compliance via Fagerstrom’s T3AI and BOFAF
+Integrating T3AI, BOFAF, AIM, and ISO…](https://medium.com/@ejfour/transatlantic-compliance-via-fagerstroms-t3ai-and-bofaf-integrating-t3ai-bofaf-aim-and-iso-c99401f7eaeb?source=rss------data_science-5)
+- [Singapore Is Not Just Adopting AI Anymore, It Is Exporting the Infrastructure to Run It](https://kundanj.medium.com/singapore-is-not-just-adopting-ai-anymore-it-is-exporting-the-infrastructure-to-run-it-2aaa766267ea?source=rss------data_science-5)
+- [Gradient Boosting en la Práctica: XGBoost, LightGBM y CatBoost en Data Science](https://medium.com/@gladyschoqueulloa20/gradient-boosting-en-la-pr%C3%A1ctica-xgboost-lightgbm-y-catboost-en-data-science-8f920bf99b4a?source=rss------data_science-5)
+- [Establishing Safety Thresholds for Gene Drive Organisms Targeting Pathogenic Vectors](https://medium.com/@aditrizky052/establishing-safety-thresholds-for-gene-drive-organisms-targeting-pathogenic-vectors-8b2cfc640fdf?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
