@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [API vs Web Scraping: Build, Buy, or Hybrid?](https://medium.com/@yasserglich/api-vs-web-scraping-build-buy-or-hybrid-3b1621dbaa2d?source=rss------data_science-5)
-- [Before You Learn Machine Learning, Understand These 5 Basics](https://pub.towardsai.net/before-you-learn-machine-learning-understand-these-5-basics-c4be249717c2?source=rss------data_science-5)
-- [Take off the tech hat: the corporate rebrand that’s really a licence to surveil you](https://kemlaurin.medium.com/take-off-the-tech-hat-the-corporate-rebrand-thats-really-a-licence-to-surveil-you-bbf4de31d878?source=rss------data_science-5)
-- [How to stake your lil Pepe presale token 2026](https://medium.com/@barman76/how-to-stake-your-lil-pepe-presale-token-2026-331f6b34944e?source=rss------data_science-5)
-- [What Happens Now That AI is the First Analyst On Your Team?](https://rashidesai2424.medium.com/what-happens-now-that-ai-is-the-first-analyst-on-your-team-fcd85483ab13?source=rss------data_science-5)
-- [Do We Really Believe a Workshop Will Change Organizational Culture?](https://keilamunoz.medium.com/do-we-really-believe-a-workshop-will-change-organizational-culture-ba33af9d7284?source=rss------data_science-5)
-- [Transatlantic Compliance via Fagerstrom’s T3AI and BOFAF
-Integrating T3AI, BOFAF, AIM, and ISO…](https://medium.com/@ejfour/transatlantic-compliance-via-fagerstroms-t3ai-and-bofaf-integrating-t3ai-bofaf-aim-and-iso-c99401f7eaeb?source=rss------data_science-5)
-- [Singapore Is Not Just Adopting AI Anymore, It Is Exporting the Infrastructure to Run It](https://kundanj.medium.com/singapore-is-not-just-adopting-ai-anymore-it-is-exporting-the-infrastructure-to-run-it-2aaa766267ea?source=rss------data_science-5)
-- [Gradient Boosting en la Práctica: XGBoost, LightGBM y CatBoost en Data Science](https://medium.com/@gladyschoqueulloa20/gradient-boosting-en-la-pr%C3%A1ctica-xgboost-lightgbm-y-catboost-en-data-science-8f920bf99b4a?source=rss------data_science-5)
-- [Establishing Safety Thresholds for Gene Drive Organisms Targeting Pathogenic Vectors](https://medium.com/@aditrizky052/establishing-safety-thresholds-for-gene-drive-organisms-targeting-pathogenic-vectors-8b2cfc640fdf?source=rss------data_science-5)
+- [The Age of AI or the Chaos of Human Skills?](https://medium.com/@martin.jurado.p/the-age-of-ai-or-the-chaos-of-human-skills-e04d11745063?source=rss------data_science-5)
+- [ECDSA vs RSA for SSH: Key Lengths, Security, and Best Practices](https://medium.com/@chriszenzel/ecdsa-vs-rsa-for-ssh-key-lengths-security-and-best-practices-24152980b699?source=rss------data_science-5)
+- [I Built a Credit Risk AI Agent in 7 Days Here’s Everything I Learned](https://danieljude1992.medium.com/i-built-a-credit-risk-ai-agent-in-7-days-heres-everything-i-learned-08fade668c00?source=rss------data_science-5)
+- [I thought being “good at data” meant being right. I was wrong.](https://medium.com/@dariakkurochkina/i-thought-being-good-at-data-meant-being-right-i-was-wrong-66519d868170?source=rss------data_science-5)
+- [Building ML in the Dark: A Survival Guide for the Solo Practitioner](https://pub.towardsai.net/building-ml-in-the-dark-a-survival-guide-for-the-solo-practitioner-0b42d272f3d8?source=rss------data_science-5)
+- [Workflows vs Data Agents: The Future of Analytics Engineering](https://medium.com/@sainigarvita/workflows-vs-data-agents-the-future-of-analytics-engineering-3ab552f49818?source=rss------data_science-5)
+- [Part 2: How I Annotated 800 Reddit Posts and Used an LLM to Check My Work](https://khnsakhnm.medium.com/part-2-how-i-annotated-800-reddit-posts-and-used-an-llm-to-check-my-work-1656095e2119?source=rss------data_science-5)
+- [PolyTech is public now](https://medium.com/@agaben947/polytech-is-public-now-24c887fb1a72?source=rss------data_science-5)
+- [Pharmaceutical Report Analysis Using Power BI](https://medium.com/@koladeabu05/pharmaceutical-report-analysis-using-power-bi-a9e9c54628e6?source=rss------data_science-5)
+- [Why GPU Utilization Is the Hardest Problem in AI Systems](https://medium.com/@m2analytics1117/why-gpu-utilization-is-the-hardest-problem-in-ai-systems-396fe2fb3c4a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
