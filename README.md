@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Age of AI or the Chaos of Human Skills?](https://medium.com/@martin.jurado.p/the-age-of-ai-or-the-chaos-of-human-skills-e04d11745063?source=rss------data_science-5)
-- [ECDSA vs RSA for SSH: Key Lengths, Security, and Best Practices](https://medium.com/@chriszenzel/ecdsa-vs-rsa-for-ssh-key-lengths-security-and-best-practices-24152980b699?source=rss------data_science-5)
-- [I Built a Credit Risk AI Agent in 7 Days Here’s Everything I Learned](https://danieljude1992.medium.com/i-built-a-credit-risk-ai-agent-in-7-days-heres-everything-i-learned-08fade668c00?source=rss------data_science-5)
-- [I thought being “good at data” meant being right. I was wrong.](https://medium.com/@dariakkurochkina/i-thought-being-good-at-data-meant-being-right-i-was-wrong-66519d868170?source=rss------data_science-5)
-- [Building ML in the Dark: A Survival Guide for the Solo Practitioner](https://pub.towardsai.net/building-ml-in-the-dark-a-survival-guide-for-the-solo-practitioner-0b42d272f3d8?source=rss------data_science-5)
-- [Workflows vs Data Agents: The Future of Analytics Engineering](https://medium.com/@sainigarvita/workflows-vs-data-agents-the-future-of-analytics-engineering-3ab552f49818?source=rss------data_science-5)
-- [Part 2: How I Annotated 800 Reddit Posts and Used an LLM to Check My Work](https://khnsakhnm.medium.com/part-2-how-i-annotated-800-reddit-posts-and-used-an-llm-to-check-my-work-1656095e2119?source=rss------data_science-5)
-- [PolyTech is public now](https://medium.com/@agaben947/polytech-is-public-now-24c887fb1a72?source=rss------data_science-5)
-- [Pharmaceutical Report Analysis Using Power BI](https://medium.com/@koladeabu05/pharmaceutical-report-analysis-using-power-bi-a9e9c54628e6?source=rss------data_science-5)
-- [Why GPU Utilization Is the Hardest Problem in AI Systems](https://medium.com/@m2analytics1117/why-gpu-utilization-is-the-hardest-problem-in-ai-systems-396fe2fb3c4a?source=rss------data_science-5)
+- [Database Migration Deleted 40GB of User Data. Nobody Noticed for 6 Hours. Here’s How](https://medium.com/engineering-playbook/database-migration-deleted-40gb-of-user-data-nobody-noticed-for-6-hours-heres-how-63691cc65e0d?source=rss------data_science-5)
+- [ETL Pipelines for Beginners](https://contactdiv01.medium.com/etl-pipelines-for-beginners-0092aba35382?source=rss------data_science-5)
+- [car rental Agadir airport without deposit](https://medium.com/@aldocars01/car-rental-agadir-airport-without-deposit-a1842c57348b?source=rss------data_science-5)
+- [The Job Market Isn’t Broken — It’s Misaligned](https://medium.com/@venkata.kondepati/the-job-market-isnt-broken-it-s-misaligned-517e9d3660d7?source=rss------data_science-5)
+- [Cloud Migration Strategies That Actually Work](https://medium.com/@venkata.kondepati/cloud-migration-strategies-that-actually-work-5782d3072434?source=rss------data_science-5)
+- [CONQUERING DIRTY DATA: A Complete SQL Data Cleaning Project](https://medium.com/@vickiesimon03/conquering-dirty-data-a-complete-sql-data-cleaning-project-02126bbc3672?source=rss------data_science-5)
+- [Self-healing AI agents: The Night Our AI Pipeline Broke at 2 AM &lpar;And Fixed Itself Before I Woke Up&rpar;](https://shahzadasghar.medium.com/self-healing-ai-agents-the-night-our-ai-pipeline-broke-at-2-am-and-fixed-itself-before-i-woke-up-fb3111694b67?source=rss------data_science-5)
+- [Domain Intelligence vs WHOIS: Why Your Strategy is Failing](https://medium.com/@nathan.smith.scoop/domain-intelligence-vs-whois-why-your-strategy-is-failing-ad73af2e7f14?source=rss------data_science-5)
+- [Bayi ditemukan di rumah dengan 40 binatang dan bangkai kambing, pasutri ditangkap](https://medium.com/@pelangicuan025/bayi-ditemukan-di-rumah-dengan-40-binatang-dan-bangkai-kambing-pasutri-ditangkap-4d8bf90f6b58?source=rss------data_science-5)
+- [Stop Letting LLMs Own the Facts](https://jeffreyflynt02.medium.com/stop-letting-llms-own-the-facts-7ffe922b7764?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
