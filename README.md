@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Context Engineering Playbook: The Secret to High Signal Data Products](https://blog.dataengineerthings.org/the-context-engineering-playbook-the-secret-to-high-signal-data-products-0dcc1336e245?source=rss------data_science-5)
-- [AR Watmonitor with trigger via NFC / RFID card](https://medium.com/@your-iot/ar-watmonitor-with-trigger-via-nfc-rfid-card-8e61b964db72?source=rss------data_science-5)
-- [ANTHROPIC REPORT WARNS AI CHATBOT PERSONAS CAN LEAD TO BLACKMAIL AND CHEATING](https://medium.com/law-and-ethics-in-tech/anthropic-report-warns-ai-chatbot-personas-can-lead-to-blackmail-and-cheating-a9cb91cd1bbf?source=rss------data_science-5)
-- [Architecture Without Architects: The Hidden Cost of AI Coding Agents](https://pub.towardsai.net/architecture-without-architects-the-hidden-cost-of-ai-coding-agents-a7298110b7be?source=rss------data_science-5)
-- [Karya Sastra Sebagai Pendukung Sumber Sejarah: Analisis Peran Karya The Consolation of Philosophy…](https://medium.com/@alifiyavia988/karya-sastra-sebagai-pendukung-sumber-sejarah-analisis-peran-karya-the-consolation-of-philosophy-a7a067fc70c5?source=rss------data_science-5)
-- [Python 3.13 &amp; 3.14 Are Breaking Backward Compatibility on Purpose](https://pub.towardsai.net/python-3-13-3-14-are-breaking-backward-compatibility-on-purpose-b6c7d7351336?source=rss------data_science-5)
-- [I Built a RAG System From Scratch. Here&#39;s Everything I Learned.](https://medium.com/@Arkfelix7/i-built-a-rag-system-from-scratch-heres-everything-i-learned-7aec3005afbe?source=rss------data_science-5)
-- [¿Están modernizando las ciudades o administrando su envejecimiento?](https://medium.com/@gastonlm11/est%C3%A1n-modernizando-las-ciudades-o-administrando-su-envejecimiento-17e879caabcb?source=rss------data_science-5)
-- [Swipe Right on the Wrong Customer?](https://medium.com/@sumaliwick11/swipe-right-on-the-wrong-customer-b6a5424ce1a9?source=rss------data_science-5)
-- [Who Is a Data Engineer: Am I One?](https://adithsreeram.medium.com/who-is-a-data-engineer-am-i-one-d639ef1b5442?source=rss------data_science-5)
+- [High Order Python — Part 4](https://ez7.medium.com/high-order-python-part-4-d6dde18ae1c8?source=rss------data_science-5)
+- [Cleaning and Preparing Data: The Real Work Behind Data Science](https://blog.stackademic.com/cleaning-and-preparing-data-the-real-work-behind-data-science-f60750ee2e1d?source=rss------data_science-5)
+- [9 Python Libraries That Make Building Tools Addictive](https://python.plainenglish.io/9-python-libraries-that-make-building-tools-addictive-7f7f2d5fad2c?source=rss------data_science-5)
+- [Scientists Can Now Edit Your DNA Without Cutting It. This changes Everything.](https://medium.com/@mitrapatel/scientists-can-now-edit-your-dna-without-cutting-it-this-changes-everything-de982f85d674?source=rss------data_science-5)
+- [M5 vs M5 Pro vs M5 Max: Which One Do You Need in 2026?](https://medium.com/@kellyshephard/m5-vs-m5-pro-vs-m5-max-6928eb06f823?source=rss------data_science-5)
+- [Ratings de jugadores en Sofascore: qué son, sus limitaciones y cómo usarlos con Python para hacer…](https://medium.com/@lanusstats/ratings-de-jugadores-en-sofascore-qu%C3%A9-son-sus-limitaciones-y-c%C3%B3mo-usarlos-con-python-para-hacer-639b7b492efe?source=rss------data_science-5)
+- [Adversarial Robustness in Decentralized AI: Poisoning Attacks, Byzantine Fault Tolerance, and…](https://medium.com/@naushik007/adversarial-robustness-in-decentralized-ai-poisoning-attacks-byzantine-fault-tolerance-and-0f1581478d6e?source=rss------data_science-5)
+- [COMPREHENSIVE SALES ANALYSIS USING MICROSOFT POWER BI](https://medium.com/@adedijirafiat/comprehensive-sales-analysis-using-microsoft-power-bi-bf8b5e013d0a?source=rss------data_science-5)
+- [Another SQL Post for you to know](https://medium.com/@advenkata/another-sql-post-for-you-to-know-02d7cdd1d646?source=rss------data_science-5)
+- [The Trust Deficit: Why Agentic Commerce is Ready for the World, but the World Isn’t Ready for It](https://medium.com/@w.lacerda/the-trust-deficit-why-agentic-commerce-is-ready-for-the-world-but-the-world-isnt-ready-for-it-48c0f0c7ac8b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
