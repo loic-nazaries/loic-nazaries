@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Building a Rain Prediction Model for Abuja: From Raw Weather Data to a Production XGBoost…](https://medium.com/@ottneel/building-a-rain-prediction-model-for-abuja-from-raw-weather-data-to-a-production-xgboost-e03544e58b9b?source=rss------data_science-5)
-- [Journal Figure Reproduction | Plotting RDA with Python](https://medium.com/top-python-libraries/journal-figure-reproduction-plotting-rda-with-python-02b5155432e9?source=rss------data_science-5)
-- [From Raw Data to Insights: What I Learned in SQL Today &lpar;Hands-On Guide for Beginners&rpar;](https://lalendra.medium.com/from-raw-data-to-insights-what-i-learned-in-sql-today-hands-on-guide-for-beginners-b0922654cd49?source=rss------data_science-5)
-- [Simulation: Using Random Numbers to Model Uncertainty](https://medium.com/@bskky001/simulation-using-random-numbers-to-model-uncertainty-1937ea133774?source=rss------data_science-5)
-- [The Mamba Mechanics: A Bio-Dynamic Audit of Kobe Bryant’s “System Failure”](https://medium.com/@flying5630/the-mamba-mechanics-a-bio-dynamic-audit-of-kobe-bryants-system-failure-59151d5679d7?source=rss------data_science-5)
-- [Strategic Blog 1: The Only DAX Functions Cheat Sheet You’ll Ever Need &lpar;Power BI 2026&rpar;](https://medium.com/@devwithdata3/strategic-blog-1-the-only-dax-functions-cheat-sheet-youll-ever-need-power-bi-2026-76a1c54b825e?source=rss------data_science-5)
-- [“The Real Challenge of Production ML: A Case Study”](https://medium.com/@MichaelAugustine78/the-real-challenge-of-production-ml-a-case-study-eb4d921bb4fd?source=rss------data_science-5)
-- [Claude Code Playbook for Spring Boot Microservice Development](https://blog.stackademic.com/claude-code-playbook-for-spring-boot-microservice-development-8274b9666bc6?source=rss------data_science-5)
-- [Which Programming Language Should You Use with Claude Code?](https://blog.stackademic.com/which-programming-language-should-you-use-with-claude-code-b0b7c4598969?source=rss------data_science-5)
-- [Polisi Gagalkan Penyelundupan 15 Kg Sabu di Ambulans](https://medium.com/@gyccz/polisi-gagalkan-penyelundupan-15-kg-sabu-di-ambulans-9937b53e406d?source=rss------data_science-5)
+- [Building Is Cheap. Knowing What to Build Isn’t](https://medium.com/@e4rohan/the-map-is-not-the-territory-52eee4f93bb7?source=rss------data_science-5)
+- [Learn These 5 GenAI terms, And Stay Ahead In The Race](https://medium.com/activated-thinker/learn-these-5-genai-terms-and-stay-ahead-in-the-race-ff4ef17ebb81?source=rss------data_science-5)
+- [Beyond the Dashboard: Why Domain Intelligence is the New Front Line in Fraud Detection](https://medium.com/@jordan.blake./beyond-the-dashboard-why-domain-intelligence-is-the-new-front-line-in-fraud-detection-fcedfa6a82b0?source=rss------data_science-5)
+- [Structured Data vs Unstructured Data: Key Differences](https://medium.com/@yasserglich/structured-data-vs-unstructured-data-key-differences-aaea6b0734e0?source=rss------data_science-5)
+- [AI Engineering Checklist](https://medium.com/@aishwaryasingh257/ai-engineering-checklist-48b0168cb8c9?source=rss------data_science-5)
+- [New EV Sales Are Slowing = Charging Crisis? The Real Opportunity Hidden in the Data](https://viveev.medium.com/new-ev-sales-are-slowing-charging-crisis-the-real-opportunity-hidden-in-the-data-c0d14ec75a6f?source=rss------data_science-5)
+- [How I Built an AI Agent That Automates My Daily Tasks](https://pub.towardsai.net/how-i-built-an-ai-agent-that-automates-my-daily-tasks-add9868420cb?source=rss------data_science-5)
+- [California’s Foster Care Crisis That Nobody Is Talking About](https://nishrin-kachwala.medium.com/californias-foster-care-crisis-that-nobody-is-talking-about-c0e6b1855034?source=rss------data_science-5)
+- [The Death of the Dashboard: Why I’m Finally Trading My SQL Queries for Conversations](https://medium.com/@nickeedicion/the-death-of-the-dashboard-why-im-finally-trading-my-sql-queries-for-conversations-8b3bd2ab2afb?source=rss------data_science-5)
+- [Blog #4: IDV Story Analysis](https://medium.com/@lacicallen/blog-4-idv-story-analysis-e7a4cb0aa5fc?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
