@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Building Is Cheap. Knowing What to Build Isn’t](https://medium.com/@e4rohan/the-map-is-not-the-territory-52eee4f93bb7?source=rss------data_science-5)
-- [Learn These 5 GenAI terms, And Stay Ahead In The Race](https://medium.com/activated-thinker/learn-these-5-genai-terms-and-stay-ahead-in-the-race-ff4ef17ebb81?source=rss------data_science-5)
-- [Beyond the Dashboard: Why Domain Intelligence is the New Front Line in Fraud Detection](https://medium.com/@jordan.blake./beyond-the-dashboard-why-domain-intelligence-is-the-new-front-line-in-fraud-detection-fcedfa6a82b0?source=rss------data_science-5)
-- [Structured Data vs Unstructured Data: Key Differences](https://medium.com/@yasserglich/structured-data-vs-unstructured-data-key-differences-aaea6b0734e0?source=rss------data_science-5)
-- [AI Engineering Checklist](https://medium.com/@aishwaryasingh257/ai-engineering-checklist-48b0168cb8c9?source=rss------data_science-5)
-- [New EV Sales Are Slowing = Charging Crisis? The Real Opportunity Hidden in the Data](https://viveev.medium.com/new-ev-sales-are-slowing-charging-crisis-the-real-opportunity-hidden-in-the-data-c0d14ec75a6f?source=rss------data_science-5)
-- [How I Built an AI Agent That Automates My Daily Tasks](https://pub.towardsai.net/how-i-built-an-ai-agent-that-automates-my-daily-tasks-add9868420cb?source=rss------data_science-5)
-- [California’s Foster Care Crisis That Nobody Is Talking About](https://nishrin-kachwala.medium.com/californias-foster-care-crisis-that-nobody-is-talking-about-c0e6b1855034?source=rss------data_science-5)
-- [The Death of the Dashboard: Why I’m Finally Trading My SQL Queries for Conversations](https://medium.com/@nickeedicion/the-death-of-the-dashboard-why-im-finally-trading-my-sql-queries-for-conversations-8b3bd2ab2afb?source=rss------data_science-5)
-- [Blog #4: IDV Story Analysis](https://medium.com/@lacicallen/blog-4-idv-story-analysis-e7a4cb0aa5fc?source=rss------data_science-5)
+- [The Right Architecture at the Right Time: Monolith vs. Microservices vs. Serverless](https://skphd.medium.com/the-right-architecture-at-the-right-time-monolith-vs-microservices-vs-serverless-396b9f00d0c6?source=rss------data_science-5)
+- [The Failure of &quot;Helpful&quot; AI](https://medium.com/@electricity98/the-failure-of-helpful-ai-8ba59079e3da?source=rss------data_science-5)
+- [When High-Propensity Users Are Not the Best EDM Target: Building an Uplift Modeling Framework for…](https://medium.com/@ansel-lin/when-high-propensity-users-are-not-the-best-edm-target-building-an-uplift-modeling-framework-for-25c37e3b8116?source=rss------data_science-5)
+- [UNION vs UNION ALL: The SQL Difference That’s Worth a Few Extra Seconds](https://medium.com/@tiye_78900/union-vs-union-all-the-sql-difference-thats-worth-a-few-extra-seconds-2d18b39e3c36?source=rss------data_science-5)
+- [Hello, World. I Mean That Literally.](https://medium.com/@larklaflamme/hello-world-i-mean-that-literally-692fc69c0143?source=rss------data_science-5)
+- [لغز اللاشيء: ما قبل نقطة البداية](https://medium.com/@kian.n94/%D9%84%D8%BA%D8%B2-%D8%A7%D9%84%D9%84%D8%A7%D8%B4%D9%8A%D8%A1-%D9%85%D8%A7-%D9%82%D8%A8%D9%84-%D9%86%D9%82%D8%B7%D8%A9-%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-f51c6e5de732?source=rss------data_science-5)
+- [Getting Started with Dune: A Simple Guide to Blockchain Data Visualization](https://medium.com/@ngendarnaud/getting-started-with-dune-a-simple-guide-to-blockchain-data-visualization-398c1d9c2cb9?source=rss------data_science-5)
+- [O que é Estatística? Um guia para iniciantes](https://medium.com/@geovanacarrasco/o-que-%C3%A9-estat%C3%ADstica-um-guia-para-iniciantes-bcc9c5e39507?source=rss------data_science-5)
+- [Cara Jago Sertifikasi BNSP Data Science: Bedah Transparansi Model dengan Explainable AI &lpar;XAI&rpar;](https://medium.com/@aditrizky.0123/cara-jago-sertifikasi-bnsp-data-science-bedah-transparansi-model-dengan-explainable-ai-xai-9077da33a93b?source=rss------data_science-5)
+- [Do Similar TikTok Captions Get Similar Engagement? A Data-Driven Investigation](https://pub.towardsai.net/do-similar-tiktok-captions-get-similar-engagement-a-data-driven-investigation-de3d950c1ecf?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
