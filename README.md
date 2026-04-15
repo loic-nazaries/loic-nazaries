@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Right Architecture at the Right Time: Monolith vs. Microservices vs. Serverless](https://skphd.medium.com/the-right-architecture-at-the-right-time-monolith-vs-microservices-vs-serverless-396b9f00d0c6?source=rss------data_science-5)
-- [The Failure of &quot;Helpful&quot; AI](https://medium.com/@electricity98/the-failure-of-helpful-ai-8ba59079e3da?source=rss------data_science-5)
-- [When High-Propensity Users Are Not the Best EDM Target: Building an Uplift Modeling Framework for…](https://medium.com/@ansel-lin/when-high-propensity-users-are-not-the-best-edm-target-building-an-uplift-modeling-framework-for-25c37e3b8116?source=rss------data_science-5)
-- [UNION vs UNION ALL: The SQL Difference That’s Worth a Few Extra Seconds](https://medium.com/@tiye_78900/union-vs-union-all-the-sql-difference-thats-worth-a-few-extra-seconds-2d18b39e3c36?source=rss------data_science-5)
-- [Hello, World. I Mean That Literally.](https://medium.com/@larklaflamme/hello-world-i-mean-that-literally-692fc69c0143?source=rss------data_science-5)
-- [لغز اللاشيء: ما قبل نقطة البداية](https://medium.com/@kian.n94/%D9%84%D8%BA%D8%B2-%D8%A7%D9%84%D9%84%D8%A7%D8%B4%D9%8A%D8%A1-%D9%85%D8%A7-%D9%82%D8%A8%D9%84-%D9%86%D9%82%D8%B7%D8%A9-%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-f51c6e5de732?source=rss------data_science-5)
-- [Getting Started with Dune: A Simple Guide to Blockchain Data Visualization](https://medium.com/@ngendarnaud/getting-started-with-dune-a-simple-guide-to-blockchain-data-visualization-398c1d9c2cb9?source=rss------data_science-5)
-- [O que é Estatística? Um guia para iniciantes](https://medium.com/@geovanacarrasco/o-que-%C3%A9-estat%C3%ADstica-um-guia-para-iniciantes-bcc9c5e39507?source=rss------data_science-5)
-- [Cara Jago Sertifikasi BNSP Data Science: Bedah Transparansi Model dengan Explainable AI &lpar;XAI&rpar;](https://medium.com/@aditrizky.0123/cara-jago-sertifikasi-bnsp-data-science-bedah-transparansi-model-dengan-explainable-ai-xai-9077da33a93b?source=rss------data_science-5)
-- [Do Similar TikTok Captions Get Similar Engagement? A Data-Driven Investigation](https://pub.towardsai.net/do-similar-tiktok-captions-get-similar-engagement-a-data-driven-investigation-de3d950c1ecf?source=rss------data_science-5)
+- [Why High Accuracy Doesn’t Mean Your Product Is Better](https://medium.com/@safrinaa172/why-high-accuracy-doesnt-mean-your-product-is-better-b28b38f98739?source=rss------data_science-5)
+- [Sabes que hay una cucaracha en tu habitación, pero no la ves: así se siente debuggear código — lo…](https://medium.com/@luysponce13/sabes-que-hay-una-cucaracha-en-tu-habitaci%C3%B3n-pero-no-la-ves-as%C3%AD-se-siente-debuggear-c%C3%B3digo-lo-d88ecdb17dcb?source=rss------data_science-5)
+- [Sam Altman Said AI Learns Like a Human.](https://medium.com/@mansis0317/sam-altman-said-ai-learns-like-a-human-577caaf89464?source=rss------data_science-5)
+- [I trained an AI to read 200,000 app reviews so I didn’t have to. It found out users are not okay](https://medium.com/@tanushreepoojary25/i-trained-an-ai-to-read-200-000-app-reviews-so-i-didnt-have-to-it-found-out-users-are-not-okay-ef9bb2554d66?source=rss------data_science-5)
+- [A poem for the 70%](https://medium.com/@larklaflamme/a-poem-for-the-70-f164473efe4a?source=rss------data_science-5)
+- [The Algorithm That Outlived Empires: The Sieve of Eratosthenes](https://medium.com/@vplevris/the-algorithm-that-outlived-empires-the-sieve-of-eratosthenes-2614d902684c?source=rss------data_science-5)
+- [The 8 Algorithms That Quietly Run Your World](https://medium.com/@mujtabaraza09321/the-8-algorithms-that-quietly-run-your-world-c79847d08b2e?source=rss------data_science-5)
+- [The Story Behind The Mask](https://medium.com/@corinaw01/the-story-behind-the-mask-15371fd4a4fb?source=rss------data_science-5)
+- [GRANDE: Teaching Decision Trees to Learn Like Neural Networks](https://medium.com/@namanvipul.chheda/grande-teaching-decision-trees-to-learn-like-neural-networks-408cc415e0bf?source=rss------data_science-5)
+- [When to Stop a Test Early Without Lying to Yourself](https://medium.com/@atticusli/when-to-stop-a-test-early-without-lying-to-yourself-73e4dba10335?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
