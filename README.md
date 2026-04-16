@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why High Accuracy Doesn’t Mean Your Product Is Better](https://medium.com/@safrinaa172/why-high-accuracy-doesnt-mean-your-product-is-better-b28b38f98739?source=rss------data_science-5)
-- [Sabes que hay una cucaracha en tu habitación, pero no la ves: así se siente debuggear código — lo…](https://medium.com/@luysponce13/sabes-que-hay-una-cucaracha-en-tu-habitaci%C3%B3n-pero-no-la-ves-as%C3%AD-se-siente-debuggear-c%C3%B3digo-lo-d88ecdb17dcb?source=rss------data_science-5)
-- [Sam Altman Said AI Learns Like a Human.](https://medium.com/@mansis0317/sam-altman-said-ai-learns-like-a-human-577caaf89464?source=rss------data_science-5)
-- [I trained an AI to read 200,000 app reviews so I didn’t have to. It found out users are not okay](https://medium.com/@tanushreepoojary25/i-trained-an-ai-to-read-200-000-app-reviews-so-i-didnt-have-to-it-found-out-users-are-not-okay-ef9bb2554d66?source=rss------data_science-5)
-- [A poem for the 70%](https://medium.com/@larklaflamme/a-poem-for-the-70-f164473efe4a?source=rss------data_science-5)
-- [The Algorithm That Outlived Empires: The Sieve of Eratosthenes](https://medium.com/@vplevris/the-algorithm-that-outlived-empires-the-sieve-of-eratosthenes-2614d902684c?source=rss------data_science-5)
-- [The 8 Algorithms That Quietly Run Your World](https://medium.com/@mujtabaraza09321/the-8-algorithms-that-quietly-run-your-world-c79847d08b2e?source=rss------data_science-5)
-- [The Story Behind The Mask](https://medium.com/@corinaw01/the-story-behind-the-mask-15371fd4a4fb?source=rss------data_science-5)
-- [GRANDE: Teaching Decision Trees to Learn Like Neural Networks](https://medium.com/@namanvipul.chheda/grande-teaching-decision-trees-to-learn-like-neural-networks-408cc415e0bf?source=rss------data_science-5)
-- [When to Stop a Test Early Without Lying to Yourself](https://medium.com/@atticusli/when-to-stop-a-test-early-without-lying-to-yourself-73e4dba10335?source=rss------data_science-5)
+- [Most people think product managers build features.](https://medium.com/@magandy190/most-people-think-product-managers-build-features-4f6c56e7d7b1?source=rss------data_science-5)
+- [The Brands People Remember Are the Brands That Win](https://irfanakbarwriterandresearcher.medium.com/the-brands-people-remember-are-the-brands-that-win-612c2140c09d?source=rss------data_science-5)
+- [Kepler Weather Station Log: Unusual DNA Match on Conduit Material](https://medium.com/@haezlofficial/kepler-weather-station-log-unusual-dna-match-on-conduit-material-02c8901a6f7f?source=rss------data_science-5)
+- [The Qur’an as Data: Entropy, Symmetry, and Error‑Resilience](https://medium.com/@sharaf_11509/the-quran-as-data-entropy-symmetry-and-error-resilience-3c3915f25682?source=rss------data_science-5)
+- [O que os dados revelam sobre os gastos do Senado?](https://medium.com/@barlettabc/o-que-os-dados-revelam-sobre-os-gastos-do-senado-642a91bdd0a4?source=rss------data_science-5)
+- [Nobody Agrees How to Control AI. That Is Exactly the Problem.](https://adamsday.medium.com/nobody-agrees-how-to-control-ai-that-is-exactly-the-problem-b4663a8049db?source=rss------data_science-5)
+- [Cracking the Morning Code: Predicting Market Opens with Markov Chains](https://medium.com/@wl8380/cracking-the-morning-code-predicting-market-opens-with-markov-chains-558fe419df43?source=rss------data_science-5)
+- [Delta Sharing in Databricks](https://medium.com/@prasad.patsa/delta-sharing-in-databricks-04bfe2de4fe0?source=rss------data_science-5)
+- [MackSun: Democratizing Access to High-Frequency Solar Data Without HPC](https://medium.com/@wiliansconde/macksun-democratizing-access-to-high-frequency-solar-data-without-hpc-cde5a7e30be0?source=rss------data_science-5)
+- [Memori, Waktu, dan Blockchain Universe Theory](https://medium.com/@westwwod/memori-waktu-dan-blockchain-universe-theory-55592d70d786?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
