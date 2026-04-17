@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Most people think product managers build features.](https://medium.com/@magandy190/most-people-think-product-managers-build-features-4f6c56e7d7b1?source=rss------data_science-5)
-- [The Brands People Remember Are the Brands That Win](https://irfanakbarwriterandresearcher.medium.com/the-brands-people-remember-are-the-brands-that-win-612c2140c09d?source=rss------data_science-5)
-- [Kepler Weather Station Log: Unusual DNA Match on Conduit Material](https://medium.com/@haezlofficial/kepler-weather-station-log-unusual-dna-match-on-conduit-material-02c8901a6f7f?source=rss------data_science-5)
-- [The Qur’an as Data: Entropy, Symmetry, and Error‑Resilience](https://medium.com/@sharaf_11509/the-quran-as-data-entropy-symmetry-and-error-resilience-3c3915f25682?source=rss------data_science-5)
-- [O que os dados revelam sobre os gastos do Senado?](https://medium.com/@barlettabc/o-que-os-dados-revelam-sobre-os-gastos-do-senado-642a91bdd0a4?source=rss------data_science-5)
-- [Nobody Agrees How to Control AI. That Is Exactly the Problem.](https://adamsday.medium.com/nobody-agrees-how-to-control-ai-that-is-exactly-the-problem-b4663a8049db?source=rss------data_science-5)
-- [Cracking the Morning Code: Predicting Market Opens with Markov Chains](https://medium.com/@wl8380/cracking-the-morning-code-predicting-market-opens-with-markov-chains-558fe419df43?source=rss------data_science-5)
-- [Delta Sharing in Databricks](https://medium.com/@prasad.patsa/delta-sharing-in-databricks-04bfe2de4fe0?source=rss------data_science-5)
-- [MackSun: Democratizing Access to High-Frequency Solar Data Without HPC](https://medium.com/@wiliansconde/macksun-democratizing-access-to-high-frequency-solar-data-without-hpc-cde5a7e30be0?source=rss------data_science-5)
-- [Memori, Waktu, dan Blockchain Universe Theory](https://medium.com/@westwwod/memori-waktu-dan-blockchain-universe-theory-55592d70d786?source=rss------data_science-5)
+- [Visualizing a Categorical and a Quantitative Variable in Seaborn](https://iamdamilare13.medium.com/visualizing-a-categorical-and-a-quantitative-variable-in-seaborn-feea2fe642bc?source=rss------data_science-5)
+- [Why Your Data Work Portfolio Numbers Might Be Lying to You](https://medium.com/@gib.bassett/why-your-data-work-portfolio-numbers-might-be-lying-to-you-267a71584036?source=rss------data_science-5)
+- [Reframing Operational Excellence in Healthcare Administration Through Data-Driven Leadership](https://medium.com/@fizzierj/reframing-operational-excellence-in-healthcare-administration-through-data-driven-leadership-e1fa267f37c1?source=rss------data_science-5)
+- [Redefining Humanitarian Procurement and Data-Driven Supply Chain Systems at Scale](https://medium.com/@fizzierj/redefining-humanitarian-procurement-and-data-driven-supply-chain-systems-at-scale-c116b1ae8a3c?source=rss------data_science-5)
+- [Mamba Unboxed: The State Space Model That’s Quietly Replacing Attention](https://ai.gopubby.com/mamba-unboxed-the-state-space-model-thats-quietly-replacing-attention-ab46e56027b9?source=rss------data_science-5)
+- [What 4,300 Days Taught Me About Vitiligo That Photos Never Could &lpar;Part 2&rpar;](https://medium.com/@shinhuni0624/what-4-300-days-taught-me-about-vitiligo-that-photos-never-could-part-2-d590fbaa08cf?source=rss------data_science-5)
+- [Google’s 2023 Analytics Switch Left Your Yearly Baseline Looking Intact](https://medium.com/kairi-ai/googles-2023-analytics-switch-left-your-yearly-baseline-looking-intact-6763f202149b?source=rss------data_science-5)
+- [How to Run Holdout Tests to Prove Incremental Revenue &lpar;and Stop Guessing&rpar;](https://medium.com/@atticusli/how-to-run-holdout-tests-to-prove-incremental-revenue-and-stop-guessing-61f5643e58b9?source=rss------data_science-5)
+- [Understanding Classification Metrics: Accuracy, Precision, Recall, and More](https://medium.com/@oussamabeniaich123/understanding-classification-metrics-accuracy-precision-recall-and-more-9d6dc44233ce?source=rss------data_science-5)
+- [The Reasoner’s Dilemma: How “Overthinking” Breaks AI Executive Functions](https://medium.com/@meowmetnuwri/the-reasoners-dilemma-how-overthinking-breaks-ai-executive-functions-49ffaa590509?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
