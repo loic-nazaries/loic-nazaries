@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I Banned All AI Tools From My Workflow for 60 Days. My Productivity Dropped 40%.](https://medium.com/engineering-playbook/i-banned-all-ai-tools-from-my-workflow-for-60-days-my-productivity-dropped-40-bd58a6db9c20?source=rss------data_science-5)
-- [Choosing the Right Causal Inference Method: A Practical Guide for Data Scientists](https://medium.com/@singhaman0524/choosing-the-right-causal-inference-method-a-practical-guide-for-data-scientists-aa51784c2432?source=rss------data_science-5)
-- [MERI: A Complementary Measure to GDP for Majority Economic Reality](https://medium.com/@navneetanand/meri-a-complementary-measure-to-gdp-for-majority-economic-reality-ee19cb033046?source=rss------data_science-5)
-- [What a Hospital Taught Me About Homelessness](https://medium.com/@sohailmaqsood610/what-a-hospital-taught-me-about-homelessness-542908d4e1de?source=rss------data_science-5)
-- [An Inspiring Visit of Congresswoman Anna Paulina Luna to Avi Loeb’s Office at the Harvard College…](https://avi-loeb.medium.com/an-inspiring-visit-of-congresswoman-anna-paulina-luna-to-avi-loebs-office-at-the-harvard-college-19bd4a1c6002?source=rss------data_science-5)
-- [Interlink labs day 60 task, InterLink now rolls out Visa cards for seamless digital transactions.](https://ganguri3655.medium.com/interlink-labs-day-60-task-interlink-now-rolls-out-visa-cards-for-seamless-digital-transactions-5d0df2afe40c?source=rss------data_science-5)
-- [The Physics of Imagination: Visualizing the Hidden Mathematics of Diffusion Models](https://pub.towardsai.net/the-physics-of-imagination-visualizing-the-hidden-mathematics-of-diffusion-models-2bff27c226fc?source=rss------data_science-5)
-- [Fuzzy Association Rule Mining](https://medium.com/@aadarshsenapati/fuzzy-association-rule-mining-cfb76d3078e5?source=rss------data_science-5)
-- [Complete Guide to SQL, DBMS &amp; RDBMS — From Fundamentals to Indexing, Query Execution and Scalable…](https://medium.com/@harish1309159/complete-guide-to-sql-dbms-rdbms-from-fundamentals-to-indexing-query-execution-and-scalable-ebba85758254?source=rss------data_science-5)
-- [You Do Not Need a $100,000 Degree. You Need These Books](https://adamsday.medium.com/you-do-not-need-a-100-000-degree-you-need-these-books-854beaaa7f41?source=rss------data_science-5)
+- [How Machine Learning Actually Works](https://rishabsharma-ai.medium.com/generative-ai-zero-to-production-part-2-of-15-77cf8222afcb?source=rss------data_science-5)
+- [20 Python One-Liners That Solve Real Problems](https://blog.stackademic.com/20-python-one-liners-that-solve-real-problems-2dbd8c9668ef?source=rss------data_science-5)
+- [Medical Coding Systems in Healthcare: Structure, Applications, and Data Science Perspectives](https://medium.com/@juankehoe/medical-coding-systems-in-healthcare-structure-applications-and-data-science-perspectives-b92aee121906?source=rss------data_science-5)
+- [Decisions Your Data Can’t Make: The Perils of Radicalized Data Driven Thinking](https://medium.com/@platonicidea/decisions-your-data-cant-make-the-perils-of-radicalized-data-driven-thinking-5a32026a4e37?source=rss------data_science-5)
+- [RAG systems were pushed to their limits; this is the startling breakdown that no one warned you…](https://medium.com/@Jason-Han/rag-systems-were-pushed-to-their-limits-this-is-the-startling-breakdown-that-no-one-warned-you-3eed7f5a9dde?source=rss------data_science-5)
+- [Augmented Analytics in Practice: 7 Real-World Examples Worth Knowing](https://medium.com/@jules.vane/augmented-analytics-in-practice-7-real-world-examples-worth-knowing-4d5557046af2?source=rss------data_science-5)
+- [Augmented Analytics for Operations Teams: What Actually Works &lpar;And What Doesn’t&rpar;](https://medium.com/@robin.ellis.scoop/augmented-analytics-for-operations-teams-what-actually-works-and-what-doesnt-2dfe5d548b92?source=rss------data_science-5)
+- [Augmented Analytics in Retail: What the Dashboards Can’t Tell You](https://medium.com/@jamie.lane.scoop/augmented-analytics-in-retail-what-the-dashboards-cant-tell-you-857e3a5a54a6?source=rss------data_science-5)
+- [The Weekly Step: Agentic Hype &amp; The Audio Uncanny Valley](https://thegradientdescent.medium.com/the-weekly-step-agentic-hype-the-audio-uncanny-valley-2623e5566fc8?source=rss------data_science-5)
+- [Title](https://medium.com/@rahulkumarbunker/title-c484477f4226?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
