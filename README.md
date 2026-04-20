@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How Machine Learning Actually Works](https://rishabsharma-ai.medium.com/generative-ai-zero-to-production-part-2-of-15-77cf8222afcb?source=rss------data_science-5)
-- [20 Python One-Liners That Solve Real Problems](https://blog.stackademic.com/20-python-one-liners-that-solve-real-problems-2dbd8c9668ef?source=rss------data_science-5)
-- [Medical Coding Systems in Healthcare: Structure, Applications, and Data Science Perspectives](https://medium.com/@juankehoe/medical-coding-systems-in-healthcare-structure-applications-and-data-science-perspectives-b92aee121906?source=rss------data_science-5)
-- [Decisions Your Data Can’t Make: The Perils of Radicalized Data Driven Thinking](https://medium.com/@platonicidea/decisions-your-data-cant-make-the-perils-of-radicalized-data-driven-thinking-5a32026a4e37?source=rss------data_science-5)
-- [RAG systems were pushed to their limits; this is the startling breakdown that no one warned you…](https://medium.com/@Jason-Han/rag-systems-were-pushed-to-their-limits-this-is-the-startling-breakdown-that-no-one-warned-you-3eed7f5a9dde?source=rss------data_science-5)
-- [Augmented Analytics in Practice: 7 Real-World Examples Worth Knowing](https://medium.com/@jules.vane/augmented-analytics-in-practice-7-real-world-examples-worth-knowing-4d5557046af2?source=rss------data_science-5)
-- [Augmented Analytics for Operations Teams: What Actually Works &lpar;And What Doesn’t&rpar;](https://medium.com/@robin.ellis.scoop/augmented-analytics-for-operations-teams-what-actually-works-and-what-doesnt-2dfe5d548b92?source=rss------data_science-5)
-- [Augmented Analytics in Retail: What the Dashboards Can’t Tell You](https://medium.com/@jamie.lane.scoop/augmented-analytics-in-retail-what-the-dashboards-cant-tell-you-857e3a5a54a6?source=rss------data_science-5)
-- [The Weekly Step: Agentic Hype &amp; The Audio Uncanny Valley](https://thegradientdescent.medium.com/the-weekly-step-agentic-hype-the-audio-uncanny-valley-2623e5566fc8?source=rss------data_science-5)
-- [Title](https://medium.com/@rahulkumarbunker/title-c484477f4226?source=rss------data_science-5)
+- [Higher Education’s Dirty Secret: AI Won’t Save Students If the Systems Underneath Are Still Broken](https://medium.com/@kaluchiemela97/higher-educations-dirty-secret-ai-won-t-save-students-if-the-systems-underneath-are-still-broken-cda4c3323728?source=rss------data_science-5)
+- [Motivation for Enrolling in Data Analysis with Machine Learning](https://medium.com/@azfa_mkh/motivation-for-enrolling-in-data-analysis-with-machine-learning-19d4a3207a49?source=rss------data_science-5)
+- [When Python Breaks: A Practical Guide to Escaping Dependency Hell with Conda and Spyder](https://medium.com/@m.elbakai/when-python-breaks-a-practical-guide-to-escaping-dependency-hell-with-conda-and-spyder-be9581dbbb67?source=rss------data_science-5)
+- [MNHEME Evolves: Personality and Free Will Enter the System](https://medium.com/@aatel.license/mnheme-evolves-personality-and-free-will-enter-the-system-662581f7b93e?source=rss------data_science-5)
+- [Leading a greenfield PostgreSQL database analytics focused buildout — Communication.](https://medium.com/@yuvchauhan15/leading-a-greenfield-postgresql-database-analytics-focused-buildout-communication-d0a58cc40416?source=rss------data_science-5)
+- [La ética de datos en el análisis de datos](https://medium.com/@lunavictoria1126/la-%C3%A9tica-de-datos-en-el-an%C3%A1lisis-de-datos-f141e8fc0b58?source=rss------data_science-5)
+- [Unsung Hero of Digital Success: Product Data Scientist](https://throughmydatalens.medium.com/unsung-hero-of-digital-success-product-data-scientist-a298f111ff75?source=rss------data_science-5)
+- [Inside Qwen 3.6: How Sparse MoE Unlocks Agentic Coding with 3B Active Parameters](https://pub.towardsai.net/inside-qwen-3-6-how-sparse-moe-unlocks-agentic-coding-with-3b-active-parameters-601f6ca1a963?source=rss------data_science-5)
+- [5 Python Scripts That Saved Me 10+ Hours This Week](https://medium.com/@metzrock/5-python-scripts-that-saved-me-10-hours-this-week-d2a95cb62daa?source=rss------data_science-5)
+- [I Audited 47 Power BI Implementations. This 15-Minute Framework Found $500K+ in Hidden Errors.](https://pub.towardsai.net/i-audited-47-power-bi-implementations-this-15-minute-framework-found-500k-in-hidden-errors-8d35a40c340b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
