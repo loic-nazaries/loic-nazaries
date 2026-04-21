@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Higher Education’s Dirty Secret: AI Won’t Save Students If the Systems Underneath Are Still Broken](https://medium.com/@kaluchiemela97/higher-educations-dirty-secret-ai-won-t-save-students-if-the-systems-underneath-are-still-broken-cda4c3323728?source=rss------data_science-5)
-- [Motivation for Enrolling in Data Analysis with Machine Learning](https://medium.com/@azfa_mkh/motivation-for-enrolling-in-data-analysis-with-machine-learning-19d4a3207a49?source=rss------data_science-5)
-- [When Python Breaks: A Practical Guide to Escaping Dependency Hell with Conda and Spyder](https://medium.com/@m.elbakai/when-python-breaks-a-practical-guide-to-escaping-dependency-hell-with-conda-and-spyder-be9581dbbb67?source=rss------data_science-5)
-- [MNHEME Evolves: Personality and Free Will Enter the System](https://medium.com/@aatel.license/mnheme-evolves-personality-and-free-will-enter-the-system-662581f7b93e?source=rss------data_science-5)
-- [Leading a greenfield PostgreSQL database analytics focused buildout — Communication.](https://medium.com/@yuvchauhan15/leading-a-greenfield-postgresql-database-analytics-focused-buildout-communication-d0a58cc40416?source=rss------data_science-5)
-- [La ética de datos en el análisis de datos](https://medium.com/@lunavictoria1126/la-%C3%A9tica-de-datos-en-el-an%C3%A1lisis-de-datos-f141e8fc0b58?source=rss------data_science-5)
-- [Unsung Hero of Digital Success: Product Data Scientist](https://throughmydatalens.medium.com/unsung-hero-of-digital-success-product-data-scientist-a298f111ff75?source=rss------data_science-5)
-- [Inside Qwen 3.6: How Sparse MoE Unlocks Agentic Coding with 3B Active Parameters](https://pub.towardsai.net/inside-qwen-3-6-how-sparse-moe-unlocks-agentic-coding-with-3b-active-parameters-601f6ca1a963?source=rss------data_science-5)
-- [5 Python Scripts That Saved Me 10+ Hours This Week](https://medium.com/@metzrock/5-python-scripts-that-saved-me-10-hours-this-week-d2a95cb62daa?source=rss------data_science-5)
-- [I Audited 47 Power BI Implementations. This 15-Minute Framework Found $500K+ in Hidden Errors.](https://pub.towardsai.net/i-audited-47-power-bi-implementations-this-15-minute-framework-found-500k-in-hidden-errors-8d35a40c340b?source=rss------data_science-5)
+- [I broke Google AI’s system prompt to write steamy erotica](https://generativeai.pub/google-ai-system-prompt-erotica-jailbreak-c5a294ea2056?source=rss------data_science-5)
+- [The System Didn’t Fail. It Did Exactly What It Was Designed To Do.](https://ai.gopubby.com/the-system-didnt-fail-it-did-exactly-what-it-was-designed-to-do-e85786422a13?source=rss------data_science-5)
+- [Why Stable Bond Yields Can Be More Dangerous Than Volatility](https://medium.com/@BondStats/why-stable-bond-yields-can-be-more-dangerous-than-volatility-d0899b8898d0?source=rss------data_science-5)
+- [Masih Ragu Ambil Sertifikasi BNSP Data Science? Ini Alasan Kenapa Kamu Justru Perlu Sekarang!](https://medium.com/@sintianurjannah5/masih-ragu-ambil-sertifikasi-bnsp-data-science-ini-alasan-kenapa-kamu-justru-perlu-sekarang-dd75bc68f4ef?source=rss------data_science-5)
+- [Beyond the Session: Memory Engineering for Agent Teams](https://pub.towardsai.net/beyond-the-session-memory-engineering-for-agent-teams-b69865506bf8?source=rss------data_science-5)
+- [appreciate the life you have right now.](https://medium.com/@Freemythoughts/appreciate-the-life-you-have-right-now-1226ae3460c2?source=rss------data_science-5)
+- [Balancing ‌predictive ‌power ‌with privacy in insurance.](https://medium.com/@gnonefernando/balancing-predictive-power-with-privacy-in-insurance-2a4d9d4138d4?source=rss------data_science-5)
+- [IA Generativa vs. IA Tradicional](https://medium.com/@kitosornelas/ia-generativa-vs-ia-tradicional-abe072b28e30?source=rss------data_science-5)
+- [Canonical system:
+https://theflatratemovers.com/developer/](https://medium.com/@ratemovers/sir-2026-the-first-structured-protocol-for-high-mass-and-calibration-safe-relocation-58450de87d55?source=rss------data_science-5)
+- [Kubernetes: What it is, its importance, and the advantages of using it](https://medium.com/@adrienschubert/kubernetes-what-it-is-its-importance-and-the-advantages-of-using-it-a2ff9690b5a2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
