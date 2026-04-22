@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I broke Google AI’s system prompt to write steamy erotica](https://generativeai.pub/google-ai-system-prompt-erotica-jailbreak-c5a294ea2056?source=rss------data_science-5)
-- [The System Didn’t Fail. It Did Exactly What It Was Designed To Do.](https://ai.gopubby.com/the-system-didnt-fail-it-did-exactly-what-it-was-designed-to-do-e85786422a13?source=rss------data_science-5)
-- [Why Stable Bond Yields Can Be More Dangerous Than Volatility](https://medium.com/@BondStats/why-stable-bond-yields-can-be-more-dangerous-than-volatility-d0899b8898d0?source=rss------data_science-5)
-- [Masih Ragu Ambil Sertifikasi BNSP Data Science? Ini Alasan Kenapa Kamu Justru Perlu Sekarang!](https://medium.com/@sintianurjannah5/masih-ragu-ambil-sertifikasi-bnsp-data-science-ini-alasan-kenapa-kamu-justru-perlu-sekarang-dd75bc68f4ef?source=rss------data_science-5)
-- [Beyond the Session: Memory Engineering for Agent Teams](https://pub.towardsai.net/beyond-the-session-memory-engineering-for-agent-teams-b69865506bf8?source=rss------data_science-5)
-- [appreciate the life you have right now.](https://medium.com/@Freemythoughts/appreciate-the-life-you-have-right-now-1226ae3460c2?source=rss------data_science-5)
-- [Balancing ‌predictive ‌power ‌with privacy in insurance.](https://medium.com/@gnonefernando/balancing-predictive-power-with-privacy-in-insurance-2a4d9d4138d4?source=rss------data_science-5)
-- [IA Generativa vs. IA Tradicional](https://medium.com/@kitosornelas/ia-generativa-vs-ia-tradicional-abe072b28e30?source=rss------data_science-5)
-- [Canonical system:
-https://theflatratemovers.com/developer/](https://medium.com/@ratemovers/sir-2026-the-first-structured-protocol-for-high-mass-and-calibration-safe-relocation-58450de87d55?source=rss------data_science-5)
-- [Kubernetes: What it is, its importance, and the advantages of using it](https://medium.com/@adrienschubert/kubernetes-what-it-is-its-importance-and-the-advantages-of-using-it-a2ff9690b5a2?source=rss------data_science-5)
+- [The Continuation of Fear](https://medium.com/@salwaatyf/the-continuation-of-fear-e538810148ee?source=rss------data_science-5)
+- [AI Takes Center Stage at NAB Show 2026: Transforming Media, Broadcasting, and Content Creation](https://medium.com/@fahey_james/ai-takes-center-stage-at-nab-show-2026-transforming-media-broadcasting-and-content-creation-1400ef100f08?source=rss------data_science-5)
+- [BTT Token Streak Math: Sequences on Bitunix](https://medium.com/@dixonsusie41/btt-token-streak-math-sequences-on-bitunix-f1aa9a755ae7?source=rss------data_science-5)
+- [Çıkma Yedek Parça Nedir? Uygun Fiyatlı Parça Bulmanın En Kolay Yolu](https://medium.com/@alienbiyaakman/%C3%A7%C4%B1kma-yedek-par%C3%A7a-nedir-uygun-fiyatl%C4%B1-par%C3%A7a-bulman%C4%B1n-en-kolay-yolu-beddde733170?source=rss------data_science-5)
+- [7 Python Libraries That Just Work Every Time](https://blog.stackademic.com/7-python-libraries-that-just-work-every-time-e084e560151e?source=rss------data_science-5)
+- [How a White-Box Model Beat XGBoost, CatBoost, and 7 Other Models in Credit Default Prediction](https://medium.com/@rmaia.meteo/how-a-white-box-model-beat-xgboost-catboost-and-7-other-models-in-credit-default-prediction-fba5a2b3e519?source=rss------data_science-5)
+- [Multi-Table Feature Engineering on Synthetic Databases: How to Test Your ML Pipeline Before It Sees…](https://pub.towardsai.net/multi-table-feature-engineering-on-synthetic-databases-how-to-test-your-ml-pipeline-before-it-sees-71ca9aa44348?source=rss------data_science-5)
+- [5 Python Libraries Every Data Engineer Needs Before Building With AI](https://medium.com/data-science-collective/5-python-libraries-every-data-engineer-needs-before-building-with-ai-032aa476473c?source=rss------data_science-5)
+- [Dağınık Veriyi Anlamlı Bilgiye Dönüştürmek: ‘Neleri Meşhur’ Projesinin Hikayesi](https://medium.com/@enesozer_8606/da%C4%9F%C4%B1n%C4%B1k-veriyi-anlaml%C4%B1-bilgiye-d%C3%B6n%C3%BC%C5%9Ft%C3%BCrmek-neleri-me%C5%9Fhur-projesinin-hikayesi-928dacd6cf20?source=rss------data_science-5)
+- [The Hidden Cost of Big Tech’s Growth: Land, Energy and the People in the Way](https://medium.com/activated-thinker/the-hidden-cost-of-big-techs-growth-land-energy-and-the-people-in-the-way-1adf9f8a9b44?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
