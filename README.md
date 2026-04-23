@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Continuation of Fear](https://medium.com/@salwaatyf/the-continuation-of-fear-e538810148ee?source=rss------data_science-5)
-- [AI Takes Center Stage at NAB Show 2026: Transforming Media, Broadcasting, and Content Creation](https://medium.com/@fahey_james/ai-takes-center-stage-at-nab-show-2026-transforming-media-broadcasting-and-content-creation-1400ef100f08?source=rss------data_science-5)
-- [BTT Token Streak Math: Sequences on Bitunix](https://medium.com/@dixonsusie41/btt-token-streak-math-sequences-on-bitunix-f1aa9a755ae7?source=rss------data_science-5)
-- [Çıkma Yedek Parça Nedir? Uygun Fiyatlı Parça Bulmanın En Kolay Yolu](https://medium.com/@alienbiyaakman/%C3%A7%C4%B1kma-yedek-par%C3%A7a-nedir-uygun-fiyatl%C4%B1-par%C3%A7a-bulman%C4%B1n-en-kolay-yolu-beddde733170?source=rss------data_science-5)
-- [7 Python Libraries That Just Work Every Time](https://blog.stackademic.com/7-python-libraries-that-just-work-every-time-e084e560151e?source=rss------data_science-5)
-- [How a White-Box Model Beat XGBoost, CatBoost, and 7 Other Models in Credit Default Prediction](https://medium.com/@rmaia.meteo/how-a-white-box-model-beat-xgboost-catboost-and-7-other-models-in-credit-default-prediction-fba5a2b3e519?source=rss------data_science-5)
-- [Multi-Table Feature Engineering on Synthetic Databases: How to Test Your ML Pipeline Before It Sees…](https://pub.towardsai.net/multi-table-feature-engineering-on-synthetic-databases-how-to-test-your-ml-pipeline-before-it-sees-71ca9aa44348?source=rss------data_science-5)
-- [5 Python Libraries Every Data Engineer Needs Before Building With AI](https://medium.com/data-science-collective/5-python-libraries-every-data-engineer-needs-before-building-with-ai-032aa476473c?source=rss------data_science-5)
-- [Dağınık Veriyi Anlamlı Bilgiye Dönüştürmek: ‘Neleri Meşhur’ Projesinin Hikayesi](https://medium.com/@enesozer_8606/da%C4%9F%C4%B1n%C4%B1k-veriyi-anlaml%C4%B1-bilgiye-d%C3%B6n%C3%BC%C5%9Ft%C3%BCrmek-neleri-me%C5%9Fhur-projesinin-hikayesi-928dacd6cf20?source=rss------data_science-5)
-- [The Hidden Cost of Big Tech’s Growth: Land, Energy and the People in the Way](https://medium.com/activated-thinker/the-hidden-cost-of-big-techs-growth-land-energy-and-the-people-in-the-way-1adf9f8a9b44?source=rss------data_science-5)
+- [Maritime Leverage and System Stability in the Iran–Israel–U.S. Crisis](https://medium.com/illumination/maritime-leverage-and-system-stability-in-the-iran-israel-u-s-crisis-e01029a540ba?source=rss------data_science-5)
+- [Robot SHREDS human half-marathon world record.](https://medium.com/illumination/robot-shreds-human-half-marathon-world-record-ecf8fc0806c0?source=rss------data_science-5)
+- [Your Cement Plant Is Waiting 28 Days for an Answer a Model Can Give in Seconds](https://medium.com/@alan.lopez.algorithmica/your-cement-plant-is-waiting-28-days-for-an-answer-a-model-can-give-in-seconds-1c8095b5f9bf?source=rss------data_science-5)
+- [Every Data Professional Has That Moment in a Meeting. Julius AI Would Have Saved Mine](https://medium.com/@akpradhn/every-data-professional-has-that-moment-in-a-meeting-julius-ai-would-have-saved-mine-10e814e473f7?source=rss------data_science-5)
+- [The Financial World Is on the Cusp of Its Biggest Revolution &lpar;And It&#39;s Not AI&rpar;](https://medium.com/@tupackanali0/the-financial-world-is-on-the-cusp-of-its-biggest-revolution-since-the-internet-and-its-not-ai-b59e16780664?source=rss------data_science-5)
+- [Something fundamental is changing, and most people haven’t even noticed it yet](https://intruvurt.medium.com/something-fundamental-is-changing-and-most-people-havent-even-noticed-it-yet-6e70406edcc5?source=rss------data_science-5)
+- [Data Science Is Not About Models — Here’s Why](https://medium.com/@sjchem/data-science-is-not-about-models-heres-why-fceff9be927b?source=rss------data_science-5)
+- [Why Monitoring Systems Fail — And How to Detect Collapse Before It Happens](https://medium.com/@marcelob7/why-monitoring-systems-fail-and-how-to-detect-collapse-before-it-happens-6a51161056ec?source=rss------data_science-5)
+- [Engineering the Optimal Data Mix: A Blueprint for Fine-Tuning Nova Models](https://medium.com/data-science-collective/engineering-the-optimal-data-mix-a-blueprint-for-fine-tuning-nova-models-ede4815ca5e8?source=rss------data_science-5)
+- [The automation apocalypse is the existential event — not Trump](https://medium.com/the-polis/the-automation-apocalypse-is-the-existential-event-not-trump-0dd188f899be?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
