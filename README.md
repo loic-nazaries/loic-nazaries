@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Maritime Leverage and System Stability in the Iran–Israel–U.S. Crisis](https://medium.com/illumination/maritime-leverage-and-system-stability-in-the-iran-israel-u-s-crisis-e01029a540ba?source=rss------data_science-5)
-- [Robot SHREDS human half-marathon world record.](https://medium.com/illumination/robot-shreds-human-half-marathon-world-record-ecf8fc0806c0?source=rss------data_science-5)
-- [Your Cement Plant Is Waiting 28 Days for an Answer a Model Can Give in Seconds](https://medium.com/@alan.lopez.algorithmica/your-cement-plant-is-waiting-28-days-for-an-answer-a-model-can-give-in-seconds-1c8095b5f9bf?source=rss------data_science-5)
-- [Every Data Professional Has That Moment in a Meeting. Julius AI Would Have Saved Mine](https://medium.com/@akpradhn/every-data-professional-has-that-moment-in-a-meeting-julius-ai-would-have-saved-mine-10e814e473f7?source=rss------data_science-5)
-- [The Financial World Is on the Cusp of Its Biggest Revolution &lpar;And It&#39;s Not AI&rpar;](https://medium.com/@tupackanali0/the-financial-world-is-on-the-cusp-of-its-biggest-revolution-since-the-internet-and-its-not-ai-b59e16780664?source=rss------data_science-5)
-- [Something fundamental is changing, and most people haven’t even noticed it yet](https://intruvurt.medium.com/something-fundamental-is-changing-and-most-people-havent-even-noticed-it-yet-6e70406edcc5?source=rss------data_science-5)
-- [Data Science Is Not About Models — Here’s Why](https://medium.com/@sjchem/data-science-is-not-about-models-heres-why-fceff9be927b?source=rss------data_science-5)
-- [Why Monitoring Systems Fail — And How to Detect Collapse Before It Happens](https://medium.com/@marcelob7/why-monitoring-systems-fail-and-how-to-detect-collapse-before-it-happens-6a51161056ec?source=rss------data_science-5)
-- [Engineering the Optimal Data Mix: A Blueprint for Fine-Tuning Nova Models](https://medium.com/data-science-collective/engineering-the-optimal-data-mix-a-blueprint-for-fine-tuning-nova-models-ede4815ca5e8?source=rss------data_science-5)
-- [The automation apocalypse is the existential event — not Trump](https://medium.com/the-polis/the-automation-apocalypse-is-the-existential-event-not-trump-0dd188f899be?source=rss------data_science-5)
+- [How AI Is Advancing Science?](https://medium.com/kurious-mind/how-ai-is-advancing-science-1bef2d514d2a?source=rss------data_science-5)
+- [Understanding and Writing Linear Regression Algorithm from Scratch](https://medium.com/@varun.choudhary_36364/understanding-and-writing-linear-regression-algorithm-from-scratch-1009d38faf74?source=rss------data_science-5)
+- [Turning Polymarket and Kalshi Into a $500 Monthly Side Income to Fund Claude Max, Perplexity Max…](https://blog.devgenius.io/turning-polymarket-and-kalshi-into-a-500-monthly-side-income-to-fund-claude-max-perplexity-max-474ab67244d5?source=rss------data_science-5)
+- [Your AI Project Isn’t Failing Because of the Model](https://medium.com/@tayler.erbe/your-ai-project-isnt-failing-because-of-the-model-b227bd7666cc?source=rss------data_science-5)
+- [For You](https://medium.com/@protopalavra/for-you-1f5d4d4cfa7e?source=rss------data_science-5)
+- [Which Early-Season NFL Stats Can You Actually Trust?](https://medium.com/@mrz9144/which-early-season-nfl-stats-can-you-actually-trust-1356b4784863?source=rss------data_science-5)
+- [Beyond Massive MoEs: The Next Era of Mid-Scale Dense Architectures for Agentic Coding](https://medium.com/data-science-collective/beyond-massive-moes-the-next-era-of-mid-scale-dense-architectures-for-agentic-coding-68ce5856726e?source=rss------data_science-5)
+- [THE PHYSICS OF THE INVISIBLE AND THE COLLAPSE OF MATTER: A DECODING OF THE SPIRITUAL DECREES THAT…](https://medium.com/@elsongomes2566/the-physics-of-the-invisible-and-the-collapse-of-matter-a-decoding-of-the-spiritual-decrees-that-492537e25b3a?source=rss------data_science-5)
+- [A Systems Approach to Laundry Using Hash Tables](https://medium.com/@jaynandu/a-systems-approach-to-laundry-using-hash-tables-61d734e950e3?source=rss------data_science-5)
+- [Understanding Derivatives as Linear Approximations: A Layered Perspective &lpar;the “true colors”…](https://medium.com/@tomkob99_89317/understanding-derivatives-as-linear-approximations-a-layered-perspective-the-true-colors-29127da6d570?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
