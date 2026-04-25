@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How AI Is Advancing Science?](https://medium.com/kurious-mind/how-ai-is-advancing-science-1bef2d514d2a?source=rss------data_science-5)
-- [Understanding and Writing Linear Regression Algorithm from Scratch](https://medium.com/@varun.choudhary_36364/understanding-and-writing-linear-regression-algorithm-from-scratch-1009d38faf74?source=rss------data_science-5)
-- [Turning Polymarket and Kalshi Into a $500 Monthly Side Income to Fund Claude Max, Perplexity Max…](https://blog.devgenius.io/turning-polymarket-and-kalshi-into-a-500-monthly-side-income-to-fund-claude-max-perplexity-max-474ab67244d5?source=rss------data_science-5)
-- [Your AI Project Isn’t Failing Because of the Model](https://medium.com/@tayler.erbe/your-ai-project-isnt-failing-because-of-the-model-b227bd7666cc?source=rss------data_science-5)
-- [For You](https://medium.com/@protopalavra/for-you-1f5d4d4cfa7e?source=rss------data_science-5)
-- [Which Early-Season NFL Stats Can You Actually Trust?](https://medium.com/@mrz9144/which-early-season-nfl-stats-can-you-actually-trust-1356b4784863?source=rss------data_science-5)
-- [Beyond Massive MoEs: The Next Era of Mid-Scale Dense Architectures for Agentic Coding](https://medium.com/data-science-collective/beyond-massive-moes-the-next-era-of-mid-scale-dense-architectures-for-agentic-coding-68ce5856726e?source=rss------data_science-5)
-- [THE PHYSICS OF THE INVISIBLE AND THE COLLAPSE OF MATTER: A DECODING OF THE SPIRITUAL DECREES THAT…](https://medium.com/@elsongomes2566/the-physics-of-the-invisible-and-the-collapse-of-matter-a-decoding-of-the-spiritual-decrees-that-492537e25b3a?source=rss------data_science-5)
-- [A Systems Approach to Laundry Using Hash Tables](https://medium.com/@jaynandu/a-systems-approach-to-laundry-using-hash-tables-61d734e950e3?source=rss------data_science-5)
-- [Understanding Derivatives as Linear Approximations: A Layered Perspective &lpar;the “true colors”…](https://medium.com/@tomkob99_89317/understanding-derivatives-as-linear-approximations-a-layered-perspective-the-true-colors-29127da6d570?source=rss------data_science-5)
+- [Remember Trigonometry? Thats how you use it in ML](https://medium.com/@nikj0113/remember-trigonometry-thats-how-you-use-it-in-ml-07da8a6b7680?source=rss------data_science-5)
+- [Building a Credit Analyzer for Distressed Companies](https://medium.com/data-science-collective/building-a-credit-analyzer-for-distressed-companies-cfff1f573bad?source=rss------data_science-5)
+- [Here’s Where We Are In OpenAI’s Roadmap For AI](https://medium.com/predict/heres-where-we-are-in-openai-s-roadmap-for-ai-7348fe661949?source=rss------data_science-5)
+- [Do We Really Need All That Context? The Case for Smarter RAG](https://medium.com/@rozxalil801/do-we-really-need-all-that-context-the-case-for-smarter-rag-30e83e942596?source=rss------data_science-5)
+- [The 「Quiet」 Burnout: Why the World is Obsessed with Japanese Minimalism &lpar;and why they’re getting it…](https://medium.com/@bzhwmn/the-quiet-burnout-why-the-world-is-obsessed-with-japanese-minimalism-and-why-theyre-getting-it-c9e5ba4cd1c0?source=rss------data_science-5)
+- [ကွန်ပျူတာကို မြန်မာဂဏန်းတွေ ဖတ်တတ်အောင်ဘယ်လိုသင်ပေးမလဲ? &lpar;Understanding CNN from Scratch&rpar;](https://nye1nchansoe.medium.com/%E1%80%80%E1%80%BD%E1%80%94%E1%80%BA%E1%80%95%E1%80%BB%E1%80%B0%E1%80%90%E1%80%AC%E1%80%80%E1%80%AD%E1%80%AF-%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%82%E1%80%8F%E1%80%94%E1%80%BA%E1%80%B8%E1%80%90%E1%80%BD%E1%80%B1-%E1%80%96%E1%80%90%E1%80%BA%E1%80%90%E1%80%90%E1%80%BA%E1%80%A1%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%98%E1%80%9A%E1%80%BA%E1%80%9C%E1%80%AD%E1%80%AF%E1%80%9E%E1%80%84%E1%80%BA%E1%80%95%E1%80%B1%E1%80%B8%E1%80%99%E1%80%9C%E1%80%B2-understanding-cnn-from-scratch-8e6f64e39c91?source=rss------data_science-5)
+- [Predicting the Unpredictable: How I Built an AI-Driven Insurance Pricing Engine with 89% Accuracy](https://medium.com/@vamsiullingi1729/predicting-the-unpredictable-how-i-built-an-ai-driven-insurance-pricing-engine-with-89-accuracy-76bc26a05641?source=rss------data_science-5)
+- [[Promptfoo] LLM Evaluation Techniques](https://medium.com/@shuseiyokoi/promptfoo-llm-evaluation-techniques-034ebad54f5c?source=rss------data_science-5)
+- [SQL for Data Analysts &lpar;Part 6&rpar;: The Real Interview Questions](https://soumyatripathy2101.medium.com/sql-for-data-analysts-part-6-the-real-interview-questions-7bc2df535222?source=rss------data_science-5)
+- [Solving Business Problems With Data: Why AI Without Context Often Fails](https://medium.com/@udhayaraj265293/solving-business-problems-with-data-why-ai-without-context-often-fails-7de806eb0d66?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
