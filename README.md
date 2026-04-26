@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Remember Trigonometry? Thats how you use it in ML](https://medium.com/@nikj0113/remember-trigonometry-thats-how-you-use-it-in-ml-07da8a6b7680?source=rss------data_science-5)
-- [Building a Credit Analyzer for Distressed Companies](https://medium.com/data-science-collective/building-a-credit-analyzer-for-distressed-companies-cfff1f573bad?source=rss------data_science-5)
-- [Here’s Where We Are In OpenAI’s Roadmap For AI](https://medium.com/predict/heres-where-we-are-in-openai-s-roadmap-for-ai-7348fe661949?source=rss------data_science-5)
-- [Do We Really Need All That Context? The Case for Smarter RAG](https://medium.com/@rozxalil801/do-we-really-need-all-that-context-the-case-for-smarter-rag-30e83e942596?source=rss------data_science-5)
-- [The 「Quiet」 Burnout: Why the World is Obsessed with Japanese Minimalism &lpar;and why they’re getting it…](https://medium.com/@bzhwmn/the-quiet-burnout-why-the-world-is-obsessed-with-japanese-minimalism-and-why-theyre-getting-it-c9e5ba4cd1c0?source=rss------data_science-5)
-- [ကွန်ပျူတာကို မြန်မာဂဏန်းတွေ ဖတ်တတ်အောင်ဘယ်လိုသင်ပေးမလဲ? &lpar;Understanding CNN from Scratch&rpar;](https://nye1nchansoe.medium.com/%E1%80%80%E1%80%BD%E1%80%94%E1%80%BA%E1%80%95%E1%80%BB%E1%80%B0%E1%80%90%E1%80%AC%E1%80%80%E1%80%AD%E1%80%AF-%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC%E1%80%82%E1%80%8F%E1%80%94%E1%80%BA%E1%80%B8%E1%80%90%E1%80%BD%E1%80%B1-%E1%80%96%E1%80%90%E1%80%BA%E1%80%90%E1%80%90%E1%80%BA%E1%80%A1%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%98%E1%80%9A%E1%80%BA%E1%80%9C%E1%80%AD%E1%80%AF%E1%80%9E%E1%80%84%E1%80%BA%E1%80%95%E1%80%B1%E1%80%B8%E1%80%99%E1%80%9C%E1%80%B2-understanding-cnn-from-scratch-8e6f64e39c91?source=rss------data_science-5)
-- [Predicting the Unpredictable: How I Built an AI-Driven Insurance Pricing Engine with 89% Accuracy](https://medium.com/@vamsiullingi1729/predicting-the-unpredictable-how-i-built-an-ai-driven-insurance-pricing-engine-with-89-accuracy-76bc26a05641?source=rss------data_science-5)
-- [[Promptfoo] LLM Evaluation Techniques](https://medium.com/@shuseiyokoi/promptfoo-llm-evaluation-techniques-034ebad54f5c?source=rss------data_science-5)
-- [SQL for Data Analysts &lpar;Part 6&rpar;: The Real Interview Questions](https://soumyatripathy2101.medium.com/sql-for-data-analysts-part-6-the-real-interview-questions-7bc2df535222?source=rss------data_science-5)
-- [Solving Business Problems With Data: Why AI Without Context Often Fails](https://medium.com/@udhayaraj265293/solving-business-problems-with-data-why-ai-without-context-often-fails-7de806eb0d66?source=rss------data_science-5)
+- [Prediction, Estimation ve Forecasting: Benzer Ama Farklı Üç Kavram](https://medium.com/@barisakk00/prediction-estimation-ve-forecasting-benzer-ama-farkl%C4%B1-%C3%BC%C3%A7-kavram-7a029d9aa0dd?source=rss------data_science-5)
+- [Uncovering the Secrets of the Animal Kingdom: A Data Analysis Journey](https://medium.com/@busariaminat54/uncovering-the-secrets-of-the-animal-kingdom-a-data-analysis-journey-f9184725f838?source=rss------data_science-5)
+- [How Predictive Modelling Can Reduce Incident Rates in Rail Networks](https://medium.com/@labibsalam0/how-predictive-modelling-can-reduce-incident-rates-in-rail-networks-ee90a60a7796?source=rss------data_science-5)
+- [When AI Becomes Smarter Than Humans, Trust Becomes Everything](https://medium.com/@myschang/when-ai-becomes-smarter-than-humans-trust-becomes-everything-c33f3c98abc7?source=rss------data_science-5)
+- [ABC-XYZ Inventory Classification using Python](https://medium.com/@Jonathan_Guerra/abc-xyz-inventory-classification-using-python-364416e4df06?source=rss------data_science-5)
+- [How 100,000 Fake Calculators Killed Windows Phone](https://medium.com/@vikpoca/how-100-000-fake-calculators-killed-windows-phone-3c359ba6a4b5?source=rss------data_science-5)
+- [Why FDE is the Fastest-Growing Job in AI Enterprise Software](https://pub.towardsai.net/why-fde-is-the-fastest-growing-job-in-ai-enterprise-software-a05d1dcd2ed9?source=rss------data_science-5)
+- [How We Measure Model Mistakes: Understanding Precision, Recall, and F1 Score](https://medium.com/@bskky001/how-we-measure-model-mistakes-understanding-precision-recall-and-f1-score-dcc3cc4abb9c?source=rss------data_science-5)
+- [Unsupervised Learning for Cardiovascular Risk: A K-Means Analysis](https://medium.com/@dwillis27/unsupervised-learning-for-cardiovascular-risk-a-k-means-analysis-6b5e3b2c4369?source=rss------data_science-5)
+- [Machine Learning Tasks and Evaluation: How Problem Definition and Metrics Determine Whether Models…](https://medium.com/@zeromathai/machine-learning-tasks-and-evaluation-how-problem-definition-and-metrics-determine-whether-models-e826b4e8db4c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
