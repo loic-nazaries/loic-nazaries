@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Prediction, Estimation ve Forecasting: Benzer Ama Farklı Üç Kavram](https://medium.com/@barisakk00/prediction-estimation-ve-forecasting-benzer-ama-farkl%C4%B1-%C3%BC%C3%A7-kavram-7a029d9aa0dd?source=rss------data_science-5)
-- [Uncovering the Secrets of the Animal Kingdom: A Data Analysis Journey](https://medium.com/@busariaminat54/uncovering-the-secrets-of-the-animal-kingdom-a-data-analysis-journey-f9184725f838?source=rss------data_science-5)
-- [How Predictive Modelling Can Reduce Incident Rates in Rail Networks](https://medium.com/@labibsalam0/how-predictive-modelling-can-reduce-incident-rates-in-rail-networks-ee90a60a7796?source=rss------data_science-5)
-- [When AI Becomes Smarter Than Humans, Trust Becomes Everything](https://medium.com/@myschang/when-ai-becomes-smarter-than-humans-trust-becomes-everything-c33f3c98abc7?source=rss------data_science-5)
-- [ABC-XYZ Inventory Classification using Python](https://medium.com/@Jonathan_Guerra/abc-xyz-inventory-classification-using-python-364416e4df06?source=rss------data_science-5)
-- [How 100,000 Fake Calculators Killed Windows Phone](https://medium.com/@vikpoca/how-100-000-fake-calculators-killed-windows-phone-3c359ba6a4b5?source=rss------data_science-5)
-- [Why FDE is the Fastest-Growing Job in AI Enterprise Software](https://pub.towardsai.net/why-fde-is-the-fastest-growing-job-in-ai-enterprise-software-a05d1dcd2ed9?source=rss------data_science-5)
-- [How We Measure Model Mistakes: Understanding Precision, Recall, and F1 Score](https://medium.com/@bskky001/how-we-measure-model-mistakes-understanding-precision-recall-and-f1-score-dcc3cc4abb9c?source=rss------data_science-5)
-- [Unsupervised Learning for Cardiovascular Risk: A K-Means Analysis](https://medium.com/@dwillis27/unsupervised-learning-for-cardiovascular-risk-a-k-means-analysis-6b5e3b2c4369?source=rss------data_science-5)
-- [Machine Learning Tasks and Evaluation: How Problem Definition and Metrics Determine Whether Models…](https://medium.com/@zeromathai/machine-learning-tasks-and-evaluation-how-problem-definition-and-metrics-determine-whether-models-e826b4e8db4c?source=rss------data_science-5)
+- [De Modelos Para Decisões: A Nova Era da Ciência de Dados](https://luisguicomp.medium.com/de-modelos-para-decis%C3%B5es-a-nova-era-da-ci%C3%AAncia-de-dados-4c329d17f9fc?source=rss------data_science-5)
+- [Adaptive Graph RAG](https://medium.com/@yu-joshua/adaptive-graph-rag-7c959b9288ef?source=rss------data_science-5)
+- [How to Accurately Extract Everything from Documents Using AI](https://ai.gopubby.com/how-to-accurately-extract-everything-from-documents-using-ai-cf12d0125238?source=rss------data_science-5)
+- [Building a Multi-Agent System That Turns One Sentence Into a $500 Online Course](https://pub.towardsai.net/building-a-multi-agent-system-that-turns-one-sentence-into-a-500-online-course-7784921dfaba?source=rss------data_science-5)
+- [DuckLake: A new face for DuckDB](https://joaopedro214.medium.com/ducklake-a-new-face-for-duckdb-295fc382894e?source=rss------data_science-5)
+- [, çıkma parça derdine son!](https://medium.com/@alienbiyaakman/%C3%A7%C4%B1kma-par%C3%A7a-derdine-son-02c4801a2435?source=rss------data_science-5)
+- [Türkiye’de Çıkma Parça Bulmak Neden Bu Kadar Zor? &lpar;Ve Biz Nasıl Çözdük&rpar;](https://medium.com/@alienbiyaakman/t%C3%BCrkiyede-%C3%A7%C4%B1kma-par%C3%A7a-bulmak-neden-bu-kadar-zor-ve-biz-nas%C4%B1l-%C3%A7%C3%B6zd%C3%BCk-01aba0f1a671?source=rss------data_science-5)
+- [There Are No Rules Inside a Trained AI](https://pub.towardsai.net/there-are-no-rules-inside-a-trained-ai-2811de80a422?source=rss------data_science-5)
+- [How Bees Solve Math Problems Better Than Most Algorithms](https://medium.com/@steve.lacroix32/how-bees-solve-math-problems-better-than-most-algorithms-bfccd14b4e32?source=rss------data_science-5)
+- [Neural Networks: The Real Explanation Nobody Gives You](https://rishabsharma-ai.medium.com/neural-networks-the-real-explanation-nobody-gives-you-2965f9776d4d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
