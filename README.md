@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [De Modelos Para Decisões: A Nova Era da Ciência de Dados](https://luisguicomp.medium.com/de-modelos-para-decis%C3%B5es-a-nova-era-da-ci%C3%AAncia-de-dados-4c329d17f9fc?source=rss------data_science-5)
-- [Adaptive Graph RAG](https://medium.com/@yu-joshua/adaptive-graph-rag-7c959b9288ef?source=rss------data_science-5)
-- [How to Accurately Extract Everything from Documents Using AI](https://ai.gopubby.com/how-to-accurately-extract-everything-from-documents-using-ai-cf12d0125238?source=rss------data_science-5)
-- [Building a Multi-Agent System That Turns One Sentence Into a $500 Online Course](https://pub.towardsai.net/building-a-multi-agent-system-that-turns-one-sentence-into-a-500-online-course-7784921dfaba?source=rss------data_science-5)
-- [DuckLake: A new face for DuckDB](https://joaopedro214.medium.com/ducklake-a-new-face-for-duckdb-295fc382894e?source=rss------data_science-5)
-- [, çıkma parça derdine son!](https://medium.com/@alienbiyaakman/%C3%A7%C4%B1kma-par%C3%A7a-derdine-son-02c4801a2435?source=rss------data_science-5)
-- [Türkiye’de Çıkma Parça Bulmak Neden Bu Kadar Zor? &lpar;Ve Biz Nasıl Çözdük&rpar;](https://medium.com/@alienbiyaakman/t%C3%BCrkiyede-%C3%A7%C4%B1kma-par%C3%A7a-bulmak-neden-bu-kadar-zor-ve-biz-nas%C4%B1l-%C3%A7%C3%B6zd%C3%BCk-01aba0f1a671?source=rss------data_science-5)
-- [There Are No Rules Inside a Trained AI](https://pub.towardsai.net/there-are-no-rules-inside-a-trained-ai-2811de80a422?source=rss------data_science-5)
-- [How Bees Solve Math Problems Better Than Most Algorithms](https://medium.com/@steve.lacroix32/how-bees-solve-math-problems-better-than-most-algorithms-bfccd14b4e32?source=rss------data_science-5)
-- [Neural Networks: The Real Explanation Nobody Gives You](https://rishabsharma-ai.medium.com/neural-networks-the-real-explanation-nobody-gives-you-2965f9776d4d?source=rss------data_science-5)
+- [How I Built a Cross-Domain Recommendation System That Connects Books and Movies](https://medium.com/@tjstell/how-i-built-a-cross-domain-recommendation-system-that-connects-books-and-movies-2e3d66124e80?source=rss------data_science-5)
+- [Power BI Slicer Shows Values Not in Dataset: Root Causes, Diagnostics, and Proven Fixes](https://medium.com/microsoft-power-bi/power-bi-slicer-shows-values-not-in-dataset-root-causes-diagnostics-and-proven-fixes-5a2067c29f19?source=rss------data_science-5)
+- [On Real Value and Inner Strength](https://medium.com/@istanbul2147/on-real-value-and-inner-strength-f860e8cc7ec3?source=rss------data_science-5)
+- [Rubicon Fraud: I Found Windows 11, Raspberry Pi &amp; Starlink Powering Putin’s “Elite” Suicide Drone](https://medium.com/@Forensic-Archive/rubicon-fraud-i-found-windows-11-raspberry-pi-starlink-powering-putins-elite-suicide-drone-f6f311a57a14?source=rss------data_science-5)
+- [The Geran-3 Heist: I Tracked Russia’s Ghost Ships and Found a Stolen US Engine in Putin’s Drone](https://medium.com/@Forensic-Archive/the-geran-3-heist-i-tracked-russias-ghost-ships-and-found-a-stolen-us-engine-in-putin-s-drone-9d82fa6d0a74?source=rss------data_science-5)
+- [The ₦363M Swimming Pool: Data-Driven Secrets of the Lagos Real Estate Market](https://medium.com/@victoroduronbi/the-363m-swimming-pool-data-driven-secrets-of-the-lagos-real-estate-market-968b8466f117?source=rss------data_science-5)
+- [The Recursive Mind: From The Cave To The Silicon Mirror](https://medium.com/@skills2excellence/the-recursive-mind-from-the-cave-to-the-silicon-mirror-f792429b3b6c?source=rss------data_science-5)
+- [Mastering Regular Expressions in Python &lpar;With Practical Examples&rpar;](https://medium.com/@kamtarawlings_80780/mastering-regular-expressions-in-python-with-practical-examples-2e485395289c?source=rss------data_science-5)
+- [The New Frontier: Why 2026 Is the Year of Agentic and Physical AI](https://medium.com/@naumanhanif41/the-new-frontier-why-2026-is-the-year-of-agentic-and-physical-ai-c4c9bf5887e2?source=rss------data_science-5)
+- [How I Started Building AI Tools That Were Actually Worth Using](https://blog.stackademic.com/how-i-started-building-ai-tools-that-were-actually-worth-using-666742766551?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
