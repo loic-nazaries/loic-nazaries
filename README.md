@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How I Built a Cross-Domain Recommendation System That Connects Books and Movies](https://medium.com/@tjstell/how-i-built-a-cross-domain-recommendation-system-that-connects-books-and-movies-2e3d66124e80?source=rss------data_science-5)
-- [Power BI Slicer Shows Values Not in Dataset: Root Causes, Diagnostics, and Proven Fixes](https://medium.com/microsoft-power-bi/power-bi-slicer-shows-values-not-in-dataset-root-causes-diagnostics-and-proven-fixes-5a2067c29f19?source=rss------data_science-5)
-- [On Real Value and Inner Strength](https://medium.com/@istanbul2147/on-real-value-and-inner-strength-f860e8cc7ec3?source=rss------data_science-5)
-- [Rubicon Fraud: I Found Windows 11, Raspberry Pi &amp; Starlink Powering Putin’s “Elite” Suicide Drone](https://medium.com/@Forensic-Archive/rubicon-fraud-i-found-windows-11-raspberry-pi-starlink-powering-putins-elite-suicide-drone-f6f311a57a14?source=rss------data_science-5)
-- [The Geran-3 Heist: I Tracked Russia’s Ghost Ships and Found a Stolen US Engine in Putin’s Drone](https://medium.com/@Forensic-Archive/the-geran-3-heist-i-tracked-russias-ghost-ships-and-found-a-stolen-us-engine-in-putin-s-drone-9d82fa6d0a74?source=rss------data_science-5)
-- [The ₦363M Swimming Pool: Data-Driven Secrets of the Lagos Real Estate Market](https://medium.com/@victoroduronbi/the-363m-swimming-pool-data-driven-secrets-of-the-lagos-real-estate-market-968b8466f117?source=rss------data_science-5)
-- [The Recursive Mind: From The Cave To The Silicon Mirror](https://medium.com/@skills2excellence/the-recursive-mind-from-the-cave-to-the-silicon-mirror-f792429b3b6c?source=rss------data_science-5)
-- [Mastering Regular Expressions in Python &lpar;With Practical Examples&rpar;](https://medium.com/@kamtarawlings_80780/mastering-regular-expressions-in-python-with-practical-examples-2e485395289c?source=rss------data_science-5)
-- [The New Frontier: Why 2026 Is the Year of Agentic and Physical AI](https://medium.com/@naumanhanif41/the-new-frontier-why-2026-is-the-year-of-agentic-and-physical-ai-c4c9bf5887e2?source=rss------data_science-5)
-- [How I Started Building AI Tools That Were Actually Worth Using](https://blog.stackademic.com/how-i-started-building-ai-tools-that-were-actually-worth-using-666742766551?source=rss------data_science-5)
+- [Subqueries vs JOINs in SQL: When to Use Each &lpar;With Examples&rpar;](https://medium.com/@sunil17bbmp/subqueries-vs-joins-in-sql-when-to-use-each-with-examples-36c0a9ac1115?source=rss------data_science-5)
+- [Data Engineering Quietly Turned Into Cleanup Work](https://medium.com/@sauravsinghsisodiya/data-engineering-quietly-turned-into-cleanup-work-9665ad1016a9?source=rss------data_science-5)
+- [The Regressor Landscape: 11 Models Compared With Honest Strengths and Limitations](https://medium.com/@rmaia.meteo/the-regressor-landscape-11-models-compared-with-honest-strengths-and-limitations-51fcf7fc7283?source=rss------data_science-5)
+- [Applying Machine Learning to Identify High-Risk transport Zones](https://medium.com/@labibsalam0/applying-machine-learning-to-identify-high-risk-transport-zones-25b7ecfc5086?source=rss------data_science-5)
+- [Evaluating AI at Scale: How Thumbtack Approaches Reliability, Safety, and Quality in GenAI](https://medium.com/thumbtack-engineering/evaluating-ai-at-scale-how-thumbtack-approaches-reliability-safety-and-quality-in-genai-f75d0211ac54?source=rss------data_science-5)
+- [Building a Multi-Agent Marketing Analytics Team that Turns Data into Targeted Campaigns in Minutes](https://medium.com/@godfriedj98/building-a-multi-agent-marketing-analytics-team-that-turns-data-into-targeted-campaigns-in-minutes-1da49c36d9fe?source=rss------data_science-5)
+- [Two Education Systems, Two Trajectories: Why America’s Lead Over India Is Widening](https://medium.com/@shirleykerr_67770/two-education-systems-two-trajectories-why-americas-lead-over-india-is-widening-454f2049c1b1?source=rss------data_science-5)
+- [Why Cosmology and Myth Keep Returning to the Same Shapes](https://medium.com/@scott-Interwoven/why-cosmology-and-myth-keep-returning-to-the-same-shapes-0025c79ece70?source=rss------data_science-5)
+- [Beyond RAG: How MCP Native Knowledge Graphs Unlock Full Codebase Structural Awareness](https://medium.com/data-science-collective/beyond-rag-how-mcp-native-knowledge-graphs-unlock-full-codebase-structural-awareness-ba5a260cb063?source=rss------data_science-5)
+- [Inside the Convolution Operation: From Mathematical First Principles to Neural Architecture](https://medium.com/data-science-collective/inside-the-convolution-operation-from-mathematical-first-principles-to-neural-architecture-d0d7d72c28ca?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
