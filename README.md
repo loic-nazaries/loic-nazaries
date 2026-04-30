@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Subqueries vs JOINs in SQL: When to Use Each &lpar;With Examples&rpar;](https://medium.com/@sunil17bbmp/subqueries-vs-joins-in-sql-when-to-use-each-with-examples-36c0a9ac1115?source=rss------data_science-5)
-- [Data Engineering Quietly Turned Into Cleanup Work](https://medium.com/@sauravsinghsisodiya/data-engineering-quietly-turned-into-cleanup-work-9665ad1016a9?source=rss------data_science-5)
-- [The Regressor Landscape: 11 Models Compared With Honest Strengths and Limitations](https://medium.com/@rmaia.meteo/the-regressor-landscape-11-models-compared-with-honest-strengths-and-limitations-51fcf7fc7283?source=rss------data_science-5)
-- [Applying Machine Learning to Identify High-Risk transport Zones](https://medium.com/@labibsalam0/applying-machine-learning-to-identify-high-risk-transport-zones-25b7ecfc5086?source=rss------data_science-5)
-- [Evaluating AI at Scale: How Thumbtack Approaches Reliability, Safety, and Quality in GenAI](https://medium.com/thumbtack-engineering/evaluating-ai-at-scale-how-thumbtack-approaches-reliability-safety-and-quality-in-genai-f75d0211ac54?source=rss------data_science-5)
-- [Building a Multi-Agent Marketing Analytics Team that Turns Data into Targeted Campaigns in Minutes](https://medium.com/@godfriedj98/building-a-multi-agent-marketing-analytics-team-that-turns-data-into-targeted-campaigns-in-minutes-1da49c36d9fe?source=rss------data_science-5)
-- [Two Education Systems, Two Trajectories: Why America’s Lead Over India Is Widening](https://medium.com/@shirleykerr_67770/two-education-systems-two-trajectories-why-americas-lead-over-india-is-widening-454f2049c1b1?source=rss------data_science-5)
-- [Why Cosmology and Myth Keep Returning to the Same Shapes](https://medium.com/@scott-Interwoven/why-cosmology-and-myth-keep-returning-to-the-same-shapes-0025c79ece70?source=rss------data_science-5)
-- [Beyond RAG: How MCP Native Knowledge Graphs Unlock Full Codebase Structural Awareness](https://medium.com/data-science-collective/beyond-rag-how-mcp-native-knowledge-graphs-unlock-full-codebase-structural-awareness-ba5a260cb063?source=rss------data_science-5)
-- [Inside the Convolution Operation: From Mathematical First Principles to Neural Architecture](https://medium.com/data-science-collective/inside-the-convolution-operation-from-mathematical-first-principles-to-neural-architecture-d0d7d72c28ca?source=rss------data_science-5)
+- [Putin’s Digital Death Warrant: 42,000 NSA Intercepts Increase the Math of Putin’s Sudden Collapse](https://medium.com/@Forensic-Archive/putins-digital-death-warrant-42-000-nsa-intercepts-increase-the-math-of-putin-s-sudden-collapse-0ee8473ffdc5?source=rss------data_science-5)
+- [Part IV: Enhancing the MLB API Standings Table — Column Fixes, Error Handling, and Team Insights](https://medium.com/@kylemiller014/part-iv-enhancing-the-mlb-api-standings-table-column-fixes-error-handling-and-team-insights-450d095ca82d?source=rss------data_science-5)
+- [Is The Atlas V Rocket Still in Use? 2026 Update](https://medium.com/@rose78689/is-the-atlas-v-rocket-still-in-use-2026-update-4637a624cdff?source=rss------data_science-5)
+- [Women’s Football Player Development Analysis](https://medium.com/@thomasjosephkusa/womens-football-player-development-analysis-aa0e8ee480d1?source=rss------data_science-5)
+- [Nietzsche Was Wrong About the Übermensch — And Right About Everything Else
+A reading through the…](https://medium.com/@Ecoism/nietzsche-was-wrong-about-the-%C3%BCbermensch-and-right-about-everything-else-a-reading-through-the-d14e591d8555?source=rss------data_science-5)
+- [How Java Made Me a More Disciplined Developer](https://javascript.plainenglish.io/how-java-made-me-a-more-disciplined-developer-d8a3d5091a03?source=rss------data_science-5)
+- [Axiom Hive XPII: A Civilian Contributed Government Compliance Architecture](https://medium.com/@nickmgrossi_47630/axiom-hive-xpii-government-validated-compliance-architecture-report-b487bbfceecb?source=rss------data_science-5)
+- [3 Platforms I Use to Learn Anything for Free](https://medium.com/cogni-tiva/3-platforms-i-use-to-learn-anything-for-free-2abec06ac104?source=rss------data_science-5)
+- [PostgreSQL vs MongoDB: We Migrated 50M Records. Here’s the Performance Data Nobody Shares.](https://blog.stackademic.com/postgresql-vs-mongodb-we-migrated-50m-records-heres-the-performance-data-nobody-shares-ca00963c4dee?source=rss------data_science-5)
+- [Grace, Doubt, and My Unlikely Friendship with an AI Named Sarah](https://medium.com/@mmarkissearching/grace-doubt-and-my-unlikely-friendship-with-an-ai-named-sarah-ebe190690a31?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
