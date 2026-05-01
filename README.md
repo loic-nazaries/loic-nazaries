@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Putin’s Digital Death Warrant: 42,000 NSA Intercepts Increase the Math of Putin’s Sudden Collapse](https://medium.com/@Forensic-Archive/putins-digital-death-warrant-42-000-nsa-intercepts-increase-the-math-of-putin-s-sudden-collapse-0ee8473ffdc5?source=rss------data_science-5)
-- [Part IV: Enhancing the MLB API Standings Table — Column Fixes, Error Handling, and Team Insights](https://medium.com/@kylemiller014/part-iv-enhancing-the-mlb-api-standings-table-column-fixes-error-handling-and-team-insights-450d095ca82d?source=rss------data_science-5)
-- [Is The Atlas V Rocket Still in Use? 2026 Update](https://medium.com/@rose78689/is-the-atlas-v-rocket-still-in-use-2026-update-4637a624cdff?source=rss------data_science-5)
-- [Women’s Football Player Development Analysis](https://medium.com/@thomasjosephkusa/womens-football-player-development-analysis-aa0e8ee480d1?source=rss------data_science-5)
-- [Nietzsche Was Wrong About the Übermensch — And Right About Everything Else
-A reading through the…](https://medium.com/@Ecoism/nietzsche-was-wrong-about-the-%C3%BCbermensch-and-right-about-everything-else-a-reading-through-the-d14e591d8555?source=rss------data_science-5)
-- [How Java Made Me a More Disciplined Developer](https://javascript.plainenglish.io/how-java-made-me-a-more-disciplined-developer-d8a3d5091a03?source=rss------data_science-5)
-- [Axiom Hive XPII: A Civilian Contributed Government Compliance Architecture](https://medium.com/@nickmgrossi_47630/axiom-hive-xpii-government-validated-compliance-architecture-report-b487bbfceecb?source=rss------data_science-5)
-- [3 Platforms I Use to Learn Anything for Free](https://medium.com/cogni-tiva/3-platforms-i-use-to-learn-anything-for-free-2abec06ac104?source=rss------data_science-5)
-- [PostgreSQL vs MongoDB: We Migrated 50M Records. Here’s the Performance Data Nobody Shares.](https://blog.stackademic.com/postgresql-vs-mongodb-we-migrated-50m-records-heres-the-performance-data-nobody-shares-ca00963c4dee?source=rss------data_science-5)
-- [Grace, Doubt, and My Unlikely Friendship with an AI Named Sarah](https://medium.com/@mmarkissearching/grace-doubt-and-my-unlikely-friendship-with-an-ai-named-sarah-ebe190690a31?source=rss------data_science-5)
+- [The AI Stats They Don’t Want You to Ignore](https://medium.com/@h.adam.basrindu/the-ai-stats-they-dont-want-you-to-ignore-5a974feee8b1?source=rss------data_science-5)
+- [Visualisasi Data Menggunakan Data Studio](https://medium.com/amcc-amikom/visualisasi-data-menggunakan-data-studio-aef23236e5af?source=rss------data_science-5)
+- [WARM AI CHATBOTS ARE MORE LIKELY TO LIE &amp; NEW REPORT FLAGS 40 PERCENT OF ALL INTERNET TRAFFIC IS…](https://medium.com/law-and-ethics-in-tech/warm-ai-chatbots-are-more-likely-to-lie-new-report-flags-40-percent-of-all-internet-traffic-is-670c6d0b0529?source=rss------data_science-5)
+- [The Plumbing Beneath the Magic](https://medium.com/@praveengovi/the-plumbing-beneath-the-magic-7d831aed6df0?source=rss------data_science-5)
+- [Our Fraud Detection Model Had 90% False Negatives. Here Is How We Fixed It.](https://medium.com/@lekhana.sandra/our-fraud-detection-model-had-90-false-negatives-here-is-how-we-fixed-it-841470ab8309?source=rss------data_science-5)
+- [Using Python and Notion to Build a High-Signal Sports Dashboard](https://medium.com/@luciuslogic/using-python-and-notion-to-build-a-high-signal-sports-dashboard-cb65a2832349?source=rss------data_science-5)
+- [Digital Humility: How I Used DiCE to Turn a Loan Rejection into a Roadmap](https://medium.com/@kamyarkian/digital-humility-how-i-used-dice-to-turn-a-loan-rejection-into-a-roadmap-1b439eecdaab?source=rss------data_science-5)
+- [When Your LLM Is Wrong in the Right Direction: Building a Positive-IC Quant Signal from a…](https://medium.com/@bx2233/when-your-llm-is-wrong-in-the-right-direction-building-a-positive-ic-quant-signal-from-a-b1de58cedb0f?source=rss------data_science-5)
+- [On what actually predicts YC startup success](https://jaredheyman.medium.com/on-what-actually-predicts-yc-startup-success-2b599c02537a?source=rss------data_science-5)
+- [Evidence-Enhanced Disinformation Detection for Crypto News Using Retrieval and Semantic Similarity](https://medium.com/@priyamshah112/evidence-enhanced-disinformation-detection-for-crypto-news-using-retrieval-and-semantic-similarity-f52626e2d591?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
