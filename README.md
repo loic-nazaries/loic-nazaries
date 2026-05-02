@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The AI Stats They Don’t Want You to Ignore](https://medium.com/@h.adam.basrindu/the-ai-stats-they-dont-want-you-to-ignore-5a974feee8b1?source=rss------data_science-5)
-- [Visualisasi Data Menggunakan Data Studio](https://medium.com/amcc-amikom/visualisasi-data-menggunakan-data-studio-aef23236e5af?source=rss------data_science-5)
-- [WARM AI CHATBOTS ARE MORE LIKELY TO LIE &amp; NEW REPORT FLAGS 40 PERCENT OF ALL INTERNET TRAFFIC IS…](https://medium.com/law-and-ethics-in-tech/warm-ai-chatbots-are-more-likely-to-lie-new-report-flags-40-percent-of-all-internet-traffic-is-670c6d0b0529?source=rss------data_science-5)
-- [The Plumbing Beneath the Magic](https://medium.com/@praveengovi/the-plumbing-beneath-the-magic-7d831aed6df0?source=rss------data_science-5)
-- [Our Fraud Detection Model Had 90% False Negatives. Here Is How We Fixed It.](https://medium.com/@lekhana.sandra/our-fraud-detection-model-had-90-false-negatives-here-is-how-we-fixed-it-841470ab8309?source=rss------data_science-5)
-- [Using Python and Notion to Build a High-Signal Sports Dashboard](https://medium.com/@luciuslogic/using-python-and-notion-to-build-a-high-signal-sports-dashboard-cb65a2832349?source=rss------data_science-5)
-- [Digital Humility: How I Used DiCE to Turn a Loan Rejection into a Roadmap](https://medium.com/@kamyarkian/digital-humility-how-i-used-dice-to-turn-a-loan-rejection-into-a-roadmap-1b439eecdaab?source=rss------data_science-5)
-- [When Your LLM Is Wrong in the Right Direction: Building a Positive-IC Quant Signal from a…](https://medium.com/@bx2233/when-your-llm-is-wrong-in-the-right-direction-building-a-positive-ic-quant-signal-from-a-b1de58cedb0f?source=rss------data_science-5)
-- [On what actually predicts YC startup success](https://jaredheyman.medium.com/on-what-actually-predicts-yc-startup-success-2b599c02537a?source=rss------data_science-5)
-- [Evidence-Enhanced Disinformation Detection for Crypto News Using Retrieval and Semantic Similarity](https://medium.com/@priyamshah112/evidence-enhanced-disinformation-detection-for-crypto-news-using-retrieval-and-semantic-similarity-f52626e2d591?source=rss------data_science-5)
+- [The Ghost in the Machine: Why the Future of Work is More Human Than Ever](https://medium.com/@bzhwmn/the-ghost-in-the-machine-why-the-future-of-work-is-more-human-than-ever-ec0e78620dbb?source=rss------data_science-5)
+- [How Data Analytics Reveals the Future of the Automotive Industry: A Power BI Case Study](https://medium.com/@patricksituma24/how-data-analytics-reveals-the-future-of-the-automotive-industry-a-power-bi-case-study-62ae5df05cc3?source=rss------data_science-5)
+- [Scope 3 Is Not Just a Carbon Accounting Problem — It Is a Data Architecture Challenge](https://medium.com/@winston.liang/scope-3-is-not-just-a-carbon-accounting-problem-it-is-a-data-architecture-challenge-dd4965c3b316?source=rss------data_science-5)
+- [How We Find Invisible Worlds: The Science Behind Exoplanet Detection](https://medium.com/@amberhiggins961/how-we-find-invisible-worlds-the-science-behind-exoplanet-detection-d1b7088bd5e5?source=rss------data_science-5)
+- [Predicting Rainfall and Flood Risk in Nigeria: A Data-Driven Preparedness Guide](https://medium.com/@what_does_data_say/predicting-rainfall-and-flood-risk-in-nigeria-a-data-driven-preparedness-guide-eb2be762822a?source=rss------data_science-5)
+- [The Hidden Decay of Trading Signals: Why Equity Curves Break Too Late](https://medium.com/@amit.943c/the-hidden-decay-of-trading-signals-why-equity-curves-break-too-late-af79a5373e04?source=rss------data_science-5)
+- [The Ghost in the Machine: Why the May 2026 Data Wipes Aren’t Just ‘Cyberattacks’](https://unredactedinstitutionallogs.medium.com/the-ghost-in-the-machine-why-the-may-2026-data-wipes-arent-just-cyberattacks-861d662b92c8?source=rss------data_science-5)
+- [Convex Optimization in Machine Learning](https://medium.com/@sirtonylivins/convex-optimization-in-machine-learning-027843ca3db8?source=rss------data_science-5)
+- [RAG, Uncut: Every Chunking &amp; Retrieval Method You Need to Know](https://medium.com/@nazeer.td/rag-uncut-every-chunking-retrieval-method-you-need-to-know-6ac600961e82?source=rss------data_science-5)
+- [Does the MCP Died ?](https://generativeai.pub/does-the-mcp-died-a0886610f612?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
