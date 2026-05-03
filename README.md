@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Ghost in the Machine: Why the Future of Work is More Human Than Ever](https://medium.com/@bzhwmn/the-ghost-in-the-machine-why-the-future-of-work-is-more-human-than-ever-ec0e78620dbb?source=rss------data_science-5)
-- [How Data Analytics Reveals the Future of the Automotive Industry: A Power BI Case Study](https://medium.com/@patricksituma24/how-data-analytics-reveals-the-future-of-the-automotive-industry-a-power-bi-case-study-62ae5df05cc3?source=rss------data_science-5)
-- [Scope 3 Is Not Just a Carbon Accounting Problem — It Is a Data Architecture Challenge](https://medium.com/@winston.liang/scope-3-is-not-just-a-carbon-accounting-problem-it-is-a-data-architecture-challenge-dd4965c3b316?source=rss------data_science-5)
-- [How We Find Invisible Worlds: The Science Behind Exoplanet Detection](https://medium.com/@amberhiggins961/how-we-find-invisible-worlds-the-science-behind-exoplanet-detection-d1b7088bd5e5?source=rss------data_science-5)
-- [Predicting Rainfall and Flood Risk in Nigeria: A Data-Driven Preparedness Guide](https://medium.com/@what_does_data_say/predicting-rainfall-and-flood-risk-in-nigeria-a-data-driven-preparedness-guide-eb2be762822a?source=rss------data_science-5)
-- [The Hidden Decay of Trading Signals: Why Equity Curves Break Too Late](https://medium.com/@amit.943c/the-hidden-decay-of-trading-signals-why-equity-curves-break-too-late-af79a5373e04?source=rss------data_science-5)
-- [The Ghost in the Machine: Why the May 2026 Data Wipes Aren’t Just ‘Cyberattacks’](https://unredactedinstitutionallogs.medium.com/the-ghost-in-the-machine-why-the-may-2026-data-wipes-arent-just-cyberattacks-861d662b92c8?source=rss------data_science-5)
-- [Convex Optimization in Machine Learning](https://medium.com/@sirtonylivins/convex-optimization-in-machine-learning-027843ca3db8?source=rss------data_science-5)
-- [RAG, Uncut: Every Chunking &amp; Retrieval Method You Need to Know](https://medium.com/@nazeer.td/rag-uncut-every-chunking-retrieval-method-you-need-to-know-6ac600961e82?source=rss------data_science-5)
-- [Does the MCP Died ?](https://generativeai.pub/does-the-mcp-died-a0886610f612?source=rss------data_science-5)
+- [The Impact of AI Colonialism on Privacy &amp; Reliable Data Collection](https://medium.com/@gauriSreekumar/the-impact-of-ai-colonialism-on-privacy-reliable-data-collection-61922dd747cf?source=rss------data_science-5)
+- [7 Python Libraries That Instantly Upgraded My Workflow](https://blog.stackademic.com/7-python-libraries-that-instantly-upgraded-my-workflow-2c30e34c07ed?source=rss------data_science-5)
+- [Rethinking HTTP Requests in Python: When the Standard Library Is Enough](https://blog.stackademic.com/rethinking-http-requests-in-python-when-the-standard-library-is-enough-721d0709991f?source=rss------data_science-5)
+- [The Rise of the Transactional Agent: From Conversational AI to Autonomous Commerce](https://medium.com/@w.lacerda/the-rise-of-the-transactional-agent-from-conversational-ai-to-autonomous-commerce-d78c6e5406d7?source=rss------data_science-5)
+- [Data Science is More than Just Algorithms](https://medium.com/@kahess/data-science-is-more-than-just-algorithms-08574d33c574?source=rss------data_science-5)
+- [The Data Science Process: From Raw Data to Clear Communication](https://medium.com/@bryanemer/the-data-science-process-from-raw-data-to-clear-communication-1cef0c463f0c?source=rss------data_science-5)
+- [Introduction to NLP &amp; Token Classification](https://medium.com/@veeranna.kunusothu7/introduction-to-nlp-token-classification-34be3aae84c7?source=rss------data_science-5)
+- [Holographic Universe explained](https://medium.com/@jimccarterjr/holographic-universe-explained-ae506bc90057?source=rss------data_science-5)
+- [Attribution Models for Data Scientists: A Beginner’s Guide to Giving Credit Where It Is Actually…](https://medium.com/@rccareers3004/attribution-models-for-data-scientists-a-beginners-guide-to-giving-credit-where-it-is-actually-6ea1603234a8?source=rss------data_science-5)
+- [Bisakah Atribut Produk Memprediksi Harga Pakaian? Investigasi Machine Learning](https://medium.com/@nakita.raisya.gezkarra31/bisakah-atribut-produk-memprediksi-harga-pakaian-investigasi-machine-learning-945cda34506f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
