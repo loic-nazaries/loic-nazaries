@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Impact of AI Colonialism on Privacy &amp; Reliable Data Collection](https://medium.com/@gauriSreekumar/the-impact-of-ai-colonialism-on-privacy-reliable-data-collection-61922dd747cf?source=rss------data_science-5)
-- [7 Python Libraries That Instantly Upgraded My Workflow](https://blog.stackademic.com/7-python-libraries-that-instantly-upgraded-my-workflow-2c30e34c07ed?source=rss------data_science-5)
-- [Rethinking HTTP Requests in Python: When the Standard Library Is Enough](https://blog.stackademic.com/rethinking-http-requests-in-python-when-the-standard-library-is-enough-721d0709991f?source=rss------data_science-5)
-- [The Rise of the Transactional Agent: From Conversational AI to Autonomous Commerce](https://medium.com/@w.lacerda/the-rise-of-the-transactional-agent-from-conversational-ai-to-autonomous-commerce-d78c6e5406d7?source=rss------data_science-5)
-- [Data Science is More than Just Algorithms](https://medium.com/@kahess/data-science-is-more-than-just-algorithms-08574d33c574?source=rss------data_science-5)
-- [The Data Science Process: From Raw Data to Clear Communication](https://medium.com/@bryanemer/the-data-science-process-from-raw-data-to-clear-communication-1cef0c463f0c?source=rss------data_science-5)
-- [Introduction to NLP &amp; Token Classification](https://medium.com/@veeranna.kunusothu7/introduction-to-nlp-token-classification-34be3aae84c7?source=rss------data_science-5)
-- [Holographic Universe explained](https://medium.com/@jimccarterjr/holographic-universe-explained-ae506bc90057?source=rss------data_science-5)
-- [Attribution Models for Data Scientists: A Beginner’s Guide to Giving Credit Where It Is Actually…](https://medium.com/@rccareers3004/attribution-models-for-data-scientists-a-beginners-guide-to-giving-credit-where-it-is-actually-6ea1603234a8?source=rss------data_science-5)
-- [Bisakah Atribut Produk Memprediksi Harga Pakaian? Investigasi Machine Learning](https://medium.com/@nakita.raisya.gezkarra31/bisakah-atribut-produk-memprediksi-harga-pakaian-investigasi-machine-learning-945cda34506f?source=rss------data_science-5)
+- [More Data Won’t Fix Your Problem -Better Thinking Will](https://medium.com/towards-data-engineering/more-data-wont-fix-your-problem-better-thinking-will-d80e5c178345?source=rss------data_science-5)
+- [The Cube With Infinite Holes](https://medium.com/@vplevris/the-cube-with-infinite-holes-3479752dceea?source=rss------data_science-5)
+- [Become a Data Science Translator](https://medium.com/@jimmyeduncan/become-a-data-science-translator-e51799601c79?source=rss------data_science-5)
+- [NumPy for Data Science: The Complete Beginner-to-Practical Guide](https://sudhamsr.medium.com/numpy-for-data-science-the-complete-beginner-to-practical-guide-6d5dfbfe2080?source=rss------data_science-5)
+- [Date &amp; Time in Python](https://sudhamsr.medium.com/date-time-in-python-61dfe587833b?source=rss------data_science-5)
+- [Are you considering entering a data science master’s program?](https://medium.com/@smcfarland95/are-you-considering-entering-a-data-science-masters-program-41ee8ead7b78?source=rss------data_science-5)
+- [Building an Adaptive Trading Strategy with HMM &amp; GARCH](https://medium.com/@aleksbudzanowski/building-an-adaptive-trading-strategy-with-hmm-garch-052303710936?source=rss------data_science-5)
+- [Three Ways Data Science Permeates Our Lives](https://medium.com/@mcclatchybresa017/three-ways-data-science-permeates-our-lives-06b3789670ce?source=rss------data_science-5)
+- [Data Science Isn’t Just Writing Code — Here’s What I Learned](https://medium.com/@michael.alvarado1234/data-science-isnt-just-writing-code-here-s-what-i-learned-41e4244dbb55?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
