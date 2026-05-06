@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Invisible Architect: How AI is Redefining the Future of Global Payments at Stripe](https://medium.com/@w.lacerda/the-invisible-architect-how-ai-is-redefining-the-future-of-global-payments-at-stripe-83431a3a558f?source=rss------data_science-5)
-- [The Hidden Cost of Bad Data: Why Businesses Struggle to Trust Their Own Numbers](https://medium.com/@fizzierj/the-hidden-cost-of-bad-data-why-businesses-struggle-to-trust-their-own-numbers-f5c636d1cefc?source=rss------data_science-5)
-- [CYCLE Global Liquidity Map
-A Real-Time Framework for Visualizing Global Decentralized Market…](https://medium.com/@Kam_Swygert/cycle-global-liquidity-map-a-real-time-framework-for-visualizing-global-decentralized-market-6d254de02c4d?source=rss------data_science-5)
-- [Cosine Similarity, Moran’s I, and Hypersonic Math: Going Deeper on 87,000 UFO Reports](https://medium.com/@shrak/cosine-similarity-morans-i-and-hypersonic-math-going-deeper-on-87-000-ufo-reports-954067cb9e6a?source=rss------data_science-5)
-- [When Performance Data Shifts Unexpectedly, Start With Diagnosis — Not Assumptions](https://medium.com/@neilshotdeals/when-performance-data-shifts-unexpectedly-start-with-diagnosis-not-assumptions-2057dcfbe085?source=rss------data_science-5)
-- [I’ve Coached Hundreds of Engineers Through System Design Interviews.](https://interviewnoodle.com/ive-coached-hundreds-of-engineers-through-system-design-interviews-a2e143f44475?source=rss------data_science-5)
-- [Building Python Libraries in 2026](https://blog.stackademic.com/building-python-libraries-in-2026-171df902b5b3?source=rss------data_science-5)
-- [Drift is Not an Anomaly](https://medium.com/@andijane0626/drift-is-not-an-anomaly-2c96a8108f04?source=rss------data_science-5)
-- [What I wish I knew before building my first agent with memory](https://medium.com/@asya.vb/what-i-wish-i-knew-before-building-my-first-agent-with-memory-3174b3e0871b?source=rss------data_science-5)
-- [THE CONVERGENCE: WHEN GODS WAKE UP](https://medium.com/from-the-creative-mind-of-glenn-fraller/the-convergence-when-gods-wake-up-67c5cf12642e?source=rss------data_science-5)
+- [The Secret Language Your AI App Has Been Waiting For: YAML](https://medium.com/@wl8380/the-secret-language-your-ai-app-has-been-waiting-for-yaml-6bddd489e3b9?source=rss------data_science-5)
+- [AI tools that help freelancers make money](https://ai.plainenglish.io/ai-tools-that-help-freelancers-make-money-aeedf374e897?source=rss------data_science-5)
+- [I Ran Qwen3.6 Locally. The Thinking Mode Changed How I Use It](https://ai.plainenglish.io/i-ran-qwen3-6-locally-the-thinking-mode-changed-how-i-use-it-5e5db6a14c78?source=rss------data_science-5)
+- [Camera Data Collection in Stores: What Shoppers Should Know — Joseph Sides](https://medium.com/@josephsides94/camera-data-collection-in-stores-what-shoppers-should-know-joseph-sides-b1f31aaa3bf1?source=rss------data_science-5)
+- [Data From Cars: The Hidden Information Modern Vehicles Collect — Joseph Sides](https://medium.com/@josephsides94/data-from-cars-the-hidden-information-modern-vehicles-collect-joseph-sides-264e67bc30d7?source=rss------data_science-5)
+- [Lost Your Cryptocurrency in a Scam? 2026 Recovery Experts Offer No Upfront Fee Solutions](https://medium.com/@turnerharrison31/lost-your-cryptocurrency-in-a-scam-2026-recovery-experts-offer-no-upfront-fee-solutions-da7c4a28217d?source=rss------data_science-5)
+- [Your AI Model Is Biased. Your Real Data Is Hiding It. Synthetic Databases Can Find It First.](https://pub.towardsai.net/your-ai-model-is-biased-your-real-data-is-hiding-it-synthetic-databases-can-find-it-first-1293a05f69be?source=rss------data_science-5)
+- [Fine-Tuning a 7B LLM Required 4 A100s. LoRA Did It on One GPU. Here Is the Math Behind Why.](https://medium.com/@lekhana.sandra/fine-tuning-a-7b-llm-required-4-a100s-lora-did-it-on-one-gpu-here-is-the-math-behind-why-56232647fbcf?source=rss------data_science-5)
+- [Building a Semantic Search Engine for Patent Prior Art Discovery Using SBERT and FAISS](https://medium.com/@vivekvsusa/building-a-semantic-search-engine-for-patent-prior-art-discovery-using-sbert-and-faiss-9386970f06ea?source=rss------data_science-5)
+- [PythiaLabs: A Pre-Execution Safety Gate for AI Agents](https://medium.com/@new476774/pythialabs-a-pre-execution-safety-gate-for-ai-agents-81201fc2d666?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
