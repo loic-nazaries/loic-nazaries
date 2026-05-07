@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Secret Language Your AI App Has Been Waiting For: YAML](https://medium.com/@wl8380/the-secret-language-your-ai-app-has-been-waiting-for-yaml-6bddd489e3b9?source=rss------data_science-5)
-- [AI tools that help freelancers make money](https://ai.plainenglish.io/ai-tools-that-help-freelancers-make-money-aeedf374e897?source=rss------data_science-5)
-- [I Ran Qwen3.6 Locally. The Thinking Mode Changed How I Use It](https://ai.plainenglish.io/i-ran-qwen3-6-locally-the-thinking-mode-changed-how-i-use-it-5e5db6a14c78?source=rss------data_science-5)
-- [Camera Data Collection in Stores: What Shoppers Should Know — Joseph Sides](https://medium.com/@josephsides94/camera-data-collection-in-stores-what-shoppers-should-know-joseph-sides-b1f31aaa3bf1?source=rss------data_science-5)
-- [Data From Cars: The Hidden Information Modern Vehicles Collect — Joseph Sides](https://medium.com/@josephsides94/data-from-cars-the-hidden-information-modern-vehicles-collect-joseph-sides-264e67bc30d7?source=rss------data_science-5)
-- [Lost Your Cryptocurrency in a Scam? 2026 Recovery Experts Offer No Upfront Fee Solutions](https://medium.com/@turnerharrison31/lost-your-cryptocurrency-in-a-scam-2026-recovery-experts-offer-no-upfront-fee-solutions-da7c4a28217d?source=rss------data_science-5)
-- [Your AI Model Is Biased. Your Real Data Is Hiding It. Synthetic Databases Can Find It First.](https://pub.towardsai.net/your-ai-model-is-biased-your-real-data-is-hiding-it-synthetic-databases-can-find-it-first-1293a05f69be?source=rss------data_science-5)
-- [Fine-Tuning a 7B LLM Required 4 A100s. LoRA Did It on One GPU. Here Is the Math Behind Why.](https://medium.com/@lekhana.sandra/fine-tuning-a-7b-llm-required-4-a100s-lora-did-it-on-one-gpu-here-is-the-math-behind-why-56232647fbcf?source=rss------data_science-5)
-- [Building a Semantic Search Engine for Patent Prior Art Discovery Using SBERT and FAISS](https://medium.com/@vivekvsusa/building-a-semantic-search-engine-for-patent-prior-art-discovery-using-sbert-and-faiss-9386970f06ea?source=rss------data_science-5)
-- [PythiaLabs: A Pre-Execution Safety Gate for AI Agents](https://medium.com/@new476774/pythialabs-a-pre-execution-safety-gate-for-ai-agents-81201fc2d666?source=rss------data_science-5)
+- [Care Transition Efficiency &amp; Outcome Analytics](https://medium.com/@vaishakh_sz/care-transition-efficiency-outcome-analytics-484fe892b951?source=rss------data_science-5)
+- [SQL for BI Analysis: Thinking in Metrics, Grain, and Question](https://medium.com/@hanxuyang0826/sql-for-bi-analysis-thinking-in-metrics-grain-and-question-55e03e4bd44e?source=rss------data_science-5)
+- [Will AI Replace Data Analyst or Help Analysts Become More Impactful and Precise?](https://medium.com/@forge_team/will-ai-replace-data-analyst-or-help-analysts-become-more-impactful-and-precise-e0eac461a9dd?source=rss------data_science-5)
+- [Cosmos-2570 Mystery Solved: Russia Deployed Three “Inspector” Satellites in 27 Hours From Plesetsk](https://medium.com/@Forensic-Archive/cosmos-2570-mystery-solved-russia-deployed-three-inspector-satellites-in-27-hours-from-plesetsk-b5c6b6882489?source=rss------data_science-5)
+- [Russia’s Kosmos-2542/2543 Stalked USA-245 at 50 km — and Ended Space Sanctuary](https://medium.com/@Forensic-Archive/russias-kosmos-2542-2543-stalked-usa-245-at-50-km-and-ended-space-sanctuary-1029987f3b22?source=rss------data_science-5)
+- [Your Model Can Train. But Can It Predict?](https://medium.com/@ftdjxcx/your-model-can-train-but-can-it-predict-ee18674b2338?source=rss------data_science-5)
+- [Former les leaders de demain :](https://medium.com/@dorteliphete00/former-les-leaders-de-demain-c0b2c33b25ad?source=rss------data_science-5)
+- [09338273773شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@adggfcbjfdx/09338273773%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a091eb16303a?source=rss------data_science-5)
+- [0933#شماره خاله تهران#شماره خاله#شماره خاله کرج#شماره خاله اصفهان#شماره خاله شیراز#شماره خاله…](https://medium.com/@adggfcbjfdx/0933-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-8de9e5986353?source=rss------data_science-5)
+- [Predicting My SRP Bill With SARIMAX — A Phoenix Homeowner’s ML Project](https://medium.com/@slosetty18/predicting-my-srp-bill-with-sarimax-a-phoenix-homeowners-ml-project-23b27d0e4189?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
