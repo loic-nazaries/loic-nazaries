@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [GOOGLE CHROME SECRETLY INSTALLS 4GB GEMINI AI MODEL ON USER DEVICES](https://medium.com/law-and-ethics-in-tech/google-chrome-secretly-installs-4gb-gemini-ai-model-on-user-devices-291a84d04e9b?source=rss------data_science-5)
-- [How Constant Rejection Taught Me to Stop Chasing Perfect Analytics — and Build Genuine Resilience.](https://conline22.medium.com/how-constant-rejection-taught-me-to-stop-chasing-perfect-analytics-and-build-genuine-resilience-38dd12e1227d?source=rss------data_science-5)
-- [Causal Inference Explained: From Correlation to Actual Answers](https://prateekapoor.medium.com/causal-inference-explained-from-correlation-to-actual-answers-a342812e3682?source=rss------data_science-5)
-- [Vitiligo Recovery Story — What I Saw After 4,300 Days](https://medium.com/@shinhuni0624/vitiligo-recovery-story-what-i-saw-after-4-300-days-56fb9e185eb5?source=rss------data_science-5)
-- [PostgreSQL Was Fine. Our Queries Were the Problem. It Took Us 8 Months to Admit It.](https://blog.stackademic.com/postgresql-was-fine-our-queries-were-the-problem-it-took-us-8-months-to-admit-it-ddf87f548c23?source=rss------data_science-5)
-- [Geleceğin Dünyasında Herkesin Kazanması Gereken 14 Temel Yetenek](https://medium.com/@fhmd2003/gelece%C4%9Fin-d%C3%BCnyas%C4%B1nda-herkesin-kazanmas%C4%B1-gereken-14-temel-yetenek-bc09aef52989?source=rss------data_science-5)
-- [Data Preprocessing : A Comprehensive Guide to Scaling, Encoding, and Distance Metrics](https://medium.com/@mzajbe/data-preprocessing-a-comprehensive-guide-to-scaling-encoding-and-distance-metrics-c93812a93b4a?source=rss------data_science-5)
-- [Has the Women’s World Cup Become More Offensive? The Numbers Are Not That Simple](https://medium.com/@mariana.barboza/has-the-womens-world-cup-become-more-offensive-the-numbers-are-not-that-simple-62d66471147f?source=rss------data_science-5)
-- [Why Clipping and Overlay Operations Fail in GeoPandas](https://medium.com/python-gis-workflows/why-clipping-and-overlay-operations-fail-in-geopandas-e5e1272921bd?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-16e2b2f26a49?source=rss------data_science-5)
+- [Your company has more dashboards than decisions. Here’s why.](https://medium.com/@miguelromero.global/your-company-has-more-dashboards-than-decisions-heres-why-db5a3ea94979?source=rss------data_science-5)
+- [The AI Cold War Is Already Here](https://medium.com/@kirkbradford/the-ai-cold-war-is-already-here-1fb57ff34919?source=rss------data_science-5)
+- [One Equation to Rule Them All: How the Ghidan Framework Reproduces General Relativity using Bloch…](https://medium.com/@fghidan/one-equation-to-rule-them-all-how-the-ghidan-framework-reproduces-general-relativity-and-goes-3f5018611625?source=rss------data_science-5)
+- [Open 3D seismic data for ML: a field guide](https://medium.com/@dbogoedov/open-3d-seismic-data-for-ml-a-field-guide-1055e84ce13d?source=rss------data_science-5)
+- [Introduction to Delta Live Tables](https://oindrila-chakraborty88.medium.com/introduction-to-delta-live-tables-245e93971675?source=rss------data_science-5)
+- [Qualitative and quantitative data in business](https://medium.com/@saikumar938104/qualitative-and-quantitative-data-in-business-786f1359489e?source=rss------data_science-5)
+- [Avi Loeb Analyzes the First UFO File Release](https://avi-loeb.medium.com/avi-loeb-analyzes-the-first-ufo-file-release-7b6b859a103c?source=rss------data_science-5)
+- [Always, the data is wrong](https://medium.com/@saikumar938104/always-the-data-is-wrong-c0441b741faa?source=rss------data_science-5)
+- [ML Pipelines for Data Scientists: A Beginner’s Guide to Automating Everything Between Raw Data and…](https://medium.com/@rccareers3004/ml-pipelines-for-data-scientists-a-beginners-guide-to-automating-everything-between-raw-data-and-6d3232905b65?source=rss------data_science-5)
+- [ATLAS COMPLETE WORKING DOCUMENT Attention with Topological Latent-Attractor Semantics A…](https://medium.com/@tmcrg85/atlas-complete-working-document-attention-with-topological-latent-attractor-semantics-a-c49b82010b8c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
