@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Your company has more dashboards than decisions. Here’s why.](https://medium.com/@miguelromero.global/your-company-has-more-dashboards-than-decisions-heres-why-db5a3ea94979?source=rss------data_science-5)
-- [The AI Cold War Is Already Here](https://medium.com/@kirkbradford/the-ai-cold-war-is-already-here-1fb57ff34919?source=rss------data_science-5)
-- [One Equation to Rule Them All: How the Ghidan Framework Reproduces General Relativity using Bloch…](https://medium.com/@fghidan/one-equation-to-rule-them-all-how-the-ghidan-framework-reproduces-general-relativity-and-goes-3f5018611625?source=rss------data_science-5)
-- [Open 3D seismic data for ML: a field guide](https://medium.com/@dbogoedov/open-3d-seismic-data-for-ml-a-field-guide-1055e84ce13d?source=rss------data_science-5)
-- [Introduction to Delta Live Tables](https://oindrila-chakraborty88.medium.com/introduction-to-delta-live-tables-245e93971675?source=rss------data_science-5)
-- [Qualitative and quantitative data in business](https://medium.com/@saikumar938104/qualitative-and-quantitative-data-in-business-786f1359489e?source=rss------data_science-5)
-- [Avi Loeb Analyzes the First UFO File Release](https://avi-loeb.medium.com/avi-loeb-analyzes-the-first-ufo-file-release-7b6b859a103c?source=rss------data_science-5)
-- [Always, the data is wrong](https://medium.com/@saikumar938104/always-the-data-is-wrong-c0441b741faa?source=rss------data_science-5)
-- [ML Pipelines for Data Scientists: A Beginner’s Guide to Automating Everything Between Raw Data and…](https://medium.com/@rccareers3004/ml-pipelines-for-data-scientists-a-beginners-guide-to-automating-everything-between-raw-data-and-6d3232905b65?source=rss------data_science-5)
-- [ATLAS COMPLETE WORKING DOCUMENT Attention with Topological Latent-Attractor Semantics A…](https://medium.com/@tmcrg85/atlas-complete-working-document-attention-with-topological-latent-attractor-semantics-a-c49b82010b8c?source=rss------data_science-5)
+- [Agent Skills — Intuitively and Exhaustively Explained](https://medium.com/intuitively-and-exhaustively-explained/agent-skills-intuitively-and-exhaustively-explained-72fe53d36e7a?source=rss------data_science-5)
+- [Remote Tech Jobs Are Disappearing in 2026](https://medium.com/data-science-collective/remote-tech-jobs-are-disappearing-in-2026-023cb4c9e42a?source=rss------data_science-5)
+- [UAP: Trump, Congress, Pentagon Push NASA and Science Toward AI and Fuzzy Logic](https://medium.com/@rafi.glick/uap-trump-congress-pentagon-push-nasa-and-science-toward-ai-and-fuzzy-logic-75309e994f20?source=rss------data_science-5)
+- [I Finally Figures It Out: How I Hit 160k Sessions Without the Fluff](https://medium.com/@gurlekyunusemre2/i-finally-figures-it-out-how-i-hit-160k-sessions-without-the-fluff-ba75ba63e848?source=rss------data_science-5)
+- [Build the Solution First. Then Build the System.](https://medium.com/@taahaadawe/build-the-solution-first-then-build-the-system-2597bd05787a?source=rss------data_science-5)
+- [5 Weird Productivity Hacks That Actually Work &lpar;Backed by Science&rpar;](https://medium.com/@bhadboitripps005/5-weird-productivity-hacks-that-actually-work-backed-by-science-7be44e7a5e94?source=rss------data_science-5)
+- [The Hidden Language People Speak Every Day — And Why Most of Us Miss It](https://medium.com/the-gravity/the-hidden-language-people-speak-every-day-and-why-most-of-us-miss-it-43e6c88ed403?source=rss------data_science-5)
+- [Understanding Python’s dict vs collections.defaultdict: A Comprehensive Guide](https://mishraabhi8924.medium.com/understanding-pythons-dict-vs-collections-defaultdict-a-comprehensive-guide-49089ffb2df2?source=rss------data_science-5)
+- [Polymarket vs Traditional Betting: Why It’s Fundamentally Different.](https://medium.com/@vibranttconcepts/polymarket-vs-traditional-betting-why-its-fundamentally-different-37c0455a5f30?source=rss------data_science-5)
+- [5 Data Points Every Australian Founder Needs on Their Dashboard](https://medium.com/@empireone2026/5-data-points-every-australian-founder-needs-on-their-dashboard-15e5475f1811?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
