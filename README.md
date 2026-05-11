@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Agent Skills — Intuitively and Exhaustively Explained](https://medium.com/intuitively-and-exhaustively-explained/agent-skills-intuitively-and-exhaustively-explained-72fe53d36e7a?source=rss------data_science-5)
-- [Remote Tech Jobs Are Disappearing in 2026](https://medium.com/data-science-collective/remote-tech-jobs-are-disappearing-in-2026-023cb4c9e42a?source=rss------data_science-5)
-- [UAP: Trump, Congress, Pentagon Push NASA and Science Toward AI and Fuzzy Logic](https://medium.com/@rafi.glick/uap-trump-congress-pentagon-push-nasa-and-science-toward-ai-and-fuzzy-logic-75309e994f20?source=rss------data_science-5)
-- [I Finally Figures It Out: How I Hit 160k Sessions Without the Fluff](https://medium.com/@gurlekyunusemre2/i-finally-figures-it-out-how-i-hit-160k-sessions-without-the-fluff-ba75ba63e848?source=rss------data_science-5)
-- [Build the Solution First. Then Build the System.](https://medium.com/@taahaadawe/build-the-solution-first-then-build-the-system-2597bd05787a?source=rss------data_science-5)
-- [5 Weird Productivity Hacks That Actually Work &lpar;Backed by Science&rpar;](https://medium.com/@bhadboitripps005/5-weird-productivity-hacks-that-actually-work-backed-by-science-7be44e7a5e94?source=rss------data_science-5)
-- [The Hidden Language People Speak Every Day — And Why Most of Us Miss It](https://medium.com/the-gravity/the-hidden-language-people-speak-every-day-and-why-most-of-us-miss-it-43e6c88ed403?source=rss------data_science-5)
-- [Understanding Python’s dict vs collections.defaultdict: A Comprehensive Guide](https://mishraabhi8924.medium.com/understanding-pythons-dict-vs-collections-defaultdict-a-comprehensive-guide-49089ffb2df2?source=rss------data_science-5)
-- [Polymarket vs Traditional Betting: Why It’s Fundamentally Different.](https://medium.com/@vibranttconcepts/polymarket-vs-traditional-betting-why-its-fundamentally-different-37c0455a5f30?source=rss------data_science-5)
-- [5 Data Points Every Australian Founder Needs on Their Dashboard](https://medium.com/@empireone2026/5-data-points-every-australian-founder-needs-on-their-dashboard-15e5475f1811?source=rss------data_science-5)
+- [Finding the Hidden Signals in Sales Data](https://medium.com/@emily.rhodes.scoop/finding-the-hidden-signals-in-sales-data-2a96ddcf4dc1?source=rss------data_science-5)
+- [How much are set restarts worth in 2026?](https://medium.com/@jay.huskell/how-much-are-set-restarts-worth-in-2026-8d93997d731d?source=rss------data_science-5)
+- [DOOPLER FX](https://medium.com/@protopalavra/perceptual-shift-ficton-0777f78cd156?source=rss------data_science-5)
+- [Riding the Waves: A Data-Driven
+Guide to Detecting Market Bubbles and Panic Sells](https://medium.com/@wl8380/riding-the-waves-a-data-driven-guide-to-detecting-market-bubbles-and-panic-sells-202efed5f926?source=rss------data_science-5)
+- [REST vs GraphQL: How Modern APIs Deliver Data Differently](https://python.plainenglish.io/rest-vs-graphql-how-modern-apis-deliver-data-differently-3bb9af839d22?source=rss------data_science-5)
+- [Canvas Is Down as ShinyHunters Threatens to Leak Schools’ Data](https://python.plainenglish.io/canvas-is-down-as-shinyhunters-threatens-to-leak-schools-data-5c1146bfc249?source=rss------data_science-5)
+- [Stop Recomputing What You Already Paid For](https://medium.com/@garvitjindal09/stop-recomputing-what-you-already-paid-for-a91b3fffb8f1?source=rss------data_science-5)
+- [# End-to-End Flow of a Governed Sales Talk2Data Platform Using Principal Hierarchy on Databricks](https://medium.com/@tathagatachaudhuri/end-to-end-flow-of-a-governed-sales-talk2data-platform-using-principal-hierarchy-on-databricks-968266c64fd5?source=rss------data_science-5)
+- [This project aims to produce robots that serve as a support force to facilitate daily tasks and…](https://medium.com/@emrepelit39/this-project-aims-to-produce-robots-that-serve-as-a-support-force-to-facilitate-daily-tasks-and-d2330a84689d?source=rss------data_science-5)
+- [Bölüm 4: Aggregate Functions ve GROUP BY](https://medium.com/@elbuzahmet/b%C3%B6l%C3%BCm-4-aggregate-functions-ve-group-by-1c871f551675?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
