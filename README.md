@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Finding the Hidden Signals in Sales Data](https://medium.com/@emily.rhodes.scoop/finding-the-hidden-signals-in-sales-data-2a96ddcf4dc1?source=rss------data_science-5)
-- [How much are set restarts worth in 2026?](https://medium.com/@jay.huskell/how-much-are-set-restarts-worth-in-2026-8d93997d731d?source=rss------data_science-5)
-- [DOOPLER FX](https://medium.com/@protopalavra/perceptual-shift-ficton-0777f78cd156?source=rss------data_science-5)
-- [Riding the Waves: A Data-Driven
-Guide to Detecting Market Bubbles and Panic Sells](https://medium.com/@wl8380/riding-the-waves-a-data-driven-guide-to-detecting-market-bubbles-and-panic-sells-202efed5f926?source=rss------data_science-5)
-- [REST vs GraphQL: How Modern APIs Deliver Data Differently](https://python.plainenglish.io/rest-vs-graphql-how-modern-apis-deliver-data-differently-3bb9af839d22?source=rss------data_science-5)
-- [Canvas Is Down as ShinyHunters Threatens to Leak Schools’ Data](https://python.plainenglish.io/canvas-is-down-as-shinyhunters-threatens-to-leak-schools-data-5c1146bfc249?source=rss------data_science-5)
-- [Stop Recomputing What You Already Paid For](https://medium.com/@garvitjindal09/stop-recomputing-what-you-already-paid-for-a91b3fffb8f1?source=rss------data_science-5)
-- [# End-to-End Flow of a Governed Sales Talk2Data Platform Using Principal Hierarchy on Databricks](https://medium.com/@tathagatachaudhuri/end-to-end-flow-of-a-governed-sales-talk2data-platform-using-principal-hierarchy-on-databricks-968266c64fd5?source=rss------data_science-5)
-- [This project aims to produce robots that serve as a support force to facilitate daily tasks and…](https://medium.com/@emrepelit39/this-project-aims-to-produce-robots-that-serve-as-a-support-force-to-facilitate-daily-tasks-and-d2330a84689d?source=rss------data_science-5)
-- [Bölüm 4: Aggregate Functions ve GROUP BY](https://medium.com/@elbuzahmet/b%C3%B6l%C3%BCm-4-aggregate-functions-ve-group-by-1c871f551675?source=rss------data_science-5)
+- [Store-Item-demand-forecasting](https://medium.com/@DoaaA/store-item-demand-forecasting-aa91854aab1e?source=rss------data_science-5)
+- [10 Reasons Your Data Monitoring Alerts Get Ignored](https://medium.com/@hanan_44803/10-reasons-your-data-monitoring-alerts-get-ignored-fcbea3c21aa6?source=rss------data_science-5)
+- [The S-71K Silicon Autopsy: Inside the Western Microchip Skeleton of Russia’s Newest Cruise Missile](https://medium.com/@Forensic-Archive/the-s-71k-silicon-autopsy-inside-the-western-microchip-skeleton-of-russias-newest-cruise-missile-b7cf2d15a199?source=rss------data_science-5)
+- [The Great Russian Blackout: How Telegram-to-MAX Turned the People’s VPK Into a Strategic Dead Zone](https://medium.com/@Forensic-Archive/the-great-russian-blackout-how-telegram-to-max-turned-the-peoples-vpk-into-a-strategic-dead-zone-081e66c30427?source=rss------data_science-5)
+- [From Outsourced to In House: Scaling Market-Based Testing at Thumbtack](https://medium.com/life-thumbtack/bringing-market-based-testing-in-house-at-thumbtack-accafeeaa020?source=rss------data_science-5)
+- [Observability Explained: Logs, Metrics, and Traces](https://rajuhemanth456.medium.com/observability-explained-logs-metrics-and-traces-70cceabfd827?source=rss------data_science-5)
+- [Retry Mechanisms &amp; Exponential Backoff](https://rajuhemanth456.medium.com/retry-mechanisms-exponential-backoff-bc2e63111ac2?source=rss------data_science-5)
+- [From Raw Data to Decisions: Building My AI-Based DSS for Water Resource Management](https://medium.com/@saterriida/from-raw-data-to-decisions-building-my-ai-based-dss-for-water-resource-management-2f3324fe5bf4?source=rss------data_science-5)
+- [Why Should You Use a Concrete Vault?](https://medium.com/@fsllbs/why-should-you-use-a-concrete-vault-26e993529183?source=rss------data_science-5)
+- [The Best IPTV Players in 2026 – A Cord-Cutter’s Guide by Platform](https://medium.com/@karimbeblawi/the-best-iptv-players-in-2026-a-cord-cutters-guide-by-platform-a7d24e5dbf49?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
