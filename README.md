@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Store-Item-demand-forecasting](https://medium.com/@DoaaA/store-item-demand-forecasting-aa91854aab1e?source=rss------data_science-5)
-- [10 Reasons Your Data Monitoring Alerts Get Ignored](https://medium.com/@hanan_44803/10-reasons-your-data-monitoring-alerts-get-ignored-fcbea3c21aa6?source=rss------data_science-5)
-- [The S-71K Silicon Autopsy: Inside the Western Microchip Skeleton of Russia’s Newest Cruise Missile](https://medium.com/@Forensic-Archive/the-s-71k-silicon-autopsy-inside-the-western-microchip-skeleton-of-russias-newest-cruise-missile-b7cf2d15a199?source=rss------data_science-5)
-- [The Great Russian Blackout: How Telegram-to-MAX Turned the People’s VPK Into a Strategic Dead Zone](https://medium.com/@Forensic-Archive/the-great-russian-blackout-how-telegram-to-max-turned-the-peoples-vpk-into-a-strategic-dead-zone-081e66c30427?source=rss------data_science-5)
-- [From Outsourced to In House: Scaling Market-Based Testing at Thumbtack](https://medium.com/life-thumbtack/bringing-market-based-testing-in-house-at-thumbtack-accafeeaa020?source=rss------data_science-5)
-- [Observability Explained: Logs, Metrics, and Traces](https://rajuhemanth456.medium.com/observability-explained-logs-metrics-and-traces-70cceabfd827?source=rss------data_science-5)
-- [Retry Mechanisms &amp; Exponential Backoff](https://rajuhemanth456.medium.com/retry-mechanisms-exponential-backoff-bc2e63111ac2?source=rss------data_science-5)
-- [From Raw Data to Decisions: Building My AI-Based DSS for Water Resource Management](https://medium.com/@saterriida/from-raw-data-to-decisions-building-my-ai-based-dss-for-water-resource-management-2f3324fe5bf4?source=rss------data_science-5)
-- [Why Should You Use a Concrete Vault?](https://medium.com/@fsllbs/why-should-you-use-a-concrete-vault-26e993529183?source=rss------data_science-5)
-- [The Best IPTV Players in 2026 – A Cord-Cutter’s Guide by Platform](https://medium.com/@karimbeblawi/the-best-iptv-players-in-2026-a-cord-cutters-guide-by-platform-a7d24e5dbf49?source=rss------data_science-5)
+- [A Letter From 2120 to 2026](https://medium.com/@01atolagbealex01/a-letter-from-2120-to-2026-ec2a856040df?source=rss------data_science-5)
+- [Gold in the Mud - Cold in the Boardroom](https://medium.com/@ElleJayVee/gold-in-the-mud-cold-in-the-boardroom-d1732ea9c054?source=rss------data_science-5)
+- [Understanding Train-Test Split with a Simple London Real Estate Machine Learning Project](https://medium.com/@sonnguyenmau04/understanding-train-test-split-with-a-simple-london-real-estate-machine-learning-project-27c023a0c0f1?source=rss------data_science-5)
+- [Google Cloud Next 2026 Data Content](https://medium.com/google-cloud/google-cloud-next-2026-data-content-c6ecef5c9689?source=rss------data_science-5)
+- [A arte de fazer perguntas &lpar;ou, como transformar um dado correto em uma decisão ruim&rpar;](https://medium.com/@nagela.msouza/a-arte-de-fazer-perguntas-ou-como-transformar-um-dado-correto-em-uma-decis%C3%A3o-ruim-81d4e7e9b70d?source=rss------data_science-5)
+- [Redefining Digital Asset Liquidity: How WOW Exchange Empowers Global Traders](https://medium.com/@godusop69/redefining-digital-asset-liquidity-how-wow-exchange-empowers-global-traders-619e752f816e?source=rss------data_science-5)
+- [[Estudos sobre IA — 01] A Natureza Como Algoritmo](https://medium.com/@priscilaandreani/estudos-sobre-ia-01-a-natureza-como-algoritmo-078078faf7e9?source=rss------data_science-5)
+- [Your Lakehouse Architecture Is Defining Your Databricks Success](https://medium.com/@isochoa95/your-lakehouse-architecture-is-defining-your-databricks-success-fbae8ac317d9?source=rss------data_science-5)
+- [I Tested a Product Recommendation System. The Result Was “No” — and That’s the Point](https://medium.com/@barlettabc/i-tested-a-product-recommendation-system-the-result-was-no-and-thats-the-point-4449d76658a4?source=rss------data_science-5)
+- [How I Would Validate a Dashboard Before Showing It to Leadership](https://medium.com/data-science-collective/how-i-would-validate-a-dashboard-before-showing-it-to-leadership-c4b2e44d944b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
