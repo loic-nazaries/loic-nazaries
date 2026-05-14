@@ -105,16 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Letter From 2120 to 2026](https://medium.com/@01atolagbealex01/a-letter-from-2120-to-2026-ec2a856040df?source=rss------data_science-5)
-- [Gold in the Mud - Cold in the Boardroom](https://medium.com/@ElleJayVee/gold-in-the-mud-cold-in-the-boardroom-d1732ea9c054?source=rss------data_science-5)
-- [Understanding Train-Test Split with a Simple London Real Estate Machine Learning Project](https://medium.com/@sonnguyenmau04/understanding-train-test-split-with-a-simple-london-real-estate-machine-learning-project-27c023a0c0f1?source=rss------data_science-5)
-- [Google Cloud Next 2026 Data Content](https://medium.com/google-cloud/google-cloud-next-2026-data-content-c6ecef5c9689?source=rss------data_science-5)
-- [A arte de fazer perguntas &lpar;ou, como transformar um dado correto em uma decisão ruim&rpar;](https://medium.com/@nagela.msouza/a-arte-de-fazer-perguntas-ou-como-transformar-um-dado-correto-em-uma-decis%C3%A3o-ruim-81d4e7e9b70d?source=rss------data_science-5)
-- [Redefining Digital Asset Liquidity: How WOW Exchange Empowers Global Traders](https://medium.com/@godusop69/redefining-digital-asset-liquidity-how-wow-exchange-empowers-global-traders-619e752f816e?source=rss------data_science-5)
-- [[Estudos sobre IA — 01] A Natureza Como Algoritmo](https://medium.com/@priscilaandreani/estudos-sobre-ia-01-a-natureza-como-algoritmo-078078faf7e9?source=rss------data_science-5)
-- [Your Lakehouse Architecture Is Defining Your Databricks Success](https://medium.com/@isochoa95/your-lakehouse-architecture-is-defining-your-databricks-success-fbae8ac317d9?source=rss------data_science-5)
-- [I Tested a Product Recommendation System. The Result Was “No” — and That’s the Point](https://medium.com/@barlettabc/i-tested-a-product-recommendation-system-the-result-was-no-and-thats-the-point-4449d76658a4?source=rss------data_science-5)
-- [How I Would Validate a Dashboard Before Showing It to Leadership](https://medium.com/data-science-collective/how-i-would-validate-a-dashboard-before-showing-it-to-leadership-c4b2e44d944b?source=rss------data_science-5)
+- [The 2026 AI Video Production Playbook](https://medium.com/@paoloperrone/the-2026-ai-video-production-playbook-bc683d5b85da?source=rss------data_science-5)
+- [The Grid Behind AI](https://medium.com/@gauravatwork117/the-grid-behind-ai-7b7b1e791ccb?source=rss------data_science-5)
+- [The Unbearable Sadness of “Being Happy”: Why the World Happiness Report is Broken](https://medium.com/@reimaginedworld/the-unbearable-sadness-of-being-happy-why-the-world-happiness-report-is-broken-a2d1c858b9d7?source=rss------data_science-5)
+- [20 Days of Artificial Intelligence — Day 14 of 20 — Quantization](https://medium.com/@krthiak/20-days-of-artificial-intelligence-day-14-of-20-quantization-bf6691a2d712?source=rss------data_science-5)
+- [How Engineers Are Getting Found by Startups on X](https://medium.com/fonzi-ai/how-engineers-are-getting-found-by-startups-on-x-6f92c21dd5a5?source=rss------data_science-5)
+- [DevSecOps complete production pipeline covering Git &amp; GitHub, CI/CD pipelines, Docker, Kubernetes…](https://medium.com/@cdjinguet/devsecops-complete-production-pipeline-covering-git-github-ci-cd-pipelines-docker-kubernetes-8f10a0753b5c?source=rss------data_science-5)
+- [The Clustering Illusion in A/B Test Results: Seeing Patterns That Aren’t There](https://medium.com/@atticusli/the-clustering-illusion-in-a-b-test-results-seeing-patterns-that-arent-there-c1abd2105aec?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-27cd0f12c37c?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0563c3606d21?source=rss------data_science-5)
+- [“Stop waiting for perfection. Learn how I used AI to build a cleaner profile and find my voice.”](https://medium.com/the-gravity/stop-waiting-for-perfection-learn-how-i-used-ai-to-build-a-cleaner-profile-and-find-my-voice-231973dd99b4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
