@@ -105,18 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The 2026 AI Video Production Playbook](https://medium.com/@paoloperrone/the-2026-ai-video-production-playbook-bc683d5b85da?source=rss------data_science-5)
-- [The Grid Behind AI](https://medium.com/@gauravatwork117/the-grid-behind-ai-7b7b1e791ccb?source=rss------data_science-5)
-- [The Unbearable Sadness of “Being Happy”: Why the World Happiness Report is Broken](https://medium.com/@reimaginedworld/the-unbearable-sadness-of-being-happy-why-the-world-happiness-report-is-broken-a2d1c858b9d7?source=rss------data_science-5)
-- [20 Days of Artificial Intelligence — Day 14 of 20 — Quantization](https://medium.com/@krthiak/20-days-of-artificial-intelligence-day-14-of-20-quantization-bf6691a2d712?source=rss------data_science-5)
-- [How Engineers Are Getting Found by Startups on X](https://medium.com/fonzi-ai/how-engineers-are-getting-found-by-startups-on-x-6f92c21dd5a5?source=rss------data_science-5)
-- [DevSecOps complete production pipeline covering Git &amp; GitHub, CI/CD pipelines, Docker, Kubernetes…](https://medium.com/@cdjinguet/devsecops-complete-production-pipeline-covering-git-github-ci-cd-pipelines-docker-kubernetes-8f10a0753b5c?source=rss------data_science-5)
-- [The Clustering Illusion in A/B Test Results: Seeing Patterns That Aren’t There](https://medium.com/@atticusli/the-clustering-illusion-in-a-b-test-results-seeing-patterns-that-arent-there-c1abd2105aec?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-27cd0f12c37c?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0563c3606d21?source=rss------data_science-5)
-- [“Stop waiting for perfection. Learn how I used AI to build a cleaner profile and find my voice.”](https://medium.com/the-gravity/stop-waiting-for-perfection-learn-how-i-used-ai-to-build-a-cleaner-profile-and-find-my-voice-231973dd99b4?source=rss------data_science-5)
+- [The Four Knowledge Systems Almost Nobody Gets Right](https://medium.com/practical-llm-systems/the-four-knowledge-systems-almost-nobody-gets-right-276bba069592?source=rss------data_science-5)
+- [Excel untuk Data Analytics: Cara Mudah Mengolah Data untuk Pemula](https://medium.com/@ditafebyindriani14/excel-untuk-data-analytics-cara-mudah-mengolah-data-untuk-pemula-4ed8bffc6501?source=rss------data_science-5)
+- [09370673570](https://medium.com/@mmnbccxxx1nndnd/09370673570-9a058a482d6b?source=rss------data_science-5)
+- [09370673570](https://medium.com/@mmnbccxxx1nndnd/09370673570-afea73d99d7f?source=rss------data_science-5)
+- [Why is a data dictionary still imported from an LLM, and why call it Tuning?](https://antonio-aureliano.medium.com/why-is-a-data-dictionary-still-imported-from-an-llm-and-why-call-it-tuning-16023976dbd0?source=rss------data_science-5)
+- [Implementing an Item-Based Recommendation System from Scratch in Python](https://medium.com/@suhaybsana/implementing-an-item-based-recommendation-system-from-scratch-in-python-749292c1cc47?source=rss------data_science-5)
+- [What Learning About Data Encoding Changed in My Understanding of Backend Engineering](https://medium.com/@abdulakeemabdulafeez/what-learning-about-data-encoding-changed-in-my-understanding-of-backend-engineering-58b15a668b95?source=rss------data_science-5)
+- [3 AI Memory Tools for Researchers Who Need Recall Without Giving Up Control](https://medium.com/@elena.voss/3-ai-memory-tools-for-researchers-who-need-recall-without-giving-up-control-7d84348b7ff6?source=rss------data_science-5)
+- [Mirage: A Unified Virtual File System for AI Agents](https://medium.com/coding-nexus/mirage-a-unified-virtual-file-system-for-ai-agents-ecfea7fcdc13?source=rss------data_science-5)
+- [Bayesian Kelly Betting](https://medium.com/@s-vishnoi/bayesian-kelly-betting-2305bdc5d41e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
