@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Four Knowledge Systems Almost Nobody Gets Right](https://medium.com/practical-llm-systems/the-four-knowledge-systems-almost-nobody-gets-right-276bba069592?source=rss------data_science-5)
-- [Excel untuk Data Analytics: Cara Mudah Mengolah Data untuk Pemula](https://medium.com/@ditafebyindriani14/excel-untuk-data-analytics-cara-mudah-mengolah-data-untuk-pemula-4ed8bffc6501?source=rss------data_science-5)
-- [09370673570](https://medium.com/@mmnbccxxx1nndnd/09370673570-9a058a482d6b?source=rss------data_science-5)
-- [09370673570](https://medium.com/@mmnbccxxx1nndnd/09370673570-afea73d99d7f?source=rss------data_science-5)
-- [Why is a data dictionary still imported from an LLM, and why call it Tuning?](https://antonio-aureliano.medium.com/why-is-a-data-dictionary-still-imported-from-an-llm-and-why-call-it-tuning-16023976dbd0?source=rss------data_science-5)
-- [Implementing an Item-Based Recommendation System from Scratch in Python](https://medium.com/@suhaybsana/implementing-an-item-based-recommendation-system-from-scratch-in-python-749292c1cc47?source=rss------data_science-5)
-- [What Learning About Data Encoding Changed in My Understanding of Backend Engineering](https://medium.com/@abdulakeemabdulafeez/what-learning-about-data-encoding-changed-in-my-understanding-of-backend-engineering-58b15a668b95?source=rss------data_science-5)
-- [3 AI Memory Tools for Researchers Who Need Recall Without Giving Up Control](https://medium.com/@elena.voss/3-ai-memory-tools-for-researchers-who-need-recall-without-giving-up-control-7d84348b7ff6?source=rss------data_science-5)
-- [Mirage: A Unified Virtual File System for AI Agents](https://medium.com/coding-nexus/mirage-a-unified-virtual-file-system-for-ai-agents-ecfea7fcdc13?source=rss------data_science-5)
-- [Bayesian Kelly Betting](https://medium.com/@s-vishnoi/bayesian-kelly-betting-2305bdc5d41e?source=rss------data_science-5)
+- [The Missing Piece in AI: Emotional Intelligence Can’t Be Coded](https://medium.com/@airicamartel/the-missing-piece-in-ai-emotional-intelligence-cant-be-coded-4f71a48bbd33?source=rss------data_science-5)
+- [Why Water Resource Management Needs AI-Based Decision Support Systems ?](https://medium.com/@saterriida/why-water-resource-management-needs-ai-based-decision-support-systems-97517ada022b?source=rss------data_science-5)
+- [Why Researchers Are Excited About Mamba-3](https://pub.towardsai.net/why-researchers-are-excited-about-mamba-3-9c273cf4b870?source=rss------data_science-5)
+- [Supabase: Change In Policy For New Tables In Public Schema](https://medium.com/@leroyleowdev/supabase-change-in-policy-for-new-tables-in-public-schema-44b431ca87f9?source=rss------data_science-5)
+- [On-Prem vs Public Cloud for ML](https://bgweber.medium.com/on-prem-vs-public-cloud-for-ml-3fb4568bd589?source=rss------data_science-5)
+- [Long-horizon assistant memory needs state, not just retrieval](https://medium.com/@vaarunyans01/long-horizon-assistant-memory-needs-state-not-just-retrieval-1ee652c0bcb1?source=rss------data_science-5)
+- [How I Built AI Businesses That Started Earning While I Was Offline](https://blog.cubed.run/how-i-built-ai-businesses-that-started-earning-while-i-was-offline-76ac93efba7b?source=rss------data_science-5)
+- [Balinese Woodcarving Preservation With Tourism Redistribution Machine Learning Models](https://medium.com/@creamsiclebymist/preserving-balinese-woodcarving-through-tourism-redistribution-with-machine-learning-models-76823dd7dcc7?source=rss------data_science-5)
+- [How to Use AI Prompts to Write Forex Trading Analysis and Journals That Actually Make You a Better…](https://medium.com/@laviswills/how-to-use-ai-prompts-to-write-forex-trading-analysis-and-journals-that-actually-make-you-a-better-a7d986329efd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
