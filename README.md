@@ -105,15 +105,20 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Missing Piece in AI: Emotional Intelligence Can’t Be Coded](https://medium.com/@airicamartel/the-missing-piece-in-ai-emotional-intelligence-cant-be-coded-4f71a48bbd33?source=rss------data_science-5)
-- [Why Water Resource Management Needs AI-Based Decision Support Systems ?](https://medium.com/@saterriida/why-water-resource-management-needs-ai-based-decision-support-systems-97517ada022b?source=rss------data_science-5)
-- [Why Researchers Are Excited About Mamba-3](https://pub.towardsai.net/why-researchers-are-excited-about-mamba-3-9c273cf4b870?source=rss------data_science-5)
-- [Supabase: Change In Policy For New Tables In Public Schema](https://medium.com/@leroyleowdev/supabase-change-in-policy-for-new-tables-in-public-schema-44b431ca87f9?source=rss------data_science-5)
-- [On-Prem vs Public Cloud for ML](https://bgweber.medium.com/on-prem-vs-public-cloud-for-ml-3fb4568bd589?source=rss------data_science-5)
-- [Long-horizon assistant memory needs state, not just retrieval](https://medium.com/@vaarunyans01/long-horizon-assistant-memory-needs-state-not-just-retrieval-1ee652c0bcb1?source=rss------data_science-5)
-- [How I Built AI Businesses That Started Earning While I Was Offline](https://blog.cubed.run/how-i-built-ai-businesses-that-started-earning-while-i-was-offline-76ac93efba7b?source=rss------data_science-5)
-- [Balinese Woodcarving Preservation With Tourism Redistribution Machine Learning Models](https://medium.com/@creamsiclebymist/preserving-balinese-woodcarving-through-tourism-redistribution-with-machine-learning-models-76823dd7dcc7?source=rss------data_science-5)
-- [How to Use AI Prompts to Write Forex Trading Analysis and Journals That Actually Make You a Better…](https://medium.com/@laviswills/how-to-use-ai-prompts-to-write-forex-trading-analysis-and-journals-that-actually-make-you-a-better-a7d986329efd?source=rss------data_science-5)
+- [I’ve Reviewed Hundreds of Project Dashboards. Most of Them Are Theatre.](https://medium.com/@smamun/ive-reviewed-hundreds-of-project-dashboards-most-of-them-are-theatre-89630c512f0a?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8d0450f64a46?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2c156deffd1a?source=rss------data_science-5)
+- [L2 Distance was Giving Me Wrong Answers. Here’s the Metric That Fixed it.](https://pub.towardsai.net/l2-distance-was-giving-me-wrong-answers-heres-the-metric-that-fixed-it-e01b4a0ef735?source=rss------data_science-5)
+- [0933شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره خاله#…](https://medium.com/@adggfcbjfdx/0933%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-1e5bd75848ee?source=rss------data_science-5)
+- [093شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره خاله#…](https://medium.com/@adggfcbjfdx/093%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-fe19ad42153d?source=rss------data_science-5)
+- [We Should Not Mistake Cosmic-Rays for UFOs!](https://avi-loeb.medium.com/we-should-not-mistake-cosmic-rays-for-ufos-8d10b0085b9c?source=rss------data_science-5)
+- [Every Company Talks About AI, Yet Few Are Truly AI-Native](https://odsc.medium.com/every-company-talks-about-ai-yet-few-are-truly-ai-native-f2afffee019f?source=rss------data_science-5)
+- [Apache Kafka &amp; Spark Made Easy in a Real Hospital Data Architecture-Day 3](https://medium.com/@yachikanand/apache-kafka-spark-made-easy-in-a-real-hospital-data-architecture-day-3-91819536b6e3?source=rss------data_science-5)
+- [Building a GenAI System That Rarely Calls an LLM](https://medium.com/@vmrudula.goteti/lessons-from-designing-a-production-ready-log-analyzer-30f753834c62?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
