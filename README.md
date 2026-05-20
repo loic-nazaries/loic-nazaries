@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Battery That Could Last Until the 24th Century.](https://medium.com/@hello_28483/a-battery-that-could-last-until-the-24th-century-28afe5393a88?source=rss------data_science-5)
-- [We Needed a Vector Store for 100K Documents.](https://medium.com/@lekhana.sandra/we-needed-a-vector-store-for-100k-documents-e20beb29f90e?source=rss------data_science-5)
-- [Apache Kafka &amp; Spark Made Easy in a Real Hospital Data Architecture- Day 5](https://medium.com/@yachikanand/apache-kafka-spark-made-easy-in-a-real-hospital-data-architecture-day-5-8deced2e7532?source=rss------data_science-5)
-- [Valid on Paper, Abnormal in Context](https://medium.com/@simhashourya9/valid-on-paper-abnormal-in-context-e3fd5dfd535a?source=rss------data_science-5)
-- [How to Build a 5-Stage Machine Learning Pipeline in Python: Handling Tabular Aviation Data](https://medium.com/@gdbecker/how-to-build-a-5-stage-machine-learning-pipeline-in-python-handling-tabular-aviation-data-65c0f45669da?source=rss------data_science-5)
-- [Benign Overparameterization: Deconstructing Why 100B Parameter Transformers Defy the Bias Variance…](https://medium.com/data-science-collective/benign-overparameterization-deconstructing-why-100b-parameter-transformers-defy-the-bias-variance-5635b7b2ffa1?source=rss------data_science-5)
-- [How Seattle’s Certified H‑1B Worksites Hold Their Shape Over Time](https://medium.com/@kstoll_28407/how-seattles-certified-h-1b-worksites-hold-their-shape-over-time-1610cb048cc2?source=rss------data_science-5)
-- [Discovering WOW: The Next Frontier in Digital Asset Exchange and Blockchain Innovation](https://medium.com/@godusop69/discovering-wow-the-next-frontier-in-digital-asset-exchange-and-blockchain-innovation-e216d44cadac?source=rss------data_science-5)
-- [Trading Zeros for Geometry: How Reshaping Transformer Weights to 2:4 Structured Sparsity Halves…](https://medium.com/data-science-collective/trading-zeros-for-geometry-how-reshaping-transformer-weights-to-2-4-structured-sparsity-halves-02a1085cba5c?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-413689447d2c?source=rss------data_science-5)
+- [Rendering for Latent Space: Why Agent Native Browsers Swapped Pixels for Tokenized Accessibility…](https://ampatishan.medium.com/rendering-for-latent-space-why-agent-native-browsers-swapped-pixels-for-tokenized-accessibility-24bec83920b3?source=rss------data_science-5)
+- [20 Days of Artificial Intelligence — Day 20 of 20 — Diffusion Models](https://medium.com/@krthiak/20-days-of-artificial-intelligence-day-20-of-20-diffusion-models-9a371f395540?source=rss------data_science-5)
+- [Análise de Sentimento no X &lpar;Twitter&rpar;: Uma nova abordagem](https://medium.com/@vac22/an%C3%A1lise-de-sentimento-no-x-twitter-uma-nova-abordagem-f38afd4b3edb?source=rss------data_science-5)
+- [The $65 Million Pattern: What 1,009 Top-Performing Manhattan Airbnbs Tell Investors](https://medium.com/@abnasamoah/the-65-million-pattern-what-1-009-top-performing-manhattan-airbnbs-tell-investors-189ec8c54aa1?source=rss------data_science-5)
+- [Your LLM bill suddenly explodes from $4,000 to $40,000 in a single month.](https://medium.com/kairi-ai/your-llm-bill-suddenly-explodes-from-4-000-to-40-000-in-a-single-month-ecf5ec9002d6?source=rss------data_science-5)
+- [I Shipped AI-Generated Code to Production Without a Harness. It Was a Polished Disaster.](https://leandrocaladoferreira.medium.com/i-shipped-ai-generated-code-to-production-without-a-harness-it-was-a-polished-disaster-9b8a605ac978?source=rss------data_science-5)
+- [The invisable foundation: The human cost of A.I. safety.](https://medium.com/@joeforesman12/the-invisable-foundation-the-human-cost-of-a-i-safety-7d17482cbbdb?source=rss------data_science-5)
+- [Andromeda Paradox through the lens of Ghidan Bloch Sphere](https://medium.com/@fghidan/andromeda-paradox-through-the-lens-of-ghidan-bloch-sphere-5459619ae551?source=rss------data_science-5)
+- [The AI Engineer Cheatsheet](https://medium.com/the-modern-scientist/the-ai-engineer-cheatsheet-0b172042da4d?source=rss------data_science-5)
+- [Data’s Best Decade is Ahead. Most Companies Are Looking at it Wrong.](https://pub.towardsai.net/datas-best-decade-is-ahead-most-companies-are-looking-at-it-wrong-dd5b3ccc3270?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
