@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Rendering for Latent Space: Why Agent Native Browsers Swapped Pixels for Tokenized Accessibility…](https://ampatishan.medium.com/rendering-for-latent-space-why-agent-native-browsers-swapped-pixels-for-tokenized-accessibility-24bec83920b3?source=rss------data_science-5)
-- [20 Days of Artificial Intelligence — Day 20 of 20 — Diffusion Models](https://medium.com/@krthiak/20-days-of-artificial-intelligence-day-20-of-20-diffusion-models-9a371f395540?source=rss------data_science-5)
-- [Análise de Sentimento no X &lpar;Twitter&rpar;: Uma nova abordagem](https://medium.com/@vac22/an%C3%A1lise-de-sentimento-no-x-twitter-uma-nova-abordagem-f38afd4b3edb?source=rss------data_science-5)
-- [The $65 Million Pattern: What 1,009 Top-Performing Manhattan Airbnbs Tell Investors](https://medium.com/@abnasamoah/the-65-million-pattern-what-1-009-top-performing-manhattan-airbnbs-tell-investors-189ec8c54aa1?source=rss------data_science-5)
-- [Your LLM bill suddenly explodes from $4,000 to $40,000 in a single month.](https://medium.com/kairi-ai/your-llm-bill-suddenly-explodes-from-4-000-to-40-000-in-a-single-month-ecf5ec9002d6?source=rss------data_science-5)
-- [I Shipped AI-Generated Code to Production Without a Harness. It Was a Polished Disaster.](https://leandrocaladoferreira.medium.com/i-shipped-ai-generated-code-to-production-without-a-harness-it-was-a-polished-disaster-9b8a605ac978?source=rss------data_science-5)
-- [The invisable foundation: The human cost of A.I. safety.](https://medium.com/@joeforesman12/the-invisable-foundation-the-human-cost-of-a-i-safety-7d17482cbbdb?source=rss------data_science-5)
-- [Andromeda Paradox through the lens of Ghidan Bloch Sphere](https://medium.com/@fghidan/andromeda-paradox-through-the-lens-of-ghidan-bloch-sphere-5459619ae551?source=rss------data_science-5)
-- [The AI Engineer Cheatsheet](https://medium.com/the-modern-scientist/the-ai-engineer-cheatsheet-0b172042da4d?source=rss------data_science-5)
-- [Data’s Best Decade is Ahead. Most Companies Are Looking at it Wrong.](https://pub.towardsai.net/datas-best-decade-is-ahead-most-companies-are-looking-at-it-wrong-dd5b3ccc3270?source=rss------data_science-5)
+- [I built a system that automatically groups cyber threat posts without any labels or GPU.](https://medium.com/@bentamansourt.mariem/i-built-a-system-that-automatically-groups-cyber-threat-posts-without-any-labels-or-gpu-dd0d01df3766?source=rss------data_science-5)
+- [65&quot;}](https://medium.com/@krm0901234/65-9351c64f12de?source=rss------data_science-5)
+- [A/B Testing: Why Randomization is the Gold Standard &lpar;and Four Ways It Fails in Practice&rpar;](https://ajay-deshpande.medium.com/a-b-testing-why-randomization-is-the-gold-standard-and-four-ways-it-fails-in-practice-716e6350d9be?source=rss------data_science-5)
+- [Move 37](https://ai.gopubby.com/move-37-34e58f721d8b?source=rss------data_science-5)
+- [What Mythos Class Models Mean Specifically For Data Pipeline Security](https://pub.towardsai.net/what-mythos-class-models-mean-specifically-for-data-pipeline-security-702b49bc7bb2?source=rss------data_science-5)
+- [Shipping Ice To Micronesia Via Snail Mail!](https://medium.com/@cgpt/shipping-ice-to-micronesia-via-snail-mail-599732b00679?source=rss------data_science-5)
+- [The future of protection is no longer passive.](https://medium.com/@hikmattx66/the-future-of-protection-is-no-longer-passive-9c71d4f458c1?source=rss------data_science-5)
+- [Prophet: The Facebook Tool That Will End Your Fear of Forecasting](https://medium.com/@felipe.ramires.terrazas/prophet-the-facebook-tool-that-will-end-your-fear-of-forecasting-f752c0c1b4ee?source=rss------data_science-5)
+- [Rankests vs Semrush Backlink Checker Full Review](https://medium.com/@edukester/rankests-vs-semrush-backlink-checker-full-review-fbda81c3706e?source=rss------data_science-5)
+- [What breaks first when you ship AI to production?](https://medium.com/@asya.vb/what-breaks-first-when-you-ship-ai-to-production-f71494335fe6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
