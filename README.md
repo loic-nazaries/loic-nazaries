@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I built a system that automatically groups cyber threat posts without any labels or GPU.](https://medium.com/@bentamansourt.mariem/i-built-a-system-that-automatically-groups-cyber-threat-posts-without-any-labels-or-gpu-dd0d01df3766?source=rss------data_science-5)
-- [65&quot;}](https://medium.com/@krm0901234/65-9351c64f12de?source=rss------data_science-5)
-- [A/B Testing: Why Randomization is the Gold Standard &lpar;and Four Ways It Fails in Practice&rpar;](https://ajay-deshpande.medium.com/a-b-testing-why-randomization-is-the-gold-standard-and-four-ways-it-fails-in-practice-716e6350d9be?source=rss------data_science-5)
-- [Move 37](https://ai.gopubby.com/move-37-34e58f721d8b?source=rss------data_science-5)
-- [What Mythos Class Models Mean Specifically For Data Pipeline Security](https://pub.towardsai.net/what-mythos-class-models-mean-specifically-for-data-pipeline-security-702b49bc7bb2?source=rss------data_science-5)
-- [Shipping Ice To Micronesia Via Snail Mail!](https://medium.com/@cgpt/shipping-ice-to-micronesia-via-snail-mail-599732b00679?source=rss------data_science-5)
-- [The future of protection is no longer passive.](https://medium.com/@hikmattx66/the-future-of-protection-is-no-longer-passive-9c71d4f458c1?source=rss------data_science-5)
-- [Prophet: The Facebook Tool That Will End Your Fear of Forecasting](https://medium.com/@felipe.ramires.terrazas/prophet-the-facebook-tool-that-will-end-your-fear-of-forecasting-f752c0c1b4ee?source=rss------data_science-5)
-- [Rankests vs Semrush Backlink Checker Full Review](https://medium.com/@edukester/rankests-vs-semrush-backlink-checker-full-review-fbda81c3706e?source=rss------data_science-5)
-- [What breaks first when you ship AI to production?](https://medium.com/@asya.vb/what-breaks-first-when-you-ship-ai-to-production-f71494335fe6?source=rss------data_science-5)
+- [Stop Chasing 90% Win Rates: The Math Behind Market Consistency](https://medium.com/@fungi1sks/stop-chasing-90-win-rates-the-math-behind-market-consistency-fc51da480430?source=rss------data_science-5)
+- [Should We Score Spatial AI? Five Criteria from PebbloSim’s Perspective](https://medium.com/@joohaeng_92681/should-we-score-spatial-ai-five-criteria-from-pebblosims-perspective-cc977d6a435a?source=rss------data_science-5)
+- [Local Muscle, Cloud Scale: Designing Data Engineering Pipelines That Can Run on a Laptop, AWS, or…](https://medium.com/@albertocardenascom/local-muscle-cloud-scale-designing-data-engineering-pipelines-that-can-run-on-a-laptop-aws-or-fc5404f6ea83?source=rss------data_science-5)
+- [Growth Isn’t a Straight Line: My Journey Through UC Berkeley’s MIDS and the Art of the Pivot](https://kirthis.medium.com/growth-isnt-a-straight-line-my-journey-through-uc-berkeley-s-mids-and-the-art-of-the-pivot-9beb53e79903?source=rss------data_science-5)
+- [We Tried Shorting the VIX Without Getting Wiped Out](https://quant-galore.medium.com/we-tried-shorting-the-vix-without-getting-wiped-out-85a33f59adee?source=rss------data_science-5)
+- [H₀ and the Dual Sheet Model](https://medium.com/@mattygh01/h%E2%82%80-and-the-dual-sheet-model-b2d634f37e51?source=rss------data_science-5)
+- [Data: The Future’s True Wealth](https://medium.com/activated-thinker/data-the-futures-true-wealth-88a08aaf662b?source=rss------data_science-5)
+- [I Wasted a Full Year in Notion Before Finding These 5 Plugins](https://medium.com/write-a-catalyst/i-wasted-a-full-year-in-notion-before-finding-these-5-plugins-968d4e77db78?source=rss------data_science-5)
+- [How I Automated My Daily Work With Python](https://medium.com/write-a-catalyst/how-i-automated-my-daily-work-with-python-626900a1c4a9?source=rss------data_science-5)
+- [Predicting South Carolina Real Estate Prices with Random Forest and Hyperparameter Tuning](https://medium.com/@sonnguyenmau04/predicting-south-carolina-real-estate-prices-with-random-forest-and-hyperparameter-tuning-d662f2429c0e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
