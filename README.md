@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Stop Chasing 90% Win Rates: The Math Behind Market Consistency](https://medium.com/@fungi1sks/stop-chasing-90-win-rates-the-math-behind-market-consistency-fc51da480430?source=rss------data_science-5)
-- [Should We Score Spatial AI? Five Criteria from PebbloSim’s Perspective](https://medium.com/@joohaeng_92681/should-we-score-spatial-ai-five-criteria-from-pebblosims-perspective-cc977d6a435a?source=rss------data_science-5)
-- [Local Muscle, Cloud Scale: Designing Data Engineering Pipelines That Can Run on a Laptop, AWS, or…](https://medium.com/@albertocardenascom/local-muscle-cloud-scale-designing-data-engineering-pipelines-that-can-run-on-a-laptop-aws-or-fc5404f6ea83?source=rss------data_science-5)
-- [Growth Isn’t a Straight Line: My Journey Through UC Berkeley’s MIDS and the Art of the Pivot](https://kirthis.medium.com/growth-isnt-a-straight-line-my-journey-through-uc-berkeley-s-mids-and-the-art-of-the-pivot-9beb53e79903?source=rss------data_science-5)
-- [We Tried Shorting the VIX Without Getting Wiped Out](https://quant-galore.medium.com/we-tried-shorting-the-vix-without-getting-wiped-out-85a33f59adee?source=rss------data_science-5)
-- [H₀ and the Dual Sheet Model](https://medium.com/@mattygh01/h%E2%82%80-and-the-dual-sheet-model-b2d634f37e51?source=rss------data_science-5)
-- [Data: The Future’s True Wealth](https://medium.com/activated-thinker/data-the-futures-true-wealth-88a08aaf662b?source=rss------data_science-5)
-- [I Wasted a Full Year in Notion Before Finding These 5 Plugins](https://medium.com/write-a-catalyst/i-wasted-a-full-year-in-notion-before-finding-these-5-plugins-968d4e77db78?source=rss------data_science-5)
-- [How I Automated My Daily Work With Python](https://medium.com/write-a-catalyst/how-i-automated-my-daily-work-with-python-626900a1c4a9?source=rss------data_science-5)
-- [Predicting South Carolina Real Estate Prices with Random Forest and Hyperparameter Tuning](https://medium.com/@sonnguyenmau04/predicting-south-carolina-real-estate-prices-with-random-forest-and-hyperparameter-tuning-d662f2429c0e?source=rss------data_science-5)
+- [Our Columbia Island in Washington, DC, Deserves Better Than a Triumphal Arch](https://medium.com/@crob2011/our-columbia-island-in-washington-dc-deserves-better-than-a-triumphal-arch-4c172ea5b8ea?source=rss------data_science-5)
+- [Truth as the Stabilizing Architecture of Reality](https://medium.com/@arbenk/truth-as-the-stabilizing-architecture-of-reality-6f468ca16eea?source=rss------data_science-5)
+- [Unironically Using AI for Alpha Generation, Again.](https://quant-galore.medium.com/unironically-using-ai-for-alpha-generation-again-e73a84d66f5d?source=rss------data_science-5)
+- [Difference-in-Differences: When Time Becomes Your Control Group](https://ajay-deshpande.medium.com/difference-in-differences-when-time-becomes-your-control-group-2f8f80de1c56?source=rss------data_science-5)
+- [Building a spam detector from scratch: Implementing Logistic Regression using NumPy](https://medium.com/@mirjaloleshmurodov1017/building-a-spam-detector-from-scratch-implementing-logistic-regression-using-numpy-b1d087486a2d?source=rss------data_science-5)
+- [Why Public Health Surveillance Needs AI Now — And What That Actually Looks Like in Practice](https://medium.com/@rahuljungchauhan/why-public-health-surveillance-needs-ai-now-and-what-that-actually-looks-like-in-practice-e7090fac2f6e?source=rss------data_science-5)
+- [Master’s in Data Science Graduate Speaker Implores Peers to Trust &amp; Treasure their Humanity](https://medium.com/berkeleyischool/masters-in-data-science-graduate-speaker-implores-peers-to-trust-treasure-their-humanity-761f5d420bcc?source=rss------data_science-5)
+- [Reality as Render: When AI Forced Humanity to Reconsider Existence](https://medium.com/@arbenk/reality-as-render-when-ai-forced-humanity-to-reconsider-existence-604a0b6beb45?source=rss------data_science-5)
+- [Building LLM From Scratch: Understanding How Large Language Models Work](https://umeshk1255.medium.com/building-llm-from-scratch-understanding-how-large-language-models-work-8e90fe144a4b?source=rss------data_science-5)
+- [How to Find a Research Topic as a Final-Year CS/CSE Student in Bangladesh &lpar;Part 2&rpar;](https://ai.plainenglish.io/how-to-find-a-research-topic-as-a-final-year-cs-cse-student-in-bangladesh-part-2-d1c4ebbd5c94?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
