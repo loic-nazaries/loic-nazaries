@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Our Columbia Island in Washington, DC, Deserves Better Than a Triumphal Arch](https://medium.com/@crob2011/our-columbia-island-in-washington-dc-deserves-better-than-a-triumphal-arch-4c172ea5b8ea?source=rss------data_science-5)
-- [Truth as the Stabilizing Architecture of Reality](https://medium.com/@arbenk/truth-as-the-stabilizing-architecture-of-reality-6f468ca16eea?source=rss------data_science-5)
-- [Unironically Using AI for Alpha Generation, Again.](https://quant-galore.medium.com/unironically-using-ai-for-alpha-generation-again-e73a84d66f5d?source=rss------data_science-5)
-- [Difference-in-Differences: When Time Becomes Your Control Group](https://ajay-deshpande.medium.com/difference-in-differences-when-time-becomes-your-control-group-2f8f80de1c56?source=rss------data_science-5)
-- [Building a spam detector from scratch: Implementing Logistic Regression using NumPy](https://medium.com/@mirjaloleshmurodov1017/building-a-spam-detector-from-scratch-implementing-logistic-regression-using-numpy-b1d087486a2d?source=rss------data_science-5)
-- [Why Public Health Surveillance Needs AI Now — And What That Actually Looks Like in Practice](https://medium.com/@rahuljungchauhan/why-public-health-surveillance-needs-ai-now-and-what-that-actually-looks-like-in-practice-e7090fac2f6e?source=rss------data_science-5)
-- [Master’s in Data Science Graduate Speaker Implores Peers to Trust &amp; Treasure their Humanity](https://medium.com/berkeleyischool/masters-in-data-science-graduate-speaker-implores-peers-to-trust-treasure-their-humanity-761f5d420bcc?source=rss------data_science-5)
-- [Reality as Render: When AI Forced Humanity to Reconsider Existence](https://medium.com/@arbenk/reality-as-render-when-ai-forced-humanity-to-reconsider-existence-604a0b6beb45?source=rss------data_science-5)
-- [Building LLM From Scratch: Understanding How Large Language Models Work](https://umeshk1255.medium.com/building-llm-from-scratch-understanding-how-large-language-models-work-8e90fe144a4b?source=rss------data_science-5)
-- [How to Find a Research Topic as a Final-Year CS/CSE Student in Bangladesh &lpar;Part 2&rpar;](https://ai.plainenglish.io/how-to-find-a-research-topic-as-a-final-year-cs-cse-student-in-bangladesh-part-2-d1c4ebbd5c94?source=rss------data_science-5)
+- [The Strange Law That Makes Numbers Start With 1](https://medium.com/@vplevris/the-strange-law-that-makes-numbers-start-with-1-1d1a2e137ea9?source=rss------data_science-5)
+- [The Retrieval Horizon](https://medium.com/@ryanmacl/the-retrieval-horizon-2fab4cfa672a?source=rss------data_science-5)
+- [I Never Liked Toy Cars](https://medium.com/@vinicio.santos1999/i-never-liked-toy-cars-f5f19c4728a3?source=rss------data_science-5)
+- [The Cladistics of Witness](https://medium.com/@ryanmacl/the-cladistics-of-witness-ccd093d4690d?source=rss------data_science-5)
+- [A Beginner’s Guide to Machine Learning on Graphs: From Node Embeddings to Graph Neural Networks](https://medium.com/@rccareers3004/a-beginners-guide-to-machine-learning-on-graphs-from-node-embeddings-to-graph-neural-networks-d6c9d50da25a?source=rss------data_science-5)
+- [Snowflake SQL in a Nutshell: Snowpipe High-Performance Architecture](https://medium.com/@nadird3/snowflake-sql-in-a-nutshell-snowpipe-high-performance-architecture-257613dca0cc?source=rss------data_science-5)
+- [Synthetic Data is Eating the World — and Nobody’s Talking About It](https://medium.com/@raghuece455/synthetic-data-is-eating-the-world-and-nobodys-talking-about-it-1c67a78c7475?source=rss------data_science-5)
+- [NumPy Basics: A Practical Guide to Arrays, Indexing, and Slicing](https://medium.com/@behruzmaxmudov263/numpy-basics-a-practical-guide-to-arrays-indexing-and-slicing-3ab92b9550ad?source=rss------data_science-5)
+- [Microscopic Observation of Natural Peridot from Southwestern Saudi Arabia](https://medium.com/@emanellegrace9/microscopic-observation-of-natural-peridot-from-southwestern-saudi-arabia-f63dd32ad030?source=rss------data_science-5)
+- [Detecting Join Duplication](https://pub.towardsai.net/detecting-join-duplication-e6d51c8f3efc?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
