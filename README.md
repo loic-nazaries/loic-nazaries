@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Strange Law That Makes Numbers Start With 1](https://medium.com/@vplevris/the-strange-law-that-makes-numbers-start-with-1-1d1a2e137ea9?source=rss------data_science-5)
-- [The Retrieval Horizon](https://medium.com/@ryanmacl/the-retrieval-horizon-2fab4cfa672a?source=rss------data_science-5)
-- [I Never Liked Toy Cars](https://medium.com/@vinicio.santos1999/i-never-liked-toy-cars-f5f19c4728a3?source=rss------data_science-5)
-- [The Cladistics of Witness](https://medium.com/@ryanmacl/the-cladistics-of-witness-ccd093d4690d?source=rss------data_science-5)
-- [A Beginner’s Guide to Machine Learning on Graphs: From Node Embeddings to Graph Neural Networks](https://medium.com/@rccareers3004/a-beginners-guide-to-machine-learning-on-graphs-from-node-embeddings-to-graph-neural-networks-d6c9d50da25a?source=rss------data_science-5)
-- [Snowflake SQL in a Nutshell: Snowpipe High-Performance Architecture](https://medium.com/@nadird3/snowflake-sql-in-a-nutshell-snowpipe-high-performance-architecture-257613dca0cc?source=rss------data_science-5)
-- [Synthetic Data is Eating the World — and Nobody’s Talking About It](https://medium.com/@raghuece455/synthetic-data-is-eating-the-world-and-nobodys-talking-about-it-1c67a78c7475?source=rss------data_science-5)
-- [NumPy Basics: A Practical Guide to Arrays, Indexing, and Slicing](https://medium.com/@behruzmaxmudov263/numpy-basics-a-practical-guide-to-arrays-indexing-and-slicing-3ab92b9550ad?source=rss------data_science-5)
-- [Microscopic Observation of Natural Peridot from Southwestern Saudi Arabia](https://medium.com/@emanellegrace9/microscopic-observation-of-natural-peridot-from-southwestern-saudi-arabia-f63dd32ad030?source=rss------data_science-5)
-- [Detecting Join Duplication](https://pub.towardsai.net/detecting-join-duplication-e6d51c8f3efc?source=rss------data_science-5)
+- [The Difference Between AI, ML, and DL](https://medium.com/@saurabgyawali/the-difference-between-ai-ml-and-dl-3216462469b3?source=rss------data_science-5)
+- [From Dashboard to Decision — Choice, Cost, and Closure](https://thanachart-rit.medium.com/from-dashboard-to-decision-choice-cost-and-closure-b469388d5a83?source=rss------data_science-5)
+- [95% of Corporate AI Pilots “Failed” Last Year. That’s Not the Disaster. That’s the System Working.](https://medium.com/@macplanet2012/95-of-corporate-ai-pilots-failed-last-year-thats-not-the-disaster-that-s-the-system-working-50ba3a45b35d?source=rss------data_science-5)
+- [Universities Are Preparing Millions of People for Jobs That May No Longer Exist](https://richardencarnacion.medium.com/universities-are-preparing-millions-of-people-for-jobs-that-may-no-longer-exist-4ba3615e481b?source=rss------data_science-5)
+- [NumPy: The Foundation of Fast Numerical Computing in Python](https://medium.com/@behruzmaxmudov263/numpy-the-foundation-of-fast-numerical-computing-in-python-ef0aeea8b0a9?source=rss------data_science-5)
+- [How I Analysed a Healthcare Dataset Using Power BI](https://medium.com/@koladeabu05/how-i-analysed-a-healthcare-dataset-using-power-bi-ceea3b4f7fd9?source=rss------data_science-5)
+- [MongoDB 101: A Beginner’s Complete Guide to NoSQL Databases for Data Scientists](https://medium.com/@rccareers3004/mongodb-101-a-beginners-complete-guide-to-nosql-databases-for-data-scientists-584965c11b6c?source=rss------data_science-5)
+- [DeFi Has Had Two Yield Eras. Both Lied.](https://medium.com/@cute.smartrex/defi-has-had-two-yield-eras-both-lied-835270560619?source=rss------data_science-5)
+- [AI and IoT in Healthcare — Technology That Actually Matters](https://medium.com/@bhumiishah33/ai-and-iot-in-healthcare-technology-that-actually-matters-e6ccc0b8427e?source=rss------data_science-5)
+- [Augmenting GDPNow: A Modular Architecture for Foundation-Model, LLM-Augmented, and…](https://medium.com/@brian-curry-research/augmenting-gdpnow-a-modular-architecture-for-foundation-model-llm-augmented-and-1a6eb7d58af7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
