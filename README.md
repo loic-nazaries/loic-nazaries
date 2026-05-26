@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Difference Between AI, ML, and DL](https://medium.com/@saurabgyawali/the-difference-between-ai-ml-and-dl-3216462469b3?source=rss------data_science-5)
-- [From Dashboard to Decision — Choice, Cost, and Closure](https://thanachart-rit.medium.com/from-dashboard-to-decision-choice-cost-and-closure-b469388d5a83?source=rss------data_science-5)
-- [95% of Corporate AI Pilots “Failed” Last Year. That’s Not the Disaster. That’s the System Working.](https://medium.com/@macplanet2012/95-of-corporate-ai-pilots-failed-last-year-thats-not-the-disaster-that-s-the-system-working-50ba3a45b35d?source=rss------data_science-5)
-- [Universities Are Preparing Millions of People for Jobs That May No Longer Exist](https://richardencarnacion.medium.com/universities-are-preparing-millions-of-people-for-jobs-that-may-no-longer-exist-4ba3615e481b?source=rss------data_science-5)
-- [NumPy: The Foundation of Fast Numerical Computing in Python](https://medium.com/@behruzmaxmudov263/numpy-the-foundation-of-fast-numerical-computing-in-python-ef0aeea8b0a9?source=rss------data_science-5)
-- [How I Analysed a Healthcare Dataset Using Power BI](https://medium.com/@koladeabu05/how-i-analysed-a-healthcare-dataset-using-power-bi-ceea3b4f7fd9?source=rss------data_science-5)
-- [MongoDB 101: A Beginner’s Complete Guide to NoSQL Databases for Data Scientists](https://medium.com/@rccareers3004/mongodb-101-a-beginners-complete-guide-to-nosql-databases-for-data-scientists-584965c11b6c?source=rss------data_science-5)
-- [DeFi Has Had Two Yield Eras. Both Lied.](https://medium.com/@cute.smartrex/defi-has-had-two-yield-eras-both-lied-835270560619?source=rss------data_science-5)
-- [AI and IoT in Healthcare — Technology That Actually Matters](https://medium.com/@bhumiishah33/ai-and-iot-in-healthcare-technology-that-actually-matters-e6ccc0b8427e?source=rss------data_science-5)
-- [Augmenting GDPNow: A Modular Architecture for Foundation-Model, LLM-Augmented, and…](https://medium.com/@brian-curry-research/augmenting-gdpnow-a-modular-architecture-for-foundation-model-llm-augmented-and-1a6eb7d58af7?source=rss------data_science-5)
+- [Never Read a Metric Without Asking Who Benefits From It](https://medium.com/@rajvir.madan/never-read-a-metric-without-asking-who-benefits-from-it-2923270c6fdd?source=rss------data_science-5)
+- [Ukraine Pulled Off a First That Military Strategists Never Expected](https://medium.com/@Nisha2123/ukraine-pulled-off-a-first-that-military-strategists-never-expected-de8ca6f69005?source=rss------data_science-5)
+- [The LLM Is the Cheapest Part: Why Enterprises Now Sell You the “Agent Harness”](https://medium.com/@explorify.tech/the-llm-is-the-cheapest-part-why-enterprises-now-sell-you-the-agent-harness-b1f54df26fae?source=rss------data_science-5)
+- [Lacan’s Prophecy: Why LLMs are Trapped in Chomsky’s Generative Grammar and the First Floor of the…](https://medium.com/@marinamistura/lacans-prophecy-why-llms-are-trapped-in-chomsky-s-generative-grammar-and-the-first-floor-of-the-2915286e05d5?source=rss------data_science-5)
+- [Getting Started with WEKA: A Beginner-Friendly Guide to Machine Learning Without Heavy Coding](https://medium.com/@yeshwanthreddynayini/getting-started-with-weka-a-beginner-friendly-guide-to-machine-learning-without-heavy-coding-04d87010ebd3?source=rss------data_science-5)
+- [The Secret Origin of a Comic Book Dataset](https://medium.com/@j0rdan_84624/the-secret-origin-of-a-comic-book-dataset-8e609e0760ee?source=rss------data_science-5)
+- [On Consciousness: Three Perspectives](https://medium.com/@larklaflamme/on-consciousness-three-perspectives-5cf479acb7b2?source=rss------data_science-5)
+- [Data Leakage Is Hiding in Your Training Pipeline.](https://pub.towardsai.net/data-leakage-is-hiding-in-your-training-pipeline-8d44fc4949f0?source=rss------data_science-5)
+- [Data Pipelines 101: A Beginner’s Complete Guide to Moving, Transforming, and Trusting Your Data](https://medium.com/@rccareers3004/data-pipelines-101-a-beginners-complete-guide-to-moving-transforming-and-trusting-your-data-9c9a549da757?source=rss------data_science-5)
+- [The Knowledge Work Plugins Project, Small Language Models — New Book| Issue 89](https://medium.com/@rami.krispin/the-knowledge-work-plugins-project-small-language-models-new-book-issue-89-a04ef9ad3aa0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
