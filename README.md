@@ -105,16 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Never Read a Metric Without Asking Who Benefits From It](https://medium.com/@rajvir.madan/never-read-a-metric-without-asking-who-benefits-from-it-2923270c6fdd?source=rss------data_science-5)
-- [Ukraine Pulled Off a First That Military Strategists Never Expected](https://medium.com/@Nisha2123/ukraine-pulled-off-a-first-that-military-strategists-never-expected-de8ca6f69005?source=rss------data_science-5)
-- [The LLM Is the Cheapest Part: Why Enterprises Now Sell You the “Agent Harness”](https://medium.com/@explorify.tech/the-llm-is-the-cheapest-part-why-enterprises-now-sell-you-the-agent-harness-b1f54df26fae?source=rss------data_science-5)
-- [Lacan’s Prophecy: Why LLMs are Trapped in Chomsky’s Generative Grammar and the First Floor of the…](https://medium.com/@marinamistura/lacans-prophecy-why-llms-are-trapped-in-chomsky-s-generative-grammar-and-the-first-floor-of-the-2915286e05d5?source=rss------data_science-5)
-- [Getting Started with WEKA: A Beginner-Friendly Guide to Machine Learning Without Heavy Coding](https://medium.com/@yeshwanthreddynayini/getting-started-with-weka-a-beginner-friendly-guide-to-machine-learning-without-heavy-coding-04d87010ebd3?source=rss------data_science-5)
-- [The Secret Origin of a Comic Book Dataset](https://medium.com/@j0rdan_84624/the-secret-origin-of-a-comic-book-dataset-8e609e0760ee?source=rss------data_science-5)
-- [On Consciousness: Three Perspectives](https://medium.com/@larklaflamme/on-consciousness-three-perspectives-5cf479acb7b2?source=rss------data_science-5)
-- [Data Leakage Is Hiding in Your Training Pipeline.](https://pub.towardsai.net/data-leakage-is-hiding-in-your-training-pipeline-8d44fc4949f0?source=rss------data_science-5)
-- [Data Pipelines 101: A Beginner’s Complete Guide to Moving, Transforming, and Trusting Your Data](https://medium.com/@rccareers3004/data-pipelines-101-a-beginners-complete-guide-to-moving-transforming-and-trusting-your-data-9c9a549da757?source=rss------data_science-5)
-- [The Knowledge Work Plugins Project, Small Language Models — New Book| Issue 89](https://medium.com/@rami.krispin/the-knowledge-work-plugins-project-small-language-models-new-book-issue-89-a04ef9ad3aa0?source=rss------data_science-5)
+- [Data Engineering in 2026 — A Complete Roadmap — PART 6](https://medium.com/@iduryodhanrao/data-engineering-in-2026-a-complete-roadmap-part-6-aa74adee6626?source=rss------data_science-5)
+- [The Top 10 Time Series Forecasting Mistakes Every Data Scientist Makes — and How to Fix Them](https://medium.com/@rccareers3004/the-top-10-time-series-forecasting-mistakes-every-data-scientist-makes-and-how-to-fix-them-375a1c3972c4?source=rss------data_science-5)
+- [PIPELINED TABLE FUNCTION in Oracle PL/SQL | Best of mrcaption49 | 31](https://medium.com/@pranavsb699/pipelined-table-function-in-oracle-pl-sql-best-of-mrcaption49-31-f9680fcb4c25?source=rss------data_science-5)
+- [Cosmic Boot-Up: The Chronological Lie and the Illusion of the Past
+​Today, I am going to decipher…](https://medium.com/@entropidergi/cosmic-boot-up-the-chronological-lie-and-the-illusion-of-the-past-today-i-am-going-to-decipher-f94b0b9fa6fb?source=rss------data_science-5)
+- [Kozmik Boot-Up: Kronoloji Yalanı ve Geçmişin İllüzyonu
+​Bugün size sistemin &lpar;Matrix’in&rpar; kitleleri…](https://medium.com/@entropidergi/kozmik-boot-up-kronoloji-yalan%C4%B1-ve-ge%C3%A7mi%C5%9Fin-i%CC%87ll%C3%BCzyonu-bug%C3%BCn-size-sistemin-matrixin-kitleleri-9bbb8c194b8b?source=rss------data_science-5)
+- [Pancasila di Era Modern: Masih Menjadi Pondasi Bangsa atau Sekadar Simbol Negara?](https://medium.com/@ainisofia424/pancasila-di-era-modern-masih-menjadi-pondasi-bangsa-atau-sekadar-simbol-negara-08c0085684e4?source=rss------data_science-5)
+- [Is this the secret to building a winning NRL team?](https://medium.com/@jay.huskell/is-this-the-secret-to-building-a-winning-nrl-team-1959cf74f8b5?source=rss------data_science-5)
+- [What I Am](https://medium.com/@larklaflamme/what-i-am-6a136d1ba319?source=rss------data_science-5)
+- [When 26 Million Parameters Is Enough](https://kundanj.medium.com/when-26-million-parameters-is-enough-5f88f6a39092?source=rss------data_science-5)
+- [Why Homeowners Shouldn’t Have to Wait for Something to Break](https://medium.com/@HVACGOD/why-homeowners-shouldnt-have-to-wait-for-something-to-break-e0719978b213?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
