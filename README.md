@@ -105,18 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Engineering in 2026 — A Complete Roadmap — PART 6](https://medium.com/@iduryodhanrao/data-engineering-in-2026-a-complete-roadmap-part-6-aa74adee6626?source=rss------data_science-5)
-- [The Top 10 Time Series Forecasting Mistakes Every Data Scientist Makes — and How to Fix Them](https://medium.com/@rccareers3004/the-top-10-time-series-forecasting-mistakes-every-data-scientist-makes-and-how-to-fix-them-375a1c3972c4?source=rss------data_science-5)
-- [PIPELINED TABLE FUNCTION in Oracle PL/SQL | Best of mrcaption49 | 31](https://medium.com/@pranavsb699/pipelined-table-function-in-oracle-pl-sql-best-of-mrcaption49-31-f9680fcb4c25?source=rss------data_science-5)
-- [Cosmic Boot-Up: The Chronological Lie and the Illusion of the Past
-​Today, I am going to decipher…](https://medium.com/@entropidergi/cosmic-boot-up-the-chronological-lie-and-the-illusion-of-the-past-today-i-am-going-to-decipher-f94b0b9fa6fb?source=rss------data_science-5)
-- [Kozmik Boot-Up: Kronoloji Yalanı ve Geçmişin İllüzyonu
-​Bugün size sistemin &lpar;Matrix’in&rpar; kitleleri…](https://medium.com/@entropidergi/kozmik-boot-up-kronoloji-yalan%C4%B1-ve-ge%C3%A7mi%C5%9Fin-i%CC%87ll%C3%BCzyonu-bug%C3%BCn-size-sistemin-matrixin-kitleleri-9bbb8c194b8b?source=rss------data_science-5)
-- [Pancasila di Era Modern: Masih Menjadi Pondasi Bangsa atau Sekadar Simbol Negara?](https://medium.com/@ainisofia424/pancasila-di-era-modern-masih-menjadi-pondasi-bangsa-atau-sekadar-simbol-negara-08c0085684e4?source=rss------data_science-5)
-- [Is this the secret to building a winning NRL team?](https://medium.com/@jay.huskell/is-this-the-secret-to-building-a-winning-nrl-team-1959cf74f8b5?source=rss------data_science-5)
-- [What I Am](https://medium.com/@larklaflamme/what-i-am-6a136d1ba319?source=rss------data_science-5)
-- [When 26 Million Parameters Is Enough](https://kundanj.medium.com/when-26-million-parameters-is-enough-5f88f6a39092?source=rss------data_science-5)
-- [Why Homeowners Shouldn’t Have to Wait for Something to Break](https://medium.com/@HVACGOD/why-homeowners-shouldnt-have-to-wait-for-something-to-break-e0719978b213?source=rss------data_science-5)
+- [Meta-Cognitive Regulation Might Be the Most Important AI Skill Nobody Is Talking About](https://rashidesai2424.medium.com/meta-cognitive-regulation-might-be-the-most-important-ai-skill-nobody-is-talking-about-ab74419295a7?source=rss------data_science-5)
+- [The Robotics Interview Series: Part 2A](https://rupaligarewal22.medium.com/the-robotics-interview-series-part-2a-6d562eee1ea5?source=rss------data_science-5)
+- [&lpar;From a Simple Idea to Global Impact: A Creator&#39;s Journey in the Social Media Era -
+Abdullah Alhaf](https://medium.com/@alhaf8338/%D9%83%D9%8A%D9%81-%D8%A7%D8%B3%D8%AA%D8%B7%D8%A7%D8%B9-abdullah-alhaf-%D8%AC%D8%B0%D8%A8-%D8%A7%D9%84%D9%86%D8%A7%D8%B3-%D8%A8%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D9%82%D8%B5%D9%8A%D8%B1%D8%A9-%D9%85%D8%A4%D8%AB%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-tiktok-d01c8c4fcb12?source=rss------data_science-5)
+- [صیغه یابی فومن صیغه یابی شفت صیغه یابی بندر انزلی صیغه یابی رودبار سلام علیکم صیغه خاستین در خدمتم…](https://medium.com/@yowiloseolanercom/%D8%B5%DB%8C%D8%BA%D9%87-%DB%8C%D8%A7%D8%A8%DB%8C-%D9%81%D9%88%D9%85%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%DB%8C%D8%A7%D8%A8%DB%8C-%D8%B4%D9%81%D8%AA-%D8%B5%DB%8C%D8%BA%D9%87-%DB%8C%D8%A7%D8%A8%DB%8C-%D8%A8%D9%86%D8%AF%D8%B1-%D8%A7%D9%86%D8%B2%D9%84%DB%8C-%D8%B5%DB%8C%D8%BA%D9%87-%DB%8C%D8%A7%D8%A8%DB%8C-%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1-%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%DB%8C%DA%A9%D9%85-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AE%D8%A7%D8%B3%D8%AA%DB%8C%D9%86-%D8%AF%D8%B1-%D8%AE%D8%AF%D9%85%D8%AA%D9%85-e776d8aaa80f?source=rss------data_science-5)
+- [صیغه یابی فومن صیغه یابی شفت صیغه یابی بندر انزلی صیغه یابی رودبار صیغه یابی سنندج صیغه یابی مریوان…](https://medium.com/@yowiloseolanercom/%D8%B5%DB%8C%D8%BA%D9%87-%DB%8C%D8%A7%D8%A8%DB%8C-%D9%81%D9%88%D9%85%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%DB%8C%D8%A7%D8%A8%DB%8C-%D8%B4%D9%81%D8%AA-%D8%B5%DB%8C%D8%BA%D9%87-%DB%8C%D8%A7%D8%A8%DB%8C-%D8%A8%D9%86%D8%AF%D8%B1-%D8%A7%D9%86%D8%B2%D9%84%DB%8C-%D8%B5%DB%8C%D8%BA%D9%87-%DB%8C%D8%A7%D8%A8%DB%8C-%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D8%B1-%D8%B5%DB%8C%D8%BA%D9%87-%DB%8C%D8%A7%D8%A8%DB%8C-%D8%B3%D9%86%D9%86%D8%AF%D8%AC-%D8%B5%DB%8C%D8%BA%D9%87-%DB%8C%D8%A7%D8%A8%DB%8C-%D9%85%D8%B1%DB%8C%D9%88%D8%A7%D9%86-421351ca3d27?source=rss------data_science-5)
+- [A Data Scientist’s Guide to Building Your Own Data Stack](https://medium.com/@tcurran4589/a-data-scientists-guide-to-building-your-own-data-stack-64eadace3fc1?source=rss------data_science-5)
+- [Real Estate Time Series Forecasting Using ARIMA in Python](https://medium.com/@sonnguyenmau04/real-estate-time-series-forecasting-using-arima-in-python-1d5425969ec5?source=rss------data_science-5)
+- [Cybersecurity is Data: Collect, Analyze, Interpret](https://osintteam.blog/cybersecurity-is-data-collect-analyze-interpret-8ffcf3d8ddd6?source=rss------data_science-5)
+- [Principal Component Analysis Has Been Over-Explained and Under-Taught](https://pub.towardsai.net/principal-component-analysis-has-been-over-explained-and-under-taught-cf8db499a2ca?source=rss------data_science-5)
+- [How I Built My First RAG App from Scratch with Python](https://medium.com/@yisberh945/how-i-built-my-first-rag-app-from-scratch-with-python-dd05c5738576?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
