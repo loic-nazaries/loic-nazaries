@@ -105,18 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Day 78: Harnessing AI in Data Architecture &amp; vice-Versa](https://luxananda.medium.com/day-78-harnessing-ai-in-data-architecture-vice-versa-0c1482605fe0?source=rss------data_science-5)
-- [What Skills Should Exist Before Using AI?](https://medium.com/@samipshah1397/what-skills-should-exist-before-using-ai-d9b76c824a22?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-29fd8f6c2dd1?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-975ba63921bf?source=rss------data_science-5)
-- [This Week in AI, Data Science &amp; Product Innovation | May 21 — May 27, 2026](https://medium.com/@curiousmind1786/this-week-in-ai-data-science-product-innovation-may-21-may-27-2026-45c485ce3e9e?source=rss------data_science-5)
-- [The Recursive Turn](https://medium.com/@danny_hayes_II/the-recursive-turn-920ead70ee3c?source=rss------data_science-5)
-- [Inside Palantir AIP: How the World’s Most Controversial AI Platform Actually Works](https://pub.towardsai.net/inside-palantir-aip-how-the-worlds-most-controversial-ai-platform-actually-works-9ec5b7a6c05a?source=rss------data_science-5)
-- [I Rebuilt My Experimentation Tool on Databricks. Here Is What Production Actually Looks Like.](https://medium.com/@shloksheth.13/i-rebuilt-my-experimentation-tool-on-databricks-here-is-what-production-actually-looks-like-776a78f7c6fc?source=rss------data_science-5)
-- [Ethics of Axiom Hive Intelligence Assistance Founded By Nicholas Michael Grossi](https://medium.com/@nickmgrossi/ethics-of-axiom-hive-intelligence-assistance-founded-by-nicholas-michael-grossi-63122f381376?source=rss------data_science-5)
-- [Project Euler Problems 6–10: Continuing the Python Journey](https://medium.com/@brodie.mooy/project-euler-problems-6-10-continuing-the-python-journey-7ee8ff47bd78?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7ddbec07b793?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0f487d570e4c?source=rss------data_science-5)
+- [9,000 ML Jobs Are Open in SF. Why Can’t Engineers Get Hired?](https://medium.com/fonzi-ai/9-000-ml-jobs-are-open-in-sf-why-cant-engineers-get-hired-cb611e65bb01?source=rss------data_science-5)
+- [The AI Readiness Playbook, Article 4 of 9: Your Data Is Not AI-Ready - The Six-Month Workstream…](https://medium.com/@kruz79/the-ai-readiness-playbook-article-4-of-9-your-data-is-not-ai-ready-the-six-month-workstream-bc2929412b4f?source=rss------data_science-5)
+- [Project Citadel: Building a Fully Sovereign Dual-Engine GraphRAG on Consumer Hardware](https://pub.towardsai.net/project-citadel-building-a-fully-sovereign-dual-engine-graphrag-on-consumer-hardware-9948c00d28d7?source=rss------data_science-5)
+- [The Sleep Atlas: What Regression Models Across 42 Species Reveal About Why Animals Sleep…](https://medium.com/@anasfarooqui373/the-sleep-atlas-what-regression-models-across-42-species-reveal-about-why-animals-sleep-a7be904cafd3?source=rss------data_science-5)
+- [When Spreadsheets Fall Short: A Plain-English Guide to Graph Neural Networks](https://ai.plainenglish.io/when-spreadsheets-fall-short-a-plain-english-guide-to-graph-neural-networks-d3387e28da3a?source=rss------data_science-5)
+- [Inside Multi-Agent Orchestration: State, Security, Scaling and Future](https://ai.plainenglish.io/inside-multi-agent-orchestration-state-security-scaling-and-future-0b5f5cf96d8a?source=rss------data_science-5)
+- [From Data to Decisions: Why Data Storytelling Matters More Than Data Science](https://medium.com/@data-overload/from-data-to-decisions-why-data-storytelling-matters-more-than-data-science-1dd28896edde?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
