@@ -105,17 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [09370673570شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7ddbec07b793?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0f487d570e4c?source=rss------data_science-5)
-- [9,000 ML Jobs Are Open in SF. Why Can’t Engineers Get Hired?](https://medium.com/fonzi-ai/9-000-ml-jobs-are-open-in-sf-why-cant-engineers-get-hired-cb611e65bb01?source=rss------data_science-5)
-- [The AI Readiness Playbook, Article 4 of 9: Your Data Is Not AI-Ready - The Six-Month Workstream…](https://medium.com/@kruz79/the-ai-readiness-playbook-article-4-of-9-your-data-is-not-ai-ready-the-six-month-workstream-bc2929412b4f?source=rss------data_science-5)
-- [Project Citadel: Building a Fully Sovereign Dual-Engine GraphRAG on Consumer Hardware](https://pub.towardsai.net/project-citadel-building-a-fully-sovereign-dual-engine-graphrag-on-consumer-hardware-9948c00d28d7?source=rss------data_science-5)
-- [The Sleep Atlas: What Regression Models Across 42 Species Reveal About Why Animals Sleep…](https://medium.com/@anasfarooqui373/the-sleep-atlas-what-regression-models-across-42-species-reveal-about-why-animals-sleep-a7be904cafd3?source=rss------data_science-5)
-- [When Spreadsheets Fall Short: A Plain-English Guide to Graph Neural Networks](https://ai.plainenglish.io/when-spreadsheets-fall-short-a-plain-english-guide-to-graph-neural-networks-d3387e28da3a?source=rss------data_science-5)
-- [Inside Multi-Agent Orchestration: State, Security, Scaling and Future](https://ai.plainenglish.io/inside-multi-agent-orchestration-state-security-scaling-and-future-0b5f5cf96d8a?source=rss------data_science-5)
-- [From Data to Decisions: Why Data Storytelling Matters More Than Data Science](https://medium.com/@data-overload/from-data-to-decisions-why-data-storytelling-matters-more-than-data-science-1dd28896edde?source=rss------data_science-5)
+- [Creating AI : Bearing the Burden](https://medium.com/@orphanwatch/creating-ai-bearing-the-burden-c6cf2d4fb82a?source=rss------data_science-5)
+- [Turning Observability Context into Intelligent Action](https://pub.towardsai.net/turning-observability-context-into-intelligent-action-7443edc6f4c1?source=rss------data_science-5)
+- [The Teleporter Led Me to the Most Terrifying Question in the Universe
+I thought I was thinking…](https://medium.com/@ddfayef/the-teleporter-led-me-to-the-most-terrifying-question-in-the-universe-i-thought-i-was-thinking-389d91495496?source=rss------data_science-5)
+- [Interview Questions and Answers: Memory in Agentic AI](https://skphd.medium.com/interview-questions-and-answers-memory-in-agentic-ai-350d038fbca7?source=rss------data_science-5)
+- [LLMs and Same Hard Questions](https://medium.com/@farzan.jafeh/llms-and-same-hard-questions-160f32ce8a22?source=rss------data_science-5)
+- [The Five Types of Memory That Power Agentic AI](https://skphd.medium.com/the-five-types-of-memory-that-power-agentic-ai-134ed7700824?source=rss------data_science-5)
+- [Predição e Insights de Cancelamento de Clientes](https://medium.com/@victorgalves/predi%C3%A7%C3%A3o-e-insights-de-cancelamento-de-clientes-52c27b3317fb?source=rss------data_science-5)
+- [Když dron ztratí oči: Jak naučit stroje navigovat bez GPS](https://medium.com/@pavla.habanova/kdy%C5%BE-dron-ztrat%C3%AD-o%C4%8Di-jak-nau%C4%8Dit-stroje-navigovat-bez-gps-4baaca5d3fcf?source=rss------data_science-5)
+- [# The AWS Service Catalog, Decoded: What Every Non-Technical Professional Needs to Know](https://medium.com/@jariwalazaki/the-aws-service-catalog-decoded-what-every-non-technical-professional-needs-to-know-7352bf8f6392?source=rss------data_science-5)
+- [Ten from the weekend 05/30: A few interesting reads that I came](https://gopivikranth.medium.com/ten-from-the-weekend-05-30-a-few-interesting-reads-that-i-came-ce407a402003?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
