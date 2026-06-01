@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Creating AI : Bearing the Burden](https://medium.com/@orphanwatch/creating-ai-bearing-the-burden-c6cf2d4fb82a?source=rss------data_science-5)
-- [Turning Observability Context into Intelligent Action](https://pub.towardsai.net/turning-observability-context-into-intelligent-action-7443edc6f4c1?source=rss------data_science-5)
-- [The Teleporter Led Me to the Most Terrifying Question in the Universe
-I thought I was thinking…](https://medium.com/@ddfayef/the-teleporter-led-me-to-the-most-terrifying-question-in-the-universe-i-thought-i-was-thinking-389d91495496?source=rss------data_science-5)
-- [Interview Questions and Answers: Memory in Agentic AI](https://skphd.medium.com/interview-questions-and-answers-memory-in-agentic-ai-350d038fbca7?source=rss------data_science-5)
-- [LLMs and Same Hard Questions](https://medium.com/@farzan.jafeh/llms-and-same-hard-questions-160f32ce8a22?source=rss------data_science-5)
-- [The Five Types of Memory That Power Agentic AI](https://skphd.medium.com/the-five-types-of-memory-that-power-agentic-ai-134ed7700824?source=rss------data_science-5)
-- [Predição e Insights de Cancelamento de Clientes](https://medium.com/@victorgalves/predi%C3%A7%C3%A3o-e-insights-de-cancelamento-de-clientes-52c27b3317fb?source=rss------data_science-5)
-- [Když dron ztratí oči: Jak naučit stroje navigovat bez GPS](https://medium.com/@pavla.habanova/kdy%C5%BE-dron-ztrat%C3%AD-o%C4%8Di-jak-nau%C4%8Dit-stroje-navigovat-bez-gps-4baaca5d3fcf?source=rss------data_science-5)
-- [# The AWS Service Catalog, Decoded: What Every Non-Technical Professional Needs to Know](https://medium.com/@jariwalazaki/the-aws-service-catalog-decoded-what-every-non-technical-professional-needs-to-know-7352bf8f6392?source=rss------data_science-5)
-- [Ten from the weekend 05/30: A few interesting reads that I came](https://gopivikranth.medium.com/ten-from-the-weekend-05-30-a-few-interesting-reads-that-i-came-ce407a402003?source=rss------data_science-5)
+- [Our Startup Ran Out Of Runway. We Knew Three Months Before The Announcement.](https://medium.com/illumination/our-startup-ran-out-of-runway-we-knew-three-months-before-the-announcement-3a49578cdb8a?source=rss------data_science-5)
+- [8 Python Libraries That Made Me Build Like a Senior Engineer](https://blog.stackademic.com/8-python-libraries-that-made-me-build-like-a-senior-engineer-8e19eb85c3e5?source=rss------data_science-5)
+- [Como transformei 106 horas de vídeo em dados estruturados usando n8n, Gemini e BigQuery](https://medium.com/@guilhermediasmolina/como-transformei-106-horas-de-v%C3%ADdeo-em-dados-estruturados-usando-n8n-gemini-e-bigquery-1a49f1031726?source=rss------data_science-5)
+- [The Quiet Power of Bond Markets: How Investors Shape Nations Without Casting a Vote](https://medium.com/@BondStats/the-quiet-power-of-bond-markets-how-investors-shape-nations-without-casting-a-vote-ae0c392d87df?source=rss------data_science-5)
+- [Reaching for AI](https://medium.com/@18shreyaraj14/reaching-for-ai-94f9af11bafe?source=rss------data_science-5)
+- [My First AI Model Taught Me That More Accuracy Doesn’t Always Mean a Better Model](https://imedatalabs.medium.com/my-first-ai-model-taught-me-that-more-accuracy-doesnt-always-mean-a-better-model-b89782ca4c03?source=rss------data_science-5)
+- [Recency as Strategy: The Engineering Logic Behind LRU Cache](https://medium.com/@akeessokamouna17/recency-as-strategy-the-engineering-logic-behind-lru-cache-29f1034dbf02?source=rss------data_science-5)
+- [STON/USDt V2 Boost Farming Returns for Another Month](https://medium.com/@ka1396295/ston-usdt-v2-boost-farming-returns-for-another-month-418e4f722d7a?source=rss------data_science-5)
+- [Efficiency Alpha: The Margin Unlock](https://medium.com/@nickmgrossi/efficiency-alpha-the-margin-unlock-4629a8022569?source=rss------data_science-5)
+- [Give Me 5 Minutes, And You’ll Understand Quantum Computing](https://pub.towardsai.net/give-me-5-minutes-and-youll-understand-quantum-computing-677bbe2d078f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
