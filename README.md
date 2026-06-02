@@ -105,16 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Our Startup Ran Out Of Runway. We Knew Three Months Before The Announcement.](https://medium.com/illumination/our-startup-ran-out-of-runway-we-knew-three-months-before-the-announcement-3a49578cdb8a?source=rss------data_science-5)
-- [8 Python Libraries That Made Me Build Like a Senior Engineer](https://blog.stackademic.com/8-python-libraries-that-made-me-build-like-a-senior-engineer-8e19eb85c3e5?source=rss------data_science-5)
-- [Como transformei 106 horas de vídeo em dados estruturados usando n8n, Gemini e BigQuery](https://medium.com/@guilhermediasmolina/como-transformei-106-horas-de-v%C3%ADdeo-em-dados-estruturados-usando-n8n-gemini-e-bigquery-1a49f1031726?source=rss------data_science-5)
-- [The Quiet Power of Bond Markets: How Investors Shape Nations Without Casting a Vote](https://medium.com/@BondStats/the-quiet-power-of-bond-markets-how-investors-shape-nations-without-casting-a-vote-ae0c392d87df?source=rss------data_science-5)
-- [Reaching for AI](https://medium.com/@18shreyaraj14/reaching-for-ai-94f9af11bafe?source=rss------data_science-5)
-- [My First AI Model Taught Me That More Accuracy Doesn’t Always Mean a Better Model](https://imedatalabs.medium.com/my-first-ai-model-taught-me-that-more-accuracy-doesnt-always-mean-a-better-model-b89782ca4c03?source=rss------data_science-5)
-- [Recency as Strategy: The Engineering Logic Behind LRU Cache](https://medium.com/@akeessokamouna17/recency-as-strategy-the-engineering-logic-behind-lru-cache-29f1034dbf02?source=rss------data_science-5)
-- [STON/USDt V2 Boost Farming Returns for Another Month](https://medium.com/@ka1396295/ston-usdt-v2-boost-farming-returns-for-another-month-418e4f722d7a?source=rss------data_science-5)
-- [Efficiency Alpha: The Margin Unlock](https://medium.com/@nickmgrossi/efficiency-alpha-the-margin-unlock-4629a8022569?source=rss------data_science-5)
-- [Give Me 5 Minutes, And You’ll Understand Quantum Computing](https://pub.towardsai.net/give-me-5-minutes-and-youll-understand-quantum-computing-677bbe2d078f?source=rss------data_science-5)
+- [I Can Explain Neural Networks in 10 Minutes](https://medium.com/activated-thinker/i-can-explain-neural-networks-in-10-minutes-7dab5c0ef626?source=rss------data_science-5)
+- [The Variable You Didn’t Include Is Controlling Your Model](https://medium.com/@monte_b/the-variable-you-didnt-include-is-controlling-your-model-5951067aab79?source=rss------data_science-5)
+- [“From a rough, muddy road to a smooth and well-prepared roadway.](https://medium.com/@dieseld967/from-a-rough-muddy-road-to-a-smooth-and-well-prepared-roadway-04e77b85371b?source=rss------data_science-5)
+- [False Positives in A/B Testing: The Silent Killer of Growth Programs](https://medium.com/@atticusli/false-positives-in-a-b-testing-the-silent-killer-of-growth-programs-e79334deb239?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0933cf9cfee4?source=rss------data_science-5)
+- [How transaction network analysis catches laundering patterns that rule-based systems miss](https://pub.towardsai.net/how-transaction-network-analysis-catches-laundering-patterns-that-rule-based-systems-miss-b8dd1be00f75?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-917c68ce15f5?source=rss------data_science-5)
+- [The Next Frontier of Analytics: From Prediction to Behavior Change](https://medium.com/@clairemcdaniel_49454/the-next-frontier-of-analytics-from-prediction-to-behavior-change-9a4d73db0d06?source=rss------data_science-5)
+- [Introducing Vayu: On-Chain Liquidity Data, Down to the Tick](https://medium.com/@vayuindexing_49679/introducing-vayu-on-chain-liquidity-data-down-to-the-tick-4089984a0759?source=rss------data_science-5)
+- [Why We Spent Hundreds of Hours Creating 100+ Pages of Free Trading Content](https://medium.com/the-investors-handbook/why-we-spent-hundreds-of-hours-creating-100-pages-of-free-trading-content-5fabc6887029?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
