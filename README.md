@@ -105,18 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I Can Explain Neural Networks in 10 Minutes](https://medium.com/activated-thinker/i-can-explain-neural-networks-in-10-minutes-7dab5c0ef626?source=rss------data_science-5)
-- [The Variable You Didn’t Include Is Controlling Your Model](https://medium.com/@monte_b/the-variable-you-didnt-include-is-controlling-your-model-5951067aab79?source=rss------data_science-5)
-- [“From a rough, muddy road to a smooth and well-prepared roadway.](https://medium.com/@dieseld967/from-a-rough-muddy-road-to-a-smooth-and-well-prepared-roadway-04e77b85371b?source=rss------data_science-5)
-- [False Positives in A/B Testing: The Silent Killer of Growth Programs](https://medium.com/@atticusli/false-positives-in-a-b-testing-the-silent-killer-of-growth-programs-e79334deb239?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0933cf9cfee4?source=rss------data_science-5)
-- [How transaction network analysis catches laundering patterns that rule-based systems miss](https://pub.towardsai.net/how-transaction-network-analysis-catches-laundering-patterns-that-rule-based-systems-miss-b8dd1be00f75?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-917c68ce15f5?source=rss------data_science-5)
-- [The Next Frontier of Analytics: From Prediction to Behavior Change](https://medium.com/@clairemcdaniel_49454/the-next-frontier-of-analytics-from-prediction-to-behavior-change-9a4d73db0d06?source=rss------data_science-5)
-- [Introducing Vayu: On-Chain Liquidity Data, Down to the Tick](https://medium.com/@vayuindexing_49679/introducing-vayu-on-chain-liquidity-data-down-to-the-tick-4089984a0759?source=rss------data_science-5)
-- [Why We Spent Hundreds of Hours Creating 100+ Pages of Free Trading Content](https://medium.com/the-investors-handbook/why-we-spent-hundreds-of-hours-creating-100-pages-of-free-trading-content-5fabc6887029?source=rss------data_science-5)
+- [A Clinical Review of Creatine Monohydrate: Efficacy, Dosage, and Mechanism](https://medium.com/@ryzolabs/a-clinical-review-of-creatine-monohydrate-efficacy-dosage-and-mechanism-b2bd38fbd256?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-45551ed8e990?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a68851b2d55f?source=rss------data_science-5)
+- [*My Beloved Mahi*](https://medium.com/@sa6688127/my-beloved-mahi-924a9ec1a8b4?source=rss------data_science-5)
+- [Multivariate Testing vs A/B Testing: Which Should You Use?](https://medium.com/@atticusli/multivariate-testing-vs-a-b-testing-which-should-you-use-31a949dbb0b7?source=rss------data_science-5)
+- [The Data Partners Celebrating Claude Are Building Their Own Replacement](https://kundanj.medium.com/the-data-partners-celebrating-claude-are-building-their-own-replacement-b9f0e311f8d1?source=rss------data_science-5)
+- [Bayesian Models 101: A Data Scientist’s Guide to Probability, Prior Beliefs, and Production…](https://medium.com/@rccareers3004/bayesian-models-101-a-data-scientists-guide-to-probability-prior-beliefs-and-production-49edbcb35522?source=rss------data_science-5)
+- [Synthetic Control: Building a Counterfactual State](https://ajay-deshpande.medium.com/synthetic-control-building-a-counterfactual-state-439999eb4583?source=rss------data_science-5)
+- [The Patient Eye](https://medium.com/heart-revolution/the-patient-eye-817475b1d8a5?source=rss------data_science-5)
+- [A Digital Twin for the Third Pole: Modelling Nepal’s Hydropower Potential](https://medium.com/@raymajhiashish/a-digital-twin-for-the-third-pole-modelling-nepals-hydropower-potential-8cabbc2dff48?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
