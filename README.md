@@ -105,18 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Clinical Review of Creatine Monohydrate: Efficacy, Dosage, and Mechanism](https://medium.com/@ryzolabs/a-clinical-review-of-creatine-monohydrate-efficacy-dosage-and-mechanism-b2bd38fbd256?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-45551ed8e990?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a68851b2d55f?source=rss------data_science-5)
-- [*My Beloved Mahi*](https://medium.com/@sa6688127/my-beloved-mahi-924a9ec1a8b4?source=rss------data_science-5)
-- [Multivariate Testing vs A/B Testing: Which Should You Use?](https://medium.com/@atticusli/multivariate-testing-vs-a-b-testing-which-should-you-use-31a949dbb0b7?source=rss------data_science-5)
-- [The Data Partners Celebrating Claude Are Building Their Own Replacement](https://kundanj.medium.com/the-data-partners-celebrating-claude-are-building-their-own-replacement-b9f0e311f8d1?source=rss------data_science-5)
-- [Bayesian Models 101: A Data Scientist’s Guide to Probability, Prior Beliefs, and Production…](https://medium.com/@rccareers3004/bayesian-models-101-a-data-scientists-guide-to-probability-prior-beliefs-and-production-49edbcb35522?source=rss------data_science-5)
-- [Synthetic Control: Building a Counterfactual State](https://ajay-deshpande.medium.com/synthetic-control-building-a-counterfactual-state-439999eb4583?source=rss------data_science-5)
-- [The Patient Eye](https://medium.com/heart-revolution/the-patient-eye-817475b1d8a5?source=rss------data_science-5)
-- [A Digital Twin for the Third Pole: Modelling Nepal’s Hydropower Potential](https://medium.com/@raymajhiashish/a-digital-twin-for-the-third-pole-modelling-nepals-hydropower-potential-8cabbc2dff48?source=rss------data_science-5)
+- [The Prediction Industry](https://medium.com/@ottoplane/the-prediction-industry-a48cc8069915?source=rss------data_science-5)
+- [The Database Never Forgets](https://medium.com/@ottoplane/the-database-never-forgets-3fb2e9b09ef6?source=rss------data_science-5)
+- [The annotation quality death spiral: why RLHF breaks exactly when you think it’s working](https://towardsaws.com/the-annotation-quality-death-spiral-why-rlhf-breaks-exactly-when-you-think-its-working-5bf6abf6dcef?source=rss------data_science-5)
+- [MiniMax M3 Just Killed Closed-Source Models](https://pub.towardsai.net/minimax-m3-just-killed-closed-source-models-21ba7c56b052?source=rss------data_science-5)
+- [The Day I Realized My Data Science Models Were Lying to Me](https://medium.com/h7w/the-day-i-realized-my-data-science-models-were-lying-to-me-77c7fa39a34d?source=rss------data_science-5)
+- [What “Learning from Data” Actually Means Before Any Model](https://medium.com/@zainkhoso45/what-learning-from-data-actually-means-before-any-model-84acc939c05b?source=rss------data_science-5)
+- [# PhoenixAI: Can the Agentic AI Database Challenge Databricks and Snowflake?](https://medium.com/@fahey_james/phoenixai-can-the-agentic-ai-database-challenge-databricks-and-snowflake-f949a0d1aee1?source=rss------data_science-5)
+- [I Tried Building Claude Code From Scratch | Here’s How Far I Got](https://pub.towardsai.net/i-tried-building-claude-code-from-scratch-heres-how-far-i-got-9ba607a81787?source=rss------data_science-5)
+- [Harm Served Invalid](https://medium.com/@XPII/harm-served-invalid-a661e46347ba?source=rss------data_science-5)
+- [On the Origin of the Background Coupling in a Two-Sheet Cosmology: De Sitter-Branch Reduction, the…](https://medium.com/@mattygh01/on-the-origin-of-the-background-coupling-in-a-two-sheet-cosmology-de-sitter-branch-reduction-the-333abfba799b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
