@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Prediction Industry](https://medium.com/@ottoplane/the-prediction-industry-a48cc8069915?source=rss------data_science-5)
-- [The Database Never Forgets](https://medium.com/@ottoplane/the-database-never-forgets-3fb2e9b09ef6?source=rss------data_science-5)
-- [The annotation quality death spiral: why RLHF breaks exactly when you think it’s working](https://towardsaws.com/the-annotation-quality-death-spiral-why-rlhf-breaks-exactly-when-you-think-its-working-5bf6abf6dcef?source=rss------data_science-5)
-- [MiniMax M3 Just Killed Closed-Source Models](https://pub.towardsai.net/minimax-m3-just-killed-closed-source-models-21ba7c56b052?source=rss------data_science-5)
-- [The Day I Realized My Data Science Models Were Lying to Me](https://medium.com/h7w/the-day-i-realized-my-data-science-models-were-lying-to-me-77c7fa39a34d?source=rss------data_science-5)
-- [What “Learning from Data” Actually Means Before Any Model](https://medium.com/@zainkhoso45/what-learning-from-data-actually-means-before-any-model-84acc939c05b?source=rss------data_science-5)
-- [# PhoenixAI: Can the Agentic AI Database Challenge Databricks and Snowflake?](https://medium.com/@fahey_james/phoenixai-can-the-agentic-ai-database-challenge-databricks-and-snowflake-f949a0d1aee1?source=rss------data_science-5)
-- [I Tried Building Claude Code From Scratch | Here’s How Far I Got](https://pub.towardsai.net/i-tried-building-claude-code-from-scratch-heres-how-far-i-got-9ba607a81787?source=rss------data_science-5)
-- [Harm Served Invalid](https://medium.com/@XPII/harm-served-invalid-a661e46347ba?source=rss------data_science-5)
-- [On the Origin of the Background Coupling in a Two-Sheet Cosmology: De Sitter-Branch Reduction, the…](https://medium.com/@mattygh01/on-the-origin-of-the-background-coupling-in-a-two-sheet-cosmology-de-sitter-branch-reduction-the-333abfba799b?source=rss------data_science-5)
+- [Insights : AI Agents Into Production with Real Data](https://medium.com/@shruti.mandaokar/insights-ai-agents-into-production-with-real-data-da82f84ac9d5?source=rss------data_science-5)
+- [The 2026 F1 Reliability Crisis &amp; 2027 Regulatory Outlook: From Failure Patterns to Inevitable Fixes](https://medium.com/@1583195188/the-2026-f1-reliability-crisis-2027-regulatory-outlook-from-failure-patterns-to-inevitable-fixes-34e3fb63700f?source=rss------data_science-5)
+- [Implementing Customer Segmentation in Python: From Transactions to Actionable Customer Groups](https://medium.com/@deolesopan/implementing-customer-segmentation-in-python-from-transactions-to-actionable-customer-groups-8ee3ffe51620?source=rss------data_science-5)
+- [Hedge funds don’t just trade stocks.](https://medium.com/@BondStats/hedge-funds-dont-just-trade-stocks-c6df7474a271?source=rss------data_science-5)
+- [Comparing YOLO 8 and GCP AutoML for Object Detection](https://medium.com/@Faraz_EA/comparing-yolo-8-and-gcp-automl-for-modern-object-detection-4a4d2e994a6e?source=rss------data_science-5)
+- [I Asked an AI if Love and Hate Are Similar. It Said Yes.](https://pub.towardsai.net/i-asked-an-ai-if-love-and-hate-are-similar-it-said-yes-e5aa4289c199?source=rss------data_science-5)
+- [From Gambling Tables to Bell Curves: The History of Statistical Distributions](https://epiren.medium.com/from-gambling-tables-to-bell-curves-the-history-of-statistical-distributions-480442e6002d?source=rss------data_science-5)
+- [Hidden Treasure in Geology and Gemology: Type IA‑Cu as the Catalyst for Crystallized Beryl Copper…](https://medium.com/@wegobusinessworld/hidden-treasure-in-geology-and-gemology-type-ia-cu-as-the-catalyst-for-crystallized-beryl-copper-48df8c59e408?source=rss------data_science-5)
+- [Key, Query, and Value Framework](https://ai.carlosrojas.dev/key-query-and-value-framework-c9351e12e06a?source=rss------data_science-5)
+- [How I Work With Stakeholders Who Don’t Speak “Data”](https://medium.com/@muthengm/how-i-work-with-stakeholders-who-dont-speak-data-7a1cb9645151?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
