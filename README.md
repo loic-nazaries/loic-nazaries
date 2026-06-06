@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Insights : AI Agents Into Production with Real Data](https://medium.com/@shruti.mandaokar/insights-ai-agents-into-production-with-real-data-da82f84ac9d5?source=rss------data_science-5)
-- [The 2026 F1 Reliability Crisis &amp; 2027 Regulatory Outlook: From Failure Patterns to Inevitable Fixes](https://medium.com/@1583195188/the-2026-f1-reliability-crisis-2027-regulatory-outlook-from-failure-patterns-to-inevitable-fixes-34e3fb63700f?source=rss------data_science-5)
-- [Implementing Customer Segmentation in Python: From Transactions to Actionable Customer Groups](https://medium.com/@deolesopan/implementing-customer-segmentation-in-python-from-transactions-to-actionable-customer-groups-8ee3ffe51620?source=rss------data_science-5)
-- [Hedge funds don’t just trade stocks.](https://medium.com/@BondStats/hedge-funds-dont-just-trade-stocks-c6df7474a271?source=rss------data_science-5)
-- [Comparing YOLO 8 and GCP AutoML for Object Detection](https://medium.com/@Faraz_EA/comparing-yolo-8-and-gcp-automl-for-modern-object-detection-4a4d2e994a6e?source=rss------data_science-5)
-- [I Asked an AI if Love and Hate Are Similar. It Said Yes.](https://pub.towardsai.net/i-asked-an-ai-if-love-and-hate-are-similar-it-said-yes-e5aa4289c199?source=rss------data_science-5)
-- [From Gambling Tables to Bell Curves: The History of Statistical Distributions](https://epiren.medium.com/from-gambling-tables-to-bell-curves-the-history-of-statistical-distributions-480442e6002d?source=rss------data_science-5)
-- [Hidden Treasure in Geology and Gemology: Type IA‑Cu as the Catalyst for Crystallized Beryl Copper…](https://medium.com/@wegobusinessworld/hidden-treasure-in-geology-and-gemology-type-ia-cu-as-the-catalyst-for-crystallized-beryl-copper-48df8c59e408?source=rss------data_science-5)
-- [Key, Query, and Value Framework](https://ai.carlosrojas.dev/key-query-and-value-framework-c9351e12e06a?source=rss------data_science-5)
-- [How I Work With Stakeholders Who Don’t Speak “Data”](https://medium.com/@muthengm/how-i-work-with-stakeholders-who-dont-speak-data-7a1cb9645151?source=rss------data_science-5)
+- [AI Is Growing, So How Will We Trust It?](https://medium.com/@vevivo/ai-is-growing-so-how-will-we-trust-it-7d9f94848f4b?source=rss------data_science-5)
+- [Navigating Financial Uncertainty: A Strategic Introduction to Risk Modeling with Python](https://medium.com/@howaicheng2005/navigating-financial-uncertainty-a-strategic-introduction-to-risk-modeling-with-python-23f0ced8a3b7?source=rss------data_science-5)
+- [How Local-First AI Architectures Address Compliance and Data Pipeline Issues in Modern Enterprises](https://pub.towardsai.net/how-local-first-ai-architectures-address-compliance-and-data-pipeline-issues-in-modern-enterprises-ba097f3f4ad7?source=rss------data_science-5)
+- [Pix vs. Cartão de Débito: Como o Pix Redefiniu os Pagamentos no Brasil &lpar;2020–2025&rpar;](https://medium.com/@ryangregory.wav/pix-vs-cart%C3%A3o-de-d%C3%A9bito-como-o-pix-redefiniu-os-pagamentos-no-brasil-2020-2025-2d09b5dd0b32?source=rss------data_science-5)
+- [How I Landed Job Interviews and Rebuilt My Skills After a Career Break](https://medium.com/@sophie_62065/how-i-landed-job-interviews-and-rebuilt-my-skills-after-a-career-break-ae0774d7c342?source=rss------data_science-5)
+- [What AI Startups Look for in New Grad Hires](https://medium.com/fonzi-ai/what-ai-startups-look-for-in-new-grad-hires-fe1bfcdfc798?source=rss------data_science-5)
+- [Beyond default: A practitioner’s guide to production-ready Plotly visualizations](https://medium.com/@vrkksharma/beyond-default-a-practitioners-guide-to-production-ready-plotly-visualizations-44a1941fa405?source=rss------data_science-5)
+- [Hello World! Python development, ahoy!](https://medium.com/@sheparjd/hello-world-python-development-ahoy-c5311ba82f08?source=rss------data_science-5)
+- [I Built a GAN That Generates Fake Bank Fraud Data — Here’s What Actually Happened](https://medium.com/@suryabhaisince2002/i-built-a-gan-that-generates-fake-bank-fraud-data-heres-what-actually-happened-9ed58400c6f5?source=rss------data_science-5)
+- [Fraud Detection in Kenya: How Data Science Can Protect Mobile Money and Digital Payments](https://medium.com/@werpo/fraud-detection-in-kenya-how-data-science-can-protect-mobile-money-and-digital-payments-48c7d76ad4c1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
