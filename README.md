@@ -105,16 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [In re the Matter of Patron Needs — How Judges’ Rulings and Case Filings Provide a Roadmap for Law…](https://medium.com/@graysonscott/in-re-the-matter-of-patron-needs-how-judges-rulings-and-case-filings-provide-a-roadmap-for-law-9b60a0f1a555?source=rss------data_science-5)
-- [How To Register Domains With Cloudflare](https://medium.com/@kaklotarrahul79/how-to-register-domains-with-cloudflare-589c4586bc9c?source=rss------data_science-5)
-- [02. Your Brain Is The System Vulnerability](https://medium.com/@imryancampher/02-your-brain-is-the-system-vulnerability-e06752f5e8cc?source=rss------data_science-5)
-- [How Data Visualization Helps Decision-Making](https://medium.com/@mumthas/how-data-visualization-helps-decision-making-83c77670add1?source=rss------data_science-5)
-- [Why Your Imbalanced Dataset Strategy Is Probably Wrong &lpar;And What Actually Works&rpar;](https://medium.com/@uvstharun183/why-your-imbalanced-dataset-strategy-is-probably-wrong-and-what-actually-works-38af7fcd4466?source=rss------data_science-5)
-- [Agentic Airflow: Using AI Agents to Troubleshoot DAG Failures](https://medium.com/@amorgante/agentic-airflow-using-ai-agents-to-troubleshoot-dag-failures-37ccfeb4aa25?source=rss------data_science-5)
-- [Building a Gender Balance Microsimulation from Scratch](https://medium.com/@tanselarif21/building-a-gender-balance-microsimulation-from-scratch-7c8d915f500b?source=rss------data_science-5)
-- [The New Oil Is A Grain Of Sand](https://medium.com/curiosity-explained/the-new-oil-is-a-grain-of-sand-1c3893b977bb?source=rss------data_science-5)
-- [Once upon a time, there was a student named Aarav who was curious about how businesses made…](https://medium.com/@aasifkhanaasifkhan_43783/once-upon-a-time-there-was-a-student-named-aarav-who-was-curious-about-how-businesses-made-24fe09235969?source=rss------data_science-5)
-- [Randomization Works in Experiments, Even Without Balance](https://medium.com/@jarom.hulet/randomization-works-in-experiments-even-without-balance-e926384f80c8?source=rss------data_science-5)
+- [The Interview Question Engineers Forget to Ask](https://medium.com/fonzi-ai/the-interview-question-engineers-forget-to-ask-231f50ddb6cd?source=rss------data_science-5)
+- [Let’s Build a Text-to-SQL Project Using LLM](https://pub.towardsai.net/lets-build-a-text-to-sql-project-using-llm-83c7cbb1d2d4?source=rss------data_science-5)
+- [The Notebook That Science Built Its Future On Is Broken. Here’s the Proof — and the Fix.](https://ai.gopubby.com/the-notebook-that-science-built-its-future-on-is-broken-heres-the-proof-and-the-fix-40d1108ee6f2?source=rss------data_science-5)
+- [The War That Remade Iran: Strategic Gains from the 2026 Conflict](https://medium.com/@globalgeopolitics/the-war-that-remade-iran-strategic-gains-from-the-2026-conflict-b3e7b0459ed4?source=rss------data_science-5)
+- [8 Python Libraries That Make Professional Development Easier](https://blog.stackademic.com/8-python-libraries-that-make-professional-development-easier-7b8b33973ee4?source=rss------data_science-5)
+- [093382شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره خاله#…](https://medium.com/@adggfcbjfdx/093382%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-79ca09e8be54?source=rss------data_science-5)
+- [093شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره خاله#…](https://medium.com/@adggfcbjfdx/093%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-7cf2d03eaf40?source=rss------data_science-5)
+- [Data Cleaning Fundamentals: Detecting and Removing Duplicate Records](https://medium.com/@bskky001/data-cleaning-fundamentals-detecting-and-removing-duplicate-records-f9db506aeb90?source=rss------data_science-5)
+- [Why Your RAG Pipeline Is Silently Failing — And What the Math Actually Tells You](https://medium.com/@abinjustinkumaravel/why-your-rag-pipeline-is-silently-failing-and-what-the-math-actually-tells-you-6feaf571ca36?source=rss------data_science-5)
+- [BBN as a Constraint on the Dual Sheet Model: Background Safety and the Relic Question](https://medium.com/@mattygh01/bbn-as-a-constraint-on-the-dual-sheet-model-background-safety-and-the-relic-question-6ef9646cc88b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
