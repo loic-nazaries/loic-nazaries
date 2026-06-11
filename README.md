@@ -105,18 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Attention? Não. Memory Cache Is All You Need.](https://medium.com/@profgerlancsilva/attention-n%C3%A3o-memory-cache-is-all-you-need-49374aa0fb67?source=rss------data_science-5)
-- [The Bayesian Revolution in Clinical Trials: Principles and Applications](https://medium.com/@lifeflexi818/the-bayesian-revolution-in-clinical-trials-principles-and-applications-d1ad05d98fc8?source=rss------data_science-5)
-- [How To Set Up a Free VPS Server on Oracle Cloud &lpar;Step-by-Step&rpar;](https://medium.com/@kaklotarrahul79/how-to-set-up-a-free-vps-server-on-oracle-cloud-step-by-step-2cd773b41076?source=rss------data_science-5)
-- [Data in Motion or Data at Rest: A Practical Framework for When to Test Your Data](https://medium.com/@santosh_mehtre/data-in-motion-or-data-at-rest-a-practical-framework-for-when-to-test-your-data-d044311273ad?source=rss------data_science-5)
-- [How Long Should You Run an A/B Test? The Complete Duration Guide](https://medium.com/@atticusli/how-long-should-you-run-an-a-b-test-the-complete-duration-guide-40a624681cbf?source=rss------data_science-5)
-- [The Agent Runtime Is the Product Now](https://kundanj.medium.com/the-agent-runtime-is-the-product-now-f794591e69a2?source=rss------data_science-5)
-- [09378431470ماره تهران تبریزشماره مراغه، مرند و میانه
-شماره ارومیه شماره خوی، شماره میاندوآب شماره…](https://medium.com/@whwhwhwgwgwgahshsgwhwhwhwhwhwh/09378431470%D9%85%D8%A7%D8%B1%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D9%85%D8%B1%D8%A7%D8%BA%D9%87-%D9%85%D8%B1%D9%86%D8%AF-%D9%88-%D9%85%DB%8C%D8%A7%D9%86%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D9%88%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D9%85%DB%8C%D8%A7%D9%86%D8%AF%D9%88%D8%A2%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2303c6903b4a?source=rss------data_science-5)
-- [09378431470ماره تهران تبریزشماره مراغه، مرند و میانه
-شماره ارومیه شماره خوی، شماره میاندوآب شماره…](https://medium.com/@whwhwhwgwgwgahshsgwhwhwhwhwhwh/09378431470%D9%85%D8%A7%D8%B1%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D9%85%D8%B1%D8%A7%D8%BA%D9%87-%D9%85%D8%B1%D9%86%D8%AF-%D9%88-%D9%85%DB%8C%D8%A7%D9%86%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D9%88%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D9%85%DB%8C%D8%A7%D9%86%D8%AF%D9%88%D8%A2%D8%A8-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-724238302596?source=rss------data_science-5)
-- [From Autocomplete to ChatGPT: What Generative AI Actually Is &lpar;And How It Works&rpar;](https://medium.com/@jeevanvishwa06/from-autocomplete-to-chatgpt-what-generative-ai-actually-is-and-how-it-works-b6b1cad1b93a?source=rss------data_science-5)
-- [Big5 Personality Analysis with DuckDB and Parquet: A Philosophical and Technical Framework](https://medium.com/@synmonia/big5-personality-analysis-with-duckdb-and-parquet-a-philosophical-and-technical-framework-ee914d78b516?source=rss------data_science-5)
+- [A Practical Guide to Linear Regression Assumptions &lpar;And How to Fix Them&rpar;](https://medium.com/@varun.choudhary_36364/a-practical-guide-to-linear-regression-assumptions-and-how-to-fix-them-bca5a254d949?source=rss------data_science-5)
+- [Biological Insights for Advancing AGI](https://medium.com/@writerofmind/biological-insights-for-advancing-agi-13d5e30e6dae?source=rss------data_science-5)
+- [The Net Neutrality Argument Made From A Vegas Buffet](https://medium.com/@jj126979/the-net-neutrality-argument-made-from-a-vegas-buffet-da6cf6d39a9c?source=rss------data_science-5)
+- [AI Is Running Out of Road. These Numbers Show Why Quantum Is the Only Detour.](https://pub.towardsai.net/ai-is-running-out-of-road-these-numbers-show-why-quantum-is-the-only-detour-29c92470e3ee?source=rss------data_science-5)
+- [One-Tailed vs Two-Tailed Tests: Does It Actually Matter?](https://medium.com/@atticusli/one-tailed-vs-two-tailed-tests-does-it-actually-matter-922fcda7b06a?source=rss------data_science-5)
+- [Cross-Validation Explained: Why Your Train/Test Split Is Not Enough](https://medium.com/@uvstharun183/cross-validation-explained-why-your-train-test-split-is-not-enough-8acfdc3d1e4f?source=rss------data_science-5)
+- [Your AI Agent Is Trapped in Your Cave.](https://medium.com/design-bootcamp/your-ai-agent-is-trapped-in-your-cave-32733b11f328?source=rss------data_science-5)
+- [Building My First Sales Dashboard](https://medium.com/@omoboriowofolashade67/building-my-first-sales-dashboard-e9e5785d738b?source=rss------data_science-5)
+- [How to Build Financial Services AI Agents with Claude](https://odsc.medium.com/how-to-build-financial-services-ai-agents-with-claude-197912713ad6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
