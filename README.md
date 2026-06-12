@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Practical Guide to Linear Regression Assumptions &lpar;And How to Fix Them&rpar;](https://medium.com/@varun.choudhary_36364/a-practical-guide-to-linear-regression-assumptions-and-how-to-fix-them-bca5a254d949?source=rss------data_science-5)
-- [Biological Insights for Advancing AGI](https://medium.com/@writerofmind/biological-insights-for-advancing-agi-13d5e30e6dae?source=rss------data_science-5)
-- [The Net Neutrality Argument Made From A Vegas Buffet](https://medium.com/@jj126979/the-net-neutrality-argument-made-from-a-vegas-buffet-da6cf6d39a9c?source=rss------data_science-5)
-- [AI Is Running Out of Road. These Numbers Show Why Quantum Is the Only Detour.](https://pub.towardsai.net/ai-is-running-out-of-road-these-numbers-show-why-quantum-is-the-only-detour-29c92470e3ee?source=rss------data_science-5)
-- [One-Tailed vs Two-Tailed Tests: Does It Actually Matter?](https://medium.com/@atticusli/one-tailed-vs-two-tailed-tests-does-it-actually-matter-922fcda7b06a?source=rss------data_science-5)
-- [Cross-Validation Explained: Why Your Train/Test Split Is Not Enough](https://medium.com/@uvstharun183/cross-validation-explained-why-your-train-test-split-is-not-enough-8acfdc3d1e4f?source=rss------data_science-5)
-- [Your AI Agent Is Trapped in Your Cave.](https://medium.com/design-bootcamp/your-ai-agent-is-trapped-in-your-cave-32733b11f328?source=rss------data_science-5)
-- [Building My First Sales Dashboard](https://medium.com/@omoboriowofolashade67/building-my-first-sales-dashboard-e9e5785d738b?source=rss------data_science-5)
-- [How to Build Financial Services AI Agents with Claude](https://odsc.medium.com/how-to-build-financial-services-ai-agents-with-claude-197912713ad6?source=rss------data_science-5)
+- [Innovative Low-Voltage Security Solutions for California](https://medium.com/@cctvss/innovative-low-voltage-security-solutions-for-california-35f706eba4be?source=rss------data_science-5)
+- [You Know Your Model Is Biased. Now What? Instrumental Variables Explained.](https://medium.com/@monte_b/you-know-your-model-is-biased-now-what-instrumental-variables-explained-a5f453772e0c?source=rss------data_science-5)
+- [I Built a Python Lead Generation Machine That Found 10,000 Potential Customers While I Slept](https://python.plainenglish.io/i-built-a-python-lead-generation-machine-that-found-10-000-potential-customers-while-i-slept-65630eb53806?source=rss------data_science-5)
+- [Sample Size Calculation for A/B Tests: Getting It Right Before You Start](https://medium.com/@atticusli/sample-size-calculation-for-a-b-tests-getting-it-right-before-you-start-cb0976c97b49?source=rss------data_science-5)
+- [How ChatGPT Actually Works &lpar;Beginner Friendly&rpar;](https://medium.com/@ruchikamotwani20/how-chatgpt-actually-works-beginner-friendly-d8e2c04d28cf?source=rss------data_science-5)
+- [Feature Selection Techniques in Machine Learning](https://medium.com/@anu12670/feature-selection-techniques-in-machine-learning-ab522366b8f5?source=rss------data_science-5)
+- [From Tour Buses to Data Science](https://medium.com/@williamskevin1968/from-tour-buses-to-data-science-90ba1be65698?source=rss------data_science-5)
+- [The Science of Recovery: From Depletion to Integrated Agency](https://medium.com/@svetlana.dash313/the-science-of-recovery-from-depletion-to-integrated-agency-9e41bdd2cf46?source=rss------data_science-5)
+- [The Ancient Algorithm: What Numerology and AI Have in Common &lpar;And Where They Part Ways&rpar;](https://amanda-n-george.medium.com/the-ancient-algorithm-what-numerology-and-ai-have-in-common-and-where-they-part-ways-b686bc604c6d?source=rss------data_science-5)
+- [DuckDB・Marimo・Quarto・Parquet — — 技術的進化と人間的意味の交差点](https://medium.com/@synmonia/duckdb-marimo-quarto-parquet-%E6%8A%80%E8%A1%93%E7%9A%84%E9%80%B2%E5%8C%96%E3%81%A8%E4%BA%BA%E9%96%93%E7%9A%84%E6%84%8F%E5%91%B3%E3%81%AE%E4%BA%A4%E5%B7%AE%E7%82%B9-9fb84dd53519?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
