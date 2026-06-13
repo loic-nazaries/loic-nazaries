@@ -105,16 +105,13 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Innovative Low-Voltage Security Solutions for California](https://medium.com/@cctvss/innovative-low-voltage-security-solutions-for-california-35f706eba4be?source=rss------data_science-5)
-- [You Know Your Model Is Biased. Now What? Instrumental Variables Explained.](https://medium.com/@monte_b/you-know-your-model-is-biased-now-what-instrumental-variables-explained-a5f453772e0c?source=rss------data_science-5)
-- [I Built a Python Lead Generation Machine That Found 10,000 Potential Customers While I Slept](https://python.plainenglish.io/i-built-a-python-lead-generation-machine-that-found-10-000-potential-customers-while-i-slept-65630eb53806?source=rss------data_science-5)
-- [Sample Size Calculation for A/B Tests: Getting It Right Before You Start](https://medium.com/@atticusli/sample-size-calculation-for-a-b-tests-getting-it-right-before-you-start-cb0976c97b49?source=rss------data_science-5)
-- [How ChatGPT Actually Works &lpar;Beginner Friendly&rpar;](https://medium.com/@ruchikamotwani20/how-chatgpt-actually-works-beginner-friendly-d8e2c04d28cf?source=rss------data_science-5)
-- [Feature Selection Techniques in Machine Learning](https://medium.com/@anu12670/feature-selection-techniques-in-machine-learning-ab522366b8f5?source=rss------data_science-5)
-- [From Tour Buses to Data Science](https://medium.com/@williamskevin1968/from-tour-buses-to-data-science-90ba1be65698?source=rss------data_science-5)
-- [The Science of Recovery: From Depletion to Integrated Agency](https://medium.com/@svetlana.dash313/the-science-of-recovery-from-depletion-to-integrated-agency-9e41bdd2cf46?source=rss------data_science-5)
-- [The Ancient Algorithm: What Numerology and AI Have in Common &lpar;And Where They Part Ways&rpar;](https://amanda-n-george.medium.com/the-ancient-algorithm-what-numerology-and-ai-have-in-common-and-where-they-part-ways-b686bc604c6d?source=rss------data_science-5)
-- [DuckDB・Marimo・Quarto・Parquet — — 技術的進化と人間的意味の交差点](https://medium.com/@synmonia/duckdb-marimo-quarto-parquet-%E6%8A%80%E8%A1%93%E7%9A%84%E9%80%B2%E5%8C%96%E3%81%A8%E4%BA%BA%E9%96%93%E7%9A%84%E6%84%8F%E5%91%B3%E3%81%AE%E4%BA%A4%E5%B7%AE%E7%82%B9-9fb84dd53519?source=rss------data_science-5)
+- [صیغه حلال شرعی صیغه حلال مشهد صیغه حلال موقت](https://medium.com/@s35967491/%D8%B5%DB%8C%D8%BA%D9%87-%D8%AD%D9%84%D8%A7%D9%84-%D8%B4%D8%B1%D8%B9%DB%8C-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AD%D9%84%D8%A7%D9%84-%D9%85%D8%B4%D9%87%D8%AF-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AD%D9%84%D8%A7%D9%84-%D9%85%D9%88%D9%82%D8%AA-26a0ba627961?source=rss------data_science-5)
+- [External Validity Threats: Why Your A/B Test Results Might Not Generalize](https://medium.com/@atticusli/external-validity-threats-why-your-a-b-test-results-might-not-generalize-38131a277c2e?source=rss------data_science-5)
+- [Vapi Review 2026: The Main Caveat With Voice AI Agents](https://medium.com/@elena.voss/vapi-review-2026-the-main-caveat-with-voice-ai-agents-36bbc16a4983?source=rss------data_science-5)
+- [The Hidden Dependency Behind Reliable AI Agents](https://aradsouza.medium.com/the-hidden-dependency-behind-reliable-ai-agents-a5b60c36a4e2?source=rss------data_science-5)
+- [The Golden Ball Deserves a Formula: A Data-Driven Take on Football’s Most Debated Award](https://medium.com/@ikakke.ikpe/the-golden-ball-deserves-a-formula-a-data-driven-take-on-footballs-most-debated-award-cccc7d9f0824?source=rss------data_science-5)
+- [09918041424](https://medium.com/@keyikveospotcom/09918041424-91320656366c?source=rss------data_science-5)
+- [Spark Joy: How I Cut 100M Record Processing from 4.5 Minutes to 76 Seconds](https://medium.com/no-docs-given/spark-joy-how-i-cut-100m-record-processing-from-4-5-minutes-to-76-seconds-6c37689c6886?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
