@@ -105,13 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [صیغه حلال شرعی صیغه حلال مشهد صیغه حلال موقت](https://medium.com/@s35967491/%D8%B5%DB%8C%D8%BA%D9%87-%D8%AD%D9%84%D8%A7%D9%84-%D8%B4%D8%B1%D8%B9%DB%8C-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AD%D9%84%D8%A7%D9%84-%D9%85%D8%B4%D9%87%D8%AF-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AD%D9%84%D8%A7%D9%84-%D9%85%D9%88%D9%82%D8%AA-26a0ba627961?source=rss------data_science-5)
-- [External Validity Threats: Why Your A/B Test Results Might Not Generalize](https://medium.com/@atticusli/external-validity-threats-why-your-a-b-test-results-might-not-generalize-38131a277c2e?source=rss------data_science-5)
-- [Vapi Review 2026: The Main Caveat With Voice AI Agents](https://medium.com/@elena.voss/vapi-review-2026-the-main-caveat-with-voice-ai-agents-36bbc16a4983?source=rss------data_science-5)
-- [The Hidden Dependency Behind Reliable AI Agents](https://aradsouza.medium.com/the-hidden-dependency-behind-reliable-ai-agents-a5b60c36a4e2?source=rss------data_science-5)
-- [The Golden Ball Deserves a Formula: A Data-Driven Take on Football’s Most Debated Award](https://medium.com/@ikakke.ikpe/the-golden-ball-deserves-a-formula-a-data-driven-take-on-footballs-most-debated-award-cccc7d9f0824?source=rss------data_science-5)
-- [09918041424](https://medium.com/@keyikveospotcom/09918041424-91320656366c?source=rss------data_science-5)
-- [Spark Joy: How I Cut 100M Record Processing from 4.5 Minutes to 76 Seconds](https://medium.com/no-docs-given/spark-joy-how-i-cut-100m-record-processing-from-4-5-minutes-to-76-seconds-6c37689c6886?source=rss------data_science-5)
+- [I Built an AI to Measure Football Miracles. The Greatest One Is Moroccan.](https://medium.com/@ik.achraf04/i-built-an-ai-to-measure-football-miracles-the-greatest-one-is-moroccan-413f4d585416?source=rss------data_science-5)
+- [Databricks Just Changed Data Engineering Forever](https://cloudwithazeem.medium.com/databricks-just-changed-data-engineering-forever-44e23d3f0204?source=rss------data_science-5)
+- [ON CONSCIENCE](https://medium.com/@kieuthed2009/on-conscience-6a6ed4ec9be0?source=rss------data_science-5)
+- [Kimi K2.7 Code vs Claude Mythos &amp; Fable](https://medium.com/data-science-in-your-pocket/kimi-k2-7-code-vs-claude-mythos-fable-fcb3c58fb915?source=rss------data_science-5)
+- [Top YouTube Channels to Learn Generative AI](https://medium.com/@apexdelight2518/top-youtube-channels-to-learn-generative-ai-706d903b877a?source=rss------data_science-5)
+- [Self-Hosting Airflow at Home: Automating Stock Price Data Collection](https://medium.com/analytics-vidhya/self-hosting-airflow-in-a-home-lab-to-get-up-to-date-stock-ticker-price-data-fff4e57a5243?source=rss------data_science-5)
+- [The Baltic Sea Mystery That Refuses to Go Away](https://medium.com/@teeyoung9912/the-baltic-sea-mystery-that-refuses-to-go-away-24c9f1f531c1?source=rss------data_science-5)
+- [# The Ladder Pulled Up Behind Them](https://freepressforward.medium.com/the-ladder-pulled-up-behind-them-820b5c27a184?source=rss------data_science-5)
+- [What Is the Petrodollar?](https://medium.com/@BondStats/what-is-the-petrodollar-ebb907f2a8cc?source=rss------data_science-5)
+- [The reptile downstream of the server farm](https://medium.com/wilderness-medicine-guide/the-reptile-downstream-of-the-server-farm-f76cae60f269?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
