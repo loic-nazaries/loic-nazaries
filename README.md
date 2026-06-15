@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I Built an AI to Measure Football Miracles. The Greatest One Is Moroccan.](https://medium.com/@ik.achraf04/i-built-an-ai-to-measure-football-miracles-the-greatest-one-is-moroccan-413f4d585416?source=rss------data_science-5)
-- [Databricks Just Changed Data Engineering Forever](https://cloudwithazeem.medium.com/databricks-just-changed-data-engineering-forever-44e23d3f0204?source=rss------data_science-5)
-- [ON CONSCIENCE](https://medium.com/@kieuthed2009/on-conscience-6a6ed4ec9be0?source=rss------data_science-5)
-- [Kimi K2.7 Code vs Claude Mythos &amp; Fable](https://medium.com/data-science-in-your-pocket/kimi-k2-7-code-vs-claude-mythos-fable-fcb3c58fb915?source=rss------data_science-5)
-- [Top YouTube Channels to Learn Generative AI](https://medium.com/@apexdelight2518/top-youtube-channels-to-learn-generative-ai-706d903b877a?source=rss------data_science-5)
-- [Self-Hosting Airflow at Home: Automating Stock Price Data Collection](https://medium.com/analytics-vidhya/self-hosting-airflow-in-a-home-lab-to-get-up-to-date-stock-ticker-price-data-fff4e57a5243?source=rss------data_science-5)
-- [The Baltic Sea Mystery That Refuses to Go Away](https://medium.com/@teeyoung9912/the-baltic-sea-mystery-that-refuses-to-go-away-24c9f1f531c1?source=rss------data_science-5)
-- [# The Ladder Pulled Up Behind Them](https://freepressforward.medium.com/the-ladder-pulled-up-behind-them-820b5c27a184?source=rss------data_science-5)
-- [What Is the Petrodollar?](https://medium.com/@BondStats/what-is-the-petrodollar-ebb907f2a8cc?source=rss------data_science-5)
-- [The reptile downstream of the server farm](https://medium.com/wilderness-medicine-guide/the-reptile-downstream-of-the-server-farm-f76cae60f269?source=rss------data_science-5)
+- [I Tried to Predict the 2026 World Cup Winner Using AI, and Here’s What I Found...](https://medium.com/@thevictoradams/i-tried-to-predict-the-2026-world-cup-winner-using-ai-and-heres-what-i-found-f46593ea583e?source=rss------data_science-5)
+- [LangChain vs LangGraph Understanding AI Application Development with a Software Architect. &lpar;Part 2&rpar;](https://medium.com/@tanishdewase222/langchain-vs-langgraph-understanding-ai-application-development-with-a-software-architect-part-2-b6d3025af585?source=rss------data_science-5)
+- [3 NumPy Tricks That Turned My Slow Code Into Lightning-Fast Pipelines](https://dailypythonprogramming.medium.com/3-numpy-tricks-that-turned-my-slow-code-into-lightning-fast-pipelines-1382ba016b1f?source=rss------data_science-5)
+- [09032543127](https://medium.com/@soposekworacocom/09032543127-fab38d452337?source=rss------data_science-5)
+- [09032543127](https://medium.com/@soposekworacocom/09032543127-1e8e528d7635?source=rss------data_science-5)
+- [Is There an &quot;End Point&quot; Inside a Black Hole? A New Theory Eliminates the Singularity](https://y99257087.medium.com/is-there-an-end-point-inside-a-black-hole-a-new-theory-eliminates-the-singularity-f2c1e144bd51?source=rss------data_science-5)
+- [The Worst Birthday Ever &lpar;And What It Taught Me About Staying](https://medium.com/@donriveradiaz/the-worst-birthday-ever-and-what-it-taught-me-about-staying-6112136baf62?source=rss------data_science-5)
+- [Your Data Warehouse Isn’t Dying. It’s Getting Promoted.](https://medium.com/3k-technologies/your-data-warehouse-isnt-dying-it-s-getting-promoted-0c58464378e6?source=rss------data_science-5)
+- [P = NP? Version 8 is out. Here&#39;s what changed.](https://medium.com/data-science-collective/p-np-version-8-is-out-heres-what-changed-cf09c1b72fca?source=rss------data_science-5)
+- [Your Agent Isn’t Hallucinating. Your Orchestration Layer Is Broken.](https://medium.com/@adityaj5400/your-agent-isnt-hallucinating-your-orchestration-layer-is-broken-9a12a3ad3b7c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
