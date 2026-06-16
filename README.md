@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I Tried to Predict the 2026 World Cup Winner Using AI, and Here’s What I Found...](https://medium.com/@thevictoradams/i-tried-to-predict-the-2026-world-cup-winner-using-ai-and-heres-what-i-found-f46593ea583e?source=rss------data_science-5)
-- [LangChain vs LangGraph Understanding AI Application Development with a Software Architect. &lpar;Part 2&rpar;](https://medium.com/@tanishdewase222/langchain-vs-langgraph-understanding-ai-application-development-with-a-software-architect-part-2-b6d3025af585?source=rss------data_science-5)
-- [3 NumPy Tricks That Turned My Slow Code Into Lightning-Fast Pipelines](https://dailypythonprogramming.medium.com/3-numpy-tricks-that-turned-my-slow-code-into-lightning-fast-pipelines-1382ba016b1f?source=rss------data_science-5)
-- [09032543127](https://medium.com/@soposekworacocom/09032543127-fab38d452337?source=rss------data_science-5)
-- [09032543127](https://medium.com/@soposekworacocom/09032543127-1e8e528d7635?source=rss------data_science-5)
-- [Is There an &quot;End Point&quot; Inside a Black Hole? A New Theory Eliminates the Singularity](https://y99257087.medium.com/is-there-an-end-point-inside-a-black-hole-a-new-theory-eliminates-the-singularity-f2c1e144bd51?source=rss------data_science-5)
-- [The Worst Birthday Ever &lpar;And What It Taught Me About Staying](https://medium.com/@donriveradiaz/the-worst-birthday-ever-and-what-it-taught-me-about-staying-6112136baf62?source=rss------data_science-5)
-- [Your Data Warehouse Isn’t Dying. It’s Getting Promoted.](https://medium.com/3k-technologies/your-data-warehouse-isnt-dying-it-s-getting-promoted-0c58464378e6?source=rss------data_science-5)
-- [P = NP? Version 8 is out. Here&#39;s what changed.](https://medium.com/data-science-collective/p-np-version-8-is-out-heres-what-changed-cf09c1b72fca?source=rss------data_science-5)
-- [Your Agent Isn’t Hallucinating. Your Orchestration Layer Is Broken.](https://medium.com/@adityaj5400/your-agent-isnt-hallucinating-your-orchestration-layer-is-broken-9a12a3ad3b7c?source=rss------data_science-5)
+- [From Analysis to Influence: Climbing the Data Science ladder](https://medium.com/@swatis0731/from-analysis-to-influence-climbing-the-data-science-ladder-3609b1f7012c?source=rss------data_science-5)
+- [Agentic AI Infrastructure Blueprint](https://medium.com/@goziechile/agentic-ai-infrastructure-blueprint-d0a745d8241f?source=rss------data_science-5)
+- [Best YouTube Channels to Learn Data Engineering](https://medium.com/@apexdelight2518/best-youtube-channels-to-learn-data-engineering-01274366a67f?source=rss------data_science-5)
+- [Introduction to Diffusion Models with HuggingFace: Generating Images in a Few Lines of Code](https://medium.com/@vitorbeltrao300/introduction-to-diffusion-models-with-huggingface-generating-images-in-a-few-lines-of-code-2030ce922bd2?source=rss------data_science-5)
+- [The Enterprise AI Token Audit: Wall Street’s Hidden Telemetry Comes to Machine Intelligence](https://medium.com/@galindokristine/the-enterprise-ai-token-audit-wall-streets-hidden-telemetry-comes-to-machine-intelligence-c97245ef3ff6?source=rss------data_science-5)
+- [Manual não oficial para adultos que sentem falta de brincar](https://medium.com/@Louislovegood/manual-n%C3%A3o-oficial-para-adultos-que-sentem-falta-de-brincar-0e718ef937b1?source=rss------data_science-5)
+- [A Common Sense Guide to Volatility Trading [Code Included]](https://quant-galore.medium.com/a-common-sense-guide-to-volatility-trading-code-included-10ded2ec7726?source=rss------data_science-5)
+- [Making SHAP Work in Production: From Notebook to Real-Time Maintenance Dashboards](https://medium.com/@MdEhsanulHaqueKanan/making-shap-work-in-production-from-notebook-to-real-time-maintenance-dashboards-068023543505?source=rss------data_science-5)
+- [The Only Data Science Resume Guide You Need in 2026 &lpar;ATS-Friendly + Examples&rpar;](https://medium.com/@mohitswami2162/the-only-data-science-resume-guide-you-need-in-2026-ats-friendly-examples-4fce12933f47?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
