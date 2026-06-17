@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [From Analysis to Influence: Climbing the Data Science ladder](https://medium.com/@swatis0731/from-analysis-to-influence-climbing-the-data-science-ladder-3609b1f7012c?source=rss------data_science-5)
-- [Agentic AI Infrastructure Blueprint](https://medium.com/@goziechile/agentic-ai-infrastructure-blueprint-d0a745d8241f?source=rss------data_science-5)
-- [Best YouTube Channels to Learn Data Engineering](https://medium.com/@apexdelight2518/best-youtube-channels-to-learn-data-engineering-01274366a67f?source=rss------data_science-5)
-- [Introduction to Diffusion Models with HuggingFace: Generating Images in a Few Lines of Code](https://medium.com/@vitorbeltrao300/introduction-to-diffusion-models-with-huggingface-generating-images-in-a-few-lines-of-code-2030ce922bd2?source=rss------data_science-5)
-- [The Enterprise AI Token Audit: Wall Street’s Hidden Telemetry Comes to Machine Intelligence](https://medium.com/@galindokristine/the-enterprise-ai-token-audit-wall-streets-hidden-telemetry-comes-to-machine-intelligence-c97245ef3ff6?source=rss------data_science-5)
-- [Manual não oficial para adultos que sentem falta de brincar](https://medium.com/@Louislovegood/manual-n%C3%A3o-oficial-para-adultos-que-sentem-falta-de-brincar-0e718ef937b1?source=rss------data_science-5)
-- [A Common Sense Guide to Volatility Trading [Code Included]](https://quant-galore.medium.com/a-common-sense-guide-to-volatility-trading-code-included-10ded2ec7726?source=rss------data_science-5)
-- [Making SHAP Work in Production: From Notebook to Real-Time Maintenance Dashboards](https://medium.com/@MdEhsanulHaqueKanan/making-shap-work-in-production-from-notebook-to-real-time-maintenance-dashboards-068023543505?source=rss------data_science-5)
-- [The Only Data Science Resume Guide You Need in 2026 &lpar;ATS-Friendly + Examples&rpar;](https://medium.com/@mohitswami2162/the-only-data-science-resume-guide-you-need-in-2026-ats-friendly-examples-4fce12933f47?source=rss------data_science-5)
+- [Python for Data Analysts: Why Python Dominates the Data World](https://medium.com/@saravanan.aravindh02/python-for-data-analysts-why-python-dominates-the-data-world-a955e21076d3?source=rss------data_science-5)
+- [What Would a Fully Digital Hospital Look Like in Africa?](https://medium.com/@emmanuelowusuadu10/what-would-a-fully-digital-hospital-look-like-in-africa-b4b4f5d24547?source=rss------data_science-5)
+- [How to Improve Sensitivity in A/B Experiments](https://medium.com/data-science-collective/how-to-improve-sensitivity-in-a-b-experiments-c4200a3ea151?source=rss------data_science-5)
+- [Ukraine’s SHARK Drone Now Guides HIMARS Rockets to Kill Russian Radar. Two Predators Hunt as One.](https://medium.com/@Forensic-Archive/ukraines-shark-drone-now-guides-himars-rockets-to-kill-russian-radar-two-predators-hunt-as-one-29002fa125dd?source=rss------data_science-5)
+- [The Doom Book Everyone’s Arguing About Is Actually a Governance Accelerant](https://kundanj.medium.com/the-doom-book-everyones-arguing-about-is-actually-a-governance-accelerant-76b3f519de5f?source=rss------data_science-5)
+- [DevOps as a Strategic Capability for National…](https://medium.com/@michae7390/devops-as-a-strategic-capability-for-national-01fc1417ca53?source=rss------data_science-5)
+- [More Details on the UAP Science Advisory Council](https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c?source=rss------data_science-5)
+- [The Python Architecture Patterns That Took Me 4 Years to Learn](https://python.plainenglish.io/the-python-architecture-patterns-that-took-me-4-years-to-learn-7ca5f7a3a5b1?source=rss------data_science-5)
+- [Who Holds the Most U.S. Treasuries in 2026?](https://medium.com/@BondStats/who-holds-the-most-u-s-treasuries-in-2026-adac0810b73f?source=rss------data_science-5)
+- [Animal Sex-Difference: Granger Causality Sharpens The Questions](https://medium.com/@jafari.a.amir/animal-sex-difference-granger-causality-sharpens-the-questions-f9d442281f0f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
