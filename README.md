@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Python for Data Analysts: Why Python Dominates the Data World](https://medium.com/@saravanan.aravindh02/python-for-data-analysts-why-python-dominates-the-data-world-a955e21076d3?source=rss------data_science-5)
-- [What Would a Fully Digital Hospital Look Like in Africa?](https://medium.com/@emmanuelowusuadu10/what-would-a-fully-digital-hospital-look-like-in-africa-b4b4f5d24547?source=rss------data_science-5)
-- [How to Improve Sensitivity in A/B Experiments](https://medium.com/data-science-collective/how-to-improve-sensitivity-in-a-b-experiments-c4200a3ea151?source=rss------data_science-5)
-- [Ukraine’s SHARK Drone Now Guides HIMARS Rockets to Kill Russian Radar. Two Predators Hunt as One.](https://medium.com/@Forensic-Archive/ukraines-shark-drone-now-guides-himars-rockets-to-kill-russian-radar-two-predators-hunt-as-one-29002fa125dd?source=rss------data_science-5)
-- [The Doom Book Everyone’s Arguing About Is Actually a Governance Accelerant](https://kundanj.medium.com/the-doom-book-everyones-arguing-about-is-actually-a-governance-accelerant-76b3f519de5f?source=rss------data_science-5)
-- [DevOps as a Strategic Capability for National…](https://medium.com/@michae7390/devops-as-a-strategic-capability-for-national-01fc1417ca53?source=rss------data_science-5)
-- [More Details on the UAP Science Advisory Council](https://avi-loeb.medium.com/more-details-on-the-uap-science-advisory-council-825bd250d23c?source=rss------data_science-5)
-- [The Python Architecture Patterns That Took Me 4 Years to Learn](https://python.plainenglish.io/the-python-architecture-patterns-that-took-me-4-years-to-learn-7ca5f7a3a5b1?source=rss------data_science-5)
-- [Who Holds the Most U.S. Treasuries in 2026?](https://medium.com/@BondStats/who-holds-the-most-u-s-treasuries-in-2026-adac0810b73f?source=rss------data_science-5)
-- [Animal Sex-Difference: Granger Causality Sharpens The Questions](https://medium.com/@jafari.a.amir/animal-sex-difference-granger-causality-sharpens-the-questions-f9d442281f0f?source=rss------data_science-5)
+- [From Goldsmiths to Modern Money](https://medium.com/@BondStats/from-goldsmiths-to-modern-money-306ac0fc60fe?source=rss------data_science-5)
+- [Why Learn AI and Data Science in 2026?](https://medium.com/@ahmedjawadaman/hello-fellow-developers-aa32a0ddd5ba?source=rss------data_science-5)
+- [How to optimize your LinkedIn profile as a software engineer](https://medium.com/fonzi-ai/how-to-optimize-your-linkedin-profile-as-a-software-engineer-cd9b3682bad7?source=rss------data_science-5)
+- [How to Analyze A/B Test Results: Beyond the Dashboard](https://medium.com/@atticusli/how-to-analyze-a-b-test-results-beyond-the-dashboard-9206d0ad9c65?source=rss------data_science-5)
+- [What 1,200 Ads Taught Me About Why “Data-Driven Creative” Usually Isn’t.](https://blog.venturemagazine.net/what-1-200-ads-taught-me-about-why-data-driven-creative-usually-isnt-2cce5fc640d6?source=rss------data_science-5)
+- [The Day I Became a Team Lead, I Realised I Had No Idea What I Was Doing](https://medium.com/@flora.taran1/the-day-i-became-a-team-lead-i-realised-i-had-no-idea-what-i-was-doing-ad37d72a70cd?source=rss------data_science-5)
+- [How a Random AI Experiment Turned Into a Life-Changing Skill](https://blog.stackademic.com/how-a-random-ai-experiment-turned-into-a-life-changing-skill-643955d28e34?source=rss------data_science-5)
+- [What Merging Three Global Datasets Taught Me About Data Quality](https://medium.com/@batlounip/what-merging-three-global-datasets-taught-me-about-data-quality-09745a5e58f3?source=rss------data_science-5)
+- [Beating the State of the Art at Context Compression — With 777 Parameters and No GPU](https://medium.com/@aaryanmhjn/beating-the-state-of-the-art-at-context-compression-with-777-parameters-and-no-gpu-7737729a4428?source=rss------data_science-5)
+- [I graduated as a mechanical engineer.](https://medium.com/@flora.taran1/i-graduated-as-a-mechanical-engineer-2af1595cb0c7?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
