@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [From Goldsmiths to Modern Money](https://medium.com/@BondStats/from-goldsmiths-to-modern-money-306ac0fc60fe?source=rss------data_science-5)
-- [Why Learn AI and Data Science in 2026?](https://medium.com/@ahmedjawadaman/hello-fellow-developers-aa32a0ddd5ba?source=rss------data_science-5)
-- [How to optimize your LinkedIn profile as a software engineer](https://medium.com/fonzi-ai/how-to-optimize-your-linkedin-profile-as-a-software-engineer-cd9b3682bad7?source=rss------data_science-5)
-- [How to Analyze A/B Test Results: Beyond the Dashboard](https://medium.com/@atticusli/how-to-analyze-a-b-test-results-beyond-the-dashboard-9206d0ad9c65?source=rss------data_science-5)
-- [What 1,200 Ads Taught Me About Why “Data-Driven Creative” Usually Isn’t.](https://blog.venturemagazine.net/what-1-200-ads-taught-me-about-why-data-driven-creative-usually-isnt-2cce5fc640d6?source=rss------data_science-5)
-- [The Day I Became a Team Lead, I Realised I Had No Idea What I Was Doing](https://medium.com/@flora.taran1/the-day-i-became-a-team-lead-i-realised-i-had-no-idea-what-i-was-doing-ad37d72a70cd?source=rss------data_science-5)
-- [How a Random AI Experiment Turned Into a Life-Changing Skill](https://blog.stackademic.com/how-a-random-ai-experiment-turned-into-a-life-changing-skill-643955d28e34?source=rss------data_science-5)
-- [What Merging Three Global Datasets Taught Me About Data Quality](https://medium.com/@batlounip/what-merging-three-global-datasets-taught-me-about-data-quality-09745a5e58f3?source=rss------data_science-5)
-- [Beating the State of the Art at Context Compression — With 777 Parameters and No GPU](https://medium.com/@aaryanmhjn/beating-the-state-of-the-art-at-context-compression-with-777-parameters-and-no-gpu-7737729a4428?source=rss------data_science-5)
-- [I graduated as a mechanical engineer.](https://medium.com/@flora.taran1/i-graduated-as-a-mechanical-engineer-2af1595cb0c7?source=rss------data_science-5)
+- [Why AI Is Creating More Jobs Than It Destroys &lpar;For Now&rpar;](https://medium.com/ai-analytics-diaries/why-ai-is-creating-more-jobs-than-it-destroys-for-now-63b21eeef693?source=rss------data_science-5)
+- [The Middle of the Circle](https://medium.com/@jaromestorm/the-middle-of-the-circle-d9627d04ede8?source=rss------data_science-5)
+- [Journal Figure Replication | Plotting SHAP Interaction Matrix Heatmaps with Python](https://medium.com/top-python-libraries/journal-figure-replication-plotting-shap-interaction-matrix-heatmaps-with-python-f3998a443c7e?source=rss------data_science-5)
+- [Resolving the Nature of Unidentified Anomalous Phenomena &lpar;UAP&rpar; by Scientific Evidence](https://avi-loeb.medium.com/resolving-the-nature-of-unidentified-anomalous-phenomena-uap-by-scientific-evidence-217cb8ac5f72?source=rss------data_science-5)
+- [Ontology as the Foundation of Trust and Data Governance: Replacing Thousands of Human-in-the-Loop…](https://medium.com/@anythinggraph/ontology-as-the-foundation-of-trust-and-data-governance-replacing-thousands-of-human-in-the-loop-41d21fe32269?source=rss------data_science-5)
+- [From 100,000 Orders to Business Intelligence: How I Built an End-to-End Analytics System on…](https://medium.com/@gabrielnguyen2603/from-100-000-orders-to-business-intelligence-how-i-built-an-end-to-end-analytics-system-on-78e09f9b3df9?source=rss------data_science-5)
+- [The Peeking Problem: Why Checking Your Test Early Destroys Validity](https://medium.com/@atticusli/the-peeking-problem-why-checking-your-test-early-destroys-validity-92d5a7031e64?source=rss------data_science-5)
+- [I Fine-Tuned a 66M-Parameter Model That Matched Llama 3.1 70B on Financial Sentiment](https://medium.com/@priyankavadivelneu/i-fine-tuned-a-66m-parameter-model-that-matched-llama-3-1-70b-on-financial-sentiment-43c95eb5355a?source=rss------data_science-5)
+- [From Data Collection to Revenue Generation &lpar; Audio version included&rpar;](https://medium.com/@AAZZ01/from-data-collection-to-revenue-generation-audio-version-included-09e90e500ff4?source=rss------data_science-5)
+- [Thanks to NVIDIA, I No Longer Need Local AI Models](https://medium.com/macoclock/thanks-to-nvidia-i-no-longer-need-local-ai-models-26d79ca2a0f0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
