@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why AI Is Creating More Jobs Than It Destroys &lpar;For Now&rpar;](https://medium.com/ai-analytics-diaries/why-ai-is-creating-more-jobs-than-it-destroys-for-now-63b21eeef693?source=rss------data_science-5)
-- [The Middle of the Circle](https://medium.com/@jaromestorm/the-middle-of-the-circle-d9627d04ede8?source=rss------data_science-5)
-- [Journal Figure Replication | Plotting SHAP Interaction Matrix Heatmaps with Python](https://medium.com/top-python-libraries/journal-figure-replication-plotting-shap-interaction-matrix-heatmaps-with-python-f3998a443c7e?source=rss------data_science-5)
-- [Resolving the Nature of Unidentified Anomalous Phenomena &lpar;UAP&rpar; by Scientific Evidence](https://avi-loeb.medium.com/resolving-the-nature-of-unidentified-anomalous-phenomena-uap-by-scientific-evidence-217cb8ac5f72?source=rss------data_science-5)
-- [Ontology as the Foundation of Trust and Data Governance: Replacing Thousands of Human-in-the-Loop…](https://medium.com/@anythinggraph/ontology-as-the-foundation-of-trust-and-data-governance-replacing-thousands-of-human-in-the-loop-41d21fe32269?source=rss------data_science-5)
-- [From 100,000 Orders to Business Intelligence: How I Built an End-to-End Analytics System on…](https://medium.com/@gabrielnguyen2603/from-100-000-orders-to-business-intelligence-how-i-built-an-end-to-end-analytics-system-on-78e09f9b3df9?source=rss------data_science-5)
-- [The Peeking Problem: Why Checking Your Test Early Destroys Validity](https://medium.com/@atticusli/the-peeking-problem-why-checking-your-test-early-destroys-validity-92d5a7031e64?source=rss------data_science-5)
-- [I Fine-Tuned a 66M-Parameter Model That Matched Llama 3.1 70B on Financial Sentiment](https://medium.com/@priyankavadivelneu/i-fine-tuned-a-66m-parameter-model-that-matched-llama-3-1-70b-on-financial-sentiment-43c95eb5355a?source=rss------data_science-5)
-- [From Data Collection to Revenue Generation &lpar; Audio version included&rpar;](https://medium.com/@AAZZ01/from-data-collection-to-revenue-generation-audio-version-included-09e90e500ff4?source=rss------data_science-5)
-- [Thanks to NVIDIA, I No Longer Need Local AI Models](https://medium.com/macoclock/thanks-to-nvidia-i-no-longer-need-local-ai-models-26d79ca2a0f0?source=rss------data_science-5)
+- [Building a Hybrid Movie Recommendation System with MovieLens and SVD](https://medium.com/@wildandzulfaqor/building-a-hybrid-movie-recommendation-system-with-movielens-and-svd-f2bea4e35b76?source=rss------data_science-5)
+- [The A/A Test: How to Validate Your Experimentation Setup](https://medium.com/@atticusli/the-a-a-test-how-to-validate-your-experimentation-setup-02588edcf9c0?source=rss------data_science-5)
+- [Self-Service Analytics, According to Anthropic](https://annujackson.medium.com/self-service-analytics-according-to-anthropic-722d8fbceab9?source=rss------data_science-5)
+- [Hyrox MCP Server — query and analyse Hyrox race data via LLMs](https://medium.com/@vladmatei432/pyrox-mcp-server-access-to-and-analysis-of-hyrox-results-directly-via-llms-4e8ebf486525?source=rss------data_science-5)
+- [Data is the New Oil. But Can You Refine It?](https://medium.com/@malinipriya/data-is-the-new-oil-but-can-you-refine-it-aad7aa21696d?source=rss------data_science-5)
+- [“Running Local Models Is Good Now” Was Written on a 64GB Mac. Half of You Have 16GB or Less](https://pub.towardsai.net/running-local-models-is-good-now-was-written-on-a-64gb-mac-half-of-you-have-16gb-or-less-0c576f655821?source=rss------data_science-5)
+- [Data Science vs Retail Realities: Demystifying Regression Evaluation Metrics](https://medium.com/@jamesndungukabuga/data-science-vs-retail-realities-demystifying-regression-evaluation-metrics-b68b76f3b8f7?source=rss------data_science-5)
+- [I Built an Agentic AI Report Writer That Reviews and Corrects Its Own Sections](https://ai.gopubby.com/i-built-an-agentic-ai-report-writer-that-reviews-and-corrects-its-own-sections-fa7a24926197?source=rss------data_science-5)
+- [Brain Dynamics &amp; Orch-OR Theory: Does Consciousness Simulation Force Us into the Quantum Computing…](https://medium.com/@aditrizky052/brain-dynamics-orch-or-theory-does-consciousness-simulation-force-us-into-the-quantum-computing-157f55dd5c34?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
