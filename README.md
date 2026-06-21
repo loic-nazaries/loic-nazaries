@@ -105,15 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Building a Hybrid Movie Recommendation System with MovieLens and SVD](https://medium.com/@wildandzulfaqor/building-a-hybrid-movie-recommendation-system-with-movielens-and-svd-f2bea4e35b76?source=rss------data_science-5)
-- [The A/A Test: How to Validate Your Experimentation Setup](https://medium.com/@atticusli/the-a-a-test-how-to-validate-your-experimentation-setup-02588edcf9c0?source=rss------data_science-5)
-- [Self-Service Analytics, According to Anthropic](https://annujackson.medium.com/self-service-analytics-according-to-anthropic-722d8fbceab9?source=rss------data_science-5)
-- [Hyrox MCP Server — query and analyse Hyrox race data via LLMs](https://medium.com/@vladmatei432/pyrox-mcp-server-access-to-and-analysis-of-hyrox-results-directly-via-llms-4e8ebf486525?source=rss------data_science-5)
-- [Data is the New Oil. But Can You Refine It?](https://medium.com/@malinipriya/data-is-the-new-oil-but-can-you-refine-it-aad7aa21696d?source=rss------data_science-5)
-- [“Running Local Models Is Good Now” Was Written on a 64GB Mac. Half of You Have 16GB or Less](https://pub.towardsai.net/running-local-models-is-good-now-was-written-on-a-64gb-mac-half-of-you-have-16gb-or-less-0c576f655821?source=rss------data_science-5)
-- [Data Science vs Retail Realities: Demystifying Regression Evaluation Metrics](https://medium.com/@jamesndungukabuga/data-science-vs-retail-realities-demystifying-regression-evaluation-metrics-b68b76f3b8f7?source=rss------data_science-5)
-- [I Built an Agentic AI Report Writer That Reviews and Corrects Its Own Sections](https://ai.gopubby.com/i-built-an-agentic-ai-report-writer-that-reviews-and-corrects-its-own-sections-fa7a24926197?source=rss------data_science-5)
-- [Brain Dynamics &amp; Orch-OR Theory: Does Consciousness Simulation Force Us into the Quantum Computing…](https://medium.com/@aditrizky052/brain-dynamics-orch-or-theory-does-consciousness-simulation-force-us-into-the-quantum-computing-157f55dd5c34?source=rss------data_science-5)
+- [I spent 4 days training an AI model to understand my country. It barely works](https://samirasharma.medium.com/i-spent-4-days-training-an-ai-model-to-understand-my-country-it-barely-works-ba18b0c85e9d?source=rss------data_science-5)
+- [Databox MCP Setup Notes: Giving AI Access to Analytics Without Pretending the Metrics Are Magic](https://medium.com/@elena.voss/databox-mcp-setup-notes-giving-ai-access-to-analytics-without-pretending-the-metrics-are-magic-09de1a43c4d0?source=rss------data_science-5)
+- [How Senior Engineers Find Root Cause in 20 Minutes When Everyone Else Takes 4 Hours](https://blog.stackademic.com/how-senior-engineers-find-root-cause-in-20-minutes-when-everyone-else-takes-4-hours-bb1f5a6c4ae2?source=rss------data_science-5)
+- [The Mobility OS Wars – Series #1](https://medium.com/@y.marutani/the-mobility-os-wars-series-1-20ebddb9bd9b?source=rss------data_science-5)
+- [Python + API: um jeito mais inteligente de buscar vagas sem perder tempo](https://medium.com/@jairo.data/python-api-um-jeito-mais-inteligente-de-buscar-vagas-sem-perder-tempo-c1601fb21bf9?source=rss------data_science-5)
+- [The Fundamental Theorem of Algebra](https://keith-mcnulty.medium.com/the-fundamental-theorem-of-algebra-d6491104493c?source=rss------data_science-5)
+- [What Is an Embedding? The Language Behind Semantic Search](https://medium.com/@summerlearnings2020/what-is-an-embedding-the-language-behind-semantic-search-442508f8b8c7?source=rss------data_science-5)
+- [La Cadena Humana Cosmológica](https://medium.com/@piratas1821/la-cadena-humana-cosmol%C3%B3gica-c41572ad24ba?source=rss------data_science-5)
+- [Working in BI in Japan vs Europe: A Data MVP’s Perspective with Bernat Agulló Roselló &lpar;MVP&rpar;](https://mirko-peters.medium.com/working-in-bi-in-japan-vs-europe-a-data-mvps-perspective-with-bernat-agull%C3%B3-rosell%C3%B3-mvp-00ba763777f6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
