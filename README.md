@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Empirical AI Interaction Data: A Structural Archive for Machine Intelligence](https://medium.com/@yasmeenmygeeksquad247/empirical-ai-interaction-data-a-structural-archive-for-machine-intelligence-40f0e5dc7c13?source=rss------data_science-5)
-- [Most AI Observability Dashboards Miss the Actual Problem](https://medium.com/@m2analytics1117/most-ai-observability-dashboards-miss-the-actual-problem-01c64ebfe01b?source=rss------data_science-5)
-- [Why Wrote Advanced Data Science Systems Engineering — Deepsim Insights](https://medium.com/@shouke.wei/why-wrote-advanced-data-science-systems-engineering-deepsim-insights-9754b4ea39a1?source=rss------data_science-5)
-- [Why You Need Virtual Environments: A Developer’s Guide to Staying Organized](https://mdruhulalom02.medium.com/python-virtual-environment-db0bee130734?source=rss------data_science-5)
-- [Stop Telling Users “Why”: Why the Future of XAI Belongs to Algorithmic Recourse](https://medium.com/@shreyasilwal02/stop-telling-users-why-why-the-future-of-xai-belongs-to-algorithmic-recourse-6b28914b6175?source=rss------data_science-5)
-- [Expert Interviews as Qualitative Research Input: A Practical Framework for Expert Elicitation in…](https://silverlightresearch.medium.com/expert-interviews-as-qualitative-research-input-a-practical-framework-for-expert-elicitation-in-3cc0fbb42e1b?source=rss------data_science-5)
-- [Who Owns the Claim? The Hidden Risks of Third-Party Debt and Digital Financial Identity](https://medium.com/@kamswy300/who-owns-the-claim-the-hidden-risks-of-third-party-debt-and-digital-financial-identity-a729d7256606?source=rss------data_science-5)
-- [When I Realized That Artificial Intelligence Is an Electrical Circuit](https://medium.com/@dana_fm/when-i-realized-that-artificial-intelligence-is-an-electrical-circuit-643c7c906cc7?source=rss------data_science-5)
-- [Transfer Learning on Brain MRIs](https://medium.com/@aarush.km73/transfer-learning-on-brain-mris-0eb3b1215eaa?source=rss------data_science-5)
-- [# Australia’s AI Ethics Principles Are a Start. Evidence Is the Real Test.](https://medium.com/@sandra.healy/australias-ai-ethics-principles-are-a-start-evidence-is-the-real-test-b897beaea05c?source=rss------data_science-5)
+- [THE CONVERGENCE: WHEN GODS WAKE UP](https://medium.com/from-the-creative-mind-of-glenn-fraller/the-convergence-when-gods-wake-up-5367ab3857ae?source=rss------data_science-5)
+- [I Had 54 Underwater Images and Needed a Reliable Corrosion Detector](https://medium.com/@ictsapot/i-had-54-underwater-images-and-needed-a-reliable-corrosion-detector-574d10d76f83?source=rss------data_science-5)
+- [Music, Mood, and Mental Health: What Listening Habits Reveal About Wellbeing](https://medium.com/@zackgwmoss/music-mood-and-mental-health-what-listening-habits-reveal-about-wellbeing-4ae4122bc6e6?source=rss------data_science-5)
+- [### [ส่วนเปิดเรื่อง]
+**ถอดรหัสสดจากระบบ AI: เมื่อสมณสาสน์ล้ำยุ &#39;Magnifica Humanitas&#39;…](https://nuttananfoopun.medium.com/%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-%E0%B8%96%E0%B8%AD%E0%B8%94%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%94%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A-ai-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%A1%E0%B8%93%E0%B8%AA%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%8C%E0%B8%A5%E0%B9%89%E0%B8%B3%E0%B8%A2%E0%B8%B8-magnifica-humanitas-ececf9e4bd55?source=rss------data_science-5)
+- [Cybersecurity Lab](https://medium.com/@ahmedkongen/cybersecurity-lab-7278776f731d?source=rss------data_science-5)
+- [Cosmic Discoveries by National-Security Sensors](https://avi-loeb.medium.com/cosmic-discoveries-by-national-security-sensors-bb6afa43e980?source=rss------data_science-5)
+- [PostgreSQL Didn’t Go Down. Something You Did Made It Look Like It Did.](https://blog.stackademic.com/postgresql-didnt-go-down-something-you-did-made-it-look-like-it-did-775d092e1fb4?source=rss------data_science-5)
+- [Nobody Prepared Me for My First On-Call Rotation. Here’s What I Wished They Had.](https://blog.stackademic.com/nobody-prepared-me-for-my-first-on-call-rotation-heres-what-i-wished-they-had-fd922c5ba0f8?source=rss------data_science-5)
+- [What is Ontology — the secret sauce to supercharge the data retrieval?](https://harshitdawar.medium.com/what-is-ontology-the-secret-sauce-to-supercharge-the-data-retrieval-1795d19d40be?source=rss------data_science-5)
+- [Flink on Kubernetes: What nobody tells you in the Docs](https://medium.com/towards-data-engineering/flink-on-kubernetes-what-nobody-tells-you-in-the-docs-213d9af6cd68?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
