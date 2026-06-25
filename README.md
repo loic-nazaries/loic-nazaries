@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [THE CONVERGENCE: WHEN GODS WAKE UP](https://medium.com/from-the-creative-mind-of-glenn-fraller/the-convergence-when-gods-wake-up-5367ab3857ae?source=rss------data_science-5)
-- [I Had 54 Underwater Images and Needed a Reliable Corrosion Detector](https://medium.com/@ictsapot/i-had-54-underwater-images-and-needed-a-reliable-corrosion-detector-574d10d76f83?source=rss------data_science-5)
-- [Music, Mood, and Mental Health: What Listening Habits Reveal About Wellbeing](https://medium.com/@zackgwmoss/music-mood-and-mental-health-what-listening-habits-reveal-about-wellbeing-4ae4122bc6e6?source=rss------data_science-5)
-- [### [ส่วนเปิดเรื่อง]
-**ถอดรหัสสดจากระบบ AI: เมื่อสมณสาสน์ล้ำยุ &#39;Magnifica Humanitas&#39;…](https://nuttananfoopun.medium.com/%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-%E0%B8%96%E0%B8%AD%E0%B8%94%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%94%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A-ai-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%A1%E0%B8%93%E0%B8%AA%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%8C%E0%B8%A5%E0%B9%89%E0%B8%B3%E0%B8%A2%E0%B8%B8-magnifica-humanitas-ececf9e4bd55?source=rss------data_science-5)
-- [Cybersecurity Lab](https://medium.com/@ahmedkongen/cybersecurity-lab-7278776f731d?source=rss------data_science-5)
-- [Cosmic Discoveries by National-Security Sensors](https://avi-loeb.medium.com/cosmic-discoveries-by-national-security-sensors-bb6afa43e980?source=rss------data_science-5)
-- [PostgreSQL Didn’t Go Down. Something You Did Made It Look Like It Did.](https://blog.stackademic.com/postgresql-didnt-go-down-something-you-did-made-it-look-like-it-did-775d092e1fb4?source=rss------data_science-5)
-- [Nobody Prepared Me for My First On-Call Rotation. Here’s What I Wished They Had.](https://blog.stackademic.com/nobody-prepared-me-for-my-first-on-call-rotation-heres-what-i-wished-they-had-fd922c5ba0f8?source=rss------data_science-5)
-- [What is Ontology — the secret sauce to supercharge the data retrieval?](https://harshitdawar.medium.com/what-is-ontology-the-secret-sauce-to-supercharge-the-data-retrieval-1795d19d40be?source=rss------data_science-5)
-- [Flink on Kubernetes: What nobody tells you in the Docs](https://medium.com/towards-data-engineering/flink-on-kubernetes-what-nobody-tells-you-in-the-docs-213d9af6cd68?source=rss------data_science-5)
+- [How To Build Your Own AI Chatbot for Free Using Gemini API](https://medium.com/@kaklotarrahul79/how-to-build-your-own-ai-chatbot-for-free-using-gemini-api-af42b063b6ad?source=rss------data_science-5)
+- [Pre-training Under Infinite Compute: Rethinking Data Efficiency When Tokens Become Scarce](https://chierhu.medium.com/pre-training-under-infinite-compute-rethinking-data-efficiency-when-tokens-become-scarce-caf6bdd791be?source=rss------data_science-5)
+- [Gemini Omni: The Beginning of “Create Anything from Anything”](https://medium.com/@dulam.rakesh0/gemini-omni-the-beginning-of-create-anything-from-anything-66dad1ecc6f6?source=rss------data_science-5)
+- [My life growing up](https://medium.com/@kipkemeigideon69/my-life-growing-up-f9dfa90ea2de?source=rss------data_science-5)
+- [Three Eras of Quantitative Finance: How Rule-Based, ML, and Deep Learning Models React to the Same…](https://pub.towardsai.net/three-eras-of-quantitative-finance-how-rule-based-ml-and-deep-learning-models-react-to-the-same-554d75a2dc7b?source=rss------data_science-5)
+- [The Evening Chronotype](https://medium.com/@rodriguezwriter/the-evening-chronotype-85bb20c461e8?source=rss------data_science-5)
+- [The Dark Side of AI Agents:](https://medium.com/@MAbdullah95/the-dark-side-of-ai-agents-1007f759d313?source=rss------data_science-5)
+- [The AI System That Worked Perfectly in Testing Just Failed in Production.](https://blog.stackademic.com/the-ai-system-that-worked-perfectly-in-testing-just-failed-in-production-e6d7b2b2d159?source=rss------data_science-5)
+- [Building Smarter Applications: How to Leverage AI and Machine Learning](https://medium.com/@disandup1/building-smarter-applications-how-to-leverage-ai-and-machine-learning-e70be6e236a4?source=rss------data_science-5)
+- [A Self-Learning Agentic System Architecture with meta knowledge graph &lpar;context graph&rpar;](https://medium.com/neo4j/a-self-learning-agentic-system-architecture-with-meta-knowledge-graph-context-graph-b31477382597?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
