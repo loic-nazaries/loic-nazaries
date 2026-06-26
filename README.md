@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How To Build Your Own AI Chatbot for Free Using Gemini API](https://medium.com/@kaklotarrahul79/how-to-build-your-own-ai-chatbot-for-free-using-gemini-api-af42b063b6ad?source=rss------data_science-5)
-- [Pre-training Under Infinite Compute: Rethinking Data Efficiency When Tokens Become Scarce](https://chierhu.medium.com/pre-training-under-infinite-compute-rethinking-data-efficiency-when-tokens-become-scarce-caf6bdd791be?source=rss------data_science-5)
-- [Gemini Omni: The Beginning of “Create Anything from Anything”](https://medium.com/@dulam.rakesh0/gemini-omni-the-beginning-of-create-anything-from-anything-66dad1ecc6f6?source=rss------data_science-5)
-- [My life growing up](https://medium.com/@kipkemeigideon69/my-life-growing-up-f9dfa90ea2de?source=rss------data_science-5)
-- [Three Eras of Quantitative Finance: How Rule-Based, ML, and Deep Learning Models React to the Same…](https://pub.towardsai.net/three-eras-of-quantitative-finance-how-rule-based-ml-and-deep-learning-models-react-to-the-same-554d75a2dc7b?source=rss------data_science-5)
-- [The Evening Chronotype](https://medium.com/@rodriguezwriter/the-evening-chronotype-85bb20c461e8?source=rss------data_science-5)
-- [The Dark Side of AI Agents:](https://medium.com/@MAbdullah95/the-dark-side-of-ai-agents-1007f759d313?source=rss------data_science-5)
-- [The AI System That Worked Perfectly in Testing Just Failed in Production.](https://blog.stackademic.com/the-ai-system-that-worked-perfectly-in-testing-just-failed-in-production-e6d7b2b2d159?source=rss------data_science-5)
-- [Building Smarter Applications: How to Leverage AI and Machine Learning](https://medium.com/@disandup1/building-smarter-applications-how-to-leverage-ai-and-machine-learning-e70be6e236a4?source=rss------data_science-5)
-- [A Self-Learning Agentic System Architecture with meta knowledge graph &lpar;context graph&rpar;](https://medium.com/neo4j/a-self-learning-agentic-system-architecture-with-meta-knowledge-graph-context-graph-b31477382597?source=rss------data_science-5)
+- [When Your Chart Lies to You: The Truth Behind Histograms and KDE](https://medium.com/@nikk.23panchal/when-your-chart-lies-to-you-the-truth-behind-histograms-and-kde-f26327770c30?source=rss------data_science-5)
+- [Fundamentos de Machine Learning](https://mbenedicto.medium.com/fundamentos-de-machine-learning-c1926f7aa8c8?source=rss------data_science-5)
+- [Why CDP Fails Without Executive Alignment? &lpar; Audio version included&rpar;](https://medium.com/@AAZZ01/why-cdp-fails-without-executive-alignment-audio-version-included-9793381794de?source=rss------data_science-5)
+- [What I Learned Trying to Use the Meta Content Library](https://medium.com/medialabfoz/what-i-learned-trying-to-use-the-meta-content-library-2f20cc4f5e5b?source=rss------data_science-5)
+- [48 hrs in Marseille: reflecting on my experience at Centuri Hackathon](https://koukounut.medium.com/48-hrs-in-marseille-reflecting-on-my-experience-at-centuri-hackathon-d1f147b6df15?source=rss------data_science-5)
+- [The Ocean Forgets Slowly — and So Do GPT Models](https://medium.com/@heddybellout/the-ocean-forgets-slowly-and-so-do-gpt-models-8e59eaffb12d?source=rss------data_science-5)
+- [How to Read Streaming Data From Files Using Kappa Architecture in Databricks](https://blog.devgenius.io/how-to-read-streaming-data-from-files-using-kappa-architecture-in-databricks-ca4fccafd0e8?source=rss------data_science-5)
+- [I Learned to Code in 2026—Here Are 10 Lessons I Wish Someone Had Told Me Earlier](https://medium.com/@wealthpathwayy/i-learned-to-code-in-2026-here-are-10-lessons-i-wish-someone-had-told-me-earlier-728c23151ef5?source=rss------data_science-5)
+- [How an Altered Gaming Habit Could Save a Life](https://juancurti.medium.com/how-an-altered-gaming-habit-could-save-a-life-5b7ebe301e8a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
