@@ -105,15 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [When Your Chart Lies to You: The Truth Behind Histograms and KDE](https://medium.com/@nikk.23panchal/when-your-chart-lies-to-you-the-truth-behind-histograms-and-kde-f26327770c30?source=rss------data_science-5)
-- [Fundamentos de Machine Learning](https://mbenedicto.medium.com/fundamentos-de-machine-learning-c1926f7aa8c8?source=rss------data_science-5)
-- [Why CDP Fails Without Executive Alignment? &lpar; Audio version included&rpar;](https://medium.com/@AAZZ01/why-cdp-fails-without-executive-alignment-audio-version-included-9793381794de?source=rss------data_science-5)
-- [What I Learned Trying to Use the Meta Content Library](https://medium.com/medialabfoz/what-i-learned-trying-to-use-the-meta-content-library-2f20cc4f5e5b?source=rss------data_science-5)
-- [48 hrs in Marseille: reflecting on my experience at Centuri Hackathon](https://koukounut.medium.com/48-hrs-in-marseille-reflecting-on-my-experience-at-centuri-hackathon-d1f147b6df15?source=rss------data_science-5)
-- [The Ocean Forgets Slowly — and So Do GPT Models](https://medium.com/@heddybellout/the-ocean-forgets-slowly-and-so-do-gpt-models-8e59eaffb12d?source=rss------data_science-5)
-- [How to Read Streaming Data From Files Using Kappa Architecture in Databricks](https://blog.devgenius.io/how-to-read-streaming-data-from-files-using-kappa-architecture-in-databricks-ca4fccafd0e8?source=rss------data_science-5)
-- [I Learned to Code in 2026—Here Are 10 Lessons I Wish Someone Had Told Me Earlier](https://medium.com/@wealthpathwayy/i-learned-to-code-in-2026-here-are-10-lessons-i-wish-someone-had-told-me-earlier-728c23151ef5?source=rss------data_science-5)
-- [How an Altered Gaming Habit Could Save a Life](https://juancurti.medium.com/how-an-altered-gaming-habit-could-save-a-life-5b7ebe301e8a?source=rss------data_science-5)
+- [Why AI Is Great at Cheating](https://medium.com/@ignacio.de.gregorio.noblejas/why-ai-is-great-at-cheating-0fcb5aacee94?source=rss------data_science-5)
+- [CERTIFIED REASONING CHAINS VIA TYPED SEMANTIC EDIT OPERATORS AND SPECIFICITY MARGIN CONDITIONS A…](https://medium.com/@tmcrg85/certified-reasoning-chains-via-typed-semantic-edit-operators-and-specificity-margin-conditions-a-924eb5321f55?source=rss------data_science-5)
+- [Why Is AI Engineering the Most Hyped Career of Our Generation? The Data Answers.](https://medium.com/@flora.taran1/why-is-ai-engineering-the-most-hyped-career-of-our-generation-the-data-answers-1bd6c91d3400?source=rss------data_science-5)
+- [You Don’t Have to Be a Programmer to Understand Technology &lpar; Audio version included&rpar;](https://medium.com/@AAZZ01/you-dont-have-to-be-a-programmer-to-understand-technology-audio-version-included-2ae5d0611b96?source=rss------data_science-5)
+- [A Roundabout Puzzle: Can 12 Roads Be Made Safer?](https://medium.com/math-games/a-roundabout-puzzle-can-12-roads-be-made-safer-e744ccaa0c02?source=rss------data_science-5)
+- [The Full AI Stack Explained: Every Layer, Every Tool, and How to Make the Right Choice at Each One](https://medium.com/codex/most-people-building-with-ai-are-one-or-two-layers-deep-in-a-seven-layer-system-4c93fcc5def1?source=rss------data_science-5)
+- [We Built the Hardest Test in Human History to Measure AI. It Lasted 18 Months.](https://pub.towardsai.net/we-built-the-hardest-test-in-human-history-to-measure-ai-it-lasted-18-months-d95631265107?source=rss------data_science-5)
+- [Why Good Data Matters More Than a Powerful AI Model](https://medium.com/@waqi786/why-good-data-matters-more-than-a-powerful-ai-model-f535726b6bcb?source=rss------data_science-5)
+- [Apache Spark Mastery &lpar;Part 6 of 6&rpar;: Interview Prep &amp; Reference](https://medium.com/@rollysingh24/apache-spark-mastery-part-5-of-6-interview-prep-reference-3303b4f1881b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
