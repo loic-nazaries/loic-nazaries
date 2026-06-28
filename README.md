@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why AI Is Great at Cheating](https://medium.com/@ignacio.de.gregorio.noblejas/why-ai-is-great-at-cheating-0fcb5aacee94?source=rss------data_science-5)
-- [CERTIFIED REASONING CHAINS VIA TYPED SEMANTIC EDIT OPERATORS AND SPECIFICITY MARGIN CONDITIONS A…](https://medium.com/@tmcrg85/certified-reasoning-chains-via-typed-semantic-edit-operators-and-specificity-margin-conditions-a-924eb5321f55?source=rss------data_science-5)
-- [Why Is AI Engineering the Most Hyped Career of Our Generation? The Data Answers.](https://medium.com/@flora.taran1/why-is-ai-engineering-the-most-hyped-career-of-our-generation-the-data-answers-1bd6c91d3400?source=rss------data_science-5)
-- [You Don’t Have to Be a Programmer to Understand Technology &lpar; Audio version included&rpar;](https://medium.com/@AAZZ01/you-dont-have-to-be-a-programmer-to-understand-technology-audio-version-included-2ae5d0611b96?source=rss------data_science-5)
-- [A Roundabout Puzzle: Can 12 Roads Be Made Safer?](https://medium.com/math-games/a-roundabout-puzzle-can-12-roads-be-made-safer-e744ccaa0c02?source=rss------data_science-5)
-- [The Full AI Stack Explained: Every Layer, Every Tool, and How to Make the Right Choice at Each One](https://medium.com/codex/most-people-building-with-ai-are-one-or-two-layers-deep-in-a-seven-layer-system-4c93fcc5def1?source=rss------data_science-5)
-- [We Built the Hardest Test in Human History to Measure AI. It Lasted 18 Months.](https://pub.towardsai.net/we-built-the-hardest-test-in-human-history-to-measure-ai-it-lasted-18-months-d95631265107?source=rss------data_science-5)
-- [Why Good Data Matters More Than a Powerful AI Model](https://medium.com/@waqi786/why-good-data-matters-more-than-a-powerful-ai-model-f535726b6bcb?source=rss------data_science-5)
-- [Apache Spark Mastery &lpar;Part 6 of 6&rpar;: Interview Prep &amp; Reference](https://medium.com/@rollysingh24/apache-spark-mastery-part-5-of-6-interview-prep-reference-3303b4f1881b?source=rss------data_science-5)
+- [What happens at 200m ocean depth and in layer 24 of GPT](https://medium.com/@heddybellout/what-happens-at-200m-ocean-depth-and-in-layer-24-of-gpt-4ccf51ef7129?source=rss------data_science-5)
+- [The Risky Account Looks Exactly Like the Safe One. Until the Model Sees It.](https://vedanttiwari1.medium.com/the-risky-account-looks-exactly-like-the-safe-one-until-the-model-sees-it-bbf67792961d?source=rss------data_science-5)
+- [Gemini 3.5 and the Intelligent Intelligence Class II — A Side-by-Side Architectural Comparison…](https://medium.com/@farbeyonddrunk/gemini-3-5-and-the-intelligent-intelligence-class-ii-a-side-by-side-architectural-comparison-095ed13a632c?source=rss------data_science-5)
+- [How Neural Networks Use the Chain Rule to Fix Errors](https://medium.com/@ashvith.gurram/how-neural-networks-use-the-chain-rule-to-fix-errors-599092662acd?source=rss------data_science-5)
+- [The SQL Bible for Data Engineering Interviews: 15 Patterns That Actually Show Up, and How to Master…](https://medium.com/@vishalbarvaliya/the-sql-bible-for-data-engineering-interviews-15-patterns-that-actually-show-up-and-how-to-master-3c2f36218697?source=rss------data_science-5)
+- [AI Doesn&#39;t Replace Statistical Thinking—It Makes It More Important Than Ever](https://medium.com/@palma.sergio/ai-doesnt-replace-statistical-thinking-it-makes-it-more-important-than-ever-3a2ea1565e97?source=rss------data_science-5)
+- [Mathews Chishinji](https://medium.com/@reymat944/mathews-chishinji-3ad71e90596e?source=rss------data_science-5)
+- [Why Your Streaming and Batch Numbers Never Match, and the Fix Nobody Teaches](https://medium.com/@vishalbarvaliya/why-your-streaming-and-batch-numbers-never-match-and-the-fix-nobody-teaches-16c085042bb4?source=rss------data_science-5)
+- [Your Unity Catalog Is a Ticking Time Bomb And Databricks Just Made It Worse…](https://medium.com/@harshit.herts/your-unity-catalog-is-a-ticking-time-bomb-and-databricks-just-made-it-worse-ce38b20f2a47?source=rss------data_science-5)
+- [The Five Levels of Decision Quality](https://medium.com/@kyle-t-jones/the-five-levels-of-decision-quality-02fc20e29f53?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
