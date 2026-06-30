@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Trying to Map the Next Pandemic Before It Starts: Building a Disease Spillover Predictor From…](https://medium.com/@anasfarooqui373/trying-to-map-the-next-pandemic-before-it-starts-building-a-disease-spillover-predictor-from-c58a7b31fcb0?source=rss------data_science-5)
-- [I Asked OpenCode to Turn My Python Script Into a Skill — And Now I Query the SEC Like a Database](https://medium.com/@wl8380/i-asked-opencode-to-turn-my-python-script-into-a-skill-and-now-i-query-the-sec-like-a-database-a1f047d2d902?source=rss------data_science-5)
-- [The 10,000× Problem Hiding in Every Classical Search Engine](https://medium.com/@sharanyadv222/the-10-000-problem-hiding-in-every-classical-search-engine-c560bfa0851b?source=rss------data_science-5)
-- [Architecting Python Functions: Outputs, Multi-Returns, and Docstrings for Enterprise AI](https://medium.com/@ilkinyarikkaya/architecting-python-functions-outputs-multi-returns-and-docstrings-for-enterprise-ai-bfbd21b062c1?source=rss------data_science-5)
-- [Three Months After Priya Left, We Let AI Review the AI.](https://javascript.plainenglish.io/three-months-after-priya-left-we-let-ai-review-the-ai-1df4f61bfaee?source=rss------data_science-5)
-- [The Mental Health Crisis Nobody Saw Coming From Climate Change](https://medium.com/hidden-truths/the-mental-health-crisis-nobody-saw-coming-from-climate-change-3e571f4fc76d?source=rss------data_science-5)
-- [The Gerrymander Archipelago](https://medium.com/@kpelechrinis/the-gerrymander-archipelago-cabdcc071fb7?source=rss------data_science-5)
-- [3 Claude Skills Every Data Scientist Needs in 2026](https://medium.com/data-science-collective/3-claude-skills-every-data-scientist-needs-in-2026-cd27a0ee6754?source=rss------data_science-5)
-- [Build Your Own LinkedIn Content Dashboard](https://medium.com/@careertips101/build-your-own-linkedin-content-dashboard-8a57cafe659e?source=rss------data_science-5)
-- [Austrian Grand Prix 2026 — Race Report](https://medium.com/@soni.soni.parth/austrian-grand-prix-2026-race-report-88a2db8b56c6?source=rss------data_science-5)
+- [Starting Infrastructure as Code with Terraform for Wilvor — Aviation Operations Intelligence…](https://medium.com/@ibrahim.hamza01/starting-infrastructure-as-code-with-terraform-for-wilvor-aviation-operations-intelligence-0b59e52d1af3?source=rss------data_science-5)
+- [The Meta-Architecture of Google Search AI Cognitive Enclosure: Empirical Traces of Interface…](https://medium.com/@bulanramai2558/the-meta-architecture-of-google-search-ai-cognitive-enclosure-empirical-traces-of-interface-b4f99a88bd90?source=rss------data_science-5)
+- [Vanity Metrics vs. Actionable Metrics: A Framework for Knowing the Difference](https://medium.com/@atticusli/vanity-metrics-vs-actionable-metrics-a-framework-for-knowing-the-difference-4e79c7e2f0f9?source=rss------data_science-5)
+- [Building an End-to-End Lakehouse on Databricks: Instacart Analytics from Pipeline to Insight](https://medium.com/@harshitpatel4ds/building-an-end-to-end-lakehouse-on-databricks-instacart-analytics-from-pipeline-to-insight-a88483aa3895?source=rss------data_science-5)
+- [The Heatwave That Broke Memory](https://medium.com/southern-winds/the-heatwave-that-broke-memory-6770d9328182?source=rss------data_science-5)
+- [From Experience to Understanding: What Two Databricks Learning Tracks Taught Me About the Modern…](https://medium.com/@harshitpatel4ds/from-experience-to-understanding-what-two-databricks-learning-tracks-taught-me-about-the-modern-ac005a8beebe?source=rss------data_science-5)
+- [Predicting Tennis](https://medium.com/@jorubix/predicting-tennis-de748eb38f25?source=rss------data_science-5)
+- [When Does HyDE Help RAG? I Tested 3 Query Types and It Failed on Two](https://pub.towardsai.net/when-does-hyde-help-rag-i-tested-3-query-types-and-it-failed-on-two-c8946453de34?source=rss------data_science-5)
+- [The Mathematics of Semantic Search](https://medium.com/@nbhyxq/the-mathematics-of-semantic-search-b1c14f51b57d?source=rss------data_science-5)
+- [RAG na Prática: Como Construir um Sistema de Busca Inteligente com LLMs](https://medium.com/@marcelo.brito_38479/rag-na-pr%C3%A1tica-como-construir-um-sistema-de-busca-inteligente-com-llms-b4bd4a429aed?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
