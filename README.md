@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Starting Infrastructure as Code with Terraform for Wilvor — Aviation Operations Intelligence…](https://medium.com/@ibrahim.hamza01/starting-infrastructure-as-code-with-terraform-for-wilvor-aviation-operations-intelligence-0b59e52d1af3?source=rss------data_science-5)
-- [The Meta-Architecture of Google Search AI Cognitive Enclosure: Empirical Traces of Interface…](https://medium.com/@bulanramai2558/the-meta-architecture-of-google-search-ai-cognitive-enclosure-empirical-traces-of-interface-b4f99a88bd90?source=rss------data_science-5)
-- [Vanity Metrics vs. Actionable Metrics: A Framework for Knowing the Difference](https://medium.com/@atticusli/vanity-metrics-vs-actionable-metrics-a-framework-for-knowing-the-difference-4e79c7e2f0f9?source=rss------data_science-5)
-- [Building an End-to-End Lakehouse on Databricks: Instacart Analytics from Pipeline to Insight](https://medium.com/@harshitpatel4ds/building-an-end-to-end-lakehouse-on-databricks-instacart-analytics-from-pipeline-to-insight-a88483aa3895?source=rss------data_science-5)
-- [The Heatwave That Broke Memory](https://medium.com/southern-winds/the-heatwave-that-broke-memory-6770d9328182?source=rss------data_science-5)
-- [From Experience to Understanding: What Two Databricks Learning Tracks Taught Me About the Modern…](https://medium.com/@harshitpatel4ds/from-experience-to-understanding-what-two-databricks-learning-tracks-taught-me-about-the-modern-ac005a8beebe?source=rss------data_science-5)
-- [Predicting Tennis](https://medium.com/@jorubix/predicting-tennis-de748eb38f25?source=rss------data_science-5)
-- [When Does HyDE Help RAG? I Tested 3 Query Types and It Failed on Two](https://pub.towardsai.net/when-does-hyde-help-rag-i-tested-3-query-types-and-it-failed-on-two-c8946453de34?source=rss------data_science-5)
-- [The Mathematics of Semantic Search](https://medium.com/@nbhyxq/the-mathematics-of-semantic-search-b1c14f51b57d?source=rss------data_science-5)
-- [RAG na Prática: Como Construir um Sistema de Busca Inteligente com LLMs](https://medium.com/@marcelo.brito_38479/rag-na-pr%C3%A1tica-como-construir-um-sistema-de-busca-inteligente-com-llms-b4bd4a429aed?source=rss------data_science-5)
+- [10 Python Concepts You Must Know Before Calling Yourself Advanced](https://python.plainenglish.io/10-python-concepts-you-must-know-before-calling-yourself-advanced-c24ac8e0f8e5?source=rss------data_science-5)
+- [El buen liderazgo](https://medium.com/@johantifa77/el-buen-liderazgo-32aa4c732c10?source=rss------data_science-5)
+- [When Cosine Similarity Approaching Singularity in Google Search AI Mode](https://medium.com/@bulanramai2558/when-cosine-similarity-approaching-singularity-in-google-search-ai-mode-002378068e21?source=rss------data_science-5)
+- [Python for Data Science — Probability Basics for Data Science](https://sudhamsr.medium.com/python-for-data-science-probability-basics-for-data-science-3521a2116687?source=rss------data_science-5)
+- [A little charm, a little mystery, and a story worth discovering.](https://medium.com/@ivymabel21/a-little-charm-a-little-mystery-and-a-story-worth-discovering-2b06f95b0e81?source=rss------data_science-5)
+- [A Pentagon Whistleblower Just Described a Secret Program Called Immaculate Constellation That…](https://medium.com/@The-Quantum-Mithal/a-pentagon-whistleblower-just-described-a-secret-program-called-immaculate-constellation-that-945529cd766d?source=rss------data_science-5)
+- [Avi Loeb Says the 1977 “Wow Signal” Came From Within Nine Degrees of the Direction 3I/ATLAS Just…](https://medium.com/@The-Quantum-Mithal/avi-loeb-says-the-1977-wow-signal-came-from-within-nine-degrees-of-the-direction-3i-atlas-just-b5b93327af80?source=rss------data_science-5)
+- [The Survivorship Bias in Your Funnel Data: Why Drop-Off Analysis Misses the Point](https://medium.com/@atticusli/the-survivorship-bias-in-your-funnel-data-why-drop-off-analysis-misses-the-point-37d544b3c55f?source=rss------data_science-5)
+- [AI’s Low-Hanging Fruit in Agriculture: Data, Predictions, and the Digital Twin](https://blog.cubed.run/ais-low-hanging-fruit-in-agriculture-data-predictions-and-the-digital-twin-e49d55f90c77?source=rss------data_science-5)
+- [I Gave OpenCode Access to the Entire US Economy. It Took One Skill File](https://medium.com/@wl8380/i-gave-opencode-access-to-the-entire-us-economy-it-took-one-skill-file-4b675ad9ff0b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
