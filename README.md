@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [10 Python Concepts You Must Know Before Calling Yourself Advanced](https://python.plainenglish.io/10-python-concepts-you-must-know-before-calling-yourself-advanced-c24ac8e0f8e5?source=rss------data_science-5)
-- [El buen liderazgo](https://medium.com/@johantifa77/el-buen-liderazgo-32aa4c732c10?source=rss------data_science-5)
-- [When Cosine Similarity Approaching Singularity in Google Search AI Mode](https://medium.com/@bulanramai2558/when-cosine-similarity-approaching-singularity-in-google-search-ai-mode-002378068e21?source=rss------data_science-5)
-- [Python for Data Science — Probability Basics for Data Science](https://sudhamsr.medium.com/python-for-data-science-probability-basics-for-data-science-3521a2116687?source=rss------data_science-5)
-- [A little charm, a little mystery, and a story worth discovering.](https://medium.com/@ivymabel21/a-little-charm-a-little-mystery-and-a-story-worth-discovering-2b06f95b0e81?source=rss------data_science-5)
-- [A Pentagon Whistleblower Just Described a Secret Program Called Immaculate Constellation That…](https://medium.com/@The-Quantum-Mithal/a-pentagon-whistleblower-just-described-a-secret-program-called-immaculate-constellation-that-945529cd766d?source=rss------data_science-5)
-- [Avi Loeb Says the 1977 “Wow Signal” Came From Within Nine Degrees of the Direction 3I/ATLAS Just…](https://medium.com/@The-Quantum-Mithal/avi-loeb-says-the-1977-wow-signal-came-from-within-nine-degrees-of-the-direction-3i-atlas-just-b5b93327af80?source=rss------data_science-5)
-- [The Survivorship Bias in Your Funnel Data: Why Drop-Off Analysis Misses the Point](https://medium.com/@atticusli/the-survivorship-bias-in-your-funnel-data-why-drop-off-analysis-misses-the-point-37d544b3c55f?source=rss------data_science-5)
-- [AI’s Low-Hanging Fruit in Agriculture: Data, Predictions, and the Digital Twin](https://blog.cubed.run/ais-low-hanging-fruit-in-agriculture-data-predictions-and-the-digital-twin-e49d55f90c77?source=rss------data_science-5)
-- [I Gave OpenCode Access to the Entire US Economy. It Took One Skill File](https://medium.com/@wl8380/i-gave-opencode-access-to-the-entire-us-economy-it-took-one-skill-file-4b675ad9ff0b?source=rss------data_science-5)
+- [How to Win Any Argument Using Bad Graphs: A Villain&#39;s Guide to Data Visualization](https://medium.com/@johirbuet/how-to-win-any-argument-using-bad-graphs-a-villains-guide-to-data-visualization-1fab735eb602?source=rss------data_science-5)
+- [Building Scalable Data and AI Workflows](https://medium.com/@ruidezhu2000/building-scalable-data-and-ai-workflows-8a0bcdfbb6c6?source=rss------data_science-5)
+- [Implementing Microsoft Fabric as the Foundation for GenAI-Ready Analytics](https://luis-oliveira.medium.com/implementing-microsoft-fabric-as-the-foundation-for-genai-ready-analytics-7181b6bdb66f?source=rss------data_science-5)
+- [Predictive Analytics for Growth Teams: When Historical Data Stops Being Useful](https://medium.com/@atticusli/predictive-analytics-for-growth-teams-when-historical-data-stops-being-useful-9fd68b347f19?source=rss------data_science-5)
+- [EM Interference Magnetism Via AES Signatures](https://medium.com/@akko.sinn/em-interference-magnetism-via-aes-signatures-7ed92d3c6219?source=rss------data_science-5)
+- [RL for dynamic pricing: How We Trained RL to Price Groceries Without Eroding Its Own Margins](https://pub.towardsai.net/rl-for-dynamic-pricing-how-we-trained-rl-to-price-groceries-without-eroding-its-own-margins-106aac7c8695?source=rss------data_science-5)
+- [How to Use Another Person’s Body as an Avatar: A Guide to Body Swapping Spells](https://medium.com/@doctorkhann1/how-to-use-another-persons-body-as-an-avatar-a-guide-to-body-swapping-spells-4b610e499d57?source=rss------data_science-5)
+- [I Built an ML Web App With Zero Web Skills](https://medium.com/@richelattafuah/i-built-an-ml-web-app-with-zero-web-skills-63e4f87be17a?source=rss------data_science-5)
+- [FROM RAW NUMBERS TO REAL DECISIONS: BUILDING A FINANCIAL HEALTH DASHBOARD FOR A SME USING POWER BI](https://medium.com/@vickiesimon03/from-raw-numbers-to-real-decisions-building-a-financial-health-dashboard-for-a-sme-using-power-bi-44d35496c569?source=rss------data_science-5)
+- [Business world has the wrong attitude towards AI why?](https://medium.com/activated-thinker/business-world-has-the-wrong-attitude-towards-ai-why-036d9e2bd291?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
