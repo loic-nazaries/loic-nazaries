@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Win Any Argument Using Bad Graphs: A Villain&#39;s Guide to Data Visualization](https://medium.com/@johirbuet/how-to-win-any-argument-using-bad-graphs-a-villains-guide-to-data-visualization-1fab735eb602?source=rss------data_science-5)
-- [Building Scalable Data and AI Workflows](https://medium.com/@ruidezhu2000/building-scalable-data-and-ai-workflows-8a0bcdfbb6c6?source=rss------data_science-5)
-- [Implementing Microsoft Fabric as the Foundation for GenAI-Ready Analytics](https://luis-oliveira.medium.com/implementing-microsoft-fabric-as-the-foundation-for-genai-ready-analytics-7181b6bdb66f?source=rss------data_science-5)
-- [Predictive Analytics for Growth Teams: When Historical Data Stops Being Useful](https://medium.com/@atticusli/predictive-analytics-for-growth-teams-when-historical-data-stops-being-useful-9fd68b347f19?source=rss------data_science-5)
-- [EM Interference Magnetism Via AES Signatures](https://medium.com/@akko.sinn/em-interference-magnetism-via-aes-signatures-7ed92d3c6219?source=rss------data_science-5)
-- [RL for dynamic pricing: How We Trained RL to Price Groceries Without Eroding Its Own Margins](https://pub.towardsai.net/rl-for-dynamic-pricing-how-we-trained-rl-to-price-groceries-without-eroding-its-own-margins-106aac7c8695?source=rss------data_science-5)
-- [How to Use Another Person’s Body as an Avatar: A Guide to Body Swapping Spells](https://medium.com/@doctorkhann1/how-to-use-another-persons-body-as-an-avatar-a-guide-to-body-swapping-spells-4b610e499d57?source=rss------data_science-5)
-- [I Built an ML Web App With Zero Web Skills](https://medium.com/@richelattafuah/i-built-an-ml-web-app-with-zero-web-skills-63e4f87be17a?source=rss------data_science-5)
-- [FROM RAW NUMBERS TO REAL DECISIONS: BUILDING A FINANCIAL HEALTH DASHBOARD FOR A SME USING POWER BI](https://medium.com/@vickiesimon03/from-raw-numbers-to-real-decisions-building-a-financial-health-dashboard-for-a-sme-using-power-bi-44d35496c569?source=rss------data_science-5)
-- [Business world has the wrong attitude towards AI why?](https://medium.com/activated-thinker/business-world-has-the-wrong-attitude-towards-ai-why-036d9e2bd291?source=rss------data_science-5)
+- [How to Master Gen AI: Volume 6 — Agentic AI &lpar;Part 5: Principles&rpar;](https://medium.com/@martin.jurado.p/how-to-master-gen-ai-volume-6-agentic-ai-part-5-principles-addc6a2f0237?source=rss------data_science-5)
+- [Industrial Operations Have a Data Problem — But Not the One You Think](https://medium.com/@envirocore.systems/industrial-operations-have-a-data-problem-but-not-the-one-you-think-9aee0b10c820?source=rss------data_science-5)
+- [Belarusian Hackers and Ukrainian Ghosts Grounded Aeroflot on 28 July 2025–50 Flights, Zero Handler.](https://medium.com/@Forensic-Archive/belarusian-hackers-and-ukrainian-ghosts-grounded-aeroflot-on-28-july-2025-50-flights-zero-handler-c756e22d90f4?source=rss------data_science-5)
+- [Cohort Analysis for Non-Analysts: Seeing Patterns Your Dashboard Hides](https://medium.com/@atticusli/cohort-analysis-for-non-analysts-seeing-patterns-your-dashboard-hides-7fafbf4a3c77?source=rss------data_science-5)
+- [Why Quanta Keeps Your Statistics on the CPU · The Signal](https://medium.com/@donald.eastonbrooks/why-quanta-keeps-your-statistics-on-the-cpu-the-signal-dc6ab4c1a9bd?source=rss------data_science-5)
+- [Do Sharp Opening Moves Persist — or Fade?](https://pankaj-tiwari2.medium.com/do-sharp-opening-moves-persist-or-fade-c4140a7689d0?source=rss------data_science-5)
+- [The Data Analyst Lens](https://medium.com/@Henry06/the-data-analyst-lens-f707571f67fc?source=rss------data_science-5)
+- [Why do people search the same thing in different ways?](https://medium.com/@cynthiameedubari24/why-do-people-search-the-same-thing-in-different-ways-2b22fa9af362?source=rss------data_science-5)
+- [Setting Up Your Data Science Toolkit: Pandas, NumPy, Matplotlib](https://medium.com/@emmanuelowusuadu10/setting-up-your-data-science-toolkit-pandas-numpy-matplotlib-ed62eefd0fff?source=rss------data_science-5)
+- [On the Partnership Between the U.S. Government and Science in Figuring Out the Nature of UAP](https://avi-loeb.medium.com/on-the-partnership-between-the-u-s-government-and-science-in-figuring-out-the-nature-of-uap-2cb7c8401921?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
