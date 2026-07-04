@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Master Gen AI: Volume 6 — Agentic AI &lpar;Part 5: Principles&rpar;](https://medium.com/@martin.jurado.p/how-to-master-gen-ai-volume-6-agentic-ai-part-5-principles-addc6a2f0237?source=rss------data_science-5)
-- [Industrial Operations Have a Data Problem — But Not the One You Think](https://medium.com/@envirocore.systems/industrial-operations-have-a-data-problem-but-not-the-one-you-think-9aee0b10c820?source=rss------data_science-5)
-- [Belarusian Hackers and Ukrainian Ghosts Grounded Aeroflot on 28 July 2025–50 Flights, Zero Handler.](https://medium.com/@Forensic-Archive/belarusian-hackers-and-ukrainian-ghosts-grounded-aeroflot-on-28-july-2025-50-flights-zero-handler-c756e22d90f4?source=rss------data_science-5)
-- [Cohort Analysis for Non-Analysts: Seeing Patterns Your Dashboard Hides](https://medium.com/@atticusli/cohort-analysis-for-non-analysts-seeing-patterns-your-dashboard-hides-7fafbf4a3c77?source=rss------data_science-5)
-- [Why Quanta Keeps Your Statistics on the CPU · The Signal](https://medium.com/@donald.eastonbrooks/why-quanta-keeps-your-statistics-on-the-cpu-the-signal-dc6ab4c1a9bd?source=rss------data_science-5)
-- [Do Sharp Opening Moves Persist — or Fade?](https://pankaj-tiwari2.medium.com/do-sharp-opening-moves-persist-or-fade-c4140a7689d0?source=rss------data_science-5)
-- [The Data Analyst Lens](https://medium.com/@Henry06/the-data-analyst-lens-f707571f67fc?source=rss------data_science-5)
-- [Why do people search the same thing in different ways?](https://medium.com/@cynthiameedubari24/why-do-people-search-the-same-thing-in-different-ways-2b22fa9af362?source=rss------data_science-5)
-- [Setting Up Your Data Science Toolkit: Pandas, NumPy, Matplotlib](https://medium.com/@emmanuelowusuadu10/setting-up-your-data-science-toolkit-pandas-numpy-matplotlib-ed62eefd0fff?source=rss------data_science-5)
-- [On the Partnership Between the U.S. Government and Science in Figuring Out the Nature of UAP](https://avi-loeb.medium.com/on-the-partnership-between-the-u-s-government-and-science-in-figuring-out-the-nature-of-uap-2cb7c8401921?source=rss------data_science-5)
+- [AI Academy’s Warning Shot that Redirect to FlyRank AI: How Media Exploitation Distorted the…](https://medium.com/@wegobusinessworld/ai-academys-warning-shot-that-redirect-to-flyrank-ai-how-media-exploitation-distorted-the-f348e6b597e2?source=rss------data_science-5)
+- [⚡ Chronicle of an Origin](https://medium.com/@The_Modern_Lens/chronicle-of-an-origin-c1c3de8708d7?source=rss------data_science-5)
+- [How Your Email Knows What’s Spam &lpar;And the 1700s Math Behind It&rpar;](https://medium.datadriveninvestor.com/how-your-email-knows-whats-spam-and-the-1700s-math-behind-it-a14e763b563c?source=rss------data_science-5)
+- [Nadie te explica esto cuando empiezas a cuidar a tu bebé &lpar;y por eso todo se siente más difícil…](https://medium.com/@marianaalejandra_80269/nadie-te-explica-esto-cuando-empiezas-a-cuidar-a-tu-beb%C3%A9-y-por-eso-todo-se-siente-m%C3%A1s-dif%C3%ADcil-e77e6c6523c4?source=rss------data_science-5)
+- [Generative AI Is Redefining Procurement — The Winners Will Think Beyond Automation](https://medium.com/@paragon.etuog/generative-ai-is-redefining-procurement-the-winners-will-think-beyond-automation-9074ad91f531?source=rss------data_science-5)
+- [TITLE: Meta AI vs CDC: I Fed It the Outbreak Data.](https://medium.com/@rehabfarhan252/title-meta-ai-vs-cdc-i-fed-it-the-outbreak-data-14694ee8d8ce?source=rss------data_science-5)
+- [Open Source Maintainers are Discord Mods](https://medium.com/@cuteheart/open-source-maintainers-are-discord-mods-bcd87c0ee7fc?source=rss------data_science-5)
+- [The Invisible Architecture of Truth: Why the World’s Most Boring System is Our Last Defense Against…](https://medium.com/@memorylibrary28/the-invisible-architecture-of-truth-why-the-worlds-most-boring-system-is-our-last-defense-against-549cb11e5554?source=rss------data_science-5)
+- [Regularization: How a Small Penalty Helps Neural Networks Grow](https://medium.com/@ashvith.gurram/regularization-how-a-small-penalty-helps-neural-networks-grow-44c1eb5a675b?source=rss------data_science-5)
+- [Understanding Deep Learning Through Four Interactive Experiments](https://medium.com/@dhruv.vyas3690/understanding-deep-learning-through-four-interactive-experiments-940bc89fceb0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
