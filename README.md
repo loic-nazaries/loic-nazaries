@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [AI Academy’s Warning Shot that Redirect to FlyRank AI: How Media Exploitation Distorted the…](https://medium.com/@wegobusinessworld/ai-academys-warning-shot-that-redirect-to-flyrank-ai-how-media-exploitation-distorted-the-f348e6b597e2?source=rss------data_science-5)
-- [⚡ Chronicle of an Origin](https://medium.com/@The_Modern_Lens/chronicle-of-an-origin-c1c3de8708d7?source=rss------data_science-5)
-- [How Your Email Knows What’s Spam &lpar;And the 1700s Math Behind It&rpar;](https://medium.datadriveninvestor.com/how-your-email-knows-whats-spam-and-the-1700s-math-behind-it-a14e763b563c?source=rss------data_science-5)
-- [Nadie te explica esto cuando empiezas a cuidar a tu bebé &lpar;y por eso todo se siente más difícil…](https://medium.com/@marianaalejandra_80269/nadie-te-explica-esto-cuando-empiezas-a-cuidar-a-tu-beb%C3%A9-y-por-eso-todo-se-siente-m%C3%A1s-dif%C3%ADcil-e77e6c6523c4?source=rss------data_science-5)
-- [Generative AI Is Redefining Procurement — The Winners Will Think Beyond Automation](https://medium.com/@paragon.etuog/generative-ai-is-redefining-procurement-the-winners-will-think-beyond-automation-9074ad91f531?source=rss------data_science-5)
-- [TITLE: Meta AI vs CDC: I Fed It the Outbreak Data.](https://medium.com/@rehabfarhan252/title-meta-ai-vs-cdc-i-fed-it-the-outbreak-data-14694ee8d8ce?source=rss------data_science-5)
-- [Open Source Maintainers are Discord Mods](https://medium.com/@cuteheart/open-source-maintainers-are-discord-mods-bcd87c0ee7fc?source=rss------data_science-5)
-- [The Invisible Architecture of Truth: Why the World’s Most Boring System is Our Last Defense Against…](https://medium.com/@memorylibrary28/the-invisible-architecture-of-truth-why-the-worlds-most-boring-system-is-our-last-defense-against-549cb11e5554?source=rss------data_science-5)
-- [Regularization: How a Small Penalty Helps Neural Networks Grow](https://medium.com/@ashvith.gurram/regularization-how-a-small-penalty-helps-neural-networks-grow-44c1eb5a675b?source=rss------data_science-5)
-- [Understanding Deep Learning Through Four Interactive Experiments](https://medium.com/@dhruv.vyas3690/understanding-deep-learning-through-four-interactive-experiments-940bc89fceb0?source=rss------data_science-5)
+- [Tokyo’s New Spatial AI Strategy Has a Silent Winner](https://systelic.medium.com/tokyos-new-spatial-ai-strategy-has-a-silent-winner-5b7478eba0a2?source=rss------data_science-5)
+- [Predicting Global Air Quality with 99.93%](https://medium.com/@chihabeddinegheraibia/predicting-global-air-quality-with-99-93-4d9c0ab2a008?source=rss------data_science-5)
+- [From Churn Model to AI Assistant: How I Built an End-to-End Data Science Product](https://medium.com/@deeptid0105/from-churn-model-to-ai-assistant-how-i-built-an-end-to-end-data-science-product-7268134369f8?source=rss------data_science-5)
+- [ÉDUCATION](https://medium.com/@dorteliphete00/%C3%A9ducation-5070fda9ff68?source=rss------data_science-5)
+- [QuTiP 2— Rabi Oscillations in Python with QuTiP](https://medium.com/@ken.moriwaki/qutip-2-rabi-oscillations-in-python-with-qutip-83563241ed17?source=rss------data_science-5)
+- [The Death of Spotify’s Developer Ecosystem](https://medium.com/@soundnet717/the-death-of-spotifys-developer-ecosystem-5a63403487c0?source=rss------data_science-5)
+- [Music Mood Detection API for Developers: Turning Audio Features Into Emotional Intelligence](https://medium.com/@soundnet717/music-mood-detection-api-for-developers-turning-audio-features-into-emotional-intelligence-0ec62a3074c9?source=rss------data_science-5)
+- [Turning Demand Forecasts into Inventory Decisions: Building an End-to-End Inventory Optimization…](https://medium.com/@sikouabderrahim1/turning-demand-forecasts-into-inventory-decisions-building-an-end-to-end-inventory-optimization-1914b6376176?source=rss------data_science-5)
+- [THE INFINITE-DIMENSIONAL DIOPHANTINE LATTICE: GEOMETRIC PROOF OF UNIQUE FACTORIZATION IN THE FAURE…](https://medium.com/@auf2026/the-infinite-dimensional-diophantine-lattice-geometric-proof-of-unique-factorization-in-the-faure-089b72a861e7?source=rss------data_science-5)
+- [Is This Market Lying to Me? Part 1: The Problem and the Pipeline](https://blog.devgenius.io/is-this-market-lying-to-me-part-1-the-problem-and-the-pipeline-72aff9afc1a3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
