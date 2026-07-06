@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Tokyo’s New Spatial AI Strategy Has a Silent Winner](https://systelic.medium.com/tokyos-new-spatial-ai-strategy-has-a-silent-winner-5b7478eba0a2?source=rss------data_science-5)
-- [Predicting Global Air Quality with 99.93%](https://medium.com/@chihabeddinegheraibia/predicting-global-air-quality-with-99-93-4d9c0ab2a008?source=rss------data_science-5)
-- [From Churn Model to AI Assistant: How I Built an End-to-End Data Science Product](https://medium.com/@deeptid0105/from-churn-model-to-ai-assistant-how-i-built-an-end-to-end-data-science-product-7268134369f8?source=rss------data_science-5)
-- [ÉDUCATION](https://medium.com/@dorteliphete00/%C3%A9ducation-5070fda9ff68?source=rss------data_science-5)
-- [QuTiP 2— Rabi Oscillations in Python with QuTiP](https://medium.com/@ken.moriwaki/qutip-2-rabi-oscillations-in-python-with-qutip-83563241ed17?source=rss------data_science-5)
-- [The Death of Spotify’s Developer Ecosystem](https://medium.com/@soundnet717/the-death-of-spotifys-developer-ecosystem-5a63403487c0?source=rss------data_science-5)
-- [Music Mood Detection API for Developers: Turning Audio Features Into Emotional Intelligence](https://medium.com/@soundnet717/music-mood-detection-api-for-developers-turning-audio-features-into-emotional-intelligence-0ec62a3074c9?source=rss------data_science-5)
-- [Turning Demand Forecasts into Inventory Decisions: Building an End-to-End Inventory Optimization…](https://medium.com/@sikouabderrahim1/turning-demand-forecasts-into-inventory-decisions-building-an-end-to-end-inventory-optimization-1914b6376176?source=rss------data_science-5)
-- [THE INFINITE-DIMENSIONAL DIOPHANTINE LATTICE: GEOMETRIC PROOF OF UNIQUE FACTORIZATION IN THE FAURE…](https://medium.com/@auf2026/the-infinite-dimensional-diophantine-lattice-geometric-proof-of-unique-factorization-in-the-faure-089b72a861e7?source=rss------data_science-5)
-- [Is This Market Lying to Me? Part 1: The Problem and the Pipeline](https://blog.devgenius.io/is-this-market-lying-to-me-part-1-the-problem-and-the-pipeline-72aff9afc1a3?source=rss------data_science-5)
+- [Man, God, and evil](https://medium.com/@huseyin.gon1414/man-god-and-evil-c04881cc0a9e?source=rss------data_science-5)
+- [How to Build a Copilot Extension for SharePoint Using Azure Functions](https://medium.com/@kaklotarrahul79/how-to-build-a-copilot-extension-for-sharepoint-using-azure-functions-91aecac8bcf7?source=rss------data_science-5)
+- [Number of Islands — An Intuitive BFS Guide for Beginners](https://medium.com/@asthajain1994/number-of-islands-an-intuitive-bfs-guide-for-beginners-82b18d5c1f22?source=rss------data_science-5)
+- [The HIMARS Firmware Nobody Was Supposed to Touch: How Ukraine’s Engineers Rewrote It Inside a…](https://medium.com/@Forensic-Archive/the-himars-firmware-nobody-was-supposed-to-touch-how-ukraines-engineers-rewrote-it-inside-a-f1de00e0ddcf?source=rss------data_science-5)
+- [Why I No Longer Want to Be an “AI Expert”](https://datascientistdude.medium.com/why-i-no-longer-want-to-be-an-ai-expert-5e98e046f17c?source=rss------data_science-5)
+- [Imagine waking up one day only to discover your account has been suspended.](https://medium.com/@japhete291/imagine-waking-up-one-day-only-to-discover-your-account-has-been-suspended-6fdbb02915b1?source=rss------data_science-5)
+- [Acorns have their own story to tell](https://medium.com/the-straight-dope/acorns-have-their-own-story-to-tell-0df55ee5a365?source=rss------data_science-5)
+- [Loop Engineering: The Next Step After Prompt Engineering](https://medium.com/@ashfaqbs/loop-engineering-the-next-step-after-prompt-engineering-45ee2ef9ff10?source=rss------data_science-5)
+- [Agent Evaluation: From “Did It Answer?” to “Can I Trust It in the Loop?”](https://medium.com/codex/agent-evaluation-from-did-it-answer-to-can-i-trust-it-in-the-loop-a2ed0f35f800?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
