@@ -105,15 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Man, God, and evil](https://medium.com/@huseyin.gon1414/man-god-and-evil-c04881cc0a9e?source=rss------data_science-5)
-- [How to Build a Copilot Extension for SharePoint Using Azure Functions](https://medium.com/@kaklotarrahul79/how-to-build-a-copilot-extension-for-sharepoint-using-azure-functions-91aecac8bcf7?source=rss------data_science-5)
-- [Number of Islands — An Intuitive BFS Guide for Beginners](https://medium.com/@asthajain1994/number-of-islands-an-intuitive-bfs-guide-for-beginners-82b18d5c1f22?source=rss------data_science-5)
-- [The HIMARS Firmware Nobody Was Supposed to Touch: How Ukraine’s Engineers Rewrote It Inside a…](https://medium.com/@Forensic-Archive/the-himars-firmware-nobody-was-supposed-to-touch-how-ukraines-engineers-rewrote-it-inside-a-f1de00e0ddcf?source=rss------data_science-5)
-- [Why I No Longer Want to Be an “AI Expert”](https://datascientistdude.medium.com/why-i-no-longer-want-to-be-an-ai-expert-5e98e046f17c?source=rss------data_science-5)
-- [Imagine waking up one day only to discover your account has been suspended.](https://medium.com/@japhete291/imagine-waking-up-one-day-only-to-discover-your-account-has-been-suspended-6fdbb02915b1?source=rss------data_science-5)
-- [Acorns have their own story to tell](https://medium.com/the-straight-dope/acorns-have-their-own-story-to-tell-0df55ee5a365?source=rss------data_science-5)
-- [Loop Engineering: The Next Step After Prompt Engineering](https://medium.com/@ashfaqbs/loop-engineering-the-next-step-after-prompt-engineering-45ee2ef9ff10?source=rss------data_science-5)
-- [Agent Evaluation: From “Did It Answer?” to “Can I Trust It in the Loop?”](https://medium.com/codex/agent-evaluation-from-did-it-answer-to-can-i-trust-it-in-the-loop-a2ed0f35f800?source=rss------data_science-5)
+- [Our agency will do business or brand logo design with copyrights](https://globalbrandcraft.medium.com/our-agency-will-do-business-or-brand-logo-design-with-copyrights-5f5c96c7e0ca?source=rss------data_science-5)
+- [The Most-Requested Streamlit Feature of All Time Just Shipped — And It’s Beautiful](https://medium.com/@psaimanohar/the-most-requested-streamlit-feature-of-all-time-just-shipped-and-its-beautiful-98c67595ef32?source=rss------data_science-5)
+- [Two-Sided Marketplace Scorecard: What Makes a Successful Marketplace?](https://medium.com/@AILearningHub/two-sided-marketplace-scorecard-what-makes-a-successful-marketplace-32ea32a09515?source=rss------data_science-5)
+- [Redéfinir le Calcul Opérationnel : Au Cœur de l’Analyse Sommatielle](https://medium.com/@leprofesseurkyungu/red%C3%A9finir-le-calcul-op%C3%A9rationnel-au-c%C5%93ur-de-lanalyse-sommatielle-5551c93cd3c5?source=rss------data_science-5)
+- [Programação dinâmica](https://medium.com/@gbritopessoa/programa%C3%A7%C3%A3o-din%C3%A2mica-102b905393ac?source=rss------data_science-5)
+- [You Do Not Need a CS Degree to Become a Data Analyst in India.](https://medium.com/@projectshift.app/you-do-not-need-a-cs-degree-to-become-a-data-analyst-in-india-f691c2f694ad?source=rss------data_science-5)
+- [Stop Testing One Indicator at a Time. Loop Your Way to Better Trading](https://medium.com/@wl8380/stop-testing-one-indicator-at-a-time-loop-your-way-to-better-trading-9fc2ef5cf3cf?source=rss------data_science-5)
+- [Software Engineer Interview Process at AI Startups](https://medium.com/fonzi-ai/software-engineer-interview-process-at-ai-startups-06d29030a923?source=rss------data_science-5)
+- [Ten from the weekend 07/05: A few interesting reads that I came across](https://gopivikranth.medium.com/ten-from-the-weekend-07-05-a-few-interesting-reads-that-i-came-across-50f471a9c36d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
