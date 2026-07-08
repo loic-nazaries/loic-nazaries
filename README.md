@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Our agency will do business or brand logo design with copyrights](https://globalbrandcraft.medium.com/our-agency-will-do-business-or-brand-logo-design-with-copyrights-5f5c96c7e0ca?source=rss------data_science-5)
-- [The Most-Requested Streamlit Feature of All Time Just Shipped — And It’s Beautiful](https://medium.com/@psaimanohar/the-most-requested-streamlit-feature-of-all-time-just-shipped-and-its-beautiful-98c67595ef32?source=rss------data_science-5)
-- [Two-Sided Marketplace Scorecard: What Makes a Successful Marketplace?](https://medium.com/@AILearningHub/two-sided-marketplace-scorecard-what-makes-a-successful-marketplace-32ea32a09515?source=rss------data_science-5)
-- [Redéfinir le Calcul Opérationnel : Au Cœur de l’Analyse Sommatielle](https://medium.com/@leprofesseurkyungu/red%C3%A9finir-le-calcul-op%C3%A9rationnel-au-c%C5%93ur-de-lanalyse-sommatielle-5551c93cd3c5?source=rss------data_science-5)
-- [Programação dinâmica](https://medium.com/@gbritopessoa/programa%C3%A7%C3%A3o-din%C3%A2mica-102b905393ac?source=rss------data_science-5)
-- [You Do Not Need a CS Degree to Become a Data Analyst in India.](https://medium.com/@projectshift.app/you-do-not-need-a-cs-degree-to-become-a-data-analyst-in-india-f691c2f694ad?source=rss------data_science-5)
-- [Stop Testing One Indicator at a Time. Loop Your Way to Better Trading](https://medium.com/@wl8380/stop-testing-one-indicator-at-a-time-loop-your-way-to-better-trading-9fc2ef5cf3cf?source=rss------data_science-5)
-- [Software Engineer Interview Process at AI Startups](https://medium.com/fonzi-ai/software-engineer-interview-process-at-ai-startups-06d29030a923?source=rss------data_science-5)
-- [Ten from the weekend 07/05: A few interesting reads that I came across](https://gopivikranth.medium.com/ten-from-the-weekend-07-05-a-few-interesting-reads-that-i-came-across-50f471a9c36d?source=rss------data_science-5)
+- [One Line Makes Your Streamlit App Look Like It Was Built by a Senior Frontend Dev](https://medium.com/@psaimanohar/one-line-makes-your-streamlit-app-look-like-it-was-built-by-a-senior-frontend-dev-3f844b725f7b?source=rss------data_science-5)
+- [Is AI really coming for your job?](https://medium.com/@elouzoepic/is-ai-really-coming-for-your-job-5ffea0f10ef9?source=rss------data_science-5)
+- [10 Python Libraries Smart Developers Don’t Talk About](https://blog.stackademic.com/10-python-libraries-smart-developers-dont-talk-about-1027ccfc6880?source=rss------data_science-5)
+- [The Importance of Data Profiling in the AI Era](https://medium.com/@bennettmo16/the-importance-of-data-profiling-in-the-ai-era-64884f5edf86?source=rss------data_science-5)
+- [LLM vs RAG Explained &lpar;EP2&rpar;: How AI Actually Finds the Right Answers](https://medium.com/@AAZZ01/llm-vs-rag-explained-ep2-how-ai-actually-finds-the-right-answers-32e0eae75495?source=rss------data_science-5)
+- [Duke AI PM 學習筆記 &lpar;四&rpar;：從決策樹到 Transformer，拆解演算法地圖與訓練機制](https://1zhi-lily.medium.com/duke-ai-pm-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E5%9B%9B-%E5%BE%9E%E6%B1%BA%E7%AD%96%E6%A8%B9%E5%88%B0-transformer-%E6%8B%86%E8%A7%A3%E6%BC%94%E7%AE%97%E6%B3%95%E5%9C%B0%E5%9C%96%E8%88%87%E8%A8%93%E7%B7%B4%E6%A9%9F%E5%88%B6-25ac1ce09e3c?source=rss------data_science-5)
+- [7 AI Freelance Services Clients Are Already Paying For](https://blog.stackademic.com/7-ai-freelance-services-clients-are-already-paying-for-3fd129cc9717?source=rss------data_science-5)
+- [Diagnosing a Leaky Conversion Funnel: When Your Dashboard Shows Where But Not Why](https://medium.com/@harshit.sekhri/diagnosing-a-leaky-conversion-funnel-when-your-dashboard-shows-where-but-not-why-6da8e5cc4f75?source=rss------data_science-5)
+- [Experience Intelligence Is the Next Competitive Advantage](https://medium.com/@kawikapedia/experience-intelligence-is-the-next-competitive-advantage-b1da995d883d?source=rss------data_science-5)
+- [The Invisible Infrastructure of the Internet: 15 Websites Running Behind the Scenes](https://medium.com/@christopher.hiroki.zoritch/the-invisible-infrastructure-of-the-internet-15-websites-running-behind-the-scenes-9f06dfd0cbd0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
