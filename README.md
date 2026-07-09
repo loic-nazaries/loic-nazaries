@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [One Line Makes Your Streamlit App Look Like It Was Built by a Senior Frontend Dev](https://medium.com/@psaimanohar/one-line-makes-your-streamlit-app-look-like-it-was-built-by-a-senior-frontend-dev-3f844b725f7b?source=rss------data_science-5)
-- [Is AI really coming for your job?](https://medium.com/@elouzoepic/is-ai-really-coming-for-your-job-5ffea0f10ef9?source=rss------data_science-5)
-- [10 Python Libraries Smart Developers Don’t Talk About](https://blog.stackademic.com/10-python-libraries-smart-developers-dont-talk-about-1027ccfc6880?source=rss------data_science-5)
-- [The Importance of Data Profiling in the AI Era](https://medium.com/@bennettmo16/the-importance-of-data-profiling-in-the-ai-era-64884f5edf86?source=rss------data_science-5)
-- [LLM vs RAG Explained &lpar;EP2&rpar;: How AI Actually Finds the Right Answers](https://medium.com/@AAZZ01/llm-vs-rag-explained-ep2-how-ai-actually-finds-the-right-answers-32e0eae75495?source=rss------data_science-5)
-- [Duke AI PM 學習筆記 &lpar;四&rpar;：從決策樹到 Transformer，拆解演算法地圖與訓練機制](https://1zhi-lily.medium.com/duke-ai-pm-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E5%9B%9B-%E5%BE%9E%E6%B1%BA%E7%AD%96%E6%A8%B9%E5%88%B0-transformer-%E6%8B%86%E8%A7%A3%E6%BC%94%E7%AE%97%E6%B3%95%E5%9C%B0%E5%9C%96%E8%88%87%E8%A8%93%E7%B7%B4%E6%A9%9F%E5%88%B6-25ac1ce09e3c?source=rss------data_science-5)
-- [7 AI Freelance Services Clients Are Already Paying For](https://blog.stackademic.com/7-ai-freelance-services-clients-are-already-paying-for-3fd129cc9717?source=rss------data_science-5)
-- [Diagnosing a Leaky Conversion Funnel: When Your Dashboard Shows Where But Not Why](https://medium.com/@harshit.sekhri/diagnosing-a-leaky-conversion-funnel-when-your-dashboard-shows-where-but-not-why-6da8e5cc4f75?source=rss------data_science-5)
-- [Experience Intelligence Is the Next Competitive Advantage](https://medium.com/@kawikapedia/experience-intelligence-is-the-next-competitive-advantage-b1da995d883d?source=rss------data_science-5)
-- [The Invisible Infrastructure of the Internet: 15 Websites Running Behind the Scenes](https://medium.com/@christopher.hiroki.zoritch/the-invisible-infrastructure-of-the-internet-15-websites-running-behind-the-scenes-9f06dfd0cbd0?source=rss------data_science-5)
+- [Build Pro-Level Dropdown Menus in Streamlit With 5 Lines of Python](https://medium.com/@psaimanohar/build-pro-level-dropdown-menus-in-streamlit-with-5-lines-of-python-8e6f79af6978?source=rss------data_science-5)
+- [What World Cup Coachs Know About Developer Allocation](https://medium.com/@jonatasv/what-world-cup-coachs-know-about-developer-allocation-1e3c05c6432d?source=rss------data_science-5)
+- [AI Is Only As Good As The Data You Feed It](https://medium.com/@AninjoG/ai-is-only-as-good-as-the-data-you-feed-it-e318a82e9f08?source=rss------data_science-5)
+- [Neutrinos Are Worth a Thousand Words!](https://avi-loeb.medium.com/neutrinos-are-worth-a-thousand-words-d1556a8b9393?source=rss------data_science-5)
+- [การเข้าใจ Expected Value: มองทะลุตัวเลขสู่การตัดสินใจเชิงกลยุทธ์ในระบบดิจิทัล](https://medium.com/@p9137076/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88-expected-value-%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C%E0%B9%83%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A5-b61b46ca4f75?source=rss------data_science-5)
+- [One Agent, Every Channel: Microsoft Foundry and Twilio, End to End](https://blog.devops.dev/one-agent-every-channel-microsoft-foundry-and-twilio-end-to-end-e32dc2c350d4?source=rss------data_science-5)
+- [Stop Trying to Beat the ATS: Use AI to Stand Out Beyond Commoditized Résumés](https://medium.com/womenintechnology/stop-trying-to-beat-the-ats-use-ai-to-stand-out-beyond-commoditized-r%C3%A9sum%C3%A9s-d3466a2b8850?source=rss------data_science-5)
+- [What is Normalisation and Standardisation?](https://medium.com/data-science-collective/what-is-normalisation-and-standardisation-eba296eab858?source=rss------data_science-5)
+- [When Does a Patient Become a Number? Insights from 500 Hospital Records](https://buchichristian.medium.com/when-does-a-patient-become-a-number-insights-from-500-hospital-records-e082dc0922ab?source=rss------data_science-5)
+- [Dwarka Expressway HCBS Twin Horizon Luxury Penthouse Gurgaon | +91 8826997780](https://medium.com/@flatswalagurgaon/dwarka-expressway-hcbs-twin-horizon-luxury-penthouse-gurgaon-91-8826997780-1ca56ce0eb0e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
