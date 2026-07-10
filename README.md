@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Build Pro-Level Dropdown Menus in Streamlit With 5 Lines of Python](https://medium.com/@psaimanohar/build-pro-level-dropdown-menus-in-streamlit-with-5-lines-of-python-8e6f79af6978?source=rss------data_science-5)
-- [What World Cup Coachs Know About Developer Allocation](https://medium.com/@jonatasv/what-world-cup-coachs-know-about-developer-allocation-1e3c05c6432d?source=rss------data_science-5)
-- [AI Is Only As Good As The Data You Feed It](https://medium.com/@AninjoG/ai-is-only-as-good-as-the-data-you-feed-it-e318a82e9f08?source=rss------data_science-5)
-- [Neutrinos Are Worth a Thousand Words!](https://avi-loeb.medium.com/neutrinos-are-worth-a-thousand-words-d1556a8b9393?source=rss------data_science-5)
-- [การเข้าใจ Expected Value: มองทะลุตัวเลขสู่การตัดสินใจเชิงกลยุทธ์ในระบบดิจิทัล](https://medium.com/@p9137076/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88-expected-value-%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C%E0%B9%83%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A5-b61b46ca4f75?source=rss------data_science-5)
-- [One Agent, Every Channel: Microsoft Foundry and Twilio, End to End](https://blog.devops.dev/one-agent-every-channel-microsoft-foundry-and-twilio-end-to-end-e32dc2c350d4?source=rss------data_science-5)
-- [Stop Trying to Beat the ATS: Use AI to Stand Out Beyond Commoditized Résumés](https://medium.com/womenintechnology/stop-trying-to-beat-the-ats-use-ai-to-stand-out-beyond-commoditized-r%C3%A9sum%C3%A9s-d3466a2b8850?source=rss------data_science-5)
-- [What is Normalisation and Standardisation?](https://medium.com/data-science-collective/what-is-normalisation-and-standardisation-eba296eab858?source=rss------data_science-5)
-- [When Does a Patient Become a Number? Insights from 500 Hospital Records](https://buchichristian.medium.com/when-does-a-patient-become-a-number-insights-from-500-hospital-records-e082dc0922ab?source=rss------data_science-5)
-- [Dwarka Expressway HCBS Twin Horizon Luxury Penthouse Gurgaon | +91 8826997780](https://medium.com/@flatswalagurgaon/dwarka-expressway-hcbs-twin-horizon-luxury-penthouse-gurgaon-91-8826997780-1ca56ce0eb0e?source=rss------data_science-5)
+- [Los efectos económicos de la fragmentación geopolítica](https://medium.com/@juanman726/los-efectos-econ%C3%B3micos-de-la-fragmentaci%C3%B3n-geopol%C3%ADtica-7e503806bee9?source=rss------data_science-5)
+- [AI GLASSES DATE-STALKING CASE SPARKS CRIMINAL INVESTIGATION](https://medium.com/law-and-ethics-in-tech/ai-glasses-date-stalking-case-sparks-criminal-investigation-47d69015c663?source=rss------data_science-5)
+- [Building Depth in Data: My Journey Toward Analytics Engineering, Applied Data Science, and AI](https://medium.com/@mahadharsan/building-depth-in-data-my-journey-toward-analytics-engineering-applied-data-science-and-ai-2753f75529cc?source=rss------data_science-5)
+- [Modern Computer Vision Fundamentals](https://medium.com/@danieljsmit/modern-computer-vision-fundamentals-33762538ae88?source=rss------data_science-5)
+- [Degenerative AI](https://ai.gopubby.com/degenerative-ai-d27a207adfb0?source=rss------data_science-5)
+- [10 Python Libraries That Feel Like Having a Personal Assistant](https://blog.stackademic.com/10-python-libraries-that-feel-like-having-a-personal-assistant-af4ca179bc96?source=rss------data_science-5)
+- [The Oldest Subscription On Earth Is Sitting At Your Dinner Table &lpar;And You Can Never Cancel It&rpar;](https://medium.com/southern-winds/the-oldest-subscription-on-earth-is-sitting-at-your-dinner-table-and-you-can-never-cancel-it-a5705cc2cd52?source=rss------data_science-5)
+- [The Verifier Is the Ceiling: Agentic Coding with Claude Code and Cowork in Microsoft Foundry.](https://medium.com/codex/the-verifier-is-the-ceiling-agentic-coding-with-claude-code-and-cowork-in-microsoft-foundry-2a3d2a8ab3e3?source=rss------data_science-5)
+- [How to Hire a Data Scientist / ML Engineer in Nigeria &lpar;Python, TensorFlow &amp; AWS&rpar;: A Guide for…](https://medium.com/@osuolalefolarin/how-to-hire-a-data-scientist-ml-engineer-in-nigeria-python-tensorflow-aws-a-guide-for-a0a1bd5036a5?source=rss------data_science-5)
+- [Essay: Permission to Look &lpar;Why the Thinking Itself Is the Point&rpar;](https://medium.com/@rst0n3c0wb0y/essay-permission-to-look-why-the-thinking-itself-is-the-point-93e56cb7ada6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
