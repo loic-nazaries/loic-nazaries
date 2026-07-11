@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Los efectos económicos de la fragmentación geopolítica](https://medium.com/@juanman726/los-efectos-econ%C3%B3micos-de-la-fragmentaci%C3%B3n-geopol%C3%ADtica-7e503806bee9?source=rss------data_science-5)
-- [AI GLASSES DATE-STALKING CASE SPARKS CRIMINAL INVESTIGATION](https://medium.com/law-and-ethics-in-tech/ai-glasses-date-stalking-case-sparks-criminal-investigation-47d69015c663?source=rss------data_science-5)
-- [Building Depth in Data: My Journey Toward Analytics Engineering, Applied Data Science, and AI](https://medium.com/@mahadharsan/building-depth-in-data-my-journey-toward-analytics-engineering-applied-data-science-and-ai-2753f75529cc?source=rss------data_science-5)
-- [Modern Computer Vision Fundamentals](https://medium.com/@danieljsmit/modern-computer-vision-fundamentals-33762538ae88?source=rss------data_science-5)
-- [Degenerative AI](https://ai.gopubby.com/degenerative-ai-d27a207adfb0?source=rss------data_science-5)
-- [10 Python Libraries That Feel Like Having a Personal Assistant](https://blog.stackademic.com/10-python-libraries-that-feel-like-having-a-personal-assistant-af4ca179bc96?source=rss------data_science-5)
-- [The Oldest Subscription On Earth Is Sitting At Your Dinner Table &lpar;And You Can Never Cancel It&rpar;](https://medium.com/southern-winds/the-oldest-subscription-on-earth-is-sitting-at-your-dinner-table-and-you-can-never-cancel-it-a5705cc2cd52?source=rss------data_science-5)
-- [The Verifier Is the Ceiling: Agentic Coding with Claude Code and Cowork in Microsoft Foundry.](https://medium.com/codex/the-verifier-is-the-ceiling-agentic-coding-with-claude-code-and-cowork-in-microsoft-foundry-2a3d2a8ab3e3?source=rss------data_science-5)
-- [How to Hire a Data Scientist / ML Engineer in Nigeria &lpar;Python, TensorFlow &amp; AWS&rpar;: A Guide for…](https://medium.com/@osuolalefolarin/how-to-hire-a-data-scientist-ml-engineer-in-nigeria-python-tensorflow-aws-a-guide-for-a0a1bd5036a5?source=rss------data_science-5)
-- [Essay: Permission to Look &lpar;Why the Thinking Itself Is the Point&rpar;](https://medium.com/@rst0n3c0wb0y/essay-permission-to-look-why-the-thinking-itself-is-the-point-93e56cb7ada6?source=rss------data_science-5)
+- [The 10,000-Hour Rule Is a Myth &lpar;Its Own Researcher Says So&rpar;](https://medium.com/@diyifang666/the-10-000-hour-rule-is-a-myth-its-own-researcher-says-so-03891e728904?source=rss------data_science-5)
+- [The Theorem That Waited Over 300 Years To Become A Lock](https://vplevris.medium.com/the-theorem-that-waited-over-300-years-to-become-a-lock-08cfab618c77?source=rss------data_science-5)
+- [Highlights from the Fourth UAP Data Release by the U.S. Government](https://avi-loeb.medium.com/highlights-from-the-fourth-uap-data-release-by-the-u-s-government-105a9b2561c7?source=rss------data_science-5)
+- [The Intellectual &amp; Analytical](https://medium.com/@zainabatif_9029/the-intellectual-analytical-cf77a4e4915b?source=rss------data_science-5)
+- [Beyond Average Error: The Regression Losses That Serious Models Need](https://neverforget-1975.medium.com/beyond-average-error-the-regression-losses-that-serious-models-need-c1318f52d44f?source=rss------data_science-5)
+- [Training Your AI Skills](https://medium.com/retail-tableau-user-group/training-your-ai-skills-fe37753781c0?source=rss------data_science-5)
+- [Introducing Alpha Capital Bank: How I’m Transitioning from Data Science to Credit Risk by Building…](https://medium.com/@varun.vijayanand.14/introducing-alpha-capital-bank-how-im-transitioning-from-data-science-to-credit-risk-by-building-fc7ae71a991d?source=rss------data_science-5)
+- [Automating Your First Trading Signal in a Few Lines of Python [Code Included]](https://quant-galore.medium.com/automating-your-first-trading-signal-in-a-few-lines-of-python-code-included-0015e7b66246?source=rss------data_science-5)
+- [The Operational Identity](https://fahad-abalkhail.medium.com/the-operational-identity-9f98b7843a19?source=rss------data_science-5)
+- [AMOS Data Analysis Services](https://medium.com/@theacademicwritingservicesuk/amos-data-analysis-services-ed7c15b5eba5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
