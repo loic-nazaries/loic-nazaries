@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The 10,000-Hour Rule Is a Myth &lpar;Its Own Researcher Says So&rpar;](https://medium.com/@diyifang666/the-10-000-hour-rule-is-a-myth-its-own-researcher-says-so-03891e728904?source=rss------data_science-5)
-- [The Theorem That Waited Over 300 Years To Become A Lock](https://vplevris.medium.com/the-theorem-that-waited-over-300-years-to-become-a-lock-08cfab618c77?source=rss------data_science-5)
-- [Highlights from the Fourth UAP Data Release by the U.S. Government](https://avi-loeb.medium.com/highlights-from-the-fourth-uap-data-release-by-the-u-s-government-105a9b2561c7?source=rss------data_science-5)
-- [The Intellectual &amp; Analytical](https://medium.com/@zainabatif_9029/the-intellectual-analytical-cf77a4e4915b?source=rss------data_science-5)
-- [Beyond Average Error: The Regression Losses That Serious Models Need](https://neverforget-1975.medium.com/beyond-average-error-the-regression-losses-that-serious-models-need-c1318f52d44f?source=rss------data_science-5)
-- [Training Your AI Skills](https://medium.com/retail-tableau-user-group/training-your-ai-skills-fe37753781c0?source=rss------data_science-5)
-- [Introducing Alpha Capital Bank: How I’m Transitioning from Data Science to Credit Risk by Building…](https://medium.com/@varun.vijayanand.14/introducing-alpha-capital-bank-how-im-transitioning-from-data-science-to-credit-risk-by-building-fc7ae71a991d?source=rss------data_science-5)
-- [Automating Your First Trading Signal in a Few Lines of Python [Code Included]](https://quant-galore.medium.com/automating-your-first-trading-signal-in-a-few-lines-of-python-code-included-0015e7b66246?source=rss------data_science-5)
-- [The Operational Identity](https://fahad-abalkhail.medium.com/the-operational-identity-9f98b7843a19?source=rss------data_science-5)
-- [AMOS Data Analysis Services](https://medium.com/@theacademicwritingservicesuk/amos-data-analysis-services-ed7c15b5eba5?source=rss------data_science-5)
+- [Network Cacophony in Sync](https://medium.com/@huyverse/network-cacophony-in-sync-4d9544f10749?source=rss------data_science-5)
+- [Why CPUs, GPUs, and TPUs Matter](https://medium.com/@evan.it.pai/why-cpus-gpus-and-tpus-matter-5df1313576c8?source=rss------data_science-5)
+- [Linear transformations: what a matrix is actually doing](https://medium.com/@keepingupwithriya/linear-transformations-what-a-matrix-is-actually-doing-e2c8e28ff67b?source=rss------data_science-5)
+- [Databricks vs. Snowflake vs. AWS/Azure/GCP Native: What Practitioners Actually Say](https://macxima.medium.com/databricks-vs-snowflake-vs-aws-azure-gcp-native-what-practitioners-actually-say-107ecf0fc184?source=rss------data_science-5)
+- [The FIFA World Cup and the Growing Power of Data — Joseph Sides](https://medium.com/@josephsides94/the-fifa-world-cup-and-the-growing-power-of-data-joseph-sides-28d2e317dabc?source=rss------data_science-5)
+- [7 Python Class Designs That Power ML APIs](https://python.plainenglish.io/7-python-class-designs-that-power-ml-apis-56c09e4defce?source=rss------data_science-5)
+- [9 ML Infrastructure Lessons Every MLOps Engineer Learns](https://python.plainenglish.io/9-ml-infrastructure-lessons-every-mlops-engineer-learns-d6a66f0c47e7?source=rss------data_science-5)
+- [The 10 simple, practical ways to make your laptop feel faster than ever.](https://medium.com/@majroh123gg/the-10-simple-practical-ways-to-make-your-laptop-feel-faster-than-ever-8f859df9d12b?source=rss------data_science-5)
+- [How to become an AI Engineer in 2026 — without a CS degree](https://medium.com/@marocsofiane20/how-to-become-an-ai-engineer-in-2026-without-a-cs-degree-dec729976002?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
