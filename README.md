@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Network Cacophony in Sync](https://medium.com/@huyverse/network-cacophony-in-sync-4d9544f10749?source=rss------data_science-5)
-- [Why CPUs, GPUs, and TPUs Matter](https://medium.com/@evan.it.pai/why-cpus-gpus-and-tpus-matter-5df1313576c8?source=rss------data_science-5)
-- [Linear transformations: what a matrix is actually doing](https://medium.com/@keepingupwithriya/linear-transformations-what-a-matrix-is-actually-doing-e2c8e28ff67b?source=rss------data_science-5)
-- [Databricks vs. Snowflake vs. AWS/Azure/GCP Native: What Practitioners Actually Say](https://macxima.medium.com/databricks-vs-snowflake-vs-aws-azure-gcp-native-what-practitioners-actually-say-107ecf0fc184?source=rss------data_science-5)
-- [The FIFA World Cup and the Growing Power of Data — Joseph Sides](https://medium.com/@josephsides94/the-fifa-world-cup-and-the-growing-power-of-data-joseph-sides-28d2e317dabc?source=rss------data_science-5)
-- [7 Python Class Designs That Power ML APIs](https://python.plainenglish.io/7-python-class-designs-that-power-ml-apis-56c09e4defce?source=rss------data_science-5)
-- [9 ML Infrastructure Lessons Every MLOps Engineer Learns](https://python.plainenglish.io/9-ml-infrastructure-lessons-every-mlops-engineer-learns-d6a66f0c47e7?source=rss------data_science-5)
-- [The 10 simple, practical ways to make your laptop feel faster than ever.](https://medium.com/@majroh123gg/the-10-simple-practical-ways-to-make-your-laptop-feel-faster-than-ever-8f859df9d12b?source=rss------data_science-5)
-- [How to become an AI Engineer in 2026 — without a CS degree](https://medium.com/@marocsofiane20/how-to-become-an-ai-engineer-in-2026-without-a-cs-degree-dec729976002?source=rss------data_science-5)
+- [How DuckDB Handles Billion-Row Queries on a Laptop](https://medium.com/@komalbaparmar007/how-duckdb-handles-billion-row-queries-on-a-laptop-036b61e6396e?source=rss------data_science-5)
+- [Streamlit’s Caching Had a Serious Multi-User Privacy Hole — Here’s How to Fix It](https://medium.com/@psaimanohar/streamlits-caching-had-a-serious-multi-user-privacy-hole-here-s-how-to-fix-it-359106c3b135?source=rss------data_science-5)
+- [Streamlit Now Has a Full ASGI Entry Point — You Can Mount FastAPI Routes Inside It](https://medium.com/@psaimanohar/streamlit-now-has-a-full-asgi-entry-point-you-can-mount-fastapi-routes-inside-it-7c7be0f16005?source=rss------data_science-5)
+- [Multi-Agent Systems that Actually Need Multiple Agents](https://pub.towardsai.net/multi-agent-systems-that-actually-need-multiple-agents-10240a75081f?source=rss------data_science-5)
+- [The Most Expensive ML Mistakes Happen Before Training](https://medium.com/@ramanan.venkat.v/the-most-expensive-ml-mistakes-happen-before-training-fcc8146e0ca3?source=rss------data_science-5)
+- [Why AI and Data Science Students Have Growing Opportunities in Today’s Technology World](https://medium.com/@jb7is/why-ai-and-data-science-students-have-growing-opportunities-in-todays-technology-world-449891801d2f?source=rss------data_science-5)
+- [7 AI Opportunities Most People Will Miss in 2026](https://blog.stackademic.com/7-ai-opportunities-most-people-will-miss-in-2026-53f87f30e15b?source=rss------data_science-5)
+- [Top 25 LangChain and LangGraph Interview Questions and Answers](https://skphd.medium.com/top-25-langchain-and-langgraph-interview-questions-and-answers-a55e83ffee49?source=rss------data_science-5)
+- [Shell para Pythonistas: Episódio II &lpar;data handling&rpar;](https://medium.com/forja-ml/shell-para-pythonistas-epis%C3%B3dio-ii-data-handling-04789b16db97?source=rss------data_science-5)
+- [Why Every Data Scientist Should Think Like a Detective](https://medium.com/@zainakhann2025/why-every-data-scientist-should-think-like-a-detective-f69a47f72886?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
