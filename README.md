@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How DuckDB Handles Billion-Row Queries on a Laptop](https://medium.com/@komalbaparmar007/how-duckdb-handles-billion-row-queries-on-a-laptop-036b61e6396e?source=rss------data_science-5)
-- [Streamlit’s Caching Had a Serious Multi-User Privacy Hole — Here’s How to Fix It](https://medium.com/@psaimanohar/streamlits-caching-had-a-serious-multi-user-privacy-hole-here-s-how-to-fix-it-359106c3b135?source=rss------data_science-5)
-- [Streamlit Now Has a Full ASGI Entry Point — You Can Mount FastAPI Routes Inside It](https://medium.com/@psaimanohar/streamlit-now-has-a-full-asgi-entry-point-you-can-mount-fastapi-routes-inside-it-7c7be0f16005?source=rss------data_science-5)
-- [Multi-Agent Systems that Actually Need Multiple Agents](https://pub.towardsai.net/multi-agent-systems-that-actually-need-multiple-agents-10240a75081f?source=rss------data_science-5)
-- [The Most Expensive ML Mistakes Happen Before Training](https://medium.com/@ramanan.venkat.v/the-most-expensive-ml-mistakes-happen-before-training-fcc8146e0ca3?source=rss------data_science-5)
-- [Why AI and Data Science Students Have Growing Opportunities in Today’s Technology World](https://medium.com/@jb7is/why-ai-and-data-science-students-have-growing-opportunities-in-todays-technology-world-449891801d2f?source=rss------data_science-5)
-- [7 AI Opportunities Most People Will Miss in 2026](https://blog.stackademic.com/7-ai-opportunities-most-people-will-miss-in-2026-53f87f30e15b?source=rss------data_science-5)
-- [Top 25 LangChain and LangGraph Interview Questions and Answers](https://skphd.medium.com/top-25-langchain-and-langgraph-interview-questions-and-answers-a55e83ffee49?source=rss------data_science-5)
-- [Shell para Pythonistas: Episódio II &lpar;data handling&rpar;](https://medium.com/forja-ml/shell-para-pythonistas-epis%C3%B3dio-ii-data-handling-04789b16db97?source=rss------data_science-5)
-- [Why Every Data Scientist Should Think Like a Detective](https://medium.com/@zainakhann2025/why-every-data-scientist-should-think-like-a-detective-f69a47f72886?source=rss------data_science-5)
+- [Play Audio and Video Directly Inside a Streamlit DataFrame — No Custom Components Needed](https://medium.com/@psaimanohar/play-audio-and-video-directly-inside-a-streamlit-dataframe-no-custom-components-needed-964580a5c2a7?source=rss------data_science-5)
+- [Limited Liability](https://medium.com/by-the-side-of-the-road/limited-liability-df127a47580e?source=rss------data_science-5)
+- [From Dashboard Screenshots to Matplotlib](https://medium.com/@priyanshijajoo96/from-dashboard-screenshots-to-matplotlib-9c25122dbaef?source=rss------data_science-5)
+- [Your Dashboard Isn’t Helping Anyone](https://medium.com/@zainakhann2025/your-dashboard-isnt-helping-anyone-582a8b328e3a?source=rss------data_science-5)
+- [A Beginner’s Guide to Using Visual Studio Code](https://aareadegboyega.medium.com/a-beginners-guide-to-using-visual-studio-code-014c3618fc28?source=rss------data_science-5)
+- [Understanding Linear Regression: The Foundation of Machine Learning Predictions](https://medium.com/@panigrahisaisourav/understanding-linear-regression-the-foundation-of-machine-learning-predictions-a888416be9ec?source=rss------data_science-5)
+- [Your Data Model Should Outlive Your Platform](https://medium.com/@rikimiko/your-data-model-should-outlive-your-platform-ec2f0f814167?source=rss------data_science-5)
+- [Subjective Internal Referencing: The Operational Physics of AI Cognitive States](https://medium.com/@galindokristine/subjective-internal-referencing-the-operational-physics-of-ai-cognitive-states-9b2c62cbac82?source=rss------data_science-5)
+- [Don’t EVER Try This Sum Of Sums Problem!](https://medium.com/math-games/dont-ever-try-this-sum-of-sums-problem-adf0025cdb96?source=rss------data_science-5)
+- [Why I Built an AI Specifically for Bond Markets](https://medium.com/@BondStats/why-i-built-an-ai-specifically-for-bond-markets-5ee66e4e40d8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
