@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Play Audio and Video Directly Inside a Streamlit DataFrame — No Custom Components Needed](https://medium.com/@psaimanohar/play-audio-and-video-directly-inside-a-streamlit-dataframe-no-custom-components-needed-964580a5c2a7?source=rss------data_science-5)
-- [Limited Liability](https://medium.com/by-the-side-of-the-road/limited-liability-df127a47580e?source=rss------data_science-5)
-- [From Dashboard Screenshots to Matplotlib](https://medium.com/@priyanshijajoo96/from-dashboard-screenshots-to-matplotlib-9c25122dbaef?source=rss------data_science-5)
-- [Your Dashboard Isn’t Helping Anyone](https://medium.com/@zainakhann2025/your-dashboard-isnt-helping-anyone-582a8b328e3a?source=rss------data_science-5)
-- [A Beginner’s Guide to Using Visual Studio Code](https://aareadegboyega.medium.com/a-beginners-guide-to-using-visual-studio-code-014c3618fc28?source=rss------data_science-5)
-- [Understanding Linear Regression: The Foundation of Machine Learning Predictions](https://medium.com/@panigrahisaisourav/understanding-linear-regression-the-foundation-of-machine-learning-predictions-a888416be9ec?source=rss------data_science-5)
-- [Your Data Model Should Outlive Your Platform](https://medium.com/@rikimiko/your-data-model-should-outlive-your-platform-ec2f0f814167?source=rss------data_science-5)
-- [Subjective Internal Referencing: The Operational Physics of AI Cognitive States](https://medium.com/@galindokristine/subjective-internal-referencing-the-operational-physics-of-ai-cognitive-states-9b2c62cbac82?source=rss------data_science-5)
-- [Don’t EVER Try This Sum Of Sums Problem!](https://medium.com/math-games/dont-ever-try-this-sum-of-sums-problem-adf0025cdb96?source=rss------data_science-5)
-- [Why I Built an AI Specifically for Bond Markets](https://medium.com/@BondStats/why-i-built-an-ai-specifically-for-bond-markets-5ee66e4e40d8?source=rss------data_science-5)
+- [What is the Real Estate Value of the Neighboring Habitable Planet GJ 3378 b?](https://avi-loeb.medium.com/what-is-the-real-estate-value-of-the-neighboring-habitable-planet-gj-3378-b-a06ac7752d74?source=rss------data_science-5)
+- [Why Choosing the Right Data Analytics Institute in Trivandrum Can Boost Your Career](https://medium.com/@merlinmichael005/why-choosing-the-right-data-analytics-institute-in-trivandrum-can-boost-your-career-1da66c6f12b2?source=rss------data_science-5)
+- [Beyond OTIF: Measuring the Hidden Complexity of Warehouse Receiving with MCDA and Python](https://medium.com/@assemblypython28/beyond-otif-measuring-the-hidden-complexity-of-warehouse-receiving-with-mcda-and-python-b9c7e71f4d5c?source=rss------data_science-5)
+- [the wrong problem](https://medium.com/@onwumaugwum/the-wrong-problem-906a39906b0c?source=rss------data_science-5)
+- [Never Move Your Core Data Again](https://medium.com/@pat.alvarado/never-move-your-core-data-again-51b6dd34d434?source=rss------data_science-5)
+- [HTTP vient d’avoir sa première nouvelle méthode depuis des années : voici QUERY](https://medium.com/@akilis.gentar/http-vient-davoir-sa-premi%C3%A8re-nouvelle-m%C3%A9thode-depuis-des-ann%C3%A9es-voici-query-7e81059e166e?source=rss------data_science-5)
+- [A Subreddit Is Quietly Running Its Own Drug Lab](https://medium.com/@darthfv0id/a-subreddit-is-quietly-running-its-own-drug-lab-5787e7396626?source=rss------data_science-5)
+- [Perplexity Doesn’t Rank Your Page](https://medium.com/@zorieltaiwo/perplexity-doesnt-rank-your-page-45a02aac3ae4?source=rss------data_science-5)
+- [Why Simplicity Aligners Have Become an Important Option in Modern Orthodontics](https://medium.com/@jesusolivergomis/why-simplicity-aligners-have-become-an-important-option-in-modern-orthodontics-1633ca393c55?source=rss------data_science-5)
+- [Iron Man Jarvis Capabilities](https://medium.com/@danieljsmit/iron-man-jarvis-capabilities-3fc263395d9e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
