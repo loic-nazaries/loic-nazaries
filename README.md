@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What is the Real Estate Value of the Neighboring Habitable Planet GJ 3378 b?](https://avi-loeb.medium.com/what-is-the-real-estate-value-of-the-neighboring-habitable-planet-gj-3378-b-a06ac7752d74?source=rss------data_science-5)
-- [Why Choosing the Right Data Analytics Institute in Trivandrum Can Boost Your Career](https://medium.com/@merlinmichael005/why-choosing-the-right-data-analytics-institute-in-trivandrum-can-boost-your-career-1da66c6f12b2?source=rss------data_science-5)
-- [Beyond OTIF: Measuring the Hidden Complexity of Warehouse Receiving with MCDA and Python](https://medium.com/@assemblypython28/beyond-otif-measuring-the-hidden-complexity-of-warehouse-receiving-with-mcda-and-python-b9c7e71f4d5c?source=rss------data_science-5)
-- [the wrong problem](https://medium.com/@onwumaugwum/the-wrong-problem-906a39906b0c?source=rss------data_science-5)
-- [Never Move Your Core Data Again](https://medium.com/@pat.alvarado/never-move-your-core-data-again-51b6dd34d434?source=rss------data_science-5)
-- [HTTP vient d’avoir sa première nouvelle méthode depuis des années : voici QUERY](https://medium.com/@akilis.gentar/http-vient-davoir-sa-premi%C3%A8re-nouvelle-m%C3%A9thode-depuis-des-ann%C3%A9es-voici-query-7e81059e166e?source=rss------data_science-5)
-- [A Subreddit Is Quietly Running Its Own Drug Lab](https://medium.com/@darthfv0id/a-subreddit-is-quietly-running-its-own-drug-lab-5787e7396626?source=rss------data_science-5)
-- [Perplexity Doesn’t Rank Your Page](https://medium.com/@zorieltaiwo/perplexity-doesnt-rank-your-page-45a02aac3ae4?source=rss------data_science-5)
-- [Why Simplicity Aligners Have Become an Important Option in Modern Orthodontics](https://medium.com/@jesusolivergomis/why-simplicity-aligners-have-become-an-important-option-in-modern-orthodontics-1633ca393c55?source=rss------data_science-5)
-- [Iron Man Jarvis Capabilities](https://medium.com/@danieljsmit/iron-man-jarvis-capabilities-3fc263395d9e?source=rss------data_science-5)
+- [I Built a Hybrid RAG App That Talks to My PDF — and Knows When to Say “I Don’t Know”](https://pub.towardsai.net/i-built-a-hybrid-rag-app-that-talks-to-my-pdf-and-knows-when-to-say-i-dont-know-5e4044a54921?source=rss------data_science-5)
+- [When the Code Lies: The Hidden Biases That Can Mislead Scientific Discovery](https://medium.com/illumination/when-the-code-lies-the-hidden-biases-that-can-mislead-scientific-discovery-f299fa2dec77?source=rss------data_science-5)
+- [Why High ROC-AUC Is Not Enough: Understanding Model Calibration](https://medium.com/@vinutanavm/why-high-roc-auc-is-not-enough-understanding-model-calibration-9c640567b897?source=rss------data_science-5)
+- [Journey into the Data Space &lpar;DAY 1&rpar;](https://medium.com/@ebukaofonegbu/journey-into-the-data-space-day-1-fbdbee7cc901?source=rss------data_science-5)
+- [MISS SHALAE: A Trans-Dimensional Milestone in Global Culture](https://medium.com/@masterkingmalik/miss-shalae-a-trans-dimensional-milestone-in-global-culture-b3a44016c5f9?source=rss------data_science-5)
+- [What Is Spatial Data Science? A Beginner’s Guide to GIS, Geoinformatics, and GeoAI](https://medium.com/@usamatufail31/what-is-spatial-data-science-a-beginners-guide-to-gis-geoinformatics-and-geoai-2d603cd967e3?source=rss------data_science-5)
+- [Installing Antigravity IDE](https://zackmendel.medium.com/installing-antigravity-ide-63240798c002?source=rss------data_science-5)
+- [Beyond Basic Scripts: How to Use OOP for Real Python Data Pipelines](https://medium.com/@ilkinyarikkaya/beyond-basic-scripts-how-to-use-oop-for-real-python-data-pipelines-c56c6eb5f586?source=rss------data_science-5)
+- [I Spent a Weekend Exploring Python’s Hidden Libraries](https://python.plainenglish.io/i-spent-a-weekend-exploring-pythons-hidden-libraries-805e095f204d?source=rss------data_science-5)
+- [Your AI Agent Has No Memory Architecture. And It Shows.](https://medium.com/@umarbrave6/your-ai-agent-has-no-memory-architecture-and-it-shows-d9be68ab8a11?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
