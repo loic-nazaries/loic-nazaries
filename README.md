@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Case to Not Use Median Imputation](https://csjohnlee.medium.com/a-case-to-not-use-median-imputation-19a7dc1438c3?source=rss------data_science-5)
-- [Curious Minds: Don’t Just Look at the Forest. Listen to It.](https://medium.com/the-geopolitical-economist/curious-minds-dont-just-look-at-the-forest-listen-to-it-f42ee2438ac4?source=rss------data_science-5)
-- [The Hidden AI — Episode #1 — Part 2](https://medium.com/@VenkataSDeepthiSKP/the-hidden-ai-episode-1-part-2-83a7129fa72a?source=rss------data_science-5)
-- [How I Hacked Power BI to Let Users Copy-Paste Data Directly to Excel](https://levelup.gitconnected.com/how-i-hacked-power-bi-to-let-users-copy-paste-data-directly-to-excel-709386b1fd4a?source=rss------data_science-5)
-- [Statistics Simplified for Your Busy Life — Part 1](https://medium.com/illumination/statistics-simplified-for-your-busy-life-part-1-704f424cd775?source=rss------data_science-5)
-- [The Model Remembers: Machine Unlearning and the Impossibility of Forgetting at Scale](https://medium.com/@syedmujtabamahdi/the-model-remembers-machine-unlearning-and-the-impossibility-of-forgetting-at-scale-941e71308a6c?source=rss------data_science-5)
-- [The Geometric Heart of the Law of Large Numbers](https://medium.com/@tomkob99_89317/the-geometric-heart-of-the-law-of-large-numbers-d70435e1e633?source=rss------data_science-5)
-- [How to Make an Animation using AI Tools?](https://medium.com/@AILearningHub/how-to-make-an-animation-using-ai-tools-cc1412dc7134?source=rss------data_science-5)
-- [Baryon Oscillation Spectroscopic Survey &lpar;BOSS&rpar;](https://twitter311.medium.com/baryon-oscillation-spectroscopic-survey-boss-964e87ffc3d4?source=rss------data_science-5)
-- [Data Science Project Writing Help](https://medium.com/@academicwritingservicess/data-science-project-writing-help-96e1539dd441?source=rss------data_science-5)
+- [From Longitudinal Archives to AI-Readable Infrastructure](https://medium.com/@shinhuni0624/from-longitudinal-archives-to-ai-readable-infrastructure-72ea6dd056e5?source=rss------data_science-5)
+- [Why Augmentation Wins Changes of How Teams Compete?](https://medium.com/@curiousmind1786/why-augmentation-wins-changes-of-how-teams-compete-5b54db32144e?source=rss------data_science-5)
+- [Page Indexing: Building a Vectorless RAG System](https://medium.com/@nithinellanki/page-indexing-building-a-vectorless-rag-system-d769aac3a0de?source=rss------data_science-5)
+- [TikTok Ads Secrets: The Ultimate Guide to Profitable Campaigns Ebook 35 Page](https://medium.com/@abdelatihadaf/tiktok-ads-secrets-the-ultimate-guide-to-profitable-campaigns-ebook-35-page-b07956b24c5e?source=rss------data_science-5)
+- [Why Every Organization Should Understand ISO/IEC 42001 Before Implementing AI](https://medium.com/@faeeqshakoor91/why-every-organization-should-understand-iso-iec-42001-before-implementing-ai-3f2a9c2df7f9?source=rss------data_science-5)
+- [The Midnight Test: When I Stopped Trusting Vibes and Started Measuring What Matters](https://medium.com/@banisusan045/the-midnight-test-when-i-stopped-trusting-vibes-and-started-measuring-what-matters-3deff9cff2aa?source=rss------data_science-5)
+- [A 26Million Parameter Model That Can Call Your Tools Without Waking the Cloud](https://pub.towardsai.net/a-26million-parameter-model-that-can-call-your-tools-without-waking-the-cloud-9ba8f9943558?source=rss------data_science-5)
+- [Differentiation: Gradients, Jacobians &amp; Hessians Derivatives, partial derivatives, gradient…](https://medium.com/@muhammadfakharulhasnain6/differentiation-gradients-jacobians-hessians-derivatives-partial-derivatives-gradient-1cb7649ec703?source=rss------data_science-5)
+- [The Fermi Paradox: Why a Crowded Universe Looks Empty](https://medium.com/@Elunox/the-fermi-paradox-why-a-crowded-universe-looks-empty-6aa4cd800d75?source=rss------data_science-5)
+- [Part 3: Engineering Deep Dive](https://medium.com/@ravikumar_67667/part-3-engineering-deep-dive-b9001d961985?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
