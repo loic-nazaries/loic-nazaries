@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [From Longitudinal Archives to AI-Readable Infrastructure](https://medium.com/@shinhuni0624/from-longitudinal-archives-to-ai-readable-infrastructure-72ea6dd056e5?source=rss------data_science-5)
-- [Why Augmentation Wins Changes of How Teams Compete?](https://medium.com/@curiousmind1786/why-augmentation-wins-changes-of-how-teams-compete-5b54db32144e?source=rss------data_science-5)
-- [Page Indexing: Building a Vectorless RAG System](https://medium.com/@nithinellanki/page-indexing-building-a-vectorless-rag-system-d769aac3a0de?source=rss------data_science-5)
-- [TikTok Ads Secrets: The Ultimate Guide to Profitable Campaigns Ebook 35 Page](https://medium.com/@abdelatihadaf/tiktok-ads-secrets-the-ultimate-guide-to-profitable-campaigns-ebook-35-page-b07956b24c5e?source=rss------data_science-5)
-- [Why Every Organization Should Understand ISO/IEC 42001 Before Implementing AI](https://medium.com/@faeeqshakoor91/why-every-organization-should-understand-iso-iec-42001-before-implementing-ai-3f2a9c2df7f9?source=rss------data_science-5)
-- [The Midnight Test: When I Stopped Trusting Vibes and Started Measuring What Matters](https://medium.com/@banisusan045/the-midnight-test-when-i-stopped-trusting-vibes-and-started-measuring-what-matters-3deff9cff2aa?source=rss------data_science-5)
-- [A 26Million Parameter Model That Can Call Your Tools Without Waking the Cloud](https://pub.towardsai.net/a-26million-parameter-model-that-can-call-your-tools-without-waking-the-cloud-9ba8f9943558?source=rss------data_science-5)
-- [Differentiation: Gradients, Jacobians &amp; Hessians Derivatives, partial derivatives, gradient…](https://medium.com/@muhammadfakharulhasnain6/differentiation-gradients-jacobians-hessians-derivatives-partial-derivatives-gradient-1cb7649ec703?source=rss------data_science-5)
-- [The Fermi Paradox: Why a Crowded Universe Looks Empty](https://medium.com/@Elunox/the-fermi-paradox-why-a-crowded-universe-looks-empty-6aa4cd800d75?source=rss------data_science-5)
-- [Part 3: Engineering Deep Dive](https://medium.com/@ravikumar_67667/part-3-engineering-deep-dive-b9001d961985?source=rss------data_science-5)
+- [CS-NRRM™: A Practical Implementation of AI-Readable Longitudinal Data Infrastructure](https://medium.com/@shinhuni0624/cs-nrrm-a-practical-implementation-of-ai-readable-longitudinal-data-infrastructure-163c49ed9d79?source=rss------data_science-5)
+- […](https://medium.com/@Byteful/-8868c74556b9?source=rss------data_science-5)
+- [AI Chatbots as Social Actors: A Builder’s Guide to Psychology-Informed Interaction Design](https://medium.com/@curiousmind1786/ai-chatbots-as-social-actors-a-builders-guide-to-psychology-informed-interaction-design-4f5e61657e2a?source=rss------data_science-5)
+- [I Have ₹1,00,000 and Two Stocks. Math Told Me Exactly How to Invest in Stocks.](https://medium.com/@officialdurgesh21/i-have-1-00-000-and-two-stocks-math-told-me-exactly-how-to-invest-in-stocks-8d699aca1d77?source=rss------data_science-5)
+- [Building My Instructor’s Digital Twin: Turning a Training Archive into a RAG-Based AI Assistant](https://medium.com/@jalesummak/building-my-instructors-digital-twin-turning-a-training-archive-into-a-rag-based-ai-assistant-d1d933954275?source=rss------data_science-5)
+- [The Setup: Why Your Trading System Is Failing](https://deadcatlog.medium.com/the-setup-why-your-trading-system-is-failing-4042b14c0081?source=rss------data_science-5)
+- [New Launch Luxury Apartments | Satya Levante Residences | Sector 104 Gurgaon +91 9311953656](https://medium.com/@flatswalagurgaon/new-launch-luxury-apartments-satya-levante-residences-sector-104-gurgaon-91-9311953656-a8a0d8c3c015?source=rss------data_science-5)
+- [Satya Levante Residences | New Launch Luxury Apartments on Dwarka Expressway +91 8826997781](https://medium.com/@flatswalagurgaon/satya-levante-residences-new-launch-luxury-apartments-on-dwarka-expressway-91-8826997781-40673512bf18?source=rss------data_science-5)
+- [The Python Library That Reads Your Power BI Models Like Data.](https://pub.towardsai.net/the-python-library-that-reads-your-power-bi-models-like-data-a8aa1408f2cd?source=rss------data_science-5)
+- [I Asked an AI to Predict the Lottery. What I Documented Instead Was How It Lies to Please Me](https://medium.com/@albertocardenascom/i-asked-an-ai-to-predict-the-lottery-what-i-documented-instead-was-how-it-lies-to-please-me-87ec5c9f2cf4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
