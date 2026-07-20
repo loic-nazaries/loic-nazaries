@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [CS-NRRM™: A Practical Implementation of AI-Readable Longitudinal Data Infrastructure](https://medium.com/@shinhuni0624/cs-nrrm-a-practical-implementation-of-ai-readable-longitudinal-data-infrastructure-163c49ed9d79?source=rss------data_science-5)
-- […](https://medium.com/@Byteful/-8868c74556b9?source=rss------data_science-5)
-- [AI Chatbots as Social Actors: A Builder’s Guide to Psychology-Informed Interaction Design](https://medium.com/@curiousmind1786/ai-chatbots-as-social-actors-a-builders-guide-to-psychology-informed-interaction-design-4f5e61657e2a?source=rss------data_science-5)
-- [I Have ₹1,00,000 and Two Stocks. Math Told Me Exactly How to Invest in Stocks.](https://medium.com/@officialdurgesh21/i-have-1-00-000-and-two-stocks-math-told-me-exactly-how-to-invest-in-stocks-8d699aca1d77?source=rss------data_science-5)
-- [Building My Instructor’s Digital Twin: Turning a Training Archive into a RAG-Based AI Assistant](https://medium.com/@jalesummak/building-my-instructors-digital-twin-turning-a-training-archive-into-a-rag-based-ai-assistant-d1d933954275?source=rss------data_science-5)
-- [The Setup: Why Your Trading System Is Failing](https://deadcatlog.medium.com/the-setup-why-your-trading-system-is-failing-4042b14c0081?source=rss------data_science-5)
-- [New Launch Luxury Apartments | Satya Levante Residences | Sector 104 Gurgaon +91 9311953656](https://medium.com/@flatswalagurgaon/new-launch-luxury-apartments-satya-levante-residences-sector-104-gurgaon-91-9311953656-a8a0d8c3c015?source=rss------data_science-5)
-- [Satya Levante Residences | New Launch Luxury Apartments on Dwarka Expressway +91 8826997781](https://medium.com/@flatswalagurgaon/satya-levante-residences-new-launch-luxury-apartments-on-dwarka-expressway-91-8826997781-40673512bf18?source=rss------data_science-5)
-- [The Python Library That Reads Your Power BI Models Like Data.](https://pub.towardsai.net/the-python-library-that-reads-your-power-bi-models-like-data-a8aa1408f2cd?source=rss------data_science-5)
-- [I Asked an AI to Predict the Lottery. What I Documented Instead Was How It Lies to Please Me](https://medium.com/@albertocardenascom/i-asked-an-ai-to-predict-the-lottery-what-i-documented-instead-was-how-it-lies-to-please-me-87ec5c9f2cf4?source=rss------data_science-5)
+- [I have China’s Kimi AI system instructions and jailbroke it](https://medium.com/@JimTheAIWhisperer/i-have-chinas-kimi-ai-system-instructions-and-jailbroke-it-ddd034c8f2fe?source=rss------data_science-5)
+- [Mapping Public Sentiment: GIS Hotspot Analysis of Trendy Spots in Kuala Lumpur](https://medium.com/@muhammaduzairaqeel/mapping-public-sentiment-gis-hotspot-analysis-of-trendy-spots-in-kuala-lumpur-660bd5281d0b?source=rss------data_science-5)
+- [The one, simple mathematical rule underpinning your life.](https://medium.com/@leo.th.legos/the-one-simple-mathematical-rule-underpinning-your-life-f3669f4b4228?source=rss------data_science-5)
+- [What Machine Learning Is — and What It Is NOT](https://capt-albus.medium.com/what-machine-learning-is-and-what-it-is-not-0133dea8cc80?source=rss------data_science-5)
+- [Umwelt &amp; The Dimension of Why](https://medium.com/borealism/umwelt-the-dimension-of-why-267f6598c86d?source=rss------data_science-5)
+- [What “Quantum Advantage” Actually Means &lpar;And What’s Real in 2026&rpar;](https://medium.com/@raghuece455/what-quantum-advantage-actually-means-and-whats-real-in-2026-ee0a07d5c705?source=rss------data_science-5)
+- [Datinium shines as a dataset management tool](https://medium.com/@dsadfsdffdgdfgfsag/datinium-shines-as-a-dataset-management-tool-35225e834ca5?source=rss------data_science-5)
+- [Agentjacking: Why Your AI Coding Agent Is Now the Attack Surface](https://medium.com/aiguys/agentjacking-why-your-ai-coding-agent-is-now-the-attack-surface-f5c8656c84b9?source=rss------data_science-5)
+- [Kimi 3, Inkling: These Two Open Models May Change “Everything”](https://medium.com/data-science-collective/kimi-3-inkling-these-two-open-models-may-change-everything-0af000f36af7?source=rss------data_science-5)
+- [Why Traffic Suddenly Stops for No Apparent Reason](https://medium.com/data-science-collective/why-traffic-suddenly-stops-for-no-apparent-reason-7be45091b069?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
