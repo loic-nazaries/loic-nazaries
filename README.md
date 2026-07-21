@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I have China’s Kimi AI system instructions and jailbroke it](https://medium.com/@JimTheAIWhisperer/i-have-chinas-kimi-ai-system-instructions-and-jailbroke-it-ddd034c8f2fe?source=rss------data_science-5)
-- [Mapping Public Sentiment: GIS Hotspot Analysis of Trendy Spots in Kuala Lumpur](https://medium.com/@muhammaduzairaqeel/mapping-public-sentiment-gis-hotspot-analysis-of-trendy-spots-in-kuala-lumpur-660bd5281d0b?source=rss------data_science-5)
-- [The one, simple mathematical rule underpinning your life.](https://medium.com/@leo.th.legos/the-one-simple-mathematical-rule-underpinning-your-life-f3669f4b4228?source=rss------data_science-5)
-- [What Machine Learning Is — and What It Is NOT](https://capt-albus.medium.com/what-machine-learning-is-and-what-it-is-not-0133dea8cc80?source=rss------data_science-5)
-- [Umwelt &amp; The Dimension of Why](https://medium.com/borealism/umwelt-the-dimension-of-why-267f6598c86d?source=rss------data_science-5)
-- [What “Quantum Advantage” Actually Means &lpar;And What’s Real in 2026&rpar;](https://medium.com/@raghuece455/what-quantum-advantage-actually-means-and-whats-real-in-2026-ee0a07d5c705?source=rss------data_science-5)
-- [Datinium shines as a dataset management tool](https://medium.com/@dsadfsdffdgdfgfsag/datinium-shines-as-a-dataset-management-tool-35225e834ca5?source=rss------data_science-5)
-- [Agentjacking: Why Your AI Coding Agent Is Now the Attack Surface](https://medium.com/aiguys/agentjacking-why-your-ai-coding-agent-is-now-the-attack-surface-f5c8656c84b9?source=rss------data_science-5)
-- [Kimi 3, Inkling: These Two Open Models May Change “Everything”](https://medium.com/data-science-collective/kimi-3-inkling-these-two-open-models-may-change-everything-0af000f36af7?source=rss------data_science-5)
-- [Why Traffic Suddenly Stops for No Apparent Reason](https://medium.com/data-science-collective/why-traffic-suddenly-stops-for-no-apparent-reason-7be45091b069?source=rss------data_science-5)
+- [The Final Countdown](https://medium.com/the-pub/the-final-countdown-cf9ccce84844?source=rss------data_science-5)
+- [# The Napkin Math Behind Every AI Model: Estimate Compute, Cost &amp; Servers in Your Head](https://medium.com/@pravinmenghani/the-napkin-math-behind-every-ai-model-estimate-compute-cost-servers-in-your-head-398e9859bda1?source=rss------data_science-5)
+- [ML Fundamentals Day 12/30: What Is Overfitting? &lpar;And How to Spot It&rpar;](https://medium.com/@codewithnikki/ml-fundamentals-day-12-30-what-is-overfitting-and-how-to-spot-it-8d9cb0e19467?source=rss------data_science-5)
+- [Poetry: Cartography — A Child’s Measure](https://souzley.medium.com/poetry-cartography-a-childs-measure-ec407335ad3a?source=rss------data_science-5)
+- [Why AI Products Fail, and How PMs Can Break Free from the ChatGPT Gravity Well](https://medium.com/@curiousmind1786/why-ai-products-fail-and-how-pms-can-break-free-from-the-chatgpt-gravity-well-93df7a57b756?source=rss------data_science-5)
+- [UX Design Built for 2026–2027](https://medium.com/@pyrexsolutions/ux-design-built-for-2026-2027-ca037ed755ef?source=rss------data_science-5)
+- [Inteligência Artificial no SUS: não basta contratar ferramentas, é preciso formar pessoas](https://medium.com/@anderson.frca/intelig%C3%AAncia-artificial-no-sus-n%C3%A3o-basta-contratar-ferramentas-%C3%A9-preciso-formar-pessoas-2c53b88376d8?source=rss------data_science-5)
+- [Duolingo doesn’t work, so I&#39;m building my own Language Learning App.](https://felix-pappe.medium.com/duolingo-doesnt-work-so-im-building-my-own-language-learning-app-48e9474cb6a1?source=rss------data_science-5)
+- [Designing a Point-in-Time Backtest You Can Actually Trust](https://medium.com/@andrewfmaury/designing-a-point-in-time-backtest-you-can-actually-trust-3d0447df9de3?source=rss------data_science-5)
+- [The extra validation set is useless: cross-validation can pick both your model and your number of…](https://medium.com/@alejandrogomez1997/one-validation-set-or-two-testing-an-old-habit-on-89-datasets-5845de1bfe0d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
