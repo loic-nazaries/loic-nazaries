@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Final Countdown](https://medium.com/the-pub/the-final-countdown-cf9ccce84844?source=rss------data_science-5)
-- [# The Napkin Math Behind Every AI Model: Estimate Compute, Cost &amp; Servers in Your Head](https://medium.com/@pravinmenghani/the-napkin-math-behind-every-ai-model-estimate-compute-cost-servers-in-your-head-398e9859bda1?source=rss------data_science-5)
-- [ML Fundamentals Day 12/30: What Is Overfitting? &lpar;And How to Spot It&rpar;](https://medium.com/@codewithnikki/ml-fundamentals-day-12-30-what-is-overfitting-and-how-to-spot-it-8d9cb0e19467?source=rss------data_science-5)
-- [Poetry: Cartography — A Child’s Measure](https://souzley.medium.com/poetry-cartography-a-childs-measure-ec407335ad3a?source=rss------data_science-5)
-- [Why AI Products Fail, and How PMs Can Break Free from the ChatGPT Gravity Well](https://medium.com/@curiousmind1786/why-ai-products-fail-and-how-pms-can-break-free-from-the-chatgpt-gravity-well-93df7a57b756?source=rss------data_science-5)
-- [UX Design Built for 2026–2027](https://medium.com/@pyrexsolutions/ux-design-built-for-2026-2027-ca037ed755ef?source=rss------data_science-5)
-- [Inteligência Artificial no SUS: não basta contratar ferramentas, é preciso formar pessoas](https://medium.com/@anderson.frca/intelig%C3%AAncia-artificial-no-sus-n%C3%A3o-basta-contratar-ferramentas-%C3%A9-preciso-formar-pessoas-2c53b88376d8?source=rss------data_science-5)
-- [Duolingo doesn’t work, so I&#39;m building my own Language Learning App.](https://felix-pappe.medium.com/duolingo-doesnt-work-so-im-building-my-own-language-learning-app-48e9474cb6a1?source=rss------data_science-5)
-- [Designing a Point-in-Time Backtest You Can Actually Trust](https://medium.com/@andrewfmaury/designing-a-point-in-time-backtest-you-can-actually-trust-3d0447df9de3?source=rss------data_science-5)
-- [The extra validation set is useless: cross-validation can pick both your model and your number of…](https://medium.com/@alejandrogomez1997/one-validation-set-or-two-testing-an-old-habit-on-89-datasets-5845de1bfe0d?source=rss------data_science-5)
+- [Essential Skills Every Data Science Professional Should Learn](https://medium.com/@skprasadblogs/essential-skills-every-data-science-professional-should-learn-ba496f7b0225?source=rss------data_science-5)
+- [10 Power Automate Flows That Actually Save Hours — Not Just Demos](https://medium.com/@kaklotarrahul79/10-power-automate-flows-that-actually-save-hours-not-just-demos-78646527c0f3?source=rss------data_science-5)
+- [Human-Centered Analytics in the Age of Generative AI, AI Agents, and MCP](https://medium.com/@iwan.sugiarta/human-centered-analytics-in-the-age-of-generative-ai-ai-agents-and-mcp-ffdbd4ef2b8f?source=rss------data_science-5)
+- [What absolutely cannot happen: designing systems by their failure boundaries](https://medium.com/@jodhernandezbemj/what-absolutely-cannot-happen-designing-systems-by-their-failure-boundaries-08435251507e?source=rss------data_science-5)
+- [10 Python Projects That Can Actually Make You Money](https://python.plainenglish.io/10-python-projects-that-can-actually-make-you-money-43b05a96bf72?source=rss------data_science-5)
+- [How to Write a Software Engineering Resume](https://medium.com/fonzi-ai/how-to-write-a-software-engineering-resume-9a4c66108e1b?source=rss------data_science-5)
+- [Intelligence Augmentation: The New Frontier of AI Value Across Industries](https://medium.com/@curiousmind1786/intelligence-augmentation-the-new-frontier-of-ai-value-across-industries-d2703d6bcb4d?source=rss------data_science-5)
+- [Can You ACTUALLY Get an AI Job Without a Degree?](https://medium.com/data-science-collective/can-you-actually-get-an-ai-job-without-a-degree-4b9c1e40180d?source=rss------data_science-5)
+- [From Query to Discovery: How LLMs Are Rewiring Access to Materials Databases](https://medium.com/@yashannoushan/from-query-to-discovery-how-llms-are-rewiring-access-to-materials-databases-295a9973db5a?source=rss------data_science-5)
+- [Still Stalking My Old Office &lpar;And Debating Whether Spite Counts as Motivation&rpar;](https://medium.com/exceptions-thrown/still-stalking-my-old-office-and-debating-whether-spite-counts-as-motivation-05e4d64cb43e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
