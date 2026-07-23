@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Essential Skills Every Data Science Professional Should Learn](https://medium.com/@skprasadblogs/essential-skills-every-data-science-professional-should-learn-ba496f7b0225?source=rss------data_science-5)
-- [10 Power Automate Flows That Actually Save Hours — Not Just Demos](https://medium.com/@kaklotarrahul79/10-power-automate-flows-that-actually-save-hours-not-just-demos-78646527c0f3?source=rss------data_science-5)
-- [Human-Centered Analytics in the Age of Generative AI, AI Agents, and MCP](https://medium.com/@iwan.sugiarta/human-centered-analytics-in-the-age-of-generative-ai-ai-agents-and-mcp-ffdbd4ef2b8f?source=rss------data_science-5)
-- [What absolutely cannot happen: designing systems by their failure boundaries](https://medium.com/@jodhernandezbemj/what-absolutely-cannot-happen-designing-systems-by-their-failure-boundaries-08435251507e?source=rss------data_science-5)
-- [10 Python Projects That Can Actually Make You Money](https://python.plainenglish.io/10-python-projects-that-can-actually-make-you-money-43b05a96bf72?source=rss------data_science-5)
-- [How to Write a Software Engineering Resume](https://medium.com/fonzi-ai/how-to-write-a-software-engineering-resume-9a4c66108e1b?source=rss------data_science-5)
-- [Intelligence Augmentation: The New Frontier of AI Value Across Industries](https://medium.com/@curiousmind1786/intelligence-augmentation-the-new-frontier-of-ai-value-across-industries-d2703d6bcb4d?source=rss------data_science-5)
-- [Can You ACTUALLY Get an AI Job Without a Degree?](https://medium.com/data-science-collective/can-you-actually-get-an-ai-job-without-a-degree-4b9c1e40180d?source=rss------data_science-5)
-- [From Query to Discovery: How LLMs Are Rewiring Access to Materials Databases](https://medium.com/@yashannoushan/from-query-to-discovery-how-llms-are-rewiring-access-to-materials-databases-295a9973db5a?source=rss------data_science-5)
-- [Still Stalking My Old Office &lpar;And Debating Whether Spite Counts as Motivation&rpar;](https://medium.com/exceptions-thrown/still-stalking-my-old-office-and-debating-whether-spite-counts-as-motivation-05e4d64cb43e?source=rss------data_science-5)
+- [ML Fundamentals Day 14/30: Cross-Validation: Testing Your Model Fairly](https://medium.com/@codewithnikki/ml-fundamentals-day-14-30-cross-validation-testing-your-model-fairly-49e2e6bda976?source=rss------data_science-5)
+- [In my opinion, about a hundred years ago there was a serious turning point in the understanding of…](https://medium.com/@telmanxalilov/in-my-opinion-about-a-hundred-years-ago-there-was-a-serious-turning-point-in-the-understanding-of-57e7db031492?source=rss------data_science-5)
+- [Generative AI Meets Agentic AI: Designing Virtual Humans with Memory, Motivation, and Impact](https://medium.com/@curiousmind1786/generative-ai-meets-agentic-ai-designing-virtual-humans-with-memory-motivation-and-impact-4d3acaf01e75?source=rss------data_science-5)
+- [Demystifying Mask R-CNN: The Architecture That Taught Machines to See in Pixels](https://medium.com/@hamidmajeed929/demystifying-mask-r-cnn-the-architecture-that-taught-machines-to-see-in-pixels-5d32c6f54ec5?source=rss------data_science-5)
+- [Desert Mindset | The Wisdom Our Grandfathers Lived By](https://medium.com/@saad9999.sss/desert-mindset-the-wisdom-our-grandfathers-lived-by-6f5b43d55d0f?source=rss------data_science-5)
+- [What My Own Training Notes Taught Me About Progress](https://medium.com/@omarrodriguez_57604/what-my-own-training-notes-taught-me-about-progress-01423b7a15ce?source=rss------data_science-5)
+- [Dwarka Expressway HCBS Twin Horizon 4 BHK 7000 SQFT Penthouse | +91 8826997781](https://medium.com/@apartmentswala/dwarka-expressway-hcbs-twin-horizon-4-bhk-7000-sqft-penthouse-91-8826997781-c285ce34fdea?source=rss------data_science-5)
+- [Deux livres. Une vie. Une renaissance.](https://medium.com/@vickyjatche/deux-livres-une-vie-une-renaissance-d9d8655a72cb?source=rss------data_science-5)
+- [America Has $39 Trillion in Debt, we wrote a check in the 1940s. It is about to come due.](https://medium.com/@kirkbradford/america-has-39-trillion-in-debt-we-wrote-a-check-in-the-1940s-it-is-about-to-come-due-859cca4ae89a?source=rss------data_science-5)
+- [Why Education Is the Smartest Cryptocurrency Investment You Can Make](https://medium.com/@cindycarla916/why-education-is-the-smartest-cryptocurrency-investment-you-can-make-fa5133ed8fc5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
