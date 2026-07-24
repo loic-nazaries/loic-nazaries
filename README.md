@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [ML Fundamentals Day 14/30: Cross-Validation: Testing Your Model Fairly](https://medium.com/@codewithnikki/ml-fundamentals-day-14-30-cross-validation-testing-your-model-fairly-49e2e6bda976?source=rss------data_science-5)
-- [In my opinion, about a hundred years ago there was a serious turning point in the understanding of…](https://medium.com/@telmanxalilov/in-my-opinion-about-a-hundred-years-ago-there-was-a-serious-turning-point-in-the-understanding-of-57e7db031492?source=rss------data_science-5)
-- [Generative AI Meets Agentic AI: Designing Virtual Humans with Memory, Motivation, and Impact](https://medium.com/@curiousmind1786/generative-ai-meets-agentic-ai-designing-virtual-humans-with-memory-motivation-and-impact-4d3acaf01e75?source=rss------data_science-5)
-- [Demystifying Mask R-CNN: The Architecture That Taught Machines to See in Pixels](https://medium.com/@hamidmajeed929/demystifying-mask-r-cnn-the-architecture-that-taught-machines-to-see-in-pixels-5d32c6f54ec5?source=rss------data_science-5)
-- [Desert Mindset | The Wisdom Our Grandfathers Lived By](https://medium.com/@saad9999.sss/desert-mindset-the-wisdom-our-grandfathers-lived-by-6f5b43d55d0f?source=rss------data_science-5)
-- [What My Own Training Notes Taught Me About Progress](https://medium.com/@omarrodriguez_57604/what-my-own-training-notes-taught-me-about-progress-01423b7a15ce?source=rss------data_science-5)
-- [Dwarka Expressway HCBS Twin Horizon 4 BHK 7000 SQFT Penthouse | +91 8826997781](https://medium.com/@apartmentswala/dwarka-expressway-hcbs-twin-horizon-4-bhk-7000-sqft-penthouse-91-8826997781-c285ce34fdea?source=rss------data_science-5)
-- [Deux livres. Une vie. Une renaissance.](https://medium.com/@vickyjatche/deux-livres-une-vie-une-renaissance-d9d8655a72cb?source=rss------data_science-5)
-- [America Has $39 Trillion in Debt, we wrote a check in the 1940s. It is about to come due.](https://medium.com/@kirkbradford/america-has-39-trillion-in-debt-we-wrote-a-check-in-the-1940s-it-is-about-to-come-due-859cca4ae89a?source=rss------data_science-5)
-- [Why Education Is the Smartest Cryptocurrency Investment You Can Make](https://medium.com/@cindycarla916/why-education-is-the-smartest-cryptocurrency-investment-you-can-make-fa5133ed8fc5?source=rss------data_science-5)
+- [Why I Dislike the Term “AI Hallucination”: Human Factors May Matter More](https://medium.com/@tpa33.36.09.013/why-i-dislike-the-term-ai-hallucination-human-factors-may-matter-more-3f3eb513354e?source=rss------data_science-5)
+- [The Agentic Economy: When Databases Become Intelligent Platforms](https://medium.com/@cosmasonyekwelu/the-agentic-economy-when-databases-become-intelligent-platforms-1b0288a694ed?source=rss------data_science-5)
+- [The New Rules of Internet Security: How to Protect Yourself from AI-Powered Online Scams](https://medium.com/@ahmed2003frieg/the-new-rules-of-internet-security-how-to-protect-yourself-from-ai-powered-online-scams-2386b0fd268f?source=rss------data_science-5)
+- [What if an AI fixes your rent price and artificially inflates it?](https://medium.com/law-and-ethics-in-tech/what-if-an-ai-fixes-your-rent-price-and-artificially-inflates-it-7703e7ec7294?source=rss------data_science-5)
+- [Análise de Estoques: Como a Ciência de Dados Resolve o Paradoxo do “Tem mas Não Tem”](https://medium.com/@petrugeral/an%C3%A1lise-de-estoques-como-a-ci%C3%AAncia-de-dados-resolve-o-paradoxo-do-tem-mas-n%C3%A3o-tem-505f6095c13f?source=rss------data_science-5)
+- [AI Is No Longer Just a Tool – It Is Becoming an Autonomous Cyber Actor](https://medium.com/@harrijalovaara/ai-image-chatgpt-harri-jalovaara-c77e6a9d6132?source=rss------data_science-5)
+- [Understanding Grain Didn’t Make Me Better at SQL — It Made Me a Better Analyst](https://narmadapeddi.medium.com/understanding-grain-didnt-make-me-better-at-sql-it-made-me-a-better-analyst-60b791fd36e2?source=rss------data_science-5)
+- [Search Is Instant. Thinking Is the New Luxury.](https://medium.com/@luxdolorosa/search-is-instant-thinking-is-the-new-luxury-03b04800a91b?source=rss------data_science-5)
+- [The Lemma Said This Couldn’t Happen](https://medium.com/@nicholaask/the-lemma-said-this-couldnt-happen-661140fe8667?source=rss------data_science-5)
+- [What I Got Wrong About the Cost of Iceberg &lpar;And What the v3 Numbers Actually Show&rpar;](https://medium.com/@mccartneyk07/what-i-got-wrong-about-the-cost-of-iceberg-and-what-the-v3-numbers-actually-show-742849afee86?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
