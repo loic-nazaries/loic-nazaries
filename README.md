@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why I Dislike the Term “AI Hallucination”: Human Factors May Matter More](https://medium.com/@tpa33.36.09.013/why-i-dislike-the-term-ai-hallucination-human-factors-may-matter-more-3f3eb513354e?source=rss------data_science-5)
-- [The Agentic Economy: When Databases Become Intelligent Platforms](https://medium.com/@cosmasonyekwelu/the-agentic-economy-when-databases-become-intelligent-platforms-1b0288a694ed?source=rss------data_science-5)
-- [The New Rules of Internet Security: How to Protect Yourself from AI-Powered Online Scams](https://medium.com/@ahmed2003frieg/the-new-rules-of-internet-security-how-to-protect-yourself-from-ai-powered-online-scams-2386b0fd268f?source=rss------data_science-5)
-- [What if an AI fixes your rent price and artificially inflates it?](https://medium.com/law-and-ethics-in-tech/what-if-an-ai-fixes-your-rent-price-and-artificially-inflates-it-7703e7ec7294?source=rss------data_science-5)
-- [Análise de Estoques: Como a Ciência de Dados Resolve o Paradoxo do “Tem mas Não Tem”](https://medium.com/@petrugeral/an%C3%A1lise-de-estoques-como-a-ci%C3%AAncia-de-dados-resolve-o-paradoxo-do-tem-mas-n%C3%A3o-tem-505f6095c13f?source=rss------data_science-5)
-- [AI Is No Longer Just a Tool – It Is Becoming an Autonomous Cyber Actor](https://medium.com/@harrijalovaara/ai-image-chatgpt-harri-jalovaara-c77e6a9d6132?source=rss------data_science-5)
-- [Understanding Grain Didn’t Make Me Better at SQL — It Made Me a Better Analyst](https://narmadapeddi.medium.com/understanding-grain-didnt-make-me-better-at-sql-it-made-me-a-better-analyst-60b791fd36e2?source=rss------data_science-5)
-- [Search Is Instant. Thinking Is the New Luxury.](https://medium.com/@luxdolorosa/search-is-instant-thinking-is-the-new-luxury-03b04800a91b?source=rss------data_science-5)
-- [The Lemma Said This Couldn’t Happen](https://medium.com/@nicholaask/the-lemma-said-this-couldnt-happen-661140fe8667?source=rss------data_science-5)
-- [What I Got Wrong About the Cost of Iceberg &lpar;And What the v3 Numbers Actually Show&rpar;](https://medium.com/@mccartneyk07/what-i-got-wrong-about-the-cost-of-iceberg-and-what-the-v3-numbers-actually-show-742849afee86?source=rss------data_science-5)
+- [How to Think in .me](https://suign.medium.com/how-to-think-in-me-b0d82a8c578b?source=rss------data_science-5)
+- [Poetry: Root and Wake](https://souzley.medium.com/poetry-root-and-wake-7c5d889c5dd9?source=rss------data_science-5)
+- [Direct Lake on OneLake Just Hit GA. Here’s When It Replaces Import Mode, and When It Doesn’t.](https://pub.towardsai.net/direct-lake-on-onelake-just-hit-ga-heres-when-it-replaces-import-mode-and-when-it-doesn-t-248cf576ccc4?source=rss------data_science-5)
+- [The AI Copilot Is Already in the Cockpit and Nobody Voted on It](https://medium.com/kurious-mind/the-ai-copilot-is-already-in-the-cockpit-and-nobody-voted-on-it-67d0f166558f?source=rss------data_science-5)
+- [The Fermi Paradox Through an Intelligence Analyst’s Lens](https://medium.com/kurious-mind/the-fermi-paradox-through-an-intelligence-analysts-lens-29f1acd5c64a?source=rss------data_science-5)
+- [Lokal Laptopumun Feryadından Bulutun Konforuna: ModelArts ve DeepSeek R1 ile Veri Biliminde…](https://medium.com/@enginakt21/lokal-laptopumun-feryad%C4%B1ndan-bulutun-konforuna-modelarts-ve-deepseek-r1-ile-veri-biliminde-0b87eb0f7bef?source=rss------data_science-5)
+- [The Psychological Dynamics Behind AI Chatbots: Designing Interactions That Build Genuine Trust](https://medium.com/@curiousmind1786/the-psychological-dynamics-behind-ai-chatbots-designing-interactions-that-build-genuine-trust-968ea3ea5825?source=rss------data_science-5)
+- [The Assistant with the Master key](https://medium.com/@sanjar.sadique/the-assistant-with-the-master-key-2c5226c9664f?source=rss------data_science-5)
+- [Meet Your New Lab Partner: How AI Went From Reading Papers to Running Experiments](https://medium.com/@AIbatros/meet-your-new-lab-partner-how-ai-went-from-reading-papers-to-running-experiments-bcbf34ec53b4?source=rss------data_science-5)
+- [promotion of social sciences Mumbai India a free delivery option would be easier with each other…](https://medium.com/@stephendivzy/promotion-of-social-sciences-mumbai-india-a-free-delivery-option-would-be-easier-with-each-other-5caa9704e834?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
