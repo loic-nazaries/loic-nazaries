@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Teenagers and Artificial Intelligence](https://medium.com/@randomestgoose/teenagers-and-artificial-intelligence-1b9dfba1e958?source=rss------data_science-5)
-- [Towards a smarter and sustainable campus: A digital Twin for Utility Forecasting and decision…](https://medium.com/99p-labs/towards-a-smarter-and-sustainable-campus-a-digital-twin-for-utility-forecasting-and-decision-7c9a8ee83534?source=rss------data_science-5)
-- [We Fact-Checked 11 SaaS Tools’ Pricing Pages. Most Comparison Sites Are Quietly Wrong.](https://pilotstack.medium.com/we-fact-checked-11-saas-tools-pricing-pages-most-comparison-sites-are-quietly-wrong-b0d8d8e54b27?source=rss------data_science-5)
-- [Veri Bilimine Giriş](https://medium.com/@efeasln10/veri-bilimine-giri%C5%9F-c6716acc4d16?source=rss------data_science-5)
-- [I Built a Climate App &lpar;Renovyn Earth&rpar; for the UK. Here’s Why It Started in Ghana.](https://medium.com/@sarmohofficial/i-built-a-climate-app-renovyn-earth-for-the-uk-heres-why-it-started-in-ghana-0dcfdf32d83b?source=rss------data_science-5)
-- [From Time Series Confusion to Forecasting London’s NO₂: What My First Real Forecasting Project...](https://medium.com/@tatianatchouakam/from-time-series-confusion-to-forecasting-londons-no%E2%82%82-what-my-first-real-forecasting-project-ea9094dfeef9?source=rss------data_science-5)
-- [Everyone Wants an AI Agent. Nobody Wants to Talk About the Data.](https://medium.com/@KiruguHillary/everyone-wants-an-ai-agent-nobody-wants-to-talk-about-the-data-bf77745d8c4e?source=rss------data_science-5)
-- [The Untapped Potential of Problem Translation in AI Advancement](https://medium.com/@curiousmind1786/the-untapped-potential-of-problem-translation-in-ai-advancement-af1d243a964d?source=rss------data_science-5)
-- [Why Data Science Isn’t Just About Building Models](https://medium.com/@tylcurry/why-data-science-isnt-just-about-building-models-eec0793419d9?source=rss------data_science-5)
+- [The Business of Looking Prepared for AI](https://medium.com/@martin.jurado.p/the-business-of-looking-prepared-for-ai-122efde7eeef?source=rss------data_science-5)
+- [External Validity Threats: Why Your A/B Test Results Might Not Hold](https://medium.com/@atticusli/external-validity-threats-why-your-a-b-test-results-might-not-hold-e46bbca01e4b?source=rss------data_science-5)
+- [Recreating 180 Years of Chess Style with Policy-Only Fine-Tuning](https://pub.towardsai.net/recreating-180-years-of-chess-style-with-policy-only-fine-tuning-6eed9ad4b154?source=rss------data_science-5)
+- [Natural Language Processing &lpar;NLP&rpar; Core Concepts](https://medium.com/@vikashsinghy2k/natural-language-processing-nlp-core-concepts-b3cc101dce7f?source=rss------data_science-5)
+- [10 Underrated Python Libraries You Need to Import](https://levelup.gitconnected.com/10-underrated-python-libraries-you-need-to-import-1ea1ce98156c?source=rss------data_science-5)
+- [A/B Testing Feature Rollouts on Adobe Analytics Data: eVars, Props, and Interpretation](https://medium.com/@surbhirathi5/a-b-testing-feature-rollouts-on-adobe-analytics-data-evars-props-and-interpretation-d285559ee76a?source=rss------data_science-5)
+- [Escaping Familiar Pulls: A New Framework for Lasting AI Impact](https://medium.com/@curiousmind1786/escaping-familiar-pulls-a-new-framework-for-lasting-ai-impact-7a04cc7cfd56?source=rss------data_science-5)
+- [GitHub Copilot vs. Cursor vs. Claude: Which AI Coding Tool Is Actually Worth Your Money?](https://medium.com/@kaklotarrahul79/github-copilot-vs-cursor-vs-claude-which-ai-coding-tool-is-actually-worth-your-money-b56c8cba5bc3?source=rss------data_science-5)
+- [How to Propel Astronauts to the Speed of Light at 1g?](https://avi-loeb.medium.com/how-to-propel-astronauts-to-the-speed-of-light-at-1g-8132853ac435?source=rss------data_science-5)
+- [Forget the Maturity Score. Run the Who-You-Know Test.](https://medium.com/what-is-your-data-migration-plan/forget-the-maturity-score-run-the-who-you-know-test-9f94dccd5ca3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
