@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Business of Looking Prepared for AI](https://medium.com/@martin.jurado.p/the-business-of-looking-prepared-for-ai-122efde7eeef?source=rss------data_science-5)
-- [External Validity Threats: Why Your A/B Test Results Might Not Hold](https://medium.com/@atticusli/external-validity-threats-why-your-a-b-test-results-might-not-hold-e46bbca01e4b?source=rss------data_science-5)
-- [Recreating 180 Years of Chess Style with Policy-Only Fine-Tuning](https://pub.towardsai.net/recreating-180-years-of-chess-style-with-policy-only-fine-tuning-6eed9ad4b154?source=rss------data_science-5)
-- [Natural Language Processing &lpar;NLP&rpar; Core Concepts](https://medium.com/@vikashsinghy2k/natural-language-processing-nlp-core-concepts-b3cc101dce7f?source=rss------data_science-5)
-- [10 Underrated Python Libraries You Need to Import](https://levelup.gitconnected.com/10-underrated-python-libraries-you-need-to-import-1ea1ce98156c?source=rss------data_science-5)
-- [A/B Testing Feature Rollouts on Adobe Analytics Data: eVars, Props, and Interpretation](https://medium.com/@surbhirathi5/a-b-testing-feature-rollouts-on-adobe-analytics-data-evars-props-and-interpretation-d285559ee76a?source=rss------data_science-5)
-- [Escaping Familiar Pulls: A New Framework for Lasting AI Impact](https://medium.com/@curiousmind1786/escaping-familiar-pulls-a-new-framework-for-lasting-ai-impact-7a04cc7cfd56?source=rss------data_science-5)
-- [GitHub Copilot vs. Cursor vs. Claude: Which AI Coding Tool Is Actually Worth Your Money?](https://medium.com/@kaklotarrahul79/github-copilot-vs-cursor-vs-claude-which-ai-coding-tool-is-actually-worth-your-money-b56c8cba5bc3?source=rss------data_science-5)
-- [How to Propel Astronauts to the Speed of Light at 1g?](https://avi-loeb.medium.com/how-to-propel-astronauts-to-the-speed-of-light-at-1g-8132853ac435?source=rss------data_science-5)
-- [Forget the Maturity Score. Run the Who-You-Know Test.](https://medium.com/what-is-your-data-migration-plan/forget-the-maturity-score-run-the-who-you-know-test-9f94dccd5ca3?source=rss------data_science-5)
+- [The Silent Bug: How Duplicate IDs Were Inflating My Results Without a Single Error Log](https://medium.com/@lorenamelo.engr/the-silent-bug-how-duplicate-ids-were-inflating-my-results-without-a-single-error-log-4d8abcfb89bb?source=rss------data_science-5)
+- [Welcome to Plain Language PH: Demystifying Philippine Policy &amp; Economics](https://medium.com/@SheilaGarcia77/welcome-to-plain-language-ph-demystifying-philippine-policy-economics-42597e5c8bf1?source=rss------data_science-5)
+- [Bayesian vs. Frequentist A/B Testing: Which Approach Should You Use?](https://medium.com/@atticusli/bayesian-vs-frequentist-a-b-testing-which-approach-should-you-use-b3989cc25c82?source=rss------data_science-5)
+- [What humanizing PepsiCo’s Data Science and Advanced Analytics team reveals about data adoption in…](https://medium.com/@quincy_36220/what-humanizing-pepsicos-data-science-and-advanced-analytics-team-reveals-about-data-adoption-in-d47927eaf37f?source=rss------data_science-5)
+- [How I turned therapy concepts into a machine learning model](https://medium.com/@shubhiupadhyay/how-i-turned-therapy-concepts-into-a-machine-learning-model-56586a23ecb5?source=rss------data_science-5)
+- [Ten Quotes the Industry Gets Wrong](https://medium.com/it-chronicles/ten-quotes-the-industry-gets-wrong-ed69b8926169?source=rss------data_science-5)
+- [Building a Custom Image Classifier with Transfer Learning](https://medium.com/@robinsonjason761/building-a-custom-image-classifier-with-transfer-learning-6621d87dee20?source=rss------data_science-5)
+- [How Will The Future Software Engineer Distinquish Itself When Writing Code Becomes Fully…](https://pub.towardsai.net/how-will-the-future-software-engineer-distinquish-itself-when-writing-code-becomes-fully-d09a9fbfe5a8?source=rss------data_science-5)
+- [How pairing AI with people reshapes industries and rewrites risk profiles?](https://medium.com/@curiousmind1786/how-pairing-ai-with-people-reshapes-industries-and-rewrites-risk-profiles-1bedcd7a88e8?source=rss------data_science-5)
+- [Your Notebook Is Talking to You](https://medium.com/@wl8380/your-notebook-is-talking-to-you-ed04789fdf2c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
