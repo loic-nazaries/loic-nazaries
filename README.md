@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Silent Bug: How Duplicate IDs Were Inflating My Results Without a Single Error Log](https://medium.com/@lorenamelo.engr/the-silent-bug-how-duplicate-ids-were-inflating-my-results-without-a-single-error-log-4d8abcfb89bb?source=rss------data_science-5)
-- [Welcome to Plain Language PH: Demystifying Philippine Policy &amp; Economics](https://medium.com/@SheilaGarcia77/welcome-to-plain-language-ph-demystifying-philippine-policy-economics-42597e5c8bf1?source=rss------data_science-5)
-- [Bayesian vs. Frequentist A/B Testing: Which Approach Should You Use?](https://medium.com/@atticusli/bayesian-vs-frequentist-a-b-testing-which-approach-should-you-use-b3989cc25c82?source=rss------data_science-5)
-- [What humanizing PepsiCo’s Data Science and Advanced Analytics team reveals about data adoption in…](https://medium.com/@quincy_36220/what-humanizing-pepsicos-data-science-and-advanced-analytics-team-reveals-about-data-adoption-in-d47927eaf37f?source=rss------data_science-5)
-- [How I turned therapy concepts into a machine learning model](https://medium.com/@shubhiupadhyay/how-i-turned-therapy-concepts-into-a-machine-learning-model-56586a23ecb5?source=rss------data_science-5)
-- [Ten Quotes the Industry Gets Wrong](https://medium.com/it-chronicles/ten-quotes-the-industry-gets-wrong-ed69b8926169?source=rss------data_science-5)
-- [Building a Custom Image Classifier with Transfer Learning](https://medium.com/@robinsonjason761/building-a-custom-image-classifier-with-transfer-learning-6621d87dee20?source=rss------data_science-5)
-- [How Will The Future Software Engineer Distinquish Itself When Writing Code Becomes Fully…](https://pub.towardsai.net/how-will-the-future-software-engineer-distinquish-itself-when-writing-code-becomes-fully-d09a9fbfe5a8?source=rss------data_science-5)
-- [How pairing AI with people reshapes industries and rewrites risk profiles?](https://medium.com/@curiousmind1786/how-pairing-ai-with-people-reshapes-industries-and-rewrites-risk-profiles-1bedcd7a88e8?source=rss------data_science-5)
-- [Your Notebook Is Talking to You](https://medium.com/@wl8380/your-notebook-is-talking-to-you-ed04789fdf2c?source=rss------data_science-5)
+- [Sagrada Familia](https://boscoarata.medium.com/sagrada-familia-501cdfec916a?source=rss------data_science-5)
+- [Agentic AI’s weak link arn’t the models, the weak link is data security.](https://hubbertsmith.medium.com/agentic-ais-weak-link-arn-t-the-models-the-weak-link-is-data-security-4f35d78ce113?source=rss------data_science-5)
+- [The Model That Aced Training and Failed Production: Understanding Bias and Variance](https://medium.com/@uvstharun183/the-model-that-aced-training-and-failed-production-understanding-bias-and-variance-199ab468d461?source=rss------data_science-5)
+- [A Vaccine for Type 1 Diabetes?](https://epiren.medium.com/a-vaccine-for-type-1-diabetes-cce92ed3f73b?source=rss------data_science-5)
+- [Building a Privacy-First AI Pipeline for Purchase Order Extraction](https://medium.com/@prachi.pb1012/building-a-privacy-first-ai-pipeline-for-purchase-order-extraction-c11128501d71?source=rss------data_science-5)
+- [What Defeating the Spartans Can Tell us about AI](https://datapurposepeople.medium.com/what-defeating-the-spartans-can-tell-us-about-ai-176687b4bd8e?source=rss------data_science-5)
+- [Orchestrating AI Agents Like a Logistics Command Center](https://medium.com/@curiousmind1786/orchestrating-ai-agents-like-a-logistics-command-center-654a7a1398cb?source=rss------data_science-5)
+- [After 3 Months of Research, My Book on Enterprise AI &amp; Model Context Protocol &lpar;MCP&rpar; Is Finally Live](https://medium.com/@reach.harishapc/after-3-months-of-research-my-book-on-enterprise-ai-model-context-protocol-mcp-is-finally-live-378d083b961f?source=rss------data_science-5)
+- [Is the AI Data Center Boom a New Canal Bubble?](https://medium.com/@oueno08/is-the-ai-data-center-boom-a-new-canal-bubble-3974dcd6970e?source=rss------data_science-5)
+- [Preparing Clinical Data for Machine Learning: Data Cleaning and Preprocessing in a Diabetes…](https://medium.com/@davontacarruth/preparing-clinical-data-for-machine-learning-data-cleaning-and-preprocessing-in-a-diabetes-dbb3624393ee?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
