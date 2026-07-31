@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Sagrada Familia](https://boscoarata.medium.com/sagrada-familia-501cdfec916a?source=rss------data_science-5)
-- [Agentic AI’s weak link arn’t the models, the weak link is data security.](https://hubbertsmith.medium.com/agentic-ais-weak-link-arn-t-the-models-the-weak-link-is-data-security-4f35d78ce113?source=rss------data_science-5)
-- [The Model That Aced Training and Failed Production: Understanding Bias and Variance](https://medium.com/@uvstharun183/the-model-that-aced-training-and-failed-production-understanding-bias-and-variance-199ab468d461?source=rss------data_science-5)
-- [A Vaccine for Type 1 Diabetes?](https://epiren.medium.com/a-vaccine-for-type-1-diabetes-cce92ed3f73b?source=rss------data_science-5)
-- [Building a Privacy-First AI Pipeline for Purchase Order Extraction](https://medium.com/@prachi.pb1012/building-a-privacy-first-ai-pipeline-for-purchase-order-extraction-c11128501d71?source=rss------data_science-5)
-- [What Defeating the Spartans Can Tell us about AI](https://datapurposepeople.medium.com/what-defeating-the-spartans-can-tell-us-about-ai-176687b4bd8e?source=rss------data_science-5)
-- [Orchestrating AI Agents Like a Logistics Command Center](https://medium.com/@curiousmind1786/orchestrating-ai-agents-like-a-logistics-command-center-654a7a1398cb?source=rss------data_science-5)
-- [After 3 Months of Research, My Book on Enterprise AI &amp; Model Context Protocol &lpar;MCP&rpar; Is Finally Live](https://medium.com/@reach.harishapc/after-3-months-of-research-my-book-on-enterprise-ai-model-context-protocol-mcp-is-finally-live-378d083b961f?source=rss------data_science-5)
-- [Is the AI Data Center Boom a New Canal Bubble?](https://medium.com/@oueno08/is-the-ai-data-center-boom-a-new-canal-bubble-3974dcd6970e?source=rss------data_science-5)
-- [Preparing Clinical Data for Machine Learning: Data Cleaning and Preprocessing in a Diabetes…](https://medium.com/@davontacarruth/preparing-clinical-data-for-machine-learning-data-cleaning-and-preprocessing-in-a-diabetes-dbb3624393ee?source=rss------data_science-5)
+- [Top 30 Multi-Agent Systems and Agent Orchestration Interview Questions and Answers](https://skphd.medium.com/top-30-multi-agent-systems-and-agent-orchestration-interview-questions-and-answers-fff13686b779?source=rss------data_science-5)
+- [Top 30 LLM Hallucination Interview Questions and Answers](https://skphd.medium.com/top-30-llm-hallucination-interview-questions-and-answers-1ed177ce5026?source=rss------data_science-5)
+- [Black Holes and Worm Holes](https://medium.com/@pindivenom/black-holes-and-worm-holes-f22456bc3ed4?source=rss------data_science-5)
+- [тесты по уровню аномалий слабые-средние, на 24 &lpar;четыре аномалии&rpar; городах: 137 ms](https://medium.com/@swvvdmp/%D1%82%D0%B5%D1%81%D1%82%D1%8B-%D0%BF%D0%BE-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8E-%D0%B0%D0%BD%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9-%D1%81%D0%BB%D0%B0%D0%B1%D1%8B%D0%B5-%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-24-%D1%87%D0%B5%D1%82%D1%8B%D1%80%D0%B5-%D0%B0%D0%BD%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0%D1%85-137-ms-01c428afb406?source=rss------data_science-5)
+- [I’m a Senior Data Analyst.](https://stephanieonyekwere.medium.com/im-a-senior-data-analyst-7fd53b3369d7?source=rss------data_science-5)
+- [From Fitbit to Google: an X-ray of an integration](https://medium.com/jose-a-vidal/from-fitbit-to-google-an-x-ray-of-an-integration-f9af7cb509b7?source=rss------data_science-5)
+- [Why Modern Asset Managers Need Both Technical and Business Data Quality — Not Just One](https://medium.com/@sara.1997.maarouf/why-modern-asset-managers-need-both-technical-and-business-data-quality-not-just-one-1f53bd883ec6?source=rss------data_science-5)
+- [Harnessing AI’s True Potential: Why the Shift Toward Enhancing Human Roles Shapes Leadership and…](https://medium.com/@curiousmind1786/harnessing-ais-true-potential-why-the-shift-toward-enhancing-human-roles-shapes-leadership-and-bd2f44117316?source=rss------data_science-5)
+- [BAYES’ THEOREM](https://medium.com/@marieliofernandes637/bayes-theorem-a991a8eb2d42?source=rss------data_science-5)
+- [If Your Analytics Isn’t Driving Growth, Read This](https://medium.com/design-bootcamp/if-your-analytics-isnt-driving-growth-read-this-b3c52f00d8af?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
