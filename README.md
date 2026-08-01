@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Top 30 Multi-Agent Systems and Agent Orchestration Interview Questions and Answers](https://skphd.medium.com/top-30-multi-agent-systems-and-agent-orchestration-interview-questions-and-answers-fff13686b779?source=rss------data_science-5)
-- [Top 30 LLM Hallucination Interview Questions and Answers](https://skphd.medium.com/top-30-llm-hallucination-interview-questions-and-answers-1ed177ce5026?source=rss------data_science-5)
-- [Black Holes and Worm Holes](https://medium.com/@pindivenom/black-holes-and-worm-holes-f22456bc3ed4?source=rss------data_science-5)
-- [тесты по уровню аномалий слабые-средние, на 24 &lpar;четыре аномалии&rpar; городах: 137 ms](https://medium.com/@swvvdmp/%D1%82%D0%B5%D1%81%D1%82%D1%8B-%D0%BF%D0%BE-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8E-%D0%B0%D0%BD%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9-%D1%81%D0%BB%D0%B0%D0%B1%D1%8B%D0%B5-%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-24-%D1%87%D0%B5%D1%82%D1%8B%D1%80%D0%B5-%D0%B0%D0%BD%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D0%B8-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0%D1%85-137-ms-01c428afb406?source=rss------data_science-5)
-- [I’m a Senior Data Analyst.](https://stephanieonyekwere.medium.com/im-a-senior-data-analyst-7fd53b3369d7?source=rss------data_science-5)
-- [From Fitbit to Google: an X-ray of an integration](https://medium.com/jose-a-vidal/from-fitbit-to-google-an-x-ray-of-an-integration-f9af7cb509b7?source=rss------data_science-5)
-- [Why Modern Asset Managers Need Both Technical and Business Data Quality — Not Just One](https://medium.com/@sara.1997.maarouf/why-modern-asset-managers-need-both-technical-and-business-data-quality-not-just-one-1f53bd883ec6?source=rss------data_science-5)
-- [Harnessing AI’s True Potential: Why the Shift Toward Enhancing Human Roles Shapes Leadership and…](https://medium.com/@curiousmind1786/harnessing-ais-true-potential-why-the-shift-toward-enhancing-human-roles-shapes-leadership-and-bd2f44117316?source=rss------data_science-5)
-- [BAYES’ THEOREM](https://medium.com/@marieliofernandes637/bayes-theorem-a991a8eb2d42?source=rss------data_science-5)
-- [If Your Analytics Isn’t Driving Growth, Read This](https://medium.com/design-bootcamp/if-your-analytics-isnt-driving-growth-read-this-b3c52f00d8af?source=rss------data_science-5)
+- [US Cannabis Recall Data: Now In the Public Domain](https://medium.com/cannabis-explorations/us-cannabis-recall-data-now-in-the-public-domain-a59068a1e2a6?source=rss------data_science-5)
+- [AI-Driven Segmentation Discovery: Finding Audiences You Didn’t Know to Look For](https://medium.com/@atticusli/ai-driven-segmentation-discovery-finding-audiences-you-didnt-know-to-look-for-7eb673789698?source=rss------data_science-5)
+- [Your AI model just scored 100% accuracy on a complex reasoning test.](https://medium.com/@forgesynapseltd/your-ai-model-just-scored-100-accuracy-on-a-complex-reasoning-test-485f025815ae?source=rss------data_science-5)
+- [The Leap, the Line, and the Bridge: What the Ramayan Teaches AI Builders](https://medium.com/@info_88364/the-leap-the-line-and-the-bridge-what-the-ramayan-teaches-ai-builders-d684584c1f9a?source=rss------data_science-5)
+- [15 Rare &amp; Unique Jobs Focusing on Creative Writing Skills](https://medium.com/@kelmorgan/15-rare-unique-jobs-focusing-on-creative-writing-skills-ef8f214e157c?source=rss------data_science-5)
+- [Building Trustworthy AI Conversations: Navigating Near-Human Presence and User Perception](https://medium.com/@curiousmind1786/building-trustworthy-ai-conversations-navigating-near-human-presence-and-user-perception-23909be468fa?source=rss------data_science-5)
+- [Why Relationships Matter More Than Data](https://medium.com/@pabloalbarran/why-relationships-matter-more-than-data-41c082b68e2f?source=rss------data_science-5)
+- [I Turned My Data Storytelling Problem Into a Reusable Project System](https://medium.com/@allenrodger/i-turned-my-data-storytelling-problem-into-a-reusable-project-system-8fd247c08b25?source=rss------data_science-5)
+- [The Comfortable Path or the Informed Path?](https://medium.com/@BondStats/the-comfortable-path-or-the-informed-path-386f7079b4d4?source=rss------data_science-5)
+- [100% Recall, 38.5% Precision: What Happened When My AI Auditor Audited Itself](https://pub.towardsai.net/100-recall-38-5-precision-what-happened-when-my-ai-auditor-audited-itself-d000c7e8f626?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
