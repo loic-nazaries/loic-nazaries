@@ -105,16 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [US Cannabis Recall Data: Now In the Public Domain](https://medium.com/cannabis-explorations/us-cannabis-recall-data-now-in-the-public-domain-a59068a1e2a6?source=rss------data_science-5)
-- [AI-Driven Segmentation Discovery: Finding Audiences You Didn’t Know to Look For](https://medium.com/@atticusli/ai-driven-segmentation-discovery-finding-audiences-you-didnt-know-to-look-for-7eb673789698?source=rss------data_science-5)
-- [Your AI model just scored 100% accuracy on a complex reasoning test.](https://medium.com/@forgesynapseltd/your-ai-model-just-scored-100-accuracy-on-a-complex-reasoning-test-485f025815ae?source=rss------data_science-5)
-- [The Leap, the Line, and the Bridge: What the Ramayan Teaches AI Builders](https://medium.com/@info_88364/the-leap-the-line-and-the-bridge-what-the-ramayan-teaches-ai-builders-d684584c1f9a?source=rss------data_science-5)
-- [15 Rare &amp; Unique Jobs Focusing on Creative Writing Skills](https://medium.com/@kelmorgan/15-rare-unique-jobs-focusing-on-creative-writing-skills-ef8f214e157c?source=rss------data_science-5)
-- [Building Trustworthy AI Conversations: Navigating Near-Human Presence and User Perception](https://medium.com/@curiousmind1786/building-trustworthy-ai-conversations-navigating-near-human-presence-and-user-perception-23909be468fa?source=rss------data_science-5)
-- [Why Relationships Matter More Than Data](https://medium.com/@pabloalbarran/why-relationships-matter-more-than-data-41c082b68e2f?source=rss------data_science-5)
-- [I Turned My Data Storytelling Problem Into a Reusable Project System](https://medium.com/@allenrodger/i-turned-my-data-storytelling-problem-into-a-reusable-project-system-8fd247c08b25?source=rss------data_science-5)
-- [The Comfortable Path or the Informed Path?](https://medium.com/@BondStats/the-comfortable-path-or-the-informed-path-386f7079b4d4?source=rss------data_science-5)
-- [100% Recall, 38.5% Precision: What Happened When My AI Auditor Audited Itself](https://pub.towardsai.net/100-recall-38-5-precision-what-happened-when-my-ai-auditor-audited-itself-d000c7e8f626?source=rss------data_science-5)
+- [How Do You Know an AI Answer Is Good Enough to Act On?](https://medium.com/@carey.chou/how-do-you-know-an-ai-answer-is-good-enough-to-act-on-a768f8fc10ee?source=rss------data_science-5)
+- [Top 30 Loop Engineering vs. Graph Engineering Interview Questions and Answers](https://skphd.medium.com/top-30-loop-engineering-vs-graph-engineering-interview-questions-and-answers-a46eec11e865?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-85cece761e57?source=rss------data_science-5)
+- [Scam Finder: A Telegram Bot Fighting Online Fraud on Telegram and Instagram](https://medium.com/@mohammaddream.life/scam-finder-a-telegram-bot-fighting-online-fraud-on-telegram-and-instagram-79d75aa8a7fa?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4cd8becef431?source=rss------data_science-5)
+- [Navigating AI’s Unpredictable Terrain: A Pragmatic Lens on Forecasting and Risk](https://medium.com/@curiousmind1786/navigating-ais-unpredictable-terrain-a-pragmatic-lens-on-forecasting-and-risk-4e158e012e26?source=rss------data_science-5)
+- [Klinik Verilerden Kalp Hastalığı Riskini Tahmin Etmek: Uçtan Uca Bir Makine Öğrenmesi Pipeline…](https://medium.com/@berkkilincer/klinik-verilerden-kalp-hastal%C4%B1%C4%9F%C4%B1-riskini-tahmin-etmek-u%C3%A7tan-uca-bir-makine-%C3%B6%C4%9Frenmesi-pipeline-9e6e7c108c50?source=rss------data_science-5)
+- [I Benchmarked 5 PDF-to-Word Engines on 14 Documents. The Winner Ships Broken Words.](https://medium.com/@edydaherz/i-benchmarked-5-pdf-to-word-engines-on-14-documents-the-winner-ships-broken-words-c3b92beeab67?source=rss------data_science-5)
+- [AI Engineer Interview Questions — Part 4: What Happens Inside an LLM Before You See the First Token?](https://medium.com/@geekycodes/ai-engineer-interview-questions-part-4-what-happens-inside-an-llm-before-you-see-the-first-token-93b4d6a1058d?source=rss------data_science-5)
+- [Closed Source, Open Source Or Open Weights, Which Is Winning The AI Race?](https://pub.towardsai.net/closed-source-open-source-or-open-weights-which-is-winning-the-ai-race-e1ea72a6fbf3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
