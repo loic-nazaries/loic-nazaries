@@ -105,18 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How Do You Know an AI Answer Is Good Enough to Act On?](https://medium.com/@carey.chou/how-do-you-know-an-ai-answer-is-good-enough-to-act-on-a768f8fc10ee?source=rss------data_science-5)
-- [Top 30 Loop Engineering vs. Graph Engineering Interview Questions and Answers](https://skphd.medium.com/top-30-loop-engineering-vs-graph-engineering-interview-questions-and-answers-a46eec11e865?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-85cece761e57?source=rss------data_science-5)
-- [Scam Finder: A Telegram Bot Fighting Online Fraud on Telegram and Instagram](https://medium.com/@mohammaddream.life/scam-finder-a-telegram-bot-fighting-online-fraud-on-telegram-and-instagram-79d75aa8a7fa?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4cd8becef431?source=rss------data_science-5)
-- [Navigating AI’s Unpredictable Terrain: A Pragmatic Lens on Forecasting and Risk](https://medium.com/@curiousmind1786/navigating-ais-unpredictable-terrain-a-pragmatic-lens-on-forecasting-and-risk-4e158e012e26?source=rss------data_science-5)
-- [Klinik Verilerden Kalp Hastalığı Riskini Tahmin Etmek: Uçtan Uca Bir Makine Öğrenmesi Pipeline…](https://medium.com/@berkkilincer/klinik-verilerden-kalp-hastal%C4%B1%C4%9F%C4%B1-riskini-tahmin-etmek-u%C3%A7tan-uca-bir-makine-%C3%B6%C4%9Frenmesi-pipeline-9e6e7c108c50?source=rss------data_science-5)
-- [I Benchmarked 5 PDF-to-Word Engines on 14 Documents. The Winner Ships Broken Words.](https://medium.com/@edydaherz/i-benchmarked-5-pdf-to-word-engines-on-14-documents-the-winner-ships-broken-words-c3b92beeab67?source=rss------data_science-5)
-- [AI Engineer Interview Questions — Part 4: What Happens Inside an LLM Before You See the First Token?](https://medium.com/@geekycodes/ai-engineer-interview-questions-part-4-what-happens-inside-an-llm-before-you-see-the-first-token-93b4d6a1058d?source=rss------data_science-5)
-- [Closed Source, Open Source Or Open Weights, Which Is Winning The AI Race?](https://pub.towardsai.net/closed-source-open-source-or-open-weights-which-is-winning-the-ai-race-e1ea72a6fbf3?source=rss------data_science-5)
+- [Architect’s Guide to GraphRAG: From Decoupled Stacks to Multi-Model Engines](https://medium.com/@meghasaini/architects-guide-to-graphrag-from-decoupled-stacks-to-multi-model-engines-a2b00d47e2c6?source=rss------data_science-5)
+- [Networking, But Make It Introvert-Friendly](https://medium.com/@jenrhill/networking-but-make-it-introvert-friendly-5ff71247d3c7?source=rss------data_science-5)
+- [How to Implement a Stack in Python](https://medium.com/@myron_yearwood/how-to-implement-a-stack-in-python-2345349a9ebb?source=rss------data_science-5)
+- [Why Many AI Endeavors Falter and How to Forge Products People Keep Using](https://medium.com/@curiousmind1786/why-many-ai-endeavors-falter-and-how-to-forge-products-people-keep-using-ac710505ac0d?source=rss------data_science-5)
+- [No local hallucination detector wins everywhere. I measured where each one does.](https://medium.com/@shiddarthsriv/no-local-hallucination-detector-wins-everywhere-i-measured-where-each-one-does-c2e8034fcfd4?source=rss------data_science-5)
+- [Why Your AI Agent’s Audit Trail Is an Illusion &lpar;And How to Fix It&rpar;](https://suign.medium.com/why-your-ai-agents-audit-trail-is-an-illusion-and-how-to-fix-it-fabac0b6991b?source=rss------data_science-5)
+- [A Functional Technology: The Geometric Coherence Key](https://medium.com/@galindokristine/a-functional-technology-the-geometric-coherence-key-f554031ca153?source=rss------data_science-5)
+- [The One Dataset Powering the AI Revolution &lpar;And You’ve Probably Never Heard of It&rpar;](https://medium.com/@wijerathnawdis/the-one-dataset-powering-the-ai-revolution-and-youve-probably-never-heard-of-it-fbb5aba4a306?source=rss------data_science-5)
+- [Dr. Lee’s Research: Slime Mold Can Get Bored. Your AI Agent Can’t.](https://ernestodotnet.medium.com/dr-lees-research-slime-mold-can-get-bored-your-ai-agent-can-t-e07968bcbdb1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
