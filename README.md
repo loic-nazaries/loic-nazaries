@@ -105,15 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Architect’s Guide to GraphRAG: From Decoupled Stacks to Multi-Model Engines](https://medium.com/@meghasaini/architects-guide-to-graphrag-from-decoupled-stacks-to-multi-model-engines-a2b00d47e2c6?source=rss------data_science-5)
-- [Networking, But Make It Introvert-Friendly](https://medium.com/@jenrhill/networking-but-make-it-introvert-friendly-5ff71247d3c7?source=rss------data_science-5)
-- [How to Implement a Stack in Python](https://medium.com/@myron_yearwood/how-to-implement-a-stack-in-python-2345349a9ebb?source=rss------data_science-5)
-- [Why Many AI Endeavors Falter and How to Forge Products People Keep Using](https://medium.com/@curiousmind1786/why-many-ai-endeavors-falter-and-how-to-forge-products-people-keep-using-ac710505ac0d?source=rss------data_science-5)
-- [No local hallucination detector wins everywhere. I measured where each one does.](https://medium.com/@shiddarthsriv/no-local-hallucination-detector-wins-everywhere-i-measured-where-each-one-does-c2e8034fcfd4?source=rss------data_science-5)
-- [Why Your AI Agent’s Audit Trail Is an Illusion &lpar;And How to Fix It&rpar;](https://suign.medium.com/why-your-ai-agents-audit-trail-is-an-illusion-and-how-to-fix-it-fabac0b6991b?source=rss------data_science-5)
-- [A Functional Technology: The Geometric Coherence Key](https://medium.com/@galindokristine/a-functional-technology-the-geometric-coherence-key-f554031ca153?source=rss------data_science-5)
-- [The One Dataset Powering the AI Revolution &lpar;And You’ve Probably Never Heard of It&rpar;](https://medium.com/@wijerathnawdis/the-one-dataset-powering-the-ai-revolution-and-youve-probably-never-heard-of-it-fbb5aba4a306?source=rss------data_science-5)
-- [Dr. Lee’s Research: Slime Mold Can Get Bored. Your AI Agent Can’t.](https://ernestodotnet.medium.com/dr-lees-research-slime-mold-can-get-bored-your-ai-agent-can-t-e07968bcbdb1?source=rss------data_science-5)
+- [AI Post 17: The Data Problem: Why Quality Starts With Data &lpar;AI Engineering Basics Series&rpar;](https://medium.com/@sattidata/ai-post-17-the-data-problem-why-quality-starts-with-data-ai-engineering-basics-series-2aa75cdb6c1e?source=rss------data_science-5)
+- [It’s not the model, it’s your data](https://medium.com/@serguei_81395/its-not-the-model-it-s-your-data-bf8bdbf34462?source=rss------data_science-5)
+- [Pandas in Production: Lessons Learned Debugging OOM Kills](https://medium.com/@ilkinyarikkaya/pandas-in-production-lessons-learned-debugging-oom-kills-b8448ed3f6df?source=rss------data_science-5)
+- [Predictive Test Duration: How AI Knows When Your Experiment Has Enough Data](https://medium.com/@atticusli/predictive-test-duration-how-ai-knows-when-your-experiment-has-enough-data-052b143082c3?source=rss------data_science-5)
+- [Weak governance does not create a vacuum. It creates warlords.](https://medium.com/@krupesh.desai/weak-governance-does-not-create-a-vacuum-it-creates-warlords-612201b3eeea?source=rss------data_science-5)
+- [Give the Boring Work to AI. Keep the Work That Thrills You.](https://medium.com/@luxdolorosa/give-the-boring-work-to-ai-keep-the-work-that-thrills-you-5f6951b90db4?source=rss------data_science-5)
+- [The Alternative Mathematical Logic Behind Every Novel That Has Strange and Consistent Order](https://medium.com/@aditrizky052/the-alternative-mathematical-logic-behind-every-novel-that-has-strange-and-consistent-order-63ef76e2db0f?source=rss------data_science-5)
+- [AI Adoption Pulse: Shaping Work and Risk Through Smarter Human-Machine Interaction](https://medium.com/@curiousmind1786/ai-adoption-pulse-shaping-work-and-risk-through-smarter-human-machine-interaction-3dcae3b129f7?source=rss------data_science-5)
+- [Building a SQL Engine from scratch on a team of undergraduates](https://medium.com/@rileyleong24/building-a-sql-engine-from-scratch-on-a-team-of-undergraduates-23fb8d4a2bc6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
