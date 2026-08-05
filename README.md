@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [AI Post 17: The Data Problem: Why Quality Starts With Data &lpar;AI Engineering Basics Series&rpar;](https://medium.com/@sattidata/ai-post-17-the-data-problem-why-quality-starts-with-data-ai-engineering-basics-series-2aa75cdb6c1e?source=rss------data_science-5)
-- [It’s not the model, it’s your data](https://medium.com/@serguei_81395/its-not-the-model-it-s-your-data-bf8bdbf34462?source=rss------data_science-5)
-- [Pandas in Production: Lessons Learned Debugging OOM Kills](https://medium.com/@ilkinyarikkaya/pandas-in-production-lessons-learned-debugging-oom-kills-b8448ed3f6df?source=rss------data_science-5)
-- [Predictive Test Duration: How AI Knows When Your Experiment Has Enough Data](https://medium.com/@atticusli/predictive-test-duration-how-ai-knows-when-your-experiment-has-enough-data-052b143082c3?source=rss------data_science-5)
-- [Weak governance does not create a vacuum. It creates warlords.](https://medium.com/@krupesh.desai/weak-governance-does-not-create-a-vacuum-it-creates-warlords-612201b3eeea?source=rss------data_science-5)
-- [Give the Boring Work to AI. Keep the Work That Thrills You.](https://medium.com/@luxdolorosa/give-the-boring-work-to-ai-keep-the-work-that-thrills-you-5f6951b90db4?source=rss------data_science-5)
-- [The Alternative Mathematical Logic Behind Every Novel That Has Strange and Consistent Order](https://medium.com/@aditrizky052/the-alternative-mathematical-logic-behind-every-novel-that-has-strange-and-consistent-order-63ef76e2db0f?source=rss------data_science-5)
-- [AI Adoption Pulse: Shaping Work and Risk Through Smarter Human-Machine Interaction](https://medium.com/@curiousmind1786/ai-adoption-pulse-shaping-work-and-risk-through-smarter-human-machine-interaction-3dcae3b129f7?source=rss------data_science-5)
-- [Building a SQL Engine from scratch on a team of undergraduates](https://medium.com/@rileyleong24/building-a-sql-engine-from-scratch-on-a-team-of-undergraduates-23fb8d4a2bc6?source=rss------data_science-5)
+- [Power BI Reports Are Turning Into Code. I Don’t Think Your Team Is Ready for the One-Way Door.](https://pub.towardsai.net/power-bi-reports-are-turning-into-code-i-dont-think-your-team-is-ready-for-the-one-way-door-31d70f897185?source=rss------data_science-5)
+- [The Morosoph’s Evil Crucible](https://medium.com/@jdb012357/the-morosophs-evil-crucible-bab4e999c718?source=rss------data_science-5)
+- [I Built 20 Python Projects These Are the Only Ones I’d Build Again](https://python.plainenglish.io/i-built-20-python-projects-these-are-the-only-ones-id-build-again-e54382b26737?source=rss------data_science-5)
+- [Building BondStats AI – More Than Just Another Finance Chatbot](https://medium.com/@BondStats/building-bondstats-ai-more-than-just-another-finance-chatbot-8fc3a38e58ed?source=rss------data_science-5)
+- [Decision Clarity Is the Design Skill Nobody Taught You](https://medium.com/design-bootcamp/decision-clarity-is-the-design-skill-nobody-taught-you-64b55a143684?source=rss------data_science-5)
+- [Generative AI and Agentic AI: Decoding the Mechanics Behind Simulated Human Behavior](https://medium.com/@curiousmind1786/generative-ai-and-agentic-ai-decoding-the-mechanics-behind-simulated-human-behavior-3119fe4a32c4?source=rss------data_science-5)
+- [Retium: The Layer-1 Built on Math and Logic
+1.](https://medium.com/@javad.dayyan/retium-the-layer-1-built-on-math-and-logic-1-f0472f69b276?source=rss------data_science-5)
+- [Inteligência de trade e visão de mídia no cash &amp; carry](https://medium.com/@rafaelgrou_67913/do-sell-out-agregado-ao-modelo-de-contribui%C3%A7%C3%A3o-marginal-0b6c99ace726?source=rss------data_science-5)
+- [How to Change Your Career to Data Science: A Practical Step-by-Step Guide](https://medium.com/@marketing_30607/how-to-change-your-career-to-data-science-a-practical-step-by-step-guide-b598ad0f350b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
