@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Power BI Reports Are Turning Into Code. I Don’t Think Your Team Is Ready for the One-Way Door.](https://pub.towardsai.net/power-bi-reports-are-turning-into-code-i-dont-think-your-team-is-ready-for-the-one-way-door-31d70f897185?source=rss------data_science-5)
-- [The Morosoph’s Evil Crucible](https://medium.com/@jdb012357/the-morosophs-evil-crucible-bab4e999c718?source=rss------data_science-5)
-- [I Built 20 Python Projects These Are the Only Ones I’d Build Again](https://python.plainenglish.io/i-built-20-python-projects-these-are-the-only-ones-id-build-again-e54382b26737?source=rss------data_science-5)
-- [Building BondStats AI – More Than Just Another Finance Chatbot](https://medium.com/@BondStats/building-bondstats-ai-more-than-just-another-finance-chatbot-8fc3a38e58ed?source=rss------data_science-5)
-- [Decision Clarity Is the Design Skill Nobody Taught You](https://medium.com/design-bootcamp/decision-clarity-is-the-design-skill-nobody-taught-you-64b55a143684?source=rss------data_science-5)
-- [Generative AI and Agentic AI: Decoding the Mechanics Behind Simulated Human Behavior](https://medium.com/@curiousmind1786/generative-ai-and-agentic-ai-decoding-the-mechanics-behind-simulated-human-behavior-3119fe4a32c4?source=rss------data_science-5)
-- [Retium: The Layer-1 Built on Math and Logic
-1.](https://medium.com/@javad.dayyan/retium-the-layer-1-built-on-math-and-logic-1-f0472f69b276?source=rss------data_science-5)
-- [Inteligência de trade e visão de mídia no cash &amp; carry](https://medium.com/@rafaelgrou_67913/do-sell-out-agregado-ao-modelo-de-contribui%C3%A7%C3%A3o-marginal-0b6c99ace726?source=rss------data_science-5)
-- [How to Change Your Career to Data Science: A Practical Step-by-Step Guide](https://medium.com/@marketing_30607/how-to-change-your-career-to-data-science-a-practical-step-by-step-guide-b598ad0f350b?source=rss------data_science-5)
+- [Why my AI runs on solar in Nelson, New Zealand.](https://medium.com/@krupesh.desai/why-my-ai-runs-on-solar-in-nelson-new-zealand-96375481e942?source=rss------data_science-5)
+- [“We Have the Data” — The Three Most Dangerous Words in Enterprise AI](https://pvdssatya.medium.com/we-have-the-data-the-three-most-dangerous-words-in-enterprise-ai-204c6bc78dd9?source=rss------data_science-5)
+- [10 Mistakes I Made Learning Machine Learning &lpar;So You Don’t Have To&rpar;](https://medium.com/@anuskapalit2004/10-mistakes-i-made-learning-machine-learning-so-you-dont-have-to-c9feab6cafb9?source=rss------data_science-5)
+- [Self Improving Claude Code Sessions](https://medium.com/vibe-coding/self-improving-claude-code-sessions-3823b5b72477?source=rss------data_science-5)
+- [Why Graphs, and Why Now: An Introduction to AstraeaDB](https://medium.com/@jimeharrisjr/why-graphs-and-why-now-an-introduction-to-astraeadb-88bc6616b51d?source=rss------data_science-5)
+- [7 Modern Python Libraries Shaking Up AI Development in 2026](https://python.plainenglish.io/7-modern-python-libraries-shaking-up-ai-development-in-2026-e974ada47896?source=rss------data_science-5)
+- [Top 20 Linear Regression Interview Questions and Answers](https://kawsar34.medium.com/top-20-linear-regression-interview-questions-and-answers-1217982b9bd1?source=rss------data_science-5)
+- [Somebody Made $700,000 a Minute This Summer &lpar;And We’re Still Arguing About Windmills&rpar;](https://medium.com/southern-winds/somebody-made-700-000-a-minute-this-summer-and-were-still-arguing-about-windmills-fa797342a6ef?source=rss------data_science-5)
+- [Disable Model Invocation in Claude Agents Guide](https://medium.com/@muneebtariq.1214/disable-model-invocation-in-claude-agents-guide-9c2e97391e8f?source=rss------data_science-5)
+- [Context Layer in AI: Explained Simply](https://medium.com/@muneebtariq.1214/context-layer-in-ai-explained-simply-b47f75792efc?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
