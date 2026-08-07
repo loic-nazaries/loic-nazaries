@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why my AI runs on solar in Nelson, New Zealand.](https://medium.com/@krupesh.desai/why-my-ai-runs-on-solar-in-nelson-new-zealand-96375481e942?source=rss------data_science-5)
-- [“We Have the Data” — The Three Most Dangerous Words in Enterprise AI](https://pvdssatya.medium.com/we-have-the-data-the-three-most-dangerous-words-in-enterprise-ai-204c6bc78dd9?source=rss------data_science-5)
-- [10 Mistakes I Made Learning Machine Learning &lpar;So You Don’t Have To&rpar;](https://medium.com/@anuskapalit2004/10-mistakes-i-made-learning-machine-learning-so-you-dont-have-to-c9feab6cafb9?source=rss------data_science-5)
-- [Self Improving Claude Code Sessions](https://medium.com/vibe-coding/self-improving-claude-code-sessions-3823b5b72477?source=rss------data_science-5)
-- [Why Graphs, and Why Now: An Introduction to AstraeaDB](https://medium.com/@jimeharrisjr/why-graphs-and-why-now-an-introduction-to-astraeadb-88bc6616b51d?source=rss------data_science-5)
-- [7 Modern Python Libraries Shaking Up AI Development in 2026](https://python.plainenglish.io/7-modern-python-libraries-shaking-up-ai-development-in-2026-e974ada47896?source=rss------data_science-5)
-- [Top 20 Linear Regression Interview Questions and Answers](https://kawsar34.medium.com/top-20-linear-regression-interview-questions-and-answers-1217982b9bd1?source=rss------data_science-5)
-- [Somebody Made $700,000 a Minute This Summer &lpar;And We’re Still Arguing About Windmills&rpar;](https://medium.com/southern-winds/somebody-made-700-000-a-minute-this-summer-and-were-still-arguing-about-windmills-fa797342a6ef?source=rss------data_science-5)
-- [Disable Model Invocation in Claude Agents Guide](https://medium.com/@muneebtariq.1214/disable-model-invocation-in-claude-agents-guide-9c2e97391e8f?source=rss------data_science-5)
-- [Context Layer in AI: Explained Simply](https://medium.com/@muneebtariq.1214/context-layer-in-ai-explained-simply-b47f75792efc?source=rss------data_science-5)
+- [No More Manual HTTP Requests! Get Started with Apache DolphinScheduler CLI dsctl in Two Minutes](https://blog.devgenius.io/no-more-manual-http-requests-get-started-with-apache-dolphinscheduler-cli-dsctl-in-two-minutes-fc97d8bf4617?source=rss------data_science-5)
+- [10 Data Engineering Techniques for Optimizing Serialization Formats for Faster Analytics Workloads](https://medium.com/@Rohan_Dutt/10-data-engineering-techniques-for-optimizing-serialization-formats-for-faster-analytics-workloads-1571bd7d9d9a?source=rss------data_science-5)
+- [Random Forests: Why a Crowd of Ordinary Decision Trees Beats One Brilliant One](https://medium.com/@ashvith.gurram/random-forests-why-a-crowd-of-ordinary-decision-trees-beats-one-brilliant-one-1a376d0fe3b8?source=rss------data_science-5)
+- [Best Python Libraries in 2026: 7 Tools That Stand Out](https://levelup.gitconnected.com/best-python-libraries-in-2026-7-tools-that-stand-out-6dfe14b79ed7?source=rss------data_science-5)
+- [My Favorite ChatGPT Prompts After 500 Hours of Use](https://levelup.gitconnected.com/my-favorite-chatgpt-prompts-after-500-hours-of-use-dfbf27492186?source=rss------data_science-5)
+- [The EU AI Act: Global Impact &amp; Compliance Guide](https://medium.com/@theworldsagainstme/the-eu-ai-act-global-impact-compliance-guide-2b30438b9b91?source=rss------data_science-5)
+- [Email Marketing vs. Telemarketing in B2B: A Data-Driven Comparison](https://medium.com/@callcentro/email-marketing-vs-telemarketing-in-b2b-a-data-driven-comparison-7640cbefa441?source=rss------data_science-5)
+- [Learn to Read Queries Backwards](https://theanilbatra.medium.com/learn-to-read-queries-backwards-5f8163e1e4a3?source=rss------data_science-5)
+- [Top LLM Observability Platforms in 2026](https://medium.com/data-science-collective/top-llm-observability-platforms-in-2026-2c1c37619766?source=rss------data_science-5)
+- [Elon Musk Wants to Put AI Data Centers in Space. The Crazy Part Is That It Might Actually Work.](https://medium.com/@FutureStack/elon-musk-wants-to-put-ai-data-centers-in-space-the-crazy-part-is-that-it-might-actually-work-68b33a0cd72c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
