@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [No More Manual HTTP Requests! Get Started with Apache DolphinScheduler CLI dsctl in Two Minutes](https://blog.devgenius.io/no-more-manual-http-requests-get-started-with-apache-dolphinscheduler-cli-dsctl-in-two-minutes-fc97d8bf4617?source=rss------data_science-5)
-- [10 Data Engineering Techniques for Optimizing Serialization Formats for Faster Analytics Workloads](https://medium.com/@Rohan_Dutt/10-data-engineering-techniques-for-optimizing-serialization-formats-for-faster-analytics-workloads-1571bd7d9d9a?source=rss------data_science-5)
-- [Random Forests: Why a Crowd of Ordinary Decision Trees Beats One Brilliant One](https://medium.com/@ashvith.gurram/random-forests-why-a-crowd-of-ordinary-decision-trees-beats-one-brilliant-one-1a376d0fe3b8?source=rss------data_science-5)
-- [Best Python Libraries in 2026: 7 Tools That Stand Out](https://levelup.gitconnected.com/best-python-libraries-in-2026-7-tools-that-stand-out-6dfe14b79ed7?source=rss------data_science-5)
-- [My Favorite ChatGPT Prompts After 500 Hours of Use](https://levelup.gitconnected.com/my-favorite-chatgpt-prompts-after-500-hours-of-use-dfbf27492186?source=rss------data_science-5)
-- [The EU AI Act: Global Impact &amp; Compliance Guide](https://medium.com/@theworldsagainstme/the-eu-ai-act-global-impact-compliance-guide-2b30438b9b91?source=rss------data_science-5)
-- [Email Marketing vs. Telemarketing in B2B: A Data-Driven Comparison](https://medium.com/@callcentro/email-marketing-vs-telemarketing-in-b2b-a-data-driven-comparison-7640cbefa441?source=rss------data_science-5)
-- [Learn to Read Queries Backwards](https://theanilbatra.medium.com/learn-to-read-queries-backwards-5f8163e1e4a3?source=rss------data_science-5)
-- [Top LLM Observability Platforms in 2026](https://medium.com/data-science-collective/top-llm-observability-platforms-in-2026-2c1c37619766?source=rss------data_science-5)
-- [Elon Musk Wants to Put AI Data Centers in Space. The Crazy Part Is That It Might Actually Work.](https://medium.com/@FutureStack/elon-musk-wants-to-put-ai-data-centers-in-space-the-crazy-part-is-that-it-might-actually-work-68b33a0cd72c?source=rss------data_science-5)
+- [4D Conformal Field Theory, 5D Gravity, and Stringy Corrections in Extreme Fields](https://medium.com/@aditrizky052/4d-conformal-field-theory-5d-gravity-and-stringy-corrections-in-extreme-fields-0b50df20ae46?source=rss------data_science-5)
+- [How to Find Small Local Influencers](https://medium.com/@fanboyscares/how-to-find-small-local-influencers-bc2250fdbdaf?source=rss------data_science-5)
+- [The Content Credential That Didn’t Survive the Upload](https://medium.com/@craig_72820/the-content-credential-that-didnt-survive-the-upload-73ec28e3d906?source=rss------data_science-5)
+- [Yanlış Pencereden Doğru Rotaya: Huawei Cloud’da Bir Kaşifin Öğrenme Yolculuğu](https://medium.com/@talhaugurlu930/yanl%C4%B1%C5%9F-pencereden-do%C4%9Fru-rotaya-huawei-cloudda-bir-ka%C5%9Fifin-%C3%B6%C4%9Frenme-yolculu%C4%9Fu-f7ed66680baf?source=rss------data_science-5)
+- [Yapay Zeka ile Altın Piyasasını Tahmin Etmek: Regresyon ve Sınıflandırma Modelleriyle Uçtan Uca Bir…](https://medium.com/@tayozlem92/yapay-zeka-ile-alt%C4%B1n-piyasas%C4%B1n%C4%B1-tahmin-etmek-regresyon-ve-s%C4%B1n%C4%B1fland%C4%B1rma-modelleriyle-u%C3%A7tan-uca-bir-ec56e13f26a4?source=rss------data_science-5)
+- [Why Governance Shapes Trust in AI’s Next Chapter?](https://medium.com/@curiousmind1786/why-governance-shapes-trust-in-ais-next-chapter-8b9a1816fc38?source=rss------data_science-5)
+- [Before Ranking Level 2 Safety, Check the Missing Attention Clock](https://medium.com/kairi-ai/before-ranking-level-2-safety-check-the-missing-attention-clock-5ff134e35a4b?source=rss------data_science-5)
+- [Is De-Googling Actually a Waste of Time?](https://osintteam.blog/is-de-googling-actually-a-waste-of-time-26887832f6e5?source=rss------data_science-5)
+- [Remarkable Anomalies in the Fifth Tranche of UAP Data from the U.S. Government](https://avi-loeb.medium.com/remarkable-anomalies-in-the-fifth-tranche-of-uap-data-from-the-u-s-government-7ac6cac4941b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
