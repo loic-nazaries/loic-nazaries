@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [4D Conformal Field Theory, 5D Gravity, and Stringy Corrections in Extreme Fields](https://medium.com/@aditrizky052/4d-conformal-field-theory-5d-gravity-and-stringy-corrections-in-extreme-fields-0b50df20ae46?source=rss------data_science-5)
-- [How to Find Small Local Influencers](https://medium.com/@fanboyscares/how-to-find-small-local-influencers-bc2250fdbdaf?source=rss------data_science-5)
-- [The Content Credential That Didn’t Survive the Upload](https://medium.com/@craig_72820/the-content-credential-that-didnt-survive-the-upload-73ec28e3d906?source=rss------data_science-5)
-- [Yanlış Pencereden Doğru Rotaya: Huawei Cloud’da Bir Kaşifin Öğrenme Yolculuğu](https://medium.com/@talhaugurlu930/yanl%C4%B1%C5%9F-pencereden-do%C4%9Fru-rotaya-huawei-cloudda-bir-ka%C5%9Fifin-%C3%B6%C4%9Frenme-yolculu%C4%9Fu-f7ed66680baf?source=rss------data_science-5)
-- [Yapay Zeka ile Altın Piyasasını Tahmin Etmek: Regresyon ve Sınıflandırma Modelleriyle Uçtan Uca Bir…](https://medium.com/@tayozlem92/yapay-zeka-ile-alt%C4%B1n-piyasas%C4%B1n%C4%B1-tahmin-etmek-regresyon-ve-s%C4%B1n%C4%B1fland%C4%B1rma-modelleriyle-u%C3%A7tan-uca-bir-ec56e13f26a4?source=rss------data_science-5)
-- [Why Governance Shapes Trust in AI’s Next Chapter?](https://medium.com/@curiousmind1786/why-governance-shapes-trust-in-ais-next-chapter-8b9a1816fc38?source=rss------data_science-5)
-- [Before Ranking Level 2 Safety, Check the Missing Attention Clock](https://medium.com/kairi-ai/before-ranking-level-2-safety-check-the-missing-attention-clock-5ff134e35a4b?source=rss------data_science-5)
-- [Is De-Googling Actually a Waste of Time?](https://osintteam.blog/is-de-googling-actually-a-waste-of-time-26887832f6e5?source=rss------data_science-5)
-- [Remarkable Anomalies in the Fifth Tranche of UAP Data from the U.S. Government](https://avi-loeb.medium.com/remarkable-anomalies-in-the-fifth-tranche-of-uap-data-from-the-u-s-government-7ac6cac4941b?source=rss------data_science-5)
+- [Complete RAG Engineering Series &lpar;Part 2&rpar;: Data Ingestion Pipeline for Enterprise RAG Systems](https://medium.com/@er.rajkumaar/complete-rag-engineering-series-part-2-data-ingestion-pipeline-for-enterprise-rag-systems-771b701b6010?source=rss------data_science-5)
+- [Why Your Cash Forecast Breaks When Customers Pay in Installments](https://medium.com/@idiagbonmwenosaretin/why-your-cash-forecast-breaks-when-customers-pay-in-installments-7943ec4bd58f?source=rss------data_science-5)
+- [Hasil Uji Coba: Real Madrid Menang 2–1 atas Ferencvaros, Dua Pemain Cetak Gol Debut](https://medium.com/@casab64235/hasil-uji-coba-real-madrid-menang-2-1-atas-ferencvaros-dua-pemain-cetak-gol-debut-a970c39e446f?source=rss------data_science-5)
+- [Seni Menangani Data yang Hilang &lpar;Missing Values&rpar;: Tantangan dan Solusinya](https://medium.com/@ikapsptdw/seni-menangani-data-yang-hilang-missing-values-tantangan-dan-solusinya-1adb10c6b5e6?source=rss------data_science-5)
+- [The Ultimate SQL Cheat Sheet for Handling Missing and Duplicate Data](https://digitalbykewat.medium.com/the-ultimate-sql-cheat-sheet-for-handling-missing-and-duplicate-data-8838407bf938?source=rss------data_science-5)
+- [AI Ethics Isn’t About Machines — It’s About Us](https://ai.plainenglish.io/ai-ethics-isnt-about-machines-it-s-about-us-221d4bebfb52?source=rss------data_science-5)
+- [5 Common REDCap Branching Logic Mistakes &lpar;And How to Fix Them&rpar;](https://nelsonwise190.medium.com/5-common-redcap-branching-logic-mistakes-and-how-to-fix-them-542d6241614d?source=rss------data_science-5)
+- [What is “@dataclass” in Python?](https://harshitdawar.medium.com/what-is-dataclass-in-python-dae921382e20?source=rss------data_science-5)
+- [Why Rethinking AI’s Problem Landscape Unlocks Smarter Roadmaps?](https://medium.com/@curiousmind1786/why-rethinking-ais-problem-landscape-unlocks-smarter-roadmaps-69920da486bf?source=rss------data_science-5)
+- [The AI Employee Is Already Here](https://medium.com/@fatimafity48/the-ai-employee-is-already-here-2e395b950c7e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
