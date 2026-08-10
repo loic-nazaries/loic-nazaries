@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Complete RAG Engineering Series &lpar;Part 2&rpar;: Data Ingestion Pipeline for Enterprise RAG Systems](https://medium.com/@er.rajkumaar/complete-rag-engineering-series-part-2-data-ingestion-pipeline-for-enterprise-rag-systems-771b701b6010?source=rss------data_science-5)
-- [Why Your Cash Forecast Breaks When Customers Pay in Installments](https://medium.com/@idiagbonmwenosaretin/why-your-cash-forecast-breaks-when-customers-pay-in-installments-7943ec4bd58f?source=rss------data_science-5)
-- [Hasil Uji Coba: Real Madrid Menang 2–1 atas Ferencvaros, Dua Pemain Cetak Gol Debut](https://medium.com/@casab64235/hasil-uji-coba-real-madrid-menang-2-1-atas-ferencvaros-dua-pemain-cetak-gol-debut-a970c39e446f?source=rss------data_science-5)
-- [Seni Menangani Data yang Hilang &lpar;Missing Values&rpar;: Tantangan dan Solusinya](https://medium.com/@ikapsptdw/seni-menangani-data-yang-hilang-missing-values-tantangan-dan-solusinya-1adb10c6b5e6?source=rss------data_science-5)
-- [The Ultimate SQL Cheat Sheet for Handling Missing and Duplicate Data](https://digitalbykewat.medium.com/the-ultimate-sql-cheat-sheet-for-handling-missing-and-duplicate-data-8838407bf938?source=rss------data_science-5)
-- [AI Ethics Isn’t About Machines — It’s About Us](https://ai.plainenglish.io/ai-ethics-isnt-about-machines-it-s-about-us-221d4bebfb52?source=rss------data_science-5)
-- [5 Common REDCap Branching Logic Mistakes &lpar;And How to Fix Them&rpar;](https://nelsonwise190.medium.com/5-common-redcap-branching-logic-mistakes-and-how-to-fix-them-542d6241614d?source=rss------data_science-5)
-- [What is “@dataclass” in Python?](https://harshitdawar.medium.com/what-is-dataclass-in-python-dae921382e20?source=rss------data_science-5)
-- [Why Rethinking AI’s Problem Landscape Unlocks Smarter Roadmaps?](https://medium.com/@curiousmind1786/why-rethinking-ais-problem-landscape-unlocks-smarter-roadmaps-69920da486bf?source=rss------data_science-5)
-- [The AI Employee Is Already Here](https://medium.com/@fatimafity48/the-ai-employee-is-already-here-2e395b950c7e?source=rss------data_science-5)
+- [Why Raster Data in SQL More Powerful Than You Think &lpar;And How to Master Them&rpar;](https://medium.com/@Rohan_Dutt/why-raster-data-in-sql-more-powerful-than-you-think-and-how-to-master-them-255f5368658b?source=rss------data_science-5)
+- [ECOINSIGHTS CORP.](https://medium.com/@tunmiseiwayemi/ecoinsights-corp-ef2b88dd57fc?source=rss------data_science-5)
+- [Why Critical Infrastructure Needs Cryptographic Authorization for the AI Era](https://blog.venturemagazine.net/why-critical-infrastructure-needs-cryptographic-authorization-for-the-ai-era-c7632322fca1?source=rss------data_science-5)
+- [DETECTION OF ENTEROINTESTITAL PARASITES IN READY TO EAT FRUITS IN ENUGU STATE NIGERIA](https://medium.com/@samueldeborah311/detection-of-enterointestital-parasites-in-ready-to-eat-fruits-in-enugu-state-nigeria-a6df1b7be2a4?source=rss------data_science-5)
+- [Time Series Demystified](https://medium.com/@princesstagoe24/time-series-demystified-33b5a0bffe6f?source=rss------data_science-5)
+- [MERIDIAN FOODS &amp; DISTRIBUTION](https://medium.com/@tunmiseiwayemi/meridian-foods-distribution-3bb0bda073e1?source=rss------data_science-5)
+- [Maybe the problem isn’t that people don’t trust science.](https://medium.com/@contact_49854/maybe-the-problem-isnt-that-people-don-t-trust-science-beb503d78dd4?source=rss------data_science-5)
+- [Ethics: “With great power comes great responsibility”, Part I](https://michiko-wolcott.medium.com/ethics-with-great-power-comes-great-responsibility-part-i-e3d8b82331f9?source=rss------data_science-5)
+- [Prioritizing Impact Over Intrigue: A Playbook for Sustainable AI Solutions](https://medium.com/@curiousmind1786/prioritizing-impact-over-intrigue-a-playbook-for-sustainable-ai-solutions-3f0c018b1e53?source=rss------data_science-5)
+- [So, Who Wants to Offer Me a Great Paying Job?](https://medium.com/@ambitionmagician/so-who-wants-to-offer-me-a-great-paying-job-e94c526b1ad8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
