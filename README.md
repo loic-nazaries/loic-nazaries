@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why Raster Data in SQL More Powerful Than You Think &lpar;And How to Master Them&rpar;](https://medium.com/@Rohan_Dutt/why-raster-data-in-sql-more-powerful-than-you-think-and-how-to-master-them-255f5368658b?source=rss------data_science-5)
-- [ECOINSIGHTS CORP.](https://medium.com/@tunmiseiwayemi/ecoinsights-corp-ef2b88dd57fc?source=rss------data_science-5)
-- [Why Critical Infrastructure Needs Cryptographic Authorization for the AI Era](https://blog.venturemagazine.net/why-critical-infrastructure-needs-cryptographic-authorization-for-the-ai-era-c7632322fca1?source=rss------data_science-5)
-- [DETECTION OF ENTEROINTESTITAL PARASITES IN READY TO EAT FRUITS IN ENUGU STATE NIGERIA](https://medium.com/@samueldeborah311/detection-of-enterointestital-parasites-in-ready-to-eat-fruits-in-enugu-state-nigeria-a6df1b7be2a4?source=rss------data_science-5)
-- [Time Series Demystified](https://medium.com/@princesstagoe24/time-series-demystified-33b5a0bffe6f?source=rss------data_science-5)
-- [MERIDIAN FOODS &amp; DISTRIBUTION](https://medium.com/@tunmiseiwayemi/meridian-foods-distribution-3bb0bda073e1?source=rss------data_science-5)
-- [Maybe the problem isn’t that people don’t trust science.](https://medium.com/@contact_49854/maybe-the-problem-isnt-that-people-don-t-trust-science-beb503d78dd4?source=rss------data_science-5)
-- [Ethics: “With great power comes great responsibility”, Part I](https://michiko-wolcott.medium.com/ethics-with-great-power-comes-great-responsibility-part-i-e3d8b82331f9?source=rss------data_science-5)
-- [Prioritizing Impact Over Intrigue: A Playbook for Sustainable AI Solutions](https://medium.com/@curiousmind1786/prioritizing-impact-over-intrigue-a-playbook-for-sustainable-ai-solutions-3f0c018b1e53?source=rss------data_science-5)
-- [So, Who Wants to Offer Me a Great Paying Job?](https://medium.com/@ambitionmagician/so-who-wants-to-offer-me-a-great-paying-job-e94c526b1ad8?source=rss------data_science-5)
+- [10 SQL Techniques to Detect and Diagnose N+1 Query Problems](https://medium.com/@Rohan_Dutt/10-sql-techniques-to-detect-and-diagnose-n-1-query-problems-95b560a6e492?source=rss------data_science-5)
+- [What a Bag of Groceries Taught Me About K-Means Clustering](https://medium.com/@kowshiksaravanan/what-a-bag-of-groceries-taught-me-about-k-means-clustering-f1d5fb009a1b?source=rss------data_science-5)
+- [I Tested 10 AI Models for OCR Across 20 Languages](https://pub.towardsai.net/i-tested-10-ai-models-for-ocr-across-20-languages-1babbc6454af?source=rss------data_science-5)
+- [GenAIOps na prática: replicando o ciclo operacional e a arquitetura resiliente de IA generativa](https://medium.com/@marketing_78651/genaiops-na-pr%C3%A1tica-replicando-o-ciclo-operacional-e-a-arquitetura-resiliente-de-ia-generativa-f23996084bfe?source=rss------data_science-5)
+- [Detecting Relevant Overuse in Healthcare Claims Using Binomial Tests at Scale](https://medium.com/@miguelzttn/detecting-relevant-overuse-in-healthcare-claims-using-binomial-tests-at-scale-8fdfe9d69c2c?source=rss------data_science-5)
+- [Overfitting’e Karşı Savunma: Ridge, Lasso ve ElasticNet](https://medium.com/@efekaravul/overfittinge-kar%C5%9F%C4%B1-savunma-ridge-lasso-ve-elasticnet-12621ce4fe0c?source=rss------data_science-5)
+- [When Machines Extend Minds: The Real Shift Transforming Industries and Jobs](https://medium.com/@curiousmind1786/when-machines-extend-minds-the-real-shift-transforming-industries-and-jobs-a71d9af28a35?source=rss------data_science-5)
+- [Temporal Difference Learning: Why Updating a Guess With a Guess Actually Works](https://medium.com/@candemir13/temporal-difference-learning-why-updating-a-guess-with-a-guess-actually-works-55b11c360482?source=rss------data_science-5)
+- [رحلتي من الصفر إلى بناء نموذج تعلّم آلة لتوقع أسعار العقارات بالرياض بنسبة دقة 82.4%](https://medium.com/@turki.n.almutairi/%D8%B1%D8%AD%D9%84%D8%AA%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%81%D8%B1-%D8%A5%D9%84%D9%89-%D8%A8%D9%86%D8%A7%D8%A1-%D9%86%D9%85%D9%88%D8%B0%D8%AC-%D8%AA%D8%B9%D9%84%D9%91%D9%85-%D8%A2%D9%84%D8%A9-%D9%84%D8%AA%D9%88%D9%82%D8%B9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%A8%D9%86%D8%B3%D8%A8%D8%A9-%D8%AF%D9%82%D8%A9-82-4-022b43f72a0b?source=rss------data_science-5)
+- [Messi, Yamal, and the Statistics of Finding the Right Narrative](https://medium.com/@tauansloboda/messi-yamal-and-the-statistics-of-finding-the-right-narrative-234ee9a1d473?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
