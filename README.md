@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [10 SQL Techniques to Detect and Diagnose N+1 Query Problems](https://medium.com/@Rohan_Dutt/10-sql-techniques-to-detect-and-diagnose-n-1-query-problems-95b560a6e492?source=rss------data_science-5)
-- [What a Bag of Groceries Taught Me About K-Means Clustering](https://medium.com/@kowshiksaravanan/what-a-bag-of-groceries-taught-me-about-k-means-clustering-f1d5fb009a1b?source=rss------data_science-5)
-- [I Tested 10 AI Models for OCR Across 20 Languages](https://pub.towardsai.net/i-tested-10-ai-models-for-ocr-across-20-languages-1babbc6454af?source=rss------data_science-5)
-- [GenAIOps na prática: replicando o ciclo operacional e a arquitetura resiliente de IA generativa](https://medium.com/@marketing_78651/genaiops-na-pr%C3%A1tica-replicando-o-ciclo-operacional-e-a-arquitetura-resiliente-de-ia-generativa-f23996084bfe?source=rss------data_science-5)
-- [Detecting Relevant Overuse in Healthcare Claims Using Binomial Tests at Scale](https://medium.com/@miguelzttn/detecting-relevant-overuse-in-healthcare-claims-using-binomial-tests-at-scale-8fdfe9d69c2c?source=rss------data_science-5)
-- [Overfitting’e Karşı Savunma: Ridge, Lasso ve ElasticNet](https://medium.com/@efekaravul/overfittinge-kar%C5%9F%C4%B1-savunma-ridge-lasso-ve-elasticnet-12621ce4fe0c?source=rss------data_science-5)
-- [When Machines Extend Minds: The Real Shift Transforming Industries and Jobs](https://medium.com/@curiousmind1786/when-machines-extend-minds-the-real-shift-transforming-industries-and-jobs-a71d9af28a35?source=rss------data_science-5)
-- [Temporal Difference Learning: Why Updating a Guess With a Guess Actually Works](https://medium.com/@candemir13/temporal-difference-learning-why-updating-a-guess-with-a-guess-actually-works-55b11c360482?source=rss------data_science-5)
-- [رحلتي من الصفر إلى بناء نموذج تعلّم آلة لتوقع أسعار العقارات بالرياض بنسبة دقة 82.4%](https://medium.com/@turki.n.almutairi/%D8%B1%D8%AD%D9%84%D8%AA%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%81%D8%B1-%D8%A5%D9%84%D9%89-%D8%A8%D9%86%D8%A7%D8%A1-%D9%86%D9%85%D9%88%D8%B0%D8%AC-%D8%AA%D8%B9%D9%84%D9%91%D9%85-%D8%A2%D9%84%D8%A9-%D9%84%D8%AA%D9%88%D9%82%D8%B9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%A8%D9%86%D8%B3%D8%A8%D8%A9-%D8%AF%D9%82%D8%A9-82-4-022b43f72a0b?source=rss------data_science-5)
-- [Messi, Yamal, and the Statistics of Finding the Right Narrative](https://medium.com/@tauansloboda/messi-yamal-and-the-statistics-of-finding-the-right-narrative-234ee9a1d473?source=rss------data_science-5)
+- [My Best Crypto Backtest Returned 39.7%. Then It Failed the Final Exam.](https://medium.com/@onemorebacktest/my-best-crypto-backtest-returned-39-7-then-it-failed-the-final-exam-a4c32673ffe6?source=rss------data_science-5)
+- [Understanding Docker: A Comprehensive Overview](https://tibb-in.medium.com/understanding-docker-a-comprehensive-overview-bf5dcc143745?source=rss------data_science-5)
+- [See Your Graph: Visual Exploration with the Astraea UI](https://medium.com/@jimeharrisjr/see-your-graph-visual-exploration-with-the-astraea-ui-189e89834baa?source=rss------data_science-5)
+- [10 Data Visualization Techniques Data Analyst Should Master Based on Core Visualization Principles](https://medium.com/@Rohan_Dutt/10-data-visualization-techniques-every-data-analyst-should-master-based-on-core-visualization-11b4980a8e4c?source=rss------data_science-5)
+- [All-Purpose Compute vs Job Compute in Databricks: What’s the Real Difference?](https://medium.com/@AbiramiM/all-purpose-compute-vs-job-compute-in-databricks-whats-the-real-difference-d794a66a304a?source=rss------data_science-5)
+- [Part 2: Two Towers, One Dot Product, 100 Million Items](https://medium.com/@devanshu0gupta/part-2-two-towers-one-dot-product-100-million-items-dc7515508dd7?source=rss------data_science-5)
+- [Lambangbet Platform Mixparlay Paling Laris №1](https://medium.com/@casab64235/lambangbet-platform-mixparlay-paling-laris-1-5ffa5151557d?source=rss------data_science-5)
+- [Ten from the weekend 08/10: A few interesting reads that I came across](https://gopivikranth.medium.com/ten-from-the-weekend-08-10-a-few-interesting-reads-that-i-came-across-951e68d9b8ac?source=rss------data_science-5)
+- [Content Intelligence Without the Baggage: Introducing Glyph](https://themx.medium.com/content-intelligence-without-the-baggage-introducing-glyph-6a6b603d558c?source=rss------data_science-5)
+- [Declouding my personal life without breaking the bank](https://talmondrlm.medium.com/declouding-my-personal-life-without-breaking-the-bank-5af1a15bbea8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
