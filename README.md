@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [My Best Crypto Backtest Returned 39.7%. Then It Failed the Final Exam.](https://medium.com/@onemorebacktest/my-best-crypto-backtest-returned-39-7-then-it-failed-the-final-exam-a4c32673ffe6?source=rss------data_science-5)
-- [Understanding Docker: A Comprehensive Overview](https://tibb-in.medium.com/understanding-docker-a-comprehensive-overview-bf5dcc143745?source=rss------data_science-5)
-- [See Your Graph: Visual Exploration with the Astraea UI](https://medium.com/@jimeharrisjr/see-your-graph-visual-exploration-with-the-astraea-ui-189e89834baa?source=rss------data_science-5)
-- [10 Data Visualization Techniques Data Analyst Should Master Based on Core Visualization Principles](https://medium.com/@Rohan_Dutt/10-data-visualization-techniques-every-data-analyst-should-master-based-on-core-visualization-11b4980a8e4c?source=rss------data_science-5)
-- [All-Purpose Compute vs Job Compute in Databricks: What’s the Real Difference?](https://medium.com/@AbiramiM/all-purpose-compute-vs-job-compute-in-databricks-whats-the-real-difference-d794a66a304a?source=rss------data_science-5)
-- [Part 2: Two Towers, One Dot Product, 100 Million Items](https://medium.com/@devanshu0gupta/part-2-two-towers-one-dot-product-100-million-items-dc7515508dd7?source=rss------data_science-5)
-- [Lambangbet Platform Mixparlay Paling Laris №1](https://medium.com/@casab64235/lambangbet-platform-mixparlay-paling-laris-1-5ffa5151557d?source=rss------data_science-5)
-- [Ten from the weekend 08/10: A few interesting reads that I came across](https://gopivikranth.medium.com/ten-from-the-weekend-08-10-a-few-interesting-reads-that-i-came-across-951e68d9b8ac?source=rss------data_science-5)
-- [Content Intelligence Without the Baggage: Introducing Glyph](https://themx.medium.com/content-intelligence-without-the-baggage-introducing-glyph-6a6b603d558c?source=rss------data_science-5)
-- [Declouding my personal life without breaking the bank](https://talmondrlm.medium.com/declouding-my-personal-life-without-breaking-the-bank-5af1a15bbea8?source=rss------data_science-5)
+- [เรื่อง ปอปยายสาย](https://medium.com/@boum1209/%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-%E0%B8%9B%E0%B8%AD%E0%B8%9B%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B2%E0%B8%A2-3e3a58c6961b?source=rss------data_science-5)
+- [One Line Is How We Stop The End Of The World](https://medium.com/southern-winds/one-line-is-how-we-stop-the-end-of-the-world-a7ec3043f19b?source=rss------data_science-5)
+- [Why Most Vehicle Residual Value Models Fail — And How Machine Learning Can Cut Forecast Error in…](https://medium.com/@bsharipovb/why-most-vehicle-residual-value-models-fail-and-how-machine-learning-can-cut-forecast-error-in-92a5a9805377?source=rss------data_science-5)
+- [En tierra](https://medium.com/@gonzalezcamila856/en-tierra-01b387cd5421?source=rss------data_science-5)
+- [LLMs Hallucinate Far Less Than They Did 4 Years Ago. Here’s What Actually Changed](https://vishal-ai.medium.com/llms-hallucinate-far-less-than-they-did-4-years-ago-heres-what-actually-changed-aaa4a829c867?source=rss------data_science-5)
+- [I Built a Free In-Browser SQL Practice Tool for Interview Prep &lpar;No Signup&rpar;](https://medium.com/@techlexiconapp/i-built-a-free-in-browser-sql-practice-tool-for-interview-prep-no-signup-1b42c90ff973?source=rss------data_science-5)
+- [Lambangbet Platform Mixparlay Paling Laris Berhadiah Handphone](https://medium.com/@casab64235/lambangbet-platform-mixparlay-paling-laris-berhadiah-handphone-0813c8e2c3b3?source=rss------data_science-5)
+- [Learning to Code Isn’t Enough: 3 Soft Skills Every Developer Needs](https://medium.com/@sunil17bbmp/learning-to-code-isnt-enough-3-soft-skills-every-developer-needs-947df810954b?source=rss------data_science-5)
+- [K-Means Algoritması ile Müşteri Segmentasyonu ve Davranış Analizi](https://medium.com/@aysenuryldrn22/k-means-algoritmas%C4%B1-ile-m%C3%BC%C5%9Fteri-segmentasyonu-ve-davran%C4%B1%C5%9F-analizi-4c92c1f179f1?source=rss------data_science-5)
+- [Analytics and Machine Learning on the Lakehouse in Google Cloud](https://medium.com/@a.paros8947/analytics-and-machine-learning-on-the-lakehouse-in-google-cloud-6a2f4a56b4fd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
