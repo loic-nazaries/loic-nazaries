@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [เรื่อง ปอปยายสาย](https://medium.com/@boum1209/%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-%E0%B8%9B%E0%B8%AD%E0%B8%9B%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B2%E0%B8%A2-3e3a58c6961b?source=rss------data_science-5)
-- [One Line Is How We Stop The End Of The World](https://medium.com/southern-winds/one-line-is-how-we-stop-the-end-of-the-world-a7ec3043f19b?source=rss------data_science-5)
-- [Why Most Vehicle Residual Value Models Fail — And How Machine Learning Can Cut Forecast Error in…](https://medium.com/@bsharipovb/why-most-vehicle-residual-value-models-fail-and-how-machine-learning-can-cut-forecast-error-in-92a5a9805377?source=rss------data_science-5)
-- [En tierra](https://medium.com/@gonzalezcamila856/en-tierra-01b387cd5421?source=rss------data_science-5)
-- [LLMs Hallucinate Far Less Than They Did 4 Years Ago. Here’s What Actually Changed](https://vishal-ai.medium.com/llms-hallucinate-far-less-than-they-did-4-years-ago-heres-what-actually-changed-aaa4a829c867?source=rss------data_science-5)
-- [I Built a Free In-Browser SQL Practice Tool for Interview Prep &lpar;No Signup&rpar;](https://medium.com/@techlexiconapp/i-built-a-free-in-browser-sql-practice-tool-for-interview-prep-no-signup-1b42c90ff973?source=rss------data_science-5)
-- [Lambangbet Platform Mixparlay Paling Laris Berhadiah Handphone](https://medium.com/@casab64235/lambangbet-platform-mixparlay-paling-laris-berhadiah-handphone-0813c8e2c3b3?source=rss------data_science-5)
-- [Learning to Code Isn’t Enough: 3 Soft Skills Every Developer Needs](https://medium.com/@sunil17bbmp/learning-to-code-isnt-enough-3-soft-skills-every-developer-needs-947df810954b?source=rss------data_science-5)
-- [K-Means Algoritması ile Müşteri Segmentasyonu ve Davranış Analizi](https://medium.com/@aysenuryldrn22/k-means-algoritmas%C4%B1-ile-m%C3%BC%C5%9Fteri-segmentasyonu-ve-davran%C4%B1%C5%9F-analizi-4c92c1f179f1?source=rss------data_science-5)
-- [Analytics and Machine Learning on the Lakehouse in Google Cloud](https://medium.com/@a.paros8947/analytics-and-machine-learning-on-the-lakehouse-in-google-cloud-6a2f4a56b4fd?source=rss------data_science-5)
+- [Lojistik Regresyon ile Müşteri Kaybı &lpar;Churn&rpar; Tahmini: Adım Adım Rehber](https://medium.com/@ulkubingul65/lojistik-regresyon-ile-m%C3%BC%C5%9Fteri-kayb%C4%B1-churn-tahmini-ad%C4%B1m-ad%C4%B1m-rehber-1390cc1143b3?source=rss------data_science-5)
+- [Risk Adjustment in Healthcare Quality Measurement](https://medium.com/@lahkar.suk410/risk-adjustment-in-healthcare-quality-measurement-298fb1a02cee?source=rss------data_science-5)
+- [Stop Hardcoding SQL Logic: A Practical Guide to dbt Seeds](https://medium.com/@saideep.uikey2010/stop-hardcoding-sql-logic-a-practical-guide-to-dbt-seeds-96c27869e34c?source=rss------data_science-5)
+- [I Built a 30-Day TikTok Content Calendar Generator Using AI](https://medium.com/data-science-collective/i-built-a-30-day-tiktok-content-calendar-generator-using-ai-717ab3876b12?source=rss------data_science-5)
+- [Prompt Engineering, RAG, or Fine-Tuning](https://medium.com/@pritisagar0427/prompt-engineering-rag-or-fine-tuning-a84920a0af97?source=rss------data_science-5)
+- [Building My First AI Chrome Extension Taught Me More Than Any AI Course](https://ai.plainenglish.io/building-my-first-ai-chrome-extension-taught-me-more-than-any-ai-course-0f0a2c4034b5?source=rss------data_science-5)
+- [Building My First AI Chrome Extension Taught Me More Than Any AI Course](https://ai.plainenglish.io/building-my-first-ai-chrome-extension-taught-me-more-than-any-ai-course-3b7ec4ef7f06?source=rss------data_science-5)
+- [The Geometry of Overfitting: Why Regularization Works &lpar;The Real Reason&rpar;](https://swarnenduiitb2020i.medium.com/the-geometry-of-overfitting-why-regularization-works-the-real-reason-68cfcd9c329c?source=rss------data_science-5)
+- [Foundations of Language and Meaning](https://ai.plainenglish.io/foundations-of-language-and-meaning-67dfa51671a2?source=rss------data_science-5)
+- [Both bottles said “extra virgin.” So I built a dataset.](https://ai.plainenglish.io/both-bottles-said-extra-virgin-so-i-built-a-dataset-e1f3671bafc6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
