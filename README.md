@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Lojistik Regresyon ile Müşteri Kaybı &lpar;Churn&rpar; Tahmini: Adım Adım Rehber](https://medium.com/@ulkubingul65/lojistik-regresyon-ile-m%C3%BC%C5%9Fteri-kayb%C4%B1-churn-tahmini-ad%C4%B1m-ad%C4%B1m-rehber-1390cc1143b3?source=rss------data_science-5)
-- [Risk Adjustment in Healthcare Quality Measurement](https://medium.com/@lahkar.suk410/risk-adjustment-in-healthcare-quality-measurement-298fb1a02cee?source=rss------data_science-5)
-- [Stop Hardcoding SQL Logic: A Practical Guide to dbt Seeds](https://medium.com/@saideep.uikey2010/stop-hardcoding-sql-logic-a-practical-guide-to-dbt-seeds-96c27869e34c?source=rss------data_science-5)
-- [I Built a 30-Day TikTok Content Calendar Generator Using AI](https://medium.com/data-science-collective/i-built-a-30-day-tiktok-content-calendar-generator-using-ai-717ab3876b12?source=rss------data_science-5)
-- [Prompt Engineering, RAG, or Fine-Tuning](https://medium.com/@pritisagar0427/prompt-engineering-rag-or-fine-tuning-a84920a0af97?source=rss------data_science-5)
-- [Building My First AI Chrome Extension Taught Me More Than Any AI Course](https://ai.plainenglish.io/building-my-first-ai-chrome-extension-taught-me-more-than-any-ai-course-0f0a2c4034b5?source=rss------data_science-5)
-- [Building My First AI Chrome Extension Taught Me More Than Any AI Course](https://ai.plainenglish.io/building-my-first-ai-chrome-extension-taught-me-more-than-any-ai-course-3b7ec4ef7f06?source=rss------data_science-5)
-- [The Geometry of Overfitting: Why Regularization Works &lpar;The Real Reason&rpar;](https://swarnenduiitb2020i.medium.com/the-geometry-of-overfitting-why-regularization-works-the-real-reason-68cfcd9c329c?source=rss------data_science-5)
-- [Foundations of Language and Meaning](https://ai.plainenglish.io/foundations-of-language-and-meaning-67dfa51671a2?source=rss------data_science-5)
-- [Both bottles said “extra virgin.” So I built a dataset.](https://ai.plainenglish.io/both-bottles-said-extra-virgin-so-i-built-a-dataset-e1f3671bafc6?source=rss------data_science-5)
+- [Makine Öğrenmesi ile Telefon Fiyat Sınıfı Tahmini: Random Forest Uygulaması](https://medium.com/@alacanhale34/makine-%C3%B6%C4%9Frenmesi-ile-telefon-fiyat-s%C4%B1n%C4%B1f%C4%B1-tahmini-random-forest-uygulamas%C4%B1-8e81bd59043b?source=rss------data_science-5)
+- [She Loved Me. I Felt Nothing.](https://medium.com/@kenmather/she-loved-me-i-felt-nothing-cb999d7adffb?source=rss------data_science-5)
+- [What a Spacecraft That Doesn’t Exist Can Teach Us About 3I/ATLAS](https://medium.com/@Thibequation/what-a-spacecraft-that-doesnt-exist-can-teach-us-about-3i-atlas-f1c9cd07177c?source=rss------data_science-5)
+- [Telekomünikasyon Müşteri Kaybının Makine Öğrenmesi ile Tahmin Edilmesi](https://medium.com/@sudenazbal00/telekom%C3%BCnikasyon-m%C3%BC%C5%9Fteri-kayb%C4%B1n%C4%B1n-makine-%C3%B6%C4%9Frenmesi-ile-tahmin-edilmesi-6cbd765af418?source=rss------data_science-5)
+- [When Trust Becomes a Risk: Can Humans Really Know When to Challenge AI?](https://medium.com/@vivaluv98/when-trust-becomes-a-risk-can-humans-really-know-when-to-challenge-ai-dd9cb68f59df?source=rss------data_science-5)
+- [Why Deep Ethical Insight Is the Keystone for AI’s Evolution?](https://medium.com/@curiousmind1786/why-deep-ethical-insight-is-the-keystone-for-ais-evolution-b60bbf20b5e4?source=rss------data_science-5)
+- [Müşteri Kaybını Öngörmek: Telekomünikasyon Şirketi Veri Analizi ve Makine Öğrenmesi](https://medium.com/@sahinyildiz17t/m%C3%BC%C5%9Fteri-kayb%C4%B1n%C4%B1-%C3%B6ng%C3%B6rmek-telekom%C3%BCnikasyon-%C5%9Firketi-veri-analizi-ve-makine-%C3%B6%C4%9Frenmesi-00bce0ac98ef?source=rss------data_science-5)
+- [IA en servicios financieros: el mayor impacto está ocurriendo donde el cliente no lo ve](https://medium.com/@alfonsovtavira/ia-en-servicios-financieros-el-mayor-impacto-est%C3%A1-ocurriendo-donde-el-cliente-no-lo-ve-72a53106c8b3?source=rss------data_science-5)
+- [Chronic Kidney Disease Detection with Machine Learning](https://medium.com/@CumaAI/chronic-kidney-disease-detection-with-machine-learning-6afa625cf86b?source=rss------data_science-5)
+- [Makine Öğrenmesi İle Kronik Böbrek Hastalığı Tespiti](https://medium.com/@CumaAI/makine-%C3%B6%C4%9Frenmesi-i%CC%87le-kronik-b%C3%B6brek-hastal%C4%B1%C4%9F%C4%B1-tespiti-e5349a680a93?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
