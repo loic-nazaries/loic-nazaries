@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Makine Öğrenmesi ile Telefon Fiyat Sınıfı Tahmini: Random Forest Uygulaması](https://medium.com/@alacanhale34/makine-%C3%B6%C4%9Frenmesi-ile-telefon-fiyat-s%C4%B1n%C4%B1f%C4%B1-tahmini-random-forest-uygulamas%C4%B1-8e81bd59043b?source=rss------data_science-5)
-- [She Loved Me. I Felt Nothing.](https://medium.com/@kenmather/she-loved-me-i-felt-nothing-cb999d7adffb?source=rss------data_science-5)
-- [What a Spacecraft That Doesn’t Exist Can Teach Us About 3I/ATLAS](https://medium.com/@Thibequation/what-a-spacecraft-that-doesnt-exist-can-teach-us-about-3i-atlas-f1c9cd07177c?source=rss------data_science-5)
-- [Telekomünikasyon Müşteri Kaybının Makine Öğrenmesi ile Tahmin Edilmesi](https://medium.com/@sudenazbal00/telekom%C3%BCnikasyon-m%C3%BC%C5%9Fteri-kayb%C4%B1n%C4%B1n-makine-%C3%B6%C4%9Frenmesi-ile-tahmin-edilmesi-6cbd765af418?source=rss------data_science-5)
-- [When Trust Becomes a Risk: Can Humans Really Know When to Challenge AI?](https://medium.com/@vivaluv98/when-trust-becomes-a-risk-can-humans-really-know-when-to-challenge-ai-dd9cb68f59df?source=rss------data_science-5)
-- [Why Deep Ethical Insight Is the Keystone for AI’s Evolution?](https://medium.com/@curiousmind1786/why-deep-ethical-insight-is-the-keystone-for-ais-evolution-b60bbf20b5e4?source=rss------data_science-5)
-- [Müşteri Kaybını Öngörmek: Telekomünikasyon Şirketi Veri Analizi ve Makine Öğrenmesi](https://medium.com/@sahinyildiz17t/m%C3%BC%C5%9Fteri-kayb%C4%B1n%C4%B1-%C3%B6ng%C3%B6rmek-telekom%C3%BCnikasyon-%C5%9Firketi-veri-analizi-ve-makine-%C3%B6%C4%9Frenmesi-00bce0ac98ef?source=rss------data_science-5)
-- [IA en servicios financieros: el mayor impacto está ocurriendo donde el cliente no lo ve](https://medium.com/@alfonsovtavira/ia-en-servicios-financieros-el-mayor-impacto-est%C3%A1-ocurriendo-donde-el-cliente-no-lo-ve-72a53106c8b3?source=rss------data_science-5)
-- [Chronic Kidney Disease Detection with Machine Learning](https://medium.com/@CumaAI/chronic-kidney-disease-detection-with-machine-learning-6afa625cf86b?source=rss------data_science-5)
-- [Makine Öğrenmesi İle Kronik Böbrek Hastalığı Tespiti](https://medium.com/@CumaAI/makine-%C3%B6%C4%9Frenmesi-i%CC%87le-kronik-b%C3%B6brek-hastal%C4%B1%C4%9F%C4%B1-tespiti-e5349a680a93?source=rss------data_science-5)
+- [Lambangbet : Komunitas Fans Sepak Bola Dunia
+Link daftar : https://heylink.me/Lambangbetlogin](https://medium.com/@jodee9909/lambangbet-komunitas-fans-sepak-bola-dunia-link-daftar-https-heylink-me-lambangbetlogin-d443ee7a8783?source=rss------data_science-5)
+- [Normalization vs Standardization in Machine Learning](https://medium.com/nextgenllm/normalization-vs-standardization-in-machine-learning-778b13e099f6?source=rss------data_science-5)
+- [Complete RAG Engineering Series &lpar;Part 3&rpar;: Data Cleaning and Preprocessing for Enterprise RAG System](https://medium.com/@er.rajkumaar/complete-rag-engineering-series-part-3-data-cleaning-and-preprocessing-for-enterprise-rag-system-af00655fb2bc?source=rss------data_science-5)
+- [From RAG to Agentic AI: Modern AI Systems with Cloud, Data Science and LLMs](https://medium.com/@polatkankirac/from-rag-to-agentic-ai-modern-ai-systems-data-llms-cloud-efbc79cc5889?source=rss------data_science-5)
+- [Alışveriş Sepeti Verileriyle Müşteri Segmentasyonu ve Birliktelik Analizi](https://medium.com/@nisarumeysakocaman/al%C4%B1%C5%9Fveri%C5%9F-sepeti-verileriyle-m%C3%BC%C5%9Fteri-segmentasyonu-ve-birliktelik-analizi-54685d72b85b?source=rss------data_science-5)
+- [Makineler Bozulmadan Önce Bize Fısıldar mı?](https://medium.com/@aysekaratas579/makineler-bozulmadan-%C3%B6nce-bize-f%C4%B1s%C4%B1ldar-m%C4%B1-6d35587d9b9d?source=rss------data_science-5)
+- [Yenilenebilir Enerjinin Karanlık Sırrı: Şebekeler Neden Çökmek Üzere?](https://medium.com/@aldymuardi/yenilenebilir-enerjinin-karanl%C4%B1k-s%C4%B1rr%C4%B1-%C5%9Febekeler-neden-%C3%A7%C3%B6kmek-%C3%BCzere-53c621b00e4b?source=rss------data_science-5)
+- [Supercharging Classification: Pre-Aggregating Labeled Examples with Glyph Collections](https://themx.medium.com/supercharging-classification-pre-aggregating-labeled-examples-with-glyph-collections-aba39a50dde6?source=rss------data_science-5)
+- [Navigating AI’s Progress Puzzle: Lessons for Roadmap Builders and Decision-Makers](https://medium.com/@curiousmind1786/navigating-ais-progress-puzzle-lessons-for-roadmap-builders-and-decision-makers-7e0f578116af?source=rss------data_science-5)
+- [O&lpar;k&rpar; Semantic Kernel Optimization](https://suign.medium.com/o-k-semantic-kernel-optimization-bcbeb395cb59?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
