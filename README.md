@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Lambangbet : Komunitas Fans Sepak Bola Dunia
-Link daftar : https://heylink.me/Lambangbetlogin](https://medium.com/@jodee9909/lambangbet-komunitas-fans-sepak-bola-dunia-link-daftar-https-heylink-me-lambangbetlogin-d443ee7a8783?source=rss------data_science-5)
-- [Normalization vs Standardization in Machine Learning](https://medium.com/nextgenllm/normalization-vs-standardization-in-machine-learning-778b13e099f6?source=rss------data_science-5)
-- [Complete RAG Engineering Series &lpar;Part 3&rpar;: Data Cleaning and Preprocessing for Enterprise RAG System](https://medium.com/@er.rajkumaar/complete-rag-engineering-series-part-3-data-cleaning-and-preprocessing-for-enterprise-rag-system-af00655fb2bc?source=rss------data_science-5)
-- [From RAG to Agentic AI: Modern AI Systems with Cloud, Data Science and LLMs](https://medium.com/@polatkankirac/from-rag-to-agentic-ai-modern-ai-systems-data-llms-cloud-efbc79cc5889?source=rss------data_science-5)
-- [Alışveriş Sepeti Verileriyle Müşteri Segmentasyonu ve Birliktelik Analizi](https://medium.com/@nisarumeysakocaman/al%C4%B1%C5%9Fveri%C5%9F-sepeti-verileriyle-m%C3%BC%C5%9Fteri-segmentasyonu-ve-birliktelik-analizi-54685d72b85b?source=rss------data_science-5)
-- [Makineler Bozulmadan Önce Bize Fısıldar mı?](https://medium.com/@aysekaratas579/makineler-bozulmadan-%C3%B6nce-bize-f%C4%B1s%C4%B1ldar-m%C4%B1-6d35587d9b9d?source=rss------data_science-5)
-- [Yenilenebilir Enerjinin Karanlık Sırrı: Şebekeler Neden Çökmek Üzere?](https://medium.com/@aldymuardi/yenilenebilir-enerjinin-karanl%C4%B1k-s%C4%B1rr%C4%B1-%C5%9Febekeler-neden-%C3%A7%C3%B6kmek-%C3%BCzere-53c621b00e4b?source=rss------data_science-5)
-- [Supercharging Classification: Pre-Aggregating Labeled Examples with Glyph Collections](https://themx.medium.com/supercharging-classification-pre-aggregating-labeled-examples-with-glyph-collections-aba39a50dde6?source=rss------data_science-5)
-- [Navigating AI’s Progress Puzzle: Lessons for Roadmap Builders and Decision-Makers](https://medium.com/@curiousmind1786/navigating-ais-progress-puzzle-lessons-for-roadmap-builders-and-decision-makers-7e0f578116af?source=rss------data_science-5)
-- [O&lpar;k&rpar; Semantic Kernel Optimization](https://suign.medium.com/o-k-semantic-kernel-optimization-bcbeb395cb59?source=rss------data_science-5)
+- [Guardian spirit snake](https://medium.com/@boum1209/guardian-spirit-snake-1e6ed41a135e?source=rss------data_science-5)
+- [My Dinner Recommendation Experiment](https://medium.com/@dapeters_55512/my-dinner-recommendation-experiment-9c3b2925e82c?source=rss------data_science-5)
+- [flash Usdt &amp; Bitcoin](https://medium.com/@flashbtc555/flash-usdt-bitcoin-878071e9c78b?source=rss------data_science-5)
+- [Sobrevives o mueres](https://medium.com/@gonzalezcamila856/sobrevives-o-mueres-07508f47ff96?source=rss------data_science-5)
+- [Rust is bringing me back the joy of programming](https://medium.com/write-a-catalyst/rust-is-bringing-me-back-the-joy-of-programming-5976814fb44f?source=rss------data_science-5)
+- [How AI’s Impact on People Shapes New Business Realities and Risks Across Sectors?](https://medium.com/@curiousmind1786/how-ais-impact-on-people-shapes-new-business-realities-and-risks-across-sectors-a95a4d1f0d70?source=rss------data_science-5)
+- [Barking at the Moon: Settling a 26-Year Scientific Feud with 10,000 New York Dogs](https://medium.com/@jonathankriertran/barking-at-the-moon-settling-a-26-year-scientific-feud-with-10-000-new-york-dogs-21ed04d780c9?source=rss------data_science-5)
+- [Lambangbet, komunitas fans sepak bola dunia](https://medium.com/@casab64235/lambangbet-komunitas-fans-sepak-bola-dunia-ea7c4c34b742?source=rss------data_science-5)
+- [Beyond the Bit: How Quantum Subjective Science Converts Information Physics Into an Operational…](https://medium.com/@galindokristine/beyond-the-bit-how-quantum-subjective-science-converts-information-physics-into-an-operational-04638e02be66?source=rss------data_science-5)
+- [Correlation Is Lossy Compression](https://medium.com/data-science-rabbit-hole/correlation-is-lossy-compression-63f46daf3b3c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
