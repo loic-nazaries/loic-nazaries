@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Guardian spirit snake](https://medium.com/@boum1209/guardian-spirit-snake-1e6ed41a135e?source=rss------data_science-5)
-- [My Dinner Recommendation Experiment](https://medium.com/@dapeters_55512/my-dinner-recommendation-experiment-9c3b2925e82c?source=rss------data_science-5)
-- [flash Usdt &amp; Bitcoin](https://medium.com/@flashbtc555/flash-usdt-bitcoin-878071e9c78b?source=rss------data_science-5)
-- [Sobrevives o mueres](https://medium.com/@gonzalezcamila856/sobrevives-o-mueres-07508f47ff96?source=rss------data_science-5)
-- [Rust is bringing me back the joy of programming](https://medium.com/write-a-catalyst/rust-is-bringing-me-back-the-joy-of-programming-5976814fb44f?source=rss------data_science-5)
-- [How AI’s Impact on People Shapes New Business Realities and Risks Across Sectors?](https://medium.com/@curiousmind1786/how-ais-impact-on-people-shapes-new-business-realities-and-risks-across-sectors-a95a4d1f0d70?source=rss------data_science-5)
-- [Barking at the Moon: Settling a 26-Year Scientific Feud with 10,000 New York Dogs](https://medium.com/@jonathankriertran/barking-at-the-moon-settling-a-26-year-scientific-feud-with-10-000-new-york-dogs-21ed04d780c9?source=rss------data_science-5)
-- [Lambangbet, komunitas fans sepak bola dunia](https://medium.com/@casab64235/lambangbet-komunitas-fans-sepak-bola-dunia-ea7c4c34b742?source=rss------data_science-5)
-- [Beyond the Bit: How Quantum Subjective Science Converts Information Physics Into an Operational…](https://medium.com/@galindokristine/beyond-the-bit-how-quantum-subjective-science-converts-information-physics-into-an-operational-04638e02be66?source=rss------data_science-5)
-- [Correlation Is Lossy Compression](https://medium.com/data-science-rabbit-hole/correlation-is-lossy-compression-63f46daf3b3c?source=rss------data_science-5)
+- [Why Binary Cross Entropy?](https://pub.towardsai.net/why-binary-cross-entropy-110ce2865463?source=rss------data_science-5)
+- [Ecuador’s Crime Data Doesn’t Lie: What 43,976 Deaths Reveal About Where Violence Really Lives](https://jordanvillon.medium.com/ecuadors-crime-data-doesn-t-lie-what-43-976-deaths-reveal-about-where-violence-really-lives-51a48b6a19f9?source=rss------data_science-5)
+- [Open for Business](https://medium.com/@humura.bliss/open-for-business-84e33ac7972d?source=rss------data_science-5)
+- [575,000 Reasons to Clean Your Data](https://medium.com/technology-hits/575-000-reasons-to-clean-your-data-c1e2b9065223?source=rss------data_science-5)
+- [Agentic AI and Virtual Personas: Making AI Behavior Predictable and Purpose-Driven](https://medium.com/@curiousmind1786/agentic-ai-and-virtual-personas-making-ai-behavior-predictable-and-purpose-driven-b4f94b79ba64?source=rss------data_science-5)
+- [What is vLLM?](https://harshitdawar.medium.com/what-is-vllm-9f7fb1aba36c?source=rss------data_science-5)
+- [Everything You Need To Know About Local AI Models, From 8 To 128GB](https://medium.com/the-ai-brief/everything-you-need-to-know-about-local-ai-models-from-8-to-128gb-6bcdb93281b9?source=rss------data_science-5)
+- [Why I Started My Own AI Publication](https://medium.com/@CasparAI/why-i-started-my-own-ai-publication-2fb185d63767?source=rss------data_science-5)
+- [Derivatives: The Knob Adjustment Machine](https://medium.com/@tomkob99_89317/derivatives-the-knob-adjustment-machine-7c1517b0f3f8?source=rss------data_science-5)
+- [The Colorado River is Dying in Real-Time. Here is the Blueprint to Save It.](https://medium.com/@ambitionmagician/the-colorado-river-is-dying-in-real-time-here-is-the-blueprint-to-save-it-e011f5edeb2a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
