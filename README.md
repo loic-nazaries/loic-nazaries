@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why Binary Cross Entropy?](https://pub.towardsai.net/why-binary-cross-entropy-110ce2865463?source=rss------data_science-5)
-- [Ecuador’s Crime Data Doesn’t Lie: What 43,976 Deaths Reveal About Where Violence Really Lives](https://jordanvillon.medium.com/ecuadors-crime-data-doesn-t-lie-what-43-976-deaths-reveal-about-where-violence-really-lives-51a48b6a19f9?source=rss------data_science-5)
-- [Open for Business](https://medium.com/@humura.bliss/open-for-business-84e33ac7972d?source=rss------data_science-5)
-- [575,000 Reasons to Clean Your Data](https://medium.com/technology-hits/575-000-reasons-to-clean-your-data-c1e2b9065223?source=rss------data_science-5)
-- [Agentic AI and Virtual Personas: Making AI Behavior Predictable and Purpose-Driven](https://medium.com/@curiousmind1786/agentic-ai-and-virtual-personas-making-ai-behavior-predictable-and-purpose-driven-b4f94b79ba64?source=rss------data_science-5)
-- [What is vLLM?](https://harshitdawar.medium.com/what-is-vllm-9f7fb1aba36c?source=rss------data_science-5)
-- [Everything You Need To Know About Local AI Models, From 8 To 128GB](https://medium.com/the-ai-brief/everything-you-need-to-know-about-local-ai-models-from-8-to-128gb-6bcdb93281b9?source=rss------data_science-5)
-- [Why I Started My Own AI Publication](https://medium.com/@CasparAI/why-i-started-my-own-ai-publication-2fb185d63767?source=rss------data_science-5)
-- [Derivatives: The Knob Adjustment Machine](https://medium.com/@tomkob99_89317/derivatives-the-knob-adjustment-machine-7c1517b0f3f8?source=rss------data_science-5)
-- [The Colorado River is Dying in Real-Time. Here is the Blueprint to Save It.](https://medium.com/@ambitionmagician/the-colorado-river-is-dying-in-real-time-here-is-the-blueprint-to-save-it-e011f5edeb2a?source=rss------data_science-5)
+- [How to Rule Butterflies](https://avi-loeb.medium.com/how-to-rule-butterflies-42bc994eff3e?source=rss------data_science-5)
+- [Como a análise de thresholds pode mudar a decisão sobre um modelo de Machine Learning](https://medium.com/@alexandre.andreo/como-a-an%C3%A1lise-de-thresholds-pode-mudar-a-decis%C3%A3o-sobre-um-modelo-de-machine-learning-13a55c2f7fe2?source=rss------data_science-5)
+- [How Websites Are Built to Extract as Much Data as Possible From You — Without You Knowing](https://medium.com/@josephsides94/how-websites-are-built-to-extract-as-much-data-as-possible-from-you-without-you-knowing-2527273957bc?source=rss------data_science-5)
+- [The Data Science Job Market in 2026: Which Role Is Right for You?](https://medium.com/@swatis0731/the-data-science-job-market-in-2026-which-role-is-right-for-you-f9fcba765cd4?source=rss------data_science-5)
+- [Beyond 3D: How Legendrian Contact Geometry Enforces Phase Locks Across All Dimensions](https://zachbobby8.medium.com/beyond-3d-how-legendrian-contact-geometry-enforces-phase-locks-across-all-dimensions-a96b1128391a?source=rss------data_science-5)
+- [The Bond Market Archive: A History of Market Regime Change Through Fixed Income](https://medium.com/@BondStats/the-bond-market-archive-a-history-of-market-regime-change-through-fixed-income-ecfabe7af25d?source=rss------data_science-5)
+- [The Choice at the Crossroads: Empowering People to Shape AI’s Impact on Jobs and Leadership](https://medium.com/@curiousmind1786/the-choice-at-the-crossroads-empowering-people-to-shape-ais-impact-on-jobs-and-leadership-e5bf1eafc8c7?source=rss------data_science-5)
+- [Your Weather App Is Now a Government Informant](https://medium.com/@meprism/your-weather-app-is-now-a-government-informant-e62de0c66439?source=rss------data_science-5)
+- [Declaración de Autonomía Semántica, Soberanía de Datos y Protección Intelectual en Entornos…](https://atcorporacioneditorial.medium.com/declaraci%C3%B3n-de-autonom%C3%ADa-sem%C3%A1ntica-soberan%C3%ADa-de-datos-y-protecci%C3%B3n-intelectual-en-entornos-2fa53be807a8?source=rss------data_science-5)
+- [META’s Latest Local Model Is Good and Only Needs 24GB of Ram](https://medium.com/the-ai-brief/metas-latest-local-model-is-good-and-only-needs-24gb-of-ram-cdfc77217b85?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
