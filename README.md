@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [From Counting Words to ChatGPT: The Fascinating Journey of NLP](https://medium.com/@victoria.o.ikoro/from-counting-words-to-chatgpt-the-fascinating-journey-of-nlp-a9446b6e0d34?source=rss------data_science-5)
-- [The First Agent Is Easy. The Second One Changes Everything.](https://medium.com/@asya.vb/the-first-agent-is-easy-the-second-one-changes-everything-f969cdec0506?source=rss------data_science-5)
-- [The Real Problem Isn’t Scale. It’s That Most Systems Can’t Think Ahead.](https://medium.com/@sg.shivamgupta2908/the-real-problem-isnt-scale-it-s-that-most-systems-can-t-think-ahead-1be556f68466?source=rss------data_science-5)
-- [The Prefrontal Cortex Effect: Why Letting Go Makes You More Creative](https://medium.com/@oumaolive98/the-prefrontal-cortex-effect-why-letting-go-makes-you-more-creative-0f30b230bd01?source=rss------data_science-5)
-- [When You Add Documents to RAG, Does the AI Actually Learn Them?](https://medium.com/@yeonju123/when-you-add-documents-to-rag-does-the-ai-actually-learn-them-75f104d9c200?source=rss------data_science-5)
-- [Flakes and Ghosts: Breaking up with a Data Scientist](https://medium.com/@merrowjessica/flakes-and-ghosts-breaking-up-with-a-data-scientist-0602341313fd?source=rss------data_science-5)
-- [Five Ways a Machine Can Learn](https://medium.com/@kaustubhverma994/five-ways-a-machine-can-learn-e24e031599b2?source=rss------data_science-5)
-- [Building a Decision Tree From Scratch — Understanding the Internal Working of it](https://pub.towardsai.net/building-a-decision-tree-from-scratch-understanding-the-internal-working-of-it-abd23e06dc6e?source=rss------data_science-5)
-- [I read 38 academic papers on fake Instagram followers. The real penalty isn’t a ban.](https://medium.com/@dopeydopa/i-read-38-academic-papers-on-fake-instagram-followers-the-real-penalty-isnt-a-ban-151a54cc6a43?source=rss------data_science-5)
+- [PySpark 4.2 Turns Arrow On By Default](https://medium.com/@urazaliev_f/pyspark-4-2-turns-arrow-on-by-default-5e6a5505c3e5?source=rss------data_science-5)
+- [Where Is the Cash? Tracking Money Market Migration](https://medium.com/@BondStats/where-is-the-cash-tracking-money-market-migration-f56870dbca41?source=rss------data_science-5)
+- [Giving DuckDB a Server With Quack](https://medium.com/@gwils1414/giving-duckdb-a-server-with-quack-0af720bf6811?source=rss------data_science-5)
+- [The Dualism Cosmology Theory &lpar;द्वैतवाद ब्रह्मांड सिद्धांत&rpar;](https://medium.com/@aayushkumarsha39/the-dualism-cosmology-theory-%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A5%88%E0%A4%A4%E0%A4%B5%E0%A4%BE%E0%A4%A6-%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%A1-%E0%A4%B8%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BE%E0%A4%82%E0%A4%A4-df6750ddcb9b?source=rss------data_science-5)
+- [DIGITAL SPACE IDENTITY](https://blog.cubed.run/digital-space-identity-65d089073d1c?source=rss------data_science-5)
+- [I Audited 30 Medium Articles. Claps and Evidence Turned Out to Be Almost Unrelated](https://medium.com/@MuawiaMahmoud/i-audited-30-medium-articles-claps-and-evidence-turned-out-to-be-almost-unrelated-aa388b309ef6?source=rss------data_science-5)
+- [I Compared Senior Engineer Comp at Google, Meta, and Amazon Using Actual 2026 Data.](https://medium.com/codex/i-compared-senior-engineer-comp-at-google-meta-and-amazon-using-actual-2026-data-d5ef85f41c3f?source=rss------data_science-5)
+- [Why Ethical Scrutiny of AI Needs to Expand Beyond Compliance Checklists?](https://medium.com/@curiousmind1786/why-ethical-scrutiny-of-ai-needs-to-expand-beyond-compliance-checklists-75797918af8e?source=rss------data_science-5)
+- [Breaking the Chains of Ebola: How a New Computational Breakthrough Could Silence a Global Killer…](https://medium.com/@ambitionmagician/breaking-the-chains-of-ebola-how-a-new-computational-breakthrough-could-silence-a-global-killer-4f949173b254?source=rss------data_science-5)
+- [Python H3: Hexagonal Spatial Indexing for Geospatial Analysis](https://medium.com/@stacyfuende/python-h3-hexagonal-spatial-indexing-for-geospatial-analysis-1447a043c32e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
