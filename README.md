@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [PySpark 4.2 Turns Arrow On By Default](https://medium.com/@urazaliev_f/pyspark-4-2-turns-arrow-on-by-default-5e6a5505c3e5?source=rss------data_science-5)
-- [Where Is the Cash? Tracking Money Market Migration](https://medium.com/@BondStats/where-is-the-cash-tracking-money-market-migration-f56870dbca41?source=rss------data_science-5)
-- [Giving DuckDB a Server With Quack](https://medium.com/@gwils1414/giving-duckdb-a-server-with-quack-0af720bf6811?source=rss------data_science-5)
-- [The Dualism Cosmology Theory &lpar;द्वैतवाद ब्रह्मांड सिद्धांत&rpar;](https://medium.com/@aayushkumarsha39/the-dualism-cosmology-theory-%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A5%88%E0%A4%A4%E0%A4%B5%E0%A4%BE%E0%A4%A6-%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%A1-%E0%A4%B8%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BE%E0%A4%82%E0%A4%A4-df6750ddcb9b?source=rss------data_science-5)
-- [DIGITAL SPACE IDENTITY](https://blog.cubed.run/digital-space-identity-65d089073d1c?source=rss------data_science-5)
-- [I Audited 30 Medium Articles. Claps and Evidence Turned Out to Be Almost Unrelated](https://medium.com/@MuawiaMahmoud/i-audited-30-medium-articles-claps-and-evidence-turned-out-to-be-almost-unrelated-aa388b309ef6?source=rss------data_science-5)
-- [I Compared Senior Engineer Comp at Google, Meta, and Amazon Using Actual 2026 Data.](https://medium.com/codex/i-compared-senior-engineer-comp-at-google-meta-and-amazon-using-actual-2026-data-d5ef85f41c3f?source=rss------data_science-5)
-- [Why Ethical Scrutiny of AI Needs to Expand Beyond Compliance Checklists?](https://medium.com/@curiousmind1786/why-ethical-scrutiny-of-ai-needs-to-expand-beyond-compliance-checklists-75797918af8e?source=rss------data_science-5)
-- [Breaking the Chains of Ebola: How a New Computational Breakthrough Could Silence a Global Killer…](https://medium.com/@ambitionmagician/breaking-the-chains-of-ebola-how-a-new-computational-breakthrough-could-silence-a-global-killer-4f949173b254?source=rss------data_science-5)
-- [Python H3: Hexagonal Spatial Indexing for Geospatial Analysis](https://medium.com/@stacyfuende/python-h3-hexagonal-spatial-indexing-for-geospatial-analysis-1447a043c32e?source=rss------data_science-5)
+- [Turning Raw Data into Business Insights  | My Latest Power BI Project](https://medium.com/@uzairkhanned/turning-raw-data-into-business-insights-my-latest-power-bi-project-286cf2b0abed?source=rss------data_science-5)
+- [10 Million Linkers means 10 million reasons to celebrate the InterLink community.](https://medium.com/@samanahmadeneaz/10-million-linkers-means-10-million-reasons-to-celebrate-the-interlink-community-f85ce1746cd8?source=rss------data_science-5)
+- [The AI Feature That Works in the Demo and Breaks in Production](https://medium.datadriveninvestor.com/the-ai-feature-that-works-in-the-demo-and-breaks-in-production-54022f48b999?source=rss------data_science-5)
+- [Connecting Database and Creating Tables Using SQLAlchemy ORM](https://sibabalwesinyaniso.medium.com/connecting-database-and-creating-tables-using-sqlalchemy-orm-bb42c77bea28?source=rss------data_science-5)
+- [Reverse-Engineering Hamiltonian Monte Carlo: The MCMC Engine Behind Modern Bayesian Inference](https://pub.towardsai.net/reverse-engineering-hamiltonian-monte-carlo-the-mcmc-engine-behind-modern-bayesian-inference-e1d6b54a8c79?source=rss------data_science-5)
+- [I Tried to Catch AI Chatbots Herding the Stock Market. Here’s What Actually Happened.](https://medium.com/@aakarsh.kachalia10/i-tried-to-catch-ai-chatbots-herding-the-stock-market-heres-what-actually-happened-b7eee30fd9c4?source=rss------data_science-5)
+- [Bank Customer Churn Analysis](https://medium.com/@opadojajoshua/bank-customer-churn-analysis-c6573b42f61f?source=rss------data_science-5)
+- [Charting the Path Ahead: Navigating AI’s Uneven Terrain Through Problem Types](https://medium.com/@curiousmind1786/charting-the-path-ahead-navigating-ais-uneven-terrain-through-problem-types-716ae4b67a78?source=rss------data_science-5)
+- [Can Planetary Positions Help Predict Weather? A Scientific Test of Astrometeorology](https://medium.com/@vitalius_vasilii/can-planetary-positions-help-predict-weather-a-scientific-test-of-astrometeorology-6cfa5c085bb8?source=rss------data_science-5)
+- [Demystifying AI Math: A First-Principles Guide to Tensors, Gradients, and How Machines Learn](https://medium.com/@contactomyna/demystifying-ai-math-a-first-principles-guide-to-tensors-gradients-and-how-machines-learn-2c0617174338?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
