@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Turning Raw Data into Business Insights  | My Latest Power BI Project](https://medium.com/@uzairkhanned/turning-raw-data-into-business-insights-my-latest-power-bi-project-286cf2b0abed?source=rss------data_science-5)
-- [10 Million Linkers means 10 million reasons to celebrate the InterLink community.](https://medium.com/@samanahmadeneaz/10-million-linkers-means-10-million-reasons-to-celebrate-the-interlink-community-f85ce1746cd8?source=rss------data_science-5)
-- [The AI Feature That Works in the Demo and Breaks in Production](https://medium.datadriveninvestor.com/the-ai-feature-that-works-in-the-demo-and-breaks-in-production-54022f48b999?source=rss------data_science-5)
-- [Connecting Database and Creating Tables Using SQLAlchemy ORM](https://sibabalwesinyaniso.medium.com/connecting-database-and-creating-tables-using-sqlalchemy-orm-bb42c77bea28?source=rss------data_science-5)
-- [Reverse-Engineering Hamiltonian Monte Carlo: The MCMC Engine Behind Modern Bayesian Inference](https://pub.towardsai.net/reverse-engineering-hamiltonian-monte-carlo-the-mcmc-engine-behind-modern-bayesian-inference-e1d6b54a8c79?source=rss------data_science-5)
-- [I Tried to Catch AI Chatbots Herding the Stock Market. Here’s What Actually Happened.](https://medium.com/@aakarsh.kachalia10/i-tried-to-catch-ai-chatbots-herding-the-stock-market-heres-what-actually-happened-b7eee30fd9c4?source=rss------data_science-5)
-- [Bank Customer Churn Analysis](https://medium.com/@opadojajoshua/bank-customer-churn-analysis-c6573b42f61f?source=rss------data_science-5)
-- [Charting the Path Ahead: Navigating AI’s Uneven Terrain Through Problem Types](https://medium.com/@curiousmind1786/charting-the-path-ahead-navigating-ais-uneven-terrain-through-problem-types-716ae4b67a78?source=rss------data_science-5)
-- [Can Planetary Positions Help Predict Weather? A Scientific Test of Astrometeorology](https://medium.com/@vitalius_vasilii/can-planetary-positions-help-predict-weather-a-scientific-test-of-astrometeorology-6cfa5c085bb8?source=rss------data_science-5)
-- [Demystifying AI Math: A First-Principles Guide to Tensors, Gradients, and How Machines Learn](https://medium.com/@contactomyna/demystifying-ai-math-a-first-principles-guide-to-tensors-gradients-and-how-machines-learn-2c0617174338?source=rss------data_science-5)
+- [自身匮乏的人，会有想要压制他身边的人的念头。而我们要链接自己的源头，这样才能释放真正自我能量场。
+And ur heart could be healed by yourself.stay](https://medium.com/@shirlywangchao/%E8%87%AA%E8%BA%AB%E5%8C%AE%E4%B9%8F%E7%9A%84%E4%BA%BA-%E4%BC%9A%E6%9C%89%E6%83%B3%E8%A6%81%E5%8E%8B%E5%88%B6%E4%BB%96%E8%BA%AB%E8%BE%B9%E7%9A%84%E4%BA%BA%E7%9A%84%E5%BF%B5%E5%A4%B4-%E8%80%8C%E6%88%91%E4%BB%AC%E8%A6%81%E9%93%BE%E6%8E%A5%E8%87%AA%E5%B7%B1%E7%9A%84%E6%BA%90%E5%A4%B4-%E8%BF%99%E6%A0%B7%E6%89%8D%E8%83%BD%E9%87%8A%E6%94%BE%E7%9C%9F%E6%AD%A3%E8%87%AA%E6%88%91%E8%83%BD%E9%87%8F%E5%9C%BA-and-ur-heart-could-be-healed-by-yourself-stay-45a08710802a?source=rss------data_science-5)
+- [What Nobody Tells You About Learning Data Analytics From Scratch](https://medium.com/@AkshatResilience/what-nobody-tells-you-about-learning-data-analytics-from-scratch-84b5d7ae946b?source=rss------data_science-5)
+- [Chunking Strategies for Production RAG: From Fixed-Size to Context-Aware and Multimodal Retrieval](https://medium.com/@er.rajkumaar/chunking-strategies-for-production-rag-from-fixed-size-to-context-aware-and-multimodal-retrieval-616808e9ff60?source=rss------data_science-5)
+- [Synthetic Data Is Teaching AI What the Real World Cannot](https://medium.com/@rishika_drona/synthetic-data-is-teaching-ai-what-the-real-world-cannot-19527cf1dc90?source=rss------data_science-5)
+- [Velocity](https://medium.com/@davetedwards/velocity-8ab095df208d?source=rss------data_science-5)
+- [Sundays with Steve #1: A Conversation About AI, Data and What Comes Next](https://medium.com/@sallayev/sundays-with-steve-1-a-conversation-about-ai-data-and-what-comes-next-5268f8b92389?source=rss------data_science-5)
+- [I Tested Claude’s Default Web Search Against Its New Firecrawl Connector. It Wasn’t Close.](https://medium.com/@info.booststash/i-tested-claudes-default-web-search-against-its-new-firecrawl-connector-it-wasn-t-close-e8c263a882eb?source=rss------data_science-5)
+- [A Spiking Network As a Matrix Equation](https://medium.com/@jimeharrisjr/a-spiking-network-as-a-matrix-equation-dc5aca6e5f8a?source=rss------data_science-5)
+- [A Simple Guide to API + Integrations](https://meetcyber.net/a-simple-guide-to-api-integrations-4a3d0e13919e?source=rss------data_science-5)
+- [Why AI-Driven Products Struggle to Outlast Their Initial Buzz?](https://medium.com/@curiousmind1786/why-ai-driven-products-struggle-to-outlast-their-initial-buzz-f633d1ccb288?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
