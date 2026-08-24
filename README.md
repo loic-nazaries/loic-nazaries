@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [自身匮乏的人，会有想要压制他身边的人的念头。而我们要链接自己的源头，这样才能释放真正自我能量场。
-And ur heart could be healed by yourself.stay](https://medium.com/@shirlywangchao/%E8%87%AA%E8%BA%AB%E5%8C%AE%E4%B9%8F%E7%9A%84%E4%BA%BA-%E4%BC%9A%E6%9C%89%E6%83%B3%E8%A6%81%E5%8E%8B%E5%88%B6%E4%BB%96%E8%BA%AB%E8%BE%B9%E7%9A%84%E4%BA%BA%E7%9A%84%E5%BF%B5%E5%A4%B4-%E8%80%8C%E6%88%91%E4%BB%AC%E8%A6%81%E9%93%BE%E6%8E%A5%E8%87%AA%E5%B7%B1%E7%9A%84%E6%BA%90%E5%A4%B4-%E8%BF%99%E6%A0%B7%E6%89%8D%E8%83%BD%E9%87%8A%E6%94%BE%E7%9C%9F%E6%AD%A3%E8%87%AA%E6%88%91%E8%83%BD%E9%87%8F%E5%9C%BA-and-ur-heart-could-be-healed-by-yourself-stay-45a08710802a?source=rss------data_science-5)
-- [What Nobody Tells You About Learning Data Analytics From Scratch](https://medium.com/@AkshatResilience/what-nobody-tells-you-about-learning-data-analytics-from-scratch-84b5d7ae946b?source=rss------data_science-5)
-- [Chunking Strategies for Production RAG: From Fixed-Size to Context-Aware and Multimodal Retrieval](https://medium.com/@er.rajkumaar/chunking-strategies-for-production-rag-from-fixed-size-to-context-aware-and-multimodal-retrieval-616808e9ff60?source=rss------data_science-5)
-- [Synthetic Data Is Teaching AI What the Real World Cannot](https://medium.com/@rishika_drona/synthetic-data-is-teaching-ai-what-the-real-world-cannot-19527cf1dc90?source=rss------data_science-5)
-- [Velocity](https://medium.com/@davetedwards/velocity-8ab095df208d?source=rss------data_science-5)
-- [Sundays with Steve #1: A Conversation About AI, Data and What Comes Next](https://medium.com/@sallayev/sundays-with-steve-1-a-conversation-about-ai-data-and-what-comes-next-5268f8b92389?source=rss------data_science-5)
-- [I Tested Claude’s Default Web Search Against Its New Firecrawl Connector. It Wasn’t Close.](https://medium.com/@info.booststash/i-tested-claudes-default-web-search-against-its-new-firecrawl-connector-it-wasn-t-close-e8c263a882eb?source=rss------data_science-5)
-- [A Spiking Network As a Matrix Equation](https://medium.com/@jimeharrisjr/a-spiking-network-as-a-matrix-equation-dc5aca6e5f8a?source=rss------data_science-5)
-- [A Simple Guide to API + Integrations](https://meetcyber.net/a-simple-guide-to-api-integrations-4a3d0e13919e?source=rss------data_science-5)
-- [Why AI-Driven Products Struggle to Outlast Their Initial Buzz?](https://medium.com/@curiousmind1786/why-ai-driven-products-struggle-to-outlast-their-initial-buzz-f633d1ccb288?source=rss------data_science-5)
+- [Metadata in Vector Databases: The Missing Context Behind Better RAG](https://medium.com/@gandhipratik65/metadata-in-vector-databases-the-missing-context-behind-better-rag-c3c45d05716d?source=rss------data_science-5)
+- [Water Is No Longer an Anomaly: Case closed, Structurally!](https://medium.com/@auf2026/water-is-no-longer-an-anomaly-case-closed-structurally-fc69b6e347bf?source=rss------data_science-5)
+- [Seeing More Pitches Doesn’t Do What You Think](https://medium.com/@owenkotler1/seeing-more-pitches-doesnt-do-what-you-think-bb601d4f301b?source=rss------data_science-5)
+- [Dutch Grand Prix 2026: Sprint Qualifying, Sprint Race &amp; Qualifying Report](https://medium.com/@soni.soni.parth/dutch-grand-prix-2026-sprint-qualifying-sprint-race-qualifying-report-e00034255992?source=rss------data_science-5)
+- [Analyzing a U.S. Dealership Network&#39;s Sales Performance &lpar;2022 to 2023&rpar;](https://medium.com/@georgenzubechi/analyzing-a-u-s-dealership-networks-sales-performance-2022-to-2023-59038882d555?source=rss------data_science-5)
+- [Generative AI and Agentic AI Unveiled Through a Traffic Network Analogy](https://medium.com/@curiousmind1786/generative-ai-and-agentic-ai-unveiled-through-a-traffic-network-analogy-94fbeb841a9c?source=rss------data_science-5)
+- [Some Things Just Can’t Be Measured](https://medium.com/@davetedwards/some-things-just-cant-be-measured-7a676664b9a7?source=rss------data_science-5)
+- [Top 30 FastAPI for AI Services Interview Questions and Answers](https://skphd.medium.com/top-30-fastapi-for-ai-services-interview-questions-and-answers-7dcd149738ab?source=rss------data_science-5)
+- [Skills I Used During Business Data Analysis Using Python From raw electrical-sales records to…](https://medium.com/@digitalscholargmailcom/skills-i-used-during-business-data-analysis-using-python-from-raw-electrical-sales-records-to-7dc1ea465bb1?source=rss------data_science-5)
+- [Qubit Telemetry: What a 0.9993 AUC Taught Me About Quantum Hardware](https://medium.com/@vattikutuudaykiran/qubit-telemetry-what-a-0-9993-auc-taught-me-about-quantum-hardware-6487cc342fb1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
