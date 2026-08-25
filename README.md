@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Metadata in Vector Databases: The Missing Context Behind Better RAG](https://medium.com/@gandhipratik65/metadata-in-vector-databases-the-missing-context-behind-better-rag-c3c45d05716d?source=rss------data_science-5)
-- [Water Is No Longer an Anomaly: Case closed, Structurally!](https://medium.com/@auf2026/water-is-no-longer-an-anomaly-case-closed-structurally-fc69b6e347bf?source=rss------data_science-5)
-- [Seeing More Pitches Doesn’t Do What You Think](https://medium.com/@owenkotler1/seeing-more-pitches-doesnt-do-what-you-think-bb601d4f301b?source=rss------data_science-5)
-- [Dutch Grand Prix 2026: Sprint Qualifying, Sprint Race &amp; Qualifying Report](https://medium.com/@soni.soni.parth/dutch-grand-prix-2026-sprint-qualifying-sprint-race-qualifying-report-e00034255992?source=rss------data_science-5)
-- [Analyzing a U.S. Dealership Network&#39;s Sales Performance &lpar;2022 to 2023&rpar;](https://medium.com/@georgenzubechi/analyzing-a-u-s-dealership-networks-sales-performance-2022-to-2023-59038882d555?source=rss------data_science-5)
-- [Generative AI and Agentic AI Unveiled Through a Traffic Network Analogy](https://medium.com/@curiousmind1786/generative-ai-and-agentic-ai-unveiled-through-a-traffic-network-analogy-94fbeb841a9c?source=rss------data_science-5)
-- [Some Things Just Can’t Be Measured](https://medium.com/@davetedwards/some-things-just-cant-be-measured-7a676664b9a7?source=rss------data_science-5)
-- [Top 30 FastAPI for AI Services Interview Questions and Answers](https://skphd.medium.com/top-30-fastapi-for-ai-services-interview-questions-and-answers-7dcd149738ab?source=rss------data_science-5)
-- [Skills I Used During Business Data Analysis Using Python From raw electrical-sales records to…](https://medium.com/@digitalscholargmailcom/skills-i-used-during-business-data-analysis-using-python-from-raw-electrical-sales-records-to-7dc1ea465bb1?source=rss------data_science-5)
-- [Qubit Telemetry: What a 0.9993 AUC Taught Me About Quantum Hardware](https://medium.com/@vattikutuudaykiran/qubit-telemetry-what-a-0-9993-auc-taught-me-about-quantum-hardware-6487cc342fb1?source=rss------data_science-5)
+- [What is Unity Catalog? Complete Guide to Data Governance in Databricks Lakehouse](https://medium.com/@muaazmuzammil69/what-is-unity-catalog-complete-guide-to-data-governance-in-databricks-lakehouse-305f45ffdfbb?source=rss------data_science-5)
+- [From Words to Numbers: Text Representation in NLP](https://medium.com/@tabsalam120/from-words-to-numbers-text-representation-in-nlp-8052e7146577?source=rss------data_science-5)
+- [Scouting the Next Generation: How to Find The World’s Next Soccer Stars](https://medium.com/@arjunxpuri21/scouting-the-next-generation-how-to-find-the-worlds-next-soccer-stars-69adc754ceca?source=rss------data_science-5)
+- [Architecting a FinTech Fraud Engine: How Payment Gateways Catch Fraud in Sub-10ms &lpar;And How I Built…](https://medium.com/@singhadadarsh9240/architecting-a-fintech-fraud-engine-how-payment-gateways-catch-fraud-in-sub-10ms-and-how-i-built-cee47ba7d8f9?source=rss------data_science-5)
+- [AltData.wiki: A Go-To Resource for Exploring Alternative Investment Data](https://medium.com/@altdata/altdata-wiki-a-go-to-resource-for-exploring-alternative-investment-data-9a4c62ecf2b8?source=rss------data_science-5)
+- [The Snitch in Your Pocket](https://medium.com/@meprism/the-snitch-in-your-pocket-29a049d3913e?source=rss------data_science-5)
+- [Why Collaborating with AI Is the Defining Career and Leadership Shift Today?](https://medium.com/@curiousmind1786/why-collaborating-with-ai-is-the-defining-career-and-leadership-shift-today-b3959cef3e23?source=rss------data_science-5)
+- [The Data Science Lifecycle](https://medium.com/@ibukunirinyenikan/data-science-life-cycle-053585e8e768?source=rss------data_science-5)
+- [10 AI Tools Every Beginner Should Try in 2026](https://medium.com/@mrnabeelfx786/10-ai-tools-every-beginner-should-try-in-2026-c60542127eba?source=rss------data_science-5)
+- [10 AI Tools That Can Make Your Smartphone Smarter](https://medium.com/@mrnabeelfx786/10-ai-tools-that-can-make-your-smartphone-smarter-6e038ace54b4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
