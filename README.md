@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What is Unity Catalog? Complete Guide to Data Governance in Databricks Lakehouse](https://medium.com/@muaazmuzammil69/what-is-unity-catalog-complete-guide-to-data-governance-in-databricks-lakehouse-305f45ffdfbb?source=rss------data_science-5)
-- [From Words to Numbers: Text Representation in NLP](https://medium.com/@tabsalam120/from-words-to-numbers-text-representation-in-nlp-8052e7146577?source=rss------data_science-5)
-- [Scouting the Next Generation: How to Find The World’s Next Soccer Stars](https://medium.com/@arjunxpuri21/scouting-the-next-generation-how-to-find-the-worlds-next-soccer-stars-69adc754ceca?source=rss------data_science-5)
-- [Architecting a FinTech Fraud Engine: How Payment Gateways Catch Fraud in Sub-10ms &lpar;And How I Built…](https://medium.com/@singhadadarsh9240/architecting-a-fintech-fraud-engine-how-payment-gateways-catch-fraud-in-sub-10ms-and-how-i-built-cee47ba7d8f9?source=rss------data_science-5)
-- [AltData.wiki: A Go-To Resource for Exploring Alternative Investment Data](https://medium.com/@altdata/altdata-wiki-a-go-to-resource-for-exploring-alternative-investment-data-9a4c62ecf2b8?source=rss------data_science-5)
-- [The Snitch in Your Pocket](https://medium.com/@meprism/the-snitch-in-your-pocket-29a049d3913e?source=rss------data_science-5)
-- [Why Collaborating with AI Is the Defining Career and Leadership Shift Today?](https://medium.com/@curiousmind1786/why-collaborating-with-ai-is-the-defining-career-and-leadership-shift-today-b3959cef3e23?source=rss------data_science-5)
-- [The Data Science Lifecycle](https://medium.com/@ibukunirinyenikan/data-science-life-cycle-053585e8e768?source=rss------data_science-5)
-- [10 AI Tools Every Beginner Should Try in 2026](https://medium.com/@mrnabeelfx786/10-ai-tools-every-beginner-should-try-in-2026-c60542127eba?source=rss------data_science-5)
-- [10 AI Tools That Can Make Your Smartphone Smarter](https://medium.com/@mrnabeelfx786/10-ai-tools-that-can-make-your-smartphone-smarter-6e038ace54b4?source=rss------data_science-5)
+- [Top 30 LLM Gateway Architecture Interview Questions and Answers](https://skphd.medium.com/top-30-llm-gateway-architecture-interview-questions-and-answers-1f9c0588052e?source=rss------data_science-5)
+- [Turn a vague business question into a data defini… | beLithe](https://chrisdaily.medium.com/turn-a-vague-business-question-into-a-data-defini-belithe-c27bbce2932f?source=rss------data_science-5)
+- [GUNUNG KELUD](https://medium.com/@Yogasaputra29/gunung-kelud-4413c97a2688?source=rss------data_science-5)
+- [Machine Learning: How a Machine Actually Learns](https://medium.com/it-simplified/machine-learning-how-a-machine-actually-learns-b351cf1764fc?source=rss------data_science-5)
+- [Retrieving Data from a Database Using SQLAlchemy ORM](https://sibabalwesinyaniso.medium.com/retrieving-data-from-a-database-using-sqlalchemy-orm-02dfc73d3ed0?source=rss------data_science-5)
+- [EUIJEONG’S Regime · The Print №2](https://kaiserresearch.medium.com/euijeongs-regime-the-print-2-622ea48714f8?source=rss------data_science-5)
+- [Charting AI Conversations: Translating Cognitive Dynamics into Conversational Design](https://medium.com/@curiousmind1786/charting-ai-conversations-translating-cognitive-dynamics-into-conversational-design-85437d01518b?source=rss------data_science-5)
+- [5-minute: K-Nearest Neighbors &lpar;KNN&rpar; with Python](https://thejeanfernandes.medium.com/5-minute-k-nearest-neighbors-knn-with-python-437353013071?source=rss------data_science-5)
+- [Defensive Publication as Mechanism Design: Why I Published 14 Patent Families Instead of Patenting…](https://medium.com/@savantframeworkadmin/defensive-publication-as-mechanism-design-why-i-published-14-patent-families-instead-of-patenting-0f44bca9d454?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
