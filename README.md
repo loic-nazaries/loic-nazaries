@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Top 30 LLM Gateway Architecture Interview Questions and Answers](https://skphd.medium.com/top-30-llm-gateway-architecture-interview-questions-and-answers-1f9c0588052e?source=rss------data_science-5)
-- [Turn a vague business question into a data defini… | beLithe](https://chrisdaily.medium.com/turn-a-vague-business-question-into-a-data-defini-belithe-c27bbce2932f?source=rss------data_science-5)
-- [GUNUNG KELUD](https://medium.com/@Yogasaputra29/gunung-kelud-4413c97a2688?source=rss------data_science-5)
-- [Machine Learning: How a Machine Actually Learns](https://medium.com/it-simplified/machine-learning-how-a-machine-actually-learns-b351cf1764fc?source=rss------data_science-5)
-- [Retrieving Data from a Database Using SQLAlchemy ORM](https://sibabalwesinyaniso.medium.com/retrieving-data-from-a-database-using-sqlalchemy-orm-02dfc73d3ed0?source=rss------data_science-5)
-- [EUIJEONG’S Regime · The Print №2](https://kaiserresearch.medium.com/euijeongs-regime-the-print-2-622ea48714f8?source=rss------data_science-5)
-- [Charting AI Conversations: Translating Cognitive Dynamics into Conversational Design](https://medium.com/@curiousmind1786/charting-ai-conversations-translating-cognitive-dynamics-into-conversational-design-85437d01518b?source=rss------data_science-5)
-- [5-minute: K-Nearest Neighbors &lpar;KNN&rpar; with Python](https://thejeanfernandes.medium.com/5-minute-k-nearest-neighbors-knn-with-python-437353013071?source=rss------data_science-5)
-- [Defensive Publication as Mechanism Design: Why I Published 14 Patent Families Instead of Patenting…](https://medium.com/@savantframeworkadmin/defensive-publication-as-mechanism-design-why-i-published-14-patent-families-instead-of-patenting-0f44bca9d454?source=rss------data_science-5)
+- [From Notebook to Production: Turning an ML Analysis Into a Real System](https://medium.com/@wathsala.nilaweera2001/from-notebook-to-production-turning-an-ml-analysis-into-a-real-system-46b43abb07a2?source=rss------data_science-5)
+- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-63ac24fc4ea0?source=rss------data_science-5)
+- [UNBREAKABLE BINDING LOVE SPELLS TO PROTECT YOUR RELATIONSHIP](https://medium.com/@doctorkhann1/unbreakable-binding-love-spells-to-protect-your-relationship-3bb0e99bcf80?source=rss------data_science-5)
+- [Complete Step-by-Step Process of Building a Machine Learning Model](https://medium.com/@awaisjatoi678/complete-step-by-step-process-of-building-a-machine-learning-model-b5fdfce033fc?source=rss------data_science-5)
+- [Data Science Misunderstandings #1: Why You Should Never Average an Average](https://medium.com/@william.d888/data-science-misunderstandings-1-why-you-should-never-average-an-average-f67e693744e9?source=rss------data_science-5)
+- [10 dbt Interview Questions and Answers That Separate Data Engineers Who Know the Tool From Those…](https://blog.stackademic.com/10-dbt-interview-questions-and-answers-that-separate-data-engineers-who-know-the-tool-from-those-6262057649ed?source=rss------data_science-5)
+- [Inside RenderX Agency: How Kartik Sehra and Alka Mahipal Are Building a High-Growth Creative Agency](https://medium.com/@uditsoni214/inside-renderx-agency-how-kartik-sehra-and-alka-mahipal-are-building-a-high-growth-creative-agency-911c6d242548?source=rss------data_science-5)
+- [The Metal Whose Entire Public Image Is a Tomato &lpar;And Whose Price Is Set by a Country That Doesn’t…](https://thequantasticjournal.com/the-metal-whose-entire-public-image-is-a-tomato-and-whose-price-is-set-by-a-country-that-doesnt-98cf3767737c?source=rss------data_science-5)
+- [Pipeline Green Isn’t Data Correct](https://medium.com/codex/pipeline-green-isnt-data-correct-dad6044c50ac?source=rss------data_science-5)
+- [Best Data Science Course in Hyderabad](https://medium.com/@coxah10447/best-data-science-course-in-hyderabad-51aa70e6e238?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
