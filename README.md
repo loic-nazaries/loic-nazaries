@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [From Notebook to Production: Turning an ML Analysis Into a Real System](https://medium.com/@wathsala.nilaweera2001/from-notebook-to-production-turning-an-ml-analysis-into-a-real-system-46b43abb07a2?source=rss------data_science-5)
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-63ac24fc4ea0?source=rss------data_science-5)
-- [UNBREAKABLE BINDING LOVE SPELLS TO PROTECT YOUR RELATIONSHIP](https://medium.com/@doctorkhann1/unbreakable-binding-love-spells-to-protect-your-relationship-3bb0e99bcf80?source=rss------data_science-5)
-- [Complete Step-by-Step Process of Building a Machine Learning Model](https://medium.com/@awaisjatoi678/complete-step-by-step-process-of-building-a-machine-learning-model-b5fdfce033fc?source=rss------data_science-5)
-- [Data Science Misunderstandings #1: Why You Should Never Average an Average](https://medium.com/@william.d888/data-science-misunderstandings-1-why-you-should-never-average-an-average-f67e693744e9?source=rss------data_science-5)
-- [10 dbt Interview Questions and Answers That Separate Data Engineers Who Know the Tool From Those…](https://blog.stackademic.com/10-dbt-interview-questions-and-answers-that-separate-data-engineers-who-know-the-tool-from-those-6262057649ed?source=rss------data_science-5)
-- [Inside RenderX Agency: How Kartik Sehra and Alka Mahipal Are Building a High-Growth Creative Agency](https://medium.com/@uditsoni214/inside-renderx-agency-how-kartik-sehra-and-alka-mahipal-are-building-a-high-growth-creative-agency-911c6d242548?source=rss------data_science-5)
-- [The Metal Whose Entire Public Image Is a Tomato &lpar;And Whose Price Is Set by a Country That Doesn’t…](https://thequantasticjournal.com/the-metal-whose-entire-public-image-is-a-tomato-and-whose-price-is-set-by-a-country-that-doesnt-98cf3767737c?source=rss------data_science-5)
-- [Pipeline Green Isn’t Data Correct](https://medium.com/codex/pipeline-green-isnt-data-correct-dad6044c50ac?source=rss------data_science-5)
-- [Best Data Science Course in Hyderabad](https://medium.com/@coxah10447/best-data-science-course-in-hyderabad-51aa70e6e238?source=rss------data_science-5)
+- [Linear Algebra 1: The Condition Number Is the Error Bar on Your Solve](https://medium.com/@jonghajeon1990/linear-algebra-1-the-condition-number-is-the-error-bar-on-your-solve-bf863dc89e3c?source=rss------data_science-5)
+- [The Life of a Developer in the Age of AI](https://medium.com/people-career-dreams/the-life-of-a-developer-in-the-age-of-ai-7f4a98e969d1?source=rss------data_science-5)
+- [How I Planned My Dream Trip to America on a Budget in 2026](https://medium.com/@mdtobiburr198/how-i-planned-my-dream-trip-to-america-on-a-budget-in-2026-abda475c2436?source=rss------data_science-5)
+- [Artificial Intelligence and Data Science: What Students Should Know](https://solamalaiengineeringcollege.medium.com/artificial-intelligence-and-data-science-what-students-should-know-c0cfdd250143?source=rss------data_science-5)
+- [BLOG — OASIS INFOBYTE DATA SCIENCE INTERNSHIP EXPERIENCE](https://medium.com/@safanoorin27/blog-oasis-infobyte-data-science-internship-experience-f404d8f4b323?source=rss------data_science-5)
+- [Наука про тканини: що каже дослідження Journal of Sleep Research 2024](https://medium.com/@info_98465/%D0%BD%D0%B0%D1%83%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE-%D1%82%D0%BA%D0%B0%D0%BD%D0%B8%D0%BD%D0%B8-%D1%89%D0%BE-%D0%BA%D0%B0%D0%B6%D0%B5-%D0%B4%D0%BE%D1%81%D0%BB%D1%96%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-journal-of-sleep-research-2024-1099f7805913?source=rss------data_science-5)
+- [Tatiana Volkova — global development build](https://medium.com/@tetiana.v/tatiana-volkova-global-development-build-1fd773488636?source=rss------data_science-5)
+- [Is Sound Healing Scientifically Effective? Examining the Research on Singing Bowls](https://medium.com/@stores-mail/is-sound-healing-scientifically-effective-examining-the-research-on-singing-bowls-d001f5372358?source=rss------data_science-5)
+- [Every MMM Vendor Sells You a House. Read the Lease First.](https://medium.com/@mass.analytics/every-mmm-vendor-sells-you-a-house-read-the-lease-first-0d29fe5c5ece?source=rss------data_science-5)
+- [What Is Dolomitic Marble — And Why Does It Matter for Large Stone Projects?](https://medium.com/@tingzhenghd/what-is-dolomitic-marble-and-why-does-it-matter-for-large-stone-projects-69dcefe166ba?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
