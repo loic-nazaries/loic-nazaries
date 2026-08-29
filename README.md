@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Linear Algebra 1: The Condition Number Is the Error Bar on Your Solve](https://medium.com/@jonghajeon1990/linear-algebra-1-the-condition-number-is-the-error-bar-on-your-solve-bf863dc89e3c?source=rss------data_science-5)
-- [The Life of a Developer in the Age of AI](https://medium.com/people-career-dreams/the-life-of-a-developer-in-the-age-of-ai-7f4a98e969d1?source=rss------data_science-5)
-- [How I Planned My Dream Trip to America on a Budget in 2026](https://medium.com/@mdtobiburr198/how-i-planned-my-dream-trip-to-america-on-a-budget-in-2026-abda475c2436?source=rss------data_science-5)
-- [Artificial Intelligence and Data Science: What Students Should Know](https://solamalaiengineeringcollege.medium.com/artificial-intelligence-and-data-science-what-students-should-know-c0cfdd250143?source=rss------data_science-5)
-- [BLOG — OASIS INFOBYTE DATA SCIENCE INTERNSHIP EXPERIENCE](https://medium.com/@safanoorin27/blog-oasis-infobyte-data-science-internship-experience-f404d8f4b323?source=rss------data_science-5)
-- [Наука про тканини: що каже дослідження Journal of Sleep Research 2024](https://medium.com/@info_98465/%D0%BD%D0%B0%D1%83%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE-%D1%82%D0%BA%D0%B0%D0%BD%D0%B8%D0%BD%D0%B8-%D1%89%D0%BE-%D0%BA%D0%B0%D0%B6%D0%B5-%D0%B4%D0%BE%D1%81%D0%BB%D1%96%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-journal-of-sleep-research-2024-1099f7805913?source=rss------data_science-5)
-- [Tatiana Volkova — global development build](https://medium.com/@tetiana.v/tatiana-volkova-global-development-build-1fd773488636?source=rss------data_science-5)
-- [Is Sound Healing Scientifically Effective? Examining the Research on Singing Bowls](https://medium.com/@stores-mail/is-sound-healing-scientifically-effective-examining-the-research-on-singing-bowls-d001f5372358?source=rss------data_science-5)
-- [Every MMM Vendor Sells You a House. Read the Lease First.](https://medium.com/@mass.analytics/every-mmm-vendor-sells-you-a-house-read-the-lease-first-0d29fe5c5ece?source=rss------data_science-5)
-- [What Is Dolomitic Marble — And Why Does It Matter for Large Stone Projects?](https://medium.com/@tingzhenghd/what-is-dolomitic-marble-and-why-does-it-matter-for-large-stone-projects-69dcefe166ba?source=rss------data_science-5)
+- [How to Choose the Best Software Development Company for Your Business](https://medium.com/@snehawork702/how-to-choose-the-best-software-development-company-for-your-business-97ee909b63ff?source=rss------data_science-5)
+- [Tencent Hy4 Preview Beats GLM 5.3, Qwen 3.8, Kimi K3](https://medium.com/data-science-in-your-pocket/tencent-hy4-preview-beats-glm-5-3-qwen-3-8-kimi-k3-8ff85d3dbe5b?source=rss------data_science-5)
+- [4 LLM Caches Every AI Developer Needs to Know Before Your Bill Explodes](https://medium.com/ai-engineering-simplified/4-llm-caches-every-ai-developer-needs-to-know-before-your-bill-explodes-d780b69e7f3b?source=rss------data_science-5)
+- [The AI Workflow I Use for Accurate Data Extraction](https://ai.gopubby.com/the-ai-workflow-i-use-for-accurate-data-extraction-44a758b6d6b0?source=rss------data_science-5)
+- [GLM 5.3 Flash vs Qwen 3.8-Flash-Next](https://medium.com/data-science-in-your-pocket/glm-5-3-flash-vs-qwen-3-8-flash-next-afc7969ff4f7?source=rss------data_science-5)
+- [I Fed a Model Its Own Output for Three Weeks. Then It Started Talking About Jackrabbits.](https://medium.com/readers-club/i-fed-a-model-its-own-output-for-three-weeks-then-it-started-talking-about-jackrabbits-069fcbadc928?source=rss------data_science-5)
+- [CSV Files Aren’t Broken: They’re Just Misunderstood](https://medium.com/@techbyjeel/csv-files-formatting-errors-explained-a6a40647b91e?source=rss------data_science-5)
+- [Who gets to author your governance?](https://medium.com/@krupesh.desai/who-gets-to-author-your-governance-d66f8250e8fe?source=rss------data_science-5)
+- [Agentic System Design: Part 1 — Prompt Chaining](https://blog.gopenai.com/agentic-system-design-part-1-prompt-chaining-084c48d0fb1d?source=rss------data_science-5)
+- [We’re Evaporating Water in the Driest Desert on Earth To Build The Future](https://medium.com/southern-winds/were-evaporating-water-in-the-driest-desert-on-earth-to-build-the-future-5a4786dc876a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
