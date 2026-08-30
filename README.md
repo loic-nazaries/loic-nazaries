@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Choose the Best Software Development Company for Your Business](https://medium.com/@snehawork702/how-to-choose-the-best-software-development-company-for-your-business-97ee909b63ff?source=rss------data_science-5)
-- [Tencent Hy4 Preview Beats GLM 5.3, Qwen 3.8, Kimi K3](https://medium.com/data-science-in-your-pocket/tencent-hy4-preview-beats-glm-5-3-qwen-3-8-kimi-k3-8ff85d3dbe5b?source=rss------data_science-5)
-- [4 LLM Caches Every AI Developer Needs to Know Before Your Bill Explodes](https://medium.com/ai-engineering-simplified/4-llm-caches-every-ai-developer-needs-to-know-before-your-bill-explodes-d780b69e7f3b?source=rss------data_science-5)
-- [The AI Workflow I Use for Accurate Data Extraction](https://ai.gopubby.com/the-ai-workflow-i-use-for-accurate-data-extraction-44a758b6d6b0?source=rss------data_science-5)
-- [GLM 5.3 Flash vs Qwen 3.8-Flash-Next](https://medium.com/data-science-in-your-pocket/glm-5-3-flash-vs-qwen-3-8-flash-next-afc7969ff4f7?source=rss------data_science-5)
-- [I Fed a Model Its Own Output for Three Weeks. Then It Started Talking About Jackrabbits.](https://medium.com/readers-club/i-fed-a-model-its-own-output-for-three-weeks-then-it-started-talking-about-jackrabbits-069fcbadc928?source=rss------data_science-5)
-- [CSV Files Aren’t Broken: They’re Just Misunderstood](https://medium.com/@techbyjeel/csv-files-formatting-errors-explained-a6a40647b91e?source=rss------data_science-5)
-- [Who gets to author your governance?](https://medium.com/@krupesh.desai/who-gets-to-author-your-governance-d66f8250e8fe?source=rss------data_science-5)
-- [Agentic System Design: Part 1 — Prompt Chaining](https://blog.gopenai.com/agentic-system-design-part-1-prompt-chaining-084c48d0fb1d?source=rss------data_science-5)
-- [We’re Evaporating Water in the Driest Desert on Earth To Build The Future](https://medium.com/southern-winds/were-evaporating-water-in-the-driest-desert-on-earth-to-build-the-future-5a4786dc876a?source=rss------data_science-5)
+- [Helsing’s HX-2 Karma Line — Germany’s AI Strike Drone Just Hit 1,000-a-Month Production for Kyiv](https://medium.com/@Forensic-Archive/helsings-hx-2-karma-line-germany-s-ai-strike-drone-just-hit-1-000-a-month-production-for-kyiv-4db8f12d61b7?source=rss------data_science-5)
+- [Every Kill Count in the Ukraine War Is a Lie — So I Ran the Forensic Math on All of Them](https://medium.com/@Forensic-Archive/every-kill-count-in-the-ukraine-war-is-a-lie-so-i-ran-the-forensic-math-on-all-of-them-0e4f6b69eb74?source=rss------data_science-5)
+- [Every Expert Saw Russia’s Army. Nobody Saw the War. The Great Intelligence Autopsy.](https://medium.com/@Forensic-Archive/every-expert-saw-russias-army-nobody-saw-the-war-the-great-intelligence-autopsy-cb6ef2d9a27e?source=rss------data_science-5)
+- [How to Build a Cohort Retention Matrix in R and Python](https://zimanaanalytics.medium.com/how-to-build-a-cohort-retention-matrix-in-r-and-python-e464ffd314ed?source=rss------data_science-5)
+- [The Table That Never Refreshes — And Never Tells You: A Dynamic Tables Deep Dive](https://medium.com/@dheerajmanchanda92/the-table-that-never-refreshes-and-never-tells-you-a-dynamic-tables-deep-dive-4ce6ea76b919?source=rss------data_science-5)
+- [Unlocking New Value and Risks: How AI’s Shift From Replacement to Collaboration Reshapes Industry…](https://medium.com/@curiousmind1786/unlocking-new-value-and-risks-how-ais-shift-from-replacement-to-collaboration-reshapes-industry-fc2f123e2d8f?source=rss------data_science-5)
+- [The Category That Wasn’t: How a Dropdown Menu Became a Fraud Vector](https://medium.com/@abdulrehmanenayat/the-category-that-wasnt-how-a-dropdown-menu-became-a-fraud-vector-1f9eae25d790?source=rss------data_science-5)
+- [Autocorrelation: The Statistic Hiding Inside Every Mean-Reversion Trade](https://medium.com/@wl8380/autocorrelation-the-statistic-hiding-inside-every-mean-reversion-trade-5b6b5c850120?source=rss------data_science-5)
+- [Best NAS for Home Use in 2026: How I Fired My Cloud Storage Landlord and Started Owning My Files](https://medium.com/@ayeshha2398/best-nas-for-home-use-in-2026-how-i-fired-my-cloud-storage-landlord-and-started-owning-my-files-b7fbddf723e8?source=rss------data_science-5)
+- [Tier 6](https://medium.com/@savantframeworkadmin/tier-6-44225facf7f9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
