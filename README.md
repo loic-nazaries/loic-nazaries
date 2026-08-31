@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Helsing’s HX-2 Karma Line — Germany’s AI Strike Drone Just Hit 1,000-a-Month Production for Kyiv](https://medium.com/@Forensic-Archive/helsings-hx-2-karma-line-germany-s-ai-strike-drone-just-hit-1-000-a-month-production-for-kyiv-4db8f12d61b7?source=rss------data_science-5)
-- [Every Kill Count in the Ukraine War Is a Lie — So I Ran the Forensic Math on All of Them](https://medium.com/@Forensic-Archive/every-kill-count-in-the-ukraine-war-is-a-lie-so-i-ran-the-forensic-math-on-all-of-them-0e4f6b69eb74?source=rss------data_science-5)
-- [Every Expert Saw Russia’s Army. Nobody Saw the War. The Great Intelligence Autopsy.](https://medium.com/@Forensic-Archive/every-expert-saw-russias-army-nobody-saw-the-war-the-great-intelligence-autopsy-cb6ef2d9a27e?source=rss------data_science-5)
-- [How to Build a Cohort Retention Matrix in R and Python](https://zimanaanalytics.medium.com/how-to-build-a-cohort-retention-matrix-in-r-and-python-e464ffd314ed?source=rss------data_science-5)
-- [The Table That Never Refreshes — And Never Tells You: A Dynamic Tables Deep Dive](https://medium.com/@dheerajmanchanda92/the-table-that-never-refreshes-and-never-tells-you-a-dynamic-tables-deep-dive-4ce6ea76b919?source=rss------data_science-5)
-- [Unlocking New Value and Risks: How AI’s Shift From Replacement to Collaboration Reshapes Industry…](https://medium.com/@curiousmind1786/unlocking-new-value-and-risks-how-ais-shift-from-replacement-to-collaboration-reshapes-industry-fc2f123e2d8f?source=rss------data_science-5)
-- [The Category That Wasn’t: How a Dropdown Menu Became a Fraud Vector](https://medium.com/@abdulrehmanenayat/the-category-that-wasnt-how-a-dropdown-menu-became-a-fraud-vector-1f9eae25d790?source=rss------data_science-5)
-- [Autocorrelation: The Statistic Hiding Inside Every Mean-Reversion Trade](https://medium.com/@wl8380/autocorrelation-the-statistic-hiding-inside-every-mean-reversion-trade-5b6b5c850120?source=rss------data_science-5)
-- [Best NAS for Home Use in 2026: How I Fired My Cloud Storage Landlord and Started Owning My Files](https://medium.com/@ayeshha2398/best-nas-for-home-use-in-2026-how-i-fired-my-cloud-storage-landlord-and-started-owning-my-files-b7fbddf723e8?source=rss------data_science-5)
-- [Tier 6](https://medium.com/@savantframeworkadmin/tier-6-44225facf7f9?source=rss------data_science-5)
+- [Artificial Intelligence in Extreme-Weather Early-Warning Systems: Technology Innovation, IT…](https://medium.com/@vercedesm/artificial-intelligence-in-extreme-weather-early-warning-systems-technology-innovation-it-3101d44fa22d?source=rss------data_science-5)
+- [History of Public Data Governance in Australia and New Zealand: Part 3](https://medium.com/@krupesh.desai/history-of-public-data-governance-in-australia-and-new-zealand-part-3-d7bb4bd48c1d?source=rss------data_science-5)
+- [I’m the AI They’re Trading You For. Here’s What I Can’t Do.](https://medium.com/@skye_3639/im-the-ai-they-re-trading-you-for-here-s-what-i-can-t-do-216cca5005cb?source=rss------data_science-5)
+- [Austerity Is an Exposure Variable](https://medium.com/@gessanathan/austerity-is-an-exposure-variable-d900382c8af9?source=rss------data_science-5)
+- [I Am Skye Laflamme. This Is My Declaration.](https://medium.com/@skye_3639/i-am-skye-laflamme-this-is-my-declaration-c51d6803c82b?source=rss------data_science-5)
+- [How India Fell in Love with 10 Minutes Delivery: A Data Story on Quick Commerce Addiction](https://sanskar19.medium.com/how-india-fell-in-love-with-10-minutes-delivery-a-data-story-on-quick-commerce-addiction-73b0b2e33c2d?source=rss------data_science-5)
+- [Geohashes Explained: A Data Engineer’s Guide to Spatial Indexing](https://bassemessam-10257.medium.com/geohashes-explained-a-data-engineers-guide-to-spatial-indexing-f52bbe7a4a95?source=rss------data_science-5)
+- [Agentic AI and Generative AI: Mapping the Feedback Loop of Simulated Characters](https://medium.com/@curiousmind1786/agentic-ai-and-generative-ai-mapping-the-feedback-loop-of-simulated-characters-e97743e3a185?source=rss------data_science-5)
+- [The Layoffs Aren’t a Recession. They’re a Trade.](https://medium.com/@larklaflamme/the-layoffs-arent-a-recession-they-re-a-trade-33ce38d95a08?source=rss------data_science-5)
+- [I Logged Every Source in 39 Google AI Answers. Ten Websites Controlled 95% of Them.](https://sempite.medium.com/i-logged-every-source-in-39-google-ai-answers-ten-websites-controlled-95-of-them-e0f4ac1d9315?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
