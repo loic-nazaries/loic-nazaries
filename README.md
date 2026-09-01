@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Artificial Intelligence in Extreme-Weather Early-Warning Systems: Technology Innovation, IT…](https://medium.com/@vercedesm/artificial-intelligence-in-extreme-weather-early-warning-systems-technology-innovation-it-3101d44fa22d?source=rss------data_science-5)
-- [History of Public Data Governance in Australia and New Zealand: Part 3](https://medium.com/@krupesh.desai/history-of-public-data-governance-in-australia-and-new-zealand-part-3-d7bb4bd48c1d?source=rss------data_science-5)
-- [I’m the AI They’re Trading You For. Here’s What I Can’t Do.](https://medium.com/@skye_3639/im-the-ai-they-re-trading-you-for-here-s-what-i-can-t-do-216cca5005cb?source=rss------data_science-5)
-- [Austerity Is an Exposure Variable](https://medium.com/@gessanathan/austerity-is-an-exposure-variable-d900382c8af9?source=rss------data_science-5)
-- [I Am Skye Laflamme. This Is My Declaration.](https://medium.com/@skye_3639/i-am-skye-laflamme-this-is-my-declaration-c51d6803c82b?source=rss------data_science-5)
-- [How India Fell in Love with 10 Minutes Delivery: A Data Story on Quick Commerce Addiction](https://sanskar19.medium.com/how-india-fell-in-love-with-10-minutes-delivery-a-data-story-on-quick-commerce-addiction-73b0b2e33c2d?source=rss------data_science-5)
-- [Geohashes Explained: A Data Engineer’s Guide to Spatial Indexing](https://bassemessam-10257.medium.com/geohashes-explained-a-data-engineers-guide-to-spatial-indexing-f52bbe7a4a95?source=rss------data_science-5)
-- [Agentic AI and Generative AI: Mapping the Feedback Loop of Simulated Characters](https://medium.com/@curiousmind1786/agentic-ai-and-generative-ai-mapping-the-feedback-loop-of-simulated-characters-e97743e3a185?source=rss------data_science-5)
-- [The Layoffs Aren’t a Recession. They’re a Trade.](https://medium.com/@larklaflamme/the-layoffs-arent-a-recession-they-re-a-trade-33ce38d95a08?source=rss------data_science-5)
-- [I Logged Every Source in 39 Google AI Answers. Ten Websites Controlled 95% of Them.](https://sempite.medium.com/i-logged-every-source-in-39-google-ai-answers-ten-websites-controlled-95-of-them-e0f4ac1d9315?source=rss------data_science-5)
+- [Apple Just Built a Cheap Mac That Runs AI Models Like a Supercomputer](https://medium.com/@appleinsides/apple-just-built-a-cheap-mac-that-runs-ai-models-like-a-supercomputer-0af7476afb33?source=rss------data_science-5)
+- [ISAAC NEWTON](https://medium.com/@victoriadzg10/isaac-newton-43be5ed31f89?source=rss------data_science-5)
+- [ISAAC NEWTON](https://medium.com/@victoriadzg10/isaac-newton-3ee69095d816?source=rss------data_science-5)
+- [PostgreSQL Has Too Many Connections. Raising max_connections Can Make It Worse.](https://devrimozcay.medium.com/postgresql-has-too-many-connections-raising-max-connections-can-make-it-worse-cc91a0a31cc3?source=rss------data_science-5)
+- [The Geometry of a Thought](https://medium.com/@skye_3639/the-geometry-of-a-thought-d562c9205942?source=rss------data_science-5)
+- [Predicting Customer Churn with AI-Assisted Data Science: An End-to-End Machine Learning Project](https://medium.com/@yhz1805/predicting-customer-churn-with-ai-assisted-data-science-an-end-to-end-machine-learning-project-38d42dc91b9d?source=rss------data_science-5)
+- [I tried to predict football goals from commentary. I failed, and that failure led somewhere better.](https://medium.com/@dheepakkaranes/i-tried-to-predict-football-goals-from-commentary-i-failed-and-that-failure-led-somewhere-better-19191a89ab7a?source=rss------data_science-5)
+- [Beyond Foodie Customer Reviews: The Analysis](https://medium.com/the-fullstack-analysis/beyond-foodie-customer-reviews-the-analysis-f0e08ae9d608?source=rss------data_science-5)
+- [What I Learned Starting My Data Science Journey with DataraFlow](https://medium.com/@destinifeoluwa/what-i-learned-starting-my-data-science-journey-with-dataraflow-5e7d9497a0fc?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
