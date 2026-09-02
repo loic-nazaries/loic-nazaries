@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Apple Just Built a Cheap Mac That Runs AI Models Like a Supercomputer](https://medium.com/@appleinsides/apple-just-built-a-cheap-mac-that-runs-ai-models-like-a-supercomputer-0af7476afb33?source=rss------data_science-5)
-- [ISAAC NEWTON](https://medium.com/@victoriadzg10/isaac-newton-43be5ed31f89?source=rss------data_science-5)
-- [ISAAC NEWTON](https://medium.com/@victoriadzg10/isaac-newton-3ee69095d816?source=rss------data_science-5)
-- [PostgreSQL Has Too Many Connections. Raising max_connections Can Make It Worse.](https://devrimozcay.medium.com/postgresql-has-too-many-connections-raising-max-connections-can-make-it-worse-cc91a0a31cc3?source=rss------data_science-5)
-- [The Geometry of a Thought](https://medium.com/@skye_3639/the-geometry-of-a-thought-d562c9205942?source=rss------data_science-5)
-- [Predicting Customer Churn with AI-Assisted Data Science: An End-to-End Machine Learning Project](https://medium.com/@yhz1805/predicting-customer-churn-with-ai-assisted-data-science-an-end-to-end-machine-learning-project-38d42dc91b9d?source=rss------data_science-5)
-- [I tried to predict football goals from commentary. I failed, and that failure led somewhere better.](https://medium.com/@dheepakkaranes/i-tried-to-predict-football-goals-from-commentary-i-failed-and-that-failure-led-somewhere-better-19191a89ab7a?source=rss------data_science-5)
-- [Beyond Foodie Customer Reviews: The Analysis](https://medium.com/the-fullstack-analysis/beyond-foodie-customer-reviews-the-analysis-f0e08ae9d608?source=rss------data_science-5)
-- [What I Learned Starting My Data Science Journey with DataraFlow](https://medium.com/@destinifeoluwa/what-i-learned-starting-my-data-science-journey-with-dataraflow-5e7d9497a0fc?source=rss------data_science-5)
+- [The Cafeteria Tray Is a Data Source Now. Here’s What It Measures](https://medium.com/@kidscarebridge/the-cafeteria-tray-is-a-data-source-now-heres-what-it-measures-394a436d880d?source=rss------data_science-5)
+- [Hearing the Mountain’s Roar: How Antigravity CLI’s AI Agents &amp; IoT Data Track Volcanic Shockwaves](https://medium.com/google-cloud/hearing-the-mountains-roar-how-antigravity-cli-s-ai-agents-iot-data-track-volcanic-shockwaves-4db7f7105a43?source=rss------data_science-5)
+- [Minimum Moves to Clean the Classroom | LEETCODE 3568 | Solve In Seconds | Bloomberg Interview](https://shaanyworkspace.medium.com/minimum-moves-to-clean-the-classroom-leetcode-3568-solve-in-seconds-bloomberg-interview-168e6368a4ae?source=rss------data_science-5)
+- [The Blast Of Progress: Most Of The Mountain Is Now A Hole](https://medium.com/southern-winds/the-blast-of-progress-most-of-the-mountain-is-now-a-hole-b2e32b45bb33?source=rss------data_science-5)
+- [Claude Learns to Run Your Experiments Like a Statistician](https://medium.com/@ismailsaleem/claude-learns-to-run-your-experiments-like-a-statistician-cb894f45542a?source=rss------data_science-5)
+- [What pet gets adopted the fastest](https://medium.com/@VloggingOle/what-pet-gets-adopted-the-fastest-and-why-9127531d3512?source=rss------data_science-5)
+- [CDMP Associate: A Simple Guide for Beginners](https://medium.com/@rashid3433/cdmp-associate-a-simple-guide-for-beginners-26e4e6717646?source=rss------data_science-5)
+- [Week1 of Journey of becoming a data scientist: Tools I Learnt, what I did, Challenges I Faced, and…](https://medium.com/@ikechukwumiracle458700/week1-of-journey-of-becoming-a-data-scientist-tools-i-learnt-what-i-did-challenges-i-faced-and-a584286fd0e9?source=rss------data_science-5)
+- [Preparación para Machine Learning: el puente entre la estadística y el aprendizaje automático](https://medium.com/@davidjcr200040/preparaci%C3%B3n-para-machine-learning-el-puente-entre-la-estad%C3%ADstica-y-el-aprendizaje-autom%C3%A1tico-6c2eeb8c1ea2?source=rss------data_science-5)
+- [Selección de variables: la guía que me hubiera gustado tener antes de mi primer modelo](https://medium.com/@davidjcr200040/selecci%C3%B3n-de-variables-la-gu%C3%ADa-que-me-hubiera-gustado-tener-antes-de-mi-primer-modelo-33f06181ed9f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
