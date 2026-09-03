@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Cafeteria Tray Is a Data Source Now. Here’s What It Measures](https://medium.com/@kidscarebridge/the-cafeteria-tray-is-a-data-source-now-heres-what-it-measures-394a436d880d?source=rss------data_science-5)
-- [Hearing the Mountain’s Roar: How Antigravity CLI’s AI Agents &amp; IoT Data Track Volcanic Shockwaves](https://medium.com/google-cloud/hearing-the-mountains-roar-how-antigravity-cli-s-ai-agents-iot-data-track-volcanic-shockwaves-4db7f7105a43?source=rss------data_science-5)
-- [Minimum Moves to Clean the Classroom | LEETCODE 3568 | Solve In Seconds | Bloomberg Interview](https://shaanyworkspace.medium.com/minimum-moves-to-clean-the-classroom-leetcode-3568-solve-in-seconds-bloomberg-interview-168e6368a4ae?source=rss------data_science-5)
-- [The Blast Of Progress: Most Of The Mountain Is Now A Hole](https://medium.com/southern-winds/the-blast-of-progress-most-of-the-mountain-is-now-a-hole-b2e32b45bb33?source=rss------data_science-5)
-- [Claude Learns to Run Your Experiments Like a Statistician](https://medium.com/@ismailsaleem/claude-learns-to-run-your-experiments-like-a-statistician-cb894f45542a?source=rss------data_science-5)
-- [What pet gets adopted the fastest](https://medium.com/@VloggingOle/what-pet-gets-adopted-the-fastest-and-why-9127531d3512?source=rss------data_science-5)
-- [CDMP Associate: A Simple Guide for Beginners](https://medium.com/@rashid3433/cdmp-associate-a-simple-guide-for-beginners-26e4e6717646?source=rss------data_science-5)
-- [Week1 of Journey of becoming a data scientist: Tools I Learnt, what I did, Challenges I Faced, and…](https://medium.com/@ikechukwumiracle458700/week1-of-journey-of-becoming-a-data-scientist-tools-i-learnt-what-i-did-challenges-i-faced-and-a584286fd0e9?source=rss------data_science-5)
-- [Preparación para Machine Learning: el puente entre la estadística y el aprendizaje automático](https://medium.com/@davidjcr200040/preparaci%C3%B3n-para-machine-learning-el-puente-entre-la-estad%C3%ADstica-y-el-aprendizaje-autom%C3%A1tico-6c2eeb8c1ea2?source=rss------data_science-5)
-- [Selección de variables: la guía que me hubiera gustado tener antes de mi primer modelo](https://medium.com/@davidjcr200040/selecci%C3%B3n-de-variables-la-gu%C3%ADa-que-me-hubiera-gustado-tener-antes-de-mi-primer-modelo-33f06181ed9f?source=rss------data_science-5)
+- [Scaling Personalization: How I Built a Two-Tower Retrieval System for a Million-Item Catalog](https://medium.com/@rayavarapu.harshini/scaling-personalization-how-i-built-a-two-tower-retrieval-system-for-a-million-item-catalog-de9194179e01?source=rss------data_science-5)
+- [What is Reclamation Factory listening to?](https://jessiter.medium.com/what-is-reclamation-factory-listening-to-a6889188a048?source=rss------data_science-5)
+- [AI is going to hit a peak, fade into the background, and human stuff becomes the luxury item](https://medium.com/@MathanaMohanS/ai-is-going-to-hit-a-peak-fade-into-the-background-and-human-stuff-becomes-the-luxury-item-1e212b234316?source=rss------data_science-5)
+- [Statistics: The Language Behind Data](https://medium.com/@moumitapaul.moumi/statistics-the-language-behind-data-a46c0cc51795?source=rss------data_science-5)
+- [Dinamika Akselerasi Populasi dan Ancamannya Terhadap Ketertiban Publik dalam Karya Leviathan](https://medium.com/booknotations/dinamika-akselerasi-populasi-dan-ancamannya-terhadap-ketertiban-publik-dalam-karya-leviathan-2b9e97546b2b?source=rss------data_science-5)
+- [AI Dropshipping in 2026: A Beginner’s Step-by-Step Guide](https://medium.com/@harshthaska17/ai-dropshipping-in-2026-a-beginners-step-by-step-guide-e66c82e46ee3?source=rss------data_science-5)
+- [How Predictive Analytics Can Reduce Hospital Waiting Times](https://medium.com/@rashid3433/how-predictive-analytics-can-reduce-hospital-waiting-times-9b35588f16ba?source=rss------data_science-5)
+- [My First Week Learning Python: From Confusion to “I Think I’m Getting This”](https://medium.com/@chisomlydia99/my-first-week-learning-python-from-confusion-to-i-think-im-getting-this-06adc4f188d8?source=rss------data_science-5)
+- [Is the Problem AI or How We Use It?](https://drc-ontheseen.medium.com/is-the-problem-ai-or-how-we-use-it-c09aa2a83824?source=rss------data_science-5)
+- [Sundays with Steve #10: Can ChatGPT Get Lawyers Sued?](https://medium.com/@sallayev/sundays-with-steve-10-can-chatgpt-get-lawyers-sued-52db18f742b2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
