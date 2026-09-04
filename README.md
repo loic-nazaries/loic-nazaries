@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Scaling Personalization: How I Built a Two-Tower Retrieval System for a Million-Item Catalog](https://medium.com/@rayavarapu.harshini/scaling-personalization-how-i-built-a-two-tower-retrieval-system-for-a-million-item-catalog-de9194179e01?source=rss------data_science-5)
-- [What is Reclamation Factory listening to?](https://jessiter.medium.com/what-is-reclamation-factory-listening-to-a6889188a048?source=rss------data_science-5)
-- [AI is going to hit a peak, fade into the background, and human stuff becomes the luxury item](https://medium.com/@MathanaMohanS/ai-is-going-to-hit-a-peak-fade-into-the-background-and-human-stuff-becomes-the-luxury-item-1e212b234316?source=rss------data_science-5)
-- [Statistics: The Language Behind Data](https://medium.com/@moumitapaul.moumi/statistics-the-language-behind-data-a46c0cc51795?source=rss------data_science-5)
-- [Dinamika Akselerasi Populasi dan Ancamannya Terhadap Ketertiban Publik dalam Karya Leviathan](https://medium.com/booknotations/dinamika-akselerasi-populasi-dan-ancamannya-terhadap-ketertiban-publik-dalam-karya-leviathan-2b9e97546b2b?source=rss------data_science-5)
-- [AI Dropshipping in 2026: A Beginner’s Step-by-Step Guide](https://medium.com/@harshthaska17/ai-dropshipping-in-2026-a-beginners-step-by-step-guide-e66c82e46ee3?source=rss------data_science-5)
-- [How Predictive Analytics Can Reduce Hospital Waiting Times](https://medium.com/@rashid3433/how-predictive-analytics-can-reduce-hospital-waiting-times-9b35588f16ba?source=rss------data_science-5)
-- [My First Week Learning Python: From Confusion to “I Think I’m Getting This”](https://medium.com/@chisomlydia99/my-first-week-learning-python-from-confusion-to-i-think-im-getting-this-06adc4f188d8?source=rss------data_science-5)
-- [Is the Problem AI or How We Use It?](https://drc-ontheseen.medium.com/is-the-problem-ai-or-how-we-use-it-c09aa2a83824?source=rss------data_science-5)
-- [Sundays with Steve #10: Can ChatGPT Get Lawyers Sued?](https://medium.com/@sallayev/sundays-with-steve-10-can-chatgpt-get-lawyers-sued-52db18f742b2?source=rss------data_science-5)
+- [The MCP Server Auth Playbook: What the Spec Leaves Out](https://medium.com/data-science-collective/the-mcp-server-auth-playbook-what-the-spec-leaves-out-d3ae389dd264?source=rss------data_science-5)
+- [The One Parameter That Made My Pandas Code 11x Faster](https://dailypythonpro.medium.com/the-one-parameter-that-made-my-pandas-code-11x-faster-776a2b25ecbd?source=rss------data_science-5)
+- [Sundays with Steve #11: Why AI Is Only As Good As Your Data](https://medium.com/@sallayev/sundays-with-steve-11-why-ai-is-only-as-good-as-your-data-dd8e54d10aed?source=rss------data_science-5)
+- [Data Visualisation for Universities: Best KPIs, Metrics, and Dashboard Design](https://medium.com/@rashid3433/data-visualisation-for-universities-best-kpis-metrics-and-dashboard-design-cfa2cf8898f2?source=rss------data_science-5)
+- [The Interpretation Gap in Real Estate Analytics: BI Shows the Market, It Does Not Tell You What to…](https://medium.com/@Andres2021/the-interpretation-gap-in-real-estate-analytics-bi-shows-the-market-it-does-not-tell-you-what-to-e0abc2413d61?source=rss------data_science-5)
+- [Azure Databricks for Beginners : From Account Setup to Your First Notebook, Table, and Data…](https://medium.com/@chriskaspar/azure-databricks-for-beginners-from-account-setup-to-your-first-notebook-table-and-data-c153a006dd9c?source=rss------data_science-5)
+- [Data Perusahaan Cuma Dimukim di Excel? Sini Belajar Sulap Angka Jadi Bahan PR Viral](https://medium.com/@juarazr/data-perusahaan-cuma-dimukim-di-excel-sini-belajar-sulap-angka-jadi-bahan-pr-viral-937d8529ae71?source=rss------data_science-5)
+- [AI Slop and the Trust Premium: Why “Signaling Something Is Trusted” Is Now the Differentiator](https://medium.com/@Andres2021/ai-slop-and-the-trust-premium-why-signaling-something-is-trusted-is-now-the-differentiator-ed492b96f906?source=rss------data_science-5)
+- [DS in Python 1.1: Use of Iterators in Real Life](https://medium.com/@abhishekjainindore24/ds-in-python-1-1-use-of-iterators-in-real-life-191c0d3e7ed3?source=rss------data_science-5)
+- [The Most Underrated Skill in AI Engineering: Defining Done](https://milind-divre.medium.com/the-most-underrated-skill-in-ai-engineering-defining-done-494358e506c4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
