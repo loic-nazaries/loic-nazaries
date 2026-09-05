@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The MCP Server Auth Playbook: What the Spec Leaves Out](https://medium.com/data-science-collective/the-mcp-server-auth-playbook-what-the-spec-leaves-out-d3ae389dd264?source=rss------data_science-5)
-- [The One Parameter That Made My Pandas Code 11x Faster](https://dailypythonpro.medium.com/the-one-parameter-that-made-my-pandas-code-11x-faster-776a2b25ecbd?source=rss------data_science-5)
-- [Sundays with Steve #11: Why AI Is Only As Good As Your Data](https://medium.com/@sallayev/sundays-with-steve-11-why-ai-is-only-as-good-as-your-data-dd8e54d10aed?source=rss------data_science-5)
-- [Data Visualisation for Universities: Best KPIs, Metrics, and Dashboard Design](https://medium.com/@rashid3433/data-visualisation-for-universities-best-kpis-metrics-and-dashboard-design-cfa2cf8898f2?source=rss------data_science-5)
-- [The Interpretation Gap in Real Estate Analytics: BI Shows the Market, It Does Not Tell You What to…](https://medium.com/@Andres2021/the-interpretation-gap-in-real-estate-analytics-bi-shows-the-market-it-does-not-tell-you-what-to-e0abc2413d61?source=rss------data_science-5)
-- [Azure Databricks for Beginners : From Account Setup to Your First Notebook, Table, and Data…](https://medium.com/@chriskaspar/azure-databricks-for-beginners-from-account-setup-to-your-first-notebook-table-and-data-c153a006dd9c?source=rss------data_science-5)
-- [Data Perusahaan Cuma Dimukim di Excel? Sini Belajar Sulap Angka Jadi Bahan PR Viral](https://medium.com/@juarazr/data-perusahaan-cuma-dimukim-di-excel-sini-belajar-sulap-angka-jadi-bahan-pr-viral-937d8529ae71?source=rss------data_science-5)
-- [AI Slop and the Trust Premium: Why “Signaling Something Is Trusted” Is Now the Differentiator](https://medium.com/@Andres2021/ai-slop-and-the-trust-premium-why-signaling-something-is-trusted-is-now-the-differentiator-ed492b96f906?source=rss------data_science-5)
-- [DS in Python 1.1: Use of Iterators in Real Life](https://medium.com/@abhishekjainindore24/ds-in-python-1-1-use-of-iterators-in-real-life-191c0d3e7ed3?source=rss------data_science-5)
-- [The Most Underrated Skill in AI Engineering: Defining Done](https://milind-divre.medium.com/the-most-underrated-skill-in-ai-engineering-defining-done-494358e506c4?source=rss------data_science-5)
+- [The Web Data Stack Is Changing: Access Policy Is Becoming Part of the Data Contract](https://medium.com/@floraprojectdesk/the-web-data-stack-is-changing-access-policy-is-becoming-part-of-the-data-contract-2660bdf881e9?source=rss------data_science-5)
+- [What Happened Last Week After the Opening Bell?](https://pankaj-tiwari2.medium.com/what-happened-last-week-after-the-opening-bell-40ceb75702cf?source=rss------data_science-5)
+- [Data Visualisation for HR: Best KPIs, Metrics, and Dashboard Design](https://medium.com/@rashid3433/data-visualisation-for-hr-best-kpis-metrics-and-dashboard-design-211d5acab141?source=rss------data_science-5)
+- [Why GPT-6 Astra Still Cannot Compose](https://swarnenduiitb2020i.medium.com/why-gpt-6-astra-still-cannot-compose-dbb56ef4f675?source=rss------data_science-5)
+- [Stop Writing Scripts From Scratch: Automate These 7 Repetitive Data Jobs Using Templates Instead.](https://digitalbykewat.medium.com/stop-writing-scripts-from-scratch-automate-these-7-repetitive-data-jobs-using-templates-instead-00deaf2529a0?source=rss------data_science-5)
+- [I Built an Executive Command Center With AI -Without Being a Front-End Developer](https://medium.com/@rajeshdevadasan/i-built-an-executive-command-center-with-ai-without-being-a-front-end-developer-be966c03aa6c?source=rss------data_science-5)
+- [Building a zero-backend SQL platform as a solo developer](https://medium.com/@dravonicx/building-a-zero-backend-sql-platform-as-a-solo-developer-ce27b0533d75?source=rss------data_science-5)
+- [Starbucks Capstone Project: From Raw Events to a Predictive Model — What 300K+ App Interactions…](https://python.plainenglish.io/starbucks-capstone-project-from-raw-events-to-a-predictive-model-what-300k-app-interactions-4a479c7855c6?source=rss------data_science-5)
+- [Top 10 Google Product Manager Interview Questions and Answers](https://skphd.medium.com/top-10-google-product-manager-interview-questions-and-answers-e384e25a30c9?source=rss------data_science-5)
+- [Top 10 Spotify Product Manager Interview Questions and Answers](https://skphd.medium.com/top-10-spotify-product-manager-interview-questions-and-answers-4e41b4fee422?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
