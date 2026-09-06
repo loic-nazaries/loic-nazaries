@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Web Data Stack Is Changing: Access Policy Is Becoming Part of the Data Contract](https://medium.com/@floraprojectdesk/the-web-data-stack-is-changing-access-policy-is-becoming-part-of-the-data-contract-2660bdf881e9?source=rss------data_science-5)
-- [What Happened Last Week After the Opening Bell?](https://pankaj-tiwari2.medium.com/what-happened-last-week-after-the-opening-bell-40ceb75702cf?source=rss------data_science-5)
-- [Data Visualisation for HR: Best KPIs, Metrics, and Dashboard Design](https://medium.com/@rashid3433/data-visualisation-for-hr-best-kpis-metrics-and-dashboard-design-211d5acab141?source=rss------data_science-5)
-- [Why GPT-6 Astra Still Cannot Compose](https://swarnenduiitb2020i.medium.com/why-gpt-6-astra-still-cannot-compose-dbb56ef4f675?source=rss------data_science-5)
-- [Stop Writing Scripts From Scratch: Automate These 7 Repetitive Data Jobs Using Templates Instead.](https://digitalbykewat.medium.com/stop-writing-scripts-from-scratch-automate-these-7-repetitive-data-jobs-using-templates-instead-00deaf2529a0?source=rss------data_science-5)
-- [I Built an Executive Command Center With AI -Without Being a Front-End Developer](https://medium.com/@rajeshdevadasan/i-built-an-executive-command-center-with-ai-without-being-a-front-end-developer-be966c03aa6c?source=rss------data_science-5)
-- [Building a zero-backend SQL platform as a solo developer](https://medium.com/@dravonicx/building-a-zero-backend-sql-platform-as-a-solo-developer-ce27b0533d75?source=rss------data_science-5)
-- [Starbucks Capstone Project: From Raw Events to a Predictive Model — What 300K+ App Interactions…](https://python.plainenglish.io/starbucks-capstone-project-from-raw-events-to-a-predictive-model-what-300k-app-interactions-4a479c7855c6?source=rss------data_science-5)
-- [Top 10 Google Product Manager Interview Questions and Answers](https://skphd.medium.com/top-10-google-product-manager-interview-questions-and-answers-e384e25a30c9?source=rss------data_science-5)
-- [Top 10 Spotify Product Manager Interview Questions and Answers](https://skphd.medium.com/top-10-spotify-product-manager-interview-questions-and-answers-4e41b4fee422?source=rss------data_science-5)
+- [Where Does Critical Thinking Live?](https://eric-sandosham.medium.com/where-does-critical-thinking-live-efe7585cd3f1?source=rss------data_science-5)
+- [The Entropy Paradox in Cyclic Cosmology: A WUCC &amp; BVP Resolution&lpar;Hypothesis&rpar;](https://medium.com/@prasanthrs1976/the-entropy-paradox-in-cyclic-cosmology-a-wucc-bvp-resolution-hypothesis-323c42134ad0?source=rss------data_science-5)
+- [One Billion Weekly Users: What ChatGPT’s Scale Actually Looks Like](https://medium.com/@kidscarebridge/one-billion-weekly-users-what-chatgpts-scale-actually-looks-like-8e4070f21651?source=rss------data_science-5)
+- [Data Visualisation for Travel &amp; Tourism: How Booking and Visitor Data Can Improve Business…](https://medium.com/@rashid3433/data-visualisation-for-travel-tourism-how-booking-and-visitor-data-can-improve-business-94756dada4f1?source=rss------data_science-5)
+- [Data Visualisation for Hotels: How Guest and Booking Data Can Improve Revenue and Operations](https://medium.com/@rashid3433/data-visualisation-for-hotels-how-guest-and-booking-data-can-improve-revenue-and-operations-70e4e15ffb7b?source=rss------data_science-5)
+- [Does Exiting Early Mean Missing the Big Winners? A Breakout Trading Experiment](https://medium.com/@herefindalex/does-exiting-early-mean-missing-the-big-winners-a-breakout-trading-experiment-44ca925609e2?source=rss------data_science-5)
+- [Deep Dive into Gradient Descent: The Engine Powering Modern Machine Learning](https://medium.com/@thedatascientistkiran/deep-dive-into-gradient-descent-the-engine-powering-modern-machine-learning-211e73e1a9da?source=rss------data_science-5)
+- [NumPy Beats a Vector Index Up to 100,000 Embeddings](https://aminshamim.medium.com/numpy-beats-a-vector-index-up-to-100-000-embeddings-67349b3230fe?source=rss------data_science-5)
+- [Why My Deep Learning Model Lost to XGBoost on Fetal Health Data](https://medium.com/@vedantikanade/why-my-deep-learning-model-lost-to-xgboost-on-fetal-health-data-562a8c0fec39?source=rss------data_science-5)
+- [What 10,823 Dealer Car Listings on Facebook Marketplace Told Us &lpar;2026 Data&rpar;](https://medium.com/@michaelegarber/hat-10-823-dealer-car-listings-on-facebook-marketplace-told-us-2026-data-deaf84c209e1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
