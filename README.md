@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Where Does Critical Thinking Live?](https://eric-sandosham.medium.com/where-does-critical-thinking-live-efe7585cd3f1?source=rss------data_science-5)
-- [The Entropy Paradox in Cyclic Cosmology: A WUCC &amp; BVP Resolution&lpar;Hypothesis&rpar;](https://medium.com/@prasanthrs1976/the-entropy-paradox-in-cyclic-cosmology-a-wucc-bvp-resolution-hypothesis-323c42134ad0?source=rss------data_science-5)
-- [One Billion Weekly Users: What ChatGPT’s Scale Actually Looks Like](https://medium.com/@kidscarebridge/one-billion-weekly-users-what-chatgpts-scale-actually-looks-like-8e4070f21651?source=rss------data_science-5)
-- [Data Visualisation for Travel &amp; Tourism: How Booking and Visitor Data Can Improve Business…](https://medium.com/@rashid3433/data-visualisation-for-travel-tourism-how-booking-and-visitor-data-can-improve-business-94756dada4f1?source=rss------data_science-5)
-- [Data Visualisation for Hotels: How Guest and Booking Data Can Improve Revenue and Operations](https://medium.com/@rashid3433/data-visualisation-for-hotels-how-guest-and-booking-data-can-improve-revenue-and-operations-70e4e15ffb7b?source=rss------data_science-5)
-- [Does Exiting Early Mean Missing the Big Winners? A Breakout Trading Experiment](https://medium.com/@herefindalex/does-exiting-early-mean-missing-the-big-winners-a-breakout-trading-experiment-44ca925609e2?source=rss------data_science-5)
-- [Deep Dive into Gradient Descent: The Engine Powering Modern Machine Learning](https://medium.com/@thedatascientistkiran/deep-dive-into-gradient-descent-the-engine-powering-modern-machine-learning-211e73e1a9da?source=rss------data_science-5)
-- [NumPy Beats a Vector Index Up to 100,000 Embeddings](https://aminshamim.medium.com/numpy-beats-a-vector-index-up-to-100-000-embeddings-67349b3230fe?source=rss------data_science-5)
-- [Why My Deep Learning Model Lost to XGBoost on Fetal Health Data](https://medium.com/@vedantikanade/why-my-deep-learning-model-lost-to-xgboost-on-fetal-health-data-562a8c0fec39?source=rss------data_science-5)
-- [What 10,823 Dealer Car Listings on Facebook Marketplace Told Us &lpar;2026 Data&rpar;](https://medium.com/@michaelegarber/hat-10-823-dealer-car-listings-on-facebook-marketplace-told-us-2026-data-deaf84c209e1?source=rss------data_science-5)
+- [What Is a Real Estate Adviser’s Diagnostic Report? Why It Beats Another Dashboard](https://medium.com/@Alexriverston/what-is-a-real-estate-advisers-diagnostic-report-why-it-beats-another-dashboard-2d8f2374c5dd?source=rss------data_science-5)
+- [How I Landed My First Data Science Internship](https://medium.com/codetodeploy/how-i-landed-my-first-data-science-internship-43dc53d25c80?source=rss------data_science-5)
+- [Wealth Migration Analytics: Spotting Jackson Hole Before Your Competitors Do](https://medium.com/@Alexriverston/wealth-migration-analytics-spotting-jackson-hole-before-your-competitors-do-3379c3949761?source=rss------data_science-5)
+- [Training vs Validation vs Testing: A Complete Guide to Machine Learning Data Splits](https://medium.com/@thedatascientistkiran/training-vs-validation-vs-testing-a-complete-guide-to-machine-learning-data-splits-b4f4bf173055?source=rss------data_science-5)
+- [Stop Searching StackOverflow: Automate These 7 Error-Prone SQL Workflows Instead.](https://digitalbykewat.medium.com/stop-searching-stackoverflow-automate-these-7-error-prone-sql-workflows-instead-cc3da235e708?source=rss------data_science-5)
+- [LAMBDA Function: Create Your Own Custom Reusable Formulas in Excel](https://excelguru.medium.com/lambda-function-create-your-own-custom-reusable-formulas-in-excel-2a62d27083eb?source=rss------data_science-5)
+- [The second half of the meta-cognitive governance stack completes the oversight architecture.](https://medium.com/@savantframeworkadmin/the-second-half-of-the-meta-cognitive-governance-stack-completes-the-oversight-architecture-8eb15d2dba53?source=rss------data_science-5)
+- [The Free, Open-Source Alternative to ElevenLabs Is Finally Here](https://medium.com/@bytefer/the-free-open-source-alternative-to-elevenlabs-is-finally-here-5e27fed0de1a?source=rss------data_science-5)
+- [Headline: Countering Nation-State Interception: The Deterministic Logic Framework for Subsea…](https://nuttananfoopun.medium.com/headline-countering-nation-state-interception-the-deterministic-logic-framework-for-subsea-ff072ebeed77?source=rss------data_science-5)
+- [Who Needs .me?](https://medium.com/@neurons.me/who-needs-me-eeb524d244b4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
