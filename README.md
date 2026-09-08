@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What Is a Real Estate Adviser’s Diagnostic Report? Why It Beats Another Dashboard](https://medium.com/@Alexriverston/what-is-a-real-estate-advisers-diagnostic-report-why-it-beats-another-dashboard-2d8f2374c5dd?source=rss------data_science-5)
-- [How I Landed My First Data Science Internship](https://medium.com/codetodeploy/how-i-landed-my-first-data-science-internship-43dc53d25c80?source=rss------data_science-5)
-- [Wealth Migration Analytics: Spotting Jackson Hole Before Your Competitors Do](https://medium.com/@Alexriverston/wealth-migration-analytics-spotting-jackson-hole-before-your-competitors-do-3379c3949761?source=rss------data_science-5)
-- [Training vs Validation vs Testing: A Complete Guide to Machine Learning Data Splits](https://medium.com/@thedatascientistkiran/training-vs-validation-vs-testing-a-complete-guide-to-machine-learning-data-splits-b4f4bf173055?source=rss------data_science-5)
-- [Stop Searching StackOverflow: Automate These 7 Error-Prone SQL Workflows Instead.](https://digitalbykewat.medium.com/stop-searching-stackoverflow-automate-these-7-error-prone-sql-workflows-instead-cc3da235e708?source=rss------data_science-5)
-- [LAMBDA Function: Create Your Own Custom Reusable Formulas in Excel](https://excelguru.medium.com/lambda-function-create-your-own-custom-reusable-formulas-in-excel-2a62d27083eb?source=rss------data_science-5)
-- [The second half of the meta-cognitive governance stack completes the oversight architecture.](https://medium.com/@savantframeworkadmin/the-second-half-of-the-meta-cognitive-governance-stack-completes-the-oversight-architecture-8eb15d2dba53?source=rss------data_science-5)
-- [The Free, Open-Source Alternative to ElevenLabs Is Finally Here](https://medium.com/@bytefer/the-free-open-source-alternative-to-elevenlabs-is-finally-here-5e27fed0de1a?source=rss------data_science-5)
-- [Headline: Countering Nation-State Interception: The Deterministic Logic Framework for Subsea…](https://nuttananfoopun.medium.com/headline-countering-nation-state-interception-the-deterministic-logic-framework-for-subsea-ff072ebeed77?source=rss------data_science-5)
-- [Who Needs .me?](https://medium.com/@neurons.me/who-needs-me-eeb524d244b4?source=rss------data_science-5)
+- [Attention Before Transformers — Explained From Zero](https://medium.com/@yokeswaran1718/attention-before-transformers-explained-from-zero-38a1cba159f5?source=rss------data_science-5)
+- [The Logic — Not the Math — of Testing Ideas with Data](https://medium.com/illumination/the-logic-not-the-math-of-testing-ideas-with-data-dd6936f9ff35?source=rss------data_science-5)
+- [The Lake That Stopped Emitting Methane](https://medium.com/southern-winds/the-lake-that-stopped-emitting-methane-01f8c0276bd8?source=rss------data_science-5)
+- [Ten from the weekend 09/06: A few interesting reads that I came across](https://gopivikranth.medium.com/ten-from-the-weekend-09-06-a-few-interesting-reads-that-i-came-across-fc19d1ad48cf?source=rss------data_science-5)
+- [8 YouTube Channels That Will Teach You More Than a 4-Year Degree](https://pawannatekar220.medium.com/8-youtube-channels-that-will-teach-you-more-than-a-4-year-degree-a55ba3b2580e?source=rss------data_science-5)
+- [As Above, So Below: The Cosmic Web of Quantum Fields](https://medium.com/illumination/as-above-so-below-the-cosmic-web-of-quantum-fields-f4d58188798c?source=rss------data_science-5)
+- [Do You Have Proof for Your Analysis?](https://medium.com/illumination/do-you-have-proof-for-your-analysis-f5eeaa6b6cd7?source=rss------data_science-5)
+- [Epochs in Machine Learning: What Really Happens When a Model Trains?](https://medium.com/@thedatascientistkiran/epochs-in-machine-learning-what-really-happens-when-a-model-trains-2f1b73e1c246?source=rss------data_science-5)
+- [Prompting, RAG, or Fine-Tuning? How I Decide What an AI System Actually Needs](https://medium.com/@myliemudaliyar/prompting-rag-or-fine-tuning-how-i-decide-what-an-ai-system-actually-needs-f26c0c935ea7?source=rss------data_science-5)
+- [From Copilot to Investigative Agent](https://medium.com/@neelakshi18/from-copilot-to-investigative-agent-0ac00e8d7683?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
