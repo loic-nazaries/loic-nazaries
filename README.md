@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Attention Before Transformers — Explained From Zero](https://medium.com/@yokeswaran1718/attention-before-transformers-explained-from-zero-38a1cba159f5?source=rss------data_science-5)
-- [The Logic — Not the Math — of Testing Ideas with Data](https://medium.com/illumination/the-logic-not-the-math-of-testing-ideas-with-data-dd6936f9ff35?source=rss------data_science-5)
-- [The Lake That Stopped Emitting Methane](https://medium.com/southern-winds/the-lake-that-stopped-emitting-methane-01f8c0276bd8?source=rss------data_science-5)
-- [Ten from the weekend 09/06: A few interesting reads that I came across](https://gopivikranth.medium.com/ten-from-the-weekend-09-06-a-few-interesting-reads-that-i-came-across-fc19d1ad48cf?source=rss------data_science-5)
-- [8 YouTube Channels That Will Teach You More Than a 4-Year Degree](https://pawannatekar220.medium.com/8-youtube-channels-that-will-teach-you-more-than-a-4-year-degree-a55ba3b2580e?source=rss------data_science-5)
-- [As Above, So Below: The Cosmic Web of Quantum Fields](https://medium.com/illumination/as-above-so-below-the-cosmic-web-of-quantum-fields-f4d58188798c?source=rss------data_science-5)
-- [Do You Have Proof for Your Analysis?](https://medium.com/illumination/do-you-have-proof-for-your-analysis-f5eeaa6b6cd7?source=rss------data_science-5)
-- [Epochs in Machine Learning: What Really Happens When a Model Trains?](https://medium.com/@thedatascientistkiran/epochs-in-machine-learning-what-really-happens-when-a-model-trains-2f1b73e1c246?source=rss------data_science-5)
-- [Prompting, RAG, or Fine-Tuning? How I Decide What an AI System Actually Needs](https://medium.com/@myliemudaliyar/prompting-rag-or-fine-tuning-how-i-decide-what-an-ai-system-actually-needs-f26c0c935ea7?source=rss------data_science-5)
-- [From Copilot to Investigative Agent](https://medium.com/@neelakshi18/from-copilot-to-investigative-agent-0ac00e8d7683?source=rss------data_science-5)
+- [Apache Fory™ JSON: High-Performance JSON Serialization for Kotlin](https://medium.com/@shawn.ck.yang/apache-fory-json-high-performance-json-serialization-for-kotlin-4a3061060d37?source=rss------data_science-5)
+- [Top 10 Software Development Companies in the UAE &lpar;2026&rpar;](https://medium.com/@pyrexsolutions/top-10-software-development-companies-in-the-uae-2026-aae9e70d81db?source=rss------data_science-5)
+- [️ My Perspective on Microsoft Fabric](https://macxima.medium.com/%EF%B8%8F-my-perspective-on-microsoft-fabric-5e60cf1f3872?source=rss------data_science-5)
+- [CIOs should ban AI Agents from querying Raw Data](https://medium.com/@jatin_solanki/cios-should-ban-ai-agents-from-querying-raw-data-60213013da5d?source=rss------data_science-5)
+- [Exploratory Data Analytics: From Raw Data to Business Insights](https://medium.com/@kyanon.digital/exploratory-data-analytics-from-raw-data-to-business-insights-d08de8cef311?source=rss------data_science-5)
+- [I Built 15 SLOs for an AI Agent. Here’s What OpenTelemetry Could Measure](https://medium.com/data-science-collective/i-built-15-slos-for-an-ai-agent-heres-what-opentelemetry-could-measure-dcbacf4c3e9e?source=rss------data_science-5)
+- [Batch in Machine Learning: Why Models Learn From Data in Small Groups](https://medium.com/@thedatascientistkiran/batch-in-machine-learning-why-models-learn-from-data-in-small-groups-a55297190329?source=rss------data_science-5)
+- [The Three Pillars of Workforce Intelligence: How Vera™ Transforms Enterprise Operations](https://medium.com/@10112021.ghes/the-three-pillars-of-workforce-intelligence-how-vera-transforms-enterprise-operations-73765b480d9b?source=rss------data_science-5)
+- [AI Workforce Intelligence Meets Luxury Real Estate: The Vera™ Angle](https://medium.com/@10112021.ghes/ai-workforce-intelligence-meets-luxury-real-estate-the-vera-angle-a4045946fdb5?source=rss------data_science-5)
+- [CLAI-OS V7.0:](https://medium.com/@savantframeworkadmin/clai-os-v7-0-9526b465a575?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
