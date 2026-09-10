@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Apache Fory™ JSON: High-Performance JSON Serialization for Kotlin](https://medium.com/@shawn.ck.yang/apache-fory-json-high-performance-json-serialization-for-kotlin-4a3061060d37?source=rss------data_science-5)
-- [Top 10 Software Development Companies in the UAE &lpar;2026&rpar;](https://medium.com/@pyrexsolutions/top-10-software-development-companies-in-the-uae-2026-aae9e70d81db?source=rss------data_science-5)
-- [️ My Perspective on Microsoft Fabric](https://macxima.medium.com/%EF%B8%8F-my-perspective-on-microsoft-fabric-5e60cf1f3872?source=rss------data_science-5)
-- [CIOs should ban AI Agents from querying Raw Data](https://medium.com/@jatin_solanki/cios-should-ban-ai-agents-from-querying-raw-data-60213013da5d?source=rss------data_science-5)
-- [Exploratory Data Analytics: From Raw Data to Business Insights](https://medium.com/@kyanon.digital/exploratory-data-analytics-from-raw-data-to-business-insights-d08de8cef311?source=rss------data_science-5)
-- [I Built 15 SLOs for an AI Agent. Here’s What OpenTelemetry Could Measure](https://medium.com/data-science-collective/i-built-15-slos-for-an-ai-agent-heres-what-opentelemetry-could-measure-dcbacf4c3e9e?source=rss------data_science-5)
-- [Batch in Machine Learning: Why Models Learn From Data in Small Groups](https://medium.com/@thedatascientistkiran/batch-in-machine-learning-why-models-learn-from-data-in-small-groups-a55297190329?source=rss------data_science-5)
-- [The Three Pillars of Workforce Intelligence: How Vera™ Transforms Enterprise Operations](https://medium.com/@10112021.ghes/the-three-pillars-of-workforce-intelligence-how-vera-transforms-enterprise-operations-73765b480d9b?source=rss------data_science-5)
-- [AI Workforce Intelligence Meets Luxury Real Estate: The Vera™ Angle](https://medium.com/@10112021.ghes/ai-workforce-intelligence-meets-luxury-real-estate-the-vera-angle-a4045946fdb5?source=rss------data_science-5)
-- [CLAI-OS V7.0:](https://medium.com/@savantframeworkadmin/clai-os-v7-0-9526b465a575?source=rss------data_science-5)
+- [Papers Explained 614: No Position Encoding &lpar;NoPE&rpar;](https://ritvik19.medium.com/papers-explained-614-no-position-encoding-nope-9a670429a736?source=rss------data_science-5)
+- [72+ Data Science Interviews in Three Months: What I Learned About Job Hunting, AI, and Myself](https://medium.com/@dr.yuhung.chang/72-data-science-interviews-in-three-months-what-i-learned-about-job-hunting-ai-and-myself-6d7580da48a3?source=rss------data_science-5)
+- [3X Crypto Strategy with 9 EMA + A Secret Indicator](https://medium.com/@sayedali_3166/3x-crypto-strategy-with-9-ema-a-secret-indicator-f52a14e4b98e?source=rss------data_science-5)
+- [Departures from Riyadh: 2021 to 2026](https://medium.com/@devbydee/departures-from-riyadh-2021-to-2026-283dcef8e70c?source=rss------data_science-5)
+- [Turning Financial Data into Insights with Tableau](https://medium.com/@evelynaamorita/turning-financial-data-into-insights-with-tableau-1c53d907ad6d?source=rss------data_science-5)
+- [Everyone Is Buying Smarter AI. Almost Nobody Is Fixing the Real Problem.](https://medium.com/the-gravity/everyone-is-buying-smarter-ai-almost-nobody-is-fixing-the-real-problem-5718a2c8b97b?source=rss------data_science-5)
+- [Spark vs Hadoop](https://medium.com/@marcocastro216/spark-vs-hadoop-2d1b2b5d8fe7?source=rss------data_science-5)
+- [Lessons Programming in Python taught Me.](https://medium.com/@winnerlonginus6/lessons-programming-in-python-taught-me-7796810f10d3?source=rss------data_science-5)
+- [DLS Part 4 : Ek Billi Ne Deep Learning Ki Duniya Badal Di — Aur Aapko Pata Bhi Nahi](https://medium.com/@ojas.arora14/dls-part-4-ek-billi-ne-deep-learning-ki-duniya-badal-di-aur-aapko-pata-bhi-nahi-663387ff90c6?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
