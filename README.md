@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Papers Explained 614: No Position Encoding &lpar;NoPE&rpar;](https://ritvik19.medium.com/papers-explained-614-no-position-encoding-nope-9a670429a736?source=rss------data_science-5)
-- [72+ Data Science Interviews in Three Months: What I Learned About Job Hunting, AI, and Myself](https://medium.com/@dr.yuhung.chang/72-data-science-interviews-in-three-months-what-i-learned-about-job-hunting-ai-and-myself-6d7580da48a3?source=rss------data_science-5)
-- [3X Crypto Strategy with 9 EMA + A Secret Indicator](https://medium.com/@sayedali_3166/3x-crypto-strategy-with-9-ema-a-secret-indicator-f52a14e4b98e?source=rss------data_science-5)
-- [Departures from Riyadh: 2021 to 2026](https://medium.com/@devbydee/departures-from-riyadh-2021-to-2026-283dcef8e70c?source=rss------data_science-5)
-- [Turning Financial Data into Insights with Tableau](https://medium.com/@evelynaamorita/turning-financial-data-into-insights-with-tableau-1c53d907ad6d?source=rss------data_science-5)
-- [Everyone Is Buying Smarter AI. Almost Nobody Is Fixing the Real Problem.](https://medium.com/the-gravity/everyone-is-buying-smarter-ai-almost-nobody-is-fixing-the-real-problem-5718a2c8b97b?source=rss------data_science-5)
-- [Spark vs Hadoop](https://medium.com/@marcocastro216/spark-vs-hadoop-2d1b2b5d8fe7?source=rss------data_science-5)
-- [Lessons Programming in Python taught Me.](https://medium.com/@winnerlonginus6/lessons-programming-in-python-taught-me-7796810f10d3?source=rss------data_science-5)
-- [DLS Part 4 : Ek Billi Ne Deep Learning Ki Duniya Badal Di — Aur Aapko Pata Bhi Nahi](https://medium.com/@ojas.arora14/dls-part-4-ek-billi-ne-deep-learning-ki-duniya-badal-di-aur-aapko-pata-bhi-nahi-663387ff90c6?source=rss------data_science-5)
+- [Transformers series p1| Why activation functions matter?](https://ridwan-space.medium.com/transformers-series-p1-why-activation-functions-matter-5931ba9c1d08?source=rss------data_science-5)
+- [The Hidden Leaks in Your Coffee Shop: How Smart Data Is Saving the Modern Café.](https://medium.com/@sarfrazpatel7b8/the-hidden-leaks-in-your-coffee-shop-how-smart-data-is-saving-the-modern-caf%C3%A9-b1c80de6ed81?source=rss------data_science-5)
+- [I almost gave up before I even started: A Beginner’s Week One](https://medium.com/@rosemaryogbodo671/i-almost-gave-up-before-i-even-started-a-beginners-week-one-3284d42560ec?source=rss------data_science-5)
+- [How Big Data &amp; Statistics Are Quietly Revolutionizing Personal Healthcare](https://medium.com/@cantikaputrinajwasoraya/how-big-data-statistics-are-quietly-revolutionizing-personal-healthcare-444d6e9cfb2b?source=rss------data_science-5)
+- [MLflow: The Missing Piece Between Your Jupyter Notebook and Production](https://medium.com/@nidhalzitouni/mlflow-the-missing-piece-between-your-jupyter-notebook-and-production-8db12f8e2b2c?source=rss------data_science-5)
+- [When Collaborative Filtering Has Nothing to Collaborate On: A SageMaker Fallback Pattern](https://medium.com/data-science-collective/when-collaborative-filtering-has-nothing-to-collaborate-on-a-sagemaker-fallback-pattern-5672c0463262?source=rss------data_science-5)
+- [Inference vs.](https://medium.com/@datasciencejourney100_83560/inference-vs-979382c0e9de?source=rss------data_science-5)
+- [Learning Rate in Machine Learning: A Beginner-Friendly Guide](https://medium.com/@thedatascientistkiran/learning-rate-in-machine-learning-a-beginner-friendly-guide-035695af4a8f?source=rss------data_science-5)
+- [Kornea](https://medium.com/@adistipradnyamaharani/kornea-59c02ff6c7bf?source=rss------data_science-5)
+- [Stop Waiting for Clean Data. Automate These 7 Ingestion Fixes Instead.](https://digitalbykewat.medium.com/stop-waiting-for-clean-data-automate-these-7-ingestion-fixes-instead-ec2833e88047?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
