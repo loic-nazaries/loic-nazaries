@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Transformers series p1| Why activation functions matter?](https://ridwan-space.medium.com/transformers-series-p1-why-activation-functions-matter-5931ba9c1d08?source=rss------data_science-5)
-- [The Hidden Leaks in Your Coffee Shop: How Smart Data Is Saving the Modern Café.](https://medium.com/@sarfrazpatel7b8/the-hidden-leaks-in-your-coffee-shop-how-smart-data-is-saving-the-modern-caf%C3%A9-b1c80de6ed81?source=rss------data_science-5)
-- [I almost gave up before I even started: A Beginner’s Week One](https://medium.com/@rosemaryogbodo671/i-almost-gave-up-before-i-even-started-a-beginners-week-one-3284d42560ec?source=rss------data_science-5)
-- [How Big Data &amp; Statistics Are Quietly Revolutionizing Personal Healthcare](https://medium.com/@cantikaputrinajwasoraya/how-big-data-statistics-are-quietly-revolutionizing-personal-healthcare-444d6e9cfb2b?source=rss------data_science-5)
-- [MLflow: The Missing Piece Between Your Jupyter Notebook and Production](https://medium.com/@nidhalzitouni/mlflow-the-missing-piece-between-your-jupyter-notebook-and-production-8db12f8e2b2c?source=rss------data_science-5)
-- [When Collaborative Filtering Has Nothing to Collaborate On: A SageMaker Fallback Pattern](https://medium.com/data-science-collective/when-collaborative-filtering-has-nothing-to-collaborate-on-a-sagemaker-fallback-pattern-5672c0463262?source=rss------data_science-5)
-- [Inference vs.](https://medium.com/@datasciencejourney100_83560/inference-vs-979382c0e9de?source=rss------data_science-5)
-- [Learning Rate in Machine Learning: A Beginner-Friendly Guide](https://medium.com/@thedatascientistkiran/learning-rate-in-machine-learning-a-beginner-friendly-guide-035695af4a8f?source=rss------data_science-5)
-- [Kornea](https://medium.com/@adistipradnyamaharani/kornea-59c02ff6c7bf?source=rss------data_science-5)
-- [Stop Waiting for Clean Data. Automate These 7 Ingestion Fixes Instead.](https://digitalbykewat.medium.com/stop-waiting-for-clean-data-automate-these-7-ingestion-fixes-instead-ec2833e88047?source=rss------data_science-5)
+- [I Deleted All Old Indicators After I Found THIS One!](https://medium.com/@sayedali_3166/i-deleted-all-old-indicators-after-i-found-this-one-3b3b8fac6a35?source=rss------data_science-5)
+- [Can 3 Life Choices Really Give You a 97% Chance of Avoiding Poverty?](https://medium.com/@reed.janessa21/can-3-life-choices-really-give-you-a-97-chance-of-avoiding-poverty-fe14d4957606?source=rss------data_science-5)
+- [I am happy to share that I have been accepted as a Research Member at the Information Physics…](https://medium.com/@fghidan/i-am-happy-to-share-that-i-have-been-accepted-as-a-research-member-at-the-information-physics-ae2b2cbe2f36?source=rss------data_science-5)
+- [Gravity and Phase &lpar;Hypothesis&rpar;](https://medium.com/@prasanthrs1976/gravity-and-phase-hypothesis-99e2b5bd0e0d?source=rss------data_science-5)
+- [DeepSeek-V4.1-Flash Architecture Explained](https://medium.com/data-science-in-your-pocket/deepseek-v4-1-flash-architecture-explained-ea7068f5a273?source=rss------data_science-5)
+- [Time-Series Representation: How We Organize Data That Changes Over Time](https://medium.com/@thedatascientistkiran/time-series-representation-how-we-organize-data-that-changes-over-time-c7b5c22de04a?source=rss------data_science-5)
+- [The Python Data Science Stack Is Changing. Here’s What Developers Should Learn in 2026](https://python.plainenglish.io/the-python-data-science-stack-is-changing-heres-what-developers-should-learn-in-2026-0743af8c8b73?source=rss------data_science-5)
+- [Preprint Servers Could Become a Bottleneck for AI-Era Research](https://medium.com/@u.yoshiki.phys/preprint-servers-could-become-a-bottleneck-for-ai-era-research-d675f236a62b?source=rss------data_science-5)
+- [Why 90% of Legacy SERP Trackers Give You Fake Data Today &lpar;And What to Use Instead&rpar;](https://medium.com/@defhnhqf/why-90-of-legacy-serp-trackers-give-you-fake-data-today-and-what-to-use-instead-5aef343239db?source=rss------data_science-5)
+- [09371651662شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@gsndkssbxjzj/09371651662%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7edf1f1d4e07?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
