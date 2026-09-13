@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I Deleted All Old Indicators After I Found THIS One!](https://medium.com/@sayedali_3166/i-deleted-all-old-indicators-after-i-found-this-one-3b3b8fac6a35?source=rss------data_science-5)
-- [Can 3 Life Choices Really Give You a 97% Chance of Avoiding Poverty?](https://medium.com/@reed.janessa21/can-3-life-choices-really-give-you-a-97-chance-of-avoiding-poverty-fe14d4957606?source=rss------data_science-5)
-- [I am happy to share that I have been accepted as a Research Member at the Information Physics…](https://medium.com/@fghidan/i-am-happy-to-share-that-i-have-been-accepted-as-a-research-member-at-the-information-physics-ae2b2cbe2f36?source=rss------data_science-5)
-- [Gravity and Phase &lpar;Hypothesis&rpar;](https://medium.com/@prasanthrs1976/gravity-and-phase-hypothesis-99e2b5bd0e0d?source=rss------data_science-5)
-- [DeepSeek-V4.1-Flash Architecture Explained](https://medium.com/data-science-in-your-pocket/deepseek-v4-1-flash-architecture-explained-ea7068f5a273?source=rss------data_science-5)
-- [Time-Series Representation: How We Organize Data That Changes Over Time](https://medium.com/@thedatascientistkiran/time-series-representation-how-we-organize-data-that-changes-over-time-c7b5c22de04a?source=rss------data_science-5)
-- [The Python Data Science Stack Is Changing. Here’s What Developers Should Learn in 2026](https://python.plainenglish.io/the-python-data-science-stack-is-changing-heres-what-developers-should-learn-in-2026-0743af8c8b73?source=rss------data_science-5)
-- [Preprint Servers Could Become a Bottleneck for AI-Era Research](https://medium.com/@u.yoshiki.phys/preprint-servers-could-become-a-bottleneck-for-ai-era-research-d675f236a62b?source=rss------data_science-5)
-- [Why 90% of Legacy SERP Trackers Give You Fake Data Today &lpar;And What to Use Instead&rpar;](https://medium.com/@defhnhqf/why-90-of-legacy-serp-trackers-give-you-fake-data-today-and-what-to-use-instead-5aef343239db?source=rss------data_science-5)
-- [09371651662شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@gsndkssbxjzj/09371651662%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7edf1f1d4e07?source=rss------data_science-5)
+- [The World Is So F Tired](https://medium.com/@nicology/the-world-is-so-f-tired-bc58c0a1bd60?source=rss------data_science-5)
+- [Forecasting Ghana’s Cocoa Producer Prices to 2035: Can Machine Learning Outperform Traditional…](https://medium.com/@millano2895/forecasting-ghanas-cocoa-producer-prices-to-2035-can-machine-learning-outperform-traditional-7bccd651abec?source=rss------data_science-5)
+- [Finding the Networks Within Networks: Introducing RichClub Explorer](https://medium.com/data-science-collective/finding-the-networks-within-networks-introducing-richclub-explorer-6e2a79ee1c7a?source=rss------data_science-5)
+- [Bias-Variance Tradeoff in Machine Learning: How to Control Underfitting and Overfitting](https://medium.com/@moiz44386/bias-variance-tradeoff-in-machine-learning-how-to-control-underfitting-and-overfitting-9f0c0bea24aa?source=rss------data_science-5)
+- [Stop Chasing BUY &amp; SELL Signals: Try This 2-Indicator Trading Strategy Instead](https://medium.com/@sayedali_3166/stop-chasing-buy-sell-signals-try-this-2-indicator-trading-strategy-instead-3446dce0b674?source=rss------data_science-5)
+- [RNN Forecasting: A Beginner-Friendly Guide to Predicting the Future from Sequential Data](https://medium.com/@thedatascientistkiran/rnn-forecasting-a-beginner-friendly-guide-to-predicting-the-future-from-sequential-data-e63934feefed?source=rss------data_science-5)
+- [We Found a Business Losing Money on 93% of Its Most Discounted Orders: Here’s How](https://medium.com/@Adeodoffin/we-found-a-business-losing-money-on-93-of-its-most-discounted-orders-heres-how-61aa1e651fca?source=rss------data_science-5)
+- [Why Your Best Interview Candidate Is Your Worst Hire: The Confidence Collider](https://swarnenduiitb2020i.medium.com/why-your-best-interview-candidate-is-your-worst-hire-the-confidence-collider-4dad4844f476?source=rss------data_science-5)
+- [Stop Cleaning Data Manually. Write These 5 Self-Healing SQL Scripts Instead.](https://digitalbykewat.medium.com/stop-cleaning-data-manually-write-these-5-self-healing-sql-scripts-instead-83eab491a001?source=rss------data_science-5)
+- [Start a $60K+ Career in Data Analytics](https://medium.com/codetodeploy/start-a-60k-career-in-data-analytics-c5f3c00895bf?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
