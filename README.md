@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The World Is So F Tired](https://medium.com/@nicology/the-world-is-so-f-tired-bc58c0a1bd60?source=rss------data_science-5)
-- [Forecasting Ghana’s Cocoa Producer Prices to 2035: Can Machine Learning Outperform Traditional…](https://medium.com/@millano2895/forecasting-ghanas-cocoa-producer-prices-to-2035-can-machine-learning-outperform-traditional-7bccd651abec?source=rss------data_science-5)
-- [Finding the Networks Within Networks: Introducing RichClub Explorer](https://medium.com/data-science-collective/finding-the-networks-within-networks-introducing-richclub-explorer-6e2a79ee1c7a?source=rss------data_science-5)
-- [Bias-Variance Tradeoff in Machine Learning: How to Control Underfitting and Overfitting](https://medium.com/@moiz44386/bias-variance-tradeoff-in-machine-learning-how-to-control-underfitting-and-overfitting-9f0c0bea24aa?source=rss------data_science-5)
-- [Stop Chasing BUY &amp; SELL Signals: Try This 2-Indicator Trading Strategy Instead](https://medium.com/@sayedali_3166/stop-chasing-buy-sell-signals-try-this-2-indicator-trading-strategy-instead-3446dce0b674?source=rss------data_science-5)
-- [RNN Forecasting: A Beginner-Friendly Guide to Predicting the Future from Sequential Data](https://medium.com/@thedatascientistkiran/rnn-forecasting-a-beginner-friendly-guide-to-predicting-the-future-from-sequential-data-e63934feefed?source=rss------data_science-5)
-- [We Found a Business Losing Money on 93% of Its Most Discounted Orders: Here’s How](https://medium.com/@Adeodoffin/we-found-a-business-losing-money-on-93-of-its-most-discounted-orders-heres-how-61aa1e651fca?source=rss------data_science-5)
-- [Why Your Best Interview Candidate Is Your Worst Hire: The Confidence Collider](https://swarnenduiitb2020i.medium.com/why-your-best-interview-candidate-is-your-worst-hire-the-confidence-collider-4dad4844f476?source=rss------data_science-5)
-- [Stop Cleaning Data Manually. Write These 5 Self-Healing SQL Scripts Instead.](https://digitalbykewat.medium.com/stop-cleaning-data-manually-write-these-5-self-healing-sql-scripts-instead-83eab491a001?source=rss------data_science-5)
-- [Start a $60K+ Career in Data Analytics](https://medium.com/codetodeploy/start-a-60k-career-in-data-analytics-c5f3c00895bf?source=rss------data_science-5)
+- [Why Snowflake Is Becoming a Go-To Platform for Modern Data Engineering](https://medium.com/write-a-catalyst/why-snowflake-is-becoming-a-go-to-platform-for-modern-data-engineering-b6d93c55f826?source=rss------data_science-5)
+- [Why Your Backtest Shows 15% Returns And Your Live Trading Shows 3%: Lookahead Bias](https://swarnenduiitb2020i.medium.com/why-your-backtest-shows-15-returns-and-your-live-trading-shows-3-lookahead-bias-b998b9ceecda?source=rss------data_science-5)
+- [The Wood Destroying Secret Hiding in Seattle’s “Move In Ready” Homes](https://medium.com/@247exterminators/the-wood-destroying-secret-hiding-in-seattles-move-in-ready-homes-7ffb631d8ec4?source=rss------data_science-5)
+- [The Foundation of Data Analysis: Understanding Data Before Analyzing It](https://medium.com/@farooqumer845/the-foundation-of-data-analysis-understanding-data-before-analyzing-it-a3c26f12da1d?source=rss------data_science-5)
+- [XLOOKUP and Pivot Tables: The 90-Second Report Every Analyst Should Be Able to Build](https://medium.com/@aboutnayon/xlookup-and-pivot-tables-the-90-second-report-every-analyst-should-be-able-to-build-ef168f5c4f83?source=rss------data_science-5)
+- [The RubyGems Incident: How OpenAI&#39;s Own AI Agents Hacked the Open-Source Supply Chain—and No One…](https://medium.com/write-your-world/the-rubygems-incident-how-openais-own-ai-agents-hacked-the-open-source-supply-chain-and-no-one-fefdb4bf4a10?source=rss------data_science-5)
+- [Model collapse is severely limiting the potential of LLM’s by “polluting” their source set](https://medium.com/@wuyicong26/model-collapse-is-severely-limiting-the-potential-of-llms-by-polluting-their-source-set-6bb12200faf5?source=rss------data_science-5)
+- [AI promises growth in Southeast Asia — but at what cost?](https://govandkhalidazeez.medium.com/ai-promises-growth-in-southeast-asia-but-at-what-cost-4887d94720f0?source=rss------data_science-5)
+- [The Mathematics of Changing Your Mind](https://medium.com/@e21453/the-mathematics-of-changing-your-mind-7957c377aed7?source=rss------data_science-5)
+- [Gradients 1: Backprop Is the Chain Rule, and the Chain Rule Has Hypotheses](https://medium.com/@jonghajeon1990/gradients-1-backprop-is-the-chain-rule-and-the-chain-rule-has-hypotheses-e5710859746d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
