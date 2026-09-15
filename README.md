@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why Snowflake Is Becoming a Go-To Platform for Modern Data Engineering](https://medium.com/write-a-catalyst/why-snowflake-is-becoming-a-go-to-platform-for-modern-data-engineering-b6d93c55f826?source=rss------data_science-5)
-- [Why Your Backtest Shows 15% Returns And Your Live Trading Shows 3%: Lookahead Bias](https://swarnenduiitb2020i.medium.com/why-your-backtest-shows-15-returns-and-your-live-trading-shows-3-lookahead-bias-b998b9ceecda?source=rss------data_science-5)
-- [The Wood Destroying Secret Hiding in Seattle’s “Move In Ready” Homes](https://medium.com/@247exterminators/the-wood-destroying-secret-hiding-in-seattles-move-in-ready-homes-7ffb631d8ec4?source=rss------data_science-5)
-- [The Foundation of Data Analysis: Understanding Data Before Analyzing It](https://medium.com/@farooqumer845/the-foundation-of-data-analysis-understanding-data-before-analyzing-it-a3c26f12da1d?source=rss------data_science-5)
-- [XLOOKUP and Pivot Tables: The 90-Second Report Every Analyst Should Be Able to Build](https://medium.com/@aboutnayon/xlookup-and-pivot-tables-the-90-second-report-every-analyst-should-be-able-to-build-ef168f5c4f83?source=rss------data_science-5)
-- [The RubyGems Incident: How OpenAI&#39;s Own AI Agents Hacked the Open-Source Supply Chain—and No One…](https://medium.com/write-your-world/the-rubygems-incident-how-openais-own-ai-agents-hacked-the-open-source-supply-chain-and-no-one-fefdb4bf4a10?source=rss------data_science-5)
-- [Model collapse is severely limiting the potential of LLM’s by “polluting” their source set](https://medium.com/@wuyicong26/model-collapse-is-severely-limiting-the-potential-of-llms-by-polluting-their-source-set-6bb12200faf5?source=rss------data_science-5)
-- [AI promises growth in Southeast Asia — but at what cost?](https://govandkhalidazeez.medium.com/ai-promises-growth-in-southeast-asia-but-at-what-cost-4887d94720f0?source=rss------data_science-5)
-- [The Mathematics of Changing Your Mind](https://medium.com/@e21453/the-mathematics-of-changing-your-mind-7957c377aed7?source=rss------data_science-5)
-- [Gradients 1: Backprop Is the Chain Rule, and the Chain Rule Has Hypotheses](https://medium.com/@jonghajeon1990/gradients-1-backprop-is-the-chain-rule-and-the-chain-rule-has-hypotheses-e5710859746d?source=rss------data_science-5)
+- [THE GREAT AGI BLUFF : The Big Bullshit](https://medium.com/@tabary01/the-great-agi-bluff-the-big-bullshit-7678863af98c?source=rss------data_science-5)
+- [Papers Explained 617: Unsupervised Process Reward Models](https://ritvik19.medium.com/papers-explained-617-unsupervised-process-reward-models-7ee981eb13c4?source=rss------data_science-5)
+- [Real-World Tests Matter More Than Its Benchmarks](https://generativeai.pub/real-world-tests-matter-more-than-its-benchmarks-15d41e1999ae?source=rss------data_science-5)
+- [Free Intraday Trading Strategy For Beginners 2026](https://medium.com/@sayedali_3166/free-intraday-trading-strategy-for-beginners-2026-d79d7f1b4fe7?source=rss------data_science-5)
+- [Behind Every Click Is a Data Story: The Science of Web Analytics](https://medium.com/@its.shoryabisht/behind-every-click-is-a-data-story-the-science-of-web-analytics-56fe1f8e2cf2?source=rss------data_science-5)
+- [Axiomatic Breach Art](https://medium.com/@electricity98/axiomatic-breach-art-38dd8925f7aa?source=rss------data_science-5)
+- [From Managing Insights to Managing Intelligence](https://medium.com/@viweksharma/from-managing-insights-to-managing-intelligence-60782db877c9?source=rss------data_science-5)
+- [I Audited 330 AI Stock Forecasts. Check These 3 Things Before You Invest.](https://medium.datadriveninvestor.com/i-audited-330-ai-stock-forecasts-check-these-3-things-before-you-invest-5b7489f2a8c2?source=rss------data_science-5)
+- [How to Break Down Market Stress with Options Data in Python](https://medium.datadriveninvestor.com/how-to-break-down-market-stress-with-options-data-in-python-caa401123add?source=rss------data_science-5)
+- [How supply chain friction is forcing a rapid recalibration of high-frequency asset pricing models.](https://medium.datadriveninvestor.com/how-supply-chain-friction-is-forcing-a-rapid-recalibration-of-high-frequency-asset-pricing-models-39cd3c4dadd0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
