@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [THE GREAT AGI BLUFF : The Big Bullshit](https://medium.com/@tabary01/the-great-agi-bluff-the-big-bullshit-7678863af98c?source=rss------data_science-5)
-- [Papers Explained 617: Unsupervised Process Reward Models](https://ritvik19.medium.com/papers-explained-617-unsupervised-process-reward-models-7ee981eb13c4?source=rss------data_science-5)
-- [Real-World Tests Matter More Than Its Benchmarks](https://generativeai.pub/real-world-tests-matter-more-than-its-benchmarks-15d41e1999ae?source=rss------data_science-5)
-- [Free Intraday Trading Strategy For Beginners 2026](https://medium.com/@sayedali_3166/free-intraday-trading-strategy-for-beginners-2026-d79d7f1b4fe7?source=rss------data_science-5)
-- [Behind Every Click Is a Data Story: The Science of Web Analytics](https://medium.com/@its.shoryabisht/behind-every-click-is-a-data-story-the-science-of-web-analytics-56fe1f8e2cf2?source=rss------data_science-5)
-- [Axiomatic Breach Art](https://medium.com/@electricity98/axiomatic-breach-art-38dd8925f7aa?source=rss------data_science-5)
-- [From Managing Insights to Managing Intelligence](https://medium.com/@viweksharma/from-managing-insights-to-managing-intelligence-60782db877c9?source=rss------data_science-5)
-- [I Audited 330 AI Stock Forecasts. Check These 3 Things Before You Invest.](https://medium.datadriveninvestor.com/i-audited-330-ai-stock-forecasts-check-these-3-things-before-you-invest-5b7489f2a8c2?source=rss------data_science-5)
-- [How to Break Down Market Stress with Options Data in Python](https://medium.datadriveninvestor.com/how-to-break-down-market-stress-with-options-data-in-python-caa401123add?source=rss------data_science-5)
-- [How supply chain friction is forcing a rapid recalibration of high-frequency asset pricing models.](https://medium.datadriveninvestor.com/how-supply-chain-friction-is-forcing-a-rapid-recalibration-of-high-frequency-asset-pricing-models-39cd3c4dadd0?source=rss------data_science-5)
+- [Papers Explained 618: SFT Conflicts, RL Coexists](https://ritvik19.medium.com/papers-explained-618-sft-conflicts-rl-coexists-1ecd4a2d9bd8?source=rss------data_science-5)
+- [Information as Recursive Differentiation](https://medium.com/@prasanthrs1976/information-as-recursive-differentiation-bdb8d2af9f97?source=rss------data_science-5)
+- [The World Is So Fucking Tired](https://medium.com/publishous/the-world-is-so-fucking-tired-e5062dd34511?source=rss------data_science-5)
+- [Silver Ticket Attack](https://kevin8ronex.medium.com/silver-ticket-attack-ab5e1a65e4ac?source=rss------data_science-5)
+- [Stop Using 10 Indicators: This Simple 2-Indicator Strategy Is All I Watch](https://medium.com/@sayedali_3166/stop-using-10-indicators-this-simple-2-indicator-strategy-is-all-i-watch-617f4f086a9c?source=rss------data_science-5)
+- [The Python Project I Built in One Weekend Is Still Making Me Money Months Later](https://medium.com/@zainahmad6716/the-python-project-i-built-in-one-weekend-is-still-making-me-money-months-later-ceea27ec860c?source=rss------data_science-5)
+- [The Analyst Who Never Sleeps](https://medium.com/@jastitarun2/the-analyst-who-never-sleeps-b8fe5947ae22?source=rss------data_science-5)
+- [From Click to Conversion: GTM Explained Through a Data Science Lens](https://medium.com/@its.shoryabisht/from-click-to-conversion-gtm-explained-through-a-data-science-lens-69cacc87b0a1?source=rss------data_science-5)
+- [Data Scientists: Stop Using One AI Tool.](https://medium.com/@ismailsaleem/data-scientists-stop-using-one-ai-tool-f0c9c67e3ef4?source=rss------data_science-5)
+- [Big Data in Smart Cities: How Data Is Transforming Urban Life](https://medium.com/@mohakagrawal10/big-data-in-smart-cities-how-data-is-transforming-urban-life-e28df52a65fd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
