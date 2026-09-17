@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Papers Explained 618: SFT Conflicts, RL Coexists](https://ritvik19.medium.com/papers-explained-618-sft-conflicts-rl-coexists-1ecd4a2d9bd8?source=rss------data_science-5)
-- [Information as Recursive Differentiation](https://medium.com/@prasanthrs1976/information-as-recursive-differentiation-bdb8d2af9f97?source=rss------data_science-5)
-- [The World Is So Fucking Tired](https://medium.com/publishous/the-world-is-so-fucking-tired-e5062dd34511?source=rss------data_science-5)
-- [Silver Ticket Attack](https://kevin8ronex.medium.com/silver-ticket-attack-ab5e1a65e4ac?source=rss------data_science-5)
-- [Stop Using 10 Indicators: This Simple 2-Indicator Strategy Is All I Watch](https://medium.com/@sayedali_3166/stop-using-10-indicators-this-simple-2-indicator-strategy-is-all-i-watch-617f4f086a9c?source=rss------data_science-5)
-- [The Python Project I Built in One Weekend Is Still Making Me Money Months Later](https://medium.com/@zainahmad6716/the-python-project-i-built-in-one-weekend-is-still-making-me-money-months-later-ceea27ec860c?source=rss------data_science-5)
-- [The Analyst Who Never Sleeps](https://medium.com/@jastitarun2/the-analyst-who-never-sleeps-b8fe5947ae22?source=rss------data_science-5)
-- [From Click to Conversion: GTM Explained Through a Data Science Lens](https://medium.com/@its.shoryabisht/from-click-to-conversion-gtm-explained-through-a-data-science-lens-69cacc87b0a1?source=rss------data_science-5)
-- [Data Scientists: Stop Using One AI Tool.](https://medium.com/@ismailsaleem/data-scientists-stop-using-one-ai-tool-f0c9c67e3ef4?source=rss------data_science-5)
-- [Big Data in Smart Cities: How Data Is Transforming Urban Life](https://medium.com/@mohakagrawal10/big-data-in-smart-cities-how-data-is-transforming-urban-life-e28df52a65fd?source=rss------data_science-5)
+- [Is Data Science Becoming an AI Engineering Job?](https://medium.com/@jeffreyhammel/is-data-science-becoming-an-ai-engineering-job-f83dab8e4962?source=rss------data_science-5)
+- [The Huberman Protocols: A Practical Guide to Optimizing Your Brain and Body](https://medium.com/write-a-catalyst/the-huberman-protocols-a-practical-guide-to-optimizing-your-brain-and-body-a0bef4a76e91?source=rss------data_science-5)
+- [Papers Explained 619: Low-Rank Training in Transformer LMs](https://ritvik19.medium.com/papers-explained-619-low-rank-training-in-transformer-lms-cc3f8c294de5?source=rss------data_science-5)
+- [Understanding Data Mesh: Domains, Data Products, Platforms, and Governance](https://medium.com/it-simplified/understanding-data-mesh-domains-data-products-platforms-and-governance-3dfe08a276c9?source=rss------data_science-5)
+- [￼ 2025 Rippa R32 Mini Excavator &lpar;Unused&rpar;](https://medium.com/@robertmullens/2025-rippa-r32-mini-excavator-unused-552fa45eb3a3?source=rss------data_science-5)
+- [How would you feel if your AI chat conversation is reviewed by individuals?](https://medium.com/law-and-ethics-in-tech/how-would-you-feel-if-your-ai-chat-conversation-is-reviewed-by-individuals-10f459f7109b?source=rss------data_science-5)
+- [When Is Data Really Clean? A Beginner’s Guide to Data Cleaning](https://aiadvances.org/when-is-data-really-clean-a-beginners-guide-to-data-cleaning-76c26b8b269f?source=rss------data_science-5)
+- [Stop Prompting AI Blindly: 6 SQL Audit Prompts to Catch Hallucinations.](https://digitalbykewat.medium.com/stop-prompting-ai-blindly-6-sql-audit-prompts-to-catch-hallucinations-cb3d7858ed49?source=rss------data_science-5)
+- [The 7 Learning Strategies That Actually Help You Remember](https://medium.com/@vedpald7/the-7-learning-strategies-that-actually-help-you-remember-0e1d137a19ce?source=rss------data_science-5)
+- [What’s Actually Happening Inside a Transformer — The Two Steps Your Mental Model Is Missing](https://blog.stackademic.com/whats-actually-happening-inside-a-transformer-the-two-steps-your-mental-model-is-missing-5109e751ea00?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
