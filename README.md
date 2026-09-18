@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Is Data Science Becoming an AI Engineering Job?](https://medium.com/@jeffreyhammel/is-data-science-becoming-an-ai-engineering-job-f83dab8e4962?source=rss------data_science-5)
-- [The Huberman Protocols: A Practical Guide to Optimizing Your Brain and Body](https://medium.com/write-a-catalyst/the-huberman-protocols-a-practical-guide-to-optimizing-your-brain-and-body-a0bef4a76e91?source=rss------data_science-5)
-- [Papers Explained 619: Low-Rank Training in Transformer LMs](https://ritvik19.medium.com/papers-explained-619-low-rank-training-in-transformer-lms-cc3f8c294de5?source=rss------data_science-5)
-- [Understanding Data Mesh: Domains, Data Products, Platforms, and Governance](https://medium.com/it-simplified/understanding-data-mesh-domains-data-products-platforms-and-governance-3dfe08a276c9?source=rss------data_science-5)
-- [￼ 2025 Rippa R32 Mini Excavator &lpar;Unused&rpar;](https://medium.com/@robertmullens/2025-rippa-r32-mini-excavator-unused-552fa45eb3a3?source=rss------data_science-5)
-- [How would you feel if your AI chat conversation is reviewed by individuals?](https://medium.com/law-and-ethics-in-tech/how-would-you-feel-if-your-ai-chat-conversation-is-reviewed-by-individuals-10f459f7109b?source=rss------data_science-5)
-- [When Is Data Really Clean? A Beginner’s Guide to Data Cleaning](https://aiadvances.org/when-is-data-really-clean-a-beginners-guide-to-data-cleaning-76c26b8b269f?source=rss------data_science-5)
-- [Stop Prompting AI Blindly: 6 SQL Audit Prompts to Catch Hallucinations.](https://digitalbykewat.medium.com/stop-prompting-ai-blindly-6-sql-audit-prompts-to-catch-hallucinations-cb3d7858ed49?source=rss------data_science-5)
-- [The 7 Learning Strategies That Actually Help You Remember](https://medium.com/@vedpald7/the-7-learning-strategies-that-actually-help-you-remember-0e1d137a19ce?source=rss------data_science-5)
-- [What’s Actually Happening Inside a Transformer — The Two Steps Your Mental Model Is Missing](https://blog.stackademic.com/whats-actually-happening-inside-a-transformer-the-two-steps-your-mental-model-is-missing-5109e751ea00?source=rss------data_science-5)
+- [Data Science Training in Pondicherry: Build Practical Skills for a Future-Ready Career](https://medium.com/@seo.asmorix/data-science-training-in-pondicherry-build-practical-skills-for-a-future-ready-career-1ac31d0446b1?source=rss------data_science-5)
+- [GA4 Isn’t Confusing. Your Vocabulary Is.](https://medium.com/@its.shoryabisht/ga4-isnt-confusing-your-vocabulary-is-1f25e20ba9f0?source=rss------data_science-5)
+- [Issue 3 of 12 — The Forger’s Workshop: How We Manufacture Fakes to Test the Fake-Catchers](https://medium.com/weird-signal/issue-3-of-12-the-forgers-workshop-how-we-manufacture-fakes-to-test-the-fake-catchers-adebf14f4c90?source=rss------data_science-5)
+- [Your Model Is Accurate. Its Confidence Is a Lie.](https://medium.com/@hirunmihisara/your-model-is-accurate-its-confidence-is-a-lie-0b5e08f3654a?source=rss------data_science-5)
+- [Nigeria’s Productivity Challenge — What If Better Data Is Part of the Answer?](https://medium.com/codetodeploy/nigerias-productivity-challenge-what-if-better-data-is-part-of-the-answer-c791603ecf0e?source=rss------data_science-5)
+- [Dimensionality of Attention: What the Shapes Reveal](https://medium.com/@tomkob99_89317/dimensionality-of-attention-what-the-shapes-reveal-1b45a9b462d9?source=rss------data_science-5)
+- [Mengenal Isi di Balik Komputer: Hardware dan Arsitekturnya](https://medium.com/@feztival3510/mengenal-isi-di-balik-komputer-hardware-dan-arsitekturnya-c77e3d89d293?source=rss------data_science-5)
+- [Overfitting en las redes neuronales humanas](https://medium.com/@theflowerindicator/overfitting-en-las-redes-neuronales-humanas-ebd4e46125fc?source=rss------data_science-5)
+- [Gradients 2: A Confident Attention Head Passes Almost No Gradient](https://medium.com/@jonghajeon1990/gradients-2-a-confident-attention-head-passes-almost-no-gradient-9145627894ac?source=rss------data_science-5)
+- [I Studied for 2 Hours Instead of 8. Here’s What Changed](https://medium.com/@vedpald7/i-studied-for-2-hours-instead-of-8-heres-what-changed-0ff6572c7b96?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
