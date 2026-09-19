@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Data Science Training in Pondicherry: Build Practical Skills for a Future-Ready Career](https://medium.com/@seo.asmorix/data-science-training-in-pondicherry-build-practical-skills-for-a-future-ready-career-1ac31d0446b1?source=rss------data_science-5)
-- [GA4 Isn’t Confusing. Your Vocabulary Is.](https://medium.com/@its.shoryabisht/ga4-isnt-confusing-your-vocabulary-is-1f25e20ba9f0?source=rss------data_science-5)
-- [Issue 3 of 12 — The Forger’s Workshop: How We Manufacture Fakes to Test the Fake-Catchers](https://medium.com/weird-signal/issue-3-of-12-the-forgers-workshop-how-we-manufacture-fakes-to-test-the-fake-catchers-adebf14f4c90?source=rss------data_science-5)
-- [Your Model Is Accurate. Its Confidence Is a Lie.](https://medium.com/@hirunmihisara/your-model-is-accurate-its-confidence-is-a-lie-0b5e08f3654a?source=rss------data_science-5)
-- [Nigeria’s Productivity Challenge — What If Better Data Is Part of the Answer?](https://medium.com/codetodeploy/nigerias-productivity-challenge-what-if-better-data-is-part-of-the-answer-c791603ecf0e?source=rss------data_science-5)
-- [Dimensionality of Attention: What the Shapes Reveal](https://medium.com/@tomkob99_89317/dimensionality-of-attention-what-the-shapes-reveal-1b45a9b462d9?source=rss------data_science-5)
-- [Mengenal Isi di Balik Komputer: Hardware dan Arsitekturnya](https://medium.com/@feztival3510/mengenal-isi-di-balik-komputer-hardware-dan-arsitekturnya-c77e3d89d293?source=rss------data_science-5)
-- [Overfitting en las redes neuronales humanas](https://medium.com/@theflowerindicator/overfitting-en-las-redes-neuronales-humanas-ebd4e46125fc?source=rss------data_science-5)
-- [Gradients 2: A Confident Attention Head Passes Almost No Gradient](https://medium.com/@jonghajeon1990/gradients-2-a-confident-attention-head-passes-almost-no-gradient-9145627894ac?source=rss------data_science-5)
-- [I Studied for 2 Hours Instead of 8. Here’s What Changed](https://medium.com/@vedpald7/i-studied-for-2-hours-instead-of-8-heres-what-changed-0ff6572c7b96?source=rss------data_science-5)
+- [When people have shown you that they are only paying attention to what they can extract, stepping…](https://medium.com/@egohbisongsimon/when-people-have-shown-you-that-they-are-only-paying-attention-to-what-they-can-extract-stepping-089ddd2861eb?source=rss------data_science-5)
+- [Why Longitudinal Data Needs More Than Chronological Sorting](https://medium.com/@shinhuni0624/why-longitudinal-data-needs-more-than-chronological-sorting-42652f895094?source=rss------data_science-5)
+- [Pakistan–China Energy Technology Exchange](https://medium.com/@hussainillahi/pakistan-china-energy-technology-exchange-921b0a378c5c?source=rss------data_science-5)
+- [Is your AI writing good? Show me!](https://medium.com/@MathanaMohanS/is-your-ai-writing-good-show-me-b13c3b15c4ca?source=rss------data_science-5)
+- [La gota que recuerda el océano](https://medium.com/@oshe_2510/la-gota-que-recuerda-el-oc%C3%A9ano-0bdf55965dc0?source=rss------data_science-5)
+- [Power BI vs. Tableau vs. Excel — Which Should You Learn First?](https://ramana-analyst.medium.com/power-bi-vs-tableau-vs-excel-which-should-you-learn-first-1ee505085f7f?source=rss------data_science-5)
+- [Data Analyst vs. Business Analyst vs. Data Scientist — What’s Actually Different?](https://ramana-analyst.medium.com/data-analyst-vs-business-analyst-vs-data-scientist-whats-actually-different-3fbeb43551a4?source=rss------data_science-5)
+- [Adobe — Ground-Truth-as-Code: 실시간 데이터 환경을 위한 에이전틱 AI 평가 프레임워크와 평가 패러다임의 전환](https://medium.com/@mdpman/adobe-ground-truth-as-code-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%99%98%EA%B2%BD%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-ai-%ED%8F%89%EA%B0%80-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%99%80-%ED%8F%89%EA%B0%80-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%EC%9D%98-%EC%A0%84%ED%99%98-f90a400e122a?source=rss------data_science-5)
+- [The Pragmatic Programmer by a GenZ — Chapter 9](https://chhanamthorat.medium.com/the-pragmatic-programmer-by-a-genz-chapter-9-aab4fee0653f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
