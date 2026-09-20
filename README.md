@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [When people have shown you that they are only paying attention to what they can extract, stepping…](https://medium.com/@egohbisongsimon/when-people-have-shown-you-that-they-are-only-paying-attention-to-what-they-can-extract-stepping-089ddd2861eb?source=rss------data_science-5)
-- [Why Longitudinal Data Needs More Than Chronological Sorting](https://medium.com/@shinhuni0624/why-longitudinal-data-needs-more-than-chronological-sorting-42652f895094?source=rss------data_science-5)
-- [Pakistan–China Energy Technology Exchange](https://medium.com/@hussainillahi/pakistan-china-energy-technology-exchange-921b0a378c5c?source=rss------data_science-5)
-- [Is your AI writing good? Show me!](https://medium.com/@MathanaMohanS/is-your-ai-writing-good-show-me-b13c3b15c4ca?source=rss------data_science-5)
-- [La gota que recuerda el océano](https://medium.com/@oshe_2510/la-gota-que-recuerda-el-oc%C3%A9ano-0bdf55965dc0?source=rss------data_science-5)
-- [Power BI vs. Tableau vs. Excel — Which Should You Learn First?](https://ramana-analyst.medium.com/power-bi-vs-tableau-vs-excel-which-should-you-learn-first-1ee505085f7f?source=rss------data_science-5)
-- [Data Analyst vs. Business Analyst vs. Data Scientist — What’s Actually Different?](https://ramana-analyst.medium.com/data-analyst-vs-business-analyst-vs-data-scientist-whats-actually-different-3fbeb43551a4?source=rss------data_science-5)
-- [Adobe — Ground-Truth-as-Code: 실시간 데이터 환경을 위한 에이전틱 AI 평가 프레임워크와 평가 패러다임의 전환](https://medium.com/@mdpman/adobe-ground-truth-as-code-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%99%98%EA%B2%BD%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-ai-%ED%8F%89%EA%B0%80-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%99%80-%ED%8F%89%EA%B0%80-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%EC%9D%98-%EC%A0%84%ED%99%98-f90a400e122a?source=rss------data_science-5)
-- [The Pragmatic Programmer by a GenZ — Chapter 9](https://chhanamthorat.medium.com/the-pragmatic-programmer-by-a-genz-chapter-9-aab4fee0653f?source=rss------data_science-5)
+- [Unleashing the Magic of Data Analytics in Uncommon Industries](https://medium.com/@mithunamenaka26/unleashing-the-magic-of-data-analytics-in-uncommon-industries-3187dbfa6caf?source=rss------data_science-5)
+- [Who owns a wrong AI recommendation? Nobody, and that’s the problem](https://medium.com/@erickagonzalez2026new/who-owns-a-wrong-ai-recommendation-nobody-and-thats-the-problem-ab212a999875?source=rss------data_science-5)
+- [From Python Syntax to System Design: What I Learned During My DataFlow &lpar;Week 2&rpar; Internship](https://medium.com/@ibietanelijah/from-python-syntax-to-system-design-what-i-learned-during-my-dataflow-week-2-internship-c24109de862d?source=rss------data_science-5)
+- [I Combined These 2 Indicators to Find My Next IntradayTrading Setup](https://medium.com/@sayedali_3166/i-combined-these-2-indicators-to-find-my-next-intradaytrading-setup-bcf2f02aa387?source=rss------data_science-5)
+- [手机号码数据列表是指为合法沟通](https://latestdatabasec.medium.com/%E6%89%8B%E6%9C%BA%E5%8F%B7%E7%A0%81%E6%95%B0%E6%8D%AE%E5%88%97%E8%A1%A8%E6%98%AF%E6%8C%87%E4%B8%BA%E5%90%88%E6%B3%95%E6%B2%9F%E9%80%9A-76bf3e2e318e?source=rss------data_science-5)
+- [How to Use AI for Research Without Getting Expelled](https://medium.com/write-a-catalyst/how-to-use-ai-for-research-without-getting-expelled-95ab3379633a?source=rss------data_science-5)
+- [The Interpretation Gap: Why BI Shows What Happened — and Never What to Do](https://medium.com/@cesarpinto164/the-interpretation-gap-why-bi-shows-what-happened-and-never-what-to-do-70e208b140eb?source=rss------data_science-5)
+- [Data for AI: Understanding Data, Data Quality, and Infrastructure Before Building AI](https://medium.com/@luthfiqi/data-for-ai-understanding-data-data-quality-and-infrastructure-before-building-ai-6997e1c8dd6c?source=rss------data_science-5)
+- [WEEK TWO — RE-ENFORCED DETERMINATION](https://medium.com/@frankde2nd/week-two-re-enforced-determination-0f4ec5e4f20a?source=rss------data_science-5)
+- [Epistemic Lag in Artificial Intelligence: When the Right Mode Still Produces the Wrong World](https://medium.com/@Neuroism/epistemic-lag-in-artificial-intelligence-when-the-right-mode-still-produces-the-wrong-world-9696579e4a1d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
