@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Unleashing the Magic of Data Analytics in Uncommon Industries](https://medium.com/@mithunamenaka26/unleashing-the-magic-of-data-analytics-in-uncommon-industries-3187dbfa6caf?source=rss------data_science-5)
-- [Who owns a wrong AI recommendation? Nobody, and that’s the problem](https://medium.com/@erickagonzalez2026new/who-owns-a-wrong-ai-recommendation-nobody-and-thats-the-problem-ab212a999875?source=rss------data_science-5)
-- [From Python Syntax to System Design: What I Learned During My DataFlow &lpar;Week 2&rpar; Internship](https://medium.com/@ibietanelijah/from-python-syntax-to-system-design-what-i-learned-during-my-dataflow-week-2-internship-c24109de862d?source=rss------data_science-5)
-- [I Combined These 2 Indicators to Find My Next IntradayTrading Setup](https://medium.com/@sayedali_3166/i-combined-these-2-indicators-to-find-my-next-intradaytrading-setup-bcf2f02aa387?source=rss------data_science-5)
-- [手机号码数据列表是指为合法沟通](https://latestdatabasec.medium.com/%E6%89%8B%E6%9C%BA%E5%8F%B7%E7%A0%81%E6%95%B0%E6%8D%AE%E5%88%97%E8%A1%A8%E6%98%AF%E6%8C%87%E4%B8%BA%E5%90%88%E6%B3%95%E6%B2%9F%E9%80%9A-76bf3e2e318e?source=rss------data_science-5)
-- [How to Use AI for Research Without Getting Expelled](https://medium.com/write-a-catalyst/how-to-use-ai-for-research-without-getting-expelled-95ab3379633a?source=rss------data_science-5)
-- [The Interpretation Gap: Why BI Shows What Happened — and Never What to Do](https://medium.com/@cesarpinto164/the-interpretation-gap-why-bi-shows-what-happened-and-never-what-to-do-70e208b140eb?source=rss------data_science-5)
-- [Data for AI: Understanding Data, Data Quality, and Infrastructure Before Building AI](https://medium.com/@luthfiqi/data-for-ai-understanding-data-data-quality-and-infrastructure-before-building-ai-6997e1c8dd6c?source=rss------data_science-5)
-- [WEEK TWO — RE-ENFORCED DETERMINATION](https://medium.com/@frankde2nd/week-two-re-enforced-determination-0f4ec5e4f20a?source=rss------data_science-5)
-- [Epistemic Lag in Artificial Intelligence: When the Right Mode Still Produces the Wrong World](https://medium.com/@Neuroism/epistemic-lag-in-artificial-intelligence-when-the-right-mode-still-produces-the-wrong-world-9696579e4a1d?source=rss------data_science-5)
+- [The Covariance Matrix in Association Testing](https://medium.com/@nivedita.home/the-covariance-matrix-in-association-testing-218329e7ee03?source=rss------data_science-5)
+- [What Does Distillation Mean to AI?](https://techwithram.medium.com/what-does-distillation-mean-to-ai-ef03155945b6?source=rss------data_science-5)
+- [Decision Trees Explained: CART, Gini Impurity, Overfitting, and Production ML Design](https://medium.com/@deepakcse2k5/decision-trees-explained-cart-gini-impurity-overfitting-and-production-ml-design-d9def8af0459?source=rss------data_science-5)
+- [Context Recovery in Artificial Intelligence: How an Intelligent System Leaves the Wrong Frame](https://medium.com/@Neuroism/context-recovery-in-artificial-intelligence-how-an-intelligent-system-leaves-the-wrong-frame-8b97263f1aec?source=rss------data_science-5)
+- [Jurisdiction of Intelligence: From Competence to Artificial Self-Governance](https://medium.com/@Neuroism/jurisdiction-of-intelligence-from-competence-to-artificial-self-governance-bf4914d7eb67?source=rss------data_science-5)
+- [Personal Data Security: Protecting Your Digital Identity](https://medium.com/@uddinfarid346/personal-data-security-protecting-your-digital-identity-38b6f4de6ec3?source=rss------data_science-5)
+- [How to Use Claude to Build
+Premium Dashboards](https://medium.com/@fahlubmun/how-to-use-claude-to-build-premium-dashboards-c19cabdefb2c?source=rss------data_science-5)
+- [The Mabna Institute: A Global Cyber Espionage Campaign Targeting Universities and Organizations](https://medium.com/@lukeb21184/the-mabna-institute-a-global-cyber-espionage-campaign-targeting-universities-and-organizations-0fa719b6cc4a?source=rss------data_science-5)
+- [How To Build A Novel Calculus.](https://jamesapugmire.medium.com/how-to-build-a-novel-calculus-c31df8d0cd30?source=rss------data_science-5)
+- [Which AI Chatbot Is Best for Answering Questions About Your Own Business Data?](https://medium.com/@Andres2021/which-ai-chatbot-is-best-for-answering-questions-about-your-own-business-data-6d5ef1be5202?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
