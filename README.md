@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Covariance Matrix in Association Testing](https://medium.com/@nivedita.home/the-covariance-matrix-in-association-testing-218329e7ee03?source=rss------data_science-5)
-- [What Does Distillation Mean to AI?](https://techwithram.medium.com/what-does-distillation-mean-to-ai-ef03155945b6?source=rss------data_science-5)
-- [Decision Trees Explained: CART, Gini Impurity, Overfitting, and Production ML Design](https://medium.com/@deepakcse2k5/decision-trees-explained-cart-gini-impurity-overfitting-and-production-ml-design-d9def8af0459?source=rss------data_science-5)
-- [Context Recovery in Artificial Intelligence: How an Intelligent System Leaves the Wrong Frame](https://medium.com/@Neuroism/context-recovery-in-artificial-intelligence-how-an-intelligent-system-leaves-the-wrong-frame-8b97263f1aec?source=rss------data_science-5)
-- [Jurisdiction of Intelligence: From Competence to Artificial Self-Governance](https://medium.com/@Neuroism/jurisdiction-of-intelligence-from-competence-to-artificial-self-governance-bf4914d7eb67?source=rss------data_science-5)
-- [Personal Data Security: Protecting Your Digital Identity](https://medium.com/@uddinfarid346/personal-data-security-protecting-your-digital-identity-38b6f4de6ec3?source=rss------data_science-5)
-- [How to Use Claude to Build
-Premium Dashboards](https://medium.com/@fahlubmun/how-to-use-claude-to-build-premium-dashboards-c19cabdefb2c?source=rss------data_science-5)
-- [The Mabna Institute: A Global Cyber Espionage Campaign Targeting Universities and Organizations](https://medium.com/@lukeb21184/the-mabna-institute-a-global-cyber-espionage-campaign-targeting-universities-and-organizations-0fa719b6cc4a?source=rss------data_science-5)
-- [How To Build A Novel Calculus.](https://jamesapugmire.medium.com/how-to-build-a-novel-calculus-c31df8d0cd30?source=rss------data_science-5)
-- [Which AI Chatbot Is Best for Answering Questions About Your Own Business Data?](https://medium.com/@Andres2021/which-ai-chatbot-is-best-for-answering-questions-about-your-own-business-data-6d5ef1be5202?source=rss------data_science-5)
+- [Trend Features: Making Tree-Based Models Extrapolate](https://medium.com/@asidd24/trend-features-making-tree-based-models-extrapolate-11af78cc2435?source=rss------data_science-5)
+- [Training a GPT-2 Level Model Now Costs $73 and Takes 3 Hours Here Is What That Means for Anyone Who…](https://medium.com/@aftab001x/training-a-gpt-2-level-model-now-costs-73-and-takes-3-hours-here-is-what-that-means-for-anyone-who-933c74179ee4?source=rss------data_science-5)
+- [Building A Search Feature? Stop Relying on AI. Learn The Algorithm First.](https://python.plainenglish.io/building-a-search-feature-stop-relying-on-ai-learn-the-algorithm-first-abbc6676c646?source=rss------data_science-5)
+- [The Mystery Behind Déjà Vu](https://medium.com/growth-theory/the-mystery-behind-d%C3%A9j%C3%A0-vu-ad26a604fee2?source=rss------data_science-5)
+- [I Wrote a Neural Network Layer in CUDA. Here’s What Actually Happens After model.to&lpar;&quot;cuda&quot;&rpar;](https://medium.com/programmed-iq/i-wrote-a-neural-network-layer-in-cuda-heres-what-actually-happens-after-model-to-cuda-bcd2c828744b?source=rss------data_science-5)
+- [Inside Google Cloud’s Patchamomma 2026: 3,500 Professionals &amp; Aspiring Entrepreneurs Powering the…](https://medium.com/@abidsukumaran/inside-google-clouds-patchamomma-2026-3-500-professionals-aspiring-entrepreneurs-powering-the-9f5bd605b498?source=rss------data_science-5)
+- [Inngest vs Temporal vs DBOS vs LangGraph](https://medium.com/data-science-collective/inngest-vs-temporal-vs-dbos-vs-langgraph-7d0557ff6c53?source=rss------data_science-5)
+- [PART 8: Four Films Down, So Is the Tool.](https://pathiarjun15.medium.com/part-8-four-films-down-so-is-the-tool-d19964a8f2cc?source=rss------data_science-5)
+- [Scales for scales! How do we weigh bioload of home aquarium fish?](https://medium.com/@carolyn.olsen/scales-for-scales-how-do-we-weigh-bioload-of-home-aquarium-fish-5edd2805a9cd?source=rss------data_science-5)
+- [Global Energy Use Grew Dramatically — and Fossil Fuels Still Dominate](https://medium.com/@kkfng01/global-energy-use-grew-dramatically-and-fossil-fuels-still-dominate-6a3ee4e4396b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
