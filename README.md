@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Trend Features: Making Tree-Based Models Extrapolate](https://medium.com/@asidd24/trend-features-making-tree-based-models-extrapolate-11af78cc2435?source=rss------data_science-5)
-- [Training a GPT-2 Level Model Now Costs $73 and Takes 3 Hours Here Is What That Means for Anyone Who…](https://medium.com/@aftab001x/training-a-gpt-2-level-model-now-costs-73-and-takes-3-hours-here-is-what-that-means-for-anyone-who-933c74179ee4?source=rss------data_science-5)
-- [Building A Search Feature? Stop Relying on AI. Learn The Algorithm First.](https://python.plainenglish.io/building-a-search-feature-stop-relying-on-ai-learn-the-algorithm-first-abbc6676c646?source=rss------data_science-5)
-- [The Mystery Behind Déjà Vu](https://medium.com/growth-theory/the-mystery-behind-d%C3%A9j%C3%A0-vu-ad26a604fee2?source=rss------data_science-5)
-- [I Wrote a Neural Network Layer in CUDA. Here’s What Actually Happens After model.to&lpar;&quot;cuda&quot;&rpar;](https://medium.com/programmed-iq/i-wrote-a-neural-network-layer-in-cuda-heres-what-actually-happens-after-model-to-cuda-bcd2c828744b?source=rss------data_science-5)
-- [Inside Google Cloud’s Patchamomma 2026: 3,500 Professionals &amp; Aspiring Entrepreneurs Powering the…](https://medium.com/@abidsukumaran/inside-google-clouds-patchamomma-2026-3-500-professionals-aspiring-entrepreneurs-powering-the-9f5bd605b498?source=rss------data_science-5)
-- [Inngest vs Temporal vs DBOS vs LangGraph](https://medium.com/data-science-collective/inngest-vs-temporal-vs-dbos-vs-langgraph-7d0557ff6c53?source=rss------data_science-5)
-- [PART 8: Four Films Down, So Is the Tool.](https://pathiarjun15.medium.com/part-8-four-films-down-so-is-the-tool-d19964a8f2cc?source=rss------data_science-5)
-- [Scales for scales! How do we weigh bioload of home aquarium fish?](https://medium.com/@carolyn.olsen/scales-for-scales-how-do-we-weigh-bioload-of-home-aquarium-fish-5edd2805a9cd?source=rss------data_science-5)
-- [Global Energy Use Grew Dramatically — and Fossil Fuels Still Dominate](https://medium.com/@kkfng01/global-energy-use-grew-dramatically-and-fossil-fuels-still-dominate-6a3ee4e4396b?source=rss------data_science-5)
+- [Como Escolher o Melhor Modelo de Machine Learning para os seus Projetos em Dados](https://medium.com/@nara.guimaraes/como-escolher-o-melhor-modelo-de-machine-learning-para-os-seus-projetos-em-dados-0f0889dd1765?source=rss------data_science-5)
+- [Reinforcement Learning with Verifiable Rewards: Teaching AI to Earn Its Answers](https://python.plainenglish.io/reinforcement-learning-with-verifiable-rewards-teaching-ai-to-earn-its-answers-075912fc4a10?source=rss------data_science-5)
+- [The Six Colours of Tea](https://medium.com/@auteaculture/the-six-colours-of-tea-79a0462459a9?source=rss------data_science-5)
+- [Claude Opus 5.5 vs GPT-6 Sol &amp; Luna: Which AI Model Is Actually Better?](https://medium.com/@derevedant/claude-opus-5-5-vs-gpt-6-sol-luna-which-ai-model-is-actually-better-3e3b0697a35a?source=rss------data_science-5)
+- [Snowflake Interactive Analytics: Accelerating Standard Tables with Interactive Warehouses](https://alexandersks.medium.com/snowflake-interactive-analytics-accelerating-standard-tables-with-interactive-warehouses-79efbe331897?source=rss------data_science-5)
+- [Sundays with Steve #12: From Surviving Against the Odds to Helping Others](https://medium.com/@sallayev/sundays-with-steve-12-from-surviving-against-the-odds-to-helping-others-2d028faa6492?source=rss------data_science-5)
+- [Ate](https://medium.com/@tv.tinfov/ate-fb654a3ee81f?source=rss------data_science-5)
+- [From print&lpar;&rpar; to Business Insights: What My AI Internship Is Teaching Me](https://medium.com/@varshiniv.dev/from-print-to-business-insights-what-my-ai-internship-is-teaching-me-ceed823aa94c?source=rss------data_science-5)
+- [This FREE Indicator Predicts Every Sell Signals](https://medium.com/@sayedali_3166/this-free-indicator-predicts-every-sell-signals-afb84cb47273?source=rss------data_science-5)
+- [AIFC01–1.1 : Fundamentals of AI &amp; ML — Konsep Dasar Supervised vs Unsupervised Learning](https://medium.com/@marwanwisnu06/aifc01-1-1-fundamentals-of-ai-ml-konsep-dasar-supervised-vs-unsupervised-learning-ac55168b385e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
