@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Como Escolher o Melhor Modelo de Machine Learning para os seus Projetos em Dados](https://medium.com/@nara.guimaraes/como-escolher-o-melhor-modelo-de-machine-learning-para-os-seus-projetos-em-dados-0f0889dd1765?source=rss------data_science-5)
-- [Reinforcement Learning with Verifiable Rewards: Teaching AI to Earn Its Answers](https://python.plainenglish.io/reinforcement-learning-with-verifiable-rewards-teaching-ai-to-earn-its-answers-075912fc4a10?source=rss------data_science-5)
-- [The Six Colours of Tea](https://medium.com/@auteaculture/the-six-colours-of-tea-79a0462459a9?source=rss------data_science-5)
-- [Claude Opus 5.5 vs GPT-6 Sol &amp; Luna: Which AI Model Is Actually Better?](https://medium.com/@derevedant/claude-opus-5-5-vs-gpt-6-sol-luna-which-ai-model-is-actually-better-3e3b0697a35a?source=rss------data_science-5)
-- [Snowflake Interactive Analytics: Accelerating Standard Tables with Interactive Warehouses](https://alexandersks.medium.com/snowflake-interactive-analytics-accelerating-standard-tables-with-interactive-warehouses-79efbe331897?source=rss------data_science-5)
-- [Sundays with Steve #12: From Surviving Against the Odds to Helping Others](https://medium.com/@sallayev/sundays-with-steve-12-from-surviving-against-the-odds-to-helping-others-2d028faa6492?source=rss------data_science-5)
-- [Ate](https://medium.com/@tv.tinfov/ate-fb654a3ee81f?source=rss------data_science-5)
-- [From print&lpar;&rpar; to Business Insights: What My AI Internship Is Teaching Me](https://medium.com/@varshiniv.dev/from-print-to-business-insights-what-my-ai-internship-is-teaching-me-ceed823aa94c?source=rss------data_science-5)
-- [This FREE Indicator Predicts Every Sell Signals](https://medium.com/@sayedali_3166/this-free-indicator-predicts-every-sell-signals-afb84cb47273?source=rss------data_science-5)
-- [AIFC01–1.1 : Fundamentals of AI &amp; ML — Konsep Dasar Supervised vs Unsupervised Learning](https://medium.com/@marwanwisnu06/aifc01-1-1-fundamentals-of-ai-ml-konsep-dasar-supervised-vs-unsupervised-learning-ac55168b385e?source=rss------data_science-5)
+- [螞蟻沒有 Google Maps，怎麼找到最短的路？蟻群演算法 ACO 一次看懂](https://medium.com/@sakamoto2000.kim/%E8%9E%9E%E8%9F%BB%E6%B2%92%E6%9C%89-google-maps-%E6%80%8E%E9%BA%BC%E6%89%BE%E5%88%B0%E6%9C%80%E7%9F%AD%E7%9A%84%E8%B7%AF-%E8%9F%BB%E7%BE%A4%E6%BC%94%E7%AE%97%E6%B3%95-aco-%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82-b5eab3273606?source=rss------data_science-5)
+- [Papers Explained 624: GenCluster](https://ritvik19.medium.com/papers-explained-624-gencluster-8ad12cc83bac?source=rss------data_science-5)
+- [Cancer:](https://medium.com/@memoonas726/cancer-ca5721350f4e?source=rss------data_science-5)
+- [Jev Is Basically an overpowered ‘if’ Statement](https://charanteja1005.medium.com/jev-is-basically-an-overpowered-if-statement-e21cb9ee41ac?source=rss------data_science-5)
+- [The Battery of the Year Is a Pile of Broken Fireplaces Patented in 1857](https://medium.com/southern-winds/the-battery-of-the-year-is-a-pile-of-broken-fireplaces-patented-in-1857-d1273902509c?source=rss------data_science-5)
+- [Why Learning Python Is a No-Brainer](https://medium.com/@tajamulkhan/why-learning-python-is-a-no-brainer-1f7e89f32b43?source=rss------data_science-5)
+- [5 Claude Tricks That Feel Almost Like Cheating](https://medium.com/codetodeploy/5-claude-tricks-that-feel-almost-like-cheating-27e18aaf0448?source=rss------data_science-5)
+- [How I Stopped Typing and Let an AI Coworker Do My Coding](https://medium.com/@xhary0357/how-i-stopped-typing-and-let-an-ai-coworker-do-my-coding-d5782b24f143?source=rss------data_science-5)
+- [Want to Find Better Trading Opportunities? Start With These 2 Indicators](https://medium.com/@sayedali_3166/want-to-find-better-trading-opportunities-start-with-these-2-indicators-ea37c3ee6f55?source=rss------data_science-5)
+- [Why Direct Lake Isn’t the Magic Bullet Everyone Promised: A Senior BI Post-Mortem](https://medium.com/@harsh1995hg/why-direct-lake-isnt-the-magic-bullet-everyone-promised-a-senior-bi-post-mortem-514e00b73b5f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
