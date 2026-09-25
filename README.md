@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [螞蟻沒有 Google Maps，怎麼找到最短的路？蟻群演算法 ACO 一次看懂](https://medium.com/@sakamoto2000.kim/%E8%9E%9E%E8%9F%BB%E6%B2%92%E6%9C%89-google-maps-%E6%80%8E%E9%BA%BC%E6%89%BE%E5%88%B0%E6%9C%80%E7%9F%AD%E7%9A%84%E8%B7%AF-%E8%9F%BB%E7%BE%A4%E6%BC%94%E7%AE%97%E6%B3%95-aco-%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82-b5eab3273606?source=rss------data_science-5)
-- [Papers Explained 624: GenCluster](https://ritvik19.medium.com/papers-explained-624-gencluster-8ad12cc83bac?source=rss------data_science-5)
-- [Cancer:](https://medium.com/@memoonas726/cancer-ca5721350f4e?source=rss------data_science-5)
-- [Jev Is Basically an overpowered ‘if’ Statement](https://charanteja1005.medium.com/jev-is-basically-an-overpowered-if-statement-e21cb9ee41ac?source=rss------data_science-5)
-- [The Battery of the Year Is a Pile of Broken Fireplaces Patented in 1857](https://medium.com/southern-winds/the-battery-of-the-year-is-a-pile-of-broken-fireplaces-patented-in-1857-d1273902509c?source=rss------data_science-5)
-- [Why Learning Python Is a No-Brainer](https://medium.com/@tajamulkhan/why-learning-python-is-a-no-brainer-1f7e89f32b43?source=rss------data_science-5)
-- [5 Claude Tricks That Feel Almost Like Cheating](https://medium.com/codetodeploy/5-claude-tricks-that-feel-almost-like-cheating-27e18aaf0448?source=rss------data_science-5)
-- [How I Stopped Typing and Let an AI Coworker Do My Coding](https://medium.com/@xhary0357/how-i-stopped-typing-and-let-an-ai-coworker-do-my-coding-d5782b24f143?source=rss------data_science-5)
-- [Want to Find Better Trading Opportunities? Start With These 2 Indicators](https://medium.com/@sayedali_3166/want-to-find-better-trading-opportunities-start-with-these-2-indicators-ea37c3ee6f55?source=rss------data_science-5)
-- [Why Direct Lake Isn’t the Magic Bullet Everyone Promised: A Senior BI Post-Mortem](https://medium.com/@harsh1995hg/why-direct-lake-isnt-the-magic-bullet-everyone-promised-a-senior-bi-post-mortem-514e00b73b5f?source=rss------data_science-5)
+- [The Fragmentation Advantage: Building for the Africa That Actually Exists](https://medium.com/@ibraheemtoyosi04/the-fragmentation-advantage-building-for-the-africa-that-actually-exists-2069b35b3ffc?source=rss------data_science-5)
+- [From Clicks to Content: The Netflix Analytics Process](https://medium.com/@rashid3433/from-clicks-to-content-the-netflix-analytics-process-6a8a16430592?source=rss------data_science-5)
+- [THE MOST DANGEROUS ANALYTICS MISTAKE: Confusing Correlation With Causation](https://medium.com/@its.shoryabisht/the-most-dangerous-analytics-mistake-confusing-correlation-with-causation-1bf3a0947962?source=rss------data_science-5)
+- [A Future With ‘Artificial’ Intelligence](https://medium.com/@frankjferfecki/a-future-with-artificial-intelligence-01ba74dc7225?source=rss------data_science-5)
+- [When the Model Isn’t the Product](https://medium.com/illumination/when-the-model-isnt-the-product-e0d08d56a191?source=rss------data_science-5)
+- [Issue 5 of 12 — The Chemist: Five Measurements, No Guesswork](https://medium.com/weird-signal/issue-5-of-12-the-chemist-five-measurements-no-guesswork-18a27c171f15?source=rss------data_science-5)
+- [When AI Develops an Afterimage: The Ghost Data Left Behind After a Model “Forgets”](https://generativeai.pub/when-ai-develops-an-afterimage-the-ghost-data-left-behind-after-a-model-forgets-7d0c1d6ae8ea?source=rss------data_science-5)
+- [Why High-Resolution Spatial Data Does Not Always Produce Better Analysis](https://medium.com/@astiannissa94/why-high-resolution-spatial-data-does-not-always-produce-better-analysis-6e17580cb8fc?source=rss------data_science-5)
+- [Training Deep Neural Networks: Stability, Optimization, Regularization, and Transfer Learning](https://medium.com/@deepakcse2k5/training-deep-neural-networks-stability-optimization-regularization-and-transfer-learning-e8a9481fb4ad?source=rss------data_science-5)
+- [The Semantic Layer Race: Snowflake, Databricks, Fabric IQ, and Apache Ossie](https://fred-zhang.medium.com/the-semantic-layer-race-snowflake-databricks-fabric-iq-and-apache-ossie-9d67c5bcd90a?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
