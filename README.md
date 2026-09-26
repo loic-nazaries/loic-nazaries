@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Fragmentation Advantage: Building for the Africa That Actually Exists](https://medium.com/@ibraheemtoyosi04/the-fragmentation-advantage-building-for-the-africa-that-actually-exists-2069b35b3ffc?source=rss------data_science-5)
-- [From Clicks to Content: The Netflix Analytics Process](https://medium.com/@rashid3433/from-clicks-to-content-the-netflix-analytics-process-6a8a16430592?source=rss------data_science-5)
-- [THE MOST DANGEROUS ANALYTICS MISTAKE: Confusing Correlation With Causation](https://medium.com/@its.shoryabisht/the-most-dangerous-analytics-mistake-confusing-correlation-with-causation-1bf3a0947962?source=rss------data_science-5)
-- [A Future With ‘Artificial’ Intelligence](https://medium.com/@frankjferfecki/a-future-with-artificial-intelligence-01ba74dc7225?source=rss------data_science-5)
-- [When the Model Isn’t the Product](https://medium.com/illumination/when-the-model-isnt-the-product-e0d08d56a191?source=rss------data_science-5)
-- [Issue 5 of 12 — The Chemist: Five Measurements, No Guesswork](https://medium.com/weird-signal/issue-5-of-12-the-chemist-five-measurements-no-guesswork-18a27c171f15?source=rss------data_science-5)
-- [When AI Develops an Afterimage: The Ghost Data Left Behind After a Model “Forgets”](https://generativeai.pub/when-ai-develops-an-afterimage-the-ghost-data-left-behind-after-a-model-forgets-7d0c1d6ae8ea?source=rss------data_science-5)
-- [Why High-Resolution Spatial Data Does Not Always Produce Better Analysis](https://medium.com/@astiannissa94/why-high-resolution-spatial-data-does-not-always-produce-better-analysis-6e17580cb8fc?source=rss------data_science-5)
-- [Training Deep Neural Networks: Stability, Optimization, Regularization, and Transfer Learning](https://medium.com/@deepakcse2k5/training-deep-neural-networks-stability-optimization-regularization-and-transfer-learning-e8a9481fb4ad?source=rss------data_science-5)
-- [The Semantic Layer Race: Snowflake, Databricks, Fabric IQ, and Apache Ossie](https://fred-zhang.medium.com/the-semantic-layer-race-snowflake-databricks-fabric-iq-and-apache-ossie-9d67c5bcd90a?source=rss------data_science-5)
+- [Jugando con datos: mi primer algoritmo de clasificación](https://medium.com/@carrerasanchezj55/jugando-con-datos-mi-primer-algoritmo-de-clasificaci%C3%B3n-60db415cb045?source=rss------data_science-5)
+- [When “Better” Isn’t Better: Simpson’s Paradox in Web Analytics](https://medium.com/@its.shoryabisht/when-better-isnt-better-simpson-s-paradox-in-web-analytics-3d6e0f0f2bf7?source=rss------data_science-5)
+- [An Open-Source Rival to TypeSafe’s Jev Runs on a 16 GB Mac.](https://medium.com/data-science-collective/an-open-source-rival-to-typesafes-jev-runs-on-a-16-gb-mac-e81ad64315bb?source=rss------data_science-5)
+- [Your Analysis Found a Pattern, But Don’t Celebrate Yet.](https://medium.com/@theobee.acquah/your-analysis-found-a-pattern-but-dont-celebrate-yet-240cb3692446?source=rss------data_science-5)
+- [The Half-Life of a Certification](https://medium.com/pulp-analytics/the-half-life-of-a-certification-3488da13924b?source=rss------data_science-5)
+- [PART 1 — Introducing ADMI: What 49 Flights Out of Atlanta Taught me About Fake Prices.](https://pathiarjun15.medium.com/part-1-introducing-admi-what-49-flights-out-of-atlanta-taught-me-about-fake-prices-abf5ec600b3f?source=rss------data_science-5)
+- [My Third Week at DataraFlow](https://medium.com/@pjnimbidam/my-third-week-at-dataraflow-e68022eaee1a?source=rss------data_science-5)
+- [Building an In-Car Voice Intent Classifier with TF-IDF and Logistic Regression](https://medium.com/@elrayah/building-an-in-car-voice-intent-classifier-with-tf-idf-and-logistic-regression-e104c68204fc?source=rss------data_science-5)
+- [Why SQL Will Always Be the Backbone of Data Science](https://medium.com/@tajamulkhan/why-sql-will-always-be-the-backbone-of-data-science-891d3903fbda?source=rss------data_science-5)
+- [Fear and Confusion of an AI Future](https://medium.com/@jeremy.imanuel.siahaan/fear-and-confusion-of-an-ai-future-314fb6119d82?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
