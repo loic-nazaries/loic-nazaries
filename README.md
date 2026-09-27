@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Jugando con datos: mi primer algoritmo de clasificación](https://medium.com/@carrerasanchezj55/jugando-con-datos-mi-primer-algoritmo-de-clasificaci%C3%B3n-60db415cb045?source=rss------data_science-5)
-- [When “Better” Isn’t Better: Simpson’s Paradox in Web Analytics](https://medium.com/@its.shoryabisht/when-better-isnt-better-simpson-s-paradox-in-web-analytics-3d6e0f0f2bf7?source=rss------data_science-5)
-- [An Open-Source Rival to TypeSafe’s Jev Runs on a 16 GB Mac.](https://medium.com/data-science-collective/an-open-source-rival-to-typesafes-jev-runs-on-a-16-gb-mac-e81ad64315bb?source=rss------data_science-5)
-- [Your Analysis Found a Pattern, But Don’t Celebrate Yet.](https://medium.com/@theobee.acquah/your-analysis-found-a-pattern-but-dont-celebrate-yet-240cb3692446?source=rss------data_science-5)
-- [The Half-Life of a Certification](https://medium.com/pulp-analytics/the-half-life-of-a-certification-3488da13924b?source=rss------data_science-5)
-- [PART 1 — Introducing ADMI: What 49 Flights Out of Atlanta Taught me About Fake Prices.](https://pathiarjun15.medium.com/part-1-introducing-admi-what-49-flights-out-of-atlanta-taught-me-about-fake-prices-abf5ec600b3f?source=rss------data_science-5)
-- [My Third Week at DataraFlow](https://medium.com/@pjnimbidam/my-third-week-at-dataraflow-e68022eaee1a?source=rss------data_science-5)
-- [Building an In-Car Voice Intent Classifier with TF-IDF and Logistic Regression](https://medium.com/@elrayah/building-an-in-car-voice-intent-classifier-with-tf-idf-and-logistic-regression-e104c68204fc?source=rss------data_science-5)
-- [Why SQL Will Always Be the Backbone of Data Science](https://medium.com/@tajamulkhan/why-sql-will-always-be-the-backbone-of-data-science-891d3903fbda?source=rss------data_science-5)
-- [Fear and Confusion of an AI Future](https://medium.com/@jeremy.imanuel.siahaan/fear-and-confusion-of-an-ai-future-314fb6119d82?source=rss------data_science-5)
+- [The Day I Showed Up and Everything Delivered….](https://medium.com/@anujagadde18/the-day-i-showed-up-and-everything-delivered-9721fb743f2f?source=rss------data_science-5)
+- [Python turned out to be more than it seems](https://medium.com/@vster310/python-turned-out-to-be-more-than-it-seems-3433467dde3f?source=rss------data_science-5)
+- [Jev Knew When to Say “50%.” Its Open-Source Copies Didn’t.](https://medium.com/@lvyang860/jev-knew-when-to-say-50-its-open-source-copies-didnt-253c3ee0fc0a?source=rss------data_science-5)
+- [Virat Kohli’s 166: A Memorable ODI Masterclass in Thiruvananthapuram](https://medium.com/@singhbirendrapratap567/virat-kohlis-166-a-memorable-odi-masterclass-in-thiruvananthapuram-cd80f498513a?source=rss------data_science-5)
+- [California just voted to make data centres pay for their own power lines.](https://medium.com/@thenewgencoder/california-just-voted-to-make-data-centres-pay-for-their-own-power-lines-0cd360d01953?source=rss------data_science-5)
+- [DSN 2026 AI Bootcamp Hackathon/ Project Participation: Predicting Retail Sales at DSN Mart](https://medium.com/@Just_Gideons/dsn-2026-ai-bootcamp-hackathon-project-participation-predicting-retail-sales-at-dsn-mart-7d4f03c3e317?source=rss------data_science-5)
+- [I Tested Jev on 788 Real Leads. Can It Safely Filter Fake Ones?](https://medium.com/paul-wood/i-tested-jev-on-788-real-leads-can-it-safely-filter-fake-ones-1406f61cce71?source=rss------data_science-5)
+- [Data Science 9 Fields &amp; Claude: How Each Specialty Gets a Different Kind of Help](https://medium.com/@ismailsaleem/data-science-9-fields-claude-how-each-specialty-gets-a-different-kind-of-help-612c2d9178fb?source=rss------data_science-5)
+- [ลองจับ Jev มาช่วยคัด Lead ปลอม ทำได้จริงไหม](https://ifew.medium.com/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%9A-jev-%E0%B8%A1%E0%B8%B2%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%84%E0%B8%B1%E0%B8%94-lead-%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%A1-%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%84%E0%B8%AB%E0%B8%A1-0294431346ef?source=rss------data_science-5)
+- [Practical Azure Data Architecture: From Ingestion to AI](https://medium.com/@akhilmahajan_10359/practical-azure-data-architecture-from-ingestion-to-ai-e8c685ca87b3?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
