@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Day I Showed Up and Everything Delivered….](https://medium.com/@anujagadde18/the-day-i-showed-up-and-everything-delivered-9721fb743f2f?source=rss------data_science-5)
-- [Python turned out to be more than it seems](https://medium.com/@vster310/python-turned-out-to-be-more-than-it-seems-3433467dde3f?source=rss------data_science-5)
-- [Jev Knew When to Say “50%.” Its Open-Source Copies Didn’t.](https://medium.com/@lvyang860/jev-knew-when-to-say-50-its-open-source-copies-didnt-253c3ee0fc0a?source=rss------data_science-5)
-- [Virat Kohli’s 166: A Memorable ODI Masterclass in Thiruvananthapuram](https://medium.com/@singhbirendrapratap567/virat-kohlis-166-a-memorable-odi-masterclass-in-thiruvananthapuram-cd80f498513a?source=rss------data_science-5)
-- [California just voted to make data centres pay for their own power lines.](https://medium.com/@thenewgencoder/california-just-voted-to-make-data-centres-pay-for-their-own-power-lines-0cd360d01953?source=rss------data_science-5)
-- [DSN 2026 AI Bootcamp Hackathon/ Project Participation: Predicting Retail Sales at DSN Mart](https://medium.com/@Just_Gideons/dsn-2026-ai-bootcamp-hackathon-project-participation-predicting-retail-sales-at-dsn-mart-7d4f03c3e317?source=rss------data_science-5)
-- [I Tested Jev on 788 Real Leads. Can It Safely Filter Fake Ones?](https://medium.com/paul-wood/i-tested-jev-on-788-real-leads-can-it-safely-filter-fake-ones-1406f61cce71?source=rss------data_science-5)
-- [Data Science 9 Fields &amp; Claude: How Each Specialty Gets a Different Kind of Help](https://medium.com/@ismailsaleem/data-science-9-fields-claude-how-each-specialty-gets-a-different-kind-of-help-612c2d9178fb?source=rss------data_science-5)
-- [ลองจับ Jev มาช่วยคัด Lead ปลอม ทำได้จริงไหม](https://ifew.medium.com/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%9A-jev-%E0%B8%A1%E0%B8%B2%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%84%E0%B8%B1%E0%B8%94-lead-%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%A1-%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%84%E0%B8%AB%E0%B8%A1-0294431346ef?source=rss------data_science-5)
-- [Practical Azure Data Architecture: From Ingestion to AI](https://medium.com/@akhilmahajan_10359/practical-azure-data-architecture-from-ingestion-to-ai-e8c685ca87b3?source=rss------data_science-5)
+- [Why Machine Learning Failed to See Ghana’s Cocoa Price Shock Coming](https://medium.com/@millano2895/why-machine-learning-failed-to-see-ghanas-cocoa-price-shock-coming-2addf772f8b8?source=rss------data_science-5)
+- [Import vs.](https://abhiks1999.medium.com/import-vs-2b7010237b1d?source=rss------data_science-5)
+- [The Skill AI Can’t Replace](https://medium.com/activated-thinker/the-skill-ai-cant-replace-3dd5c129780c?source=rss------data_science-5)
+- [Laporan Praktikum Big Data : Big Data Formats &lpar;Parquet &amp; JSON&rpar; and Simple ETL Pipelines](https://medium.com/@cahyoadi_16983/laporan-praktikum-big-data-big-data-formats-parquet-json-and-simple-etl-pipelines-83b9618c0070?source=rss------data_science-5)
+- [The 5:1 Trap: Why LTV/CAC Can Mislead You](https://medium.com/@its.shoryabisht/the-5-1-trap-why-ltv-cac-can-mislead-you-73fd950c8a00?source=rss------data_science-5)
+- [44 domains account for 48.6% of 622.7 million subdomains](https://medium.com/@getdomainlists/44-domains-account-for-48-6-of-622-7-million-subdomains-b792f01a1a70?source=rss------data_science-5)
+- [I Let My AI Usage Logs Decide When My Coding Assistant Should Wake Up](https://medium.com/@romanlicursi/i-let-my-ai-usage-logs-decide-when-my-coding-assistant-should-wake-up-3a395edeb40c?source=rss------data_science-5)
+- [Sundays with Steve #14: AI Agents Are Coming. But What Does That Actually Mean?](https://medium.com/@sallayev/sundays-with-steve-14-ai-agents-are-coming-but-what-does-that-actually-mean-5b8a30f64a5d?source=rss------data_science-5)
+- [Progress on a Data Science Project Doesn’t Always Mean More Code](https://medium.com/@william7ervin/progress-on-a-data-science-project-doesnt-always-mean-more-code-6c39fb08aa46?source=rss------data_science-5)
+- [Data Science vs. Data Engineering: Mana Jalur Karier yang Tepat untuk Kamu?](https://medium.com/@khalif.umar.af/data-science-vs-data-engineering-mana-jalur-karier-yang-tepat-untuk-kamu-9ad9f76f118d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
