@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why Machine Learning Failed to See Ghana’s Cocoa Price Shock Coming](https://medium.com/@millano2895/why-machine-learning-failed-to-see-ghanas-cocoa-price-shock-coming-2addf772f8b8?source=rss------data_science-5)
-- [Import vs.](https://abhiks1999.medium.com/import-vs-2b7010237b1d?source=rss------data_science-5)
-- [The Skill AI Can’t Replace](https://medium.com/activated-thinker/the-skill-ai-cant-replace-3dd5c129780c?source=rss------data_science-5)
-- [Laporan Praktikum Big Data : Big Data Formats &lpar;Parquet &amp; JSON&rpar; and Simple ETL Pipelines](https://medium.com/@cahyoadi_16983/laporan-praktikum-big-data-big-data-formats-parquet-json-and-simple-etl-pipelines-83b9618c0070?source=rss------data_science-5)
-- [The 5:1 Trap: Why LTV/CAC Can Mislead You](https://medium.com/@its.shoryabisht/the-5-1-trap-why-ltv-cac-can-mislead-you-73fd950c8a00?source=rss------data_science-5)
-- [44 domains account for 48.6% of 622.7 million subdomains](https://medium.com/@getdomainlists/44-domains-account-for-48-6-of-622-7-million-subdomains-b792f01a1a70?source=rss------data_science-5)
-- [I Let My AI Usage Logs Decide When My Coding Assistant Should Wake Up](https://medium.com/@romanlicursi/i-let-my-ai-usage-logs-decide-when-my-coding-assistant-should-wake-up-3a395edeb40c?source=rss------data_science-5)
-- [Sundays with Steve #14: AI Agents Are Coming. But What Does That Actually Mean?](https://medium.com/@sallayev/sundays-with-steve-14-ai-agents-are-coming-but-what-does-that-actually-mean-5b8a30f64a5d?source=rss------data_science-5)
-- [Progress on a Data Science Project Doesn’t Always Mean More Code](https://medium.com/@william7ervin/progress-on-a-data-science-project-doesnt-always-mean-more-code-6c39fb08aa46?source=rss------data_science-5)
-- [Data Science vs. Data Engineering: Mana Jalur Karier yang Tepat untuk Kamu?](https://medium.com/@khalif.umar.af/data-science-vs-data-engineering-mana-jalur-karier-yang-tepat-untuk-kamu-9ad9f76f118d?source=rss------data_science-5)
+- [Acid Rain:](https://medium.com/@memoonas726/acid-rain-b26dedfac284?source=rss------data_science-5)
+- [Your Ad Got the Credit.](https://medium.com/@its.shoryabisht/your-ad-got-the-credit-6e55426fa032?source=rss------data_science-5)
+- [Part 5: Reward Modeling — Teaching AI to Recognize Better Answers](https://medium.com/@deepakcse2k5/part-5-reward-modeling-teaching-ai-to-recognize-better-answers-55b81e452ade?source=rss------data_science-5)
+- [Part 6: Reinforcement Learning — From Reward Signals to Better Language Models](https://medium.com/@deepakcse2k5/part-6-reinforcement-learning-from-reward-signals-to-better-language-models-fce158f50263?source=rss------data_science-5)
+- [Seasonality Features: Dummies, Fourier Terms &amp; Beyond](https://medium.com/@asidd24/seasonality-features-dummies-fourier-terms-beyond-e0e4df1e83b0?source=rss------data_science-5)
+- [Your AI Pipeline Is Wasting 95% of Its LLM Calls A New Category of Model Just Fixed That](https://medium.com/@aftab001x/your-ai-pipeline-is-wasting-95-of-its-llm-calls-a-new-category-of-model-just-fixed-that-14da414b6018?source=rss------data_science-5)
+- [Data Analytics Courses That Actually Get You Job-Ready](https://medium.com/@barrownzlearningacademyl/data-analytics-courses-that-actually-get-you-job-ready-a0fa78d746ab?source=rss------data_science-5)
+- [The Agent Harness Dilemma: As the Model Improves, the Harness Shrinks](https://medium.com/@himsgpt/the-dilema-in-agent-harness-model-improves-harness-shrinks-f52060270549?source=rss------data_science-5)
+- [Papers Explained 627: FanOutQA](https://ritvik19.medium.com/papers-explained-627-fanoutqa-07b02a669eef?source=rss------data_science-5)
+- [PART 2: Building the ADMI Model.](https://pathiarjun15.medium.com/part-2-building-the-admi-model-484d3f06cc0b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
