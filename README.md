@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Acid Rain:](https://medium.com/@memoonas726/acid-rain-b26dedfac284?source=rss------data_science-5)
-- [Your Ad Got the Credit.](https://medium.com/@its.shoryabisht/your-ad-got-the-credit-6e55426fa032?source=rss------data_science-5)
-- [Part 5: Reward Modeling — Teaching AI to Recognize Better Answers](https://medium.com/@deepakcse2k5/part-5-reward-modeling-teaching-ai-to-recognize-better-answers-55b81e452ade?source=rss------data_science-5)
-- [Part 6: Reinforcement Learning — From Reward Signals to Better Language Models](https://medium.com/@deepakcse2k5/part-6-reinforcement-learning-from-reward-signals-to-better-language-models-fce158f50263?source=rss------data_science-5)
-- [Seasonality Features: Dummies, Fourier Terms &amp; Beyond](https://medium.com/@asidd24/seasonality-features-dummies-fourier-terms-beyond-e0e4df1e83b0?source=rss------data_science-5)
-- [Your AI Pipeline Is Wasting 95% of Its LLM Calls A New Category of Model Just Fixed That](https://medium.com/@aftab001x/your-ai-pipeline-is-wasting-95-of-its-llm-calls-a-new-category-of-model-just-fixed-that-14da414b6018?source=rss------data_science-5)
-- [Data Analytics Courses That Actually Get You Job-Ready](https://medium.com/@barrownzlearningacademyl/data-analytics-courses-that-actually-get-you-job-ready-a0fa78d746ab?source=rss------data_science-5)
-- [The Agent Harness Dilemma: As the Model Improves, the Harness Shrinks](https://medium.com/@himsgpt/the-dilema-in-agent-harness-model-improves-harness-shrinks-f52060270549?source=rss------data_science-5)
-- [Papers Explained 627: FanOutQA](https://ritvik19.medium.com/papers-explained-627-fanoutqa-07b02a669eef?source=rss------data_science-5)
-- [PART 2: Building the ADMI Model.](https://pathiarjun15.medium.com/part-2-building-the-admi-model-484d3f06cc0b?source=rss------data_science-5)
+- [EUIJEONG’s Regime · The Print №7](https://euijeongsregime.medium.com/euijeongs-regime-the-print-7-8dfd1a1af725?source=rss------data_science-5)
+- [螞蟻真的比較強嗎？（下）：四大演算法實跑 10 次的成績與選型心法，最常見的 PSO 為什麼墊底？](https://medium.com/@sakamoto2000.kim/%E8%9E%9E%E8%9F%BB%E7%9C%9F%E7%9A%84%E6%AF%94%E8%BC%83%E5%BC%B7%E5%97%8E-%E4%B8%8B-%E5%9B%9B%E5%A4%A7%E6%BC%94%E7%AE%97%E6%B3%95%E5%AF%A6%E8%B7%91-10-%E6%AC%A1%E7%9A%84%E6%88%90%E7%B8%BE%E8%88%87%E9%81%B8%E5%9E%8B%E5%BF%83%E6%B3%95-%E6%9C%80%E5%B8%B8%E8%A6%8B%E7%9A%84-pso-%E7%82%BA%E4%BB%80%E9%BA%BC%E5%A2%8A%E5%BA%95-5dcce1bfe2a8?source=rss------data_science-5)
+- [The Hidden Toll Booth Sitting Inside Every AI Product](https://pub.towardsai.net/the-hidden-toll-booth-sitting-inside-every-ai-product-7b4f948c0336?source=rss------data_science-5)
+- [The Math Behind Why Crowds Beat Experts &lpar;And Why Markets Sometimes Don’t&rpar;](https://medium.com/@wl8380/the-math-behind-why-crowds-beat-experts-and-why-markets-sometimes-dont-b973c6d1b382?source=rss------data_science-5)
+- [Rogue AI Concerns Are Real, and Here’s Why.](https://medium.com/@iryna.nozdrin/rogue-ai-concerns-are-real-and-heres-why-b8ef6aaeb818?source=rss------data_science-5)
+- [How Data Leakage Misleads Linear Regression Models](https://medium.com/@mh.AI/how-data-leakage-misleads-linear-regression-models-d6efdae4ee0c?source=rss------data_science-5)
+- [Where AI Aligns with People: Reframing Careers and Leadership for Enhanced Collaboration](https://medium.com/@curiousmind1786/where-ai-aligns-with-people-reframing-careers-and-leadership-for-enhanced-collaboration-2d1280b326aa?source=rss------data_science-5)
+- [Software Engineering Interviews Are Testing the Wrong Skill in the AI Era](https://medium.com/engineering-playbook/software-engineering-interviews-are-testing-the-wrong-skill-in-the-ai-era-f3d531fe0411?source=rss------data_science-5)
+- [Métricas para Avaliação de Modelos de Machine Learning](https://medium.com/@nara.guimaraes/m%C3%A9tricas-para-avalia%C3%A7%C3%A3o-de-modelos-de-machine-learning-ef26f4f4210f?source=rss------data_science-5)
+- [We Stopped Using Redis for Everything. PostgreSQL Was Already Fast Enough.](https://medium.com/engineering-playbook/we-stopped-using-redis-for-everything-postgresql-was-already-fast-enough-27b8755b8322?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
