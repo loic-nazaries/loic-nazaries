@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [EUIJEONG’s Regime · The Print №7](https://euijeongsregime.medium.com/euijeongs-regime-the-print-7-8dfd1a1af725?source=rss------data_science-5)
-- [螞蟻真的比較強嗎？（下）：四大演算法實跑 10 次的成績與選型心法，最常見的 PSO 為什麼墊底？](https://medium.com/@sakamoto2000.kim/%E8%9E%9E%E8%9F%BB%E7%9C%9F%E7%9A%84%E6%AF%94%E8%BC%83%E5%BC%B7%E5%97%8E-%E4%B8%8B-%E5%9B%9B%E5%A4%A7%E6%BC%94%E7%AE%97%E6%B3%95%E5%AF%A6%E8%B7%91-10-%E6%AC%A1%E7%9A%84%E6%88%90%E7%B8%BE%E8%88%87%E9%81%B8%E5%9E%8B%E5%BF%83%E6%B3%95-%E6%9C%80%E5%B8%B8%E8%A6%8B%E7%9A%84-pso-%E7%82%BA%E4%BB%80%E9%BA%BC%E5%A2%8A%E5%BA%95-5dcce1bfe2a8?source=rss------data_science-5)
-- [The Hidden Toll Booth Sitting Inside Every AI Product](https://pub.towardsai.net/the-hidden-toll-booth-sitting-inside-every-ai-product-7b4f948c0336?source=rss------data_science-5)
-- [The Math Behind Why Crowds Beat Experts &lpar;And Why Markets Sometimes Don’t&rpar;](https://medium.com/@wl8380/the-math-behind-why-crowds-beat-experts-and-why-markets-sometimes-dont-b973c6d1b382?source=rss------data_science-5)
-- [Rogue AI Concerns Are Real, and Here’s Why.](https://medium.com/@iryna.nozdrin/rogue-ai-concerns-are-real-and-heres-why-b8ef6aaeb818?source=rss------data_science-5)
-- [How Data Leakage Misleads Linear Regression Models](https://medium.com/@mh.AI/how-data-leakage-misleads-linear-regression-models-d6efdae4ee0c?source=rss------data_science-5)
-- [Where AI Aligns with People: Reframing Careers and Leadership for Enhanced Collaboration](https://medium.com/@curiousmind1786/where-ai-aligns-with-people-reframing-careers-and-leadership-for-enhanced-collaboration-2d1280b326aa?source=rss------data_science-5)
-- [Software Engineering Interviews Are Testing the Wrong Skill in the AI Era](https://medium.com/engineering-playbook/software-engineering-interviews-are-testing-the-wrong-skill-in-the-ai-era-f3d531fe0411?source=rss------data_science-5)
-- [Métricas para Avaliação de Modelos de Machine Learning](https://medium.com/@nara.guimaraes/m%C3%A9tricas-para-avalia%C3%A7%C3%A3o-de-modelos-de-machine-learning-ef26f4f4210f?source=rss------data_science-5)
-- [We Stopped Using Redis for Everything. PostgreSQL Was Already Fast Enough.](https://medium.com/engineering-playbook/we-stopped-using-redis-for-everything-postgresql-was-already-fast-enough-27b8755b8322?source=rss------data_science-5)
+- [Before You Call Opus 5.5 Nerfed, Ask It the Same Question Twice](https://medium.com/@lvyang860/before-you-call-opus-5-5-nerfed-ask-it-the-same-question-twice-535aa2433367?source=rss------data_science-5)
+- [Why Data Science Starts Before the Model](https://get-it-started.medium.com/why-data-science-starts-before-the-model-c4352bab7117?source=rss------data_science-5)
+- [Deprecating a Tool Nobody Calls Directly](https://pub.towardsai.net/deprecating-a-tool-nobody-calls-directly-a1e11748806a?source=rss------data_science-5)
+- [False Discovery Rate in Optimizely: Why Running Many Tests Simultaneously Is Riskier Than You Think](https://medium.com/@atticusli/false-discovery-rate-in-optimizely-why-running-many-tests-simultaneously-is-riskier-than-you-think-4e8c62e88c9d?source=rss------data_science-5)
+- [8 Python Libraries That Catch Bad Data Before It Breaks Things](https://blog.stackademic.com/8-python-libraries-that-catch-bad-data-before-it-breaks-things-d31a05c1a1c6?source=rss------data_science-5)
+- [“Craig Wright, the Satoshi Shadow, and the Two Things That Would Actually Move BSV.”](https://lordgaudygroup.medium.com/craig-wright-the-satoshi-shadow-and-the-two-things-that-would-actually-move-bsv-aee1b1b217a1?source=rss------data_science-5)
+- [Rethinking AI Responsibility: Governance, Trust, and Creative Oversight in Complex Innovation](https://medium.com/@curiousmind1786/rethinking-ai-responsibility-governance-trust-and-creative-oversight-in-complex-innovation-0b1df64a8994?source=rss------data_science-5)
+- [What Is Attention Calculating?](https://medium.com/@pacosun/what-is-attention-calculating-09760ac9509a?source=rss------data_science-5)
+- [Top 30 RAG, CAG, and MAG Interview Questions and Answers — 2026](https://skphd.medium.com/top-30-rag-cag-and-mag-interview-questions-and-answers-2026-c1709bb717ab?source=rss------data_science-5)
+- [Top 30 AI Guardrails Interview Questions and Answers — 2026](https://skphd.medium.com/top-30-ai-guardrails-interview-questions-and-answers-2026-e89363cbb7cd?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
