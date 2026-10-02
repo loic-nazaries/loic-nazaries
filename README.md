@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Before You Call Opus 5.5 Nerfed, Ask It the Same Question Twice](https://medium.com/@lvyang860/before-you-call-opus-5-5-nerfed-ask-it-the-same-question-twice-535aa2433367?source=rss------data_science-5)
-- [Why Data Science Starts Before the Model](https://get-it-started.medium.com/why-data-science-starts-before-the-model-c4352bab7117?source=rss------data_science-5)
-- [Deprecating a Tool Nobody Calls Directly](https://pub.towardsai.net/deprecating-a-tool-nobody-calls-directly-a1e11748806a?source=rss------data_science-5)
-- [False Discovery Rate in Optimizely: Why Running Many Tests Simultaneously Is Riskier Than You Think](https://medium.com/@atticusli/false-discovery-rate-in-optimizely-why-running-many-tests-simultaneously-is-riskier-than-you-think-4e8c62e88c9d?source=rss------data_science-5)
-- [8 Python Libraries That Catch Bad Data Before It Breaks Things](https://blog.stackademic.com/8-python-libraries-that-catch-bad-data-before-it-breaks-things-d31a05c1a1c6?source=rss------data_science-5)
-- [“Craig Wright, the Satoshi Shadow, and the Two Things That Would Actually Move BSV.”](https://lordgaudygroup.medium.com/craig-wright-the-satoshi-shadow-and-the-two-things-that-would-actually-move-bsv-aee1b1b217a1?source=rss------data_science-5)
-- [Rethinking AI Responsibility: Governance, Trust, and Creative Oversight in Complex Innovation](https://medium.com/@curiousmind1786/rethinking-ai-responsibility-governance-trust-and-creative-oversight-in-complex-innovation-0b1df64a8994?source=rss------data_science-5)
-- [What Is Attention Calculating?](https://medium.com/@pacosun/what-is-attention-calculating-09760ac9509a?source=rss------data_science-5)
-- [Top 30 RAG, CAG, and MAG Interview Questions and Answers — 2026](https://skphd.medium.com/top-30-rag-cag-and-mag-interview-questions-and-answers-2026-c1709bb717ab?source=rss------data_science-5)
-- [Top 30 AI Guardrails Interview Questions and Answers — 2026](https://skphd.medium.com/top-30-ai-guardrails-interview-questions-and-answers-2026-e89363cbb7cd?source=rss------data_science-5)
+- [Do We Really Need to Process All the Data Again?](https://medium.com/towards-data-engineering/do-we-really-need-to-process-all-the-data-again-d0f696316d41?source=rss------data_science-5)
+- [How I Vibe Code Data Platform with Claude 5.5 Without Burning My Token Budget](https://medium.com/towards-data-engineering/how-i-vibe-code-data-platform-with-claude-5-5-without-burning-my-token-budget-93398753e3dd?source=rss------data_science-5)
+- [Top 30 MLOps interview Questions and Answers](https://skphd.medium.com/top-30-mlops-interview-questions-and-answers-d2b992170b85?source=rss------data_science-5)
+- [After 19 Years in Data Science, Here’s What I Wish Every Professional Knew About Career Anxiety](https://medium.com/@vikashsinghy2k/after-19-years-in-data-science-heres-what-i-wish-every-professional-knew-about-career-anxiety-2c431a415be5?source=rss------data_science-5)
+- [Agentic AI Guardrails: The Complete Architecture for Safe, Reliable &amp; Governable AI Agents](https://dharmarajdhanapal.medium.com/agentic-ai-guardrails-the-complete-architecture-for-safe-reliable-governable-ai-agents-33ceb42b5c40?source=rss------data_science-5)
+- [eco](https://medium.com/@rehmasx9/eco-45317048380f?source=rss------data_science-5)
+- [Pandas in Python: A Beginner’s Guide to Data Analysis](https://medium.com/@skalthaf505/pandas-in-python-a-beginners-guide-to-data-analysis-2768ba3897c5?source=rss------data_science-5)
+- [When AI Writes the Code, Who Checks the Work?](https://medium.com/@pyrexsolutions/when-ai-writes-the-code-who-checks-the-work-54887ce177ca?source=rss------data_science-5)
+- [Number System, Inverse Operations, and Zero: A WUCC &amp; BVP Perspective](https://medium.com/@prasanthrs1976/number-system-inverse-operations-and-zero-a-wucc-bvp-perspective-0e6631f34396?source=rss------data_science-5)
+- [What Is an MCP Server and When Should You Use It?](https://themindshift.medium.com/what-is-an-mcp-server-and-when-should-you-use-it-9a40650e4a1c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
