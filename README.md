@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Do We Really Need to Process All the Data Again?](https://medium.com/towards-data-engineering/do-we-really-need-to-process-all-the-data-again-d0f696316d41?source=rss------data_science-5)
-- [How I Vibe Code Data Platform with Claude 5.5 Without Burning My Token Budget](https://medium.com/towards-data-engineering/how-i-vibe-code-data-platform-with-claude-5-5-without-burning-my-token-budget-93398753e3dd?source=rss------data_science-5)
-- [Top 30 MLOps interview Questions and Answers](https://skphd.medium.com/top-30-mlops-interview-questions-and-answers-d2b992170b85?source=rss------data_science-5)
-- [After 19 Years in Data Science, Here’s What I Wish Every Professional Knew About Career Anxiety](https://medium.com/@vikashsinghy2k/after-19-years-in-data-science-heres-what-i-wish-every-professional-knew-about-career-anxiety-2c431a415be5?source=rss------data_science-5)
-- [Agentic AI Guardrails: The Complete Architecture for Safe, Reliable &amp; Governable AI Agents](https://dharmarajdhanapal.medium.com/agentic-ai-guardrails-the-complete-architecture-for-safe-reliable-governable-ai-agents-33ceb42b5c40?source=rss------data_science-5)
-- [eco](https://medium.com/@rehmasx9/eco-45317048380f?source=rss------data_science-5)
-- [Pandas in Python: A Beginner’s Guide to Data Analysis](https://medium.com/@skalthaf505/pandas-in-python-a-beginners-guide-to-data-analysis-2768ba3897c5?source=rss------data_science-5)
-- [When AI Writes the Code, Who Checks the Work?](https://medium.com/@pyrexsolutions/when-ai-writes-the-code-who-checks-the-work-54887ce177ca?source=rss------data_science-5)
-- [Number System, Inverse Operations, and Zero: A WUCC &amp; BVP Perspective](https://medium.com/@prasanthrs1976/number-system-inverse-operations-and-zero-a-wucc-bvp-perspective-0e6631f34396?source=rss------data_science-5)
-- [What Is an MCP Server and When Should You Use It?](https://themindshift.medium.com/what-is-an-mcp-server-and-when-should-you-use-it-9a40650e4a1c?source=rss------data_science-5)
+- [Are We Still Watching Videos, or Are Algorithms Watching Us?](https://medium.com/@omar.iftikhar/are-we-still-watching-videos-or-are-algorithms-watching-us-07e191b571e1?source=rss------data_science-5)
+- [I Tried AI Coding Tools for a Month. These Actually Changed How I Build](https://aiadvances.org/i-tried-ai-coding-tools-for-a-month-these-actually-changed-how-i-build-7b5d4b0ade9e?source=rss------data_science-5)
+- [Cloudflare Clef: A 27B AI Jev Model](https://medium.com/data-science-in-your-pocket/cloudflare-clef-a-27b-ai-jev-model-374da73e72a7?source=rss------data_science-5)
+- [ChatGPT Dots vs Hermes Agent](https://medium.com/data-science-in-your-pocket/chatgpt-dots-vs-hermes-agent-25ea408a49c1?source=rss------data_science-5)
+- [Building Your First Agentic Workflow with Power BI Semantic Models](https://abhiks1999.medium.com/building-your-first-agentic-workflow-with-power-bi-semantic-models-d3081c830429?source=rss------data_science-5)
+- [Arnold Schwarzenegger killed AI](https://medium.com/@ikramchoudhury0/arnold-schwarzenegger-killed-ai-2e5bf387b1d1?source=rss------data_science-5)
+- [Scikit-learn Tutorial: The Complete Guide to Classical Machine Learning in Python](https://medium.com/@khayyamshah2007/scikit-learn-tutorial-the-complete-guide-to-classical-machine-learning-in-python-6f50df5b55d0?source=rss------data_science-5)
+- [From Almost Dropping Out to Submitting My Take-Home: A Week 2 Story](https://medium.com/@rosemaryogbodo671/from-almost-dropping-out-to-submitting-my-take-home-a-week-2-story-041f57891078?source=rss------data_science-5)
+- [Ethics: “With great power comes great responsibility”, Part III](https://michiko-wolcott.medium.com/ethics-with-great-power-comes-great-responsibility-part-iii-7a0a4f26a71f?source=rss------data_science-5)
+- [Intelligence Isn’t Installed, It’s Built](https://medium.com/@sree622/intelligence-isnt-installed-it-s-built-a02bd1078678?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
