@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Are We Still Watching Videos, or Are Algorithms Watching Us?](https://medium.com/@omar.iftikhar/are-we-still-watching-videos-or-are-algorithms-watching-us-07e191b571e1?source=rss------data_science-5)
-- [I Tried AI Coding Tools for a Month. These Actually Changed How I Build](https://aiadvances.org/i-tried-ai-coding-tools-for-a-month-these-actually-changed-how-i-build-7b5d4b0ade9e?source=rss------data_science-5)
-- [Cloudflare Clef: A 27B AI Jev Model](https://medium.com/data-science-in-your-pocket/cloudflare-clef-a-27b-ai-jev-model-374da73e72a7?source=rss------data_science-5)
-- [ChatGPT Dots vs Hermes Agent](https://medium.com/data-science-in-your-pocket/chatgpt-dots-vs-hermes-agent-25ea408a49c1?source=rss------data_science-5)
-- [Building Your First Agentic Workflow with Power BI Semantic Models](https://abhiks1999.medium.com/building-your-first-agentic-workflow-with-power-bi-semantic-models-d3081c830429?source=rss------data_science-5)
-- [Arnold Schwarzenegger killed AI](https://medium.com/@ikramchoudhury0/arnold-schwarzenegger-killed-ai-2e5bf387b1d1?source=rss------data_science-5)
-- [Scikit-learn Tutorial: The Complete Guide to Classical Machine Learning in Python](https://medium.com/@khayyamshah2007/scikit-learn-tutorial-the-complete-guide-to-classical-machine-learning-in-python-6f50df5b55d0?source=rss------data_science-5)
-- [From Almost Dropping Out to Submitting My Take-Home: A Week 2 Story](https://medium.com/@rosemaryogbodo671/from-almost-dropping-out-to-submitting-my-take-home-a-week-2-story-041f57891078?source=rss------data_science-5)
-- [Ethics: “With great power comes great responsibility”, Part III](https://michiko-wolcott.medium.com/ethics-with-great-power-comes-great-responsibility-part-iii-7a0a4f26a71f?source=rss------data_science-5)
-- [Intelligence Isn’t Installed, It’s Built](https://medium.com/@sree622/intelligence-isnt-installed-it-s-built-a02bd1078678?source=rss------data_science-5)
+- [Your SDLC data has an accent.](https://dadisi.medium.com/your-sdlc-data-has-an-accent-f1a714a3783b?source=rss------data_science-5)
+- [Build an LLM-Powered User Feedback Analysis App With Me](https://medium.com/@akshatakini/build-an-llm-powered-user-feedback-analysis-app-with-me-00aeae73a447?source=rss------data_science-5)
+- [Menguasai Konsep Transaksi pada Database MySQL: Menjaga Integritas Data dengan Prinsip ACID](https://medium.com/@putuagusbrahmara2007/menguasai-konsep-transaksi-pada-database-mysql-menjaga-integritas-data-dengan-prinsip-acid-26dd083d26c2?source=rss------data_science-5)
+- [Top 30 LLMOps Interview Questions and Answers — 2026](https://skphd.medium.com/top-30-llmops-interview-questions-and-answers-2026-e8f184c04d14?source=rss------data_science-5)
+- [These 15 Jev-Claude use cases are blowing people’s minds &lpar;with prompts&rpar;](https://medium.com/@shivanimaurya811282/these-15-jev-claude-use-cases-are-blowing-peoples-minds-with-prompts-b594a1ee9bed?source=rss------data_science-5)
+- [Inferential Statistics](https://medium.com/@theerdamkiran678/a-practical-guide-to-inferential-statistics-91368f1ebe56?source=rss------data_science-5)
+- [CLM and Jev in Enterprise Agentic applications](https://medium.com/@prateekparhi936/clm-and-jev-in-enterprise-agentic-applications-b951180672d4?source=rss------data_science-5)
+- [Stop Writing Messy DAX: Clean Code Shortcuts and Calculation Groups Every Developer Needs](https://abhiks1999.medium.com/stop-writing-messy-dax-clean-code-shortcuts-and-calculation-groups-every-developer-needs-7a4a223277a0?source=rss------data_science-5)
+- [pandas fillna vs dropna: When to Use Each &lpar;3 Worked Examples&rpar;](https://lemmaandloop.medium.com/pandas-fillna-vs-dropna-when-to-use-each-3-worked-examples-02c69fdd8c65?source=rss------data_science-5)
+- [WORST-CASE SCENARIO UNCONTROLLED IRANIAN ESCALATION: Catastrophic Consequences of Sustained…](https://medium.com/@ambitionmagician/worst-case-scenario-uncontrolled-iranian-escalation-catastrophic-consequences-of-sustained-a8df9ed82f23?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
