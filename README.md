@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Your SDLC data has an accent.](https://dadisi.medium.com/your-sdlc-data-has-an-accent-f1a714a3783b?source=rss------data_science-5)
-- [Build an LLM-Powered User Feedback Analysis App With Me](https://medium.com/@akshatakini/build-an-llm-powered-user-feedback-analysis-app-with-me-00aeae73a447?source=rss------data_science-5)
-- [Menguasai Konsep Transaksi pada Database MySQL: Menjaga Integritas Data dengan Prinsip ACID](https://medium.com/@putuagusbrahmara2007/menguasai-konsep-transaksi-pada-database-mysql-menjaga-integritas-data-dengan-prinsip-acid-26dd083d26c2?source=rss------data_science-5)
-- [Top 30 LLMOps Interview Questions and Answers — 2026](https://skphd.medium.com/top-30-llmops-interview-questions-and-answers-2026-e8f184c04d14?source=rss------data_science-5)
-- [These 15 Jev-Claude use cases are blowing people’s minds &lpar;with prompts&rpar;](https://medium.com/@shivanimaurya811282/these-15-jev-claude-use-cases-are-blowing-peoples-minds-with-prompts-b594a1ee9bed?source=rss------data_science-5)
-- [Inferential Statistics](https://medium.com/@theerdamkiran678/a-practical-guide-to-inferential-statistics-91368f1ebe56?source=rss------data_science-5)
-- [CLM and Jev in Enterprise Agentic applications](https://medium.com/@prateekparhi936/clm-and-jev-in-enterprise-agentic-applications-b951180672d4?source=rss------data_science-5)
-- [Stop Writing Messy DAX: Clean Code Shortcuts and Calculation Groups Every Developer Needs](https://abhiks1999.medium.com/stop-writing-messy-dax-clean-code-shortcuts-and-calculation-groups-every-developer-needs-7a4a223277a0?source=rss------data_science-5)
-- [pandas fillna vs dropna: When to Use Each &lpar;3 Worked Examples&rpar;](https://lemmaandloop.medium.com/pandas-fillna-vs-dropna-when-to-use-each-3-worked-examples-02c69fdd8c65?source=rss------data_science-5)
-- [WORST-CASE SCENARIO UNCONTROLLED IRANIAN ESCALATION: Catastrophic Consequences of Sustained…](https://medium.com/@ambitionmagician/worst-case-scenario-uncontrolled-iranian-escalation-catastrophic-consequences-of-sustained-a8df9ed82f23?source=rss------data_science-5)
+- [Statistics Interview Questions Every Data Professional Should Know](https://medium.com/@kanamadi.bhagyashree.8/statistics-interview-questions-every-data-professional-should-know-410a573248ae?source=rss------data_science-5)
+- [Moving People with Data: 5 Short Lessons](https://medium.com/@JennyGRankin/moving-people-with-data-5-short-lessons-19acaf79381f?source=rss------data_science-5)
+- [Papers Explained 630: Search-R1](https://ritvik19.medium.com/papers-explained-630-search-r1-614b480de319?source=rss------data_science-5)
+- [How AI Is Changing Data Analytics: From Raw Data to Smart Decisions](https://medium.com/@ishitakobal358/how-ai-is-changing-data-analytics-from-raw-data-to-smart-decisions-6867d0fc821d?source=rss------data_science-5)
+- [Python: The Little Boxes That Make Your Programs Smart](https://medium.com/python-to-intelligence/python-the-little-boxes-that-make-your-programs-smart-7525698ecb04?source=rss------data_science-5)
+- [NEW TradingView Indicator That Shows You Exactly Where To BUY &amp; SELL](https://medium.com/@sayedali_3166/new-tradingview-indicator-that-shows-you-exactly-where-to-buy-sell-466b74ceface?source=rss------data_science-5)
+- [Lambda Functions, map&lpar;&rpar;, filter&lpar;&rpar;, and reduce&lpar;&rpar; in Python — With Real Comparisons](https://ramana-analyst.medium.com/lambda-functions-map-filter-and-reduce-in-python-with-real-comparisons-3459045b1ffe?source=rss------data_science-5)
+- [Python Loops Demystified: while, for, and range&lpar;&rpar;](https://ramana-analyst.medium.com/python-loops-demystified-while-for-and-range-b23633531f98?source=rss------data_science-5)
+- [as soon as shit not going your way no more, you gotta get on.](https://medium.com/@themaidencharacter/as-soon-as-shit-not-going-your-way-no-more-you-gotta-get-on-3a895a7cac05?source=rss------data_science-5)
+- [Attention Is All You Need — The Paper That Created the Transformer](https://medium.com/@prateekparhi936/attention-is-all-you-need-the-paper-that-created-the-transformer-e5eebc12ad8d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
