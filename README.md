@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Statistics Interview Questions Every Data Professional Should Know](https://medium.com/@kanamadi.bhagyashree.8/statistics-interview-questions-every-data-professional-should-know-410a573248ae?source=rss------data_science-5)
-- [Moving People with Data: 5 Short Lessons](https://medium.com/@JennyGRankin/moving-people-with-data-5-short-lessons-19acaf79381f?source=rss------data_science-5)
-- [Papers Explained 630: Search-R1](https://ritvik19.medium.com/papers-explained-630-search-r1-614b480de319?source=rss------data_science-5)
-- [How AI Is Changing Data Analytics: From Raw Data to Smart Decisions](https://medium.com/@ishitakobal358/how-ai-is-changing-data-analytics-from-raw-data-to-smart-decisions-6867d0fc821d?source=rss------data_science-5)
-- [Python: The Little Boxes That Make Your Programs Smart](https://medium.com/python-to-intelligence/python-the-little-boxes-that-make-your-programs-smart-7525698ecb04?source=rss------data_science-5)
-- [NEW TradingView Indicator That Shows You Exactly Where To BUY &amp; SELL](https://medium.com/@sayedali_3166/new-tradingview-indicator-that-shows-you-exactly-where-to-buy-sell-466b74ceface?source=rss------data_science-5)
-- [Lambda Functions, map&lpar;&rpar;, filter&lpar;&rpar;, and reduce&lpar;&rpar; in Python — With Real Comparisons](https://ramana-analyst.medium.com/lambda-functions-map-filter-and-reduce-in-python-with-real-comparisons-3459045b1ffe?source=rss------data_science-5)
-- [Python Loops Demystified: while, for, and range&lpar;&rpar;](https://ramana-analyst.medium.com/python-loops-demystified-while-for-and-range-b23633531f98?source=rss------data_science-5)
-- [as soon as shit not going your way no more, you gotta get on.](https://medium.com/@themaidencharacter/as-soon-as-shit-not-going-your-way-no-more-you-gotta-get-on-3a895a7cac05?source=rss------data_science-5)
-- [Attention Is All You Need — The Paper That Created the Transformer](https://medium.com/@prateekparhi936/attention-is-all-you-need-the-paper-that-created-the-transformer-e5eebc12ad8d?source=rss------data_science-5)
+- [AI is not the next DotCom bubble, it’s just the next layer of life and business themselves](https://luisyanguas22.medium.com/ai-is-not-the-next-dotcom-bubble-its-just-the-next-layer-of-life-and-business-themselves-8bec867f0317?source=rss------data_science-5)
+- [Digital Experiments: The Outcome You Never Get to See](https://medium.com/@dinabavli/digital-experiments-the-outcome-you-never-get-to-see-dcee2bca8f07?source=rss------data_science-5)
+- [Papers Explained 631: ReSearch](https://ritvik19.medium.com/papers-explained-631-research-1f3ba010f95f?source=rss------data_science-5)
+- [People With an IQ of 120+ Can Solve This Puzzle — Find the Missing Tile!](https://medium.com/puzzle-sphere/people-with-an-iq-of-120-can-solve-this-puzzle-find-the-missing-tile-a3fb4efa013a?source=rss------data_science-5)
+- [People With an IQ of 140 Can Solve This Puzzle — Finding the Missing Number!](https://medium.com/puzzle-sphere/people-with-an-iq-of-140-can-solve-this-puzzle-finding-the-missing-number-923cc191dcfa?source=rss------data_science-5)
+- [Designing a Long-Horizon Agent Evaluation Harness: How Do You Grade Something That Takes Six Hours…](https://medium.com/@deepakcse2k5/designing-a-long-horizon-agent-evaluation-harness-how-do-you-grade-something-that-takes-six-hours-da7922b558bb?source=rss------data_science-5)
+- [This Trick Solves What Looks Like an Impossible Harvard Entrance Exam Equation](https://medium.com/puzzle-sphere/this-trick-solves-what-looks-like-an-impossible-harvard-entrance-exam-equation-c662dcb2c639?source=rss------data_science-5)
+- [The Email Renaissance: Why First-Party Lists Outlive Algorithmic Feeds](https://medium.com/@digitaltlabinfo/the-email-renaissance-why-first-party-lists-outlive-algorithmic-feeds-0fe546700157?source=rss------data_science-5)
+- [AI Models Judging Each Other: Here’s What Happened When 4 AI Titans Rated Each Other’s Writing](https://medium.com/@kosi.gramatikoff/ai-models-judging-each-other-heres-what-happened-when-4-ai-titans-rated-each-other-s-writing-5c8d6c74afea?source=rss------data_science-5)
+- [The Only 5 AI Papers You Need to Read in 2026](https://pub.towardsai.net/the-only-5-ai-papers-you-need-to-read-in-2026-c6b31e022164?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
