@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [AI is not the next DotCom bubble, it’s just the next layer of life and business themselves](https://luisyanguas22.medium.com/ai-is-not-the-next-dotcom-bubble-its-just-the-next-layer-of-life-and-business-themselves-8bec867f0317?source=rss------data_science-5)
-- [Digital Experiments: The Outcome You Never Get to See](https://medium.com/@dinabavli/digital-experiments-the-outcome-you-never-get-to-see-dcee2bca8f07?source=rss------data_science-5)
-- [Papers Explained 631: ReSearch](https://ritvik19.medium.com/papers-explained-631-research-1f3ba010f95f?source=rss------data_science-5)
-- [People With an IQ of 120+ Can Solve This Puzzle — Find the Missing Tile!](https://medium.com/puzzle-sphere/people-with-an-iq-of-120-can-solve-this-puzzle-find-the-missing-tile-a3fb4efa013a?source=rss------data_science-5)
-- [People With an IQ of 140 Can Solve This Puzzle — Finding the Missing Number!](https://medium.com/puzzle-sphere/people-with-an-iq-of-140-can-solve-this-puzzle-finding-the-missing-number-923cc191dcfa?source=rss------data_science-5)
-- [Designing a Long-Horizon Agent Evaluation Harness: How Do You Grade Something That Takes Six Hours…](https://medium.com/@deepakcse2k5/designing-a-long-horizon-agent-evaluation-harness-how-do-you-grade-something-that-takes-six-hours-da7922b558bb?source=rss------data_science-5)
-- [This Trick Solves What Looks Like an Impossible Harvard Entrance Exam Equation](https://medium.com/puzzle-sphere/this-trick-solves-what-looks-like-an-impossible-harvard-entrance-exam-equation-c662dcb2c639?source=rss------data_science-5)
-- [The Email Renaissance: Why First-Party Lists Outlive Algorithmic Feeds](https://medium.com/@digitaltlabinfo/the-email-renaissance-why-first-party-lists-outlive-algorithmic-feeds-0fe546700157?source=rss------data_science-5)
-- [AI Models Judging Each Other: Here’s What Happened When 4 AI Titans Rated Each Other’s Writing](https://medium.com/@kosi.gramatikoff/ai-models-judging-each-other-heres-what-happened-when-4-ai-titans-rated-each-other-s-writing-5c8d6c74afea?source=rss------data_science-5)
-- [The Only 5 AI Papers You Need to Read in 2026](https://pub.towardsai.net/the-only-5-ai-papers-you-need-to-read-in-2026-c6b31e022164?source=rss------data_science-5)
+- [How to Catch Data Pipeline Issues Before They Reach Product](https://medium.com/@Segmetriqanalytics/how-to-catch-data-pipeline-issues-before-they-reach-product-f4a4f588397e?source=rss------data_science-5)
+- [Review: Nanoleaf Shapes vs Govee Glide Hexa Light Panels — Which One Is Worth Your Money in 2026?](https://medium.com/@econex23/review-nanoleaf-shapes-vs-govee-glide-hexa-light-panels-which-one-is-worth-your-money-in-2026-71d045b6ca9b?source=rss------data_science-5)
+- [Data-Driven Decision Making for Modern Businesses](https://medium.com/@trackpi/data-driven-decision-making-for-modern-businesses-4dabfa0a5e37?source=rss------data_science-5)
+- [The Slang Word That Entered Print the Year You Were Born](https://medium.com/@vpncrazy/the-slang-word-that-entered-print-the-year-you-were-born-99874404a5ed?source=rss------data_science-5)
+- [Nancy Pelosi Stock Trades: Capitol Trades vs Quiver vs Unusual Whales vs NexusTrade](https://medium.com/codex/nancy-pelosi-stock-trades-capitol-trades-vs-quiver-vs-unusual-whales-vs-nexustrade-bcda4bcc1b8d?source=rss------data_science-5)
+- [Coverage 1: 90% Coverage Is a Promise About Averages, Not About You](https://medium.com/@jonghajeon1990/coverage-1-90-coverage-is-a-promise-about-averages-not-about-you-f118e72d707b?source=rss------data_science-5)
+- [String Slicing and Reversing in Python &lpar;With the Logic Behind the Syntax&rpar;](https://ramana-analyst.medium.com/string-slicing-and-reversing-in-python-with-the-logic-behind-the-syntax-a04e54f7bc2b?source=rss------data_science-5)
+- [Juliet Lorraine Blackwell Scott’s first album will probably have more hits on it but it’s not going…](https://medium.com/@tznrgskyj/juliet-lorraine-blackwell-scotts-first-album-will-probably-have-more-hits-on-it-but-it-s-not-going-541d7e27b8cc?source=rss------data_science-5)
+- [10 Mins, 10 Topics: What You Need to Know in Databricks](https://pravash-techie.medium.com/10-mins-10-topics-what-you-need-to-know-in-databricks-62452dc793b5?source=rss------data_science-5)
+- [Python: Teaching Your Program How to Make Decisions](https://medium.com/python-to-intelligence/python-teaching-your-program-how-to-make-decisions-d0de951c8e30?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
