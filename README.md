@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Catch Data Pipeline Issues Before They Reach Product](https://medium.com/@Segmetriqanalytics/how-to-catch-data-pipeline-issues-before-they-reach-product-f4a4f588397e?source=rss------data_science-5)
-- [Review: Nanoleaf Shapes vs Govee Glide Hexa Light Panels — Which One Is Worth Your Money in 2026?](https://medium.com/@econex23/review-nanoleaf-shapes-vs-govee-glide-hexa-light-panels-which-one-is-worth-your-money-in-2026-71d045b6ca9b?source=rss------data_science-5)
-- [Data-Driven Decision Making for Modern Businesses](https://medium.com/@trackpi/data-driven-decision-making-for-modern-businesses-4dabfa0a5e37?source=rss------data_science-5)
-- [The Slang Word That Entered Print the Year You Were Born](https://medium.com/@vpncrazy/the-slang-word-that-entered-print-the-year-you-were-born-99874404a5ed?source=rss------data_science-5)
-- [Nancy Pelosi Stock Trades: Capitol Trades vs Quiver vs Unusual Whales vs NexusTrade](https://medium.com/codex/nancy-pelosi-stock-trades-capitol-trades-vs-quiver-vs-unusual-whales-vs-nexustrade-bcda4bcc1b8d?source=rss------data_science-5)
-- [Coverage 1: 90% Coverage Is a Promise About Averages, Not About You](https://medium.com/@jonghajeon1990/coverage-1-90-coverage-is-a-promise-about-averages-not-about-you-f118e72d707b?source=rss------data_science-5)
-- [String Slicing and Reversing in Python &lpar;With the Logic Behind the Syntax&rpar;](https://ramana-analyst.medium.com/string-slicing-and-reversing-in-python-with-the-logic-behind-the-syntax-a04e54f7bc2b?source=rss------data_science-5)
-- [Juliet Lorraine Blackwell Scott’s first album will probably have more hits on it but it’s not going…](https://medium.com/@tznrgskyj/juliet-lorraine-blackwell-scotts-first-album-will-probably-have-more-hits-on-it-but-it-s-not-going-541d7e27b8cc?source=rss------data_science-5)
-- [10 Mins, 10 Topics: What You Need to Know in Databricks](https://pravash-techie.medium.com/10-mins-10-topics-what-you-need-to-know-in-databricks-62452dc793b5?source=rss------data_science-5)
-- [Python: Teaching Your Program How to Make Decisions](https://medium.com/python-to-intelligence/python-teaching-your-program-how-to-make-decisions-d0de951c8e30?source=rss------data_science-5)
+- [A Neural Network From Scratch in Python: Every Step Explained](https://medium.com/codetodeploy/a-neural-network-from-scratch-in-python-every-step-explained-ebb0d0fbfcb9?source=rss------data_science-5)
+- [Text Preprocessing in NLP: Bag of Words &lpar;BoW&rpar; and TF-IDF](https://medium.com/@bipinsatyankar1100/text-preprocessing-in-nlp-bag-of-words-bow-and-tf-idf-3d079f2f2879?source=rss------data_science-5)
+- [Coverage 2: Your Calibration Error Is Mostly Your Bin Count](https://medium.com/@jonghajeon1990/coverage-2-your-calibration-error-is-mostly-your-bin-count-0d194ad50378?source=rss------data_science-5)
+- [Data-Driven Decision Making: Turning Data Into Better Decisions](https://medium.com/@bskky001/data-driven-decision-making-turning-data-into-better-decisions-446696501e09?source=rss------data_science-5)
+- [Python 3.15 Is Almost Here: The Features That Actually Matter](https://medium.com/@sumitv8004/python-3-15-is-almost-here-the-features-that-actually-matter-0e5d667ffbf7?source=rss------data_science-5)
+- [HSRP Series — Part 2: Why Human Representation Needs State, Time, and Uncertainty](https://medium.com/@shahinasamir786/hsrp-series-part-2-why-human-representation-needs-state-time-and-uncertainty-062013b328f8?source=rss------data_science-5)
+- [The Barcode Battle: Why Industrial Traceability Runs on Data Matrix, Not QR Codes](https://heatsign.medium.com/the-barcode-battle-why-industrial-traceability-runs-on-data-matrix-not-qr-codes-4b1d5c1c4721?source=rss------data_science-5)
+- [Introducing Radar Next](https://medium.com/@AxonOS/introducing-radar-next-0225d5525668?source=rss------data_science-5)
+- [String Formatting in Python: format&lpar;&rpar;, f-strings, and Everything In Between](https://ramana-analyst.medium.com/string-formatting-in-python-format-f-strings-and-everything-in-between-c50188c1dd48?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
