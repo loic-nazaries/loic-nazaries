@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [A Neural Network From Scratch in Python: Every Step Explained](https://medium.com/codetodeploy/a-neural-network-from-scratch-in-python-every-step-explained-ebb0d0fbfcb9?source=rss------data_science-5)
-- [Text Preprocessing in NLP: Bag of Words &lpar;BoW&rpar; and TF-IDF](https://medium.com/@bipinsatyankar1100/text-preprocessing-in-nlp-bag-of-words-bow-and-tf-idf-3d079f2f2879?source=rss------data_science-5)
-- [Coverage 2: Your Calibration Error Is Mostly Your Bin Count](https://medium.com/@jonghajeon1990/coverage-2-your-calibration-error-is-mostly-your-bin-count-0d194ad50378?source=rss------data_science-5)
-- [Data-Driven Decision Making: Turning Data Into Better Decisions](https://medium.com/@bskky001/data-driven-decision-making-turning-data-into-better-decisions-446696501e09?source=rss------data_science-5)
-- [Python 3.15 Is Almost Here: The Features That Actually Matter](https://medium.com/@sumitv8004/python-3-15-is-almost-here-the-features-that-actually-matter-0e5d667ffbf7?source=rss------data_science-5)
-- [HSRP Series — Part 2: Why Human Representation Needs State, Time, and Uncertainty](https://medium.com/@shahinasamir786/hsrp-series-part-2-why-human-representation-needs-state-time-and-uncertainty-062013b328f8?source=rss------data_science-5)
-- [The Barcode Battle: Why Industrial Traceability Runs on Data Matrix, Not QR Codes](https://heatsign.medium.com/the-barcode-battle-why-industrial-traceability-runs-on-data-matrix-not-qr-codes-4b1d5c1c4721?source=rss------data_science-5)
-- [Introducing Radar Next](https://medium.com/@AxonOS/introducing-radar-next-0225d5525668?source=rss------data_science-5)
-- [String Formatting in Python: format&lpar;&rpar;, f-strings, and Everything In Between](https://ramana-analyst.medium.com/string-formatting-in-python-format-f-strings-and-everything-in-between-c50188c1dd48?source=rss------data_science-5)
+- [The Championship Formula That 2026 Stripped Away: Why Russell’s Title Window Closed at Sepang](https://medium.com/@1583195188/the-championship-formula-that-2026-stripped-away-why-russells-title-window-closed-at-sepang-57441f1ec189?source=rss------data_science-5)
+- [Is AI More Creative Than You? 100,000 People Just Helped Answer That](https://medium.com/data-science-collective/is-ai-more-creative-than-you-100-000-people-just-helped-answer-that-f11c7be6b994?source=rss------data_science-5)
+- [I Tried Building My Own AI Agent. Here’s What I Learned](https://medium.com/@pottelisowmyasree/i-tried-building-my-own-ai-agent-heres-what-i-learned-86c1e4b205bf?source=rss------data_science-5)
+- [The Strategic Guide to Self Service BI](https://medium.com/@Brilworks/the-strategic-guide-to-self-service-bi-a8df10c0c6b9?source=rss------data_science-5)
+- [Cross-Architecture Distillation: Teaching Smaller, Faster Models from Powerful AI Teachers](https://medium.com/@deepakcse2k5/cross-architecture-distillation-teaching-smaller-faster-models-from-powerful-ai-teachers-3c02cbdf9b42?source=rss------data_science-5)
+- [Data-Driven Decision Making for Modern Businesses](https://medium.com/@trackpi/data-driven-decision-making-for-modern-businesses-9cfb244ef629?source=rss------data_science-5)
+- [Learned the ML Algorithms. But Where Are They Actually Used?](https://medium.com/@rudrimehta11/learned-the-ml-algorithms-but-where-are-they-actually-used-8648b4d3a378?source=rss------data_science-5)
+- [Why Cortex Sense? A Practical Guide for Teams Evaluating Snowflake’s New Context Layer](https://medium.com/@tejareddy.1697/why-cortex-sense-a-practical-guide-for-teams-evaluating-snowflakes-new-context-layer-08f6e8e78295?source=rss------data_science-5)
+- [Python: Write Once, Use Anywhere](https://medium.com/python-to-intelligence/python-write-once-use-anywhere-ec3a584edbcb?source=rss------data_science-5)
+- [Three US Dataset Projects That Teach You How to Build a Strong Capstone](https://medium.com/@filemakr/three-us-dataset-projects-that-teach-you-how-to-build-a-strong-capstone-9b2afc2f4f08?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
