@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Championship Formula That 2026 Stripped Away: Why Russell’s Title Window Closed at Sepang](https://medium.com/@1583195188/the-championship-formula-that-2026-stripped-away-why-russells-title-window-closed-at-sepang-57441f1ec189?source=rss------data_science-5)
-- [Is AI More Creative Than You? 100,000 People Just Helped Answer That](https://medium.com/data-science-collective/is-ai-more-creative-than-you-100-000-people-just-helped-answer-that-f11c7be6b994?source=rss------data_science-5)
-- [I Tried Building My Own AI Agent. Here’s What I Learned](https://medium.com/@pottelisowmyasree/i-tried-building-my-own-ai-agent-heres-what-i-learned-86c1e4b205bf?source=rss------data_science-5)
-- [The Strategic Guide to Self Service BI](https://medium.com/@Brilworks/the-strategic-guide-to-self-service-bi-a8df10c0c6b9?source=rss------data_science-5)
-- [Cross-Architecture Distillation: Teaching Smaller, Faster Models from Powerful AI Teachers](https://medium.com/@deepakcse2k5/cross-architecture-distillation-teaching-smaller-faster-models-from-powerful-ai-teachers-3c02cbdf9b42?source=rss------data_science-5)
-- [Data-Driven Decision Making for Modern Businesses](https://medium.com/@trackpi/data-driven-decision-making-for-modern-businesses-9cfb244ef629?source=rss------data_science-5)
-- [Learned the ML Algorithms. But Where Are They Actually Used?](https://medium.com/@rudrimehta11/learned-the-ml-algorithms-but-where-are-they-actually-used-8648b4d3a378?source=rss------data_science-5)
-- [Why Cortex Sense? A Practical Guide for Teams Evaluating Snowflake’s New Context Layer](https://medium.com/@tejareddy.1697/why-cortex-sense-a-practical-guide-for-teams-evaluating-snowflakes-new-context-layer-08f6e8e78295?source=rss------data_science-5)
-- [Python: Write Once, Use Anywhere](https://medium.com/python-to-intelligence/python-write-once-use-anywhere-ec3a584edbcb?source=rss------data_science-5)
-- [Three US Dataset Projects That Teach You How to Build a Strong Capstone](https://medium.com/@filemakr/three-us-dataset-projects-that-teach-you-how-to-build-a-strong-capstone-9b2afc2f4f08?source=rss------data_science-5)
+- [Stop Overcomplicating Data Science: Solve 80% of Business Questions with These 6 Core Queries.](https://digitalbykewat.medium.com/stop-overcomplicating-data-science-solve-80-of-business-questions-with-these-6-core-queries-74aaaee836e9?source=rss------data_science-5)
+- [IS vs OOS: How Alphavo Protects Unseen Market Data](https://medium.com/@alphavo2026/is-vs-oos-how-alphavo-protects-unseen-market-data-1b0261744882?source=rss------data_science-5)
+- [PostgreSQL + Python: Your Database Isn’t Slow. Your Python Code Is.](https://medium.com/@techybob/postgresql-python-your-database-isnt-slow-your-python-code-is-8d7422c8770a?source=rss------data_science-5)
+- [How I Started Earning $20+ Per Day Online Selling Products I Don’t Own](https://medium.com/@dpthantsha/how-i-started-earning-20-per-day-online-selling-products-i-dont-own-3c0ecc20be14?source=rss------data_science-5)
+- [Python: More Than Just Text](https://medium.com/python-to-intelligence/python-more-than-just-text-3a77b4ba49b2?source=rss------data_science-5)
+- [Papers Explained 635: Tongyi DeepResearch](https://ritvik19.medium.com/papers-explained-635-tongyi-deepresearch-8366b11678a8?source=rss------data_science-5)
+- [“Average of Ratios or Ratio of Averages?” Why Your iROAS Depends on Who’s Asking](https://medium.com/@sorellanamontini/average-of-ratios-or-ratio-of-averages-why-your-iroas-depends-on-whos-asking-a5b5d51c0076?source=rss------data_science-5)
+- [Learning machine learning models [Part — 1]: Linear Regression](https://medium.com/@praveen11.narayanan/learning-machine-learning-models-part-1-linear-regression-ae6696560b91?source=rss------data_science-5)
+- [From an Approved Topic to a Research Proposal: The Real Work Begins](https://medium.com/@dorathyjudith/from-an-approved-topic-to-a-research-proposal-the-real-work-begins-93b9527c3aaf?source=rss------data_science-5)
+- [Why 0.999… = 1 &lpar;And Why Your Intuition Fights It&rpar;](https://medium.com/think-art/why-0-999-1-and-why-your-intuition-fights-it-99e374b5960c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
