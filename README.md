@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Stop Overcomplicating Data Science: Solve 80% of Business Questions with These 6 Core Queries.](https://digitalbykewat.medium.com/stop-overcomplicating-data-science-solve-80-of-business-questions-with-these-6-core-queries-74aaaee836e9?source=rss------data_science-5)
-- [IS vs OOS: How Alphavo Protects Unseen Market Data](https://medium.com/@alphavo2026/is-vs-oos-how-alphavo-protects-unseen-market-data-1b0261744882?source=rss------data_science-5)
-- [PostgreSQL + Python: Your Database Isn’t Slow. Your Python Code Is.](https://medium.com/@techybob/postgresql-python-your-database-isnt-slow-your-python-code-is-8d7422c8770a?source=rss------data_science-5)
-- [How I Started Earning $20+ Per Day Online Selling Products I Don’t Own](https://medium.com/@dpthantsha/how-i-started-earning-20-per-day-online-selling-products-i-dont-own-3c0ecc20be14?source=rss------data_science-5)
-- [Python: More Than Just Text](https://medium.com/python-to-intelligence/python-more-than-just-text-3a77b4ba49b2?source=rss------data_science-5)
-- [Papers Explained 635: Tongyi DeepResearch](https://ritvik19.medium.com/papers-explained-635-tongyi-deepresearch-8366b11678a8?source=rss------data_science-5)
-- [“Average of Ratios or Ratio of Averages?” Why Your iROAS Depends on Who’s Asking](https://medium.com/@sorellanamontini/average-of-ratios-or-ratio-of-averages-why-your-iroas-depends-on-whos-asking-a5b5d51c0076?source=rss------data_science-5)
-- [Learning machine learning models [Part — 1]: Linear Regression](https://medium.com/@praveen11.narayanan/learning-machine-learning-models-part-1-linear-regression-ae6696560b91?source=rss------data_science-5)
-- [From an Approved Topic to a Research Proposal: The Real Work Begins](https://medium.com/@dorathyjudith/from-an-approved-topic-to-a-research-proposal-the-real-work-begins-93b9527c3aaf?source=rss------data_science-5)
-- [Why 0.999… = 1 &lpar;And Why Your Intuition Fights It&rpar;](https://medium.com/think-art/why-0-999-1-and-why-your-intuition-fights-it-99e374b5960c?source=rss------data_science-5)
+- [Review: Zendure SolarFlow 800 Pro vs Anker SOLIX Solarbank 2 E1600 Pro — Which One Is Worth Your…](https://medium.com/@econex23/review-zendure-solarflow-800-pro-vs-anker-solix-solarbank-2-e1600-pro-which-one-is-worth-your-16c0654b6d08?source=rss------data_science-5)
+- [We tracked 1,186 live UK prize competitions. Here’s what your ticket actually buys.](https://medium.com/@competitionshowroom/we-tracked-1-186-live-uk-prize-competitions-heres-what-your-ticket-actually-buys-7986f551965d?source=rss------data_science-5)
+- [Five Open Source Tools Just Made the Most Expensive Skill in Data Engineering Practice-able on a…](https://jinlow.medium.com/five-open-source-tools-just-made-the-most-expensive-skill-in-data-engineering-practice-able-on-a-3b0a26403ed3?source=rss------data_science-5)
+- [Why Some Data Visualizations Stay in Our Memory](https://medium.com/@tkakuman/why-some-data-visualizations-stay-in-our-memory-80a08ac00763?source=rss------data_science-5)
+- [Three Lectures Into GCI World 2026: My Data Science Journey Begins](https://medium.com/@harshita3/three-lectures-into-gci-world-2026-my-data-science-journey-begins-340e7a46a068?source=rss------data_science-5)
+- [I Waited 15 Years for THIS Indicator! It Perfectly Shows a Buy And Sell Signal](https://medium.com/@richu_1996/i-waited-15-years-for-this-indicator-it-perfectly-shows-a-buy-and-sell-signal-5e89bedec953?source=rss------data_science-5)
+- [Episode 5: Let’s Build Something Part 2- Cleaning a Messy Bank Statement with Python](https://medium.com/@tafseerrimpi/episode-5-lets-build-something-part-2-cleaning-a-messy-bank-statement-with-python-3917a12cd6c8?source=rss------data_science-5)
+- [Jev, Now with Vision Support: Meet Clef](https://aiadvances.org/jev-now-with-vision-support-meet-clef-dc98ca0fb330?source=rss------data_science-5)
+- [The Unglamorous Reality: Navigating Data Cleaning, Imputation, and Outlier Treatment in EDA](https://medium.com/@ygsh2004/the-unglamorous-reality-navigating-data-cleaning-imputation-and-outlier-treatment-in-eda-fcf89ec26333?source=rss------data_science-5)
+- [Python: How to Store Multiple Values in One Place](https://medium.com/python-to-intelligence/python-how-to-store-multiple-values-in-one-place-8dfd4d894846?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
