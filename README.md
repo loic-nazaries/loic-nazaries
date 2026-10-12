@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Review: Zendure SolarFlow 800 Pro vs Anker SOLIX Solarbank 2 E1600 Pro — Which One Is Worth Your…](https://medium.com/@econex23/review-zendure-solarflow-800-pro-vs-anker-solix-solarbank-2-e1600-pro-which-one-is-worth-your-16c0654b6d08?source=rss------data_science-5)
-- [We tracked 1,186 live UK prize competitions. Here’s what your ticket actually buys.](https://medium.com/@competitionshowroom/we-tracked-1-186-live-uk-prize-competitions-heres-what-your-ticket-actually-buys-7986f551965d?source=rss------data_science-5)
-- [Five Open Source Tools Just Made the Most Expensive Skill in Data Engineering Practice-able on a…](https://jinlow.medium.com/five-open-source-tools-just-made-the-most-expensive-skill-in-data-engineering-practice-able-on-a-3b0a26403ed3?source=rss------data_science-5)
-- [Why Some Data Visualizations Stay in Our Memory](https://medium.com/@tkakuman/why-some-data-visualizations-stay-in-our-memory-80a08ac00763?source=rss------data_science-5)
-- [Three Lectures Into GCI World 2026: My Data Science Journey Begins](https://medium.com/@harshita3/three-lectures-into-gci-world-2026-my-data-science-journey-begins-340e7a46a068?source=rss------data_science-5)
-- [I Waited 15 Years for THIS Indicator! It Perfectly Shows a Buy And Sell Signal](https://medium.com/@richu_1996/i-waited-15-years-for-this-indicator-it-perfectly-shows-a-buy-and-sell-signal-5e89bedec953?source=rss------data_science-5)
-- [Episode 5: Let’s Build Something Part 2- Cleaning a Messy Bank Statement with Python](https://medium.com/@tafseerrimpi/episode-5-lets-build-something-part-2-cleaning-a-messy-bank-statement-with-python-3917a12cd6c8?source=rss------data_science-5)
-- [Jev, Now with Vision Support: Meet Clef](https://aiadvances.org/jev-now-with-vision-support-meet-clef-dc98ca0fb330?source=rss------data_science-5)
-- [The Unglamorous Reality: Navigating Data Cleaning, Imputation, and Outlier Treatment in EDA](https://medium.com/@ygsh2004/the-unglamorous-reality-navigating-data-cleaning-imputation-and-outlier-treatment-in-eda-fcf89ec26333?source=rss------data_science-5)
-- [Python: How to Store Multiple Values in One Place](https://medium.com/python-to-intelligence/python-how-to-store-multiple-values-in-one-place-8dfd4d894846?source=rss------data_science-5)
+- [Obviously, Data Quality Trash Gives More Trash](https://medium.com/@anishaak/obviously-data-quality-trash-gives-more-trash-27ef70bdcc42?source=rss------data_science-5)
+- [Grouping On Multiple Columns Using Power Query&lpar;.pbix included&rpar;](https://medium.com/@shashanka.shekhar02/grouping-on-multiple-columns-using-power-query-pbix-included-8b3b0adfe242?source=rss------data_science-5)
+- [Private Tuition in Manchester: How to Find the Right Support for Academic Success](https://medium.com/@devam31172/private-tuition-in-manchester-how-to-find-the-right-support-for-academic-success-527639049efa?source=rss------data_science-5)
+- [When the Model Isn’t the Problem](https://mddennis.medium.com/when-the-model-isnt-the-problem-acdbdac07074?source=rss------data_science-5)
+- [Auditing FinRobot: When a Polished Equity Report Outruns Its Evidence](https://medium.com/@xujiao0224/auditing-finrobot-when-a-polished-equity-report-outruns-its-evidence-bec92d7e0e49?source=rss------data_science-5)
+- [Explain “Explainable AI”](https://medium.com/@anishaak/explain-explainable-ai-6bf71ccdd2f5?source=rss------data_science-5)
+- [LLM Coding Interview Series: 6/30 [Multi-Head, Multi-Query, and Grouped-Query Attention from…](https://medium.com/models-to-systems/llm-coding-interview-series-6-30-multi-head-multi-query-and-grouped-query-attention-from-1784275f9fe4?source=rss------data_science-5)
+- [Top 10 Sports Data Providers in 2026: The Complete Ranked Guide](https://medium.com/@dash_63328/top-10-sports-data-providers-in-2026-the-complete-ranked-guide-6ff4e2d3072c?source=rss------data_science-5)
+- [Papers Explained 636: DR Tulu](https://ritvik19.medium.com/papers-explained-636-dr-tulu-17f13ca39293?source=rss------data_science-5)
+- [In the AI era: How Businesses should automate without losing control](https://medium.com/@aoplusin/in-the-ai-era-how-businesses-should-automate-without-losing-control-953ef0744027?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
