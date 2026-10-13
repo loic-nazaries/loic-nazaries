@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Obviously, Data Quality Trash Gives More Trash](https://medium.com/@anishaak/obviously-data-quality-trash-gives-more-trash-27ef70bdcc42?source=rss------data_science-5)
-- [Grouping On Multiple Columns Using Power Query&lpar;.pbix included&rpar;](https://medium.com/@shashanka.shekhar02/grouping-on-multiple-columns-using-power-query-pbix-included-8b3b0adfe242?source=rss------data_science-5)
-- [Private Tuition in Manchester: How to Find the Right Support for Academic Success](https://medium.com/@devam31172/private-tuition-in-manchester-how-to-find-the-right-support-for-academic-success-527639049efa?source=rss------data_science-5)
-- [When the Model Isn’t the Problem](https://mddennis.medium.com/when-the-model-isnt-the-problem-acdbdac07074?source=rss------data_science-5)
-- [Auditing FinRobot: When a Polished Equity Report Outruns Its Evidence](https://medium.com/@xujiao0224/auditing-finrobot-when-a-polished-equity-report-outruns-its-evidence-bec92d7e0e49?source=rss------data_science-5)
-- [Explain “Explainable AI”](https://medium.com/@anishaak/explain-explainable-ai-6bf71ccdd2f5?source=rss------data_science-5)
-- [LLM Coding Interview Series: 6/30 [Multi-Head, Multi-Query, and Grouped-Query Attention from…](https://medium.com/models-to-systems/llm-coding-interview-series-6-30-multi-head-multi-query-and-grouped-query-attention-from-1784275f9fe4?source=rss------data_science-5)
-- [Top 10 Sports Data Providers in 2026: The Complete Ranked Guide](https://medium.com/@dash_63328/top-10-sports-data-providers-in-2026-the-complete-ranked-guide-6ff4e2d3072c?source=rss------data_science-5)
-- [Papers Explained 636: DR Tulu](https://ritvik19.medium.com/papers-explained-636-dr-tulu-17f13ca39293?source=rss------data_science-5)
-- [In the AI era: How Businesses should automate without losing control](https://medium.com/@aoplusin/in-the-ai-era-how-businesses-should-automate-without-losing-control-953ef0744027?source=rss------data_science-5)
+- [Orders Dropped 15%. Here’s How to Find Out Why &lpar;6-Step Checklist With SQL&rpar;](https://medium.com/@ysatyamyadav803/orders-dropped-15-heres-how-to-find-out-why-6-step-checklist-with-sql-1ba12cb345d5?source=rss------data_science-5)
+- [Data Usaha Menumpuk, Keputusan Masih Tebakan?](https://medium.com/@veronika.rizki.kinanthi-2024/data-usaha-menumpuk-keputusan-masih-tebakan-e086230df405?source=rss------data_science-5)
+- [Bukan Cuma Soal Cerita: Mengenal Peran Data Warehouse Dalam Kesuksesan Industri Film](https://medium.com/@maulidahfakhrina/bukan-cuma-soal-cerita-mengenal-peran-data-warehouse-dalam-kesuksesan-industri-film-52abc4d390e0?source=rss------data_science-5)
+- [Microsoft Fabric Medallion Architecture: Operational Change Impact Assessment &amp; Lineage Framework](https://medium.com/@tatankavenkat_19803/microsoft-fabric-medallion-architecture-operational-change-impact-assessment-lineage-framework-4b2741497f72?source=rss------data_science-5)
+- [BUMI ITU DATAR ATAU BULAT?](https://medium.com/@mufallamreedzwann/bumi-itu-datar-atau-bulat-c0e341929d0b?source=rss------data_science-5)
+- [What a Data Strategy Framework Is and How to Build One](https://medium.com/@Brilworks/what-a-data-strategy-framework-is-and-how-to-build-one-ec4a4fdfbd7a?source=rss------data_science-5)
+- [Digital Experiments: Not Every Experiment Is an A/B Test](https://medium.com/@dinabavli/digital-experiments-not-every-experiment-is-an-a-b-test-458159b78e15?source=rss------data_science-5)
+- [Factor Models and Asset Pricing: A Quantitative Approach](https://medium.com/@simomenaldo/factor-models-and-asset-pricing-a-quantitative-approach-2d4727183914?source=rss------data_science-5)
+- [Data Science Course in Noida: Learn Python, Machine Learning &amp; AI at Geekonik](https://medium.com/@geekonikofficial/data-science-course-in-noida-learn-python-machine-learning-ai-at-geekonik-f6c1e9bd6dc2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
