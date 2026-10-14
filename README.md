@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Orders Dropped 15%. Here’s How to Find Out Why &lpar;6-Step Checklist With SQL&rpar;](https://medium.com/@ysatyamyadav803/orders-dropped-15-heres-how-to-find-out-why-6-step-checklist-with-sql-1ba12cb345d5?source=rss------data_science-5)
-- [Data Usaha Menumpuk, Keputusan Masih Tebakan?](https://medium.com/@veronika.rizki.kinanthi-2024/data-usaha-menumpuk-keputusan-masih-tebakan-e086230df405?source=rss------data_science-5)
-- [Bukan Cuma Soal Cerita: Mengenal Peran Data Warehouse Dalam Kesuksesan Industri Film](https://medium.com/@maulidahfakhrina/bukan-cuma-soal-cerita-mengenal-peran-data-warehouse-dalam-kesuksesan-industri-film-52abc4d390e0?source=rss------data_science-5)
-- [Microsoft Fabric Medallion Architecture: Operational Change Impact Assessment &amp; Lineage Framework](https://medium.com/@tatankavenkat_19803/microsoft-fabric-medallion-architecture-operational-change-impact-assessment-lineage-framework-4b2741497f72?source=rss------data_science-5)
-- [BUMI ITU DATAR ATAU BULAT?](https://medium.com/@mufallamreedzwann/bumi-itu-datar-atau-bulat-c0e341929d0b?source=rss------data_science-5)
-- [What a Data Strategy Framework Is and How to Build One](https://medium.com/@Brilworks/what-a-data-strategy-framework-is-and-how-to-build-one-ec4a4fdfbd7a?source=rss------data_science-5)
-- [Digital Experiments: Not Every Experiment Is an A/B Test](https://medium.com/@dinabavli/digital-experiments-not-every-experiment-is-an-a-b-test-458159b78e15?source=rss------data_science-5)
-- [Factor Models and Asset Pricing: A Quantitative Approach](https://medium.com/@simomenaldo/factor-models-and-asset-pricing-a-quantitative-approach-2d4727183914?source=rss------data_science-5)
-- [Data Science Course in Noida: Learn Python, Machine Learning &amp; AI at Geekonik](https://medium.com/@geekonikofficial/data-science-course-in-noida-learn-python-machine-learning-ai-at-geekonik-f6c1e9bd6dc2?source=rss------data_science-5)
+- [CSV vs JSON vs Parquet: Why the Way You Store Data Matters](https://medium.com/@LucyAwino/csv-vs-json-vs-parquet-why-the-way-you-store-data-matters-6b6eaf90fe99?source=rss------data_science-5)
+- [9 Python Debugging Tricks That Save Me Hours of Frustration](https://python.plainenglish.io/9-python-debugging-tricks-that-save-me-hours-of-frustration-1f92fe2dc29b?source=rss------data_science-5)
+- [Major SQL queries that get the work done](https://medium.com/@jaliwakenya/major-sql-queries-that-get-the-work-done-52a925f23fe0?source=rss------data_science-5)
+- [Papers Explained 638: DRACO](https://ritvik19.medium.com/papers-explained-638-draco-ca9e3ffabbb8?source=rss------data_science-5)
+- [Elon Musk: Hundreds of Millions for Republican Candidates, Nothing to Clean Up Memphis](https://medium.com/the-polis/elon-musk-hundreds-of-millions-for-republican-candidates-nothing-to-clean-up-memphis-8cacb641fb95?source=rss------data_science-5)
+- [5 Original Physics Jokes That May Cause an Uncontrolled Chain Reaction](https://medium.com/@zaydislam25/5-original-physics-jokes-that-may-cause-an-uncontrolled-chain-reaction-b321e1b99bf2?source=rss------data_science-5)
+- [Does decision augmentation reduce headcount?](https://medium.com/@erickagonzalez2026new/does-decision-augmentation-reduce-headcount-e8daad4e215d?source=rss------data_science-5)
+- [The Decisions Multi-Location Businesses Should Automate &lpar;And the Ones They Shouldn’t&rpar;](https://medium.com/@erickagonzalez2026new/the-decisions-multi-location-businesses-should-automate-and-the-ones-they-shouldnt-cd11d40d7fe3?source=rss------data_science-5)
+- [SARIMA Load Forecasting &lpar;3&rpar;: Load History Only — Walk-Forward Backtest against the Same Day Last…](https://medium.com/@sakamoto2000.kim/sarima-load-forecasting-3-load-history-only-walk-forward-backtest-against-the-same-day-last-3bdd336799a8?source=rss------data_science-5)
+- [SARIMA 用電預測（三）：只用負載歷史，滾動回測對照「上週同一天」](https://medium.com/@sakamoto2000.kim/sarima-%E7%94%A8%E9%9B%BB%E9%A0%90%E6%B8%AC-%E4%B8%89-%E5%8F%AA%E7%94%A8%E8%B2%A0%E8%BC%89%E6%AD%B7%E5%8F%B2-%E6%BB%BE%E5%8B%95%E5%9B%9E%E6%B8%AC%E5%B0%8D%E7%85%A7-%E4%B8%8A%E9%80%B1%E5%90%8C%E4%B8%80%E5%A4%A9-53bd4700529c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
