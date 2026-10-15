@@ -105,16 +105,18 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [CSV vs JSON vs Parquet: Why the Way You Store Data Matters](https://medium.com/@LucyAwino/csv-vs-json-vs-parquet-why-the-way-you-store-data-matters-6b6eaf90fe99?source=rss------data_science-5)
-- [9 Python Debugging Tricks That Save Me Hours of Frustration](https://python.plainenglish.io/9-python-debugging-tricks-that-save-me-hours-of-frustration-1f92fe2dc29b?source=rss------data_science-5)
-- [Major SQL queries that get the work done](https://medium.com/@jaliwakenya/major-sql-queries-that-get-the-work-done-52a925f23fe0?source=rss------data_science-5)
-- [Papers Explained 638: DRACO](https://ritvik19.medium.com/papers-explained-638-draco-ca9e3ffabbb8?source=rss------data_science-5)
-- [Elon Musk: Hundreds of Millions for Republican Candidates, Nothing to Clean Up Memphis](https://medium.com/the-polis/elon-musk-hundreds-of-millions-for-republican-candidates-nothing-to-clean-up-memphis-8cacb641fb95?source=rss------data_science-5)
-- [5 Original Physics Jokes That May Cause an Uncontrolled Chain Reaction](https://medium.com/@zaydislam25/5-original-physics-jokes-that-may-cause-an-uncontrolled-chain-reaction-b321e1b99bf2?source=rss------data_science-5)
-- [Does decision augmentation reduce headcount?](https://medium.com/@erickagonzalez2026new/does-decision-augmentation-reduce-headcount-e8daad4e215d?source=rss------data_science-5)
-- [The Decisions Multi-Location Businesses Should Automate &lpar;And the Ones They Shouldn’t&rpar;](https://medium.com/@erickagonzalez2026new/the-decisions-multi-location-businesses-should-automate-and-the-ones-they-shouldnt-cd11d40d7fe3?source=rss------data_science-5)
-- [SARIMA Load Forecasting &lpar;3&rpar;: Load History Only — Walk-Forward Backtest against the Same Day Last…](https://medium.com/@sakamoto2000.kim/sarima-load-forecasting-3-load-history-only-walk-forward-backtest-against-the-same-day-last-3bdd336799a8?source=rss------data_science-5)
-- [SARIMA 用電預測（三）：只用負載歷史，滾動回測對照「上週同一天」](https://medium.com/@sakamoto2000.kim/sarima-%E7%94%A8%E9%9B%BB%E9%A0%90%E6%B8%AC-%E4%B8%89-%E5%8F%AA%E7%94%A8%E8%B2%A0%E8%BC%89%E6%AD%B7%E5%8F%B2-%E6%BB%BE%E5%8B%95%E5%9B%9E%E6%B8%AC%E5%B0%8D%E7%85%A7-%E4%B8%8A%E9%80%B1%E5%90%8C%E4%B8%80%E5%A4%A9-53bd4700529c?source=rss------data_science-5)
+- [LangGraph in Production: What the Tutorials Don’t Show You](https://medium.com/@aftab001x/langgraph-in-production-what-the-tutorials-dont-show-you-f8d36adecb7f?source=rss------data_science-5)
+- [Your Banking App Might Not Be a Bank. Here’s How FinTech Really Works](https://medium.com/@shivm.soaini/your-banking-app-might-not-be-a-bank-heres-how-fintech-really-works-bb9961153b26?source=rss------data_science-5)
+- [THE MACHINES ARE GROWING FLESH](https://medium.com/@ConcernedhumanonAI/the-machines-are-growing-flesh-8a9d56f72fa6?source=rss------data_science-5)
+- [SQL JOINs Explained Through Real Business Problems, Not Venn Diagrams](https://medium.com/@its.shoryabisht/sql-joins-explained-through-real-business-problems-not-venn-diagrams-42b7a6561f25?source=rss------data_science-5)
+- [Stop Building AI Agents Before You Can Evaluate Them](https://medium.com/@tajamulkhan/stop-building-ai-agents-before-you-can-evaluate-them-4fc366ee0151?source=rss------data_science-5)
+- [LLM Coding Interview Series: 14/30 [Efficient Attention]](https://medium.com/@deepakcse2k5/llm-coding-interview-series-14-30-efficient-attention-c816415b6b04?source=rss------data_science-5)
+- [The best instruction for your coding agent is an error message](https://hextrot.medium.com/the-best-instruction-for-your-coding-agent-is-an-error-message-ec8cbe64bf2c?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a3966d26d0ad?source=rss------data_science-5)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-527c208e714f?source=rss------data_science-5)
+- [The Kinetic Trade-Off: How Cars Control Kinetic Energy](https://medium.com/@aryaveer.singh0902/the-kinetic-trade-off-how-cars-control-kinetic-energy-a982b6c6bff4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
