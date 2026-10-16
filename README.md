@@ -105,18 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [LangGraph in Production: What the Tutorials Don’t Show You](https://medium.com/@aftab001x/langgraph-in-production-what-the-tutorials-dont-show-you-f8d36adecb7f?source=rss------data_science-5)
-- [Your Banking App Might Not Be a Bank. Here’s How FinTech Really Works](https://medium.com/@shivm.soaini/your-banking-app-might-not-be-a-bank-heres-how-fintech-really-works-bb9961153b26?source=rss------data_science-5)
-- [THE MACHINES ARE GROWING FLESH](https://medium.com/@ConcernedhumanonAI/the-machines-are-growing-flesh-8a9d56f72fa6?source=rss------data_science-5)
-- [SQL JOINs Explained Through Real Business Problems, Not Venn Diagrams](https://medium.com/@its.shoryabisht/sql-joins-explained-through-real-business-problems-not-venn-diagrams-42b7a6561f25?source=rss------data_science-5)
-- [Stop Building AI Agents Before You Can Evaluate Them](https://medium.com/@tajamulkhan/stop-building-ai-agents-before-you-can-evaluate-them-4fc366ee0151?source=rss------data_science-5)
-- [LLM Coding Interview Series: 14/30 [Efficient Attention]](https://medium.com/@deepakcse2k5/llm-coding-interview-series-14-30-efficient-attention-c816415b6b04?source=rss------data_science-5)
-- [The best instruction for your coding agent is an error message](https://hextrot.medium.com/the-best-instruction-for-your-coding-agent-is-an-error-message-ec8cbe64bf2c?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a3966d26d0ad?source=rss------data_science-5)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbccxxx1nndnd/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-527c208e714f?source=rss------data_science-5)
-- [The Kinetic Trade-Off: How Cars Control Kinetic Energy](https://medium.com/@aryaveer.singh0902/the-kinetic-trade-off-how-cars-control-kinetic-energy-a982b6c6bff4?source=rss------data_science-5)
+- [Papers Explained 640: OpenResearcher](https://ritvik19.medium.com/papers-explained-640-openresearcher-8995d77a1b9a?source=rss------data_science-5)
+- [Beyond Deployment: Building Self-Healing Machine Learning Pipelines with MLOps](https://medium.com/@faisaldarjee9/beyond-deployment-building-self-healing-machine-learning-pipelines-with-mlops-0db0fb21fad1?source=rss------data_science-5)
+- [How to Write SQL Queries That Expose Duplicate Primary Keys Before Your Join Explodes Into Million…](https://medium.com/@Rohan_Dutt/how-to-write-sql-queries-that-expose-duplicate-primary-keys-before-your-join-explodes-into-million-84be3322b9a5?source=rss------data_science-5)
+- [Python DSA Coding Interview Series:8/29 [Greedy Algorithms]](https://medium.com/models-to-systems/python-dsa-coding-interview-series-8-29-greedy-algorithms-5fe8cdea3710?source=rss------data_science-5)
+- [From Notebook to Production: The Journey of a Machine Learning Model](https://medium.com/@faisaldarjee9/from-notebook-to-production-the-journey-of-a-machine-learning-model-95a1aa8a4c5b?source=rss------data_science-5)
+- [Python DSA Coding Interview Series:7/29 [Intervals and Sweep Lines]](https://medium.com/models-to-systems/python-dsa-coding-interview-series-7-29-intervals-and-sweep-lines-86aaf5093103?source=rss------data_science-5)
+- [LLM Coding Interview Series: 16/30 [Parameter-Efficient Fine-Tuning]](https://medium.com/models-to-systems/llm-coding-interview-series-16-30-parameter-efficient-fine-tuning-cd882b18519b?source=rss------data_science-5)
+- [Gemini 4 Argon vs Claude Opus 5.5](https://medium.com/data-science-in-your-pocket/gemini-4-argon-vs-claude-opus-5-5-36f85a7bdff7?source=rss------data_science-5)
+- [Data Analytics Course vs Agentic AI Course: Which Should You Choose in 2026?](https://medium.com/@iampkravi17/data-analytics-course-vs-agentic-ai-course-which-should-you-choose-in-2026-b6570072d973?source=rss------data_science-5)
+- [When Should You Build vs. Buy a Data Platform?](https://oswinrh.medium.com/when-should-you-build-vs-buy-a-data-platform-2fd416119618?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
