@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Papers Explained 640: OpenResearcher](https://ritvik19.medium.com/papers-explained-640-openresearcher-8995d77a1b9a?source=rss------data_science-5)
-- [Beyond Deployment: Building Self-Healing Machine Learning Pipelines with MLOps](https://medium.com/@faisaldarjee9/beyond-deployment-building-self-healing-machine-learning-pipelines-with-mlops-0db0fb21fad1?source=rss------data_science-5)
-- [How to Write SQL Queries That Expose Duplicate Primary Keys Before Your Join Explodes Into Million…](https://medium.com/@Rohan_Dutt/how-to-write-sql-queries-that-expose-duplicate-primary-keys-before-your-join-explodes-into-million-84be3322b9a5?source=rss------data_science-5)
-- [Python DSA Coding Interview Series:8/29 [Greedy Algorithms]](https://medium.com/models-to-systems/python-dsa-coding-interview-series-8-29-greedy-algorithms-5fe8cdea3710?source=rss------data_science-5)
-- [From Notebook to Production: The Journey of a Machine Learning Model](https://medium.com/@faisaldarjee9/from-notebook-to-production-the-journey-of-a-machine-learning-model-95a1aa8a4c5b?source=rss------data_science-5)
-- [Python DSA Coding Interview Series:7/29 [Intervals and Sweep Lines]](https://medium.com/models-to-systems/python-dsa-coding-interview-series-7-29-intervals-and-sweep-lines-86aaf5093103?source=rss------data_science-5)
-- [LLM Coding Interview Series: 16/30 [Parameter-Efficient Fine-Tuning]](https://medium.com/models-to-systems/llm-coding-interview-series-16-30-parameter-efficient-fine-tuning-cd882b18519b?source=rss------data_science-5)
-- [Gemini 4 Argon vs Claude Opus 5.5](https://medium.com/data-science-in-your-pocket/gemini-4-argon-vs-claude-opus-5-5-36f85a7bdff7?source=rss------data_science-5)
-- [Data Analytics Course vs Agentic AI Course: Which Should You Choose in 2026?](https://medium.com/@iampkravi17/data-analytics-course-vs-agentic-ai-course-which-should-you-choose-in-2026-b6570072d973?source=rss------data_science-5)
-- [When Should You Build vs. Buy a Data Platform?](https://oswinrh.medium.com/when-should-you-build-vs-buy-a-data-platform-2fd416119618?source=rss------data_science-5)
+- [SARIMAX Load Forecasting &lpar;2&rpar;: Load plus Temperature and Calendar, against SARIMA and the Same Day…](https://medium.com/@sakamoto2000.kim/sarimax-load-forecasting-2-load-plus-temperature-and-calendar-against-sarima-and-the-same-day-bffc7984a5c8?source=rss------data_science-5)
+- [SARIMAX 用電預測（二）：負載加氣溫與日曆，對照 SARIMA 與「上週同一天」](https://medium.com/@sakamoto2000.kim/sarimax-%E7%94%A8%E9%9B%BB%E9%A0%90%E6%B8%AC-%E4%BA%8C-%E8%B2%A0%E8%BC%89%E5%8A%A0%E6%B0%A3%E6%BA%AB%E8%88%87%E6%97%A5%E6%9B%86-%E5%B0%8D%E7%85%A7-sarima-%E8%88%87-%E4%B8%8A%E9%80%B1%E5%90%8C%E4%B8%80%E5%A4%A9-293d4a3b0c3c?source=rss------data_science-5)
+- [LLM Coding Interview Series: 18/30 [Retrieval-Augmented Generation &lpar;RAG&rpar;]](https://medium.com/models-to-systems/llm-coding-interview-series-18-30-retrieval-augmented-generation-rag-00864084fcf8?source=rss------data_science-5)
+- [Germany Just Put the Ukraine War’s Biggest Underwater Mystery on Trial](https://medium.com/@mykola-/germany-just-put-the-ukraine-wars-biggest-underwater-mystery-on-trial-014a158b1063?source=rss------data_science-5)
+- [Beyond the Fine-Tuning Hype: Why RAG is the Real Backbone of Enterprise AI](https://medium.com/@malvintnw21/beyond-the-fine-tuning-hype-why-rag-is-the-real-backbone-of-enterprise-ai-c75f38774b57?source=rss------data_science-5)
+- [Broad Categories of Machine-Learning Models: Supervised Learning Models — Part a](https://medium.com/@xnkxhb/broad-categories-of-machine-learning-models-supervised-learning-models-part-a-052b37fe4ff8?source=rss------data_science-5)
+- [Metadata Is Data: Why the Most Informative Records in R&amp;D Carry the Wrong Name](https://medium.com/@pk_94761/metadata-is-data-why-the-most-informative-records-in-r-d-carry-the-wrong-name-b1653bb03a23?source=rss------data_science-5)
+- [One Green Arrow, One Red Candle, One Oscillator — A Trading Setup Worth Testing](https://medium.com/@richu_1996/one-green-arrow-one-red-candle-one-oscillator-a-trading-setup-worth-testing-2cb98e1df2c2?source=rss------data_science-5)
+- [Advanced SQL, Python &amp; PySpark for Data Engineers](https://mayursurani.medium.com/advanced-sql-python-pyspark-for-data-engineers-5a1b6bd0d8ec?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
