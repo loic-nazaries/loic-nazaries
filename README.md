@@ -105,14 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [From Stethoscope to Spark: Why Technical Skills Alone Won’t Make You a Good Data Engineer](https://medium.com/@alfinosyahputra.work/from-stethoscope-to-spark-why-technical-skills-alone-wont-make-you-a-good-data-engineer-9ca834056bc5?source=rss------data_science-5)
-- [Python Developers Are Quietly Ditching These Old Tools, Here’s What They’re Using Instead in 2026](https://python.plainenglish.io/python-developers-are-quietly-ditching-these-old-tools-heres-what-they-re-using-instead-in-2026-f63f5540b602?source=rss------data_science-5)
-- [The Ingenious Machines We Forgot: How Medieval Islamic Engineers Reshaped the Physical World](https://medium.com/@journy631/the-ingenious-machines-we-forgot-how-medieval-islamic-engineers-reshaped-the-physical-world-71cd78e00788?source=rss------data_science-5)
-- [PacifIA: ¿puede una red neuronal clasificar las masas de agua del Pacífico ecuatoriano?](https://medium.com/@descalan96/pacifia-puede-una-red-neuronal-clasificar-las-masas-de-agua-del-pac%C3%ADfico-ecuatoriano-a7c23e0ba5a3?source=rss------data_science-5)
-- [RDBMS vs Data Lake vs Lakehouse: How Storage Turns Into a Data Swamp](https://medium.com/it-simplified/rdbms-vs-data-lake-vs-lakehouse-how-storage-turns-into-a-data-swamp-c5ad4d9d81de?source=rss------data_science-5)
-- [Mac mini for Local AI: Which LLM Fits Your RAM Best?](https://joets.medium.com/mac-mini-for-local-ai-which-llm-fits-your-ram-best-530184e05875?source=rss------data_science-5)
-- [Agent2Agent &lpar;A2A&rpar; protocol clearly explained](https://charanteja1005.medium.com/agent2agent-a2a-protocol-3b1648c597d2?source=rss------data_science-5)
-- [Subqueries vs. CTEs: Two Ways to Solve the Same SQL Problem](https://medium.com/@its.shoryabisht/subqueries-vs-ctes-two-ways-to-solve-the-same-sql-problem-094ddd3b8222?source=rss------data_science-5)
+- [From Working With Arrays to Asking Better Questions With Data](https://medium.com/@blessingobasohan/week-6-from-working-with-arrays-to-asking-better-questions-with-data-b4158608a199?source=rss------data_science-5)
+- [Week 6 at DataraFlow: Learning NumPy, Pandas, and SQL](https://medium.com/@estheroginga5/week-6-at-dataraflow-learning-numpy-pandas-and-sql-4d96631e57ca?source=rss------data_science-5)
+- [How a simple looking math can have a hidden story?](https://medium.com/@diwale.varsha/how-a-simple-looking-math-can-have-a-hidden-story-66654de1b5a0?source=rss------data_science-5)
+- [¿Una decisión automatizada es una decisión más objetiva?](https://medium.com/@49518298/una-decisi%C3%B3n-automatizada-es-una-decisi%C3%B3n-m%C3%A1s-objetiva-c74ad54efebb?source=rss------data_science-5)
+- [Design for People. Build for Change. — What I learned at Data in the D Conference 2026](https://medium.com/@xiaotong.ma.ms/design-for-people-build-for-change-what-i-learned-at-data-in-the-d-conference-2026-f61828309a2c?source=rss------data_science-5)
+- [Week 6 of My Data Science Internship: From Setup Errors to Real Data Analysis](https://medium.com/@abdqayyumyussuf/week-6-of-my-data-science-internship-from-setup-errors-to-real-data-analysis-6631e8b21b7b?source=rss------data_science-5)
+- [Beyond the model: software I built to connect credit experiments to origination decisions](https://fernando-liaison.medium.com/beyond-the-model-software-i-built-to-connect-credit-experiments-to-origination-decisions-c6e49c22a340?source=rss------data_science-5)
+- [NLP Landscape from 1960 to 2020](https://medium.com/@pradnyeelpatil/nlp-landscape-from-1960-to-2020-a1cb9d67f740?source=rss------data_science-5)
+- [GluonTS DeepAR Generation Forecasting: Eight Hourly Fuel-Type Series, against the Same Hour…](https://medium.com/@sakamoto2000.kim/gluonts-deepar-generation-forecasting-eight-hourly-fuel-type-series-against-the-same-hour-eaceaa23545c?source=rss------data_science-5)
+- [GluonTS DeepAR 發電量預測：8 條每小時燃料別序列，對照「昨天同一小時」](https://medium.com/@sakamoto2000.kim/gluonts-deepar-%E7%99%BC%E9%9B%BB%E9%87%8F%E9%A0%90%E6%B8%AC-8-%E6%A2%9D%E6%AF%8F%E5%B0%8F%E6%99%82%E7%87%83%E6%96%99%E5%88%A5%E5%BA%8F%E5%88%97-%E5%B0%8D%E7%85%A7-%E6%98%A8%E5%A4%A9%E5%90%8C%E4%B8%80%E5%B0%8F%E6%99%82-603534b6c813?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
