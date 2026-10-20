@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [From Working With Arrays to Asking Better Questions With Data](https://medium.com/@blessingobasohan/week-6-from-working-with-arrays-to-asking-better-questions-with-data-b4158608a199?source=rss------data_science-5)
-- [Week 6 at DataraFlow: Learning NumPy, Pandas, and SQL](https://medium.com/@estheroginga5/week-6-at-dataraflow-learning-numpy-pandas-and-sql-4d96631e57ca?source=rss------data_science-5)
-- [How a simple looking math can have a hidden story?](https://medium.com/@diwale.varsha/how-a-simple-looking-math-can-have-a-hidden-story-66654de1b5a0?source=rss------data_science-5)
-- [¿Una decisión automatizada es una decisión más objetiva?](https://medium.com/@49518298/una-decisi%C3%B3n-automatizada-es-una-decisi%C3%B3n-m%C3%A1s-objetiva-c74ad54efebb?source=rss------data_science-5)
-- [Design for People. Build for Change. — What I learned at Data in the D Conference 2026](https://medium.com/@xiaotong.ma.ms/design-for-people-build-for-change-what-i-learned-at-data-in-the-d-conference-2026-f61828309a2c?source=rss------data_science-5)
-- [Week 6 of My Data Science Internship: From Setup Errors to Real Data Analysis](https://medium.com/@abdqayyumyussuf/week-6-of-my-data-science-internship-from-setup-errors-to-real-data-analysis-6631e8b21b7b?source=rss------data_science-5)
-- [Beyond the model: software I built to connect credit experiments to origination decisions](https://fernando-liaison.medium.com/beyond-the-model-software-i-built-to-connect-credit-experiments-to-origination-decisions-c6e49c22a340?source=rss------data_science-5)
-- [NLP Landscape from 1960 to 2020](https://medium.com/@pradnyeelpatil/nlp-landscape-from-1960-to-2020-a1cb9d67f740?source=rss------data_science-5)
-- [GluonTS DeepAR Generation Forecasting: Eight Hourly Fuel-Type Series, against the Same Hour…](https://medium.com/@sakamoto2000.kim/gluonts-deepar-generation-forecasting-eight-hourly-fuel-type-series-against-the-same-hour-eaceaa23545c?source=rss------data_science-5)
-- [GluonTS DeepAR 發電量預測：8 條每小時燃料別序列，對照「昨天同一小時」](https://medium.com/@sakamoto2000.kim/gluonts-deepar-%E7%99%BC%E9%9B%BB%E9%87%8F%E9%A0%90%E6%B8%AC-8-%E6%A2%9D%E6%AF%8F%E5%B0%8F%E6%99%82%E7%87%83%E6%96%99%E5%88%A5%E5%BA%8F%E5%88%97-%E5%B0%8D%E7%85%A7-%E6%98%A8%E5%A4%A9%E5%90%8C%E4%B8%80%E5%B0%8F%E6%99%82-603534b6c813?source=rss------data_science-5)
+- [BulkGLP Retatrutide Molarity &amp; Reconstitution Modeling: Open-Source Python Reference](https://medium.com/@bulkglp/bulkglp-retatrutide-molarity-reconstitution-modeling-open-source-python-reference-8ba9a067fb68?source=rss------data_science-5)
+- [Context Window Engineering as a Skill](https://medium.com/@aftab001x/context-window-engineering-as-a-skill-e30e56903d21?source=rss------data_science-5)
+- [Python DSA Coding Interview Series:24/29 [Dynamic Programming I]](https://medium.com/models-to-systems/python-dsa-coding-interview-series-24-29-dynamic-programming-i-609d075aa960?source=rss------data_science-5)
+- [Python DSA Coding Interview Series:23/29 [Bit Manipulation]](https://medium.com/models-to-systems/python-dsa-coding-interview-series-23-29-bit-manipulation-45291a6ccebf?source=rss------data_science-5)
+- [LLM Coding Interview Series: 27/30[Serving Capacity Planning]](https://medium.com/models-to-systems/llm-coding-interview-series-27-30-serving-capacity-planning-95366d1a8184?source=rss------data_science-5)
+- [Which Inflation Number Belongs in Your Backtest?](https://medium.com/@roberttidball/which-inflation-number-belongs-in-your-backtest-ed8d863b3d42?source=rss------data_science-5)
+- [LLM Coding Interview Series: 26/30 [Inference Failure Modes]](https://medium.com/models-to-systems/llm-coding-interview-series-26-30-inference-failure-modes-630ed7f285fa?source=rss------data_science-5)
+- [You Don’t Have to Love Data to Be Good at It](https://medium.com/the-fullstack-analysis/you-dont-have-to-love-data-to-be-good-at-it-7bacc86382e9?source=rss------data_science-5)
+- [Power BI Copilot: What It Does Well and Where It Falls Short](https://abhiks1999.medium.com/power-bi-copilot-what-it-does-well-and-where-it-falls-short-74483051a7dc?source=rss------data_science-5)
+- [From Customer Churn to Business Strategy: Turning Data into Retention Insights](https://medium.com/@muluhclintonawah/from-customer-churn-to-business-strategy-turning-data-into-retention-insights-cd86cc3c77a1?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
