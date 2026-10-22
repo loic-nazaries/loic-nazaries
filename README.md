@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [8 JavaScript Date Bugs You Can Finally Delete](https://javascript.plainenglish.io/8-javascript-date-bugs-you-can-finally-delete-f1a3fc959eea?source=rss------data_science-5)
-- [My Small Neural Network Scored 100%. The Test Was Missing a Case.](https://medium.com/@dorangao/my-small-neural-network-scored-100-the-test-was-missing-a-case-bd2f94a7653a?source=rss------data_science-5)
-- [We Spent Two Months Turning Arrows Into Infrastructure: Wilvor — Aviation Operations Intelligence…](https://medium.com/@ibrahim.hamza01/we-spent-two-months-turning-arrows-into-infrastructure-wilvor-aviation-operations-intelligence-2b1a233feb1a?source=rss------data_science-5)
-- [From “It Works” to “We Can Prove It”: Building a Complete Testing Strategy for Wilvor — Aviation…](https://medium.com/@ibrahim.hamza01/from-it-works-to-we-can-prove-it-building-a-complete-testing-strategy-for-wilvor-aviation-6d43d0db0057?source=rss------data_science-5)
-- [10 GenAI Techniques for Generating Edge-Case API Integration Tests](https://medium.com/@Rohan_Dutt/10-genai-techniques-for-generating-edge-case-api-integration-tests-50a268b6ebad?source=rss------data_science-5)
-- [10 MCP Servers That Can Do Way More Than You Think](https://python.plainenglish.io/10-mcp-servers-that-can-do-way-more-than-you-think-31cbd1a53cc8?source=rss------data_science-5)
-- [10 Claude Code Mods You Didn’t Know You Needed](https://python.plainenglish.io/10-claude-code-mods-you-didnt-know-you-needed-5caa9a883749?source=rss------data_science-5)
-- [Woman Design Wall Decor Image Print Ai File format](https://medium.com/@ivaylostoyanov_42562/woman-design-wall-decor-image-print-ai-file-format-8d273526d5d4?source=rss------data_science-5)
-- [Part 3 — Three Layers of Matrix Confusion](https://medium.com/@c.shadbad/part-3-three-layers-of-matrix-confusion-11bd2c59d79d?source=rss------data_science-5)
-- [Python DSA Coding Interview Series:28/29 [Mixed-Pattern Practice]](https://medium.com/models-to-systems/python-dsa-coding-interview-series-28-29-mixed-pattern-practice-9acbcc7c7ea2?source=rss------data_science-5)
+- [What If Your AI Agent Won’t Stop?](https://medium.com/@pottelisowmyasree/what-if-your-ai-agent-wont-stop-5b42b8016d00?source=rss------data_science-5)
+- [Machine Learning Pipeline &amp; Data Preprocessing: A Practical Guide](https://medium.com/@hemanthkumarchintakuntla/machine-learning-pipeline-data-preprocessing-a-practical-guide-97dba9abe386?source=rss------data_science-5)
+- [10 Text-to-SQL Fine-Tuning Approaches to Handle Complex Multi-Join Scripts](https://medium.com/@Rohan_Dutt/10-text-to-sql-fine-tuning-approaches-to-handle-complex-multi-join-scripts-5e921d927d44?source=rss------data_science-5)
+- [How to Master Gen AI: Volume 9— Agentic AI &lpar;Safety and Control Patterns 1&rpar;](https://medium.com/@martin.jurado.p/how-to-master-gen-ai-volume-9-agentic-ai-safety-and-control-patterns-1-c2fd21a18f04?source=rss------data_science-5)
+- [I Studied This Week’s Data Interview Posts — 5 SQL Patterns Decide Who Gets Hired](https://medium.com/@rembiq/i-studied-this-weeks-data-interview-posts-5-sql-patterns-decide-who-gets-hired-b15dbe6b04a2?source=rss------data_science-5)
+- [ROW_NUMBER vs. RANK vs. DENSE_RANK: Three Functions, Three Different Business Decisions](https://medium.com/@its.shoryabisht/row-number-vs-rank-vs-dense-rank-three-functions-three-different-business-decisions-c8d8a598f24d?source=rss------data_science-5)
+- [10 DATA LINEAGE MAPPING Techniques To Untangle Spaghetti Pipeline Dependencies](https://medium.com/@Rohan_Dutt/10-data-lineage-mapping-techniques-to-untangle-spaghetti-pipeline-dependencies-842f3a35f7f4?source=rss------data_science-5)
+- [Are You Measuring Success, or Just Measuring Motion?](https://medium.com/@priyankapriyu4123/are-you-measuring-success-or-just-measuring-motion-e61a6f0f025e?source=rss------data_science-5)
+- [Love Island Language Model &lpar;LiLM&rpar;: Exploring Reddit Sentiment and Predicting Kalshi Odds](https://medium.com/@palautatan/love-island-language-model-lilm-predicting-kalshi-odds-with-reddit-sentiment-88727ca6066d?source=rss------data_science-5)
+- [صیغه سمنان صیغه شاهرودصیغه کازرون صیغه آباده صیغه رشت صیغه گیلان صیغه لاهیجان صیغه خمین صیغه آستارا…](https://medium.com/@hlalsyghh2/%D8%B5%DB%8C%D8%BA%D9%87-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF%D8%B5%DB%8C%D8%BA%D9%87-%DA%A9%D8%A7%D8%B2%D8%B1%D9%88%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A2%D8%A8%D8%A7%D8%AF%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B1%D8%B4%D8%AA-%D8%B5%DB%8C%D8%BA%D9%87-%DA%AF%DB%8C%D9%84%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AE%D9%85%DB%8C%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A2%D8%B3%D8%AA%D8%A7%D8%B1%D8%A7-7c0ca0673c06?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
