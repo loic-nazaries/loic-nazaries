@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [What If Your AI Agent Won’t Stop?](https://medium.com/@pottelisowmyasree/what-if-your-ai-agent-wont-stop-5b42b8016d00?source=rss------data_science-5)
-- [Machine Learning Pipeline &amp; Data Preprocessing: A Practical Guide](https://medium.com/@hemanthkumarchintakuntla/machine-learning-pipeline-data-preprocessing-a-practical-guide-97dba9abe386?source=rss------data_science-5)
-- [10 Text-to-SQL Fine-Tuning Approaches to Handle Complex Multi-Join Scripts](https://medium.com/@Rohan_Dutt/10-text-to-sql-fine-tuning-approaches-to-handle-complex-multi-join-scripts-5e921d927d44?source=rss------data_science-5)
-- [How to Master Gen AI: Volume 9— Agentic AI &lpar;Safety and Control Patterns 1&rpar;](https://medium.com/@martin.jurado.p/how-to-master-gen-ai-volume-9-agentic-ai-safety-and-control-patterns-1-c2fd21a18f04?source=rss------data_science-5)
-- [I Studied This Week’s Data Interview Posts — 5 SQL Patterns Decide Who Gets Hired](https://medium.com/@rembiq/i-studied-this-weeks-data-interview-posts-5-sql-patterns-decide-who-gets-hired-b15dbe6b04a2?source=rss------data_science-5)
-- [ROW_NUMBER vs. RANK vs. DENSE_RANK: Three Functions, Three Different Business Decisions](https://medium.com/@its.shoryabisht/row-number-vs-rank-vs-dense-rank-three-functions-three-different-business-decisions-c8d8a598f24d?source=rss------data_science-5)
-- [10 DATA LINEAGE MAPPING Techniques To Untangle Spaghetti Pipeline Dependencies](https://medium.com/@Rohan_Dutt/10-data-lineage-mapping-techniques-to-untangle-spaghetti-pipeline-dependencies-842f3a35f7f4?source=rss------data_science-5)
-- [Are You Measuring Success, or Just Measuring Motion?](https://medium.com/@priyankapriyu4123/are-you-measuring-success-or-just-measuring-motion-e61a6f0f025e?source=rss------data_science-5)
-- [Love Island Language Model &lpar;LiLM&rpar;: Exploring Reddit Sentiment and Predicting Kalshi Odds](https://medium.com/@palautatan/love-island-language-model-lilm-predicting-kalshi-odds-with-reddit-sentiment-88727ca6066d?source=rss------data_science-5)
-- [صیغه سمنان صیغه شاهرودصیغه کازرون صیغه آباده صیغه رشت صیغه گیلان صیغه لاهیجان صیغه خمین صیغه آستارا…](https://medium.com/@hlalsyghh2/%D8%B5%DB%8C%D8%BA%D9%87-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF%D8%B5%DB%8C%D8%BA%D9%87-%DA%A9%D8%A7%D8%B2%D8%B1%D9%88%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A2%D8%A8%D8%A7%D8%AF%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B1%D8%B4%D8%AA-%D8%B5%DB%8C%D8%BA%D9%87-%DA%AF%DB%8C%D9%84%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AE%D9%85%DB%8C%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A2%D8%B3%D8%AA%D8%A7%D8%B1%D8%A7-7c0ca0673c06?source=rss------data_science-5)
+- [Window Functions Explained: Analyze Every Row Without Losing the Bigger Picture](https://medium.com/@its.shoryabisht/window-functions-explained-analyze-every-row-without-losing-the-bigger-picture-20832824147d?source=rss------data_science-5)
+- [The 4-Bit GGUF Perplexity Test: How Much Intelligence Do You Lose to Save Memory?](https://medium.com/@chhinsoportrakhou/the-4-bit-gguf-perplexity-test-how-much-intelligence-do-you-lose-to-save-memory-92b55905cc99?source=rss------data_science-5)
+- [Don’t Buy a Mac for AI Until You Understand Unified Memory](https://medium.com/@rothyyorn999/dont-buy-a-mac-for-ai-until-you-understand-unified-memory-6c92d9591dcd?source=rss------data_science-5)
+- [Quantum Teleportation Is a Killing Machine Besides Transportation](https://medium.com/predict/quantum-teleportation-is-a-killing-machine-besides-transportation-2de912654012?source=rss------data_science-5)
+- [7 Things Good Developers Do Differently](https://medium.com/@thyzmile24/7-things-good-developers-do-differently-5cfdfa6a6906?source=rss------data_science-5)
+- [We Replaced Three Senior Developers With AI Tools. The First Month Looked Like a Victory.](https://blog.devgenius.io/we-replaced-three-senior-developers-with-ai-tools-the-first-month-looked-like-a-victory-278cc14f6a4a?source=rss------data_science-5)
+- [The Six-Second Blind Spot: Who Really Has the Advantage in Live Betting?](https://medium.com/@ElioVenturiKessler/the-six-second-blind-spot-who-really-has-the-advantage-in-live-betting-74c902b55978?source=rss------data_science-5)
+- [[PoV] The Boring Game](https://andriantriputra.medium.com/pov-the-boring-game-a43db2ec528f?source=rss------data_science-5)
+- [Climate Pressure Alone May Not Multiply CEA Growers](https://medium.com/@pds_grows/climate-pressure-alone-may-not-multiply-cea-growers-8928d897be17?source=rss------data_science-5)
+- [Footprints in your code](https://medium.com/@ikramchoudhury0/footprints-in-your-code-e83b5799eeec?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
