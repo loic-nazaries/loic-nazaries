@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Window Functions Explained: Analyze Every Row Without Losing the Bigger Picture](https://medium.com/@its.shoryabisht/window-functions-explained-analyze-every-row-without-losing-the-bigger-picture-20832824147d?source=rss------data_science-5)
-- [The 4-Bit GGUF Perplexity Test: How Much Intelligence Do You Lose to Save Memory?](https://medium.com/@chhinsoportrakhou/the-4-bit-gguf-perplexity-test-how-much-intelligence-do-you-lose-to-save-memory-92b55905cc99?source=rss------data_science-5)
-- [Don’t Buy a Mac for AI Until You Understand Unified Memory](https://medium.com/@rothyyorn999/dont-buy-a-mac-for-ai-until-you-understand-unified-memory-6c92d9591dcd?source=rss------data_science-5)
-- [Quantum Teleportation Is a Killing Machine Besides Transportation](https://medium.com/predict/quantum-teleportation-is-a-killing-machine-besides-transportation-2de912654012?source=rss------data_science-5)
-- [7 Things Good Developers Do Differently](https://medium.com/@thyzmile24/7-things-good-developers-do-differently-5cfdfa6a6906?source=rss------data_science-5)
-- [We Replaced Three Senior Developers With AI Tools. The First Month Looked Like a Victory.](https://blog.devgenius.io/we-replaced-three-senior-developers-with-ai-tools-the-first-month-looked-like-a-victory-278cc14f6a4a?source=rss------data_science-5)
-- [The Six-Second Blind Spot: Who Really Has the Advantage in Live Betting?](https://medium.com/@ElioVenturiKessler/the-six-second-blind-spot-who-really-has-the-advantage-in-live-betting-74c902b55978?source=rss------data_science-5)
-- [[PoV] The Boring Game](https://andriantriputra.medium.com/pov-the-boring-game-a43db2ec528f?source=rss------data_science-5)
-- [Climate Pressure Alone May Not Multiply CEA Growers](https://medium.com/@pds_grows/climate-pressure-alone-may-not-multiply-cea-growers-8928d897be17?source=rss------data_science-5)
-- [Footprints in your code](https://medium.com/@ikramchoudhury0/footprints-in-your-code-e83b5799eeec?source=rss------data_science-5)
+- [How to Write SQL Queries That Catch One-to-Many Join Fan-Outs Before You Double-Count Critical…](https://medium.com/@Rohan_Dutt/how-to-write-sql-queries-that-catch-one-to-many-join-fan-outs-before-you-double-count-critical-a8d36313e55d?source=rss------data_science-5)
+- [](https://zachbobby8.medium.com/-07786ec5838b?source=rss------data_science-5)
+- [Exploring Relationships in Data: Cleaning, Visualisation, Correlation and SQL](https://medium.com/@jaynechinny/exploring-relationships-in-data-cleaning-visualisation-correlation-and-sql-867ca741f151?source=rss------data_science-5)
+- [Why SQL Will Always Be King](https://medium.com/@tajamulkhan/why-sql-will-always-be-king-7e8ae4f35dfe?source=rss------data_science-5)
+- [10 Forecasting Techniques Used to Anticipate Small Business’s Cash Flow Crunches Before Payroll…](https://medium.com/@Rohan_Dutt/10-forecasting-techniques-used-to-anticipate-small-businesss-cash-flow-crunches-before-payroll-3794e7a5637d?source=rss------data_science-5)
+- [Menembus Batas Visual: Pengenalan, Implementasi, dan Review 5 Jurnal Penting Computer Vision](https://medium.com/@pnmtangerang1/menembus-batas-visual-pengenalan-implementasi-dan-review-5-jurnal-penting-computer-vision-d0342a01b282?source=rss------data_science-5)
+- [Stop Tab-Hopping: A Morning Scan for Crypto Leverage, Funding &amp; Forced Exits](https://medium.com/@coinbossdata/stop-tab-hopping-a-morning-scan-for-crypto-leverage-funding-forced-exits-0778c4496900?source=rss------data_science-5)
+- [LLM System Design Series:7/12 [Verification and Bounded Reflection]](https://medium.com/models-to-systems/llm-system-design-series-7-12-verification-and-bounded-reflection-93473b5a6352?source=rss------data_science-5)
+- [LLM System Design Series:6/12 [Retrieval and Evidence-Grounded Responses]](https://medium.com/models-to-systems/llm-system-design-series-6-12-retrieval-and-evidence-grounded-responses-c8322caa4918?source=rss------data_science-5)
+- [What is a Transformer?](https://medium.com/data-science-collective/what-is-a-transformer-67ed322d69ef?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
