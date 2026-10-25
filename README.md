@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Write SQL Queries That Catch One-to-Many Join Fan-Outs Before You Double-Count Critical…](https://medium.com/@Rohan_Dutt/how-to-write-sql-queries-that-catch-one-to-many-join-fan-outs-before-you-double-count-critical-a8d36313e55d?source=rss------data_science-5)
-- [](https://zachbobby8.medium.com/-07786ec5838b?source=rss------data_science-5)
-- [Exploring Relationships in Data: Cleaning, Visualisation, Correlation and SQL](https://medium.com/@jaynechinny/exploring-relationships-in-data-cleaning-visualisation-correlation-and-sql-867ca741f151?source=rss------data_science-5)
-- [Why SQL Will Always Be King](https://medium.com/@tajamulkhan/why-sql-will-always-be-king-7e8ae4f35dfe?source=rss------data_science-5)
-- [10 Forecasting Techniques Used to Anticipate Small Business’s Cash Flow Crunches Before Payroll…](https://medium.com/@Rohan_Dutt/10-forecasting-techniques-used-to-anticipate-small-businesss-cash-flow-crunches-before-payroll-3794e7a5637d?source=rss------data_science-5)
-- [Menembus Batas Visual: Pengenalan, Implementasi, dan Review 5 Jurnal Penting Computer Vision](https://medium.com/@pnmtangerang1/menembus-batas-visual-pengenalan-implementasi-dan-review-5-jurnal-penting-computer-vision-d0342a01b282?source=rss------data_science-5)
-- [Stop Tab-Hopping: A Morning Scan for Crypto Leverage, Funding &amp; Forced Exits](https://medium.com/@coinbossdata/stop-tab-hopping-a-morning-scan-for-crypto-leverage-funding-forced-exits-0778c4496900?source=rss------data_science-5)
-- [LLM System Design Series:7/12 [Verification and Bounded Reflection]](https://medium.com/models-to-systems/llm-system-design-series-7-12-verification-and-bounded-reflection-93473b5a6352?source=rss------data_science-5)
-- [LLM System Design Series:6/12 [Retrieval and Evidence-Grounded Responses]](https://medium.com/models-to-systems/llm-system-design-series-6-12-retrieval-and-evidence-grounded-responses-c8322caa4918?source=rss------data_science-5)
-- [What is a Transformer?](https://medium.com/data-science-collective/what-is-a-transformer-67ed322d69ef?source=rss------data_science-5)
+- [Rust Is Building Its Own Git Infrastructure. Meet Josh.](https://medium.com/@rothyyorn9/rust-is-building-its-own-git-infrastructure-meet-josh-7f7ed8cd456f?source=rss------data_science-5)
+- [Best company and people verification data tools in India &lpar;2026&rpar;](https://medium.com/@datagalactica/best-company-and-people-verification-data-tools-in-india-2026-3416c8e63534?source=rss------data_science-5)
+- [How much do stocks move after earnings? I measured 12,353 S&amp;P 500 reports](https://medium.com/@danieloliveira3303/how-much-do-stocks-move-after-earnings-i-measured-12-353-s-p-500-reports-7a5fdcb4487f?source=rss------data_science-5)
+- [Do stocks go up after insiders buy? I tested 47,458 open-market purchases](https://medium.com/@danieloliveira3303/do-stocks-go-up-after-insiders-buy-i-tested-47-458-open-market-purchases-9c8e013298c7?source=rss------data_science-5)
+- [How Speculative Decoding Speeds Up Local Inference: The Drafter, the Verifier, and the Acceptance…](https://zimanaanalytics.medium.com/how-speculative-decoding-speeds-up-local-inference-the-drafter-the-verifier-and-the-acceptance-87e5d3289c7e?source=rss------data_science-5)
+- [THE WORLD IS NOT SHORT OF LEADERS; IT IS SHORT OF PEOPLE WHO FEAR THE CONSEQUENCES OF POWER](https://medium.com/@ezehe121/the-world-is-not-short-of-leaders-it-is-short-of-people-who-fear-the-consequences-of-power-9285c5e36b85?source=rss------data_science-5)
+- [POVERTY IS EXPENSIVE: THE HIDDEN COST OF BEING POOR IN A WORLD OBSESSED WITH WEALTH](https://medium.com/@ezehe121/poverty-is-expensive-the-hidden-cost-of-being-poor-in-a-world-obsessed-with-wealth-987d19e4e3ea?source=rss------data_science-5)
+- [Manchester United’s Decline Is More Than Just Bad Results: A Data Science Investigation](https://tioanta.medium.com/manchester-uniteds-decline-is-more-than-just-bad-results-a-data-science-investigation-03a0cf3a41b0?source=rss------data_science-5)
+- [NEW TradingView Indicator That Shows You Exactly Where To BUY &amp; SELL](https://medium.com/@sayedali_3166/new-tradingview-indicator-that-shows-you-exactly-where-to-buy-sell-240ab0ae0efa?source=rss------data_science-5)
+- [Week 7: This Is Where Data Started Making More Sense](https://medium.com/@odeydivine16/week-7-this-is-where-data-started-making-more-sense-ee86aa13b84e?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
