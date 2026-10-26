@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Rust Is Building Its Own Git Infrastructure. Meet Josh.](https://medium.com/@rothyyorn9/rust-is-building-its-own-git-infrastructure-meet-josh-7f7ed8cd456f?source=rss------data_science-5)
-- [Best company and people verification data tools in India &lpar;2026&rpar;](https://medium.com/@datagalactica/best-company-and-people-verification-data-tools-in-india-2026-3416c8e63534?source=rss------data_science-5)
-- [How much do stocks move after earnings? I measured 12,353 S&amp;P 500 reports](https://medium.com/@danieloliveira3303/how-much-do-stocks-move-after-earnings-i-measured-12-353-s-p-500-reports-7a5fdcb4487f?source=rss------data_science-5)
-- [Do stocks go up after insiders buy? I tested 47,458 open-market purchases](https://medium.com/@danieloliveira3303/do-stocks-go-up-after-insiders-buy-i-tested-47-458-open-market-purchases-9c8e013298c7?source=rss------data_science-5)
-- [How Speculative Decoding Speeds Up Local Inference: The Drafter, the Verifier, and the Acceptance…](https://zimanaanalytics.medium.com/how-speculative-decoding-speeds-up-local-inference-the-drafter-the-verifier-and-the-acceptance-87e5d3289c7e?source=rss------data_science-5)
-- [THE WORLD IS NOT SHORT OF LEADERS; IT IS SHORT OF PEOPLE WHO FEAR THE CONSEQUENCES OF POWER](https://medium.com/@ezehe121/the-world-is-not-short-of-leaders-it-is-short-of-people-who-fear-the-consequences-of-power-9285c5e36b85?source=rss------data_science-5)
-- [POVERTY IS EXPENSIVE: THE HIDDEN COST OF BEING POOR IN A WORLD OBSESSED WITH WEALTH](https://medium.com/@ezehe121/poverty-is-expensive-the-hidden-cost-of-being-poor-in-a-world-obsessed-with-wealth-987d19e4e3ea?source=rss------data_science-5)
-- [Manchester United’s Decline Is More Than Just Bad Results: A Data Science Investigation](https://tioanta.medium.com/manchester-uniteds-decline-is-more-than-just-bad-results-a-data-science-investigation-03a0cf3a41b0?source=rss------data_science-5)
-- [NEW TradingView Indicator That Shows You Exactly Where To BUY &amp; SELL](https://medium.com/@sayedali_3166/new-tradingview-indicator-that-shows-you-exactly-where-to-buy-sell-240ab0ae0efa?source=rss------data_science-5)
-- [Week 7: This Is Where Data Started Making More Sense](https://medium.com/@odeydivine16/week-7-this-is-where-data-started-making-more-sense-ee86aa13b84e?source=rss------data_science-5)
+- [Ode to The Hyaenic Forme](https://medium.com/@electricity98/ode-to-the-hyaenic-forme-57de4b030cfd?source=rss------data_science-5)
+- [LLM System Design: 12/12 [Performance, Cost, and Production Operations]](https://medium.com/models-to-systems/llm-system-design-12-12-performance-cost-and-production-operations-61c872947761?source=rss------data_science-5)
+- [LLM System Design Series:11/12 [Evaluation, Tracing, and Debugging]](https://medium.com/models-to-systems/llm-system-design-interview-series-11-12-evaluation-tracing-and-debugging-ecebcc225189?source=rss------data_science-5)
+- [From the Warehouse Floor to Data Science: Breaking Into Tech After 10 Years in Logistics](https://medium.com/@omaridgood/from-the-warehouse-floor-to-data-science-breaking-into-tech-after-10-years-in-logistics-12ba0e688113?source=rss------data_science-5)
+- [Python Conditional Statements: Teach Your Code to Make Decisions](https://medium.com/@kanamadi.bhagyashree.8/python-conditional-statements-teach-your-code-to-make-decisions-4e98a759572b?source=rss------data_science-5)
+- [How I Choose Which AI Models To Use Throughout My Coding Workflow](https://levelup.gitconnected.com/how-i-choose-which-ai-models-to-use-throughout-my-coding-workflow-ff1aa4fad14a?source=rss------data_science-5)
+- [How to Build Instagram and TikTok Data Pipelines](https://levelup.gitconnected.com/how-to-build-instagram-and-tiktok-data-pipelines-5692494e9f01?source=rss------data_science-5)
+- [MedBOE: Rebuilding the Full Body Surface From Truncated PET/CT](https://levelup.gitconnected.com/medboe-rebuilding-the-full-body-surface-from-truncated-pet-ct-c9d480a04660?source=rss------data_science-5)
+- [Meet HydraFusion: GitHub Copilot’s Smarter Way to Code](https://levelup.gitconnected.com/meet-hydrafusion-github-copilots-smarter-way-to-code-080a69e9a061?source=rss------data_science-5)
+- [Map an LEI to a PermID with LSEG in Python](https://levelup.gitconnected.com/map-an-lei-to-a-permid-with-lseg-in-python-c16aa2562fb2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
