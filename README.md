@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Ode to The Hyaenic Forme](https://medium.com/@electricity98/ode-to-the-hyaenic-forme-57de4b030cfd?source=rss------data_science-5)
-- [LLM System Design: 12/12 [Performance, Cost, and Production Operations]](https://medium.com/models-to-systems/llm-system-design-12-12-performance-cost-and-production-operations-61c872947761?source=rss------data_science-5)
-- [LLM System Design Series:11/12 [Evaluation, Tracing, and Debugging]](https://medium.com/models-to-systems/llm-system-design-interview-series-11-12-evaluation-tracing-and-debugging-ecebcc225189?source=rss------data_science-5)
-- [From the Warehouse Floor to Data Science: Breaking Into Tech After 10 Years in Logistics](https://medium.com/@omaridgood/from-the-warehouse-floor-to-data-science-breaking-into-tech-after-10-years-in-logistics-12ba0e688113?source=rss------data_science-5)
-- [Python Conditional Statements: Teach Your Code to Make Decisions](https://medium.com/@kanamadi.bhagyashree.8/python-conditional-statements-teach-your-code-to-make-decisions-4e98a759572b?source=rss------data_science-5)
-- [How I Choose Which AI Models To Use Throughout My Coding Workflow](https://levelup.gitconnected.com/how-i-choose-which-ai-models-to-use-throughout-my-coding-workflow-ff1aa4fad14a?source=rss------data_science-5)
-- [How to Build Instagram and TikTok Data Pipelines](https://levelup.gitconnected.com/how-to-build-instagram-and-tiktok-data-pipelines-5692494e9f01?source=rss------data_science-5)
-- [MedBOE: Rebuilding the Full Body Surface From Truncated PET/CT](https://levelup.gitconnected.com/medboe-rebuilding-the-full-body-surface-from-truncated-pet-ct-c9d480a04660?source=rss------data_science-5)
-- [Meet HydraFusion: GitHub Copilot’s Smarter Way to Code](https://levelup.gitconnected.com/meet-hydrafusion-github-copilots-smarter-way-to-code-080a69e9a061?source=rss------data_science-5)
-- [Map an LEI to a PermID with LSEG in Python](https://levelup.gitconnected.com/map-an-lei-to-a-permid-with-lseg-in-python-c16aa2562fb2?source=rss------data_science-5)
+- [Your SQL Query Works. But Is It Correct, Efficient, and Trustworthy?](https://medium.com/@its.shoryabisht/your-sql-query-works-but-is-it-correct-efficient-and-trustworthy-8788da012eb4?source=rss------data_science-5)
+- [What Is Data Cleaning in Trading?](https://ztraderai.medium.com/what-is-data-cleaning-in-trading-00f164ca71a0?source=rss------data_science-5)
+- [8 Python Patterns for Scripts That Get Run Twice](https://blog.stackademic.com/8-python-patterns-for-scripts-that-get-run-twice-5227f9bb44f7?source=rss------data_science-5)
+- [I Replaced My Keyword Search With Vector Search in Python. The Results Were Embarrassingly Better](https://medium.com/@muruganantham52524/i-replaced-my-keyword-search-with-vector-search-in-python-the-results-were-embarrassingly-better-7455dc4ba655?source=rss------data_science-5)
+- [Six Data Quality Checks That Catch Real Pipeline Bugs &lpar;and How to Use AI to Draft Them&rpar;](https://medium.com/@kavyanandesh/six-data-quality-checks-that-catch-real-pipeline-bugs-and-how-to-use-ai-to-draft-them-2152751aa2b7?source=rss------data_science-5)
+- [How I’d check a fake shopper: the 5 levels in the UserArena paper](https://medium.com/@kestrelfield/how-id-check-a-fake-shopper-the-5-levels-in-the-userarena-paper-b0fc1d1d682c?source=rss------data_science-5)
+- [Can GenAI Eliminate Deployment Downtime? 10 Techniques to Transform CI/CD Pipeline](https://medium.com/@Rohan_Dutt/can-genai-eliminate-deployment-downtime-10-techniques-to-transform-your-ci-cd-pipeline-024bf3c4dbd1?source=rss------data_science-5)
+- [Why THETA SKETCHES in SQL Is More Powerful Than You Think &lpar;And How to Master It&rpar;](https://medium.com/@Rohan_Dutt/why-theta-sketches-in-sql-is-more-powerful-than-you-think-and-how-to-master-it-19f147b0c26c?source=rss------data_science-5)
+- [How many job ads state pay? Latvia 98%, UK 72%, Poland 19%, Pakistan 6%](https://medium.com/@yusuke_71175/how-many-job-ads-state-pay-latvia-98-uk-72-poland-19-pakistan-6-92d016fd8e14?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
