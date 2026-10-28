@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Your SQL Query Works. But Is It Correct, Efficient, and Trustworthy?](https://medium.com/@its.shoryabisht/your-sql-query-works-but-is-it-correct-efficient-and-trustworthy-8788da012eb4?source=rss------data_science-5)
-- [What Is Data Cleaning in Trading?](https://ztraderai.medium.com/what-is-data-cleaning-in-trading-00f164ca71a0?source=rss------data_science-5)
-- [8 Python Patterns for Scripts That Get Run Twice](https://blog.stackademic.com/8-python-patterns-for-scripts-that-get-run-twice-5227f9bb44f7?source=rss------data_science-5)
-- [I Replaced My Keyword Search With Vector Search in Python. The Results Were Embarrassingly Better](https://medium.com/@muruganantham52524/i-replaced-my-keyword-search-with-vector-search-in-python-the-results-were-embarrassingly-better-7455dc4ba655?source=rss------data_science-5)
-- [Six Data Quality Checks That Catch Real Pipeline Bugs &lpar;and How to Use AI to Draft Them&rpar;](https://medium.com/@kavyanandesh/six-data-quality-checks-that-catch-real-pipeline-bugs-and-how-to-use-ai-to-draft-them-2152751aa2b7?source=rss------data_science-5)
-- [How I’d check a fake shopper: the 5 levels in the UserArena paper](https://medium.com/@kestrelfield/how-id-check-a-fake-shopper-the-5-levels-in-the-userarena-paper-b0fc1d1d682c?source=rss------data_science-5)
-- [Can GenAI Eliminate Deployment Downtime? 10 Techniques to Transform CI/CD Pipeline](https://medium.com/@Rohan_Dutt/can-genai-eliminate-deployment-downtime-10-techniques-to-transform-your-ci-cd-pipeline-024bf3c4dbd1?source=rss------data_science-5)
-- [Why THETA SKETCHES in SQL Is More Powerful Than You Think &lpar;And How to Master It&rpar;](https://medium.com/@Rohan_Dutt/why-theta-sketches-in-sql-is-more-powerful-than-you-think-and-how-to-master-it-19f147b0c26c?source=rss------data_science-5)
-- [How many job ads state pay? Latvia 98%, UK 72%, Poland 19%, Pakistan 6%](https://medium.com/@yusuke_71175/how-many-job-ads-state-pay-latvia-98-uk-72-poland-19-pakistan-6-92d016fd8e14?source=rss------data_science-5)
+- [Does more context always help? A 31-line experiment](https://medium.com/@dmw2007/does-more-context-always-help-a-31-line-experiment-2332e54dcf8c?source=rss------data_science-5)
+- [Graph RAG Series:3/15 [Knowledge Graphs vs. Vector Databases]](https://medium.com/models-to-systems/graph-rag-series-3-15-knowledge-graphs-vs-vector-databases-28e557791026?source=rss------data_science-5)
+- [Graph RAG Series:2/15 [Graph Fundamentals for AI Engineers]](https://medium.com/models-to-systems/graph-rag-series-2-15-graph-fundamentals-for-ai-engineers-eb30b3842964?source=rss------data_science-5)
+- [Your Text-to-SQL Agent Works. Can You Still Trust It Tomorrow?](https://medium.com/@kumarmadhavnarayan/your-text-to-sql-agent-works-can-you-still-trust-it-tomorrow-18fd8dcc587f?source=rss------data_science-5)
+- [Anatomy of Luxury Real Estate Expired Listing](https://medium.com/@dylanpacchelli1/anatomy-of-luxury-real-estate-expired-listing-de02966425d6?source=rss------data_science-5)
+- [10 DATA CACHING LAYERS Essential for Surviving Sudden E-Commerce Traffic Spikes](https://medium.com/@Rohan_Dutt/10-data-caching-layers-essential-for-surviving-sudden-e-commerce-traffic-spikes-805061f43e8a?source=rss------data_science-5)
+- [Why COSINE Similarity in SQL Is More Powerful Than You Think &lpar;And How to Master It&rpar;](https://medium.com/@Rohan_Dutt/why-cosine-similarity-in-sql-is-more-powerful-than-you-think-and-how-to-master-it-f8c9d0fe31aa?source=rss------data_science-5)
+- [How to Read an Unfamiliar SQL Query Like a Detective](https://medium.com/@its.shoryabisht/how-to-read-an-unfamiliar-sql-query-like-a-detective-dda155d1a31a?source=rss------data_science-5)
+- [Why XGBoost Beats Linear Regression: Gradient Boosting Algorithms](https://medium.com/@aminnajafli/why-xgboost-beats-linear-regression-gradient-boosting-algorithms-88c06f9d752d?source=rss------data_science-5)
+- [Transfer Learning in Practice: What I Learned from Comparing ResNet18 and CNNs](https://medium.com/@madhumitakhatua23042006/transfer-learning-in-practice-what-i-learned-from-comparing-resnet18-and-cnns-78c83f148c37?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
