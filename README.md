@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Does more context always help? A 31-line experiment](https://medium.com/@dmw2007/does-more-context-always-help-a-31-line-experiment-2332e54dcf8c?source=rss------data_science-5)
-- [Graph RAG Series:3/15 [Knowledge Graphs vs. Vector Databases]](https://medium.com/models-to-systems/graph-rag-series-3-15-knowledge-graphs-vs-vector-databases-28e557791026?source=rss------data_science-5)
-- [Graph RAG Series:2/15 [Graph Fundamentals for AI Engineers]](https://medium.com/models-to-systems/graph-rag-series-2-15-graph-fundamentals-for-ai-engineers-eb30b3842964?source=rss------data_science-5)
-- [Your Text-to-SQL Agent Works. Can You Still Trust It Tomorrow?](https://medium.com/@kumarmadhavnarayan/your-text-to-sql-agent-works-can-you-still-trust-it-tomorrow-18fd8dcc587f?source=rss------data_science-5)
-- [Anatomy of Luxury Real Estate Expired Listing](https://medium.com/@dylanpacchelli1/anatomy-of-luxury-real-estate-expired-listing-de02966425d6?source=rss------data_science-5)
-- [10 DATA CACHING LAYERS Essential for Surviving Sudden E-Commerce Traffic Spikes](https://medium.com/@Rohan_Dutt/10-data-caching-layers-essential-for-surviving-sudden-e-commerce-traffic-spikes-805061f43e8a?source=rss------data_science-5)
-- [Why COSINE Similarity in SQL Is More Powerful Than You Think &lpar;And How to Master It&rpar;](https://medium.com/@Rohan_Dutt/why-cosine-similarity-in-sql-is-more-powerful-than-you-think-and-how-to-master-it-f8c9d0fe31aa?source=rss------data_science-5)
-- [How to Read an Unfamiliar SQL Query Like a Detective](https://medium.com/@its.shoryabisht/how-to-read-an-unfamiliar-sql-query-like-a-detective-dda155d1a31a?source=rss------data_science-5)
-- [Why XGBoost Beats Linear Regression: Gradient Boosting Algorithms](https://medium.com/@aminnajafli/why-xgboost-beats-linear-regression-gradient-boosting-algorithms-88c06f9d752d?source=rss------data_science-5)
-- [Transfer Learning in Practice: What I Learned from Comparing ResNet18 and CNNs](https://medium.com/@madhumitakhatua23042006/transfer-learning-in-practice-what-i-learned-from-comparing-resnet18-and-cnns-78c83f148c37?source=rss------data_science-5)
+- [Chunk Size vs Answer Quality in RAG: How to Evaluate Retrieval-Augmented Generation](https://medium.com/@sales_95773/chunk-size-vs-answer-quality-in-rag-how-to-evaluate-retrieval-augmented-generation-3532b2935255?source=rss------data_science-5)
+- [12 Open-Source Developer Tools Worth Exploring in 2027](https://medium.com/algomart/12-open-source-developer-tools-worth-exploring-in-2027-138b7125500c?source=rss------data_science-5)
+- [Deconstructing 70 Years of Climate Data: Time Series Decomposition and Machine Learning on…](https://medium.com/@viratmalviya.ai23/deconstructing-70-years-of-climate-data-time-series-decomposition-and-machine-learning-on-219015d59b8b?source=rss------data_science-5)
+- [Membandingkan ARIMA, RNN, LSTM, dan GRU dalam Prediksi Harga Saham BBCA dan Apple](https://medium.com/@ellanhani/membandingkan-arima-rnn-lstm-dan-gru-dalam-prediksi-harga-saham-bbca-dan-apple-e8945da1a865?source=rss------data_science-5)
+- [Mengapa Pelanggan Setia Tiba-Tiba “Kabur”? Cerita Dibalik Data Telco Churn](https://medium.com/@nadia.tridianti.putri/mengapa-pelanggan-setia-tiba-tiba-kabur-cerita-dibalik-data-telco-churn-1f902db5bc97?source=rss------data_science-5)
+- [Handwritten work is the future of human-AI interaction](https://medium.com/@maalimken2/handwritten-work-is-the-future-of-human-ai-interaction-890a398c16d1?source=rss------data_science-5)
+- [The AI Was Confident. That’s What Scared Me.](https://medium.com/@pottelisowmyasree/the-ai-was-confident-thats-what-scared-me-281e5fcba1da?source=rss------data_science-5)
+- [Membandingkan ARIMA, RNN, LSTM, dan GRU dalam Meramal Harga Saham BBCA dan Microsoft](https://medium.com/@jevonmaufin1/membandingkan-arima-rnn-lstm-dan-gru-dalam-meramal-harga-saham-bbca-dan-microsoft-c09bcbfcf769?source=rss------data_science-5)
+- [99.83% Accurate. Zero Fraud Caught. Here’s the Catch.](https://medium.com/@ayobamiawogboro123/99-83-accurate-zero-fraud-caught-heres-the-catch-4723a7b49b1c?source=rss------data_science-5)
+- [Python print vs return, shout it, or hand it back?&quot;, with a megaphone and a gift.](https://medium.com/@codingmadeeasy92/python-print-vs-return-shout-it-or-hand-it-back-with-a-megaphone-and-a-gift-ea60f94438eb?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
