@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Chunk Size vs Answer Quality in RAG: How to Evaluate Retrieval-Augmented Generation](https://medium.com/@sales_95773/chunk-size-vs-answer-quality-in-rag-how-to-evaluate-retrieval-augmented-generation-3532b2935255?source=rss------data_science-5)
-- [12 Open-Source Developer Tools Worth Exploring in 2027](https://medium.com/algomart/12-open-source-developer-tools-worth-exploring-in-2027-138b7125500c?source=rss------data_science-5)
-- [Deconstructing 70 Years of Climate Data: Time Series Decomposition and Machine Learning on…](https://medium.com/@viratmalviya.ai23/deconstructing-70-years-of-climate-data-time-series-decomposition-and-machine-learning-on-219015d59b8b?source=rss------data_science-5)
-- [Membandingkan ARIMA, RNN, LSTM, dan GRU dalam Prediksi Harga Saham BBCA dan Apple](https://medium.com/@ellanhani/membandingkan-arima-rnn-lstm-dan-gru-dalam-prediksi-harga-saham-bbca-dan-apple-e8945da1a865?source=rss------data_science-5)
-- [Mengapa Pelanggan Setia Tiba-Tiba “Kabur”? Cerita Dibalik Data Telco Churn](https://medium.com/@nadia.tridianti.putri/mengapa-pelanggan-setia-tiba-tiba-kabur-cerita-dibalik-data-telco-churn-1f902db5bc97?source=rss------data_science-5)
-- [Handwritten work is the future of human-AI interaction](https://medium.com/@maalimken2/handwritten-work-is-the-future-of-human-ai-interaction-890a398c16d1?source=rss------data_science-5)
-- [The AI Was Confident. That’s What Scared Me.](https://medium.com/@pottelisowmyasree/the-ai-was-confident-thats-what-scared-me-281e5fcba1da?source=rss------data_science-5)
-- [Membandingkan ARIMA, RNN, LSTM, dan GRU dalam Meramal Harga Saham BBCA dan Microsoft](https://medium.com/@jevonmaufin1/membandingkan-arima-rnn-lstm-dan-gru-dalam-meramal-harga-saham-bbca-dan-microsoft-c09bcbfcf769?source=rss------data_science-5)
-- [99.83% Accurate. Zero Fraud Caught. Here’s the Catch.](https://medium.com/@ayobamiawogboro123/99-83-accurate-zero-fraud-caught-heres-the-catch-4723a7b49b1c?source=rss------data_science-5)
-- [Python print vs return, shout it, or hand it back?&quot;, with a megaphone and a gift.](https://medium.com/@codingmadeeasy92/python-print-vs-return-shout-it-or-hand-it-back-with-a-megaphone-and-a-gift-ea60f94438eb?source=rss------data_science-5)
+- [Dari Angka Menjadi Makna: Mengapa Data yang Benar Belum Tentu Menjadi Informasi?](https://medium.com/@feztival3510/dari-angka-menjadi-makna-mengapa-data-yang-benar-belum-tentu-menjadi-informasi-74fe03cbc536?source=rss------data_science-5)
+- [Three numbers about AI coding you should stop quoting, and what to measure instead](https://medium.com/@circuitbay/three-numbers-about-ai-coding-you-should-stop-quoting-and-what-to-measure-instead-228b503a1ae3?source=rss------data_science-5)
+- [Ukraine’s Southern Front Is the War Nobody Covers — And Why It Matters More Than the Headlines.](https://medium.com/@pukhtoonvlogs971/ukraines-southern-front-is-the-war-nobody-covers-and-why-it-matters-more-than-the-headlines-850b18c870d5?source=rss------data_science-5)
+- [The Strait That Holds Europe Hostage: Why Kaliningrad Is NATO’s Nightmare](https://medium.com/@The_Geopolitical_Brief/the-strait-that-holds-europe-hostage-why-kaliningrad-is-natos-nightmare-a7fe4e4b95f0?source=rss------data_science-5)
+- [The Geometric Trap: Why One Small Strip of Land Could End NATO.](https://medium.com/@The_Geopolitical_Brief/the-geometric-trap-why-one-small-strip-of-land-could-end-nato-37618778c680?source=rss------data_science-5)
+- [Beyond Sanctions: Putin’s New Weapon Isn’t Oil — It’s Geography.](https://medium.com/@The_Geopolitical_Brief/beyond-sanctions-putins-new-weapon-isn-t-oil-it-s-geography-88486482cdaa?source=rss------data_science-5)
+- [The S-400 Was Russia’s Flagship Export. Ukraine Is Killing Its Brand.](https://medium.com/@pukhtoonvlogs971/the-s-400-was-russias-flagship-export-ukraine-is-killing-its-brand-ffa3cb6968f3?source=rss------data_science-5)
+- [The AI Boom’s Real Test Isn’t the Size of the Commitment. It’s the Cash Flow.](https://medium.com/@lumerastyle06/the-ai-booms-real-test-isn-t-the-size-of-the-commitment-it-s-the-cash-flow-ebe8865ba030?source=rss------data_science-5)
+- [Russia Sold the World an Invincible Shield. Ukraine Is Killing It.](https://medium.com/@pukhtoonvlogs971/russia-sold-the-world-an-invincible-shield-ukraine-is-killing-it-4be306f3ae8a?source=rss------data_science-5)
+- [14 Python Libraries That Handle Messy Dates, Names and Text](https://python.plainenglish.io/14-python-libraries-that-handle-messy-dates-names-and-text-507c76ea2695?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
