@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Dari Angka Menjadi Makna: Mengapa Data yang Benar Belum Tentu Menjadi Informasi?](https://medium.com/@feztival3510/dari-angka-menjadi-makna-mengapa-data-yang-benar-belum-tentu-menjadi-informasi-74fe03cbc536?source=rss------data_science-5)
-- [Three numbers about AI coding you should stop quoting, and what to measure instead](https://medium.com/@circuitbay/three-numbers-about-ai-coding-you-should-stop-quoting-and-what-to-measure-instead-228b503a1ae3?source=rss------data_science-5)
-- [Ukraine’s Southern Front Is the War Nobody Covers — And Why It Matters More Than the Headlines.](https://medium.com/@pukhtoonvlogs971/ukraines-southern-front-is-the-war-nobody-covers-and-why-it-matters-more-than-the-headlines-850b18c870d5?source=rss------data_science-5)
-- [The Strait That Holds Europe Hostage: Why Kaliningrad Is NATO’s Nightmare](https://medium.com/@The_Geopolitical_Brief/the-strait-that-holds-europe-hostage-why-kaliningrad-is-natos-nightmare-a7fe4e4b95f0?source=rss------data_science-5)
-- [The Geometric Trap: Why One Small Strip of Land Could End NATO.](https://medium.com/@The_Geopolitical_Brief/the-geometric-trap-why-one-small-strip-of-land-could-end-nato-37618778c680?source=rss------data_science-5)
-- [Beyond Sanctions: Putin’s New Weapon Isn’t Oil — It’s Geography.](https://medium.com/@The_Geopolitical_Brief/beyond-sanctions-putins-new-weapon-isn-t-oil-it-s-geography-88486482cdaa?source=rss------data_science-5)
-- [The S-400 Was Russia’s Flagship Export. Ukraine Is Killing Its Brand.](https://medium.com/@pukhtoonvlogs971/the-s-400-was-russias-flagship-export-ukraine-is-killing-its-brand-ffa3cb6968f3?source=rss------data_science-5)
-- [The AI Boom’s Real Test Isn’t the Size of the Commitment. It’s the Cash Flow.](https://medium.com/@lumerastyle06/the-ai-booms-real-test-isn-t-the-size-of-the-commitment-it-s-the-cash-flow-ebe8865ba030?source=rss------data_science-5)
-- [Russia Sold the World an Invincible Shield. Ukraine Is Killing It.](https://medium.com/@pukhtoonvlogs971/russia-sold-the-world-an-invincible-shield-ukraine-is-killing-it-4be306f3ae8a?source=rss------data_science-5)
-- [14 Python Libraries That Handle Messy Dates, Names and Text](https://python.plainenglish.io/14-python-libraries-that-handle-messy-dates-names-and-text-507c76ea2695?source=rss------data_science-5)
+- [How AI Agents took the art from Mathematics and forced it to become a science of judgement](https://medium.com/@Mundane_Moment/how-ai-agents-took-the-art-from-mathematics-and-forced-it-to-become-a-science-of-judgement-8a32c129086b?source=rss------data_science-5)
+- [Sub Sea Baby: How Ukraine Sank a Kilo, Crippled Two Kalibr Frigates, and Closed the Black Sea…](https://medium.com/@TheGeopoliticalWorldview/sub-sea-baby-how-ukraine-sank-a-kilo-crippled-two-kalibr-frigates-and-closed-the-black-sea-de5f389c2199?source=rss------data_science-5)
+- [Not the Radar, the Round: How a Missing S-300 Interceptor Punctured the S-400’s $9B ‘Triumf’ Myth](https://medium.com/@TheGeopoliticalWorldview/not-the-radar-the-round-how-a-missing-s-300-interceptor-punctured-the-s-400s-9b-triumf-myth-be6f410216b9?source=rss------data_science-5)
+- [13 Python Libraries That Shrink, Clean and Check Your Data](https://python.plainenglish.io/13-python-libraries-that-shrink-clean-and-check-your-data-2c70db45e95e?source=rss------data_science-5)
+- [10 Python Libraries You Missed That Remove Hours of Boring Code](https://python.plainenglish.io/10-python-libraries-you-missed-that-remove-hours-of-boring-code-e94968560795?source=rss------data_science-5)
+- [My Multi-Agentic framework scored 100% on Accuracy Task Completion — It Was Not the Most Important…](https://medium.com/data-science-collective/my-multi-agentic-framework-scored-100-on-accuracy-task-completion-it-was-not-the-most-important-c67214f9310b?source=rss------data_science-5)
+- [How to Configure Laya for Advanced Quantitative Trading: Part 2 &lpar;Adding Bollinger Bands…](https://medium.com/@wl8380/how-to-configure-laya-for-advanced-quantitative-trading-part-2-adding-bollinger-bands-48ec9e88c9b4?source=rss------data_science-5)
+- [How Do Growers Decide When to Water?](https://medium.com/@pds_grows/how-do-growers-decide-when-to-water-7ddcc9642c47?source=rss------data_science-5)
+- [How to Update a Causal Analysis Without Redefining the Study](https://medium.com/@charles.hinshaw/how-to-update-a-causal-analysis-without-redefining-the-study-503b532665b5?source=rss------data_science-5)
+- [The Graceful Degradation Stack](https://medium.com/@savantframeworkadmin/the-graceful-degradation-stack-642172dc7383?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
