@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How AI Agents took the art from Mathematics and forced it to become a science of judgement](https://medium.com/@Mundane_Moment/how-ai-agents-took-the-art-from-mathematics-and-forced-it-to-become-a-science-of-judgement-8a32c129086b?source=rss------data_science-5)
-- [Sub Sea Baby: How Ukraine Sank a Kilo, Crippled Two Kalibr Frigates, and Closed the Black Sea…](https://medium.com/@TheGeopoliticalWorldview/sub-sea-baby-how-ukraine-sank-a-kilo-crippled-two-kalibr-frigates-and-closed-the-black-sea-de5f389c2199?source=rss------data_science-5)
-- [Not the Radar, the Round: How a Missing S-300 Interceptor Punctured the S-400’s $9B ‘Triumf’ Myth](https://medium.com/@TheGeopoliticalWorldview/not-the-radar-the-round-how-a-missing-s-300-interceptor-punctured-the-s-400s-9b-triumf-myth-be6f410216b9?source=rss------data_science-5)
-- [13 Python Libraries That Shrink, Clean and Check Your Data](https://python.plainenglish.io/13-python-libraries-that-shrink-clean-and-check-your-data-2c70db45e95e?source=rss------data_science-5)
-- [10 Python Libraries You Missed That Remove Hours of Boring Code](https://python.plainenglish.io/10-python-libraries-you-missed-that-remove-hours-of-boring-code-e94968560795?source=rss------data_science-5)
-- [My Multi-Agentic framework scored 100% on Accuracy Task Completion — It Was Not the Most Important…](https://medium.com/data-science-collective/my-multi-agentic-framework-scored-100-on-accuracy-task-completion-it-was-not-the-most-important-c67214f9310b?source=rss------data_science-5)
-- [How to Configure Laya for Advanced Quantitative Trading: Part 2 &lpar;Adding Bollinger Bands…](https://medium.com/@wl8380/how-to-configure-laya-for-advanced-quantitative-trading-part-2-adding-bollinger-bands-48ec9e88c9b4?source=rss------data_science-5)
-- [How Do Growers Decide When to Water?](https://medium.com/@pds_grows/how-do-growers-decide-when-to-water-7ddcc9642c47?source=rss------data_science-5)
-- [How to Update a Causal Analysis Without Redefining the Study](https://medium.com/@charles.hinshaw/how-to-update-a-causal-analysis-without-redefining-the-study-503b532665b5?source=rss------data_science-5)
-- [The Graceful Degradation Stack](https://medium.com/@savantframeworkadmin/the-graceful-degradation-stack-642172dc7383?source=rss------data_science-5)
+- [Local LLM vs Cloud AI: I Calculated the Break-Even Point for Mac Users](https://medium.com/@rothyyorn999/local-llm-vs-cloud-ai-i-calculated-the-break-even-point-for-mac-users-3c2a2b5852cc?source=rss------data_science-5)
+- [The Physics of a Fairy Tale Heart](https://medium.com/@mohammadalamolhoda1388/the-physics-of-a-fairy-tale-heart-368739a368d6?source=rss------data_science-5)
+- [The Drone Russia Can’t Jam: How Fiber-Optic Technology Is Changing Ukraine’s War.](https://medium.com/@pukhtoonvlogs971/the-drone-russia-cant-jam-how-fiber-optic-technology-is-changing-ukraine-s-war-7872f58d0c9d?source=rss------data_science-5)
+- [One Company Is Reshaping Ukraine’s Drone War. The World Should Pay Attention.](https://medium.com/@pukhtoonvlogs971/one-company-is-reshaping-ukraines-drone-war-the-world-should-pay-attention-23b9fda4599a?source=rss------data_science-5)
+- [How SEALs Took Bella-1, a Drone Took the S-500’s Radar, and the Russian Escort Ran for Open Water](https://medium.com/@TheGeopoliticalWorldview/how-seals-took-bella-1-a-drone-took-the-s-500s-radar-and-the-russian-escort-ran-for-open-water-c2ea721df331?source=rss------data_science-5)
+- [Week 8 at DataraFlow: Trade Data Aggregation, SQL, and Module Imports](https://medium.com/@damilolaadeyanju89/week-8-at-dataraflow-trade-data-aggregation-sql-and-module-imports-5066b2730f68?source=rss------data_science-5)
+- [Russia Lost Starlink. So It Built a Flying Internet Out of Drones — The Mesh Now Reaches 175 km.](https://medium.com/@khansufyan112233344/russia-lost-starlink-so-it-built-a-flying-internet-out-of-drones-the-mesh-now-reaches-175-km-066fe367f1b1?source=rss------data_science-5)
+- [12 Python Tricks You Will Use Every Week Once You Know Them](https://python.plainenglish.io/12-python-tricks-you-will-use-every-week-once-you-know-them-481a7e761f09?source=rss------data_science-5)
+- [Ukraine’s Drones Hit an Invisible Wall at 160 km/h — Ten Days Later Starshield Was Working Above…](https://medium.com/@khansufyan112233344/ukraines-drones-hit-an-invisible-wall-at-160-km-h-ten-days-later-starshield-was-working-above-e14eff9929ee?source=rss------data_science-5)
+- [Britain and Ukraine Are Turning Fiber-Optic Cables Into AI Sensors — The Cable Itself Is Becoming…](https://medium.com/@khansufyan112233344/britain-and-ukraine-are-turning-fiber-optic-cables-into-ai-sensors-the-cable-itself-is-becoming-9484a99d1546?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
