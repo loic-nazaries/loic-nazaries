@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Local LLM vs Cloud AI: I Calculated the Break-Even Point for Mac Users](https://medium.com/@rothyyorn999/local-llm-vs-cloud-ai-i-calculated-the-break-even-point-for-mac-users-3c2a2b5852cc?source=rss------data_science-5)
-- [The Physics of a Fairy Tale Heart](https://medium.com/@mohammadalamolhoda1388/the-physics-of-a-fairy-tale-heart-368739a368d6?source=rss------data_science-5)
-- [The Drone Russia Can’t Jam: How Fiber-Optic Technology Is Changing Ukraine’s War.](https://medium.com/@pukhtoonvlogs971/the-drone-russia-cant-jam-how-fiber-optic-technology-is-changing-ukraine-s-war-7872f58d0c9d?source=rss------data_science-5)
-- [One Company Is Reshaping Ukraine’s Drone War. The World Should Pay Attention.](https://medium.com/@pukhtoonvlogs971/one-company-is-reshaping-ukraines-drone-war-the-world-should-pay-attention-23b9fda4599a?source=rss------data_science-5)
-- [How SEALs Took Bella-1, a Drone Took the S-500’s Radar, and the Russian Escort Ran for Open Water](https://medium.com/@TheGeopoliticalWorldview/how-seals-took-bella-1-a-drone-took-the-s-500s-radar-and-the-russian-escort-ran-for-open-water-c2ea721df331?source=rss------data_science-5)
-- [Week 8 at DataraFlow: Trade Data Aggregation, SQL, and Module Imports](https://medium.com/@damilolaadeyanju89/week-8-at-dataraflow-trade-data-aggregation-sql-and-module-imports-5066b2730f68?source=rss------data_science-5)
-- [Russia Lost Starlink. So It Built a Flying Internet Out of Drones — The Mesh Now Reaches 175 km.](https://medium.com/@khansufyan112233344/russia-lost-starlink-so-it-built-a-flying-internet-out-of-drones-the-mesh-now-reaches-175-km-066fe367f1b1?source=rss------data_science-5)
-- [12 Python Tricks You Will Use Every Week Once You Know Them](https://python.plainenglish.io/12-python-tricks-you-will-use-every-week-once-you-know-them-481a7e761f09?source=rss------data_science-5)
-- [Ukraine’s Drones Hit an Invisible Wall at 160 km/h — Ten Days Later Starshield Was Working Above…](https://medium.com/@khansufyan112233344/ukraines-drones-hit-an-invisible-wall-at-160-km-h-ten-days-later-starshield-was-working-above-e14eff9929ee?source=rss------data_science-5)
-- [Britain and Ukraine Are Turning Fiber-Optic Cables Into AI Sensors — The Cable Itself Is Becoming…](https://medium.com/@khansufyan112233344/britain-and-ukraine-are-turning-fiber-optic-cables-into-ai-sensors-the-cable-itself-is-becoming-9484a99d1546?source=rss------data_science-5)
+- [Why Does Linear Regression Square Its Mistakes?](https://medium.com/@its.shoryabisht/why-does-linear-regression-square-its-mistakes-34ae05271d5a?source=rss------data_science-5)
+- [Graph RAG Series:15/15 [Advanced Approaches and Open Research Challenges]](https://medium.com/models-to-systems/graph-rag-series-15-15-advanced-approaches-and-open-research-challenges-b03223971f0b?source=rss------data_science-5)
+- [Graph RAG Series:14/15 [Production Architecture, Deployment and Real-World Use Cases]](https://medium.com/models-to-systems/graph-rag-series-14-15-production-architecture-deployment-and-real-world-use-cases-b9744e6a454f?source=rss------data_science-5)
+- [Intelligent Data Systems: Designing A European Footballer Archetype Engine](https://medium.com/@alijrizvi/intelligent-data-systems-designing-a-european-footballer-archetype-engine-cf776711b1d8?source=rss------data_science-5)
+- [Your AI Is Only as Good as Its Data. Is Yours Up to Date?](https://medium.com/@Segmetriqanalytics/your-ai-is-only-as-good-as-its-data-is-yours-up-to-date-bf4f449b2763?source=rss------data_science-5)
+- [Interactive Data Visualizations: How to Stop Paying the Developer Tax](https://medium.com/ai-simplified-in-plain-english/interactive-data-visualizations-how-to-stop-paying-the-developer-tax-9d047124774b?source=rss------data_science-5)
+- [-](https://medium.com/@trackpi/-3f9d5ccc45ac?source=rss------data_science-5)
+- [10 MCP Servers You Probably Didn’t Know Existed](https://python.plainenglish.io/10-mcp-servers-you-probably-didnt-know-existed-26ba60a597af?source=rss------data_science-5)
+- [Linear Regression: Understanding Relationships and Making Predictions](https://medium.com/@skalthaf505/linear-regression-understanding-relationships-and-making-predictions-b116c0f61f79?source=rss------data_science-5)
+- [Retinal Image Quality Assessment: What Happens When AI Can’t See Clearly?](https://medium.com/@ebong2604/retinal-image-quality-assessment-what-happens-when-ai-cant-see-clearly-64727e5636d4?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
