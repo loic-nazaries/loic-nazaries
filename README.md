@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Why Does Linear Regression Square Its Mistakes?](https://medium.com/@its.shoryabisht/why-does-linear-regression-square-its-mistakes-34ae05271d5a?source=rss------data_science-5)
-- [Graph RAG Series:15/15 [Advanced Approaches and Open Research Challenges]](https://medium.com/models-to-systems/graph-rag-series-15-15-advanced-approaches-and-open-research-challenges-b03223971f0b?source=rss------data_science-5)
-- [Graph RAG Series:14/15 [Production Architecture, Deployment and Real-World Use Cases]](https://medium.com/models-to-systems/graph-rag-series-14-15-production-architecture-deployment-and-real-world-use-cases-b9744e6a454f?source=rss------data_science-5)
-- [Intelligent Data Systems: Designing A European Footballer Archetype Engine](https://medium.com/@alijrizvi/intelligent-data-systems-designing-a-european-footballer-archetype-engine-cf776711b1d8?source=rss------data_science-5)
-- [Your AI Is Only as Good as Its Data. Is Yours Up to Date?](https://medium.com/@Segmetriqanalytics/your-ai-is-only-as-good-as-its-data-is-yours-up-to-date-bf4f449b2763?source=rss------data_science-5)
-- [Interactive Data Visualizations: How to Stop Paying the Developer Tax](https://medium.com/ai-simplified-in-plain-english/interactive-data-visualizations-how-to-stop-paying-the-developer-tax-9d047124774b?source=rss------data_science-5)
-- [-](https://medium.com/@trackpi/-3f9d5ccc45ac?source=rss------data_science-5)
-- [10 MCP Servers You Probably Didn’t Know Existed](https://python.plainenglish.io/10-mcp-servers-you-probably-didnt-know-existed-26ba60a597af?source=rss------data_science-5)
-- [Linear Regression: Understanding Relationships and Making Predictions](https://medium.com/@skalthaf505/linear-regression-understanding-relationships-and-making-predictions-b116c0f61f79?source=rss------data_science-5)
-- [Retinal Image Quality Assessment: What Happens When AI Can’t See Clearly?](https://medium.com/@ebong2604/retinal-image-quality-assessment-what-happens-when-ai-cant-see-clearly-64727e5636d4?source=rss------data_science-5)
+- [How to Split the Work With AI When Writing a Journal Paper](https://medium.com/@mhdsaki/how-to-split-the-work-with-ai-when-writing-a-journal-paper-3ee3e92b0ea4?source=rss------data_science-5)
+- [I Thought I Understood AI Until I Started Building With It](https://medium.com/codetodeploy/i-thought-i-understood-ai-until-i-started-building-with-it-8cfacf62d028?source=rss------data_science-5)
+- [LEVEL ++ | Best of mrcaption49](https://medium.com/@pranavsb699/level-best-of-mrcaption49-b035ff260281?source=rss------data_science-5)
+- [If I Had to Prove My Python Skills in 2027, I’d Build These 7 Projects](https://medium.com/codetodeploy/if-i-had-to-prove-my-python-skills-in-2027-id-build-these-7-projects-eecbcfbba4ec?source=rss------data_science-5)
+- [One AI Rewired Another AI’s Brain for a 6x Math Boost. Here’s the Catch](https://medium.com/@lvntblsn/one-ai-rewired-another-ais-brain-for-a-6x-math-boost-here-s-the-catch-8e64d53d9a39?source=rss------data_science-5)
+- [Is HTML the New Markdown?](https://medium.com/@aayushisolanki99/is-html-the-new-markdown-b03e18fcaec7?source=rss------data_science-5)
+- [From Steam to Electric: How the Automobile Changed the World in 250 Years](https://medium.com/@majesticline.egypt/from-steam-to-electric-how-the-automobile-changed-the-world-in-250-years-ef632e85fc47?source=rss------data_science-5)
+- [I Thought I Knew Python Until I Tried Building These 7 Projects](https://medium.com/codetodeploy/i-thought-i-knew-python-until-i-tried-building-these-7-projects-ae1951062658?source=rss------data_science-5)
+- [How AI Learned to Fold Proteins](https://aiadvances.org/how-ai-learned-to-fold-proteins-4e1c234e1c07?source=rss------data_science-5)
+- [7 Python Projects That Taught Me More Than Any Online Course](https://medium.com/codetodeploy/7-python-projects-that-taught-me-more-than-any-online-course-4986cfb6909b?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
