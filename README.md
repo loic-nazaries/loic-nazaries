@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [How to Split the Work With AI When Writing a Journal Paper](https://medium.com/@mhdsaki/how-to-split-the-work-with-ai-when-writing-a-journal-paper-3ee3e92b0ea4?source=rss------data_science-5)
-- [I Thought I Understood AI Until I Started Building With It](https://medium.com/codetodeploy/i-thought-i-understood-ai-until-i-started-building-with-it-8cfacf62d028?source=rss------data_science-5)
-- [LEVEL ++ | Best of mrcaption49](https://medium.com/@pranavsb699/level-best-of-mrcaption49-b035ff260281?source=rss------data_science-5)
-- [If I Had to Prove My Python Skills in 2027, I’d Build These 7 Projects](https://medium.com/codetodeploy/if-i-had-to-prove-my-python-skills-in-2027-id-build-these-7-projects-eecbcfbba4ec?source=rss------data_science-5)
-- [One AI Rewired Another AI’s Brain for a 6x Math Boost. Here’s the Catch](https://medium.com/@lvntblsn/one-ai-rewired-another-ais-brain-for-a-6x-math-boost-here-s-the-catch-8e64d53d9a39?source=rss------data_science-5)
-- [Is HTML the New Markdown?](https://medium.com/@aayushisolanki99/is-html-the-new-markdown-b03e18fcaec7?source=rss------data_science-5)
-- [From Steam to Electric: How the Automobile Changed the World in 250 Years](https://medium.com/@majesticline.egypt/from-steam-to-electric-how-the-automobile-changed-the-world-in-250-years-ef632e85fc47?source=rss------data_science-5)
-- [I Thought I Knew Python Until I Tried Building These 7 Projects](https://medium.com/codetodeploy/i-thought-i-knew-python-until-i-tried-building-these-7-projects-ae1951062658?source=rss------data_science-5)
-- [How AI Learned to Fold Proteins](https://aiadvances.org/how-ai-learned-to-fold-proteins-4e1c234e1c07?source=rss------data_science-5)
-- [7 Python Projects That Taught Me More Than Any Online Course](https://medium.com/codetodeploy/7-python-projects-that-taught-me-more-than-any-online-course-4986cfb6909b?source=rss------data_science-5)
+- [I Stopped Building Basic Python Projects. These 7 Are Worth Your Time](https://medium.com/codetodeploy/i-stopped-building-basic-python-projects-these-7-are-worth-your-time-4e593f66419a?source=rss------data_science-5)
+- [Trees in Graph Theory: Types, Metric Dimension, and Why Machine Learning Runs on Them](https://medium.com/@shamsulhaq255/trees-in-graph-theory-types-metric-dimension-and-why-machine-learning-runs-on-them-c92f51d15e31?source=rss------data_science-5)
+- [Your Data Is Moving Faster. But Is It Ready for AI?](https://medium.com/@Segmetriqanalytics/your-data-is-moving-faster-but-is-it-ready-for-ai-9989fc4a3746?source=rss------data_science-5)
+- [-](https://medium.com/@trackpi/-eb09f9cc79ad?source=rss------data_science-5)
+- [Claude Duet](https://medium.com/@krthiak/claude-duet-b65087b1ceb3?source=rss------data_science-5)
+- [Naive Bayes Algorithm: A Beginner-Friendly Guide to Probabilistic Machine Learning](https://medium.com/@brahmaiahv2411/naive-bayes-algorithm-a-beginner-friendly-guide-to-probabilistic-machine-learning-36c6b906901a?source=rss------data_science-5)
+- [Discovering Customer Segments with KDD](https://medium.com/@praneeth.kalangi/discovering-customer-segments-with-kdd-df85bd3f5a1f?source=rss------data_science-5)
+- [Predicting Wine Quality with SEMMA](https://medium.com/@praneeth.kalangi/predicting-wine-quality-with-semma-ce90d3ed4dfc?source=rss------data_science-5)
+- [Customer Churn Analysis with CRISP-DM](https://medium.com/@praneeth.kalangi/customer-churn-analysis-with-crisp-dm-ebdc7000dce9?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
