@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I Stopped Building Basic Python Projects. These 7 Are Worth Your Time](https://medium.com/codetodeploy/i-stopped-building-basic-python-projects-these-7-are-worth-your-time-4e593f66419a?source=rss------data_science-5)
-- [Trees in Graph Theory: Types, Metric Dimension, and Why Machine Learning Runs on Them](https://medium.com/@shamsulhaq255/trees-in-graph-theory-types-metric-dimension-and-why-machine-learning-runs-on-them-c92f51d15e31?source=rss------data_science-5)
-- [Your Data Is Moving Faster. But Is It Ready for AI?](https://medium.com/@Segmetriqanalytics/your-data-is-moving-faster-but-is-it-ready-for-ai-9989fc4a3746?source=rss------data_science-5)
-- [-](https://medium.com/@trackpi/-eb09f9cc79ad?source=rss------data_science-5)
-- [Claude Duet](https://medium.com/@krthiak/claude-duet-b65087b1ceb3?source=rss------data_science-5)
-- [Naive Bayes Algorithm: A Beginner-Friendly Guide to Probabilistic Machine Learning](https://medium.com/@brahmaiahv2411/naive-bayes-algorithm-a-beginner-friendly-guide-to-probabilistic-machine-learning-36c6b906901a?source=rss------data_science-5)
-- [Discovering Customer Segments with KDD](https://medium.com/@praneeth.kalangi/discovering-customer-segments-with-kdd-df85bd3f5a1f?source=rss------data_science-5)
-- [Predicting Wine Quality with SEMMA](https://medium.com/@praneeth.kalangi/predicting-wine-quality-with-semma-ce90d3ed4dfc?source=rss------data_science-5)
-- [Customer Churn Analysis with CRISP-DM](https://medium.com/@praneeth.kalangi/customer-churn-analysis-with-crisp-dm-ebdc7000dce9?source=rss------data_science-5)
+- [Loser’s Queue Isn’t Real. I Checked 5.6 Million Ranked Games.](https://medium.com/@j332v755/losers-queue-isn-t-real-i-checked-5-6-million-ranked-games-1cffccaa91dd?source=rss------data_science-5)
+- [Crypto Was Rising. Our Backtest Account Fell From $2,500 to $843](https://medium.com/@seenet29/crypto-was-rising-our-backtest-account-fell-from-2-500-to-843-500858764443?source=rss------data_science-5)
+- [I Built a Train App for India’s Hometowns. The Hard Part Was Deciding What to Leave Out.](https://medium.com/@aftab001x/i-built-a-train-app-for-indias-hometowns-the-hard-part-was-deciding-what-to-leave-out-a8b277e53a9e?source=rss------data_science-5)
+- [The Model Is Not the Skill: Making AI-Assisted Research Reusable](https://jacky-jiang.medium.com/the-model-is-not-the-skill-making-ai-assisted-research-reusable-c398cc2c4b20?source=rss------data_science-5)
+- [Cracking MONALEESA-2: A Beginner’s Guide to Reading Cancer Trial Data](https://medium.com/data-science-collective/cracking-monaleesa-2-a-beginners-guide-to-reading-cancer-trial-data-0199e9f6ebf3?source=rss------data_science-5)
+- [Data Science Training in Hyderabad with Placement for Freshers — Join VCube Software Solutions](https://medium.com/@karunavcube/data-science-training-in-hyderabad-with-placement-for-freshers-join-vcube-software-solutions-3d802dd484ca?source=rss------data_science-5)
+- [OneLake Explained: Microsoft Fabric’s Unified Data Lake](https://medium.com/@prateek.prakash_80095/onelake-explained-microsoft-fabrics-unified-data-lake-5322ee14c0e4?source=rss------data_science-5)
+- [From Raw Data to Business Insights: Building a Sales Analytics Pipeline with Python](https://medium.com/@hylmikhalil/from-raw-data-to-business-insights-building-a-sales-analytics-pipeline-with-python-f69a555f2742?source=rss------data_science-5)
+- [Python Program to Print the First 10 Multiples of a Number](https://python.plainenglish.io/python-program-to-print-the-first-10-multiples-of-a-number-959ce7d26ffe?source=rss------data_science-5)
+- [Python Program to Print Even Numbers from 1 to 100](https://python.plainenglish.io/python-program-to-print-even-numbers-from-1-to-100-66b9d615ff22?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
