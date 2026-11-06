@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Loser’s Queue Isn’t Real. I Checked 5.6 Million Ranked Games.](https://medium.com/@j332v755/losers-queue-isn-t-real-i-checked-5-6-million-ranked-games-1cffccaa91dd?source=rss------data_science-5)
-- [Crypto Was Rising. Our Backtest Account Fell From $2,500 to $843](https://medium.com/@seenet29/crypto-was-rising-our-backtest-account-fell-from-2-500-to-843-500858764443?source=rss------data_science-5)
-- [I Built a Train App for India’s Hometowns. The Hard Part Was Deciding What to Leave Out.](https://medium.com/@aftab001x/i-built-a-train-app-for-indias-hometowns-the-hard-part-was-deciding-what-to-leave-out-a8b277e53a9e?source=rss------data_science-5)
-- [The Model Is Not the Skill: Making AI-Assisted Research Reusable](https://jacky-jiang.medium.com/the-model-is-not-the-skill-making-ai-assisted-research-reusable-c398cc2c4b20?source=rss------data_science-5)
-- [Cracking MONALEESA-2: A Beginner’s Guide to Reading Cancer Trial Data](https://medium.com/data-science-collective/cracking-monaleesa-2-a-beginners-guide-to-reading-cancer-trial-data-0199e9f6ebf3?source=rss------data_science-5)
-- [Data Science Training in Hyderabad with Placement for Freshers — Join VCube Software Solutions](https://medium.com/@karunavcube/data-science-training-in-hyderabad-with-placement-for-freshers-join-vcube-software-solutions-3d802dd484ca?source=rss------data_science-5)
-- [OneLake Explained: Microsoft Fabric’s Unified Data Lake](https://medium.com/@prateek.prakash_80095/onelake-explained-microsoft-fabrics-unified-data-lake-5322ee14c0e4?source=rss------data_science-5)
-- [From Raw Data to Business Insights: Building a Sales Analytics Pipeline with Python](https://medium.com/@hylmikhalil/from-raw-data-to-business-insights-building-a-sales-analytics-pipeline-with-python-f69a555f2742?source=rss------data_science-5)
-- [Python Program to Print the First 10 Multiples of a Number](https://python.plainenglish.io/python-program-to-print-the-first-10-multiples-of-a-number-959ce7d26ffe?source=rss------data_science-5)
-- [Python Program to Print Even Numbers from 1 to 100](https://python.plainenglish.io/python-program-to-print-even-numbers-from-1-to-100-66b9d615ff22?source=rss------data_science-5)
+- [The Blindfolded Hike That Explains How Machines Learn](https://medium.com/@Sohaib_4314/the-blindfolded-hike-that-explains-how-machines-learn-bda579354811?source=rss------data_science-5)
+- [Data Scientist Course in Hyderabad | Get Job Ready Fast with AchieversIT](https://medium.com/@achieversait/data-scientist-course-in-hyderabad-get-job-ready-fast-with-achieversit-d5e0049b1c0a?source=rss------data_science-5)
+- [Survival Analysis in Python: What Your Churn Model Isn&#39;t Telling You](https://medium.com/@ananya19/survival-analysis-in-python-what-your-churn-model-isnt-telling-you-2d920fa0bf1a?source=rss------data_science-5)
+- [ChatGPT searches in English even when you ask in French: what 17,439 AI searches show](https://medium.com/@raphael_23658/chatgpt-searches-in-english-even-when-you-ask-in-french-what-17-439-ai-searches-show-14cc6a452eb1?source=rss------data_science-5)
+- [Data Science Course Duration: Why the Weeks Between Lessons Matter](https://angela-krist22.medium.com/data-science-course-duration-why-the-weeks-between-lessons-matter-e89b2f0c9fcd?source=rss------data_science-5)
+- [Review: Etekcity Smart Scale vs RENPHO MorphoScan Base — Which One Is Worth Your Money in 2026?](https://medium.com/@econex23/review-etekcity-smart-scale-vs-renpho-morphoscan-base-which-one-is-worth-your-money-in-2026-be7b039ce141?source=rss------data_science-5)
+- [-](https://medium.com/@trackpi/-cf512ae2bdb5?source=rss------data_science-5)
+- [Your AKS Cluster Is Leaking Money and Nobody Gets an Alert](https://medium.com/@harshpardhi477/your-aks-cluster-is-leaking-money-and-nobody-gets-an-alert-cb6758a37c9e?source=rss------data_science-5)
+- [Is Polars 2.0 Actually Faster Than 1.x? What the Benchmarks Show, and How to Test Your Own Workload](https://medium.com/@ascendrixtech/is-polars-2-0-actually-faster-than-1-x-what-the-benchmarks-show-and-how-to-test-your-own-workload-d3f4c21fd737?source=rss------data_science-5)
+- [Top 30 Ontology Engineering for Enterprise AI Interview Questions and Answers for 2027](https://skphd.medium.com/top-30-ontology-engineering-for-enterprise-ai-interview-questions-and-answers-for-2027-7254ffb9d547?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
