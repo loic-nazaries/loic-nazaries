@@ -105,16 +105,17 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Blindfolded Hike That Explains How Machines Learn](https://medium.com/@Sohaib_4314/the-blindfolded-hike-that-explains-how-machines-learn-bda579354811?source=rss------data_science-5)
-- [Data Scientist Course in Hyderabad | Get Job Ready Fast with AchieversIT](https://medium.com/@achieversait/data-scientist-course-in-hyderabad-get-job-ready-fast-with-achieversit-d5e0049b1c0a?source=rss------data_science-5)
-- [Survival Analysis in Python: What Your Churn Model Isn&#39;t Telling You](https://medium.com/@ananya19/survival-analysis-in-python-what-your-churn-model-isnt-telling-you-2d920fa0bf1a?source=rss------data_science-5)
-- [ChatGPT searches in English even when you ask in French: what 17,439 AI searches show](https://medium.com/@raphael_23658/chatgpt-searches-in-english-even-when-you-ask-in-french-what-17-439-ai-searches-show-14cc6a452eb1?source=rss------data_science-5)
-- [Data Science Course Duration: Why the Weeks Between Lessons Matter](https://angela-krist22.medium.com/data-science-course-duration-why-the-weeks-between-lessons-matter-e89b2f0c9fcd?source=rss------data_science-5)
-- [Review: Etekcity Smart Scale vs RENPHO MorphoScan Base — Which One Is Worth Your Money in 2026?](https://medium.com/@econex23/review-etekcity-smart-scale-vs-renpho-morphoscan-base-which-one-is-worth-your-money-in-2026-be7b039ce141?source=rss------data_science-5)
-- [-](https://medium.com/@trackpi/-cf512ae2bdb5?source=rss------data_science-5)
-- [Your AKS Cluster Is Leaking Money and Nobody Gets an Alert](https://medium.com/@harshpardhi477/your-aks-cluster-is-leaking-money-and-nobody-gets-an-alert-cb6758a37c9e?source=rss------data_science-5)
-- [Is Polars 2.0 Actually Faster Than 1.x? What the Benchmarks Show, and How to Test Your Own Workload](https://medium.com/@ascendrixtech/is-polars-2-0-actually-faster-than-1-x-what-the-benchmarks-show-and-how-to-test-your-own-workload-d3f4c21fd737?source=rss------data_science-5)
-- [Top 30 Ontology Engineering for Enterprise AI Interview Questions and Answers for 2027](https://skphd.medium.com/top-30-ontology-engineering-for-enterprise-ai-interview-questions-and-answers-for-2027-7254ffb9d547?source=rss------data_science-5)
+- [I Fed My Old Resume to an AI Job Tool. It Knew Things I Never Told It.](https://medium.com/@psaibtech/i-fed-my-old-resume-to-an-ai-job-tool-it-knew-things-i-never-told-it-8ef378bc8b2f?source=rss------data_science-5)
+- [Turn Data into Intelligence with Data Science &amp; AI!](https://medium.com/@gokulemexo/turn-data-into-intelligence-with-data-science-ai-85c72e672e46?source=rss------data_science-5)
+- [10 Reasons Why Big Data Analytics Is an Excellent Career Choice](https://medium.com/@emulation_india/10-reasons-why-big-data-analytics-is-an-excellent-career-choice-77f9ecbdfbb4?source=rss------data_science-5)
+- [What salary should you offer a data analyst in India? 104 Naukri posts &lpar;November 2026&rpar;](https://medium.com/@ege.daemon/what-salary-should-you-offer-a-data-analyst-in-india-104-naukri-posts-november-2026-a8f65b8c1866?source=rss------data_science-5)
+- [When Financial Systems Begin to Act on Their Own](https://medium.com/@BondStats/when-financial-systems-begin-to-act-on-their-own-dc4a548479c6?source=rss------data_science-5)
+- [Beyond AI Capabilities: Why Human Involvement Still Matters](https://riorizkiaryanto.medium.com/beyond-ai-capabilities-why-human-involvement-still-matters-5a0c21ddc648?source=rss------data_science-5)
+- [How I Use Excel to Maintain Export Quality Fish in Cold Storage Facilities](https://medium.com/@mteukunote4/how-i-use-excel-to-maintain-export-quality-fish-in-cold-storage-facilities-b74c33c81b4d?source=rss------data_science-5)
+- [COMPLEMENTARY SPACE AND PHASE RELATIONSHIPS
+ IN MATTER AND VACUUM](https://medium.com/@prasanthrs1976/complementary-space-and-phase-relationships-in-matter-and-vacuum-749507306c41?source=rss------data_science-5)
+- [“All Eyes on Indonesia”: Membedah Kepedulian Netizen pada Bencana Ekologis Menggunakan Uji…](https://medium.com/@alvinjr2912/all-eyes-on-indonesia-membedah-kepedulian-netizen-pada-bencana-ekologis-menggunakan-uji-c1e2b58ea78c?source=rss------data_science-5)
+- [10 Prompts Every Data Analyst Should Save &lpar;That I Use Weekly&rpar;](https://abhiks1999.medium.com/10-prompts-every-data-analyst-should-save-that-i-use-weekly-b225da45df59?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
