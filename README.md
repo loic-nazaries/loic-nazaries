@@ -105,17 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [I Fed My Old Resume to an AI Job Tool. It Knew Things I Never Told It.](https://medium.com/@psaibtech/i-fed-my-old-resume-to-an-ai-job-tool-it-knew-things-i-never-told-it-8ef378bc8b2f?source=rss------data_science-5)
-- [Turn Data into Intelligence with Data Science &amp; AI!](https://medium.com/@gokulemexo/turn-data-into-intelligence-with-data-science-ai-85c72e672e46?source=rss------data_science-5)
-- [10 Reasons Why Big Data Analytics Is an Excellent Career Choice](https://medium.com/@emulation_india/10-reasons-why-big-data-analytics-is-an-excellent-career-choice-77f9ecbdfbb4?source=rss------data_science-5)
-- [What salary should you offer a data analyst in India? 104 Naukri posts &lpar;November 2026&rpar;](https://medium.com/@ege.daemon/what-salary-should-you-offer-a-data-analyst-in-india-104-naukri-posts-november-2026-a8f65b8c1866?source=rss------data_science-5)
-- [When Financial Systems Begin to Act on Their Own](https://medium.com/@BondStats/when-financial-systems-begin-to-act-on-their-own-dc4a548479c6?source=rss------data_science-5)
-- [Beyond AI Capabilities: Why Human Involvement Still Matters](https://riorizkiaryanto.medium.com/beyond-ai-capabilities-why-human-involvement-still-matters-5a0c21ddc648?source=rss------data_science-5)
-- [How I Use Excel to Maintain Export Quality Fish in Cold Storage Facilities](https://medium.com/@mteukunote4/how-i-use-excel-to-maintain-export-quality-fish-in-cold-storage-facilities-b74c33c81b4d?source=rss------data_science-5)
-- [COMPLEMENTARY SPACE AND PHASE RELATIONSHIPS
- IN MATTER AND VACUUM](https://medium.com/@prasanthrs1976/complementary-space-and-phase-relationships-in-matter-and-vacuum-749507306c41?source=rss------data_science-5)
-- [“All Eyes on Indonesia”: Membedah Kepedulian Netizen pada Bencana Ekologis Menggunakan Uji…](https://medium.com/@alvinjr2912/all-eyes-on-indonesia-membedah-kepedulian-netizen-pada-bencana-ekologis-menggunakan-uji-c1e2b58ea78c?source=rss------data_science-5)
-- [10 Prompts Every Data Analyst Should Save &lpar;That I Use Weekly&rpar;](https://abhiks1999.medium.com/10-prompts-every-data-analyst-should-save-that-i-use-weekly-b225da45df59?source=rss------data_science-5)
+- [Dangers Lurking in Browser Add Ons](https://medium.com/@talhamushtaq1886/dangers-lurking-in-browser-add-ons-8cd28eb4d392?source=rss------data_science-5)
+- [Why Portal Asking Prices Distort Dubai Real Estate &lpar;And What 150,000 Transactions Show&rpar;](https://medium.com/@dynamicweblab/why-portal-asking-prices-distort-dubai-real-estate-and-what-150-000-transactions-show-90e6ea35db7f?source=rss------data_science-5)
+- [Caught in the Crosshairs: What the Tech Giants Will Do Next](https://medium.com/@anandzade09/caught-in-the-crosshairs-what-the-tech-giants-will-do-next-3d46fc3b6612?source=rss------data_science-5)
+- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-3b820d2ad616?source=rss------data_science-5)
+- [Synthetic Enterprise Data: The Key to Scalable AI Evaluation](https://medium.com/ai-simplified-in-plain-english/synthetic-enterprise-data-the-key-to-scalable-ai-evaluation-422fbb32e13d?source=rss------data_science-5)
+- [Paper: Sora Saito, Asako Uraki, Yusuke Takahashi, Takahiro Tamura: &quot;Semi-Automatic Control of VJ…](https://medium.com/aix-project/paper-sora-saito-asako-uraki-yusuke-takahashi-takahiro-tamura-semi-automatic-control-of-vj-4e7761bc4b67?source=rss------data_science-5)
+- [Your Delta Table Has Millions of Small Files. Here’s Why Your Queries Are Slow.](https://medium.com/@lovesdataengg/your-delta-table-has-millions-of-small-files-heres-why-your-queries-are-slow-015fef5d2c3d?source=rss------data_science-5)
+- [Paper: Riku Hayashi, Yusuke Takahashi, Asako Uraki: &quot;Harmonious Music Recommendation: A Drive-Scene…](https://medium.com/aix-project/paper-riku-hayashi-yusuke-takahashi-asako-uraki-harmonious-music-recommendation-a-drive-scene-eb1e30936fa3?source=rss------data_science-5)
+- [Talk: Yusuke Takahashi, &quot;AI × {your passion}: HOW × WHY makes WHAT&quot; — Keynote at iCAST 2026…](https://medium.com/aix-project/talk-yusuke-takahashi-ai-your-passion-how-why-makes-what-keynote-at-icast-2026-bbf308851414?source=rss------data_science-5)
+- [TradingView 5-Minute Buy and Sell Strategy Using Two Indicators](https://medium.com/@sayedali_3166/tradingview-5-minute-buy-and-sell-strategy-using-two-indicators-e2c896a3185f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
