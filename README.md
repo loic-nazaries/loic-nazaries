@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Dangers Lurking in Browser Add Ons](https://medium.com/@talhamushtaq1886/dangers-lurking-in-browser-add-ons-8cd28eb4d392?source=rss------data_science-5)
-- [Why Portal Asking Prices Distort Dubai Real Estate &lpar;And What 150,000 Transactions Show&rpar;](https://medium.com/@dynamicweblab/why-portal-asking-prices-distort-dubai-real-estate-and-what-150-000-transactions-show-90e6ea35db7f?source=rss------data_science-5)
-- [Caught in the Crosshairs: What the Tech Giants Will Do Next](https://medium.com/@anandzade09/caught-in-the-crosshairs-what-the-tech-giants-will-do-next-3d46fc3b6612?source=rss------data_science-5)
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-3b820d2ad616?source=rss------data_science-5)
-- [Synthetic Enterprise Data: The Key to Scalable AI Evaluation](https://medium.com/ai-simplified-in-plain-english/synthetic-enterprise-data-the-key-to-scalable-ai-evaluation-422fbb32e13d?source=rss------data_science-5)
-- [Paper: Sora Saito, Asako Uraki, Yusuke Takahashi, Takahiro Tamura: &quot;Semi-Automatic Control of VJ…](https://medium.com/aix-project/paper-sora-saito-asako-uraki-yusuke-takahashi-takahiro-tamura-semi-automatic-control-of-vj-4e7761bc4b67?source=rss------data_science-5)
-- [Your Delta Table Has Millions of Small Files. Here’s Why Your Queries Are Slow.](https://medium.com/@lovesdataengg/your-delta-table-has-millions-of-small-files-heres-why-your-queries-are-slow-015fef5d2c3d?source=rss------data_science-5)
-- [Paper: Riku Hayashi, Yusuke Takahashi, Asako Uraki: &quot;Harmonious Music Recommendation: A Drive-Scene…](https://medium.com/aix-project/paper-riku-hayashi-yusuke-takahashi-asako-uraki-harmonious-music-recommendation-a-drive-scene-eb1e30936fa3?source=rss------data_science-5)
-- [Talk: Yusuke Takahashi, &quot;AI × {your passion}: HOW × WHY makes WHAT&quot; — Keynote at iCAST 2026…](https://medium.com/aix-project/talk-yusuke-takahashi-ai-your-passion-how-why-makes-what-keynote-at-icast-2026-bbf308851414?source=rss------data_science-5)
-- [TradingView 5-Minute Buy and Sell Strategy Using Two Indicators](https://medium.com/@sayedali_3166/tradingview-5-minute-buy-and-sell-strategy-using-two-indicators-e2c896a3185f?source=rss------data_science-5)
+- [-](https://medium.com/@trackpi/-5f6c7e573977?source=rss------data_science-5)
+- [Biomemetic routing: route agents the way ants mark a trail](https://medium.com/@mtshomsky/biomemetic-routing-route-agents-the-way-ants-mark-a-trail-2a9612bcf4e1?source=rss------data_science-5)
+- [Top 30 Ontology-Driven AI Agents and Enterprise Data Analytics Interview Questions and Answers for…](https://skphd.medium.com/top-30-ontology-driven-ai-agents-and-enterprise-data-analytics-interview-questions-and-answers-for-2cded686ce9c?source=rss------data_science-5)
+- [Python map&lpar;&rpar; and filter&lpar;&rpar;: Transform and Filter Data Easily](https://medium.com/@kanamadi.bhagyashree.8/python-map-and-filter-transform-and-filter-data-easily-d0d7cb940164?source=rss------data_science-5)
+- [Top 30 AI Engineering Interview Questions and Answers for 2027](https://skphd.medium.com/top-30-ai-engineering-interview-questions-and-answers-for-2027-f49065c9194f?source=rss------data_science-5)
+- [E-Commerce Distributed Database Design Proposition](https://medium.com/distributed-database-design/e-commerce-distributed-database-design-proposition-595632e47b9d?source=rss------data_science-5)
+- [Paper: Torahiro Shimomura, Asako Uraki, Yusuke Takahashi: &quot;Peak-Aware Automatic Generation of…](https://medium.com/aix-project/paper-torahiro-shimomura-asako-uraki-yusuke-takahashi-peak-aware-automatic-generation-of-9580f86c8e88?source=rss------data_science-5)
+- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-60d20a482ab4?source=rss------data_science-5)
+- [Ensinei um BERT a ler reclamações usando um GPT como professor, e ele chegou a 99% do resultado](https://medium.com/@federt49/ensinei-um-bert-a-ler-reclama%C3%A7%C3%B5es-usando-um-gpt-como-professor-e-ele-chegou-a-99-do-resultado-e2b9af4b6418?source=rss------data_science-5)
+- [My Phone Number Was for Sale Online. I Found Out Which Website Leaked It.](https://medium.com/@psaibtech/my-phone-number-was-for-sale-online-i-found-out-which-website-leaked-it-eb01abc88db5?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
