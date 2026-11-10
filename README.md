@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [-](https://medium.com/@trackpi/-5f6c7e573977?source=rss------data_science-5)
-- [Biomemetic routing: route agents the way ants mark a trail](https://medium.com/@mtshomsky/biomemetic-routing-route-agents-the-way-ants-mark-a-trail-2a9612bcf4e1?source=rss------data_science-5)
-- [Top 30 Ontology-Driven AI Agents and Enterprise Data Analytics Interview Questions and Answers for…](https://skphd.medium.com/top-30-ontology-driven-ai-agents-and-enterprise-data-analytics-interview-questions-and-answers-for-2cded686ce9c?source=rss------data_science-5)
-- [Python map&lpar;&rpar; and filter&lpar;&rpar;: Transform and Filter Data Easily](https://medium.com/@kanamadi.bhagyashree.8/python-map-and-filter-transform-and-filter-data-easily-d0d7cb940164?source=rss------data_science-5)
-- [Top 30 AI Engineering Interview Questions and Answers for 2027](https://skphd.medium.com/top-30-ai-engineering-interview-questions-and-answers-for-2027-f49065c9194f?source=rss------data_science-5)
-- [E-Commerce Distributed Database Design Proposition](https://medium.com/distributed-database-design/e-commerce-distributed-database-design-proposition-595632e47b9d?source=rss------data_science-5)
-- [Paper: Torahiro Shimomura, Asako Uraki, Yusuke Takahashi: &quot;Peak-Aware Automatic Generation of…](https://medium.com/aix-project/paper-torahiro-shimomura-asako-uraki-yusuke-takahashi-peak-aware-automatic-generation-of-9580f86c8e88?source=rss------data_science-5)
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-60d20a482ab4?source=rss------data_science-5)
-- [Ensinei um BERT a ler reclamações usando um GPT como professor, e ele chegou a 99% do resultado](https://medium.com/@federt49/ensinei-um-bert-a-ler-reclama%C3%A7%C3%B5es-usando-um-gpt-como-professor-e-ele-chegou-a-99-do-resultado-e2b9af4b6418?source=rss------data_science-5)
-- [My Phone Number Was for Sale Online. I Found Out Which Website Leaked It.](https://medium.com/@psaibtech/my-phone-number-was-for-sale-online-i-found-out-which-website-leaked-it-eb01abc88db5?source=rss------data_science-5)
+- [Where $81,905 Goes: The Average American Household’s Year, Line by Line](https://medium.com/@codingguy/where-81-905-goes-the-average-american-households-year-line-by-line-2037022c1c30?source=rss------data_science-5)
+- [5 Analytics Platforms You Will Work With in an Online Course](https://medium.com/@tarunkumar25121993/5-analytics-platforms-you-will-work-with-in-an-online-course-34ebe20c179f?source=rss------data_science-5)
+- [Your Dog’s Breed Explains Only 9% of Their Behavior](https://medium.com/@discovermydog/your-dogs-breed-explains-only-9-of-their-behavior-59b0be75650b?source=rss------data_science-5)
+- [AI Systems Have Their Own Pattern Language](https://the-architect-ds.medium.com/ai-systems-have-their-own-pattern-language-6862a5300172?source=rss------data_science-5)
+- [Can I Get a Degree Online in Data Science](https://medium.com/@tarunkumar25121993/can-i-get-a-degree-online-in-data-science-e81005665b96?source=rss------data_science-5)
+- [Dari Berita ke Aplikasi: Seberapa Pintar IndoBERT Mengenali Peran dalam Teks Indonesia?](https://medium.com/@pojokkreatiff/dari-berita-ke-aplikasi-seberapa-pintar-indobert-mengenali-peran-dalam-teks-indonesia-738b647bff9f?source=rss------data_science-5)
+- [6 Unity Catalog Patterns Pharma Data Teams Use That Tutorials Never Show](https://medium.com/data-science-collective/6-unity-catalog-patterns-pharma-data-teams-use-130d30f922fb?source=rss------data_science-5)
+- [Governança 4.0 na Indústria Química: da Qualidade Reativa à Gestão Inteligente](https://medium.com/@ornelas.tozato/governan%C3%A7a-4-0-na-ind%C3%BAstria-qu%C3%ADmica-da-qualidade-reativa-%C3%A0-gest%C3%A3o-inteligente-ed6839c60b82?source=rss------data_science-5)
+- [Antimicrobial Surfaces Still Need the Same Cleaning Schedule](https://medium.com/@daniellynnbiosecurity/antimicrobial-surfaces-still-need-the-same-cleaning-schedule-3e523df553b9?source=rss------data_science-5)
+- [IIT Madras BS Qualifier: A 7-Day Study Plan to Score 90%](https://medium.com/@genziitian/iit-madras-bs-qualifier-a-7-day-study-plan-to-score-90-7fd98a120373?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
