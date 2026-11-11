@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Where $81,905 Goes: The Average American Household’s Year, Line by Line](https://medium.com/@codingguy/where-81-905-goes-the-average-american-households-year-line-by-line-2037022c1c30?source=rss------data_science-5)
-- [5 Analytics Platforms You Will Work With in an Online Course](https://medium.com/@tarunkumar25121993/5-analytics-platforms-you-will-work-with-in-an-online-course-34ebe20c179f?source=rss------data_science-5)
-- [Your Dog’s Breed Explains Only 9% of Their Behavior](https://medium.com/@discovermydog/your-dogs-breed-explains-only-9-of-their-behavior-59b0be75650b?source=rss------data_science-5)
-- [AI Systems Have Their Own Pattern Language](https://the-architect-ds.medium.com/ai-systems-have-their-own-pattern-language-6862a5300172?source=rss------data_science-5)
-- [Can I Get a Degree Online in Data Science](https://medium.com/@tarunkumar25121993/can-i-get-a-degree-online-in-data-science-e81005665b96?source=rss------data_science-5)
-- [Dari Berita ke Aplikasi: Seberapa Pintar IndoBERT Mengenali Peran dalam Teks Indonesia?](https://medium.com/@pojokkreatiff/dari-berita-ke-aplikasi-seberapa-pintar-indobert-mengenali-peran-dalam-teks-indonesia-738b647bff9f?source=rss------data_science-5)
-- [6 Unity Catalog Patterns Pharma Data Teams Use That Tutorials Never Show](https://medium.com/data-science-collective/6-unity-catalog-patterns-pharma-data-teams-use-130d30f922fb?source=rss------data_science-5)
-- [Governança 4.0 na Indústria Química: da Qualidade Reativa à Gestão Inteligente](https://medium.com/@ornelas.tozato/governan%C3%A7a-4-0-na-ind%C3%BAstria-qu%C3%ADmica-da-qualidade-reativa-%C3%A0-gest%C3%A3o-inteligente-ed6839c60b82?source=rss------data_science-5)
-- [Antimicrobial Surfaces Still Need the Same Cleaning Schedule](https://medium.com/@daniellynnbiosecurity/antimicrobial-surfaces-still-need-the-same-cleaning-schedule-3e523df553b9?source=rss------data_science-5)
-- [IIT Madras BS Qualifier: A 7-Day Study Plan to Score 90%](https://medium.com/@genziitian/iit-madras-bs-qualifier-a-7-day-study-plan-to-score-90-7fd98a120373?source=rss------data_science-5)
+- [Testing a Machine Learning Pipeline End to End](https://python.plainenglish.io/testing-a-machine-learning-pipeline-end-to-end-3d11be94a6d9?source=rss------data_science-5)
+- [The Quantum Escape: How 3D Carbon Honeycomb is Burying Flat Casimir Theory and Redefining Space…](https://dmitryryzhikh.medium.com/the-quantum-escape-how-3d-carbon-honeycomb-is-burying-flat-casimir-theory-and-redefining-space-a6f986e9f827?source=rss------data_science-5)
+- [-](https://medium.com/@trackpi/-a7407a372d0c?source=rss------data_science-5)
+- [No Training, No Tuning: How a Transformer Learned to Predict Any Table](https://medium.com/@anshita.apps/no-training-no-tuning-how-a-transformer-learned-to-predict-any-table-1e6c19b382ed?source=rss------data_science-5)
+- [The AI Boom Won’t Last Forever: Here’s What Nobody Is Talking About](https://medium.com/@tamilyu551/the-ai-boom-wont-last-forever-here-s-what-nobody-is-talking-about-284a648c2cc6?source=rss------data_science-5)
+- [Python Program to Find the Difference Between Two Numbers](https://python.plainenglish.io/python-program-to-find-the-difference-between-two-numbers-60cbd16a7650?source=rss------data_science-5)
+- [Python Program to Find the First Element of a List](https://python.plainenglish.io/python-program-to-find-the-first-element-of-a-list-2d45db525858?source=rss------data_science-5)
+- [How Ai is changing us](https://medium.com/@umachoure11650/how-ai-is-changing-us-84a183bd3f5b?source=rss------data_science-5)
+- [Why Spend $3,999 on a Mac Studio When a $1,499 Mac Mini Can Run Local LLMs?](https://medium.com/@rothyyorn999/why-spend-3-999-on-a-mac-studio-when-a-1-499-mac-mini-can-run-local-llms-9455481efac1?source=rss------data_science-5)
+- [From Customer Success to Data Analytics: My First Year Learning to Ask Better Questions](https://medium.com/@anacondessa001/from-customer-success-to-data-analytics-my-first-year-learning-to-ask-better-questions-3124b5ac0701?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
