@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Testing a Machine Learning Pipeline End to End](https://python.plainenglish.io/testing-a-machine-learning-pipeline-end-to-end-3d11be94a6d9?source=rss------data_science-5)
-- [The Quantum Escape: How 3D Carbon Honeycomb is Burying Flat Casimir Theory and Redefining Space…](https://dmitryryzhikh.medium.com/the-quantum-escape-how-3d-carbon-honeycomb-is-burying-flat-casimir-theory-and-redefining-space-a6f986e9f827?source=rss------data_science-5)
-- [-](https://medium.com/@trackpi/-a7407a372d0c?source=rss------data_science-5)
-- [No Training, No Tuning: How a Transformer Learned to Predict Any Table](https://medium.com/@anshita.apps/no-training-no-tuning-how-a-transformer-learned-to-predict-any-table-1e6c19b382ed?source=rss------data_science-5)
-- [The AI Boom Won’t Last Forever: Here’s What Nobody Is Talking About](https://medium.com/@tamilyu551/the-ai-boom-wont-last-forever-here-s-what-nobody-is-talking-about-284a648c2cc6?source=rss------data_science-5)
-- [Python Program to Find the Difference Between Two Numbers](https://python.plainenglish.io/python-program-to-find-the-difference-between-two-numbers-60cbd16a7650?source=rss------data_science-5)
-- [Python Program to Find the First Element of a List](https://python.plainenglish.io/python-program-to-find-the-first-element-of-a-list-2d45db525858?source=rss------data_science-5)
-- [How Ai is changing us](https://medium.com/@umachoure11650/how-ai-is-changing-us-84a183bd3f5b?source=rss------data_science-5)
-- [Why Spend $3,999 on a Mac Studio When a $1,499 Mac Mini Can Run Local LLMs?](https://medium.com/@rothyyorn999/why-spend-3-999-on-a-mac-studio-when-a-1-499-mac-mini-can-run-local-llms-9455481efac1?source=rss------data_science-5)
-- [From Customer Success to Data Analytics: My First Year Learning to Ask Better Questions](https://medium.com/@anacondessa001/from-customer-success-to-data-analytics-my-first-year-learning-to-ask-better-questions-3124b5ac0701?source=rss------data_science-5)
+- [Descriptive Statistics for Machine Learning](https://medium.com/data-science-collective/descriptive-statistics-for-machine-learning-4a99abdfe7bb?source=rss------data_science-5)
+- [Review: Bella Fits-Anywhere 2-Slice Slim Toaster vs Amazon Basics 2 Slice Toaster — Which One Is…](https://medium.com/@econex23/review-bella-fits-anywhere-2-slice-slim-toaster-vs-amazon-basics-2-slice-toaster-which-one-is-810242728e67?source=rss------data_science-5)
+- [Your Customer Changed Their Address. Should Your Data Warehouse Forget the Old One?](https://medium.com/@lovesdataengg/your-customer-changed-their-address-should-your-data-warehouse-forget-the-old-one-20571a786cf3?source=rss------data_science-5)
+- [Why My Engine-Life Model Got Confused When the Plane Changed Altitude?](https://medium.com/@shriyans.nayakhd12/why-my-engine-life-model-got-confused-when-the-plane-changed-altitude-0fba4418714c?source=rss------data_science-5)
+- [Stop Building AI Projects From Scratch. Explore These 10 GitHub Repositories](https://medium.com/codetodeploy/stop-building-ai-projects-from-scratch-explore-these-10-github-repositories-f2f5c0e0324f?source=rss------data_science-5)
+- [The Lottery Ticket Hypothesis: Remove 90% of the Weights, and It Still Learns](https://medium.com/data-science-collective/the-lottery-ticket-hypothesis-remove-90-of-the-networks-and-it-still-learns-10538cac680c?source=rss------data_science-5)
+- [Five beginner mistakes to avoid in machine learning classes in Kathmandu](https://medium.com/@saarathiacademy/five-beginner-mistakes-to-avoid-in-machine-learning-classes-in-kathmandu-793b199b3b39?source=rss------data_science-5)
+- [NumPy Under the Hood: Strides and Broadcasting](https://medium.com/@bhoomikameghani0110/numpy-under-the-hood-strides-and-broadcasting-ce3cc7d82c72?source=rss------data_science-5)
+- [23andMe’s Loophole in Your DNA](https://medium.com/@sophia.j.ng/23andmes-loophole-in-your-dna-65a68e4bcf2f?source=rss------data_science-5)
+- [The 7-Day Forecasting Science: Moving from Trailing Indicators to Liquidity-Flow Forecasting](https://novaclubai.medium.com/the-7-day-forecasting-science-moving-from-trailing-indicators-to-liquidity-flow-forecasting-9f833c3c1ab2?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
