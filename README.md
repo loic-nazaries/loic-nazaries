@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Descriptive Statistics for Machine Learning](https://medium.com/data-science-collective/descriptive-statistics-for-machine-learning-4a99abdfe7bb?source=rss------data_science-5)
-- [Review: Bella Fits-Anywhere 2-Slice Slim Toaster vs Amazon Basics 2 Slice Toaster — Which One Is…](https://medium.com/@econex23/review-bella-fits-anywhere-2-slice-slim-toaster-vs-amazon-basics-2-slice-toaster-which-one-is-810242728e67?source=rss------data_science-5)
-- [Your Customer Changed Their Address. Should Your Data Warehouse Forget the Old One?](https://medium.com/@lovesdataengg/your-customer-changed-their-address-should-your-data-warehouse-forget-the-old-one-20571a786cf3?source=rss------data_science-5)
-- [Why My Engine-Life Model Got Confused When the Plane Changed Altitude?](https://medium.com/@shriyans.nayakhd12/why-my-engine-life-model-got-confused-when-the-plane-changed-altitude-0fba4418714c?source=rss------data_science-5)
-- [Stop Building AI Projects From Scratch. Explore These 10 GitHub Repositories](https://medium.com/codetodeploy/stop-building-ai-projects-from-scratch-explore-these-10-github-repositories-f2f5c0e0324f?source=rss------data_science-5)
-- [The Lottery Ticket Hypothesis: Remove 90% of the Weights, and It Still Learns](https://medium.com/data-science-collective/the-lottery-ticket-hypothesis-remove-90-of-the-networks-and-it-still-learns-10538cac680c?source=rss------data_science-5)
-- [Five beginner mistakes to avoid in machine learning classes in Kathmandu](https://medium.com/@saarathiacademy/five-beginner-mistakes-to-avoid-in-machine-learning-classes-in-kathmandu-793b199b3b39?source=rss------data_science-5)
-- [NumPy Under the Hood: Strides and Broadcasting](https://medium.com/@bhoomikameghani0110/numpy-under-the-hood-strides-and-broadcasting-ce3cc7d82c72?source=rss------data_science-5)
-- [23andMe’s Loophole in Your DNA](https://medium.com/@sophia.j.ng/23andmes-loophole-in-your-dna-65a68e4bcf2f?source=rss------data_science-5)
-- [The 7-Day Forecasting Science: Moving from Trailing Indicators to Liquidity-Flow Forecasting](https://novaclubai.medium.com/the-7-day-forecasting-science-moving-from-trailing-indicators-to-liquidity-flow-forecasting-9f833c3c1ab2?source=rss------data_science-5)
+- [Lunar Phase Influence on XRP Daily Returns: A Ten-Year Empirical Study](https://medium.com/@admin_78940/lunar-phase-influence-on-xrp-daily-returns-a-ten-year-empirical-study-aca315500ac1?source=rss------data_science-5)
+- [Is anyone else worried that Al is expanding the attack surface faster than we can defend it?](https://medium.com/tales-untold/is-anyone-else-worried-that-al-is-expanding-the-attack-surface-faster-than-we-can-defend-it-1de366ce5fde?source=rss------data_science-5)
+- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-8c1232355c50?source=rss------data_science-5)
+- [Python Program to Print Multiples of 5](https://python.plainenglish.io/python-program-to-print-multiples-of-5-a3b15d2d1353?source=rss------data_science-5)
+- [Python Program to Find the Sum of Odd Digits](https://python.plainenglish.io/python-program-to-find-the-sum-of-odd-digits-70b83da2d0c8?source=rss------data_science-5)
+- [Python Program to Find the Sum of the First and Last Digits](https://python.plainenglish.io/python-program-to-find-the-sum-of-the-first-and-last-digits-70ed2584e285?source=rss------data_science-5)
+- [XRP Move Cycle Study: A Decade of Double-Digit Price Swing](https://medium.com/@admin_78940/xrp-move-cycle-study-a-decade-of-double-digit-price-swing-b0f64a5c70ee?source=rss------data_science-5)
+- [-](https://medium.com/@trackpi/-ddd980ad3216?source=rss------data_science-5)
+- [Python Exception Handling: Understanding try, except, else, and finally](https://medium.com/@kanamadi.bhagyashree.8/python-exception-handling-understanding-try-except-else-and-finally-80c4a0d4a045?source=rss------data_science-5)
+- [THE FALL OF DARK MATTER: How Quantum Geometry Proved We’ve Been Looking for the Wrong Thing for 40…](https://dmitryryzhikh.medium.com/the-fall-of-dark-matter-how-quantum-geometry-proved-weve-been-looking-for-the-wrong-thing-for-40-89b9e7cc06ec?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
