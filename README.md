@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Lunar Phase Influence on XRP Daily Returns: A Ten-Year Empirical Study](https://medium.com/@admin_78940/lunar-phase-influence-on-xrp-daily-returns-a-ten-year-empirical-study-aca315500ac1?source=rss------data_science-5)
-- [Is anyone else worried that Al is expanding the attack surface faster than we can defend it?](https://medium.com/tales-untold/is-anyone-else-worried-that-al-is-expanding-the-attack-surface-faster-than-we-can-defend-it-1de366ce5fde?source=rss------data_science-5)
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-8c1232355c50?source=rss------data_science-5)
-- [Python Program to Print Multiples of 5](https://python.plainenglish.io/python-program-to-print-multiples-of-5-a3b15d2d1353?source=rss------data_science-5)
-- [Python Program to Find the Sum of Odd Digits](https://python.plainenglish.io/python-program-to-find-the-sum-of-odd-digits-70b83da2d0c8?source=rss------data_science-5)
-- [Python Program to Find the Sum of the First and Last Digits](https://python.plainenglish.io/python-program-to-find-the-sum-of-the-first-and-last-digits-70ed2584e285?source=rss------data_science-5)
-- [XRP Move Cycle Study: A Decade of Double-Digit Price Swing](https://medium.com/@admin_78940/xrp-move-cycle-study-a-decade-of-double-digit-price-swing-b0f64a5c70ee?source=rss------data_science-5)
-- [-](https://medium.com/@trackpi/-ddd980ad3216?source=rss------data_science-5)
-- [Python Exception Handling: Understanding try, except, else, and finally](https://medium.com/@kanamadi.bhagyashree.8/python-exception-handling-understanding-try-except-else-and-finally-80c4a0d4a045?source=rss------data_science-5)
-- [THE FALL OF DARK MATTER: How Quantum Geometry Proved We’ve Been Looking for the Wrong Thing for 40…](https://dmitryryzhikh.medium.com/the-fall-of-dark-matter-how-quantum-geometry-proved-weve-been-looking-for-the-wrong-thing-for-40-89b9e7cc06ec?source=rss------data_science-5)
+- [Review: Lutron Caseta Diva vs Leviton Decora Smart Dimmer — Which One Is Worth Your Money in 2026?](https://medium.com/@econex23/review-lutron-caseta-diva-vs-leviton-decora-smart-dimmer-which-one-is-worth-your-money-in-2026-88fbfe1a7d29?source=rss------data_science-5)
+- [Databricks in 2026: 7 Powerful Features That Are Changing the Way Data Engineering Works](https://medium.com/@techybob/databricks-in-2026-7-powerful-features-that-are-changing-the-way-data-engineering-works-089822daf764?source=rss------data_science-5)
+- [Watching Product Prices Without a Subscription: cron, One Small Script, and a CSV](https://medium.com/@nmix3548/watching-product-prices-without-a-subscription-cron-one-small-script-and-a-csv-b6fe9586f3bb?source=rss------data_science-5)
+- [PROSPEK ELIT &lpar;ELITERY DATA SINERGETAMA&rpar; DI TENGAH GEMPURAN HSC SAHAM DATA CENTER INDONESIA](https://medium.com/@adityaudayana19/prospek-elit-elitery-data-sinergetama-di-tengah-gempuran-hsc-saham-data-center-indonesia-3080313452ce?source=rss------data_science-5)
+- [How AI Answers Questions About Documents It Has Never Read](https://medium.com/ai-engineering-simplified/how-ai-answers-questions-about-documents-it-has-never-read-44f8edf43c7e?source=rss------data_science-5)
+- [Humans Are Just an Intelligent Form of Data](https://medium.com/@arceus6667/humans-are-just-an-intelligent-form-of-data-0ac632ab6acd?source=rss------data_science-5)
+- [You Can Be Anything, Barbie. Sorry, “AI Expert”](https://medium.com/@martin.jurado.p/you-can-be-anything-barbie-sorry-ai-expert-adf9d0fab13b?source=rss------data_science-5)
+- [I Built a Blogging App with Claude Code &lpar;and It Wrote This Post&rpar;](https://medium.com/data-science-collective/i-built-a-blogging-app-with-claude-code-and-it-wrote-this-post-6006af64501d?source=rss------data_science-5)
+- [THE UNIVERSE FLOWS, IT DOES NOT EXPAND: Why the Quasar Dipole Kills the Myth of Uniform Expansion](https://dmitryryzhikh.medium.com/the-universe-flows-it-does-not-expand-why-the-quasar-dipole-kills-the-myth-of-uniform-expansion-0beab1dd679c?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
