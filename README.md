@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Review: Lutron Caseta Diva vs Leviton Decora Smart Dimmer — Which One Is Worth Your Money in 2026?](https://medium.com/@econex23/review-lutron-caseta-diva-vs-leviton-decora-smart-dimmer-which-one-is-worth-your-money-in-2026-88fbfe1a7d29?source=rss------data_science-5)
-- [Databricks in 2026: 7 Powerful Features That Are Changing the Way Data Engineering Works](https://medium.com/@techybob/databricks-in-2026-7-powerful-features-that-are-changing-the-way-data-engineering-works-089822daf764?source=rss------data_science-5)
-- [Watching Product Prices Without a Subscription: cron, One Small Script, and a CSV](https://medium.com/@nmix3548/watching-product-prices-without-a-subscription-cron-one-small-script-and-a-csv-b6fe9586f3bb?source=rss------data_science-5)
-- [PROSPEK ELIT &lpar;ELITERY DATA SINERGETAMA&rpar; DI TENGAH GEMPURAN HSC SAHAM DATA CENTER INDONESIA](https://medium.com/@adityaudayana19/prospek-elit-elitery-data-sinergetama-di-tengah-gempuran-hsc-saham-data-center-indonesia-3080313452ce?source=rss------data_science-5)
-- [How AI Answers Questions About Documents It Has Never Read](https://medium.com/ai-engineering-simplified/how-ai-answers-questions-about-documents-it-has-never-read-44f8edf43c7e?source=rss------data_science-5)
-- [Humans Are Just an Intelligent Form of Data](https://medium.com/@arceus6667/humans-are-just-an-intelligent-form-of-data-0ac632ab6acd?source=rss------data_science-5)
-- [You Can Be Anything, Barbie. Sorry, “AI Expert”](https://medium.com/@martin.jurado.p/you-can-be-anything-barbie-sorry-ai-expert-adf9d0fab13b?source=rss------data_science-5)
-- [I Built a Blogging App with Claude Code &lpar;and It Wrote This Post&rpar;](https://medium.com/data-science-collective/i-built-a-blogging-app-with-claude-code-and-it-wrote-this-post-6006af64501d?source=rss------data_science-5)
-- [THE UNIVERSE FLOWS, IT DOES NOT EXPAND: Why the Quasar Dipole Kills the Myth of Uniform Expansion](https://dmitryryzhikh.medium.com/the-universe-flows-it-does-not-expand-why-the-quasar-dipole-kills-the-myth-of-uniform-expansion-0beab1dd679c?source=rss------data_science-5)
+- [Discover Ryfinite: Explore, Participate, and Earn with RFN!](https://medium.com/@venusedutechbitcoin/discover-ryfinite-explore-participate-and-earn-with-rfn-876576152bfc?source=rss------data_science-5)
+- [Top Tech &amp; AI News November 2026: ChatGPT Wallet, Microsoft Outage &amp; Uquid AI Shopping](https://medium.com/@nevadayorkie/top-tech-ai-news-november-2026-chatgpt-wallet-microsoft-outage-uquid-ai-shopping-41ee827944aa?source=rss------data_science-5)
+- [Continuing our development journey.. A new successful milestone in the Aplflx project](https://medium.com/@accc72127/continuing-our-development-journey-a-new-successful-milestone-in-the-aplflx-project-042f924b0a43?source=rss------data_science-5)
+- [Yesterday’s Noise Is Becoming Tomorrow’s Discovery](https://medium.com/@etsy3dperson/yesterdays-noise-is-becoming-tomorrow-s-discovery-9726b761cf72?source=rss------data_science-5)
+- [COLOURED IMAGINATION](https://medium.com/@ezehe121/coloured-to-imagination-48057131734e?source=rss------data_science-5)
+- [DISCOLOURED IMAGINATION](https://medium.com/@ezehe121/discoloured-imagination-58737aada630?source=rss------data_science-5)
+- [The Difference between Snowflake Semantic Views and Semantic Models](https://medium.com/moderendatatime/the-difference-between-snowflake-semantic-views-and-semantic-models-2ae061cac83f?source=rss------data_science-5)
+- [The Future of Software Engineering Isn’t About Writing Code](https://medium.com/@kamalmeet/the-future-of-software-engineering-isnt-about-writing-code-b9e6b8a03268?source=rss------data_science-5)
+- [Best GitHub Repositories to Secure AI-Generated Code](https://medium.com/data-science-in-your-pocket/best-github-repositories-to-secure-ai-generated-code-3047c2e79b29?source=rss------data_science-5)
+- [9 Python Libraries for Slugs, Lunar Dates, Test Data and Scraping &lpar;One Failed My Test&rpar;](https://medium.com/towards-data-engineering/9-python-libraries-for-slugs-lunar-dates-test-data-and-scraping-one-failed-my-test-70cf68e11c14?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
