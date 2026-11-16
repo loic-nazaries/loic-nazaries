@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Discover Ryfinite: Explore, Participate, and Earn with RFN!](https://medium.com/@venusedutechbitcoin/discover-ryfinite-explore-participate-and-earn-with-rfn-876576152bfc?source=rss------data_science-5)
-- [Top Tech &amp; AI News November 2026: ChatGPT Wallet, Microsoft Outage &amp; Uquid AI Shopping](https://medium.com/@nevadayorkie/top-tech-ai-news-november-2026-chatgpt-wallet-microsoft-outage-uquid-ai-shopping-41ee827944aa?source=rss------data_science-5)
-- [Continuing our development journey.. A new successful milestone in the Aplflx project](https://medium.com/@accc72127/continuing-our-development-journey-a-new-successful-milestone-in-the-aplflx-project-042f924b0a43?source=rss------data_science-5)
-- [Yesterday’s Noise Is Becoming Tomorrow’s Discovery](https://medium.com/@etsy3dperson/yesterdays-noise-is-becoming-tomorrow-s-discovery-9726b761cf72?source=rss------data_science-5)
-- [COLOURED IMAGINATION](https://medium.com/@ezehe121/coloured-to-imagination-48057131734e?source=rss------data_science-5)
-- [DISCOLOURED IMAGINATION](https://medium.com/@ezehe121/discoloured-imagination-58737aada630?source=rss------data_science-5)
-- [The Difference between Snowflake Semantic Views and Semantic Models](https://medium.com/moderendatatime/the-difference-between-snowflake-semantic-views-and-semantic-models-2ae061cac83f?source=rss------data_science-5)
-- [The Future of Software Engineering Isn’t About Writing Code](https://medium.com/@kamalmeet/the-future-of-software-engineering-isnt-about-writing-code-b9e6b8a03268?source=rss------data_science-5)
-- [Best GitHub Repositories to Secure AI-Generated Code](https://medium.com/data-science-in-your-pocket/best-github-repositories-to-secure-ai-generated-code-3047c2e79b29?source=rss------data_science-5)
-- [9 Python Libraries for Slugs, Lunar Dates, Test Data and Scraping &lpar;One Failed My Test&rpar;](https://medium.com/towards-data-engineering/9-python-libraries-for-slugs-lunar-dates-test-data-and-scraping-one-failed-my-test-70cf68e11c14?source=rss------data_science-5)
+- [The Best Local Model to Run Inside Claude Code in 2026, and the Jobs It Still Can’t Do](https://medium.com/data-science-collective/the-best-local-model-to-run-inside-claude-code-in-2026-and-the-jobs-it-still-cant-do-4148820afc46?source=rss------data_science-5)
+- [Ten Orders a Day: Building a Leakage-Safe Late-Delivery Risk Policy on Amazon SageMaker](https://medium.com/@ajay.uppu6/ten-orders-a-day-building-a-leakage-safe-late-delivery-risk-policy-on-amazon-sagemaker-ed640710ba7f?source=rss------data_science-5)
+- [-](https://medium.com/@trackpi/-674506f5a95c?source=rss------data_science-5)
+- [Using User Defined Functions In Power BI&lpar;.pbix included&rpar;](https://medium.com/@shashanka.shekhar02/using-user-defined-functions-in-power-bi-pbix-included-39d46ce60da4?source=rss------data_science-5)
+- [Why Do Top Tech Companies Ask About LRU Cache ???](https://nekkantimadhusri.medium.com/why-do-top-tech-companies-ask-about-lru-cache-da31f0b290c5?source=rss------data_science-5)
+- [The Age of Artificial Intelligence: The Future Is No Longer Waiting for Us](https://medium.com/@loshifajothirs/the-age-of-artificial-intelligence-the-future-is-no-longer-waiting-for-us-21f5338efa92?source=rss------data_science-5)
+- [Mengapa Air Gambut Berwarna Cokelat, dan Amankah Dipakai?](https://medium.com/@2311012320001/mengapa-air-gambut-berwarna-cokelat-dan-amankah-dipakai-8e26f1a12144?source=rss------data_science-5)
+- [Google Information Removal: How to remove your phone number and home address from Google?](https://medium.com/@TanatanGyan/google-information-removal-how-to-remove-your-phone-number-and-home-address-from-google-0031a89ae082?source=rss------data_science-5)
+- [I Built a Full-Stack Sales Dashboard in Claude with Floot](https://medium.com/data-science-in-your-pocket/i-built-a-full-stack-sales-dashboard-in-claude-with-floot-5d3c75361dba?source=rss------data_science-5)
+- [From Distance to Accessibility: Rethinking Location Analysis](https://medium.com/@ikhsanfachrul26/from-distance-to-accessibility-rethinking-location-analysis-a1bbd237952d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
