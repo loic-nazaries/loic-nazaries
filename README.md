@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [The Best Local Model to Run Inside Claude Code in 2026, and the Jobs It Still Can’t Do](https://medium.com/data-science-collective/the-best-local-model-to-run-inside-claude-code-in-2026-and-the-jobs-it-still-cant-do-4148820afc46?source=rss------data_science-5)
-- [Ten Orders a Day: Building a Leakage-Safe Late-Delivery Risk Policy on Amazon SageMaker](https://medium.com/@ajay.uppu6/ten-orders-a-day-building-a-leakage-safe-late-delivery-risk-policy-on-amazon-sagemaker-ed640710ba7f?source=rss------data_science-5)
-- [-](https://medium.com/@trackpi/-674506f5a95c?source=rss------data_science-5)
-- [Using User Defined Functions In Power BI&lpar;.pbix included&rpar;](https://medium.com/@shashanka.shekhar02/using-user-defined-functions-in-power-bi-pbix-included-39d46ce60da4?source=rss------data_science-5)
-- [Why Do Top Tech Companies Ask About LRU Cache ???](https://nekkantimadhusri.medium.com/why-do-top-tech-companies-ask-about-lru-cache-da31f0b290c5?source=rss------data_science-5)
-- [The Age of Artificial Intelligence: The Future Is No Longer Waiting for Us](https://medium.com/@loshifajothirs/the-age-of-artificial-intelligence-the-future-is-no-longer-waiting-for-us-21f5338efa92?source=rss------data_science-5)
-- [Mengapa Air Gambut Berwarna Cokelat, dan Amankah Dipakai?](https://medium.com/@2311012320001/mengapa-air-gambut-berwarna-cokelat-dan-amankah-dipakai-8e26f1a12144?source=rss------data_science-5)
-- [Google Information Removal: How to remove your phone number and home address from Google?](https://medium.com/@TanatanGyan/google-information-removal-how-to-remove-your-phone-number-and-home-address-from-google-0031a89ae082?source=rss------data_science-5)
-- [I Built a Full-Stack Sales Dashboard in Claude with Floot](https://medium.com/data-science-in-your-pocket/i-built-a-full-stack-sales-dashboard-in-claude-with-floot-5d3c75361dba?source=rss------data_science-5)
-- [From Distance to Accessibility: Rethinking Location Analysis](https://medium.com/@ikhsanfachrul26/from-distance-to-accessibility-rethinking-location-analysis-a1bbd237952d?source=rss------data_science-5)
+- [7 Questions to Ask Your Rent Pricing Software Vendor About Data Transparency](https://medium.com/@seaflux/7-questions-to-ask-your-rent-pricing-software-vendor-about-data-transparency-aa082d114dbf?source=rss------data_science-5)
+- [How I Started Learning Data Science and AI from Scratch](https://medium.com/@taniaimtiaz020/how-i-started-learning-data-science-and-ai-from-scratch-654e1d35d54a?source=rss------data_science-5)
+- [A lobster mushroom is formed when a certain parasitic fungus infects another fungus and takes over…](https://medium.com/@jaredfalls995/a-lobster-mushroom-is-formed-when-a-certain-parasitic-fungus-infects-another-fungus-and-takes-over-e91c699e4b88?source=rss------data_science-5)
+- [Hamiltonian Monte Carlo for Bayesian PINNs, Tested on a Posterior We Can Compute Exactly](https://diogo-ribeiro-1975.medium.com/hamiltonian-monte-carlo-for-bayesian-pinns-tested-on-a-posterior-we-can-compute-exactly-f6074c85f0f1?source=rss------data_science-5)
+- [Feature Engineering Explained: How to Make Your Data More Useful for Machine Learning](https://medium.com/python-to-intelligence/feature-engineering-explained-how-to-make-your-data-more-useful-for-machine-learning-e0a9b4bca958?source=rss------data_science-5)
+- [Model Evaluation: Accuracy Is Not Always the Full Story](https://yogsgehlot.medium.com/model-evaluation-accuracy-is-not-always-the-full-story-aaed2f3b0cb2?source=rss------data_science-5)
+- [The $620 Million Radar Blindspot: Ukraine May Have Found a Smarter Way to Deal With Russia’s S-400](https://medium.com/@TimoR96/the-620-million-radar-blindspot-ukraine-may-have-found-a-smarter-way-to-deal-with-russias-s-400-e455324cd1fb?source=rss------data_science-5)
+- [My Summer Internship at Oasis Infobyte: Building 5 Machine Learning and Data Science Projects with…](https://medium.com/@khatridevansh394/my-summer-internship-at-oasis-infobyte-building-5-machine-learning-and-data-science-projects-with-f8f2fa6d093e?source=rss------data_science-5)
+- [Python Deep Dive for AI/ML Engineers: Data Structures, Hashing &amp; Time Complexity — Day 2](https://chandimajayamina.medium.com/python-deep-dive-for-ai-ml-engineers-data-structures-hashing-time-complexity-day-2-c87b274de388?source=rss------data_science-5)
+- [ISRAEL AT A CROSSROADS — PART 4-B](https://medium.com/the-pyura-network/israel-at-a-crossroads-part-4-b-209a0fc76032?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
