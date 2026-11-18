@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [7 Questions to Ask Your Rent Pricing Software Vendor About Data Transparency](https://medium.com/@seaflux/7-questions-to-ask-your-rent-pricing-software-vendor-about-data-transparency-aa082d114dbf?source=rss------data_science-5)
-- [How I Started Learning Data Science and AI from Scratch](https://medium.com/@taniaimtiaz020/how-i-started-learning-data-science-and-ai-from-scratch-654e1d35d54a?source=rss------data_science-5)
-- [A lobster mushroom is formed when a certain parasitic fungus infects another fungus and takes over…](https://medium.com/@jaredfalls995/a-lobster-mushroom-is-formed-when-a-certain-parasitic-fungus-infects-another-fungus-and-takes-over-e91c699e4b88?source=rss------data_science-5)
-- [Hamiltonian Monte Carlo for Bayesian PINNs, Tested on a Posterior We Can Compute Exactly](https://diogo-ribeiro-1975.medium.com/hamiltonian-monte-carlo-for-bayesian-pinns-tested-on-a-posterior-we-can-compute-exactly-f6074c85f0f1?source=rss------data_science-5)
-- [Feature Engineering Explained: How to Make Your Data More Useful for Machine Learning](https://medium.com/python-to-intelligence/feature-engineering-explained-how-to-make-your-data-more-useful-for-machine-learning-e0a9b4bca958?source=rss------data_science-5)
-- [Model Evaluation: Accuracy Is Not Always the Full Story](https://yogsgehlot.medium.com/model-evaluation-accuracy-is-not-always-the-full-story-aaed2f3b0cb2?source=rss------data_science-5)
-- [The $620 Million Radar Blindspot: Ukraine May Have Found a Smarter Way to Deal With Russia’s S-400](https://medium.com/@TimoR96/the-620-million-radar-blindspot-ukraine-may-have-found-a-smarter-way-to-deal-with-russias-s-400-e455324cd1fb?source=rss------data_science-5)
-- [My Summer Internship at Oasis Infobyte: Building 5 Machine Learning and Data Science Projects with…](https://medium.com/@khatridevansh394/my-summer-internship-at-oasis-infobyte-building-5-machine-learning-and-data-science-projects-with-f8f2fa6d093e?source=rss------data_science-5)
-- [Python Deep Dive for AI/ML Engineers: Data Structures, Hashing &amp; Time Complexity — Day 2](https://chandimajayamina.medium.com/python-deep-dive-for-ai-ml-engineers-data-structures-hashing-time-complexity-day-2-c87b274de388?source=rss------data_science-5)
-- [ISRAEL AT A CROSSROADS — PART 4-B](https://medium.com/the-pyura-network/israel-at-a-crossroads-part-4-b-209a0fc76032?source=rss------data_science-5)
+- [Multiple Imputation and the Missing Data Problem I Used to Solve With Zeroes](https://medium.com/@khayyam.h/multiple-imputation-and-the-missing-data-problem-i-used-to-solve-with-zeroes-1ce01b0cc6f8?source=rss------data_science-5)
+- [Can Writers Still Make Money in the Age of AI? 1,000+ Writers Weigh In](https://medium.com/humanai/can-writers-still-make-money-in-the-age-of-ai-1-000-writers-weigh-in-cb59aa49831e?source=rss------data_science-5)
+- [The Fan-Out Join That Quietly Doubled My Revenue Numbers](https://medium.com/@justarnav/the-fan-out-join-that-quietly-doubled-my-revenue-numbers-92d5ddcf9f22?source=rss------data_science-5)
+- [Power BI Service Refresh Now Lets You Separate Schema and Data. Here’s Why That Matters.](https://medium.com/@t.gulab/power-bi-service-refresh-now-lets-you-separate-schema-and-data-heres-why-that-matters-b3b7e0441cfa?source=rss------data_science-5)
+- [Why a Full Warehouse Can Still Mean Lost Sales](https://medium.com/@idrisyusuff/why-a-full-warehouse-can-still-mean-lost-sales-a5c77606502e?source=rss------data_science-5)
+- [Want to know the real backbone of modern tech? It’s still SQL.](https://medium.com/@abdullahahmad.k111/want-to-know-the-real-backbone-of-modern-tech-its-still-sql-6219e80b8d13?source=rss------data_science-5)
+- [Review: Anker SOLIX PS200 vs EcoFlow 160W Solar Panel — Which One Is Worth Your Money in 2026?](https://medium.com/@econex23/review-anker-solix-ps200-vs-ecoflow-160w-solar-panel-which-one-is-worth-your-money-in-2026-aaa9896920ac?source=rss------data_science-5)
+- [The AI Revolution is much smaller than your feed suggests.](https://medium.com/@abdullahahmad.k111/the-ai-revolution-is-much-smaller-than-your-feed-suggests-9abb493e18e0?source=rss------data_science-5)
+- [Domain.com.au Scraper in Python: Sold Prices, Rentals and Suburb Medians](https://medium.com/@bugrahan_70352/domain-com-au-scraper-in-python-sold-prices-rentals-and-suburb-medians-17c03253ba3d?source=rss------data_science-5)
+- [The Interview Questions I Ask When Hiring Data Analysts](https://abhiks1999.medium.com/the-interview-questions-i-ask-when-hiring-data-analysts-93fe8d291a65?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
