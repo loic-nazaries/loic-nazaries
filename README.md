@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Multiple Imputation and the Missing Data Problem I Used to Solve With Zeroes](https://medium.com/@khayyam.h/multiple-imputation-and-the-missing-data-problem-i-used-to-solve-with-zeroes-1ce01b0cc6f8?source=rss------data_science-5)
-- [Can Writers Still Make Money in the Age of AI? 1,000+ Writers Weigh In](https://medium.com/humanai/can-writers-still-make-money-in-the-age-of-ai-1-000-writers-weigh-in-cb59aa49831e?source=rss------data_science-5)
-- [The Fan-Out Join That Quietly Doubled My Revenue Numbers](https://medium.com/@justarnav/the-fan-out-join-that-quietly-doubled-my-revenue-numbers-92d5ddcf9f22?source=rss------data_science-5)
-- [Power BI Service Refresh Now Lets You Separate Schema and Data. Here’s Why That Matters.](https://medium.com/@t.gulab/power-bi-service-refresh-now-lets-you-separate-schema-and-data-heres-why-that-matters-b3b7e0441cfa?source=rss------data_science-5)
-- [Why a Full Warehouse Can Still Mean Lost Sales](https://medium.com/@idrisyusuff/why-a-full-warehouse-can-still-mean-lost-sales-a5c77606502e?source=rss------data_science-5)
-- [Want to know the real backbone of modern tech? It’s still SQL.](https://medium.com/@abdullahahmad.k111/want-to-know-the-real-backbone-of-modern-tech-its-still-sql-6219e80b8d13?source=rss------data_science-5)
-- [Review: Anker SOLIX PS200 vs EcoFlow 160W Solar Panel — Which One Is Worth Your Money in 2026?](https://medium.com/@econex23/review-anker-solix-ps200-vs-ecoflow-160w-solar-panel-which-one-is-worth-your-money-in-2026-aaa9896920ac?source=rss------data_science-5)
-- [The AI Revolution is much smaller than your feed suggests.](https://medium.com/@abdullahahmad.k111/the-ai-revolution-is-much-smaller-than-your-feed-suggests-9abb493e18e0?source=rss------data_science-5)
-- [Domain.com.au Scraper in Python: Sold Prices, Rentals and Suburb Medians](https://medium.com/@bugrahan_70352/domain-com-au-scraper-in-python-sold-prices-rentals-and-suburb-medians-17c03253ba3d?source=rss------data_science-5)
-- [The Interview Questions I Ask When Hiring Data Analysts](https://abhiks1999.medium.com/the-interview-questions-i-ask-when-hiring-data-analysts-93fe8d291a65?source=rss------data_science-5)
+- [Stop Relying on Accuracy: Better Metrics for Machine Learning](https://ai.plainenglish.io/stop-relying-on-accuracy-better-metrics-for-machine-learning-287a68120401?source=rss------data_science-5)
+- [VerityAI: Fake Profile Detection Using a Hybrid Deep Learning Framework](https://medium.com/@srimukhikappaganti05/verityai-fake-profile-detection-using-a-hybrid-deep-learning-framework-3bf0723ee565?source=rss------data_science-5)
+- [Python Classes and Objects Explained with Simple Examples](https://medium.com/@kanamadi.bhagyashree.8/python-classes-and-objects-explained-with-simple-examples-856ae59cdf6b?source=rss------data_science-5)
+- [Building Incremental Data Pipelines: Things I Wish Every Data Engineer Understood](https://medium.com/@de.mukherjee.sumit/building-incremental-data-pipelines-things-i-wish-every-data-engineer-understood-9db17d112092?source=rss------data_science-5)
+- [10 MCP Servers You Probably Haven’t Heard About](https://python.plainenglish.io/10-mcp-servers-you-probably-havent-heard-about-184c7807ae62?source=rss------data_science-5)
+- [10 Python Tricks That Feel Like Cheating When You First Discover Them](https://medium.com/codetodeploy/10-python-tricks-that-feel-like-cheating-when-you-first-discover-them-0732969d31ce?source=rss------data_science-5)
+- [I Stopped Writing Complicated Python After Discovering These Tricks](https://medium.com/codetodeploy/i-stopped-writing-complicated-python-after-discovering-these-tricks-981776a6bf5d?source=rss------data_science-5)
+- [La Centrale Scraper in Python: French Car Dealers, SIREN/SIRET and Every Car in Stock](https://medium.com/@bugrahan_70352/la-centrale-scraper-in-python-french-car-dealers-siren-siret-and-every-car-in-stock-d91a0e0704e6?source=rss------data_science-5)
+- [Gaming the TON Ecosystem: How Behavioral AI is Transforming AAA Web3 Gaming](https://novaclubai.medium.com/gaming-the-ton-ecosystem-how-behavioral-ai-is-transforming-aaa-web3-gaming-f361b8faa73d?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
