@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Stop Relying on Accuracy: Better Metrics for Machine Learning](https://ai.plainenglish.io/stop-relying-on-accuracy-better-metrics-for-machine-learning-287a68120401?source=rss------data_science-5)
-- [VerityAI: Fake Profile Detection Using a Hybrid Deep Learning Framework](https://medium.com/@srimukhikappaganti05/verityai-fake-profile-detection-using-a-hybrid-deep-learning-framework-3bf0723ee565?source=rss------data_science-5)
-- [Python Classes and Objects Explained with Simple Examples](https://medium.com/@kanamadi.bhagyashree.8/python-classes-and-objects-explained-with-simple-examples-856ae59cdf6b?source=rss------data_science-5)
-- [Building Incremental Data Pipelines: Things I Wish Every Data Engineer Understood](https://medium.com/@de.mukherjee.sumit/building-incremental-data-pipelines-things-i-wish-every-data-engineer-understood-9db17d112092?source=rss------data_science-5)
-- [10 MCP Servers You Probably Haven’t Heard About](https://python.plainenglish.io/10-mcp-servers-you-probably-havent-heard-about-184c7807ae62?source=rss------data_science-5)
-- [10 Python Tricks That Feel Like Cheating When You First Discover Them](https://medium.com/codetodeploy/10-python-tricks-that-feel-like-cheating-when-you-first-discover-them-0732969d31ce?source=rss------data_science-5)
-- [I Stopped Writing Complicated Python After Discovering These Tricks](https://medium.com/codetodeploy/i-stopped-writing-complicated-python-after-discovering-these-tricks-981776a6bf5d?source=rss------data_science-5)
-- [La Centrale Scraper in Python: French Car Dealers, SIREN/SIRET and Every Car in Stock](https://medium.com/@bugrahan_70352/la-centrale-scraper-in-python-french-car-dealers-siren-siret-and-every-car-in-stock-d91a0e0704e6?source=rss------data_science-5)
-- [Gaming the TON Ecosystem: How Behavioral AI is Transforming AAA Web3 Gaming](https://novaclubai.medium.com/gaming-the-ton-ecosystem-how-behavioral-ai-is-transforming-aaa-web3-gaming-f361b8faa73d?source=rss------data_science-5)
+- [Are Expensive Smartphones Actually Worth It? I Scraped 800+ Phones to Find Out.](https://medium.com/@mayureshjadhavix/are-expensive-smartphones-actually-worth-it-i-scraped-800-phones-to-find-out-0f3563c80b05?source=rss------data_science-5)
+- [Your Spark Streaming Job Restarted. How Did It Know Where to Continue?](https://medium.com/@lovesdataengg/your-spark-streaming-job-restarted-how-did-it-know-where-to-continue-09fe8646999f?source=rss------data_science-5)
+- [Your Solar Array Is Still 5 kW. Why Doesn’t It Generate the Same Electricity Every Day?](https://mahendrayadav.medium.com/your-solar-array-is-still-5-kw-why-doesnt-it-generate-the-same-electricity-every-day-22d4d255a4b4?source=rss------data_science-5)
+- [Review: SwitchBot Bot vs Fingerbot Plus — Which One Is Worth Your Money in 2026?](https://medium.com/@econex23/review-switchbot-bot-vs-fingerbot-plus-which-one-is-worth-your-money-in-2026-32534bc14595?source=rss------data_science-5)
+- [The LLM shouldn&#39;t solve the VRP &lpar;Vehicle Routing Problem&rpar;](https://medium.com/operations-research-bit/the-llm-shouldnt-solve-the-vrp-vehicle-routing-problem-9d45d4288d0a?source=rss------data_science-5)
+- [How to understand a CSV in one press, and check what the AI told you](https://medium.com/@nitilo.hq/how-to-understand-a-csv-in-one-press-and-check-what-the-ai-told-you-c093eb00a0a7?source=rss------data_science-5)
+- [Home Advantage in the Championship Is Real But Has Never Been Extreme.](https://veeanalytics.medium.com/home-advantage-in-the-championship-is-real-but-has-never-been-extreme-e8d5b4fa4556?source=rss------data_science-5)
+- [-](https://medium.com/@trackpi/-a51e4fe6da05?source=rss------data_science-5)
+- [Data Science Is Changing. Here’s the Roadmap I’d Follow if I Started Over in 2027.](https://medium.com/data-science-collective/data-science-is-changing-heres-the-roadmap-i-d-follow-if-i-started-over-in-2027-eb524944ebc1?source=rss------data_science-5)
+- [The End of the Rocket Era: Why Space Colonization Is Impossible Without a Space Elevator &lpar;And How…](https://dmitryryzhikh.medium.com/the-end-of-the-rocket-era-why-space-colonization-is-impossible-without-a-space-elevator-and-how-4769650c2524?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
