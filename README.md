@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Are Expensive Smartphones Actually Worth It? I Scraped 800+ Phones to Find Out.](https://medium.com/@mayureshjadhavix/are-expensive-smartphones-actually-worth-it-i-scraped-800-phones-to-find-out-0f3563c80b05?source=rss------data_science-5)
-- [Your Spark Streaming Job Restarted. How Did It Know Where to Continue?](https://medium.com/@lovesdataengg/your-spark-streaming-job-restarted-how-did-it-know-where-to-continue-09fe8646999f?source=rss------data_science-5)
-- [Your Solar Array Is Still 5 kW. Why Doesn’t It Generate the Same Electricity Every Day?](https://mahendrayadav.medium.com/your-solar-array-is-still-5-kw-why-doesnt-it-generate-the-same-electricity-every-day-22d4d255a4b4?source=rss------data_science-5)
-- [Review: SwitchBot Bot vs Fingerbot Plus — Which One Is Worth Your Money in 2026?](https://medium.com/@econex23/review-switchbot-bot-vs-fingerbot-plus-which-one-is-worth-your-money-in-2026-32534bc14595?source=rss------data_science-5)
-- [The LLM shouldn&#39;t solve the VRP &lpar;Vehicle Routing Problem&rpar;](https://medium.com/operations-research-bit/the-llm-shouldnt-solve-the-vrp-vehicle-routing-problem-9d45d4288d0a?source=rss------data_science-5)
-- [How to understand a CSV in one press, and check what the AI told you](https://medium.com/@nitilo.hq/how-to-understand-a-csv-in-one-press-and-check-what-the-ai-told-you-c093eb00a0a7?source=rss------data_science-5)
-- [Home Advantage in the Championship Is Real But Has Never Been Extreme.](https://veeanalytics.medium.com/home-advantage-in-the-championship-is-real-but-has-never-been-extreme-e8d5b4fa4556?source=rss------data_science-5)
-- [-](https://medium.com/@trackpi/-a51e4fe6da05?source=rss------data_science-5)
-- [Data Science Is Changing. Here’s the Roadmap I’d Follow if I Started Over in 2027.](https://medium.com/data-science-collective/data-science-is-changing-heres-the-roadmap-i-d-follow-if-i-started-over-in-2027-eb524944ebc1?source=rss------data_science-5)
-- [The End of the Rocket Era: Why Space Colonization Is Impossible Without a Space Elevator &lpar;And How…](https://dmitryryzhikh.medium.com/the-end-of-the-rocket-era-why-space-colonization-is-impossible-without-a-space-elevator-and-how-4769650c2524?source=rss------data_science-5)
+- [Russia Lost Starlink. So It Built a Flying Internet Out of Drones — The Mesh Now Reaches 175 km.](https://medium.com/@862194622/russia-lost-starlink-so-it-built-a-flying-internet-out-of-drones-the-mesh-now-reaches-175-km-2b16895b2cc9?source=rss------data_science-5)
+- [12 AI Concepts You Must Know Before You Build Your First AI Agent](https://medium.com/ai-engineering-simplified/12-ai-concepts-you-must-know-before-you-build-your-first-ai-agent-e79264e821b3?source=rss------data_science-5)
+- [The Unscientific Pursuit of Scientific Progress](https://robins-hood.medium.com/the-unscientific-pursuit-of-scientific-progress-974093c3e4bb?source=rss------data_science-5)
+- [We Are Very Small](https://medium.com/@strings4/we-are-very-small-0c02ea7c000e?source=rss------data_science-5)
+- [Two Customers, One Last Item: How to Stop Overselling in Postgres](https://alexandra272003.medium.com/two-customers-one-last-item-how-to-stop-overselling-in-postgres-20d4f165a0c4?source=rss------data_science-5)
+- [Why Average Values Can Be Dangerous in Business Analysis](https://medium.com/@farooqumer845/why-average-values-can-be-dangerous-in-business-analysis-3a027a01c77a?source=rss------data_science-5)
+- [Correlation Is Not Regression: Understanding What the Numbers Really Tell Us](https://medium.com/@its.shoryabisht/correlation-is-not-regression-understanding-what-the-numbers-really-tell-us-9518d75eafc6?source=rss------data_science-5)
+- [The Dog on the Sill](https://medium.com/@leogouk/the-dog-on-the-sill-2ad98a2347e7?source=rss------data_science-5)
+- [Time-Zone Conversion Bugs in SQL That SHIFT Daily Sales Into the Wrong Date](https://medium.com/@Rohan_Dutt/time-zone-conversion-bugs-in-sql-that-shift-daily-sales-into-the-wrong-date-9c2e7fbf4efc?source=rss------data_science-5)
+- [GROUP BY vs Window Functions in SQL and How Memory Spills Crash Large Queries](https://medium.com/@Rohan_Dutt/group-by-vs-window-functions-in-sql-and-how-memory-spills-crash-large-queries-dd67bc36efb8?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
