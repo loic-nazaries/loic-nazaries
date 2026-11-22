@@ -105,16 +105,15 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Russia Lost Starlink. So It Built a Flying Internet Out of Drones — The Mesh Now Reaches 175 km.](https://medium.com/@862194622/russia-lost-starlink-so-it-built-a-flying-internet-out-of-drones-the-mesh-now-reaches-175-km-2b16895b2cc9?source=rss------data_science-5)
-- [12 AI Concepts You Must Know Before You Build Your First AI Agent](https://medium.com/ai-engineering-simplified/12-ai-concepts-you-must-know-before-you-build-your-first-ai-agent-e79264e821b3?source=rss------data_science-5)
-- [The Unscientific Pursuit of Scientific Progress](https://robins-hood.medium.com/the-unscientific-pursuit-of-scientific-progress-974093c3e4bb?source=rss------data_science-5)
-- [We Are Very Small](https://medium.com/@strings4/we-are-very-small-0c02ea7c000e?source=rss------data_science-5)
-- [Two Customers, One Last Item: How to Stop Overselling in Postgres](https://alexandra272003.medium.com/two-customers-one-last-item-how-to-stop-overselling-in-postgres-20d4f165a0c4?source=rss------data_science-5)
-- [Why Average Values Can Be Dangerous in Business Analysis](https://medium.com/@farooqumer845/why-average-values-can-be-dangerous-in-business-analysis-3a027a01c77a?source=rss------data_science-5)
-- [Correlation Is Not Regression: Understanding What the Numbers Really Tell Us](https://medium.com/@its.shoryabisht/correlation-is-not-regression-understanding-what-the-numbers-really-tell-us-9518d75eafc6?source=rss------data_science-5)
-- [The Dog on the Sill](https://medium.com/@leogouk/the-dog-on-the-sill-2ad98a2347e7?source=rss------data_science-5)
-- [Time-Zone Conversion Bugs in SQL That SHIFT Daily Sales Into the Wrong Date](https://medium.com/@Rohan_Dutt/time-zone-conversion-bugs-in-sql-that-shift-daily-sales-into-the-wrong-date-9c2e7fbf4efc?source=rss------data_science-5)
-- [GROUP BY vs Window Functions in SQL and How Memory Spills Crash Large Queries](https://medium.com/@Rohan_Dutt/group-by-vs-window-functions-in-sql-and-how-memory-spills-crash-large-queries-dd67bc36efb8?source=rss------data_science-5)
+- [AI Master&#39;s Programmes in Finland: Universities and Requirements](https://medium.com/@studyinfinlandbd01/ai-masters-programmes-in-finland-universities-and-requirements-b102834b3a92?source=rss------data_science-5)
+- [ETL, ELT, and Airflow: Essential Patterns for Reliable Data Pipelines](https://medium.com/@mauriziomammuccini/etl-elt-and-airflow-essential-patterns-for-reliable-data-pipelines-f17d457eb469?source=rss------data_science-5)
+- [B2B 인바운드 영업 전환율을 3배 바꾸는 ‘0.3초 웹훅 배정’과 ‘5분 골든타임’ 운영 설계](https://medium.com/@krcare365/b2b-%EC%9D%B8%EB%B0%94%EC%9A%B4%EB%93%9C-%EC%98%81%EC%97%85-%EC%A0%84%ED%99%98%EC%9C%A8%EC%9D%84-3%EB%B0%B0-%EB%B0%94%EA%BE%B8%EB%8A%94-0-3%EC%B4%88-%EC%9B%B9%ED%9B%85-%EB%B0%B0%EC%A0%95%EA%B3%BC-5%EB%B6%84-%EA%B3%A8%EB%93%A0%ED%83%80%EC%9E%84-%EC%9A%B4%EC%98%81-%EC%84%A4%EA%B3%84-f9f268ff9e46?source=rss------data_science-5)
+- [https://tr.ee/r4KVO5TkJ4](https://medium.com/@ari_23074/https-tr-ee-r4kvo5tkj4-fad4e41e7447?source=rss------data_science-5)
+- [5 Kesalahan Belajar Data Analyst yang Sering Dilakukan Pemula!](https://medium.com/@sahalabdillah14/5-kesalahan-belajar-data-analyst-yang-sering-dilakukan-pemula-9f3ccb29855f?source=rss------data_science-5)
+- [Optimizing Slow Power BI Reports](https://abhiks1999.medium.com/optimizing-slow-power-bi-reports-44170a9db0fa?source=rss------data_science-5)
+- [Launch Your IT Career with Java Full Stack Development!](https://medium.com/@gokulemexo/launch-your-it-career-with-java-full-stack-development-9bcecf185396?source=rss------data_science-5)
+- [Can Astrology Predict the Stock Market? We Ran 25 Tests on the Nifty](https://medium.com/@ambarj/can-astrology-predict-the-stock-market-we-ran-25-tests-on-the-nifty-889ef95ca732?source=rss------data_science-5)
+- [Evaluating LLM Systems:12/12 [Putting It Together: An Evaluation Plan]](https://medium.com/models-to-systems/evaluating-llm-systems-12-12-putting-it-together-an-evaluation-plan-aef432cfdc4f?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
