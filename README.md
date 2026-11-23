@@ -105,15 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [AI Master&#39;s Programmes in Finland: Universities and Requirements](https://medium.com/@studyinfinlandbd01/ai-masters-programmes-in-finland-universities-and-requirements-b102834b3a92?source=rss------data_science-5)
-- [ETL, ELT, and Airflow: Essential Patterns for Reliable Data Pipelines](https://medium.com/@mauriziomammuccini/etl-elt-and-airflow-essential-patterns-for-reliable-data-pipelines-f17d457eb469?source=rss------data_science-5)
-- [B2B 인바운드 영업 전환율을 3배 바꾸는 ‘0.3초 웹훅 배정’과 ‘5분 골든타임’ 운영 설계](https://medium.com/@krcare365/b2b-%EC%9D%B8%EB%B0%94%EC%9A%B4%EB%93%9C-%EC%98%81%EC%97%85-%EC%A0%84%ED%99%98%EC%9C%A8%EC%9D%84-3%EB%B0%B0-%EB%B0%94%EA%BE%B8%EB%8A%94-0-3%EC%B4%88-%EC%9B%B9%ED%9B%85-%EB%B0%B0%EC%A0%95%EA%B3%BC-5%EB%B6%84-%EA%B3%A8%EB%93%A0%ED%83%80%EC%9E%84-%EC%9A%B4%EC%98%81-%EC%84%A4%EA%B3%84-f9f268ff9e46?source=rss------data_science-5)
-- [https://tr.ee/r4KVO5TkJ4](https://medium.com/@ari_23074/https-tr-ee-r4kvo5tkj4-fad4e41e7447?source=rss------data_science-5)
-- [5 Kesalahan Belajar Data Analyst yang Sering Dilakukan Pemula!](https://medium.com/@sahalabdillah14/5-kesalahan-belajar-data-analyst-yang-sering-dilakukan-pemula-9f3ccb29855f?source=rss------data_science-5)
-- [Optimizing Slow Power BI Reports](https://abhiks1999.medium.com/optimizing-slow-power-bi-reports-44170a9db0fa?source=rss------data_science-5)
-- [Launch Your IT Career with Java Full Stack Development!](https://medium.com/@gokulemexo/launch-your-it-career-with-java-full-stack-development-9bcecf185396?source=rss------data_science-5)
-- [Can Astrology Predict the Stock Market? We Ran 25 Tests on the Nifty](https://medium.com/@ambarj/can-astrology-predict-the-stock-market-we-ran-25-tests-on-the-nifty-889ef95ca732?source=rss------data_science-5)
-- [Evaluating LLM Systems:12/12 [Putting It Together: An Evaluation Plan]](https://medium.com/models-to-systems/evaluating-llm-systems-12-12-putting-it-together-an-evaluation-plan-aef432cfdc4f?source=rss------data_science-5)
+- [BCA Specializations: Artificial Intelligence, Cybersecurity and Data Science Explained](https://medium.com/@universityguru2025/bca-specializations-artificial-intelligence-cybersecurity-and-data-science-explained-34dd8fdb1cde?source=rss------data_science-5)
+- [How to Evaluate an Online Technical Training Platform Before Enrolling: 10 Things Every Student…](https://medium.com/@elevanceskills/how-to-evaluate-an-online-technical-training-platform-before-enrolling-10-things-every-student-3b6349e5cbd8?source=rss------data_science-5)
+- [A Comparative Study of High-Cardinality Encoding Techniques: Which One Works Best?](https://medium.com/@lakshmisaisudhap/a-comparative-study-of-high-cardinality-encoding-techniques-which-one-works-best-ed13c17d941c?source=rss------data_science-5)
+- [10 GitHub Repositories I Wish I Had Discovered Much Earlier](https://medium.com/codetodeploy/10-github-repositories-i-wish-i-had-discovered-much-earlier-5f216e382af6?source=rss------data_science-5)
+- [I Learned SQL the Slow Way. Here’s How Juniors Can Build the Same Instincts With AI](https://medium.com/towards-data-engineering/i-learned-sql-the-slow-way-heres-how-juniors-can-build-the-same-instincts-with-ai-7e4a47bce87e?source=rss------data_science-5)
+- [I Didn’t Expect These 10 GitHub Projects to Be This Useful](https://python.plainenglish.io/i-didnt-expect-these-10-github-projects-to-be-this-useful-3aba1c503718?source=rss------data_science-5)
+- [How Much Structure Does a Token Carry?](https://medium.com/@tmcrg85/how-much-structure-does-a-token-carry-4e945b2064f0?source=rss------data_science-5)
+- [FTC Probes Personalized Pricing: 9 Firms | Breaking USA News](https://medium.com/@sumbalabbas45/ftc-probes-personalized-pricing-9-firms-breaking-usa-news-a3ac7af1ffac?source=rss------data_science-5)
+- [Build a No-Code Chatbot With IBM watsonx Assistant &lpar;Step by Step&rpar;](https://medium.com/@ayorindeolamilekan2003/build-a-no-code-chatbot-with-ibm-watsonx-assistant-step-by-step-2d5b5ac8ef8b?source=rss------data_science-5)
+- [I Found 10 GitHub Projects That Deserve Way More Attention](https://python.plainenglish.io/i-found-10-github-projects-that-deserve-way-more-attention-5bcd1ca95245?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
