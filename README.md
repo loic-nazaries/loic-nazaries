@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [BCA Specializations: Artificial Intelligence, Cybersecurity and Data Science Explained](https://medium.com/@universityguru2025/bca-specializations-artificial-intelligence-cybersecurity-and-data-science-explained-34dd8fdb1cde?source=rss------data_science-5)
-- [How to Evaluate an Online Technical Training Platform Before Enrolling: 10 Things Every Student…](https://medium.com/@elevanceskills/how-to-evaluate-an-online-technical-training-platform-before-enrolling-10-things-every-student-3b6349e5cbd8?source=rss------data_science-5)
-- [A Comparative Study of High-Cardinality Encoding Techniques: Which One Works Best?](https://medium.com/@lakshmisaisudhap/a-comparative-study-of-high-cardinality-encoding-techniques-which-one-works-best-ed13c17d941c?source=rss------data_science-5)
-- [10 GitHub Repositories I Wish I Had Discovered Much Earlier](https://medium.com/codetodeploy/10-github-repositories-i-wish-i-had-discovered-much-earlier-5f216e382af6?source=rss------data_science-5)
-- [I Learned SQL the Slow Way. Here’s How Juniors Can Build the Same Instincts With AI](https://medium.com/towards-data-engineering/i-learned-sql-the-slow-way-heres-how-juniors-can-build-the-same-instincts-with-ai-7e4a47bce87e?source=rss------data_science-5)
-- [I Didn’t Expect These 10 GitHub Projects to Be This Useful](https://python.plainenglish.io/i-didnt-expect-these-10-github-projects-to-be-this-useful-3aba1c503718?source=rss------data_science-5)
-- [How Much Structure Does a Token Carry?](https://medium.com/@tmcrg85/how-much-structure-does-a-token-carry-4e945b2064f0?source=rss------data_science-5)
-- [FTC Probes Personalized Pricing: 9 Firms | Breaking USA News](https://medium.com/@sumbalabbas45/ftc-probes-personalized-pricing-9-firms-breaking-usa-news-a3ac7af1ffac?source=rss------data_science-5)
-- [Build a No-Code Chatbot With IBM watsonx Assistant &lpar;Step by Step&rpar;](https://medium.com/@ayorindeolamilekan2003/build-a-no-code-chatbot-with-ibm-watsonx-assistant-step-by-step-2d5b5ac8ef8b?source=rss------data_science-5)
-- [I Found 10 GitHub Projects That Deserve Way More Attention](https://python.plainenglish.io/i-found-10-github-projects-that-deserve-way-more-attention-5bcd1ca95245?source=rss------data_science-5)
+- [Your AI Agent Needs a Retry Strategy, Not Just a Better Prompt](https://medium.com/@tajamulkhan/your-ai-agent-needs-a-retry-strategy-not-just-a-better-prompt-ed58ec7973c3?source=rss------data_science-5)
+- [Double Machine Learning: Using Prediction Models for Causal Effects, Safely](https://medium.com/@izzetcansorna/double-machine-learning-using-prediction-models-for-causal-effects-safely-9431de1f5dfb?source=rss------data_science-5)
+- [Why SETI Is Listening to the Wrong Frequency — And What TRAPPIST-1 Tells Us About Where to Look](https://dmitryryzhikh.medium.com/why-seti-is-listening-to-the-wrong-frequency-and-what-trappist-1-tells-us-about-where-to-look-8626aa84ca49?source=rss------data_science-5)
+- [My Racing AI Now Covers Japan’s Local Dirt Graded Races](https://medium.com/@northern1.kita1/my-racing-ai-now-covers-japans-local-dirt-graded-races-7c8b2a82de02?source=rss------data_science-5)
+- [New tools for the Intelligence Era](https://medium.com/@lindsay.hiebert/new-tools-for-the-intelligence-era-04f0d43bbbbc?source=rss------data_science-5)
+- [Cortisol Isn’t the Villain. The Science of the “Stress Hormone” Parul Researchers Are Measuring](https://medium.com/@anjali.shah44350/cortisol-isnt-the-villain-the-science-of-the-stress-hormone-parul-researchers-are-measuring-d67494693af1?source=rss------data_science-5)
+- [The $400K Data Engineering Skill You Can Learn on Your Laptop](https://blog.stackademic.com/the-400k-data-engineering-skill-you-can-learn-on-your-laptop-692cd599d384?source=rss------data_science-5)
+- [The Engineering Knowledge That Makes You Worth More Than Your Job Title](https://medium.com/engineering-playbook/the-engineering-knowledge-that-makes-you-worth-more-than-your-job-title-efaec0f7990d?source=rss------data_science-5)
+- [I Didn&#39;t Just Earn a Certificate. I Overcame a Challenge.](https://medium.com/@idrisyusuff/i-didnt-just-earn-a-certificate-i-overcame-a-challenge-7cb09abc9dc8?source=rss------data_science-5)
+- [AI Models Explained: From Text Classification to Language Understanding](https://medium.com/codetodeploy/ai-models-explained-from-text-classification-to-language-understanding-df6c6cf03555?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
