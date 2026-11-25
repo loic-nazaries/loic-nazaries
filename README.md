@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Your AI Agent Needs a Retry Strategy, Not Just a Better Prompt](https://medium.com/@tajamulkhan/your-ai-agent-needs-a-retry-strategy-not-just-a-better-prompt-ed58ec7973c3?source=rss------data_science-5)
-- [Double Machine Learning: Using Prediction Models for Causal Effects, Safely](https://medium.com/@izzetcansorna/double-machine-learning-using-prediction-models-for-causal-effects-safely-9431de1f5dfb?source=rss------data_science-5)
-- [Why SETI Is Listening to the Wrong Frequency — And What TRAPPIST-1 Tells Us About Where to Look](https://dmitryryzhikh.medium.com/why-seti-is-listening-to-the-wrong-frequency-and-what-trappist-1-tells-us-about-where-to-look-8626aa84ca49?source=rss------data_science-5)
-- [My Racing AI Now Covers Japan’s Local Dirt Graded Races](https://medium.com/@northern1.kita1/my-racing-ai-now-covers-japans-local-dirt-graded-races-7c8b2a82de02?source=rss------data_science-5)
-- [New tools for the Intelligence Era](https://medium.com/@lindsay.hiebert/new-tools-for-the-intelligence-era-04f0d43bbbbc?source=rss------data_science-5)
-- [Cortisol Isn’t the Villain. The Science of the “Stress Hormone” Parul Researchers Are Measuring](https://medium.com/@anjali.shah44350/cortisol-isnt-the-villain-the-science-of-the-stress-hormone-parul-researchers-are-measuring-d67494693af1?source=rss------data_science-5)
-- [The $400K Data Engineering Skill You Can Learn on Your Laptop](https://blog.stackademic.com/the-400k-data-engineering-skill-you-can-learn-on-your-laptop-692cd599d384?source=rss------data_science-5)
-- [The Engineering Knowledge That Makes You Worth More Than Your Job Title](https://medium.com/engineering-playbook/the-engineering-knowledge-that-makes-you-worth-more-than-your-job-title-efaec0f7990d?source=rss------data_science-5)
-- [I Didn&#39;t Just Earn a Certificate. I Overcame a Challenge.](https://medium.com/@idrisyusuff/i-didnt-just-earn-a-certificate-i-overcame-a-challenge-7cb09abc9dc8?source=rss------data_science-5)
-- [AI Models Explained: From Text Classification to Language Understanding](https://medium.com/codetodeploy/ai-models-explained-from-text-classification-to-language-understanding-df6c6cf03555?source=rss------data_science-5)
+- [ML Part 05 — Data Splitting Technique for Model Training](https://medium.com/@ajay.pr.singh18/ml-part-05-data-splitting-technique-for-model-training-b9f41dcfbfb6?source=rss------data_science-5)
+- [How I keep long-running R jobs going with GNU Screen](https://medium.com/@nivedita.home/how-i-keep-long-running-r-jobs-going-with-gnu-screen-ade810c8f00f?source=rss------data_science-5)
+- [I Found 10 Underrated GitHub Projects That Deserve More Attention](https://medium.com/codetodeploy/i-found-10-underrated-github-projects-that-deserve-more-attention-769864944f60?source=rss------data_science-5)
+- [Data Analytics vs Data Science: Which Career Path Should You Choose?](https://medium.com/@sharpenertech7/data-analytics-vs-data-science-which-career-path-should-you-choose-5f701d17f793?source=rss------data_science-5)
+- [Anthropic Studied 207,049 Research Sessions. Here’s What Scientists Actually Do With Claude](https://medium.com/codetodeploy/anthropic-studied-207-049-research-sessions-heres-what-scientists-actually-do-with-claude-7fc2d42c4bd9?source=rss------data_science-5)
+- [I Explored GitHub for Hours. These 10 Projects Were Worth It](https://python.plainenglish.io/i-explored-github-for-hours-these-10-projects-were-worth-it-fb7fa02ed23a?source=rss------data_science-5)
+- [35 Days at the Berth: Can Satellite Intelligence Prove That Ukraine Knocked a Russian Submarine Out…](https://medium.com/@shahmeerswati99/35-days-at-the-berth-can-satellite-intelligence-prove-that-ukraine-knocked-a-russian-submarine-out-eb8fae629e94?source=rss------data_science-5)
+- [The Manufacture of Academic Credibility](https://medium.com/@jk1849716/the-manufacture-of-academic-credibility-f9a32deec6a2?source=rss------data_science-5)
+- [Athena: A Smart Career Intelligence System That Turns Scattered Placement Prep into One Readiness…](https://medium.com/@sujithjonnalagadda10/athena-a-smart-career-intelligence-system-that-turns-scattered-placement-prep-into-one-readiness-ce3ffe95a06f?source=rss------data_science-5)
+- [How Data Science Is Transforming Business Decisions in Dubai](https://medium.com/@nehawork68/how-data-science-is-transforming-business-decisions-in-dubai-93451d2ecfd0?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
