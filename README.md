@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [ML Part 05 — Data Splitting Technique for Model Training](https://medium.com/@ajay.pr.singh18/ml-part-05-data-splitting-technique-for-model-training-b9f41dcfbfb6?source=rss------data_science-5)
-- [How I keep long-running R jobs going with GNU Screen](https://medium.com/@nivedita.home/how-i-keep-long-running-r-jobs-going-with-gnu-screen-ade810c8f00f?source=rss------data_science-5)
-- [I Found 10 Underrated GitHub Projects That Deserve More Attention](https://medium.com/codetodeploy/i-found-10-underrated-github-projects-that-deserve-more-attention-769864944f60?source=rss------data_science-5)
-- [Data Analytics vs Data Science: Which Career Path Should You Choose?](https://medium.com/@sharpenertech7/data-analytics-vs-data-science-which-career-path-should-you-choose-5f701d17f793?source=rss------data_science-5)
-- [Anthropic Studied 207,049 Research Sessions. Here’s What Scientists Actually Do With Claude](https://medium.com/codetodeploy/anthropic-studied-207-049-research-sessions-heres-what-scientists-actually-do-with-claude-7fc2d42c4bd9?source=rss------data_science-5)
-- [I Explored GitHub for Hours. These 10 Projects Were Worth It](https://python.plainenglish.io/i-explored-github-for-hours-these-10-projects-were-worth-it-fb7fa02ed23a?source=rss------data_science-5)
-- [35 Days at the Berth: Can Satellite Intelligence Prove That Ukraine Knocked a Russian Submarine Out…](https://medium.com/@shahmeerswati99/35-days-at-the-berth-can-satellite-intelligence-prove-that-ukraine-knocked-a-russian-submarine-out-eb8fae629e94?source=rss------data_science-5)
-- [The Manufacture of Academic Credibility](https://medium.com/@jk1849716/the-manufacture-of-academic-credibility-f9a32deec6a2?source=rss------data_science-5)
-- [Athena: A Smart Career Intelligence System That Turns Scattered Placement Prep into One Readiness…](https://medium.com/@sujithjonnalagadda10/athena-a-smart-career-intelligence-system-that-turns-scattered-placement-prep-into-one-readiness-ce3ffe95a06f?source=rss------data_science-5)
-- [How Data Science Is Transforming Business Decisions in Dubai](https://medium.com/@nehawork68/how-data-science-is-transforming-business-decisions-in-dubai-93451d2ecfd0?source=rss------data_science-5)
+- [Champions, Co-Creators, and Forward-Deployed CTOs](https://medium.com/thriving-in-engineering/champions-co-creators-and-forward-deployed-ctos-7b9b84551fc9?source=rss------data_science-5)
+- [10 Web Development Tools That Quietly Changed How I Build Projects](https://python.plainenglish.io/10-web-development-tools-that-quietly-changed-how-i-build-projects-5523375b96e8?source=rss------data_science-5)
+- [The Death of Grit: How Over-Reliance on AI Fuels Lazy Learning](https://medium.com/@uzairg/the-death-of-grit-how-over-reliance-on-ai-fuels-lazy-learning-c18880709e01?source=rss------data_science-5)
+- [10 MCP Servers That Are More Powerful Than You Think](https://python.plainenglish.io/10-mcp-servers-that-are-more-powerful-than-you-think-13b945e7bde8?source=rss------data_science-5)
+- [10 Python Features That Feel Like Cheating Once You Discover Them](https://medium.com/codetodeploy/10-python-features-that-feel-like-cheating-once-you-discover-them-f61e42f84d1f?source=rss------data_science-5)
+- [Machine Learning course in Hyderabad](https://medium.com/@nayabmohammedmoin887/machine-learning-course-in-hyderabad-af48c6d46814?source=rss------data_science-5)
+- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-c51c110f1e62?source=rss------data_science-5)
+- [Is Git Finally Getting Too Old for Modern Development?](https://python.plainenglish.io/is-git-finally-getting-too-old-for-modern-development-1d69e56c2dc6?source=rss------data_science-5)
+- [Neon serverless Postgres: architecture, pricing, use cases, and tradeoffs](https://medium.com/@dataengineeringguide/ultimate-guide-to-neon-18ad94975aa2?source=rss------data_science-5)
+- [When the Average of Two Averages Gives You the Wrong Answer](https://mrjitofficial.medium.com/when-the-average-of-two-averages-gives-you-the-wrong-answer-5275d6b67e33?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
