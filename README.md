@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Champions, Co-Creators, and Forward-Deployed CTOs](https://medium.com/thriving-in-engineering/champions-co-creators-and-forward-deployed-ctos-7b9b84551fc9?source=rss------data_science-5)
-- [10 Web Development Tools That Quietly Changed How I Build Projects](https://python.plainenglish.io/10-web-development-tools-that-quietly-changed-how-i-build-projects-5523375b96e8?source=rss------data_science-5)
-- [The Death of Grit: How Over-Reliance on AI Fuels Lazy Learning](https://medium.com/@uzairg/the-death-of-grit-how-over-reliance-on-ai-fuels-lazy-learning-c18880709e01?source=rss------data_science-5)
-- [10 MCP Servers That Are More Powerful Than You Think](https://python.plainenglish.io/10-mcp-servers-that-are-more-powerful-than-you-think-13b945e7bde8?source=rss------data_science-5)
-- [10 Python Features That Feel Like Cheating Once You Discover Them](https://medium.com/codetodeploy/10-python-features-that-feel-like-cheating-once-you-discover-them-f61e42f84d1f?source=rss------data_science-5)
-- [Machine Learning course in Hyderabad](https://medium.com/@nayabmohammedmoin887/machine-learning-course-in-hyderabad-af48c6d46814?source=rss------data_science-5)
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-c51c110f1e62?source=rss------data_science-5)
-- [Is Git Finally Getting Too Old for Modern Development?](https://python.plainenglish.io/is-git-finally-getting-too-old-for-modern-development-1d69e56c2dc6?source=rss------data_science-5)
-- [Neon serverless Postgres: architecture, pricing, use cases, and tradeoffs](https://medium.com/@dataengineeringguide/ultimate-guide-to-neon-18ad94975aa2?source=rss------data_science-5)
-- [When the Average of Two Averages Gives You the Wrong Answer](https://mrjitofficial.medium.com/when-the-average-of-two-averages-gives-you-the-wrong-answer-5275d6b67e33?source=rss------data_science-5)
+- [Christmas Shipping Deadlines 2026 | Breaking USA News](https://medium.com/@sumbalabbas45/christmas-shipping-deadlines-2026-breaking-usa-news-d714df607c23?source=rss------data_science-5)
+- [He Built Tools Developers Rely On. Then Python’s Leadership Cut Ties](https://medium.com/codetodeploy/he-built-tools-developers-rely-on-then-pythons-leadership-cut-ties-568e29a974a6?source=rss------data_science-5)
+- [Data Analyst vs Data Scientist: Which Career Path Should You Choose?](https://medium.com/@boston.mahanta/data-analyst-vs-data-scientist-which-career-path-should-you-choose-61b50b0cc00a?source=rss------data_science-5)
+- [1 in 8 tech job posts has been up for six months. We tracked 66,000 of them.](https://medium.com/@theaiwins/1-in-8-tech-job-posts-has-been-up-for-six-months-we-tracked-66-000-of-them-45df31b1faab?source=rss------data_science-5)
+- [Billions Depend on His Code. So Why Did Python Ban Him?](https://python.plainenglish.io/billions-depend-on-his-code-so-why-did-python-ban-him-d2b4f6d8767d?source=rss------data_science-5)
+- [Online Data Science Training in Pune vs Classroom Learning: Which Is Right for You?](https://medium.com/@boston.mahanta/online-data-science-training-in-pune-vs-classroom-learning-which-is-right-for-you-8d1a877bf072?source=rss------data_science-5)
+- [How a Developer Behind Widely Used Python Code Became an Outsider](https://python.plainenglish.io/how-a-developer-behind-widely-used-python-code-became-an-outsider-71343f92b876?source=rss------data_science-5)
+- [The Data Behind the Dashboard](https://medium.com/@damolade99/the-data-behind-the-dashboard-2e658290e334?source=rss------data_science-5)
+- [Can a Job’s Skills Tell You How Much Preparation It Needs?](https://medium.com/inst414-data-science-tech/can-a-jobs-skills-tell-you-how-much-preparation-it-needs-cf5f45169303?source=rss------data_science-5)
+- [10 Python Tricks I Didn’t Appreciate Until I Built Real Projects](https://medium.com/codetodeploy/10-python-tricks-i-didnt-appreciate-until-i-built-real-projects-c1095f2ada92?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
