@@ -105,16 +105,16 @@ And of course, you may find me on the 'Usual Suspects', that are &nbsp;
 ### :newspaper: Latest Medium Stories in **Data Science**
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [Christmas Shipping Deadlines 2026 | Breaking USA News](https://medium.com/@sumbalabbas45/christmas-shipping-deadlines-2026-breaking-usa-news-d714df607c23?source=rss------data_science-5)
-- [He Built Tools Developers Rely On. Then Python’s Leadership Cut Ties](https://medium.com/codetodeploy/he-built-tools-developers-rely-on-then-pythons-leadership-cut-ties-568e29a974a6?source=rss------data_science-5)
-- [Data Analyst vs Data Scientist: Which Career Path Should You Choose?](https://medium.com/@boston.mahanta/data-analyst-vs-data-scientist-which-career-path-should-you-choose-61b50b0cc00a?source=rss------data_science-5)
-- [1 in 8 tech job posts has been up for six months. We tracked 66,000 of them.](https://medium.com/@theaiwins/1-in-8-tech-job-posts-has-been-up-for-six-months-we-tracked-66-000-of-them-45df31b1faab?source=rss------data_science-5)
-- [Billions Depend on His Code. So Why Did Python Ban Him?](https://python.plainenglish.io/billions-depend-on-his-code-so-why-did-python-ban-him-d2b4f6d8767d?source=rss------data_science-5)
-- [Online Data Science Training in Pune vs Classroom Learning: Which Is Right for You?](https://medium.com/@boston.mahanta/online-data-science-training-in-pune-vs-classroom-learning-which-is-right-for-you-8d1a877bf072?source=rss------data_science-5)
-- [How a Developer Behind Widely Used Python Code Became an Outsider](https://python.plainenglish.io/how-a-developer-behind-widely-used-python-code-became-an-outsider-71343f92b876?source=rss------data_science-5)
-- [The Data Behind the Dashboard](https://medium.com/@damolade99/the-data-behind-the-dashboard-2e658290e334?source=rss------data_science-5)
-- [Can a Job’s Skills Tell You How Much Preparation It Needs?](https://medium.com/inst414-data-science-tech/can-a-jobs-skills-tell-you-how-much-preparation-it-needs-cf5f45169303?source=rss------data_science-5)
-- [10 Python Tricks I Didn’t Appreciate Until I Built Real Projects](https://medium.com/codetodeploy/10-python-tricks-i-didnt-appreciate-until-i-built-real-projects-c1095f2ada92?source=rss------data_science-5)
+- [Why 99% Accuracy Can Be Misleading in Fraud Detection](https://medium.com/@burakkilic408/why-99-accuracy-can-be-misleading-in-fraud-detection-36d953c71641?source=rss------data_science-5)
+- [10 GitHub Repos That Replace Expensive Software](https://python.plainenglish.io/10-github-repos-that-replace-expensive-software-a5e859f4ecd2?source=rss------data_science-5)
+- [Similarity Transformations: Changing Coordinates Without Changing the Transformation](https://medium.com/@anupamapb/similarity-transformations-changing-coordinates-without-changing-the-transformation-5a8786a08c18?source=rss------data_science-5)
+- [10 Python Tricks That Quietly Became Part of My Workflow](https://medium.com/codetodeploy/10-python-tricks-that-quietly-became-part-of-my-workflow-d8201a0d70c8?source=rss------data_science-5)
+- [8 Browser DevTools Tricks That Feel Like Developer Cheat Codes](https://python.plainenglish.io/8-browser-devtools-tricks-that-feel-like-developer-cheat-codes-3f3a3fde2847?source=rss------data_science-5)
+- [The US-China AI War Is Becoming a Problem for Southeast Asia. Who Really Pays the Price?](https://medium.com/@phanthimynhu2308ctho/the-us-china-ai-war-is-becoming-a-problem-for-southeast-asia-who-really-pays-the-price-149d73e8a457?source=rss------data_science-5)
+- [I Stopped Writing JavaScript Like a Beginner After Learning These 8 Tricks](https://javascript.plainenglish.io/i-stopped-writing-javascript-like-a-beginner-after-learning-these-8-tricks-fa76700623f4?source=rss------data_science-5)
+- [Review: Philips Hue Signe Smart Table Lamp vs Govee Table Lamp 2 — Which One Is Worth Your Money in…](https://medium.com/@econex23/review-philips-hue-signe-smart-table-lamp-vs-govee-table-lamp-2-which-one-is-worth-your-money-in-ade12d225683?source=rss------data_science-5)
+- [Someone Has to Know](https://medium.com/@maedeh.torkian/someone-has-to-know-29a03cb476b0?source=rss------data_science-5)
+- [Predicting When a Machine Will Fail: What NASA&#39;s Turbofan Data Taught Me](https://medium.com/@affanaftab786/predicting-when-a-machine-will-fail-what-nasas-turbofan-data-taught-me-ffe42924c3ce?source=rss------data_science-5)
 <!-- MEDIUM-STORY-LIST:END -->
 
 &nbsp;
